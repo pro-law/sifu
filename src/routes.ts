@@ -54,19 +54,20 @@ router.addHandler('detail', async ({ request, page, log, session }) => {
     title === 'THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam' ||
     request.loadedUrl?.includes('checkvb.aspx')
   ) {
-    log.warning('Captcha detected. Retrying...', { url: request.url })
-
     session?.retire()
     await sleep(1000)
 
     throw new Error('Captcha detected')
   }
 
-  log.info(`${title}`)
+  log.info(`${title} (${request.retryCount})`)
 
   // Get document properties from the table in tab "Thuộc tính"
-  await page.click('#ctl00_Content_ctl00_spThuocTinh')
-  await page.waitForSelector('#divThuocTinh')
+  await page.click('#ctl00_Content_ctl00_spThuocTinh', { force: true })
+  await page.waitForSelector('#divThuocTinh', {
+    timeout: 10000,
+    state: 'attached',
+  })
 
   const table = await page.$('#divThuocTinh > table')
   const rows = (await table?.$$('tr')) ?? []
@@ -91,8 +92,11 @@ router.addHandler('detail', async ({ request, page, log, session }) => {
   }
 
   // Get document content from the tab "Nội dung"
-  await page.click('#ctl00_Content_ctl00_spNoiDung')
-  await page.waitForSelector('#divContentDoc')
+  await page.click('#ctl00_Content_ctl00_spNoiDung', { force: true })
+  await page.waitForSelector('#divContentDoc', {
+    timeout: 10000,
+    state: 'attached',
+  })
   const rawContent = await page.$eval(
     '#divContentDoc > .content1',
     (el) => el.textContent?.trim() ?? '',
