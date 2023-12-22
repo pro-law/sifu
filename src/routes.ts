@@ -103,6 +103,12 @@ router.addHandler('detail', async ({ request, page, log, session }) => {
   )
   const content = normalizeContent(rawContent)
 
+  // Skip documents if it's not updated
+  if (content.includes('Văn bản này đang cập nhật Nội dung => Bạn vui lòng \"Tải về\" để xem')) {
+    log.info(`Document is not updated. Skipping...`)
+    return
+  }
+
   // Store the document content to a file
   const __filename = fileURLToPath(import.meta.url)
   const __dirname = path.dirname(__filename)
