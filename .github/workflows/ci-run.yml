@@ -1,0 +1,68 @@
+name: CI Runner
+
+on:
+  workflow_dispatch:
+
+env:
+  CI_RUNNER: true
+  CRAWLEE_STORAGE_DIR: 'ci-storage'
+  CRAWLEE_PURGE_ON_START: 0
+  MAX_REQUESTS_PER_CRAWL: 10
+  TVPL_USERNAME: ${{ secrets.TVPL_USERNAME }}
+  TVPL_PASSWORD: ${{ secrets.TVPL_PASSWORD }}
+  TVPL_MEMBER_GA: ${{ secrets.TVPL_MEMBER_GA }}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+      - uses: pnpm/action-setup@v2
+        name: Install pnpm
+        with:
+          version: 8
+          run_install: false
+
+      - name: Get pnpm store directory
+        shell: bash
+        run: |
+          echo "STORE_PATH=$(pnpm store path --silent)" >> $GITHUB_ENV
+      - uses: actions/cache@v3
+        name: Setup pnpm cache
+        with:
+          path: ${{ env.STORE_PATH }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run
+        run: pnpm run start:ci
+
+      - name: Should amend if the last commit message is the same
+        id: should-amend
+        run: |
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=format:%s)
+          echo "Last commit message: $LAST_COMMIT_MESSAGE"
+          if [[ $LAST_COMMIT_MESSAGE == "chore(documents): update documents [skip ci]" ]]; then
+            echo "::set-output name=should-amend::true"
+          else
+            echo "::set-output name=should-amend::false"
+          fi
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          message: 'chore(documents): update documents [skip ci]'
+          force: ${{ steps.should-amend.outputs.should-amend }}
+          amend: ${{ steps.should-amend.outputs.should-amend }}

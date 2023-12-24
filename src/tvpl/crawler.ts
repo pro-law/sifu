@@ -1,17 +1,21 @@
-// For more information, see https://crawlee.dev/
 import { PlaywrightCrawler } from 'crawlee'
 import { startUrls, tvplRouter } from './router'
 
 const crawler = new PlaywrightCrawler({
   headless: true,
   requestHandler: tvplRouter,
-  sameDomainDelaySecs: 1,
   maxConcurrency: 1,
-  browserPoolOptions: {
-    useFingerprints: false,
+  launchContext: {
+    useIncognitoPages: true,
+    launchOptions: {
+      slowMo: 200,
+    },
   },
   // Comment this option to scrape the full website.
-  // maxRequestsPerCrawl: 10,
+  maxRequestsPerCrawl: process.env.MAX_REQUESTS_PER_CRAWL
+    ? +process.env.MAX_REQUESTS_PER_CRAWL
+    : undefined,
+  sameDomainDelaySecs: 2,
 })
 
 async function crawlTVPL() {

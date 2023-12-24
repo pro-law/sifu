@@ -1,5 +1,5 @@
 import { createPlaywrightRouter, sleep } from 'crawlee'
-import { verifySignedIn } from './verify-signed-in'
+import { clearCookies, verifySignedIn } from './verify-signed-in'
 import { Page } from 'playwright'
 import { Document, RelatedDocument } from './types'
 import { fileURLToPath } from 'url'
@@ -52,11 +52,13 @@ tvplRouter.addHandler('detail', async ({ request, page, log, session }) => {
   const title = await page.title()
 
   if (
-    title === 'THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam' ||
+    title === 'THƯ VIỆN PHÁP LUẬT - Captcha' ||
     request.loadedUrl?.includes('checkvb.aspx')
   ) {
     session?.retire()
     await sleep(1000)
+
+    await clearCookies({ page, log })
 
     throw new Error('Captcha detected')
   }
@@ -66,7 +68,7 @@ tvplRouter.addHandler('detail', async ({ request, page, log, session }) => {
   // Extract document properties from the table in tab "Lược đồ"
   await page.click('#ctl00_Content_ctl00_spLuocDo', { force: true })
   await page.waitForSelector('#viewingDocument', {
-    timeout: 10000,
+    timeout: 5000,
     state: 'attached',
   })
 

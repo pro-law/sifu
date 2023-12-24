@@ -54,15 +54,24 @@ async function signIn({ page, log }: { page: Page; log: Log }) {
   log.info('Signing in...')
 
   // If there is a warning '#logoutfrom', close it
-  const logoutForm = await page.$('#logoutfrom')
+  const logoutForm = await page.$('#logoutfrom', { strict: true })
 
   if (logoutForm) {
-    await page.click(
-      'div[aria-labelledby="ui-dialog-title-logoutfrom"] button.ui-button:has-text("Thoát")',
-    )
-    await sleep(1000)
+    try {
+      await page.click(
+        'div[aria-labelledby="ui-dialog-title-logoutfrom"] button.ui-button:has-text("Thoát")',
+        { force: true, timeout: 3000 },
+      )
+      await sleep(1000)
+    } catch {}
   }
-  
+
+  if (await page.$('#TB_closeWindowButton')) {
+    log.info('Closing popup...')
+    try {
+      await page.click('#TB_closeWindowButton', { force: true, timeout: 3000 })
+    } catch {}
+  }
 
   await page.fill('input#usernameTextBox', config.TVPL_USERNAME)
   await page.fill('input#passwordTextBox', config.TVPL_PASSWORD)
@@ -94,11 +103,21 @@ async function saveCookies({ page, log }: { page: Page; log: Log }) {
 }
 
 async function loadCookies({ page, log }: { page: Page; log: Log }) {
-  const cookies = JSON.parse(await readFile(join(COOKIES_FILE_PATH), 'utf8'))
+  try {
+    const cookies = JSON.parse(await readFile(join(COOKIES_FILE_PATH), 'utf8'))
 
-  await page.context().addCookies(cookies)
+    await page.context().addCookies(cookies)
 
-  log.info(`Cookies loaded from ${COOKIES_FILE_PATH}`)
+    log.info(`Cookies loaded from ${COOKIES_FILE_PATH}`)
+  } catch {}
 }
 
-export { verifySignedIn }
+async function clearCookies({ page, log }: { page: Page; log: Log }) {
+  await page.context().clearCookies()
+
+  await writeFile(COOKIES_FILE_PATH, '', 'utf8')
+
+  log.info(`Cookies cleared`)
+}
+
+export { verifySignedIn, clearCookies }
