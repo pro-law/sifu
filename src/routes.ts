@@ -25,7 +25,12 @@ router.addDefaultHandler(async ({ enqueueLinks, log }) => {
   log.info(`Starting TVPL crawler...`)
 
   await enqueueLinks({
-    urls: ['https://thuvienphapluat.vn/page/tim-van-ban.aspx'],
+    // urls: ['https://thuvienphapluat.vn/page/tim-van-ban.aspx'],
+    urls: [
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=luat',
+      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh',
+      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=th%C3%B4ng%20t%C6%B0'
+    ],
     label: 'list',
   })
 })
@@ -104,7 +109,11 @@ router.addHandler('detail', async ({ request, page, log, session }) => {
   const content = normalizeContent(rawContent)
 
   // Skip documents if it's not updated
-  if (content.includes('Văn bản này đang cập nhật Nội dung => Bạn vui lòng \"Tải về\" để xem')) {
+  if (
+    content.includes(
+      'Văn bản này đang cập nhật Nội dung => Bạn vui lòng "Tải về" để xem',
+    )
+  ) {
     log.info(`Document is not updated. Skipping...`)
     return
   }
