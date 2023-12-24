@@ -1,0 +1,9 @@
+{
+	"id": "TbDAFrob6PVyjQp",
+	"json": "{\"id\":\"TbDAFrob6PVyjQp\",\"url\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Quyet-dinh-18-2021-QD-TTg-du-bao-canh-bao-truyen-tin-thien-tai-va-cap-do-rui-ro-thien-tai-471715.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Quyet-dinh-18-2021-QD-TTg-du-bao-canh-bao-truyen-tin-thien-tai-va-cap-do-rui-ro-thien-tai-471715.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Quyet-dinh-18-2021-QD-TTg-du-bao-canh-bao-truyen-tin-thien-tai-va-cap-do-rui-ro-thien-tai-471715.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.waitForSelector: Timeout 10000ms exceeded.\\nCall log:\\n  - waiting for locator('#viewingDocument')\\n\\n    at <anonymous> (/home/runner/work/sifu/sifu/src/tvpl/router.ts:99:16)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-12-25T02:02:59.094Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Quyet-dinh-18-2021-QD-TTg-du-bao-canh-bao-truyen-tin-thien-tai-va-cap-do-rui-ro-thien-tai-471715.aspx",
+	"url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Quyet-dinh-18-2021-QD-TTg-du-bao-canh-bao-truyen-tin-thien-tai-va-cap-do-rui-ro-thien-tai-471715.aspx"
+}

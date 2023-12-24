@@ -1,0 +1,511 @@
+{
+  "title": "Quyết định 20/2012/QĐ-UBND về chế độ thu, nộp, quản lý và sử dụng phí sử dụng cảng cá, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Nghị quyết 05/2012/NQ-HĐND quy định mức thu phí sử dụng cảng cá, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định",
+      "id": "05/2012/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Phạm Hồng Hà"
+      ],
+      "issuedDate": "2012-07-06",
+      "effectiveDate": "2012-07-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 24/12/2016"
+    },
+    {
+      "title": "Thông tư 97/2006/TT-BTC về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương do Bộ Tài chính ban hành",
+      "id": "97/2006/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2006-10-16",
+      "effectiveDate": "2006-11-12",
+      "gazetteDate": "2006-10-28",
+      "gazetteNumber": "Từ số 57 đến số 58",
+      "status": "Hết hiệu lực: 17/02/2014"
+    },
+    {
+      "title": "Thông tư 45/2006/TT-BTC sửa đổi Thông tư 63/2002/TT-BTC hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí do Bộ Tài chính ban hành",
+      "id": "45/2006/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2006-05-25",
+      "effectiveDate": "2006-06-18",
+      "gazetteDate": "2006-06-03",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị định 24/2006/NĐ-CP Sửa đổi Nghị định 57/2002/NĐ-CP Hướng dẫn Pháp lệnh Phí và Lệ phí",
+      "id": "24/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-03-06",
+      "effectiveDate": "2006-03-30",
+      "gazetteDate": "2006-03-15",
+      "gazetteNumber": "Từ số 14 đến số 15",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Thông tư 63/2002/TT-BTC hướng dẫn các quy định pháp luật về phí và lệ phí do Bộ Tài chính ban hành",
+      "id": "63/2002/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2002-07-24",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2002-08-31",
+      "gazetteNumber": "Số 42",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị định 57/2002/NĐ-CP Hướng dẫn Pháp lệnh phí và lệ phí",
+      "id": "57/2002/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2002-06-03",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2002-07-05",
+      "gazetteNumber": "Số 31",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Pháp lệnh phí và lệ phí năm 2001",
+      "id": "38/2001/PL-UBTVQH10",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2001-08-28",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2001-12-08",
+      "gazetteNumber": "Số 45",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 13/2017/QĐ-UBND Quy định khung giá dịch vụ sử dụng cảng cá trên địa bàn tỉnh Nam Định",
+      "id": "13/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Ngô Gia Tự"
+      ],
+      "issuedDate": "2017-06-21",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 211/QĐ-UBND năm 2018 công bố danh mục \"Văn bản quy phạm pháp luật do Hội đồng nhân dân và Ủy ban nhân dân tỉnh Nam Định ban hành” hết hiệu lực toàn bộ: hết hiệu lực một phần",
+      "id": "211/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Phạm Đình Nghị"
+      ],
+      "issuedDate": "2018-01-26",
+      "effectiveDate": "2018-01-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 405/QĐ-UBND năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân và Ủy ban nhân dân tỉnh Nam Định kỳ 2014-2018",
+      "id": "405/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Phạm Đình Nghị"
+      ],
+      "issuedDate": "2019-02-28",
+      "effectiveDate": "2019-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 08/2014/QĐ-UBND về chế độ thu, nộp, quản lý và sử dụng phí sử dụng cảng cá tại cảng, bến cá do Ban Quản lý Cảng cá Phan Thiết tỉnh Bình Thuận quản lý",
+      "id": "08/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Lê Tiến Phương"
+      ],
+      "issuedDate": "2014-02-10",
+      "effectiveDate": "2014-02-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/05/2021"
+    },
+    {
+      "title": "Quyết định 33/2013/QĐ-UBND quy định mức thu và quản lý, sử dụng phí sử dụng cảng cá và khu neo đậu tránh trú bão cho tàu cá trên địa bàn tỉnh Quảng Ngãi",
+      "id": "33/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Cao Khoa"
+      ],
+      "issuedDate": "2013-08-07",
+      "effectiveDate": "2013-08-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/01/2016"
+    },
+    {
+      "title": "Nghị quyết 39/NQ-HĐND năm 2013 bãi bỏ một số nội dung Nghị quyết 113/2006/NQ-HĐND về thu phí sử dụng cảng cá trên địa bàn tỉnh Tiền Giang",
+      "id": "39/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Nguyễn Văn Danh"
+      ],
+      "issuedDate": "2013-07-11",
+      "effectiveDate": "2013-07-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 84/2013/NQ-HĐND quy định mức thu, nộp, quản lý và sử dụng phí bến thuyền trên địa bàn tỉnh Quảng Nam",
+      "id": "84/2013/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Nguyễn Văn Sỹ"
+      ],
+      "issuedDate": "2013-07-04",
+      "effectiveDate": "2013-07-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị quyết 09/2012/NQ-HĐND quy định mức thu, quản lý và sử dụng phí sử dụng Cảng cá Thuận An do Hội đồng nhân dân tỉnh Thừa Thiên Huế khóa VI, kỳ họp thứ 4 ban hành",
+      "id": "09/2012/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Nguyễn Ngọc Thiện"
+      ],
+      "issuedDate": "2012-07-11",
+      "effectiveDate": "2012-07-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 02/2012/QĐ-UBND quy định mức thu, quản lý và sử dụng phí sử dụng lề đường, bến bãi và cảng cá tại khu vực cảng cá, âu thuyền Thọ Quang thành phố Đà Nẵng do Ủy ban nhân dân thành phố Đà Nẵng ban hành",
+      "id": "02/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Võ Duy Khương"
+      ],
+      "issuedDate": "2012-02-24",
+      "effectiveDate": "2012-03-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 30/2010/QĐ-UBND sửa đổi Quy định về chế độ thu, nộp, quản lý và sử dụng Phí sử dụng Cảng cá La Gi - thị xã La Gi và Cảng cá Phan Rí Cửa - huyện Tuy Phong kèm theo Quyết định 19/2009/QĐ-UBND do Ủy ban nhân dân tỉnh Bình Thuận ban hành",
+      "id": "30/2010/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Huỳnh Tấn Thành"
+      ],
+      "issuedDate": "2010-07-12",
+      "effectiveDate": "2010-07-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/05/2021"
+    },
+    {
+      "title": "Nghị quyết 208/2007/NQ-HĐND ban hành đối tượng, mức thu và chế độ quản lý phí sử dụng bến bãi, mặt nước trên địa bàn tỉnh Nghệ An",
+      "id": "208/2007/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Nguyễn Thế Trung"
+      ],
+      "issuedDate": "2007-12-14",
+      "effectiveDate": "2007-12-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 35/2007/QĐ-UBND quy định mức thu, nộp, quản lý và sử dụng phí sử dụng cảng cá trên địa bàn tỉnh Quảng Nam",
+      "id": "35/2007/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Nguyễn Đức Hải"
+      ],
+      "issuedDate": "2007-09-04",
+      "effectiveDate": "2007-09-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 13/01/2016"
+    },
+    {
+      "title": "Quyết định 61/2007/QĐ-UBND ban hành chế độ thu phí sử dụng cảng cá trên địa bàn tỉnh Bà Rịa – Vũng Tàu",
+      "id": "61/2007/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Trần Minh Sanh"
+      ],
+      "issuedDate": "2007-08-27",
+      "effectiveDate": "2007-09-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Nghị quyết 14/2007/NQ-HĐND ban hành chế độ thu phí sử dụng cảng cá trên địa bàn tỉnh Bà Rịa-Vũng Tàu",
+      "id": "14/2007/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Thị Hồng Xinh"
+      ],
+      "issuedDate": "2007-08-02",
+      "effectiveDate": "2007-08-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chương trình 3012/CTr-UBND năm 2007 về xây dựng và nâng cấp các cảng cá, bến cá Ninh Thuận thời kỳ 2006 - 2010 và định hướng đến năm 2020",
+      "id": "3012/CTr-UBND",
+      "legislationType": "Văn bản khác",
+      "categories": [
+        "Thương mại",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Trần Xuân Hoà"
+      ],
+      "issuedDate": "2007-07-18",
+      "effectiveDate": "2007-07-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 13/2007/QĐ-UBND quy định chế độ thu, nộp và quản lý sử dụng phí bến bãi tại các bến xe trực thuộc Bến xe Bình Thuận",
+      "id": "13/2007/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Huỳnh Tấn Thành"
+      ],
+      "issuedDate": "2007-03-05",
+      "effectiveDate": "2007-03-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/06/2010"
+    },
+    {
+      "title": "Nghị quyết 113/2006/NQ-HĐND thu phí sử dụng cảng cá tại Cảng cá Tiền Giang",
+      "id": "113/2006/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Đỗ Tấn Minh"
+      ],
+      "issuedDate": "2006-12-08",
+      "effectiveDate": "2006-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2015"
+    },
+    {
+      "title": "Quyết định 1295/2006/QĐ-UBND về mức thu phí sử dụng cảng cá, bến cá do Ban quản lý Cảng cá trực thuộc Sở Thuỷ sản tỉnh Phú Yên tổ chức thu",
+      "id": "1295/2006/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Nguyễn Bá Lộc"
+      ],
+      "issuedDate": "2006-08-29",
+      "effectiveDate": "2006-09-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 22/04/2014"
+    },
+    {
+      "title": "Quyết định 1784/2006/QĐ-UBND về quy định bổ sung mức thu phí sử dụng Cảng cá Ba Tri do tỉnh Bến Tre ban hành",
+      "id": "1784/2006/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Nguyễn Thị Thanh Hà"
+      ],
+      "issuedDate": "2006-08-04",
+      "effectiveDate": "2006-08-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 09/07/2013"
+    }
+  ],
+  "id": "20/2012/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Thuế - Phí - Lệ Phí"
+  ],
+  "organization": "Tỉnh Nam Định",
+  "signers": [
+    "Bùi Đức Long"
+  ],
+  "issuedDate": "2012-09-26",
+  "effectiveDate": "2012-10-06",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 01/07/2017",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA3ADAAMgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH NAM ĐỊNH</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>20/2012/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Nam Định</i><i><span lang=\"VI\">, ngày </span>26</i><i><span lang=\"VI\"> tháng </span>09</i><i><span lang=\"VI\"> năm </span>2012</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">VỀ\nVIỆC BAN HÀNH CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ SỬ DỤNG CẢNG CÁ, BẾN BÃI\nTẠI CẢNG CÁ NINH CƠ TỈNH NAM ĐỊNH</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luậ</span>t</i><i> <span lang=\"VI\">Tổ chức Hội đồng nhân dân và </span>Ủ</i><i><span lang=\"VI\">y ban nhân\ndân ngày 26/11</span>/</i><i><span lang=\"VI\">2003;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">C</span>ă</i><i><span lang=\"VI\">n cứ\nPháp l</span>ệ</i><i><span lang=\"VI\">nh Phí và lệ phí ngày 28/8/2001;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark0\"><i><span lang=\"VI\">C</span></i></a><i>ă</i><i><span lang=\"VI\">n cứ Nghị định 57/2002/NĐ-CP ngày 03/6/2002 của Chính ph</span>ủ </i><i><span lang=\"VI\">quy</span><span lang=\"VI\"> </span>đị</i><i><span lang=\"VI\">nh chi tiết thi\nhành pháp lệnh phí và lệ phí;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark1\"><i><span lang=\"VI\">C</span></i></a><i>ă</i><i><span lang=\"VI\">n cứ Nghị định số 24/2006/NĐ-CP ngày 06/3/2006 c</span>ủ</i><i><span lang=\"VI\">a Chính ph</span>ủ </i><i><span lang=\"VI\">Sửa đổi, bổ sun</span>g</i><i> <span lang=\"VI\">một số điều của Nghị định số 57/2002/NĐ-CP ng</span>à</i><i><span lang=\"VI\">y 03/6/2002 của Chính ph</span>ủ</i><i> <span lang=\"VI\">quy định chi tiết\nthi hành Pháp lệnh phí và lệ phí;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số 63/2002/TT-BTC\nngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về\nphí và lệ phí; Thông tư số 45/2006/TT-BTC ng</span>à</i><i><span lang=\"VI\">y 25/5/2006\ncủa Bộ Tài chính sửa đổi, b</span>ổ</i><i> <span lang=\"VI\">sung Thông tư số\n63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Th</span>ô</i><i><span lang=\"VI\">ng tư số 97/2006/TT-BTC ngày </span>16</i><i><span lang=\"VI\">/</span>1</i><i><span lang=\"VI\">0/2006 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quy</span>ề</i><i><span lang=\"VI\">n quyế</span>t</i><i> <span lang=\"VI\">định c</span>ủ</i><i><span lang=\"VI\">a\nHội đồng nhân dân t</span>ỉ</i><i><span lang=\"VI\">nh, thành ph</span>ố</i><i> <span lang=\"VI\">trực thuộc Trung ương;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị quyết số\n05/2012/NQ-HĐND ngày 06/7/2012 của Hội đồng nhân </span>dâ</i><i><span lang=\"VI\">n\ntỉnh Nam Định khóa XVII, kỳ họp thứ tư v</span>ề</i><i> <span lang=\"VI\">việc </span>Quy\n</i><i><span lang=\"VI\">định m</span>ức</i><i> <span lang=\"VI\">thu phí sử dụng </span>cảng\n</i><i><span lang=\"VI\">cá, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định</span>;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị tại Tờ trình s</span>ố</i><i>\n<span lang=\"VI\">972/TTr- STC ngày 16/8/2012 của S</span>ở</i><i><span lang=\"VI\">\nTài chính v</span>ề</i><i> <span lang=\"VI\">việc Quy định mức thu, chế độ thu, nộp,\nqu</span>ả</i><i><span lang=\"VI\">n lý và sử dụng phí </span>sử</i><i> <span lang=\"VI\">dụng c</span>ả</i><i><span lang=\"VI\">ng </span>cá</i><i><span lang=\"VI\">,\nbến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định.</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b>Điều </b><b><span lang=\"VI\">1.</span></b><span lang=\"VI\"> Ban hành chế độ thu, nộp, qu</span>ả<span lang=\"VI\">n lý và sử dụng phí\ns</span>ử <span lang=\"VI\">dụng c</span>ả<span lang=\"VI\">ng cá, b</span>ế<span lang=\"VI\">n bãi tại C</span>ả<span lang=\"VI\">ng cá Ninh Cơ tỉnh Nam Định theo Nghị quyết\nsố 05/2012/NQ-HĐND ngày 06/7/2012 của Hội đồng nhân dân t</span>ỉ<span lang=\"VI\">nh\nNam Định khóa XVII, k</span>ỳ <span lang=\"VI\">họp thứ tư v</span>ề <span lang=\"VI\">việc\nQuy định mức thu phí sử dụng c</span>ả<span lang=\"VI\">ng cá, bến bãi tại Cảng cá\nNinh Cơ t</span>ỉ<span lang=\"VI\">nh Nam Định, với nội dung như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><b>I. </b><b><span lang=\"VI\">Đối tượng nộp phí, cơ\nquan thu phí và ph</span>ạ</b><b><span lang=\"VI\">m vi áp dụng</span></b></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Đối tượng nộp phí: Các tổ chức, cá\nnhân có các phương tiện đường thủy, bộ ra vào cảng, hàng hóa qua c</span>ả<span lang=\"VI\">ng. Các tổ chức cá nhân sử dụng bến, bãi trong khu vực cảng để hoạt\nđộng sản xuất kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối tượng </span>được <span lang=\"VI\">miễn, giảm:</span></p>\n\n<p style=\"margin-top:6.0pt\">a. <span lang=\"VI\">Đối tượng được miễn</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Phương tiện sử dụng vào mục đích\nquốc phòng, an ninh thuộc Bộ Quốc phòn</span>g<span lang=\"VI\">. Bộ Công an (trừ\ncác phương tiện sử dụng vào hoạt </span>đ<span lang=\"VI\">ộng kinh tế); phương\ntiện của cơ quan Hải quan đang làm nhiệm vụ (trừ các phương tiện sử dụn</span>g\n<span lang=\"VI\">vào hoạt động kinh tế); phương tiện của c</span>ơ<span lang=\"VI\">\nquan thanh tra </span>g<span lang=\"VI\">iao thông.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Phư</span>ơ<span lang=\"VI\">ng tiện\ncập cảng để tránh thi</span>ê<span lang=\"VI\">n tai, cấp cứu.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Phương tiện trong thời </span>g<span lang=\"VI\">ian neo </span>đậ<span lang=\"VI\">u tại c</span>ả<span lang=\"VI\">ng theo\nlệnh cấm xuất bến của cơ quan có thẩm quyền.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Phương tiện vận chuyển phòng chống\nb</span>ã<span lang=\"VI\">o lụt. Phương tiện vào cảng làm </span>công <span lang=\"VI\">tác từ thiện (cứu hộ</span>, <span lang=\"VI\">cứu nạn, cấp c</span>ứ<span lang=\"VI\">u người bệnh, tai nạn...).</span></p>\n\n<p style=\"margin-top:6.0pt\">b. <span lang=\"VI\">Đối tượng được giảm</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Nộp ph</span>í <span lang=\"VI\">theo\ntháng (nộp vào đầu tháng) được gi</span>ả<span lang=\"VI\">m 10% so với mức thu\ntheo t</span>ừng lần<span lang=\"VI\"> ra vào cảng.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Nộp phí theo tháng (nộp vào </span>đ<span lang=\"VI\">ầu quý) được giảm 20% so v</span>ớ<span lang=\"VI\">i mức th</span>u <span lang=\"VI\">theo từng l</span>ầ<span lang=\"VI\">n ra vào cảng.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Nộp phí theo tháng (nộp vào đầu\nnăm) được giảm 30% so v</span>ớ<span lang=\"VI\">i mức thu theo t</span>ừn<span lang=\"VI\">g lần ra vào cảng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Cơ quan thu phí: Ban quản lý Cảng\ncá Ninh Cơ thuộc S</span>ở<span lang=\"VI\"> Nông nghi</span>ệ<span lang=\"VI\">p và\nPhát triển nông thôn tỉnh Nam Định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark3\"><b>II. </b></a><b><span lang=\"VI\">Mức\nthu phí</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đối v</span>ớ<span lang=\"VI\">i tàu,\nthuyền cập cảng, neo đậu, </span>phương tiện <span lang=\"VI\">v</span>ậ<span lang=\"VI\">n tải ra vào c</span>ả<span lang=\"VI\">ng và hàng h</span>ó<span lang=\"VI\">a\nqua c</span>ả<span lang=\"VI\">ng:</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA3ADAAMgA=-->\n <tbody><tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TT</span></b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Đối\n  t</span>ượ</b><b><span lang=\"VI\">ng nộp phí</span></b></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ĐVT</span></b></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mức\n  thu </span>(</b><b><span lang=\"VI\">đồng)</span></b></p>\n  </td>\n  <td width=\"87\" valign=\"top\" style=\"width: 65.55pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Ghi\n  chú</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>I</b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Tàu, thuyền đánh cá</span></b></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"87\" valign=\"top\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu c</span>ó <span lang=\"VI\">công\n  suất máy đẩy từ 6 đến 12CV</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Lần\n  cập c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">5.000</span></p>\n  </td>\n  <td width=\"87\" rowspan=\"5\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n cập c</span>ả<span lang=\"VI\">ng không </span>quá <span lang=\"VI\">24 giờ</span>,<span lang=\"VI\"> ch</span>ư<span lang=\"VI\">a tí</span>n<span lang=\"VI\">h phí h</span>à<span lang=\"VI\">ng hóa</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có công suất máy đẩy từ 13 đến\n  30CV</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n cập c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">10.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có công suất máy đ</span>ẩ<span lang=\"VI\">y từ 31 đến 90CV</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n c</span>ậ<span lang=\"VI\">p c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">20.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có công suất máy đẩy từ 91 đến\n  200CV</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n cập cảng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">30.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có c</span>ô<span lang=\"VI\">ng\n  suất máy đ</span>ẩ<span lang=\"VI\">y trên 200CV</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n c</span>ậ<span lang=\"VI\">p c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">50.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>II</b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Tàu, thuyền </span>đ</b><b><span lang=\"VI\">ậu trong vùng nước cảng</span></b></p>\n  <p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">(Không cập c</span>ả</i><i><span lang=\"VI\">ng để bốc dỡ h</span>à</i><i><span lang=\"VI\">ng hóa)</span></i></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n đậu </span>t<span lang=\"VI\">rong vùng nước cảng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Thu\n  b</span>ằ<span lang=\"VI\">ng 1/2 mức phí m</span>ụ<span lang=\"VI\">c I</span></p>\n  </td>\n  <td width=\"87\" valign=\"top\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Không\n  </span>quá <span lang=\"VI\">24 giờ</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">III</span></b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Tàu thuyền vận tải</span></b></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"87\" valign=\"top\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">l</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có trọng tải dưới 5 tấn</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n cập c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">10.000</span></p>\n  </td>\n  <td width=\"87\" rowspan=\"4\" valign=\"top\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n c</span>ậ<span lang=\"VI\">p c</span>ả<span lang=\"VI\">ng k</span>h<span lang=\"VI\">ôn</span>g <span lang=\"VI\">quá 24 giờ, chưa tính phí hàn</span>g<span lang=\"VI\"> hóa</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có tr</span>ọ<span lang=\"VI\">ng\n  tải </span>t<span lang=\"VI\">ừ 5 tấn đến 10 tấn</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n c</span>ậ<span lang=\"VI\">p c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">20.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu </span>có <span lang=\"VI\">trọng\n  tải tr</span>ê<span lang=\"VI\">n 10 tấn đến 100 tấn</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n cập cảng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">50.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tàu có trọng tải trên 100 tấn</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n cập c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">80.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">IV</span></b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Phương tiện b</span>ộ q</b><b><span lang=\"VI\">ua c</span>ả</b><b><span lang=\"VI\">ng</span></b></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"87\" valign=\"top\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xe máy, xích lô, xe ba gác</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Lần\n  ra, vào c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">1.000</span></p>\n  </td>\n  <td width=\"87\" rowspan=\"7\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Chưa tính phí hàng\n  hóa</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phương tiện trọng tải d</span>ướ<span lang=\"VI\">i 1 tấn (Xe lam, công nông, xe có động cơ </span>s<span lang=\"VI\">úc\n  vật kéo...)</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n ra, vào cảng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">5.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phương tiện trọng t</span>ả<span lang=\"VI\">i từ 1 tấn đến d</span>ướ<span lang=\"VI\">i 2,5 tấn (bao gồm xe khách 16\n  chỗ tr</span>ở <span lang=\"VI\">xuống)</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n ra, vào c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">10.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phương tiện trọng t</span>ả<span lang=\"VI\">i từ 2,5 tấn đến 5 tấn (bao g</span>ồ<span lang=\"VI\">m xe khách trên 16\n  chỗ ngồi)</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n ra, vào cảng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">15.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phương tiện trọn</span>g <span lang=\"VI\">tải trên 5 tấn đến 10 tấn</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n ra, vào c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">20.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phương tiện trọng tải trên 10 tấn</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n ra, vào c</span>ả<span lang=\"VI\">ng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">25.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">7</p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xe chuyên dụng khác (x</span>e <span lang=\"VI\">cẩu, lu...)</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">L</span>ầ<span lang=\"VI\">n ra, vào cảng</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">25.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">V</span></b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Phí hàng h</span>ó</b><b><span lang=\"VI\">a qua c</span>ả</b><b><span lang=\"VI\">ng</span></b></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"87\" rowspan=\"4\" style=\"width: 65.55pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Chưa\n  tính phí p</span>h<span lang=\"VI\">ương tiện vận t</span>ả<span lang=\"VI\">i</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thủy, hải sản, động vật sốn</span>g<span lang=\"VI\">, xăng dầu</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Tấn</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">10.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">2</p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\">H<span lang=\"VI\">àng hóa là Container</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Container</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">35.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"27\" valign=\"top\" style=\"width: 19.95pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width: 221.35pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hàng hóa khác</span></p>\n  </td>\n  <td width=\"110\" valign=\"top\" style=\"width: 82.7pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Tấn</span></p>\n  </td>\n  <td width=\"65\" valign=\"top\" style=\"width: 48.45pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; background: transparent; padding: 0in 2.9pt;\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><span lang=\"VI\">4.000</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Đối tượng sử dựng bến, bãi trong\nkhu vực cảng:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">M</span>ứ<span lang=\"VI\">c thu tối đa\nmột năm bằng đơn giá thuê mặt đất do UBND tỉnh quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark4\"><b>III. </b></a><b><span lang=\"VI\">Chế\nđộ quản lý và sử dụng phí</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phí sử dụng cảng cá tại C</span>ả<span lang=\"VI\">ng cá Ninh Cơ là khoản thu thuộc ngân sách Nh</span>à <span lang=\"VI\">nước\nđược sử dụng để chi cho việc tổ chức thu phí và bù đắp một phần các chi phí qu</span>ả<span lang=\"VI\">n lý</span>, <span lang=\"VI\">đầu tư, sửa chữa, sử dụng Cảng cá Ninh Cơ,\nchi tiết như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Cơ quan thu phí được trích để lại\n90% (Chín mươi phần trăm) trên tổng số phí thu được </span>đ<span lang=\"VI\">ể chi\ncho các hoạt động phục vụ tổ chức thu phí. S</span>ố <span lang=\"VI\">còn lại 10% </span>(<span lang=\"VI\">Mười phần trăm) nộp vào ngân sách nhà nước theo quy định về chương,\nloại, khoản, mục của mục lục ngân sách Nhà nước hiện hành.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Cơ quan, đơn vị tổ chức thu phí\nphải l</span>ậ<span lang=\"VI\">p dự toán thu - chi hàng </span>n<span lang=\"VI\">ăm\ntrình cấp có thẩm quyền phê duyệt, mở sổ sách theo dõi và quyết toán số phí thu\n</span>đ<span lang=\"VI\">ược theo quy định hiện hành. Cơ quan, đơn vị thu phí có\ntrách nhiệm thu theo đúng quy định của pháp luật, khi thu phải lập và cấp biên\nlai thu tiền phí, lệ phí cho đối tượng nộp theo quy định của Bộ Tài chính về\nphát hành, quản lý, sử dụng ấn chỉ thuế và phải tiến hành niêm yết công khai\nnội dung thu, mức thu tại trụ sở nơi làm việc.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Các nội dung khác liên quan đến\nviệc thu, nộp, quản lý</span>, <span lang=\"VI\">sử dụng, cô</span>ng <span lang=\"VI\">khai chế độ thu, nộp, chứng từ thu phí, lệ phí không đề cập tại Quyết\nđịnh này, </span>được <span lang=\"VI\">thực hiện theo hướng dẫn tại Thông </span>t<span lang=\"VI\">ư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ T</span>à<span lang=\"VI\">i\nchính hướng dẫn thực hiện các quy định ph</span>á<span lang=\"VI\">p luật về phí và\nlệ phí; Thông tư số 45/2006/TT-BTC ngày 25/5/2006 của Bộ Tài chính sửa đổi, bổ\nsung Thông tư s</span>ố<span lang=\"VI\"> 63/2002/TT-BTC.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Điều 2. </span></b><span lang=\"VI\">Quyết\nđịnh này có hiệu lực sau 10 ngày kể từ ngày ký.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Đi</span>ề</b><b><span lang=\"VI\">u\n3.</span></b><span lang=\"VI\"> Chánh V</span>ă<span lang=\"VI\">n phòng </span>Ủy <span lang=\"VI\">ban nhân dân tỉnh, Thủ trưởng các Sở, b</span>a<span lang=\"VI\">n, ngành; Chủ\ntịch </span>Ủy<span lang=\"VI\"> ban nhân dân các huyện, thành phố và các tổ chức,\ncá nhân, </span>đơn vị <span lang=\"VI\">có liên quan chịu trách nhiệm thi hành Quyết\nđịnh này</span>./.</p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA3ADAAMgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i>&nbsp;</i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\">Nơi nhận:<br>\n  </span></i></b><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:8.0pt\">Bộ Tài chính;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Bộ Tư pháp;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Bộ N</span><span style=\"font-size:8.0pt\">ô</span><span lang=\"VI\" style=\"font-size:8.0pt\">ng nghiệp &amp; PTNT;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Thường </span><span style=\"font-size:8.0pt\">tr</span><span lang=\"VI\" style=\"font-size:8.0pt\">ực Tỉnh ủy, HĐND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh:<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Lãnh </span><span style=\"font-size:8.0pt\">đ</span><span lang=\"VI\" style=\"font-size:8.0pt\">ạo UBND tỉnh;<br>\n  </span><span style=\"font-size:8.0pt\">-</span><span lang=\"VI\" style=\"font-size:\n  8.0pt\"> Như Đi</span><span style=\"font-size:8.0pt\">ề</span><span lang=\"VI\" style=\"font-size:8.0pt\">u 3;<br>\n  </span><span style=\"font-size:8.0pt\">- Cô</span><span lang=\"VI\" style=\"font-size:8.0pt\">ng </span><span style=\"font-size:8.0pt\">bá</span><span lang=\"VI\" style=\"font-size:8.0pt\">o tỉnh</span><span style=\"font-size:8.0pt\">,\n  W</span><span lang=\"VI\" style=\"font-size:8.0pt\">ebs</span><span style=\"font-size:8.0pt\">it</span><span lang=\"VI\" style=\"font-size:8.0pt\">e </span><span style=\"font-size:8.0pt\">tỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Lưu: VP1, VP3, VP11</span><span style=\"font-size:8.0pt\">,</span><span lang=\"VI\" style=\"font-size:8.0pt\"> VP</span><span style=\"font-size:8.0pt\">6.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TM.\n  ỦY </span>B</b><b><span lang=\"VI\">AN NHÂN DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH THƯỜNG TRỰC</span><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Bùi Đức Long</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH NAM ĐỊNH****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 20/2012/QĐ-UBND\n\n_Nam Định__, ngày 26_ _tháng 09_ _năm 2012_\n\n**QUYẾT ĐỊNH**\n\nVỀ VIỆC BAN HÀNH CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ SỬ DỤNG CẢNG CÁ, BẾN BÃI TẠI CẢNG CÁ NINH CƠ TỈNH NAM ĐỊNH\n\n**ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH**\n\n_Căn cứ Luật_ _Tổ chức Hội đồng nhân dân và Ủ__y ban nhân dân ngày 26/11/__2003;_\n\n_Că__n cứ Pháp lệ__nh Phí và lệ phí ngày 28/8/2001;_\n\n_C__ă__n cứ Nghị định 57/2002/NĐ-CP ngày 03/6/2002 của Chính phủ_ _quy đị__nh chi tiết thi hành pháp lệnh phí và lệ phí;_\n\n_C__ă__n cứ Nghị định số 24/2006/NĐ-CP ngày 06/3/2006 củ__a Chính phủ_ _Sửa đổi, bổ sung_ _một số điều của Nghị định số 57/2002/NĐ-CP ngà__y 03/6/2002 của Chính phủ_ _quy định chi tiết thi hành Pháp lệnh phí và lệ phí;_\n\n_Căn cứ Thông tư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí; Thông tư số 45/2006/TT-BTC ngà__y 25/5/2006 của Bộ Tài chính sửa đổi, bổ_ _sung Thông tư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài chính;_\n\n_Căn cứ Thô__ng tư số 97/2006/TT-BTC ngày 16__/1__0/2006 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyề__n quyết_ _định củ__a Hội đồng nhân dân tỉ__nh, thành phố_ _trực thuộc Trung ương;_\n\n_Căn cứ Nghị quyết số 05/2012/NQ-HĐND ngày 06/7/2012 của Hội đồng nhân dâ__n tỉnh Nam Định khóa XVII, kỳ họp thứ tư về_ _việc Quy_ _định mức_ _thu phí sử dụng cảng_ _cá, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định;_\n\n_Xét đề nghị tại Tờ trình số_ _972/TTr- STC ngày 16/8/2012 của Sở_ _Tài chính về_ _việc Quy định mức thu, chế độ thu, nộp, quả__n lý và sử dụng phí sử_ _dụng cả__ng cá__, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định._\n\n**QUYẾT ĐỊNH:**\n\n**Điều** **1.** Ban hành chế độ thu, nộp, quản lý và sử dụng phí sử dụng cảng cá, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định theo Nghị quyết số 05/2012/NQ-HĐND ngày 06/7/2012 của Hội đồng nhân dân tỉnh Nam Định khóa XVII, kỳ họp thứ tư về việc Quy định mức thu phí sử dụng cảng cá, bến bãi tại Cảng cá Ninh Cơ tỉnh Nam Định, với nội dung như sau:\n\n**I.** **Đối tượng nộp phí, cơ quan thu phí và phạ****m vi áp dụng**\n\n1\\. Đối tượng nộp phí: Các tổ chức, cá nhân có các phương tiện đường thủy, bộ ra vào cảng, hàng hóa qua cảng. Các tổ chức cá nhân sử dụng bến, bãi trong khu vực cảng để hoạt động sản xuất kinh doanh.\n\n2\\. Đối tượng được miễn, giảm:\n\na. Đối tượng được miễn\n\n\\- Phương tiện sử dụng vào mục đích quốc phòng, an ninh thuộc Bộ Quốc phòng. Bộ Công an (trừ các phương tiện sử dụng vào hoạt động kinh tế); phương tiện của cơ quan Hải quan đang làm nhiệm vụ (trừ các phương tiện sử dụng vào hoạt động kinh tế); phương tiện của cơ quan thanh tra giao thông.\n\n\\- Phương tiện cập cảng để tránh thiên tai, cấp cứu.\n\n\\- Phương tiện trong thời gian neo đậu tại cảng theo lệnh cấm xuất bến của cơ quan có thẩm quyền.\n\n\\- Phương tiện vận chuyển phòng chống bão lụt. Phương tiện vào cảng làm công tác từ thiện (cứu hộ, cứu nạn, cấp cứu người bệnh, tai nạn...).\n\nb. Đối tượng được giảm\n\n\\- Nộp phí theo tháng (nộp vào đầu tháng) được giảm 10% so với mức thu theo từng lần ra vào cảng.\n\n\\- Nộp phí theo tháng (nộp vào đầu quý) được giảm 20% so với mức thu theo từng lần ra vào cảng.\n\n\\- Nộp phí theo tháng (nộp vào đầu năm) được giảm 30% so với mức thu theo từng lần ra vào cảng.\n\n3\\. Cơ quan thu phí: Ban quản lý Cảng cá Ninh Cơ thuộc Sở Nông nghiệp và Phát triển nông thôn tỉnh Nam Định.\n\n**II.** **Mức thu phí**\n\n1\\. Đối với tàu, thuyền cập cảng, neo đậu, phương tiện vận tải ra vào cảng và hàng hóa qua cảng:\n\n**TT**\n\n**Đối tượ****ng nộp phí**\n\n**ĐVT**\n\n**Mức thu (****đồng)**\n\n**Ghi chú**\n\n**I**\n\n**Tàu, thuyền đánh cá**\n\n1\n\nTàu có công suất máy đẩy từ 6 đến 12CV\n\nLần cập cảng\n\n5.000\n\nLần cập cảng không quá 24 giờ, chưa tính phí hàng hóa\n\n2\n\nTàu có công suất máy đẩy từ 13 đến 30CV\n\nLần cập cảng\n\n10.000\n\n3\n\nTàu có công suất máy đẩy từ 31 đến 90CV\n\nLần cập cảng\n\n20.000\n\n4\n\nTàu có công suất máy đẩy từ 91 đến 200CV\n\nLần cập cảng\n\n30.000\n\n5\n\nTàu có công suất máy đẩy trên 200CV\n\nLần cập cảng\n\n50.000\n\n**II**\n\n**Tàu, thuyền đ****ậu trong vùng nước cảng**\n\n_(Không cập cả__ng để bốc dỡ hà__ng hóa)_\n\nLần đậu trong vùng nước cảng\n\nThu bằng 1/2 mức phí mục I\n\nKhông quá 24 giờ\n\n**III**\n\n**Tàu thuyền vận tải**\n\nl\n\nTàu có trọng tải dưới 5 tấn\n\nLần cập cảng\n\n10.000\n\nLần cập cảng không quá 24 giờ, chưa tính phí hàng hóa\n\n2\n\nTàu có trọng tải từ 5 tấn đến 10 tấn\n\nLần cập cảng\n\n20.000\n\n3\n\nTàu có trọng tải trên 10 tấn đến 100 tấn\n\nLần cập cảng\n\n50.000\n\n4\n\nTàu có trọng tải trên 100 tấn\n\nLần cập cảng\n\n80.000\n\n**IV**\n\n**Phương tiện bộ q****ua cả****ng**\n\n1\n\nXe máy, xích lô, xe ba gác\n\nLần ra, vào cảng\n\n1.000\n\nChưa tính phí hàng hóa\n\n2\n\nPhương tiện trọng tải dưới 1 tấn (Xe lam, công nông, xe có động cơ súc vật kéo...)\n\nLần ra, vào cảng\n\n5.000\n\n3\n\nPhương tiện trọng tải từ 1 tấn đến dưới 2,5 tấn (bao gồm xe khách 16 chỗ trở xuống)\n\nLần ra, vào cảng\n\n10.000\n\n4\n\nPhương tiện trọng tải từ 2,5 tấn đến 5 tấn (bao gồm xe khách trên 16 chỗ ngồi)\n\nLần ra, vào cảng\n\n15.000\n\n5\n\nPhương tiện trọng tải trên 5 tấn đến 10 tấn\n\nLần ra, vào cảng\n\n20.000\n\n6\n\nPhương tiện trọng tải trên 10 tấn\n\nLần ra, vào cảng\n\n25.000\n\n7\n\nXe chuyên dụng khác (xe cẩu, lu...)\n\nLần ra, vào cảng\n\n25.000\n\n**V**\n\n**Phí hàng hó****a qua cả****ng**\n\nChưa tính phí phương tiện vận tải\n\n1\n\nThủy, hải sản, động vật sống, xăng dầu\n\nTấn\n\n10.000\n\n2\n\nHàng hóa là Container\n\nContainer\n\n35.000\n\n3\n\nHàng hóa khác\n\nTấn\n\n4.000\n\n2\\. Đối tượng sử dựng bến, bãi trong khu vực cảng:\n\nMức thu tối đa một năm bằng đơn giá thuê mặt đất do UBND tỉnh quy định.\n\n**III.** **Chế độ quản lý và sử dụng phí**\n\nPhí sử dụng cảng cá tại Cảng cá Ninh Cơ là khoản thu thuộc ngân sách Nhà nước được sử dụng để chi cho việc tổ chức thu phí và bù đắp một phần các chi phí quản lý, đầu tư, sửa chữa, sử dụng Cảng cá Ninh Cơ, chi tiết như sau:\n\n1\\. Cơ quan thu phí được trích để lại 90% (Chín mươi phần trăm) trên tổng số phí thu được để chi cho các hoạt động phục vụ tổ chức thu phí. Số còn lại 10% (Mười phần trăm) nộp vào ngân sách nhà nước theo quy định về chương, loại, khoản, mục của mục lục ngân sách Nhà nước hiện hành.\n\n2\\. Cơ quan, đơn vị tổ chức thu phí phải lập dự toán thu - chi hàng năm trình cấp có thẩm quyền phê duyệt, mở sổ sách theo dõi và quyết toán số phí thu được theo quy định hiện hành. Cơ quan, đơn vị thu phí có trách nhiệm thu theo đúng quy định của pháp luật, khi thu phải lập và cấp biên lai thu tiền phí, lệ phí cho đối tượng nộp theo quy định của Bộ Tài chính về phát hành, quản lý, sử dụng ấn chỉ thuế và phải tiến hành niêm yết công khai nội dung thu, mức thu tại trụ sở nơi làm việc.\n\n3\\. Các nội dung khác liên quan đến việc thu, nộp, quản lý, sử dụng, công khai chế độ thu, nộp, chứng từ thu phí, lệ phí không đề cập tại Quyết định này, được thực hiện theo hướng dẫn tại Thông tư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí; Thông tư số 45/2006/TT-BTC ngày 25/5/2006 của Bộ Tài chính sửa đổi, bổ sung Thông tư số 63/2002/TT-BTC.\n\n**Điều 2.** Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký.\n\n**Điề****u 3.** Chánh Văn phòng Ủy ban nhân dân tỉnh, Thủ trưởng các Sở, ban, ngành; Chủ tịch Ủy ban nhân dân các huyện, thành phố và các tổ chức, cá nhân, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_Nơi nhận:  \n_**\\- Bộ Tài chính;  \n\\- Bộ Tư pháp;  \n\\- Bộ Nông nghiệp & PTNT;  \n\\- Thường trực Tỉnh ủy, HĐND tỉnh:  \n\\- Lãnh đạo UBND tỉnh;  \n\\- Như Điều 3;  \n\\- Công báo tỉnh, Website tỉnh;  \n\\- Lưu: VP1, VP3, VP11, VP6.\n\n**TM. ỦY B****AN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH THƯỜNG TRỰC  \n  \n  \n  \n  \nBùi Đức Long**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

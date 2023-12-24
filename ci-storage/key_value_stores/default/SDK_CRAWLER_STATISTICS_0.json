@@ -1,0 +1,59 @@
+{
+  "requestsFinished": 2121,
+  "requestsFailed": 79,
+  "requestsRetries": 7,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 5,
+  "requestMinDurationMillis": 4548,
+  "requestMaxDurationMillis": 38392,
+  "requestTotalFailedDurationMillis": 728722,
+  "requestTotalFinishedDurationMillis": 21387365,
+  "crawlerStartedAt": "2023-12-24T19:17:22.187Z",
+  "crawlerFinishedAt": "2023-12-25T05:14:42.548Z",
+  "statsPersistedAt": "2023-12-25T05:14:42.548Z",
+  "crawlerRuntimeMillis": 25629519,
+  "crawlerLastStartTimestamp": 1703455653029,
+  "requestRetryHistogram": [
+    2193,
+    7
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 9224,
+  "requestAvgFinishedDurationMillis": 10084,
+  "requestTotalDurationMillis": 22116087,
+  "requestsTotal": 2200,
+  "requestsWithStatusCode": {
+    "200": 117
+  },
+  "errors": {
+    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:208:16": {
+      "missing error code": {
+        "Error": {
+          "page.click: Element is outside of the viewport": {
+            "count": 5
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:208:16": {
+      "missing error code": {
+        "Error": {
+          "page.click: Element is outside of the viewport": {
+            "count": 17
+          }
+        }
+      }
+    },
+    "/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+playwright@3.6.2_playwright@1.40.1/node_modules/@crawlee/src/internals/utils/playwright-utils.ts:216:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_TIMED_OUT at _": {
+            "count": 2
+          }
+        }
+      }
+    }
+  }
+}

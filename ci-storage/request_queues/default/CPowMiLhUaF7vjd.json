@@ -1,0 +1,9 @@
+{
+	"id": "CPowMiLhUaF7vjd",
+	"json": "{\"id\":\"CPowMiLhUaF7vjd\",\"url\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-27-2023-QH15-528669.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-27-2023-QH15-528669.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-27-2023-QH15-528669.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Navigation timed out after 60 seconds.\\n    at handleRequestTimeout (/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+core@3.6.2/node_modules/@crawlee/src/crawlers/crawler_utils.ts:13:11)\\n    at PlaywrightCrawler._handleNavigationTimeout (/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+browser@3.6.2_playwright@1.40.1/node_modules/@crawlee/src/internals/browser-crawler.ts:618:33)\\n    at PlaywrightCrawler._handleNavigation (/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+browser@3.6.2_playwright@1.40.1/node_modules/@crawlee/src/internals/browser-crawler.ts:581:24)\\n    at PlaywrightCrawler._runRequestHandler (/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+browser@3.6.2_playwright@1.40.1/node_modules/@crawlee/src/internals/browser-crawler.ts:497:13)\\n    at PlaywrightCrawler._runRequestHandler (/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+playwright@3.6.2_playwright@1.40.1/node_modules/@crawlee/src/internals/playwright-crawler.ts:240:9)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-12-24T19:52:12.278Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-27-2023-QH15-528669.aspx",
+	"url": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-27-2023-QH15-528669.aspx"
+}
