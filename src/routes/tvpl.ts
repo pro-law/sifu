@@ -28,8 +28,8 @@ router.addDefaultHandler(async ({ enqueueLinks, log }) => {
     // urls: ['https://thuvienphapluat.vn/page/tim-van-ban.aspx'],
     urls: [
       'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=luat',
-      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh',
-      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=th%C3%B4ng%20t%C6%B0'
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh',
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=th%C3%B4ng%20t%C6%B0'
     ],
     label: 'list',
   })

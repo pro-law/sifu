@@ -2,12 +2,14 @@ name: CI Runner
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [run-ci]
 
 env:
   CI_RUNNER: true
   CRAWLEE_STORAGE_DIR: 'ci-storage'
   CRAWLEE_PURGE_ON_START: 0
-  MAX_REQUESTS_PER_CRAWL: 10
+  MAX_REQUESTS_PER_CRAWL: 100
   TVPL_USERNAME: ${{ secrets.TVPL_USERNAME }}
   TVPL_PASSWORD: ${{ secrets.TVPL_PASSWORD }}
   TVPL_MEMBER_GA: ${{ secrets.TVPL_MEMBER_GA }}
@@ -54,9 +56,9 @@ jobs:
           LAST_COMMIT_MESSAGE=$(git log -1 --pretty=format:%s)
           echo "Last commit message: $LAST_COMMIT_MESSAGE"
           if [[ $LAST_COMMIT_MESSAGE == "chore(documents): update documents [skip ci]" ]]; then
-            echo "::set-output name=should-amend::true"
+            echo "SHOULD_AMEND=true" >> $GITHUB_ENV
           else
-            echo "::set-output name=should-amend::false"
+            echo "SHOULD_AMEND=false" >> $GITHUB_ENV
           fi
 
       - name: Commit & Push changes
@@ -64,5 +66,13 @@ jobs:
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           message: 'chore(documents): update documents [skip ci]'
-          force: ${{ steps.should-amend.outputs.should-amend }}
-          amend: ${{ steps.should-amend.outputs.should-amend }}
+          force: ${{ env.SHOULD_AMEND == 'true' }}
+          amend: ${{ env.SHOULD_AMEND == 'true' }}
+
+      - name: Dispatch trigger
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: ${{ github.repository }}
+          event-type: run-ci
+          client-payload: '{}'
