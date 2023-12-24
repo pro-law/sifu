@@ -2,6 +2,7 @@ const config = {
   TVPL_USERNAME: '',
   TVPL_PASSWORD: '',
   TVPL_MEMBER_GA: '',
+  OPENAI_API_KEY: '',
 }
 
 Object.entries(config).forEach(([key, value]) => {

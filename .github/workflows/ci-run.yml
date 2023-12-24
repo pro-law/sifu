@@ -2,17 +2,27 @@ name: CI Runner
 
 on:
   workflow_dispatch:
+    inputs:
+      CRAWLEE_PURGE_ON_START:
+        type: boolean
+        description: 'Purge storage on start'
+        default: false
+      MAX_REQUESTS_PER_CRAWL:
+        type: number
+        description: 'Max requests per crawl'
+        default: 100
   repository_dispatch:
     types: [run-ci]
 
 env:
   CI_RUNNER: true
   CRAWLEE_STORAGE_DIR: 'ci-storage'
-  CRAWLEE_PURGE_ON_START: 0
-  MAX_REQUESTS_PER_CRAWL: 100
+  CRAWLEE_PURGE_ON_START: ${{ (github.event.inputs.CRAWLEE_PURGE_ON_START) && '1' || '0' }}
+  MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || 100 }}
   TVPL_USERNAME: ${{ secrets.TVPL_USERNAME }}
   TVPL_PASSWORD: ${{ secrets.TVPL_PASSWORD }}
   TVPL_MEMBER_GA: ${{ secrets.TVPL_MEMBER_GA }}
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
 jobs:
   run:
@@ -39,7 +49,9 @@ jobs:
       - uses: actions/cache@v3
         name: Setup pnpm cache
         with:
-          path: ${{ env.STORE_PATH }}
+          path: |
+            ${{ env.STORE_PATH }}
+            /home/runner/.cache/
           key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
           restore-keys: |
             ${{ runner.os }}-pnpm-store-
@@ -49,6 +61,7 @@ jobs:
 
       - name: Run
         run: pnpm run start:ci
+        continue-on-error: true
 
       - name: Should amend if the last commit message is the same
         id: should-amend
