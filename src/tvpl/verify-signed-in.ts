@@ -8,8 +8,6 @@ import config from '../helpers/config'
 async function verifySignedIn({ page, log }: { page: Page; log: Log }) {
   const isSignedIn = await checkIsSignedIn({ page, log })
 
-  log.info(`Is signed in: ${isSignedIn}`)
-
   if (isSignedIn) {
     return
   }
@@ -20,8 +18,6 @@ async function verifySignedIn({ page, log }: { page: Page; log: Log }) {
 
   // Check if signed in
   const isSignedInAfterLoadingCookies = await checkIsSignedIn({ page, log })
-
-  log.info(`Is signed in: ${isSignedInAfterLoadingCookies}`)
 
   if (isSignedInAfterLoadingCookies) {
     return
