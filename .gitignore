@@ -2,8 +2,10 @@
 
 .DS_Store
 .idea
+.env
 dist
 node_modules
 apify_storage
 crawlee_storage
 storage
+.cookies.json

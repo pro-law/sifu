@@ -7,7 +7,7 @@
     "format": "prettier --write .",
     "start": "npm run start:dev",
     "start:prod": "node dist/main.js",
-    "start:dev": "tsx src/main.ts",
+    "start:dev": "tsx -r dotenv/config src/main.ts",
     "build": "tsc",
     "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1",
     "postinstall": "npx crawlee install-playwright-browsers"
@@ -16,11 +16,14 @@
   "license": "ISC",
   "dependencies": {
     "crawlee": "3.6.2",
-    "playwright": "*"
+    "dotenv": "^16.3.1",
+    "playwright": "*",
+    "turndown": "^7.1.2"
   },
   "devDependencies": {
     "@apify/tsconfig": "0.1.0",
     "@types/node": "18",
+    "@types/turndown": "^5.0.4",
     "prettier": "3.1.1",
     "tsx": "4.7.0",
     "typescript": "5.3.3"
