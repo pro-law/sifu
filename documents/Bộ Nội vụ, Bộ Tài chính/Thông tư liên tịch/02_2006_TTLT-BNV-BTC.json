@@ -1,0 +1,741 @@
+{
+  "title": "Thông tư liên tịch 02/2006/TTLT-BNV-BTC thực hiện mức lương tối thiểu chung từ ngày 01/10/2006 đối với cán bộ, công chức, viên chức trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội do Bộ Nội vụ - Bộ Tài chính ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Thông tư liên tịch 105/2005/TTLT-BNV-BTC thực hiện mức lương tối thiểu chung đối với cán bộ, công chức, viên chức trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội do Bộ Nội vụ - Bộ Tài chính ban hành",
+      "id": "105/2005/TTLT-BNV-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ, Bộ Tài chính",
+      "signers": [
+        "Đỗ Quang Trung",
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2005-10-03",
+      "effectiveDate": "2005-10-29",
+      "gazetteDate": "2005-10-14",
+      "gazetteNumber": "Từ số 14 đến số 15",
+      "status": "Hết hiệu lực: 01/10/2006"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết số 1003/2006/NQ-UBTVQH11 về việc phê chuẩn bảng lương và phụ cấp chức vụ đối với cán bộ lãnh đạo Kiểm toán Nhà nước; bảng lương, phụ cấp, trang phục đối với cán bộ, công chức Kiểm toán Nhà nước; chế độ ưu tiên đối với Kiểm toán viên nhà nước do Ủy ban Thường vụ Quốc hội ban hành",
+      "id": "1003/2006/NQ-UBTVQH11",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2006-03-03",
+      "effectiveDate": "2006-03-17",
+      "gazetteDate": "2006-03-17",
+      "gazetteNumber": "Từ số 16 đến số 17",
+      "status": "Hết hiệu lực: 29/12/2016"
+    },
+    {
+      "title": "Nghị quyết số 753/2005/NQ-UBTVQH11 về việc ban hành quy chế hoạt động của Hội đồng nhân dân do Uỷ ban Thường vụ Quốc hội ban hành",
+      "id": "753/2005/NQ-UBTVQH11",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-04-02",
+      "effectiveDate": "2005-06-01",
+      "gazetteDate": "2005-05-17",
+      "gazetteNumber": "Số 12",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 205/2004/NĐ-CP quy định hệ thống thang lương, bảng lương và chế độ phụ cấp lương trong các công ty nhà nước",
+      "id": "205/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-12-14",
+      "effectiveDate": "2005-01-04",
+      "gazetteDate": "2004-12-20",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Hết hiệu lực: 01/07/2013"
+    },
+    {
+      "title": "Nghị định 204/2004/NĐ-CP về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+      "id": "204/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2004-12-14",
+      "effectiveDate": "2005-01-04",
+      "gazetteDate": "2004-12-20",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết số 730/2004/NQ-UBTVQH11 về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước, bảng lương chuyên môn, nghiệp vụ ngành Toà án, ngành Kiểm sát do Uỷ ban Thường vụ Quốc hội ban hành",
+      "id": "730/2004/NQ-UBTVQH11",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-09-30",
+      "effectiveDate": "2004-10-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 121/2003/NĐ-CP về chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị trấn",
+      "id": "121/2003/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2003-10-21",
+      "effectiveDate": "2003-11-10",
+      "gazetteDate": "2003-10-26",
+      "gazetteNumber": "Số 171",
+      "status": "Hết hiệu lực: 01/01/2010"
+    },
+    {
+      "title": "Quyết định 161/2002/QĐ-TTG về một số chính sách phát triển giáo dục mầm non do Thủ tướng Chính phủ ban hành",
+      "id": "161/2002/QĐ-TTG",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Gia Khiêm"
+      ],
+      "issuedDate": "2002-11-15",
+      "effectiveDate": "2002-11-30",
+      "gazetteDate": "2002-12-15",
+      "gazetteNumber": "Số 63",
+      "status": "Hết hiệu lực: 15/12/2011"
+    },
+    {
+      "title": "Quyết định 131/TTG năm 1995 sửa đổi Quyết định 58/TTg năm 1994 về tổ chức và chế độ chính sách đối với y tế cơ sở do Thủ tướng Chính phủ ban hành",
+      "id": "131-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Khánh"
+      ],
+      "issuedDate": "1995-03-04",
+      "effectiveDate": "1995-03-04",
+      "gazetteDate": "1995-05-15",
+      "gazetteNumber": "Số 9",
+      "status": "Hết hiệu lực: 31/01/2015"
+    },
+    {
+      "title": "Quyết định 58/TTg năm 1994 về tổ chức và chế độ chính sách đối với y tế cơ sở do Thủ tướng Chính Phủ ban hành",
+      "id": "58/TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Võ Văn Kiệt"
+      ],
+      "issuedDate": "1994-02-03",
+      "effectiveDate": "1994-02-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 31/01/2015"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Thông tư liên tịch 05/2007/TTLT-BNV-BTC hướng dẫn mức lương tối thiểu chung từ ngày 01 tháng 01 năm 2008 đối với cơ quan nhà nước, tổ chức chính trị,  tổ chức chính trị - xã hội và đơn vị sự nghiệp do Bộ Nội vụ và Bộ Tài chính ban hành",
+      "id": "05/2007/TTLT-BNV-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ, Bộ Tài chính",
+      "signers": [
+        "Vũ Văn Ninh",
+        "Trần Văn Tuấn"
+      ],
+      "issuedDate": "2007-12-10",
+      "effectiveDate": "2008-01-01",
+      "gazetteDate": "2007-12-28",
+      "gazetteNumber": "Từ số 845 đến số 846",
+      "status": "Hết hiệu lực: 06/06/2009"
+    },
+    {
+      "title": "Quyết định 1137/QĐ-BNV năm 2009 công bố danh mục văn bản quy phạm pháp luật do Bộ Nội vụ ban hành và liên tịch ban hành đã hết hiệu lực pháp luật do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "1137/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2009-07-28",
+      "effectiveDate": "2009-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1182/QĐ-BNV năm 2014 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của Bộ Nội vụ đến hết ngày 31/12/2013",
+      "id": "1182/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Nguyễn Duy Thăng"
+      ],
+      "issuedDate": "2014-11-19",
+      "effectiveDate": "2014-11-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 01/2009/TTLT-BNV-BTC hướng dẫn mức lương tối thiểu chung từ ngày 01 tháng 5 năm 2009 đối với cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và đơn vị sự nghiệp do Bộ Nội vụ - Bộ Tài chính ban hành",
+      "id": "01/2009/TTLT-BNV-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ, Bộ Tài chính",
+      "signers": [
+        "Vũ Văn Ninh",
+        "Trần Văn Tuấn"
+      ],
+      "issuedDate": "2009-04-22",
+      "effectiveDate": "2009-06-06",
+      "gazetteDate": "2009-05-20",
+      "gazetteNumber": "Từ số 259 đến số 260",
+      "status": "Hết hiệu lực: 10/05/2010"
+    },
+    {
+      "title": "Quyết định 1137/QĐ-BNV năm 2009 công bố danh mục văn bản quy phạm pháp luật do Bộ Nội vụ ban hành và liên tịch ban hành đã hết hiệu lực pháp luật do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "1137/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2009-07-28",
+      "effectiveDate": "2009-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1392/QĐ-BNV năm 2010 công bố danh mục văn bản Quy phạm pháp luật do bộ nội vụ ban hành và liên tịch ban hành đã hết hiệu lực pháp luật do Bộ Nội vụ ban hành",
+      "id": "1392/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2010-12-02",
+      "effectiveDate": "2010-12-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1182/QĐ-BNV năm 2014 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của Bộ Nội vụ đến hết ngày 31/12/2013",
+      "id": "1182/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Nguyễn Duy Thăng"
+      ],
+      "issuedDate": "2014-11-19",
+      "effectiveDate": "2014-11-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 01/2010/TTLT-BNV-BTC hướng dẫn mức lương tối thiểu chung từ ngày 01 tháng 5 năm 2010 đối với cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và đơn vị sự nghiệp do Bộ Nội vụ - Bộ Tài chính ban hành",
+      "id": "01/2010/TTLT-BNV-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Nội vụ, Bộ Tài chính",
+      "signers": [
+        "Vũ Văn Ninh",
+        "Trần Văn Tuấn"
+      ],
+      "issuedDate": "2010-04-26",
+      "effectiveDate": "2010-05-10",
+      "gazetteDate": "2010-05-22",
+      "gazetteNumber": "Từ số 240 đến số 241",
+      "status": "Hết hiệu lực: 19/05/2011"
+    },
+    {
+      "title": "Quyết định 1392/QĐ-BNV năm 2010 công bố danh mục văn bản Quy phạm pháp luật do bộ nội vụ ban hành và liên tịch ban hành đã hết hiệu lực pháp luật do Bộ Nội vụ ban hành",
+      "id": "1392/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2010-12-02",
+      "effectiveDate": "2010-12-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1182/QĐ-BNV năm 2014 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của Bộ Nội vụ đến hết ngày 31/12/2013",
+      "id": "1182/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Nguyễn Duy Thăng"
+      ],
+      "issuedDate": "2014-11-19",
+      "effectiveDate": "2014-11-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 04/2011/TTLT-BNV-BTC về hướng dẫn thực hiện mức lương tối thiểu chung từ ngày 01 tháng 5 năm 2011 đối với cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và đơn vị sự nghiệp do Bộ Nội vụ - Bộ Tài chính ban hành",
+      "id": "04/2011/TTLT-BNV-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Nội vụ, Bộ Tài chính",
+      "signers": [
+        "Vũ Văn Ninh",
+        "Trần Văn Tuấn"
+      ],
+      "issuedDate": "2011-05-06",
+      "effectiveDate": "2011-05-19",
+      "gazetteDate": "2011-06-01",
+      "gazetteNumber": "Từ số 347 đến số 348",
+      "status": "Hết hiệu lực: 01/06/2012"
+    },
+    {
+      "title": "Quyết định 1469/QĐ-BNV năm 2011 công bố Danh mục văn bản quy phạm pháp luật đã hết hiệu lực pháp luật do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "1469/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2011-07-21",
+      "effectiveDate": "2011-07-21",
+      "gazetteDate": "2011-08-12",
+      "gazetteNumber": "Từ số 449 đến số 450",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1182/QĐ-BNV năm 2014 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của Bộ Nội vụ đến hết ngày 31/12/2013",
+      "id": "1182/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Nguyễn Duy Thăng"
+      ],
+      "issuedDate": "2014-11-19",
+      "effectiveDate": "2014-11-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 01/2012/TTLT-BNV-BTC hướng dẫn thực hiện mức lương tối thiểu chung từ ngày 01 tháng 5 năm 2012 đối với cơ quan nhà nước, tổ chức chính trị, chính trị - xã hội và đơn vị sự nghiệp do Bộ Nội vụ - Bộ Tài chính ban hành",
+      "id": "01/2012/TTLT-BNV-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Nội vụ, Bộ Tài chính",
+      "signers": [
+        "Nguyễn Thái Bình",
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2012-05-16",
+      "effectiveDate": "2012-06-01",
+      "gazetteDate": "2012-06-12",
+      "gazetteNumber": "Từ số 389 đến số 390",
+      "status": "Hết hiệu lực: 15/09/2013"
+    },
+    {
+      "title": "Quyết định 607/QĐ-BNV năm 2012 công bố Danh mục văn bản quy phạm pháp luật do Bộ Nội vụ ban hành đã hết hiệu lực pháp luật",
+      "id": "607/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2012-07-16",
+      "effectiveDate": "2012-07-16",
+      "gazetteDate": "2012-08-27",
+      "gazetteNumber": "Từ số 571 đến số 572",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1182/QĐ-BNV năm 2014 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc phạm vi quản lý nhà nước của Bộ Nội vụ đến hết ngày 31/12/2013",
+      "id": "1182/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Nguyễn Duy Thăng"
+      ],
+      "issuedDate": "2014-11-19",
+      "effectiveDate": "2014-11-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 07/2013/TT-BNV hướng dẫn thực hiện mức lương cơ sở đối với đối tượng hưởng lương, phụ cấp trong cơ quan, đơn vị sự nghiệp công lập của Đảng, Nhà nước, tổ chức chính trị - xã hội và hội có tính chất đặc thù do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "07/2013/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Nguyễn Duy Thăng"
+      ],
+      "issuedDate": "2013-07-31",
+      "effectiveDate": "2013-09-15",
+      "gazetteDate": "2013-08-27",
+      "gazetteNumber": "Từ số 503 đến số 504",
+      "status": "Hết hiệu lực: 01/08/2016"
+    },
+    {
+      "title": "Quyết định 103/QĐ-BNV năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ kỳ 2014-2018",
+      "id": "103/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2019-01-29",
+      "effectiveDate": "2019-01-29",
+      "gazetteDate": "2019-02-25",
+      "gazetteNumber": "Từ số 221 đến số 222",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 05/2016/TT-BNV hướng dẫn thực hiện mức lương cơ sở đối với đối tượng hưởng lương, phụ cấp trong cơ quan, đơn vị sự nghiệp công lập của Đảng, Nhà nước, tổ chức chính trị - xã hội và hội do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "05/2016/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Trần Anh Tuấn"
+      ],
+      "issuedDate": "2016-06-10",
+      "effectiveDate": "2016-08-01",
+      "gazetteDate": "2016-07-08",
+      "gazetteNumber": "Từ số 461 đến số 462",
+      "status": "Hết hiệu lực: 01/07/2017"
+    },
+    {
+      "title": "Quyết định 669/QĐ-BNV năm 2017 công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ và Danh mục văn bản quy phạm pháp luật hết hiệu lực một phần thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ năm 2016",
+      "id": "669/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2017-02-20",
+      "effectiveDate": "2017-02-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 103/QĐ-BNV năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ kỳ 2014-2018",
+      "id": "103/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2019-01-29",
+      "effectiveDate": "2019-01-29",
+      "gazetteDate": "2019-02-25",
+      "gazetteNumber": "Từ số 221 đến số 222",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 02/2017/TT-BNV hướng dẫn thực hiện mức lương cơ sở đối với đối tượng hưởng lương, phụ cấp trong cơ quan, đơn vị sự nghiệp công lập của Đảng, Nhà nước, tổ chức chính trị - xã hội và hội do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "02/2017/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Trần Anh Tuấn"
+      ],
+      "issuedDate": "2017-05-12",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2017-05-31",
+      "gazetteNumber": "Từ số 389 đến số 390",
+      "status": "Hết hiệu lực: 15/07/2018"
+    },
+    {
+      "title": "Quyết định 46/QĐ-BNV năm 2018 về công bố danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ và Danh mục văn bản quy phạm pháp luật hết hiệu lực một phần thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ năm 2017",
+      "id": "46/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2018-01-16",
+      "effectiveDate": "2018-01-16",
+      "gazetteDate": "2018-02-08",
+      "gazetteNumber": "Từ số 357 đến số 358",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 103/QĐ-BNV năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ kỳ 2014-2018",
+      "id": "103/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2019-01-29",
+      "effectiveDate": "2019-01-29",
+      "gazetteDate": "2019-02-25",
+      "gazetteNumber": "Từ số 221 đến số 222",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 06/2018/TT-BNV hướng dẫn thực hiện mức lương cơ sở đối với các đối tượng hưởng lương, phụ cấp trong các cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, tổ chức chính trị - xã hội và hội do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "06/2018/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Trần Anh Tuấn"
+      ],
+      "issuedDate": "2018-05-31",
+      "effectiveDate": "2018-07-15",
+      "gazetteDate": "2018-06-23",
+      "gazetteNumber": "Từ số 733 đến số 734",
+      "status": "Hết hiệu lực: 15/07/2019"
+    },
+    {
+      "title": "Quyết định 103/QĐ-BNV năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ kỳ 2014-2018",
+      "id": "103/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2019-01-29",
+      "effectiveDate": "2019-01-29",
+      "gazetteDate": "2019-02-25",
+      "gazetteNumber": "Từ số 221 đến số 222",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 04/2019/TT-BNV hướng dẫn thực hiện mức lương cơ sở đối với đối tượng hưởng lương, phụ cấp trong các cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, tổ chức chính trị - xã hội và hội do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "04/2019/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2019-05-24",
+      "effectiveDate": "2019-07-15",
+      "gazetteDate": "2019-06-08",
+      "gazetteNumber": "Từ số 471 đến số 472",
+      "status": "Hết hiệu lực: 01/07/2023"
+    },
+    {
+      "title": "Quyết định 578/QĐ-BNV công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ và văn bản quy phạm pháp luật hết hiệu lực một phần thuộc lĩnh vực quản lý nhà nước của Bộ Nội vụ 06 tháng đầu năm 2019",
+      "id": "578/QĐ-BNV",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Lê Vĩnh Tân"
+      ],
+      "issuedDate": "2019-07-25",
+      "effectiveDate": "2019-07-25",
+      "gazetteDate": "2019-08-08",
+      "gazetteNumber": "Từ số 615 đến số 616",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 10/2023/TT-BNV hướng dẫn thực hiện mức lương cơ sở đối với các đối tượng hưởng lương, phụ cấp trong các cơ quan, tổ chức, đơn vị sự nghiệp công lập của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội và hội do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "10/2023/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Phạm Thị Thanh Trà"
+      ],
+      "issuedDate": "2023-06-26",
+      "effectiveDate": "2023-07-01",
+      "gazetteDate": "2023-07-12",
+      "gazetteNumber": "Từ số 817 đến số 818",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Nghị định 94/2006/NĐ-CP về việc điều chỉnh mức lương tối thiểu chung",
+      "id": "94/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2006-09-07",
+      "effectiveDate": "2006-10-01",
+      "gazetteDate": "2006-09-16",
+      "gazetteNumber": "Từ số 35 đến số 36",
+      "status": "Hết hiệu lực: 01/01/2008"
+    }
+  ],
+  "id": "02/2006/TTLT-BNV-BTC",
+  "legislationType": "Thông tư liên tịch",
+  "categories": [
+    "Lao động - Tiền lương",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Bộ Nội vụ, Bộ Tài chính",
+  "signers": [
+    "Nguyễn Trọng Điều",
+    "Trần Văn Tá"
+  ],
+  "issuedDate": "2006-09-15",
+  "effectiveDate": "2006-10-01",
+  "gazetteDate": "2006-09-19",
+  "gazetteNumber": "Từ số 37 đến số 38",
+  "status": "Hết hiệu lực: 01/01/2008",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAxADIAOAA=-->\n <tbody><tr>\n  <td width=\"236\" valign=\"top\" style=\"width:177.2pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;\n  margin-left:0cm;page-break-after:auto\"><span lang=\"EN-US\" style=\"font-size:\n  10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:-.4pt\">BỘ NỘI VỤ – BỘ\n  TÀI CHÍNH</span></p>\n  </td>\n  <td width=\"369\" valign=\"top\" style=\"width:276.45pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;\n  margin-left:0cm;page-break-after:auto\"><span lang=\"EN-US\" style=\"font-size:\n  10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:-.3pt\">CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  </span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\">Độc\n  lập – Tự do – Hạnh phúc</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"236\" valign=\"top\" style=\"width:177.2pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;\n  margin-left:0cm;text-align:justify;page-break-after:auto\"><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:0pt\">&nbsp;</span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\n  letter-spacing:0pt;font-weight:normal\">Số: 02/2006/TTLT-BNV-BTC</span></p>\n  </td>\n  <td width=\"369\" valign=\"top\" style=\"width:276.45pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;\n  margin-left:0cm;page-break-after:auto\"><i><span lang=\"EN-US\" style=\"font-size:\n  10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:0pt;font-weight:normal\">Hà\n  Nội, ngày 15 tháng 9 năm 2006</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;\nmargin-left:0cm;page-break-after:auto\"><span lang=\"EN-US\" style=\"font-size:12.0pt;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:0pt\"> </span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"EN-US\" style=\"font-size:12.0pt\">THÔNG TƯ LIÊN TỊCH</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"EN-US\">HƯỚNG\nDẪN THỰC HIỆN MỨC LƯƠNG TỐI THIỂU CHUNG TỪ NGÀY 01 THÁNG 10 NĂM 2006 ĐỐI VỚI\nCÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TRONG CÁC CƠ QUAN NHÀ NƯỚC, ĐƠN VỊ SỰ NGHIỆP CỦA\nNHÀ NƯỚC, TỔ CHỨC CHÍNH TRỊ, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI</span></p>\n\n<p style=\"text-indent:0cm\"><i><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\">Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 94/2006/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-94-2006-nd-cp-dieu-chinh-muc-luong-toi-thieu-chung-13990.aspx\">94/2006/NĐ-CP</a>  ngày 07 tháng 9 năm 2006 của Chính phủ điều chỉnh mức lương tối\nthiểu chung; sau khi trao đổi ý kiến với Ban Tổ chức Trung ương và các cơ quan\nliên quan, Bộ Nội vụ và Bộ Tài chính hướng dẫn thực hiện mức lương tối thiểu\nchung từ ngày 01 tháng 10 năm 2006 đối với cán bộ, công chức, viên chức trong\ncác cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước, tổ chức chính trị, tổ chức\nchính trị - xã hội như sau:</span></i></p>\n\n<p align=\"left\" style=\"margin-top:0cm;margin-right:0cm;\nmargin-bottom:6.0pt;margin-left:0cm;text-align:left;text-indent:0cm;line-height:\nnormal;page-break-after:auto;punctuation-wrap:simple;text-autospace:none;\nvertical-align:baseline\"><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:0pt\">I. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.1pt\">1. Cán\nbộ, công chức trong biên chế hưởng lương từ ngân sách nhà nước làm việc trong\ncác cơ quan Đảng, Nhà nước, đoàn thể ở Trung ương; ở tỉnh, thành phố trực thuộc\nTrung ương; ở huyện, quận, thị xã, thành phố thuộc tỉnh.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">2. Viên chức trong biên\nchế hưởng lương từ ngân sách nhà nước và các nguồn thu sự nghiệp theo quy định\ncủa pháp luật làm việc trong các đơn vị sự nghiệp của Đảng, Nhà nước, đoàn thể.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">3. Cán bộ, công chức, viên\nchức thuộc biên chế nhà nước và hưởng lương theo bảng lương do Nhà nước quy\nđịnh được cử đến làm việc tại các hội, <span style=\"letter-spacing:-.5pt\">các\ntổ </span>chức phi Chính phủ, các dự án và các cơ quan, tổ chức quốc tế đặt tại\nViệt Nam.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.1pt\">4. Cán\nbộ chuyên trách và công chức ở xã, phường, thị trấn quy định tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4973595')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4973595')\" atmm=\".lqhlTootip-4973595\" onmouseout=\"hideddrivetip();\">khoản\n1 và khoản 2 Điều 2 Nghị định số 121/2003/NĐ-CP</a> ngày 21 tháng 10 năm 2003\ncủa Chính phủ về chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị\ntrấn.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">5. Giáo viên mầm non trong\nbiên chế và giáo viên mầm non hợp đồng quy định tại Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 161/2002/QĐ-TTG\" href=\"https://thuvienphapluat.vn/van-ban/giao-duc/quyet-dinh-161-2002-qd-ttg-chinh-sach-phat-trien-giao-duc-mam-non-50228.aspx\">161/2002/QĐ-TTg</a>  ngày 15 tháng 11 năm 2002 của Thủ tướng Chính phủ.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.1pt\">6. Cán\nbộ y tế xã, phường, thị trấn hưởng lương theo Quyết định số 58/TTg ngày 03\ntháng 02 năm 1994 và Quyết định số 131/TTg ngày 04 tháng 3 năm 1995 của Thủ tướng\nChính phủ.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">7. Cán bộ, công chức kiểm\ntoán Nhà nước xếp lương theo các bảng lương và phụ cấp chức vụ ban hành kèm\ntheo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 1003/2006/NQ-UBTVQH11\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-1003-2006-nq-ubtvqh11-phe-chuan-bang-luong-va-phu-cap-chuc-vu-trang-phuc-can-bo-lanh-dao-kiem-toan-nha-nuoc-kiem-toan-vien-nha-nuoc-10280.aspx\">1003/2006/NQ-UBTVQH11</a>  ngày 03 tháng 3 năm 2006 của Uỷ ban\nthường vụ Quốc hội.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">8. Đại biểu Hội đồng nhân\ndân các cấp hưởng hoạt động phí theo quy định tại <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4973596')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4973596')\" atmm=\".lqhlTootip-4973596\" onmouseout=\"hideddrivetip();\">khoản 2 Điều\n75 Quy chế hoạt động của Hội đồng nhân dân các cấp ban hành kèm theo Nghị quyết\nsố 753/2005/NQ-UBTVQH11</a><span style=\"letter-spacing:-.2pt\"> ngày 02 tháng 4\nnăm 2005 của Uỷ ban Thường vụ Quốc hội.</span></span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">9. Người làm công tác cơ\nyếu trong tổ chức cơ yếu.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">10. Các đối tượng sau đây\ncũng thuộc phạm vi áp dụng Thông tư này để tính đóng, hưởng chế độ bảo hiểm xã\nhội và giải quyết các chế độ liên quan đến tiền lương theo quy định của pháp\nluật:</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">a) Cán bộ, công chức, viên\nchức được vận dụng xếp lương theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 205/2004/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-205-2004-nd-cp-he-thong-thang-luong-bang-luong-che-do-phu-cap-luong-trong-cong-ty-nha-nuoc-bo-sung-phu-luc-14267.aspx\">205/2004/NĐ-CP</a>  ngày 14 tháng 12\nnăm 2004 quy định hệ thống thang lương, bảng lương và chế độ phụ cấp lương\ntrong các công ty nhà nước;</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">b) Các trường hợp đi học,\nthực tập, công tác, điều trị, điều dưỡng trong nước và ngoài nước thuộc biên\nchế trả lương của cơ quan, đơn vị;</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">c) Công chức dự bị, những\nngười đang trong thời gian tập sự trong các cơ quan nhà nước (kể cả tập sự công\nchức cấp xã) và những người đang trong thời gian thử việc trong các đơn vị sự\nnghiệp của Nhà nước;</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:-.2pt\">d)\nCác trường hợp đang bị đình chỉ công tác, đang bị tạm giữ, tạm giam;</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">đ) Các đối tượng ký kết\nhợp đồng lao động đã được xếp lương theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 204/2004/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-204-2004-nd-cp-che-do-tien-luong-doi-voi-can-bo-cong-chuc-vien-chuc-luc-luong-vu-trang-52629.aspx\">204/2004/NĐ-CP</a>  ngày 14\ntháng 12 năm 2004 về chế độ tiền lương đối với cán bộ, công chức, viên chức và\nlực lượng vũ trang.</span></p>\n\n<p align=\"left\" style=\"margin-top:0cm;margin-right:0cm;\nmargin-bottom:6.0pt;margin-left:0cm;text-align:left;text-indent:0cm;line-height:\nnormal;page-break-after:auto;punctuation-wrap:simple;text-autospace:none;\nvertical-align:baseline\"><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:-.2pt\">II. CÁCH TÍNH MỨC LƯƠNG, PHỤ CẤP VÀ\nHOẠT ĐỘNG PHÍ</span></p>\n\n<p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:\n6.0pt;margin-left:0cm;text-indent:0cm;line-height:normal\"><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:.1pt\">Mức\nlương, phụ cấp (kể cả hệ số chênh lệch bảo lưu, nếu có) và hoạt động phí của\ncác đối tượng quy định tại mục I Thông tư này từ ngày 01 tháng 10 năm 2006 được\ntính như sau:</span></p>\n\n<p style=\"text-indent:0cm\"><b><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">1. Đối\nvới cán bộ, công chức, viên chức</span></b></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.1pt\">&nbsp;Cán\nbộ, công chức, viên chức quy định tại khoản 1, 2, 3, 4, 5, 6 và 7 mục I Thông\ntư này, thì căn cứ vào hệ số lương và phụ cấp hiện hưởng quy đ</span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;\nletter-spacing:.15pt\">ịnh tại Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 730/2004/NQ-UBTVQH11\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-730-2004-nq-ubtvqh11-phe-chuan-bang-luong-chuc-vu-phu-cap-chuc-vu-can-bo-lanh-dao-nha-nuoc-bang-luong-chuyen-nghiep-vu-toa-an-kiem-sat-52792.aspx\">730/2004/NQ-UBTVQH11</a>  ngày 30 tháng\n9 năm 2004 của Uỷ ban thường vụ Quốc hội</span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;\nletter-spacing:.1pt\">, Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 1003/2006/NQ-UBTVQH11\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-1003-2006-nq-ubtvqh11-phe-chuan-bang-luong-va-phu-cap-chuc-vu-trang-phuc-can-bo-lanh-dao-kiem-toan-nha-nuoc-kiem-toan-vien-nha-nuoc-10280.aspx\">1003/2006/NQ-UBTVQH11</a>  ngày 03 tháng 3 năm\n2006 của Uỷ ban thường vụ Quốc hội, Quyết định số 128-QĐ/TW ngày 14 tháng 12\nnăm 2004 của Ban Bí thư Trung ương, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 204/2004/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-204-2004-nd-cp-che-do-tien-luong-doi-voi-can-bo-cong-chuc-vien-chuc-luc-luong-vu-trang-52629.aspx\">204/2004/NĐ-CP</a>  ngày 14 tháng\n12 năm 2004 của Chính phủ và mức lương tối thiểu chung được điều chỉnh theo quy\nđịnh tại <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4973597')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4973597')\" atmm=\".lqhlTootip-4973597\" onmouseout=\"hideddrivetip();\">Điều 1 Nghị định số 94/2006/NĐ-CP</a> ngày 07 tháng 9\nnăm 2006 của Chính phủ để tính mức lương, mức phụ cấp và mức tiền của hệ số\nchênh lệch bảo lưu (nếu có) như sau:</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">a) Công thức tính mức\nlương:</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\"><img width=\"595\" height=\"77\" src=\"//files.thuvienphapluat.vn/doc2htm/00014153_files/image001.jpg\"></span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">b) Công thức tính mức phụ\ncấp:</span></p>\n\n<p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:\n6.0pt;margin-left:0cm;text-indent:0cm;line-height:normal\"><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\">- Đối với các khoản\nphụ cấp tính theo mức lương tối thiểu chung:</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\"><img width=\"593\" height=\"85\" src=\"//files.thuvienphapluat.vn/doc2htm/00014153_files/image002.jpg\"></span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">- Đối với các khoản phụ\ncấp tính theo % mức lương hiện hưởng cộng phụ cấp chức vụ lãnh đạo và phụ cấp\nthâm niên vượt khung (nếu có):</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\"><img width=\"591\" height=\"135\" src=\"//files.thuvienphapluat.vn/doc2htm/00014153_files/image003.jpg\"></span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">- Đối với các khoản phụ\ncấp quy định bằng mức tiền cụ thể thì giữ nguyên theo quy định hiện hành.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">c) Công thức tính mức tiền\ncủa hệ số chênh lệch bảo lưu:</span></p>\n\n<p style=\"text-indent:0cm\"><b><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;\nletter-spacing:.1pt\"><img width=\"586\" height=\"119\" src=\"//files.thuvienphapluat.vn/doc2htm/00014153_files/image004.jpg\"></span></b></p>\n\n<p style=\"text-indent:0cm\"><b><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;\nletter-spacing:.1pt\">2. Đối với đại biểu Hội đồng nhân dân các cấp</span></b></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.1pt\">Đại\nbiểu Hội đồng nhân dân các cấp quy định tại khoản 8 mục I Thông tư này, thì c</span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">ăn\ncứ vào hệ số hoạt động phí đối với đại biểu Hội đồng nhân dân các cấp quy định\ntại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4973598')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4973598')\" atmm=\".lqhlTootip-4973598\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 75 Quy chế hoạt động của Hội đồng nhân dân các\ncấp ban hành kèm theo Nghị quyết số 753/2005/NQ-UBTVQH11</a><span style=\"letter-spacing:-.2pt\"> ngày 02 tháng 4 năm 2005 </span>của Uỷ ban thường\nvụ Quốc hội để tính mức hoạt động phí theo công thức sau:</span></p>\n\n<p style=\"text-indent:0cm\"><b><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;\nletter-spacing:.1pt\"><img width=\"596\" height=\"87\" src=\"//files.thuvienphapluat.vn/doc2htm/00014153_files/image005.jpg\"></span></b></p>\n\n<p style=\"text-indent:0cm\"><b><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;\nletter-spacing:.1pt\">3.&nbsp; Đối với n</span></b><b><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">gười làm\ncông tác cơ yếu trong tổ chức cơ yếu</span></b></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.1pt\">a)\nNgười làm công tác cơ yếu là quân nhân, công an nhân dân áp dụng cách tính mức\nlương và phụ cấp theo hướng dẫn của Bộ Quốc phòng và Bộ Công an;</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.2pt\">b)\nNgười làm công tác cơ yếu không phải là quân nhân, công an nhân dân và người\nlàm công tác khác trong tổ chức cơ yếu, thì thực hiện tính mức lương, mức phụ\ncấp và mức tiền của hệ số chênh lệch bảo lưu (nếu có) như đối với cán bộ, công\nchức, viên chức theo cách tính quy định tại khoản 1 mục II Thông tư này.</span></p>\n\n<p align=\"left\" style=\"margin-top:0cm;margin-right:0cm;\nmargin-bottom:6.0pt;margin-left:0cm;text-align:left;text-indent:0cm;line-height:\nnormal;page-break-after:auto;punctuation-wrap:simple;text-autospace:none;\nvertical-align:baseline\"><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;letter-spacing:0pt\">III. TỔ CHỨC THỰC HIỆN</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">1. Thủ trưởng cơ quan, đơn\nvị trực tiếp quản lý các đối tượng hưởng lương, phụ cấp và hoạt động phí quy\nđịnh tại mục I Thông tư này, căn cứ vào số người thực tế có mặt đến ngày 01\ntháng 10 năm 2006 để tính mức lương, mức phụ cấp, mức tiền của hệ số chênh lệch\nbảo lưu (nếu có) và hoạt động phí theo hướng dẫn tại Thông tư này.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.2pt\">2.\nViệc xác định quỹ tiền lương, phụ cấp, hoạt động phí và xác định nhu cầu quỹ\ntăng thêm và nguồn kinh phí thực hiện theo hướng dẫn của Bộ Tài chính.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">3. Thông tư này có hiệu\nlực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Bãi bỏ Thông tư liên tịch\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư liên tịch 105/2005/TTLT-BNV-BTC\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/thong-tu-lien-tich-105-2005-ttlt-bnv-btc-huong-dan-thuc-hien-muc-luong-toi-thieu-chung-can-bo-cong-chuc-vien-chuc-trong-cac-cqnn-don-vi-nn-to-chuc-4038.aspx\">105/2005/TTLT-BNV-BTC</a>  ngày 03 tháng 10 năm 2005 của Bộ Nội vụ và Bộ Tài\nchính hướng dẫn thực hiện mức lương tối thiểu chung đối với cán bộ, công chức,\nviên chức trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước, tổ chức\nchính trị, tổ chức chính trị - xã hội.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black;letter-spacing:.3pt\">4. Các\nquy định tại Thông tư này được thực hiện kể từ ngày 01 tháng 10 năm 2006</span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">.</span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">Các khoản trích và các chế\nđộ được hưởng tính theo mức lương tối thiểu chung được tính lại tương ứng từ\nngày 01 tháng 10 năm 2006. </span></p>\n\n<p style=\"text-indent:0cm\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">Trong quá trình thực hiện\nnếu có vướng mắc, các Bộ, ngành, địa phương phản ánh về Bộ Nội vụ và Bộ Tài\nchính để nghiên cứu, giải quyết./.</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"631\"><!--VABWAFAATABfADIAMAAyADMAMQAxADIAOAA=-->\n <tbody><tr style=\"height:19.45pt\">\n  <td width=\"325\" valign=\"top\" style=\"width:243.9pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:19.45pt\">\n  <p align=\"center\" style=\"margin-top:0cm;margin-right:0cm;\n  margin-bottom:6.0pt;margin-left:5.4pt;text-align:center;text-indent:-5.4pt;\n  line-height:normal;page-break-after:auto\"><span lang=\"EN-US\" style=\"font-size:\n  10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\">KT. BỘ TRƯỞNG BỘ TÀI CHÍNH</span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\n  letter-spacing:0pt\"><br>\n  THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Văn Tá</span></p>\n  </td>\n  <td width=\"306\" valign=\"top\" style=\"width:229.3pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:19.45pt\">\n  <p align=\"center\" style=\"margin-top:0cm;margin-right:0cm;\n  margin-bottom:6.0pt;margin-left:0cm;text-align:center;text-indent:0cm;\n  line-height:normal;page-break-after:auto\"><span lang=\"EN-US\" style=\"font-size:\n  10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\">KT. BỘ TRƯỞNG BỘ NỘI VỤ<br>\n  </span><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\n  letter-spacing:0pt\">THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Trọng Điều</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"text-indent:0cm\"><b><i><span lang=\"EN-US\" style=\"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nơi\nnhận:<br>\n</span></i></b><span lang=\"EN-US\" style=\"font-size:8.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\ncolor:windowtext\">- Văn phòng Chủ tịch nước;<br>\n- Văn phòng Quốc hội;<br>\n- Hội đồng Dân tộc và các Uỷ ban của Quốc hội;<br>\n- Văn phòng Chính phủ;<br>\n- Văn phòng Trung ương, <br>\ncác Ban Đảng ở Trung ương;<br>\n&nbsp;- Các Bộ, cơ quan ngang Bộ,<br>\n&nbsp; cơ quan thuộc Chính phủ;<br>\n- Tòa án nhân dân tối cao;<br>\n- Viện Kiểm sát nhân dân tối cao;<br>\n- Cơ quan Trung ương các đoàn thể;<br>\n- HĐND, UBND các tỉnh, thành phố<br>\n&nbsp;&nbsp; trực thuộc Trung ương;<br>\n- Công báo;<br>\n- Website Chính phủ;<br>\n- Bộ Tư pháp (Cục Kiểm tra văn bản);<br>\n- Lưu: VT, Vụ TL (BNV), VT (B</span></p>\n\n",
+  "mdContent": "BỘ NỘI VỤ – BỘ TÀI CHÍNH\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập – Tự do – Hạnh phúc\n\n Số: 02/2006/TTLT-BNV-BTC\n\n_Hà Nội, ngày 15 tháng 9 năm 2006_\n\n**THÔNG TƯ LIÊN TỊCH**\n\nHƯỚNG DẪN THỰC HIỆN MỨC LƯƠNG TỐI THIỂU CHUNG TỪ NGÀY 01 THÁNG 10 NĂM 2006 ĐỐI VỚI CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TRONG CÁC CƠ QUAN NHÀ NƯỚC, ĐƠN VỊ SỰ NGHIỆP CỦA NHÀ NƯỚC, TỔ CHỨC CHÍNH TRỊ, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI\n\n_Căn cứ Nghị định số [94/2006/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-94-2006-nd-cp-dieu-chinh-muc-luong-toi-thieu-chung-13990.aspx \"Nghị định 94/2006/NĐ-CP\") ngày 07 tháng 9 năm 2006 của Chính phủ điều chỉnh mức lương tối thiểu chung; sau khi trao đổi ý kiến với Ban Tổ chức Trung ương và các cơ quan liên quan, Bộ Nội vụ và Bộ Tài chính hướng dẫn thực hiện mức lương tối thiểu chung từ ngày 01 tháng 10 năm 2006 đối với cán bộ, công chức, viên chức trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội như sau:_\n\nI. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG\n\n1\\. Cán bộ, công chức trong biên chế hưởng lương từ ngân sách nhà nước làm việc trong các cơ quan Đảng, Nhà nước, đoàn thể ở Trung ương; ở tỉnh, thành phố trực thuộc Trung ương; ở huyện, quận, thị xã, thành phố thuộc tỉnh.\n\n2\\. Viên chức trong biên chế hưởng lương từ ngân sách nhà nước và các nguồn thu sự nghiệp theo quy định của pháp luật làm việc trong các đơn vị sự nghiệp của Đảng, Nhà nước, đoàn thể.\n\n3\\. Cán bộ, công chức, viên chức thuộc biên chế nhà nước và hưởng lương theo bảng lương do Nhà nước quy định được cử đến làm việc tại các hội, các tổ chức phi Chính phủ, các dự án và các cơ quan, tổ chức quốc tế đặt tại Việt Nam.\n\n4\\. Cán bộ chuyên trách và công chức ở xã, phường, thị trấn quy định tại khoản 1 và khoản 2 Điều 2 Nghị định số 121/2003/NĐ-CP ngày 21 tháng 10 năm 2003 của Chính phủ về chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị trấn.\n\n5\\. Giáo viên mầm non trong biên chế và giáo viên mầm non hợp đồng quy định tại Quyết định số [161/2002/QĐ-TTg](https://thuvienphapluat.vn/van-ban/giao-duc/quyet-dinh-161-2002-qd-ttg-chinh-sach-phat-trien-giao-duc-mam-non-50228.aspx \"Quyết định 161/2002/QĐ-TTG\") ngày 15 tháng 11 năm 2002 của Thủ tướng Chính phủ.\n\n6\\. Cán bộ y tế xã, phường, thị trấn hưởng lương theo Quyết định số 58/TTg ngày 03 tháng 02 năm 1994 và Quyết định số 131/TTg ngày 04 tháng 3 năm 1995 của Thủ tướng Chính phủ.\n\n7\\. Cán bộ, công chức kiểm toán Nhà nước xếp lương theo các bảng lương và phụ cấp chức vụ ban hành kèm theo Nghị quyết số [1003/2006/NQ-UBTVQH11](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-1003-2006-nq-ubtvqh11-phe-chuan-bang-luong-va-phu-cap-chuc-vu-trang-phuc-can-bo-lanh-dao-kiem-toan-nha-nuoc-kiem-toan-vien-nha-nuoc-10280.aspx \"Nghị quyết 1003/2006/NQ-UBTVQH11\") ngày 03 tháng 3 năm 2006 của Uỷ ban thường vụ Quốc hội.\n\n8\\. Đại biểu Hội đồng nhân dân các cấp hưởng hoạt động phí theo quy định tại khoản 2 Điều 75 Quy chế hoạt động của Hội đồng nhân dân các cấp ban hành kèm theo Nghị quyết số 753/2005/NQ-UBTVQH11 ngày 02 tháng 4 năm 2005 của Uỷ ban Thường vụ Quốc hội.\n\n9\\. Người làm công tác cơ yếu trong tổ chức cơ yếu.\n\n10\\. Các đối tượng sau đây cũng thuộc phạm vi áp dụng Thông tư này để tính đóng, hưởng chế độ bảo hiểm xã hội và giải quyết các chế độ liên quan đến tiền lương theo quy định của pháp luật:\n\na) Cán bộ, công chức, viên chức được vận dụng xếp lương theo Nghị định số [205/2004/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-205-2004-nd-cp-he-thong-thang-luong-bang-luong-che-do-phu-cap-luong-trong-cong-ty-nha-nuoc-bo-sung-phu-luc-14267.aspx \"Nghị định 205/2004/NĐ-CP\") ngày 14 tháng 12 năm 2004 quy định hệ thống thang lương, bảng lương và chế độ phụ cấp lương trong các công ty nhà nước;\n\nb) Các trường hợp đi học, thực tập, công tác, điều trị, điều dưỡng trong nước và ngoài nước thuộc biên chế trả lương của cơ quan, đơn vị;\n\nc) Công chức dự bị, những người đang trong thời gian tập sự trong các cơ quan nhà nước (kể cả tập sự công chức cấp xã) và những người đang trong thời gian thử việc trong các đơn vị sự nghiệp của Nhà nước;\n\nd) Các trường hợp đang bị đình chỉ công tác, đang bị tạm giữ, tạm giam;\n\nđ) Các đối tượng ký kết hợp đồng lao động đã được xếp lương theo Nghị định số [204/2004/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-204-2004-nd-cp-che-do-tien-luong-doi-voi-can-bo-cong-chuc-vien-chuc-luc-luong-vu-trang-52629.aspx \"Nghị định 204/2004/NĐ-CP\") ngày 14 tháng 12 năm 2004 về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang.\n\nII. CÁCH TÍNH MỨC LƯƠNG, PHỤ CẤP VÀ HOẠT ĐỘNG PHÍ\n\nMức lương, phụ cấp (kể cả hệ số chênh lệch bảo lưu, nếu có) và hoạt động phí của các đối tượng quy định tại mục I Thông tư này từ ngày 01 tháng 10 năm 2006 được tính như sau:\n\n**1\\. Đối với cán bộ, công chức, viên chức**\n\n Cán bộ, công chức, viên chức quy định tại khoản 1, 2, 3, 4, 5, 6 và 7 mục I Thông tư này, thì căn cứ vào hệ số lương và phụ cấp hiện hưởng quy định tại Nghị quyết số [730/2004/NQ-UBTVQH11](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-730-2004-nq-ubtvqh11-phe-chuan-bang-luong-chuc-vu-phu-cap-chuc-vu-can-bo-lanh-dao-nha-nuoc-bang-luong-chuyen-nghiep-vu-toa-an-kiem-sat-52792.aspx \"Nghị quyết 730/2004/NQ-UBTVQH11\") ngày 30 tháng 9 năm 2004 của Uỷ ban thường vụ Quốc hội, Nghị quyết số [1003/2006/NQ-UBTVQH11](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-1003-2006-nq-ubtvqh11-phe-chuan-bang-luong-va-phu-cap-chuc-vu-trang-phuc-can-bo-lanh-dao-kiem-toan-nha-nuoc-kiem-toan-vien-nha-nuoc-10280.aspx \"Nghị quyết 1003/2006/NQ-UBTVQH11\") ngày 03 tháng 3 năm 2006 của Uỷ ban thường vụ Quốc hội, Quyết định số 128-QĐ/TW ngày 14 tháng 12 năm 2004 của Ban Bí thư Trung ương, Nghị định số [204/2004/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-204-2004-nd-cp-che-do-tien-luong-doi-voi-can-bo-cong-chuc-vien-chuc-luc-luong-vu-trang-52629.aspx \"Nghị định 204/2004/NĐ-CP\") ngày 14 tháng 12 năm 2004 của Chính phủ và mức lương tối thiểu chung được điều chỉnh theo quy định tại Điều 1 Nghị định số 94/2006/NĐ-CP ngày 07 tháng 9 năm 2006 của Chính phủ để tính mức lương, mức phụ cấp và mức tiền của hệ số chênh lệch bảo lưu (nếu có) như sau:\n\na) Công thức tính mức lương:\n\n![](//files.thuvienphapluat.vn/doc2htm/00014153_files/image001.jpg)\n\nb) Công thức tính mức phụ cấp:\n\n\\- Đối với các khoản phụ cấp tính theo mức lương tối thiểu chung:\n\n![](//files.thuvienphapluat.vn/doc2htm/00014153_files/image002.jpg)\n\n\\- Đối với các khoản phụ cấp tính theo % mức lương hiện hưởng cộng phụ cấp chức vụ lãnh đạo và phụ cấp thâm niên vượt khung (nếu có):\n\n![](//files.thuvienphapluat.vn/doc2htm/00014153_files/image003.jpg)\n\n\\- Đối với các khoản phụ cấp quy định bằng mức tiền cụ thể thì giữ nguyên theo quy định hiện hành.\n\nc) Công thức tính mức tiền của hệ số chênh lệch bảo lưu:\n\n**![](//files.thuvienphapluat.vn/doc2htm/00014153_files/image004.jpg)**\n\n**2\\. Đối với đại biểu Hội đồng nhân dân các cấp**\n\nĐại biểu Hội đồng nhân dân các cấp quy định tại khoản 8 mục I Thông tư này, thì căn cứ vào hệ số hoạt động phí đối với đại biểu Hội đồng nhân dân các cấp quy định tại khoản 2 Điều 75 Quy chế hoạt động của Hội đồng nhân dân các cấp ban hành kèm theo Nghị quyết số 753/2005/NQ-UBTVQH11 ngày 02 tháng 4 năm 2005 của Uỷ ban thường vụ Quốc hội để tính mức hoạt động phí theo công thức sau:\n\n**![](//files.thuvienphapluat.vn/doc2htm/00014153_files/image005.jpg)**\n\n**3.  Đối với n****gười làm công tác cơ yếu trong tổ chức cơ yếu**\n\na) Người làm công tác cơ yếu là quân nhân, công an nhân dân áp dụng cách tính mức lương và phụ cấp theo hướng dẫn của Bộ Quốc phòng và Bộ Công an;\n\nb) Người làm công tác cơ yếu không phải là quân nhân, công an nhân dân và người làm công tác khác trong tổ chức cơ yếu, thì thực hiện tính mức lương, mức phụ cấp và mức tiền của hệ số chênh lệch bảo lưu (nếu có) như đối với cán bộ, công chức, viên chức theo cách tính quy định tại khoản 1 mục II Thông tư này.\n\nIII. TỔ CHỨC THỰC HIỆN\n\n1\\. Thủ trưởng cơ quan, đơn vị trực tiếp quản lý các đối tượng hưởng lương, phụ cấp và hoạt động phí quy định tại mục I Thông tư này, căn cứ vào số người thực tế có mặt đến ngày 01 tháng 10 năm 2006 để tính mức lương, mức phụ cấp, mức tiền của hệ số chênh lệch bảo lưu (nếu có) và hoạt động phí theo hướng dẫn tại Thông tư này.\n\n2\\. Việc xác định quỹ tiền lương, phụ cấp, hoạt động phí và xác định nhu cầu quỹ tăng thêm và nguồn kinh phí thực hiện theo hướng dẫn của Bộ Tài chính.\n\n3\\. Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Bãi bỏ Thông tư liên tịch số [105/2005/TTLT-BNV-BTC](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/thong-tu-lien-tich-105-2005-ttlt-bnv-btc-huong-dan-thuc-hien-muc-luong-toi-thieu-chung-can-bo-cong-chuc-vien-chuc-trong-cac-cqnn-don-vi-nn-to-chuc-4038.aspx \"Thông tư liên tịch 105/2005/TTLT-BNV-BTC\") ngày 03 tháng 10 năm 2005 của Bộ Nội vụ và Bộ Tài chính hướng dẫn thực hiện mức lương tối thiểu chung đối với cán bộ, công chức, viên chức trong các cơ quan nhà nước, đơn vị sự nghiệp của Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội.\n\n4\\. Các quy định tại Thông tư này được thực hiện kể từ ngày 01 tháng 10 năm 2006.\n\nCác khoản trích và các chế độ được hưởng tính theo mức lương tối thiểu chung được tính lại tương ứng từ ngày 01 tháng 10 năm 2006.\n\nTrong quá trình thực hiện nếu có vướng mắc, các Bộ, ngành, địa phương phản ánh về Bộ Nội vụ và Bộ Tài chính để nghiên cứu, giải quyết./.\n\nKT. BỘ TRƯỞNG BỘ TÀI CHÍNH  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nTrần Văn Tá\n\nKT. BỘ TRƯỞNG BỘ NỘI VỤ  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nNguyễn Trọng Điều\n\n**_Nơi nhận:  \n_**\\- Văn phòng Chủ tịch nước;  \n\\- Văn phòng Quốc hội;  \n\\- Hội đồng Dân tộc và các Uỷ ban của Quốc hội;  \n\\- Văn phòng Chính phủ;  \n\\- Văn phòng Trung ương,  \ncác Ban Đảng ở Trung ương;  \n - Các Bộ, cơ quan ngang Bộ,  \n  cơ quan thuộc Chính phủ;  \n\\- Tòa án nhân dân tối cao;  \n\\- Viện Kiểm sát nhân dân tối cao;  \n\\- Cơ quan Trung ương các đoàn thể;  \n\\- HĐND, UBND các tỉnh, thành phố  \n   trực thuộc Trung ương;  \n\\- Công báo;  \n\\- Website Chính phủ;  \n\\- Bộ Tư pháp (Cục Kiểm tra văn bản);  \n\\- Lưu: VT, Vụ TL (BNV), VT (B",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

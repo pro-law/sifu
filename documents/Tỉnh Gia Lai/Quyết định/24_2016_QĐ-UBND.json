@@ -1,0 +1,508 @@
+{
+  "title": "Quyết định 24/2016/QĐ-UBND quy định về quản lý, bảo vệ kết cấu hạ tầng giao thông đường bộ, chống lấn chiếm, tái lấn chiếm hành lang an toàn đường bộ trên quốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Văn bản hợp nhất 19/VBHN-BGTVT năm 2014 hợp nhất Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt do Bộ Giao thông vận tải ban hành",
+      "id": "19/VBHN-BGTVT",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Vi phạm hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Đinh La Thăng"
+      ],
+      "issuedDate": "2014-12-19",
+      "gazetteDate": "2015-01-05",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Hết hiệu lực: 01/08/2016"
+    },
+    {
+      "title": "Nghị định 203-HĐBT năm 1982 về Điều lệ bảo vệ đường bộ do Hội đồng Bộ trưởng ban hành",
+      "id": "203-HĐBT",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Hội đồng Bộ trưởng",
+      "signers": [
+        "Tố Hữu"
+      ],
+      "issuedDate": "1982-12-21",
+      "effectiveDate": "1982-12-21",
+      "gazetteDate": "1982-12-31",
+      "gazetteNumber": "Số 25",
+      "status": "Không còn phù hợp"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 50/2015/TT-BGTVT hướng dẫn Nghị định 11/2010/NĐ-CP về quản lý và bảo trì kết cấu hạ tầng giao thông đường bộ do Bộ trưởng Bộ Giao thông vận tải ban hành",
+      "id": "50/2015/TT-BGTVT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Đinh La Thăng"
+      ],
+      "issuedDate": "2015-09-23",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-10-20",
+      "gazetteNumber": "Từ số 1055 đến số 1056",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 107/2014/NĐ-CP sửa đổi Nghị định 171/2013/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt",
+      "id": "107/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-11-17",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-11-30",
+      "gazetteNumber": "Từ số 1019 đến số 1020",
+      "status": "Hết hiệu lực: 01/08/2016"
+    },
+    {
+      "title": "Nghị định 171/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt",
+      "id": "171/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-13",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-11-29",
+      "gazetteNumber": "Từ số 827 đến số 828",
+      "status": "Hết hiệu lực: 01/08/2016"
+    },
+    {
+      "title": "Nghị định 100/2013/NĐ-CP sửa đổi Nghị định 11/2010/NĐ-CP quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ",
+      "id": "100/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-09-03",
+      "effectiveDate": "2013-10-20",
+      "gazetteDate": "2013-09-14",
+      "gazetteNumber": "Từ số 567 đến số 568",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật xử lý vi phạm hành chính 2012",
+      "id": "15/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Vi phạm hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 11/2010/NĐ-CP quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ",
+      "id": "11/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-02-24",
+      "effectiveDate": "2010-04-15",
+      "gazetteDate": "2010-03-01",
+      "gazetteNumber": "Từ số 109 đến số 110",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 16/2009/TT-BXD sửa đổi Thông tư 04/2008/TT-BXD hướng dẫn quản lý đường đô thị do Bộ Xây dựng ban hành",
+      "id": "16/2009/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Cao Lại Quang"
+      ],
+      "issuedDate": "2009-06-30",
+      "effectiveDate": "2009-08-14",
+      "gazetteDate": "2009-07-28",
+      "gazetteNumber": "Từ số 357 đến số 358",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật giao thông đường bộ 2008",
+      "id": "23/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-11-13",
+      "effectiveDate": "2009-07-01",
+      "gazetteDate": "2009-03-12",
+      "gazetteNumber": "Từ số 145 đến số 146",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 04/2008/TT-BXD hướng dẫn quản lý đường đô thị do Bộ Xây dựng ban hành",
+      "id": "04/2008/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Văn Liên"
+      ],
+      "issuedDate": "2008-02-20",
+      "effectiveDate": "2008-03-23",
+      "gazetteDate": "2008-03-08",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Quyết định 45/2019/QĐ-UBND quy định về chế độ báo cáo định kỳ phục vụ mục tiêu quản lý trên địa bàn tỉnh Gia Lai",
+      "id": "45/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Võ Ngọc Thành"
+      ],
+      "issuedDate": "2019-12-18",
+      "effectiveDate": "2019-12-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 23/2018/QĐ-UBND bãi bỏ Quyết định 11/2013/QĐ-UBND quy định phạm vi quản lý và bảo vệ hành lang an toàn đường bộ đối với các tuyến đường trên địa bàn tỉnh Long An",
+      "id": "23/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Long An",
+      "signers": [
+        "Trần Văn Cần"
+      ],
+      "issuedDate": "2018-05-17",
+      "effectiveDate": "2018-05-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 11/CT-UBND năm 2017 về giải tỏa, chống lấn chiếm, sử dụng trái phép trong phạm vi hành lang bảo vệ công trình cầu, cống, đường thủy nội địa, công trình thủy lợi và đê điều trên địa bàn tỉnh Thái Bình",
+      "id": "11/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Nguyễn Hồng Diên"
+      ],
+      "issuedDate": "2017-05-17",
+      "effectiveDate": "2017-05-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 872/QĐ-UBND năm 2016 sửa đổi khoản 1, Điều 2 Quyết định 169/QĐ-UBND quy định cơ cấu tổ chức và quy chế hoạt động của Hội đồng quản lý Quỹ bảo trì đường bộ tỉnh Gia Lai",
+      "id": "872/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Võ Ngọc Thành"
+      ],
+      "issuedDate": "2016-11-28",
+      "effectiveDate": "2016-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/03/2020"
+    },
+    {
+      "title": "Quyết định 873/QĐ-UBND năm 2016 Quy chế quản lý, sử dụng, thanh toán, quyết toán Quỹ bảo trì đường bộ tỉnh Gia Lai",
+      "id": "873/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Võ Ngọc Thành"
+      ],
+      "issuedDate": "2016-11-28",
+      "effectiveDate": "2016-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 515/QĐ-UBND năm 2016 tổ chức giao thông đường bộ trên địa bàn thành phố Ninh Bình và các khu vực phụ cận thuộc phạm vi quản lý của tỉnh Ninh Bình",
+      "id": "515/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Ninh Bình",
+      "signers": [
+        "Đinh Văn Điến"
+      ],
+      "issuedDate": "2016-10-14",
+      "effectiveDate": "2016-10-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/11/2018"
+    },
+    {
+      "title": "Quyết định 49/2016/QĐ-UBND Quy định quản lý, bảo trì và bảo vệ kết cấu hạ tầng đường địa phương trên địa bàn tỉnh Phú Yên",
+      "id": "49/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Hoàng Văn Trà"
+      ],
+      "issuedDate": "2016-09-12",
+      "effectiveDate": "2016-09-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/03/2022"
+    },
+    {
+      "title": "Quyết định 32/2016/QĐ-UBND Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ địa phương, tỉnh Hà Nam",
+      "id": "32/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Hà Nam",
+      "signers": [
+        "Nguyễn Xuân Đông"
+      ],
+      "issuedDate": "2016-08-25",
+      "effectiveDate": "2016-09-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2023"
+    },
+    {
+      "title": "Quyết định 22/2016/QĐ-UBND Quy định về quản lý, bảo vệ kết cấu hạ tầng giao thông đường bộ địa phương trên địa bàn tỉnh Quảng Trị",
+      "id": "22/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Nguyễn Đức Chính"
+      ],
+      "issuedDate": "2016-06-24",
+      "effectiveDate": "2016-07-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/03/2023"
+    },
+    {
+      "title": "Kế hoạch 89/KH-UBND năm 2016 triển khai Chương trình hành động 04-CTr/TU do tỉnh Phú Yên ban hành",
+      "id": "89/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Hoàng Văn Trà"
+      ],
+      "issuedDate": "2016-06-17",
+      "effectiveDate": "2016-06-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 08/2016/QĐ-UBND quy định nội dung trong quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ trên địa bàn tỉnh Hưng Yên",
+      "id": "08/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Hưng Yên",
+      "signers": [
+        "Nguyễn Văn Phóng"
+      ],
+      "issuedDate": "2016-03-29",
+      "effectiveDate": "2016-04-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 03/2016/QĐ-UBND Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ trên địa bàn tỉnh Hải Dương",
+      "id": "03/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Hải Dương",
+      "signers": [
+        "Nguyễn Dương Thái"
+      ],
+      "issuedDate": "2016-03-14",
+      "effectiveDate": "2016-03-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/11/2022"
+    },
+    {
+      "title": "Quyết định 49/2015/QĐ-UBND Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ trên địa bàn tỉnh Thái Nguyên",
+      "id": "49/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Thái Nguyên",
+      "signers": [
+        "Vũ Hồng Bắc"
+      ],
+      "issuedDate": "2015-12-31",
+      "effectiveDate": "2016-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/09/2019"
+    },
+    {
+      "title": "Quyết định 190/QĐ-UBND năm 2009 về Quy chế phối hợp giữa chính quyền địa phương các cấp, các sở, ban, ngành với đơn vị quản lý đường bộ và Thanh tra giao thông đường bộ trong công tác quản lý, bảo vệ, giải toả và chống tái lấn chiếm hành lang an toàn đường bộ các quốc lộ, tỉnh lộ trên địa bàn tỉnh Quảng Bình",
+      "id": "190/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Nguyễn Hữu Hoài"
+      ],
+      "issuedDate": "2009-02-09",
+      "effectiveDate": "2009-02-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 02/10/2017"
+    }
+  ],
+  "id": "24/2016/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Giao thông - Vận tải"
+  ],
+  "organization": "Tỉnh Gia Lai",
+  "signers": [
+    "Võ Ngọc Thành"
+  ],
+  "issuedDate": "2016-05-16",
+  "effectiveDate": "2016-05-26",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA2ADAAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH GIA LAI<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  24/2016/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Gia Lai, ngày 16\n  tháng 05 năm 2016</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN\nHÀNH QUY ĐỊNH VỀ QUẢN LÝ, BẢO VỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, CHỐNG LẤN\nCHIẾM, TÁI LẤN CHIẾM HÀNH LANG AN TOÀN ĐƯỜNG BỘ TRÊN CÁC QUỐC LỘ, ĐƯỜNG TỈNH\nTRÊN ĐỊA BÀN TỈNH GIA LAI</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ điều 142, Luật Tổ chức chính quyền địa phương\nnăm 2015;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Ban hành văn bản Quy phạm pháp luật\nnăm 2004;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Giao thông đường bộ năm 2008;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Xử lý vi phạm hành chính năm 2012;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  ngày\n24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao\nthông đường bộ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a>  ngày\n03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu\nhạ tầng giao thông đường bộ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 04/2008/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-04-2008-tt-bxd-huong-dan-quan-ly-duong-do-thi-62527.aspx\">04/2008/TT-BXD</a>  ngày\n20/02/2008 của Bộ Xây dựng hướng dẫn quản lý đường đô thị; Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 16/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-16-2009-tt-bxd-sua-doi-04-2008-tt-bxd-quan-ly-duong-do-thi-90625.aspx\">16/2009/TT-BXD</a>  ngày 30/6/2009 của Bộ Xây dựng về sửa đổi, bổ sung Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 04/2008/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-04-2008-tt-bxd-huong-dan-quan-ly-duong-do-thi-62527.aspx\">04/2008/TT-BXD</a>  ngày 20/02/2008 của Bộ Xây dựng hướng dẫn quản lý đường đô thị;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 50/2015/TT-BGTVT\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx\">50/2015/TT-BGTVT</a>  ngày\n23/9/2015 của Bộ Giao thông vận tải hướng dẫn thực hiện một số điều của Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết\ncấu hạ tầng giao thông đường bộ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 171/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-171-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-linh-vuc-giao-thong-duong-bo-duong-sat-213228.aspx\">171/2013/NĐ-CP</a>  ngày\n13/11/2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực\ngiao thông đường bộ và đường sắt; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-107-2014-nd-cp-sua-doi-171-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-giao-thong-duong-bo-duong-sat-258046.aspx\">107/2014/NĐ-CP</a>  ngày 17/11/2014 của\nChính phủ về sửa đổi, bổ sung một số điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 171/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-171-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-linh-vuc-giao-thong-duong-bo-duong-sat-213228.aspx\">171/2013/NĐ-CP</a>  ngày\n13/11/2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực\ngiao thông đường bộ và đường sắt.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Theo đề nghị của Giám đốc Sở Giao thông vận tải\ntại Công văn số 553/SGTVT-QLKCHT ngày 14/4/2016,</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy định về quản lý, bảo vệ\nkết cấu hạ tầng giao thông đường bộ, chống lấn chiếm, tái lấn chiếm hành lang\nan toàn đường bộ trên các quốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a> <a name=\"dieu_2_name\">Quyết định này có hiệu lực thi hành kể từ ngày 26 tháng 5\nnăm 2016.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh; Giám đốc các Sở: Giao thông vận tải,\nCông an tỉnh, Kế hoạch và Đầu tư, Công Thương, Xây dựng, Tài chính, Nông nghiệp\nvà Phát triển nông thôn, Tài nguyên và Môi trường, Thông tin và Truyền thông;\nChủ tịch UBND các huyện, thị xã, thành phố; Chủ tịch UBND các xã, phường, thị\ntrấn và Thủ trưởng các cơ quan, đơn vị liên quan chịu trách nhiệm thi hành Quyết\nđịnh này./.</a></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA2ADAAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như điều 3;<br>\n  - Bộ Giao thông vận tải (báo cáo);<br>\n  - Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - Đ/c CT &amp; các PCT UBND tỉnh;<br>\n  - Đoàn Đại biểu Quốc hội tỉnh;<br>\n  - Cục quản lý Đường bộ III;<br>\n  - UBND các huyện, thị xã, thành phố;<br>\n  - Cục Kiểm tra văn bản (Bộ tư pháp);<br>\n  - Báo Gia Lai;<br>\n  - Đài Phát thanh và Truyền hình tỉnh;<br>\n  - Sở Tư pháp;<br>\n  - Các PVP UBND tỉnh;<br>\n  - Lưu: VT, NC, CNXD.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Võ Ngọc Thành</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\">VỀ\nQUẢN LÝ, BẢO VỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, CHỐNG LẤN CHIẾM, TÁI LẤN CHIẾM\nHÀNH LANG AN TOÀN ĐƯỜNG BỘ TRÊN CÁC QUỐC LỘ, ĐƯỜNG TỈNH TRÊN ĐỊA BÀN TỈNH</a><br>\n<i>(Kèm theo Quyết định số 24/2016/QĐ-UBND ngày 16 tháng 5 năm 2016 của Ủy ban\nnhân dân tỉnh)</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>Điều 1. Phạm vi điều chỉnh.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Quy định này Quy định về quản lý, bảo vệ kết cấu hạ\ntầng giao thông đường bộ, chống lấn chiếm, tái lấn chiếm hành lang an toàn đường\nbộ trên các quốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b>Điều 2. Đối tượng áp dụng.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Tổ chức, cá nhân có liên quan đến quản lý, bảo vệ,\nkhai thác, sử dụng phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ đối với\nquốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>Điều 3. Giải thích từ ngữ.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">- Đường bộ gồm đường, cầu đường bộ, hầm đường bộ, bến\nphà đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">- Kết cấu hạ tầng giao thông đường bộ gồm công\ntrình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ\nkhác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">- Đất của đường bộ: là phần đất trên đó công trình\nđường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo\nvệ công trình đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">- Hành lang an toàn đường bộ (viết tắt là HLATĐB):\nlà dải đất hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai\nbên để đảm bảo an toàn giao thông đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">HỆ THỐNG ĐƯỜNG QUỐC LỘ,\nĐƯỜNG TỈNH TRÊN ĐỊA BÀN, GIỚI HẠN PHẠM VI HÀNH LANG AN TOÀN ĐƯỜNG BỘ VÀ ĐƠN VỊ\nQUẢN LÝ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Giới hạn hành lang an\ntoàn đường bộ.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Giới hạn hành lang an toàn đường bộ của các tuyến\nquốc lộ và hệ thống đường tỉnh trên địa bàn được thực hiện theo quy định tại\nNghị định 203/HĐBT ngày 21/12/1982 của Hội đồng Bộ trưởng (nay là Chính phủ) về\nviệc ban hành điều lệ bảo vệ đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">Đối với những đoạn tuyến được mở mới, tuyến tránh\nđô thị, những đoạn nắn chỉnh cục bộ, giới hạn hành lang bảo vệ đường bộ được\nquy định từ điều 15 đến điều 19, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  ngày 24/02/2010 của\nChính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ\n(sau đây gọi tắt là Nghị định số 11/2010/NĐ-CP) và khoản 2, khoản 3, điều 1,\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a>  ngày 03/9/2013 của Chính phủ về sửa đổi, bổ sung một\nsố điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  ngày 24/02/2010 của Chính phủ quy định về\nquản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (sau đây gọi tắt là Nghị\nđịnh số 100/2013/NĐ-CP); điều 4, điều 5, Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 50/2015/TT-BGTVT\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx\">50/2015/TT-BGTVT</a>  ngày\n23/9/2015 của Bộ Giao thông vận tải hướng dẫn thực hiện một số điều của Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt\">I. Giới hạn hành lang an toàn đường bộ của các tuyến\nquốc lộ và đường tỉnh trên địa bàn tỉnh:</p>\n\n<p style=\"margin-top:6.0pt\">1. Hệ thống Quốc lộ.</p>\n\n<p style=\"margin-top:6.0pt\">a) Quốc lộ 14 - đường Hồ Chí Minh: Điểm đầu Km494\n(Km1564 đường Hồ Chí Minh) thuộc địa phận huyện Chư Păh, tỉnh Gia Lai, điểm cuối\nlà Km608 (Km1668 đường Hồ Chí Minh) dài 104km, giới hạn hành lang an toàn đường\nbộ từ tim đường trở ra hai bên 25m.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quốc lộ 19: Điểm đầu là Km67+00 (ranh giới tỉnh\nBình Định và Gia Lai), điểm cuối là Km243+00 giáp với đường Khu kinh tế cửa khẩu\nLệ Thanh (Đoạn Km90 - Km108+00 đã bàn giao cho dự án BOT), dài 158km, giới hạn\nhành lang an toàn đường bộ từ tim đường trở ra hai bên 25m.</p>\n\n<p style=\"margin-top:6.0pt\">c) Quốc lộ 14C: Điểm đầu Km107 (ranh giới tỉnh Gia\nLai và Kon Tum), điểm cuối Km197+481 (ranh giới tỉnh Gia Lai và Đăk Lăk) dài\n90,481Km, giới hạn hành lang an toàn đường bộ từ mép ngoài cùng của nền đường bộ\n(chân mái đường đắp hoặc mép ngoài của rãnh dọc tại các vị trí không đào không\nđắp hoặc mép đỉnh mái đường đào) ra mỗi bên 10m.</p>\n\n<p style=\"margin-top:6.0pt\">d) Quốc lộ 25: Điểm đầu là Km69 (ranh giới tỉnh Phú\nYên và Gia Lai), điểm cuối là Km180+810 giao với quốc lộ 14 (đường Hồ Chí Minh),\ndài 111.81km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên\n25m.</p>\n\n<p style=\"margin-top:6.0pt\">e) Đường Trường Sơn Đông: Điểm đầu là Km230 (ranh\ngiới tỉnh Gia Lai và Kon Tum), điểm cuối là Km475 (ranh giới tỉnh Gia Lai và\nPhú Yên), dài 247Km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra\nhai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">2. Hệ thống đường tỉnh:</p>\n\n<p style=\"margin-top:6.0pt\">a) Đường tỉnh ĐT 661: Điểm đầu Km0 giao với\nKm514+800 - quốc lộ 14, thị trấn Phú Hòa, huyện Chư Păh, điểm cuối là Km22+500\ntiếp giáp đầu đường vào Nhà máy thủy điện Ya Ly, dài 22,5 km, giới hạn hành\nlang an toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">b) Đường tỉnh ĐT 662: Điểm đầu Km67, thị trấn Ia\nPa, huyện Ia Pa trùng với Km392 đường Trường Sơn Đông, điểm cuối là Km80+200\ngiao với Km40 - đường Trường Sơn Đông, thị xã Ayun Pa dài 13,2km, giới hạn hành\nlang an toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">c) Đường tỉnh ĐT 662B: Điểm đầu Km0 giao với\nKm149+200 - quốc lộ 25, huyện Phú Thiện; điểm cuối là Km24+630, xã Ia Kdăm, huyện\nIa Pa, dài 24,63km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai\nbên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">d) Đường tỉnh ĐT 663: Điểm đầu Km0 giao với\nKm188+200 - quốc lộ 19, xã Bầu Cạn, huyện Chư Prông; điểm cuối là Km47 giao với\nKm172 - quốc lộ 14C, xã Ia Puch, huyện Chư Prông, dài 47km, giới hạn hành lang\nan toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">e) Đường tỉnh ĐT 664: Điểm đầu Km0 giao với đường\nLý Thái Tổ, phường Ia Kring, thành phố Pleiku; điểm cuối là Km58+400 giao với\nKm115+900 - quốc lộ 14C, xã Ia O, huyện Ia Grai, chiều dài 58,4km, giới hạn\nhành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">f) Đường tỉnh ĐT 665: Điểm đầu Km0 giao với\nKm552+140 - quốc lộ 14, xã Ia Băng, huyện Chư Prông; điểm cuối là Km58+030 giao\nvới Km187 - quốc lộ 14C xã Ia Mơ, huyện Chư Prông, chiều dài 58,03km, giới hạn\nhành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">g) Đường tỉnh ĐT 666: Điểm đầu Km0 giao với Km139 -\nquốc lộ 19, xã Đăk Djrăng huyện Mang Yang; điểm cuối là Km61+200 giao với\nKm378+350 - đường Trường Sơn Đông, xã Pờ Tó, huyện Ia Pa, dài 61,2km. Đoạn Km0\n- Km46+500 qua địa phận huyện Mang Yang giới hạn hành lang an toàn đường bộ từ\ntim đường trở ra hai bên 17,5m; đoạn Km46+500 - Km61+200 qua địa phận huyện Ia\nPa, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">g) Đường tỉnh ĐT 667: Điểm đầu Km0 giao với\nKm79+900 - quốc lộ 19, thị xã An Khê; điểm cuối là Km31+00 giao với Km347+200 -\nđường Trường Sơn Đông, thị trấn Kông Cho, dài 31km, giới hạn hành lang an toàn\nđường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">h) Đường tỉnh ĐT 668: Điểm đầu Km0 giao với\nKm124+700 - quốc lộ 25, thị xã Ayun Pa; điểm cuối Km15+500 tiếp giáp ranh giới\ntỉnh Đăk Lăk, dài 15,5km, giới hạn hành lang an toàn đường bộ từ tim đường trở\nra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">i) Đường tỉnh ĐT 669: Điểm đầu Km0 giao với\nKm76+230 - quốc lộ 19, thị xã An Khê; điểm cuối là Km29+400, thị trấn Kbang,\nhuyện Kbang, dài 29,4km, giới hạn hành lang an toàn đường bộ từ tim đường trở\nra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">k) Đường tỉnh ĐT 670: Điểm đầu Km0 giao với\nKm134+400 - quốc lộ 19, thị trấn Kon Dỡng, huyện Mang Yang; điểm cuối là\nKm45+500 giao với Km495+800- QL14, xã Ia Khươl, huyện Chư Păh, dài 45,5km, giới\nhạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">l) Đường tỉnh ĐT 670B: Điểm đầu Km0 giao với đường\nTôn Đức Thắng, xã Biển Hồ, thành phố Pleiku; điểm cuối là Km24 giao với Km23 -\nđường tỉnh 670, xã Đăk Sơ Mei, huyện Đăk Đoa, dài 24km, giới hạn hành lang an\ntoàn đường bộ từ tim đường trở ra hai bên 15m.</p>\n\n<p style=\"margin-top:6.0pt\">II. Đối với đoạn tuyến Quốc lộ, đường tỉnh qua đô\nthị, phạm vi hành lang an toàn đường bộ theo quy hoạch của địa phương đã được\nphê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Sử dụng, khai thác phạm\nvi bảo vệ kết cấu hạ tầng giao thông đường bộ hệ thống đường quốc lộ và đường tỉnh.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Hệ thống đường quốc lộ: Việc sử dụng, khai thác\nphạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ tuân thủ theo điều 26, điều\n28, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  và các quy định tại Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 50/2015/TT-BGTVT\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx\">50/2015/TT-BGTVT</a> \nngày 23/9/2015 của Bộ Giao thông vận tải hướng dẫn thực hiện một số điều của\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a> ; được sử dụng đường bộ vào các hoạt động văn hóa, sử\ndụng một phần hè phố không vào mục đích giao thông được quy định tại điều 25\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  và điều 25a, khoản 4, điều 1, Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt\">2. Hệ thống đường tỉnh: Việc sử dụng, khai thác phạm\nvi bảo vệ kết cấu hạ tầng giao thông đường bộ áp dụng quy định tại khoản 1 điều\nnày, ngoài ra được sử dụng đường bộ vào các hoạt động văn hóa, sử dụng một phần\nhè phố không vào mục đích giao thông được quy định tại điều 25, Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a>  và điều 25a, 25b, 25c, khoản 4, điều 1, Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt\">Lòng đường thuộc hệ thống đường tỉnh chỉ sử dụng\nvào mục đích giao thông; ngoài ra nếu sử dụng vào các hoạt động văn hóa (thể\nthao, diễu hành, lễ hội) phải được Sở Giao thông vận tải chấp thuận bằng văn bản.</p>\n\n<p style=\"margin-top:6.0pt\">3. Các tổ chức, cá nhân vi phạm về kết cấu hạ tầng\ngiao thông đường bộ sẽ bị xử lý theo quy định tại văn bản hợp nhất số\n<a class=\"text-blue\" target=\"_blank\" title=\"Văn bản hợp nhất 19/VBHN-BGTVT\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/van-ban-hop-nhat-19-vbhn-bgtvt-2014-hop-nhat-nghi-dinh-xu-phat-vi-pham-hanh-chinh-giao-thong-duong-bo-duong-sat-262049.aspx\">19/VBHN-BGTVT</a>  ngày 19/12/2014 của Bộ Giao thông vận tải về quy định xử phạt vi\nphạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Trách nhiệm quản lý các\ntuyến đường quốc lộ, đường tỉnh và việc sử dụng đất trong và ngoài hành lang an\ntoàn đường bộ:</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Cục quản lý Đường bộ III: Trực tiếp quản lý tuyến\nQuốc lộ 14 - đường Hồ Chí Minh, Quốc lộ 19, đường Trường Sơn Đông đoạn Km230 -\nKm320.</p>\n\n<p style=\"margin-top:6.0pt\">2. Sở Giao thông vận tải: Trực tiếp quản lý các tuyến\nđường tỉnh và các tuyến quốc lộ được ủy thác, gồm: Quốc lộ 14C, Quốc lộ 25, đường\nTrường Sơn Đông (đoạn còn lại).</p>\n\n<p style=\"margin-top:6.0pt\">3. Ủy ban nhân dân cấp huyện, cấp xã quản lý việc sử\ndụng đất trong hành lang an toàn đường bộ, trách nhiệm quản lý, bảo vệ được quy\nđịnh tại điều 41, điều 42, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a> ; điều 31, Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 50/2015/TT-BGTVT\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx\">50/2015/TT-BGTVT</a>  và các quy định tại điều 9, điều 10 của quy định này.</p>\n\n<p style=\"margin-top:6.0pt\">Ủy ban nhân dân cấp huyện quản lý, bảo trì từ mép mặt\nđường (bó vỉa) trở ra trên các đoạn tuyến quốc lộ và đường tỉnh đi qua nội\nthành phố, thị xã, thị trấn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TRÁCH NHIỆM QUẢN LÝ VÀ BẢO\nVỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, CHỐNG LẤN CHIẾM, TÁI LẤN CHIẾM HÀNH\nLANG AN TOÀN ĐƯỜNG BỘ TRÊN QUỐC LỘ, ĐƯỜNG TỈNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Trách nhiệm của Sở Giao\nthông vận tải.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Hướng dẫn, tổ chức, chỉ đạo việc tuyên truyền,\nphổ biến, giáo dục pháp luật về bảo vệ kết cấu hạ tầng giao thông đường bộ\ntrong phạm vi địa phương.</p>\n\n<p style=\"margin-top:6.0pt\">2. Tổ chức thực hiện các quy định về bảo vệ kết cấu\nhạ tầng giao thông đường bộ; các biện pháp phòng ngừa, ngăn chặn, xử lý vi phạm,\ngiải tỏa vi phạm hành lang an toàn đường bộ trong phạm vi Sở quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">3. Thông báo cụ thể cấp kỹ thuật quy hoạch, giới hạn\nhành lang an toàn đường bộ của các đoạn, tuyến quốc lộ, đường tỉnh được giao quản\nlý; cắm đầy đủ hệ thống cột mốc lộ giới hành lang an toàn giao thông đường bộ\nvà mốc giải phóng mặt bằng tổ chức bàn giao cho chính quyền địa phương quản lý;\nđịnh kỳ, có trách nhiệm duy tu, sửa chữa, thay thế cột mốc bị hư hỏng.</p>\n\n<p style=\"margin-top:6.0pt\">4. Đôn đốc, kiểm tra các đơn vị quản lý đường bộ,\nThanh tra Sở Giao thông vận tải thực hiện công tác quản lý và bảo vệ kết cấu hạ\ntầng giao thông đường bộ theo đúng các quy định.</p>\n\n<p style=\"margin-top:6.0pt\">5. Cấp, thu hồi giấy phép thi công, đình chỉ hoạt động\ngây mất an toàn giao thông, an toàn công trình đường bộ trong phạm vi bảo vệ kết\ncấu hạ tầng giao thông đường bộ trên đường tỉnh và quốc lộ được giao quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">6. Phối hợp chặt chẽ, kịp thời với Ủy ban nhân dân\ncác huyện, thị xã, thành phố trong công tác quản lý, cấp phép sử dụng tạm thời\nmột phần hè phố, lòng đường đối với các tuyến đường đi qua đô thị do Sở quản lý\nhoặc được ủy thác quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">7. Chỉ đạo lực lượng Thanh tra Sở Giao thông vận tải\ntăng cường kiểm tra, giám sát việc sử dụng tạm thời một phần hè phố, lòng đường\nngoài mục đích giao thông trên địa bàn tỉnh; xử lý nghiêm đối với các hành vi,\nvi phạm hành lang an toàn đường bộ theo quy định hiện hành.</p>\n\n<p style=\"margin-top:6.0pt\">8. Thanh tra Sở Giao thông vận tải.</p>\n\n<p style=\"margin-top:6.0pt\">a) Chủ trì, phối hợp với đơn vị quản lý bảo dưỡng\ntuyến đường xử lý kịp thời các hành vi vi phạm quy định về quản lý và bảo vệ kết\ncấu hạ tầng giao thông đường bộ thuộc phạm vi trách nhiệm được giao;</p>\n\n<p style=\"margin-top:6.0pt\">b) Chủ trì, phối hợp với đơn vị quản lý bảo dưỡng\ntuyến đường hoàn thiện hồ sơ vi phạm hành lang an toàn đường bộ gửi Ủy ban nhân\ndân cấp huyện đề nghị cưỡng chế giải tỏa;</p>\n\n<p style=\"margin-top:6.0pt\">c) Chủ trì, phối hợp với đơn vị quản lý bảo dưỡng\ntuyến đường hoàn thiện hồ sơ vi phạm công trình đường bộ, lấn chiếm và sử dụng\ntrái phép đất của đường bộ; xử lý theo thẩm quyền. Trường hợp hành vi vi phạm\ngây hậu quả nghiêm trọng, chuyển hồ sơ tới cơ quan có thẩm quyền xử lý theo quy\nđịnh của pháp luật;</p>\n\n<p style=\"margin-top:6.0pt\">d) Phối hợp và hỗ trợ lực lượng thanh tra chuyên\nngành của Cục Quản lý Đường bộ III khi có yêu cầu trong hoạt động thanh tra, xử\nphạt vi phạm hành chính việc chấp hành các quy định về bảo vệ, chống lấn chiếm\nhành lang an toàn giao thông đường bộ do Cục Quản lý đường bộ III trực tiếp quản\nlý.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b>Điều 8. Trách nhiệm của đơn vị\nquản lý đường bộ.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thường xuyên kiểm tra, phát hiện kịp thời các\nhành vi xâm phạm và sử dụng trái phép công trình giao thông và hành lang an\ntoàn giao thông đường bộ; chịu trách nhiệm chính trong công tác quản lý, bảo vệ\ncông trình đường bộ và đất của đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Phối hợp với chính quyền địa phương xây dựng\nphương án thực hiện việc cắm mốc lộ giới trên thực địa, lập hồ sơ và bàn giao\ncho Ủy ban nhân dân cấp xã quản lý và bảo vệ.</p>\n\n<p style=\"margin-top:6.0pt\">3. Khi phát hiện vi phạm phải yêu cầu đình chỉ ngay\nhành vi vi phạm, thông báo bằng văn bản, điện thoại và phối hợp với Ủy ban nhân\ndân cấp xã để lập biên bản vi phạm hành chính, yêu cầu chấm dứt các hành vi vi\nphạm, khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây\nra và xử lý theo thẩm quyền; đồng thời phải báo ngay về cơ quan quản lý đường bộ\nđể có biện pháp tạm thời nhằm bảo đảm an toàn giao thông, bảo vệ công trình đường\nbộ. Trong vòng 24 giờ, sau khi lập biên bản vi phạm, đơn vị quản lý đường bộ phải\nlập hồ sơ vi phạm gửi Thanh tra Giao thông vận tải và cơ quan bảo vệ pháp luật\ntại địa phương đề nghị xử lý vi phạm theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">4. Bàn giao mặt bằng thi công cho các tổ chức, cá\nnhân được cấp phép thi công trên đường bộ đang khai thác. Trực tiếp giám sát việc\nthực hiện trong phạm vi thi công, các quy định của pháp luật về đảm bảo an toàn\ngiao thông và trong giấy phép thi công. Phát hiện, ngăn chặn, lập biên bản và\nbáo cáo kịp thời cho cơ quan quản lý đường bộ việc các tổ chức, cá nhân vi phạm\ncác quy định trong khi thi công hoặc quá trình thi công gây ảnh hưởng đến kết cấu\nvà an toàn của công trình đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_5_8\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-2912763')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2912763')\" atmm=\".lqhlTootip-2912763\" onmouseout=\"hideddrivetip();\">5. Định kỳ hàng tháng tổng hợp\nbáo cáo cơ quan quản lý đường bộ có thẩm quyền về công tác quản lý hành lang an\ntoàn đường bộ trước ngày 05 của tháng tiếp theo.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Trách nhiệm của Ủy ban\nnhân dân huyện, thị xã, thành phố.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Tổ chức tuyên truyền, phổ biến giáo dục pháp luật\ntới người dân các quy định về phạm vi đất dành cho bảo vệ kết cấu hạ tầng giao\nthông đường bộ;</p>\n\n<p style=\"margin-top:6.0pt\">2. Quản lý việc sử dụng đất trong hành lang an toàn\nđường bộ theo quy định của pháp luật, xử lý kịp thời các trường hợp vi phạm lấn\nchiếm, sử dụng trái phép đất hành lang an toàn đường bộ;</p>\n\n<p style=\"margin-top:6.0pt\">3. Phối hợp với cơ quan quản lý đường bộ, rà soát,\nthống kê, phân loại đất và công trình nằm trong phần đất của đường bộ, HLATĐB.\nRà soát lại diện tích đất trong phạm vi HLATĐB đã cấp Giấy chứng nhận quyền sử\ndụng đất cho các cá nhân và tổ chức, có phương án thu hồi diện tích đất đã cấp;</p>\n\n<p style=\"margin-top:6.0pt\">4. Giải tỏa các công trình ảnh hưởng đến phạm vi bảo\nvệ kết cấu hạ tầng giao thông đường bộ phù hợp với quy hoạch phát triển giao\nthông đường bộ và các công trình ảnh hưởng đến an toàn công trình đường bộ và\nhoạt động giao thông vận tải;</p>\n\n<p style=\"margin-top:6.0pt\">5. Tổ chức thực hiện cưỡng chế để giải tỏa vi phạm,\nlập lại trật tự hành lang an toàn đường bộ; ngăn chặn và chấm dứt tình trạng\ntái lấn chiếm, sử dụng trái phép hành lang an toàn đường bộ;</p>\n\n<p style=\"margin-top:6.0pt\">6. Phối hợp với đơn vị quản lý đường bộ, Thanh tra\nđường bộ xử lý theo thẩm quyền các hành vi xâm phạm công trình đường bộ, các\nhành vi lấn chiếm, sử dụng trái phép đất dành cho đường bộ;</p>\n\n<p style=\"margin-top:6.0pt\">7. Tiếp nhận hồ sơ vi phạm hành chính trên địa bàn\ndo cơ quan thực hiện chức năng thanh tra ngành giao thông vận tải lập, chuyển đến\nvà xử lý theo thẩm quyền;</p>\n\n<p style=\"margin-top:6.0pt\">8. Thực hiện cấp giấy phép sử dụng tạm thời hè phố,\nlòng đường đối với các trường hợp sử dụng tại điều 25, Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a> ;\nđiểm 4, điều 1, Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a> ; lấy ý kiến chấp thuận của đơn vị quản\nlý đường bộ trước khi cấp giấy phép sử dụng;</p>\n\n<p style=\"margin-top:6.0pt\">9. Chỉ đạo các phòng, ban, Ủy ban nhân dân xã, phường,\nthị trấn thực hiện chức năng quản lý, kiểm tra, giám sát theo thẩm quyền và\ntheo quy định của pháp luật;</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_10_9\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-2912764')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2912764')\" atmm=\".lqhlTootip-2912764\" onmouseout=\"hideddrivetip();\">10. Thực hiện chế độ báo cáo\ntháng, quý, năm và đột xuất theo quy định về tình hình quản lý sử dụng hè phố,\nlòng đường ngoài mục đích giao thông thuộc phạm vi địa bàn quản lý.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b>Điều 10. Trách nhiệm của Ủy\nban nhân dân cấp xã.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thực hiện công tác quản lý và bảo vệ kết cấu hạ\ntầng giao thông đường bộ trên địa bàn. Phát hiện và phối hợp với đơn vị quản lý\nđường bộ, Thanh tra giao thông và các lực lượng liên quan kiểm tra, lập biên bản\nvi phạm, tiếp nhận hồ sơ vi phạm hành chính do cơ quan thực hiện chức năng thanh\ntra ngành Giao thông vận tải lập, chuyển đến và xử lý vi phạm kịp thời theo thẩm\nquyền các hành vi lấn chiếm, sử dụng trái phép đất hành lang an toàn đường bộ\ntrên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\">2. Huy động lực lượng tham gia công tác cưỡng chế,\ngiải tỏa vi phạm hành lang an toàn đường bộ theo kế hoạch của Ủy ban nhân dân\nhuyện, thị xã, thành phố.</p>\n\n<p style=\"margin-top:6.0pt\">3. Tuyên truyền, phổ biến tới nhân dân các quy định\nvề bảo vệ kết cấu hạ tầng giao thông đường bộ; các văn bản về công tác bảo đảm\ntrật tự an toàn giao thông để nâng cao nhận thức và ý thức chấp hành pháp luật\nvề giao thông.</p>\n\n<p style=\"margin-top:6.0pt\">4. Quản lý, sử dụng đất trong hành lang an toàn đường\nbộ theo quy định của pháp luật; xử lý kịp thời các trường hợp lấn chiếm, sử dụng\ntrái phép đất hành lang an toàn đường bộ. Tiếp nhận bàn giao và quản lý, bảo vệ\nmốc lộ giới, hành lang an toàn đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">5. Thực hiện chấp thuận sử dụng tạm thời hè phố đối\nvới các trường hợp quy định tại điểm b, c, khoản 2, điều 25a của điểm 4, điều\n1, Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt\">6. Kiểm tra việc tuân thủ theo nội dung giấy phép sử\ndụng hè phố, lòng đường trên địa bàn. Đề xuất với cơ quan cấp phép thu hồi giấy\nphép đối với các trường hợp vi phạm.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_7_10\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-2912765')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2912765')\" atmm=\".lqhlTootip-2912765\" onmouseout=\"hideddrivetip();\">7. Thực hiện chế độ báo cáo\ntháng, quý, năm và đột xuất theo quy định.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Trách nhiệm của các\nchủ đầu tư đối với đường đang triển khai dự án xây dựng mới, nâng cấp, cải tạo.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Chủ đầu tư xác định giới hạn đất dành cho đường bộ\nvà thực hiện như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Đối với đất của đường bộ, lập thủ tục đề nghị cơ\nquan có thẩm quyền thu hồi đất, thực hiện bồi thường theo quy định của pháp luật\nvề đất đai;</p>\n\n<p style=\"margin-top:6.0pt\">b) Đối với đất hành lang an toàn đường bộ: Chủ đầu\ntư tiến hành cắm mốc lộ giới để bàn giao cho địa phương và cơ quan quản lý đường\nbộ quản lý theo quy định như đối với hành lang đường bộ đang khai thác. Trường\nhợp công trình và các tài sản khác nằm trong hành lang an toàn đường bộ ảnh hưởng\ntrực tiếp đến an toàn giao thông, an toàn công trình đường bộ thì chủ đầu tư tiến\nhành xác định mức độ ảnh hưởng, phối hợp cùng cơ quan quản lý đất đai của địa\nphương lập thủ tục đề nghị cơ quan có thẩm quyền bồi thường, hỗ trợ thiệt hại\ndo hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định\ncủa pháp luật về đất đai;</p>\n\n<p style=\"margin-top:6.0pt\">c) Phát hiện, báo cáo kịp thời Ủy ban nhân dân nơi\ngần nhất hoặc cơ quan chức năng trên địa bàn xử lý các hành vi lấn chiếm, sử dụng\nhành lang an toàn giao thông đường bộ trái phép.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b>Điều 12. Trách nhiệm của các sở,\nngành liên quan.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Công an tỉnh chỉ đạo các lực lượng chức năng kiểm\ntra, xử lý các vi phạm về kết cấu hạ tầng giao thông đường bộ theo thẩm quyền;\nphối hợp với Sở Giao thông vận tải, Cục Quản lý Đường bộ III, đơn vị quản lý đường\nbộ, chính quyền địa phương trong xử lý, cưỡng chế, giải tỏa vi phạm hành lang\nan toàn giao thông đường bộ theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">2. Sở Kế hoạch và Đầu tư thực hiện, kiểm tra hồ sơ\ncác dự án quy hoạch, dự án đầu tư công, cấp giấy chứng nhận đầu tư có liên quan\nđến sử dụng đất của đường bộ và hành lang an toàn đường bộ phải tuân thủ đúng\ncác quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">3. Sở Tài chính chủ trì, phối hợp với Sở Giao thông\nvận tải tham mưu cho Ủy ban nhân dân tỉnh hàng năm bố trí kinh phí để thực hiện\ncông tác quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ, quản lý hành\nlang an toàn đường bộ, kinh phí tổ chức giải tỏa vi phạm về hành lang an toàn\nđường bộ. Kiểm tra việc sử dụng kinh phí cho việc quản lý và bảo vệ kết cấu hạ\ntầng giao thông đường bộ theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">4. Sở Xây dựng chỉ đạo, hướng dẫn quản lý xây dựng\nngoài hành lang an toàn đường bộ; phối hợp với Sở Giao thông vận tải, Ủy ban\nnhân dân cấp huyện tham mưu Ủy ban nhân dân tỉnh trong công tác lập và thực hiện\nquy hoạch kết cấu hạ tầng giao thông đô thị.</p>\n\n<p style=\"margin-top:6.0pt\">5. Sở Công Thương chỉ đạo, hướng dẫn thực hiện việc\nquy hoạch và xây dựng hệ thống cửa hàng bán lẻ xăng dầu dọc theo các tuyến quốc\nlộ và đường tỉnh; phối hợp với Sở Giao thông vận tải, Cục quản lý đường bộ III\nđể xác định vị trí các điểm đấu nối từ của hàng bán lẻ xăng dầu vào quốc lộ, đường\ntỉnh đảm bảo khoảng cách theo quy định về đấu nối đường nhánh vào quốc lộ, đường\ntỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">6. Sở Nông nghiệp và Phát triển nông thôn chỉ đạo,\nhướng dẫn việc thực hiện quy hoạch và xây dựng hệ thống công trình thủy lợi\nliên quan đến công trình đường bộ; hướng dẫn việc sử dụng đất trong hành lang\nan toàn đường bộ để canh tác nông nghiệp, bảo đảm kỹ thuật và an toàn công\ntrình đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">7. Sở Tài nguyên và Môi trường chủ trì, phối hợp với\nỦy ban nhân dân cấp huyện, Sở Giao thông vận tải hướng dẫn việc lập quy hoạch\nvà sử dụng đất dành cho đường bộ; quy định về bảo vệ môi trường do tác động của\ngiao thông đường bộ gây ra.</p>\n\n<p style=\"margin-top:6.0pt\">8. Sở Thông tin và Truyền thông phối hợp với Sở\nGiao thông vận tải chỉ đạo các cơ quan thông tin đại chúng ở các cấp tuyên truyền\nphổ biến quy định này tới các đơn vị, tổ chức và quần chúng nhân dân trên địa\nbàn tỉnh nhằm nâng cao ý thức trách nhiệm về quản lý, bảo vệ hành lang an toàn\nđường bộ.</p>\n\n<p style=\"margin-top:6.0pt\">9. Các sở, ngành căn cứ chức năng, nhiệm vụ và\ntrách nhiệm quy định tại Luật Giao thông đường bộ, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 11/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx\">11/2010/NĐ-CP</a> ,\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx\">100/2013/NĐ-CP</a> , Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 50/2015/TT-BGTVT\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx\">50/2015/TT-BGTVT</a>  và Quy định này thực\nhiện bảo vệ kết cấu hạ tầng giao thông đường bộ.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b>Điều 13. Trách nhiệm của tổ chức,\ncá nhân và các cơ quan liên quan.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Bảo vệ kết cấu hạ tầng giao thông đường bộ, phát\nhiện và thông báo kịp thời đến cơ quan quản lý đường bộ hoặc Ủy ban nhân dân\nnơi gần nhất các hành vi vi phạm pháp luật về bảo vệ kết cấu hạ tầng giao thông\nđường bộ;</p>\n\n<p style=\"margin-top:6.0pt\">2. Chịu trách nhiệm trước pháp luật đối với các\nhành vi vi phạm quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường\nbộ, đặc biệt trong trường hợp không chấp hành yêu cầu của đơn vị quản lý đường\nbộ hoặc các cơ quan bảo vệ pháp luật khi tiến hành lập biên bản vi phạm và xử\nlý vi phạm theo thẩm quyền.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b>Điều 14. Tổ chức thực hiện.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Những nội dung không có trong Quy định này được thực\nhiện theo quy định hiện hành về quản lý và bảo vệ kết cấu hạ tầng giao thông đường\nbộ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Trong quá trình thực hiện, nếu có vướng mắc, các\nSở, ban ngành, Ủy ban nhân dân các huyện, thị xã, thành phố; Ủy ban nhân dân\ncác xã, phường, thị trấn, các tổ chức cá nhân phản ánh bằng văn bản về Sở Giao\nthông vận tải để tổng hợp báo cáo Ủy ban nhân dân tỉnh xem xét, điều chỉnh, bổ\nsung để triển khai thực hiện./.</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH GIA LAI  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 24/2016/QĐ-UBND\n\n_Gia Lai, ngày 16 tháng 05 năm 2016_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH VỀ QUẢN LÝ, BẢO VỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, CHỐNG LẤN CHIẾM, TÁI LẤN CHIẾM HÀNH LANG AN TOÀN ĐƯỜNG BỘ TRÊN CÁC QUỐC LỘ, ĐƯỜNG TỈNH TRÊN ĐỊA BÀN TỈNH GIA LAI\n\n**ỦY BAN NHÂN DÂN TỈNH**\n\n_Căn cứ điều 142, Luật Tổ chức chính quyền địa phương năm 2015;_\n\n_Căn cứ Luật Ban hành văn bản Quy phạm pháp luật năm 2004;_\n\n_Căn cứ Luật Giao thông đường bộ năm 2008;_\n\n_Căn cứ Luật Xử lý vi phạm hành chính năm 2012;_\n\n_Căn cứ Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ;_\n\n_Căn cứ Nghị định số [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") ngày 03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ;_\n\n_Căn cứ Thông tư số [04/2008/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-04-2008-tt-bxd-huong-dan-quan-ly-duong-do-thi-62527.aspx \"Thông tư 04/2008/TT-BXD\") ngày 20/02/2008 của Bộ Xây dựng hướng dẫn quản lý đường đô thị; Thông tư số [16/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-16-2009-tt-bxd-sua-doi-04-2008-tt-bxd-quan-ly-duong-do-thi-90625.aspx \"Thông tư 16/2009/TT-BXD\") ngày 30/6/2009 của Bộ Xây dựng về sửa đổi, bổ sung Thông tư số [04/2008/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-04-2008-tt-bxd-huong-dan-quan-ly-duong-do-thi-62527.aspx \"Thông tư 04/2008/TT-BXD\") ngày 20/02/2008 của Bộ Xây dựng hướng dẫn quản lý đường đô thị;_\n\n_Căn cứ Thông tư số [50/2015/TT-BGTVT](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx \"Thông tư 50/2015/TT-BGTVT\") ngày 23/9/2015 của Bộ Giao thông vận tải hướng dẫn thực hiện một số điều của Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ;_\n\n_Căn cứ Nghị định số [171/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-171-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-linh-vuc-giao-thong-duong-bo-duong-sat-213228.aspx \"Nghị định 171/2013/NĐ-CP\") ngày 13/11/2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt; Nghị định số [107/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-107-2014-nd-cp-sua-doi-171-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-giao-thong-duong-bo-duong-sat-258046.aspx \"Nghị định 107/2014/NĐ-CP\") ngày 17/11/2014 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số [171/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-171-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-linh-vuc-giao-thong-duong-bo-duong-sat-213228.aspx \"Nghị định 171/2013/NĐ-CP\") ngày 13/11/2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt._\n\n_Theo đề nghị của Giám đốc Sở Giao thông vận tải tại Công văn số 553/SGTVT-QLKCHT ngày 14/4/2016,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy định về quản lý, bảo vệ kết cấu hạ tầng giao thông đường bộ, chống lấn chiếm, tái lấn chiếm hành lang an toàn đường bộ trên các quốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai.\n\n**Điều 2.** Quyết định này có hiệu lực thi hành kể từ ngày 26 tháng 5 năm 2016.\n\n**Điều 3.** Chánh Văn phòng UBND tỉnh; Giám đốc các Sở: Giao thông vận tải, Công an tỉnh, Kế hoạch và Đầu tư, Công Thương, Xây dựng, Tài chính, Nông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường, Thông tin và Truyền thông; Chủ tịch UBND các huyện, thị xã, thành phố; Chủ tịch UBND các xã, phường, thị trấn và Thủ trưởng các cơ quan, đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n  \n**_Nơi nhận:  \n_**\\- Như điều 3;  \n\\- Bộ Giao thông vận tải (báo cáo);  \n\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- Đ/c CT & các PCT UBND tỉnh;  \n\\- Đoàn Đại biểu Quốc hội tỉnh;  \n\\- Cục quản lý Đường bộ III;  \n\\- UBND các huyện, thị xã, thành phố;  \n\\- Cục Kiểm tra văn bản (Bộ tư pháp);  \n\\- Báo Gia Lai;  \n\\- Đài Phát thanh và Truyền hình tỉnh;  \n\\- Sở Tư pháp;  \n\\- Các PVP UBND tỉnh;  \n\\- Lưu: VT, NC, CNXD.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nVõ Ngọc Thành**\n\n**QUY ĐỊNH**\n\nVỀ QUẢN LÝ, BẢO VỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, CHỐNG LẤN CHIẾM, TÁI LẤN CHIẾM HÀNH LANG AN TOÀN ĐƯỜNG BỘ TRÊN CÁC QUỐC LỘ, ĐƯỜNG TỈNH TRÊN ĐỊA BÀN TỈNH  \n_(Kèm theo Quyết định số 24/2016/QĐ-UBND ngày 16 tháng 5 năm 2016 của Ủy ban nhân dân tỉnh)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh.**\n\nQuy định này Quy định về quản lý, bảo vệ kết cấu hạ tầng giao thông đường bộ, chống lấn chiếm, tái lấn chiếm hành lang an toàn đường bộ trên các quốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai.\n\n**Điều 2. Đối tượng áp dụng.**\n\nTổ chức, cá nhân có liên quan đến quản lý, bảo vệ, khai thác, sử dụng phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ đối với quốc lộ, đường tỉnh trên địa bàn tỉnh Gia Lai.\n\n**Điều 3. Giải thích từ ngữ.**\n\n\\- Đường bộ gồm đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ.\n\n\\- Kết cấu hạ tầng giao thông đường bộ gồm công trình đường bộ, bến xe, bãi đỗ xe, trạm dừng nghỉ và các công trình phụ trợ khác trên đường bộ phục vụ giao thông và hành lang an toàn đường bộ.\n\n\\- Đất của đường bộ: là phần đất trên đó công trình đường bộ được xây dựng và phần đất dọc hai bên đường bộ để quản lý, bảo trì, bảo vệ công trình đường bộ.\n\n\\- Hành lang an toàn đường bộ (viết tắt là HLATĐB): là dải đất hai bên đất của đường bộ, tính từ mép ngoài đất của đường bộ ra hai bên để đảm bảo an toàn giao thông đường bộ.\n\n**Chương II**\n\n**HỆ THỐNG ĐƯỜNG QUỐC LỘ, ĐƯỜNG TỈNH TRÊN ĐỊA BÀN, GIỚI HẠN PHẠM VI HÀNH LANG AN TOÀN ĐƯỜNG BỘ VÀ ĐƠN VỊ QUẢN LÝ**\n\n**Điều 4. Giới hạn hành lang an toàn đường bộ.**\n\nGiới hạn hành lang an toàn đường bộ của các tuyến quốc lộ và hệ thống đường tỉnh trên địa bàn được thực hiện theo quy định tại Nghị định 203/HĐBT ngày 21/12/1982 của Hội đồng Bộ trưởng (nay là Chính phủ) về việc ban hành điều lệ bảo vệ đường bộ.\n\nĐối với những đoạn tuyến được mở mới, tuyến tránh đô thị, những đoạn nắn chỉnh cục bộ, giới hạn hành lang bảo vệ đường bộ được quy định từ điều 15 đến điều 19, Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (sau đây gọi tắt là Nghị định số 11/2010/NĐ-CP) và khoản 2, khoản 3, điều 1, Nghị định số [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") ngày 03/9/2013 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (sau đây gọi tắt là Nghị định số 100/2013/NĐ-CP); điều 4, điều 5, Thông tư số [50/2015/TT-BGTVT](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx \"Thông tư 50/2015/TT-BGTVT\") ngày 23/9/2015 của Bộ Giao thông vận tải hướng dẫn thực hiện một số điều của Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") .\n\nI. Giới hạn hành lang an toàn đường bộ của các tuyến quốc lộ và đường tỉnh trên địa bàn tỉnh:\n\n1\\. Hệ thống Quốc lộ.\n\na) Quốc lộ 14 - đường Hồ Chí Minh: Điểm đầu Km494 (Km1564 đường Hồ Chí Minh) thuộc địa phận huyện Chư Păh, tỉnh Gia Lai, điểm cuối là Km608 (Km1668 đường Hồ Chí Minh) dài 104km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 25m.\n\nb) Quốc lộ 19: Điểm đầu là Km67+00 (ranh giới tỉnh Bình Định và Gia Lai), điểm cuối là Km243+00 giáp với đường Khu kinh tế cửa khẩu Lệ Thanh (Đoạn Km90 - Km108+00 đã bàn giao cho dự án BOT), dài 158km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 25m.\n\nc) Quốc lộ 14C: Điểm đầu Km107 (ranh giới tỉnh Gia Lai và Kon Tum), điểm cuối Km197+481 (ranh giới tỉnh Gia Lai và Đăk Lăk) dài 90,481Km, giới hạn hành lang an toàn đường bộ từ mép ngoài cùng của nền đường bộ (chân mái đường đắp hoặc mép ngoài của rãnh dọc tại các vị trí không đào không đắp hoặc mép đỉnh mái đường đào) ra mỗi bên 10m.\n\nd) Quốc lộ 25: Điểm đầu là Km69 (ranh giới tỉnh Phú Yên và Gia Lai), điểm cuối là Km180+810 giao với quốc lộ 14 (đường Hồ Chí Minh), dài 111.81km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 25m.\n\ne) Đường Trường Sơn Đông: Điểm đầu là Km230 (ranh giới tỉnh Gia Lai và Kon Tum), điểm cuối là Km475 (ranh giới tỉnh Gia Lai và Phú Yên), dài 247Km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\n2\\. Hệ thống đường tỉnh:\n\na) Đường tỉnh ĐT 661: Điểm đầu Km0 giao với Km514+800 - quốc lộ 14, thị trấn Phú Hòa, huyện Chư Păh, điểm cuối là Km22+500 tiếp giáp đầu đường vào Nhà máy thủy điện Ya Ly, dài 22,5 km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nb) Đường tỉnh ĐT 662: Điểm đầu Km67, thị trấn Ia Pa, huyện Ia Pa trùng với Km392 đường Trường Sơn Đông, điểm cuối là Km80+200 giao với Km40 - đường Trường Sơn Đông, thị xã Ayun Pa dài 13,2km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nc) Đường tỉnh ĐT 662B: Điểm đầu Km0 giao với Km149+200 - quốc lộ 25, huyện Phú Thiện; điểm cuối là Km24+630, xã Ia Kdăm, huyện Ia Pa, dài 24,63km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nd) Đường tỉnh ĐT 663: Điểm đầu Km0 giao với Km188+200 - quốc lộ 19, xã Bầu Cạn, huyện Chư Prông; điểm cuối là Km47 giao với Km172 - quốc lộ 14C, xã Ia Puch, huyện Chư Prông, dài 47km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\ne) Đường tỉnh ĐT 664: Điểm đầu Km0 giao với đường Lý Thái Tổ, phường Ia Kring, thành phố Pleiku; điểm cuối là Km58+400 giao với Km115+900 - quốc lộ 14C, xã Ia O, huyện Ia Grai, chiều dài 58,4km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nf) Đường tỉnh ĐT 665: Điểm đầu Km0 giao với Km552+140 - quốc lộ 14, xã Ia Băng, huyện Chư Prông; điểm cuối là Km58+030 giao với Km187 - quốc lộ 14C xã Ia Mơ, huyện Chư Prông, chiều dài 58,03km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\ng) Đường tỉnh ĐT 666: Điểm đầu Km0 giao với Km139 - quốc lộ 19, xã Đăk Djrăng huyện Mang Yang; điểm cuối là Km61+200 giao với Km378+350 - đường Trường Sơn Đông, xã Pờ Tó, huyện Ia Pa, dài 61,2km. Đoạn Km0 - Km46+500 qua địa phận huyện Mang Yang giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 17,5m; đoạn Km46+500 - Km61+200 qua địa phận huyện Ia Pa, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\ng) Đường tỉnh ĐT 667: Điểm đầu Km0 giao với Km79+900 - quốc lộ 19, thị xã An Khê; điểm cuối là Km31+00 giao với Km347+200 - đường Trường Sơn Đông, thị trấn Kông Cho, dài 31km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nh) Đường tỉnh ĐT 668: Điểm đầu Km0 giao với Km124+700 - quốc lộ 25, thị xã Ayun Pa; điểm cuối Km15+500 tiếp giáp ranh giới tỉnh Đăk Lăk, dài 15,5km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\ni) Đường tỉnh ĐT 669: Điểm đầu Km0 giao với Km76+230 - quốc lộ 19, thị xã An Khê; điểm cuối là Km29+400, thị trấn Kbang, huyện Kbang, dài 29,4km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nk) Đường tỉnh ĐT 670: Điểm đầu Km0 giao với Km134+400 - quốc lộ 19, thị trấn Kon Dỡng, huyện Mang Yang; điểm cuối là Km45+500 giao với Km495+800- QL14, xã Ia Khươl, huyện Chư Păh, dài 45,5km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nl) Đường tỉnh ĐT 670B: Điểm đầu Km0 giao với đường Tôn Đức Thắng, xã Biển Hồ, thành phố Pleiku; điểm cuối là Km24 giao với Km23 - đường tỉnh 670, xã Đăk Sơ Mei, huyện Đăk Đoa, dài 24km, giới hạn hành lang an toàn đường bộ từ tim đường trở ra hai bên 15m.\n\nII. Đối với đoạn tuyến Quốc lộ, đường tỉnh qua đô thị, phạm vi hành lang an toàn đường bộ theo quy hoạch của địa phương đã được phê duyệt.\n\n**Điều 5. Sử dụng, khai thác phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ hệ thống đường quốc lộ và đường tỉnh.**\n\n1\\. Hệ thống đường quốc lộ: Việc sử dụng, khai thác phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ tuân thủ theo điều 26, điều 28, Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") và các quy định tại Thông tư số [50/2015/TT-BGTVT](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx \"Thông tư 50/2015/TT-BGTVT\") ngày 23/9/2015 của Bộ Giao thông vận tải hướng dẫn thực hiện một số điều của Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ; được sử dụng đường bộ vào các hoạt động văn hóa, sử dụng một phần hè phố không vào mục đích giao thông được quy định tại điều 25 Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") và điều 25a, khoản 4, điều 1, Nghị định số [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") .\n\n2\\. Hệ thống đường tỉnh: Việc sử dụng, khai thác phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ áp dụng quy định tại khoản 1 điều này, ngoài ra được sử dụng đường bộ vào các hoạt động văn hóa, sử dụng một phần hè phố không vào mục đích giao thông được quy định tại điều 25, Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") và điều 25a, 25b, 25c, khoản 4, điều 1, Nghị định số [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") .\n\nLòng đường thuộc hệ thống đường tỉnh chỉ sử dụng vào mục đích giao thông; ngoài ra nếu sử dụng vào các hoạt động văn hóa (thể thao, diễu hành, lễ hội) phải được Sở Giao thông vận tải chấp thuận bằng văn bản.\n\n3\\. Các tổ chức, cá nhân vi phạm về kết cấu hạ tầng giao thông đường bộ sẽ bị xử lý theo quy định tại văn bản hợp nhất số [19/VBHN-BGTVT](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/van-ban-hop-nhat-19-vbhn-bgtvt-2014-hop-nhat-nghi-dinh-xu-phat-vi-pham-hanh-chinh-giao-thong-duong-bo-duong-sat-262049.aspx \"Văn bản hợp nhất 19/VBHN-BGTVT\") ngày 19/12/2014 của Bộ Giao thông vận tải về quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt.\n\n**Điều 6. Trách nhiệm quản lý các tuyến đường quốc lộ, đường tỉnh và việc sử dụng đất trong và ngoài hành lang an toàn đường bộ:**\n\n1\\. Cục quản lý Đường bộ III: Trực tiếp quản lý tuyến Quốc lộ 14 - đường Hồ Chí Minh, Quốc lộ 19, đường Trường Sơn Đông đoạn Km230 - Km320.\n\n2\\. Sở Giao thông vận tải: Trực tiếp quản lý các tuyến đường tỉnh và các tuyến quốc lộ được ủy thác, gồm: Quốc lộ 14C, Quốc lộ 25, đường Trường Sơn Đông (đoạn còn lại).\n\n3\\. Ủy ban nhân dân cấp huyện, cấp xã quản lý việc sử dụng đất trong hành lang an toàn đường bộ, trách nhiệm quản lý, bảo vệ được quy định tại điều 41, điều 42, Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ; điều 31, Thông tư số [50/2015/TT-BGTVT](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx \"Thông tư 50/2015/TT-BGTVT\") và các quy định tại điều 9, điều 10 của quy định này.\n\nỦy ban nhân dân cấp huyện quản lý, bảo trì từ mép mặt đường (bó vỉa) trở ra trên các đoạn tuyến quốc lộ và đường tỉnh đi qua nội thành phố, thị xã, thị trấn.\n\n**Chương III**\n\n**TRÁCH NHIỆM QUẢN LÝ VÀ BẢO VỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, CHỐNG LẤN CHIẾM, TÁI LẤN CHIẾM HÀNH LANG AN TOÀN ĐƯỜNG BỘ TRÊN QUỐC LỘ, ĐƯỜNG TỈNH**\n\n**Điều 7. Trách nhiệm của Sở Giao thông vận tải.**\n\n1\\. Hướng dẫn, tổ chức, chỉ đạo việc tuyên truyền, phổ biến, giáo dục pháp luật về bảo vệ kết cấu hạ tầng giao thông đường bộ trong phạm vi địa phương.\n\n2\\. Tổ chức thực hiện các quy định về bảo vệ kết cấu hạ tầng giao thông đường bộ; các biện pháp phòng ngừa, ngăn chặn, xử lý vi phạm, giải tỏa vi phạm hành lang an toàn đường bộ trong phạm vi Sở quản lý.\n\n3\\. Thông báo cụ thể cấp kỹ thuật quy hoạch, giới hạn hành lang an toàn đường bộ của các đoạn, tuyến quốc lộ, đường tỉnh được giao quản lý; cắm đầy đủ hệ thống cột mốc lộ giới hành lang an toàn giao thông đường bộ và mốc giải phóng mặt bằng tổ chức bàn giao cho chính quyền địa phương quản lý; định kỳ, có trách nhiệm duy tu, sửa chữa, thay thế cột mốc bị hư hỏng.\n\n4\\. Đôn đốc, kiểm tra các đơn vị quản lý đường bộ, Thanh tra Sở Giao thông vận tải thực hiện công tác quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ theo đúng các quy định.\n\n5\\. Cấp, thu hồi giấy phép thi công, đình chỉ hoạt động gây mất an toàn giao thông, an toàn công trình đường bộ trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ trên đường tỉnh và quốc lộ được giao quản lý.\n\n6\\. Phối hợp chặt chẽ, kịp thời với Ủy ban nhân dân các huyện, thị xã, thành phố trong công tác quản lý, cấp phép sử dụng tạm thời một phần hè phố, lòng đường đối với các tuyến đường đi qua đô thị do Sở quản lý hoặc được ủy thác quản lý.\n\n7\\. Chỉ đạo lực lượng Thanh tra Sở Giao thông vận tải tăng cường kiểm tra, giám sát việc sử dụng tạm thời một phần hè phố, lòng đường ngoài mục đích giao thông trên địa bàn tỉnh; xử lý nghiêm đối với các hành vi, vi phạm hành lang an toàn đường bộ theo quy định hiện hành.\n\n8\\. Thanh tra Sở Giao thông vận tải.\n\na) Chủ trì, phối hợp với đơn vị quản lý bảo dưỡng tuyến đường xử lý kịp thời các hành vi vi phạm quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ thuộc phạm vi trách nhiệm được giao;\n\nb) Chủ trì, phối hợp với đơn vị quản lý bảo dưỡng tuyến đường hoàn thiện hồ sơ vi phạm hành lang an toàn đường bộ gửi Ủy ban nhân dân cấp huyện đề nghị cưỡng chế giải tỏa;\n\nc) Chủ trì, phối hợp với đơn vị quản lý bảo dưỡng tuyến đường hoàn thiện hồ sơ vi phạm công trình đường bộ, lấn chiếm và sử dụng trái phép đất của đường bộ; xử lý theo thẩm quyền. Trường hợp hành vi vi phạm gây hậu quả nghiêm trọng, chuyển hồ sơ tới cơ quan có thẩm quyền xử lý theo quy định của pháp luật;\n\nd) Phối hợp và hỗ trợ lực lượng thanh tra chuyên ngành của Cục Quản lý Đường bộ III khi có yêu cầu trong hoạt động thanh tra, xử phạt vi phạm hành chính việc chấp hành các quy định về bảo vệ, chống lấn chiếm hành lang an toàn giao thông đường bộ do Cục Quản lý đường bộ III trực tiếp quản lý.\n\n**Điều 8. Trách nhiệm của đơn vị quản lý đường bộ.**\n\n1\\. Thường xuyên kiểm tra, phát hiện kịp thời các hành vi xâm phạm và sử dụng trái phép công trình giao thông và hành lang an toàn giao thông đường bộ; chịu trách nhiệm chính trong công tác quản lý, bảo vệ công trình đường bộ và đất của đường bộ.\n\n2\\. Phối hợp với chính quyền địa phương xây dựng phương án thực hiện việc cắm mốc lộ giới trên thực địa, lập hồ sơ và bàn giao cho Ủy ban nhân dân cấp xã quản lý và bảo vệ.\n\n3\\. Khi phát hiện vi phạm phải yêu cầu đình chỉ ngay hành vi vi phạm, thông báo bằng văn bản, điện thoại và phối hợp với Ủy ban nhân dân cấp xã để lập biên bản vi phạm hành chính, yêu cầu chấm dứt các hành vi vi phạm, khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra và xử lý theo thẩm quyền; đồng thời phải báo ngay về cơ quan quản lý đường bộ để có biện pháp tạm thời nhằm bảo đảm an toàn giao thông, bảo vệ công trình đường bộ. Trong vòng 24 giờ, sau khi lập biên bản vi phạm, đơn vị quản lý đường bộ phải lập hồ sơ vi phạm gửi Thanh tra Giao thông vận tải và cơ quan bảo vệ pháp luật tại địa phương đề nghị xử lý vi phạm theo quy định của pháp luật.\n\n4\\. Bàn giao mặt bằng thi công cho các tổ chức, cá nhân được cấp phép thi công trên đường bộ đang khai thác. Trực tiếp giám sát việc thực hiện trong phạm vi thi công, các quy định của pháp luật về đảm bảo an toàn giao thông và trong giấy phép thi công. Phát hiện, ngăn chặn, lập biên bản và báo cáo kịp thời cho cơ quan quản lý đường bộ việc các tổ chức, cá nhân vi phạm các quy định trong khi thi công hoặc quá trình thi công gây ảnh hưởng đến kết cấu và an toàn của công trình đường bộ.\n\n5\\. Định kỳ hàng tháng tổng hợp báo cáo cơ quan quản lý đường bộ có thẩm quyền về công tác quản lý hành lang an toàn đường bộ trước ngày 05 của tháng tiếp theo.\n\n**Điều 9. Trách nhiệm của Ủy ban nhân dân huyện, thị xã, thành phố.**\n\n1\\. Tổ chức tuyên truyền, phổ biến giáo dục pháp luật tới người dân các quy định về phạm vi đất dành cho bảo vệ kết cấu hạ tầng giao thông đường bộ;\n\n2\\. Quản lý việc sử dụng đất trong hành lang an toàn đường bộ theo quy định của pháp luật, xử lý kịp thời các trường hợp vi phạm lấn chiếm, sử dụng trái phép đất hành lang an toàn đường bộ;\n\n3\\. Phối hợp với cơ quan quản lý đường bộ, rà soát, thống kê, phân loại đất và công trình nằm trong phần đất của đường bộ, HLATĐB. Rà soát lại diện tích đất trong phạm vi HLATĐB đã cấp Giấy chứng nhận quyền sử dụng đất cho các cá nhân và tổ chức, có phương án thu hồi diện tích đất đã cấp;\n\n4\\. Giải tỏa các công trình ảnh hưởng đến phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ phù hợp với quy hoạch phát triển giao thông đường bộ và các công trình ảnh hưởng đến an toàn công trình đường bộ và hoạt động giao thông vận tải;\n\n5\\. Tổ chức thực hiện cưỡng chế để giải tỏa vi phạm, lập lại trật tự hành lang an toàn đường bộ; ngăn chặn và chấm dứt tình trạng tái lấn chiếm, sử dụng trái phép hành lang an toàn đường bộ;\n\n6\\. Phối hợp với đơn vị quản lý đường bộ, Thanh tra đường bộ xử lý theo thẩm quyền các hành vi xâm phạm công trình đường bộ, các hành vi lấn chiếm, sử dụng trái phép đất dành cho đường bộ;\n\n7\\. Tiếp nhận hồ sơ vi phạm hành chính trên địa bàn do cơ quan thực hiện chức năng thanh tra ngành giao thông vận tải lập, chuyển đến và xử lý theo thẩm quyền;\n\n8\\. Thực hiện cấp giấy phép sử dụng tạm thời hè phố, lòng đường đối với các trường hợp sử dụng tại điều 25, Nghị định [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") ; điểm 4, điều 1, Nghị định [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") ; lấy ý kiến chấp thuận của đơn vị quản lý đường bộ trước khi cấp giấy phép sử dụng;\n\n9\\. Chỉ đạo các phòng, ban, Ủy ban nhân dân xã, phường, thị trấn thực hiện chức năng quản lý, kiểm tra, giám sát theo thẩm quyền và theo quy định của pháp luật;\n\n10\\. Thực hiện chế độ báo cáo tháng, quý, năm và đột xuất theo quy định về tình hình quản lý sử dụng hè phố, lòng đường ngoài mục đích giao thông thuộc phạm vi địa bàn quản lý.\n\n**Điều 10. Trách nhiệm của Ủy ban nhân dân cấp xã.**\n\n1\\. Thực hiện công tác quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ trên địa bàn. Phát hiện và phối hợp với đơn vị quản lý đường bộ, Thanh tra giao thông và các lực lượng liên quan kiểm tra, lập biên bản vi phạm, tiếp nhận hồ sơ vi phạm hành chính do cơ quan thực hiện chức năng thanh tra ngành Giao thông vận tải lập, chuyển đến và xử lý vi phạm kịp thời theo thẩm quyền các hành vi lấn chiếm, sử dụng trái phép đất hành lang an toàn đường bộ trên địa bàn.\n\n2\\. Huy động lực lượng tham gia công tác cưỡng chế, giải tỏa vi phạm hành lang an toàn đường bộ theo kế hoạch của Ủy ban nhân dân huyện, thị xã, thành phố.\n\n3\\. Tuyên truyền, phổ biến tới nhân dân các quy định về bảo vệ kết cấu hạ tầng giao thông đường bộ; các văn bản về công tác bảo đảm trật tự an toàn giao thông để nâng cao nhận thức và ý thức chấp hành pháp luật về giao thông.\n\n4\\. Quản lý, sử dụng đất trong hành lang an toàn đường bộ theo quy định của pháp luật; xử lý kịp thời các trường hợp lấn chiếm, sử dụng trái phép đất hành lang an toàn đường bộ. Tiếp nhận bàn giao và quản lý, bảo vệ mốc lộ giới, hành lang an toàn đường bộ.\n\n5\\. Thực hiện chấp thuận sử dụng tạm thời hè phố đối với các trường hợp quy định tại điểm b, c, khoản 2, điều 25a của điểm 4, điều 1, Nghị định [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") .\n\n6\\. Kiểm tra việc tuân thủ theo nội dung giấy phép sử dụng hè phố, lòng đường trên địa bàn. Đề xuất với cơ quan cấp phép thu hồi giấy phép đối với các trường hợp vi phạm.\n\n7\\. Thực hiện chế độ báo cáo tháng, quý, năm và đột xuất theo quy định.\n\n**Điều 11. Trách nhiệm của các chủ đầu tư đối với đường đang triển khai dự án xây dựng mới, nâng cấp, cải tạo.**\n\nChủ đầu tư xác định giới hạn đất dành cho đường bộ và thực hiện như sau:\n\na) Đối với đất của đường bộ, lập thủ tục đề nghị cơ quan có thẩm quyền thu hồi đất, thực hiện bồi thường theo quy định của pháp luật về đất đai;\n\nb) Đối với đất hành lang an toàn đường bộ: Chủ đầu tư tiến hành cắm mốc lộ giới để bàn giao cho địa phương và cơ quan quản lý đường bộ quản lý theo quy định như đối với hành lang đường bộ đang khai thác. Trường hợp công trình và các tài sản khác nằm trong hành lang an toàn đường bộ ảnh hưởng trực tiếp đến an toàn giao thông, an toàn công trình đường bộ thì chủ đầu tư tiến hành xác định mức độ ảnh hưởng, phối hợp cùng cơ quan quản lý đất đai của địa phương lập thủ tục đề nghị cơ quan có thẩm quyền bồi thường, hỗ trợ thiệt hại do hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định của pháp luật về đất đai;\n\nc) Phát hiện, báo cáo kịp thời Ủy ban nhân dân nơi gần nhất hoặc cơ quan chức năng trên địa bàn xử lý các hành vi lấn chiếm, sử dụng hành lang an toàn giao thông đường bộ trái phép.\n\n**Điều 12. Trách nhiệm của các sở, ngành liên quan.**\n\n1\\. Công an tỉnh chỉ đạo các lực lượng chức năng kiểm tra, xử lý các vi phạm về kết cấu hạ tầng giao thông đường bộ theo thẩm quyền; phối hợp với Sở Giao thông vận tải, Cục Quản lý Đường bộ III, đơn vị quản lý đường bộ, chính quyền địa phương trong xử lý, cưỡng chế, giải tỏa vi phạm hành lang an toàn giao thông đường bộ theo quy định của pháp luật.\n\n2\\. Sở Kế hoạch và Đầu tư thực hiện, kiểm tra hồ sơ các dự án quy hoạch, dự án đầu tư công, cấp giấy chứng nhận đầu tư có liên quan đến sử dụng đất của đường bộ và hành lang an toàn đường bộ phải tuân thủ đúng các quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ.\n\n3\\. Sở Tài chính chủ trì, phối hợp với Sở Giao thông vận tải tham mưu cho Ủy ban nhân dân tỉnh hàng năm bố trí kinh phí để thực hiện công tác quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ, quản lý hành lang an toàn đường bộ, kinh phí tổ chức giải tỏa vi phạm về hành lang an toàn đường bộ. Kiểm tra việc sử dụng kinh phí cho việc quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ theo quy định.\n\n4\\. Sở Xây dựng chỉ đạo, hướng dẫn quản lý xây dựng ngoài hành lang an toàn đường bộ; phối hợp với Sở Giao thông vận tải, Ủy ban nhân dân cấp huyện tham mưu Ủy ban nhân dân tỉnh trong công tác lập và thực hiện quy hoạch kết cấu hạ tầng giao thông đô thị.\n\n5\\. Sở Công Thương chỉ đạo, hướng dẫn thực hiện việc quy hoạch và xây dựng hệ thống cửa hàng bán lẻ xăng dầu dọc theo các tuyến quốc lộ và đường tỉnh; phối hợp với Sở Giao thông vận tải, Cục quản lý đường bộ III để xác định vị trí các điểm đấu nối từ của hàng bán lẻ xăng dầu vào quốc lộ, đường tỉnh đảm bảo khoảng cách theo quy định về đấu nối đường nhánh vào quốc lộ, đường tỉnh.\n\n6\\. Sở Nông nghiệp và Phát triển nông thôn chỉ đạo, hướng dẫn việc thực hiện quy hoạch và xây dựng hệ thống công trình thủy lợi liên quan đến công trình đường bộ; hướng dẫn việc sử dụng đất trong hành lang an toàn đường bộ để canh tác nông nghiệp, bảo đảm kỹ thuật và an toàn công trình đường bộ.\n\n7\\. Sở Tài nguyên và Môi trường chủ trì, phối hợp với Ủy ban nhân dân cấp huyện, Sở Giao thông vận tải hướng dẫn việc lập quy hoạch và sử dụng đất dành cho đường bộ; quy định về bảo vệ môi trường do tác động của giao thông đường bộ gây ra.\n\n8\\. Sở Thông tin và Truyền thông phối hợp với Sở Giao thông vận tải chỉ đạo các cơ quan thông tin đại chúng ở các cấp tuyên truyền phổ biến quy định này tới các đơn vị, tổ chức và quần chúng nhân dân trên địa bàn tỉnh nhằm nâng cao ý thức trách nhiệm về quản lý, bảo vệ hành lang an toàn đường bộ.\n\n9\\. Các sở, ngành căn cứ chức năng, nhiệm vụ và trách nhiệm quy định tại Luật Giao thông đường bộ, Nghị định số [11/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/nghi-dinh-11-2010-nd-cp-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-101495.aspx \"Nghị định 11/2010/NĐ-CP\") , Nghị định số [100/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-100-2013-nd-cp-sua-doi-quan-ly-bao-ve-ket-cau-ha-tang-giao-thong-duong-bo-205919.aspx \"Nghị định 100/2013/NĐ-CP\") , Thông tư số [50/2015/TT-BGTVT](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/thong-tu-50-2015-tt-bgtvt-huong-dan-11-2010-nd-cp-quan-ly-bao-tri-ket-cau-ha-tang-giao-thong-duong-bo-291880.aspx \"Thông tư 50/2015/TT-BGTVT\") và Quy định này thực hiện bảo vệ kết cấu hạ tầng giao thông đường bộ.\n\n**Điều 13. Trách nhiệm của tổ chức, cá nhân và các cơ quan liên quan.**\n\n1\\. Bảo vệ kết cấu hạ tầng giao thông đường bộ, phát hiện và thông báo kịp thời đến cơ quan quản lý đường bộ hoặc Ủy ban nhân dân nơi gần nhất các hành vi vi phạm pháp luật về bảo vệ kết cấu hạ tầng giao thông đường bộ;\n\n2\\. Chịu trách nhiệm trước pháp luật đối với các hành vi vi phạm quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ, đặc biệt trong trường hợp không chấp hành yêu cầu của đơn vị quản lý đường bộ hoặc các cơ quan bảo vệ pháp luật khi tiến hành lập biên bản vi phạm và xử lý vi phạm theo thẩm quyền.\n\n**Chương IV**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 14. Tổ chức thực hiện.**\n\n1\\. Những nội dung không có trong Quy định này được thực hiện theo quy định hiện hành về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ.\n\n2\\. Trong quá trình thực hiện, nếu có vướng mắc, các Sở, ban ngành, Ủy ban nhân dân các huyện, thị xã, thành phố; Ủy ban nhân dân các xã, phường, thị trấn, các tổ chức cá nhân phản ánh bằng văn bản về Sở Giao thông vận tải để tổng hợp báo cáo Ủy ban nhân dân tỉnh xem xét, điều chỉnh, bổ sung để triển khai thực hiện./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

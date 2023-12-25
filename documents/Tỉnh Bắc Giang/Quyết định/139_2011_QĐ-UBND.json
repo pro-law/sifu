@@ -1,0 +1,531 @@
+{
+  "title": "Quyết định 139/2011/QĐ-UBND Quy định nội dung về đầu tư xây dựng khu đô thị mới trên địa bàn tỉnh Bắc Giang do Ủy ban nhân dân tỉnh Bắc Giang ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 12/2010/QĐ-UBND ban hành Quy định phân công, phân cấp và ủy quyền thực hiện quản lý quy hoạch xây dựng và quản lý dự án đầu tư xây dựng công trình trên địa bàn tỉnh Bắc Giang do Ủy ban nhân dân tỉnh Bắc Giang ban hành",
+      "id": "12/2010/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Văn Linh"
+      ],
+      "issuedDate": "2010-02-04",
+      "effectiveDate": "2010-02-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 23/09/2013"
+    },
+    {
+      "title": "Thông tư 16/2008/TT-BXD hướng dẫn kiểm tra, chứng nhận đủ điều kiện đảm bảo an toàn chịu lực và chứng nhận sự phù hợp về chất lượng công trình xây dựng do Bộ Xây dựng ban hành",
+      "id": "16/2008/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Văn Liên"
+      ],
+      "issuedDate": "2008-09-11",
+      "effectiveDate": "2008-10-21",
+      "gazetteDate": "2008-10-06",
+      "gazetteNumber": "Từ số 557 đến số 558",
+      "status": "Hết hiệu lực: 01/06/2011"
+    },
+    {
+      "title": "Nghị định 49/2008/NĐ-CP sửa đổi Nghị định 209/2004/NĐ-CP về quản lý chất lượng công trình xây dựng",
+      "id": "49/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-04-18",
+      "effectiveDate": "2008-05-16",
+      "gazetteDate": "2008-05-01",
+      "gazetteNumber": "Từ số 247 đến số 248",
+      "status": "Hết hiệu lực: 15/04/2013"
+    },
+    {
+      "title": "Nghị định 209/2004/NĐ-CP về quản lý chất lượng công trình xây dựng",
+      "id": "209/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-12-16",
+      "effectiveDate": "2005-01-04",
+      "gazetteDate": "2004-12-20",
+      "gazetteNumber": "Số 23",
+      "status": "Hết hiệu lực: 15/04/2013"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 120/2010/NĐ-CP sửa đổi Nghị định 198/2004/NĐ-CP về thu tiền sử dụng đất",
+      "id": "120/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-12-30",
+      "effectiveDate": "2011-03-01",
+      "gazetteDate": "2011-01-13",
+      "gazetteNumber": "Từ số 51 đến số 52",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Nghị định 37/2010/NĐ-CP về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị",
+      "id": "37/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-04-07",
+      "effectiveDate": "2010-05-25",
+      "gazetteDate": "2010-04-21",
+      "gazetteNumber": "Từ số 167 đến số 168",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 192/2009/TT-BTC hướng dẫn thí điểm việc nộp tiền sử dụng đất đối với dự án khu đô thị mới, dự án nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết 33/2008/NQ-CP do Bộ Tài chính ban hành",
+      "id": "192/2009/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2009-10-01",
+      "effectiveDate": "2009-11-15",
+      "gazetteDate": "2009-10-26",
+      "gazetteNumber": "Từ số 487 đến số 488",
+      "status": "Hết hiệu lực: 10/01/2021"
+    },
+    {
+      "title": "Thông tư 03/2009/TT-BKH hướng dẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng đất do Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "03/2009/TT-BKH",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Võ Hồng Phúc"
+      ],
+      "issuedDate": "2009-04-16",
+      "effectiveDate": "2009-05-31",
+      "gazetteDate": "2009-04-26",
+      "gazetteNumber": "Từ số 217 đến số 218",
+      "status": "Hết hiệu lực: 06/02/2017"
+    },
+    {
+      "title": "Nghị quyết số 33/2008/NQ-CP về thực hiện thí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp do Chính phủ ban hành",
+      "id": "33/2008/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-12-31",
+      "effectiveDate": "2009-02-08",
+      "gazetteDate": "2009-01-24",
+      "gazetteNumber": "Từ số 73 đến số 74",
+      "status": "Hết hiệu lực: 20/03/2019"
+    },
+    {
+      "title": "Thông tư 145/2007/TT-BTC hướng dẫn Nghị định 188/2004/NĐ-CP và Nghị định 123/2007/NĐ-CP sửa đổi Nghị định 188/2004/NĐ-CP về phương pháp xác định giá đất và khung giá các loại đất do Bộ Tài chính ban hành",
+      "id": "145/2007/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Tá"
+      ],
+      "issuedDate": "2007-12-06",
+      "effectiveDate": "2007-12-31",
+      "gazetteDate": "2007-12-16",
+      "gazetteNumber": "Từ số 821 đến số 822",
+      "status": "Hết hiệu lực: 13/08/2014"
+    },
+    {
+      "title": "Nghị định 123/2007/NĐ-CP sửa đổi Nghị định 188/2004/NĐ-CP về phương pháp xác định giá đất và khung giá các loại đất.",
+      "id": "123/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-07-27",
+      "effectiveDate": "2007-08-27",
+      "gazetteDate": "2007-08-12",
+      "gazetteNumber": "Từ số 554 đến số 555",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Thông tư 04/2006/TT-BXD hướng dẫn Quy chế khu đô thị mới theo Nghị định 02/2006/NĐ-CP do Bộ Xây dựng ban hành",
+      "id": "04/2006/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Hồng Quân"
+      ],
+      "issuedDate": "2006-08-18",
+      "effectiveDate": "2006-09-24",
+      "gazetteDate": "2006-09-09",
+      "gazetteNumber": "Từ số 27 đến số 28",
+      "status": "Hết hiệu lực: 05/01/2014"
+    },
+    {
+      "title": "Nghị định 02/2006/NĐ-CP ban hành Quy chế khu đô thị mới",
+      "id": "02/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-01-05",
+      "effectiveDate": "2006-01-30",
+      "gazetteDate": "2006-01-15",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Hết hiệu lực: 01/03/2013"
+    },
+    {
+      "title": "Luật Đầu tư 2005",
+      "id": "59/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-26",
+      "gazetteNumber": "Từ số 41 đến số 42",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Nghị định 198/2004/NĐ-CP về việc thu tiền sử dụng đất",
+      "id": "198/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2004-12-24",
+      "gazetteDate": "2004-12-09",
+      "gazetteNumber": "Số 9",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Nghị định 188/2004/NĐ-CP về phương pháp xác định giá đất và khung giá các loại đất",
+      "id": "188/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-11-16",
+      "effectiveDate": "2004-12-09",
+      "gazetteDate": "2004-11-24",
+      "gazetteNumber": "Số 25",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Nghị định 181/2004/NĐ-CP thi hành Luật Đất đai",
+      "id": "181/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-10-29",
+      "effectiveDate": "2004-11-16",
+      "gazetteDate": "2004-11-01",
+      "gazetteNumber": "Từ số 1 đến số 2",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Luật xây dựng 2003",
+      "id": "16/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-07-01",
+      "gazetteDate": "2004-01-02",
+      "gazetteNumber": "Số 2",
+      "status": "Hết hiệu lực: 01/01/2015"
+    },
+    {
+      "title": "Luật Đất đai 2003",
+      "id": "13/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-07-01",
+      "gazetteDate": "2003-12-28",
+      "gazetteNumber": "Từ số 228 đến số 229",
+      "status": "Hết hiệu lực: 01/07/2014"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 531/2015/QĐ-UBND Quy định về đầu tư xây dựng khu đô thị mới trên địa bàn tỉnh Bắc Giang",
+      "id": "531/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Lại Thanh Sơn"
+      ],
+      "issuedDate": "2015-10-28",
+      "effectiveDate": "2015-11-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/07/2018"
+    },
+    {
+      "title": "Quyết định 104/QĐ-UBND năm 2016 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Bắc Giang ban hành hết hiệu lực thi hành toàn bộ và một phần năm 2015",
+      "id": "104/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Lại Thanh Sơn"
+      ],
+      "issuedDate": "2016-01-21",
+      "effectiveDate": "2016-01-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 18/2018/QĐ-UBND quy định về quản lý và thực hiện dự án đầu tư có sử dụng đất, dự án đầu tư theo hình thức hợp đồng Xây dựng - Chuyển giao (BT) trên địa bàn tỉnh Bắc Giang",
+      "id": "18/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Thị Thu Hà"
+      ],
+      "issuedDate": "2018-07-06",
+      "effectiveDate": "2018-07-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2019"
+    },
+    {
+      "title": "Quyết định 68/QĐ-UBND năm 2019 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Bắc Giang ban hành hết hiệu lực thi hành toàn bộ và một phần năm 2018",
+      "id": "68/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Lại Thanh Sơn"
+      ],
+      "issuedDate": "2019-01-17",
+      "effectiveDate": "2019-01-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 17/2019/QĐ-UBND quy định về quản lý và thực hiện dự án khu đô thị, khu dân cư nông thôn mới không sử dụng vốn nhà nước thông qua hình thức đấu thầu lựa chọn nhà đầu tư trên địa bàn tỉnh Bắc Giang",
+      "id": "17/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Thị Thu Hà"
+      ],
+      "issuedDate": "2019-07-22",
+      "effectiveDate": "2019-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2021"
+    },
+    {
+      "title": "Quyết định 139/QĐ-UBND năm 2020 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Bắc Giang ban hành hết hiệu lực thi hành toàn bộ và một phần năm 2019",
+      "id": "139/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Lê Ánh Dương"
+      ],
+      "issuedDate": "2020-01-21",
+      "effectiveDate": "2020-01-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 30/2021/QĐ-UBND quy định về một số nội dung về quản lý và trình tự thực hiện đầu tư dự án khu đô thị, khu dân cư không sử dụng vốn nhà nước thông qua hình thức đấu giá quyền sử dụng đất, đấu thầu lựa chọn nhà đầu tư trên địa bàn tỉnh Bắc Giang",
+      "id": "30/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Phan Thế Tuấn"
+      ],
+      "issuedDate": "2021-07-15",
+      "effectiveDate": "2021-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 458/2004/QĐ.UB quy định Quản lý Quy hoạch Xây dựng khu đô thị mới Lào Cai - Cam Đường",
+      "id": "458/2004/QĐ.UB",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Bùi Quang Vinh"
+      ],
+      "issuedDate": "2004-08-24",
+      "effectiveDate": "2004-09-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 27/04/2010"
+    }
+  ],
+  "id": "139/2011/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Đầu tư",
+    "Xây dựng - Đô thị"
+  ],
+  "organization": "Tỉnh Bắc Giang",
+  "signers": [
+    "Lại Thanh Sơn"
+  ],
+  "issuedDate": "2011-04-20",
+  "effectiveDate": "2011-04-30",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 07/11/2015",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADQAMQAxADEAOQA=-->\n <tbody><tr style=\"height:.2in\">\n  <td width=\"226\" valign=\"top\" style=\"width:169.15pt;padding:0in 5.4pt 0in 5.4pt;\n  height:.2in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH BẮC GIANG<br>\n  -------</b></p>\n  </td>\n  <td width=\"369\" valign=\"top\" style=\"width:276.6pt;padding:0in 5.4pt 0in 5.4pt;\n  height:.2in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr style=\"height:12.8pt\">\n  <td width=\"226\" valign=\"top\" style=\"width:169.15pt;padding:0in 5.4pt 0in 5.4pt;\n  height:12.8pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  139/2011/QĐ-UBND</p>\n  </td>\n  <td width=\"369\" valign=\"top\" style=\"width:276.6pt;padding:0in 5.4pt 0in 5.4pt;\n  height:12.8pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bắc\n  Giang, ngày 20 tháng 4 năm 2011</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY ĐỊNH MỘT SỐ NỘI DUNG VỀ ĐẦU TƯ XÂY DỰNG KHU ĐÔ\nTHỊ MỚI TRÊN ĐỊA BÀN TỈNH BẮC GIANG</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">UỶ BAN NHÂN DÂN TỈNH BẮC GIANG</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức HĐND và\nUBND ngày 26/11/2003;<br>\nCăn cứ Luật Xây dựng ngày 26/11/2003, Luật Đất đai ngày 26/11/2003, Luật Đầu tư\nngày 29/11/2005;<br>\nCăn cứ Nghị định số 181/2004/NĐ-CP ngày 29/10/2004 của Chính phủ về thi hành Luật\nđất đai; Nghị định số 188/2004/NĐ-CP ngày 16/11/2004 của Chính phủ về phương\npháp xác định giá đất và khung giá các loại đất; Nghị định số 198/2004/NĐ-CP ngày\n03/12/2004 của Chính phủ về thu tiền sử dụng đất; Nghị định số 123/2007/NĐ-CP\nngày 27/7/2007 sửa đổi, bổ sung Nghị định số 188/2004/NĐ-CP; Nghị định số\n120/2010/NĐ-CP ngày 30/12/2010 của Chính phủ về việc sửa đổi, bổ sung một số điều\ncủa Nghị định số 198/2004/NĐ-CP của Chính phủ về thu tiền sử dụng đất; Nghị định\nsố 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ về việc ban hành quy chế khu đô\nthị mới; Nghị định số 37/2010/NĐ-CP ngày 07/4/2010 của Chính phủ về lập, thẩm định,\nphê duyệt và quản lý quy hoạch đô thị; Nghị quyết số 33/2008/NQ-CP ngày\n31/12/2008 của Chính phủ về thực hiện thí điểm một số thủ tục hành chính trong\nđầu tư xây dựng đối với dự án khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ\nthuật khu công nghiệp;<br>\nCăn cứ Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực\nhiện quy chế khu đô thị mới ban hành theo Nghị định số 02/2006/NĐ-CP ngày\n05/01/2006 của Chính phủ; Thông tư số 145/2007/TT-BTC ngày 06/12/2007 của Bộ\nTài chính hướng dẫn thực hiện Nghị định số 188/2004/NĐ-CP ngày 16/11/2004 của\nChính phủ về phương pháp xác định giá đất và khung giá các loại đất và Nghị định\nsố 123/2007/NĐ-CP ngày 27/7/2007 của Chính phủ sửa đổi, bổ sung một số điều của\nNghị định số 188/2004/NĐ-CP; Thông tư số 192/2009/TT-BTC ngày 01/10/2009 của Bộ\nTài chính hướng dẫn thí điểm việc nộp tiền sử dụng đất đối với dự án khu đô thị\nmới, dự án nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết số\n33/2008/NQ-CP ngày 31/12/2008 của Chính phủ; Thông tư số 03/2009/TT- BKH ngày\n16/4/2009 của Bộ Kế hoạch và Đầu tư hướng dẫn lựa chọn nhà đầu tư thực hiện đầu\ntư dự án có sử dụng đất;<br>\nTheo đề nghị của Giám đốc Sở Xây dựng tại Tờ trình số 150/TTr-SXD ngày\n30/03/2011,</i> </p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_1\"><b>Điều 1</b></a><b>.</b> <a name=\"dieu_1_name\">Ban hành kèm theo\nQuyết định này Quy định một số nội dung về đầu tư xây dựng khu đô thị mới trên\nđịa bàn tỉnh Bắc Giang</a>.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_2\"><b>Điều 2</b></a><b>.</b> <a name=\"dieu_2_name\">Quyết định này có\nhiệu lực thi hành sau 10 ngày kể từ ngày ký</a>.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_3\"><b>Điều 3</b></a><b>.</b> <a name=\"dieu_3_name\">Thủ trưởng các cơ\nquan, đơn vị thuộc UBND tỉnh, UBND các huyện, thành phố và các tổ chức, cá nhân\ncó liên quan chịu trách nhiệm thi hành quyết định</a> này./.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADQAMQAxADEAOQA=-->\n <tbody><tr>\n  <td width=\"308\" valign=\"top\" style=\"width:231.05pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n  </td>\n  <td width=\"313\" valign=\"top\" style=\"width:234.6pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM.\n  UỶ BAN NHÂN DÂN<br>\n  KT.CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Lại Thanh Sơn</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2_name\">MỘT SỐ NỘI DUNG VỀ ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ MỚI TRÊN ĐỊA\nBÀN TỈNH BẮC GIANG</a><br>\n<i>(Ban hành kèm theo Quyết định số 139/2011/QĐ-UBND ngày 20 tháng 4 năm 2011 của\nUỷ ban nhân dân tỉnh Bắc Giang)</i></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_1\"><b>CHƯƠNG I</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_1_1\"><b>Điều 1. Phạm vi điều chỉnh</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Quy định\nnày quy định cụ thể một số nội dung về đầu tư xây dựng khu đô thị mới bao gồm quá\ntrình lập quy hoạch, lựa chọn chủ đầu tư, thẩm định dự án để cho phép đầu tư,\ngiá đất và thu tiền sử dụng đất, quản lý thực hiện đầu tư xây dựng trên địa bàn\ntỉnh Bắc Giang.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Những nội\ndung liên quan đến việc đầu tư xây dựng khu đô thị mới chưa được quy định trong\nQuy định này thì thực hiện theo quy định của pháp luật hiện hành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_2_1\"><b>Điều 2. Đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Các tổ chức,\ncá nhân trong nước và ngoài nước tham gia vào quá trình quản lý và thực hiện đầu\ntư dự án xây dựng khu đô thị mới trên địa bàn tỉnh Bắc Giang.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Đối với các dự\nán có sử dụng đất đầu tư xây dựng đô thị có quy mô dưới 20 ha trên địa bàn tỉnh\nđược vận dụng thực hiện theo Quy định này, trừ các dự án đầu tư xây dựng Khu\nnhà ở.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_3_1\"><b>Điều 3. Nguyên tắc đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Các khu đô\nthị mới được đầu tư, xây dựng trên cơ sở quy hoạch chi tiết xây dựng hoặc quy\nhoạch tổng mặt bằng tỷ lệ 1/500 được cấp có thẩm quyền phê duyệt, đảm bảo đồng\nbộ hạ tầng kỹ thuật và hạ tầng xã hội trong phạm vi dự án, khớp nối với hạ tầng\nxung quanh. Đảm bảo cho các tổ chức, hộ gia đình, cá nhân có đủ điều kiện để ổn\nđịnh cuộc sống, sinh hoạt, làm việc và giao tiếp thuận tiện, đồng thời góp phần\ncải thiện môi trường sống, cơ sở hạ tầng đô thị chung khu vực. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Ngân sách\nnhà nước đầu tư lập quy hoạch xây dựng chung và quy hoạch phân khu làm cơ sở để\ncác nhà đầu tư nghiên cứu, lập quy hoạch chi tiết. Tuỳ theo trường hợp cụ thể\nnhà nước đầu tư trực tiếp (hoặc thanh toán cho Chủ đầu tư đã ứng vốn) một số\ncông trình hạ tầng xã hội thiết yếu phục vụ lợi ích công cộng (trụ sở cơ quan\nhành chính, nhà văn hoá... ) nhà ở xã hội, nhà ở tái định cư từng khu vực dự\nán, hỗ trợ đầu tư xây dựng các công trình hạ tầng kỹ thuật đầu mối ngoài phạm\nvi dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_2\"><b>CHƯƠNG II</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">ĐẦU TƯ XÂY DỰNG KHU ĐÔ\nTHỊ MỚI</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_4\"><b>Điều 4. Quy hoạch xây dựng khu đô thị mới</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Căn cứ kế\nhoạch phát triển kinh tế xã hội và quy hoạch chung, Sở Xây dựng chủ trì phối hợp\nvới UBND các huyện, thành phố và các Sở, Ngành liên quan đề xuất kế hoạch để lập\nquy hoạch xây dựng phát triển các khu đô thị mới trên địa bàn tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ tịch\nUBND các huyện, thành phố công bố công khai kế hoạch, quy hoạch để kêu gọi các\ntổ chức, các thành phần kinh tế tham gia đầu tư xây dựng các khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Quy hoạch\nchi tiết xây dựng (hoặc quy hoạch tổng mặt bằng của dự án) phải phù hợp với quy\nhoạch chung, quy hoạch phân khu đã được cấp có thẩm quyền phê duyệt. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_5\"><b>Điều 5. Lập quy hoạch chi tiết xây dựng khu đô thị mới&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Căn cứ điều\nkiện thực tế, đề nghị của nhà đầu tư và ý kiến của UBND các huyện, thành phố, Sở\nXây dựng thẩm định trình Chủ tịch UBND tỉnh giao cho nhà đầu tư lập quy hoạch\nchi tiết và trình duyệt theo quy định tại khoản 1 điều 1 Nghị quyết số\n33/2008/NQ-CP ngày 21/12/2008 của Chính phủ. Nhà đầu tư được giao lập quy hoạch\nsẽ được ưu tiên xem xét giao làm chủ đầu tư dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Quy hoạch\nchi tiết xây dựng khu đô thị mới phải đảm bảo đồng bộ hạ tầng kỹ thuật, hạ tầng\nxã hội trong phạm vi dự án; khớp nối các công trình hạ tầng kỹ thuật đầu mối,\nđáp ứng yêu cầu bảo vệ môi trường; đảm bảo không gian kiến trúc cảnh quan hợp\nlý và tạo được bộ mặt kiến trúc đô thị hiện đại.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Cơ cấu sử\ndụng đất xây dựng nhà ở phải đảm bảo quy chuẩn, có tỷ lệ nhà ở chung cư cao tầng,\nnhà vườn và nhà liền kề hợp lý; đa dạng các loại hình nhà ở, có nhà ở thương mại,\nnhà ở xã hội và nhà ở riêng lẻ. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_6\"><b>Điều 6. Quản lý quy hoạch xây dựng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Nhà đầu tư\nđược Chủ tịch UBND tỉnh giao lập quy hoạch phải thực hiện theo đúng quy định tại\nđiều 20 Nghị định số 37/2010/NĐ-CP ngày 07/4/2010 của Chính phủ về lập, thẩm định,\nphê duyệt và quản lý quy hoạch đô thị, chịu sự quản lý và hướng dẫn của các cơ\nquan có thẩm quyền quản lý quy hoạch kiến trúc.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Việc lập,\nthẩm định và trình phê duyệt quy hoạch chi tiết các khu đô thị mới thực hiện\ntheo quy định tại Quyết định số 12/2010/QĐ-UBND ngày 04/02/2010 của UBND tỉnh về\nviệc ban hành quy định phân công, phân cấp và uỷ quyền thực hiện quản lý quy hoạch\nxây dựng và quản lý dự án đầu tư xây dựng công trình trên địa bàn tỉnh Bắc\nGiang.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_7\"><b>Điều 7. Công bố danh mục các khu đô thị mới</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Căn cứ vào\nquy hoạch phát triển kinh tế xã hội, quy hoạch đô thị được phê duyệt, quy hoạch\nngành, kế hoạch sử dụng đất, UBND các huyện, thành phố đề xuất danh mục các dự\nán khu đô thị, báo cáo UBND tỉnh; đồng thời gửi Sở Tài nguyên và Môi trường để\nchủ trì, phối hợp các Sở, Ngành có liên quan rà soát, tổng hợp, báo cáo UBND tỉnh\nđể trình HĐND tỉnh thông qua.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Căn cứ vào\nkế hoạch phát triển các khu đô thị mới được HĐND tỉnh thông qua, Chủ tịch UBND\ntỉnh phê duyệt danh mục các dự án công bố lựa chọn chủ đầu tư. Trong thời hạn\n10 ngày kể từ ngày Chủ tịch UBND tỉnh phê duyệt, bên mời thầu có trách nhiệm tổ\nchức công bố danh mục các dự án lựa chọn chủ đầu tư trên Báo đấu thầu, cổng\nthông tin điện tử (Wesbsite) của UBND tỉnh, Sở Xây dựng và UBND các huyện,\nthành phố nơi có dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Nội dung\ncông bố danh mục dự án, gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Tên dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Địa điểm\nxây dựng, quy mô diện tích đất của Dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Nội dung,\nchức năng sử dụng đất của Dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Khái quát\nsơ bộ hiện trạng dân cư; sử dụng đất của khu vực lập Dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">e) Các chỉ\ntiêu quy hoạch, mục tiêu và yêu cầu chủ yếu của Dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">f) Thời gian thực\nhiện Dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Thời gian\ndành cho nhà đầu tư quan tâm đăng ký với bên mời thầu để tham gia là 30 ngày kể\ntừ ngày đăng tải đầu tiên trên Báo đấu thầu, cổng thông tin điện tử (Wesbsite)\ncủa UBND các huyện, thành phố nơi có dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_8\"><b>Điều 8. Điều kiện về năng lực của chủ đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ đầu tư thực\nhiện dự án xây dựng các khu đô thị mới trên địa bàn tỉnh phải đảm bảo các điều\nkiện sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Là doanh\nnghiệp có đăng ký kinh doanh về đầu tư kinh doanh bất động sản.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Vốn đầu tư\nthuộc sở hữu của chủ đầu tư tham gia vào dự án không nhỏ hơn 20% tổng mức đầu\ntư dự án. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_9\"><b>Điều 9. Lựa chọn chủ đầu tư khu đô thị mới</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Lựa chọn\nchủ đầu tư khu đô thị mới được thực hiện theo một trong 02 hình thức là đấu thầu\nlựa chọn chủ đầu tư hoặc chỉ định chủ đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Đấu thầu lựa\nchọn chủ đầu tư áp dụng trong trường hợp trong thời hạn mời thầu khu đô thị mới\ncó từ 02 nhà đầu tư trở lên đăng ký tham gia. Việc tổ chức đấu thầu để lựa chọn\nchủ đầu tư chỉ được tiến hành khi quy hoạch chi tiết xây dựng tỷ lệ 1/2000 đã\nđược phê duyệt và thoả mãn các điều kiện sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Khu đất của\ndự án đã được xác định trong quy hoạch xây dựng được duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Đã xác định\nđược bên mời thầu và hồ sơ mời thầu đã được Chủ tịch UBND tỉnh phê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Giá sàn tiền\nsử dụng đất đã được UBND tỉnh phê duyệt, trong trường hợp khu vực đất của dự án\nđã được bồi thường, giải phóng mặt bằng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Có phương\nán bồi thường, hỗ trợ và tái định cư được cấp có thẩm quyền phê duyệt trong trường\nhợp khu vực đất của dự án chưa được bồi thường, giải phóng mặt bằng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Chỉ định\nchủ đầu tư được thực hiện một trong các trường hợp:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Hết thời hạn\nđăng ký tham gia lựa chọn chủ đầu tư theo quy định mà chỉ có 01 nhà đầu tư đăng\nký;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;b) Dự\nán khu đô thị mới đã được thông báo mời thầu, trong thời hạn mời thầu chỉ có 01\nnhà đầu tư đăng ký;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Khu đô thị\nmới cần phải thực hiện nhanh để đáp ứng yêu cầu phát triển nhà ở của địa\nphương.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Chủ tịch\nUBND tỉnh giao UBND các huyện, thành phố nơi có dự án làm bên mời thầu để tổ chức\nđấu thầu lựa chọn chủ đầu tư hoặc chỉ định chủ đầu tư dự án khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Bên mời thầu\ntrình Chủ tịch UBND tỉnh quyết định thành lập Tổ chuyên gia giúp việc. Thành phần\ntổ chuyên gia gồm Giám đốc hoặc Phó Giám đốc và chuyên viên các Sở: Xây dựng,\nTài nguyên và Môi trường, Kế hoạch và Đầu tư, Tài chính và đại diện các cơ quan\nkhác có liên quan đến dự án, do lãnh đạo UBND các huyện, thành phố làm tổ trưởng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Trình tự đấu\nthầu lựa chọn chủ đầu tư hoặc chỉ định chủ đầu tư khu đô thị mới thực hiện theo\nquy định tại mục 2 phần II Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây\ndựng hướng dẫn thực hiện quy chế khu đô thị mới ban hành theo Nghị định số\n02/2006/NĐ-CP, Thông tư số 03/2009/TT - BKH ngày 16/4/2009 của Bộ Kế hoạch và Đầu\ntư hướng dẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng quỹ đất và\ncác quy định pháp luật có liên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Trước khi\nthực hiện dự án, chủ đầu tư dự án khu đô thị mới có trách nhiệm lập Điều lệ quản\nlý thực hiện dự án khu đô thị mới theo quy định tại Điều 16 Nghị định số\n02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ gửi UBND các huyện, thành phố nơi\ncó dự án thẩm định trình Chủ tịch UBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_10\"><b>Điều 10. Thẩm định, thẩm tra và quyết định cho phép đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sau khi được\ngiao làm chủ đầu tư, chủ đầu tư lập hồ sơ dự án xin phép đầu tư gửi Sở Xây dựng\nđể thẩm định. Hồ sơ dự án theo quy định tại Điều 14 Nghị định số 02/2006/NĐ-CP\nngày 05/01/2006 của Chính phủ và mục IV Thông tư số 04/2006/TT-BXD ngày\n18/8/2006 của Bộ Xây dựng. Nội dung của dự án khu đô thị mới theo quy định tại\nmục III Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Sở Xây dựng\nlà cơ quan đầu mối tổ chức thẩm định dự án, có trách nhiệm lấy ý kiến bằng văn\nbản của chính quyền địa phương nơi có dự án khu đô thị mới và các cơ quan có\nliên quan. Tùy theo điều kiện cụ thể của từng dự án, Sở Xây dựng đề nghị Chủ tịch\nUBND tỉnh thành lập tổ công tác liên ngành gồm Lãnh đạo và chuyên viên các Sở:\nXây dựng, Kế hoạch và Đầu tư, Tài chính, Tài nguyên và Môi trường và UBND huyện,\nthành phố nơi có dự án, do Lãnh đạo Sở Xây dựng làm tổ trưởng giúp Sở Xây dựng\ntổ chức thẩm định, thẩm tra làm cơ sở để trình cấp có thẩm quyền xem xét cho\nphép đầu tư. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Thẩm quyền\ncho phép đầu tư:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Đối với\ncác dự án khu đô thị mới có quy mô từ 200 ha đất trở lên, Sở Xây dựng có trách nhiệm\ntổng hợp, báo cáo Chủ tịch UBND tỉnh xin ý kiến các Bộ: Xây dựng, Kế hoạch và Đầu\ntư, Tài chính, Tài nguyên và Môi trường và các cơ quan có liên quan để Chủ tịch\nUBND tỉnh trình Thủ tướng Chính phủ cho phép đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Đối với\ncác dự án còn lại, Sở Xây dựng tổng hợp báo cáo và trình Chủ tịch UBND tỉnh quyết\nđịnh cho phép đầu tư. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Sau khi được\ncấp có thẩm quyền cho phép đầu tư, chủ đầu tư hoàn chỉnh dự án, thẩm định và ra\nquyết định đầu tư theo quy định về quản lý dự án đầu tư xây dựng. Quyết định đầu\ntư của Dự án phải tuân thủ các nội dung trong quyết định cho phép đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_3\"><b>CHƯƠNG III</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">XÁC ĐỊNH GIÁ ĐẤT VÀ THU\nTIỀN SỬ DỤNG ĐẤT</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_11\"><b>Điều 11. Xác định giá đất để tính thu tiền sử dụng đất</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Căn cứ xác\nđịnh giá đất:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Quy hoạch\nchi tiết xây dựng khu đô thị mới tỷ lệ 1/500 được cấp có thẩm quyền phê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Bảng mức\ngiá các loại đất hàng năm do UBND tỉnh ban hành;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Giá đất\ntrên thị trường khu vực dự án và các khu vực lân cận có cơ sở hạ tầng tương\nđương.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Phương\npháp xác định giá đất:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Giá đất để\ntính thu tiền sử dụng đất với Chủ đầu tư được xác định theo phương pháp được\nquy định tại Điều 4 Nghị định số 188/2004/NĐ-CP ngày 16/11/2004 của Chính phủ về\nphương pháp xác định giá đất và khung giá các loại đất; khoản 3 Điều 1 Nghị định\nsố 123/2007/NĐ-CP ngày 27/7/2007 của Chính phủ sửa đổi, bổ sung Nghị định số\n188/2004/NĐ-CP; Mục I Thông tư số 145/2007/TT-BTC ngày 06/12/2007 của Bộ Tài\nchính và các văn bản khác của Nhà nước có liên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Thời điểm\nxác định giá đất:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Trong quá\ntrình lập dự án đầu tư, Chủ đầu tư thuê tổ chức có chức năng thẩm định giá đất\nhoặc phối hợp với các cơ quan có liên quan tự xây dựng phương án giá đất làm cơ\nsở xác định hiệu quả đầu tư của dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Trên cơ sở hồ\nsơ của Chủ đầu tư, Tổ công tác liên ngành, Sở Xây dựng có trách nhiệm thẩm định\nhiệu quả đầu tư trước khi trình Chủ tịch UBND tỉnh phê duyệt cho phép đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Thời điểm\nxác định giá đất để tính thu tiền sử dụng đất (tính tiền sử dụng đất phải nộp của\nChủ đầu tư) là tại thời điểm có quyết định giao đất của cơ quan nhà nước có thẩm\nquyền cho Chủ đầu tư; trường hợp thời điểm bàn giao đất không đúng với thời điểm\nghi trong quyết định giao đất thì giá đất tính thu tiền sử dụng đất là giá đất\ntheo mục đích sử dụng đất được giao tại thời điểm bàn giao đất thực tế.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Giá đất để\ntính thu tiền sử dụng đất được Hội đồng thẩm định giá đất của tỉnh thẩm định\ntrước khi trình UBND tỉnh quyết định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Hội đồng\nthẩm định giá đất do Chủ tịch UBND tỉnh quyết định thành lập. Chủ tịch Hội đồng\nlà Giám đốc hoặc Phó Giám đốc Sở Tài chính; Phó Chủ tịch Hội đồng là Giám đốc\nhoặc Phó Giám đốc Sở Tài nguyên và Môi trường; thành viên Hội đồng gồm Lãnh đạo\ncác cơ quan: Sở Xây dựng, Sở Kế hoạch và Đầu tư, Cục Thuế tỉnh và UBND huyện,\nthành phố nơi có dự án; mời tham gia giám sát Hội đồng gồm: Lãnh đạo Ban Kinh tế\nngân sách - Hội đồng nhân dân tỉnh, Ban phòng chống tham nhũng, Thanh tra và Ủy\nban Mặt trận Tổ Quốc tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Hội đồng có\nnhiệm vụ thẩm định giá đất tính thu tiền sử dụng đất của các dự án trình UBND tỉnh\nquyết định. Hội đồng có thể thuê tổ chức có chức năng thẩm định giá để thẩm định\ngiá đất làm căn cứ cho Hội đồng thực hiện thẩm định. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ tịch Hội\nđồng được thành lập Tổ chuyên viên giúp việc gồm đại diện các cơ quan: Tài\nchính, Tài nguyên và Môi trường, Xây dựng, Cục Thuế, Kế hoạch và Đầu tư và UBND\ncác huyện, thành phố nơi có dự án. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ tịch Hội\nđồng có trách nhiệm xây dựng Quy chế hoạt động của Hội đồng trình Chủ tịch UBND\ntỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Chủ đầu tư\ncó trách nhiệm gửi hồ sơ đến Chủ tịch Hội đồng thẩm định giá đất để gửi cho các\nthành viên của Hội đồng. Hồ sơ gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Công văn đề\nnghị thẩm định giá đất của Chủ đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Dự án đầu\ntư khu đô thị mới theo quy định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Quyết định\nphê duyệt quy hoạch chi tiết 1/500;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Quyết định\ngiao đất, Biên bản giao đất thực tế trên thực địa;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">e) Phương án\nxác định giá đất hoặc bản phô tô chứng thực Chứng thư thẩm định giá của dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Trường hợp Chủ\nđầu tư được giao đất làm nhiều đợt thì giá đất để tính thu tiền sử dụng đất được\nxác định cho từng đợt. Hồ sơ xác định giá đất từ đợt 2 trở đi gồm: công văn đề\nnghị thẩm định giá đất của Chủ đầu tư; Quyết định giao đất, Biên bản giao đất\nthực tế trên thực địa; phương án xác định giá đất hoặc bản phô tô chứng thực Chứng\nthư thẩm định giá của dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Trong thời\ngian 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Hội đồng thẩm định giá đất\ncó trách nhiệm tổ chức thẩm định, lập Tờ trình trình UBND tỉnh quyết định giá đất\ntính thu tiền sử dụng đất của dự án. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_12\"><b>Điều 12. Mức thu tiền sử dụng đất</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Mức thu tiền\nsử dụng đất của dự án bằng Tổng giá trị phát triển trừ đi Tổng chi phí phát triển.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Tổng giá\ntrị phát triển của dự án được xác định bằng tổng giá trị quyền sử dụng đất của\ncác loại đất gồm: Đất ở (phân lô liền kề, đất biệt thự, đất nhà chung cư), đất\nđể sử dụng vào mục đích kinh doanh (đất sản xuất kinh doanh phi nông nghiệp) và\nđất hỗn hợp (đất ở kết hợp sản xuất kinh doanh), theo công thức sau:</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"627\"><!--VABWAFAATABfADIAMAAxADQAMQAxADEAOQA=-->\n <tbody><tr>\n  <td width=\"154\" style=\"width:115.8pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">Tổng giá trị\n  phát triển của dự án</p>\n  </td>\n  <td width=\"76\" style=\"width:56.7pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">= ∑ (</p>\n  </td>\n  <td width=\"163\" style=\"width:122.25pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">Giá đất của\n  từng</p>\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">vị trí, từng\n  loại đất</p>\n  </td>\n  <td width=\"36\" style=\"width:26.85pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">x</p>\n  </td>\n  <td width=\"174\" style=\"width:130.7pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">Diện tích đất\n  của từng </p>\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;vị\n  trí, từng loại đất </p>\n  </td>\n  <td width=\"24\" style=\"width:.25in;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\">)</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Diện tích, vị\ntrí của từng loại đất căn cứ vào quy hoạch chi tiết 1/500 được cấp có thẩm quyền\nphê duyệt. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Tổng chi\nphí phát triển bao gồm các loại chi phí mà chủ đầu tư bỏ ra và phần được hưởng để\nthực hiện dự án theo đúng quy hoạch chi tiết đã được cấp có thẩm quyền phê duyệt,\ncụ thể:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Chi phí bồi\nthường, giải phóng mặt bằng, được tính trên cơ sở phương án bồi thường, hỗ trợ\nvà tái định cư được cấp có thẩm quyền phê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Chi phí đầu\ntư xây dựng kết cấu hạ tầng kỹ thuật trong hàng rào của dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Các khoản\nchi phí hợp lý khác.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Mức thu tiền\nsử dụng đất trong một số trường hợp cụ thể:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Trường hợp\ntoàn bộ đất có thu tiền sử dụng đất của dự án được giao cho chủ đầu tư cấp 1\nthì mức thu tiền sử dụng đất của chủ đầu tư cấp 1 bằng mức thu tiền sử dụng đất\ncủa dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Trường hợp\nđất có thu tiền sử dụng đất được giao một phần cho chủ đầu tư cấp 1, phần còn lại\ndo Nhà nước trực tiếp quản lý thì mức thu tiền sử dụng đất của chủ đầu tư cấp 1\nbằng (=) diện tích đất giao ở từng vị trí nhân (x) giá đất của từng vị trí\ntương ứng. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Trường hợp\nChủ đầu tư được giao đất làm nhiều đợt thì mức thu tiền sử dụng đất của từng đợt\nđược xác định đồng thời với việc xác định giá đất của từng đợt. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_13\"><b>Điều 13. Tiến độ thu tiền sử dụng đất vào ngân sách, điều chỉnh\ngiá đất và mức thu tiền sử dụng đất</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Tiến độ\nthu tiền sử dụng đất thực hiện theo hướng dẫn tại Thông tư số 192/2009/TT-BTC\nngày 01/10/2009 của Bộ Tài chính hướng dẫn thí điểm việc nộp tiền sử dụng đất đối\nvới dự án khu đô thị mới, dự án nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp tại\nNghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;Khuyến\nkhích Nhà đầu tư nộp tiền 01 lần ngay sau khi có quyết định phê duyệt giá đất\nvà mức thu tiền sử dụng đất của UBND tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Điều chỉnh\ngiá đất được thực hiện trong các trường hợp sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Tại thời\nđiểm thu tiền sử dụng đất (lần 1, lần 2 quy định tại khoản 1.3 Điều 1 Thông tư\nsố 192/2009/TT-BTC) mà giá đất do Uỷ ban nhân dân cấp tỉnh quy định và công bố\ncó sự biến động tăng hoặc giảm so với giá đất do Uỷ ban nhân dân cấp tỉnh quy định\ntại thời điểm giao đất (hoặc thời điểm bàn giao đất thực tế) từ 20% trở lên;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Trong thời\ngian quy định thực hiện nghĩa vụ tài chính mà chủ đầu tư chưa thực hiện xong\nnghĩa vụ tài chính và giá thị trường có biến động tăng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Nhà đầu tư\nthực hiện tiến độ đầu tư chậm so với quy định và giá thị trường có biến động\ntăng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Khi Uỷ ban\nnhân dân tỉnh có quyết định điều chỉnh lại quy hoạch sử dụng đất, quy hoạch xây\ndựng chi tiết 1/500 mà việc điều chỉnh đó làm thay đổi chí phí đầu tư, thay đổi\ndiện tích, cơ cấu sử dụng đất giao cho chủ đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_4\"><b>CHƯƠNG IV</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">QUẢN LÝ THỰC HIỆN ĐẦU TƯ\nXÂY DỰNG KHU ĐÔ THỊ MỚI</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_14\"><b>Điều 14. Nguyên tắc quản lý dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. UBND tỉnh\nthống nhất quản lý Nhà nước đối với tất cả các dự án khu đô thị mới trên địa\nbàn tỉnh. Các Sở, Ngành, UBND huyện, thành phố thực hiện quản lý Nhà nước theo\nchức năng, nhiệm vụ được giao trong giai đoạn thực hiện đầu tư xây dựng đến khi\nbàn giao đưa vào sử dụng và bảo hành các công trình.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ đầu tư\ncó trách nhiệm quản lý trực tiếp, toàn diện quá trình thực hiện đầu tư và tổ chức\nđưa dự án vào khai thác theo đúng những nội dung của Quyết định cho phép đầu tư\nvà phải chịu sự quản lý Nhà nước của các cấp chính quyền, các cơ quan quản lý\ncó thẩm quyền hoặc được uỷ quyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Chủ đầu tư\ndự án cấp 2 có trách nhiệm quản lý, thực hiện dự án thành phần được giao, chịu\nsự quản lý của chủ đầu tư và sự quản lý Nhà nước của các cơ quan quản lý có thẩm\nquyền hoặc được uỷ quyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_15\"><b>Điều 15. Quản lý tiến độ thực hiện dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Chủ đầu tư\ncó trách nhiệm xây dựng kế hoạch, tiến độ thực hiện đầu tư xây dựng, hoàn thành\ntừng hạng mục công trình và toàn bộ dự án. Kế hoạch, tiến độ thực hiện đầu tư\nphải được đăng ký tại Sở Xây dựng và gửi Sở Kế hoạch và Đầu tư, Sở Tài nguyên\nvà Môi trường, Sở Tài chính, UBND huyện, thành phố nơi có dự án trước khi triển\nkhai thực hiện dự án theo những nội dung, tiến độ thực hiện dự án quy định\ntrong Quyết định phê duyệt dự án đầu tư, Quyết định cho phép đầu tư, Điều lệ quản\nlý thực hiện dự án. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Việc thay\nđổi tiến độ thực hiện dự án, hạng mục công trình, công trình nếu làm ảnh hưởng\nđến tiến độ bàn giao đưa vào khai thác sử dụng và tiến độ tổng thể của dự án phải\nđược Chủ tịch UBND tỉnh chấp thuận.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_16\"><b>Điều 16. Quản lý xây dựng theo quy hoạch, kiến trúc được duyệt</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ đầu tư phải\ntổ chức xây dựng theo đúng quy hoạch chi tiết xây dựng và điều lệ quản lý quy\nhoạch đã được phê duyệt cùng với các quy định kèm theo của UBND tỉnh, đảm bảo:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sử dụng đất\ntheo đúng mục đích, đúng chỉ giới đường đỏ và chỉ giới xây dựng; các chỉ tiêu về\ndiện tích sử dụng đất, diện tích xây dựng, mật độ xây dựng phải thực hiện theo\nđúng quy định cùng với phương án kiến trúc đã được phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Triển khai\nxây dựng đồng bộ hệ thống hạ tầng kỹ thuật, đảm bảo khớp nối với hệ thống hạ tầng\nkhu vực xung quanh, không gây ảnh hưởng xấu tới sản xuất, sinh hoạt của nhân\ndân khu vực lân cận.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Các công\ntrình hạ tầng xã hội bên trong dự án được xây dựng đồng thời với các công trình\nnhà ở, kinh doanh, dịch vụ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_17\"><b>Điều 17. Quản lý chất lượng công trình</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Chủ đầu tư\nphải tổ chức thực hiện đầy đủ những nội dung quy định tại Nghị định số\n209/2004/NĐ-CP ngày 16/12/2004, Nghị định số 49/2008/NĐ-CP ngày 18/4/2008 của\nChỉnh phủ về quản lý chất lượng công trình xây dựng. Đồng thời phải thực hiện\ncác yêu cầu sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Xây dựng\ncác quy định và tổ chức hệ thống quản lý đảm bảo kỹ thuật, chất lượng toàn bộ dự\nán, từng hạng mục công trình, công trình. Bộ máy quản lý kỹ thuật, chất lượng\nphải đảm bảo yêu cầu về trình độ chuyên môn, nghiệp vụ theo quy định hiện hành;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Kịp thời\nphát hiện và kiến nghị giải quyết những vấn đề phát sinh nhằm đảm bảo kỹ thuật,\nchất lượng của hệ thống hạ tầng kỹ thuật chung, của từng công trình và toàn bộ\ndự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Sở Xây dựng\nchủ trì, phối hợp các Sở có xây dựng chuyên ngành có trách nhiệm kiểm tra, xử\nlý theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền xử lý đối với các vi phạm\nvề chất lượng, quản lý chất lượng công trình xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Các công\ntrình, hạng mục công trình chỉ được phép bàn giao đưa vào sử dụng sau khi tổ chức\nnghiệm thu theo đúng quy định của Nghị định số 209/2004/NĐ-CP, số 49/2008/NĐ-CP\ncủa Chính phủ về quản lý chất lượng công trình và được chứng nhận đủ điều kiện\nđảm bảo an toàn chịu lực, chứng nhận sự phù hợp về chất lượng công trình theo\nquy định tại Thông tư số 16/2008/TT-BXD ngày 09/11/2008 của Bộ Xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Sau khi\ncông trình xây dựng được nghiệm thu, bàn giao đưa vào sử dụng, trong thời hạn bảo\nhành, chủ đầu tư dự án phải có báo cáo định kỳ 6 tháng và 1 năm về chất lượng\ncác công trình xây dựng theo đúng quy định gửi Sở Xây dựng và Sở có công trình\nxây dựng chuyên ngành liên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_18\"><b>Điều 18. Đảm bảo trật tự xây dựng, an toàn giao thông, an\ntoàn lao động, vệ sinh môi trường</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ đầu tư phải\ntổ chức quản lý trật tự xây dựng, an toàn giao thông, an toàn lao động, vệ sinh\nmôi trường theo quy định; phối hợp với chính quyền địa phương quản lý trật tự\nan toàn xã hội trong khu vực dự án; có biện pháp thu gom, xử lý rác thải, nước\nthải xây dựng và sinh hoạt, đảm bảo trật tự vệ sinh môi trường trong suốt quá\ntrình thực hiện dự án, đồng thời hướng dẫn, đôn đốc các chủ đầu tư cấp 2 tổ chức\nthực hiện.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_19\"><b>Điều 19. Thực hiện việc bàn giao, bảo hành và bảo trì công\ntrình</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Chủ đầu tư\nphải xây dựng các quy định về quản lý, vận hành, bảo trì các công trình hạ tầng,\ncông trình kiến trúc. Chủ đầu tư và người sử dụng công trình có trách nhiệm vận\nhành và bảo trì công trình; Tổ chức nghiệm thu, đưa vào sử dụng các công trình,\nhạng mục công trình theo đúng các quy định hiện hành và thực hiện vận hành công\ntrình khi đưa vào sử dụng. Trong khi vận hành phải kiểm tra định kỳ, phát hiện\như hỏng để kịp thời sửa chữa, đảm bảo an toàn khi sử dụng công trình.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Trong thời\ngian chưa hoàn thành toàn bộ dự án, chủ đầu tư phải kiểm tra, giám sát việc sử\ndụng những công trình đã bàn giao đưa vào sử dụng, đảm bảo không ảnh hưởng đến\nviệc tổ chức thực hiện dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Kết thúc đầu\ntư xây dựng việc chuyển giao, khai thác sử dụng công trình và chuyển giao quản\nlý hành chính thực hiện theo Điều 17,18,19,20 của Nghị định 02/2006/NĐ-CP ngày\n05/01/2006 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_5\"><b>CHƯƠNG V</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span style=\"font-size:12.0pt\">KIỂM TRA, THANH TRA XỬ\nLÝ VI PHẠM</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_20\"><b>Điều 20. Kiểm tra, thanh tra</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Mọi tổ chức,\ncá nhân trong nước và nước ngoài có liên quan đến hoạt động đầu tư xây dựng khu\nđô thị mới trên địa bàn tỉnh đều phải tuân thủ các quy định hiện hành của pháp\nluật và quy định này; chịu sự kiểm tra, thanh tra của các cơ quan chức năng nhà\nnước có thẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Việc thanh\ntra đối với một dự án khu đô thị mới không quá 01 lần trong năm, việc thanh tra\nđột xuất chỉ tiến hành khi có dấu hiệu sai phạm.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_21\"><b>Điều 21. Xử lý vi phạm</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Tổ chức,\ncá nhân nào có hành vi vi phạm các quy định hiện hành của pháp luật và quy định\nnày thì tùy theo tính chất, mức độ vi phạm sẽ bị xử phạt hành chính, đình chỉ đầu\ntư hoặc thu hồi quyết định cho phép đầu tư, hoặc truy cứu trách nhiệm theo quy\nđịnh của pháp luật; nếu gây thiệt hại cho các đối tác hoặc bên thứ ba thì phải\nbồi thường theo quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Nhà nước\nthu hồi toàn bộ hay từng phần đất đã giao, cho thuê nếu trong thời gian 12 tháng\nliền, kể từ ngày nhận bàn giao đất mà chủ đầu tư không triển khai thực hiện dự\nán hoặc tiến độ thực hiện dự án chậm quá 24 tháng so với tiến độ dự án đã được\nphê duyệt. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_6\"><b>CHƯƠNG VI</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_6_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_22\"><b>Điều 22. Các Sở quản lý ngành có liên quan</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sở Xây dựng</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;a) Chịu\ntrách nhiệm quản lý nhà nước về công tác phát triển đô thị và các dự án khu đô\nthị mới; định kỳ 6 tháng và hàng năm báo cáo UBND tỉnh và Bộ Xây dựng về tình\nhình và kết quả thực hiện đầu tư xây dựng các khu đô thị mới;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Là cơ quan\nđầu mối tổng hợp trình danh mục dự án lựa chọn chủ đầu tư và tổ chức thẩm định\ndự án khu đô thị mới;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Chủ trì,\nphối hợp với các Sở, Ngành và UBND các huyện, thành phố liên quan thực hiện\ncông tác quản lý và hướng dẫn chủ đầu tư thực hiện xây dựng theo quy hoạch kiến\ntrúc được duyệt, đảm bảo chất lượng, trật tự xây dựng, an toàn lao động vệ sinh\nmôi trường tại các dự án; bàn giao, bảo hành và bảo trì công trình. Tổ chức kiểm\ntra định kỳ, đột xuất các dự án trong giai đoạn thực hiện đầu tư theo quy định.\nTham gia đóng góp ý kiến bằng văn bản đối với Điều lệ quản lý thực hiện dự án\nkhu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Sở Kế hoạch\nvà Đầu tư</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Thẩm định\ncấp giấy chứng nhận đầu tư các dự án thứ cấp thuộc thẩm quyền UBND tỉnh;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Xây dựng kế\nhoạch đầu tư khớp nối các công trình hạ tầng đầu mối ngoài hàng rào dự án, các\ncông trình hạ tầng xã hội sử dụng vốn ngân sách;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Thực hiện\ngiám sát, đánh giá đầu tư xây dựng các khu đô thị mới trên địa bàn tỉnh theo nội\ndung quyết định cho phép đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Tham gia\nthẩm định dự án đầu tư xây dựng các khu đô thị mới. Tham gia đóng góp ý kiến bằng\nvăn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Sở Tài\nnguyên và Môi trường</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Tổ chức thẩm\nđịnh và trình UBND tỉnh quyết định thu hồi đất, giao đất, cho thuê đất, cho\nphép chuyển mục đích sử dụng đất để thực hiện dự án khu đô thị mới; chủ trì phối\nhợp với các ngành, UBND các huyện, thành phố thẩm định phương án bồi thường, hỗ\ntrợ và tái định cư đối với trường hợp thuộc thẩm quyền phê duyệt của UBND tỉnh;\nTrình UBND tỉnh thu hồi đất đối với các trường hợp vi phạm pháp luật về đất đai\ntheo khoản 2 Điều 21 của quy định này. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Chỉ đạo\nTrung tâm Phát triển Quỹ đất nhận bàn giao và thực hiện quản lý Nhà nước đối với\nphần diện tích đất chủ đầu tư bàn giao cho tỉnh;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Tham gia\nthẩm định dự án đầu tư xây dựng các khu đô thị mới. Tham gia đóng góp ý kiến bằng\nvăn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Sở Tài\nchính</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Trình Chủ\ntịch UBND tỉnh thành lập Hội đồng thẩm định giá đất;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;b) Chủ\ntrì phối hợp với các Sở, Ngành liên quan thẩm định phương án giá đất và mức thu\ntiền sử dụng đất của dự án chuyển cơ quan Thuế làm căn cứ thực hiện việc thu tiền\nsử dụng đất;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Hướng dẫn\nchủ đầu tư, UBND huyện, thành phố các nghiệp vụ về quản lý, sử dụng tài sản\ncông được chuyển giao;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Tổng hợp,\nnghiên cứu đề xuất giải quyết các vướng mắc trong việc xác định tiền sử dụng đất\nbáo cáo UBND tỉnh và Bộ Tài chính làm cơ sở thực hiện;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">e) Tham gia\nthẩm định dự án đầu tư xây dựng các khu đô thị mới. Tham gia đóng góp ý kiến bằng\nvăn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">f) Thực hiện\nthanh quyết toán dự án theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;5. Cục\nthuế Bắc Giang</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;Phối hợp\nvới các ngành có liên quan và UBND các huyện, thành phố, thực hiện việc thông\nbáo, hướng dẫn chủ đầu tư nộp tiền sử dụng đất của từng đợt cụ thể, theo tiến độ\nthực hiện dự án vào Ngân sách Nhà nước theo quy định. Tham gia đóng góp ý kiến\nbằng văn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_23\"><b>Điều 23. UBND các huyện, thành phố nơi có dự án đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Tổ chức\ncông bố công khai quy hoạch xây dựng đã được phê duyệt theo quy định của pháp\nluật và cung cấp thông tin cho các đối tượng có nhu cầu.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Xây dựng kế\nhoạch thực hiện kêu gọi đầu tư các dự án khu đô thị mới; kế hoạch hình thành đơn\nvị hành chính để tiếp nhận, quản lý hành chính các khu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Tham gia\nthẩm định các dự án đầu tư xây dựng các khu đô thị mới; Tham gia giám sát và quản\nlý chất lượng công trình trong dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Tổ chức thẩm\nđịnh, phê duyệt phương án bồi thường, hỗ trợ, tái định cư và triển khai thực hiện\ncông tác bồi thường GPMB theo quy định của UBND tỉnh. Tổ chức thẩm định và xin\ný kiến đóng góp của các cơ quan liên quan về Điều lệ quản lý thực hiện dự án\nkhu đô thị mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Khảo sát\ngiá đất thực tế trên địa bàn làm cơ sở để Hội đồng thẩm định giá đất của tỉnh\nxem xét xác định giá đất tính thu tiền sử dụng đất của dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Phối hợp với\nCục Thuế đôn đốc Chủ đầu tư nộp tiền sử dụng đất theo đúng quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">7. Nhận chuyển\ngiao công trình hạ tầng của dự án khu đô thị mới, quản lý khai thác công trình\ntheo đúng công năng, có trách nhiệm bảo trì công trình theo các quy định của\npháp luật về xây dựng sau khi ký nhận chuyển giao.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_24\"><b>Điều 24. Chủ đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Quyền và\nnghĩa vụ của chủ đầu tư thực hiện theo đúng quy định tại Điều 12 Nghị định số\n02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ và mục VI, VII Thông tư số\n04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng và các quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_25\"><b>Điều 25. Xử lý các trường hợp chuyển tiếp</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Đối với\ncác trường hợp dự án đầu tư xây dựng khu đô thị mới đã được Chủ tịch UBND tỉnh\ngiao làm chủ đầu tư dự án được tiếp tục lập dự án đầu tư để trình thẩm định cho\nphép đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Các trường\nhợp đã được Chủ tịch UBND tỉnh giao nghiên cứu lập quy hoạch chi tiết thì tiếp\ntục tham gia lựa chọn làm chủ đầu tư khu đô thị mới theo quy định này./. </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẮC GIANG  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 139/2011/QĐ-UBND\n\n_Bắc Giang, ngày 20 tháng 4 năm 2011_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH MỘT SỐ NỘI DUNG VỀ ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ MỚI TRÊN ĐỊA BÀN TỈNH BẮC GIANG\n\n**UỶ BAN NHÂN DÂN TỈNH BẮC GIANG**\n\n_Căn cứ Luật Tổ chức HĐND và UBND ngày 26/11/2003;  \nCăn cứ Luật Xây dựng ngày 26/11/2003, Luật Đất đai ngày 26/11/2003, Luật Đầu tư ngày 29/11/2005;  \nCăn cứ Nghị định số 181/2004/NĐ-CP ngày 29/10/2004 của Chính phủ về thi hành Luật đất đai; Nghị định số 188/2004/NĐ-CP ngày 16/11/2004 của Chính phủ về phương pháp xác định giá đất và khung giá các loại đất; Nghị định số 198/2004/NĐ-CP ngày 03/12/2004 của Chính phủ về thu tiền sử dụng đất; Nghị định số 123/2007/NĐ-CP ngày 27/7/2007 sửa đổi, bổ sung Nghị định số 188/2004/NĐ-CP; Nghị định số 120/2010/NĐ-CP ngày 30/12/2010 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 198/2004/NĐ-CP của Chính phủ về thu tiền sử dụng đất; Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ về việc ban hành quy chế khu đô thị mới; Nghị định số 37/2010/NĐ-CP ngày 07/4/2010 của Chính phủ về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị; Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ về thực hiện thí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp;  \nCăn cứ Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực hiện quy chế khu đô thị mới ban hành theo Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ; Thông tư số 145/2007/TT-BTC ngày 06/12/2007 của Bộ Tài chính hướng dẫn thực hiện Nghị định số 188/2004/NĐ-CP ngày 16/11/2004 của Chính phủ về phương pháp xác định giá đất và khung giá các loại đất và Nghị định số 123/2007/NĐ-CP ngày 27/7/2007 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 188/2004/NĐ-CP; Thông tư số 192/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính hướng dẫn thí điểm việc nộp tiền sử dụng đất đối với dự án khu đô thị mới, dự án nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ; Thông tư số 03/2009/TT- BKH ngày 16/4/2009 của Bộ Kế hoạch và Đầu tư hướng dẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng đất;  \nTheo đề nghị của Giám đốc Sở Xây dựng tại Tờ trình số 150/TTr-SXD ngày 30/03/2011,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1****.** Ban hành kèm theo Quyết định này Quy định một số nội dung về đầu tư xây dựng khu đô thị mới trên địa bàn tỉnh Bắc Giang.\n\n**Điều 2****.** Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.\n\n**Điều 3****.** Thủ trưởng các cơ quan, đơn vị thuộc UBND tỉnh, UBND các huyện, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định này./.\n\n**TM. UỶ BAN NHÂN DÂN  \nKT.CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nLại Thanh Sơn**\n\n**QUY ĐỊNH**\n\nMỘT SỐ NỘI DUNG VỀ ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ MỚI TRÊN ĐỊA BÀN TỈNH BẮC GIANG  \n_(Ban hành kèm theo Quyết định số 139/2011/QĐ-UBND ngày 20 tháng 4 năm 2011 của Uỷ ban nhân dân tỉnh Bắc Giang)_\n\n**CHƯƠNG I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\n1\\. Quy định này quy định cụ thể một số nội dung về đầu tư xây dựng khu đô thị mới bao gồm quá trình lập quy hoạch, lựa chọn chủ đầu tư, thẩm định dự án để cho phép đầu tư, giá đất và thu tiền sử dụng đất, quản lý thực hiện đầu tư xây dựng trên địa bàn tỉnh Bắc Giang.\n\n2\\. Những nội dung liên quan đến việc đầu tư xây dựng khu đô thị mới chưa được quy định trong Quy định này thì thực hiện theo quy định của pháp luật hiện hành.\n\n**Điều 2. Đối tượng áp dụng**\n\nCác tổ chức, cá nhân trong nước và ngoài nước tham gia vào quá trình quản lý và thực hiện đầu tư dự án xây dựng khu đô thị mới trên địa bàn tỉnh Bắc Giang.\n\nĐối với các dự án có sử dụng đất đầu tư xây dựng đô thị có quy mô dưới 20 ha trên địa bàn tỉnh được vận dụng thực hiện theo Quy định này, trừ các dự án đầu tư xây dựng Khu nhà ở.\n\n**Điều 3. Nguyên tắc đầu tư**\n\n1\\. Các khu đô thị mới được đầu tư, xây dựng trên cơ sở quy hoạch chi tiết xây dựng hoặc quy hoạch tổng mặt bằng tỷ lệ 1/500 được cấp có thẩm quyền phê duyệt, đảm bảo đồng bộ hạ tầng kỹ thuật và hạ tầng xã hội trong phạm vi dự án, khớp nối với hạ tầng xung quanh. Đảm bảo cho các tổ chức, hộ gia đình, cá nhân có đủ điều kiện để ổn định cuộc sống, sinh hoạt, làm việc và giao tiếp thuận tiện, đồng thời góp phần cải thiện môi trường sống, cơ sở hạ tầng đô thị chung khu vực.\n\n2\\. Ngân sách nhà nước đầu tư lập quy hoạch xây dựng chung và quy hoạch phân khu làm cơ sở để các nhà đầu tư nghiên cứu, lập quy hoạch chi tiết. Tuỳ theo trường hợp cụ thể nhà nước đầu tư trực tiếp (hoặc thanh toán cho Chủ đầu tư đã ứng vốn) một số công trình hạ tầng xã hội thiết yếu phục vụ lợi ích công cộng (trụ sở cơ quan hành chính, nhà văn hoá... ) nhà ở xã hội, nhà ở tái định cư từng khu vực dự án, hỗ trợ đầu tư xây dựng các công trình hạ tầng kỹ thuật đầu mối ngoài phạm vi dự án.\n\n**CHƯƠNG II**\n\n**ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ MỚI**\n\n**Điều 4. Quy hoạch xây dựng khu đô thị mới**\n\n1\\. Căn cứ kế hoạch phát triển kinh tế xã hội và quy hoạch chung, Sở Xây dựng chủ trì phối hợp với UBND các huyện, thành phố và các Sở, Ngành liên quan đề xuất kế hoạch để lập quy hoạch xây dựng phát triển các khu đô thị mới trên địa bàn tỉnh.\n\n2\\. Chủ tịch UBND các huyện, thành phố công bố công khai kế hoạch, quy hoạch để kêu gọi các tổ chức, các thành phần kinh tế tham gia đầu tư xây dựng các khu đô thị mới.\n\n3\\. Quy hoạch chi tiết xây dựng (hoặc quy hoạch tổng mặt bằng của dự án) phải phù hợp với quy hoạch chung, quy hoạch phân khu đã được cấp có thẩm quyền phê duyệt.\n\n**Điều 5. Lập quy hoạch chi tiết xây dựng khu đô thị mới**        \n\n1\\. Căn cứ điều kiện thực tế, đề nghị của nhà đầu tư và ý kiến của UBND các huyện, thành phố, Sở Xây dựng thẩm định trình Chủ tịch UBND tỉnh giao cho nhà đầu tư lập quy hoạch chi tiết và trình duyệt theo quy định tại khoản 1 điều 1 Nghị quyết số 33/2008/NQ-CP ngày 21/12/2008 của Chính phủ. Nhà đầu tư được giao lập quy hoạch sẽ được ưu tiên xem xét giao làm chủ đầu tư dự án.\n\n2\\. Quy hoạch chi tiết xây dựng khu đô thị mới phải đảm bảo đồng bộ hạ tầng kỹ thuật, hạ tầng xã hội trong phạm vi dự án; khớp nối các công trình hạ tầng kỹ thuật đầu mối, đáp ứng yêu cầu bảo vệ môi trường; đảm bảo không gian kiến trúc cảnh quan hợp lý và tạo được bộ mặt kiến trúc đô thị hiện đại.\n\n3\\. Cơ cấu sử dụng đất xây dựng nhà ở phải đảm bảo quy chuẩn, có tỷ lệ nhà ở chung cư cao tầng, nhà vườn và nhà liền kề hợp lý; đa dạng các loại hình nhà ở, có nhà ở thương mại, nhà ở xã hội và nhà ở riêng lẻ.\n\n**Điều 6. Quản lý quy hoạch xây dựng**\n\n1\\. Nhà đầu tư được Chủ tịch UBND tỉnh giao lập quy hoạch phải thực hiện theo đúng quy định tại điều 20 Nghị định số 37/2010/NĐ-CP ngày 07/4/2010 của Chính phủ về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị, chịu sự quản lý và hướng dẫn của các cơ quan có thẩm quyền quản lý quy hoạch kiến trúc.\n\n2\\. Việc lập, thẩm định và trình phê duyệt quy hoạch chi tiết các khu đô thị mới thực hiện theo quy định tại Quyết định số 12/2010/QĐ-UBND ngày 04/02/2010 của UBND tỉnh về việc ban hành quy định phân công, phân cấp và uỷ quyền thực hiện quản lý quy hoạch xây dựng và quản lý dự án đầu tư xây dựng công trình trên địa bàn tỉnh Bắc Giang.\n\n**Điều 7. Công bố danh mục các khu đô thị mới**\n\n1\\. Căn cứ vào quy hoạch phát triển kinh tế xã hội, quy hoạch đô thị được phê duyệt, quy hoạch ngành, kế hoạch sử dụng đất, UBND các huyện, thành phố đề xuất danh mục các dự án khu đô thị, báo cáo UBND tỉnh; đồng thời gửi Sở Tài nguyên và Môi trường để chủ trì, phối hợp các Sở, Ngành có liên quan rà soát, tổng hợp, báo cáo UBND tỉnh để trình HĐND tỉnh thông qua.\n\n2\\. Căn cứ vào kế hoạch phát triển các khu đô thị mới được HĐND tỉnh thông qua, Chủ tịch UBND tỉnh phê duyệt danh mục các dự án công bố lựa chọn chủ đầu tư. Trong thời hạn 10 ngày kể từ ngày Chủ tịch UBND tỉnh phê duyệt, bên mời thầu có trách nhiệm tổ chức công bố danh mục các dự án lựa chọn chủ đầu tư trên Báo đấu thầu, cổng thông tin điện tử (Wesbsite) của UBND tỉnh, Sở Xây dựng và UBND các huyện, thành phố nơi có dự án.\n\n3\\. Nội dung công bố danh mục dự án, gồm:\n\na) Tên dự án;\n\nb) Địa điểm xây dựng, quy mô diện tích đất của Dự án;\n\nc) Nội dung, chức năng sử dụng đất của Dự án;\n\nd) Khái quát sơ bộ hiện trạng dân cư; sử dụng đất của khu vực lập Dự án;\n\ne) Các chỉ tiêu quy hoạch, mục tiêu và yêu cầu chủ yếu của Dự án;\n\nf) Thời gian thực hiện Dự án.\n\n4\\. Thời gian dành cho nhà đầu tư quan tâm đăng ký với bên mời thầu để tham gia là 30 ngày kể từ ngày đăng tải đầu tiên trên Báo đấu thầu, cổng thông tin điện tử (Wesbsite) của UBND các huyện, thành phố nơi có dự án.\n\n**Điều 8. Điều kiện về năng lực của chủ đầu tư**\n\nChủ đầu tư thực hiện dự án xây dựng các khu đô thị mới trên địa bàn tỉnh phải đảm bảo các điều kiện sau:\n\n1\\. Là doanh nghiệp có đăng ký kinh doanh về đầu tư kinh doanh bất động sản.\n\n2\\. Vốn đầu tư thuộc sở hữu của chủ đầu tư tham gia vào dự án không nhỏ hơn 20% tổng mức đầu tư dự án.\n\n**Điều 9. Lựa chọn chủ đầu tư khu đô thị mới**\n\n1\\. Lựa chọn chủ đầu tư khu đô thị mới được thực hiện theo một trong 02 hình thức là đấu thầu lựa chọn chủ đầu tư hoặc chỉ định chủ đầu tư.\n\n2\\. Đấu thầu lựa chọn chủ đầu tư áp dụng trong trường hợp trong thời hạn mời thầu khu đô thị mới có từ 02 nhà đầu tư trở lên đăng ký tham gia. Việc tổ chức đấu thầu để lựa chọn chủ đầu tư chỉ được tiến hành khi quy hoạch chi tiết xây dựng tỷ lệ 1/2000 đã được phê duyệt và thoả mãn các điều kiện sau:\n\na) Khu đất của dự án đã được xác định trong quy hoạch xây dựng được duyệt;\n\nb) Đã xác định được bên mời thầu và hồ sơ mời thầu đã được Chủ tịch UBND tỉnh phê duyệt;\n\nc) Giá sàn tiền sử dụng đất đã được UBND tỉnh phê duyệt, trong trường hợp khu vực đất của dự án đã được bồi thường, giải phóng mặt bằng;\n\nd) Có phương án bồi thường, hỗ trợ và tái định cư được cấp có thẩm quyền phê duyệt trong trường hợp khu vực đất của dự án chưa được bồi thường, giải phóng mặt bằng.\n\n3\\. Chỉ định chủ đầu tư được thực hiện một trong các trường hợp:\n\na) Hết thời hạn đăng ký tham gia lựa chọn chủ đầu tư theo quy định mà chỉ có 01 nhà đầu tư đăng ký;\n\n b) Dự án khu đô thị mới đã được thông báo mời thầu, trong thời hạn mời thầu chỉ có 01 nhà đầu tư đăng ký;\n\nc) Khu đô thị mới cần phải thực hiện nhanh để đáp ứng yêu cầu phát triển nhà ở của địa phương.\n\n4\\. Chủ tịch UBND tỉnh giao UBND các huyện, thành phố nơi có dự án làm bên mời thầu để tổ chức đấu thầu lựa chọn chủ đầu tư hoặc chỉ định chủ đầu tư dự án khu đô thị mới.\n\nBên mời thầu trình Chủ tịch UBND tỉnh quyết định thành lập Tổ chuyên gia giúp việc. Thành phần tổ chuyên gia gồm Giám đốc hoặc Phó Giám đốc và chuyên viên các Sở: Xây dựng, Tài nguyên và Môi trường, Kế hoạch và Đầu tư, Tài chính và đại diện các cơ quan khác có liên quan đến dự án, do lãnh đạo UBND các huyện, thành phố làm tổ trưởng.\n\n5\\. Trình tự đấu thầu lựa chọn chủ đầu tư hoặc chỉ định chủ đầu tư khu đô thị mới thực hiện theo quy định tại mục 2 phần II Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực hiện quy chế khu đô thị mới ban hành theo Nghị định số 02/2006/NĐ-CP, Thông tư số 03/2009/TT - BKH ngày 16/4/2009 của Bộ Kế hoạch và Đầu tư hướng dẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng quỹ đất và các quy định pháp luật có liên quan.\n\n6\\. Trước khi thực hiện dự án, chủ đầu tư dự án khu đô thị mới có trách nhiệm lập Điều lệ quản lý thực hiện dự án khu đô thị mới theo quy định tại Điều 16 Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ gửi UBND các huyện, thành phố nơi có dự án thẩm định trình Chủ tịch UBND tỉnh phê duyệt.\n\n**Điều 10. Thẩm định, thẩm tra và quyết định cho phép đầu tư**\n\n1\\. Sau khi được giao làm chủ đầu tư, chủ đầu tư lập hồ sơ dự án xin phép đầu tư gửi Sở Xây dựng để thẩm định. Hồ sơ dự án theo quy định tại Điều 14 Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ và mục IV Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng. Nội dung của dự án khu đô thị mới theo quy định tại mục III Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng.\n\n2\\. Sở Xây dựng là cơ quan đầu mối tổ chức thẩm định dự án, có trách nhiệm lấy ý kiến bằng văn bản của chính quyền địa phương nơi có dự án khu đô thị mới và các cơ quan có liên quan. Tùy theo điều kiện cụ thể của từng dự án, Sở Xây dựng đề nghị Chủ tịch UBND tỉnh thành lập tổ công tác liên ngành gồm Lãnh đạo và chuyên viên các Sở: Xây dựng, Kế hoạch và Đầu tư, Tài chính, Tài nguyên và Môi trường và UBND huyện, thành phố nơi có dự án, do Lãnh đạo Sở Xây dựng làm tổ trưởng giúp Sở Xây dựng tổ chức thẩm định, thẩm tra làm cơ sở để trình cấp có thẩm quyền xem xét cho phép đầu tư.\n\n3\\. Thẩm quyền cho phép đầu tư:\n\na) Đối với các dự án khu đô thị mới có quy mô từ 200 ha đất trở lên, Sở Xây dựng có trách nhiệm tổng hợp, báo cáo Chủ tịch UBND tỉnh xin ý kiến các Bộ: Xây dựng, Kế hoạch và Đầu tư, Tài chính, Tài nguyên và Môi trường và các cơ quan có liên quan để Chủ tịch UBND tỉnh trình Thủ tướng Chính phủ cho phép đầu tư;\n\nb) Đối với các dự án còn lại, Sở Xây dựng tổng hợp báo cáo và trình Chủ tịch UBND tỉnh quyết định cho phép đầu tư.\n\n4\\. Sau khi được cấp có thẩm quyền cho phép đầu tư, chủ đầu tư hoàn chỉnh dự án, thẩm định và ra quyết định đầu tư theo quy định về quản lý dự án đầu tư xây dựng. Quyết định đầu tư của Dự án phải tuân thủ các nội dung trong quyết định cho phép đầu tư.\n\n**CHƯƠNG III**\n\n**XÁC ĐỊNH GIÁ ĐẤT VÀ THU TIỀN SỬ DỤNG ĐẤT**\n\n**Điều 11. Xác định giá đất để tính thu tiền sử dụng đất**\n\n1\\. Căn cứ xác định giá đất:\n\na) Quy hoạch chi tiết xây dựng khu đô thị mới tỷ lệ 1/500 được cấp có thẩm quyền phê duyệt;\n\nb) Bảng mức giá các loại đất hàng năm do UBND tỉnh ban hành;\n\nc) Giá đất trên thị trường khu vực dự án và các khu vực lân cận có cơ sở hạ tầng tương đương.\n\n2\\. Phương pháp xác định giá đất:\n\nGiá đất để tính thu tiền sử dụng đất với Chủ đầu tư được xác định theo phương pháp được quy định tại Điều 4 Nghị định số 188/2004/NĐ-CP ngày 16/11/2004 của Chính phủ về phương pháp xác định giá đất và khung giá các loại đất; khoản 3 Điều 1 Nghị định số 123/2007/NĐ-CP ngày 27/7/2007 của Chính phủ sửa đổi, bổ sung Nghị định số 188/2004/NĐ-CP; Mục I Thông tư số 145/2007/TT-BTC ngày 06/12/2007 của Bộ Tài chính và các văn bản khác của Nhà nước có liên quan.\n\n3\\. Thời điểm xác định giá đất:\n\na) Trong quá trình lập dự án đầu tư, Chủ đầu tư thuê tổ chức có chức năng thẩm định giá đất hoặc phối hợp với các cơ quan có liên quan tự xây dựng phương án giá đất làm cơ sở xác định hiệu quả đầu tư của dự án.\n\nTrên cơ sở hồ sơ của Chủ đầu tư, Tổ công tác liên ngành, Sở Xây dựng có trách nhiệm thẩm định hiệu quả đầu tư trước khi trình Chủ tịch UBND tỉnh phê duyệt cho phép đầu tư;\n\nb) Thời điểm xác định giá đất để tính thu tiền sử dụng đất (tính tiền sử dụng đất phải nộp của Chủ đầu tư) là tại thời điểm có quyết định giao đất của cơ quan nhà nước có thẩm quyền cho Chủ đầu tư; trường hợp thời điểm bàn giao đất không đúng với thời điểm ghi trong quyết định giao đất thì giá đất tính thu tiền sử dụng đất là giá đất theo mục đích sử dụng đất được giao tại thời điểm bàn giao đất thực tế.\n\nGiá đất để tính thu tiền sử dụng đất được Hội đồng thẩm định giá đất của tỉnh thẩm định trước khi trình UBND tỉnh quyết định.\n\n4\\. Hội đồng thẩm định giá đất do Chủ tịch UBND tỉnh quyết định thành lập. Chủ tịch Hội đồng là Giám đốc hoặc Phó Giám đốc Sở Tài chính; Phó Chủ tịch Hội đồng là Giám đốc hoặc Phó Giám đốc Sở Tài nguyên và Môi trường; thành viên Hội đồng gồm Lãnh đạo các cơ quan: Sở Xây dựng, Sở Kế hoạch và Đầu tư, Cục Thuế tỉnh và UBND huyện, thành phố nơi có dự án; mời tham gia giám sát Hội đồng gồm: Lãnh đạo Ban Kinh tế ngân sách - Hội đồng nhân dân tỉnh, Ban phòng chống tham nhũng, Thanh tra và Ủy ban Mặt trận Tổ Quốc tỉnh.\n\nHội đồng có nhiệm vụ thẩm định giá đất tính thu tiền sử dụng đất của các dự án trình UBND tỉnh quyết định. Hội đồng có thể thuê tổ chức có chức năng thẩm định giá để thẩm định giá đất làm căn cứ cho Hội đồng thực hiện thẩm định.\n\nChủ tịch Hội đồng được thành lập Tổ chuyên viên giúp việc gồm đại diện các cơ quan: Tài chính, Tài nguyên và Môi trường, Xây dựng, Cục Thuế, Kế hoạch và Đầu tư và UBND các huyện, thành phố nơi có dự án.\n\nChủ tịch Hội đồng có trách nhiệm xây dựng Quy chế hoạt động của Hội đồng trình Chủ tịch UBND tỉnh phê duyệt.\n\n5\\. Chủ đầu tư có trách nhiệm gửi hồ sơ đến Chủ tịch Hội đồng thẩm định giá đất để gửi cho các thành viên của Hội đồng. Hồ sơ gồm:\n\na) Công văn đề nghị thẩm định giá đất của Chủ đầu tư;\n\nb) Dự án đầu tư khu đô thị mới theo quy định;\n\nc) Quyết định phê duyệt quy hoạch chi tiết 1/500;\n\nd) Quyết định giao đất, Biên bản giao đất thực tế trên thực địa;\n\ne) Phương án xác định giá đất hoặc bản phô tô chứng thực Chứng thư thẩm định giá của dự án.\n\nTrường hợp Chủ đầu tư được giao đất làm nhiều đợt thì giá đất để tính thu tiền sử dụng đất được xác định cho từng đợt. Hồ sơ xác định giá đất từ đợt 2 trở đi gồm: công văn đề nghị thẩm định giá đất của Chủ đầu tư; Quyết định giao đất, Biên bản giao đất thực tế trên thực địa; phương án xác định giá đất hoặc bản phô tô chứng thực Chứng thư thẩm định giá của dự án.\n\n6\\. Trong thời gian 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Hội đồng thẩm định giá đất có trách nhiệm tổ chức thẩm định, lập Tờ trình trình UBND tỉnh quyết định giá đất tính thu tiền sử dụng đất của dự án.\n\n**Điều 12. Mức thu tiền sử dụng đất**\n\n1\\. Mức thu tiền sử dụng đất của dự án bằng Tổng giá trị phát triển trừ đi Tổng chi phí phát triển.\n\n2\\. Tổng giá trị phát triển của dự án được xác định bằng tổng giá trị quyền sử dụng đất của các loại đất gồm: Đất ở (phân lô liền kề, đất biệt thự, đất nhà chung cư), đất để sử dụng vào mục đích kinh doanh (đất sản xuất kinh doanh phi nông nghiệp) và đất hỗn hợp (đất ở kết hợp sản xuất kinh doanh), theo công thức sau:\n\nTổng giá trị phát triển của dự án\n\n\\= ∑ (\n\nGiá đất của từng\n\nvị trí, từng loại đất\n\nx\n\nDiện tích đất của từng\n\n vị trí, từng loại đất\n\n)\n\nDiện tích, vị trí của từng loại đất căn cứ vào quy hoạch chi tiết 1/500 được cấp có thẩm quyền phê duyệt.\n\n3\\. Tổng chi phí phát triển bao gồm các loại chi phí mà chủ đầu tư bỏ ra và phần được hưởng để thực hiện dự án theo đúng quy hoạch chi tiết đã được cấp có thẩm quyền phê duyệt, cụ thể:\n\na) Chi phí bồi thường, giải phóng mặt bằng, được tính trên cơ sở phương án bồi thường, hỗ trợ và tái định cư được cấp có thẩm quyền phê duyệt;\n\nb) Chi phí đầu tư xây dựng kết cấu hạ tầng kỹ thuật trong hàng rào của dự án;\n\nc) Các khoản chi phí hợp lý khác.\n\n4\\. Mức thu tiền sử dụng đất trong một số trường hợp cụ thể:\n\na) Trường hợp toàn bộ đất có thu tiền sử dụng đất của dự án được giao cho chủ đầu tư cấp 1 thì mức thu tiền sử dụng đất của chủ đầu tư cấp 1 bằng mức thu tiền sử dụng đất của dự án;\n\nb) Trường hợp đất có thu tiền sử dụng đất được giao một phần cho chủ đầu tư cấp 1, phần còn lại do Nhà nước trực tiếp quản lý thì mức thu tiền sử dụng đất của chủ đầu tư cấp 1 bằng (=) diện tích đất giao ở từng vị trí nhân (x) giá đất của từng vị trí tương ứng.\n\nc) Trường hợp Chủ đầu tư được giao đất làm nhiều đợt thì mức thu tiền sử dụng đất của từng đợt được xác định đồng thời với việc xác định giá đất của từng đợt.\n\n**Điều 13. Tiến độ thu tiền sử dụng đất vào ngân sách, điều chỉnh giá đất và mức thu tiền sử dụng đất**\n\n1\\. Tiến độ thu tiền sử dụng đất thực hiện theo hướng dẫn tại Thông tư số 192/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính hướng dẫn thí điểm việc nộp tiền sử dụng đất đối với dự án khu đô thị mới, dự án nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ.\n\n Khuyến khích Nhà đầu tư nộp tiền 01 lần ngay sau khi có quyết định phê duyệt giá đất và mức thu tiền sử dụng đất của UBND tỉnh.\n\n2\\. Điều chỉnh giá đất được thực hiện trong các trường hợp sau:\n\na) Tại thời điểm thu tiền sử dụng đất (lần 1, lần 2 quy định tại khoản 1.3 Điều 1 Thông tư số 192/2009/TT-BTC) mà giá đất do Uỷ ban nhân dân cấp tỉnh quy định và công bố có sự biến động tăng hoặc giảm so với giá đất do Uỷ ban nhân dân cấp tỉnh quy định tại thời điểm giao đất (hoặc thời điểm bàn giao đất thực tế) từ 20% trở lên;\n\nb) Trong thời gian quy định thực hiện nghĩa vụ tài chính mà chủ đầu tư chưa thực hiện xong nghĩa vụ tài chính và giá thị trường có biến động tăng;\n\nc) Nhà đầu tư thực hiện tiến độ đầu tư chậm so với quy định và giá thị trường có biến động tăng;\n\nd) Khi Uỷ ban nhân dân tỉnh có quyết định điều chỉnh lại quy hoạch sử dụng đất, quy hoạch xây dựng chi tiết 1/500 mà việc điều chỉnh đó làm thay đổi chí phí đầu tư, thay đổi diện tích, cơ cấu sử dụng đất giao cho chủ đầu tư.\n\n**CHƯƠNG IV**\n\n**QUẢN LÝ THỰC HIỆN ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ MỚI**\n\n**Điều 14. Nguyên tắc quản lý dự án**\n\n1\\. UBND tỉnh thống nhất quản lý Nhà nước đối với tất cả các dự án khu đô thị mới trên địa bàn tỉnh. Các Sở, Ngành, UBND huyện, thành phố thực hiện quản lý Nhà nước theo chức năng, nhiệm vụ được giao trong giai đoạn thực hiện đầu tư xây dựng đến khi bàn giao đưa vào sử dụng và bảo hành các công trình.\n\n2\\. Chủ đầu tư có trách nhiệm quản lý trực tiếp, toàn diện quá trình thực hiện đầu tư và tổ chức đưa dự án vào khai thác theo đúng những nội dung của Quyết định cho phép đầu tư và phải chịu sự quản lý Nhà nước của các cấp chính quyền, các cơ quan quản lý có thẩm quyền hoặc được uỷ quyền.\n\n3\\. Chủ đầu tư dự án cấp 2 có trách nhiệm quản lý, thực hiện dự án thành phần được giao, chịu sự quản lý của chủ đầu tư và sự quản lý Nhà nước của các cơ quan quản lý có thẩm quyền hoặc được uỷ quyền.\n\n**Điều 15. Quản lý tiến độ thực hiện dự án**\n\n1\\. Chủ đầu tư có trách nhiệm xây dựng kế hoạch, tiến độ thực hiện đầu tư xây dựng, hoàn thành từng hạng mục công trình và toàn bộ dự án. Kế hoạch, tiến độ thực hiện đầu tư phải được đăng ký tại Sở Xây dựng và gửi Sở Kế hoạch và Đầu tư, Sở Tài nguyên và Môi trường, Sở Tài chính, UBND huyện, thành phố nơi có dự án trước khi triển khai thực hiện dự án theo những nội dung, tiến độ thực hiện dự án quy định trong Quyết định phê duyệt dự án đầu tư, Quyết định cho phép đầu tư, Điều lệ quản lý thực hiện dự án.\n\n2\\. Việc thay đổi tiến độ thực hiện dự án, hạng mục công trình, công trình nếu làm ảnh hưởng đến tiến độ bàn giao đưa vào khai thác sử dụng và tiến độ tổng thể của dự án phải được Chủ tịch UBND tỉnh chấp thuận.\n\n**Điều 16. Quản lý xây dựng theo quy hoạch, kiến trúc được duyệt**\n\nChủ đầu tư phải tổ chức xây dựng theo đúng quy hoạch chi tiết xây dựng và điều lệ quản lý quy hoạch đã được phê duyệt cùng với các quy định kèm theo của UBND tỉnh, đảm bảo:\n\n1\\. Sử dụng đất theo đúng mục đích, đúng chỉ giới đường đỏ và chỉ giới xây dựng; các chỉ tiêu về diện tích sử dụng đất, diện tích xây dựng, mật độ xây dựng phải thực hiện theo đúng quy định cùng với phương án kiến trúc đã được phê duyệt.\n\n2\\. Triển khai xây dựng đồng bộ hệ thống hạ tầng kỹ thuật, đảm bảo khớp nối với hệ thống hạ tầng khu vực xung quanh, không gây ảnh hưởng xấu tới sản xuất, sinh hoạt của nhân dân khu vực lân cận.\n\n3\\. Các công trình hạ tầng xã hội bên trong dự án được xây dựng đồng thời với các công trình nhà ở, kinh doanh, dịch vụ.\n\n**Điều 17. Quản lý chất lượng công trình**\n\n1\\. Chủ đầu tư phải tổ chức thực hiện đầy đủ những nội dung quy định tại Nghị định số 209/2004/NĐ-CP ngày 16/12/2004, Nghị định số 49/2008/NĐ-CP ngày 18/4/2008 của Chỉnh phủ về quản lý chất lượng công trình xây dựng. Đồng thời phải thực hiện các yêu cầu sau:\n\na) Xây dựng các quy định và tổ chức hệ thống quản lý đảm bảo kỹ thuật, chất lượng toàn bộ dự án, từng hạng mục công trình, công trình. Bộ máy quản lý kỹ thuật, chất lượng phải đảm bảo yêu cầu về trình độ chuyên môn, nghiệp vụ theo quy định hiện hành;\n\nb) Kịp thời phát hiện và kiến nghị giải quyết những vấn đề phát sinh nhằm đảm bảo kỹ thuật, chất lượng của hệ thống hạ tầng kỹ thuật chung, của từng công trình và toàn bộ dự án.\n\n2\\. Sở Xây dựng chủ trì, phối hợp các Sở có xây dựng chuyên ngành có trách nhiệm kiểm tra, xử lý theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền xử lý đối với các vi phạm về chất lượng, quản lý chất lượng công trình xây dựng.\n\n3\\. Các công trình, hạng mục công trình chỉ được phép bàn giao đưa vào sử dụng sau khi tổ chức nghiệm thu theo đúng quy định của Nghị định số 209/2004/NĐ-CP, số 49/2008/NĐ-CP của Chính phủ về quản lý chất lượng công trình và được chứng nhận đủ điều kiện đảm bảo an toàn chịu lực, chứng nhận sự phù hợp về chất lượng công trình theo quy định tại Thông tư số 16/2008/TT-BXD ngày 09/11/2008 của Bộ Xây dựng.\n\n4\\. Sau khi công trình xây dựng được nghiệm thu, bàn giao đưa vào sử dụng, trong thời hạn bảo hành, chủ đầu tư dự án phải có báo cáo định kỳ 6 tháng và 1 năm về chất lượng các công trình xây dựng theo đúng quy định gửi Sở Xây dựng và Sở có công trình xây dựng chuyên ngành liên quan.\n\n**Điều 18. Đảm bảo trật tự xây dựng, an toàn giao thông, an toàn lao động, vệ sinh môi trường**\n\nChủ đầu tư phải tổ chức quản lý trật tự xây dựng, an toàn giao thông, an toàn lao động, vệ sinh môi trường theo quy định; phối hợp với chính quyền địa phương quản lý trật tự an toàn xã hội trong khu vực dự án; có biện pháp thu gom, xử lý rác thải, nước thải xây dựng và sinh hoạt, đảm bảo trật tự vệ sinh môi trường trong suốt quá trình thực hiện dự án, đồng thời hướng dẫn, đôn đốc các chủ đầu tư cấp 2 tổ chức thực hiện.\n\n**Điều 19. Thực hiện việc bàn giao, bảo hành và bảo trì công trình**\n\n1\\. Chủ đầu tư phải xây dựng các quy định về quản lý, vận hành, bảo trì các công trình hạ tầng, công trình kiến trúc. Chủ đầu tư và người sử dụng công trình có trách nhiệm vận hành và bảo trì công trình; Tổ chức nghiệm thu, đưa vào sử dụng các công trình, hạng mục công trình theo đúng các quy định hiện hành và thực hiện vận hành công trình khi đưa vào sử dụng. Trong khi vận hành phải kiểm tra định kỳ, phát hiện hư hỏng để kịp thời sửa chữa, đảm bảo an toàn khi sử dụng công trình.\n\n2\\. Trong thời gian chưa hoàn thành toàn bộ dự án, chủ đầu tư phải kiểm tra, giám sát việc sử dụng những công trình đã bàn giao đưa vào sử dụng, đảm bảo không ảnh hưởng đến việc tổ chức thực hiện dự án.\n\n3\\. Kết thúc đầu tư xây dựng việc chuyển giao, khai thác sử dụng công trình và chuyển giao quản lý hành chính thực hiện theo Điều 17,18,19,20 của Nghị định 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ.\n\n**CHƯƠNG V**\n\n**KIỂM TRA, THANH TRA XỬ LÝ VI PHẠM**\n\n**Điều 20. Kiểm tra, thanh tra**\n\n1\\. Mọi tổ chức, cá nhân trong nước và nước ngoài có liên quan đến hoạt động đầu tư xây dựng khu đô thị mới trên địa bàn tỉnh đều phải tuân thủ các quy định hiện hành của pháp luật và quy định này; chịu sự kiểm tra, thanh tra của các cơ quan chức năng nhà nước có thẩm quyền.\n\n2\\. Việc thanh tra đối với một dự án khu đô thị mới không quá 01 lần trong năm, việc thanh tra đột xuất chỉ tiến hành khi có dấu hiệu sai phạm.\n\n**Điều 21. Xử lý vi phạm**\n\n1\\. Tổ chức, cá nhân nào có hành vi vi phạm các quy định hiện hành của pháp luật và quy định này thì tùy theo tính chất, mức độ vi phạm sẽ bị xử phạt hành chính, đình chỉ đầu tư hoặc thu hồi quyết định cho phép đầu tư, hoặc truy cứu trách nhiệm theo quy định của pháp luật; nếu gây thiệt hại cho các đối tác hoặc bên thứ ba thì phải bồi thường theo quy định của pháp luật.\n\n2\\. Nhà nước thu hồi toàn bộ hay từng phần đất đã giao, cho thuê nếu trong thời gian 12 tháng liền, kể từ ngày nhận bàn giao đất mà chủ đầu tư không triển khai thực hiện dự án hoặc tiến độ thực hiện dự án chậm quá 24 tháng so với tiến độ dự án đã được phê duyệt.\n\n**CHƯƠNG VI**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 22. Các Sở quản lý ngành có liên quan**\n\n1\\. Sở Xây dựng\n\n a) Chịu trách nhiệm quản lý nhà nước về công tác phát triển đô thị và các dự án khu đô thị mới; định kỳ 6 tháng và hàng năm báo cáo UBND tỉnh và Bộ Xây dựng về tình hình và kết quả thực hiện đầu tư xây dựng các khu đô thị mới;\n\nb) Là cơ quan đầu mối tổng hợp trình danh mục dự án lựa chọn chủ đầu tư và tổ chức thẩm định dự án khu đô thị mới;\n\nc) Chủ trì, phối hợp với các Sở, Ngành và UBND các huyện, thành phố liên quan thực hiện công tác quản lý và hướng dẫn chủ đầu tư thực hiện xây dựng theo quy hoạch kiến trúc được duyệt, đảm bảo chất lượng, trật tự xây dựng, an toàn lao động vệ sinh môi trường tại các dự án; bàn giao, bảo hành và bảo trì công trình. Tổ chức kiểm tra định kỳ, đột xuất các dự án trong giai đoạn thực hiện đầu tư theo quy định. Tham gia đóng góp ý kiến bằng văn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.\n\n2\\. Sở Kế hoạch và Đầu tư\n\na) Thẩm định cấp giấy chứng nhận đầu tư các dự án thứ cấp thuộc thẩm quyền UBND tỉnh;\n\nb) Xây dựng kế hoạch đầu tư khớp nối các công trình hạ tầng đầu mối ngoài hàng rào dự án, các công trình hạ tầng xã hội sử dụng vốn ngân sách;\n\nc) Thực hiện giám sát, đánh giá đầu tư xây dựng các khu đô thị mới trên địa bàn tỉnh theo nội dung quyết định cho phép đầu tư;\n\nd) Tham gia thẩm định dự án đầu tư xây dựng các khu đô thị mới. Tham gia đóng góp ý kiến bằng văn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.\n\n3\\. Sở Tài nguyên và Môi trường\n\na) Tổ chức thẩm định và trình UBND tỉnh quyết định thu hồi đất, giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất để thực hiện dự án khu đô thị mới; chủ trì phối hợp với các ngành, UBND các huyện, thành phố thẩm định phương án bồi thường, hỗ trợ và tái định cư đối với trường hợp thuộc thẩm quyền phê duyệt của UBND tỉnh; Trình UBND tỉnh thu hồi đất đối với các trường hợp vi phạm pháp luật về đất đai theo khoản 2 Điều 21 của quy định này.\n\nb) Chỉ đạo Trung tâm Phát triển Quỹ đất nhận bàn giao và thực hiện quản lý Nhà nước đối với phần diện tích đất chủ đầu tư bàn giao cho tỉnh;\n\nc) Tham gia thẩm định dự án đầu tư xây dựng các khu đô thị mới. Tham gia đóng góp ý kiến bằng văn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.\n\n4\\. Sở Tài chính\n\na) Trình Chủ tịch UBND tỉnh thành lập Hội đồng thẩm định giá đất;\n\n b) Chủ trì phối hợp với các Sở, Ngành liên quan thẩm định phương án giá đất và mức thu tiền sử dụng đất của dự án chuyển cơ quan Thuế làm căn cứ thực hiện việc thu tiền sử dụng đất;\n\nc) Hướng dẫn chủ đầu tư, UBND huyện, thành phố các nghiệp vụ về quản lý, sử dụng tài sản công được chuyển giao;\n\nd) Tổng hợp, nghiên cứu đề xuất giải quyết các vướng mắc trong việc xác định tiền sử dụng đất báo cáo UBND tỉnh và Bộ Tài chính làm cơ sở thực hiện;\n\ne) Tham gia thẩm định dự án đầu tư xây dựng các khu đô thị mới. Tham gia đóng góp ý kiến bằng văn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.\n\nf) Thực hiện thanh quyết toán dự án theo quy định.\n\n 5. Cục thuế Bắc Giang\n\n Phối hợp với các ngành có liên quan và UBND các huyện, thành phố, thực hiện việc thông báo, hướng dẫn chủ đầu tư nộp tiền sử dụng đất của từng đợt cụ thể, theo tiến độ thực hiện dự án vào Ngân sách Nhà nước theo quy định. Tham gia đóng góp ý kiến bằng văn bản đối với Điều lệ quản lý thực hiện dự án khu đô thị mới.\n\n**Điều 23. UBND các huyện, thành phố nơi có dự án đầu tư**\n\n1\\. Tổ chức công bố công khai quy hoạch xây dựng đã được phê duyệt theo quy định của pháp luật và cung cấp thông tin cho các đối tượng có nhu cầu.\n\n2\\. Xây dựng kế hoạch thực hiện kêu gọi đầu tư các dự án khu đô thị mới; kế hoạch hình thành đơn vị hành chính để tiếp nhận, quản lý hành chính các khu đô thị mới.\n\n3\\. Tham gia thẩm định các dự án đầu tư xây dựng các khu đô thị mới; Tham gia giám sát và quản lý chất lượng công trình trong dự án.\n\n4\\. Tổ chức thẩm định, phê duyệt phương án bồi thường, hỗ trợ, tái định cư và triển khai thực hiện công tác bồi thường GPMB theo quy định của UBND tỉnh. Tổ chức thẩm định và xin ý kiến đóng góp của các cơ quan liên quan về Điều lệ quản lý thực hiện dự án khu đô thị mới.\n\n5\\. Khảo sát giá đất thực tế trên địa bàn làm cơ sở để Hội đồng thẩm định giá đất của tỉnh xem xét xác định giá đất tính thu tiền sử dụng đất của dự án.\n\n6\\. Phối hợp với Cục Thuế đôn đốc Chủ đầu tư nộp tiền sử dụng đất theo đúng quy định.\n\n7\\. Nhận chuyển giao công trình hạ tầng của dự án khu đô thị mới, quản lý khai thác công trình theo đúng công năng, có trách nhiệm bảo trì công trình theo các quy định của pháp luật về xây dựng sau khi ký nhận chuyển giao.\n\n**Điều 24. Chủ đầu tư**\n\nQuyền và nghĩa vụ của chủ đầu tư thực hiện theo đúng quy định tại Điều 12 Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ và mục VI, VII Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng và các quy định của pháp luật.\n\n**Điều 25. Xử lý các trường hợp chuyển tiếp**\n\n1\\. Đối với các trường hợp dự án đầu tư xây dựng khu đô thị mới đã được Chủ tịch UBND tỉnh giao làm chủ đầu tư dự án được tiếp tục lập dự án đầu tư để trình thẩm định cho phép đầu tư.\n\n2\\. Các trường hợp đã được Chủ tịch UBND tỉnh giao nghiên cứu lập quy hoạch chi tiết thì tiếp tục tham gia lựa chọn làm chủ đầu tư khu đô thị mới theo quy định này./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

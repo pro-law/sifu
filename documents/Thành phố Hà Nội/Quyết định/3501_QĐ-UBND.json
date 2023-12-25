@@ -1,0 +1,658 @@
+{
+  "title": "Quyết định 3501/QĐ-UBND năm 2022 phê duyệt Đề cương Đề án \"Xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội\"",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Quyết định 569/QĐ-TTg năm 2022 về Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "569/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2022-05-11",
+      "effectiveDate": "2022-05-11",
+      "gazetteDate": "2022-05-17",
+      "gazetteNumber": "Từ số 343 đến số 344",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 15-NQ/TW năm 2022 về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030, tầm nhìn đến năm 2045 do Ban Chấp hành Trung ương ban hành",
+      "id": "15-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2022-05-05",
+      "effectiveDate": "2022-05-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 186/QĐ-BTTTT năm 2022 phê duyệt Chương trình thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, phát triển chính phủ số, kinh tế số, xã hội số do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "186/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2022-02-11",
+      "effectiveDate": "2022-02-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chương trình hành động 02/CTr-UBND thực hiện các nhiệm vụ, giải pháp phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2022 do thành phố Hà Nội ban hành",
+      "id": "02/CTr-UBND",
+      "legislationType": "Văn bản khác",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Chu Ngọc Anh"
+      ],
+      "issuedDate": "2022-01-19",
+      "effectiveDate": "2022-01-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 154/QĐ-UBND năm 2022 về Chương trình phát triển thị trường khoa học và công nghệ của thành phố Hà Nội đến năm 2030",
+      "id": "154/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Chử Xuân Dũng"
+      ],
+      "issuedDate": "2022-01-13",
+      "effectiveDate": "2022-01-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 80/2021/NĐ-CP hướng dẫn Luật Hỗ trợ doanh nghiệp nhỏ và vừa",
+      "id": "80/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Lê Minh Khái"
+      ],
+      "issuedDate": "2021-08-26",
+      "effectiveDate": "2021-10-15",
+      "gazetteDate": "2021-09-08",
+      "gazetteNumber": "Từ số 749 đến số 750",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 185/KH-UBND năm 2021 thực hiện Chương trình 07-CTr/TU về \"Đẩy mạnh phát triển khoa học, công nghệ và đổi mới sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2021-2025”",
+      "id": "185/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Chu Ngọc Anh"
+      ],
+      "issuedDate": "2021-08-11",
+      "effectiveDate": "2021-08-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1158/QĐ-TTg năm 2021 về Chương trình phát triển thị trường khoa học và công nghệ quốc gia đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "1158/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-07-13",
+      "effectiveDate": "2021-07-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 188/QĐ-TTg năm 2021 sửa đổi Quyết định 844/QĐ-TTg phê duyệt Đề án Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025 do Thủ tướng Chính phủ ban hành",
+      "id": "188/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-02-09",
+      "effectiveDate": "2021-02-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 07/2020/TT-BKHCN hướng dẫn về việc thành lập cơ sở ươm tạo doanh nghiệp nhỏ và vừa, cơ sở kỹ thuật hỗ trợ doanh nghiệp nhỏ và vừa, khu làm việc chung hỗ trợ doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo do Bộ trưởng Bộ Khoa học và Công nghệ ban hành",
+      "id": "07/2020/TT-BKHCN",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Bộ Khoa học và Công nghệ",
+      "signers": [
+        "Trần Văn Tùng"
+      ],
+      "issuedDate": "2020-12-11",
+      "effectiveDate": "2021-02-12",
+      "gazetteDate": "2021-01-05",
+      "gazetteNumber": "Từ số 17 đến số 18",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 50/NQ-CP năm 2020 về Chương trình hành động thực hiện Nghị quyết 52-NQ/TW về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư do Chính phủ ban hành",
+      "id": "50/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-17",
+      "effectiveDate": "2020-04-17",
+      "gazetteDate": "2020-04-29",
+      "gazetteNumber": "Từ số 567 đến số 568",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 49/KH-UBND năm 2020 về Hỗ trợ phát triển doanh nghiệp khoa học và công nghệ trên địa bàn thành phố Hà Nội đến năm 2025",
+      "id": "49/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Ngô Văn Quý"
+      ],
+      "issuedDate": "2020-02-28",
+      "effectiveDate": "2020-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Chỉ thị 9/CT-TTg năm 2020 về tạo điều kiện cho doanh nghiệp khởi nghiệp sáng tạo do Thủ tướng Chính phủ ban hành",
+      "id": "9/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-02-18",
+      "effectiveDate": "2020-02-18",
+      "gazetteDate": "2020-02-26",
+      "gazetteNumber": "Từ số 241 đến số 242",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 10/2019/NQ-HĐND quy định về nội dung, mức chi thuộc thẩm quyền của Hội đồng nhân dân Thành phố Hà Nội",
+      "id": "10/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Thị Bích Ngọc"
+      ],
+      "issuedDate": "2019-12-04",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 52-NQ/TW năm 2019 về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư do Bộ Chinh trị ban hành",
+      "id": "52-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Bộ Chính trị",
+      "signers": [
+        "***"
+      ],
+      "issuedDate": "2019-09-27",
+      "effectiveDate": "2019-09-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4889/QĐ-UBND năm 2019 về phê duyệt Đề án “Hỗ trợ khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội giai đoạn năm 2019-2025”",
+      "id": "4889/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Đức Chung"
+      ],
+      "issuedDate": "2019-09-09",
+      "effectiveDate": "2019-09-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 45/2019/TT-BTC quy định về quản lý tài chính thực hiện Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025” do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "45/2019/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2019-07-19",
+      "effectiveDate": "2019-09-05",
+      "gazetteDate": "2019-08-03",
+      "gazetteNumber": "Từ số 611 đến số 612",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 05/2019/NQ-HĐND thông qua chủ trương ban hành Đề án hỗ trợ khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2019-2025 và chính sách hỗ trợ khởi nghiệp sáng tạo thuộc Đề án",
+      "id": "05/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Thị Bích Ngọc"
+      ],
+      "issuedDate": "2019-07-08",
+      "effectiveDate": "2019-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực đến: 31/12/2025"
+    },
+    {
+      "title": "Nghị quyết 23-NQ/TW năm 2018 về định hướng xây dựng chính sách phát triển công nghiệp quốc gia đến năm 2030, tầm nhìn đến năm 2045 do Ban Chấp hành Trung ương ban hành",
+      "id": "23-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "***"
+      ],
+      "issuedDate": "2018-03-22",
+      "effectiveDate": "2018-03-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 38/2018/NĐ-CP quy định chi tiết về đầu tư cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo",
+      "id": "38/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-03-11",
+      "effectiveDate": "2018-03-11",
+      "gazetteDate": "2018-03-25",
+      "gazetteNumber": "Từ số 475 đến số 476",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1665/QĐ-TTg năm 2017 về phê duyệt Đề án \"Hỗ trợ học sinh, sinh viên khởi nghiệp đến năm 2025\" do Thủ tướng Chính phủ ban hành",
+      "id": "1665/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2017-10-30",
+      "effectiveDate": "2017-10-30",
+      "gazetteDate": "2017-11-01",
+      "gazetteNumber": "Từ số 807 đến số 808",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 939/QĐ-TTg năm 2017 phê duyệt Đề án \"Hỗ trợ phụ nữ khởi nghiệp giai đoạn 2017-2025\" do Thủ tướng Chính phủ ban hành",
+      "id": "939/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-06-30",
+      "effectiveDate": "2017-06-30",
+      "gazetteDate": "2017-07-15",
+      "gazetteNumber": "Từ số 493 đến số 494",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Chuyển giao công nghệ 2017",
+      "id": "07/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin",
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-19",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2017-07-25",
+      "gazetteNumber": "Từ số 515 đến số 516",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+      "id": "04/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-12",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-24",
+      "gazetteNumber": "Từ số 511 đến số 512",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước",
+      "id": "163/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-12-21",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2017-01-01",
+      "gazetteNumber": "Từ số 1 đến số 2",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 844/QĐ-TTg năm 2016 phê duyệt Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025\" do Thủ tướng Chính phủ ban hành",
+      "id": "844/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2016-05-18",
+      "effectiveDate": "2016-05-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật khoa học và công nghệ năm 2013",
+      "id": "29/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-06-18",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-07-12",
+      "gazetteNumber": "Từ số 405 đến số 406",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Thủ đô 2012",
+      "id": "25/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-11-21",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-12-25",
+      "gazetteNumber": "Từ số 767 đến số 768",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Quyết định 1446/QĐ-UBND năm 2023 sửa đổi Quyết định 3501/QĐ-UBND do Thành phố Hà Nội ban hành",
+      "id": "1446/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Hà Minh Hải"
+      ],
+      "issuedDate": "2023-03-10",
+      "effectiveDate": "2023-03-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 2654/QĐ-UBND năm 2022 về thành lập và ban hành Quy chế hoạt động của Sàn kết nối giao dịch và thương mại khởi nghiệp sáng tạo Quảng Nam",
+      "id": "2654/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Hồ Quang Bửu"
+      ],
+      "issuedDate": "2022-10-04",
+      "effectiveDate": "2022-10-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 1938/KH-UBND thực hiện hỗ trợ doanh nghiệp, tổ chức, cá nhân trong hoạt động khoa học và công nghệ; hệ sinh thái khởi nghiệp và đổi mới sáng tạo trên địa bàn tỉnh Ninh Thuận năm 2022",
+      "id": "1938/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Lê Huyền"
+      ],
+      "issuedDate": "2022-05-09",
+      "effectiveDate": "2022-05-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 1474/KH-UBND triển khai “Đề án hỗ trợ phát triển hệ sinh thái khởi nghiệp đổi mới sáng tạo Thành phố Hồ Chí Minh giai đoạn 2021-2025” trong năm 2022",
+      "id": "1474/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Dương Anh Đức"
+      ],
+      "issuedDate": "2022-05-06",
+      "effectiveDate": "2022-05-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 06/KH-UBND về hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo tỉnh Lạng Sơn năm 2022",
+      "id": "06/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Lương Trọng Quỳnh"
+      ],
+      "issuedDate": "2022-01-08",
+      "effectiveDate": "2022-01-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "3501/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Doanh nghiệp"
+  ],
+  "organization": "Thành phố Hà Nội",
+  "signers": [
+    "Hà Minh Hải"
+  ],
+  "issuedDate": "2022-09-26",
+  "effectiveDate": "2022-09-26",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADEAMgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  THÀNH PHỐ HÀ NỘI<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 3501/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 26\n  tháng 9 năm 2022</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">PHÊ\nDUYỆT ĐỀ CƯƠNG ĐỀ ÁN “XÂY DỰNG CƠ CHẾ, CHÍNH SÁCH PHÁT TRIỂN HỆ SINH THÁI KHỞI\nNGHIỆP SÁNG TẠO TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI”</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương ngày\n19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật\nTổ chức chính quyền địa phương ngày 22/11/2019;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Ngân sách Nhà nước ngày 25/6/2015;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 163/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-163-2016-nd-cp-huong-dan-luat-ngan-sach-nha-nuoc-335331.aspx\">163/2016/NĐ-CP</a>  ngày\n21/12/2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân\nsách Nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 10/2019/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-10-2019-nq-hdnd-muc-chi-thuoc-tham-quyen-cua-hoi-dong-nhan-dan-thanh-pho-ha-noi-433571.aspx\">10/2019/NQ-HĐND</a> , ngày\n04/12/2019 của HĐND Thành phố về việc quy định một số nội dung, mức chi thuộc\nthẩm quyền của HĐND Thành phố;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Quyết định số 5199/QĐ-UBND, ngày\n10/12/2021 của UBND thành phố Hà Nội về giao chỉ tiêu Kế hoạch kinh tế - xã hội\nvà dự toán thu, chi ngân sách năm 2022 của thành phố Hà Nội;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Kế hoạch 185/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/ke-hoach-185-kh-ubnd-2021-thuc-hien-chuong-trinh-07-ctr-tu-ha-noi-500889.aspx\">185/KH-UBND</a> , ngày 11/8/2021 của\nUBND Thành phố về triển khai thực hiện Chương trình số 07-CTr/TU của Thành ủy\nHà Nội khóa XVII, nhiệm kỳ 2020-2025 về “Đẩy mạnh phát triển khoa học, công nghệ\nvà đổi mới sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2021-2025”;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Chương trình hành động số <a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 02/CTr-UBND\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/chuong-trinh-hanh-dong-02-ctr-ubnd-2022-nhiem-vu-giai-phap-phat-trien-kinh-te-xa-hoi-ha-noi-506535.aspx\">02/CTr-UBND</a> ,\nngày 19/01/2022 của của UBND Thành phố về thực hiện các nhiệm vụ, giải pháp\nphát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2022;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Theo đề nghị của Viện Nghiên cứu phát triển kinh\ntế - xã hội Hà Nội tại Tờ trình số 280/TTr-VNC ngày 30/5/2022 và Công văn số\n482/VNC-NCTH ngày 14/9/2022;</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1</b></a>. <a name=\"dieu_1_name\">Phê duyệt Đề cương Đề án <b><i>“Xây dựng cơ chế, chính sách\nphát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”</i></b>.</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i>(Phụ lục Đề cương\nĐề án kèm theo).</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-4394798')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4394798')\" atmm=\".lqhlTootip-4394798\" onmouseout=\"hideddrivetip();\"><b>Điều 2.</b></a> <a name=\"dieu_2\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-4394798')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4394798')\" atmm=\".lqhlTootip-4394798\" onmouseout=\"hideddrivetip();\">Thời gian và kinh phí thực hiện:</a></p>\n\n<p style=\"margin-top:6.0pt\">- Thời gian triển khai thực hiện: Từ tháng 01/2022\nđến tháng 12/2022.</p>\n\n<p style=\"margin-top:6.0pt\">- Dự toán kinh phí thực hiện theo Nghị quyết số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 10/2019/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-10-2019-nq-hdnd-muc-chi-thuoc-tham-quyen-cua-hoi-dong-nhan-dan-thanh-pho-ha-noi-433571.aspx\">10/2019/NQ-HĐND</a> , ngày 04/12/2019 của HĐND Thành phố về việc quy định một số nội\ndung, mức chi thuộc thẩm quyền của HĐND Thành phố và các quy định hiện hành; được\nxác định trên cơ sở Thuyết minh và Dự toán kinh phí Đề án được phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">- Nguồn kinh phí được đảm bảo từ nguồn ngân sách của\nThành phố bố trí nguồn chi đã được phê duyệt tại Quyết định số 5199/QĐ-UBND,\nngày 10/12/2021 của UBND Thành phố về giao chỉ tiêu Kế hoạch kinh tế - xã hội\nvà dự toán thu, chi ngân sách năm 2022 của thành phố Hà Nội giao cho Viện\nNghiên cứu phát triển kinh tế - xã hội Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Tổ chức thực hiện:</a></p>\n\n<p style=\"margin-top:6.0pt\">Giao Viện Nghiên cứu phát triển kinh tế - xã hội Hà\nNội chủ trì, phối hợp các sở, ngành, UBND các quận, huyện, thị xã có liên quan\ntriển khai thực hiện các nội dung được phân công tại phụ lục kèm theo; tổng hợp,\nnghiệm thu các sản phẩm, báo cáo UBND Thành phố theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4.</b></a> <a name=\"dieu_4_name\">Quyết định có hiệu lực thi hành từ ngày ký.</a></p>\n\n<p style=\"margin-top:6.0pt\">Chánh Văn phòng UBND Thành phố; Viện trưởng Viện\nNghiên cứu phát triển kinh tế - xã hội Hà Nội; Giám đốc, Thủ trưởng sở, ban,\nngành; Chủ tịch UBND các quận, huyện, thị xã thuộc Thành phố và các đơn vị liên\nquan chịu trách nhiệm thi hành Quyết định này./.</p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADEAMgA=-->\n <tbody><tr>\n  <td width=\"307\" valign=\"top\" style=\"width:230.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như Điều 4;<br>\n  - Chủ tịch UBND Thành phố;<br>\n  - Phó Chủ tịch UBND Thành phố: Hà Minh Hải, Chử Xuân Dũng;<br>\n  - VPUB: PCVP Đ. Q. Hùng, các phòng: KTTH, KGVX;<br>\n  - Lưu: VT, KT, VNC.</span></p>\n  </td>\n  <td width=\"283\" valign=\"top\" style=\"width:212.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Hà Minh Hải</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">ĐỀ CƯƠNG ĐỀ ÁN</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\">“XÂY\nDỰNG CƠ CHẾ, CHÍNH SÁCH PHÁT TRIỂN HỆ SINH THÁI KHỞI NGHIỆP SÁNG TẠO TRÊN ĐỊA\nBÀN THÀNH PHỐ HÀ NỘI”</a><br>\n<i>(Ban hành kèm theo Quyết định số 3501/QĐ-UBND, ngày 26 tháng 9 năm 2022 của\nUBND thành phố Hà Nội)</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b>I. SỰ CẦN THIẾT XÂY DỰNG ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>1. Căn cứ pháp lý</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><i>1.1. Văn bản của Trung ương</i></b></p>\n\n<p style=\"margin-top:6.0pt\">- Văn kiện Đại hội Đảng toàn quốc lần thứ XIII;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số 15-NQ/TW, ngày 05/5/2022 của Bộ\nChính trị về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030, tầm\nnhìn đến năm 2045.</p>\n\n<p style=\"margin-top:6.0pt\">- Luật Tổ chức Chính quyền địa phương ngày\n19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật\nTổ chức chính quyền địa phương ngày 22/11/2019;</p>\n\n<p style=\"margin-top:6.0pt\">- Luật Thủ đô ngày 21/11/2012;</p>\n\n<p style=\"margin-top:6.0pt\">- Luật Khoa học và Công nghệ ngày 18/6/2013;</p>\n\n<p style=\"margin-top:6.0pt\">- Luật Hỗ trợ doanh nghiệp nhỏ và vừa ngày 12/6/2017;</p>\n\n<p style=\"margin-top:6.0pt\">- Luật Chuyển giao công nghệ ngày 19/6/2017;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số 23-NQ/TW, ngày 22/3/2018 của Bộ\nChính trị về định hướng xây dựng chính sách phát triển công nghiệp quốc gia đến\nnăm 2030, tầm nhìn đến năm 2045;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số 52-NQ/TW, ngày 27/9/2019 của Bộ\nChính trị về một số chủ trương, chính sách chủ động tham gia cuộc cách mạng\ncông nghiệp lần thứ tư;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 38/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-38-2018-nd-cp-quy-dinh-chi-tiet-dau-tu-cho-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao-377302.aspx\">38/2018/NĐ-CP</a> , ngày 11/3/2018 của\nChính phủ quy định chi tiết về đầu tư cho khởi nghiệp sáng tạo;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 80/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-80-2021-nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua-486147.aspx\">80/2021/NĐ-CP</a> , ngày 26/8/2021 của\nChính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ\ndoanh nghiệp nhỏ và vừa;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 844/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-844-qd-ttg-de-an-ho-tro-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-quoc-gia-den-2025-2016-311936.aspx\">844/QĐ-TTg</a> , ngày 18/5/2016 của Thủ\ntướng Chính phủ về việc phê duyệt Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới\nsáng tạo quốc gia đến năm 2025”;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 939/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-939-qd-ttg-2017-de-an-ho-tro-phu-nu-khoi-nghiep-giai-doan-2017-2025-353813.aspx\">939/QĐ-TTg</a> , ngày 30/6/2017 của Thủ\ntướng Chính phủ về việc phê duyệt Đề án “Hỗ trợ phụ nữ khởi nghiệp giai đoạn\n2017 - 2025”;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1665/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/giao-duc/quyet-dinh-1665-qd-ttg-2017-de-an-ho-tro-hoc-sinh-sinh-vien-khoi-nghiep-den-nam-2025-365846.aspx\">1665/QĐ-TTg</a> , ngày 30/10/2017 của Thủ\ntướng Chính phủ về việc phê duyệt Đề án “Hỗ trợ học sinh, sinh viên khởi nghiệp\nđến năm 2025”;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 50/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-50-nq-cp-2020-chuong-trinh-hanh-dong-thuc-hien-nghi-quyet-52-nq-tw-440366.aspx\">50/NQ-CP</a> , ngày 17/4/2020 của Chính\nphủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số\n52-NQ/TW, ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ\nđộng tham gia cuộc cách mạng công nghiệp lần thứ tư;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 188/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-188-qd-ttg-2021-sua-doi-quyet-dinh-844-qd-ttg-ho-tro-he-sinh-thai-khoi-nghiep-465073.aspx\">188/QĐ-TTg</a> , ngày 09/02/2021 của\nChính phủ về sửa đổi, bổ sung một số điều của Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 844/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-844-qd-ttg-de-an-ho-tro-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-quoc-gia-den-2025-2016-311936.aspx\">844/QĐ-TTg</a> , ngày\n18/5/2016 của Thủ tướng Chính phủ về việc phê duyệt Đề án Hỗ trợ hệ sinh thái\nkhởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 569/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-569-qd-ttg-2022-chien-luoc-phat-trien-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-512896.aspx\">569/QĐ-TTg</a> , ngày 11/5/2022 của Thủ\ntướng Chính phủ về Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo\nđến năm 2030;</p>\n\n<p style=\"margin-top:6.0pt\">- Chỉ thị 09/CT-TTg, ngày 18/02/2020 của Thủ tướng\nChính phủ về tạo điều kiện cho doanh nghiệp khởi nghiệp sáng tạo;</p>\n\n<p style=\"margin-top:6.0pt\">- Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 45/2019/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/thong-tu-45-2019-tt-btc-quan-ly-tai-chinh-ho-tro-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-quoc-gia-419394.aspx\">45/2019/TT-BTC</a> , ngày 19/7/2019 của Bộ\nTài chính quy định quản lý tài chính thực hiện Đề án “Hỗ trợ hệ sinh thái khởi\nnghiệp đổi mới sáng tạo quốc gia đến năm 2025”;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1158/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-1158-qd-ttg-2021-chuong-trinh-phat-trien-thi-truong-khoa-hoc-va-cong-nghe-quoc-gia-480962.aspx\">1158/QĐ-TTg</a> , ngày 13/7/2021 của Thủ\ntướng Chính phủ về việc ban hành Chương trình phát triển thị trường khoa học và\ncông nghệ quốc gia đến năm 2030;</p>\n\n<p style=\"margin-top:6.0pt\">- Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2020/TT-BKHCN\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/thong-tu-07-2020-tt-bkhcn-thanh-lap-co-so-uom-tao-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao-460313.aspx\">07/2020/TT-BKHCN</a> , ngày 11/12/2020 của\nBộ Khoa học và Công nghệ hướng dẫn việc thành lập cơ sở ươm tạo doanh nghiệp nhỏ\nvà vừa, cơ sở kỹ thuật hỗ trợ doanh nghiệp nhỏ và vừa, khu làm việc chung hỗ trợ\ndoanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 186/QĐ-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-186-qd-btttt-2022-phe-duyet-chuong-trinh-thuc-day-phat-trien-nen-tang-so-quoc-gia-502824.aspx\">186/QĐ-BTTTT</a> , ngày 11/2/2022 của Bộ\nThông tin truyền thông về Phê duyệt Chương trình thúc đẩy phát triển và sử dụng\ncác nền tảng số quốc gia phục vụ chuyển đổi số, chính phủ số, xã hội số.</p>\n\n<p style=\"margin-top:6.0pt\"><b><i>1.2. Văn bản của thành phố Hà Nội</i></b></p>\n\n<p style=\"margin-top:6.0pt\">- Văn kiện Đại hội Đại biểu lần thứ XVII Đảng bộ\nthành phố Hà Nội;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 05/2019/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-quyet-05-2019-nq-hdnd-de-an-ho-tro-khoi-nghiep-sang-tao-thanh-pho-ha-noi-419320.aspx\">05/2019/NQ-HĐND</a> , ngày 08/7/2019 của\nHĐND thành phố Hà Nội về việc thông qua chủ trương ban hành Đề án hỗ trợ khởi\nnghiệp sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2019 - 2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 4889/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-4889-qd-ubnd-2019-phe-duyet-de-an-ho-tro-khoi-nghiep-sang-tao-ha-noi-424979.aspx\">4889/QĐ-UBND</a> , ngày 09/9/2019 của\nUBND Thành phố về phê duyệt đề án “Hỗ trợ khởi nghiệp sáng tạo trên địa bàn\nthành phố Hà Nội giai đoạn 2019 - 2025”;</p>\n\n<p style=\"margin-top:6.0pt\">- Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Kế hoạch 49/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/ke-hoach-49-kh-ubnd-2020-ho-tro-phat-trien-doanh-nghiep-khoa-hoc-cong-nghe-thanh-pho-ha-noi-436953.aspx\">49/KH-UBND</a> , ngày 28/02/2020 của UBND\nThành phố về hỗ trợ phát triển doanh nghiệp khoa học và công nghệ trên địa bàn\nthành phố Hà Nội đến năm 2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Chương trình số 07-CTr/TU, ngày 17/3/2021 của\nThành ủy về <i>“đẩy mạnh phát triển khoa học, công nghệ và đổi mới sáng tạo\ntrên địa bàn thành phố Hà Nội giai đoạn 2021 - 2025”</i>;</p>\n\n<p style=\"margin-top:6.0pt\">- Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Kế hoạch 185/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/ke-hoach-185-kh-ubnd-2021-thuc-hien-chuong-trinh-07-ctr-tu-ha-noi-500889.aspx\">185/KH-UBND</a> , ngày 11/8/2021 của UBND\nThành phố về triển khai thực hiện Chương trình số 07-CTr/TU của Thành ủy Hà Nội\nkhóa XVII, nhiệm kỳ 2020-2025 về “Đẩy mạnh phát triển khoa học, công nghệ và đổi\nmới sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2021-2025”;</p>\n\n<p style=\"margin-top:6.0pt\">- Kế hoạch số 154/KH-UBND, ngày 13/01/2022 của UBND\nThành phố ban hành Chương trình phát triển thị trường khoa học và công nghệ của\nthành phố Hà Nội đến năm 2030;</p>\n\n<p style=\"margin-top:6.0pt\">- Chương trình hành động số <a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 02/CTr-UBND\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/chuong-trinh-hanh-dong-02-ctr-ubnd-2022-nhiem-vu-giai-phap-phat-trien-kinh-te-xa-hoi-ha-noi-506535.aspx\">02/CTr-UBND</a> , ngày\n19/01/2022 của UBND Thành phố về thực hiện các nhiệm vụ, giải pháp phát triển\nkinh tế - xã hội và dự toán ngân sách nhà nước năm 2022.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b>2. Sự cần thiết xây dựng Đề\nán</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Theo Tổ chức Hợp tác và Phát triển Kinh tế (OECD),\nhệ sinh thái khởi nghiệp chỉ một cộng đồng bao gồm các thực thể cộng sinh, chia\nsẻ và tương hỗ lẫn nhau, tạo nên môi trường thuận lợi thúc đẩy sự hình thành\ncác doanh nghiệp khởi nghiệp sáng tạo, tăng trưởng nhanh và bền vững. Các thực\nthể cộng sinh bao gồm: các cá nhân, nhóm cá nhân, doanh nghiệp khởi nghiệp sáng\ntạo và các chủ thể hỗ trợ doanh nghiệp khởi nghiệp phát triển <i>(Báo cáo Khởi\nnghiệp 2014)</i>. Diễn đàn kinh tế thế giới (WEF) định nghĩa hệ sinh thái khởi\nnghiệp là “một hệ thống các trụ cột liên quan lẫn nhau tác động đến khả năng của\ncác chủ doanh nghiệp trong việc tạo ra và mở rộng hoạt động đầu tư mạo hiểm một\ncách bền vững”.</p>\n\n<p style=\"margin-top:6.0pt\">Hệ sinh thái khởi nghiệp sáng tạo được hiểu là một\nhệ thống các chủ thể, trụ cột liên quan, tác động lẫn nhau của một quốc gia hay\nmột thành phố thiết lập để thúc đẩy hoạt động khởi nghiệp sáng tạo tại địa\nphương, quốc gia đó. Cụ thể: là tổng hợp các mối liên kết chính thức và phi\nchính thức giữa các chủ thể khởi nghiệp sáng tạo (tiềm năng hoặc hiện tại), tổ\nchức khởi nghiệp sáng tạo (công ty, nhà đầu tư mạo hiểm, nhà đầu tư thiên thần,\nhệ thống ngân hàng,...) và các cơ quan liên quan (trường đại học, các cơ quan\nnhà nước, các quỹ đầu tư công,...) và tiến trình khởi nghiệp sáng tạo (tỷ lệ\nthành lập doanh nghiệp, số lượng doanh nghiệp có tỷ lệ tăng trưởng tốt, số lượng\ncác nhà khởi nghiệp sáng tạo,...) tác động trực tiếp đến môi trường khởi nghiệp\nsáng tạo tại địa phương.</p>\n\n<p style=\"margin-top:6.0pt\">Hoạt động khởi nghiệp sáng tạo là quá trình nghiên\ncứu, phát triển, tạo ra sản phẩm mới, thay đổi quy trình, dịch vụ hoặc mô hình\nkinh doanh, nhằm tạo ra nhiều lợi ích vượt trội, đóng góp cho xã hội những giá\ntrị cao hơn và chủ thể chính thực hiện khởi nghiệp sáng tạo là cộng đồng doanh\nnghiệp. Do vậy, khi cơ quan quản lý nhà nước tạo ra môi trường, các cơ chế và\nchính sách phù hợp cho doanh nghiệp phát triển, hoạt động khởi nghiệp sáng tạo\nsẽ tạo ra nhiều giá trị cho xã hội. Tuy nhiên, hiện việc doanh nghiệp thiếu\nthông tin về các chính sách, các hình thức hỗ trợ của Nhà nước là một rào cản\nkhiến doanh nghiệp chưa tận dụng hết cơ hội, chưa phát huy tốt những điều kiện\nthuận lợi trong thúc đẩy khởi nghiệp sáng tạo. Để thúc đẩy khởi nghiệp sáng tạo\ncơ quan quản lý nhà nước cần tập trung xây dựng cơ chế, chính sách phát triển hệ\nsinh thái khởi nghiệp sáng tạo trên các lĩnh vực: <i>(1) Phát triển nguồn nhân\nlực phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo; (2) Cơ sở hạ tầng, kỹ\nthuật phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo; (3) Nguồn lực tài\nchính và hoạt động đầu tư cho phát triển hệ sinh thái khởi nghiệp sáng tạo; (4)\nCông tác chuyển giao và ứng dụng công nghệ phục vụ phát triển hệ sinh thái; (5)\nCông tác liên kết, kết nối phát triển hệ sinh thái khởi nghiệp sáng tạo; (6)\nCông tác giáo dục và đào tạo phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo.</i></p>\n\n<p style=\"margin-top:6.0pt\">Trong giai đoạn vừa qua, hệ sinh thái khởi nghiệp\nsáng tạo của Việt Nam từng bước được hình thành và phát triển, các chủ thể\ntrong hệ sinh thái đã tham gia tương đối chủ động và tích cực. Hệ thống thể chế\nchính sách thúc đẩy khởi nghiệp sáng tạo khá đầy đủ, hỗ trợ cho hoạt động của\ncác doanh nghiệp trong lĩnh vực này. Giai đoạn tới, hệ sinh thái khởi nghiệp\nsáng tạo cần bứt phá, phát triển mạnh mẽ hơn nữa, nhằm huy động các nguồn lực từ\nkhu vực nhà nước lẫn khu vực tư nhân, trong nước và nước ngoài, tăng cường liên\nkết và phối hợp hiệu quả giữa các chủ thể trong hệ sinh thái.</p>\n\n<p style=\"margin-top:6.0pt\">Theo đánh giá của các chuyên gia, hệ sinh thái khởi\nnghiệp sáng tạo của Việt Nam đang phát triển mạnh nhờ quy mô của nền kinh tế quốc\ngia ngày càng mở rộng. Năm 2020, thị trường tại Việt Nam được đánh giá là điểm\nđến an toàn, được các nhà đầu tư, các quỹ đầu tư lựa chọn. Các nhà đầu tư có sự\ntin tưởng rất lớn vào tiềm năng của hệ sinh thái khởi nghiệp sáng tạo của Việt\nNam, kỳ vọng đây là thị trường tiềm năng ở châu Á, sau Indonesia. Việt Nam có\nquy mô dân số trẻ, với lòng đam mê khởi nghiệp; số lượng doanh nghiệp khởi nghiệp\nsáng tạo (startup) nhiều, chất lượng đào tạo nhân lực tốt và có sự đồng hành rất\nlớn từ Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt\">Thời gian qua, Bộ Khoa học và Công nghệ đã triển\nkhai nhiều chương trình, dự án là nền tảng để xây dựng hệ thống đổi mới sáng tạo\nquốc gia, như: Chương trình đối tác đổi mới sáng tạo Phần Lan - Việt Nam;\nChương trình thương mại hóa kết quả nghiên cứu theo mô hình thung lũng Silicon\ntại Việt Nam. Đặc biệt, Đề án Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo\nquốc gia đến năm 2025 (Đề án 844) đã tập trung nâng cao năng lực, tổ chức đào tạo,\nhuấn luyện cho các chủ thể trong hệ sinh thái, đồng thời, phát triển hợp tác,\nliên kết, truyền thông. Kết quả đưa đến hình thành một thế hệ doanh nghiệp khởi\nnghiệp sáng tạo mới với việc phát triển các mô hình, giải pháp mới ứng dụng\ncông nghệ 4.0 trong nhiều lĩnh vực, như: Abivin (giải pháp tối ưu hóa vận hành\nchuỗi cung ứng); Nami (phần mềm quản lý nhà cho thuê); Ekid (ứng dụng đồ chơi\nvà giáo cụ thông minh); Medlink (giải pháp kết nối các nhà thuốc)... Đáng chú\ný, có hai startup được định giá hơn một tỷ USD là Công ty cổ phần VNG\n(Vinagame), VNP và khoảng 10 startup được định giá hơn 100 triệu USD. Ngoài ra,\ncó 61 quỹ đầu tư hoạt động ở Việt Nam, tăng 50% so với năm 2018; 57 cơ sở ươm tạo\nvà 25 tổ chức có triển khai các chương trình thúc đẩy kinh doanh, tăng gấp từ 3\nđến 4 lần so với năm 2016; 170 khu cơ sở vật chất hỗ trợ khởi nghiệp...</p>\n\n<p style=\"margin-top:6.0pt\">Tại Chiến lược phát triển khoa học, công nghệ và đổi\nmới sáng tạo đến năm 2030 <i>(Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 569/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-569-qd-ttg-2022-chien-luoc-phat-trien-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-512896.aspx\">569/QĐ-TTg</a> , ngày 11/5/2022 của Thủ\ntướng Chính phủ)</i> xác định một trong những nhiệm vụ, giải pháp cụ thể nhằm\nxây dựng hệ thống đổi mới sáng tạo quốc gia là: “...Phát triển hệ sinh thái đổi\nmới sáng tạo quốc gia liên kết chặt chẽ với khu vực và thế giới. Phát triển các\nhệ sinh thái đổi mới sáng tạo trong các ngành công nghiệp, nông nghiệp và dịch\nvụ gắn với các chuỗi giá trị nội địa và toàn cầu, các cụm liên kết ngành; trong\nđó các doanh nghiệp lớn có vai trò trung tâm dẫn dắt các hoạt động đổi mới sáng\ntạo, các cơ quan quản lý nhà nước có vai trò kiến tạo môi trường thể chế, chính\nsách thuận lợi, thúc đẩy liên kết giữa các doanh nghiệp, viện nghiên cứu, trường\nđại học, tổ chức hỗ trợ trong hoạt động nghiên cứu, ứng dụng và đổi mới sáng tạo...”.</p>\n\n<p style=\"margin-top:6.0pt\">Để thực hiện chủ trương lớn của Trung ương, tại Văn\nkiện Đại hội đại biểu lần thứ XVII (2020-2025), Đảng bộ thành phố Hà Nội đã đề\nra 03 khâu đột phá chiến lược, trong đó có nội dung: “...Xây dựng và phát triển\nhệ sinh thái học tập sáng tạo, hệ sinh thái khởi nghiệp đổi mới sáng tạo; thu\nhút, trọng dụng nhân tài trong và ngoài nước, đáp ứng yêu cầu phát triển bền vững\nvà hội nhập quốc tế. Thúc đẩy phát triển mạnh mẽ khoa học, công nghệ và đổi mới\nsáng tạo trong toàn xã hội...”. Những nhiệm vụ, giải pháp chủ yếu trong giai đoạn\n2020 - 2025 về Phát triển mạnh mẽ khoa học, công nghệ và đổi mới sáng tạo, góp\nphần phát triển Thủ đô hiện đại, văn minh được xác định “...Tập trung phát triển\nvà nâng cao hiệu quả hoạt động của hệ thống đổi mới sáng tạo, xây dựng hệ sinh\nthái khởi nghiệp đổi mới sáng tạo Thành phố, là trung tâm tổ chức các sự kiện\nkhởi nghiệp đổi mới sáng tạo quy mô quốc gia và quốc tế, kết nối chặt chẽ với hệ\nsinh thái đổi mới sáng tạo quốc gia và quốc tế; thúc đẩy hình thành các trung\ntâm đổi mới sáng tạo trong các trường đại học, viện nghiên cứu...”.</p>\n\n<p style=\"margin-top:6.0pt\">Thực tế cho thấy, trong thời gian qua, Thành phố\ncũng đã có nhiều chủ trương, chính sách cụ thể nhằm hỗ trợ, phát triển hệ sinh\nthái khởi nghiệp, thúc đẩy hoạt động khởi nghiệp sáng tạo. Hiện thành phố Hà Nội\nhội tụ nhiều yếu tố để trở thành trung tâm khởi nghiệp, đổi mới sáng tạo. Trên\nđịa bàn Thành phố tập trung hơn 70% tổ chức khoa học và công nghệ, trường đại học\nvà viện nghiên cứu của cả nước; 14 phòng thí nghiệm trọng điểm quốc gia, chiếm\n82% số phòng thí nghiệm của cả nước. Đặc biệt, ngày 09/01/2021, Trung tâm Đổi mới\nsáng tạo quốc gia (NIC) đã chính thức được khởi công tại Khu công nghệ cao Hòa\nLạc (Hà Nội). Bên cạnh đó, Hà Nội còn có số nhà khoa học đầu ngành đang sinh sống\nvà làm việc trên địa bàn chiếm hơn 65% tổng số các nhà khoa học trong cả nước.</p>\n\n<p style=\"margin-top:6.0pt\">Ngoài những lợi thế trên, thời gian qua, Hà Nội đã\nkhẳng định vai trò là trung tâm hàng đầu về khoa học, công nghệ và đổi mới sáng\ntạo của cả nước với nhiều giải pháp hỗ trợ doanh nghiệp khởi nghiệp sáng tạo. Nổi\nbật có thể kể đến Vườn ươm doanh nghiệp công nghệ thông tin, đổi mới sáng tạo\nHà Nội (HBI-IT) thuộc Sở Thông tin và Truyền thông. Bên cạnh các hoạt động bổ\nsung kiến thức, kinh nghiệm thực tế cho doanh nghiệp khởi nghiệp hoàn thiện sản\nphẩm với định hướng thị trường, trang bị kỹ năng kinh doanh, hỗ trợ gọi vốn, Vườn\nươm còn tổ chức truyền thông quảng bá cho các dự án, phát triển hệ sinh thái khởi\nnghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">Hiện Thành phố cũng đã tập trung hỗ trợ các đề tài,\ndự án sản xuất có giá trị thực tiễn và khả năng thương mại hóa cao; hỗ trợ phát\ntriển ý tưởng, hoàn thiện công nghệ, phát triển sản phẩm mới làm cơ sở thành lập\ndoanh nghiệp khoa học và công nghệ. Tuy nhiên, các hoạt động khoa học, công nghệ\nvà đổi mới sáng tạo của Thành phố vẫn còn hạn chế, chưa tương xứng với tiềm\nnăng, thiếu cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo.\nChính vì vậy, lĩnh vực này chưa thực sự trở thành động lực quan trọng để nâng\ncao năng suất lao động, khả năng cạnh tranh, thúc đẩy phát triển kinh tế - xã hội\nThủ đô. Số doanh nghiệp khởi nghiệp sáng tạo (startup) của Hà Nội gọi được vốn\ntừ các quỹ đầu tư rất ít; phần lớn chỉ là doanh nghiệp nhỏ cung cấp sản phẩm, dịch\nvụ kỹ thuật số, mà chưa phát triển dựa trên nền tảng đổi mới sáng tạo đúng\nnghĩa. Ngoài ra, chưa có sự kết nối giữa cơ sở nghiên cứu - startup - nhà đầu\ntư - doanh nghiệp - tổ chức hỗ trợ khởi nghiệp sáng tạo, để thiết lập một mạng\nlưới tương trợ lẫn nhau...</p>\n\n<p style=\"margin-top:6.0pt\">Nhiều chuyên gia cho rằng, giai đoạn tới, hệ sinh\nthái khởi nghiệp sáng tạo Thủ đô Hà Nội cần phát triển mạnh mẽ hơn để thật sự\ntrở thành môi trường thuận lợi kiến tạo, nuôi dưỡng các ý tưởng và doanh nghiệp\nkhởi nghiệp sáng tạo. Hệ sinh thái có sự tham gia mạnh mẽ từ khu vực tư nhân,\nnhất là của các chuyên gia, nhà đầu tư, người Việt Nam thành công ở nước ngoài,\ndo đó cần thiết phải có một đầu mối thống nhất quản lý, đóng vai trò điều phối\ncác nguồn lực, như: công nghệ, con người, vốn đầu tư... Các sự kiện liên quan\nkhởi nghiệp sáng tạo cần hướng tới phục vụ các mục tiêu, mục đích khác nhau,\ntránh trùng lặp, dàn trải. Vai trò của chính quyền Thành phố và một đầu mối điều\nphối chung có tính quyết định trong việc hình thành và nuôi dưỡng sự phát triển\nlành mạnh của hệ sinh thái khởi nghiệp sáng tạo Thủ đô. Thành phố cần tác động\ntoàn diện tới các thành tố của hệ sinh thái, thúc đẩy mối liên kết, từ đó giúp\nhình thành lực lượng doanh nghiệp mạnh, làm đòn bẩy tăng trưởng kinh tế nhanh,\nchất lượng và bền vững. Cơ chế chính sách cho khởi nghiệp sáng tạo cũng cần\nhoàn thiện nhằm tháo gỡ các rào cản, đồng thời, có những ưu đãi để khuyến khích\nđầu tư cho khởi nghiệp sáng tạo. Các giải pháp đồng bộ nêu trên chắc chắn sẽ tạo\nbước chuyển biến mạnh mẽ cho sự phát triển hệ sinh thái khởi nghiệp sáng tạo Thủ\nđô.</p>\n\n<p style=\"margin-top:6.0pt\">Từ lý do nêu trên, việc nghiên cứu Đề án: <b><i>“Xây\ndựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa\nbàn thành phố Hà Nội”</i></b> là cần thiết, mang tính lý luận và thực tiễn cao.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b>II. MỤC TIÊU, PHẠM VI, PHƯƠNG\nPHÁP THỰC HIỆN CỦA ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_2\"><b>1. Mục tiêu</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><i>Mục tiêu chung:</i></b></p>\n\n<p style=\"margin-top:6.0pt\">Xây dựng cơ chế, chính sách đặc thù nhằm hoàn thiện\nvà phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội;\ntạo lập môi trường thuận lợi để thúc đẩy, hỗ trợ quá trình hình thành và phát\ntriển các loại hình doanh nghiệp có khả năng tăng trưởng nhanh dựa trên khai\nthác tài sản trí tuệ, công nghệ, mô hình kinh doanh mới, góp phần thúc đẩy tăng\ntrưởng kinh tế Thủ đô nhanh và bền vững.</p>\n\n<p style=\"margin-top:6.0pt\"><b><i>Mục tiêu cụ thể:</i></b></p>\n\n<p style=\"margin-top:6.0pt\">- Làm rõ cơ sở lý luận và thực tiễn về phát triển hệ\nsinh thái khởi nghiệp sáng tạo <i>(tập trung công tác xây dựng cơ chế, chính\nsách)</i>; Xác định được những tiêu chí, chỉ tiêu đánh giá sự phát triển hệ\nsinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">- Đánh giá được thực trạng phát triển hệ sinh thái\nkhởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội <i>(theo tiêu chí, chỉ tiêu;\ntập trung công tác xây dựng cơ chế, chính sách)</i>.</p>\n\n<p style=\"margin-top:6.0pt\">- Đề xuất được một số giải pháp đồng bộ nhằm phát\ntriển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm\n2030, tầm nhìn năm 2045 <i>(tập trung công tác xây dựng cơ chế, chính sách)</i>.</p>\n\n<p style=\"margin-top:6.0pt\">- Đề xuất cơ chế, chính sách đặc thù nhằm tháo gỡ\nnhững vướng mắc, điểm nghẽn; phát triển hệ sinh thái khởi nghiệp sáng tạo trên\nđịa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_2\"><b>2. Phạm vi của Đề án</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>- Về nội dung:</b></p>\n\n<p style=\"margin-top:6.0pt\">+ Nghiên cứu, xây dựng cơ sở lý luận và thực tiễn về\nphát triển hệ sinh thái khởi nghiệp sáng tạo <i>(tập trung công tác xây dựng cơ\nchế, chính sách)</i>; Xác định những tiêu chí, chỉ tiêu đánh giá sự phát triển\nhệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">+ Đánh giá thực trạng phát triển hệ sinh thái khởi\nnghiệp sáng tạo trên địa bàn thành phố Hà Nội <i>(tập trung công tác xây dựng\ncơ chế, chính sách)</i>.</p>\n\n<p style=\"margin-top:6.0pt\">+ Đề xuất cơ chế, chính sách và một số giải pháp đồng\nbộ nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà\nNội.</p>\n\n<p style=\"margin-top:6.0pt\"><b>- Phạm vi không gian:</b> Trên địa bàn thành phố\nHà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"cumtu_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-5016412')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-5016412')\" atmm=\".lqhlTootip-5016412\" onmouseout=\"hideddrivetip();\"><b>- Phạm vi thời gian:</b> Đánh\ngiá thực trạng phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành\nphố Hà Nội từ năm 2016-2021 <i>(tập trung công tác xây dựng cơ chế, chính sách)</i>;\nĐề xuất cơ chế, chính sách đặc thù và các giải pháp nhằm đồng bộ nhằm phát triển\nhệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm 2030, tầm\nnhìn năm 2045.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>3. Phương pháp thực hiện:</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i>3.1. Phương pháp thu thập dữ liệu; khảo cứu,\nphân tích tài liệu thứ cấp</i></p>\n\n<p style=\"margin-top:6.0pt\">Nhóm nghiên cứu sẽ thu thập và tổng hợp các nhóm\nvăn bản, công trình nghiên cứu, tài liệu và dữ liệu liên quan đến nội dung\nnghiên cứu:</p>\n\n<p style=\"margin-top:6.0pt\">- Các VBQPPL, văn bản QLNN của Trung ương, Thành phố\nvề xây dựng cơ chế, chính sách các lĩnh vực nhằm phát triển hệ sinh thái khởi\nnghiệp sáng tạo...;</p>\n\n<p style=\"margin-top:6.0pt\">- Các công trình nghiên cứu, tài liệu về hệ sinh\nthái khởi nghiệp sáng tạo;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghiên cứu thực trạng hệ sinh thái khởi nghiệp\nsáng tạo trong và ngoài nước để xây dựng cơ chế, chính sách của Trung ương và\nHà Nội;</p>\n\n<p style=\"margin-top:6.0pt\">- Ngoài ra, nhiệm vụ còn sử dụng các thông tin thứ\ncấp trong các báo cáo tổng kết của các cơ quan Trung ương và Thành phố, các\nthông tin, dữ liệu được xác thực, kiểm chứng khác.</p>\n\n<p style=\"margin-top:6.0pt\"><i>3.2. Phương pháp khảo sát, điều tra xã hội học</i></p>\n\n<p style=\"margin-top:6.0pt\">- Trong quá trình triển khai nhiệm vụ, Viện Nghiên\ncứu phát triển kinh tế - xã hội Hà Nội sẽ tiến hành khảo sát, điều tra xã hội học\nđối với 02 loại phiếu đối với người dân, doanh nghiệp, cơ quan, đơn vị, nhà quản\nlý, chuyên gia, nhà khoa học... trên địa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">- Khảo sát, trao đổi kinh nghiệm về xây dựng và tổ\nchức triển khai cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo\ntại Thành phố Hồ Chí Minh.</p>\n\n<p style=\"margin-top:6.0pt\"><i>3.3. Phương pháp chuyên gia</i></p>\n\n<p style=\"margin-top:6.0pt\">Trong quá trình triển khai nhiệm vụ sẽ xin ý kiến\ncác chuyên gia, nhà khoa học, cán bộ quản lý và các đối tượng liên quan đến hệ\nsinh thái khởi nghiệp sáng tạo... của thành phố Hà Nội qua các cuộc hội thảo, tọa\nđàm khoa học.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b>III. NỘI DUNG ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_3\"><b>Nội dung 1: Cơ sở lý luận và\nthực tiễn về phát triển hệ sinh thái khởi nghiệp sáng tạo.</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i>1.1. Tổng quan về hệ sinh thái khởi nghiệp sáng\ntạo.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>1.2. Đặc thù, điều kiện đặc biệt và các yếu tố ảnh\nhưởng đến phát triển hệ sinh thái khởi nghiệp sáng tạo.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>1.3. Yêu cầu của phát triển hệ sinh thái khởi\nnghiệp sáng tạo.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>1.4. Kinh nghiệm thực tiễn về phát triển hệ sinh\nthái khởi nghiệp sáng tạo.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>1.5. Chủ trương, đường lối, chính sách của Đảng,\nNhà nước và của thành phố Hà Nội về phát triển hệ sinh thái khởi nghiệp sáng tạo.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>1.6. Xây dựng Bộ tiêu chí, chỉ tiêu đánh giá sự\nphát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội</i>\n(các tiêu chí: (1) Phát triển nguồn nhân lực phục vụ phát triển hệ sinh thái khởi\nnghiệp sáng tạo; (2) Cơ sở hạ tầng, kỹ thuật phục vụ phát triển hệ sinh thái khởi\nnghiệp sáng tạo; (3) Nguồn lực tài chính và hoạt động đầu tư cho phát triển hệ\nsinh thái khởi nghiệp sáng tạo; (4) Công tác chuyển giao và ứng dụng công nghệ\nphục vụ phát triển hệ sinh thái; (5) Công tác liên kết, kết nối phát triển hệ\nsinh thái khởi nghiệp sáng tạo; (6) Công tác giáo dục và đào tạo phục vụ phát\ntriển hệ sinh thái khởi nghiệp sáng tạo).</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_3\"><b>Nội dung 2: Thực trạng phát\ntriển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.1. Khái quát thực trạng công tác xây dựng, ban\nhành và thực hiện cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo\ncủa thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.2. Thực trạng nguồn nhân lực cho khởi nghiệp\nsáng tạo của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.3. Thực trạng cơ sở hạ tầng, kỹ thuật, mặt bằng\ncho hoạt động khởi nghiệp sáng tạo của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.4. Thực trạng nguồn lực tài chính và thúc đẩy\nhoạt động đầu tư cho khởi nghiệp sáng tạo của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.5. Thực trạng công tác chuyển giao và ứng dụng\ncông nghệ của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.6. Thực trạng công tác liên kết, kết nối hệ\nsinh thái của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.7. Thực trạng công tác giáo dục và đào tạo phục\nvụ khởi nghiệp sáng tạo của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>2.8. Đánh giá chung và vấn đề đặt ra đối với cơ\nchế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo của thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_3\"><b>Nội dung 3: Đề xuất giải pháp\nđồng bộ nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố\nHà Nội đến năm 2030, tầm nhìn năm 2045.</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i>3.1. Mục tiêu, định hướng phát triển hệ sinh\nthái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>3.2. Đề xuất giải pháp chủ yếu nhằm phát triển hệ\nsinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm 2030, tầm\nnhìn năm 2045.</i></p>\n\n<p style=\"margin-top:6.0pt\">3.2.1. Về xây dựng cơ chế, chính sách phát triển hệ\nsinh thái khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">3.2.2. Về phát triển nguồn nhân lực phục vụ phát\ntriển hệ sinh thái khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">3.2.3. Về cơ sở hạ tầng, kỹ thuật phục vụ phát triển\nhệ sinh thái khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">3.2.4. Về nguồn lực tài chính và hoạt động đầu tư\ncho phát triển hệ sinh thái khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">3.2.5. Về công tác chuyển giao và ứng dụng công nghệ\nphục vụ phát triển hệ sinh thái.</p>\n\n<p style=\"margin-top:6.0pt\">3.2.6. Về công tác liên kết, kết nối phát triển hệ\nsinh thái khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\">3.2.7. Về công tác giáo dục và đào tạo phục vụ phát\ntriển hệ sinh thái khởi nghiệp sáng tạo.</p>\n\n<p style=\"margin-top:6.0pt\"><i>3.3. Đề xuất, kiến nghị Trung ương và Thành phố\nvề cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn\nthành phố Hà Nội.</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b>IV. SẢN PHẨM CỦA ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">- Báo cáo tổng hợp kết quả nghiên cứu, báo cáo tóm\ntắt, các báo cáo chuyên đề của Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">- Dự thảo Đề án <b><i>“Xây dựng cơ chế, chính sách\nphát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”</i></b>\ntrình Thành phố xem xét, phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_5\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-4394814')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4394814')\" atmm=\".lqhlTootip-4394814\" onmouseout=\"hideddrivetip();\"><b>V. TIẾN ĐỘ VÀ KINH PHÍ THỰC HIỆN\nĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_4\"><b>1. Tiến độ thực hiện Đề án:</b></a></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMQAyADEAMgA=-->\n <tbody><tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TT</b></p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Nội dung</b></p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Cơ quan chủ trì</b></p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Cơ quan phối hợp</b></p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Thời gian hoàn\n  thành</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">1</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Xây dựng Đề cương Đề án.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Văn phòng UBND\n  Thành phố</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Từ tháng 01 -\n  9/2022</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">2</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Nghiên cứu, xây dựng các báo cáo chuyên đề.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Các sở, ban,\n  ngành, quận, huyện, thị xã; Các chuyên gia, nhà khoa học</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Từ tháng 01 -\n  11/2022</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">3</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Tổ chức các Hội thảo khoa học.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Các sở, ban,\n  ngành, quận, huyện, thị xã; Các chuyên gia, nhà khoa học</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Từ tháng 9 -\n  12/2022</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">4</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Tổ chức khảo sát, điều tra xã hội học trên địa\n  bàn Hà Nội.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Các sở, ban,\n  ngành, quận, huyện, thị xã</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Tháng 9 - 11/2022</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">5</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Khảo sát, trao đổi kinh nghiệm tại Thành phố Hồ\n  Chí Minh.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Các sở, ban,\n  ngành; Các chuyên gia, nhà khoa học</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Tháng 11/2022</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">6</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Xây dựng báo cáo tóm tắt, báo cáo tổng hợp kết quả\n  thực hiện đề án.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Các chuyên gia, nhà\n  khoa học</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Tháng 10 - 12/2022</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"6%\" style=\"width: 6.56%; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">7</p>\n  </td>\n  <td width=\"28%\" style=\"width: 28%; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0cm;\">\n  <p style=\"margin-top:6.0pt\">Trình UBND Thành phố dự thảo Đề án.</p>\n  </td>\n  <td width=\"21%\" style=\"width: 21.68%; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Viện NCPT KT-XH Hà\n  Nội</p>\n  </td>\n  <td width=\"24%\" style=\"width: 24.92%; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Văn phòng UBND\n  Thành phố</p>\n  </td>\n  <td width=\"18%\" style=\"width: 18.82%; border: 1pt solid windowtext; background: transparent; padding: 0cm;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Trước ngày\n  31/12/2022</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_4\"><b>2. Kinh phí thực hiện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">- Kinh phí thực hiện: Được xác định trên cơ sở Thuyết\nminh và Dự toán Đề án được phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">- Dự toán kinh phí thực hiện theo Nghị quyết số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 10/2019/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-10-2019-nq-hdnd-muc-chi-thuoc-tham-quyen-cua-hoi-dong-nhan-dan-thanh-pho-ha-noi-433571.aspx\">10/2019/NQ-HĐND</a> , ngày 04/12/2019 của HĐND Thành phố về việc quy định một số nội\ndung, mức chi thuộc thẩm quyền của HĐND Thành phố và các quy định hiện hành.</p>\n\n<p style=\"margin-top:6.0pt\">- Nguồn kinh phí được đảm bảo từ nguồn ngân sách của\nThành phố bố trí nguồn chi đã được phê duyệt tại Quyết định số 5199/QĐ-UBND,\nngày 10/12/2021 của UBND thành phố Hà Nội về việc giao chỉ tiêu Kế hoạch kinh tế\n- xã hội và Dự toán thu, chi ngân sách năm 2022 của thành phố Hà Nội giao cho\nViện Nghiên cứu phát triển kinh tế - xã hội Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_6\"><b>VI. TỔ CHỨC THỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Viện Nghiên cứu phát triển kinh tế - xã hội\nHà Nội</b></p>\n\n<p style=\"margin-top:6.0pt\">- Là đơn vị thường trực Đề án: Chủ trì, phối hợp\ncác sở, ngành, UBND các quận, huyện, thị xã và các cá nhân, tổ chức triển khai\nthực hiện các nội dung thuộc Đề án theo các quy định hiện hành của Nhà nước; đảm\nbảo tiến độ, đạt hiệu quả cao.</p>\n\n<p style=\"margin-top:6.0pt\">- Chủ trì, phối hợp với các sở, ban, ngành; UBND\ncác quận, huyện, thị xã liên quan xây dựng dự thảo Đề án <i>“Xây dựng cơ chế,\nchính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố\nHà Nội”</i> trình UBND Thành phố xem xét, phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Sở Khoa học và Công nghệ</b></p>\n\n<p style=\"margin-top:6.0pt\">- Chủ trì, phối hợp các cơ quan liên quan thẩm định,\ntham mưu tính chất tương tự nhiệm vụ khoa học và công nghệ đối với Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">- Phối hợp Viện Nghiên cứu phát triển kinh tế - xã\nhội Hà Nội đề xuất cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng\ntạo trên địa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><b>3. Sở Tài chính</b></p>\n\n<p style=\"margin-top:6.0pt\">- Hướng dẫn Viện Nghiên cứu phát triển kinh tế - xã\nhội Hà Nội xây dựng dự toán và thanh, quyết toán kinh phí thực hiện theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">- Phối hợp Viện Nghiên cứu phát triển kinh tế - xã\nhội Hà Nội đề xuất cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng\ntạo trên địa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><b>4. Sở Kế hoạch và Đầu tư</b></p>\n\n<p style=\"margin-top:6.0pt\">Phối hợp Viện Nghiên cứu phát triển kinh tế - xã hội\nHà Nội đề xuất cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo\ntrên địa bàn thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><b>5. Các: Sở, ban, ngành; UBND các quận, huyện, thị\nxã</b></p>\n\n<p style=\"margin-top:6.0pt\">- Phối hợp Viện Nghiên cứu phát triển kinh tế - xã\nhội Hà Nội trong việc cung cấp tài liệu, xây dựng các nội dung nghiên cứu liên\nquan đến lĩnh vực đơn vị theo dõi.</p>\n\n<p style=\"margin-top:6.0pt\">- Phối hợp cung cấp số liệu, tài liệu phục vụ xây dựng\ncác nội dung công việc thuộc lĩnh vực chuyên môn và thẩm quyền quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">- Phối hợp, hỗ trợ Viện Nghiên cứu phát triển kinh\ntế - xã hội Hà Nội trong quá trình triển khai khảo sát lấy ý kiến bằng bảng hỏi\nđối với các cơ quan, đơn vị và người dân, tổ chức trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\">- Cử lãnh đạo, cán bộ tham gia Hội thảo khoa học\ntrao đổi ý kiến về các nội dung thuộc lĩnh vực phụ trách trong quá trình triển\nkhai thực hiện Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">- Tham gia xây dựng lộ trình triển khai công tác khảo\nsát trực tuyến thu thập thông tin để xây dựng cơ chế, chính sách của thành phố\nHà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">- Tham gia góp ý dự thảo Đề án <i>“Xây dựng cơ chế,\nchính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố\nHà Nội”</i> trước khi trình UBND Thành phố./.</p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTHÀNH PHỐ HÀ NỘI  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 3501/QĐ-UBND\n\n_Hà Nội, ngày 26 tháng 9 năm 2022_\n\n**QUYẾT ĐỊNH**\n\nPHÊ DUYỆT ĐỀ CƯƠNG ĐỀ ÁN “XÂY DỰNG CƠ CHẾ, CHÍNH SÁCH PHÁT TRIỂN HỆ SINH THÁI KHỞI NGHIỆP SÁNG TẠO TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI”\n\n**ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;_\n\n_Căn cứ Luật Ngân sách Nhà nước ngày 25/6/2015;_\n\n_Căn cứ Nghị định số [163/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-163-2016-nd-cp-huong-dan-luat-ngan-sach-nha-nuoc-335331.aspx \"Nghị định 163/2016/NĐ-CP\") ngày 21/12/2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách Nhà nước;_\n\n_Căn cứ Nghị quyết số [10/2019/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-10-2019-nq-hdnd-muc-chi-thuoc-tham-quyen-cua-hoi-dong-nhan-dan-thanh-pho-ha-noi-433571.aspx \"Nghị quyết 10/2019/NQ-HĐND\") , ngày 04/12/2019 của HĐND Thành phố về việc quy định một số nội dung, mức chi thuộc thẩm quyền của HĐND Thành phố;_\n\n_Căn cứ Quyết định số 5199/QĐ-UBND, ngày 10/12/2021 của UBND thành phố Hà Nội về giao chỉ tiêu Kế hoạch kinh tế - xã hội và dự toán thu, chi ngân sách năm 2022 của thành phố Hà Nội;_\n\n_Căn cứ Kế hoạch số [185/KH-UBND](https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/ke-hoach-185-kh-ubnd-2021-thuc-hien-chuong-trinh-07-ctr-tu-ha-noi-500889.aspx \"Kế hoạch 185/KH-UBND\") , ngày 11/8/2021 của UBND Thành phố về triển khai thực hiện Chương trình số 07-CTr/TU của Thành ủy Hà Nội khóa XVII, nhiệm kỳ 2020-2025 về “Đẩy mạnh phát triển khoa học, công nghệ và đổi mới sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2021-2025”;_\n\n_Căn cứ Chương trình hành động số [02/CTr-UBND](https://thuvienphapluat.vn/van-ban/thuong-mai/chuong-trinh-hanh-dong-02-ctr-ubnd-2022-nhiem-vu-giai-phap-phat-trien-kinh-te-xa-hoi-ha-noi-506535.aspx \"Văn bản khác 02/CTr-UBND\") , ngày 19/01/2022 của của UBND Thành phố về thực hiện các nhiệm vụ, giải pháp phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2022;_\n\n_Theo đề nghị của Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội tại Tờ trình số 280/TTr-VNC ngày 30/5/2022 và Công văn số 482/VNC-NCTH ngày 14/9/2022;_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1**. Phê duyệt Đề cương Đề án **_“Xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”_**.\n\n_(Phụ lục Đề cương Đề án kèm theo)._\n\n**Điều 2.** Thời gian và kinh phí thực hiện:\n\n\\- Thời gian triển khai thực hiện: Từ tháng 01/2022 đến tháng 12/2022.\n\n\\- Dự toán kinh phí thực hiện theo Nghị quyết số [10/2019/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-10-2019-nq-hdnd-muc-chi-thuoc-tham-quyen-cua-hoi-dong-nhan-dan-thanh-pho-ha-noi-433571.aspx \"Nghị quyết 10/2019/NQ-HĐND\") , ngày 04/12/2019 của HĐND Thành phố về việc quy định một số nội dung, mức chi thuộc thẩm quyền của HĐND Thành phố và các quy định hiện hành; được xác định trên cơ sở Thuyết minh và Dự toán kinh phí Đề án được phê duyệt.\n\n\\- Nguồn kinh phí được đảm bảo từ nguồn ngân sách của Thành phố bố trí nguồn chi đã được phê duyệt tại Quyết định số 5199/QĐ-UBND, ngày 10/12/2021 của UBND Thành phố về giao chỉ tiêu Kế hoạch kinh tế - xã hội và dự toán thu, chi ngân sách năm 2022 của thành phố Hà Nội giao cho Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội.\n\n**Điều 3.** Tổ chức thực hiện:\n\nGiao Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội chủ trì, phối hợp các sở, ngành, UBND các quận, huyện, thị xã có liên quan triển khai thực hiện các nội dung được phân công tại phụ lục kèm theo; tổng hợp, nghiệm thu các sản phẩm, báo cáo UBND Thành phố theo quy định.\n\n**Điều 4.** Quyết định có hiệu lực thi hành từ ngày ký.\n\nChánh Văn phòng UBND Thành phố; Viện trưởng Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội; Giám đốc, Thủ trưởng sở, ban, ngành; Chủ tịch UBND các quận, huyện, thị xã thuộc Thành phố và các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Như Điều 4;  \n\\- Chủ tịch UBND Thành phố;  \n\\- Phó Chủ tịch UBND Thành phố: Hà Minh Hải, Chử Xuân Dũng;  \n\\- VPUB: PCVP Đ. Q. Hùng, các phòng: KTTH, KGVX;  \n\\- Lưu: VT, KT, VNC.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nHà Minh Hải**\n\n**ĐỀ CƯƠNG ĐỀ ÁN**\n\n“XÂY DỰNG CƠ CHẾ, CHÍNH SÁCH PHÁT TRIỂN HỆ SINH THÁI KHỞI NGHIỆP SÁNG TẠO TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI”  \n_(Ban hành kèm theo Quyết định số 3501/QĐ-UBND, ngày 26 tháng 9 năm 2022 của UBND thành phố Hà Nội)_\n\n**I. SỰ CẦN THIẾT XÂY DỰNG ĐỀ ÁN**\n\n**1\\. Căn cứ pháp lý**\n\n**_1.1. Văn bản của Trung ương_**\n\n\\- Văn kiện Đại hội Đảng toàn quốc lần thứ XIII;\n\n\\- Nghị quyết số 15-NQ/TW, ngày 05/5/2022 của Bộ Chính trị về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030, tầm nhìn đến năm 2045.\n\n\\- Luật Tổ chức Chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;\n\n\\- Luật Thủ đô ngày 21/11/2012;\n\n\\- Luật Khoa học và Công nghệ ngày 18/6/2013;\n\n\\- Luật Hỗ trợ doanh nghiệp nhỏ và vừa ngày 12/6/2017;\n\n\\- Luật Chuyển giao công nghệ ngày 19/6/2017;\n\n\\- Nghị quyết số 23-NQ/TW, ngày 22/3/2018 của Bộ Chính trị về định hướng xây dựng chính sách phát triển công nghiệp quốc gia đến năm 2030, tầm nhìn đến năm 2045;\n\n\\- Nghị quyết số 52-NQ/TW, ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động tham gia cuộc cách mạng công nghiệp lần thứ tư;\n\n\\- Nghị định số [38/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-38-2018-nd-cp-quy-dinh-chi-tiet-dau-tu-cho-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao-377302.aspx \"Nghị định 38/2018/NĐ-CP\") , ngày 11/3/2018 của Chính phủ quy định chi tiết về đầu tư cho khởi nghiệp sáng tạo;\n\n\\- Nghị định số [80/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-80-2021-nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua-486147.aspx \"Nghị định 80/2021/NĐ-CP\") , ngày 26/8/2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa;\n\n\\- Quyết định số [844/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-844-qd-ttg-de-an-ho-tro-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-quoc-gia-den-2025-2016-311936.aspx \"Quyết định 844/QĐ-TTg\") , ngày 18/5/2016 của Thủ tướng Chính phủ về việc phê duyệt Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025”;\n\n\\- Quyết định số [939/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-939-qd-ttg-2017-de-an-ho-tro-phu-nu-khoi-nghiep-giai-doan-2017-2025-353813.aspx \"Quyết định 939/QĐ-TTg\") , ngày 30/6/2017 của Thủ tướng Chính phủ về việc phê duyệt Đề án “Hỗ trợ phụ nữ khởi nghiệp giai đoạn 2017 - 2025”;\n\n\\- Quyết định số [1665/QĐ-TTg](https://thuvienphapluat.vn/van-ban/giao-duc/quyet-dinh-1665-qd-ttg-2017-de-an-ho-tro-hoc-sinh-sinh-vien-khoi-nghiep-den-nam-2025-365846.aspx \"Quyết định 1665/QĐ-TTg\") , ngày 30/10/2017 của Thủ tướng Chính phủ về việc phê duyệt Đề án “Hỗ trợ học sinh, sinh viên khởi nghiệp đến năm 2025”;\n\n\\- Nghị quyết số [50/NQ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-50-nq-cp-2020-chuong-trinh-hanh-dong-thuc-hien-nghi-quyet-52-nq-tw-440366.aspx \"Nghị quyết 50/NQ-CP\") , ngày 17/4/2020 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 52-NQ/TW, ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động tham gia cuộc cách mạng công nghiệp lần thứ tư;\n\n\\- Quyết định số [188/QĐ-TTg](https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-188-qd-ttg-2021-sua-doi-quyet-dinh-844-qd-ttg-ho-tro-he-sinh-thai-khoi-nghiep-465073.aspx \"Quyết định 188/QĐ-TTg\") , ngày 09/02/2021 của Chính phủ về sửa đổi, bổ sung một số điều của Quyết định số [844/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-844-qd-ttg-de-an-ho-tro-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-quoc-gia-den-2025-2016-311936.aspx \"Quyết định 844/QĐ-TTg\") , ngày 18/5/2016 của Thủ tướng Chính phủ về việc phê duyệt Đề án Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025;\n\n\\- Quyết định số [569/QĐ-TTg](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-569-qd-ttg-2022-chien-luoc-phat-trien-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-512896.aspx \"Quyết định 569/QĐ-TTg\") , ngày 11/5/2022 của Thủ tướng Chính phủ về Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo đến năm 2030;\n\n\\- Chỉ thị 09/CT-TTg, ngày 18/02/2020 của Thủ tướng Chính phủ về tạo điều kiện cho doanh nghiệp khởi nghiệp sáng tạo;\n\n\\- Thông tư số [45/2019/TT-BTC](https://thuvienphapluat.vn/van-ban/doanh-nghiep/thong-tu-45-2019-tt-btc-quan-ly-tai-chinh-ho-tro-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-quoc-gia-419394.aspx \"Thông tư 45/2019/TT-BTC\") , ngày 19/7/2019 của Bộ Tài chính quy định quản lý tài chính thực hiện Đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025”;\n\n\\- Quyết định số [1158/QĐ-TTg](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-1158-qd-ttg-2021-chuong-trinh-phat-trien-thi-truong-khoa-hoc-va-cong-nghe-quoc-gia-480962.aspx \"Quyết định 1158/QĐ-TTg\") , ngày 13/7/2021 của Thủ tướng Chính phủ về việc ban hành Chương trình phát triển thị trường khoa học và công nghệ quốc gia đến năm 2030;\n\n\\- Thông tư số [07/2020/TT-BKHCN](https://thuvienphapluat.vn/van-ban/doanh-nghiep/thong-tu-07-2020-tt-bkhcn-thanh-lap-co-so-uom-tao-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao-460313.aspx \"Thông tư 07/2020/TT-BKHCN\") , ngày 11/12/2020 của Bộ Khoa học và Công nghệ hướng dẫn việc thành lập cơ sở ươm tạo doanh nghiệp nhỏ và vừa, cơ sở kỹ thuật hỗ trợ doanh nghiệp nhỏ và vừa, khu làm việc chung hỗ trợ doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo.\n\n\\- Quyết định số [186/QĐ-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-186-qd-btttt-2022-phe-duyet-chuong-trinh-thuc-day-phat-trien-nen-tang-so-quoc-gia-502824.aspx \"Quyết định 186/QĐ-BTTTT\") , ngày 11/2/2022 của Bộ Thông tin truyền thông về Phê duyệt Chương trình thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, chính phủ số, xã hội số.\n\n**_1.2. Văn bản của thành phố Hà Nội_**\n\n\\- Văn kiện Đại hội Đại biểu lần thứ XVII Đảng bộ thành phố Hà Nội;\n\n\\- Nghị quyết số [05/2019/NQ-HĐND](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-quyet-05-2019-nq-hdnd-de-an-ho-tro-khoi-nghiep-sang-tao-thanh-pho-ha-noi-419320.aspx \"Nghị quyết 05/2019/NQ-HĐND\") , ngày 08/7/2019 của HĐND thành phố Hà Nội về việc thông qua chủ trương ban hành Đề án hỗ trợ khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2019 - 2025;\n\n\\- Quyết định số [4889/QĐ-UBND](https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-4889-qd-ubnd-2019-phe-duyet-de-an-ho-tro-khoi-nghiep-sang-tao-ha-noi-424979.aspx \"Quyết định 4889/QĐ-UBND\") , ngày 09/9/2019 của UBND Thành phố về phê duyệt đề án “Hỗ trợ khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2019 - 2025”;\n\n\\- Kế hoạch số [49/KH-UBND](https://thuvienphapluat.vn/van-ban/doanh-nghiep/ke-hoach-49-kh-ubnd-2020-ho-tro-phat-trien-doanh-nghiep-khoa-hoc-cong-nghe-thanh-pho-ha-noi-436953.aspx \"Kế hoạch 49/KH-UBND\") , ngày 28/02/2020 của UBND Thành phố về hỗ trợ phát triển doanh nghiệp khoa học và công nghệ trên địa bàn thành phố Hà Nội đến năm 2025;\n\n\\- Chương trình số 07-CTr/TU, ngày 17/3/2021 của Thành ủy về _“đẩy mạnh phát triển khoa học, công nghệ và đổi mới sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2021 - 2025”_;\n\n\\- Kế hoạch số [185/KH-UBND](https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/ke-hoach-185-kh-ubnd-2021-thuc-hien-chuong-trinh-07-ctr-tu-ha-noi-500889.aspx \"Kế hoạch 185/KH-UBND\") , ngày 11/8/2021 của UBND Thành phố về triển khai thực hiện Chương trình số 07-CTr/TU của Thành ủy Hà Nội khóa XVII, nhiệm kỳ 2020-2025 về “Đẩy mạnh phát triển khoa học, công nghệ và đổi mới sáng tạo trên địa bàn thành phố Hà Nội giai đoạn 2021-2025”;\n\n\\- Kế hoạch số 154/KH-UBND, ngày 13/01/2022 của UBND Thành phố ban hành Chương trình phát triển thị trường khoa học và công nghệ của thành phố Hà Nội đến năm 2030;\n\n\\- Chương trình hành động số [02/CTr-UBND](https://thuvienphapluat.vn/van-ban/thuong-mai/chuong-trinh-hanh-dong-02-ctr-ubnd-2022-nhiem-vu-giai-phap-phat-trien-kinh-te-xa-hoi-ha-noi-506535.aspx \"Văn bản khác 02/CTr-UBND\") , ngày 19/01/2022 của UBND Thành phố về thực hiện các nhiệm vụ, giải pháp phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2022.\n\n**2\\. Sự cần thiết xây dựng Đề án**\n\nTheo Tổ chức Hợp tác và Phát triển Kinh tế (OECD), hệ sinh thái khởi nghiệp chỉ một cộng đồng bao gồm các thực thể cộng sinh, chia sẻ và tương hỗ lẫn nhau, tạo nên môi trường thuận lợi thúc đẩy sự hình thành các doanh nghiệp khởi nghiệp sáng tạo, tăng trưởng nhanh và bền vững. Các thực thể cộng sinh bao gồm: các cá nhân, nhóm cá nhân, doanh nghiệp khởi nghiệp sáng tạo và các chủ thể hỗ trợ doanh nghiệp khởi nghiệp phát triển _(Báo cáo Khởi nghiệp 2014)_. Diễn đàn kinh tế thế giới (WEF) định nghĩa hệ sinh thái khởi nghiệp là “một hệ thống các trụ cột liên quan lẫn nhau tác động đến khả năng của các chủ doanh nghiệp trong việc tạo ra và mở rộng hoạt động đầu tư mạo hiểm một cách bền vững”.\n\nHệ sinh thái khởi nghiệp sáng tạo được hiểu là một hệ thống các chủ thể, trụ cột liên quan, tác động lẫn nhau của một quốc gia hay một thành phố thiết lập để thúc đẩy hoạt động khởi nghiệp sáng tạo tại địa phương, quốc gia đó. Cụ thể: là tổng hợp các mối liên kết chính thức và phi chính thức giữa các chủ thể khởi nghiệp sáng tạo (tiềm năng hoặc hiện tại), tổ chức khởi nghiệp sáng tạo (công ty, nhà đầu tư mạo hiểm, nhà đầu tư thiên thần, hệ thống ngân hàng,...) và các cơ quan liên quan (trường đại học, các cơ quan nhà nước, các quỹ đầu tư công,...) và tiến trình khởi nghiệp sáng tạo (tỷ lệ thành lập doanh nghiệp, số lượng doanh nghiệp có tỷ lệ tăng trưởng tốt, số lượng các nhà khởi nghiệp sáng tạo,...) tác động trực tiếp đến môi trường khởi nghiệp sáng tạo tại địa phương.\n\nHoạt động khởi nghiệp sáng tạo là quá trình nghiên cứu, phát triển, tạo ra sản phẩm mới, thay đổi quy trình, dịch vụ hoặc mô hình kinh doanh, nhằm tạo ra nhiều lợi ích vượt trội, đóng góp cho xã hội những giá trị cao hơn và chủ thể chính thực hiện khởi nghiệp sáng tạo là cộng đồng doanh nghiệp. Do vậy, khi cơ quan quản lý nhà nước tạo ra môi trường, các cơ chế và chính sách phù hợp cho doanh nghiệp phát triển, hoạt động khởi nghiệp sáng tạo sẽ tạo ra nhiều giá trị cho xã hội. Tuy nhiên, hiện việc doanh nghiệp thiếu thông tin về các chính sách, các hình thức hỗ trợ của Nhà nước là một rào cản khiến doanh nghiệp chưa tận dụng hết cơ hội, chưa phát huy tốt những điều kiện thuận lợi trong thúc đẩy khởi nghiệp sáng tạo. Để thúc đẩy khởi nghiệp sáng tạo cơ quan quản lý nhà nước cần tập trung xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên các lĩnh vực: _(1) Phát triển nguồn nhân lực phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo; (2) Cơ sở hạ tầng, kỹ thuật phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo; (3) Nguồn lực tài chính và hoạt động đầu tư cho phát triển hệ sinh thái khởi nghiệp sáng tạo; (4) Công tác chuyển giao và ứng dụng công nghệ phục vụ phát triển hệ sinh thái; (5) Công tác liên kết, kết nối phát triển hệ sinh thái khởi nghiệp sáng tạo; (6) Công tác giáo dục và đào tạo phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo._\n\nTrong giai đoạn vừa qua, hệ sinh thái khởi nghiệp sáng tạo của Việt Nam từng bước được hình thành và phát triển, các chủ thể trong hệ sinh thái đã tham gia tương đối chủ động và tích cực. Hệ thống thể chế chính sách thúc đẩy khởi nghiệp sáng tạo khá đầy đủ, hỗ trợ cho hoạt động của các doanh nghiệp trong lĩnh vực này. Giai đoạn tới, hệ sinh thái khởi nghiệp sáng tạo cần bứt phá, phát triển mạnh mẽ hơn nữa, nhằm huy động các nguồn lực từ khu vực nhà nước lẫn khu vực tư nhân, trong nước và nước ngoài, tăng cường liên kết và phối hợp hiệu quả giữa các chủ thể trong hệ sinh thái.\n\nTheo đánh giá của các chuyên gia, hệ sinh thái khởi nghiệp sáng tạo của Việt Nam đang phát triển mạnh nhờ quy mô của nền kinh tế quốc gia ngày càng mở rộng. Năm 2020, thị trường tại Việt Nam được đánh giá là điểm đến an toàn, được các nhà đầu tư, các quỹ đầu tư lựa chọn. Các nhà đầu tư có sự tin tưởng rất lớn vào tiềm năng của hệ sinh thái khởi nghiệp sáng tạo của Việt Nam, kỳ vọng đây là thị trường tiềm năng ở châu Á, sau Indonesia. Việt Nam có quy mô dân số trẻ, với lòng đam mê khởi nghiệp; số lượng doanh nghiệp khởi nghiệp sáng tạo (startup) nhiều, chất lượng đào tạo nhân lực tốt và có sự đồng hành rất lớn từ Chính phủ.\n\nThời gian qua, Bộ Khoa học và Công nghệ đã triển khai nhiều chương trình, dự án là nền tảng để xây dựng hệ thống đổi mới sáng tạo quốc gia, như: Chương trình đối tác đổi mới sáng tạo Phần Lan - Việt Nam; Chương trình thương mại hóa kết quả nghiên cứu theo mô hình thung lũng Silicon tại Việt Nam. Đặc biệt, Đề án Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025 (Đề án 844) đã tập trung nâng cao năng lực, tổ chức đào tạo, huấn luyện cho các chủ thể trong hệ sinh thái, đồng thời, phát triển hợp tác, liên kết, truyền thông. Kết quả đưa đến hình thành một thế hệ doanh nghiệp khởi nghiệp sáng tạo mới với việc phát triển các mô hình, giải pháp mới ứng dụng công nghệ 4.0 trong nhiều lĩnh vực, như: Abivin (giải pháp tối ưu hóa vận hành chuỗi cung ứng); Nami (phần mềm quản lý nhà cho thuê); Ekid (ứng dụng đồ chơi và giáo cụ thông minh); Medlink (giải pháp kết nối các nhà thuốc)... Đáng chú ý, có hai startup được định giá hơn một tỷ USD là Công ty cổ phần VNG (Vinagame), VNP và khoảng 10 startup được định giá hơn 100 triệu USD. Ngoài ra, có 61 quỹ đầu tư hoạt động ở Việt Nam, tăng 50% so với năm 2018; 57 cơ sở ươm tạo và 25 tổ chức có triển khai các chương trình thúc đẩy kinh doanh, tăng gấp từ 3 đến 4 lần so với năm 2016; 170 khu cơ sở vật chất hỗ trợ khởi nghiệp...\n\nTại Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo đến năm 2030 _(Quyết định số [569/QĐ-TTg](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-569-qd-ttg-2022-chien-luoc-phat-trien-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-512896.aspx \"Quyết định 569/QĐ-TTg\") , ngày 11/5/2022 của Thủ tướng Chính phủ)_ xác định một trong những nhiệm vụ, giải pháp cụ thể nhằm xây dựng hệ thống đổi mới sáng tạo quốc gia là: “...Phát triển hệ sinh thái đổi mới sáng tạo quốc gia liên kết chặt chẽ với khu vực và thế giới. Phát triển các hệ sinh thái đổi mới sáng tạo trong các ngành công nghiệp, nông nghiệp và dịch vụ gắn với các chuỗi giá trị nội địa và toàn cầu, các cụm liên kết ngành; trong đó các doanh nghiệp lớn có vai trò trung tâm dẫn dắt các hoạt động đổi mới sáng tạo, các cơ quan quản lý nhà nước có vai trò kiến tạo môi trường thể chế, chính sách thuận lợi, thúc đẩy liên kết giữa các doanh nghiệp, viện nghiên cứu, trường đại học, tổ chức hỗ trợ trong hoạt động nghiên cứu, ứng dụng và đổi mới sáng tạo...”.\n\nĐể thực hiện chủ trương lớn của Trung ương, tại Văn kiện Đại hội đại biểu lần thứ XVII (2020-2025), Đảng bộ thành phố Hà Nội đã đề ra 03 khâu đột phá chiến lược, trong đó có nội dung: “...Xây dựng và phát triển hệ sinh thái học tập sáng tạo, hệ sinh thái khởi nghiệp đổi mới sáng tạo; thu hút, trọng dụng nhân tài trong và ngoài nước, đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế. Thúc đẩy phát triển mạnh mẽ khoa học, công nghệ và đổi mới sáng tạo trong toàn xã hội...”. Những nhiệm vụ, giải pháp chủ yếu trong giai đoạn 2020 - 2025 về Phát triển mạnh mẽ khoa học, công nghệ và đổi mới sáng tạo, góp phần phát triển Thủ đô hiện đại, văn minh được xác định “...Tập trung phát triển và nâng cao hiệu quả hoạt động của hệ thống đổi mới sáng tạo, xây dựng hệ sinh thái khởi nghiệp đổi mới sáng tạo Thành phố, là trung tâm tổ chức các sự kiện khởi nghiệp đổi mới sáng tạo quy mô quốc gia và quốc tế, kết nối chặt chẽ với hệ sinh thái đổi mới sáng tạo quốc gia và quốc tế; thúc đẩy hình thành các trung tâm đổi mới sáng tạo trong các trường đại học, viện nghiên cứu...”.\n\nThực tế cho thấy, trong thời gian qua, Thành phố cũng đã có nhiều chủ trương, chính sách cụ thể nhằm hỗ trợ, phát triển hệ sinh thái khởi nghiệp, thúc đẩy hoạt động khởi nghiệp sáng tạo. Hiện thành phố Hà Nội hội tụ nhiều yếu tố để trở thành trung tâm khởi nghiệp, đổi mới sáng tạo. Trên địa bàn Thành phố tập trung hơn 70% tổ chức khoa học và công nghệ, trường đại học và viện nghiên cứu của cả nước; 14 phòng thí nghiệm trọng điểm quốc gia, chiếm 82% số phòng thí nghiệm của cả nước. Đặc biệt, ngày 09/01/2021, Trung tâm Đổi mới sáng tạo quốc gia (NIC) đã chính thức được khởi công tại Khu công nghệ cao Hòa Lạc (Hà Nội). Bên cạnh đó, Hà Nội còn có số nhà khoa học đầu ngành đang sinh sống và làm việc trên địa bàn chiếm hơn 65% tổng số các nhà khoa học trong cả nước.\n\nNgoài những lợi thế trên, thời gian qua, Hà Nội đã khẳng định vai trò là trung tâm hàng đầu về khoa học, công nghệ và đổi mới sáng tạo của cả nước với nhiều giải pháp hỗ trợ doanh nghiệp khởi nghiệp sáng tạo. Nổi bật có thể kể đến Vườn ươm doanh nghiệp công nghệ thông tin, đổi mới sáng tạo Hà Nội (HBI-IT) thuộc Sở Thông tin và Truyền thông. Bên cạnh các hoạt động bổ sung kiến thức, kinh nghiệm thực tế cho doanh nghiệp khởi nghiệp hoàn thiện sản phẩm với định hướng thị trường, trang bị kỹ năng kinh doanh, hỗ trợ gọi vốn, Vườn ươm còn tổ chức truyền thông quảng bá cho các dự án, phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\nHiện Thành phố cũng đã tập trung hỗ trợ các đề tài, dự án sản xuất có giá trị thực tiễn và khả năng thương mại hóa cao; hỗ trợ phát triển ý tưởng, hoàn thiện công nghệ, phát triển sản phẩm mới làm cơ sở thành lập doanh nghiệp khoa học và công nghệ. Tuy nhiên, các hoạt động khoa học, công nghệ và đổi mới sáng tạo của Thành phố vẫn còn hạn chế, chưa tương xứng với tiềm năng, thiếu cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo. Chính vì vậy, lĩnh vực này chưa thực sự trở thành động lực quan trọng để nâng cao năng suất lao động, khả năng cạnh tranh, thúc đẩy phát triển kinh tế - xã hội Thủ đô. Số doanh nghiệp khởi nghiệp sáng tạo (startup) của Hà Nội gọi được vốn từ các quỹ đầu tư rất ít; phần lớn chỉ là doanh nghiệp nhỏ cung cấp sản phẩm, dịch vụ kỹ thuật số, mà chưa phát triển dựa trên nền tảng đổi mới sáng tạo đúng nghĩa. Ngoài ra, chưa có sự kết nối giữa cơ sở nghiên cứu - startup - nhà đầu tư - doanh nghiệp - tổ chức hỗ trợ khởi nghiệp sáng tạo, để thiết lập một mạng lưới tương trợ lẫn nhau...\n\nNhiều chuyên gia cho rằng, giai đoạn tới, hệ sinh thái khởi nghiệp sáng tạo Thủ đô Hà Nội cần phát triển mạnh mẽ hơn để thật sự trở thành môi trường thuận lợi kiến tạo, nuôi dưỡng các ý tưởng và doanh nghiệp khởi nghiệp sáng tạo. Hệ sinh thái có sự tham gia mạnh mẽ từ khu vực tư nhân, nhất là của các chuyên gia, nhà đầu tư, người Việt Nam thành công ở nước ngoài, do đó cần thiết phải có một đầu mối thống nhất quản lý, đóng vai trò điều phối các nguồn lực, như: công nghệ, con người, vốn đầu tư... Các sự kiện liên quan khởi nghiệp sáng tạo cần hướng tới phục vụ các mục tiêu, mục đích khác nhau, tránh trùng lặp, dàn trải. Vai trò của chính quyền Thành phố và một đầu mối điều phối chung có tính quyết định trong việc hình thành và nuôi dưỡng sự phát triển lành mạnh của hệ sinh thái khởi nghiệp sáng tạo Thủ đô. Thành phố cần tác động toàn diện tới các thành tố của hệ sinh thái, thúc đẩy mối liên kết, từ đó giúp hình thành lực lượng doanh nghiệp mạnh, làm đòn bẩy tăng trưởng kinh tế nhanh, chất lượng và bền vững. Cơ chế chính sách cho khởi nghiệp sáng tạo cũng cần hoàn thiện nhằm tháo gỡ các rào cản, đồng thời, có những ưu đãi để khuyến khích đầu tư cho khởi nghiệp sáng tạo. Các giải pháp đồng bộ nêu trên chắc chắn sẽ tạo bước chuyển biến mạnh mẽ cho sự phát triển hệ sinh thái khởi nghiệp sáng tạo Thủ đô.\n\nTừ lý do nêu trên, việc nghiên cứu Đề án: **_“Xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”_** là cần thiết, mang tính lý luận và thực tiễn cao.\n\n**II. MỤC TIÊU, PHẠM VI, PHƯƠNG PHÁP THỰC HIỆN CỦA ĐỀ ÁN**\n\n**1\\. Mục tiêu**\n\n**_Mục tiêu chung:_**\n\nXây dựng cơ chế, chính sách đặc thù nhằm hoàn thiện và phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội; tạo lập môi trường thuận lợi để thúc đẩy, hỗ trợ quá trình hình thành và phát triển các loại hình doanh nghiệp có khả năng tăng trưởng nhanh dựa trên khai thác tài sản trí tuệ, công nghệ, mô hình kinh doanh mới, góp phần thúc đẩy tăng trưởng kinh tế Thủ đô nhanh và bền vững.\n\n**_Mục tiêu cụ thể:_**\n\n\\- Làm rõ cơ sở lý luận và thực tiễn về phát triển hệ sinh thái khởi nghiệp sáng tạo _(tập trung công tác xây dựng cơ chế, chính sách)_; Xác định được những tiêu chí, chỉ tiêu đánh giá sự phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n\\- Đánh giá được thực trạng phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội _(theo tiêu chí, chỉ tiêu; tập trung công tác xây dựng cơ chế, chính sách)_.\n\n\\- Đề xuất được một số giải pháp đồng bộ nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm 2030, tầm nhìn năm 2045 _(tập trung công tác xây dựng cơ chế, chính sách)_.\n\n\\- Đề xuất cơ chế, chính sách đặc thù nhằm tháo gỡ những vướng mắc, điểm nghẽn; phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n**2\\. Phạm vi của Đề án**\n\n**\\- Về nội dung:**\n\n\\+ Nghiên cứu, xây dựng cơ sở lý luận và thực tiễn về phát triển hệ sinh thái khởi nghiệp sáng tạo _(tập trung công tác xây dựng cơ chế, chính sách)_; Xác định những tiêu chí, chỉ tiêu đánh giá sự phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n\\+ Đánh giá thực trạng phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội _(tập trung công tác xây dựng cơ chế, chính sách)_.\n\n\\+ Đề xuất cơ chế, chính sách và một số giải pháp đồng bộ nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n**\\- Phạm vi không gian:** Trên địa bàn thành phố Hà Nội.\n\n**\\- Phạm vi thời gian:** Đánh giá thực trạng phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội từ năm 2016-2021 _(tập trung công tác xây dựng cơ chế, chính sách)_; Đề xuất cơ chế, chính sách đặc thù và các giải pháp nhằm đồng bộ nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm 2030, tầm nhìn năm 2045.\n\n**3\\. Phương pháp thực hiện:**\n\n_3.1. Phương pháp thu thập dữ liệu; khảo cứu, phân tích tài liệu thứ cấp_\n\nNhóm nghiên cứu sẽ thu thập và tổng hợp các nhóm văn bản, công trình nghiên cứu, tài liệu và dữ liệu liên quan đến nội dung nghiên cứu:\n\n\\- Các VBQPPL, văn bản QLNN của Trung ương, Thành phố về xây dựng cơ chế, chính sách các lĩnh vực nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo...;\n\n\\- Các công trình nghiên cứu, tài liệu về hệ sinh thái khởi nghiệp sáng tạo;\n\n\\- Nghiên cứu thực trạng hệ sinh thái khởi nghiệp sáng tạo trong và ngoài nước để xây dựng cơ chế, chính sách của Trung ương và Hà Nội;\n\n\\- Ngoài ra, nhiệm vụ còn sử dụng các thông tin thứ cấp trong các báo cáo tổng kết của các cơ quan Trung ương và Thành phố, các thông tin, dữ liệu được xác thực, kiểm chứng khác.\n\n_3.2. Phương pháp khảo sát, điều tra xã hội học_\n\n\\- Trong quá trình triển khai nhiệm vụ, Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội sẽ tiến hành khảo sát, điều tra xã hội học đối với 02 loại phiếu đối với người dân, doanh nghiệp, cơ quan, đơn vị, nhà quản lý, chuyên gia, nhà khoa học... trên địa bàn thành phố Hà Nội.\n\n\\- Khảo sát, trao đổi kinh nghiệm về xây dựng và tổ chức triển khai cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo tại Thành phố Hồ Chí Minh.\n\n_3.3. Phương pháp chuyên gia_\n\nTrong quá trình triển khai nhiệm vụ sẽ xin ý kiến các chuyên gia, nhà khoa học, cán bộ quản lý và các đối tượng liên quan đến hệ sinh thái khởi nghiệp sáng tạo... của thành phố Hà Nội qua các cuộc hội thảo, tọa đàm khoa học.\n\n**III. NỘI DUNG ĐỀ ÁN**\n\n**Nội dung 1: Cơ sở lý luận và thực tiễn về phát triển hệ sinh thái khởi nghiệp sáng tạo.**\n\n_1.1. Tổng quan về hệ sinh thái khởi nghiệp sáng tạo._\n\n_1.2. Đặc thù, điều kiện đặc biệt và các yếu tố ảnh hưởng đến phát triển hệ sinh thái khởi nghiệp sáng tạo._\n\n_1.3. Yêu cầu của phát triển hệ sinh thái khởi nghiệp sáng tạo._\n\n_1.4. Kinh nghiệm thực tiễn về phát triển hệ sinh thái khởi nghiệp sáng tạo._\n\n_1.5. Chủ trương, đường lối, chính sách của Đảng, Nhà nước và của thành phố Hà Nội về phát triển hệ sinh thái khởi nghiệp sáng tạo._\n\n_1.6. Xây dựng Bộ tiêu chí, chỉ tiêu đánh giá sự phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội_ (các tiêu chí: (1) Phát triển nguồn nhân lực phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo; (2) Cơ sở hạ tầng, kỹ thuật phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo; (3) Nguồn lực tài chính và hoạt động đầu tư cho phát triển hệ sinh thái khởi nghiệp sáng tạo; (4) Công tác chuyển giao và ứng dụng công nghệ phục vụ phát triển hệ sinh thái; (5) Công tác liên kết, kết nối phát triển hệ sinh thái khởi nghiệp sáng tạo; (6) Công tác giáo dục và đào tạo phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo).\n\n**Nội dung 2: Thực trạng phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội**\n\n_2.1. Khái quát thực trạng công tác xây dựng, ban hành và thực hiện cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo của thành phố Hà Nội._\n\n_2.2. Thực trạng nguồn nhân lực cho khởi nghiệp sáng tạo của thành phố Hà Nội._\n\n_2.3. Thực trạng cơ sở hạ tầng, kỹ thuật, mặt bằng cho hoạt động khởi nghiệp sáng tạo của thành phố Hà Nội._\n\n_2.4. Thực trạng nguồn lực tài chính và thúc đẩy hoạt động đầu tư cho khởi nghiệp sáng tạo của thành phố Hà Nội._\n\n_2.5. Thực trạng công tác chuyển giao và ứng dụng công nghệ của thành phố Hà Nội._\n\n_2.6. Thực trạng công tác liên kết, kết nối hệ sinh thái của thành phố Hà Nội._\n\n_2.7. Thực trạng công tác giáo dục và đào tạo phục vụ khởi nghiệp sáng tạo của thành phố Hà Nội._\n\n_2.8. Đánh giá chung và vấn đề đặt ra đối với cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo của thành phố Hà Nội._\n\n**Nội dung 3: Đề xuất giải pháp đồng bộ nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm 2030, tầm nhìn năm 2045.**\n\n_3.1. Mục tiêu, định hướng phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội._\n\n_3.2. Đề xuất giải pháp chủ yếu nhằm phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội đến năm 2030, tầm nhìn năm 2045._\n\n3.2.1. Về xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\n3.2.2. Về phát triển nguồn nhân lực phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\n3.2.3. Về cơ sở hạ tầng, kỹ thuật phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\n3.2.4. Về nguồn lực tài chính và hoạt động đầu tư cho phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\n3.2.5. Về công tác chuyển giao và ứng dụng công nghệ phục vụ phát triển hệ sinh thái.\n\n3.2.6. Về công tác liên kết, kết nối phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\n3.2.7. Về công tác giáo dục và đào tạo phục vụ phát triển hệ sinh thái khởi nghiệp sáng tạo.\n\n_3.3. Đề xuất, kiến nghị Trung ương và Thành phố về cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội._\n\n**IV. SẢN PHẨM CỦA ĐỀ ÁN**\n\n\\- Báo cáo tổng hợp kết quả nghiên cứu, báo cáo tóm tắt, các báo cáo chuyên đề của Đề án.\n\n\\- Dự thảo Đề án **_“Xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”_** trình Thành phố xem xét, phê duyệt.\n\n**V. TIẾN ĐỘ VÀ KINH PHÍ THỰC HIỆN ĐỀ ÁN**\n\n**1\\. Tiến độ thực hiện Đề án:**\n\n**TT**\n\n**Nội dung**\n\n**Cơ quan chủ trì**\n\n**Cơ quan phối hợp**\n\n**Thời gian hoàn thành**\n\n1\n\nXây dựng Đề cương Đề án.\n\nViện NCPT KT-XH Hà Nội\n\nVăn phòng UBND Thành phố\n\nTừ tháng 01 - 9/2022\n\n2\n\nNghiên cứu, xây dựng các báo cáo chuyên đề.\n\nViện NCPT KT-XH Hà Nội\n\nCác sở, ban, ngành, quận, huyện, thị xã; Các chuyên gia, nhà khoa học\n\nTừ tháng 01 - 11/2022\n\n3\n\nTổ chức các Hội thảo khoa học.\n\nViện NCPT KT-XH Hà Nội\n\nCác sở, ban, ngành, quận, huyện, thị xã; Các chuyên gia, nhà khoa học\n\nTừ tháng 9 - 12/2022\n\n4\n\nTổ chức khảo sát, điều tra xã hội học trên địa bàn Hà Nội.\n\nViện NCPT KT-XH Hà Nội\n\nCác sở, ban, ngành, quận, huyện, thị xã\n\nTháng 9 - 11/2022\n\n5\n\nKhảo sát, trao đổi kinh nghiệm tại Thành phố Hồ Chí Minh.\n\nViện NCPT KT-XH Hà Nội\n\nCác sở, ban, ngành; Các chuyên gia, nhà khoa học\n\nTháng 11/2022\n\n6\n\nXây dựng báo cáo tóm tắt, báo cáo tổng hợp kết quả thực hiện đề án.\n\nViện NCPT KT-XH Hà Nội\n\nCác chuyên gia, nhà khoa học\n\nTháng 10 - 12/2022\n\n7\n\nTrình UBND Thành phố dự thảo Đề án.\n\nViện NCPT KT-XH Hà Nội\n\nVăn phòng UBND Thành phố\n\nTrước ngày 31/12/2022\n\n**2\\. Kinh phí thực hiện**\n\n\\- Kinh phí thực hiện: Được xác định trên cơ sở Thuyết minh và Dự toán Đề án được phê duyệt.\n\n\\- Dự toán kinh phí thực hiện theo Nghị quyết số [10/2019/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-10-2019-nq-hdnd-muc-chi-thuoc-tham-quyen-cua-hoi-dong-nhan-dan-thanh-pho-ha-noi-433571.aspx \"Nghị quyết 10/2019/NQ-HĐND\") , ngày 04/12/2019 của HĐND Thành phố về việc quy định một số nội dung, mức chi thuộc thẩm quyền của HĐND Thành phố và các quy định hiện hành.\n\n\\- Nguồn kinh phí được đảm bảo từ nguồn ngân sách của Thành phố bố trí nguồn chi đã được phê duyệt tại Quyết định số 5199/QĐ-UBND, ngày 10/12/2021 của UBND thành phố Hà Nội về việc giao chỉ tiêu Kế hoạch kinh tế - xã hội và Dự toán thu, chi ngân sách năm 2022 của thành phố Hà Nội giao cho Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội.\n\n**VI. TỔ CHỨC THỰC HIỆN**\n\n**1\\. Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội**\n\n\\- Là đơn vị thường trực Đề án: Chủ trì, phối hợp các sở, ngành, UBND các quận, huyện, thị xã và các cá nhân, tổ chức triển khai thực hiện các nội dung thuộc Đề án theo các quy định hiện hành của Nhà nước; đảm bảo tiến độ, đạt hiệu quả cao.\n\n\\- Chủ trì, phối hợp với các sở, ban, ngành; UBND các quận, huyện, thị xã liên quan xây dựng dự thảo Đề án _“Xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”_ trình UBND Thành phố xem xét, phê duyệt.\n\n**2\\. Sở Khoa học và Công nghệ**\n\n\\- Chủ trì, phối hợp các cơ quan liên quan thẩm định, tham mưu tính chất tương tự nhiệm vụ khoa học và công nghệ đối với Đề án.\n\n\\- Phối hợp Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội đề xuất cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n**3\\. Sở Tài chính**\n\n\\- Hướng dẫn Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội xây dựng dự toán và thanh, quyết toán kinh phí thực hiện theo quy định.\n\n\\- Phối hợp Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội đề xuất cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n**4\\. Sở Kế hoạch và Đầu tư**\n\nPhối hợp Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội đề xuất cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội.\n\n**5\\. Các: Sở, ban, ngành; UBND các quận, huyện, thị xã**\n\n\\- Phối hợp Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội trong việc cung cấp tài liệu, xây dựng các nội dung nghiên cứu liên quan đến lĩnh vực đơn vị theo dõi.\n\n\\- Phối hợp cung cấp số liệu, tài liệu phục vụ xây dựng các nội dung công việc thuộc lĩnh vực chuyên môn và thẩm quyền quản lý.\n\n\\- Phối hợp, hỗ trợ Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội trong quá trình triển khai khảo sát lấy ý kiến bằng bảng hỏi đối với các cơ quan, đơn vị và người dân, tổ chức trên địa bàn.\n\n\\- Cử lãnh đạo, cán bộ tham gia Hội thảo khoa học trao đổi ý kiến về các nội dung thuộc lĩnh vực phụ trách trong quá trình triển khai thực hiện Đề án.\n\n\\- Tham gia xây dựng lộ trình triển khai công tác khảo sát trực tuyến thu thập thông tin để xây dựng cơ chế, chính sách của thành phố Hà Nội.\n\n\\- Tham gia góp ý dự thảo Đề án _“Xây dựng cơ chế, chính sách phát triển hệ sinh thái khởi nghiệp sáng tạo trên địa bàn thành phố Hà Nội”_ trước khi trình UBND Thành phố./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

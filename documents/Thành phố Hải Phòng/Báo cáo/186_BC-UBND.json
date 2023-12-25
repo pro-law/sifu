@@ -1,0 +1,924 @@
+{
+  "title": "Báo cáo 186/BC-UBND năm 2016 sơ kết 03 năm thực hiện Luật Phổ biến, giáo dục pháp luật và tổng kết thực hiện Quyết định 409/QĐ-TTg do thành phố Hải Phòng ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Công văn 1488/BTP-BPBGDPL năm 2016 hướng dẫn sơ kết 03 năm thực hiện Luật phổ biến, giáo dục pháp luật và tổng kết thực hiện Quyết định 409/QĐ-TTg do Bộ Tư pháp ban hành",
+      "id": "1488/BTP-BPBGDPL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tư pháp",
+      "signers": [
+        "Phan Chí Hiếu"
+      ],
+      "issuedDate": "2016-05-10",
+      "effectiveDate": "2016-05-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 596/KH-HĐPHPBGDPL năm 2016 hoạt động của Hội đồng Phối hợp phổ biến, giáo dục pháp luật thành phố Hải Phòng",
+      "id": "596/KH-HĐPHPBGDPL",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giáo dục"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Xuân Bình"
+      ],
+      "issuedDate": "2016-04-28",
+      "effectiveDate": "2016-04-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Bộ luật tố tụng hình sự 2015",
+      "id": "101/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Trách nhiệm hình sự",
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-27",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2015-12-31",
+      "gazetteNumber": "Từ số 1271 đến số 1272",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ luật tố tụng dân sự 2015",
+      "id": "92/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-29",
+      "gazetteNumber": "Từ số 1251 đến số 1252",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tố tụng hành chính 2015",
+      "id": "93/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-29",
+      "gazetteNumber": "Từ số 1247 đến số 1248",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân 2015",
+      "id": "85/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2015-09-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 869 đến số 870",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật nghĩa vụ quân sự 2015",
+      "id": "78/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 10338/KH-UBND năm 2014 thực hiện Đề án \"Tăng cường công tác phổ biến, giáo dục pháp luật tại địa bàn trọng điểm về vi phạm pháp luật giai đoạn 2015-2016\" thành phố Hải Phòng",
+      "id": "10338/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Xuân Bình"
+      ],
+      "issuedDate": "2014-12-30",
+      "effectiveDate": "2014-12-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Luật Doanh nghiệp 2014",
+      "id": "68/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1175 đến số 1176",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Kế hoạch 5716/KH-UBND về tổ chức đợt cao điểm tuyên truyền, phổ biến pháp luật về biển đảo trên địa bàn thành phố Hải Phòng năm 2014",
+      "id": "5716/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Xuân Bình"
+      ],
+      "issuedDate": "2014-08-04",
+      "effectiveDate": "2014-08-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Luật Hôn nhân và gia đình 2014",
+      "id": "52/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-19",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-16",
+      "gazetteNumber": "Từ số 681 đến số 682",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 14/2014/TTLT-BTC-BTP quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác phổ biến, giáo dục pháp luật và chuẩn tiếp cận pháp luật của người dân tại cơ sở do Bộ trưởng Bộ Tài chính - Bộ Tư pháp ban hành",
+      "id": "14/2014/TTLT-BTC-BTP",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Thị Minh",
+        "Nguyễn Thúy Hiền"
+      ],
+      "issuedDate": "2014-01-27",
+      "effectiveDate": "2014-03-14",
+      "gazetteDate": "2014-03-03",
+      "gazetteNumber": "Từ số 245 đến số 246",
+      "status": "Hết hiệu lực: 06/10/2023"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Hiến pháp 2013",
+      "id": "Khongso",
+      "legislationType": "Hiến pháp",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-28",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-12-29",
+      "gazetteNumber": "Từ số 1003 đến số 1004",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật thực hành tiết kiệm, chống lãng phí 2013",
+      "id": "44/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-26",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-30",
+      "gazetteNumber": "Từ số 1009 đến số 1010",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tiếp công dân 2013",
+      "id": "42/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-25",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-30",
+      "gazetteNumber": "Từ số 1005 đến số 1006",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật việc làm 2013",
+      "id": "38/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-16",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2013-12-29",
+      "gazetteNumber": "Từ số 1003 đến số 1004",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1133/QĐ-TTg năm 2013 phê duyệt và tổ chức thực hiện Đề án tại Quyết định 409/QĐ-TTg về Chương trình hành động thực hiện Kết luận 04-KL/TW do Thủ tướng Chính phủ ban hành",
+      "id": "1133/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-15",
+      "effectiveDate": "2013-07-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật hòa giải ở cơ sở năm 2013",
+      "id": "35/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-06-20",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-07-13",
+      "gazetteNumber": "Từ số 407 đến số 408",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật biển Việt Nam 2012",
+      "id": "18/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-21",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 481 đến số 482",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật giám định tư pháp 2012",
+      "id": "13/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-08-05",
+      "gazetteNumber": "Từ số 477 đến số 478",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật phổ biến, giáo dục pháp luật 2012",
+      "id": "14/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật xử lý vi phạm hành chính 2012",
+      "id": "15/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Vi phạm hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ Luật lao động 2012",
+      "id": "10/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-18",
+      "effectiveDate": "2013-05-01",
+      "gazetteDate": "2012-08-05",
+      "gazetteNumber": "Từ số 475 đến số 476",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Quyết định 409/QĐ-TTg năm 2012 về Chương trình hành động thực hiện Kết luận 04-KL/TW do Thủ tướng Chính phủ ban hành",
+      "id": "409/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-04-09",
+      "effectiveDate": "2012-04-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật khiếu nại 2011",
+      "id": "02/2011/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2011-11-11",
+      "effectiveDate": "2012-07-01",
+      "gazetteDate": "2012-02-19",
+      "gazetteNumber": "Từ số 163 đến số 164",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tố cáo 2011",
+      "id": "03/2011/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2011-11-11",
+      "effectiveDate": "2012-07-01",
+      "gazetteDate": "2012-02-21",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Nghị định 55/2011/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế",
+      "id": "55/2011/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-07-04",
+      "effectiveDate": "2011-08-25",
+      "gazetteDate": "2011-07-14",
+      "gazetteNumber": "Từ số 403 đến số 404",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kết luận 04/KL-TW kết quả thực hiện Chỉ thị 32-CT/TW về tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân do Ban Chấp hành Trung ương ban hành",
+      "id": "04/KL-TW",
+      "legislationType": "Văn bản khác",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Trương Tấn Sang"
+      ],
+      "issuedDate": "2011-04-19",
+      "effectiveDate": "2011-04-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Luật bảo vệ quyền lợi người tiêu dùng 2010",
+      "id": "59/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-17",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2011-04-01",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Thông tư liên tịch 30/2010/TTLT/BGDĐT-BTP hướng dẫn việc phối hợp thực hiện công tác phổ biến, giáo dục pháp luật trong nhà trường do Bộ Giáo dục và Đào tạo - Bộ Tư pháp ban hành",
+      "id": "30/2010/TTLT/BGDĐT-BTP",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Bộ Giáo dục và Đào tạo, Bộ Tư pháp",
+      "signers": [
+        "Nguyễn Thuý Hiền",
+        "Trần Quang Quý"
+      ],
+      "issuedDate": "2010-11-16",
+      "effectiveDate": "2010-12-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật viên chức 2010",
+      "id": "58/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-15",
+      "effectiveDate": "2012-01-01",
+      "gazetteDate": "2011-04-01",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật cán bộ, công chức 2008",
+      "id": "22/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-11-13",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-03-10",
+      "gazetteNumber": "Từ số 143 đến số 144",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật giao thông đường bộ 2008",
+      "id": "23/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-11-13",
+      "effectiveDate": "2009-07-01",
+      "gazetteDate": "2009-03-12",
+      "gazetteNumber": "Từ số 145 đến số 146",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật phòng, chống ma túy sửa đổi 2008",
+      "id": "16/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-06-03",
+      "effectiveDate": "2009-01-01",
+      "gazetteDate": "2008-09-18",
+      "gazetteNumber": "Từ số 521 đến số 522",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Luật Bình đẳng giới 2006",
+      "id": "73/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-11-29",
+      "effectiveDate": "2007-07-01",
+      "gazetteDate": "2007-06-10",
+      "gazetteNumber": "Từ số 340 đến số 341",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Cư trú 2006",
+      "id": "81/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-11-29",
+      "effectiveDate": "2007-07-01",
+      "gazetteDate": "2007-06-25",
+      "gazetteNumber": "Từ số 410 đến số 411",
+      "status": "Hết hiệu lực: 01/07/2021"
+    },
+    {
+      "title": "Luật phòng, chống tham nhũng 2005",
+      "id": "55/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-06-01",
+      "gazetteDate": "2006-01-25",
+      "gazetteNumber": "Từ số 37 đến số 38",
+      "status": "Hết hiệu lực: 01/07/2019"
+    },
+    {
+      "title": "Luật Quốc phòng 2005",
+      "id": "39/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-06-14",
+      "effectiveDate": "2006-01-01",
+      "gazetteDate": "2005-08-02",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Bộ luật Dân sự 2005",
+      "id": "33/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-06-14",
+      "effectiveDate": "2006-01-01",
+      "gazetteDate": "2005-09-01",
+      "gazetteNumber": "Từ số 1 đến số 3",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Luật Biên giới Quốc gia 2003",
+      "id": "06/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-06-17",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật phòng cháy và chữa cháy 2001",
+      "id": "27/2001/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2001-06-29",
+      "effectiveDate": "2001-10-04",
+      "gazetteDate": "2001-09-08",
+      "gazetteNumber": "Số 33",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Phòng, chống ma túy 2000",
+      "id": "23/2000/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2000-12-09",
+      "effectiveDate": "2001-06-01",
+      "gazetteDate": "2001-02-15",
+      "gazetteNumber": "Số 6",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Luật Sĩ quan Quân đội nhân dân Việt Nam 1999",
+      "id": "16/1999/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1999-12-21",
+      "effectiveDate": "2000-04-01",
+      "gazetteDate": "2000-02-15",
+      "gazetteNumber": "Số 6",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ Luật Hình sự 1999",
+      "id": "15/1999/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Trách nhiệm hình sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1999-12-21",
+      "effectiveDate": "2000-07-01",
+      "gazetteDate": "2000-02-29",
+      "gazetteNumber": "Số 8",
+      "status": "Hết hiệu lực: 01/01/2018"
+    },
+    {
+      "title": "Hiến pháp năm 1992",
+      "id": "68-LCT/HĐNN8",
+      "legislationType": "Hiến pháp",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Lê Quang Đạo"
+      ],
+      "issuedDate": "1992-04-15",
+      "effectiveDate": "1992-04-18",
+      "gazetteDate": "1992-04-30",
+      "gazetteNumber": "Số 8",
+      "status": "Hết hiệu lực: 01/01/2014"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 6017/QĐ-UBND năm 2016 về khen thưởng thành tích thực hiện Luật Phổ biến, giáo dục pháp luật; thực hiện Quyết định 409/QĐ-TTg về tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân từ năm 2012 đến năm 2016 do thành phố Hà Nội ban hành",
+      "id": "6017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Văn Sửu"
+      ],
+      "issuedDate": "2016-10-31",
+      "effectiveDate": "2016-10-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 195/KH-UBND năm 2016 phổ biến, giáo dục pháp luật, nâng cao hiểu biết và ý thức chấp hành pháp luật cho phụ nữ trên địa bàn Thủ đô Hà Nội giai đoạn 2017-2021",
+      "id": "195/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Lê Hồng Sơn"
+      ],
+      "issuedDate": "2016-10-20",
+      "effectiveDate": "2016-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 5344/KH-UBND thực hiện công tác phổ biến, giáo dục pháp luật trên địa bàn tỉnh Quảng Ngãi giai đoạn từ năm 2016 đến năm 2020",
+      "id": "5344/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Đặng Văn Minh"
+      ],
+      "issuedDate": "2016-09-26",
+      "effectiveDate": "2016-09-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 620/QĐ-UBND năm 2012 Kế hoạch phổ biến Luật Giám định tư pháp và Luật Phổ biến, giáo dục pháp luật do tỉnh Bình Định ban hành",
+      "id": "620/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Hồ Quốc Dũng"
+      ],
+      "issuedDate": "2012-11-09",
+      "effectiveDate": "2012-11-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "186/BC-UBND",
+  "legislationType": "Báo cáo",
+  "categories": [
+    "Giáo dục",
+    "Văn hóa - Xã hội"
+  ],
+  "organization": "Thành phố Hải Phòng",
+  "signers": [
+    "Nguyễn Xuân Bình"
+  ],
+  "issuedDate": "2016-09-16",
+  "effectiveDate": "2016-09-16",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMQAxADIAMgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN </span><br>\n  </b><b><span lang=\"VI\">THÀNH PHỐ HẢI PHÒNG<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số:\n  18</span>6<span lang=\"VI\">/BC-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Hải\n  Phòng, ngày 1</span>6</i><i><span lang=\"VI\"> tháng 9 năm 2016</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">BÁO CÁO</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">SƠ KẾT 03 NĂM THỰC HIỆN LUẬT PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT VÀ TỔNG KẾT\nTHỰC HIỆN QUYẾT ĐỊNH SỐ 409/QĐ-TTG NGÀY 09/04/2012 CỦA THỦ TƯỚNG CHÍNH PHỦ</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện chỉ đạo của Bộ Tư pháp tại Công\nvăn số 1488/BTP-PBGDPL ngày 10/5/2016 về hướng dẫn sơ kết 03 năm thực hiện Luật\nPhổ biến, giáo dục pháp luật (PBGDPL) và tổng kết thực hiện Quyết định số\n409/QĐ-TTg ngày 09/04/2012 của Thủ tướng Chính phủ ban hành Chương trình hành động\nthực hiện Kết luận số 04-KL/TW ngày 19/4/2011 của Ban Bí thư Trung ương Đảng\n(khóa XI) về kết quả thực hiện Chỉ thị số 32-CT/TW ngày 09/12/2003 của Ban Bí\nthư Trung ương Đảng (khóa IX) về tăng cường sự lãnh đạo của Đảng trong công tác\nPBGDPL, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân (gọi tắt là\nQuyết định 409/QĐ-TTg); Ủy ban nhân dân thành phố Hải Phòng báo cáo sơ kết 03\nnăm thực hiện Luật PBGDPL và tổng kết thực hiện Quyết định số 409/QĐ-TTg như\nsau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. KẾT QUẢ 03 NĂM\nTHỰC HIỆN LUẬT PBGDPL</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>1. Công tác chỉ đạo, hướng dẫn,\nkiểm tra việc thực hiện Luật PBGDPL</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện chỉ đạo của Trung ương, Ủy\nban nhân dân thành phố đã ban hành Kế hoạch số 7558/KH-UBND ngày 07/11/2012 triển\nkhai thực hiện Luật PBGDPL trên địa bàn thành phố. Ủy ban nhân dân thành phố\nyêu cầu các cấp, các ngành chủ động thực hiện và đảm bảo các điều kiện thực hiện\nLuật PBGDPL trong phạm vi quản lý của mình, đáp ứng yêu cầu phục vụ cải cách\nhành chính, cải cách tư pháp, gắn với nhiệm vụ phát triển kinh tế - xã hội của\nthành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hàng năm, Ủy ban nhân dân thành phố\nban hành các văn bản chỉ đạo hướng dẫn, kế hoạch tổ chức thực hiện công tác\ntuyên truyền, PBGDPL trên địa bàn thành phố:</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Kế hoạch </span>số<span lang=\"VI\">\n8354/KH-UBND ngày 04/12/2012 về tuyên truyền phổ bi</span>ế<span lang=\"VI\">n,\ngiáo d</span>ụ<span lang=\"VI\">c pháp luật năm 2013 ở thành phố Hải Phòng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch s</span>ố <span lang=\"VI\">459/KH-UBND\nngày 17/01/2014 triển khai công tác phổ biến, giáo dục pháp luật trên địa bàn\nthành phố Hải Phòng năm 2014;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch s</span>ố <span lang=\"VI\">10339/KH-UBND\nngày 30/12/2014 về tuyên truyền, phổ biến, giáo dục pháp luật, hòa giải </span>ở\n<span lang=\"VI\">cơ sở và chuẩn tiếp cận pháp luật của n</span>gườ<span lang=\"VI\">i\ndân tại </span>cơ sở <span lang=\"VI\">năm 2015 ở thành phố Hải Phòng;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch số 123/KH-UBND ngày\n26/01/2016 về tuyên truyền, phổ bi</span>ế<span lang=\"VI\">n, giáo dục pháp luật,\nhòa giải </span>ở <span lang=\"VI\">cơ sở và chuẩn tiếp cận pháp luật; xây dựng và\nthực hiện hương ước, quy </span>ước<span lang=\"VI\"> năm 2015;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cùng với kế hoạch hàng năm, tùy theo\nyêu cầu của từng thời kỳ, để tập trung tuyên truyền các chính sách, quy định mới,\ncác quy định pháp luật được dư luận xã hội quan tâm hoặc cần định hướng dư luận\nxã hội, phục vụ các dự án phát triển kinh tế-xã hội, an ninh, quốc phòng của\nthành phố, Ủy ban nhân dân th</span>à<span lang=\"VI\">nh phố ban hành các Kế hoạch\ntuyên truyền, PBGDPL theo từng giai đoạn</span>, <span lang=\"VI\">từng nội dung cụ\nthể như:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch 5716/KH-UBND ngày\n04/8/2014 về tổ chức đợt cao điểm tuyên truyền, phổ biến pháp luật về biển đảo\ntrên địa bàn thành phố năm 2014.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- </span>K<span lang=\"VI\">ế hoạch về việc\ntổ chức thực hiện Ngày Pháp luật các năm 2013, 2014</span>, <span lang=\"VI\">2015\ntrên địa bàn thành phố Hải Phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- </span>K<span lang=\"VI\">ế hoạch số\n8071/KH-UBND ngày 23/10/2014 về Tổ chức Cuộc thi “T</span>ì<span lang=\"VI\">m hiểu\nHi</span>ế<span lang=\"VI\">n pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm\n2013” trên địa bàn thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai thi hành các\nvăn bản Luật như: Kế hoạch tuyên truyền Luật Hòa giải </span>ở <span lang=\"VI\">cơ\nsở, Kế hoạch tuyên truyền Luật Đất đai, Kế hoạch tuyên truy</span>ề<span lang=\"VI\">n về phòng, ch</span>ố<span lang=\"VI\">ng tham nhũng, Luật Xử lý vi phạm\nhành chính, Bộ luật Dân sự</span>, <span lang=\"VI\">Bộ luật Tố tụng Dân sự, Bộ luật\nHình sự, Bộ luật Tố tụng H</span>ì<span lang=\"VI\">nh sự....</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trên cơ sở chỉ đạo, hướng dẫn của Ủy\nban nhân dân thành phố, các Sở, ban, ngành, đoàn thể thành phố, Ủy ban nhân dân\nquận, huyện, xã, phường, thị trấn đều ban hành các Kế hoạch và tổ chức thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Định kỳ hàng năm, Ủy ban nhân dân\nthành phố, Hội đồng Phối hợp PBGDPL thành phố đã ban hành Kế hoạch, ra Quyết định\nthành lập đoàn kiểm tra và tổ chức kiểm tra công tác tuyên truyền, PBGDPL tại\ncác Sở, ban, ngành, đoàn thể thành phố, Ủy ban nhân dân quận, huyện, xã, phường,\nthị trấn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Triển khai, tổ\nchức thực hiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố tổ chức thực hiện công tác\nPBGDPL theo nguyên tắc cơ quan </span>quản lý <span lang=\"VI\">nhà nước chủ động\nvà chịu trách nhiệm chủ trì về nội dung và các điều kiện đảm bảo đ</span>ể<span lang=\"VI\"> ph</span>ổ <span lang=\"VI\">biến, tuyên truyền các văn bản pháp luật thuộc\nlĩnh vực quản lý của ngành mình. Giao Sở Tư pháp - Thường trực Hội đồng PBGDPL\nthành phố - là đầu m</span>ố<span lang=\"VI\">i phối hợp, có trách nhiệm hướng </span>d<span lang=\"VI\">ẫn nghiệp vụ, tổng hợp, tham mưu, đề xuất, báo cáo Ủy ban nhân dân\nthành phố, Hội đồng PBGDPL thành phố các biện pháp chỉ đạo chung và tham mưu, tổ\nchức p</span>hổ <span lang=\"VI\">biến các văn bản pháp luật chung thuộc chức năng\nquản lý, nhiệm vụ của nhiều ngành, cấp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bên cạnh đó, Thành ủy đã lãnh đạo, Ủy\nban nhân dân thành phố đã chỉ đạo thực hiện các biện pháp, giải pháp đề cao\ntrách nhiệm và huy động sức mạnh </span>tổng hợp <span lang=\"VI\">của các cấp ủy Đảng,\nchính quyền trong công tác tuyên truyền, PBGDPL, đảm bảo công tác này là một bộ\nphận của công tác giáo dục chính trị tư tưởng, là trách nhiệm của toàn bộ hệ thống\nchính trị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">3. Kết quả thực\nhiện Luật PBGDPL</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.</span>1</i><i><span lang=\"VI\">. Về\nHội đồng phối hợp PBGDPL</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xác định Hội đồng Phối hợp PBGDPL có\nvai trò quan trọng, là đầu mối phối hợp giữa các </span>cơ<span lang=\"VI\"> quan\nquản lý nhà nước với các tổ chức chính trị - xã hội, tổ chức xã hội - nghề nghiệp,\nđẩy mạnh công tác PBGDPL trên địa bàn thành phố nên Hội đồng Phối hợp PBGDPL\ncác cấp ở Hải Phòng được thành lập theo đúng chỉ đạo của Trung ương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hội đồng Ph</span>ố<span lang=\"VI\">i hợp\nPBGDPL các cấp đã được kiện toàn tổ chức, xây dựng và có quy chế hoạt động,\nnâng cao hiệu quả hoạt động theo hướng bảo đảm tính thiết thực, tránh hình thức,\nchủ động của các cơ quan thành viên; xác định rõ vị trí, phát huy vai trò của Hội\nđồng là tổ chức phối hợp chỉ đạo giữa các cơ quan, ban, ngành, các tổ chức về\ncông tác PBGDPL trên địa bàn thành phố, phù hợp với yêu cầu chung cũng như tình\nhình, nhiệm vụ chính trị của địa phương trong từng thời kỳ. Tăng cường phối hợp\ngiữa các cơ quan thành viên Hội đồng, giữa các ban ngành, đoàn thể và chính quyền\nđịa phương trong việc triển khai, tổ chức thực hiện công tác phổ biến giáo dục\npháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hội đồng Phối hợp PBGDPL được thành lập\ntại thành phố, tất cả các quận, huyện và một số S</span>ở<span lang=\"VI\">, ban,\nngành, đoàn thể thành phố. Hội đồng Phối hợp PBGDPL các cấp đã tham mưu cho Ủy\nban nhân dân cùng cấp chỉ đạo tuyên truyền, phổ biến các văn bản pháp luật phù\nhợp với từng đối tượng và địa bàn, góp phần tạo chuyển biến tích cực trong </span>ý\n<span lang=\"VI\">thức chấp hành pháp luật của cán bộ, đảng viên và nhân dân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.2. Về thực hiện Ngày Pháp </span>luật</i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hàng năm, Ủy ban nhân dân thành phố,\ncác Sở, ban, ngành, đoàn thể thành phố, Ủy ban nhân dân quận, huyện, xã, phường,\nthị trấn đều ban hành và tổ chức thực hiện kế hoạch triển khai Ngày Pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố H</span>ả<span lang=\"VI\">i\nPhòng luôn coi trọng việc đổi mới</span>, <span lang=\"VI\">đa dạng về nội </span>d<span lang=\"VI\">ung, hình thức thể hiện “Ngày pháp luật” cho phù hợp với từng đối tượng,\nđịa bàn. Nội dung pháp luật được tuyên truyền, phổ biến trong các đợt cao điểm\nthực hiện Ngày Pháp luật tập trung vào một số lĩnh vực pháp luật quan trọng, đặc\nbiệt là tổ chức cuộc thi Tìm hiểu Hiến pháp nước Cộng hòa xã hội ch</span>ủ <span lang=\"VI\">nghĩa Việt Nam năm 2013 trên địa bàn toàn thành phố. Tuyên truyền những\nvăn bản liên quan mật thi</span>ế<span lang=\"VI\">t </span>đến đời sống <span lang=\"VI\">kinh tế, chính trị, văn hóa, xã hội của nhân dân như tuyên truyền pháp\nluật về chủ quyền biển, đảo; pháp luật về phòng, chống tham nhũng, lãng phí; an\ntoàn giao thông; đất đai; khiếu nại, tố cáo; an toàn thực phẩm... Qua đó, góp\nphần nâng cao nhận thức, ý thức chấp hành Hiến pháp, pháp luật của cán bộ, công\nchức, viên chức, người lao động và nhân dân, giúp người dân tự bảo vệ quyền và\nlợi ích hợp pháp của mình; tạo sự đồng thuận, ni</span>ề<span lang=\"VI\">m tin của\nnhân dân vào chủ trương, chính sách của Đảng, pháp luật của Nhà nước, giáo dục\ntinh th</span>ầ<span lang=\"VI\">n yêu nước, tăng cường khối đại đoàn kết toàn dân\ntộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đẩy mạnh hội nhập quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.3. Về kết quả thực hiện các nội\ndung, hình thức PBGDPL</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các ngành, các cấp, các đơn vị đã chủ\nđộng tuyên truyền, phổ biến các văn bản pháp luật liên quan theo chức năng quản\nlý của ngành, địa phương, cơ quan, tổ chức m</span>ì<span lang=\"VI\">nh. Tập trung\ntuyên truyền, phổ biến các quy định của Hiến pháp và nh</span>ữ<span lang=\"VI\">ng\nvăn bản pháp luật có ảnh hưởng lớn đến đời s</span>ố<span lang=\"VI\">ng xã hội,\nliên quan mật thiết đến đời s</span>ố<span lang=\"VI\">ng nhân dân như: Bộ luật Dân\nsự, Bộ luật Lao động (sửa đổi), Luật Thực hành tiết kiệm, chống lãng phí, Luật\nViệc làm, Luật Khiếu nại, Luật Tố cáo, Luật Tiếp công dân, Luật Hôn nhân và Gia\nđình, Luật Doanh nghiệp, Luật Giao thông đường bộ, Luật Bảo vệ quyền lợi người\ntiêu dùng, các văn bản pháp luật về thuế, pháp luật về phòng, chống ma túy, mại\ndâm, HIV/AIDS... và các văn bản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đ</span>ể<span lang=\"VI\"> tuyên truyền\nphục vụ cuộc bầu c</span>ử <span lang=\"VI\">đại biểu Quốc hội khóa XIV và đại biểu\nHội đồng nhân dân các cấp nhiệm kỳ 2016-2021, Ủy ban nhân dân thành phố Hội đồng\nPh</span>ố<span lang=\"VI\">i hợp PBGDPL thành phố đã chỉ đạo Sở Tư pháp tổ chức hội\nnghị g</span>iớ<span lang=\"VI\">i thiệu Luật Tổ chức ch</span>í<span lang=\"VI\">nh\nquyền địa phương và Luật </span>Bầu cử <span lang=\"VI\">đại bi</span>ể<span lang=\"VI\">u Quốc hội và đại biểu Hội đồng nhân dân cho 500 đại biểu là báo cáo\nviên, tuyên truyền viên pháp luật. Phối hợp với các Sở, ban, ngành, địa phương\ntổ chức 45 hội nghị tuyên truyền về bầu cử; biên soạn, in và phát hành 1.420 cuốn\ns</span>ổ <span lang=\"VI\">tay pháp luật về bầu c</span>ử<span lang=\"VI\">, 40.000 tờ\ngấp về thiệu Luật Tổ chức chính quyền </span>đ<span lang=\"VI\">ịa phương và Luật Bầu\ncử đại biểu Quốc hội và đại biểu Hội đồng nhân dân. Ủy ban bầu cử thành phố đã\nthành lập Tổ công tác tuyên truyền bầu cử, </span>Tổ <span lang=\"VI\">công tác đã\nhoàn thành xuất sắc nhiệm vụ trong công tác tuyên truyền trước, trong và sau bầu\ncử..</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tích cực tuyên truyền, phổ biến các Kế\nhoạch, Chương trình, Đề án tuyên truyền, PBGDPL của Trung ương và Ủy ban nhân\ndân thành phố, trong đó chú trọng các nội dung có liên quan đến các chủ đề năm\ncủa thành phố. Đồng thời tăng cường tuyên truyền, PBGDPL các văn bản pháp luật\nphục vụ khối đại đoàn kết dân tộc, nâng cao nhận thức pháp </span>l<span lang=\"VI\">uật về biên giới, lãnh thổ, góp phần bảo vệ vững chắc sự toàn vẹn lãnh\nthổ như: Luật Biển Việt Nam; Luật Biên giới quốc gia...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố đang triển khai có hiệu quả\nnhiều mô hình PBGDPL, đ</span>ổ<span lang=\"VI\">i mới và nâng cao chất lượng hiệu\nquả công tác tuyên truyền miệng, đẩy mạnh hoạt động của đội ngũ báo cáo viên,\ntuyên truyền viên. Tăng cường trao đ</span>ổ<span lang=\"VI\">i, đ</span>ố<span lang=\"VI\">i thoại, thảo luận, giải đáp những yêu cầu từ phía người được tuyên\ntruyền, nâng cao tính chủ động trong việc tiếp nhận kiến thức pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các </span>cơ<span lang=\"VI\"> quan, đơn\nvị đã biên soạn và phát hành miễn phí nhiều tài liệu tuyên truyền pháp luật;\nsách tuyên truyền chuyên đề theo các lĩnh vực thiết thực với đời sống xã hội\nnhư: công chứng, chứng thực, đất đai, lao động... Thực hiện PBGDPL thông qua hội\nnghị, l</span>ớ<span lang=\"VI\">p tập huấn, trên các phương tiện thông tin đại\nchúng và hệ thống truyền thanh công cộng; thi tìm hiểu pháp luật; giáo dục pháp\nluật trong các trường học; tuyên truyền pháp luật thông qua hoạt động tư vấn\npháp luật; các buổi tọa đàm, tuyên truyền, trợ giúp pháp l</span>ý <span lang=\"VI\">lưu động, qua công tác </span>hòa <span lang=\"VI\">giải ở cơ s</span>ở…</p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.4. Về công tác PBGDPL cho đ</span>ố</i><i><span lang=\"VI\">i tượng đặc thù</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hiện nay, thành phố có 04 Trung tâm\ntư vấn pháp luật trực thuộc Hội Luật gia thành phố, Liên đoàn Lao động thành phố,\nHội Liên hiệp Phụ nữ thành phố và Hội Cựu chiến binh thành phố với nhiều tư vấn\nviên pháp luật và hàng trăm cộng tác viên, đã tư vấn cho hàng nghìn trường hợp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trung tâm Trợ giúp pháp lý nhà nước\nthành phố thuộc </span>Sở <span lang=\"VI\">Tư pháp và các Chi nhánh trợ giúp pháp\nlý tại các huyện, quận và các tổ chức đoàn thể ở thành phố đã trợ giúp nhiều\ntrường hợp; tổ chức nhi</span>ề<span lang=\"VI\">u đợt trợ giúp pháp lý lưu động. Từ\nnăm 2011, Trung tâm trợ giúp pháp lý đã tích cực tham gia chương trình phối hợp\nvới Công ty Viễn thông Hải Phòng thực hiện trợ giúp pháp </span>lý <span lang=\"VI\">miễn phí qua Tổng đài 1088, tạo điều kiện cho những người ở vùng sâu,\nvùng xa và người không có điều kiện trực tiếp đến Trung tâm trợ giúp pháp lý được\ntrợ giúp miễn phí.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổ chức tư vấn, trợ giúp pháp lý cho\nnhóm đ</span>ố<span lang=\"VI\">i tượng đặc thù như tập huấn kỹ năng trợ giúp pháp\nlý cho người khuyết tật; tuyên truyền pháp luật cho phạm nhân đang cải tạo; tuy</span>ê<span lang=\"VI\">n truyền cho thanh, thiếu niên tại các vùng sâu, vùng xa ở huyện đảo Bạch\nLong Vỹ và huyện đảo Cát Hải...</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.5. Về hoạt động giáo dục pháp luật\ntrong các cơ sở giáo dục của hệ thống giáo dục quốc dân</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xác định vai trò và tầm quan trọng của\ncông tác PBGDPL trong nhà trường, Ủy ban nhân dân thành phố đã chỉ đạo ngành Tư\npháp và ngành Giáo dục và Đ</span>à<span lang=\"VI\">o tạo phối hợp chặt chẽ, thực\nhiện có hiệu quả công tác này. Hai ngành đã phối hợp thực hiện nhiều giải pháp\nđồng bộ trong việc chỉ đạo, hướng dẫn, tổ chức thực hiện và kiểm tra, đánh giá,\ntheo dõi kết quả thực hiện công tác PBGDPL trong nhà trường. Ngày 17/5/2016, Sở\nTư pháp, </span>Sở <span lang=\"VI\">Giáo dục và Đào tạo đã ký kết Chương trình phối\nhợp số 307A/CTrPH-STP-SGDDT về tăng cường công tác PBGDPL trong tr</span>ườ<span lang=\"VI\">ng học.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ủy ban nhân dân thành phố đã chỉ đạo\ntriển khai thực hiện tốt Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP ngày\n16/11/2010 của liên Bộ Giáo dục v</span>à<span lang=\"VI\"> Đ</span>à<span lang=\"VI\">o\ntạo và Bộ Tư pháp hướng dẫn thực hiện công tác phối hợp PBGDPL trong nhà trường;\ncông tác </span>phối hợp <span lang=\"VI\">chỉ đạo, hướng dẫn, triển khai thực hiện\nPBGDPL cho cán bộ, giáo viên, nhân viên và học sinh đã bám sát nội dung Thông\ntư và các văn bản chỉ đạo t</span>ừ <span lang=\"VI\">Trung ương tới địa phương; chất\nlượng được nâng lên, đặc biệt là công tác tuyên truyền và tổ chức các hoạt động\nnhân Ngày Pháp luật Việt Nam hàng năm trong nhà trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Giáo dục v</span>à <span lang=\"VI\">Đào\ntạo đã tổ chức tập huấn kiến thức pháp luật cho hơn 130 lãnh đạo phòng giáo dục\ncác quận, huyện, thị xã</span>, <span lang=\"VI\">hiệu trưởng các trường trung học\nphổ thông, giám đốc các trung tâm giáo dục thường xuyên, các trường trung học\nchuyên nghiệp, dạy nghề và các đơn vị trực thuộc; duy trì hoạt động các câu lạc\nbộ “Đội tuyên truyền măng non” ở cấp tiểu học, trung học cơ sở, “Tuyên truyền\nxung kích thanh niên” ở cấp trung học phổ thông; tổ chức thi sáng tác tiểu phẩm,\nbáo tường ở các trường, cụm liên trường kết hợp với việc sử dụng bảng tin của\nĐoàn, Đội lồng ghép các nội dung tuyên truy</span>ề<span lang=\"VI\">n, PBGDPL cho\nhọc sinh; chỉ đạo tổ chức hội trại truyền thông về phòng chống ma t</span>ú<span lang=\"VI\">y, HIV/AIDS, tội phạm theo định kỳ 2 năm/lần thu hút hàng nghìn học\nsinh, sinh viên tham gia.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trung tâm Trợ giúp pháp lý nhà nước\nthành phố thuộc Sở Tư pháp phối hợp với Sở Giáo dục và Đào tạo tổ chức tuyên\ntruyền pháp luật về Hi</span>ế<span lang=\"VI\">n pháp năm 2013, Luật Giao thông đường\nbộ cho học sinh tại nhiều trường trên địa bàn thành phố. Những văn bản luật đã\nđược tuyên truyền dưới hình thức sân khấu hóa thi t</span>ì<span lang=\"VI\">m hiểu\npháp luật rất sinh động, hấp dẫn, dễ hiểu, dễ nhớ, được học sinh nhiệt tình\ntham gia hưởng </span>ứng.</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đặc biệt trong năm 2014, trong tuần lễ\ntriển khai thực hiện “Ngày Pháp luật” từ ngày 03/11 đến ngày 09/11, Ủy ban nhân\ndân thành phố đã chỉ đạo Sở Giáo dục và Đào tạo phối hợp với Sở Tư pháp hướng dẫn\n100% các đơn vị trường học tập trung thực hiện nhiều hình <span style=\"background:white\">th</span></span><span style=\"background:white\">ứ</span><span lang=\"VI\" style=\"background:white\">c</span><span lang=\"VI\"> tuyên truyền pháp luật\nnhư: Tổ chức lễ mít tinh; dạy lồng ghép có nội dung pháp luật, trao đổi, tọa\nđàm, giao lưu. Nhiều cơ sở giáo dục và đào tạo đã xây dựng kế hoạch tổ chức thực\nhiện đúng thời gian và có hình thức tổ chức sáng tạo, hấp dẫn, đạt hiệu quả;\ntiêu biểu là Phòng Giáo dục và Đào tạo các quận: Ngô Quyền, Hải An, Kiến An,\nhuyện An Dương, Trung tâm giáo dục hướng nghiệp Hải Phòng..., các trường THPT:\nLê </span>Quý <span lang=\"VI\">Đôn, An Lão, Toàn Thắng, Tiên Lãng, An Dương...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Giáo dục và Đào tạo phối hợp với Sở\nTư pháp tổ chức các cuộc tọa đàm “Nâng cao ch</span>ấ<span lang=\"VI\">t lượng công\ntác PBGDPL trong nhà trường” tại quận Hải An và huyện Thủy Nguyên; nói chuyện\nchuyên đề pháp luật: “Chúng em với An toàn giao thông” và “Ngày hội pháp luật”,\nTrường THPT Lê </span>Quý <span lang=\"VI\">Đôn với chuyên đề “Tìm hiểu về tội phạm\nvà bạo lực học đường” đã mang lại không khí mới, thiết thực và đạt hiệu quả cao\ntrong “Ngày Pháp luật” ở thành phố Hải Phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.6. Về nguồn nhân </span>l</i><i><span lang=\"VI\">ực PBGDPL</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ủy ban nhân dân thành phố đã chỉ đạo\nSở Tư pháp - </span>cơ <span lang=\"VI\">quan Thường trực Hội đồng Phối hợp PBGDPL\nthành phố thường xuyên tham mưu kiện toàn thành viên Hội đồng, kiện toàn đội\nngũ báo cáo viên, tuyên truyền viên ở địa phương nhằm tạo lực lượng nòng cốt thực\nhiện việc tuyên truyền, PBGDPL; Ủy ban nhân dân thành phố đã ra các Quyết định\nsố 77/QĐ-UBND ngày 13/01/2015 về việc kiện toàn Hội đồng Phối hợp PBGDPL thành\nphố Hải Phòng, Quyết định 2595/QĐ-CT ngày 13/11/2015 về việc công nhận báo cáo\nviên pháp luật thành phố Hải Phòng; Kế hoạch số 596/KH-HĐPHPBGDPL ngày\n28/4/2016 về hoạt động của Hội đồng </span>Phối hợp<span lang=\"VI\"> PBGDPL th</span>à<span lang=\"VI\">nh phố năm 2016; chỉ đạo Sở Tư pháp ban hành Công văn số 639/STP-TTPL\nngày 09/9/2015 về việc củng cố, kiện toàn và nâng cao chất lượng nguồn nhân lực\nPBGDPL</span>…</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đến nay, Hội đồng Phối hợp PBGDPL\nthành phố có 28 thành viên, Ban thư k</span>ý <span lang=\"VI\">Hội đồng có 15\nthành viên, toàn thành phố có 83 báo cáo viên pháp luật thành phố; 136 báo cáo\nviên pháp luật quận, huyện; 1.782 tuyên truyền viên p</span>h<span lang=\"VI\">áp\nluật ở các xã, phường, thị trấn; 2</span>.<span lang=\"VI\">511 tổ hòa giải với\n13.780 hòa giải viên, số vụ hòa giải thành trên 80%, lực lượng này đã góp phần\ntích cực trong việc tuyên truyền, PBGDPL trên địa bàn thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.7. Kết quả triển khai xã hội hóa\ncông tác PBGDPL</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sau 3 năm th</span>ự<span lang=\"VI\">c\nhiện Luật PBGDPL, các cơ quan, đơn vị, tổ chức, doanh nghiệp và cá nhân trên địa\nbàn thành phố đ</span>ã <span lang=\"VI\">được tạo điều kiện thuận </span>l<span lang=\"VI\">ợi tiếp cận thông tin về pháp luật; được cung cấp kịp thời, có chất lượng\ndịch vụ công về PBGDPL, đáp ứng nhu cầu về quyền được thông tin và cung cấp dịch\nvụ pháp lý của nhân dân, góp phần nâng cao năng lực tiếp cận pháp luật, hiểu biết\npháp luật và ý thức tuân th</span>ủ<span lang=\"VI\">, chấp hành pháp luật của nhân\ndân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">S</span>ở<span lang=\"VI\"> Tư pháp đã ký\nkết chương trình phối hợp v</span>ớ<span lang=\"VI\">i Ủy ban Mặt trận Tổ quốc Việt\nNam thành phố, Hội Liên hiệp Phụ nữ thành phố, Hội Cựu chiến binh thành phố,\nThanh tra th</span>à<span lang=\"VI\">nh phố, Hội Luật gia và Đoàn Luật sư thành phố\nđẩy mạnh công tác PBGDPL, trợ giúp pháp lý, tư vấn pháp luật, hòa giải ở cơ sở;\ngiám sát và nâng cao hiệu quả giải quyết khiếu nại, tố cáo ở cơ sở. Tổ chức\nbiên soạn và cung cấp các tài liệu về PBGDPL và trợ giúp pháp lý cho các tổ chức\nxã hội; tổ chức tập huấn bồi dưỡng kiến thức, k</span>ỹ<span lang=\"VI\"> năng t</span>rợ\n<span lang=\"VI\">giúp pháp lý cho cán bộ tư vấn của các trung tâm </span>tư <span lang=\"VI\">vấn pháp luật trực thuộc các tổ chức chính trị - xã hội, tổ chức chính\ntrị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp và cán bộ làm công tác\nPBGDPL của các tổ chức này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố đã huy động được đội ngũ luật\nsư, t</span>rợ <span lang=\"VI\">giúp viên pháp lý, các tổ chức đoàn thể, Hội luật\ngia... tham gia công tác tuyên truyền, PBGDPL, trợ giúp pháp lý, tham gia t</span>ố\n<span lang=\"VI\">tụng, bào chữa miễn phí đạt hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bằng công tác tuyên truyền, đã định\nhướng để người dân, doanh nghiệp tự giác tìm hiểu pháp luật theo nhu cầu; có\nnhiều doanh nghiệp đã thực hiện các biện pháp tuyên truyền pháp luật như: tổ chức\nhội nghị, phát tờ r</span>ơ<span lang=\"VI\">i, tờ gấp về các lĩnh vực pháp luật\nthiết thực với đời s</span>ố<span lang=\"VI\">ng như: pháp luật về lao động, pháp\nluật về bảo hiểm xã hội, bảo hiểm y tế, pháp luật về tiền lương...</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.8. Kinh phí chi cho công tác\nPBGDPL</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kinh phí phục vụ cho công tác tuyên\ntruyền, PBGDPL ở Hải Phòng được Ủy ban nhân dân thành phố và các Sở, ban,\nngành, các quận, huyện thực hiện đúng quy định của Luật PBGDPL và Thông tư liên\ntịch s</span>ố<span lang=\"VI\"> 14/2014/TTLT-BTC-BTP ngày 27/01/2014 quy định việc\nlập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm\ncho công tác PBGDPL và chuẩn tiếp cận pháp luật của người dân tại cơ sở trên\nnguyên tắc việc tuyên truyền, PBGDPL ở cấp nào, ngành nào do cấp, ngành đó chủ\nđộng thực hiện. Ngân sách thành phố chỉ cấp cho hoạt động chung của Hội đồng\nPBGDPL thành phố. Các quận, huyện tùy theo tình hình thực t</span>ế <span lang=\"VI\">và nhu cầu của địa phương đều dành từ 20 đến 50 triệu đồng/năm để phục\nvụ cho công tác PBGDPL. Các Sở, ban, ngành ở thành phố đ</span>ã <span lang=\"VI\">quan\ntâm đầu tư kinh phí tổ chức các hội nghị, lớp tập huấn, phổ biến pháp luật mới,\nin tài liệu, tổ chức các lễ ra quân; trung bình hàng năm các ngành chi khoảng\n50 triệu đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngoài ra, đối với một số chương trình\nmục tiêu như: phòng, chống tội phạm; phòng, chống ma tuý; phòng, chống\nHIV/AIDS; cải cách hành chính; an toàn giao thông; hội nhập quốc tế cũng đã\ndành một phần kinh phí đ</span>ể <span lang=\"VI\">thực hiện việc tuyên truyền,\nPBGDPL.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">4. Đánh giá tác động\ntừ khi thực hiện Luật PBGDPL</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các ngành, các cấp, các tổ chức đã\ntích cực, chủ động tuyên truy</span>ề<span lang=\"VI\">n, ph</span>ổ <span lang=\"VI\">biến\nkịp thời, đầy đủ nhũng nội dung pháp luật liên quan đến cuộc sống của các tầng\nlớp nhân dân, tạo điều kiện để công dân sử dụng pháp luật làm phương tiện bảo vệ\nquyền v</span>à <span lang=\"VI\">lợi ích hợp pháp của mình, của nhà nước và xã hội;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Có sự kết </span>phối hợp <span lang=\"VI\">chặt chẽ giữa Hội đồng Phối hợp PBGDPL các cấp với các ban, ngành, đoàn\nthể, các tổ chức xã hội trên địa bàn tạo nên sức mạnh tổng hợp của hệ thống\nchính trị - xã hội tham gia vào công tác PBGDPL. </span>Kết <span lang=\"VI\">quả\ncông tác PBGDPL đã góp phần nâng cao ý thức tự giác, tích cực tìm hiểu pháp luật\nvà thói quen chấp hành pháp luật của cán bộ và nhân dân. Người dân mạnh dạn\ntham gia vào việc giám sát quản lý nhà nước ở địa phương, dũng cảm đ</span>ấ<span lang=\"VI\">u tranh bảo vệ lợi ích Nhà nước, quyền lợi chính đáng của công dân. Đội\nngũ cán bộ, công chức có tiến bộ trong điều hành quản lý, l</span>ấ<span lang=\"VI\">y pháp luật làm cơ sở, chuẩn mực trong việc điều hành, giải quyết công\nviệc. Nhờ làm tốt công tác tuyên truyền PBGDPL cùng với hướng dẫn đầy đủ cho\nnhân dân đặc biệt là dân cư sinh s</span>ố<span lang=\"VI\">ng ở khu vực triển khai\nthực hiện các dự án trọng điểm của thành phố nên đã giảm nhiều việc khiếu nại,\ntố cáo, góp phần giữ gìn an ninh chính trị, trật tự an toàn xã hội ở địa\nphương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Công tác tuyên truyền, PBGDPL được tiến\nhành nghiêm túc, kịp thời t</span>ừ <span lang=\"VI\">khâu quán triệt các văn bản\nchỉ đạo của Trung </span>ương <span lang=\"VI\">và thành phố đến công tác triển\nkhai, tổ chức thực hiện với nhiều hình thức tuyên truyền đa dạng, phong phú,\nphù hợp với các đ</span>ối <span lang=\"VI\">tượng, góp phần tạo sự chuyển biến và\nhiệu quả rõ nét tr</span>ê<span lang=\"VI\">n các lĩnh vực của </span>đời sống <span lang=\"VI\">xã hội như hình sự, dân sự, an toàn giao thông, giảm các tệ nạn xã hội,\ngiảm các mâu thuẫn tranh chấp trong cộng đồng dân cư.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. ĐÁNH GIÁ KẾT\nQUẢ 04 NĂM THỰC HIỆN QUYẾT ĐỊNH SỐ 409/QĐ-TTG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>1. Công tác chỉ đạo, hướng dẫn,\nquán triệt, kiểm tra việc thực hiện Quyết định số 409/QĐ-TTg</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Quyết định số 409/QĐ-TTg\nngày 09/4/2012 của Thủ tướng Chính phủ, Ủy ban nhân dân thành phố Hải Phòng đã\nban hành các văn bản sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch số 7087/KH-UBND ngày\n22/10/20</span>1<span lang=\"VI\">2 về việc triển khai thực hiện Chương trình hành\nđộng thực hiện </span>Kết <span lang=\"VI\">luận số 04-K</span>L<span lang=\"VI\">/TW\nngày 19/4/2011 của Ban Bí thư trung ương Đảng (Khóa XI) về tăng cường sự lãnh đạo\ncủa Đảng trong công tác phổ biến, giáo dục pháp luật giai đoạn 2012-2016, </span>Ủ<span lang=\"VI\">y ban nhân dân thành phố đã chỉ đạo các Sở, ban, ngành, đoàn thể thành\nphố thực hiện các nhiệm vụ cụ thể; chủ động xây dựng kế hoạch triển khai chương\ntrình hành động của cơ quan, đơn vị mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quyết định số 2556/QĐ-UBND ngày\n25/12/2013 phê duyệt Chương trình thực hiện các Đề án theo Quyết định số\n1133/QĐ-TTg ngày 15/7/2013 của Th</span>ủ <span lang=\"VI\">tướng Chính phủ giai đoạn\n2013-2016 tr</span>ê<span lang=\"VI\">n địa bàn thành phố Hải Phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch số 10338/KH-UBND ngày\n30/12/2014 về triển khai thực hiện Đề án “Tăng cường công tác PBGDPL tại một số\nđịa bàn trọng điểm về vi phạm pháp luật giai đoạn 2015-2016” trên địa bàn thành\nphố Hải Phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quyết định số 311/QĐ-UBND ngày\n04/02/2015 về việc thành lập Ban chỉ đạo và Tổ thư k</span>ý <span lang=\"VI\">triển\nkhai thực hiện các Đề án do Phó Chủ tịch Ủy ban nhân dân thành phố làm Trưởng\nban, Giám đốc Sở Tư pháp là Phó Trưởng ban thường trực và thành viên Ban chỉ đạo\nlà lãnh đạo các ngành được giao chủ trì thực hiện các Đề án.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">2. Việc tổ chức\nthực hiện các nhiệm vụ trọng tâm của Chương trình hành động ban hành theo Quyết\nđịnh số 409/QĐ-TTg</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1_1\"><b>2.1. Tuyên truyền tại các hội\nnghị, lớp tập huấn</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sở Tư pháp - chủ trì Đề án <i>“Tăng\ncường công tác PBGDPL tại <span style=\"background:white\">một số</span> địa bàn\ntrọng điểm về vi phạm pháp luật giai đoạn 20</i></span><i>1</i><i><span lang=\"VI\">5-2016”</span></i><span lang=\"VI\"> trên địa bàn thành phố Hải Phòng đã\nphát hành 140 phiếu khảo sát nhu cầu tuyên truyền phổ biến giáo dục pháp luật tại\nnhững địa bàn trọng điểm; 6 tháng đ</span>ầ<span lang=\"VI\">u năm 2015 đã tổ ch</span>ứ<span lang=\"VI\">c 02 hội nghị tuyên truyền, PBGDPL về lĩnh vực k<span style=\"background:\nwhite\">hoán</span>g sản, <span style=\"background:white\">đất</span> đai tại xã Lại\nXuân và xã Quảng Thanh, huyện Thủy Nguyên, trung bình mỗi hội nghị thu hút 500\nngười tham dự.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngoài ra, với vai trò là cơ quan Thường\ntrực Hội đồng phối hợp PBGDPL, Sở T</span>ư <span lang=\"VI\">pháp đã chủ trì, phối\nhợp với các Sở, ban, ngành tổ chức các hội nghị tập huấn, PBGDPL, tập trung\ntuyên truyền về những nội dung cơ bản cần lấy ý kiến nhân dân vào Dự thảo sửa đổi\nHi</span>ế<span lang=\"VI\">n pháp 1992; Dự thảo Luật Đất đai</span>; <span lang=\"VI\">phổ biến rộng rãi Hiến pháp; tổ chức nhiều hội nghị, các bu</span>ổ<span lang=\"VI\">i tọa đàm, l</span>ớ<span lang=\"VI\">p tập huấn bồi dưỡng tuyên truyền, phổ\nbiến các văn bản pháp luật mới liên quan trực tiếp đến đ</span>ờ<span lang=\"VI\">i\nsống nhân dân cho đội ngũ báo cáo viên, tuyên truy</span>ề<span lang=\"VI\">n viên\nvà nhân dân như: Luật Đất đai; Luật PBGDPL; Bộ luật Hình sự; Bộ luật Dân sự; Bộ\nluật Tố tụng Dân sự; Luật Bình đẳng giới; Luật T</span>ố <span lang=\"VI\">tụng\nhành chính; Luật </span>Hòa <span lang=\"VI\">giải </span>ở <span lang=\"VI\">cơ sở; Luật\nXử lý vi phạm hành chính và các văn bản hướng dẫn thi hành</span>; <span lang=\"VI\">Luật Giám định tư pháp; Luật sửa đổi bổ sung một s</span>ố<span lang=\"VI\"> đi</span>ề<span lang=\"VI\">u của Luật Phòng, chống tham nhũng; Luật Tiếp\ncông dân... Trung bình mỗi hội nghị tuyên truyền thu hút 500 lượt người tham dự.\nSở Tư pháp đã tổ chức 03 hội nghị tập huấn chuyên sâu về Hiến pháp; 02 hội nghị\ntập huấn chuyên sâu về đất đai. Tổ chức 01 buổi tọa đàm về kỹ năng, nghiệp vụ\nPBGDPL và chu</span>ẩ<span lang=\"VI\">n ti</span>ế<span lang=\"VI\">p cận pháp luật\ncho đội ngũ báo cáo viên trẻ là đoàn viên thanh niên cơ quan Sở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bộ Chỉ huy quân sự thành phố chủ\ntrì Đề án </span><i>“</i><i><span lang=\"VI\">Tăng cường PBGDPL cho cán bộ nh</span>â</i><i><span lang=\"VI\">n d</span>â</i><i><span lang=\"VI\">n vùng biên giới hải đảo giai đoạn\n2013-20</span>16</i><i><span lang=\"VI\">” </span></i><span lang=\"VI\">đã vận dụng\nlinh hoạt nhiều hình thức tuyên truyền, PBGDPL n</span>h<span lang=\"VI\">ư việc\ntuyên truyền pháp luật tại các hội nghị lớp tập huấn, tuyên truyền dưới hình thức\nhội thi, giao lưu văn hóa kết hợp với tuyên truyền pháp luật đã thu hút được\nhơn 20.000 lượt người tham gia. Tập trung phổ biến các văn bản pháp luật về an\nninh quốc phòng, phòng, chống tội phạm, các văn bản pháp luật phục vụ công tác\nchuyên môn, nghiệp vụ của đơn vị như: Hiến pháp năm 2013, Luật Quốc phòng, Luật\nSĩ quan quân đội nhân dân Việt Nam, Luật Nghĩa vụ quân sự, Luật Phòng, chống ma\ntuý, Luật Phòng chống tham nhũng, Luật Khiếu nại, Luật T</span>ố <span lang=\"VI\">cáo\nnăm 2011, Luật Ti</span>ế<span lang=\"VI\">p công dân năm 2013, Luật Giao thông đường\nbộ... các văn bản luật liên quan đ</span>ế<span lang=\"VI\">n biển, đảo và các văn\nbản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thanh tra thành phố thực hiện Đề án\n<i>“Tiếp tục tăng cường công tác PBGDPL về khiếu nại, t</i></span><i>ố </i><i><span lang=\"VI\">cáo ở xã, phường, thị tr</span>ấ</i><i><span lang=\"VI\">n giai đoạn\n2013-2016”</span></i><span lang=\"VI\"> </span>phối hợp <span lang=\"VI\">với Sở Tư\npháp và các Sở, ngành; Ủy ban nhân dân các quận, huyện tổ chức nhiều hội nghị\ntuyên truyền pháp luật về khiếu nại, tố cáo cho hội viên Hội Nông dân, cán bộ\nđoàn thể, khu dân cư và nhân </span>d<span lang=\"VI\">ân các xã, phường, thị trấn\ntrên địa bàn thành phố. Chỉ tính riêng trong năm 2014 và 5 tháng đầu năm 2015,\nThanh tra th</span>à<span lang=\"VI\">nh phố đã tổ chứ</span>c <span lang=\"VI\">25 hội\nnghị tuyên truyền pháp luật về khiếu nại, tố cáo cho 2827 hội viên Hội Nông\ndân, cán bộ đoàn thể, khu dân cư và nhân dân xã, phường, thị tr</span>ấ<span lang=\"VI\">n.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ủy ban Mặt trận Tổ quốc Việt Nam\nthành phố </span>chủ trì <span lang=\"VI\">thực hiện Đề án </span><i>“</i><i><span lang=\"VI\">Ti</span>ế</i><i><span lang=\"VI\">p tục xây dựng và đ</span>ẩ</i><i><span lang=\"VI\">y mạnh công tác tuyên truyền, vận động <span style=\"background:white\">chấp</span>\nhành pháp luật t</span>r</i><i><span lang=\"VI\">ong cộng đồng dân cư giai đoạn\n2013-20</span>16”</i> <span lang=\"VI\">đã phối hợp với Thanh tra thành phố, Sở Tư\npháp, Hội Luật gia, Đoàn Luật sư ký kết Chương trình phối hợp số 02 - CTPH/MTTQ\n- TTTP - STP - HLG - ĐLS về giám sát và nâng cao hiệu quả việc giải quyết khiếu\nnại, tố cáo </span>ở<span lang=\"VI\"> cơ s</span>ở<span lang=\"VI\">; Ủy ban Mặt trận\nTổ quốc Việt Nam các cấp phối hợp với Trung tâm bồi dưỡng chính trị các quận,\nhuyện, Ban Dân vận c</span>ù<span lang=\"VI\">ng cấp, Ủy ban nhân dân các quận, huyện\ntổ chức các buổi tập huấn công tác dân vận, công tác tôn giáo - dân tộc, việc\nthực hiện dân chủ ở <span style=\"background:white\">cơ sở</span>, công tác tiếp\ndân giải quyết đơn thư khiếu nại, tố cáo của công dân, hoạt động giám sát phản\nbiện của Mặt trận, các đoàn thể chính trị - xã hội cho cán bộ mặt trận các cấp,\ntập huấn nghiệp vụ và các chính sách pháp luật mới cho cán bộ, đảng viên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các s</span>ở<span lang=\"VI\">, ban,\nngành thành phố tổ chức nhiều hội nghị tuyên truyền, phổ biến pháp luật như: Sở\nThông tin và Truyền thông đã tổ chức hàng chục hội nghị, lớp tập huấn cho h</span>ơ<span lang=\"VI\">n 3.000 lượt đại biểu giới thiệu nội dung các văn bản pháp luật mới\nnhư: Luật Cán bộ, công chức; Luật Viên chức...; Công an thành phố m</span>ở<span lang=\"VI\"> hàng chục lớp tập huấn tr</span>ê<span lang=\"VI\">n </span>d<span lang=\"VI\">iện rộng cho hàng nghìn lượt cán bộ chủ chốt của ngành nghiên cứu, học\ntập; tổ chức l</span>ớ<span lang=\"VI\">p tập hu</span>ấ<span lang=\"VI\">n chuyên sâu\nBộ luật Hình sự, Luật Giao thông đường bộ, Luật Phòng cháy chữa cháy, Luật Cư t</span>rú<span lang=\"VI\">... cho cán bộ, chiến sĩ thuộc Công an thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ở cấp huyện và cấp xã: thường xuyên\ntổ chức các hội nghị, lớp tập huấn giới thiệu nội dung các văn b</span>ả<span lang=\"VI\">n pháp luật mới được ban hành và các văn bản pháp luật có liên quan cho\nhàng vạn lượt cán bộ và nhân dân ở cơ sở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1_2\"><b>2.2. PBGDPL trên các phương\ntiện thông tin đại chúng và hệ thống truyền thanh công cộng</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- S</span>ở<span lang=\"VI\"> Tư pháp tiếp\ntục xây dựng, duy trì và nâng cao chất lượng Tờ Phụ trương <i>“Pháp luật thành\nphố Hải Ph</i></span><i>ò</i><i><span lang=\"VI\">ng” </span></i><span lang=\"VI\">phát\nhành vào thứ năm hằng tuần cùng với Báo Hải Phòng h</span>à<span lang=\"VI\">ng\nngày. Duy trì xây dựng 02 trang đăng công khai toàn văn các văn bản quy phạm\npháp luật và các văn bản quan trọng do Hội đồng nhân dân, </span>Ủy <span lang=\"VI\">ban nhân dân thành phố ban hành phục vụ nhu cầu tìm hiểu và cập nhật\nvăn bản, chính sách mới của các tầng lớp nhân dân. Đồng thời, Sở Tư pháp đã xây\ndựng các s</span>ố <span lang=\"VI\">Phụ trương chuyên đề về công chứng, ch</span>ứ<span lang=\"VI\">ng thực; về Hiến pháp năm 2013; về công tác kiểm soát thủ tục hành\nchính; về ngày thành lập ngành</span>… <span lang=\"VI\">phát huy tác dụng tốt, được\nđông đảo bạn đọc hoan nghênh, tìm đọc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cảnh sát Phòng cháy và chữa cháy\nthành phố </span>phối hợp <span lang=\"VI\">với Báo Hải Phòng phát hành </span>tờ <span lang=\"VI\">Phụ trương <i>“Phòng ch</i></span><i>á</i><i><span lang=\"VI\">y, chữa\ncháy” </span></i><span lang=\"VI\">được nhân dân ủng hộ và đón đọc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đài Phát thanh và Truyền hình Hải\nPhòng được giao chủ trì thực hiện Đề án <i>“Tăng cường công tác phổ biến, giáo\ndục pháp </i></span><i>l</i><i><span lang=\"VI\">uật trên Đài Phát thanh và Truyền\nhình Hải Phòng giai đoạn 2013-2016”</span></i><span lang=\"VI\"> đã duy trì thường\nxuyên việc sản xuất, phát sóng định kỳ hàng tuần các chuyên đề phát thanh, truyền\nhình có nội dung về PBGDPL như: chuyên đề Pháp luật và Cuộc sống; Hộp thư bạn\nnghe đài - xem truyền hình; phổ bi</span>ế<span lang=\"VI\">n kiến thức pháp luật;\nTiêu chí pháp luật và mục “Dân hỏi - Giám đốc </span>Sở <span lang=\"VI\">trả lời”...\nSố lượng các tin, bài có nội dung PBGDPL phát sóng trong các chuyên đề, chuyên\nmục tăng hàng năm từ 30% đến 40%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hệ thống loa truyền thanh ở cơ sở\nhoạt động có hiệu quả kịp thời. Đài truyền thanh công cộng của xã, phường, thị\ntrấn đã tích cực phối hợp với Công an quận, huyện, thị xã, Phòng Tư pháp, Phòng\nVăn hóa - Thông tin biên soạn nội dung, thông báo t</span>ì<span lang=\"VI\">nh\nhình thực hiện chính sách, pháp luật ở địa phương. Từ năm 2012 đến nay, các quận,\nhuyện đã tăng thời lượng phát thanh hàng nghìn buổi với thời lượng từ 15 đến 30\nphút một buổi trong đó tập trung tuyên truyền các chuyên đề như: giới thiệu về\nnội dung, ý nghĩa của Hi</span>ế<span lang=\"VI\">n pháp năm 2013; các quy định của\npháp luật về chủ quyền biển, đảo; an toàn giao thông, nghĩa vụ quân sự, phòng,\nchống tệ nạn xã hội...</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1_3\"><b><i><span lang=\"VI\">2.3.\nPBGDPL thông qua việc biên soạn và phát hành các loại tài liệu</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- S</span>ở<span lang=\"VI\"> Tư pháp đã\nin và phát miễn phí 20.000 tờ gấp tuyên truyền pháp luật về an toàn giao thông,\ntrong đó, tập trung vào hai nội dung chính là <i>“Xử phạt vi phạm hành chính\ntrong lĩnh vực giao thông đường bộ”</i> và <i>“Giao thông đường th</i></span><i>ủ</i><i><span lang=\"VI\">y nội địa - Những điều bạn cần bi</span>ế</i><i><span lang=\"VI\">t”</span></i><span lang=\"VI\">; 20.000 tờ gấp về ma túy; 20.000 tờ g</span>ấ<span lang=\"VI\">p t</span>ì<span lang=\"VI\">m hiểu một số nội dung của Luật Hôn nhân và gia đình; 30.000 tờ gấp tìm\nhiểu một số nội dung của Luật Phòng, chống tham nhũng, Luật Thực hành tiết kiệm,\nchống lãng phí và Luật Tiếp công dân... phát hành miễn phí tới các Sở, ban,\nngành, thành viên Hội đồng Phối hợp công tác PBGDPL thành phố và quận, huyện, x</span>ã<span lang=\"VI\">, phường, thị trấn, phát trực tiếp tại các hội nghị, l</span>ớ<span lang=\"VI\">p tập huấn... làm tài liệu đ</span>ể <span lang=\"VI\">các ngành, các cấp,\ncơ quan, đơn vị chủ động nhân rộng, tri</span>ể<span lang=\"VI\">n khai tuyên truyền,\nphổ biến ở cơ quan, đơn vị, địa phương mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đặc biệt, hưởng ứng các hoạt động\ntuyên truyền về Ngày Pháp luật Việt Nam 9-11, Ủy ban nhân dân thành phố đã chỉ\nđạo Sở Tư pháp chủ động in và phát miễn phí 10.000 tờ gấp pháp luật chủ đề <i>“Tìm\nhi</i></span><i>ể</i><i><span lang=\"VI\">u về Ngày Pháp </span>l</i><i><span lang=\"VI\">uật nước Cộng hòa xã hội chủ nghĩa Việt Nam”</span></i><span lang=\"VI\">.\nTháng 10/2013, Sở Tư pháp đã biên soạn, in đĩa DVD nội d</span>u<span lang=\"VI\">ng\ntuyên truyền về phòng, chống tham nhũng hư</span>ở<span lang=\"VI\">ng ứng cuộc thi\nTiểu phẩm phòng, chống tham nhũng do Bộ Tư pháp tổ chức và đoạt giải khuyến\nkhích.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thanh tra thành phố phối hợp với Sở\nTư pháp ký kết Kế hoạch liên tịch phối hợp thực hiện trợ giúp pháp lý trong việc\nkhiếu nại quyết định hành chính, hành vi hành chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thành đoàn Hải Phòng thường xuyên\ntuyên truyền giáo dục pháp luật cho thanh, thiếu niên trên website Thành đoàn,\ntờ tin <i>“Tuổi trẻ H</i></span><i>ả</i><i><span lang=\"VI\">i Phòng”</span></i><span lang=\"VI\">; Sở Nội vụ, Sở Văn hóa và Thể thao, Sở Thông tin và Truyền thông tổ chức\nphát hành hàng nghìn pa-nô, áp phích tuyên truyền pháp luật về các lĩnh vực: lấy\ný kiến nhân dân về Dự thảo Bộ Luật Dân sự (sửa đổi), an toàn giao thông, phòng\nchống ma túy...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các huyện, quận cung cấp tài liệu\npháp luật do các cơ quan, tổ chức ở địa phương biên soạn như tài liệu hướng dẫn\nthực hiện pháp luật bằng </span>hì<span lang=\"VI\">nh thức t</span>ờ <span lang=\"VI\">gấp, sách bỏ túi và mua sách pháp luật tại các hội nghị, lớp tập huấn\npháp luật... phục vụ công tác tuyên truyền, PBGDPL ở địa phương. Quận Hồng Bàng\nphát hành 1.500 t</span>ờ <span lang=\"VI\">gấp pháp luật về Luật Nghĩa vụ quân sự;\ntờ gấp về An toàn giao thông đường bộ; tờ gấp về thủ tục cấp giấy chứng nhận\nquyền sử dụng đất; cấp giấy phép xây dựng; phòng chống ma tuý... quận Ngô Quyền\nphát hành 10.000 t</span>ờ <span lang=\"VI\">gấp pháp luật; quận Lê Chân phát hành\nhơn 4.000 tờ gấp pháp luật; Đoàn Thanh niên quận Hải An phát hành trên 5.000 tờ\ngấp pháp luật về phòng, chống mại dâm; huyện An Lão phát hành 80.000 tờ gấp\npháp luật các loại; huyện Thủy Nguyên phát hành được 9.000 bộ đề cương tuyên\ntruyền pháp </span>l<span lang=\"VI\">uật; Các quận, huyện: Ki</span>ế<span lang=\"VI\">n An, Kiến Thuỵ, An Dương, V</span>ĩ<span lang=\"VI\">nh Bảo... cung cấp </span>miễn\nphí <span lang=\"VI\">hàng nghìn tài liệu pháp luật các loại.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trung tâm trợ giúp pháp lý nhà nước\nthuộc Sở Tư pháp thành phố thực hiện tr</span>ợ<span lang=\"VI\"> giúp pháp lý miễn\nphí tại tòa soạn Báo Hải Phòng vào các ngày cố định trong tuần nhằm trực tiếp\ngiải đáp các vướng mắc của nhân dân; </span>phối hợp <span lang=\"VI\">với tổng đài\n1088 tư vấn, giải đáp qua điện thoại nhằm tạo điều kiện cho những người ở vùng\nsâu, vùng xa vẫn có thể được tư vấn và trợ giúp pháp lý miễn phí kịp thời.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngoài ra, các mô hình PBGDPL khác đã\nphát huy tác dụng tốt, mang lại hiệu qu</span>ả <span lang=\"VI\">thiết thực như:\nPBGDPL trên các phương tiện thông tin đại chúng và hệ thống truyền thanh công cộng;\nthi tìm hiểu pháp luật; giáo dục pháp luật trong các trường học; tuyên truyền\npháp luật thông qua hoạt động tư v</span>ấ<span lang=\"VI\">n pháp luật và trợ giúp\npháp l</span>ý<span lang=\"VI\">; qua công tác </span>hòa <span lang=\"VI\">giải ở cơ sở...</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1_4\"><b><i><span lang=\"VI\">2.4. Mô hình,\ncách làm sáng tạo, hiệu quả công tác tuyên truyền, PBGDPL tại các địa bàn trọng\nđiểm</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Qua thực tiễn triển khai Luật PBGDPL\nvà Đề án “Tăng cường công tác PBGDPL tại một số địa bàn trọng điểm”, các cấp,\ncác ngành thành phố đã đ</span>ổ<span lang=\"VI\">i mới nội dung, tổ chức thực hiện\nv</span>ới <span lang=\"VI\">nhiều hình thức, mô hình PBGDPL <span style=\"background:white\">mới</span> phù hợp. Công tác PBGDPL ngày càng đi vào\nthực chất, bám sát các nhiệm vụ phát triển kinh t</span>ế <span lang=\"VI\">- xã hội,\nbảo đảm quốc phòng, an ninh của đất nước và địa phương. Một số mô hình PBGDPL\nđang được triển khai có hiệu quả trên địa bàn thành phố như:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo Sở Tư pháp - cơ quan thường\ntrực Hội đồng phối hợp PBGDPL thành phố phối hợp với Báo Hải Phòng phát hành Phụ\ntrương <i>“Pháp luật thành phố Hải Phòng”</i> vào thứ năm hàng tuần, mỗi số\nphát hành 1,5 vạn tờ; Cảnh sát phòng cháy và chữa cháy thành phố phối hợp với\nBáo Hải Phòng phát hành tờ Phụ trương <i>“Phòng cháy, chữa cháy”</i> được nhân\ndân ủng hộ và đón đọc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo Sở Tư pháp phối hợp với Sở\nGiáo dục và Đào tạo thường xuyên tổ chức tập huấn kiến thức pháp luật cho đội ngũ\ngiáo viên giảng dạy pháp luật và môn giáo dục công dân trong trường học; duy\ntrì hoạt động các câu lạc bộ “Tuyên truyền măng non” ở cấp tiểu học, trung học\ncơ sở, “Tuyên truyền xung k</span>í<span lang=\"VI\">ch thanh niên” </span>ở <span lang=\"VI\">cấp trung học phổ thông tuyên truyền về Luật An toàn giao thông, Luật\nPhòng chống ma túy, HIV/AIDS, tội phạm theo định kỳ 2 năm/l</span>ầ<span lang=\"VI\">n thu hút hàng nghìn học sinh, sinh viên tham gia</span>.</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo Sở Tư pháp phối hợp với Sở\nLao động-Thương binh và Xã hội tổ chức th</span>ự<span lang=\"VI\">c hiện Đề án\ntuyên truyền PBGDPL cho người lao động và người sử dụng lao động nhằm tuyên\ntruyền sâu rộng việc PBGDPL về an toàn giao thông, về lĩnh vực hình sự, phòng\nchống ma túy và các tệ nạn xã hội khác đ</span>ế<span lang=\"VI\">n các tầng lớp\nnhân dân, đã chỉ đạo Sở Tư pháp hướng dẫn Phòng Tư pháp phối hợp với Đoàn Thanh\nniên, Hội Liên hiệp phụ nữ xã xây dựng các câu lạc bộ pháp luật của xã hoạt động\ntheo chủ đề tháng, quý; tăng cường hoạt động vào các dịp cao điểm như: Cuộc thi\ntìm hiểu pháp luật tại xã Tam Cường, lễ ra quân hưởng ứng Tháng An toàn giao\nthông, Ngày Pháp luật 9/11... thu hút đông đảo các tầng lớp nhân dân tham gia;\nthường xuyên </span>l<span lang=\"VI\">ồng ghép nội dung văn bản pháp luật vào các\nbuổi sinh hoạt câu lạc bộ tạo điều kiện cho nhân dân trên địa bàn được trao đ</span>ổ<span lang=\"VI\">i, nâng cao kiến thức pháp luật cho bản thân như buổi sinh hoạt trong cộng\nđ</span>ồ<span lang=\"VI\">ng dân cư nhằm nâng cao kiến thức pháp luật cho nhân dân\nvề lĩnh vực hình sự, phòng, chống ma túy và các tệ nạn xã hội khác tại xã Tam\nCường, huyện Vĩnh Bảo về lĩnh vực trật tự, an toàn giao thông ở xã Lê Thiện,\nhuyện An Dương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>3. Đánh giá hiệu quả của\nChương trình, các Đề án của Chương trình</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Việc triển khai các hoạt động tuyên\ntruyền, phổ biến pháp luật theo các Đề án, Chương trình thời gian qua có sự chuẩn\nbị bài bản từ việc xác định địa bàn, nội </span>d<span lang=\"VI\">ung trọng điểm đến\nviệc khảo sát đ</span>ể <span lang=\"VI\">nắm bắt nhu cầu tuyên truyền, ph</span>ổ <span lang=\"VI\">biến giáo dục pháp luật, lựa chọn các hình thức tuyên truyền phù hợp đã\ncó tác động tích cực đến mọi tầng lớp nhân dân, tạo chuyển biến mạnh mẽ về chất\nlượng, hiệu quả công tác PBGDPL, nâng cao ý thức tự giác, tôn trọng và nghiêm\nch</span>ỉn<span lang=\"VI\">h chấp hành pháp luật của đảng viên, cán bộ, công chức,\nviên chức và các </span>tầng lớp <span lang=\"VI\">nhân dân. Nhận thức, sự hiểu biết\npháp luật của các tầng lớp nhân dân được nâng cao rõ rệt, góp phần </span>ổn <span lang=\"VI\">định tình hình an ninh chính t</span>rị<span lang=\"VI\">, trật tự an toàn\nxã hội trên toàn thành phố đặc biệt là lĩnh vực đất đai, hình sự, ma túy và các\ntệ nạn xã hội khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tuy nhiên, </span>cơ <span lang=\"VI\">chế\nphối hợp công tác PBGDPL giữa các ban, ngành, đơn vị chức năng còn chưa rõ;\ncông tác kiểm tra, đôn đốc, hướng dẫn hoạt động PBGDPL của các đơn vị </span>cơ\n<span lang=\"VI\">sở chưa kịp thời, thường xuyên. Chất lượng, hiệu quả công tác\ntuyên truyền, PBGDPL tuy có chuyển biến tích cực nhưng chưa đáp ứng được yêu cầu\nnhư mong muốn; ý thức chấp hành pháp luật của cán bộ, các tầng lớp nhân dân\nchưa đồng đều nên tình trạng vi phạm pháp luật còn diễn biến phức tạp, đặc biệt\nlà trong các lĩnh vực trật tự, an toàn xã hội, xây dựng, đất đai, giao thông,\nquản </span>l<span lang=\"VI\">ý đô thị....</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nội dung và hình thức tuyên truyền,\nPBGDPL dù đã có nhiều đổi mới nhưng do kinh phí hạn hẹp nên chưa thể triển khai\nthường xuyên và sâu rộng</span>. <span lang=\"VI\" style=\"background:white\">Một số</span><span lang=\"VI\"> hình thức tuyên truyền khác đạt hiệu quả cao, người dân dễ tiếp cận\nthông tin như phát hành tờ gấp, tờ rơi, phát hành băng, đĩa... dù đã cố gắng\ntrang bị, phát miễn phí tới tận tay người </span>d<span lang=\"VI\">ân nhưng số lượng\ncòn hạn chế so với nhu c</span>ầ<span lang=\"VI\">u t</span>ì<span lang=\"VI\">m hiểu\npháp luật của người dân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b>III. ĐÁNH GIÁ VỀ TỒN TẠI, HẠN CHẾ,\nNGUYÊN NHÂN VÀ BÀI HỌC KINH NGHIỆM</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Đánh giá về tồn tại, hạn chế</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong quá trình triển khai công tác\nPBGDPL t</span>rê<span lang=\"VI\">n địa bàn thành phố, bên cạnh những kết quả đã đạt\nđược, còn có những khó khăn, vướng mắc sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chất lượng, hiệu quả công tác tuyên\ntruyền, PBGDPL tuy có chuyển biến tích cực nhưng chưa tương xứng yêu cầu mong\nmuốn; </span>ý <span lang=\"VI\">thức chấp hành pháp luật của cán bộ, các tầng lớp\nnhân dân chưa đồng đều. </span>Ở <span lang=\"VI\">một s</span>ố <span lang=\"VI\">địa\nphư</span>ơn<span lang=\"VI\">g, đơn vị, cấp ủy, chính quyền chưa thật sự quan tâm\nvà đầu tư đúng mức cho công tác này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công tác PBGDPL cho các đối tượng đặc\nthù theo quy định của Luật PBGDPL còn chưa được thường xuyên, liên tục; chủ yếu\nthực hiện qua hình thức tư vấn, trợ giúp pháp lý cho các đối tượng như: người\nlao động, thanh niên người khuyết tật, phạm nhân đang cải tạo tại trại giam;\nngười đang cai nghiện tại các trung tâm giáo dục lao động xã hội; người dân ở\nvùng sâu, vùng xa thuộc huyện đảo Cát Hải, Bạch Long Vỹ mà chưa chú trọng mở rộng\ntuyên truyền cho các đối tượng đặc thù khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đội ngũ báo cáo viên, tuyên truyền\nviên pháp luật hầu hết đều kiêm nhiệm kỹ năng tuyên truyền còn hạn chế và chưa\nđồng đều, chế độ bồi dưỡng cho báo cáo viên, tuyên truyền viên còn th</span>ấ<span lang=\"VI\">p.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Một số Đề án về PBGDPL được ban\nhành nhưng chưa có nguồn kinh phí thỏa đáng để triển khai thực hiện, thường phải\nlồng ghép với các chương trình, k</span>ế <span lang=\"VI\">hoạch tuyên truyền, phổ\nbiến giáo dục của thành phố nên hiệu quả chưa cao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Số lượng văn bản pháp luật mới ban\nhành nhiều, lại thường xuyên sửa đổi, bổ sung, gây khó khăn cho công tác\nPBGDPL.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kinh phí cho công tác PBGDPL chưa\nphù hợp với khối lượng, nội dung công việc được giao. Kinh phí đầu tư cho công\ntác tuyên truyền, PBGDPL còn hạn chế, ch</span>ủ <span lang=\"VI\">yếu là từ nguồn\nngân sách nhà nước, chưa khai thác được các nguồn kinh phí khác. Kinh phí cấp\ncho các Sở, ban, ngành, quận, huyện và phường, xã, thị trấn chưa đáp ứng được\nyêu cầu đặt ra đối với công tác PBGDPL trên địa bàn thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Nguyên nhân</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Một số đơn vị, công tác tham mưu, đề\nxuất có lúc chưa chủ động, kịp thời. Một số cán bộ làm công tác tuyên truyền,\nPBGDPL còn hạn chế về khả năng truyền đạt. Chưa có cơ chế động viên, khuyến\nkhích x</span>ứ<span lang=\"VI\">ng đáng đối với đội ngũ báo cáo viên, tuyên truyền\nviên pháp luật và </span>hòa <span lang=\"VI\">giải viên ở cơ sở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Yêu cầu đối với công tác tuyên truyền,\nPBGDPL ngày càng cao, trong khi điều kiện về nhân lực, vật lực còn hạn chế. Các\nvăn bản chỉ đạo, hướng dẫn của </span>cơ <span lang=\"VI\">quan cấp trên về công\ntác tuyên truyền, phổ biến pháp luật chưa cụ thể, chưa có cơ chế đ</span>ủ <span lang=\"VI\">mạnh bảo đảm thực hiện nên còn gặp nhiều khó khăn trong quá trình triển\nkhai ở địa phương. Đặc biệt là chưa có sự kết hợp, lồng ghép một cách phù hợp\ncác chương trình, đề án, kế hoạch nên dẫn đến tình trạng ở địa phương phải ban\nhành nhiều chương trình, đề án, kế hoạch và báo cáo chuyên đề riêng lẻ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sự phối hợp giữa các cơ quan, tổ chức\nliên quan còn thiếu tính đồng bộ và chưa thật sự chặt chẽ; các thành viên Hội đồng\nphối hợp đều hoạt động kiêm nhiệm, đa s</span>ố<span lang=\"VI\"> là lãnh đạo của\ncác Sở, ban, ngành, địa phương trên địa bàn thành phố, nên ảnh hưởng đ</span>ế<span lang=\"VI\">n thời gian dành cho công tác này, chưa phát huy được hết vai trò,\ntrách nhiệm của mỗi thành viên trong thực hiện nhiệm vụ chung của Hội đồng. Ở một\nsố địa phương, đơn vị, cấp ủy, chính quyền chưa thật sự quan tâm và đầu tư đúng\nmức cho công tác này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đội ngũ cán bộ làm công tác PBGDPL </span>ở\n<span lang=\"VI\">các ngành, các cấp và báo cáo viên pháp luật, tuyên truyền viên\npháp luật, cán bộ pháp chế các Sở, ban, ngành đã được bổ sung nhưng còn thiếu về\nsố lượ</span>n<span lang=\"VI\">g và chất lượng chưa cao; đội ngũ hòa giải viên cơ\nsở đa phần là những người đã nghỉ hưu, tuổi cao nên dù có uy tín trong cộng đồng\ndân cư nhưng gặp nhiều khó khăn trong việc cập nhật các thôn</span>g <span lang=\"VI\">tin pháp luật mới; tổ chức, cán bộ pháp chế ở các Sở, ban, ngành, tổ chức\nkinh t</span>ế <span lang=\"VI\">chưa được kiện toàn thậm chí còn bị cắt giảm do\ncác quyết định của các Thông tư mới về tổ chức nên việc tổ chức tuyên truyền\npháp luật ở cơ quan, đơn vị doanh nghiệp còn chậm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">IV. KIẾN NGHỊ, ĐỀ\nXUẤT</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đề nghị Hội đồng Phối hợp PBGDPL\nTrung ương và Bộ Tư pháp tiếp tục tăng cường chỉ đạo các ngành, các cấp triển\nkhai Chương trình hành động thực hiện Kết luận s</span>ố <span lang=\"VI\">04-KL/TW\nngày 19/4/2011 của Ban Bí thư Trung ương (Khóa XI) về k</span>ế<span lang=\"VI\">t\nquả thực hiện Chỉ thị s</span>ố <span lang=\"VI\">32-CT/TW ngày 09/12/2003 của Ban\nBí thư Trung ương Đảng (Khóa IX) về tăng cường sự lãnh đạo của Đảng trong công\ntác PBGDPL, nâng cao </span>ý <span lang=\"VI\">thức chấp hành pháp luật của cán bộ,\nnhân dân; thường xuyên kiểm tra, đôn đốc thực hiện Kết luận số 04-KL/TW </span>ở\n<span lang=\"VI\">các địa phương, ngành, các c</span>ấ<span lang=\"VI\">p.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Hội đồng Phối hợp PBGDPL Trung\nương và Bộ Tư pháp cần tham mưu, đề xuất với Chính phủ đưa công tác tuyên truyền,\nPBGDPL là Chương trình mục tiêu để có chỉ đạo tập trung nguồn lực và đầu tư\nkinh phí ch</span>u<span lang=\"VI\">ng thống nhất từ Trung ương đến địa phương cho\ncông tác này. Lồng ghép, kết hợp phù hợp giữa các chương trình, đề án, kế hoạch\ntránh dàn tr</span>ả<span lang=\"VI\">i và giảm thời gian, công sức trong việc triển\nkhai cũng như báo cáo của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Đối với nh</span>ữ<span lang=\"VI\">ng\nđề án triển khai ở địa phương, cơ sở cần đồng thời quy định các điều kiện đảm bảo\nvề nhân lực, tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Đề nghị Bộ Tư pháp tăng cường hỗ\ntrợ công tác tuyên truyền, PBGDPL cho địa phương bằng cách cung cấp miễn phí\ncác sách báo, tài liệu pháp luật cho T</span>ủ <span lang=\"VI\">sách pháp luật ở\ncơ sở hoặc cung cấp các trang thiết bị phục vụ công tác tuyên truyền, PBGDPL ở\nđịa phương; thường xuyên tổ chức tập huấn nghiệp vụ PBGDPL và các văn bản mới,\nquan trọng được Quốc hội và Ủy ban Thường vụ Quốc hội ban hành để địa phương kịp\nthời tổ chức thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Đối với các Chương trình, Đề án\nhuy động được nguồn tài trợ </span>từ <span lang=\"VI\">các tổ chức quốc tế, đề nghị\nBộ Tư pháp quan tâm, tăng cường triển khai thực hiện ở cơ sở, đặc biệt là những\nđịa bàn trọng điểm có nhu c</span>ầ<span lang=\"VI\">u lớn về PBGDPL.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Các Bộ, ngành, địa phương cần quan\ntâm xây dựng, kiện toàn đội ngũ cán bộ pháp chế theo Nghị định số 55/2011/NĐ-CP\nngày 04/7/2011 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và tổ chức\nbộ máy của tổ chức pháp chế nhằm đẩy mạnh công tác tuyên truyền, PBGDPL, nâng\ncao ý thức pháp luật của cán bộ, công chức các cơ quan nhà nước ở địa phương./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMQAxADIAMgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Bộ Tư pháp;<br>\n  - Hội đồng Phổ biến PBGDPL TW;<br>\n  - Vụ PBGDPL, Bộ TP;<br>\n  - CT, các PCT UBND TP;<br>\n  - Hội đồng Phổ biến PBGDPL TP;<br>\n  - Sở Tư pháp;<br>\n  - UBND các quận, huyện;<br>\n  - Hội đồng Phối hợp PBGDPL các quận, huyện;<br>\n  - CPVP;<br>\n  - Các Phòng: VXNC, KTGS&amp;TĐKT, TH;<br>\n  - Lưu: VT.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN THÀNH PHỐ<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Xuân Bình</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_phuluc\"><b><span lang=\"VI\">PHỤ LỤC BÁO CÁO SƠ KẾT 03 NĂM THỰC HIỆN\nLUẬT PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_phuluc_name\"><b><span lang=\"VI\">(Phụ lục số 1)</span></b></a></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"0\"><!--VABWAFAATABfADIAMAAxADYAMQAxADIAMgA=-->\n <tbody><tr>\n  <td width=\"7%\" rowspan=\"2\" style=\"width:7.34%;border:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Năm</span></b></p>\n  </td>\n  <td width=\"20%\" rowspan=\"2\" style=\"width:20.4%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Ban\n  hành văn bản hư</span>ớ</b><b><span lang=\"VI\">ng dẫn, thực hiện, Kế hoạch công\n  tác PBGDPL </span></b><span lang=\"VI\">(nêu rõ loại văn b</span>ả<span lang=\"VI\">n)</span></p>\n  </td>\n  <td width=\"23%\" colspan=\"2\" style=\"width:23.4%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Số\n  I</span>ư</b><b><span lang=\"VI\">ợng báo cáo viên pháp luật, tuyên truyền viên\n  pháp luật đ</span>ượ</b><b><span lang=\"VI\">c củng cố, kiện toàn</span></b></p>\n  </td>\n  <td width=\"13%\" rowspan=\"2\" style=\"width:13.36%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Hình\n  thức PBGDPL có hiệu quả trên thực t</span>ế </b><b><span lang=\"VI\">(nêu rõ hình\n  thức)</span></b></p>\n  </td>\n  <td width=\"17%\" colspan=\"2\" style=\"width:17.16%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Kinh\n  phí thực hiện PBGDPL</span></b></p>\n  </td>\n  <td width=\"18%\" rowspan=\"2\" style=\"width:18.34%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mô\n  hình hay, cách làm hiệu quả</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"11%\" style=\"width:11.66%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Báo\n  cáo viên pháp luật</span></b></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.74%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Tuyên\n  truy</span>ền </b><b><span lang=\"VI\">viên pháp </span>l</b><b><span lang=\"VI\">uật</span></b></p>\n  </td>\n  <td width=\"8%\" style=\"width:8.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Từ\n  ngân sách nhà nước</span></b></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.1%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Từ\n  các nguồn khác</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2013</span></p>\n  </td>\n  <td width=\"20%\" style=\"width:20.4%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch tuyên t</span>r<span lang=\"VI\">uyền, PBGDPL năm 2013</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai Ngày pháp luật\n  năm 2013</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- K</span>ế <span lang=\"VI\">hoạch tổ\n  ch</span>ứ<span lang=\"VI\">c lấy ý kiến về Dự thảo sửa đ</span>ổ<span lang=\"VI\">i\n  Hi</span>ến <span lang=\"VI\">pháp năm 1992 trên địa bàn thành phố Hải Phòng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai thi hành các\n  luật trên địa bàn thành phố,..</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quyết định, </span>c<span lang=\"VI\">ông văn chỉ đạo, h</span>ướn<span lang=\"VI\">g dẫn công tác PBGDPL</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.66%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cấp huyện: 185 </span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố: 60</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.74%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1.819</span></p>\n  </td>\n  <td width=\"13%\" style=\"width:13.36%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL trên báo chí;</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL thông qua mô hình các Câu\n  lạc bộ</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp pháp lý</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- TTPL tại cơ sở, doanh nghiệp, thực\n  hiện các Đề án điểm</span></p>\n  </td>\n  <td width=\"8%\" style=\"width:8.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"9%\" style=\"width:9.1%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"18%\" style=\"width:18.34%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương “Pháp luật thành phố Hải\n  Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương “Phòng cháy, chữa chá</span>y<span lang=\"VI\">” phát hành kèm theo Báo Hải Phòng, </span>1 <span lang=\"VI\">số/tháng</span></p>\n  <p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Trợ giúp pháp lý tại trụ sở, l</span>ưu\n  <span lang=\"VI\">động tại cơ sở và </span>t<span lang=\"VI\">ại trụ sở Báo Hải Phòng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Câu lạc bộ tuyên truyền pháp luật</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2014</span></p>\n  </td>\n  <td width=\"20%\" style=\"width:20.4%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch tuyên truy</span>ề<span lang=\"VI\">n, PBGDPL năm 2014</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai Ngày pháp luật\n  năm 2014</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- K</span>ế <span lang=\"VI\">hoạch tổ\n  chức Cuộc thi “Tìm hiểu Hi</span>ế<span lang=\"VI\">n pháp nước Cộng hòa xã hội\n  chủ nghĩa Việt Nam năm 2013” trên địa bàn thành phố</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai t</span>h<span lang=\"VI\">i hành các luật trên địa bàn thành phố,..</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quyết định, công văn chỉ đạo, </span>hướng\n  dẫn<span lang=\"VI\"> công tác PBGDPL</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.66%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cấp huyện: 159 </span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố: 63</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.74%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1.215</span></p>\n  </td>\n  <td width=\"13%\" style=\"width:13.36%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL trên báo chí;</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL thông qua mô hình các Câu\n  lạc bộ</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp pháp lý</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- TTPL tại cơ sở, doanh nghiệp, thực\n  hiện các Đ</span>ề <span lang=\"VI\">án điểm</span></p>\n  </td>\n  <td width=\"8%\" style=\"width:8.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"9%\" style=\"width:9.1%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"18%\" style=\"width:18.34%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương “Pháp luật thành phố Hải\n  Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ t</span>rươ<span lang=\"VI\">ng\n  “Phòng cháy, chữa cháy” phát hành kèm theo Báo Hải Phòng, 1 s</span>ố<span lang=\"VI\">/tháng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp pháp lý tại trụ s</span>ở<span lang=\"VI\">, lưu </span>động tại cơ sở<span lang=\"VI\"> v</span>à <span lang=\"VI\">tại\n  trụ s</span>ở <span lang=\"VI\">Báo H</span>ả<span lang=\"VI\">i Phòng </span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Câu lạc bộ tuyên truyền pháp luật</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2015</span></p>\n  </td>\n  <td width=\"20%\" style=\"width:20.4%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch tuyên truyền, PBGDPL năm\n  2015</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai Ngày pháp luật\n  năm 2015</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- K</span>ế <span lang=\"VI\">hoạch triển\n  khai thi hành các luật trên địa bàn thành phố,..</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quyết định, </span>c<span lang=\"VI\">ông văn chỉ đạo, hướng dẫn công tác PBGDPL</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.66%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cấp huyện: </span>1<span lang=\"VI\">36\n  </span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Th</span>à<span lang=\"VI\">nh phố: 83</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.74%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1.782</span></p>\n  </td>\n  <td width=\"13%\" style=\"width:13.36%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL trên báo chí;</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL thông qua mô hình các Câu\n  lạc bộ</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp pháp lý</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- TTPL tại </span>cơ <span lang=\"VI\">sở,\n  doanh nghiệp, thực hiện các Đề án điểm</span></p>\n  </td>\n  <td width=\"8%\" style=\"width:8.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"9%\" style=\"width:9.1%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"18%\" style=\"width:18.34%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương ‘‘Pháp luật thành phố\n  Hải Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương ‘'Phòng cháy, chữa ch</span>á<span lang=\"VI\">y” phát hành kèm theo Báo Hải Phòng, 1 số/tháng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp pháp lý tại trụ sở, </span>l<span lang=\"VI\">ưu động tại cơ s</span>ở <span lang=\"VI\">và tại trụ sở Báo H</span>ả<span lang=\"VI\">i Phòng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Câu lạc bộ tuyên truyền pháp luật</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2016</span></p>\n  </td>\n  <td width=\"20%\" style=\"width:20.4%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch t</span>uyê<span lang=\"VI\">n truyền, PBGDPL năm </span>201<span lang=\"VI\">6</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch triển khai thi hành các\n  luật trên địa bàn thành phố,­</span>…</p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Qu</span>yết <span lang=\"VI\">định,\n  công văn chỉ đạo, hướng dẫn công tác PBGDPL</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.66%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cấp huyện: 136 </span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố: 83</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.74%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1.782</span></p>\n  </td>\n  <td width=\"13%\" style=\"width:13.36%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL trên báo chí;</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- PBGDPL thông qua mô hình các C</span>â<span lang=\"VI\">u lạc bộ</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">-T</span>r<span lang=\"VI\">ợ giúp pháp\n  lý</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- TTPL tại cơ sở, doanh nghiệp, thực\n  hiện các Đề án điểm</span></p>\n  </td>\n  <td width=\"8%\" style=\"width:8.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"9%\" style=\"width:9.1%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"18%\" style=\"width:18.34%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương “Pháp luật thành phố Hải\n  Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phụ trương “Phòng cháy, chữa\n  cháy” phát hành kèm theo Báo Hải Phòng, 1 số/tháng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp pháp lý tại trụ sở, lưu\n  động tại cơ sở và tại trụ sở Báo Hải Phòng</span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Câu lạc bộ tuyên truyền pháp luật</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_phuluc_1\"><b><span lang=\"VI\">PHỤ LỤC BÁO CÁO TỐNG KẾT THỰC HIỆN QUYẾT\nĐỊNH SỐ 409/QĐ-TTG</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_phuluc_1_name\"><b><span lang=\"VI\">(Phụ lục số 2)</span></b></a></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"0\"><!--VABWAFAATABfADIAMAAxADYAMQAxADIAMgA=-->\n <tbody><tr>\n  <td width=\"7%\" rowspan=\"2\" style=\"width:7.34%;border:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Năm</span></b></p>\n  </td>\n  <td width=\"15%\" rowspan=\"2\" style=\"width:15.42%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Ban\n  hành văn bản hướng dẫn, Kế hoạch th</span>ự</b><b><span lang=\"VI\">c hiện </span></b><span lang=\"VI\">(nêu rõ loại văn bản)</span></p>\n  </td>\n  <td width=\"25%\" colspan=\"2\" style=\"width:25.62%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Việc\n  thành lập Ban chỉ đạo, T</span>ổ</b><b><span lang=\"VI\"> thư ký Ch</span>ươn</b><b><span lang=\"VI\">g trình hành động và các Đề án </span></b><span lang=\"VI\">(có/không)</span></p>\n  </td>\n  <td width=\"11%\" rowspan=\"2\" style=\"width:11.76%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mô\n  hình PBGDPL có hiệu quả trên th</span>ự</b><b><span lang=\"VI\">c tế (liệt kê cụ\n  thể)</span></b></p>\n  </td>\n  <td width=\"22%\" colspan=\"3\" style=\"width:22.5%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Dự\n  ki</span>ế</b><b><span lang=\"VI\">n tỷ lệ m</span>ứ</b><b><span lang=\"VI\">c độ %\n  hoàn thành mục tiêu Đề án tại Bộ, ngành, địa ph</span>ươ</b><b><span lang=\"VI\">ng\n  (liệt kê t</span>ừ</b><b><span lang=\"VI\">ng Đề án cụ thể)</span></b></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Kinh\n  phí bảo đảm th</span>ự</b><b><span lang=\"VI\">c hiện Chương trình</span></b></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Ghi\n  chú</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Chương\n  trình hành động</span></b></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Đ</span>ề\n  </b><b><span lang=\"VI\">án (nêu rõ tên Đề án)</span></b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.54%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">D</span>ưới\n  </b><b><span lang=\"VI\">50%</span></b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.82%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Từ\n  5</span>0</b><b><span lang=\"VI\">- 70%</span></b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.14%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Trên\n  70%</span></b></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">&nbsp;</span></b></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">&nbsp;</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">2012</span></b></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.42%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">K</span>ế\n  <span lang=\"VI\">hoạch số 7087/KH-UB ngày 22/10/2012</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">-\n  Tuyên truy</span>ề<span lang=\"VI\">n </span>t<span lang=\"VI\">r</span>ê<span lang=\"VI\">n phụ trương pháp luật thành phố</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.54%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.82%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.14%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Từ\n  nguồn ngân sách nhà nước</span></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">2013</span></b></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.42%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Quyết\n  định số 2556/QĐ- UBND ngày 25/12/2013</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Có</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đ</span>ề<span lang=\"VI\"> án <i>“Tăng\n  cường PBGDPL tại các địa bàn trọng điểm về vi phạm pháp luật giai đoạn\n  2013-2016”.</i></span></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đề án <i>“Tiếp tục xây dựng và đẩy\n  mạnh công tác tuyên </i></span><i>tr</i><i><span lang=\"VI\">uyền, vận động chấp\n  hành p</span>h</i><i><span lang=\"VI\">áp luật t</span>r</i><i><span lang=\"VI\">ong\n  cộng đồng dân cư giai đoạn 2013­2016”</span></i></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đề án <i>“Tăng cường PBGDPL cho cán\n  bộ, n</i></span><i>hâ</i><i><span lang=\"VI\">n d</span>â</i><i><span lang=\"VI\">n\n  vùng biên giới, hải đảo giai đoạn 20</span>1</i><i><span lang=\"VI\">3-2016”</span></i></p>\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đ</span>ề<span lang=\"VI\"> án <i>“</i></span><i>T</i><i><span lang=\"VI\">i</span>ế</i><i><span lang=\"VI\">p t</span>ụ</i><i><span lang=\"VI\">c </span>tăng\n  cường công tác </i><i><span lang=\"VI\">PBGDPL v</span>ề </i><i><span lang=\"VI\">khi</span>ế</i><i><span lang=\"VI\">u nại</span>,</i><i><span lang=\"VI\"> t</span>ố </i><i><span lang=\"VI\">cáo\n  ở xã, </span>phường, thị trấn </i><i><span lang=\"VI\">giai đoạn 20</span>1</i><i><span lang=\"VI\">3-2016”.</span></i></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">-\n  Tuyên truy</span>ề<span lang=\"VI\">n qua hoạt động Trợ giúp pháp luật miễn phí</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.54%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.82%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.14%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Từ nguồn\n  ngân sách nhà nước</span></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">2014</span></b></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.42%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Kế\n  hoạch số </span>1<span lang=\"VI\">0338/KH- UBND ngày 30/12/2014</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">-\n  Tuy</span>ê<span lang=\"VI\">n t</span>ru<span lang=\"VI\">y</span>ề<span lang=\"VI\">n\n  qua các Câu lạc bộ pháp luật</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.54%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.82%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.14%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Từ\n  nguồn ngân sách nhà nước</span></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">2015</span></b></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.42%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Quyết\n  định số </span>311<span lang=\"VI\">/QĐ-UBND ngày 04/02/2015</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">-\n  Tuy</span>ê<span lang=\"VI\">n truy</span>ề<span lang=\"VI\">n tr</span>ên <span lang=\"VI\">các phương tiện thông t</span>i<span lang=\"VI\">n đại ch</span>ú<span lang=\"VI\">ng và hệ thống loa t</span>ru<span lang=\"VI\">yền </span>t<span lang=\"VI\">hanh\n  công cộng</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.54%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.82%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.14%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Từ\n  nguồn ngân sách nhà nước</span></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.34%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">2016</span></b></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.42%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Kế\n  hoạch số 123/KH-UBND ngày 26/01/2016</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">-\n  Tuyên </span>t<span lang=\"VI\">ruy</span>ề<span lang=\"VI\">n qua các cuộc </span>th<span lang=\"VI\">i tìm hiểu pháp luật</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.54%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.82%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.14%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">x</p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Từ\n  nguồn ngân sách nhà n</span>ướ<span lang=\"VI\">c</span></p>\n  </td>\n  <td width=\"6%\" style=\"width:6.3%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \n****THÀNH PHỐ HẢI PHÒNG  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 186/BC-UBND\n\n_Hải Phòng, ngày 16_ _tháng 9 năm 2016_\n\n**BÁO CÁO**\n\nSƠ KẾT 03 NĂM THỰC HIỆN LUẬT PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT VÀ TỔNG KẾT THỰC HIỆN QUYẾT ĐỊNH SỐ 409/QĐ-TTG NGÀY 09/04/2012 CỦA THỦ TƯỚNG CHÍNH PHỦ\n\nThực hiện chỉ đạo của Bộ Tư pháp tại Công văn số 1488/BTP-PBGDPL ngày 10/5/2016 về hướng dẫn sơ kết 03 năm thực hiện Luật Phổ biến, giáo dục pháp luật (PBGDPL) và tổng kết thực hiện Quyết định số 409/QĐ-TTg ngày 09/04/2012 của Thủ tướng Chính phủ ban hành Chương trình hành động thực hiện Kết luận số 04-KL/TW ngày 19/4/2011 của Ban Bí thư Trung ương Đảng (khóa XI) về kết quả thực hiện Chỉ thị số 32-CT/TW ngày 09/12/2003 của Ban Bí thư Trung ương Đảng (khóa IX) về tăng cường sự lãnh đạo của Đảng trong công tác PBGDPL, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân (gọi tắt là Quyết định 409/QĐ-TTg); Ủy ban nhân dân thành phố Hải Phòng báo cáo sơ kết 03 năm thực hiện Luật PBGDPL và tổng kết thực hiện Quyết định số 409/QĐ-TTg như sau:\n\n**I. KẾT QUẢ 03 NĂM THỰC HIỆN LUẬT PBGDPL**\n\n**1\\. Công tác chỉ đạo, hướng dẫn, kiểm tra việc thực hiện Luật PBGDPL**\n\nThực hiện chỉ đạo của Trung ương, Ủy ban nhân dân thành phố đã ban hành Kế hoạch số 7558/KH-UBND ngày 07/11/2012 triển khai thực hiện Luật PBGDPL trên địa bàn thành phố. Ủy ban nhân dân thành phố yêu cầu các cấp, các ngành chủ động thực hiện và đảm bảo các điều kiện thực hiện Luật PBGDPL trong phạm vi quản lý của mình, đáp ứng yêu cầu phục vụ cải cách hành chính, cải cách tư pháp, gắn với nhiệm vụ phát triển kinh tế - xã hội của thành phố.\n\nHàng năm, Ủy ban nhân dân thành phố ban hành các văn bản chỉ đạo hướng dẫn, kế hoạch tổ chức thực hiện công tác tuyên truyền, PBGDPL trên địa bàn thành phố:\n\n\\- Kế hoạch số 8354/KH-UBND ngày 04/12/2012 về tuyên truyền phổ biến, giáo dục pháp luật năm 2013 ở thành phố Hải Phòng\n\n\\- Kế hoạch số 459/KH-UBND ngày 17/01/2014 triển khai công tác phổ biến, giáo dục pháp luật trên địa bàn thành phố Hải Phòng năm 2014;\n\n\\- Kế hoạch số 10339/KH-UBND ngày 30/12/2014 về tuyên truyền, phổ biến, giáo dục pháp luật, hòa giải ở cơ sở và chuẩn tiếp cận pháp luật của người dân tại cơ sở năm 2015 ở thành phố Hải Phòng;\n\n\\- Kế hoạch số 123/KH-UBND ngày 26/01/2016 về tuyên truyền, phổ biến, giáo dục pháp luật, hòa giải ở cơ sở và chuẩn tiếp cận pháp luật; xây dựng và thực hiện hương ước, quy ước năm 2015;\n\nCùng với kế hoạch hàng năm, tùy theo yêu cầu của từng thời kỳ, để tập trung tuyên truyền các chính sách, quy định mới, các quy định pháp luật được dư luận xã hội quan tâm hoặc cần định hướng dư luận xã hội, phục vụ các dự án phát triển kinh tế-xã hội, an ninh, quốc phòng của thành phố, Ủy ban nhân dân thành phố ban hành các Kế hoạch tuyên truyền, PBGDPL theo từng giai đoạn, từng nội dung cụ thể như:\n\n\\- Kế hoạch 5716/KH-UBND ngày 04/8/2014 về tổ chức đợt cao điểm tuyên truyền, phổ biến pháp luật về biển đảo trên địa bàn thành phố năm 2014.\n\n\\- Kế hoạch về việc tổ chức thực hiện Ngày Pháp luật các năm 2013, 2014, 2015 trên địa bàn thành phố Hải Phòng.\n\n\\- Kế hoạch số 8071/KH-UBND ngày 23/10/2014 về Tổ chức Cuộc thi “Tìm hiểu Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013” trên địa bàn thành phố.\n\n\\- Kế hoạch triển khai thi hành các văn bản Luật như: Kế hoạch tuyên truyền Luật Hòa giải ở cơ sở, Kế hoạch tuyên truyền Luật Đất đai, Kế hoạch tuyên truyền về phòng, chống tham nhũng, Luật Xử lý vi phạm hành chính, Bộ luật Dân sự, Bộ luật Tố tụng Dân sự, Bộ luật Hình sự, Bộ luật Tố tụng Hình sự....\n\nTrên cơ sở chỉ đạo, hướng dẫn của Ủy ban nhân dân thành phố, các Sở, ban, ngành, đoàn thể thành phố, Ủy ban nhân dân quận, huyện, xã, phường, thị trấn đều ban hành các Kế hoạch và tổ chức thực hiện.\n\nĐịnh kỳ hàng năm, Ủy ban nhân dân thành phố, Hội đồng Phối hợp PBGDPL thành phố đã ban hành Kế hoạch, ra Quyết định thành lập đoàn kiểm tra và tổ chức kiểm tra công tác tuyên truyền, PBGDPL tại các Sở, ban, ngành, đoàn thể thành phố, Ủy ban nhân dân quận, huyện, xã, phường, thị trấn.\n\n**2\\. Triển khai, tổ chức thực hiện**\n\nThành phố tổ chức thực hiện công tác PBGDPL theo nguyên tắc cơ quan quản lý nhà nước chủ động và chịu trách nhiệm chủ trì về nội dung và các điều kiện đảm bảo để phổ biến, tuyên truyền các văn bản pháp luật thuộc lĩnh vực quản lý của ngành mình. Giao Sở Tư pháp - Thường trực Hội đồng PBGDPL thành phố - là đầu mối phối hợp, có trách nhiệm hướng dẫn nghiệp vụ, tổng hợp, tham mưu, đề xuất, báo cáo Ủy ban nhân dân thành phố, Hội đồng PBGDPL thành phố các biện pháp chỉ đạo chung và tham mưu, tổ chức phổ biến các văn bản pháp luật chung thuộc chức năng quản lý, nhiệm vụ của nhiều ngành, cấp.\n\nBên cạnh đó, Thành ủy đã lãnh đạo, Ủy ban nhân dân thành phố đã chỉ đạo thực hiện các biện pháp, giải pháp đề cao trách nhiệm và huy động sức mạnh tổng hợp của các cấp ủy Đảng, chính quyền trong công tác tuyên truyền, PBGDPL, đảm bảo công tác này là một bộ phận của công tác giáo dục chính trị tư tưởng, là trách nhiệm của toàn bộ hệ thống chính trị.\n\n**3\\. Kết quả thực hiện Luật PBGDPL**\n\n_3.1__. Về Hội đồng phối hợp PBGDPL_\n\nXác định Hội đồng Phối hợp PBGDPL có vai trò quan trọng, là đầu mối phối hợp giữa các cơ quan quản lý nhà nước với các tổ chức chính trị - xã hội, tổ chức xã hội - nghề nghiệp, đẩy mạnh công tác PBGDPL trên địa bàn thành phố nên Hội đồng Phối hợp PBGDPL các cấp ở Hải Phòng được thành lập theo đúng chỉ đạo của Trung ương.\n\nHội đồng Phối hợp PBGDPL các cấp đã được kiện toàn tổ chức, xây dựng và có quy chế hoạt động, nâng cao hiệu quả hoạt động theo hướng bảo đảm tính thiết thực, tránh hình thức, chủ động của các cơ quan thành viên; xác định rõ vị trí, phát huy vai trò của Hội đồng là tổ chức phối hợp chỉ đạo giữa các cơ quan, ban, ngành, các tổ chức về công tác PBGDPL trên địa bàn thành phố, phù hợp với yêu cầu chung cũng như tình hình, nhiệm vụ chính trị của địa phương trong từng thời kỳ. Tăng cường phối hợp giữa các cơ quan thành viên Hội đồng, giữa các ban ngành, đoàn thể và chính quyền địa phương trong việc triển khai, tổ chức thực hiện công tác phổ biến giáo dục pháp luật.\n\nHội đồng Phối hợp PBGDPL được thành lập tại thành phố, tất cả các quận, huyện và một số Sở, ban, ngành, đoàn thể thành phố. Hội đồng Phối hợp PBGDPL các cấp đã tham mưu cho Ủy ban nhân dân cùng cấp chỉ đạo tuyên truyền, phổ biến các văn bản pháp luật phù hợp với từng đối tượng và địa bàn, góp phần tạo chuyển biến tích cực trong ý thức chấp hành pháp luật của cán bộ, đảng viên và nhân dân.\n\n_3.2. Về thực hiện Ngày Pháp luật_\n\nHàng năm, Ủy ban nhân dân thành phố, các Sở, ban, ngành, đoàn thể thành phố, Ủy ban nhân dân quận, huyện, xã, phường, thị trấn đều ban hành và tổ chức thực hiện kế hoạch triển khai Ngày Pháp luật.\n\nThành phố Hải Phòng luôn coi trọng việc đổi mới, đa dạng về nội dung, hình thức thể hiện “Ngày pháp luật” cho phù hợp với từng đối tượng, địa bàn. Nội dung pháp luật được tuyên truyền, phổ biến trong các đợt cao điểm thực hiện Ngày Pháp luật tập trung vào một số lĩnh vực pháp luật quan trọng, đặc biệt là tổ chức cuộc thi Tìm hiểu Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013 trên địa bàn toàn thành phố. Tuyên truyền những văn bản liên quan mật thiết đến đời sống kinh tế, chính trị, văn hóa, xã hội của nhân dân như tuyên truyền pháp luật về chủ quyền biển, đảo; pháp luật về phòng, chống tham nhũng, lãng phí; an toàn giao thông; đất đai; khiếu nại, tố cáo; an toàn thực phẩm... Qua đó, góp phần nâng cao nhận thức, ý thức chấp hành Hiến pháp, pháp luật của cán bộ, công chức, viên chức, người lao động và nhân dân, giúp người dân tự bảo vệ quyền và lợi ích hợp pháp của mình; tạo sự đồng thuận, niềm tin của nhân dân vào chủ trương, chính sách của Đảng, pháp luật của Nhà nước, giáo dục tinh thần yêu nước, tăng cường khối đại đoàn kết toàn dân tộc trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đẩy mạnh hội nhập quốc tế.\n\n_3.3. Về kết quả thực hiện các nội dung, hình thức PBGDPL_\n\nCác ngành, các cấp, các đơn vị đã chủ động tuyên truyền, phổ biến các văn bản pháp luật liên quan theo chức năng quản lý của ngành, địa phương, cơ quan, tổ chức mình. Tập trung tuyên truyền, phổ biến các quy định của Hiến pháp và những văn bản pháp luật có ảnh hưởng lớn đến đời sống xã hội, liên quan mật thiết đến đời sống nhân dân như: Bộ luật Dân sự, Bộ luật Lao động (sửa đổi), Luật Thực hành tiết kiệm, chống lãng phí, Luật Việc làm, Luật Khiếu nại, Luật Tố cáo, Luật Tiếp công dân, Luật Hôn nhân và Gia đình, Luật Doanh nghiệp, Luật Giao thông đường bộ, Luật Bảo vệ quyền lợi người tiêu dùng, các văn bản pháp luật về thuế, pháp luật về phòng, chống ma túy, mại dâm, HIV/AIDS... và các văn bản hướng dẫn thi hành.\n\nĐể tuyên truyền phục vụ cuộc bầu cử đại biểu Quốc hội khóa XIV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2016-2021, Ủy ban nhân dân thành phố Hội đồng Phối hợp PBGDPL thành phố đã chỉ đạo Sở Tư pháp tổ chức hội nghị giới thiệu Luật Tổ chức chính quyền địa phương và Luật Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân cho 500 đại biểu là báo cáo viên, tuyên truyền viên pháp luật. Phối hợp với các Sở, ban, ngành, địa phương tổ chức 45 hội nghị tuyên truyền về bầu cử; biên soạn, in và phát hành 1.420 cuốn sổ tay pháp luật về bầu cử, 40.000 tờ gấp về thiệu Luật Tổ chức chính quyền địa phương và Luật Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân. Ủy ban bầu cử thành phố đã thành lập Tổ công tác tuyên truyền bầu cử, Tổ công tác đã hoàn thành xuất sắc nhiệm vụ trong công tác tuyên truyền trước, trong và sau bầu cử..\n\nTích cực tuyên truyền, phổ biến các Kế hoạch, Chương trình, Đề án tuyên truyền, PBGDPL của Trung ương và Ủy ban nhân dân thành phố, trong đó chú trọng các nội dung có liên quan đến các chủ đề năm của thành phố. Đồng thời tăng cường tuyên truyền, PBGDPL các văn bản pháp luật phục vụ khối đại đoàn kết dân tộc, nâng cao nhận thức pháp luật về biên giới, lãnh thổ, góp phần bảo vệ vững chắc sự toàn vẹn lãnh thổ như: Luật Biển Việt Nam; Luật Biên giới quốc gia...\n\nThành phố đang triển khai có hiệu quả nhiều mô hình PBGDPL, đổi mới và nâng cao chất lượng hiệu quả công tác tuyên truyền miệng, đẩy mạnh hoạt động của đội ngũ báo cáo viên, tuyên truyền viên. Tăng cường trao đổi, đối thoại, thảo luận, giải đáp những yêu cầu từ phía người được tuyên truyền, nâng cao tính chủ động trong việc tiếp nhận kiến thức pháp luật.\n\nCác cơ quan, đơn vị đã biên soạn và phát hành miễn phí nhiều tài liệu tuyên truyền pháp luật; sách tuyên truyền chuyên đề theo các lĩnh vực thiết thực với đời sống xã hội như: công chứng, chứng thực, đất đai, lao động... Thực hiện PBGDPL thông qua hội nghị, lớp tập huấn, trên các phương tiện thông tin đại chúng và hệ thống truyền thanh công cộng; thi tìm hiểu pháp luật; giáo dục pháp luật trong các trường học; tuyên truyền pháp luật thông qua hoạt động tư vấn pháp luật; các buổi tọa đàm, tuyên truyền, trợ giúp pháp lý lưu động, qua công tác hòa giải ở cơ sở…\n\n_3.4. Về công tác PBGDPL cho đố__i tượng đặc thù_\n\nHiện nay, thành phố có 04 Trung tâm tư vấn pháp luật trực thuộc Hội Luật gia thành phố, Liên đoàn Lao động thành phố, Hội Liên hiệp Phụ nữ thành phố và Hội Cựu chiến binh thành phố với nhiều tư vấn viên pháp luật và hàng trăm cộng tác viên, đã tư vấn cho hàng nghìn trường hợp.\n\nTrung tâm Trợ giúp pháp lý nhà nước thành phố thuộc Sở Tư pháp và các Chi nhánh trợ giúp pháp lý tại các huyện, quận và các tổ chức đoàn thể ở thành phố đã trợ giúp nhiều trường hợp; tổ chức nhiều đợt trợ giúp pháp lý lưu động. Từ năm 2011, Trung tâm trợ giúp pháp lý đã tích cực tham gia chương trình phối hợp với Công ty Viễn thông Hải Phòng thực hiện trợ giúp pháp lý miễn phí qua Tổng đài 1088, tạo điều kiện cho những người ở vùng sâu, vùng xa và người không có điều kiện trực tiếp đến Trung tâm trợ giúp pháp lý được trợ giúp miễn phí.\n\nTổ chức tư vấn, trợ giúp pháp lý cho nhóm đối tượng đặc thù như tập huấn kỹ năng trợ giúp pháp lý cho người khuyết tật; tuyên truyền pháp luật cho phạm nhân đang cải tạo; tuyên truyền cho thanh, thiếu niên tại các vùng sâu, vùng xa ở huyện đảo Bạch Long Vỹ và huyện đảo Cát Hải...\n\n_3.5. Về hoạt động giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân_\n\nXác định vai trò và tầm quan trọng của công tác PBGDPL trong nhà trường, Ủy ban nhân dân thành phố đã chỉ đạo ngành Tư pháp và ngành Giáo dục và Đào tạo phối hợp chặt chẽ, thực hiện có hiệu quả công tác này. Hai ngành đã phối hợp thực hiện nhiều giải pháp đồng bộ trong việc chỉ đạo, hướng dẫn, tổ chức thực hiện và kiểm tra, đánh giá, theo dõi kết quả thực hiện công tác PBGDPL trong nhà trường. Ngày 17/5/2016, Sở Tư pháp, Sở Giáo dục và Đào tạo đã ký kết Chương trình phối hợp số 307A/CTrPH-STP-SGDDT về tăng cường công tác PBGDPL trong trường học.\n\nỦy ban nhân dân thành phố đã chỉ đạo triển khai thực hiện tốt Thông tư liên tịch số 30/2010/TTLT-BGDĐT-BTP ngày 16/11/2010 của liên Bộ Giáo dục và Đào tạo và Bộ Tư pháp hướng dẫn thực hiện công tác phối hợp PBGDPL trong nhà trường; công tác phối hợp chỉ đạo, hướng dẫn, triển khai thực hiện PBGDPL cho cán bộ, giáo viên, nhân viên và học sinh đã bám sát nội dung Thông tư và các văn bản chỉ đạo từ Trung ương tới địa phương; chất lượng được nâng lên, đặc biệt là công tác tuyên truyền và tổ chức các hoạt động nhân Ngày Pháp luật Việt Nam hàng năm trong nhà trường.\n\nSở Giáo dục và Đào tạo đã tổ chức tập huấn kiến thức pháp luật cho hơn 130 lãnh đạo phòng giáo dục các quận, huyện, thị xã, hiệu trưởng các trường trung học phổ thông, giám đốc các trung tâm giáo dục thường xuyên, các trường trung học chuyên nghiệp, dạy nghề và các đơn vị trực thuộc; duy trì hoạt động các câu lạc bộ “Đội tuyên truyền măng non” ở cấp tiểu học, trung học cơ sở, “Tuyên truyền xung kích thanh niên” ở cấp trung học phổ thông; tổ chức thi sáng tác tiểu phẩm, báo tường ở các trường, cụm liên trường kết hợp với việc sử dụng bảng tin của Đoàn, Đội lồng ghép các nội dung tuyên truyền, PBGDPL cho học sinh; chỉ đạo tổ chức hội trại truyền thông về phòng chống ma túy, HIV/AIDS, tội phạm theo định kỳ 2 năm/lần thu hút hàng nghìn học sinh, sinh viên tham gia.\n\nTrung tâm Trợ giúp pháp lý nhà nước thành phố thuộc Sở Tư pháp phối hợp với Sở Giáo dục và Đào tạo tổ chức tuyên truyền pháp luật về Hiến pháp năm 2013, Luật Giao thông đường bộ cho học sinh tại nhiều trường trên địa bàn thành phố. Những văn bản luật đã được tuyên truyền dưới hình thức sân khấu hóa thi tìm hiểu pháp luật rất sinh động, hấp dẫn, dễ hiểu, dễ nhớ, được học sinh nhiệt tình tham gia hưởng ứng.\n\nĐặc biệt trong năm 2014, trong tuần lễ triển khai thực hiện “Ngày Pháp luật” từ ngày 03/11 đến ngày 09/11, Ủy ban nhân dân thành phố đã chỉ đạo Sở Giáo dục và Đào tạo phối hợp với Sở Tư pháp hướng dẫn 100% các đơn vị trường học tập trung thực hiện nhiều hình thức tuyên truyền pháp luật như: Tổ chức lễ mít tinh; dạy lồng ghép có nội dung pháp luật, trao đổi, tọa đàm, giao lưu. Nhiều cơ sở giáo dục và đào tạo đã xây dựng kế hoạch tổ chức thực hiện đúng thời gian và có hình thức tổ chức sáng tạo, hấp dẫn, đạt hiệu quả; tiêu biểu là Phòng Giáo dục và Đào tạo các quận: Ngô Quyền, Hải An, Kiến An, huyện An Dương, Trung tâm giáo dục hướng nghiệp Hải Phòng..., các trường THPT: Lê Quý Đôn, An Lão, Toàn Thắng, Tiên Lãng, An Dương...\n\nSở Giáo dục và Đào tạo phối hợp với Sở Tư pháp tổ chức các cuộc tọa đàm “Nâng cao chất lượng công tác PBGDPL trong nhà trường” tại quận Hải An và huyện Thủy Nguyên; nói chuyện chuyên đề pháp luật: “Chúng em với An toàn giao thông” và “Ngày hội pháp luật”, Trường THPT Lê Quý Đôn với chuyên đề “Tìm hiểu về tội phạm và bạo lực học đường” đã mang lại không khí mới, thiết thực và đạt hiệu quả cao trong “Ngày Pháp luật” ở thành phố Hải Phòng.\n\n_3.6. Về nguồn nhân l__ực PBGDPL_\n\nỦy ban nhân dân thành phố đã chỉ đạo Sở Tư pháp - cơ quan Thường trực Hội đồng Phối hợp PBGDPL thành phố thường xuyên tham mưu kiện toàn thành viên Hội đồng, kiện toàn đội ngũ báo cáo viên, tuyên truyền viên ở địa phương nhằm tạo lực lượng nòng cốt thực hiện việc tuyên truyền, PBGDPL; Ủy ban nhân dân thành phố đã ra các Quyết định số 77/QĐ-UBND ngày 13/01/2015 về việc kiện toàn Hội đồng Phối hợp PBGDPL thành phố Hải Phòng, Quyết định 2595/QĐ-CT ngày 13/11/2015 về việc công nhận báo cáo viên pháp luật thành phố Hải Phòng; Kế hoạch số 596/KH-HĐPHPBGDPL ngày 28/4/2016 về hoạt động của Hội đồng Phối hợp PBGDPL thành phố năm 2016; chỉ đạo Sở Tư pháp ban hành Công văn số 639/STP-TTPL ngày 09/9/2015 về việc củng cố, kiện toàn và nâng cao chất lượng nguồn nhân lực PBGDPL…\n\nĐến nay, Hội đồng Phối hợp PBGDPL thành phố có 28 thành viên, Ban thư ký Hội đồng có 15 thành viên, toàn thành phố có 83 báo cáo viên pháp luật thành phố; 136 báo cáo viên pháp luật quận, huyện; 1.782 tuyên truyền viên pháp luật ở các xã, phường, thị trấn; 2.511 tổ hòa giải với 13.780 hòa giải viên, số vụ hòa giải thành trên 80%, lực lượng này đã góp phần tích cực trong việc tuyên truyền, PBGDPL trên địa bàn thành phố.\n\n_3.7. Kết quả triển khai xã hội hóa công tác PBGDPL_\n\nSau 3 năm thực hiện Luật PBGDPL, các cơ quan, đơn vị, tổ chức, doanh nghiệp và cá nhân trên địa bàn thành phố đã được tạo điều kiện thuận lợi tiếp cận thông tin về pháp luật; được cung cấp kịp thời, có chất lượng dịch vụ công về PBGDPL, đáp ứng nhu cầu về quyền được thông tin và cung cấp dịch vụ pháp lý của nhân dân, góp phần nâng cao năng lực tiếp cận pháp luật, hiểu biết pháp luật và ý thức tuân thủ, chấp hành pháp luật của nhân dân.\n\nSở Tư pháp đã ký kết chương trình phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam thành phố, Hội Liên hiệp Phụ nữ thành phố, Hội Cựu chiến binh thành phố, Thanh tra thành phố, Hội Luật gia và Đoàn Luật sư thành phố đẩy mạnh công tác PBGDPL, trợ giúp pháp lý, tư vấn pháp luật, hòa giải ở cơ sở; giám sát và nâng cao hiệu quả giải quyết khiếu nại, tố cáo ở cơ sở. Tổ chức biên soạn và cung cấp các tài liệu về PBGDPL và trợ giúp pháp lý cho các tổ chức xã hội; tổ chức tập huấn bồi dưỡng kiến thức, kỹ năng trợ giúp pháp lý cho cán bộ tư vấn của các trung tâm tư vấn pháp luật trực thuộc các tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp và cán bộ làm công tác PBGDPL của các tổ chức này.\n\nThành phố đã huy động được đội ngũ luật sư, trợ giúp viên pháp lý, các tổ chức đoàn thể, Hội luật gia... tham gia công tác tuyên truyền, PBGDPL, trợ giúp pháp lý, tham gia tố tụng, bào chữa miễn phí đạt hiệu quả.\n\nBằng công tác tuyên truyền, đã định hướng để người dân, doanh nghiệp tự giác tìm hiểu pháp luật theo nhu cầu; có nhiều doanh nghiệp đã thực hiện các biện pháp tuyên truyền pháp luật như: tổ chức hội nghị, phát tờ rơi, tờ gấp về các lĩnh vực pháp luật thiết thực với đời sống như: pháp luật về lao động, pháp luật về bảo hiểm xã hội, bảo hiểm y tế, pháp luật về tiền lương...\n\n_3.8. Kinh phí chi cho công tác PBGDPL_\n\nKinh phí phục vụ cho công tác tuyên truyền, PBGDPL ở Hải Phòng được Ủy ban nhân dân thành phố và các Sở, ban, ngành, các quận, huyện thực hiện đúng quy định của Luật PBGDPL và Thông tư liên tịch số 14/2014/TTLT-BTC-BTP ngày 27/01/2014 quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác PBGDPL và chuẩn tiếp cận pháp luật của người dân tại cơ sở trên nguyên tắc việc tuyên truyền, PBGDPL ở cấp nào, ngành nào do cấp, ngành đó chủ động thực hiện. Ngân sách thành phố chỉ cấp cho hoạt động chung của Hội đồng PBGDPL thành phố. Các quận, huyện tùy theo tình hình thực tế và nhu cầu của địa phương đều dành từ 20 đến 50 triệu đồng/năm để phục vụ cho công tác PBGDPL. Các Sở, ban, ngành ở thành phố đã quan tâm đầu tư kinh phí tổ chức các hội nghị, lớp tập huấn, phổ biến pháp luật mới, in tài liệu, tổ chức các lễ ra quân; trung bình hàng năm các ngành chi khoảng 50 triệu đồng.\n\nNgoài ra, đối với một số chương trình mục tiêu như: phòng, chống tội phạm; phòng, chống ma tuý; phòng, chống HIV/AIDS; cải cách hành chính; an toàn giao thông; hội nhập quốc tế cũng đã dành một phần kinh phí để thực hiện việc tuyên truyền, PBGDPL.\n\n**4\\. Đánh giá tác động từ khi thực hiện Luật PBGDPL**\n\nCác ngành, các cấp, các tổ chức đã tích cực, chủ động tuyên truyền, phổ biến kịp thời, đầy đủ nhũng nội dung pháp luật liên quan đến cuộc sống của các tầng lớp nhân dân, tạo điều kiện để công dân sử dụng pháp luật làm phương tiện bảo vệ quyền và lợi ích hợp pháp của mình, của nhà nước và xã hội;\n\nCó sự kết phối hợp chặt chẽ giữa Hội đồng Phối hợp PBGDPL các cấp với các ban, ngành, đoàn thể, các tổ chức xã hội trên địa bàn tạo nên sức mạnh tổng hợp của hệ thống chính trị - xã hội tham gia vào công tác PBGDPL. Kết quả công tác PBGDPL đã góp phần nâng cao ý thức tự giác, tích cực tìm hiểu pháp luật và thói quen chấp hành pháp luật của cán bộ và nhân dân. Người dân mạnh dạn tham gia vào việc giám sát quản lý nhà nước ở địa phương, dũng cảm đấu tranh bảo vệ lợi ích Nhà nước, quyền lợi chính đáng của công dân. Đội ngũ cán bộ, công chức có tiến bộ trong điều hành quản lý, lấy pháp luật làm cơ sở, chuẩn mực trong việc điều hành, giải quyết công việc. Nhờ làm tốt công tác tuyên truyền PBGDPL cùng với hướng dẫn đầy đủ cho nhân dân đặc biệt là dân cư sinh sống ở khu vực triển khai thực hiện các dự án trọng điểm của thành phố nên đã giảm nhiều việc khiếu nại, tố cáo, góp phần giữ gìn an ninh chính trị, trật tự an toàn xã hội ở địa phương.\n\nCông tác tuyên truyền, PBGDPL được tiến hành nghiêm túc, kịp thời từ khâu quán triệt các văn bản chỉ đạo của Trung ương và thành phố đến công tác triển khai, tổ chức thực hiện với nhiều hình thức tuyên truyền đa dạng, phong phú, phù hợp với các đối tượng, góp phần tạo sự chuyển biến và hiệu quả rõ nét trên các lĩnh vực của đời sống xã hội như hình sự, dân sự, an toàn giao thông, giảm các tệ nạn xã hội, giảm các mâu thuẫn tranh chấp trong cộng đồng dân cư.\n\n**II. ĐÁNH GIÁ KẾT QUẢ 04 NĂM THỰC HIỆN QUYẾT ĐỊNH SỐ 409/QĐ-TTG**\n\n**1\\. Công tác chỉ đạo, hướng dẫn, quán triệt, kiểm tra việc thực hiện Quyết định số 409/QĐ-TTg**\n\nThực hiện Quyết định số 409/QĐ-TTg ngày 09/4/2012 của Thủ tướng Chính phủ, Ủy ban nhân dân thành phố Hải Phòng đã ban hành các văn bản sau:\n\n\\- Kế hoạch số 7087/KH-UBND ngày 22/10/2012 về việc triển khai thực hiện Chương trình hành động thực hiện Kết luận số 04-KL/TW ngày 19/4/2011 của Ban Bí thư trung ương Đảng (Khóa XI) về tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật giai đoạn 2012-2016, Ủy ban nhân dân thành phố đã chỉ đạo các Sở, ban, ngành, đoàn thể thành phố thực hiện các nhiệm vụ cụ thể; chủ động xây dựng kế hoạch triển khai chương trình hành động của cơ quan, đơn vị mình.\n\n\\- Quyết định số 2556/QĐ-UBND ngày 25/12/2013 phê duyệt Chương trình thực hiện các Đề án theo Quyết định số 1133/QĐ-TTg ngày 15/7/2013 của Thủ tướng Chính phủ giai đoạn 2013-2016 trên địa bàn thành phố Hải Phòng.\n\n\\- Kế hoạch số 10338/KH-UBND ngày 30/12/2014 về triển khai thực hiện Đề án “Tăng cường công tác PBGDPL tại một số địa bàn trọng điểm về vi phạm pháp luật giai đoạn 2015-2016” trên địa bàn thành phố Hải Phòng.\n\n\\- Quyết định số 311/QĐ-UBND ngày 04/02/2015 về việc thành lập Ban chỉ đạo và Tổ thư ký triển khai thực hiện các Đề án do Phó Chủ tịch Ủy ban nhân dân thành phố làm Trưởng ban, Giám đốc Sở Tư pháp là Phó Trưởng ban thường trực và thành viên Ban chỉ đạo là lãnh đạo các ngành được giao chủ trì thực hiện các Đề án.\n\n**2\\. Việc tổ chức thực hiện các nhiệm vụ trọng tâm của Chương trình hành động ban hành theo Quyết định số 409/QĐ-TTg**\n\n**2.1. Tuyên truyền tại các hội nghị, lớp tập huấn**\n\n\\- Sở Tư pháp - chủ trì Đề án _“Tăng cường công tác PBGDPL tại một số địa bàn trọng điểm về vi phạm pháp luật giai đoạn 20__1__5-2016”_ trên địa bàn thành phố Hải Phòng đã phát hành 140 phiếu khảo sát nhu cầu tuyên truyền phổ biến giáo dục pháp luật tại những địa bàn trọng điểm; 6 tháng đầu năm 2015 đã tổ chức 02 hội nghị tuyên truyền, PBGDPL về lĩnh vực khoáng sản, đất đai tại xã Lại Xuân và xã Quảng Thanh, huyện Thủy Nguyên, trung bình mỗi hội nghị thu hút 500 người tham dự.\n\nNgoài ra, với vai trò là cơ quan Thường trực Hội đồng phối hợp PBGDPL, Sở Tư pháp đã chủ trì, phối hợp với các Sở, ban, ngành tổ chức các hội nghị tập huấn, PBGDPL, tập trung tuyên truyền về những nội dung cơ bản cần lấy ý kiến nhân dân vào Dự thảo sửa đổi Hiến pháp 1992; Dự thảo Luật Đất đai; phổ biến rộng rãi Hiến pháp; tổ chức nhiều hội nghị, các buổi tọa đàm, lớp tập huấn bồi dưỡng tuyên truyền, phổ biến các văn bản pháp luật mới liên quan trực tiếp đến đời sống nhân dân cho đội ngũ báo cáo viên, tuyên truyền viên và nhân dân như: Luật Đất đai; Luật PBGDPL; Bộ luật Hình sự; Bộ luật Dân sự; Bộ luật Tố tụng Dân sự; Luật Bình đẳng giới; Luật Tố tụng hành chính; Luật Hòa giải ở cơ sở; Luật Xử lý vi phạm hành chính và các văn bản hướng dẫn thi hành; Luật Giám định tư pháp; Luật sửa đổi bổ sung một số điều của Luật Phòng, chống tham nhũng; Luật Tiếp công dân... Trung bình mỗi hội nghị tuyên truyền thu hút 500 lượt người tham dự. Sở Tư pháp đã tổ chức 03 hội nghị tập huấn chuyên sâu về Hiến pháp; 02 hội nghị tập huấn chuyên sâu về đất đai. Tổ chức 01 buổi tọa đàm về kỹ năng, nghiệp vụ PBGDPL và chuẩn tiếp cận pháp luật cho đội ngũ báo cáo viên trẻ là đoàn viên thanh niên cơ quan Sở.\n\n\\- Bộ Chỉ huy quân sự thành phố chủ trì Đề án _“__Tăng cường PBGDPL cho cán bộ nhâ__n dâ__n vùng biên giới hải đảo giai đoạn 2013-2016__”_ đã vận dụng linh hoạt nhiều hình thức tuyên truyền, PBGDPL như việc tuyên truyền pháp luật tại các hội nghị lớp tập huấn, tuyên truyền dưới hình thức hội thi, giao lưu văn hóa kết hợp với tuyên truyền pháp luật đã thu hút được hơn 20.000 lượt người tham gia. Tập trung phổ biến các văn bản pháp luật về an ninh quốc phòng, phòng, chống tội phạm, các văn bản pháp luật phục vụ công tác chuyên môn, nghiệp vụ của đơn vị như: Hiến pháp năm 2013, Luật Quốc phòng, Luật Sĩ quan quân đội nhân dân Việt Nam, Luật Nghĩa vụ quân sự, Luật Phòng, chống ma tuý, Luật Phòng chống tham nhũng, Luật Khiếu nại, Luật Tố cáo năm 2011, Luật Tiếp công dân năm 2013, Luật Giao thông đường bộ... các văn bản luật liên quan đến biển, đảo và các văn bản hướng dẫn thi hành.\n\n\\- Thanh tra thành phố thực hiện Đề án _“Tiếp tục tăng cường công tác PBGDPL về khiếu nại, t__ố_ _cáo ở xã, phường, thị trấ__n giai đoạn 2013-2016”_ phối hợp với Sở Tư pháp và các Sở, ngành; Ủy ban nhân dân các quận, huyện tổ chức nhiều hội nghị tuyên truyền pháp luật về khiếu nại, tố cáo cho hội viên Hội Nông dân, cán bộ đoàn thể, khu dân cư và nhân dân các xã, phường, thị trấn trên địa bàn thành phố. Chỉ tính riêng trong năm 2014 và 5 tháng đầu năm 2015, Thanh tra thành phố đã tổ chức 25 hội nghị tuyên truyền pháp luật về khiếu nại, tố cáo cho 2827 hội viên Hội Nông dân, cán bộ đoàn thể, khu dân cư và nhân dân xã, phường, thị trấn.\n\n\\- Ủy ban Mặt trận Tổ quốc Việt Nam thành phố chủ trì thực hiện Đề án _“__Tiế__p tục xây dựng và đẩ__y mạnh công tác tuyên truyền, vận động chấp hành pháp luật tr__ong cộng đồng dân cư giai đoạn 2013-2016”_ đã phối hợp với Thanh tra thành phố, Sở Tư pháp, Hội Luật gia, Đoàn Luật sư ký kết Chương trình phối hợp số 02 - CTPH/MTTQ - TTTP - STP - HLG - ĐLS về giám sát và nâng cao hiệu quả việc giải quyết khiếu nại, tố cáo ở cơ sở; Ủy ban Mặt trận Tổ quốc Việt Nam các cấp phối hợp với Trung tâm bồi dưỡng chính trị các quận, huyện, Ban Dân vận cùng cấp, Ủy ban nhân dân các quận, huyện tổ chức các buổi tập huấn công tác dân vận, công tác tôn giáo - dân tộc, việc thực hiện dân chủ ở cơ sở, công tác tiếp dân giải quyết đơn thư khiếu nại, tố cáo của công dân, hoạt động giám sát phản biện của Mặt trận, các đoàn thể chính trị - xã hội cho cán bộ mặt trận các cấp, tập huấn nghiệp vụ và các chính sách pháp luật mới cho cán bộ, đảng viên.\n\n\\- Các sở, ban, ngành thành phố tổ chức nhiều hội nghị tuyên truyền, phổ biến pháp luật như: Sở Thông tin và Truyền thông đã tổ chức hàng chục hội nghị, lớp tập huấn cho hơn 3.000 lượt đại biểu giới thiệu nội dung các văn bản pháp luật mới như: Luật Cán bộ, công chức; Luật Viên chức...; Công an thành phố mở hàng chục lớp tập huấn trên diện rộng cho hàng nghìn lượt cán bộ chủ chốt của ngành nghiên cứu, học tập; tổ chức lớp tập huấn chuyên sâu Bộ luật Hình sự, Luật Giao thông đường bộ, Luật Phòng cháy chữa cháy, Luật Cư trú... cho cán bộ, chiến sĩ thuộc Công an thành phố.\n\n\\- Ở cấp huyện và cấp xã: thường xuyên tổ chức các hội nghị, lớp tập huấn giới thiệu nội dung các văn bản pháp luật mới được ban hành và các văn bản pháp luật có liên quan cho hàng vạn lượt cán bộ và nhân dân ở cơ sở.\n\n**2.2. PBGDPL trên các phương tiện thông tin đại chúng và hệ thống truyền thanh công cộng**\n\n\\- Sở Tư pháp tiếp tục xây dựng, duy trì và nâng cao chất lượng Tờ Phụ trương _“Pháp luật thành phố Hải Ph__ò__ng”_ phát hành vào thứ năm hằng tuần cùng với Báo Hải Phòng hàng ngày. Duy trì xây dựng 02 trang đăng công khai toàn văn các văn bản quy phạm pháp luật và các văn bản quan trọng do Hội đồng nhân dân, Ủy ban nhân dân thành phố ban hành phục vụ nhu cầu tìm hiểu và cập nhật văn bản, chính sách mới của các tầng lớp nhân dân. Đồng thời, Sở Tư pháp đã xây dựng các số Phụ trương chuyên đề về công chứng, chứng thực; về Hiến pháp năm 2013; về công tác kiểm soát thủ tục hành chính; về ngày thành lập ngành… phát huy tác dụng tốt, được đông đảo bạn đọc hoan nghênh, tìm đọc.\n\n\\- Cảnh sát Phòng cháy và chữa cháy thành phố phối hợp với Báo Hải Phòng phát hành tờ Phụ trương _“Phòng ch__á__y, chữa cháy”_ được nhân dân ủng hộ và đón đọc.\n\n\\- Đài Phát thanh và Truyền hình Hải Phòng được giao chủ trì thực hiện Đề án _“Tăng cường công tác phổ biến, giáo dục pháp_ _l__uật trên Đài Phát thanh và Truyền hình Hải Phòng giai đoạn 2013-2016”_ đã duy trì thường xuyên việc sản xuất, phát sóng định kỳ hàng tuần các chuyên đề phát thanh, truyền hình có nội dung về PBGDPL như: chuyên đề Pháp luật và Cuộc sống; Hộp thư bạn nghe đài - xem truyền hình; phổ biến kiến thức pháp luật; Tiêu chí pháp luật và mục “Dân hỏi - Giám đốc Sở trả lời”... Số lượng các tin, bài có nội dung PBGDPL phát sóng trong các chuyên đề, chuyên mục tăng hàng năm từ 30% đến 40%.\n\n\\- Hệ thống loa truyền thanh ở cơ sở hoạt động có hiệu quả kịp thời. Đài truyền thanh công cộng của xã, phường, thị trấn đã tích cực phối hợp với Công an quận, huyện, thị xã, Phòng Tư pháp, Phòng Văn hóa - Thông tin biên soạn nội dung, thông báo tình hình thực hiện chính sách, pháp luật ở địa phương. Từ năm 2012 đến nay, các quận, huyện đã tăng thời lượng phát thanh hàng nghìn buổi với thời lượng từ 15 đến 30 phút một buổi trong đó tập trung tuyên truyền các chuyên đề như: giới thiệu về nội dung, ý nghĩa của Hiến pháp năm 2013; các quy định của pháp luật về chủ quyền biển, đảo; an toàn giao thông, nghĩa vụ quân sự, phòng, chống tệ nạn xã hội...\n\n**_2.3. PBGDPL thông qua việc biên soạn và phát hành các loại tài liệu_**\n\n\\- Sở Tư pháp đã in và phát miễn phí 20.000 tờ gấp tuyên truyền pháp luật về an toàn giao thông, trong đó, tập trung vào hai nội dung chính là _“Xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ”_ và _“Giao thông đường th__ủ__y nội địa - Những điều bạn cần biế__t”_; 20.000 tờ gấp về ma túy; 20.000 tờ gấp tìm hiểu một số nội dung của Luật Hôn nhân và gia đình; 30.000 tờ gấp tìm hiểu một số nội dung của Luật Phòng, chống tham nhũng, Luật Thực hành tiết kiệm, chống lãng phí và Luật Tiếp công dân... phát hành miễn phí tới các Sở, ban, ngành, thành viên Hội đồng Phối hợp công tác PBGDPL thành phố và quận, huyện, xã, phường, thị trấn, phát trực tiếp tại các hội nghị, lớp tập huấn... làm tài liệu để các ngành, các cấp, cơ quan, đơn vị chủ động nhân rộng, triển khai tuyên truyền, phổ biến ở cơ quan, đơn vị, địa phương mình.\n\nĐặc biệt, hưởng ứng các hoạt động tuyên truyền về Ngày Pháp luật Việt Nam 9-11, Ủy ban nhân dân thành phố đã chỉ đạo Sở Tư pháp chủ động in và phát miễn phí 10.000 tờ gấp pháp luật chủ đề _“Tìm hi__ể__u về Ngày Pháp l__uật nước Cộng hòa xã hội chủ nghĩa Việt Nam”_. Tháng 10/2013, Sở Tư pháp đã biên soạn, in đĩa DVD nội dung tuyên truyền về phòng, chống tham nhũng hưởng ứng cuộc thi Tiểu phẩm phòng, chống tham nhũng do Bộ Tư pháp tổ chức và đoạt giải khuyến khích.\n\n\\- Thanh tra thành phố phối hợp với Sở Tư pháp ký kết Kế hoạch liên tịch phối hợp thực hiện trợ giúp pháp lý trong việc khiếu nại quyết định hành chính, hành vi hành chính.\n\n\\- Thành đoàn Hải Phòng thường xuyên tuyên truyền giáo dục pháp luật cho thanh, thiếu niên trên website Thành đoàn, tờ tin _“Tuổi trẻ H__ả__i Phòng”_; Sở Nội vụ, Sở Văn hóa và Thể thao, Sở Thông tin và Truyền thông tổ chức phát hành hàng nghìn pa-nô, áp phích tuyên truyền pháp luật về các lĩnh vực: lấy ý kiến nhân dân về Dự thảo Bộ Luật Dân sự (sửa đổi), an toàn giao thông, phòng chống ma túy...\n\n\\- Các huyện, quận cung cấp tài liệu pháp luật do các cơ quan, tổ chức ở địa phương biên soạn như tài liệu hướng dẫn thực hiện pháp luật bằng hình thức tờ gấp, sách bỏ túi và mua sách pháp luật tại các hội nghị, lớp tập huấn pháp luật... phục vụ công tác tuyên truyền, PBGDPL ở địa phương. Quận Hồng Bàng phát hành 1.500 tờ gấp pháp luật về Luật Nghĩa vụ quân sự; tờ gấp về An toàn giao thông đường bộ; tờ gấp về thủ tục cấp giấy chứng nhận quyền sử dụng đất; cấp giấy phép xây dựng; phòng chống ma tuý... quận Ngô Quyền phát hành 10.000 tờ gấp pháp luật; quận Lê Chân phát hành hơn 4.000 tờ gấp pháp luật; Đoàn Thanh niên quận Hải An phát hành trên 5.000 tờ gấp pháp luật về phòng, chống mại dâm; huyện An Lão phát hành 80.000 tờ gấp pháp luật các loại; huyện Thủy Nguyên phát hành được 9.000 bộ đề cương tuyên truyền pháp luật; Các quận, huyện: Kiến An, Kiến Thuỵ, An Dương, Vĩnh Bảo... cung cấp miễn phí hàng nghìn tài liệu pháp luật các loại.\n\n\\- Trung tâm trợ giúp pháp lý nhà nước thuộc Sở Tư pháp thành phố thực hiện trợ giúp pháp lý miễn phí tại tòa soạn Báo Hải Phòng vào các ngày cố định trong tuần nhằm trực tiếp giải đáp các vướng mắc của nhân dân; phối hợp với tổng đài 1088 tư vấn, giải đáp qua điện thoại nhằm tạo điều kiện cho những người ở vùng sâu, vùng xa vẫn có thể được tư vấn và trợ giúp pháp lý miễn phí kịp thời.\n\nNgoài ra, các mô hình PBGDPL khác đã phát huy tác dụng tốt, mang lại hiệu quả thiết thực như: PBGDPL trên các phương tiện thông tin đại chúng và hệ thống truyền thanh công cộng; thi tìm hiểu pháp luật; giáo dục pháp luật trong các trường học; tuyên truyền pháp luật thông qua hoạt động tư vấn pháp luật và trợ giúp pháp lý; qua công tác hòa giải ở cơ sở...\n\n**_2.4. Mô hình, cách làm sáng tạo, hiệu quả công tác tuyên truyền, PBGDPL tại các địa bàn trọng điểm_**\n\nQua thực tiễn triển khai Luật PBGDPL và Đề án “Tăng cường công tác PBGDPL tại một số địa bàn trọng điểm”, các cấp, các ngành thành phố đã đổi mới nội dung, tổ chức thực hiện với nhiều hình thức, mô hình PBGDPL mới phù hợp. Công tác PBGDPL ngày càng đi vào thực chất, bám sát các nhiệm vụ phát triển kinh tế \\- xã hội, bảo đảm quốc phòng, an ninh của đất nước và địa phương. Một số mô hình PBGDPL đang được triển khai có hiệu quả trên địa bàn thành phố như:\n\n\\- Chỉ đạo Sở Tư pháp - cơ quan thường trực Hội đồng phối hợp PBGDPL thành phố phối hợp với Báo Hải Phòng phát hành Phụ trương _“Pháp luật thành phố Hải Phòng”_ vào thứ năm hàng tuần, mỗi số phát hành 1,5 vạn tờ; Cảnh sát phòng cháy và chữa cháy thành phố phối hợp với Báo Hải Phòng phát hành tờ Phụ trương _“Phòng cháy, chữa cháy”_ được nhân dân ủng hộ và đón đọc.\n\n\\- Chỉ đạo Sở Tư pháp phối hợp với Sở Giáo dục và Đào tạo thường xuyên tổ chức tập huấn kiến thức pháp luật cho đội ngũ giáo viên giảng dạy pháp luật và môn giáo dục công dân trong trường học; duy trì hoạt động các câu lạc bộ “Tuyên truyền măng non” ở cấp tiểu học, trung học cơ sở, “Tuyên truyền xung kích thanh niên” ở cấp trung học phổ thông tuyên truyền về Luật An toàn giao thông, Luật Phòng chống ma túy, HIV/AIDS, tội phạm theo định kỳ 2 năm/lần thu hút hàng nghìn học sinh, sinh viên tham gia.\n\n\\- Chỉ đạo Sở Tư pháp phối hợp với Sở Lao động-Thương binh và Xã hội tổ chức thực hiện Đề án tuyên truyền PBGDPL cho người lao động và người sử dụng lao động nhằm tuyên truyền sâu rộng việc PBGDPL về an toàn giao thông, về lĩnh vực hình sự, phòng chống ma túy và các tệ nạn xã hội khác đến các tầng lớp nhân dân, đã chỉ đạo Sở Tư pháp hướng dẫn Phòng Tư pháp phối hợp với Đoàn Thanh niên, Hội Liên hiệp phụ nữ xã xây dựng các câu lạc bộ pháp luật của xã hoạt động theo chủ đề tháng, quý; tăng cường hoạt động vào các dịp cao điểm như: Cuộc thi tìm hiểu pháp luật tại xã Tam Cường, lễ ra quân hưởng ứng Tháng An toàn giao thông, Ngày Pháp luật 9/11... thu hút đông đảo các tầng lớp nhân dân tham gia; thường xuyên lồng ghép nội dung văn bản pháp luật vào các buổi sinh hoạt câu lạc bộ tạo điều kiện cho nhân dân trên địa bàn được trao đổi, nâng cao kiến thức pháp luật cho bản thân như buổi sinh hoạt trong cộng đồng dân cư nhằm nâng cao kiến thức pháp luật cho nhân dân về lĩnh vực hình sự, phòng, chống ma túy và các tệ nạn xã hội khác tại xã Tam Cường, huyện Vĩnh Bảo về lĩnh vực trật tự, an toàn giao thông ở xã Lê Thiện, huyện An Dương.\n\n**3\\. Đánh giá hiệu quả của Chương trình, các Đề án của Chương trình**\n\nViệc triển khai các hoạt động tuyên truyền, phổ biến pháp luật theo các Đề án, Chương trình thời gian qua có sự chuẩn bị bài bản từ việc xác định địa bàn, nội dung trọng điểm đến việc khảo sát để nắm bắt nhu cầu tuyên truyền, phổ biến giáo dục pháp luật, lựa chọn các hình thức tuyên truyền phù hợp đã có tác động tích cực đến mọi tầng lớp nhân dân, tạo chuyển biến mạnh mẽ về chất lượng, hiệu quả công tác PBGDPL, nâng cao ý thức tự giác, tôn trọng và nghiêm chỉnh chấp hành pháp luật của đảng viên, cán bộ, công chức, viên chức và các tầng lớp nhân dân. Nhận thức, sự hiểu biết pháp luật của các tầng lớp nhân dân được nâng cao rõ rệt, góp phần ổn định tình hình an ninh chính trị, trật tự an toàn xã hội trên toàn thành phố đặc biệt là lĩnh vực đất đai, hình sự, ma túy và các tệ nạn xã hội khác.\n\nTuy nhiên, cơ chế phối hợp công tác PBGDPL giữa các ban, ngành, đơn vị chức năng còn chưa rõ; công tác kiểm tra, đôn đốc, hướng dẫn hoạt động PBGDPL của các đơn vị cơ sở chưa kịp thời, thường xuyên. Chất lượng, hiệu quả công tác tuyên truyền, PBGDPL tuy có chuyển biến tích cực nhưng chưa đáp ứng được yêu cầu như mong muốn; ý thức chấp hành pháp luật của cán bộ, các tầng lớp nhân dân chưa đồng đều nên tình trạng vi phạm pháp luật còn diễn biến phức tạp, đặc biệt là trong các lĩnh vực trật tự, an toàn xã hội, xây dựng, đất đai, giao thông, quản lý đô thị....\n\nNội dung và hình thức tuyên truyền, PBGDPL dù đã có nhiều đổi mới nhưng do kinh phí hạn hẹp nên chưa thể triển khai thường xuyên và sâu rộng. Một số hình thức tuyên truyền khác đạt hiệu quả cao, người dân dễ tiếp cận thông tin như phát hành tờ gấp, tờ rơi, phát hành băng, đĩa... dù đã cố gắng trang bị, phát miễn phí tới tận tay người dân nhưng số lượng còn hạn chế so với nhu cầu tìm hiểu pháp luật của người dân.\n\n**III. ĐÁNH GIÁ VỀ TỒN TẠI, HẠN CHẾ, NGUYÊN NHÂN VÀ BÀI HỌC KINH NGHIỆM**\n\n**1\\. Đánh giá về tồn tại, hạn chế**\n\nTrong quá trình triển khai công tác PBGDPL trên địa bàn thành phố, bên cạnh những kết quả đã đạt được, còn có những khó khăn, vướng mắc sau:\n\n\\- Chất lượng, hiệu quả công tác tuyên truyền, PBGDPL tuy có chuyển biến tích cực nhưng chưa tương xứng yêu cầu mong muốn; ý thức chấp hành pháp luật của cán bộ, các tầng lớp nhân dân chưa đồng đều. Ở một số địa phương, đơn vị, cấp ủy, chính quyền chưa thật sự quan tâm và đầu tư đúng mức cho công tác này.\n\n\\- Công tác PBGDPL cho các đối tượng đặc thù theo quy định của Luật PBGDPL còn chưa được thường xuyên, liên tục; chủ yếu thực hiện qua hình thức tư vấn, trợ giúp pháp lý cho các đối tượng như: người lao động, thanh niên người khuyết tật, phạm nhân đang cải tạo tại trại giam; người đang cai nghiện tại các trung tâm giáo dục lao động xã hội; người dân ở vùng sâu, vùng xa thuộc huyện đảo Cát Hải, Bạch Long Vỹ mà chưa chú trọng mở rộng tuyên truyền cho các đối tượng đặc thù khác.\n\n\\- Đội ngũ báo cáo viên, tuyên truyền viên pháp luật hầu hết đều kiêm nhiệm kỹ năng tuyên truyền còn hạn chế và chưa đồng đều, chế độ bồi dưỡng cho báo cáo viên, tuyên truyền viên còn thấp.\n\n\\- Một số Đề án về PBGDPL được ban hành nhưng chưa có nguồn kinh phí thỏa đáng để triển khai thực hiện, thường phải lồng ghép với các chương trình, kế hoạch tuyên truyền, phổ biến giáo dục của thành phố nên hiệu quả chưa cao.\n\n\\- Số lượng văn bản pháp luật mới ban hành nhiều, lại thường xuyên sửa đổi, bổ sung, gây khó khăn cho công tác PBGDPL.\n\n\\- Kinh phí cho công tác PBGDPL chưa phù hợp với khối lượng, nội dung công việc được giao. Kinh phí đầu tư cho công tác tuyên truyền, PBGDPL còn hạn chế, chủ yếu là từ nguồn ngân sách nhà nước, chưa khai thác được các nguồn kinh phí khác. Kinh phí cấp cho các Sở, ban, ngành, quận, huyện và phường, xã, thị trấn chưa đáp ứng được yêu cầu đặt ra đối với công tác PBGDPL trên địa bàn thành phố.\n\n**2\\. Nguyên nhân**\n\nMột số đơn vị, công tác tham mưu, đề xuất có lúc chưa chủ động, kịp thời. Một số cán bộ làm công tác tuyên truyền, PBGDPL còn hạn chế về khả năng truyền đạt. Chưa có cơ chế động viên, khuyến khích xứng đáng đối với đội ngũ báo cáo viên, tuyên truyền viên pháp luật và hòa giải viên ở cơ sở.\n\nYêu cầu đối với công tác tuyên truyền, PBGDPL ngày càng cao, trong khi điều kiện về nhân lực, vật lực còn hạn chế. Các văn bản chỉ đạo, hướng dẫn của cơ quan cấp trên về công tác tuyên truyền, phổ biến pháp luật chưa cụ thể, chưa có cơ chế đủ mạnh bảo đảm thực hiện nên còn gặp nhiều khó khăn trong quá trình triển khai ở địa phương. Đặc biệt là chưa có sự kết hợp, lồng ghép một cách phù hợp các chương trình, đề án, kế hoạch nên dẫn đến tình trạng ở địa phương phải ban hành nhiều chương trình, đề án, kế hoạch và báo cáo chuyên đề riêng lẻ.\n\nSự phối hợp giữa các cơ quan, tổ chức liên quan còn thiếu tính đồng bộ và chưa thật sự chặt chẽ; các thành viên Hội đồng phối hợp đều hoạt động kiêm nhiệm, đa số là lãnh đạo của các Sở, ban, ngành, địa phương trên địa bàn thành phố, nên ảnh hưởng đến thời gian dành cho công tác này, chưa phát huy được hết vai trò, trách nhiệm của mỗi thành viên trong thực hiện nhiệm vụ chung của Hội đồng. Ở một số địa phương, đơn vị, cấp ủy, chính quyền chưa thật sự quan tâm và đầu tư đúng mức cho công tác này.\n\nĐội ngũ cán bộ làm công tác PBGDPL ở các ngành, các cấp và báo cáo viên pháp luật, tuyên truyền viên pháp luật, cán bộ pháp chế các Sở, ban, ngành đã được bổ sung nhưng còn thiếu về số lượng và chất lượng chưa cao; đội ngũ hòa giải viên cơ sở đa phần là những người đã nghỉ hưu, tuổi cao nên dù có uy tín trong cộng đồng dân cư nhưng gặp nhiều khó khăn trong việc cập nhật các thông tin pháp luật mới; tổ chức, cán bộ pháp chế ở các Sở, ban, ngành, tổ chức kinh tế chưa được kiện toàn thậm chí còn bị cắt giảm do các quyết định của các Thông tư mới về tổ chức nên việc tổ chức tuyên truyền pháp luật ở cơ quan, đơn vị doanh nghiệp còn chậm.\n\n**IV. KIẾN NGHỊ, ĐỀ XUẤT**\n\n1\\. Đề nghị Hội đồng Phối hợp PBGDPL Trung ương và Bộ Tư pháp tiếp tục tăng cường chỉ đạo các ngành, các cấp triển khai Chương trình hành động thực hiện Kết luận số 04-KL/TW ngày 19/4/2011 của Ban Bí thư Trung ương (Khóa XI) về kết quả thực hiện Chỉ thị số 32-CT/TW ngày 09/12/2003 của Ban Bí thư Trung ương Đảng (Khóa IX) về tăng cường sự lãnh đạo của Đảng trong công tác PBGDPL, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân; thường xuyên kiểm tra, đôn đốc thực hiện Kết luận số 04-KL/TW ở các địa phương, ngành, các cấp.\n\n2\\. Hội đồng Phối hợp PBGDPL Trung ương và Bộ Tư pháp cần tham mưu, đề xuất với Chính phủ đưa công tác tuyên truyền, PBGDPL là Chương trình mục tiêu để có chỉ đạo tập trung nguồn lực và đầu tư kinh phí chung thống nhất từ Trung ương đến địa phương cho công tác này. Lồng ghép, kết hợp phù hợp giữa các chương trình, đề án, kế hoạch tránh dàn trải và giảm thời gian, công sức trong việc triển khai cũng như báo cáo của địa phương.\n\n3\\. Đối với những đề án triển khai ở địa phương, cơ sở cần đồng thời quy định các điều kiện đảm bảo về nhân lực, tài chính.\n\n4\\. Đề nghị Bộ Tư pháp tăng cường hỗ trợ công tác tuyên truyền, PBGDPL cho địa phương bằng cách cung cấp miễn phí các sách báo, tài liệu pháp luật cho Tủ sách pháp luật ở cơ sở hoặc cung cấp các trang thiết bị phục vụ công tác tuyên truyền, PBGDPL ở địa phương; thường xuyên tổ chức tập huấn nghiệp vụ PBGDPL và các văn bản mới, quan trọng được Quốc hội và Ủy ban Thường vụ Quốc hội ban hành để địa phương kịp thời tổ chức thực hiện.\n\n5\\. Đối với các Chương trình, Đề án huy động được nguồn tài trợ từ các tổ chức quốc tế, đề nghị Bộ Tư pháp quan tâm, tăng cường triển khai thực hiện ở cơ sở, đặc biệt là những địa bàn trọng điểm có nhu cầu lớn về PBGDPL.\n\n6\\. Các Bộ, ngành, địa phương cần quan tâm xây dựng, kiện toàn đội ngũ cán bộ pháp chế theo Nghị định số 55/2011/NĐ-CP ngày 04/7/2011 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của tổ chức pháp chế nhằm đẩy mạnh công tác tuyên truyền, PBGDPL, nâng cao ý thức pháp luật của cán bộ, công chức các cơ quan nhà nước ở địa phương./.\n\n**_  \nNơi nhận:  \n_**\\- Bộ Tư pháp;  \n\\- Hội đồng Phổ biến PBGDPL TW;  \n\\- Vụ PBGDPL, Bộ TP;  \n\\- CT, các PCT UBND TP;  \n\\- Hội đồng Phổ biến PBGDPL TP;  \n\\- Sở Tư pháp;  \n\\- UBND các quận, huyện;  \n\\- Hội đồng Phối hợp PBGDPL các quận, huyện;  \n\\- CPVP;  \n\\- Các Phòng: VXNC, KTGS&TĐKT, TH;  \n\\- Lưu: VT.\n\n**TM. ỦY BAN NHÂN DÂN THÀNH PHỐ  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Xuân Bình**\n\n**PHỤ LỤC BÁO CÁO SƠ KẾT 03 NĂM THỰC HIỆN LUẬT PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT**\n\n**(Phụ lục số 1)**\n\n**Năm**\n\n**Ban hành văn bản hướ****ng dẫn, thực hiện, Kế hoạch công tác PBGDPL** (nêu rõ loại văn bản)\n\n**Số Iư****ợng báo cáo viên pháp luật, tuyên truyền viên pháp luật đượ****c củng cố, kiện toàn**\n\n**Hình thức PBGDPL có hiệu quả trên thực tế** **(nêu rõ hình thức)**\n\n**Kinh phí thực hiện PBGDPL**\n\n**Mô hình hay, cách làm hiệu quả**\n\n**Báo cáo viên pháp luật**\n\n**Tuyên truyền** **viên pháp l****uật**\n\n**Từ ngân sách nhà nước**\n\n**Từ các nguồn khác**\n\n2013\n\n\\- Kế hoạch tuyên truyền, PBGDPL năm 2013\n\n\\- Kế hoạch triển khai Ngày pháp luật năm 2013\n\n\\- Kế hoạch tổ chức lấy ý kiến về Dự thảo sửa đổi Hiến pháp năm 1992 trên địa bàn thành phố Hải Phòng\n\n\\- Kế hoạch triển khai thi hành các luật trên địa bàn thành phố,..\n\n\\- Quyết định, công văn chỉ đạo, hướng dẫn công tác PBGDPL\n\nCấp huyện: 185\n\nThành phố: 60\n\n1.819\n\n\\- PBGDPL trên báo chí;\n\n\\- PBGDPL thông qua mô hình các Câu lạc bộ\n\n\\- Trợ giúp pháp lý\n\n\\- TTPL tại cơ sở, doanh nghiệp, thực hiện các Đề án điểm\n\nx\n\n\\- Phụ trương “Pháp luật thành phố Hải Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần\n\n\\- Phụ trương “Phòng cháy, chữa cháy” phát hành kèm theo Báo Hải Phòng, 1 số/tháng\n\n\\- Trợ giúp pháp lý tại trụ sở, lưu động tại cơ sở và tại trụ sở Báo Hải Phòng\n\n\\- Câu lạc bộ tuyên truyền pháp luật\n\n2014\n\n\\- Kế hoạch tuyên truyền, PBGDPL năm 2014\n\n\\- Kế hoạch triển khai Ngày pháp luật năm 2014\n\n\\- Kế hoạch tổ chức Cuộc thi “Tìm hiểu Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013” trên địa bàn thành phố\n\n\\- Kế hoạch triển khai thi hành các luật trên địa bàn thành phố,..\n\n\\- Quyết định, công văn chỉ đạo, hướng dẫn công tác PBGDPL\n\nCấp huyện: 159\n\nThành phố: 63\n\n1.215\n\n\\- PBGDPL trên báo chí;\n\n\\- PBGDPL thông qua mô hình các Câu lạc bộ\n\n\\- Trợ giúp pháp lý\n\n\\- TTPL tại cơ sở, doanh nghiệp, thực hiện các Đề án điểm\n\nx\n\n\\- Phụ trương “Pháp luật thành phố Hải Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần\n\n\\- Phụ trương “Phòng cháy, chữa cháy” phát hành kèm theo Báo Hải Phòng, 1 số/tháng\n\n\\- Trợ giúp pháp lý tại trụ sở, lưu động tại cơ sở và tại trụ sở Báo Hải Phòng\n\n\\- Câu lạc bộ tuyên truyền pháp luật\n\n2015\n\n\\- Kế hoạch tuyên truyền, PBGDPL năm 2015\n\n\\- Kế hoạch triển khai Ngày pháp luật năm 2015\n\n\\- Kế hoạch triển khai thi hành các luật trên địa bàn thành phố,..\n\n\\- Quyết định, công văn chỉ đạo, hướng dẫn công tác PBGDPL\n\nCấp huyện: 136\n\nThành phố: 83\n\n1.782\n\n\\- PBGDPL trên báo chí;\n\n\\- PBGDPL thông qua mô hình các Câu lạc bộ\n\n\\- Trợ giúp pháp lý\n\n\\- TTPL tại cơ sở, doanh nghiệp, thực hiện các Đề án điểm\n\nx\n\n\\- Phụ trương ‘‘Pháp luật thành phố Hải Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần\n\n\\- Phụ trương ‘'Phòng cháy, chữa cháy” phát hành kèm theo Báo Hải Phòng, 1 số/tháng\n\n\\- Trợ giúp pháp lý tại trụ sở, lưu động tại cơ sở và tại trụ sở Báo Hải Phòng\n\n\\- Câu lạc bộ tuyên truyền pháp luật\n\n2016\n\n\\- Kế hoạch tuyên truyền, PBGDPL năm 2016\n\n\\- Kế hoạch triển khai thi hành các luật trên địa bàn thành phố,­…\n\n\\- Quyết định, công văn chỉ đạo, hướng dẫn công tác PBGDPL\n\nCấp huyện: 136\n\nThành phố: 83\n\n1.782\n\n\\- PBGDPL trên báo chí;\n\n\\- PBGDPL thông qua mô hình các Câu lạc bộ\n\n\\-Trợ giúp pháp lý\n\n\\- TTPL tại cơ sở, doanh nghiệp, thực hiện các Đề án điểm\n\nx\n\n\\- Phụ trương “Pháp luật thành phố Hải Phòng” phát hành kèm theo Báo Hải Phòng vào thứ 5 hàng tuần\n\n\\- Phụ trương “Phòng cháy, chữa cháy” phát hành kèm theo Báo Hải Phòng, 1 số/tháng\n\n\\- Trợ giúp pháp lý tại trụ sở, lưu động tại cơ sở và tại trụ sở Báo Hải Phòng\n\n\\- Câu lạc bộ tuyên truyền pháp luật\n\n**PHỤ LỤC BÁO CÁO TỐNG KẾT THỰC HIỆN QUYẾT ĐỊNH SỐ 409/QĐ-TTG**\n\n**(Phụ lục số 2)**\n\n**Năm**\n\n**Ban hành văn bản hướng dẫn, Kế hoạch thự****c hiện** (nêu rõ loại văn bản)\n\n**Việc thành lập Ban chỉ đạo, Tổ** **thư ký Chươn****g trình hành động và các Đề án** (có/không)\n\n**Mô hình PBGDPL có hiệu quả trên thự****c tế (liệt kê cụ thể)**\n\n**Dự kiế****n tỷ lệ mứ****c độ % hoàn thành mục tiêu Đề án tại Bộ, ngành, địa phươ****ng (liệt kê từ****ng Đề án cụ thể)**\n\n**Kinh phí bảo đảm thự****c hiện Chương trình**\n\n**Ghi chú**\n\n**Chương trình hành động**\n\n**Đề** **án (nêu rõ tên Đề án)**\n\n**Dưới** **50%**\n\n**Từ 50****\\- 70%**\n\n**Trên 70%**\n\n**2012**\n\nKế hoạch số 7087/KH-UB ngày 22/10/2012\n\n\\- Tuyên truyền trên phụ trương pháp luật thành phố\n\nTừ nguồn ngân sách nhà nước\n\n**2013**\n\nQuyết định số 2556/QĐ- UBND ngày 25/12/2013\n\nCó\n\n\\- Đề án _“Tăng cường PBGDPL tại các địa bàn trọng điểm về vi phạm pháp luật giai đoạn 2013-2016”._\n\n\\- Đề án _“Tiếp tục xây dựng và đẩy mạnh công tác tuyên_ _tr__uyền, vận động chấp hành ph__áp luật tr__ong cộng đồng dân cư giai đoạn 2013­2016”_\n\n\\- Đề án _“Tăng cường PBGDPL cho cán bộ, n__hâ__n dâ__n vùng biên giới, hải đảo giai đoạn 201__3-2016”_\n\n\\- Đề án _“__T__iế__p tụ__c tăng cường công tác_ _PBGDPL về_ _khiế__u nại,_ _tố_ _cáo ở xã, phường, thị trấn_ _giai đoạn 201__3-2016”._\n\n\\- Tuyên truyền qua hoạt động Trợ giúp pháp luật miễn phí\n\nx\n\nTừ nguồn ngân sách nhà nước\n\n**2014**\n\nKế hoạch số 10338/KH- UBND ngày 30/12/2014\n\n\\- Tuyên truyền qua các Câu lạc bộ pháp luật\n\nx\n\nTừ nguồn ngân sách nhà nước\n\n**2015**\n\nQuyết định số 311/QĐ-UBND ngày 04/02/2015\n\n\\- Tuyên truyền trên các phương tiện thông tin đại chúng và hệ thống loa truyền thanh công cộng\n\nx\n\nTừ nguồn ngân sách nhà nước\n\n**2016**\n\nKế hoạch số 123/KH-UBND ngày 26/01/2016\n\n\\- Tuyên truyền qua các cuộc thi tìm hiểu pháp luật\n\nx\n\nTừ nguồn ngân sách nhà nước",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

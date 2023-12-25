@@ -1,0 +1,566 @@
+{
+  "title": "Quyết định 1163/QĐ-UBND năm 2015 phê duyệt Đề án \"Ứng dụng công nghệ thông tin trong công tác đăng ký, quản lý hộ tịch và xây dựng cơ sở dữ liệu hộ tịch điện tử trên địa bàn tỉnh Lai Châu\"",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật Căn cước công dân 2014",
+      "id": "59/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Quyết định 331/QĐ-UBND năm 2015 về Đề án thực hiện Nghị quyết 36-NQ/TW Đẩy mạnh ứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế giai đoạn 2015 - 2020 do tỉnh Lai Châu ban hành",
+      "id": "331/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Lai Châu",
+      "signers": [
+        "Tống Thanh Hải"
+      ],
+      "issuedDate": "2015-04-14",
+      "effectiveDate": "2015-04-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Hộ tịch 2014",
+      "id": "60/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 896/QĐ-TTg năm 2013 phê duyệt Đề án tổng thể đơn giản hóa thủ tục hành chính, giấy tờ công dân và các cơ sở dữ liệu liên quan đến quản lý dân cư giai đoạn 2013 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "896/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-06-08",
+      "effectiveDate": "2013-06-08",
+      "gazetteDate": "2013-06-18",
+      "gazetteNumber": "Từ số 335 đến số 336",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 30c/NQ-CP năm 2011 về Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2011 - 2020 do Chính phủ ban hành",
+      "id": "30c/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-11-08",
+      "effectiveDate": "2011-11-08",
+      "gazetteDate": "2011-11-22",
+      "gazetteNumber": "Từ số 595 đến số 596",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1755/QĐ-TTg năm 2010 phê duyệt Đề án “Đưa Việt Nam sớm trở thành nước mạnh về công nghệ thông tin và truyền thông” do Thủ tướng Chính phủ ban hành",
+      "id": "1755/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-09-22",
+      "effectiveDate": "2010-09-22",
+      "gazetteDate": "2010-10-07",
+      "gazetteNumber": "Từ số 581 đến số 582",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1605/QĐ-TTg năm 2010 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2011 - 2015 do Thủ tướng Chính phủ ban hành",
+      "id": "1605/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Thiện Nhân"
+      ],
+      "issuedDate": "2010-08-27",
+      "effectiveDate": "2010-08-27",
+      "gazetteDate": "2010-09-08",
+      "gazetteNumber": "Từ số 536 đến số 537",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 102/2009/NĐ-CP về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước",
+      "id": "102/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Công nghệ thông tin",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-11-06",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-11-22",
+      "gazetteNumber": "Từ số 529 đến số 530",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Giao dịch điện tử 2005",
+      "id": "51/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-03-01",
+      "gazetteDate": "2005-12-27",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Quyết định 246/2005/QĐ-TTg phê duyệt Chiến lược phát triển công nghệ thông tin và truyền thông Việt Nam đến năm 2010 và định hướng đến năm 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "246/2005/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2005-10-06",
+      "effectiveDate": "2005-10-30",
+      "gazetteDate": "2005-10-15",
+      "gazetteNumber": "Từ số 16 đến số 17",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 70/KH-UBND năm 2018 về triển khai, sử dụng Hệ thống thông tin đăng ký và quản lý hộ tịch của Bộ Tư pháp trên địa bàn tỉnh Cà Mau",
+      "id": "70/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Trần Hồng Quân"
+      ],
+      "issuedDate": "2018-07-02",
+      "effectiveDate": "2018-07-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1571/QĐ-UBND năm 2016 phê duyệt Đề án Ứng dụng công nghệ thông tin trong hoạt động của cơ quan Đảng tỉnh Tuyên Quang giai đoạn 2016-2020",
+      "id": "1571/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Hải Anh"
+      ],
+      "issuedDate": "2016-11-01",
+      "effectiveDate": "2016-11-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 39/KH-UBND năm 2016 thực hiện Đề án “Cơ sở dữ liệu hộ tịch điện tử toàn quốc” trên địa bàn tỉnh Thái Bình",
+      "id": "39/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Phạm Văn Xuyên"
+      ],
+      "issuedDate": "2016-06-22",
+      "effectiveDate": "2016-06-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Chỉ thị 08/CT-UBND năm 2016 về tăng cường công tác đăng ký và quản lý hộ tịch trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+      "id": "08/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Thanh Tịnh"
+      ],
+      "issuedDate": "2016-05-10",
+      "effectiveDate": "2016-05-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 196/KH-UBND về kiểm tra công tác đăng ký và quản lý hộ tịch, chứng thực và nuôi con nuôi trên địa bàn tỉnh Nghệ An năm 2016",
+      "id": "196/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Xuân Đại"
+      ],
+      "issuedDate": "2016-04-07",
+      "effectiveDate": "2016-04-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 34/KH-UBND thực hiện cơ sở dữ liệu thị trường lao động năm 2016 trên địa bàn tỉnh Hòa Bình",
+      "id": "34/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Bùi Văn Cửu"
+      ],
+      "issuedDate": "2016-03-28",
+      "effectiveDate": "2016-03-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 17/KH-UBND năm 2016 thực hiện Đề án “Cơ sở dữ liệu hộ tịch điện tử toàn quốc” trên địa bàn tỉnh Thanh Hóa",
+      "id": "17/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Lê Thị Thìn"
+      ],
+      "issuedDate": "2016-02-04",
+      "effectiveDate": "2016-02-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 44/2015/QĐ-UBND thay thế Phụ lục Phiếu nhận hồ sơ và trả kết quả thủ tục hành chính kèm theo Quyết định 44/2014/QĐ-UBND về quản lý cơ sở dữ liệu tra cứu tình trạng hồ sơ trên địa bàn tỉnh An Giang",
+      "id": "44/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Nguyễn Thanh Bình"
+      ],
+      "issuedDate": "2015-12-31",
+      "effectiveDate": "2016-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 09/11/2018"
+    },
+    {
+      "title": "Quyết định 1961/QĐ-UBND năm 2015 về Kế hoạch rà soát, đánh giá việc giải quyết vấn đề quốc tịch, hộ tịch của trẻ em là con của công dân Việt Nam với người nước ngoài đang cư trú trên địa bàn tỉnh Đắk Nông",
+      "id": "1961/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Dịch vụ pháp lý",
+        "Quyền dân sự"
+      ],
+      "organization": "Tỉnh Đắk Nông",
+      "signers": [
+        "Cao Huy"
+      ],
+      "issuedDate": "2015-12-03",
+      "effectiveDate": "2015-12-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2214/QĐ-UBND năm 2015 về Quy định đánh giá, xếp hạng mức độ ứng dụng công nghệ thông tin trong cơ quan nhà nước tỉnh Thừa Thiên Huế",
+      "id": "2214/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Phan Ngọc Thọ"
+      ],
+      "issuedDate": "2015-10-26",
+      "effectiveDate": "2015-10-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 13/08/2018"
+    },
+    {
+      "title": "Quyết định 4271/QĐ-UBND phê duyệt Báo cáo nghiên cứu khả thi: Ứng dụng công nghệ thông tin trong công tác quản lý giảng dạy và học tập tại Trường Chính trị tỉnh Thanh Hóa giai đoạn 2016-2020",
+      "id": "4271/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Phạm Đăng Quyền"
+      ],
+      "issuedDate": "2015-10-26",
+      "effectiveDate": "2015-10-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2945/QĐ-UBND năm 2015 về Quy chế đảm bảo an toàn thông tin trong hoạt động ứng dụng công nghệ thông tin của cơ quan nhà nước thuộc Ủy ban nhân dân thành phố Cần Thơ",
+      "id": "2945/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Lê Văn Tâm"
+      ],
+      "issuedDate": "2015-10-09",
+      "effectiveDate": "2015-10-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1723/QĐ-UBND năm 2015 về Bộ tiêu chí và phiếu thu thập thông tin đánh giá mức độ ứng dụng công nghệ thông tin của các Sở, Ban, ngành, Ủy ban nhân dân các huyện, thành phố tỉnh Hòa Bình",
+      "id": "1723/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Nguyễn Văn Chương"
+      ],
+      "issuedDate": "2015-09-17",
+      "effectiveDate": "2015-09-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4176/QĐ-UBND năm 2015 phê duyệt “Đề án tăng cường phổ biến, giáo dục pháp luật trên báo chí và ứng dụng công nghệ thông tin trong công tác phổ biến, giáo dục pháp luật tại Thành phố Hồ Chí Minh giai đoạn 2015 - 2018”",
+      "id": "4176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Tất Thành Cang"
+      ],
+      "issuedDate": "2015-08-24",
+      "effectiveDate": "2015-08-24",
+      "gazetteDate": "2015-10-01",
+      "gazetteNumber": "Số 44",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 15/2013/QĐ-UBND bổ sung Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Thông tin và Truyền thông tỉnh Lai Châu kèm theo Quyết định 21/2008/QĐ-UBND",
+      "id": "15/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lai Châu",
+      "signers": [
+        "Nguyễn Khắc Chử"
+      ],
+      "issuedDate": "2013-08-21",
+      "effectiveDate": "2013-08-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 02/09/2016"
+    },
+    {
+      "title": "Quyết định 56/2006/QĐ-UBND về Đơn giá xây dựng cơ bản tỉnh Lai Châu",
+      "id": "56/2006/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Lai Châu",
+      "signers": [
+        "Lò Văn Giàng"
+      ],
+      "issuedDate": "2006-08-25",
+      "effectiveDate": "2006-09-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 137/2004/QĐ-UB về quy chế làm việc của Ban điều hành Đề án tin học hoá quản lý hành chính nhà nước tỉnh Sơn La giai đoạn 2001-2005",
+      "id": "137/2004/QĐ-UB",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Trí Thức"
+      ],
+      "issuedDate": "2004-11-05",
+      "effectiveDate": "2004-11-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 12/05/2014"
+    }
+  ],
+  "id": "1163/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Tỉnh Lai Châu",
+  "signers": [
+    "Đỗ Ngọc An"
+  ],
+  "issuedDate": "2015-10-16",
+  "effectiveDate": "2015-10-16",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADUAMQAxADAANAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>UỶ BAN NHÂN\n  DÂN<br>\n  TỈNH LAI CHÂU<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số: 1163/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Lai Châu, ngày\n  16 tháng 10 năm 2015</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">PHÊ DUYỆT ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG CÔNG TÁC\nĐĂNG KÝ, QUẢN LÝ HỘ TỊCH VÀ XÂY DỰNG CƠ SỞ DỮ LIỆU HỘ TỊCH ĐIỆN TỬ TRÊN ĐỊA BÀN\nTỈNH LAI CHÂU”</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH LAI CHÂU</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức HĐND và UBND, ngày\n26/11/2003;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Hộ tịch số 60/2014/QH13, ngày 20\ntháng 11 năm 2014;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Công nghệ thông tin ngày 29 tháng\n6 năm 2006;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007\ncủa Chính phủ về Ứng dụng CNTT trong hoạt động của cơ quan hành chính nhà nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Quyết định số 331/QĐ-UBND ngày 14/4/2015\ncủa Ủy ban nhân dân tỉnh Lai Châu về việc ban hành Đề án thực hiện Nghị quyết\nsố 36-NQ/TW của Bộ Chính trị về “Đẩy mạnh ứng dụng, phát triển công nghệ thông\ntin đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế tỉnh Lai Châu giai\nđoạn 2015-2020”;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Xét đề nghị của Giám đốc Sở Tư pháp,</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Phê duyệt Đề án \"Ứng dụng công nghệ thông tin trong công\ntác đăng ký, quản lý hộ tịch và xây dựng cơ sở dữ liệu hộ tịch điện tử trên địa\nbàn tỉnh Lai Châu”.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a> <a name=\"dieu_2_name\">Quyết định này có hiệu lực kể từ ngày ký.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Tư pháp, Nội vụ,\nTài chính, Thông tin và Truyền thông, Thủ trưởng các cơ quan, đơn vị có liên quan\nvà Chủ tịch UBND các huyện, thành phố chịu trách nhiệm thi hành Quyết định này./.</a></p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADUAMQAxADAANAA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><span style=\"font-size:8.0pt\"><br>\n  </span><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như Điều 3;<br>\n  - Cục Hộ tịch, Quốc tịch, chứng thực (Bộ Tư pháp);<br>\n  - TT.HĐND tỉnh;<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - UBMTTQ tỉnh;<br>\n  - Lưu: VT, NC.</span></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM. UỶ BAN\n  NHÂN DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Đỗ Ngọc An</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt;color:black\">ĐỀ ÁN</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span style=\"color:black\">ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG\nCÔNG TÁC ĐĂNG KÝ, QUẢN LÝ HỘ TỊCH VÀ XÂY DỰNG CƠ SỞ DỮ LIỆU HỘ TỊCH ĐIỆN TỬ TRÊN\nĐỊA BÀN TỈNH LAI CHÂU</span></a><span style=\"color:black\"><br>\n<i>(Kèm theo Quyết định số:1163 /QĐ-UBND</i></span><i><span lang=\"VI\" style=\"color:black\">, </span><span style=\"color:black\">ngày 16 tháng 10 năm\n2015 của Ủy ban nhân dân tỉnh Lai Châu)</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_1\"><b><span style=\"color:black\">Phần\nI:</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt;color:black\">CƠ SỞ PHÁP LÝ\nVÀ TÍNH CẤP THIẾT CỦA ĐỀ ÁN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_1\"><b><span style=\"color:black\">I. CƠ\nSỞ PHÁP LÝ CỦA VIỆC XÂY DỰNG ĐỀ ÁN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. <span lang=\"VI\">Luật Hộ tịch được Quốc hội </span>nước\nCộng hòa xã hội chủ nghĩa Việt Nam <span lang=\"VI\">khoá XIII, kỳ họp thứ 8, thông\nqua ngày 20/11/2014</span>, <span lang=\"VI\">có hiệu lực thi hành từ ngày\n01/01/2016</span>.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Quyết định số 896/QĐ-TTg<span lang=\"VI\">, </span>ngày\n08 tháng 6 năm 2013 của Thủ tướng Chính phủ Phê duyệt Đề án tổng thể đơn giản\nhóa thủ tục hành chính, giấy tờ công dân và cơ sở dữ liệu liên quan đến quản lý\ndân cư giai đoạn 2013 – 2020.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;\nLuật Công nghệ thông tin ngày 29 tháng 6 năm 2006.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của\nChính phủ về Ứng dụng CNTT trong hoạt động của cơ quan hành chính nhà nước; Nghị\nđịnh số 102/2009/NĐ-CP ngày 06 tháng 11 năm 2009 của Chính phủ về quản lý đầu\ntư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước.</p>\n\n<p style=\"margin-bottom:6.0pt\">5. Nghị Quyết 30C/NQ-CP ngày 08/11/2011 của Chính\nphủ ban hành Chương trình tổng thể cải cách hành chính Nhà nước giai đoạn 2011\n– 2020.</p>\n\n<p style=\"margin-bottom:6.0pt\">6. Quyết định số 246/2005/QĐ-TTg ngày 06/10/2005\ncủa Thủ tướng Chính phủ phê duyệt chiến lược phát triển công nghệ thông tin và truyền\nthông Việt Nam đến năm 2010 và định hướng đến năm 2020; Quyết định số\n1605/QĐ-TTg ngày 27/8/2010 của Thủ tướng Chính phủ Phê duyệt Chương trình quốc\ngia về Ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai\nđoạn 2011 -2015; Quyết định số 1755/QĐ-TTg ngày 22/9/2010 của Thủ tướng Chính\nphủ phê duyệt Đề án “Đưa Việt Nam sớm trở thành nước mạnh về công nghệ thông\ntin và truyền thông”.</p>\n\n<p style=\"margin-bottom:6.0pt\">7. Quyết định số 331/QĐ-UBND ngày 14/4/2015 của UBND\ntỉnh Lai Châu về việc Ban hành Đề án thực hiện Nghị quyết số 36-NQ/TW của Bộ\nChính trị về “Đẩy mạnh ứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu\nphát triển bền vững và hội nhập quốc tế tỉnh Lai Châu giai đoạn 2015 – 2020”.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_2\"><b><span lang=\"HR\">II. SỰ CẦN\nTHIẾT</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Đăng ký hộ tịch là việc cơ\nquan Nhà nước có thẩm quyền xác nhận và ghi vào hệ thống đăng ký các\nthông tin hộ tịch cơ bản của cá nhân, tạo cơ sở để xác lập mối quan hệ\ngiữa cá nhân với Nhà nước (quan hệ Nhà nước – công dân), là cơ sở\npháp lý quan trọng để cá nhân thực hiện các quyền, nghĩa vụ dân sự khác\ncủa mình. Thông tin hộ tịch cơ bản, sau khi được đăng ký, trở thành dữ liệu\nđầu vào của Cơ sở dữ liệu quốc gia về dân cư. Vì thế, theo Luật Hộ tịch, đây\nlà dữ liệu gốc, mang tính nguồn hoặc tính đối chiếu xác thực của\nbất kỳ hệ thống cơ sở dữ liệu nào liên quan đến dân cư.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Trong bối cảnh hiện nay, khoa\nhọc công nghệ phát triển nhanh và mạnh, yêu cầu đẩy mạnh ứng dụng\ncông nghệ thông tin trong quản lý và giải quyết thủ tục hành chính,\nnhu cầu về khai thác, quản lý, sử dụng các thông tin hộ tịch cá nhân\ncủa các ngành, lĩnh vực khác ngày càng tăng. Do đó đòi hỏi ngày\ncàng cao về quy mô dữ liệu, tốc độ đáp ứng và tính khoa học, đồng\nbộ. Các ngành, lĩnh vực khác cũng đang đẩy mạnh việc ứng dụng công\nnghệ thông tin trong quản lý, điều hành. Vì vậy, việc đăng ký và quản\nlý các thông tin hộ tịch của cá nhân (đăng ký và quản lý hộ tịch)\nmột cách thủ công trên hệ thống sổ, hồ sơ giấy như bấy lâu nay sẽ là\nlạc hậu, không phù hợp tiến trình phát triển và yêu cầu đáp ứng của\nxã hội.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"color:black\">Đối với tỉnh Lai Châu,\nv</span><span lang=\"VI\" style=\"color:black\">iệc triển khai ứng dụng công nghệ thông\ntin trong đăng ký hộ tịch tại các </span><span lang=\"NL\" style=\"color:black\">huyện,\nthành phố thiếu đồng bộ, đặc biệt là đối với cấp xã (theo báo cáo của các huyện,\nthành phố thì có 97% các xã công chức tư pháp – hộ tịch không được trang bị máy\nvi tính riêng, phải dùng chung với văn phòng hoặc bộ phận một cửa),</span><span lang=\"NL\" style=\"color:blue\"> </span><span lang=\"NL\" style=\"color:black\">do đó,\ntrên </span><span lang=\"VI\" style=\"color:black\">địa bàn tỉnh, cơ bản </span><span lang=\"NL\" style=\"color:black\">đến nay vẫn áp dụng mô hình xác lập, thu thập, lưu\ntrữ thông tin dữ liệu hộ tịch theo phương pháp truyền thống: đăng ký và quản lý\nhộ tịch thông qua hệ thống biểu mẫu, sổ sách, hồ sơ một cách thủ công, phần lớn\nvẫn là viết tay, việc ứng dụng công nghệ thông tin mới chỉ dừng ở mức in biểu\nmẫu hộ tịch từ máy tính. Các cơ quan đăng ký hộ tịch trên địa bàn tỉnh Lai Châu\ntuy đã được đầu tư phần mềm đăng ký quản lý hộ tịch theo mẫu quy định tại Nghị\nđịnh 158/CP nhưng đến nay không còn phù hợp với các quy định của Luật Hộ tịch\n(chủ yếu ở mức độ đăng ký riêng lẻ từng loại việc, chưa có sự liên thông, thống\nnhất giữa các sự kiện hộ tịch của cùng một cá nhân, chưa kết nối giữa các cơ\nquan đăng ký hộ tịch với nhau và với cơ quan quản lý hộ tịch cấp trên). </span><span lang=\"VI\" style=\"color:black\">Việc ứng dụng và cài đặt các phần mềm này mới chỉ\ndừng lại ở mức độ hỗ trợ công chức thực hiện nghiệp vụ đăng ký hộ tịch,</span><span lang=\"NL\" style=\"color:black\"> chưa </span><span lang=\"VI\" style=\"color:black\">đáp ứng\nyêu cầu cung cấp dịch vụ công trực tuyến</span><span lang=\"NL\" style=\"color:black\">,\n</span><span lang=\"VI\" style=\"color:black\">chưa có sự kết nối thông tin nhằm đáp\nứng yêu cầu trong giai đoạn hiện nay về việc phát triển Chính phủ điện tử -\ncung cấp dịch vụ công trực tuyến. Dẫn đến khả năng phục vụ nhu cầu tra cứu, xác\nminh thông tin hộ tịch của người dân và yêu cầu quản lý nhà nước còn nhiều hạn\nchế. Mặt khác, do không được trang bị máy vi tính riêng cho công chức tư pháp –\nhộ tịch, vì vậy phần mềm do tỉnh trang bị cho cơ quan đăng ký hộ tịch trên địa\nbàn tỉnh đến nay </span><span style=\"color:black\">đa số </span><span lang=\"VI\" style=\"color:black\">đã bị hỏng không còn sử dụng được.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">Để bảm bảo việc\ntr</span><span lang=\"VI\" style=\"color:black\">i</span><span lang=\"NL\" style=\"color:black\">ển khai Luật Hộ tịch có hiệu quả trên địa bàn tỉnh Lai Châu\nthì việc ứng dụng công nghệ thông tin, sử dụng phần mềm đăng ký hộ tịch\nlà cần thiết và là biện pháp số hóa (điện tử hóa) thông tin hộ tịch\ncủa cá nhân, trong đó có thông tin khai sinh – là thông tin hộ tịch gốc.\nTheo Đề án 896, Luật </span><span lang=\"VI\" style=\"color:black\">H</span><span lang=\"NL\" style=\"color:black\">ộ tịch, Luật Căn cước công dân, đây là thông tin đầu\nvào của Cơ sở dữ liệu quốc gia về dân cư. Bên cạnh đó, những thông tin hộ tịch\nkhác về kết hôn, ly hôn, thay đổi cải chính hộ tịch, xác định lại dân tộc, xác\nđịnh lại giới tính, khai tử... được cập nhật vào hệ thống dữ liệu, được coi\nlà thông tin “động”, có giá trị làm cho Cơ sở dữ liệu quốc gia về dân cư luôn\nsống. Vì vậy, để xây dựng được Cơ sở dữ liệu hộ tịch điện tử của tỉnh Lai Châu\ngóp phần xây dựng dữ liệu hộ tịch quốc gia thì chúng ta phải nhanh chóng đầu tư\nhạ tầng cơ sở, đảm bảo các cơ quan đăng ký hộ tịch từ tỉnh đến cơ sở đều được\ntrang bị phần mềm và máy vi tính riêng để phục vụ cho công tác đăng ký, quản lý\nhộ tịch.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"NL\">Phần II:</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"NL\" style=\"font-size:12.0pt\">NỘI DUNG CỦA ĐỀ\nÁN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_1_1\"><b><span lang=\"NL\">I. MỤC TIÊU CỦA\nĐỀ ÁN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">1. Mục tiêu tổng quát</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Ứng dụng đồng bộ công nghệ thông tin\ntrong đăng ký và quản lý hộ tịch trên </span><span lang=\"VI\">phạm vi toàn </span><span lang=\"NL\">tỉnh</span><span lang=\"VI\">, </span><span lang=\"NL\">xây dựng </span><span lang=\"HR\">cơ sở dữ liệu hộ tịch điện tử tập trung, góp phần nâng cao hiệu quả trong\ncông tác quản lý, nhằm đảm bảo sự quản lý thống nhất từ tỉnh đến cơ sở và có sự\nphân quyền, phân cấp hợp lý giữa các cơ quan đăng ký hộ tịch theo đơn vị hành\nchính, theo cấp quản lý; bảo đảm bí mật thông tin cá nhân, đáp ứng yêu cầu giải\nquyết thủ tục hành chính, từng bước hiện đại hóa công tác đăng ký hộ tịch, tiến\ntới đăng ký trực tuyến; bảo đảm kết nối để cung cấp thông tin hộ tịch cơ bản\ncủa cá nhân cho Cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu chuyên ngành\ncó liên quan.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">2. Mục tiêu cụ thể</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"HR\">a) Giai đoạn 2015- 2016</span></i><span lang=\"HR\">:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Thực hiện rà soát đội ngũ công chức\nlàm công tác hộ tịch tại địa phương, xây dựng kế hoạch, lộ trình đào tạo, bồi\ndưỡng đội ngũ công chức làm công tác hộ tịch. Bổ sung nguồn nhân lực cho công tác\nđăng ký và quản lý hộ tịch tại địa phương.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Đầu tư cơ sở vật chất, phần mềm quản\nlý hộ tịch cho cơ quan đăng ký và quản lý hộ tịch từ tỉnh đến cơ sở (mua sắm\nmáy vi tính, máy in, phần mềm quản lý hộ tịch, sổ hộ tịch, biểu mẫu hộ tịch từ\ntỉnh đến cơ sở và các điều kiện khác phục vụ cho công tác đăng ký, quản lý hộ\ntịch).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Tổ chức triển khai, thực hiện Luật\nHộ tịch và tiến hành đăng ký các sự kiện hộ tịch mới được chuyển giao theo quy\nđịnh tại Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">b) <i>Giai đoạn 2017 -2020:</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Hoàn thành việc xây dựng cơ sở vật\nchất, phần mềm quản lý hộ tịch thống nhất và nguồn nhân lực tại cơ quan đăng ký\nvà quản lý hộ tịch.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Ban hành các văn bản hướng dẫn triển\nkhai thực hiện Luật Hộ tịch, quy định cơ chế phối hợp; cơ </span><span lang=\"NL\">ch</span><span lang=\"HR\">ế kết nối, chia sẻ </span><span lang=\"NL\">th</span><span lang=\"HR\">ô</span><span lang=\"NL\">ng tin </span><span lang=\"HR\">giữa Cơ sở dữ liệu hộ tịch của tỉnh với Cơ\nsở hộ tịch của quốc gia và Cơ sở dữ liệu quốc gia về dân cư; phân quyền quản lý\nCơ sở dữ liệu hộ tịch điện tử.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Đăng ký các sự kiện hộ tịch mới,\ntừng bước cập nhật thông tin từ cơ sở dữ liệu giấy vào Cơ sở dữ liệu hộ tịch điện\ntử (số hoá, nhập dữ liệu hộ tịch từ các sổ giấy hiện đang được lưu trữ tại các\nđịa phương).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Cung cấp, trao đổi thông tin hộ tịch\nđiện tử giữa các cơ quan đăng ký và quản lý hộ tịch; hiện đại hóa công tác đăng\nký và cấp các giấy tờ hộ tịch (đăng ký hộ tịch trực tuyến theo từng cấp độ).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Kết nối, chia sẻ thông tin từ Cơ\nsở dữ liệu hộ tịch điện tử với Cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu\nchuyên ngành khác có liên quan.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">c) Giai đoạn từ 2020 trở đi: Thực hiện\nđăng ký, quản lý hộ tịch điện tử, giải quyết thủ tục hành chính trực tuyến.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_2_1\"><b><span lang=\"HR\">II. GIẢI PHÁP\nTHỰC HIỆN ĐỀ ÁN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">1. Giải pháp về hạ tầng kỹ thuật</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Trang bị cho công chức làm công tác\nđăng ký, quản lý hộ tịch từ cấp tỉnh đến cấp xã </span>(Sở Tư pháp và 108 xã,\nphường, thị trấn<span lang=\"HR\">) 01 bộ máy tính (máy tính và<span style=\"color:blue\"> </span>máy in)/đơn vị có kết nối mạng Internet, phục vụ\nriêng cho công tác hộ tịch.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Đầu tư hạ tầng công nghệ thông tin,\nđảm bảo đồng bộ gồm đường truyền, phần mềm đăng ký hộ tịch điện tử, máy tính, máy\nin đào tạo, bồi dưỡng cho người sử dụng duy tu, bảo trì dài hạn và bảo đảm an\ntoàn thông tin cho từng bản ghi dữ liệu cũng như sự an toàn cho toàn bộ hệ thống.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Thuê đường truyền và<span style=\"color:black\"> </span>duy tu, bảo trì nâng cấp, </span><span style=\"color:black\">duy trì thuê bao phần mềm hàng năm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">2. Giải pháp về phần mềm</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Phần mềm đăng ký hộ tịch phải đáp ứng\nmọi yêu cầu đăng ký hộ tịch và cấp giấy tờ hộ tịch cho người dân và cơ quan, tổ\nchức có yêu cầu theo Luật </span><span lang=\"VI\">H</span><span lang=\"HR\">ộ tịch; có\nkhả năng đăng ký hộ tịch trực tuyến đủ cấp độ theo lộ trình cụ thể; có khả năng\nkết nối để cung cấp thông tin hộ tịch cho Cơ sở dữ liệu quốc gia về dân cư và\ncơ sở dữ liệu điện tử chuyên ngành khác; đáp ứng yêu cầu quản lý, tra cứu, khai\nthác sử dụng của 4 cấp từ Trung ương đến cấp xã; bảo đảm an ninh và bảo mật\nthông tin, bí mật đời tư cá nhân, sự an toàn cho toàn bộ Cơ sở dữ liệu hộ tịch\nđiện tử; kết nối được với phần mềm đăng ký hộ tịch của Trung ương.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">3. Giải pháp về nguồn nhân lực</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Sử dụng tối đa năng lực của đội ngũ\ncông chức làm công tác hộ tịch hiện nay, trên cơ sở cân đối bố trí đủ biên chế,\ncăn cứ vào nhu cầu đăng ký hộ tịch, đặc điểm tình hình thực tế của từng địa\nphương.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Tổ chức các lớp đào tạo, bồi dưỡng\nnghiệp vụ cho đội ngũ công chức làm công tác hộ tịch (ở cả ba cấp tỉnh, huyện,\nxã), kể cả về chuyên môn, nghiệp vụ hộ tịch và kiến thức tin học, kỹ năng sử\ndụng phần mềm, quản trị hệ thống, bảo mật thông tin, an toàn dữ liệu.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">4. Giải pháp tổ chức, triển khai</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Tạo lập cơ chế chỉ đạo, điều hành\nthống nhất từ tỉnh đến xã; sự vào cuộc đồng bộ, quyết liệt của các sở, ngành,\ncơ quan, đơn vị có liên quan để bảo đảm sự thành công của Đề án.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">- Khảo sát trực tiếp và yêu cầu các\nhuyện, thành phố báo cáo để đánh giá tổng thể về thực trạng nguồn nhân lực, hạ\ntầng kỹ thuật và trình độ tin học của đội ngũ công chức tư pháp – hộ tịch, từ\nđó có những giải pháp tích cực, phù hợp.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">5. Giải pháp tài chính</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Việc xây dựng hạ tầng kỹ thuật, công\nnghệ thông tin, máy tính, phần mềm được bảo đảm kinh phí từ nguồn ngân sách của\ntỉnh để triển khai thành công Đề án.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_3\"><b><span lang=\"HR\">III. NHIỆM VỤ\nVÀ LỘ TRÌNH THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"HR\">1. Giai đoạn 2015-2016<i>: </i></span></b><span lang=\"HR\">Trong giai đoạn này dự kiến sẽ tiến hành những hoạt động như sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">a) Xây dựng Kế hoạch triển khai thi\nhành Luật Hộ tịch trên địa bàn tỉnh Lai Châu.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">b) Khảo sát, đánh giá về cơ sở vật\nchất, hạ tầng </span><span lang=\"VI\">để </span><span lang=\"HR\">phục vụ công tác đăng\nký, quản lý hộ tịch tại địa phương</span><span lang=\"VI\"> (</span><span lang=\"HR\">số\nlượng, chất lượng</span><span lang=\"VI\"> máy tính, </span><span lang=\"HR\">hạ tầng\nmạng, phần mềm đang sử dụng); Tiến hành rà soát đội ngũ công chức làm công tác\nhộ t</span><span lang=\"VI\">ị</span><span lang=\"HR\">ch, khảo sát, đánh giá trình độ\ntin học, trình độ chuyên môn của công chức Tư pháp - hộ tịch (độ tuổi, số năm\ncông tác, trình độ chuyên môn nghiệp vụ, trình độ tin học thực tế...), xây dựng\nlộ trình đào tạo, bồi dưỡng đội ngũ công chức làm công tác hộ tịch.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Đối với những địa phương chưa được\ntrang bị máy tính, kết nối internet thì dự kiến kinh phí để mua sắm hoàn thiện cơ\nsở hạ tầng.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">c) Xây dựng phương án mua sắm, đầu\ntư hạ tầng kỹ thuật, công nghệ thông tin, máy tính, phần mềm hộ tịch trang bị cho\ncơ quan đăng ký, quản lý hộ tịch từ tỉnh đến xã.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">d) Bố trí đủ trang thiết bị,\nphương tiện làm việc cho các cơ quan đăng ký và quản lý hộ tịch để thực hiện\nnhiệm vụ xây dựng, quản lý cơ sở dữ liệu hộ tịch; Cài đặt, đào tạo sử dụng phần\nmềm đăng ký hộ tịch điện tử, cập nhật, khai thác, sử dụng Cơ sở dữ liệu hộ tịch\nđiện tử; Kết nối dữ liệu hộ tịch của tỉnh với dữ liệu hộ tịch quốc gia;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><i><span lang=\"HR\">2</span></i></b><b><i><span lang=\"VI\">. Giai đoạn 201</span></i></b><b><i><span lang=\"HR\">7</span></i></b><b><i><span lang=\"VI\">-2020: </span></i></b><span lang=\"VI\">Trong giai đoạn này dự kiến sẽ tiến\nhành các hoạt động như sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">a) Đánh giá kết quả triển khai thực\nhiện tại giai đoạn 2015-2016, rút kinh nghiệm, điều chỉnh phần mềm đăng ký hộ\ntịch theo quy định của Luật </span><span lang=\"VI\">H</span><span lang=\"HR\">ộ tịch\nvà các văn bản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">b) Bố trí đủ biên chế công chức làm\ncông tác hộ tịch, bảo đảm đáp ứng yêu cầu thực tế của địa phương, có tính toán\ntới đội ngũ dự bị.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">c) Kết nối, vận hành phần mềm đăng\nký hộ tịch điện tử, Cơ sở dữ liệu hộ tịch điện tử đồng bộ với cơ sở dữ liệu hộ tịch\nquốc gia.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">d) Xây dựng văn bản quy định về việc\nkết nối, chia sẻ, cung cấp, trao đổi thông tin giữa Cơ sở dữ liệu hộ tịch điện\ntử của tỉnh và cơ sở dữ liệu hộ tịch quốc gia; phân cấp, phân quyền khai thác,\nsử dụng cơ sở dữ liệu hộ tịch điện tử; bảo đảm an toàn, bảo mật thông tin trong\ncơ sở dữ liệu hộ tịch điện tử.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">đ) </span><span lang=\"NL\">Tập trung số\nhoá, cập nhật toàn bộ dữ liệu hộ tịch giấy hiện đang được lưu trữ tại các địa\nphương để phục vụ tốt công tác tra cứu, thống kê số liệu hộ tịch (nhiệm vụ này\ncó thể kéo dài trong giai đoạn tiếp theo, tuỳ thuộc số lượng dữ liệu hộ tịch\nđang được lưu trữ).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">e) </span><span lang=\"HR\">Thực hiện kết\nnối, chia sẻ thông tin giữa các cơ quan đăng ký và quản lý hộ tịch, giữa cơ sở\ndữ liệu hộ tịch điện tử với cơ sở dữ liệu quốc gia về dân cư trên cơ sở các văn\nbản quy định của Trung ương.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_3\"><b><span lang=\"HR\">Phần III:</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span lang=\"HR\" style=\"font-size:12.0pt\">TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"HR\">1. Sở Tư\npháp</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Sở Tư pháp tham mưu cho Ủy ban nhân\ndân tỉnh trong việc triển khai thực hiện Đề án; Chủ trì, phối hợp với Sở Tài\nchính trong việc xây dựng phương án, kinh phí mua sắm, đầu tư hạ tầng kỹ thuật,\ncông nghệ thông tin, máy tính, phần mềm hộ tịch trang bị cho cơ quan đăng ký,\nquản lý hộ tịch từ tỉnh đến xã và </span><span style=\"color:black\">chi phí thuê\nđường truyền, </span><span lang=\"HR\">duy tu, bảo trì nâng cấp, </span><span style=\"color:black\">duy trì thuê bao phần mềm hàng năm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"HR\">2. Sở Tài\nchính</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Sở Tài chính có trách nhiệm tham mưu,\ntrình UBND tỉnh quyết định phân bổ kinh phí để đảm bảo việc triển khai thực\nhiện Đề án có hiệu quả.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"HR\">3. Sở Thông tin\nvà Truyền thông</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Sở Thông tin và Truyền có trách nhiệm\nphối hợp với Sở Tư pháp trong việc triển khai thực hiện Đề án.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"HR\">4. Sở Nội vụ</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Sở Nội Vụ chủ trì, phối hợp với Sở\nTư pháp trong việc đánh giá, bổ sung nguồn nhân lực và xây dựng kế hoạch đào tạo,\nbồi dưỡng cho đội ngũ công chức tư pháp – hộ tịch.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"HR\">5. Ủy ban nhân\ndân các huyện, thành phố</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"HR\">Ủy ban nhân dân các huyện, thành phố\nphối hợp với Sở Tư pháp, Sở Nội vụ trong việc rà soát, bố trí đội ngũ công chức\ntư pháp - hộ tịch đảm bảo đủ tiêu chuẩn theo quy định, đồng thời thực hiện và\nchỉ đạo Ủy ban nhân dân cấp xã thực hiện các nhiệm vụ khác liên quan đến việc\ntriển khai, thực hiện Đề án.</span><span style=\"color:black\">/.</span></p>\n\n<p><b>&nbsp;</b></p>\n\n</div>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH LAI CHÂU  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 1163/QĐ-UBND\n\n_Lai Châu, ngày 16 tháng 10 năm 2015_\n\n**QUYẾT ĐỊNH**\n\nPHÊ DUYỆT ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG CÔNG TÁC ĐĂNG KÝ, QUẢN LÝ HỘ TỊCH VÀ XÂY DỰNG CƠ SỞ DỮ LIỆU HỘ TỊCH ĐIỆN TỬ TRÊN ĐỊA BÀN TỈNH LAI CHÂU”\n\n**ỦY BAN NHÂN DÂN TỈNH LAI CHÂU**\n\n_Căn cứ Luật Tổ chức HĐND và UBND, ngày 26/11/2003;_\n\n_Căn cứ Luật Hộ tịch số 60/2014/QH13, ngày 20 tháng 11 năm 2014;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;_\n\n_Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về Ứng dụng CNTT trong hoạt động của cơ quan hành chính nhà nước;_\n\n_Căn cứ Quyết định số 331/QĐ-UBND ngày 14/4/2015 của Ủy ban nhân dân tỉnh Lai Châu về việc ban hành Đề án thực hiện Nghị quyết số 36-NQ/TW của Bộ Chính trị về “Đẩy mạnh ứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế tỉnh Lai Châu giai đoạn 2015-2020”;_\n\n_Xét đề nghị của Giám đốc Sở Tư pháp,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Phê duyệt Đề án \"Ứng dụng công nghệ thông tin trong công tác đăng ký, quản lý hộ tịch và xây dựng cơ sở dữ liệu hộ tịch điện tử trên địa bàn tỉnh Lai Châu”.\n\n**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký.\n\n**Điều 3.** Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Tư pháp, Nội vụ, Tài chính, Thông tin và Truyền thông, Thủ trưởng các cơ quan, đơn vị có liên quan và Chủ tịch UBND các huyện, thành phố chịu trách nhiệm thi hành Quyết định này./.\n\n  \n**_Nơi nhận:  \n_**\\- Như Điều 3;  \n\\- Cục Hộ tịch, Quốc tịch, chứng thực (Bộ Tư pháp);  \n\\- TT.HĐND tỉnh;  \n\\- CT, các PCT UBND tỉnh;  \n\\- UBMTTQ tỉnh;  \n\\- Lưu: VT, NC.\n\n**TM. UỶ BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nĐỗ Ngọc An**\n\n**ĐỀ ÁN**\n\nỨNG DỤNG CÔNG NGHỆ THÔNG TIN TRONG CÔNG TÁC ĐĂNG KÝ, QUẢN LÝ HỘ TỊCH VÀ XÂY DỰNG CƠ SỞ DỮ LIỆU HỘ TỊCH ĐIỆN TỬ TRÊN ĐỊA BÀN TỈNH LAI CHÂU  \n_(Kèm theo Quyết định số:1163 /QĐ-UBND__, ngày 16 tháng 10 năm 2015 của Ủy ban nhân dân tỉnh Lai Châu)_\n\n**Phần I:**\n\n**CƠ SỞ PHÁP LÝ VÀ TÍNH CẤP THIẾT CỦA ĐỀ ÁN**\n\n**I. CƠ SỞ PHÁP LÝ CỦA VIỆC XÂY DỰNG ĐỀ ÁN**\n\n1\\. Luật Hộ tịch được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 8, thông qua ngày 20/11/2014, có hiệu lực thi hành từ ngày 01/01/2016.\n\n2\\. Quyết định số 896/QĐ-TTg, ngày 08 tháng 6 năm 2013 của Thủ tướng Chính phủ Phê duyệt Đề án tổng thể đơn giản hóa thủ tục hành chính, giấy tờ công dân và cơ sở dữ liệu liên quan đến quản lý dân cư giai đoạn 2013 – 2020.\n\n3\\. Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006.\n\n4\\. Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về Ứng dụng CNTT trong hoạt động của cơ quan hành chính nhà nước; Nghị định số 102/2009/NĐ-CP ngày 06 tháng 11 năm 2009 của Chính phủ về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước.\n\n5\\. Nghị Quyết 30C/NQ-CP ngày 08/11/2011 của Chính phủ ban hành Chương trình tổng thể cải cách hành chính Nhà nước giai đoạn 2011 – 2020.\n\n6\\. Quyết định số 246/2005/QĐ-TTg ngày 06/10/2005 của Thủ tướng Chính phủ phê duyệt chiến lược phát triển công nghệ thông tin và truyền thông Việt Nam đến năm 2010 và định hướng đến năm 2020; Quyết định số 1605/QĐ-TTg ngày 27/8/2010 của Thủ tướng Chính phủ Phê duyệt Chương trình quốc gia về Ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai đoạn 2011 -2015; Quyết định số 1755/QĐ-TTg ngày 22/9/2010 của Thủ tướng Chính phủ phê duyệt Đề án “Đưa Việt Nam sớm trở thành nước mạnh về công nghệ thông tin và truyền thông”.\n\n7\\. Quyết định số 331/QĐ-UBND ngày 14/4/2015 của UBND tỉnh Lai Châu về việc Ban hành Đề án thực hiện Nghị quyết số 36-NQ/TW của Bộ Chính trị về “Đẩy mạnh ứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế tỉnh Lai Châu giai đoạn 2015 – 2020”.\n\n**II. SỰ CẦN THIẾT**\n\nĐăng ký hộ tịch là việc cơ quan Nhà nước có thẩm quyền xác nhận và ghi vào hệ thống đăng ký các thông tin hộ tịch cơ bản của cá nhân, tạo cơ sở để xác lập mối quan hệ giữa cá nhân với Nhà nước (quan hệ Nhà nước – công dân), là cơ sở pháp lý quan trọng để cá nhân thực hiện các quyền, nghĩa vụ dân sự khác của mình. Thông tin hộ tịch cơ bản, sau khi được đăng ký, trở thành dữ liệu đầu vào của Cơ sở dữ liệu quốc gia về dân cư. Vì thế, theo Luật Hộ tịch, đây là dữ liệu gốc, mang tính nguồn hoặc tính đối chiếu xác thực của bất kỳ hệ thống cơ sở dữ liệu nào liên quan đến dân cư.\n\nTrong bối cảnh hiện nay, khoa học công nghệ phát triển nhanh và mạnh, yêu cầu đẩy mạnh ứng dụng công nghệ thông tin trong quản lý và giải quyết thủ tục hành chính, nhu cầu về khai thác, quản lý, sử dụng các thông tin hộ tịch cá nhân của các ngành, lĩnh vực khác ngày càng tăng. Do đó đòi hỏi ngày càng cao về quy mô dữ liệu, tốc độ đáp ứng và tính khoa học, đồng bộ. Các ngành, lĩnh vực khác cũng đang đẩy mạnh việc ứng dụng công nghệ thông tin trong quản lý, điều hành. Vì vậy, việc đăng ký và quản lý các thông tin hộ tịch của cá nhân (đăng ký và quản lý hộ tịch) một cách thủ công trên hệ thống sổ, hồ sơ giấy như bấy lâu nay sẽ là lạc hậu, không phù hợp tiến trình phát triển và yêu cầu đáp ứng của xã hội.\n\nĐối với tỉnh Lai Châu, việc triển khai ứng dụng công nghệ thông tin trong đăng ký hộ tịch tại các huyện, thành phố thiếu đồng bộ, đặc biệt là đối với cấp xã (theo báo cáo của các huyện, thành phố thì có 97% các xã công chức tư pháp – hộ tịch không được trang bị máy vi tính riêng, phải dùng chung với văn phòng hoặc bộ phận một cửa), do đó, trên địa bàn tỉnh, cơ bản đến nay vẫn áp dụng mô hình xác lập, thu thập, lưu trữ thông tin dữ liệu hộ tịch theo phương pháp truyền thống: đăng ký và quản lý hộ tịch thông qua hệ thống biểu mẫu, sổ sách, hồ sơ một cách thủ công, phần lớn vẫn là viết tay, việc ứng dụng công nghệ thông tin mới chỉ dừng ở mức in biểu mẫu hộ tịch từ máy tính. Các cơ quan đăng ký hộ tịch trên địa bàn tỉnh Lai Châu tuy đã được đầu tư phần mềm đăng ký quản lý hộ tịch theo mẫu quy định tại Nghị định 158/CP nhưng đến nay không còn phù hợp với các quy định của Luật Hộ tịch (chủ yếu ở mức độ đăng ký riêng lẻ từng loại việc, chưa có sự liên thông, thống nhất giữa các sự kiện hộ tịch của cùng một cá nhân, chưa kết nối giữa các cơ quan đăng ký hộ tịch với nhau và với cơ quan quản lý hộ tịch cấp trên). Việc ứng dụng và cài đặt các phần mềm này mới chỉ dừng lại ở mức độ hỗ trợ công chức thực hiện nghiệp vụ đăng ký hộ tịch, chưa đáp ứng yêu cầu cung cấp dịch vụ công trực tuyến, chưa có sự kết nối thông tin nhằm đáp ứng yêu cầu trong giai đoạn hiện nay về việc phát triển Chính phủ điện tử - cung cấp dịch vụ công trực tuyến. Dẫn đến khả năng phục vụ nhu cầu tra cứu, xác minh thông tin hộ tịch của người dân và yêu cầu quản lý nhà nước còn nhiều hạn chế. Mặt khác, do không được trang bị máy vi tính riêng cho công chức tư pháp – hộ tịch, vì vậy phần mềm do tỉnh trang bị cho cơ quan đăng ký hộ tịch trên địa bàn tỉnh đến nay đa số đã bị hỏng không còn sử dụng được.\n\nĐể bảm bảo việc triển khai Luật Hộ tịch có hiệu quả trên địa bàn tỉnh Lai Châu thì việc ứng dụng công nghệ thông tin, sử dụng phần mềm đăng ký hộ tịch là cần thiết và là biện pháp số hóa (điện tử hóa) thông tin hộ tịch của cá nhân, trong đó có thông tin khai sinh – là thông tin hộ tịch gốc. Theo Đề án 896, Luật Hộ tịch, Luật Căn cước công dân, đây là thông tin đầu vào của Cơ sở dữ liệu quốc gia về dân cư. Bên cạnh đó, những thông tin hộ tịch khác về kết hôn, ly hôn, thay đổi cải chính hộ tịch, xác định lại dân tộc, xác định lại giới tính, khai tử... được cập nhật vào hệ thống dữ liệu, được coi là thông tin “động”, có giá trị làm cho Cơ sở dữ liệu quốc gia về dân cư luôn sống. Vì vậy, để xây dựng được Cơ sở dữ liệu hộ tịch điện tử của tỉnh Lai Châu góp phần xây dựng dữ liệu hộ tịch quốc gia thì chúng ta phải nhanh chóng đầu tư hạ tầng cơ sở, đảm bảo các cơ quan đăng ký hộ tịch từ tỉnh đến cơ sở đều được trang bị phần mềm và máy vi tính riêng để phục vụ cho công tác đăng ký, quản lý hộ tịch.\n\n**Phần II:**\n\n**NỘI DUNG CỦA ĐỀ ÁN**\n\n**I. MỤC TIÊU CỦA ĐỀ ÁN**\n\n**1\\. Mục tiêu tổng quát**\n\nỨng dụng đồng bộ công nghệ thông tin trong đăng ký và quản lý hộ tịch trên phạm vi toàn tỉnh, xây dựng cơ sở dữ liệu hộ tịch điện tử tập trung, góp phần nâng cao hiệu quả trong công tác quản lý, nhằm đảm bảo sự quản lý thống nhất từ tỉnh đến cơ sở và có sự phân quyền, phân cấp hợp lý giữa các cơ quan đăng ký hộ tịch theo đơn vị hành chính, theo cấp quản lý; bảo đảm bí mật thông tin cá nhân, đáp ứng yêu cầu giải quyết thủ tục hành chính, từng bước hiện đại hóa công tác đăng ký hộ tịch, tiến tới đăng ký trực tuyến; bảo đảm kết nối để cung cấp thông tin hộ tịch cơ bản của cá nhân cho Cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu chuyên ngành có liên quan.\n\n**2\\. Mục tiêu cụ thể**\n\n_a) Giai đoạn 2015- 2016_:\n\n\\- Thực hiện rà soát đội ngũ công chức làm công tác hộ tịch tại địa phương, xây dựng kế hoạch, lộ trình đào tạo, bồi dưỡng đội ngũ công chức làm công tác hộ tịch. Bổ sung nguồn nhân lực cho công tác đăng ký và quản lý hộ tịch tại địa phương.\n\n\\- Đầu tư cơ sở vật chất, phần mềm quản lý hộ tịch cho cơ quan đăng ký và quản lý hộ tịch từ tỉnh đến cơ sở (mua sắm máy vi tính, máy in, phần mềm quản lý hộ tịch, sổ hộ tịch, biểu mẫu hộ tịch từ tỉnh đến cơ sở và các điều kiện khác phục vụ cho công tác đăng ký, quản lý hộ tịch).\n\n\\- Tổ chức triển khai, thực hiện Luật Hộ tịch và tiến hành đăng ký các sự kiện hộ tịch mới được chuyển giao theo quy định tại Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã.\n\nb) _Giai đoạn 2017 -2020:_\n\n\\- Hoàn thành việc xây dựng cơ sở vật chất, phần mềm quản lý hộ tịch thống nhất và nguồn nhân lực tại cơ quan đăng ký và quản lý hộ tịch.\n\n\\- Ban hành các văn bản hướng dẫn triển khai thực hiện Luật Hộ tịch, quy định cơ chế phối hợp; cơ chế kết nối, chia sẻ thông tin giữa Cơ sở dữ liệu hộ tịch của tỉnh với Cơ sở hộ tịch của quốc gia và Cơ sở dữ liệu quốc gia về dân cư; phân quyền quản lý Cơ sở dữ liệu hộ tịch điện tử.\n\n\\- Đăng ký các sự kiện hộ tịch mới, từng bước cập nhật thông tin từ cơ sở dữ liệu giấy vào Cơ sở dữ liệu hộ tịch điện tử (số hoá, nhập dữ liệu hộ tịch từ các sổ giấy hiện đang được lưu trữ tại các địa phương).\n\n\\- Cung cấp, trao đổi thông tin hộ tịch điện tử giữa các cơ quan đăng ký và quản lý hộ tịch; hiện đại hóa công tác đăng ký và cấp các giấy tờ hộ tịch (đăng ký hộ tịch trực tuyến theo từng cấp độ).\n\n\\- Kết nối, chia sẻ thông tin từ Cơ sở dữ liệu hộ tịch điện tử với Cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu chuyên ngành khác có liên quan.\n\nc) Giai đoạn từ 2020 trở đi: Thực hiện đăng ký, quản lý hộ tịch điện tử, giải quyết thủ tục hành chính trực tuyến.\n\n**II. GIẢI PHÁP THỰC HIỆN ĐỀ ÁN**\n\n**1\\. Giải pháp về hạ tầng kỹ thuật**\n\n\\- Trang bị cho công chức làm công tác đăng ký, quản lý hộ tịch từ cấp tỉnh đến cấp xã (Sở Tư pháp và 108 xã, phường, thị trấn) 01 bộ máy tính (máy tính và máy in)/đơn vị có kết nối mạng Internet, phục vụ riêng cho công tác hộ tịch.\n\n\\- Đầu tư hạ tầng công nghệ thông tin, đảm bảo đồng bộ gồm đường truyền, phần mềm đăng ký hộ tịch điện tử, máy tính, máy in đào tạo, bồi dưỡng cho người sử dụng duy tu, bảo trì dài hạn và bảo đảm an toàn thông tin cho từng bản ghi dữ liệu cũng như sự an toàn cho toàn bộ hệ thống.\n\n\\- Thuê đường truyền và duy tu, bảo trì nâng cấp, duy trì thuê bao phần mềm hàng năm.\n\n**2\\. Giải pháp về phần mềm**\n\nPhần mềm đăng ký hộ tịch phải đáp ứng mọi yêu cầu đăng ký hộ tịch và cấp giấy tờ hộ tịch cho người dân và cơ quan, tổ chức có yêu cầu theo Luật Hộ tịch; có khả năng đăng ký hộ tịch trực tuyến đủ cấp độ theo lộ trình cụ thể; có khả năng kết nối để cung cấp thông tin hộ tịch cho Cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu điện tử chuyên ngành khác; đáp ứng yêu cầu quản lý, tra cứu, khai thác sử dụng của 4 cấp từ Trung ương đến cấp xã; bảo đảm an ninh và bảo mật thông tin, bí mật đời tư cá nhân, sự an toàn cho toàn bộ Cơ sở dữ liệu hộ tịch điện tử; kết nối được với phần mềm đăng ký hộ tịch của Trung ương.\n\n**3\\. Giải pháp về nguồn nhân lực**\n\n\\- Sử dụng tối đa năng lực của đội ngũ công chức làm công tác hộ tịch hiện nay, trên cơ sở cân đối bố trí đủ biên chế, căn cứ vào nhu cầu đăng ký hộ tịch, đặc điểm tình hình thực tế của từng địa phương.\n\n\\- Tổ chức các lớp đào tạo, bồi dưỡng nghiệp vụ cho đội ngũ công chức làm công tác hộ tịch (ở cả ba cấp tỉnh, huyện, xã), kể cả về chuyên môn, nghiệp vụ hộ tịch và kiến thức tin học, kỹ năng sử dụng phần mềm, quản trị hệ thống, bảo mật thông tin, an toàn dữ liệu.\n\n**4\\. Giải pháp tổ chức, triển khai**\n\n\\- Tạo lập cơ chế chỉ đạo, điều hành thống nhất từ tỉnh đến xã; sự vào cuộc đồng bộ, quyết liệt của các sở, ngành, cơ quan, đơn vị có liên quan để bảo đảm sự thành công của Đề án.\n\n\\- Khảo sát trực tiếp và yêu cầu các huyện, thành phố báo cáo để đánh giá tổng thể về thực trạng nguồn nhân lực, hạ tầng kỹ thuật và trình độ tin học của đội ngũ công chức tư pháp – hộ tịch, từ đó có những giải pháp tích cực, phù hợp.\n\n**5\\. Giải pháp tài chính**\n\nViệc xây dựng hạ tầng kỹ thuật, công nghệ thông tin, máy tính, phần mềm được bảo đảm kinh phí từ nguồn ngân sách của tỉnh để triển khai thành công Đề án.\n\n**III. NHIỆM VỤ VÀ LỘ TRÌNH THỰC HIỆN**\n\n**1\\. Giai đoạn 2015-2016_:_** Trong giai đoạn này dự kiến sẽ tiến hành những hoạt động như sau:\n\na) Xây dựng Kế hoạch triển khai thi hành Luật Hộ tịch trên địa bàn tỉnh Lai Châu.\n\nb) Khảo sát, đánh giá về cơ sở vật chất, hạ tầng để phục vụ công tác đăng ký, quản lý hộ tịch tại địa phương (số lượng, chất lượng máy tính, hạ tầng mạng, phần mềm đang sử dụng); Tiến hành rà soát đội ngũ công chức làm công tác hộ tịch, khảo sát, đánh giá trình độ tin học, trình độ chuyên môn của công chức Tư pháp - hộ tịch (độ tuổi, số năm công tác, trình độ chuyên môn nghiệp vụ, trình độ tin học thực tế...), xây dựng lộ trình đào tạo, bồi dưỡng đội ngũ công chức làm công tác hộ tịch.\n\nĐối với những địa phương chưa được trang bị máy tính, kết nối internet thì dự kiến kinh phí để mua sắm hoàn thiện cơ sở hạ tầng.\n\nc) Xây dựng phương án mua sắm, đầu tư hạ tầng kỹ thuật, công nghệ thông tin, máy tính, phần mềm hộ tịch trang bị cho cơ quan đăng ký, quản lý hộ tịch từ tỉnh đến xã.\n\nd) Bố trí đủ trang thiết bị, phương tiện làm việc cho các cơ quan đăng ký và quản lý hộ tịch để thực hiện nhiệm vụ xây dựng, quản lý cơ sở dữ liệu hộ tịch; Cài đặt, đào tạo sử dụng phần mềm đăng ký hộ tịch điện tử, cập nhật, khai thác, sử dụng Cơ sở dữ liệu hộ tịch điện tử; Kết nối dữ liệu hộ tịch của tỉnh với dữ liệu hộ tịch quốc gia;\n\n**_2_****_. Giai đoạn 201_****_7_****_\\-2020:_** Trong giai đoạn này dự kiến sẽ tiến hành các hoạt động như sau:\n\na) Đánh giá kết quả triển khai thực hiện tại giai đoạn 2015-2016, rút kinh nghiệm, điều chỉnh phần mềm đăng ký hộ tịch theo quy định của Luật Hộ tịch và các văn bản hướng dẫn thi hành.\n\nb) Bố trí đủ biên chế công chức làm công tác hộ tịch, bảo đảm đáp ứng yêu cầu thực tế của địa phương, có tính toán tới đội ngũ dự bị.\n\nc) Kết nối, vận hành phần mềm đăng ký hộ tịch điện tử, Cơ sở dữ liệu hộ tịch điện tử đồng bộ với cơ sở dữ liệu hộ tịch quốc gia.\n\nd) Xây dựng văn bản quy định về việc kết nối, chia sẻ, cung cấp, trao đổi thông tin giữa Cơ sở dữ liệu hộ tịch điện tử của tỉnh và cơ sở dữ liệu hộ tịch quốc gia; phân cấp, phân quyền khai thác, sử dụng cơ sở dữ liệu hộ tịch điện tử; bảo đảm an toàn, bảo mật thông tin trong cơ sở dữ liệu hộ tịch điện tử.\n\nđ) Tập trung số hoá, cập nhật toàn bộ dữ liệu hộ tịch giấy hiện đang được lưu trữ tại các địa phương để phục vụ tốt công tác tra cứu, thống kê số liệu hộ tịch (nhiệm vụ này có thể kéo dài trong giai đoạn tiếp theo, tuỳ thuộc số lượng dữ liệu hộ tịch đang được lưu trữ).\n\ne) Thực hiện kết nối, chia sẻ thông tin giữa các cơ quan đăng ký và quản lý hộ tịch, giữa cơ sở dữ liệu hộ tịch điện tử với cơ sở dữ liệu quốc gia về dân cư trên cơ sở các văn bản quy định của Trung ương.\n\n**Phần III:**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**1\\. Sở Tư pháp**\n\nSở Tư pháp tham mưu cho Ủy ban nhân dân tỉnh trong việc triển khai thực hiện Đề án; Chủ trì, phối hợp với Sở Tài chính trong việc xây dựng phương án, kinh phí mua sắm, đầu tư hạ tầng kỹ thuật, công nghệ thông tin, máy tính, phần mềm hộ tịch trang bị cho cơ quan đăng ký, quản lý hộ tịch từ tỉnh đến xã và chi phí thuê đường truyền, duy tu, bảo trì nâng cấp, duy trì thuê bao phần mềm hàng năm.\n\n**2\\. Sở Tài chính**\n\nSở Tài chính có trách nhiệm tham mưu, trình UBND tỉnh quyết định phân bổ kinh phí để đảm bảo việc triển khai thực hiện Đề án có hiệu quả.\n\n**3\\. Sở Thông tin và Truyền thông**\n\nSở Thông tin và Truyền có trách nhiệm phối hợp với Sở Tư pháp trong việc triển khai thực hiện Đề án.\n\n**4\\. Sở Nội vụ**\n\nSở Nội Vụ chủ trì, phối hợp với Sở Tư pháp trong việc đánh giá, bổ sung nguồn nhân lực và xây dựng kế hoạch đào tạo, bồi dưỡng cho đội ngũ công chức tư pháp – hộ tịch.\n\n**5\\. Ủy ban nhân dân các huyện, thành phố**\n\nỦy ban nhân dân các huyện, thành phố phối hợp với Sở Tư pháp, Sở Nội vụ trong việc rà soát, bố trí đội ngũ công chức tư pháp - hộ tịch đảm bảo đủ tiêu chuẩn theo quy định, đồng thời thực hiện và chỉ đạo Ủy ban nhân dân cấp xã thực hiện các nhiệm vụ khác liên quan đến việc triển khai, thực hiện Đề án./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

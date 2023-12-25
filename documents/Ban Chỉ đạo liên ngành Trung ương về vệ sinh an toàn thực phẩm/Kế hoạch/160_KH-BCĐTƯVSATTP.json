@@ -1,0 +1,693 @@
+{
+  "title": "Kế hoạch 160/KH-BCĐTƯVSATTP triển khai công tác thanh tra, kiểm tra về an toàn thực phẩm năm 2017 do Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 77/2016/NĐ-CP sửa đổi quy định về điều kiện đầu tư kinh doanh trong lĩnh vực mua bán hàng hóa quốc tế, hóa chất, vật liểu nổ công nghiệp, phân bón, kinh doanh khí, kinh doanh thực phẩm thuộc phạm vi quản lý nhà nước của Bộ Công thương",
+      "id": "77/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-01",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-07-27",
+      "gazetteNumber": "Từ số 779 đến số 780",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 13/CT-TTg năm 2016 về tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm do Thủ tướng Chính phủ ban hành",
+      "id": "13/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-09",
+      "effectiveDate": "2016-05-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 48/2015/TT-BYT Quy định hoạt động kiểm tra an toàn vệ sinh thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế",
+      "id": "48/2015/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2015-12-01",
+      "effectiveDate": "2016-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 38/2015/QĐ-TTg về thí điểm triển khai thanh tra chuyên ngành an toàn thực phẩm tại quận, huyện, thị xã và phường, xã, thị trấn của thành phố Hà Nội và Hồ Chí Minh do Thủ tướng Chính phủ ban hành",
+      "id": "38/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-09",
+      "effectiveDate": "2015-11-15",
+      "gazetteDate": "2015-09-21",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 09/2015/TT-BYT Quy định về xác nhận nội dung quảng cáo đối với sản phẩm, hàng hóa, dịch vụ đặc biệt thuộc lĩnh vực quản lý của Bộ Y tế",
+      "id": "09/2015/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Phạm Lê Tuấn"
+      ],
+      "issuedDate": "2015-05-25",
+      "effectiveDate": "2015-07-16",
+      "gazetteDate": "2015-06-20",
+      "gazetteNumber": "Từ số 609 đến số 610",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 08/2015/TT-BYT sửa đổi Thông tư 27/2012/TT-BYT hướng dẫn việc quản lý phụ gia thực phẩm do Bộ Y tế ban hành",
+      "id": "08/2015/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2015-05-11",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2015-07-17",
+      "gazetteNumber": "Từ số 835 đến số 836",
+      "status": "Hết hiệu lực: 16/10/2019"
+    },
+    {
+      "title": "Thông tư 51/2014/TT-BNNPTNT về điều kiện bảo đảm an toàn thực phẩm và phương thức quản lý đối với các cơ sở sản xuất ban đầu nhỏ lẻ do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "51/2014/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Cao Đức Phát"
+      ],
+      "issuedDate": "2014-12-27",
+      "effectiveDate": "2015-02-10",
+      "gazetteDate": "2015-01-14",
+      "gazetteNumber": "Từ số 53 đến số 54",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Thông tư 47/2014/TT-BYT hướng dẫn quản lý an toàn thực phẩm đối với cơ sở kinh doanh dịch vụ ăn uống do Bộ trưởng Bộ Y tế ban hành",
+      "id": "47/2014/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2014-12-11",
+      "effectiveDate": "2015-02-15",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Hết hiệu lực: 12/11/2018"
+    },
+    {
+      "title": "Thông tư 45/2014/TT-BNNPTNT quy định việc kiểm tra cơ sở sản xuất, kinh doanh vật tư nông nghiệp và kiểm tra, chứng nhận cơ sở sản xuất, kinh doanh nông lâm thủy sản đủ điều kiện an toàn thực phẩm do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "45/2014/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Cao Đức Phát"
+      ],
+      "issuedDate": "2014-12-03",
+      "effectiveDate": "2015-01-17",
+      "gazetteDate": "2015-01-17",
+      "gazetteNumber": "Từ số 57 đến số 58",
+      "status": "Hết hiệu lực: 07/02/2019"
+    },
+    {
+      "title": "Thông tư 43/2014/TT-BYT về quản lý thực phẩm chức năng do Bộ trưởng Bộ Y tế ban hành",
+      "id": "43/2014/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2014-11-24",
+      "effectiveDate": "2015-02-01",
+      "gazetteDate": "2015-01-04",
+      "gazetteNumber": "Từ số 9 đến số 10",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 34/2014/TTLT-BYT-BNNPTNT-BCT hướng dẫn ghi nhãn hàng hóa đối với thực phẩm, phụ gia thực phẩm và chất hỗ trợ chế biến thực phẩm bao gói sẵn do Bộ trưởng Bộ Y tế - Bộ Nông nghiệp và Phát triển nông thôn - Bộ Công thương ban hành",
+      "id": "34/2014/TTLT-BYT-BNNPTNT-BCT",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Thương mại",
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn, Bộ Y tế, Bộ Công thương",
+      "signers": [
+        "Vũ Văn Tám",
+        "Đỗ Thắng Hải",
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2014-10-27",
+      "effectiveDate": "2014-12-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/09/2019"
+    },
+    {
+      "title": "Nghị định 181/2013/NĐ-CP hướng dẫn Luật quảng cáo",
+      "id": "181/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-14",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-12-03",
+      "gazetteNumber": "Từ số 855 đến số 856",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 48/2013/TT-BNNPTNT quy định về kiểm tra, chứng nhận an toàn thực phẩm thủy sản xuất khẩu",
+      "id": "48/2013/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Nguyễn Thị Xuân Thu"
+      ],
+      "issuedDate": "2013-11-12",
+      "effectiveDate": "2013-12-26",
+      "gazetteDate": "2013-11-30",
+      "gazetteNumber": "Từ số 831 đến số 832",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 40/2012/TT-BCT quy định cấp Giấy xác nhận nội dung quảng cáo thực phẩm thuộc trách nhiệm quản lý của Bộ Công thương",
+      "id": "40/2012/TT-BCT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Công thương",
+      "signers": [
+        "Nguyễn Cẩm Tú"
+      ],
+      "issuedDate": "2012-12-21",
+      "effectiveDate": "2013-02-03",
+      "gazetteDate": "2013-01-19",
+      "gazetteNumber": "Từ số 29 đến số 30",
+      "status": "Hết hiệu lực: 25/11/2021"
+    },
+    {
+      "title": "Thông tư 30/2012/TT-BYT quy định về điều kiện an toàn thực phẩm đối với cơ sở kinh doanh dịch vụ ăn uống, kinh doanh thức ăn đường phố do Bộ trưởng Bộ Y tế ban hành",
+      "id": "30/2012/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2012-12-05",
+      "effectiveDate": "2013-01-20",
+      "gazetteDate": "2012-12-21",
+      "gazetteNumber": "Từ số 759 đến số 760",
+      "status": "Hết hiệu lực: 12/11/2018"
+    },
+    {
+      "title": "Thông tư 27/2012/TT-BYT hướng dẫn việc quản lý phụ gia thực phẩm do Bộ trưởng Bộ Y tế ban hành",
+      "id": "27/2012/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2012-11-30",
+      "effectiveDate": "2013-02-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 16/10/2019"
+    },
+    {
+      "title": "Thông tư 19/2012/TT-BYT hướng dẫn việc công bố hợp quy và công bố phù hợp quy định an toàn thực phẩm do Bộ Y tế ban hành",
+      "id": "19/2012/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2012-11-09",
+      "effectiveDate": "2012-12-25",
+      "gazetteDate": "2012-11-25",
+      "gazetteNumber": "Từ số 665 đến số 666",
+      "status": "Hết hiệu lực: 15/11/2018"
+    },
+    {
+      "title": "Thông tư 16/2012/TT-BYT quy định điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế",
+      "id": "16/2012/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2012-10-22",
+      "effectiveDate": "2012-12-05",
+      "gazetteDate": "2012-11-01",
+      "gazetteNumber": "Từ số 643 đến số 644",
+      "status": "Hết hiệu lực: 12/11/2018"
+    },
+    {
+      "title": "Thông tư 15/2012/TT-BYT quy định điều kiện chung bảo đảm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm do Bộ trưởng Bộ Y tế ban hành",
+      "id": "15/2012/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2012-09-12",
+      "effectiveDate": "2012-11-01",
+      "gazetteDate": "2012-09-26",
+      "gazetteNumber": "Từ số 603 đến số 604",
+      "status": "Hết hiệu lực: 12/11/2018"
+    },
+    {
+      "title": "Luật Quảng cáo 2012",
+      "id": "16/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-21",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 481 đến số 482",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 38/2012/NĐ-CP hướng dẫn Luật an toàn thực phẩm",
+      "id": "38/2012/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-04-25",
+      "effectiveDate": "2012-06-11",
+      "gazetteDate": "2012-05-04",
+      "gazetteNumber": "Từ số 359 đến số 360",
+      "status": "Hết hiệu lực: 02/02/2018"
+    },
+    {
+      "title": "Nghị định 30/2012/NĐ-CP về tổ chức, hoạt động của quỹ xã hội, từ thiện",
+      "id": "30/2012/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-04-12",
+      "effectiveDate": "2012-06-01",
+      "gazetteDate": "2012-04-24",
+      "gazetteNumber": "Từ số 345 đến số 346",
+      "status": "Hết hiệu lực: 15/01/2020"
+    },
+    {
+      "title": "Luật an toàn thực phẩm 2010",
+      "id": "55/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-06-17",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2010-09-25",
+      "gazetteNumber": "Từ số 564 đến số 565",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 89/2006/NĐ-CP về nhãn hàng hoá",
+      "id": "89/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2006-08-30",
+      "effectiveDate": "2007-03-13",
+      "gazetteDate": "2006-09-13",
+      "gazetteNumber": "Từ số 33 đến số 34",
+      "status": "Hết hiệu lực: 01/06/2017"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công văn 7278/BCĐTƯATTP năm 2020 về đính chính Kế hoạch 1993/KH-BCĐTƯATTP do Ban chỉ đạo Liên ngành Trung ương về An toàn thực phẩm ban hành",
+      "id": "7278/BCĐTƯATTP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2020-12-28",
+      "effectiveDate": "2020-12-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 115/2018/NĐ-CP quy định xử phạt vi phạm hành chính về an toàn thực phẩm",
+      "id": "115/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-09-04",
+      "effectiveDate": "2018-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 613/TTrB-P1 về tăng cường công tác thanh tra về an toàn thực phẩm trong dịp Tết Trung thu năm 2018 do Thanh tra Bộ Y tế ban hành",
+      "id": "613/TTrB-P1",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thanh tra Bộ Y tế",
+      "signers": [
+        "Đặng Văn Chính"
+      ],
+      "issuedDate": "2018-08-14",
+      "effectiveDate": "2018-08-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 108/TTr-ATVSLĐ về thực hiện Kế hoạch thanh tra, kiểm tra năm 2018 do Thanh tra Bộ Lao động - Thương binh và Xã hội ban hành",
+      "id": "108/TTr-ATVSLĐ",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Lao động - Thương binh và Xã hội",
+      "signers": [
+        "Nguyễn Tiến Tùng"
+      ],
+      "issuedDate": "2018-02-28",
+      "effectiveDate": "2018-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 6986/BYT-ATTP năm 2017 về tăng cường công tác thanh tra, kiểm tra về an toàn thực phẩm do Bộ Y tế ban hành",
+      "id": "6986/BYT-ATTP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2017-12-06",
+      "effectiveDate": "2017-12-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1695/QĐ-BKHĐT năm 2017 về kế hoạch thanh tra, kiểm tra năm 2018 của Bộ Kế hoạch và Đầu tư",
+      "id": "1695/QĐ-BKHĐT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Nguyễn Văn Trang"
+      ],
+      "issuedDate": "2017-11-22",
+      "effectiveDate": "2017-11-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông báo 321/TB-VPCP năm 2017 kết luận của Phó Thủ tướng Chính phủ Vũ Đức Đam tại cuộc họp Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm do Văn phòng Chính phủ ban hành",
+      "id": "321/TB-VPCP",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2017-07-21",
+      "effectiveDate": "2017-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 364/QĐ-UBND năm 2017 Quy định về chế độ thông tin, báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng trên địa bàn tỉnh Khánh Hòa",
+      "id": "364/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Khánh Hòa",
+      "signers": [
+        "Lê Đức Vinh"
+      ],
+      "issuedDate": "2017-02-09",
+      "effectiveDate": "2017-02-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 235/QĐ-BNN-QLCL Kế hoạch Năm cao điểm hành động vệ sinh an toàn thực phẩm trong lĩnh vực nông nghiệp năm 2017 do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "235/QĐ-BNN-QLCL",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thể thao - Y tế",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Nguyễn Xuân Cường"
+      ],
+      "issuedDate": "2017-01-24",
+      "effectiveDate": "2017-01-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 805/QĐ-BYT năm 2016 công bố thủ tục hành chính tại được ban hành tại Thông tư 52/2015/TT-BYT quy định việc kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu và hồ sơ, thủ tục cấp giấy chứng nhận đối với thực phẩm xuất khẩu thuộc phạm vi quản lý của Bộ Y tế",
+      "id": "805/QĐ-BYT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xuất nhập khẩu",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2016-03-09",
+      "effectiveDate": "2016-03-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 422/QĐ-BCT năm 2016 chỉ định cơ quan kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu thuộc trách nhiệm quản lý của Bộ Công Thương",
+      "id": "422/QĐ-BCT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Công thương",
+      "signers": [
+        "Đỗ Thắng Hải"
+      ],
+      "issuedDate": "2016-01-28",
+      "effectiveDate": "2016-01-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 28/01/2019"
+    },
+    {
+      "title": "Quyết định 292/QĐ-BCT năm 2016 chỉ định cơ quan kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu thuộc trách nhiệm quản lý của Bộ Công Thương",
+      "id": "292/QĐ-BCT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Công thương",
+      "signers": [
+        "Đỗ Thắng Hải"
+      ],
+      "issuedDate": "2016-01-20",
+      "effectiveDate": "2016-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/01/2019"
+    }
+  ],
+  "id": "160/KH-BCĐTƯVSATTP",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Thể thao - Y tế"
+  ],
+  "organization": "Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm",
+  "signers": [
+    "Nguyễn Thị Kim Tiến"
+  ],
+  "issuedDate": "2017-02-16",
+  "effectiveDate": "2017-02-16",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADAAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>BAN CHỈ ĐẠO\n  LIÊN NGÀNH<br>\n  TRUNG ƯƠNG VỀ VỆ SINH<br>\n  AN TOÀN THỰC PHẨM<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  160/KH-BCĐTƯVSATTP</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 16 <span style=\"background:white\">tháng</span> 02 năm 2017</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">TRIỂN\nKHAI CÔNG TÁC THANH TRA, KIỂM TRA VỀ AN TOÀN THỰC PHẨM NĂM 2017</a></p>\n\n<p style=\"margin-top:6.0pt\">Trong năm 2016, công tác thanh tra, kiểm tra về an\ntoàn thực phẩm đã được các Bộ, ngành Trung ương và các địa phương triển khai mạnh\nmẽ, các hoạt động thanh tra, <span style=\"background:white\">kiểm tra</span> đã\ngóp phần ngăn chặn và xử lý nhiều vụ vi phạm về an toàn thực phẩm, góp phần làm\nthị trường thực phẩm an toàn hơn; đồng thời qua công tác thanh tra, <span style=\"background:white\">kiểm tra</span> đã có những đề xuất giúp các cơ quan\nquản lý nhà nước ở Trung ương và địa phương chỉ đạo, chấn chỉnh và xử lý kịp thời\n<span style=\"background:white\">những</span> sự cố về an toàn thực <span style=\"background:white\">phẩm</span>, xử lý nghiêm các tổ chức, cá nhân vi phạm\nvề an toàn thực phẩm, công bố công khai các cơ sở vi phạm trên các phương tiện\nthông tin đại chúng theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">Phát huy những kết quả đã đạt được, tiếp tục đẩy mạnh\ncác hoạt động thanh tra, kiểm tra nhằm bảo đảm an toàn thực phẩm cho người dân,\ngóp phần phát triển kinh tế - xã hội, Ban Chỉ đạo liên ngành Trung ương về vệ\nsinh an toàn thực phẩm ban hành kế hoạch thanh tra, kiểm tra an toàn thực phẩm\nnăm 2017 như sau:</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>A. MỤC ĐÍCH, YÊU CẦU</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b>I. Mục đích</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Tăng cường trách nhiệm quản lý nhà nước về an\ntoàn thực phẩm ở các cấp, thông qua hoạt động thanh tra, kiểm tra kịp thời phát\nhiện, ngăn chặn, xử lý các trường hợp vi phạm về an toàn thực phẩm, hạn chế ngộ\nđộc thực phẩm và các bệnh truyền qua thực phẩm; triển khai hoạt động thanh tra,\n<span style=\"background:white\">kiểm tra</span> có trọng tâm, trọng điểm; đánh\ngiá trách nhiệm đơn vị, cá nhân trong thực hiện quản lý nhà nước về an toàn thực\nphẩm theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 13/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx\">13/CT-TTg</a>  ngày 09/5/2016 của Thủ tướng Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Đánh giá việc chấp hành pháp luật về an toàn thực\nphẩm của các cơ sở sản xuất, kinh doanh, nhập khẩu, bảo quản, vận chuyển thực <span style=\"background:white\">phẩm</span>, cơ sở kinh doanh dịch vụ ăn uống, đặc biệt\nlà bếp ăn tập thể khu công nghiệp, trường học và an toàn thực <span style=\"background:white\">phẩm</span> tại các lễ hội, sự kiện lớn, kinh doanh thức\năn đường phố; kiểm soát hoạt động sản xuất, chế biến, kinh doanh, nhập khẩu thực\nphẩm, kinh doanh đa cấp thực phẩm và kiểm soát quảng cáo thực phẩm chức năng\ntheo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">3. Đánh giá tình hình về an toàn thực phẩm đối với\ncác nhóm thực phẩm có nguy cơ cao lưu thông trên thị trường nhằm cảnh báo mối\nnguy và định hướng giải pháp quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">4. Thông qua việc thanh tra, kiểm tra tại các cơ sở\nthực phẩm, đánh giá việc cấp các loại giấy phép về an toàn thực phẩm (Giấy chứng\nnhận cơ sở đủ điều kiện an toàn thực <span style=\"background:white\">phẩm</span>,\nGiấy tiếp nhận bản công bố hợp quy/Giấy xác nhận công bố phù hợp quy định an\ntoàn thực phẩm, Giấy xác nhận nội dung quảng cáo).</p>\n\n<p style=\"margin-top:6.0pt\">5. Qua công tác thanh tra, kiểm tra đánh giá hiệu\nquả văn bản quy phạm pháp luật; phát hiện <span style=\"background:white\">những</span>\nbất cập để đề xuất <span style=\"background:white\">sửa đổi</span>, bổ sung văn bản\nquy phạm pháp luật về an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b>II. Yêu cầu</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thanh tra, kiểm tra toàn diện việc thực hiện các\nquy định của pháp luật về an toàn thực phẩm tại các cơ sở thực phẩm; cùng với\ntriển khai thanh tra, kiểm tra theo kế hoạch, yêu cầu triển khai thanh tra, kiểm\ntra đột xuất theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 13/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx\">13/CT-TTg</a>  ngày 09/5/2016 của Thủ tướng Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Bảo đảm kiểm soát an toàn thực phẩm thường\nxuyên, liên tục trong năm, tránh triển khai theo phong trào; làm tốt công tác\nphối hợp giữa các ngành, các cấp nhằm không gây khó khăn, phiền hà cho doanh\nnghiệp và người dân sản xuất, kinh doanh thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">3. Phối hợp chặt chẽ giữa các ngành chức năng có\nliên quan, tăng cường phối hợp liên ngành từ Trung ương đến địa phương để bảo đảm\ncác đoàn thanh tra, kiểm tra đủ mạnh nhằm kịp thời phát hiện, ngăn chặn, xử lý\ncác trường hợp vi phạm về an toàn thực phẩm theo quy định của pháp luật; tránh\nchồng chéo hoặc bỏ sót đối tượng thanh tra, kiểm tra và nâng cao hiệu lực quản\nlý.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b>B. NỘI DUNG KẾ HOẠCH</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_1\"><b>I. Triển khai các cuộc thanh\ntra, kiểm tra năm 2017</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Thanh tra, <span style=\"background:white\">kiểm\ntra</span> liên ngành</b></p>\n\n<p style=\"margin-top:6.0pt\">1.1. Tại tuyến Trung ương</p>\n\n<p style=\"margin-top:6.0pt\">Năm 2017, Ban Chỉ đạo liên ngành Trung ương về vệ\nsinh an toàn thực phẩm triển khai 03 đợt thanh tra, kiểm tra liên ngành về an\ntoàn thực phẩm, bao gồm:</p>\n\n<p style=\"margin-top:6.0pt\">- Thanh tra, kiểm tra liên ngành an toàn thực phẩm\ndịp Tết Nguyên đán Đinh Dậu và mùa Lễ hội Xuân năm 2017.</p>\n\n<p style=\"margin-top:6.0pt\">- Thanh tra, kiểm tra liên ngành an toàn thực phẩm\ntrong Tháng hành động vì an toàn thực phẩm năm 2017.</p>\n\n<p style=\"margin-top:6.0pt\">- Thanh tra, kiểm tra liên ngành về an toàn thực phẩm\ntrong dịp Tết Trung thu năm 2017.</p>\n\n<p style=\"margin-top:6.0pt\">Trong các đợt thanh tra, kiểm tra liên ngành nêu\ntrên, Bộ Y tế, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn phối hợp\nvới các Bộ, ngành, các đơn vị liên quan tổ chức các Đoàn thanh tra, kiểm tra\nliên ngành tiến hành thanh tra, kiểm tra tại các tỉnh, thành phố trọng điểm.\nCác đơn vị tham gia các Đoàn thanh tra, kiểm tra liên ngành bao gồm:</p>\n\n<p style=\"margin-top:6.0pt\">+ Các Bộ, ngành là thành viên Ban Chỉ đạo liên\nngành Trung ương về vệ sinh an toàn thực phẩm và các Bộ, ngành chức năng có\nliên quan;</p>\n\n<p style=\"margin-top:6.0pt\">+ Các cơ sở kiểm nghiệm an toàn thực phẩm của Bộ Y\ntế và các Bộ quản lý chuyên ngành, các đơn vị kỹ thuật trực thuộc các cục, <span style=\"background:white\">tổng</span> cục tham gia quản lý an toàn thực <span style=\"background:white\">phẩm</span>. Trường hợp cần thiết sẽ trưng tập các la\nbô khác có khả năng tham gia kiểm nghiệm an toàn thực phẩm để phục vụ công tác\nquản lý nhà nước về an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">+ Mời đại diện <span style=\"background:white\">Ủy\nban</span> Trung ương Mặt trận Tổ quốc Việt Nam tham gia kiểm tra theo Chương\ntrình phối hợp vận động và giám sát bảo đảm an toàn thực phẩm giai đoạn\n2016-2020 đã được Thủ tướng Chính phủ và Chủ tịch Đoàn chủ tịch <span style=\"background:white\">Ủy ban</span> Trung ương Mặt trận Tổ quốc Việt Nam ký\nngày 30/3/2016.</p>\n\n<p style=\"margin-top:6.0pt\">1.2. Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ kế hoạch <span style=\"background:white\">của</span>\nBan Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm, Ban Chỉ đạo\nliên ngành vệ sinh an toàn thực phẩm các tỉnh, thành phố trực thuộc Trung ương\ngiao Sở Y tế chủ trì, phối hợp với các sở, ngành liên quan xây dựng kế hoạch của\nBan chỉ đạo và triển khai thực hiện kế hoạch; đồng thời <span style=\"background:\nwhite\">phối hợp</span> chặt chẽ với các Đoàn thanh tra, kiểm tra liên ngành của\nTrung ương khi thanh tra, kiểm tra trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark4\"><b>2. Thanh tra, kiểm tra trong\nngành y tế</b></a></p>\n\n<p style=\"margin-top:6.0pt\">2.1. Tại Trung ương</p>\n\n<p style=\"margin-top:6.0pt\">Cục An toàn thực phẩm chủ trì phối hợp với Thanh\ntra Bộ Y tế và các đơn vị chức năng liên quan triển khai thanh tra, kiểm tra việc\nchấp hành các quy định về an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm\nthuộc phạm vi quản lý của Bộ Y tế, đặc biệt thanh tra, kiểm tra đột xuất các cơ\nsở sản xuất, kinh doanh, nhập khẩu thực phẩm chức năng, phụ gia thực phẩm (gồm\ncả cơ sở sử dụng phụ gia thực phẩm); kiểm tra sau cấp Giấy xác nhận công bố phù\nhợp quy định an toàn thực phẩm/Giấy tiếp nhận bản công bố hợp quy, Giấy chứng\nnhận cơ sở đủ điều kiện an toàn thực phẩm; kiểm tra trách nhiệm quản lý nhà nước\nvề an toàn thực phẩm theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 13/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx\">13/CT-TTg</a>  ngày 09/5/2016 của Thủ tướng\nChính phủ, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Quý I năm 2017: Thanh tra, kiểm tra liên ngành về\nan toàn thực phẩm trong dịp tết Nguyên đán Đinh Dậu và mùa Lễ hội Xuân 2017.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quý II năm 2017: Thanh tra, kiểm tra liên ngành\ntrong Tháng hành động vì an toàn thực phẩm 2017; thanh tra chuyên đề thực phẩm\nchức năng tại tỉnh Bắc Ninh; kiểm tra chuyên đề thực <span style=\"background:\nwhite\">phẩm</span> chức năng và chuyên đề phụ gia thực phẩm, dụng cụ, vật liệu\nbao gói chứa đựng thực phẩm tại thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">c) Quý III năm 2017: Thanh tra, kiểm tra liên ngành\nvề an toàn thực phẩm trong dịp Tết Trung thu; thanh tra chuyên đề thực phẩm chức\nnăng tại tỉnh Bình Định; thanh tra chuyên đề phụ gia thực phẩm, dụng cụ, vật liệu\nbao gói chứa đựng thực phẩm tại 03 tỉnh, thành phố (Đà Nẵng, Cần Thơ và Thái\nBình); kiểm tra chuyên đề thực phẩm chức năng và chuyên đề phụ gia thực phẩm, dụng\ncụ, vật liệu bao gói chứa đựng thực phẩm tại thành phố Hồ Chí Minh.</p>\n\n<p style=\"margin-top:6.0pt\">d) Quý IV năm 2017: thanh tra chuyên đề thực phẩm\nchức năng tại tỉnh Bến Tre; thanh tra chuyên đề sản phẩm dinh dưỡng dùng cho trẻ\nnhỏ, bình bú và vú ngậm nhân tạo tại 02 tỉnh, thành phố (Hà Nội, TP Hồ Chí\nMinh); kiểm tra công tác quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số\n<a class=\"text-blue\" target=\"_blank\" title=\"13/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">13/CT-TTg</a>  đối với Chi cục An toàn vệ sinh thực phẩm 06 tỉnh, thành phố (Bắc\nNinh, Thái Nguyên, Bình Thuận, Ninh Thuận, Đồng Nai, Bà Rịa Vũng Tàu).</p>\n\n<p style=\"margin-top:6.0pt\"><i>(Địa bàn, thời gian thanh tra, kiểm tra chi tiết\ntại Phụ lục kèm theo).</i></p>\n\n<p style=\"margin-top:6.0pt\">2.2. Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ Kế hoạch của Ban chỉ đạo liên ngành Trung\nương về vệ sinh an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Y tế\ntham mưu cho Ban chỉ đạo liên ngành tỉnh/thành phố về vệ sinh an toàn thực <span style=\"background:white\">phẩm</span> phê duyệt kế hoạch thanh tra, kiểm tra; phối\nhợp với các đoàn thanh tra, kiểm tra của Trung ương khi triển khai thực hiện\nthanh tra, <span style=\"background:white\">kiểm tra</span> trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\"><b>3. Thanh tra, kiểm tra trong ngành Nông nghiệp\nvà Phát triển nông thôn</b></p>\n\n<p style=\"margin-top:6.0pt\">3.1. Tại Trung ương</p>\n\n<p style=\"margin-top:6.0pt\">a) Quý I năm 2017: Thực hiện theo kế hoạch chung của\nBan chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm trong dịp tết\nNguyên đán Đinh Dậu và mùa Lễ hội Xuân 2017; thanh kiểm tra an toàn thực <span style=\"background:white\">phẩm</span> các sản phẩm rau, củ, quả, thịt và sản phẩm\ntừ thịt.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quý II năm 2017: Thanh tra, kiểm tra an toàn thực\nphẩm trong Tháng hành động vì an toàn thực phẩm; thanh tra, kiểm tra an toàn thực\n<span style=\"background:white\">phẩm</span> đối với thực phẩm có nguồn gốc động\nvật, thực vật nhập khẩu.</p>\n\n<p style=\"margin-top:6.0pt\">c) Quý III năm 2017: Thanh tra, kiểm tra an toàn thực\nphẩm dịp tết Trung thu; thanh tra, kiểm tra chuyên ngành về an toàn thực phẩm\nnông lâm sản và thủy sản.</p>\n\n<p style=\"margin-top:6.0pt\">d) Quý IV năm 2017: Thanh tra, kiểm tra chuyên\nngành về an toàn thực phẩm nông lâm sản và thủy sản. Chủ trì tổ chức thanh tra,\n<span style=\"background:white\">kiểm tra</span> hoạt động sản xuất, kinh doanh\nnước mắm và sản phẩm dạng mắm theo phân công quản lý về an toàn thực phẩm hiện\nhành.</p>\n\n<p style=\"margin-top:6.0pt\">đ) Kiểm tra, đánh giá phân loại thường xuyên, liên\ntục trong năm 2017 về điều kiện bảo đảm an toàn thực phẩm đối với các cơ sở sản\nxuất, kinh doanh vật tư nông nghiệp và sản phẩm nông lâm thủy sản; kiểm tra,\nđánh giá các cơ sở chưa được kiểm tra, phân loại; tái kiểm tra các cơ sở xếp loại\nC.</p>\n\n<p style=\"margin-top:6.0pt\">3.2. Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ Kế hoạch của Ban chỉ đạo liên ngành Trung\nương về vệ sinh an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Nông\nnghiệp và <span style=\"background:white\">Phát triển</span> nông thôn trình cấp\ncó thẩm quyền phê duyệt kế hoạch và chỉ đạo Chi cục Quản lý chất lượng Nông lâm\nsản và Thủy sản, Chi cục Thú y, Chi cục Bảo vệ thực vật phối hợp với Thanh tra\nSở và các đơn vị liên quan triển khai thanh tra, kiểm tra tại các cơ sở thực phẩm\nthuộc phạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark5\"><b>4. Thanh tra, <span style=\"background:white\">kiểm tra</span> trong ngành Công Thương</b></a></p>\n\n<p style=\"margin-top:6.0pt\">4.1. Tại Trung ương</p>\n\n<p style=\"margin-top:6.0pt\">a) Quý I năm 2017: Thanh tra, kiểm về an toàn thực\nphẩm trong dịp tết Nguyên đán Đinh Dậu và Mùa lễ hội Xuân năm 2017.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quý II năm 2017: Thanh tra, kiểm tra an toàn thực\nphẩm trong Tháng hành động vì an toàn thực phẩm; thanh tra, <span style=\"background:white\">kiểm tra</span> chuyên ngành cơ sở sản xuất, chế biến,\nbảo quản, vận chuyển, xuất khẩu, <span style=\"background:white\">nhập khẩu</span>,\nkinh doanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật,\nsản phẩm chế biến bột và tinh bột và các thực <span style=\"background:white\">phẩm</span>\nkhác thuộc phạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">c) Quý III năm 2017: Thanh tra, kiểm tra an toàn thực\nphẩm trong dịp Tết Trung thu; thanh tra, kiểm tra chuyên ngành cơ sở sản xuất,\nchế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại\nrượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và\ntinh bột và các thực phẩm khác thuộc phạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">d) Quý IV năm 2017: Thanh tra, kiểm tra hậu kiểm\ncác cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh\ndoanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản\nphẩm chế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">4.2. Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ Kế hoạch của Ban Chỉ đạo liên ngành Trung\nương về vệ sinh an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Công\nThương trình cấp có thẩm quyền phê duyệt kế hoạch và chỉ đạo Chi cục Quản lý thị\ntrường phối hợp với Thanh tra Sở và các <span style=\"background:white\">đơn vị</span>\nliên quan triển khai thanh tra, kiểm tra tại các cơ sở thực phẩm thuộc phạm vi\nquản lý.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_1\"><b>II. Trọng tâm các hoạt động\nthanh tra, kiểm tra</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Thanh tra, kiểm tra bảo đảm chất lượng thực\nphẩm</b></p>\n\n<p style=\"margin-top:6.0pt\">a) Tập trung kiểm soát chất lượng thực phẩm các\nkhâu: Nguồn gốc nguyên liệu, vận chuyển, bảo quản; quá trình sản xuất, chế biến;\nnhập khẩu và lưu thông trên thị trường; việc sử dụng phụ gia thực phẩm, chất hỗ\ntrợ chế biến, hương liệu, phẩm màu trong chế biến thực phẩm; chất cấm trong\nchăn nuôi; kiểm soát việc sử dụng kháng sinh, thuốc thú y, hóa chất bảo vệ thực\nvật; tiếp tục kiểm soát việc sử dụng salbutamol trong chăn nuôi, chất vàng ô\ntrong chế biến thực phẩm; kiểm soát thực phẩm là hàng giả, không rõ nguồn gốc\nxuất xứ, hết hạn sử dụng, nhập lậu.</p>\n\n<p style=\"margin-top:6.0pt\">b) Tăng cường lấy mẫu và kiểm nghiệm hậu kiểm; mẫu\ngiám sát do các Viện kiểm nghiệm thuộc các Bộ: Y tế, Nông nghiệp và Phát triển\nnông thôn và các đơn vị kiểm nghiệm thuộc Sở Y tế thực hiện.</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Đối <span style=\"background:white\">với</span>\ncơ sở sản xuất, <span style=\"background:white\">kinh</span> doanh, nhập khẩu thực\nphẩm</b></p>\n\n<p style=\"margin-top:6.0pt\">Kiểm tra việc thực hiện các quy định về:</p>\n\n<p style=\"margin-top:6.0pt\">a) Công bố hợp quy/công bố phù hợp quy định an toàn\nthực phẩm đối với thực <span style=\"background:white\">phẩm</span> đã qua chế biến\nbao gói sẵn, phụ gia thực phẩm, chất <span style=\"background:white\">hỗ trợ</span>\nchế biến thực phẩm, dụng cụ, vật liệu bao gói chứa đựng thực phẩm <i>(gọi tắt\nlà sản <span style=\"background:white\">phẩm</span> thực phẩm)</i> theo quy định\ncủa Luật An toàn thực phẩm, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 38/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx\">38/2012/NĐ-CP</a>  và Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 19/2012/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-19-2012-tt-byt-huong-dan-viec-cong-bo-hop-quy-cong-bo-phu-hop-quy-dinh-151174.aspx\">19/2012/TT-BYT</a>  ngày 09/11/2012 của Bộ trưởng Bộ Y tế hướng dẫn việc công bố hợp\nquy và công bố phù hợp quy định an toàn thực phẩm; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 43/2014/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-43-2014-tt-byt-quan-ly-thuc-pham-chuc-nang-258938.aspx\">43/2014/TT-BYT</a> \nngày 24/11/2014 <span style=\"background:white\">của</span> Bộ trưởng Bộ Y tế quy\nđịnh về quản lý thực phẩm chức năng; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 27/2012/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-27-2012-tt-byt-huong-dan-viec-quan-ly-phu-gia-thuc-pham-152872.aspx\">27/2012/TT-BYT</a>  ngày 30/11/2012\nhướng dẫn việc quản lý phụ gia thực phẩm; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 08/2015/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-08-2015-tt-byt-sua-doi-thong-tu-27-2012-tt-byt-quan-ly-phu-gia-thuc-pham-275513.aspx\">08/2015/TT-BYT</a>  ngày\n11/5/2015 Sửa đổi, bổ sung một số quy định của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 27/2012/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-27-2012-tt-byt-huong-dan-viec-quan-ly-phu-gia-thuc-pham-152872.aspx\">27/2012/TT-BYT</a>  ngày\n30/11/2012 hướng dẫn việc quản lý phụ gia thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">b) Ghi nhãn sản phẩm thực phẩm theo quy định của\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 89/2006/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-89-2006-nd-cp-nhan-hang-hoa-13789.aspx\">89/2006/NĐ-CP</a>  ngày 30/8/2006 của Chính phủ về nhãn hàng <span style=\"background:white\">hóa</span>; Thông tư liên tịch số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư liên tịch 34/2014/TTLT-BYT-BNNPTNT-BCT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-lien-tich-34-2014-ttlt-byt-bnnptnt-bct-huong-dan-ghi-nhan-hang-hoa-thuc-pham-phu-gia-256805.aspx\">34/2014/TTLT-BYT-BNNPTNT-BCT</a>  ngày 27/10/2014 của liên Bộ: Y tế, Nông nghiệp và\nPhát triển nông thôn, Công Thương hướng dẫn ghi nhãn hàng hóa đối với thực phẩm,\nphụ gia thực phẩm và chất hỗ trợ chế biến thực phẩm bao gói sẵn.</p>\n\n<p style=\"margin-top:6.0pt\">c) Quảng cáo sản <span style=\"background:white\">phẩm</span>\nthực phẩm theo quy định của Luật Quảng cáo; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 181/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-181-2013-nd-cp-huong-dan-luat-quang-cao-213649.aspx\">181/2013/NĐ-CP</a>  ngày\n14/11/2013 của Chính phủ Quy định chi tiết thi hành Luật Quảng cáo; Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 09/2015/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-09-2015-tt-byt-xac-nhan-noi-dung-quang-cao-san-pham-hang-hoa-dich-vu-quan-ly-cua-bo-y-te-275518.aspx\">09/2015/TT-BYT</a>  ngày 25/5/2015 của Bộ trưởng Bộ Y tế quy định về xác nhận nội\ndung quảng cáo đối với sản phẩm, hàng hóa, dịch vụ đặc biệt thuộc lĩnh vực quản\nlý của Bộ Y tế; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 40/2012/TT-BCT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-40-2012-tt-bct-cap-giay-xac-nhan-noi-dung-quang-cao-thuc-pham-163519.aspx\">40/2012/TT-BCT</a>  ngày 21/12/2012 quy định cấp Giấy\nxác nhận nội dung quảng cáo thực phẩm thuộc trách nhiệm quản lý của Bộ Công\nThương.</p>\n\n<p style=\"margin-top:6.0pt\">d) Điều kiện bảo đảm an toàn thực phẩm trong sản xuất,\nsơ chế, chế biến, kinh doanh, bảo quản, vận chuyển thực phẩm, phụ gia thực <span style=\"background:white\">phẩm</span> theo quy định của Luật An toàn thực phẩm;\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 38/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx\">38/2012/NĐ-CP</a> ; các Nghị định của Chính phủ quy định về điều kiện sản\nxuất, kinh doanh thực phẩm thuộc lĩnh vực quản lý chuyên ngành của Bộ Y tế, Bộ\nNông nghiệp và Phát triển nông thôn, Bộ Công Thương; <span style=\"background:\nwhite\">Nghị định số</span> 77/2016/NĐCP ngày 01/7/2016 của Chính phủ sửa đổi, bổ\nsung một số quy định về điều kiện đầu tư kinh doanh trong lĩnh vực mua bán hàng\nhóa quốc tế, hóa chất, vật liệu nổ công nghiệp, phân bón, kinh doanh khí, an\ntoàn thực phẩm có liên quan đến phạm vi quản lý của Bộ Công Thương; Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 15/2012/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-15-2012-tt-byt-quy-dinh-dieu-kien-chung-bao-dam-an-toan-thuc-pham-147864.aspx\">15/2012/TT-BYT</a>  ngày 12/9/2012 <span style=\"background:white\">của</span> Bộ trưởng\nBộ Y tế quy định về điều kiện chung bảo đảm an toàn thực phẩm đối với cơ sở sản\nxuất, kinh doanh thực phẩm; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 16/2012/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-16-2012-tt-byt-quy-dinh-dieu-kien-an-toan-thuc-pham-doi-voi-co-so-149958.aspx\">16/2012/TT-BYT</a>  ngày 22/10/2012 của Bộ\ntrưởng Bộ Y tế quy định về điều kiện an toàn thực phẩm đối với cơ sở sản xuất,\nkinh doanh thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm thuộc phạm\nvi quản lý của Bộ Y tế; Thông tư <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 45/2014/TT-BNNPTNT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-45-2014-tt-bnnptnt-kiem-tra-co-so-san-xuat-kinh-doanh-vat-tu-nong-nghiep-du-dieu-kien-an-toan-thuc-pham-259691.aspx\">45/2014/TT-BNNPTNT</a>  ngày 03/12/2014 quy định việc\n<span style=\"background:white\">kiểm tra</span> cơ sở sản xuất, kinh doanh vật\ntư nông nghiệp và kiểm tra, chứng nhận cơ sở sản xuất, kinh doanh nông lâm thủy\nsản đủ điều kiện an toàn thực phẩm; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 51/2014/TT-BNNPTNT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-51-2014-tt-bnnptnt-dieu-kien-bao-dam-an-toan-thuc-pham-phuong-thuc-quan-ly-co-so-san-xuat-nho-le-262403.aspx\">51/2014/TT-BNNPTNT</a>  ngày\n27/12/2014 quy định điều kiện bảo đảm an toàn thực phẩm và phương thức quản lý\nđối với các cơ sở sản xuất ban đầu nhỏ lẻ; Thông tư <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 48/2013/TT-BNNPTNT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-48-2013-tt-bnnptnt-kiem-tra-chung-nhan-an-toan-thuy-san-xuat-khau-213842.aspx\">48/2013/TT-BNNPTNT</a>  ngày\n12/11/2013 quy định về kiểm tra, chứng nhận an toàn thực phẩm thủy sản xuất khẩu;\nThông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 48/2015/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx\">48/2015/TT-BYT</a>  ngày 01 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy\nđịnh hoạt động kiểm tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm\nthuộc phạm vi quản lý của Bộ Y tế; các Thông tư của Bộ Y tế, Bộ Nông nghiệp và\nPhát triển nông thôn, Bộ Công Thương quy định điều kiện bảo đảm an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">đ) Chất lượng của sản phẩm thực phẩm, phụ gia thực\nphẩm, chất <span style=\"background:white\">hỗ trợ</span> chế biến thực phẩm, dụng\ncụ, vật liệu bao gói chứa đựng thực <span style=\"background:white\">phẩm</span>\nthực phẩm so với tiêu chuẩn đã công bố/quy chuẩn kỹ thuật/các quy định về an\ntoàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">e) Việc thực hiện các quy định về bảo đảm an toàn\nthực phẩm đối với thực phẩm nhập khẩu, ngăn chặn việc thẩm lậu các loại thực phẩm\nkhông bảo đảm an toàn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark9\"><b>3. Đối <span style=\"background:\nwhite\">với</span> cơ sở kinh doanh dịch vụ ăn uống</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Tập trung thanh tra, kiểm tra việc chấp hành các\nquy định về bảo đảm an toàn thực phẩm đối với các cơ sở kinh doanh dịch vụ ăn uống\ntheo quy định tại Luật An toàn thực phẩm, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 38/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx\">38/2012/NĐ-CP</a> , Thông tư\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 30/2012/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-30-2012-tt-byt-dieu-kien-an-toan-thuc-pham-doi-voi-co-so-kinh-doanh-152633.aspx\">30/2012/TT-BYT</a>  ngày 05/12/2012 của Bộ trưởng Bộ Y tế quy định về điều kiện\nan toàn thực phẩm đối với cơ sở kinh doanh dịch vụ ăn uống, thức ăn đường phố\nvà Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 47/2014/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-47-2014-tt-byt-huong-dan-quan-ly-an-toan-thuc-pham-co-so-kinh-doanh-dich-vu-an-uong-260087.aspx\">47/2014/TT-BYT</a>  ngày 11/12/2014 của Bộ trưởng Bộ Y tế hướng dẫn\nquản lý an toàn thực phẩm đối với cơ sở dịch vụ ăn uống; Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 48/2015/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx\">48/2015/TT-BYT</a>  ngày 01 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy định hoạt động\nkiểm tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi\nquản lý của Bộ Y tế. Chú trọng kiểm soát bảo đảm an toàn thực phẩm tại các bếp\năn tập thể khu công nghiệp, trường học, các <span style=\"background:white\">cơ sở</span>\ncung cấp suất ăn sẵn, khu du lịch, lễ hội, sự kiện lớn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark10\"><b>4. Đối <span style=\"background:white\">với</span> </b></a><b>cơ sở kinh doanh thức ăn đường\nphố</b></p>\n\n<p style=\"margin-top:6.0pt\">Tập trung kiểm tra việc thực hiện các quy định về bảo\nđảm an toàn thực phẩm theo quy định của Luật An toàn thực phẩm, <span style=\"background:white\">Nghị định số</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 38/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx\">38/2012/NĐ-CP</a>  và Thông tư số\n30/2012/NĐ-CP ngày 05/12/2012 của Bộ trưởng Bộ Y tế quy định về <span style=\"background:white\">điều kiện</span> an toàn thực phẩm đối với cơ sở kinh\ndoanh dịch vụ ăn uống, kinh doanh thức ăn đường phố; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 48/2015/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx\">48/2015/TT-BYT</a> \nngày 01 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy định hoạt động kiểm tra an\ntoàn thực phẩm trong sản <span style=\"background:white\">xuất</span>, kinh doanh\nthực <span style=\"background:white\">phẩm</span> thuộc phạm vi quản lý của Bộ Y\ntế.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark11\"><b>5. Đối <span style=\"background:white\">với</span> </b></a><b>cơ quan quản lý về an toàn thực\nphẩm</b></p>\n\n<p style=\"margin-top:6.0pt\">Kiểm tra trách nhiệm quản lý nhà nước của Chi cục\nAn toàn vệ sinh thực <span style=\"background:white\">phẩm</span>, tập trung các\nnội dung: Việc triển khai công tác bảo đảm an toàn thực phẩm theo chức năng,\nnhiệm vụ; cấp, cấp lại, thu hồi giấy tiếp nhận bản công bố hợp quy/giấy xác nhận\ncông bố phù hợp quy định an toàn thực phẩm, giấy xác nhận nội dung quảng cáo,\ngiấy chứng nhận cơ sở đủ điều kiện an toàn thực <span style=\"background:white\">phẩm</span>;\ncông tác thông tin, giáo dục, truyền thông về an toàn thực phẩm; công tác thanh\ntra, kiểm tra, xử lý vi phạm.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark12\"><b>6. Thí điểm thanh tra chuyên\nngành an toàn thực phẩm cấp quận/huyện, xã/ph</b></a><b>ường theo Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 38/2015/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-38-2015-qd-ttg-thi-diem-thanh-tra-chuyen-nganh-an-toan-thuc-pham-ha-noi-ho-chi-minh-289680.aspx\">38/2015/QĐ-TTg</a>  ngày 09 tháng 9 năm 2015 của Thủ tướng Chính phủ</b></p>\n\n<p style=\"margin-top:6.0pt\">- Trình Thủ tướng Chính phủ mở rộng và kéo dài thời\ngian thực hiện thí điểm thanh tra chuyên ngành an toàn thực phẩm cấp quận/huyện,\nxã/phường đến tất cả các các quận, huyện, thị xã và phường, xã, thị trấn của <span style=\"background:white\">Thành phố</span> Hà Nội và Thành phố Hồ Chí Minh; đề\nxuất thí <span style=\"background:white\">điểm</span> thêm một số quận (huyện, thị\nxã) và phường (xã, thị trấn) của 07 tỉnh, thành phố trực thuộc Trung ương (Cần\nThơ, Đà Nẵng, Hải Phòng, Đồng Nai, Thanh Hóa, Hà Tĩnh, Gia Lai) theo đề nghị của\n<span style=\"background:white\">Ủy ban</span> nhân dân tỉnh, thành phố.</p>\n\n<p style=\"margin-top:6.0pt\">- <span style=\"background:white\">Hỗ trợ</span> đào\ntạo cấp chứng chỉ bồi dưỡng nghiệp vụ thanh tra cho người được giao nhiệm vụ\nthanh tra chuyên ngành an toàn thực <span style=\"background:white\">phẩm</span>\ntại các địa phương thí điểm; tập huấn nâng cao năng lực và giám sát <span style=\"background:white\">hỗ trợ</span> nghiệp vụ cho các đơn vị thí điểm.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark13\"><b>7. Xử lý vi phạm</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Các đoàn thanh tra, kiểm tra khi phát hiện vi phạm\nphải xử lý theo đúng quy định của pháp luật; tuyệt đối không để thực <span style=\"background:white\">phẩm</span> không bảo đảm an toàn thực phẩm, không rõ\nnguồn gốc xuất xứ, nhập lậu lưu thông trên thị trường. Các cơ quan có thẩm quyền\nở Trung ương và địa phương áp dụng các hình thức xử phạt bổ sung, biện pháp khắc\nphục hậu quả mạnh mẽ, quyết liệt như: đình chỉ hoạt động của cơ sở sản xuất,\nkinh doanh vi phạm quy định <span style=\"background:white\">về</span> an toàn thực\nphẩm; tịch thu tang vật, tạm dừng lưu thông, thu hồi, tiêu hủy sản <span style=\"background:white\">phẩm</span> vi phạm về an toàn thực phẩm; áp dụng thu\nhồi các loại giấy chứng nhận đã <span style=\"background:white\">cấp</span> theo <span style=\"background:white\">thẩm quyền</span>; công bố công khai cơ sở vi phạm\ntrên các phương tiện thông tin đại chúng theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b>III. BÁO CÁO KẾT QUẢ THANH TRA,\nKIỂM TRA</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Các Bộ: Y tế, Nông nghiệp và Phát triển nông\nthôn, Công Thương tổng hợp báo cáo kết quả thanh tra, kiểm tra của toàn ngành;\nSở Y tế các tỉnh, thành phố chủ trì phối hợp với các Sở: Nông nghiệp và Phát\ntriển nông thôn, Công Thương tham mưu cho Ban chỉ đạo liên ngành về vệ sinh an\ntoàn thực phẩm tỉnh/thành phố tổng hợp báo cáo kết quả thanh tra, kiểm tra về\nan toàn thực phẩm của toàn tỉnh/thành phố gửi Bộ Y tế (Cục An toàn thực phẩm) để\ntổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ và Trưởng Ban chỉ đạo liên\nngành Trung ương về vệ sinh an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">2. Các mốc thời gian báo cáo</p>\n\n<p style=\"margin-top:6.0pt\">a) Đối với các đợt thanh tra, kiểm tra liên ngành\n(Tết Nguyên đán, Tháng hành động về an toàn thực phẩm, Tết trung thu) báo cáo\ntheo thời gian quy định ghi trong các bản Kế hoạch chi tiết triển khai thanh\ntra, kiểm tra của từng đợt.</p>\n\n<p style=\"margin-top:6.0pt\">b) Báo cáo 6 tháng: Trước ngày 25/6/2017.</p>\n\n<p style=\"margin-top:6.0pt\">c) Báo cáo năm 2017: Trước ngày 25/12/2017.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b>IV. BẢO ĐẢM KINH PHÍ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Kinh phí phục vụ cho công tác thanh tra, kiểm tra về\nan toàn thực phẩm do ngân sách nhà nước ở Trung ương và địa phương bảo đảm theo\nquy định của Luật ngân sách Nhà nước và các nguồn kinh phí hợp pháp khác. Việc\nsử dụng kinh phí thực hiện theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">Trên đây là <span style=\"background:white\">Kế hoạch</span>\ntriển khai công tác thanh tra, kiểm tra về an toàn thực phẩm năm 2017, Ban Chỉ\nđạo liên ngành Trung ương về vệ sinh an toàn thực phẩm đề nghị các Bộ, ngành và\ncác địa phương triển khai thực hiện./.</p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADAAOQA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i> </i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Phó Thủ tướng Vũ Đức Đam (để báo\n  cáo);<br>\n  - Văn phòng Chính phủ (để báo cáo);<br>\n  - Thứ trưởng Trương Quốc Cường;<br>\n  - Thành viên BCĐ liên ngành TƯ về VSATTP;<br>\n  - Thành viên Tổ Công tác LNTƯ về VSATTP;<br>\n  - UBND các tỉnh, thành phố trực thuộc TƯ;<br>\n  - Sở Y tế, các tỉnh, TP trực thuộc TƯ;<br>\n  - Các Viện: DD, KNATVSTPQG, YTCC Tp. HCM, Pasteur Nha Trang, VSDT Tây Nguyên;<br>\n  - Báo SKĐS, Trung tâm TTGDSK Bộ Y tế;<br>\n  - Website Bộ Y tế, Cục An toàn thực phẩm;<br>\n  - Lưu: VT, ATTP.</span></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. TRƯỞNG BAN<br>\n  PHÓ TRƯỞNG BAN THƯỜNG TRỰC<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  BỘ TRƯỞNG BỘ Y TẾ<br>\n  Nguyễn Thị Kim Tiến</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_phuluc_1\"><b><span style=\"font-size:12.0pt\">PHỤ LỤC</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_phuluc_1_name\">CÁC CUỘC THANH TRA, KIỂM TRA CHUYÊN NGÀNH AN TOÀN\nTHỰC PHẨM NĂM 2017</a><br>\n<i>(Kèm theo Kế hoạch số: 160/KH-BCĐTƯVSATTP ngày 16/2/2017 của Ban Chỉ đạo LN\nTrung ương về VSATTP)</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADAAOQA=-->\n <tbody><tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TT</b></p>\n  </td>\n  <td width=\"21%\" style=\"width:21.02%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ĐỐI TƯỢNG THANH\n  TRA, KIỂM TRA</b></p>\n  </td>\n  <td width=\"21%\" style=\"width:21.42%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>NỘI DUNG THANH\n  TRA, KIỂM TRA</b></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.26%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>PHẠM VI</b></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.34%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>THỜI GIAN</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"background:white\">ĐƠN V</span>Ị CHỦ TRÌ</b></p>\n  </td>\n  <td width=\"21%\" style=\"width:21.38%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ĐƠN VỊ PHỐI HỢP</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"100%\" colspan=\"7\" valign=\"top\" style=\"width:100.0%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>A- Các cuộc\n  thanh tra, <span style=\"background:white\">kiểm tra</span> liên ngành Trung\n  ương</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">1.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Cơ quan quản lý nhà nước về ATTP các cấp, các\n  ngành.</p>\n  <p style=\"margin-top:6.0pt\">- Cơ sở sản xuất, kinh doanh, chế biến thực phẩm.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Thanh tra, <span style=\"background:white\">kiểm\n  tra</span> <span style=\"background:white\">về</span> an toàn thực phẩm trong dịp\n  Tết Nguyên đán Bính Thân và Lễ hội Xuân 2017</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">12 tỉnh, <span style=\"background:white\">thành phố</span></p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Tháng 12/2016-\n  03/2017</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Bộ Y tế</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Bộ Công Thương, Bộ Nông nghiệp và PTNT, Bộ Công\n  an, BCĐTƯVS ATTP 12 tỉnh, thành phố, các Viện kiểm nghiệm thuộc Bộ Y tế, Bộ\n  Nông nghiệp và PTNT</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">2.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Cơ quan quản lý nhà nước về ATTP các cấp, các\n  ngành</p>\n  <p style=\"margin-top:6.0pt\">- Cơ sở sản xuất, kinh doanh, chế biến thực phẩm</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Thanh tra, <span style=\"background:white\">kiểm\n  tra</span> về an toàn thực phẩm trong Tháng hành động về ATTP năm 2017</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">12 tỉnh, <span style=\"background:white\">thành phố</span></p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Tháng 4- 5/2017</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Bộ Y tế</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Bộ Công Thương, Bộ Nông nghiệp, Bộ Công an,\n  BCĐTƯVSATTP 12 tỉnh, thành phố, các Viện kiểm nghiệm thuộc Bộ Y tế, Bộ Nông\n  nghiệp và PTNT</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">3.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Cơ quan quản lý nhà nước về ATTP các cấp, các\n  ngành</p>\n  <p style=\"margin-top:6.0pt\">- Cơ sở sản xuất, kinh doanh, chế biến thực phẩm.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Thanh tra, <span style=\"background:white\">kiểm\n  tra</span> <span style=\"background:white\">về</span> an toàn thực phẩm trong dịp\n  Tết Trung thu 2017</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">12 tỉnh, <span style=\"background:white\">thành phố</span></p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý III</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Bộ Y tế</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Bộ Công Thương, Bộ Nông nghiệp, Bộ Công an,\n  BCĐTƯVSATTP 12 tỉnh, thành phố, các Viện kiểm nghiệm thuộc Bộ Y tế, Bộ Nông\n  nghiệp và PTNT</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"100%\" colspan=\"7\" valign=\"top\" style=\"width:100.0%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>B- Các cuộc\n  thanh tra theo chuyên đề của ngành Y tế</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">1.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Cơ sở sản <span style=\"background:white\">xuất</span>,\n  kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Chấp hành các quy định của pháp luật trong sản xuất,\n  kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng.</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">tỉnh Bắc Ninh<br>\n  tỉnh Bình Định<br>\n  tỉnh Bến Tre</p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý II/2017<br>\n  Quý III/2017<br>\n  Quý IV/2017</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Cục ATTP</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Các Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế và\n  Chi cục ATVSTP tỉnh/thành phố.</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">2.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Cơ sở sản <span style=\"background:white\">xuất</span>,\n  kinh doanh, nhập khẩu, sử dụng phụ gia thực <span style=\"background:white\">phẩm</span>;\n  dụng cụ, vật liệu bao gói chứa đựng thực phẩm</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Chấp hành các quy định của pháp luật trong sản xuất,\n  kinh doanh, <span style=\"background:white\">nhập khẩu</span>, sử dụng phụ gia\n  thực phẩm; dụng cụ, vật liệu bao gói chứa đựng thực phẩm</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">03 tỉnh, <span style=\"background:white\">thành phố</span> (Đà Nẵng, Cần Thơ và Thái Bình)</p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý III năm 2017</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Cục ATTP</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Các Viện kiểm nghiệm thuộc Bộ Y tế; Chi cục\n  ATVSTP tỉnh/<span style=\"background:white\">thành phố</span>.</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">3.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Cơ sở sản <span style=\"background:white\">xuất</span>,\n  kinh doanh, nhập khẩu, quảng cáo sản phẩm dinh dưỡng dùng cho trẻ nhỏ, bình\n  bú và vú ngậm nhân tạo.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Chấp hành các quy định sản xuất, kinh doanh, nhập\n  khẩu, quảng cáo sản phẩm dinh dưỡng dùng cho trẻ nhỏ, bình bú và vú ngậm nhân\n  tạo.</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">02 <span style=\"background:white\">thành phố</span> (Hà Nội, Tp Hồ Chí Minh)</p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý IV Năm 2017</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Cục ATTP</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Các Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế và\n  Chi cục ATVSTP tỉnh/<span style=\"background:white\">thành phố</span>.</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"100%\" colspan=\"7\" valign=\"top\" style=\"width:100.0%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>B- Các cuộc kiểm\n  tra theo chuyên đề của ngành Y tế</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" rowspan=\"2\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">1.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border:none;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Cơ sở sản <span style=\"background:white\">xuất</span>,\n  kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng (đặc biệt là kiểm tra đột\n  xuất theo Chỉ thị <a class=\"text-blue\" target=\"_blank\" title=\"13/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">13/CT-TTg</a>  ngày 09/5/2016)</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border:none;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Chấp hành các quy định của pháp luật trong sản\n  xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng.</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border:none;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span style=\"background:white\">Thành phố</span> Hà Nội</p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border:none;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý II năm 2017</p>\n  </td>\n  <td width=\"7%\" rowspan=\"2\" valign=\"top\" style=\"width:7.38%;border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Cục ATTP</p>\n  </td>\n  <td width=\"21%\" rowspan=\"2\" valign=\"top\" style=\"width:21.38%;border-top:none;\n  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Các Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế/ Chi\n  cục ATVSTP tỉnh/thành phố.</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Cơ sở sản xuất, kinh doanh, nhập khẩu, sử dụng\n  phụ gia thực phẩm; dụng cụ, vật liệu bao gói chứa đựng thực phẩm</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">- Chấp hành các quy định của pháp luật trong sản\n  xuất, kinh doanh, nhập khẩu, sử dụng phụ gia thực phẩm; dụng cụ, vật liệu bao\n  gói chứa đựng thực phẩm</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Thành phố Hồ Chí\n  Minh</p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý III năm 2017</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" valign=\"top\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">2.</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.02%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span style=\"background:white\">Kiểm tra</span> việc\n  thực hiện Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 13/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx\">13/CT-TTg</a>  ngày 09/5/2016 của Thủ tướng Chính phủ</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.42%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span style=\"background:white\">Kiểm tra</span>\n  công tác quản lý nhà nước về an toàn thực phẩm theo chức năng, nhiệm vụ và thẩm\n  quyền của Chi cục</p>\n  </td>\n  <td width=\"14%\" valign=\"top\" style=\"width:14.26%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">06 tỉnh, <span style=\"background:white\">thành phố</span> (Bắc Ninh, Thái Nguyên, Bình Thuận,\n  Ninh Thuận, Đồng Nai, Bà Rịa Vũng Tàu)</p>\n  </td>\n  <td width=\"10%\" valign=\"top\" style=\"width:10.34%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Quý IV Năm 2017</p>\n  </td>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Cục ATTP</p>\n  </td>\n  <td width=\"21%\" valign=\"top\" style=\"width:21.38%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\">Các Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n",
+  "mdContent": "**BAN CHỈ ĐẠO LIÊN NGÀNH  \nTRUNG ƯƠNG VỀ VỆ SINH  \nAN TOÀN THỰC PHẨM  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 160/KH-BCĐTƯVSATTP\n\n_Hà Nội, ngày 16 tháng 02 năm 2017_\n\n**KẾ HOẠCH**\n\nTRIỂN KHAI CÔNG TÁC THANH TRA, KIỂM TRA VỀ AN TOÀN THỰC PHẨM NĂM 2017\n\nTrong năm 2016, công tác thanh tra, kiểm tra về an toàn thực phẩm đã được các Bộ, ngành Trung ương và các địa phương triển khai mạnh mẽ, các hoạt động thanh tra, kiểm tra đã góp phần ngăn chặn và xử lý nhiều vụ vi phạm về an toàn thực phẩm, góp phần làm thị trường thực phẩm an toàn hơn; đồng thời qua công tác thanh tra, kiểm tra đã có những đề xuất giúp các cơ quan quản lý nhà nước ở Trung ương và địa phương chỉ đạo, chấn chỉnh và xử lý kịp thời những sự cố về an toàn thực phẩm, xử lý nghiêm các tổ chức, cá nhân vi phạm về an toàn thực phẩm, công bố công khai các cơ sở vi phạm trên các phương tiện thông tin đại chúng theo quy định.\n\nPhát huy những kết quả đã đạt được, tiếp tục đẩy mạnh các hoạt động thanh tra, kiểm tra nhằm bảo đảm an toàn thực phẩm cho người dân, góp phần phát triển kinh tế - xã hội, Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm ban hành kế hoạch thanh tra, kiểm tra an toàn thực phẩm năm 2017 như sau:\n\n**A. MỤC ĐÍCH, YÊU CẦU**\n\n**I. Mục đích**\n\n1\\. Tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm ở các cấp, thông qua hoạt động thanh tra, kiểm tra kịp thời phát hiện, ngăn chặn, xử lý các trường hợp vi phạm về an toàn thực phẩm, hạn chế ngộ độc thực phẩm và các bệnh truyền qua thực phẩm; triển khai hoạt động thanh tra, kiểm tra có trọng tâm, trọng điểm; đánh giá trách nhiệm đơn vị, cá nhân trong thực hiện quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số [13/CT-TTg](https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx \"Chỉ thị 13/CT-TTg\") ngày 09/5/2016 của Thủ tướng Chính phủ.\n\n2\\. Đánh giá việc chấp hành pháp luật về an toàn thực phẩm của các cơ sở sản xuất, kinh doanh, nhập khẩu, bảo quản, vận chuyển thực phẩm, cơ sở kinh doanh dịch vụ ăn uống, đặc biệt là bếp ăn tập thể khu công nghiệp, trường học và an toàn thực phẩm tại các lễ hội, sự kiện lớn, kinh doanh thức ăn đường phố; kiểm soát hoạt động sản xuất, chế biến, kinh doanh, nhập khẩu thực phẩm, kinh doanh đa cấp thực phẩm và kiểm soát quảng cáo thực phẩm chức năng theo quy định của pháp luật.\n\n3\\. Đánh giá tình hình về an toàn thực phẩm đối với các nhóm thực phẩm có nguy cơ cao lưu thông trên thị trường nhằm cảnh báo mối nguy và định hướng giải pháp quản lý.\n\n4\\. Thông qua việc thanh tra, kiểm tra tại các cơ sở thực phẩm, đánh giá việc cấp các loại giấy phép về an toàn thực phẩm (Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, Giấy tiếp nhận bản công bố hợp quy/Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm, Giấy xác nhận nội dung quảng cáo).\n\n5\\. Qua công tác thanh tra, kiểm tra đánh giá hiệu quả văn bản quy phạm pháp luật; phát hiện những bất cập để đề xuất sửa đổi, bổ sung văn bản quy phạm pháp luật về an toàn thực phẩm.\n\n**II. Yêu cầu**\n\n1\\. Thanh tra, kiểm tra toàn diện việc thực hiện các quy định của pháp luật về an toàn thực phẩm tại các cơ sở thực phẩm; cùng với triển khai thanh tra, kiểm tra theo kế hoạch, yêu cầu triển khai thanh tra, kiểm tra đột xuất theo Chỉ thị số [13/CT-TTg](https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx \"Chỉ thị 13/CT-TTg\") ngày 09/5/2016 của Thủ tướng Chính phủ.\n\n2\\. Bảo đảm kiểm soát an toàn thực phẩm thường xuyên, liên tục trong năm, tránh triển khai theo phong trào; làm tốt công tác phối hợp giữa các ngành, các cấp nhằm không gây khó khăn, phiền hà cho doanh nghiệp và người dân sản xuất, kinh doanh thực phẩm.\n\n3\\. Phối hợp chặt chẽ giữa các ngành chức năng có liên quan, tăng cường phối hợp liên ngành từ Trung ương đến địa phương để bảo đảm các đoàn thanh tra, kiểm tra đủ mạnh nhằm kịp thời phát hiện, ngăn chặn, xử lý các trường hợp vi phạm về an toàn thực phẩm theo quy định của pháp luật; tránh chồng chéo hoặc bỏ sót đối tượng thanh tra, kiểm tra và nâng cao hiệu lực quản lý.\n\n**B. NỘI DUNG KẾ HOẠCH**\n\n**I. Triển khai các cuộc thanh tra, kiểm tra năm 2017**\n\n**1\\. Thanh tra, kiểm tra liên ngành**\n\n1.1. Tại tuyến Trung ương\n\nNăm 2017, Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm triển khai 03 đợt thanh tra, kiểm tra liên ngành về an toàn thực phẩm, bao gồm:\n\n\\- Thanh tra, kiểm tra liên ngành an toàn thực phẩm dịp Tết Nguyên đán Đinh Dậu và mùa Lễ hội Xuân năm 2017.\n\n\\- Thanh tra, kiểm tra liên ngành an toàn thực phẩm trong Tháng hành động vì an toàn thực phẩm năm 2017.\n\n\\- Thanh tra, kiểm tra liên ngành về an toàn thực phẩm trong dịp Tết Trung thu năm 2017.\n\nTrong các đợt thanh tra, kiểm tra liên ngành nêu trên, Bộ Y tế, Bộ Công Thương, Bộ Nông nghiệp và Phát triển nông thôn phối hợp với các Bộ, ngành, các đơn vị liên quan tổ chức các Đoàn thanh tra, kiểm tra liên ngành tiến hành thanh tra, kiểm tra tại các tỉnh, thành phố trọng điểm. Các đơn vị tham gia các Đoàn thanh tra, kiểm tra liên ngành bao gồm:\n\n\\+ Các Bộ, ngành là thành viên Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm và các Bộ, ngành chức năng có liên quan;\n\n\\+ Các cơ sở kiểm nghiệm an toàn thực phẩm của Bộ Y tế và các Bộ quản lý chuyên ngành, các đơn vị kỹ thuật trực thuộc các cục, tổng cục tham gia quản lý an toàn thực phẩm. Trường hợp cần thiết sẽ trưng tập các la bô khác có khả năng tham gia kiểm nghiệm an toàn thực phẩm để phục vụ công tác quản lý nhà nước về an toàn thực phẩm.\n\n\\+ Mời đại diện Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam tham gia kiểm tra theo Chương trình phối hợp vận động và giám sát bảo đảm an toàn thực phẩm giai đoạn 2016-2020 đã được Thủ tướng Chính phủ và Chủ tịch Đoàn chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam ký ngày 30/3/2016.\n\n1.2. Tại các địa phương\n\nCăn cứ kế hoạch của Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm, Ban Chỉ đạo liên ngành vệ sinh an toàn thực phẩm các tỉnh, thành phố trực thuộc Trung ương giao Sở Y tế chủ trì, phối hợp với các sở, ngành liên quan xây dựng kế hoạch của Ban chỉ đạo và triển khai thực hiện kế hoạch; đồng thời phối hợp chặt chẽ với các Đoàn thanh tra, kiểm tra liên ngành của Trung ương khi thanh tra, kiểm tra trên địa bàn.\n\n**2\\. Thanh tra, kiểm tra trong ngành y tế**\n\n2.1. Tại Trung ương\n\nCục An toàn thực phẩm chủ trì phối hợp với Thanh tra Bộ Y tế và các đơn vị chức năng liên quan triển khai thanh tra, kiểm tra việc chấp hành các quy định về an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế, đặc biệt thanh tra, kiểm tra đột xuất các cơ sở sản xuất, kinh doanh, nhập khẩu thực phẩm chức năng, phụ gia thực phẩm (gồm cả cơ sở sử dụng phụ gia thực phẩm); kiểm tra sau cấp Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm/Giấy tiếp nhận bản công bố hợp quy, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; kiểm tra trách nhiệm quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số [13/CT-TTg](https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx \"Chỉ thị 13/CT-TTg\") ngày 09/5/2016 của Thủ tướng Chính phủ, cụ thể như sau:\n\na) Quý I năm 2017: Thanh tra, kiểm tra liên ngành về an toàn thực phẩm trong dịp tết Nguyên đán Đinh Dậu và mùa Lễ hội Xuân 2017.\n\nb) Quý II năm 2017: Thanh tra, kiểm tra liên ngành trong Tháng hành động vì an toàn thực phẩm 2017; thanh tra chuyên đề thực phẩm chức năng tại tỉnh Bắc Ninh; kiểm tra chuyên đề thực phẩm chức năng và chuyên đề phụ gia thực phẩm, dụng cụ, vật liệu bao gói chứa đựng thực phẩm tại thành phố Hà Nội.\n\nc) Quý III năm 2017: Thanh tra, kiểm tra liên ngành về an toàn thực phẩm trong dịp Tết Trung thu; thanh tra chuyên đề thực phẩm chức năng tại tỉnh Bình Định; thanh tra chuyên đề phụ gia thực phẩm, dụng cụ, vật liệu bao gói chứa đựng thực phẩm tại 03 tỉnh, thành phố (Đà Nẵng, Cần Thơ và Thái Bình); kiểm tra chuyên đề thực phẩm chức năng và chuyên đề phụ gia thực phẩm, dụng cụ, vật liệu bao gói chứa đựng thực phẩm tại thành phố Hồ Chí Minh.\n\nd) Quý IV năm 2017: thanh tra chuyên đề thực phẩm chức năng tại tỉnh Bến Tre; thanh tra chuyên đề sản phẩm dinh dưỡng dùng cho trẻ nhỏ, bình bú và vú ngậm nhân tạo tại 02 tỉnh, thành phố (Hà Nội, TP Hồ Chí Minh); kiểm tra công tác quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số [13/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&match=True&area=2&lan=1 \"13/CT-TTg\") đối với Chi cục An toàn vệ sinh thực phẩm 06 tỉnh, thành phố (Bắc Ninh, Thái Nguyên, Bình Thuận, Ninh Thuận, Đồng Nai, Bà Rịa Vũng Tàu).\n\n_(Địa bàn, thời gian thanh tra, kiểm tra chi tiết tại Phụ lục kèm theo)._\n\n2.2. Tại các địa phương\n\nCăn cứ Kế hoạch của Ban chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Y tế tham mưu cho Ban chỉ đạo liên ngành tỉnh/thành phố về vệ sinh an toàn thực phẩm phê duyệt kế hoạch thanh tra, kiểm tra; phối hợp với các đoàn thanh tra, kiểm tra của Trung ương khi triển khai thực hiện thanh tra, kiểm tra trên địa bàn.\n\n**3\\. Thanh tra, kiểm tra trong ngành Nông nghiệp và Phát triển nông thôn**\n\n3.1. Tại Trung ương\n\na) Quý I năm 2017: Thực hiện theo kế hoạch chung của Ban chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm trong dịp tết Nguyên đán Đinh Dậu và mùa Lễ hội Xuân 2017; thanh kiểm tra an toàn thực phẩm các sản phẩm rau, củ, quả, thịt và sản phẩm từ thịt.\n\nb) Quý II năm 2017: Thanh tra, kiểm tra an toàn thực phẩm trong Tháng hành động vì an toàn thực phẩm; thanh tra, kiểm tra an toàn thực phẩm đối với thực phẩm có nguồn gốc động vật, thực vật nhập khẩu.\n\nc) Quý III năm 2017: Thanh tra, kiểm tra an toàn thực phẩm dịp tết Trung thu; thanh tra, kiểm tra chuyên ngành về an toàn thực phẩm nông lâm sản và thủy sản.\n\nd) Quý IV năm 2017: Thanh tra, kiểm tra chuyên ngành về an toàn thực phẩm nông lâm sản và thủy sản. Chủ trì tổ chức thanh tra, kiểm tra hoạt động sản xuất, kinh doanh nước mắm và sản phẩm dạng mắm theo phân công quản lý về an toàn thực phẩm hiện hành.\n\nđ) Kiểm tra, đánh giá phân loại thường xuyên, liên tục trong năm 2017 về điều kiện bảo đảm an toàn thực phẩm đối với các cơ sở sản xuất, kinh doanh vật tư nông nghiệp và sản phẩm nông lâm thủy sản; kiểm tra, đánh giá các cơ sở chưa được kiểm tra, phân loại; tái kiểm tra các cơ sở xếp loại C.\n\n3.2. Tại các địa phương\n\nCăn cứ Kế hoạch của Ban chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Nông nghiệp và Phát triển nông thôn trình cấp có thẩm quyền phê duyệt kế hoạch và chỉ đạo Chi cục Quản lý chất lượng Nông lâm sản và Thủy sản, Chi cục Thú y, Chi cục Bảo vệ thực vật phối hợp với Thanh tra Sở và các đơn vị liên quan triển khai thanh tra, kiểm tra tại các cơ sở thực phẩm thuộc phạm vi quản lý.\n\n**4\\. Thanh tra, kiểm tra trong ngành Công Thương**\n\n4.1. Tại Trung ương\n\na) Quý I năm 2017: Thanh tra, kiểm về an toàn thực phẩm trong dịp tết Nguyên đán Đinh Dậu và Mùa lễ hội Xuân năm 2017.\n\nb) Quý II năm 2017: Thanh tra, kiểm tra an toàn thực phẩm trong Tháng hành động vì an toàn thực phẩm; thanh tra, kiểm tra chuyên ngành cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý.\n\nc) Quý III năm 2017: Thanh tra, kiểm tra an toàn thực phẩm trong dịp Tết Trung thu; thanh tra, kiểm tra chuyên ngành cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý.\n\nd) Quý IV năm 2017: Thanh tra, kiểm tra hậu kiểm các cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý.\n\n4.2. Tại các địa phương\n\nCăn cứ Kế hoạch của Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Công Thương trình cấp có thẩm quyền phê duyệt kế hoạch và chỉ đạo Chi cục Quản lý thị trường phối hợp với Thanh tra Sở và các đơn vị liên quan triển khai thanh tra, kiểm tra tại các cơ sở thực phẩm thuộc phạm vi quản lý.\n\n**II. Trọng tâm các hoạt động thanh tra, kiểm tra**\n\n**1\\. Thanh tra, kiểm tra bảo đảm chất lượng thực phẩm**\n\na) Tập trung kiểm soát chất lượng thực phẩm các khâu: Nguồn gốc nguyên liệu, vận chuyển, bảo quản; quá trình sản xuất, chế biến; nhập khẩu và lưu thông trên thị trường; việc sử dụng phụ gia thực phẩm, chất hỗ trợ chế biến, hương liệu, phẩm màu trong chế biến thực phẩm; chất cấm trong chăn nuôi; kiểm soát việc sử dụng kháng sinh, thuốc thú y, hóa chất bảo vệ thực vật; tiếp tục kiểm soát việc sử dụng salbutamol trong chăn nuôi, chất vàng ô trong chế biến thực phẩm; kiểm soát thực phẩm là hàng giả, không rõ nguồn gốc xuất xứ, hết hạn sử dụng, nhập lậu.\n\nb) Tăng cường lấy mẫu và kiểm nghiệm hậu kiểm; mẫu giám sát do các Viện kiểm nghiệm thuộc các Bộ: Y tế, Nông nghiệp và Phát triển nông thôn và các đơn vị kiểm nghiệm thuộc Sở Y tế thực hiện.\n\n**2\\. Đối với cơ sở sản xuất, kinh doanh, nhập khẩu thực phẩm**\n\nKiểm tra việc thực hiện các quy định về:\n\na) Công bố hợp quy/công bố phù hợp quy định an toàn thực phẩm đối với thực phẩm đã qua chế biến bao gói sẵn, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói chứa đựng thực phẩm _(gọi tắt là sản phẩm thực phẩm)_ theo quy định của Luật An toàn thực phẩm, Nghị định số [38/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx \"Nghị định 38/2012/NĐ-CP\") và Thông tư số [19/2012/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-19-2012-tt-byt-huong-dan-viec-cong-bo-hop-quy-cong-bo-phu-hop-quy-dinh-151174.aspx \"Thông tư 19/2012/TT-BYT\") ngày 09/11/2012 của Bộ trưởng Bộ Y tế hướng dẫn việc công bố hợp quy và công bố phù hợp quy định an toàn thực phẩm; Thông tư số [43/2014/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-43-2014-tt-byt-quan-ly-thuc-pham-chuc-nang-258938.aspx \"Thông tư 43/2014/TT-BYT\") ngày 24/11/2014 của Bộ trưởng Bộ Y tế quy định về quản lý thực phẩm chức năng; Thông tư số [27/2012/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-27-2012-tt-byt-huong-dan-viec-quan-ly-phu-gia-thuc-pham-152872.aspx \"Thông tư 27/2012/TT-BYT\") ngày 30/11/2012 hướng dẫn việc quản lý phụ gia thực phẩm; Thông tư số [08/2015/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-08-2015-tt-byt-sua-doi-thong-tu-27-2012-tt-byt-quan-ly-phu-gia-thuc-pham-275513.aspx \"Thông tư 08/2015/TT-BYT\") ngày 11/5/2015 Sửa đổi, bổ sung một số quy định của Thông tư số [27/2012/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-27-2012-tt-byt-huong-dan-viec-quan-ly-phu-gia-thuc-pham-152872.aspx \"Thông tư 27/2012/TT-BYT\") ngày 30/11/2012 hướng dẫn việc quản lý phụ gia thực phẩm.\n\nb) Ghi nhãn sản phẩm thực phẩm theo quy định của Nghị định số [89/2006/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-89-2006-nd-cp-nhan-hang-hoa-13789.aspx \"Nghị định 89/2006/NĐ-CP\") ngày 30/8/2006 của Chính phủ về nhãn hàng hóa; Thông tư liên tịch số [34/2014/TTLT-BYT-BNNPTNT-BCT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-lien-tich-34-2014-ttlt-byt-bnnptnt-bct-huong-dan-ghi-nhan-hang-hoa-thuc-pham-phu-gia-256805.aspx \"Thông tư liên tịch 34/2014/TTLT-BYT-BNNPTNT-BCT\") ngày 27/10/2014 của liên Bộ: Y tế, Nông nghiệp và Phát triển nông thôn, Công Thương hướng dẫn ghi nhãn hàng hóa đối với thực phẩm, phụ gia thực phẩm và chất hỗ trợ chế biến thực phẩm bao gói sẵn.\n\nc) Quảng cáo sản phẩm thực phẩm theo quy định của Luật Quảng cáo; Nghị định số [181/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-181-2013-nd-cp-huong-dan-luat-quang-cao-213649.aspx \"Nghị định 181/2013/NĐ-CP\") ngày 14/11/2013 của Chính phủ Quy định chi tiết thi hành Luật Quảng cáo; Thông tư số [09/2015/TT-BYT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-09-2015-tt-byt-xac-nhan-noi-dung-quang-cao-san-pham-hang-hoa-dich-vu-quan-ly-cua-bo-y-te-275518.aspx \"Thông tư 09/2015/TT-BYT\") ngày 25/5/2015 của Bộ trưởng Bộ Y tế quy định về xác nhận nội dung quảng cáo đối với sản phẩm, hàng hóa, dịch vụ đặc biệt thuộc lĩnh vực quản lý của Bộ Y tế; Thông tư số [40/2012/TT-BCT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-40-2012-tt-bct-cap-giay-xac-nhan-noi-dung-quang-cao-thuc-pham-163519.aspx \"Thông tư 40/2012/TT-BCT\") ngày 21/12/2012 quy định cấp Giấy xác nhận nội dung quảng cáo thực phẩm thuộc trách nhiệm quản lý của Bộ Công Thương.\n\nd) Điều kiện bảo đảm an toàn thực phẩm trong sản xuất, sơ chế, chế biến, kinh doanh, bảo quản, vận chuyển thực phẩm, phụ gia thực phẩm theo quy định của Luật An toàn thực phẩm; Nghị định số [38/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx \"Nghị định 38/2012/NĐ-CP\") ; các Nghị định của Chính phủ quy định về điều kiện sản xuất, kinh doanh thực phẩm thuộc lĩnh vực quản lý chuyên ngành của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương; Nghị định số 77/2016/NĐCP ngày 01/7/2016 của Chính phủ sửa đổi, bổ sung một số quy định về điều kiện đầu tư kinh doanh trong lĩnh vực mua bán hàng hóa quốc tế, hóa chất, vật liệu nổ công nghiệp, phân bón, kinh doanh khí, an toàn thực phẩm có liên quan đến phạm vi quản lý của Bộ Công Thương; Thông tư số [15/2012/TT-BYT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-15-2012-tt-byt-quy-dinh-dieu-kien-chung-bao-dam-an-toan-thuc-pham-147864.aspx \"Thông tư 15/2012/TT-BYT\") ngày 12/9/2012 của Bộ trưởng Bộ Y tế quy định về điều kiện chung bảo đảm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm; Thông tư số [16/2012/TT-BYT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-16-2012-tt-byt-quy-dinh-dieu-kien-an-toan-thuc-pham-doi-voi-co-so-149958.aspx \"Thông tư 16/2012/TT-BYT\") ngày 22/10/2012 của Bộ trưởng Bộ Y tế quy định về điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm thuộc phạm vi quản lý của Bộ Y tế; Thông tư [45/2014/TT-BNNPTNT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-45-2014-tt-bnnptnt-kiem-tra-co-so-san-xuat-kinh-doanh-vat-tu-nong-nghiep-du-dieu-kien-an-toan-thuc-pham-259691.aspx \"Thông tư 45/2014/TT-BNNPTNT\") ngày 03/12/2014 quy định việc kiểm tra cơ sở sản xuất, kinh doanh vật tư nông nghiệp và kiểm tra, chứng nhận cơ sở sản xuất, kinh doanh nông lâm thủy sản đủ điều kiện an toàn thực phẩm; Thông tư số [51/2014/TT-BNNPTNT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-51-2014-tt-bnnptnt-dieu-kien-bao-dam-an-toan-thuc-pham-phuong-thuc-quan-ly-co-so-san-xuat-nho-le-262403.aspx \"Thông tư 51/2014/TT-BNNPTNT\") ngày 27/12/2014 quy định điều kiện bảo đảm an toàn thực phẩm và phương thức quản lý đối với các cơ sở sản xuất ban đầu nhỏ lẻ; Thông tư [48/2013/TT-BNNPTNT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-48-2013-tt-bnnptnt-kiem-tra-chung-nhan-an-toan-thuy-san-xuat-khau-213842.aspx \"Thông tư 48/2013/TT-BNNPTNT\") ngày 12/11/2013 quy định về kiểm tra, chứng nhận an toàn thực phẩm thủy sản xuất khẩu; Thông tư số [48/2015/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx \"Thông tư 48/2015/TT-BYT\") ngày 01 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy định hoạt động kiểm tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế; các Thông tư của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương quy định điều kiện bảo đảm an toàn thực phẩm.\n\nđ) Chất lượng của sản phẩm thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói chứa đựng thực phẩm thực phẩm so với tiêu chuẩn đã công bố/quy chuẩn kỹ thuật/các quy định về an toàn thực phẩm.\n\ne) Việc thực hiện các quy định về bảo đảm an toàn thực phẩm đối với thực phẩm nhập khẩu, ngăn chặn việc thẩm lậu các loại thực phẩm không bảo đảm an toàn.\n\n**3\\. Đối với cơ sở kinh doanh dịch vụ ăn uống**\n\nTập trung thanh tra, kiểm tra việc chấp hành các quy định về bảo đảm an toàn thực phẩm đối với các cơ sở kinh doanh dịch vụ ăn uống theo quy định tại Luật An toàn thực phẩm, Nghị định số [38/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx \"Nghị định 38/2012/NĐ-CP\") , Thông tư số [30/2012/TT-BYT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-30-2012-tt-byt-dieu-kien-an-toan-thuc-pham-doi-voi-co-so-kinh-doanh-152633.aspx \"Thông tư 30/2012/TT-BYT\") ngày 05/12/2012 của Bộ trưởng Bộ Y tế quy định về điều kiện an toàn thực phẩm đối với cơ sở kinh doanh dịch vụ ăn uống, thức ăn đường phố và Thông tư số [47/2014/TT-BYT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-47-2014-tt-byt-huong-dan-quan-ly-an-toan-thuc-pham-co-so-kinh-doanh-dich-vu-an-uong-260087.aspx \"Thông tư 47/2014/TT-BYT\") ngày 11/12/2014 của Bộ trưởng Bộ Y tế hướng dẫn quản lý an toàn thực phẩm đối với cơ sở dịch vụ ăn uống; Thông tư số [48/2015/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx \"Thông tư 48/2015/TT-BYT\") ngày 01 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy định hoạt động kiểm tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế. Chú trọng kiểm soát bảo đảm an toàn thực phẩm tại các bếp ăn tập thể khu công nghiệp, trường học, các cơ sở cung cấp suất ăn sẵn, khu du lịch, lễ hội, sự kiện lớn.\n\n**4\\. Đối với** **cơ sở kinh doanh thức ăn đường phố**\n\nTập trung kiểm tra việc thực hiện các quy định về bảo đảm an toàn thực phẩm theo quy định của Luật An toàn thực phẩm, Nghị định số [38/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-38-2012-nd-cp-huong-dan-luat-an-toan-thuc-pham-138500.aspx \"Nghị định 38/2012/NĐ-CP\") và Thông tư số 30/2012/NĐ-CP ngày 05/12/2012 của Bộ trưởng Bộ Y tế quy định về điều kiện an toàn thực phẩm đối với cơ sở kinh doanh dịch vụ ăn uống, kinh doanh thức ăn đường phố; Thông tư số [48/2015/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx \"Thông tư 48/2015/TT-BYT\") ngày 01 tháng 12 năm 2015 của Bộ trưởng Bộ Y tế quy định hoạt động kiểm tra an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế.\n\n**5\\. Đối với** **cơ quan quản lý về an toàn thực phẩm**\n\nKiểm tra trách nhiệm quản lý nhà nước của Chi cục An toàn vệ sinh thực phẩm, tập trung các nội dung: Việc triển khai công tác bảo đảm an toàn thực phẩm theo chức năng, nhiệm vụ; cấp, cấp lại, thu hồi giấy tiếp nhận bản công bố hợp quy/giấy xác nhận công bố phù hợp quy định an toàn thực phẩm, giấy xác nhận nội dung quảng cáo, giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; công tác thông tin, giáo dục, truyền thông về an toàn thực phẩm; công tác thanh tra, kiểm tra, xử lý vi phạm.\n\n**6\\. Thí điểm thanh tra chuyên ngành an toàn thực phẩm cấp quận/huyện, xã/ph****ường theo Quyết định số [38/2015/QĐ-TTg](https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-38-2015-qd-ttg-thi-diem-thanh-tra-chuyen-nganh-an-toan-thuc-pham-ha-noi-ho-chi-minh-289680.aspx \"Quyết định 38/2015/QĐ-TTg\") ngày 09 tháng 9 năm 2015 của Thủ tướng Chính phủ**\n\n\\- Trình Thủ tướng Chính phủ mở rộng và kéo dài thời gian thực hiện thí điểm thanh tra chuyên ngành an toàn thực phẩm cấp quận/huyện, xã/phường đến tất cả các các quận, huyện, thị xã và phường, xã, thị trấn của Thành phố Hà Nội và Thành phố Hồ Chí Minh; đề xuất thí điểm thêm một số quận (huyện, thị xã) và phường (xã, thị trấn) của 07 tỉnh, thành phố trực thuộc Trung ương (Cần Thơ, Đà Nẵng, Hải Phòng, Đồng Nai, Thanh Hóa, Hà Tĩnh, Gia Lai) theo đề nghị của Ủy ban nhân dân tỉnh, thành phố.\n\n\\- Hỗ trợ đào tạo cấp chứng chỉ bồi dưỡng nghiệp vụ thanh tra cho người được giao nhiệm vụ thanh tra chuyên ngành an toàn thực phẩm tại các địa phương thí điểm; tập huấn nâng cao năng lực và giám sát hỗ trợ nghiệp vụ cho các đơn vị thí điểm.\n\n**7\\. Xử lý vi phạm**\n\nCác đoàn thanh tra, kiểm tra khi phát hiện vi phạm phải xử lý theo đúng quy định của pháp luật; tuyệt đối không để thực phẩm không bảo đảm an toàn thực phẩm, không rõ nguồn gốc xuất xứ, nhập lậu lưu thông trên thị trường. Các cơ quan có thẩm quyền ở Trung ương và địa phương áp dụng các hình thức xử phạt bổ sung, biện pháp khắc phục hậu quả mạnh mẽ, quyết liệt như: đình chỉ hoạt động của cơ sở sản xuất, kinh doanh vi phạm quy định về an toàn thực phẩm; tịch thu tang vật, tạm dừng lưu thông, thu hồi, tiêu hủy sản phẩm vi phạm về an toàn thực phẩm; áp dụng thu hồi các loại giấy chứng nhận đã cấp theo thẩm quyền; công bố công khai cơ sở vi phạm trên các phương tiện thông tin đại chúng theo quy định.\n\n**III. BÁO CÁO KẾT QUẢ THANH TRA, KIỂM TRA**\n\n1\\. Các Bộ: Y tế, Nông nghiệp và Phát triển nông thôn, Công Thương tổng hợp báo cáo kết quả thanh tra, kiểm tra của toàn ngành; Sở Y tế các tỉnh, thành phố chủ trì phối hợp với các Sở: Nông nghiệp và Phát triển nông thôn, Công Thương tham mưu cho Ban chỉ đạo liên ngành về vệ sinh an toàn thực phẩm tỉnh/thành phố tổng hợp báo cáo kết quả thanh tra, kiểm tra về an toàn thực phẩm của toàn tỉnh/thành phố gửi Bộ Y tế (Cục An toàn thực phẩm) để tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ và Trưởng Ban chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm.\n\n2\\. Các mốc thời gian báo cáo\n\na) Đối với các đợt thanh tra, kiểm tra liên ngành (Tết Nguyên đán, Tháng hành động về an toàn thực phẩm, Tết trung thu) báo cáo theo thời gian quy định ghi trong các bản Kế hoạch chi tiết triển khai thanh tra, kiểm tra của từng đợt.\n\nb) Báo cáo 6 tháng: Trước ngày 25/6/2017.\n\nc) Báo cáo năm 2017: Trước ngày 25/12/2017.\n\n**IV. BẢO ĐẢM KINH PHÍ**\n\nKinh phí phục vụ cho công tác thanh tra, kiểm tra về an toàn thực phẩm do ngân sách nhà nước ở Trung ương và địa phương bảo đảm theo quy định của Luật ngân sách Nhà nước và các nguồn kinh phí hợp pháp khác. Việc sử dụng kinh phí thực hiện theo quy định.\n\nTrên đây là Kế hoạch triển khai công tác thanh tra, kiểm tra về an toàn thực phẩm năm 2017, Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm đề nghị các Bộ, ngành và các địa phương triển khai thực hiện./.\n\n**_Nơi nhận:  \n_**\\- Phó Thủ tướng Vũ Đức Đam (để báo cáo);  \n\\- Văn phòng Chính phủ (để báo cáo);  \n\\- Thứ trưởng Trương Quốc Cường;  \n\\- Thành viên BCĐ liên ngành TƯ về VSATTP;  \n\\- Thành viên Tổ Công tác LNTƯ về VSATTP;  \n\\- UBND các tỉnh, thành phố trực thuộc TƯ;  \n\\- Sở Y tế, các tỉnh, TP trực thuộc TƯ;  \n\\- Các Viện: DD, KNATVSTPQG, YTCC Tp. HCM, Pasteur Nha Trang, VSDT Tây Nguyên;  \n\\- Báo SKĐS, Trung tâm TTGDSK Bộ Y tế;  \n\\- Website Bộ Y tế, Cục An toàn thực phẩm;  \n\\- Lưu: VT, ATTP.\n\n**KT. TRƯỞNG BAN  \nPHÓ TRƯỞNG BAN THƯỜNG TRỰC  \n  \n  \n  \n  \nBỘ TRƯỞNG BỘ Y TẾ  \nNguyễn Thị Kim Tiến**\n\n**PHỤ LỤC**\n\nCÁC CUỘC THANH TRA, KIỂM TRA CHUYÊN NGÀNH AN TOÀN THỰC PHẨM NĂM 2017  \n_(Kèm theo Kế hoạch số: 160/KH-BCĐTƯVSATTP ngày 16/2/2017 của Ban Chỉ đạo LN Trung ương về VSATTP)_\n\n**TT**\n\n**ĐỐI TƯỢNG THANH TRA, KIỂM TRA**\n\n**NỘI DUNG THANH TRA, KIỂM TRA**\n\n**PHẠM VI**\n\n**THỜI GIAN**\n\n**ĐƠN VỊ CHỦ TRÌ**\n\n**ĐƠN VỊ PHỐI HỢP**\n\n**A- Các cuộc thanh tra, kiểm tra liên ngành Trung ương**\n\n1.\n\n\\- Cơ quan quản lý nhà nước về ATTP các cấp, các ngành.\n\n\\- Cơ sở sản xuất, kinh doanh, chế biến thực phẩm.\n\nThanh tra, kiểm tra về an toàn thực phẩm trong dịp Tết Nguyên đán Bính Thân và Lễ hội Xuân 2017\n\n12 tỉnh, thành phố\n\nTháng 12/2016- 03/2017\n\nBộ Y tế\n\nBộ Công Thương, Bộ Nông nghiệp và PTNT, Bộ Công an, BCĐTƯVS ATTP 12 tỉnh, thành phố, các Viện kiểm nghiệm thuộc Bộ Y tế, Bộ Nông nghiệp và PTNT\n\n2.\n\n\\- Cơ quan quản lý nhà nước về ATTP các cấp, các ngành\n\n\\- Cơ sở sản xuất, kinh doanh, chế biến thực phẩm\n\nThanh tra, kiểm tra về an toàn thực phẩm trong Tháng hành động về ATTP năm 2017\n\n12 tỉnh, thành phố\n\nTháng 4- 5/2017\n\nBộ Y tế\n\nBộ Công Thương, Bộ Nông nghiệp, Bộ Công an, BCĐTƯVSATTP 12 tỉnh, thành phố, các Viện kiểm nghiệm thuộc Bộ Y tế, Bộ Nông nghiệp và PTNT\n\n3.\n\n\\- Cơ quan quản lý nhà nước về ATTP các cấp, các ngành\n\n\\- Cơ sở sản xuất, kinh doanh, chế biến thực phẩm.\n\nThanh tra, kiểm tra về an toàn thực phẩm trong dịp Tết Trung thu 2017\n\n12 tỉnh, thành phố\n\nQuý III\n\nBộ Y tế\n\nBộ Công Thương, Bộ Nông nghiệp, Bộ Công an, BCĐTƯVSATTP 12 tỉnh, thành phố, các Viện kiểm nghiệm thuộc Bộ Y tế, Bộ Nông nghiệp và PTNT\n\n**B- Các cuộc thanh tra theo chuyên đề của ngành Y tế**\n\n1.\n\nCơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng\n\nChấp hành các quy định của pháp luật trong sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng.\n\ntỉnh Bắc Ninh  \ntỉnh Bình Định  \ntỉnh Bến Tre\n\nQuý II/2017  \nQuý III/2017  \nQuý IV/2017\n\nCục ATTP\n\nCác Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế và Chi cục ATVSTP tỉnh/thành phố.\n\n2.\n\nCơ sở sản xuất, kinh doanh, nhập khẩu, sử dụng phụ gia thực phẩm; dụng cụ, vật liệu bao gói chứa đựng thực phẩm\n\nChấp hành các quy định của pháp luật trong sản xuất, kinh doanh, nhập khẩu, sử dụng phụ gia thực phẩm; dụng cụ, vật liệu bao gói chứa đựng thực phẩm\n\n03 tỉnh, thành phố (Đà Nẵng, Cần Thơ và Thái Bình)\n\nQuý III năm 2017\n\nCục ATTP\n\nCác Viện kiểm nghiệm thuộc Bộ Y tế; Chi cục ATVSTP tỉnh/thành phố.\n\n3.\n\nCơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo sản phẩm dinh dưỡng dùng cho trẻ nhỏ, bình bú và vú ngậm nhân tạo.\n\nChấp hành các quy định sản xuất, kinh doanh, nhập khẩu, quảng cáo sản phẩm dinh dưỡng dùng cho trẻ nhỏ, bình bú và vú ngậm nhân tạo.\n\n02 thành phố (Hà Nội, Tp Hồ Chí Minh)\n\nQuý IV Năm 2017\n\nCục ATTP\n\nCác Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế và Chi cục ATVSTP tỉnh/thành phố.\n\n**B- Các cuộc kiểm tra theo chuyên đề của ngành Y tế**\n\n1.\n\n\\- Cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng (đặc biệt là kiểm tra đột xuất theo Chỉ thị [13/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&match=True&area=2&lan=1 \"13/CT-TTg\") ngày 09/5/2016)\n\n\\- Chấp hành các quy định của pháp luật trong sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm chức năng.\n\nThành phố Hà Nội\n\nQuý II năm 2017\n\nCục ATTP\n\nCác Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế/ Chi cục ATVSTP tỉnh/thành phố.\n\n\\- Cơ sở sản xuất, kinh doanh, nhập khẩu, sử dụng phụ gia thực phẩm; dụng cụ, vật liệu bao gói chứa đựng thực phẩm\n\n\\- Chấp hành các quy định của pháp luật trong sản xuất, kinh doanh, nhập khẩu, sử dụng phụ gia thực phẩm; dụng cụ, vật liệu bao gói chứa đựng thực phẩm\n\nThành phố Hồ Chí Minh\n\nQuý III năm 2017\n\n2.\n\nKiểm tra việc thực hiện Chỉ thị số [13/CT-TTg](https://thuvienphapluat.vn/van-ban/the-thao-y-te/chi-thi-13-ct-ttg-trach-nhiem-quan-ly-nha-nuoc-ve-an-toan-thuc-pham-2016-310735.aspx \"Chỉ thị 13/CT-TTg\") ngày 09/5/2016 của Thủ tướng Chính phủ\n\nKiểm tra công tác quản lý nhà nước về an toàn thực phẩm theo chức năng, nhiệm vụ và thẩm quyền của Chi cục\n\n06 tỉnh, thành phố (Bắc Ninh, Thái Nguyên, Bình Thuận, Ninh Thuận, Đồng Nai, Bà Rịa Vũng Tàu)\n\nQuý IV Năm 2017\n\nCục ATTP\n\nCác Viện kiểm nghiệm thuộc Bộ Y tế, Sở Y tế",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

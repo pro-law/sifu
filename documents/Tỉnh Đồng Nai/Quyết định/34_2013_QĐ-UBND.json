@@ -1,0 +1,585 @@
+{
+  "title": "Quyết định 34/2013/QĐ-UBND Quy chế phối hợp quản lý nhà nước về bảo vệ môi trường trên địa bàn tỉnh Đồng Nai",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật thanh tra 2010",
+      "id": "56/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-15",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2011-04-01",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Hết hiệu lực: 01/07/2023"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 29/2011/NĐ-CP quy định về đánh giá môi trường chiến lược, đánh giá tác động môi trường, cam kết bảo vệ môi trường",
+      "id": "29/2011/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-04-18",
+      "effectiveDate": "2011-06-05",
+      "gazetteDate": "2011-05-04",
+      "gazetteNumber": "Từ số 241 đến số 242",
+      "status": "Hết hiệu lực: 01/04/2015"
+    },
+    {
+      "title": "Nghị quyết 195/2010/NQ-HĐND điều chỉnh Nghị quyết 125/2008/NQ-HĐND thông qua Đề án Bảo vệ môi trường trên địa bàn tỉnh Đồng Nai đến năm 2010 và định hướng đến năm 2020",
+      "id": "195/2010/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Trần Đình Thành"
+      ],
+      "issuedDate": "2010-12-09",
+      "effectiveDate": "2010-12-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Nghị định 72/2010/NĐ-CP quy định về phòng ngừa, đấu tranh chống tội phạm và vi phạm pháp luật khác về môi trường",
+      "id": "72/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Trách nhiệm hình sự"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-07-08",
+      "effectiveDate": "2010-09-01",
+      "gazetteDate": "2010-07-21",
+      "gazetteNumber": "Từ số 406 đến số 407",
+      "status": "Hết hiệu lực: 05/12/2015"
+    },
+    {
+      "title": "Thông tư 09/2010/TT-BGTVT quy định về hoạt động bảo vệ môi trường trong phát triển kết cấu hạ tầng giao thông do Bộ Giao thông vận tải ban hành",
+      "id": "09/2010/TT-BGTVT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Hồ Nghĩa Dũng"
+      ],
+      "issuedDate": "2010-04-06",
+      "effectiveDate": "2010-05-21",
+      "gazetteDate": "2010-04-25",
+      "gazetteNumber": "Từ số 181 đến số 182",
+      "status": "Hết hiệu lực: 10/09/2015"
+    },
+    {
+      "title": "Quyết định 105/2009/QĐ-TTg về quy chế quản lý cụm Công nghiệp do Thủ tướng Chính phủ ban hành",
+      "id": "105/2009/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-08-19",
+      "effectiveDate": "2009-10-05",
+      "gazetteDate": "2009-09-04",
+      "gazetteNumber": "Từ số 431 đến số 432",
+      "status": "Hết hiệu lực: 15/07/2017"
+    },
+    {
+      "title": "Thông tư 08/2009/TT-BTNMT quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp do Bộ trưởng Bộ Tài nguyên và  Môi trường ban hành",
+      "id": "08/2009/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Xuân Cường"
+      ],
+      "issuedDate": "2009-07-15",
+      "effectiveDate": "2009-09-01",
+      "gazetteDate": "2009-08-03",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Hết hiệu lực: 17/08/2015"
+    },
+    {
+      "title": "Thông tư 09/2009/TT-BXD hướng dẫn Nghị định 88/2007/NĐ-CP về thoát nước đô thị và khu công nghiệp do Bộ Xây dựng ban hành",
+      "id": "09/2009/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Trần Văn Sơn"
+      ],
+      "issuedDate": "2009-05-21",
+      "effectiveDate": "2009-07-14",
+      "gazetteDate": "2009-06-19",
+      "gazetteNumber": "Từ số 299 đến số 300",
+      "status": "Hết hiệu lực: 19/05/2015"
+    },
+    {
+      "title": "Thông tư liên tịch 02/2009/TTLT-BCA-BTNMT hướng dẫn quan hệ phối hợp công tác phòng, chống tội phạm và vi phạm pháp luật về bảo vệ môi trường do Bộ Công an - Bộ Tài nguyên và Môi trường ban hành",
+      "id": "02/2009/TTLT-BCA-BTNMT",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Trách nhiệm hình sự",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Công An, Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Trần Đại Quang",
+        "Nguyễn Xuân Cường"
+      ],
+      "issuedDate": "2009-02-06",
+      "effectiveDate": "2009-03-23",
+      "gazetteDate": "2009-02-20",
+      "gazetteNumber": "Từ số 129 đến số 130",
+      "status": "Hết hiệu lực: 15/11/2021"
+    },
+    {
+      "title": "Nghị quyết 125/2008/NQ-HĐND thông qua Đề án bảo vệ môi trường trên địa bàn tỉnh Đồng Nai đến năm 2010 và định hướng đến năm 2020 do Hội đồng nhân dân tỉnh Đồng Nai khóa VII, kỳ họp thứ 14 ban hành",
+      "id": "125/2008/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Trần Đình Thành"
+      ],
+      "issuedDate": "2008-12-05",
+      "effectiveDate": "2008-12-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 04/2008/QĐ-BXD về quy chuẩn kỹ thuật quốc gia về quy hoạch xây dựng do Bộ trưởng Bộ Xây dựng ban hành",
+      "id": "04/2008/QĐ-BXD",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Hồng Quân"
+      ],
+      "issuedDate": "2008-04-03",
+      "effectiveDate": "2008-05-01",
+      "gazetteDate": "2008-04-16",
+      "gazetteNumber": "Từ số 233 đến số 234",
+      "status": "Hết hiệu lực: 01/07/2020"
+    },
+    {
+      "title": "Nghị định 29/2008/NĐ-CP về khu công nghiệp, khu chế xuất và khu kinh tế",
+      "id": "29/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Thương mại",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-03-14",
+      "effectiveDate": "2008-04-10",
+      "gazetteDate": "2008-03-26",
+      "gazetteNumber": "Từ số 201 đến số 202",
+      "status": "Hết hiệu lực: 10/07/2018"
+    },
+    {
+      "title": "Thông tư 13/2007/TT-BXD hướng dẫn Nghị định 59/2007/NĐ-CP về quản lý chất thải rắn do Bộ Xây dựng ban hành",
+      "id": "13/2007/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Văn Liên"
+      ],
+      "issuedDate": "2007-12-31",
+      "effectiveDate": "2008-02-05",
+      "gazetteDate": "2008-01-21",
+      "gazetteNumber": "Từ số 41 đến số 42",
+      "status": "Hết hiệu lực: 15/02/2020"
+    },
+    {
+      "title": "Quyết định 43/2007/QĐ-BYT về quy chế quản lý chất thải y tế do Bộ trưởng Bộ Y tế ban hành",
+      "id": "43/2007/QĐ-BYT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Quốc Triệu"
+      ],
+      "issuedDate": "2007-11-30",
+      "effectiveDate": "2008-01-06",
+      "gazetteDate": "2007-12-22",
+      "gazetteNumber": "Từ số 831 đến số 832",
+      "status": "Hết hiệu lực: 01/04/2016"
+    },
+    {
+      "title": "Nghị định 88/2007/NĐ-CP về thoát nước đô thị và khu công nghiệp",
+      "id": "88/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-05-28",
+      "effectiveDate": "2007-07-08",
+      "gazetteDate": "2007-06-23",
+      "gazetteNumber": "Từ số 406 đến số 407",
+      "status": "Hết hiệu lực: 01/01/2015"
+    },
+    {
+      "title": "Nghị định 59/2007/NĐ-CP về việc quản lý chất thải rắn",
+      "id": "59/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-09",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Hết hiệu lực: 15/02/2020"
+    },
+    {
+      "title": "Nghị định 80/2006/NĐ-CP Hướng dẫn Luật Bảo vệ môi trường",
+      "id": "80/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2006-08-09",
+      "effectiveDate": "2006-09-03",
+      "gazetteDate": "2006-08-19",
+      "gazetteNumber": "Từ số 61 đến số 62",
+      "status": "Hết hiệu lực: 01/04/2015"
+    },
+    {
+      "title": "Luật Bảo vệ môi trường 2005",
+      "id": "52/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-20",
+      "gazetteNumber": "Từ số 35 đến số 36",
+      "status": "Hết hiệu lực: 01/01/2015"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 18/2018/QĐ-UBND về Quy chế phối hợp trong công tác bảo vệ môi trường trên địa bàn tỉnh Đồng Nai",
+      "id": "18/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Võ Văn Chánh"
+      ],
+      "issuedDate": "2018-03-26",
+      "effectiveDate": "2018-04-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 345/QĐ-UBND năm 2019 công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ và một phần thuộc lĩnh vực quản lý nhà nước của Hội đồng nhân dân tỉnh, Ủy ban nhân dân tỉnh Đồng Nai năm 2018",
+      "id": "345/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Đinh Quốc Thái"
+      ],
+      "issuedDate": "2019-01-29",
+      "effectiveDate": "2019-01-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 626/QĐ-UBND năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân tỉnh, Ủy ban nhân dân tỉnh Đồng Nai trong kỳ hệ thống hóa 2014-2018",
+      "id": "626/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Đinh Quốc Thái"
+      ],
+      "issuedDate": "2019-02-28",
+      "effectiveDate": "2019-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 683/QĐ-UBND năm 2014 bãi bỏ Quyết định 2315/2009/QĐ-UBND Quy chế phối hợp quản lý môi trường và vệ sinh đô thị do Quận 1, thành phố Hồ Chí Minh ban hành",
+      "id": "683/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quận 1",
+      "signers": [
+        "Lê Trương Hải Hiếu"
+      ],
+      "issuedDate": "2014-06-19",
+      "effectiveDate": "2014-06-19",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Số 41",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 23/2013/QĐ-UBND về Quy chế phối hợp quản lý hoạt động du lịch trên địa bàn tỉnh Phú Yên",
+      "id": "23/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Phạm Đình Cự"
+      ],
+      "issuedDate": "2013-08-14",
+      "effectiveDate": "2013-08-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/11/2023"
+    },
+    {
+      "title": "Quyết định 1111/QĐ-UBND năm 2013 ban hành Kế hoạch thực hiện Nghị quyết 35/NQ-CP về vấn đề cấp bách trong lĩnh vực bảo vệ môi trường trên địa bàn tỉnh Phú Yên",
+      "id": "1111/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Lê Văn Trúc"
+      ],
+      "issuedDate": "2013-06-28",
+      "effectiveDate": "2013-06-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 20/2013/QĐ-UBND về phân cấp quản lý nhà nước về bảo vệ môi trường trong hoạt động sản xuất, kinh doanh, dịch vụ trên địa bàn tỉnh Sóc Trăng",
+      "id": "20/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Nguyễn Trung Hiếu"
+      ],
+      "issuedDate": "2013-06-24",
+      "effectiveDate": "2013-07-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/01/2019"
+    },
+    {
+      "title": "Quyết định 03/2013/QĐ-UBND quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí bảo vệ môi trường đối với nước thải trên địa bàn tỉnh Sóc Trăng",
+      "id": "03/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Nguyễn Trung Hiếu"
+      ],
+      "issuedDate": "2013-02-07",
+      "effectiveDate": "2013-02-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/03/2014"
+    },
+    {
+      "title": "Quyết định 12/2013/QĐ-UBND quy định đối tượng, mức thu, chế độ quản lý phí bảo vệ môi trường đối với nước thải sinh hoạt trên địa bàn tỉnh Nghệ An",
+      "id": "12/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Thái Văn Hằng"
+      ],
+      "issuedDate": "2013-01-31",
+      "effectiveDate": "2013-02-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/07/2017"
+    },
+    {
+      "title": "Quyết định 3109/QĐ-UBND năm 2012 phê duyệt \"Chương trình, kế hoạch quản lý tổng hợp tài nguyên và bảo vệ môi trường biển tỉnh Thái Bình đến năm 2015 và định hướng đến năm 2020\"",
+      "id": "3109/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Phạm Văn Sinh"
+      ],
+      "issuedDate": "2012-12-26",
+      "effectiveDate": "2012-12-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 58/2012/QĐ-UBND về Quy định mức thu phí, quản lý và sử dụng nguồn thu phí bảo vệ môi trường đối với khai thác khoáng sản trên địa bàn tỉnh Ninh Thuận",
+      "id": "58/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Nguyễn Đức Thanh"
+      ],
+      "issuedDate": "2012-10-10",
+      "effectiveDate": "2012-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/10/2016"
+    }
+  ],
+  "id": "34/2013/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bộ máy hành chính",
+    "Tài nguyên - Môi trường"
+  ],
+  "organization": "Tỉnh Đồng Nai",
+  "signers": [
+    "Phan Thị Mỹ Thanh"
+  ],
+  "issuedDate": "2013-06-14",
+  "effectiveDate": "2013-06-24",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 09/04/2018",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMQAwADIANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>ỦY BAN NHÂN\n  DÂN<br>\n  TỈNH ĐỒNG NAI<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  34/2013/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Đồng Nai, ngày\n  14 tháng 6 năm 2013</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY CHẾ PHỐI HỢP TRONG CÔNG TÁC BẢO VỆ MÔI TRƯỜNG\nTRÊN ĐỊA BÀN TỈNH ĐỒNG NAI</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy\nban nhân dân ngày 26/11/2003;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Ban hành văn bản quy phạm pháp luật\ncủa Hội đồng nhân dân, Ủy ban nhân dân ngày 03 tháng 12 năm 2004;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Bảo vệ môi trường ngày\n29/11/2005;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 80/2006/NĐ-CP ngày\n09/8/2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số\nđiều của Luật Bảo vệ môi trường;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 59/2007/NĐ-CP ngày\n09/4/2007 của Chính phủ về quản lý chất thải rắn;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 88/2007/NĐ-CP ngày\n28/5/2007 của Chính phủ quy định về thoát nước đô thị và khu công nghiệp;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 29/2008/NĐ-CP ngày\n14/3/2008 của Chính phủ quy định về khu công nghiệp, khu chế xuất và khu kinh tế;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 72/2010/NĐ-CP ngày\n08/7/2010 của Chính phủ quy định về phòng ngừa, đấu tranh chống tội phạm và vi\nphạm pháp luật khác về môi trường;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 29/2011/NĐ-CP ngày\n18/4/2011 của Chính phủ quy định về đánh giá môi trường chiến lược, đánh giá\ntác động môi trường, cam kết bảo vệ môi trường;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Quyết định số 105/2009/QĐ-TTg ngày\n19/8/2009 của Thủ tướng Chính phủ ban hành Quy chế quản lý cụm công nghiệp;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 13/2007/TT-BXD ngày\n31/12/2007 của Bộ Xây dựng hướng dẫn một số điều của Nghị định số 59/2007/NĐ-CP\nngày 9/4/2007 của Chính phủ về quản lý chất thải rắn;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư liên tịch số\n02/2009/TTLT-BCA-BTNMT ngày 06/02/2009 của Bộ Công an và Bộ Tài nguyên và Môi\ntrường về hướng dẫn quan hệ phối hợp công tác phòng, chống tội phạm và vi phạm\npháp luật về bảo vệ môi trường;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 09/2009/TT-BXD ngày\n21/5/2009 của Bộ Xây dựng quy định chi tiết thực hiện một số nội dung của Nghị\nđịnh số 88/2007/NĐ-CP ngày 28/5/2007 của Chính phủ quy định về thoát nước đô thị\nvà khu công nghiệp;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 08/2009/TT-BTNMT ngày\n15/7/2009 của Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường\nkhu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 09/2010/TT-BGTVT ngày\n06/4/2010 của Bộ Giao thông vận tải quy định về bảo vệ môi trường trong phát\ntriển kết cấu hạ tầng giao thông;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Quyết định số 43/2007/QĐ-BYT ngày\n31/11/2007 của Bộ Y tế về việc ban hành Quy chế quản lý chất thải rắn y tế;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Quyết định số 04/2008/QĐ-BXD ngày\n03/4/2008 của Bộ Xây dựng về việc ban hành Quy chuẩn Quốc gia về Quy hoạch xây\ndựng;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị quyết số 125/2008/NQ-HĐND ngày\n05/12/2008 của Hội đồng nhân dân tỉnh Đồng Nai về việc thông qua Đề án Bảo vệ\nmôi trường trên địa bàn tỉnh Đồng Nai đến năm 2010 và định hướng đến năm 2020;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị quyết số 195/2010/NQ-HĐND ngày\n09/12/2010 của Hội đồng nhân dân tỉnh Đồng Nai về việc điều chỉnh, bổ sung một\nsố điều Nghị quyết số 125/2008/NQ-HĐND ngày 05/12/2008 của Hội đồng nhân dân về\nviệc thông qua Đề án bảo vệ môi trường trên địa bàn tỉnh Đồng Nai đến năm 2010\nvà định hướng đến năm 2020;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Theo đề nghị của Giám đốc Sở Tài nguyên và\nMôi trường tại Tờ trình số 540/TTr-STNMTngày 10/5/2013,</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy chế phối hợp quản lý\nnhà nước về bảo vệ môi trường trên địa bàn tỉnh Đồng Nai.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a><b> </b><a name=\"dieu_2_name\">Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a><b> </b><a name=\"dieu_3_name\">Chánh Văn phòng Ủy ban nhân dân tỉnh; Trưởng Ban Quản lý các\nKhu công nghiệp tỉnh; Giám đốc các Sở Tài nguyên và Môi trường, Sở Xây dựng, Sở\nKế hoạch và Đầu tư, Sở Tài chính, Sở Công Thương, Sở Khoa học và Công nghệ, Sở\nY tế, Sở Nông nghiệp và Phát triển nông thôn, Sở Giao thông Vận tải; Chủ tịch UBND\ncác huyện, thị xã Long Khánh, thành phố Biên Hòa; Thủ trưởng các đơn vị và cá\nnhân có liên quan chịu trách nhiệm thi hành Quyết định này./.</a></p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMQAwADIANgA=-->\n <tbody><tr>\n  <td width=\"287\" valign=\"top\" style=\"width:215.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"303\" valign=\"top\" style=\"width:227.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM. ỦY BAN\n  NHÂN DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Phan Thị Mỹ Thanh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2_name\">PHỐI HỢP TRONG CÔNG TÁC BẢO VỆ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH\nĐỒNG NAI</a><br>\n<i>(Ban hành kèm theo Quyết định số 34/2013/QĐ-UBND ngày 14 / 6 /2013 của Ủy\nban nhân dân tỉnh Đồng Nai)</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"EN-US\">Chương I</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"EN-US\" style=\"font-size:12.0pt\">QUY ĐỊNH\nCHUNG</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"EN-US\">Điều 1.\nPhạm vi điều chỉnh</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Quy chế này quy định nội dung phối hợp trong\ncông tác bảo vệ môi trường gồm: Truyền thông nâng cao nhận thức về bảo vệ môi\ntrường, kiểm soát ô nhiễm và quản lý chất thải, quan trắc môi trường, ứng phó sự\ncố môi trường, thanh tra, kiểm tra, trao đổi thông tin và báo cáo về bảo vệ môi\ntrường trên địa bàn tỉnh Đồng Nai.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2_1\"><b>Điều 2. Đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Sở Tài nguyên và Môi trường, Sở Xây dựng, Sở\nKế hoạch và Đầu tư, Sở Tài chính, Sở Công Thương, Sở Khoa học và Công nghệ, Sở\nY tế, Sở Nông nghiệp và Phát triển nông thôn, Sở Giao thông Vận tải, Ban Quản\nlý các Khu công nghiệp, Công anh tỉnh, Sở Cảnh sát phòng cháy, chữa cháy; Ủy\nban nhân dân các huyện, thị xã Long Khánh và thành phố Biên Hòa (sau đây gọi\nchung là UBND cấp huyện).</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Ban Thường trực Ủy ban Mặt trận tổ quốc Việt\nNam tỉnh Đồng Nai, các tổ chức chính trị - xã hội, các cơ quan, tổ chức, cá\nnhân có liên quan trong công tác bảo vệ môi trường trên địa bàn tỉnh Đồng Nai.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3_1\"><b>Điều 3. Nguyên tắc phối hợp</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Quan hệ phối hợp được thực hiện trên cơ sở chức\nnăng, nhiệm vụ, quyền hạn của các cơ quan theo quy định pháp luật nhằm đảm bảo\nsự thống nhất trong công tác bảo vệ môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Quy chế này xác định trách nhiệm của cơ quan\nchủ trì; các cơ quan phối hợp có trách nhiệm tham gia, phối hợp với cơ quan chủ\ntrì theo chức năng, nhiệm vụ được giao.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">NỘI DUNG PHỐI HỢP</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Phối hợp truyền\nthông nâng cao nhận thức về bảo vệ môi trường</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Xây dựng và thực hiện chương trình liên tịch\ntruyền thông nâng cao nhận thức về bảo vệ môi trường:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Sở Tài nguyên và Môi trường chủ trì, phối hợp\nvới Ban Thường trực Ủy ban Mặt trận tổ quốc Việt Nam tỉnh Đồng Nai, Đoàn Thanh\nniên cộng sản Hồ Chí Minh tỉnh Đồng Nai, Hội Liên hiệp Phụ nữ tỉnh Đồng Nai, Hội\nCựu chiến binh tỉnh Đồng Nai, Hội Nông dân tỉnh Đồng Nai, Liên đoàn lao động tỉnh\nĐồng Nai, Liên hiệp các Hội Khoa học Kỹ thuật tỉnh Đồng Nai, Liên minh hợp tác\nxã tỉnh Đồng Nai, Đài Phát thanh - Truyền hình Đồng Nai, Báo Đồng Nai (sau đây\ngọi là cơ quan phối hợp truyền thông môi trường) xây dựng và tổ chức thực hiện\nchương trình liên tịch truyền thông nâng cao nhận thức về bảo vệ môi trường định\nkỳ (05 năm một lần), kiểm tra, giám sát và sơ kết, tổng kết kết quả thực hiện.</p>\n\n<p style=\"margin-bottom:6.0pt\">Phòng Tài nguyên và Môi trường cấp huyện phối hợp\nvới Ban Thường trực Ủy ban Mặt trận tổ quốc, các tổ chức chính trị - xã hội cấp\nhuyện triển khai chương trình.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Căn cứ chương trình liên tịch, trước ngày\n15/01 hàng năm, các cơ quan phối hợp truyền thông môi trường có trách nhiệm lập\nkế hoạch hoạt động truyền thông gửi Sở Tài nguyên và Môi trường để thống nhất nội\ndung và cùng phối hợp thực hiện.</p>\n\n<p style=\"margin-bottom:6.0pt\">Trước ngày 10/12 hàng năm, các cơ quan phối hợp\ntruyền thông môi trường có trách nhiệm báo cáo kết quả thực hiện theo kế hoạch\ngửi Sở Tài nguyên và Môi trường để tổng hợp, báo cáo và quyết toán kinh phí thực\nhiện.</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Sau 05 năm thực hiện chương trình liên tịch,\ncác cơ quan phối hợp truyền thông môi trường có trách nhiệm báo cáo kết quả thực\nhiện và đề xuất nội dung phối hợp truyền thông cho giai đoạn tiếp theo, gửi Sở\nTài nguyên và Môi trường để tổng hợp, báo cáo.</p>\n\n<p style=\"margin-bottom:6.0pt\">Sở Tài nguyên và Môi trường có trách nhiệm chủ\ntrì, phối hợp với các cơ quan truyền thông môi trường tổ chức tổng kết và ký kết\nchương trình liên tịch cho giai đoạn tiếp theo.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Các hoạt động truyền thông nâng cao nhận thức\nbảo vệ môi trường thường xuyên trong năm:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Sở Tài nguyên và Môi trường có trách nhiệm phổ\nbiến chủ đề và nội dung truyền thông của các ngày, tuần lễ bảo vệ môi trường đến\ncác cơ quan phối hợp truyền thông, các sở, ban, ngành có liên quan và UBND cấp\nhuyện theo chỉ đạo của Bộ Tài nguyên và Môi trường và UBND tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Các cơ quan phối hợp truyền thông, các sở,\nban, ngành có liên quan, UBND cấp huyện xây dựng kế hoạch, tổ chức các hoạt động\ntruyền thông môi trường theo chủ đề, nội dung đã phổ biến và báo cáo kết quả thực\nhiện gửi Sở Tài nguyên và Môi trường để tổng hợp, báo cáo.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Kinh phí thực hiện nhiệm vụ truyền thông môi\ntrường:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Sở Tài chính chủ trì, phối hợp Sở Tài nguyên\nvà Môi trường và các sở, ban, ngành có liên quan, UBND cấp huyện bố trí kinh\nphí để các cơ quan thực hiện các hoạt động truyền thông môi trường hàng năm từ\nkinh phí sự nghiệp môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Sở Tài nguyên và Môi trường có trách nhiệm hướng\ndẫn xây dựng kế hoạch, bố trí kinh phí và quyết toán kinh phí theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Phối hợp về quản lý chất\nthải</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Phối hợp về quản lý chất thải rắn:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Sở Xây dựng chủ trì, lập, trình phê duyệt và\ncông bố quy hoạch xây dựng các khu xử lý chất thải trên địa bàn toàn tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">Căn cứ quy hoạch được duyệt, Sở Xây dựng triển\nkhai thực hiện quy hoạch, tổng hợp và báo cáo UBND tỉnh về tình hình, kết quả\nxây dựng các khu xử lý chất thải theo quy hoạch, kế hoạch.</p>\n\n<p style=\"margin-bottom:6.0pt\">Sở Xây dựng chịu trách nhiệm tổ chức thẩm kế,\nxét duyệt quy hoạch xây dựng chi tiết tỷ lệ 1/500; hướng dẫn thực hiện quy định\nvề cấp giấy phép xây dựng công trình; xác nhận hoàn công xây dựng và tổ chức kiểm\ntra tiến độ thực hiện đối với các công trình xử lý chất thải; tổ chức, hướng dẫn\nxây dựng công trình thu gom và xử lý chất thải rắn không nguy hại.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Sở Kế hoạch và Đầu tư chủ trì việc thu hút dự\nán đầu tư, giới thiệu địa điểm, cấp giấy chứng nhận đầu tư; hướng dẫn các chủ dự\nán thực hiện các quy định về ưu đãi đầu tư trong lĩnh vực xử lý chất thải.</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Sở Khoa học và Công nghệ chủ trì thẩm định\ncông nghệ xử lý chất thải; đề xuất chọn những dự án có công nghệ mới, thân thiện\nvới môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\">d) Sở Tài nguyên và Môi trường chủ trì thẩm định\nbáo cáo đánh giá tác động môi trường; cấp sổ đăng ký chủ nguồn thải chất thải\nnguy hại; cấp giấy phép hành nghề quản lý chất thải nguy hại; xác nhận hoàn\nthành công trình xử lý chất thải theo quy định; thu gom và xử lý chất thải nguy\nhại.</p>\n\n<p style=\"margin-bottom:6.0pt\">đ) Sở Y tế chủ trì thu gom và xử lý chất thải y\ntế trên địa bàn theo đúng quy hoạch xử lý chất thải.</p>\n\n<p style=\"margin-bottom:6.0pt\">e) Sở Giao thông Vận tải chủ trì kiểm tra các\nphương tiện giao thông đảm bảo an toàn trong vận chuyển chất thải; quy định các\ntuyến giao thông, thời gian lưu thông các xe chuyên chở, vận tải đối với chất\nthải, đặc biệt là chất thải nguy hại.</p>\n\n<p style=\"margin-bottom:6.0pt\">g) UBND cấp huyện chủ trì thực hiện công tác bồi\nthường, giải phóng mặt bằng để xây dựng các khu xử lý chất thải theo quy hoạch;\nphân loại chất thải rắn tại nguồn, tổ chức thu gom và vận chuyển chất thải rắn\nsinh hoạt trên địa bàn; kiểm tra, xử lý giải tỏa các bãi rác tự phát, các trường\nhợp đổ chất thải không đúng quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Phối hợp về xử lý nước thải:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Phối hợp về xử lý nước thải tại các khu công\nnghiệp:</p>\n\n<p style=\"margin-bottom:6.0pt\">- Ban Quản lý các Khu công nghiệp chủ trì kiểm\ntra việc đấu nối thoát nước, chịu trách nhiệm quản lý thoát nước trong khu công\nnghiệp.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Sở Tài nguyên và Môi trường chủ trì lắp đặt, theo\ndõi, vận hành hệ thống quan trắc môi trường tự động liên tục theo Nghị quyết Tỉnh\nủy; công bố công khai thông tin về quan trắc môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Phối hợp về xử lý nước thải ngoài khu công\nnghiệp:</p>\n\n<p style=\"margin-bottom:6.0pt\">- Sở Xây dựng chủ trì quy hoạch, xây dựng hệ thống\nthoát nước và xử lý nước thải khu dân cư, đô thị, cụm công nghiệp, cơ sở sản xuất\nkinh doanh ngoài khu công nghiệp.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Sở Tài nguyên và Môi trường chủ trì kiểm soát\nô nhiễm trong hoạt động thoát nước bao gồm nước thải khu dân cư, đô thị và sản\nxuất.</p>\n\n<p style=\"margin-bottom:6.0pt\">- UBND cấp huyện chủ trì thực hiện công tác bồi\nthường, giải phóng mặt bằng phục vụ xây dựng các công trình thoát nước và xử lý\nnước thải trên địa bàn các huyện, thị xã, thành phố theo quy hoạch.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Sở Kế hoạch và Đầu tư chủ trì, phối hợp Sở Xây\ndựng, Sở Tài chính tham mưu UBND tỉnh bố trí kinh phí xây dựng các công trình\nthoát nước và xử lý nước thải khu dân cư, đô thị theo phân cấp hiện hành.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Phối hợp về kiểm soát ô nhiễm không khí:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Sở Tài nguyên và Môi trường chủ trì, phối hợp\nvới Ban Quản lý các KCN, UBND cấp huyện tổ chức kiểm tra việc xử lý khí thải\nphát sinh từ các cơ sở sản xuất, kinh doanh dịch vụ và ô nhiễm không khí trong\nhoạt động khai thác khoáng sản.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Sở Giao thông Vận tải chủ trì, phối hợp Sở\nTài nguyên và Môi trường kiểm tra khí thải của các phương tiện giao thông, bụi\nphát sinh từ các công trình giao thông.</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Sở Xây dựng chủ trì, phối hợp Sở Tài nguyên\nvà Môi trường, UBND cấp huyện kiểm tra việc phát sinh bụi từ các công trình xây\ndựng.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Một số quan hệ phối hợp khác trong kiểm soát\nô nhiễm và quản lý chất thải:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Sở Nông nghiệp và Phát triển nông thôn chủ\ntrì, phối hợp Sở Tài nguyên và Môi trường, UBND cấp huyện lập và thực hiện quy\nhoạch các vùng khuyến khích chăn nuôi, giết mổ tập trung, nuôi trồng đánh bắt\nthủy sản; kiểm soát việc sử dụng thuốc bảo vệ thực vật đúng quy định vệ sinh\nmôi trường; quản lý chất thải trong ngành chăn nuôi, giết mổ, nuôi trồng đánh bắt\nthủy sản; đảm bảo tỷ lệ chuồng trại hợp vệ sinh, tỷ lệ số dân dùng nước sạch ở\nđịa bàn nông thôn theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Sở Công Thương chủ trì, phối hợp Sở Tài\nnguyên và Môi trường, UBND cấp huyện kiểm soát việc sử dụng an toàn hóa chất,\nphòng ngừa, ứng phó sự cố hóa chất; xử lý nước thải tập trung tại các cụm công\nnghiệp; di dời các cơ sở sản xuất gốm mỹ nghệ gây ô nhiễm môi trường ra khỏi khu\nđô thị; thực hiện đề án phát triển ngành công nghiệp môi trường của tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Công an tỉnh chủ trì thực hiện nhiệm vụ tại\nNghị định số 72/2010/NĐ-CP ngày 08/7/2010 của Chính phủ quy định về phòng ngừa,\nđấu tranh chống tội phạm và vi phạm pháp luật về môi trường; tập trung lực lượng,\nnghiệp vụ để phòng chống, xử lý các hành vi về đổ trộm chất thải, xả lén nước\nthải không qua xử lý, vận chuyển chất thải không đúng quy định an toàn giao\nthông và vệ sinh môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Phối hợp quan trắc\nvà công khai thông tin về môi trường</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Sở Tài nguyên và Môi trường chủ trì, phối hợp\nUBND cấp huyện, Ban Quản lý các KCN xây dựng kế hoạch và thực hiện quan trắc\ntheo kế hoạch; theo dõi, giám sát hoạt động hệ thống quan trắc tự động của các\ndoanh nghiệp ngoài khu công nghiệp; đánh giá hiện trạng môi trường, cảnh báo ô\nnhiễm; chia sẻ dữ liệu và công khai thông tin chất lượng môi trường theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. UBND cấp huyện có trách nhiệm chỉ đạo các đơn\nvị có liên quan tham gia công tác quan trắc môi trường; sử dụng kết quả quan trắc\ndo Sở Tài nguyên và Môi trường cung cấp trong công tác quản lý môi trường ở địa\nphương.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Phối hợp về phòng ngừa,\nứng phó sự cố và khắc phục ô nhiễm môi trường</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Ban Quản lý các Khu công nghiệp có trách nhiệm\ntheo dõi, hướng dẫn việc lập và thực hiện kế hoạch phòng ngừa và ứng phó sự cố\nmôi trường tại các khu công nghiệp; kịp thời khắc phục khi có sự cố xảy ra.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. UBND cấp huyện có trách nhiệm lập và thực hiện\nkế hoạch phòng ngừa và ứng phó sự cố môi trường ngoài khu công nghiệp; kịp thời\nkhắc phục khi có sự cố xảy ra.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Sở Tài nguyên và Môi trường chủ trì thực hiện\ncông tác ứng phó sự cố tràn dầu; định kỳ tổ chức diễn tập về ứng phó sự cố tràn\ndầu theo quy chế hoạt động của Ban chỉ đạo về ứng phó sự cố tràn dầu của tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Sở Cảnh sát phòng cháy, chữa cháy chủ trì hướng\ndẫn xây dựng các phương án phòng ngừa, ứng phó, triển khai thực hiện tìm kiếm cứu\nnạn và khắc phục ô nhiễm môi trường do sự cố cháy nổ.</p>\n\n<p style=\"margin-bottom:6.0pt\">5. Sở Công Thương chủ trì, phối hợp Sở Tài\nnguyên và Môi trường, Ban Quản lý các KCN, UBND cấp huyện hướng dẫn xây dựng\ncác phương án phòng ngừa, ứng phó, triển khai thực hiện và khắc phục ô nhiễm\nmôi trường liên quan sự cố hóa chất theo quy chế hoạt động của Ban chỉ đạo về ứng\nphó sự cố hóa chất của tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_8\"><b>Điều 8. Phối hợp thanh tra,\nkiểm tra về bảo vệ môi trường</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Các cơ quan thanh tra, kiểm tra về bảo vệ môi\ntrường tại Đồng Nai bao gồm:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Cơ quan thanh tra chuyên ngành về bảo vệ môi\ntrường là Thanh tra Sở Tài nguyên và Môi trường;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Các cơ quan kiểm tra về bảo vệ môi trường gồm:\nSở Tài nguyên và Môi trường, Ban Quản lý các Khu công nghiệp, Công an tỉnh\n(Phòng Cảnh sát phòng, chống tội phạm về môi trường), Ủy ban nhân dân cấp huyện.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Hàng năm, Sở Tài nguyên và Môi trường xây dựng\nkế hoạch thanh tra, kiểm tra về bảo vệ môi trường trên địa bàn tỉnh, gửi các cơ\nquan kiểm tra về bảo vệ môi trường tại Điểm b, Khoản 1 Điều này để phối hợp thực\nhiện.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Các cơ quan kiểm tra về bảo vệ môi trường có\ntrách nhiệm căn cứ kế hoạch thanh tra, kiểm tra của Sở Tài nguyên và Môi trường\nđể xây dựng và thực hiện kế hoạch kiểm tra theo thẩm quyền; kết quả kiểm tra\nhàng năm gửi về Sở Tài nguyên và Môi trường để tổng hợp báo cáo chung trong\ntoàn tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Sở Tài nguyên và Môi trường chủ trì, phối hợp\nBan Quản lý các KCN, UBND cấp huyện kiểm tra sau cấp phép đối với các trường hợp\nchủ đầu tư có nhiều dự án được cơ quan có thẩm quyền cấp tỉnh, huyện phê duyệt\nthủ tục môi trường (đánh giá tác động môi trường, đề án bảo vệ môi trường, bản\nđăng ký đạt tiêu chuẩn môi trường, bản cam kết bảo vệ môi trường). Riêng trường\nhợp thủ tục môi trường do Bộ Tài nguyên và Môi trường phê duyệt thì việc thanh\ntra, kiểm tra sau cấp phép thực hiện theo quy định tại Điều 126 Luật Bảo vệ môi\ntrường.</p>\n\n<p style=\"margin-bottom:6.0pt\">5. Ủy ban nhân dân cấp huyện thực hiện giải quyết\nđơn phản ánh về môi trường thuộc thẩm quyền và phối hợp với Sở Tài nguyên và\nMôi trường trong trường hợp vượt quá thẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt\">6. Sở Tài nguyên và Môi trường phối hợp với các\nđơn vị có liên quan thực hiện giải quyết đơn phản ánh về môi trường theo thẩm\nquyền quy định tại Luật Thanh tra.</p>\n\n<p style=\"margin-bottom:6.0pt\">7. Các cơ quan thanh tra, kiểm tra về bảo vệ môi\ntrường tại Đồng Nai có trách nhiệm tham gia cùng với đoàn thanh tra, kiểm tra của\nBộ Tài nguyên và Môi trường khi tiến hành thanh tra, kiểm tra trên địa bàn tỉnh\nĐồng Nai.</p>\n\n<p style=\"margin-bottom:6.0pt\">Trường hợp kế hoạch thanh tra, kiểm tra của các\ncơ quan địa phương trùng lắp với đối tượng thanh tra, kiểm tra của Bộ Tài\nnguyên và Môi trường thì sử dụng kết quả thanh tra, kiểm tra của Bộ chuyển đến\nđể xử lý theo quy định pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">CHẾ ĐỘ THÔNG TIN, BÁO\nCÁO</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Phối hợp trao đổi\nthông tin</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Sở Tài nguyên và Môi trường có trách nhiệm\nthông tin về kết quả phê duyệt báo cáo đánh giá tác động môi trường, kết quả cấp\nsổ chủ nguồn thải chất thải nguy hại, giấy phép hành nghề quản lý chất thải\nnguy hại và kết quả quan trắc môi trường hàng quý cho Công an tỉnh, Ban Quản lý\nKhu công nghiệp, UBND cấp huyện.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Ban Quản lý các Khu công nghiệp có trách nhiệm\nthông tin về kết quả đấu nối thoát nước, xử lý nước thải tại các khu công nghiệp\nvề Sở Tài nguyên và Môi trường để tổng hợp.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. UBND cấp huyện có trách nhiệm thông tin về kết\nquả xác nhận bản cam kết bảo vệ môi trường, đề án bảo vệ môi trường, kết quả giải\nquyết đơn phản ánh về ô nhiễm môi trường cho Sở Tài nguyên và Môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Công an tỉnh có trách nhiệm thông tin về kết\nquả phòng, chống các tội phạm môi trường về Sở Tài nguyên và Môi trường, Ban Quản\nlý Khu công nghiệp.</p>\n\n<p style=\"margin-bottom:6.0pt\">5. Các cơ quan, đơn vị khác trong quá trình thực\nhiện các nhiệm vụ bảo vệ môi trường có trách nhiệm thông tin kết quả thực hiện\nvề Sở Tài nguyên và Môi trường tổng hợp.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_10\"><b>Điều 10. Chế độ báo cáo</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Cơ quan chủ trì thực hiện đối với từng nội\ndung theo Quy chế này có trách nhiệm báo cáo định kỳ hoặc đột xuất kết quả thực\nhiện với UBND tỉnh, đồng gửi Sở Tài nguyên và Môi trường để tổng hợp.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Định kỳ hàng năm (trước ngày 25/11), các cơ\nquan phối hợp truyền thông môi trường, các sở, ban, ngành, UBND cấp huyện theo\nchức năng nhiệm vụ được giao và quy định tại Quy chế này có trách nhiệm báo cáo\nkết quả thực hiện công tác bảo vệ môi trường với UBND tỉnh, đồng gửi Sở Tài\nnguyên và Môi trường để tổng hợp.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Sở Tài nguyên và Môi trường có trách nhiệm tổng\nhợp kết quả bảo vệ môi trường trên địa bàn tỉnh, báo cáo UBND tỉnh và Bộ Tài\nnguyên và Môi trường theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Trách nhiệm thực\nhiện</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Ban Thường trực Ủy ban Mặt trận tổ quốc Việt\nNam tỉnh và các tổ chức thành viên, các sở, ban, ngành, UBND cấp huyện, các cơ\nquan báo đài, các tổ chức, cá nhân có liên quan trên địa bàn tỉnh chịu trách\nnhiệm thực hiện Quy chế này.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Sở Tài nguyên và Môi trường có trách nhiệm kiểm\ntra, đôn đốc và báo cáo UBND tỉnh việc thực hiện Quy chế này.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_12\"><b>Điều 12. Việc sửa đổi, bổ\nsung Quy chế</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Trong quá trình thực hiện, nếu có khó khăn, vướng\nmắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Sở Tài nguyên\nvà Môi trường để tổng hợp báo cáo UBND tỉnh xem xét, chỉ đạo sửa đổi, bổ sung\ncho phù hợp./.</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH ĐỒNG NAI  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 34/2013/QĐ-UBND\n\n_Đồng Nai, ngày 14 tháng 6 năm 2013_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ PHỐI HỢP TRONG CÔNG TÁC BẢO VỆ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH ĐỒNG NAI\n\n**ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26/11/2003;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ngày 03 tháng 12 năm 2004;_\n\n_Căn cứ Luật Bảo vệ môi trường ngày 29/11/2005;_\n\n_Căn cứ Nghị định số 80/2006/NĐ-CP ngày 09/8/2006 của Chính phủ về việc quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo vệ môi trường;_\n\n_Căn cứ Nghị định số 59/2007/NĐ-CP ngày 09/4/2007 của Chính phủ về quản lý chất thải rắn;_\n\n_Căn cứ Nghị định số 88/2007/NĐ-CP ngày 28/5/2007 của Chính phủ quy định về thoát nước đô thị và khu công nghiệp;_\n\n_Căn cứ Nghị định số 29/2008/NĐ-CP ngày 14/3/2008 của Chính phủ quy định về khu công nghiệp, khu chế xuất và khu kinh tế;_\n\n_Căn cứ Nghị định số 72/2010/NĐ-CP ngày 08/7/2010 của Chính phủ quy định về phòng ngừa, đấu tranh chống tội phạm và vi phạm pháp luật khác về môi trường;_\n\n_Căn cứ Nghị định số 29/2011/NĐ-CP ngày 18/4/2011 của Chính phủ quy định về đánh giá môi trường chiến lược, đánh giá tác động môi trường, cam kết bảo vệ môi trường;_\n\n_Căn cứ Quyết định số 105/2009/QĐ-TTg ngày 19/8/2009 của Thủ tướng Chính phủ ban hành Quy chế quản lý cụm công nghiệp;_\n\n_Căn cứ Thông tư số 13/2007/TT-BXD ngày 31/12/2007 của Bộ Xây dựng hướng dẫn một số điều của Nghị định số 59/2007/NĐ-CP ngày 9/4/2007 của Chính phủ về quản lý chất thải rắn;_\n\n_Căn cứ Thông tư liên tịch số 02/2009/TTLT-BCA-BTNMT ngày 06/02/2009 của Bộ Công an và Bộ Tài nguyên và Môi trường về hướng dẫn quan hệ phối hợp công tác phòng, chống tội phạm và vi phạm pháp luật về bảo vệ môi trường;_\n\n_Căn cứ Thông tư số 09/2009/TT-BXD ngày 21/5/2009 của Bộ Xây dựng quy định chi tiết thực hiện một số nội dung của Nghị định số 88/2007/NĐ-CP ngày 28/5/2007 của Chính phủ quy định về thoát nước đô thị và khu công nghiệp;_\n\n_Căn cứ Thông tư số 08/2009/TT-BTNMT ngày 15/7/2009 của Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp;_\n\n_Căn cứ Thông tư số 09/2010/TT-BGTVT ngày 06/4/2010 của Bộ Giao thông vận tải quy định về bảo vệ môi trường trong phát triển kết cấu hạ tầng giao thông;_\n\n_Căn cứ Quyết định số 43/2007/QĐ-BYT ngày 31/11/2007 của Bộ Y tế về việc ban hành Quy chế quản lý chất thải rắn y tế;_\n\n_Căn cứ Quyết định số 04/2008/QĐ-BXD ngày 03/4/2008 của Bộ Xây dựng về việc ban hành Quy chuẩn Quốc gia về Quy hoạch xây dựng;_\n\n_Căn cứ Nghị quyết số 125/2008/NQ-HĐND ngày 05/12/2008 của Hội đồng nhân dân tỉnh Đồng Nai về việc thông qua Đề án Bảo vệ môi trường trên địa bàn tỉnh Đồng Nai đến năm 2010 và định hướng đến năm 2020;_\n\n_Căn cứ Nghị quyết số 195/2010/NQ-HĐND ngày 09/12/2010 của Hội đồng nhân dân tỉnh Đồng Nai về việc điều chỉnh, bổ sung một số điều Nghị quyết số 125/2008/NQ-HĐND ngày 05/12/2008 của Hội đồng nhân dân về việc thông qua Đề án bảo vệ môi trường trên địa bàn tỉnh Đồng Nai đến năm 2010 và định hướng đến năm 2020;_\n\n_Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường tại Tờ trình số 540/TTr-STNMTngày 10/5/2013,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế phối hợp quản lý nhà nước về bảo vệ môi trường trên địa bàn tỉnh Đồng Nai.\n\n**Điều 2.** Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký.\n\n**Điều 3.** Chánh Văn phòng Ủy ban nhân dân tỉnh; Trưởng Ban Quản lý các Khu công nghiệp tỉnh; Giám đốc các Sở Tài nguyên và Môi trường, Sở Xây dựng, Sở Kế hoạch và Đầu tư, Sở Tài chính, Sở Công Thương, Sở Khoa học và Công nghệ, Sở Y tế, Sở Nông nghiệp và Phát triển nông thôn, Sở Giao thông Vận tải; Chủ tịch UBND các huyện, thị xã Long Khánh, thành phố Biên Hòa; Thủ trưởng các đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nPhan Thị Mỹ Thanh**\n\n**QUY CHẾ**\n\nPHỐI HỢP TRONG CÔNG TÁC BẢO VỆ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH ĐỒNG NAI  \n_(Ban hành kèm theo Quyết định số 34/2013/QĐ-UBND ngày 14 / 6 /2013 của Ủy ban nhân dân tỉnh Đồng Nai)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\nQuy chế này quy định nội dung phối hợp trong công tác bảo vệ môi trường gồm: Truyền thông nâng cao nhận thức về bảo vệ môi trường, kiểm soát ô nhiễm và quản lý chất thải, quan trắc môi trường, ứng phó sự cố môi trường, thanh tra, kiểm tra, trao đổi thông tin và báo cáo về bảo vệ môi trường trên địa bàn tỉnh Đồng Nai.\n\n**Điều 2. Đối tượng áp dụng**\n\n1\\. Sở Tài nguyên và Môi trường, Sở Xây dựng, Sở Kế hoạch và Đầu tư, Sở Tài chính, Sở Công Thương, Sở Khoa học và Công nghệ, Sở Y tế, Sở Nông nghiệp và Phát triển nông thôn, Sở Giao thông Vận tải, Ban Quản lý các Khu công nghiệp, Công anh tỉnh, Sở Cảnh sát phòng cháy, chữa cháy; Ủy ban nhân dân các huyện, thị xã Long Khánh và thành phố Biên Hòa (sau đây gọi chung là UBND cấp huyện).\n\n2\\. Ban Thường trực Ủy ban Mặt trận tổ quốc Việt Nam tỉnh Đồng Nai, các tổ chức chính trị - xã hội, các cơ quan, tổ chức, cá nhân có liên quan trong công tác bảo vệ môi trường trên địa bàn tỉnh Đồng Nai.\n\n**Điều 3. Nguyên tắc phối hợp**\n\n1\\. Quan hệ phối hợp được thực hiện trên cơ sở chức năng, nhiệm vụ, quyền hạn của các cơ quan theo quy định pháp luật nhằm đảm bảo sự thống nhất trong công tác bảo vệ môi trường.\n\n2\\. Quy chế này xác định trách nhiệm của cơ quan chủ trì; các cơ quan phối hợp có trách nhiệm tham gia, phối hợp với cơ quan chủ trì theo chức năng, nhiệm vụ được giao.\n\n**Chương II**\n\n**NỘI DUNG PHỐI HỢP**\n\n**Điều 4. Phối hợp truyền thông nâng cao nhận thức về bảo vệ môi trường**\n\n1\\. Xây dựng và thực hiện chương trình liên tịch truyền thông nâng cao nhận thức về bảo vệ môi trường:\n\na) Sở Tài nguyên và Môi trường chủ trì, phối hợp với Ban Thường trực Ủy ban Mặt trận tổ quốc Việt Nam tỉnh Đồng Nai, Đoàn Thanh niên cộng sản Hồ Chí Minh tỉnh Đồng Nai, Hội Liên hiệp Phụ nữ tỉnh Đồng Nai, Hội Cựu chiến binh tỉnh Đồng Nai, Hội Nông dân tỉnh Đồng Nai, Liên đoàn lao động tỉnh Đồng Nai, Liên hiệp các Hội Khoa học Kỹ thuật tỉnh Đồng Nai, Liên minh hợp tác xã tỉnh Đồng Nai, Đài Phát thanh - Truyền hình Đồng Nai, Báo Đồng Nai (sau đây gọi là cơ quan phối hợp truyền thông môi trường) xây dựng và tổ chức thực hiện chương trình liên tịch truyền thông nâng cao nhận thức về bảo vệ môi trường định kỳ (05 năm một lần), kiểm tra, giám sát và sơ kết, tổng kết kết quả thực hiện.\n\nPhòng Tài nguyên và Môi trường cấp huyện phối hợp với Ban Thường trực Ủy ban Mặt trận tổ quốc, các tổ chức chính trị - xã hội cấp huyện triển khai chương trình.\n\nb) Căn cứ chương trình liên tịch, trước ngày 15/01 hàng năm, các cơ quan phối hợp truyền thông môi trường có trách nhiệm lập kế hoạch hoạt động truyền thông gửi Sở Tài nguyên và Môi trường để thống nhất nội dung và cùng phối hợp thực hiện.\n\nTrước ngày 10/12 hàng năm, các cơ quan phối hợp truyền thông môi trường có trách nhiệm báo cáo kết quả thực hiện theo kế hoạch gửi Sở Tài nguyên và Môi trường để tổng hợp, báo cáo và quyết toán kinh phí thực hiện.\n\nc) Sau 05 năm thực hiện chương trình liên tịch, các cơ quan phối hợp truyền thông môi trường có trách nhiệm báo cáo kết quả thực hiện và đề xuất nội dung phối hợp truyền thông cho giai đoạn tiếp theo, gửi Sở Tài nguyên và Môi trường để tổng hợp, báo cáo.\n\nSở Tài nguyên và Môi trường có trách nhiệm chủ trì, phối hợp với các cơ quan truyền thông môi trường tổ chức tổng kết và ký kết chương trình liên tịch cho giai đoạn tiếp theo.\n\n2\\. Các hoạt động truyền thông nâng cao nhận thức bảo vệ môi trường thường xuyên trong năm:\n\na) Sở Tài nguyên và Môi trường có trách nhiệm phổ biến chủ đề và nội dung truyền thông của các ngày, tuần lễ bảo vệ môi trường đến các cơ quan phối hợp truyền thông, các sở, ban, ngành có liên quan và UBND cấp huyện theo chỉ đạo của Bộ Tài nguyên và Môi trường và UBND tỉnh.\n\nb) Các cơ quan phối hợp truyền thông, các sở, ban, ngành có liên quan, UBND cấp huyện xây dựng kế hoạch, tổ chức các hoạt động truyền thông môi trường theo chủ đề, nội dung đã phổ biến và báo cáo kết quả thực hiện gửi Sở Tài nguyên và Môi trường để tổng hợp, báo cáo.\n\n3\\. Kinh phí thực hiện nhiệm vụ truyền thông môi trường:\n\na) Sở Tài chính chủ trì, phối hợp Sở Tài nguyên và Môi trường và các sở, ban, ngành có liên quan, UBND cấp huyện bố trí kinh phí để các cơ quan thực hiện các hoạt động truyền thông môi trường hàng năm từ kinh phí sự nghiệp môi trường.\n\nb) Sở Tài nguyên và Môi trường có trách nhiệm hướng dẫn xây dựng kế hoạch, bố trí kinh phí và quyết toán kinh phí theo quy định.\n\n**Điều 5. Phối hợp về quản lý chất thải**\n\n1\\. Phối hợp về quản lý chất thải rắn:\n\na) Sở Xây dựng chủ trì, lập, trình phê duyệt và công bố quy hoạch xây dựng các khu xử lý chất thải trên địa bàn toàn tỉnh.\n\nCăn cứ quy hoạch được duyệt, Sở Xây dựng triển khai thực hiện quy hoạch, tổng hợp và báo cáo UBND tỉnh về tình hình, kết quả xây dựng các khu xử lý chất thải theo quy hoạch, kế hoạch.\n\nSở Xây dựng chịu trách nhiệm tổ chức thẩm kế, xét duyệt quy hoạch xây dựng chi tiết tỷ lệ 1/500; hướng dẫn thực hiện quy định về cấp giấy phép xây dựng công trình; xác nhận hoàn công xây dựng và tổ chức kiểm tra tiến độ thực hiện đối với các công trình xử lý chất thải; tổ chức, hướng dẫn xây dựng công trình thu gom và xử lý chất thải rắn không nguy hại.\n\nb) Sở Kế hoạch và Đầu tư chủ trì việc thu hút dự án đầu tư, giới thiệu địa điểm, cấp giấy chứng nhận đầu tư; hướng dẫn các chủ dự án thực hiện các quy định về ưu đãi đầu tư trong lĩnh vực xử lý chất thải.\n\nc) Sở Khoa học và Công nghệ chủ trì thẩm định công nghệ xử lý chất thải; đề xuất chọn những dự án có công nghệ mới, thân thiện với môi trường.\n\nd) Sở Tài nguyên và Môi trường chủ trì thẩm định báo cáo đánh giá tác động môi trường; cấp sổ đăng ký chủ nguồn thải chất thải nguy hại; cấp giấy phép hành nghề quản lý chất thải nguy hại; xác nhận hoàn thành công trình xử lý chất thải theo quy định; thu gom và xử lý chất thải nguy hại.\n\nđ) Sở Y tế chủ trì thu gom và xử lý chất thải y tế trên địa bàn theo đúng quy hoạch xử lý chất thải.\n\ne) Sở Giao thông Vận tải chủ trì kiểm tra các phương tiện giao thông đảm bảo an toàn trong vận chuyển chất thải; quy định các tuyến giao thông, thời gian lưu thông các xe chuyên chở, vận tải đối với chất thải, đặc biệt là chất thải nguy hại.\n\ng) UBND cấp huyện chủ trì thực hiện công tác bồi thường, giải phóng mặt bằng để xây dựng các khu xử lý chất thải theo quy hoạch; phân loại chất thải rắn tại nguồn, tổ chức thu gom và vận chuyển chất thải rắn sinh hoạt trên địa bàn; kiểm tra, xử lý giải tỏa các bãi rác tự phát, các trường hợp đổ chất thải không đúng quy định.\n\n2\\. Phối hợp về xử lý nước thải:\n\na) Phối hợp về xử lý nước thải tại các khu công nghiệp:\n\n\\- Ban Quản lý các Khu công nghiệp chủ trì kiểm tra việc đấu nối thoát nước, chịu trách nhiệm quản lý thoát nước trong khu công nghiệp.\n\n\\- Sở Tài nguyên và Môi trường chủ trì lắp đặt, theo dõi, vận hành hệ thống quan trắc môi trường tự động liên tục theo Nghị quyết Tỉnh ủy; công bố công khai thông tin về quan trắc môi trường.\n\nb) Phối hợp về xử lý nước thải ngoài khu công nghiệp:\n\n\\- Sở Xây dựng chủ trì quy hoạch, xây dựng hệ thống thoát nước và xử lý nước thải khu dân cư, đô thị, cụm công nghiệp, cơ sở sản xuất kinh doanh ngoài khu công nghiệp.\n\n\\- Sở Tài nguyên và Môi trường chủ trì kiểm soát ô nhiễm trong hoạt động thoát nước bao gồm nước thải khu dân cư, đô thị và sản xuất.\n\n\\- UBND cấp huyện chủ trì thực hiện công tác bồi thường, giải phóng mặt bằng phục vụ xây dựng các công trình thoát nước và xử lý nước thải trên địa bàn các huyện, thị xã, thành phố theo quy hoạch.\n\n\\- Sở Kế hoạch và Đầu tư chủ trì, phối hợp Sở Xây dựng, Sở Tài chính tham mưu UBND tỉnh bố trí kinh phí xây dựng các công trình thoát nước và xử lý nước thải khu dân cư, đô thị theo phân cấp hiện hành.\n\n3\\. Phối hợp về kiểm soát ô nhiễm không khí:\n\na) Sở Tài nguyên và Môi trường chủ trì, phối hợp với Ban Quản lý các KCN, UBND cấp huyện tổ chức kiểm tra việc xử lý khí thải phát sinh từ các cơ sở sản xuất, kinh doanh dịch vụ và ô nhiễm không khí trong hoạt động khai thác khoáng sản.\n\nb) Sở Giao thông Vận tải chủ trì, phối hợp Sở Tài nguyên và Môi trường kiểm tra khí thải của các phương tiện giao thông, bụi phát sinh từ các công trình giao thông.\n\nc) Sở Xây dựng chủ trì, phối hợp Sở Tài nguyên và Môi trường, UBND cấp huyện kiểm tra việc phát sinh bụi từ các công trình xây dựng.\n\n4\\. Một số quan hệ phối hợp khác trong kiểm soát ô nhiễm và quản lý chất thải:\n\na) Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp Sở Tài nguyên và Môi trường, UBND cấp huyện lập và thực hiện quy hoạch các vùng khuyến khích chăn nuôi, giết mổ tập trung, nuôi trồng đánh bắt thủy sản; kiểm soát việc sử dụng thuốc bảo vệ thực vật đúng quy định vệ sinh môi trường; quản lý chất thải trong ngành chăn nuôi, giết mổ, nuôi trồng đánh bắt thủy sản; đảm bảo tỷ lệ chuồng trại hợp vệ sinh, tỷ lệ số dân dùng nước sạch ở địa bàn nông thôn theo quy định.\n\nb) Sở Công Thương chủ trì, phối hợp Sở Tài nguyên và Môi trường, UBND cấp huyện kiểm soát việc sử dụng an toàn hóa chất, phòng ngừa, ứng phó sự cố hóa chất; xử lý nước thải tập trung tại các cụm công nghiệp; di dời các cơ sở sản xuất gốm mỹ nghệ gây ô nhiễm môi trường ra khỏi khu đô thị; thực hiện đề án phát triển ngành công nghiệp môi trường của tỉnh.\n\nc) Công an tỉnh chủ trì thực hiện nhiệm vụ tại Nghị định số 72/2010/NĐ-CP ngày 08/7/2010 của Chính phủ quy định về phòng ngừa, đấu tranh chống tội phạm và vi phạm pháp luật về môi trường; tập trung lực lượng, nghiệp vụ để phòng chống, xử lý các hành vi về đổ trộm chất thải, xả lén nước thải không qua xử lý, vận chuyển chất thải không đúng quy định an toàn giao thông và vệ sinh môi trường.\n\n**Điều 6. Phối hợp quan trắc và công khai thông tin về môi trường**\n\n1\\. Sở Tài nguyên và Môi trường chủ trì, phối hợp UBND cấp huyện, Ban Quản lý các KCN xây dựng kế hoạch và thực hiện quan trắc theo kế hoạch; theo dõi, giám sát hoạt động hệ thống quan trắc tự động của các doanh nghiệp ngoài khu công nghiệp; đánh giá hiện trạng môi trường, cảnh báo ô nhiễm; chia sẻ dữ liệu và công khai thông tin chất lượng môi trường theo quy định.\n\n2\\. UBND cấp huyện có trách nhiệm chỉ đạo các đơn vị có liên quan tham gia công tác quan trắc môi trường; sử dụng kết quả quan trắc do Sở Tài nguyên và Môi trường cung cấp trong công tác quản lý môi trường ở địa phương.\n\n**Điều 7. Phối hợp về phòng ngừa, ứng phó sự cố và khắc phục ô nhiễm môi trường**\n\n1\\. Ban Quản lý các Khu công nghiệp có trách nhiệm theo dõi, hướng dẫn việc lập và thực hiện kế hoạch phòng ngừa và ứng phó sự cố môi trường tại các khu công nghiệp; kịp thời khắc phục khi có sự cố xảy ra.\n\n2\\. UBND cấp huyện có trách nhiệm lập và thực hiện kế hoạch phòng ngừa và ứng phó sự cố môi trường ngoài khu công nghiệp; kịp thời khắc phục khi có sự cố xảy ra.\n\n3\\. Sở Tài nguyên và Môi trường chủ trì thực hiện công tác ứng phó sự cố tràn dầu; định kỳ tổ chức diễn tập về ứng phó sự cố tràn dầu theo quy chế hoạt động của Ban chỉ đạo về ứng phó sự cố tràn dầu của tỉnh.\n\n4\\. Sở Cảnh sát phòng cháy, chữa cháy chủ trì hướng dẫn xây dựng các phương án phòng ngừa, ứng phó, triển khai thực hiện tìm kiếm cứu nạn và khắc phục ô nhiễm môi trường do sự cố cháy nổ.\n\n5\\. Sở Công Thương chủ trì, phối hợp Sở Tài nguyên và Môi trường, Ban Quản lý các KCN, UBND cấp huyện hướng dẫn xây dựng các phương án phòng ngừa, ứng phó, triển khai thực hiện và khắc phục ô nhiễm môi trường liên quan sự cố hóa chất theo quy chế hoạt động của Ban chỉ đạo về ứng phó sự cố hóa chất của tỉnh.\n\n**Điều 8. Phối hợp thanh tra, kiểm tra về bảo vệ môi trường**\n\n1\\. Các cơ quan thanh tra, kiểm tra về bảo vệ môi trường tại Đồng Nai bao gồm:\n\na) Cơ quan thanh tra chuyên ngành về bảo vệ môi trường là Thanh tra Sở Tài nguyên và Môi trường;\n\nb) Các cơ quan kiểm tra về bảo vệ môi trường gồm: Sở Tài nguyên và Môi trường, Ban Quản lý các Khu công nghiệp, Công an tỉnh (Phòng Cảnh sát phòng, chống tội phạm về môi trường), Ủy ban nhân dân cấp huyện.\n\n2\\. Hàng năm, Sở Tài nguyên và Môi trường xây dựng kế hoạch thanh tra, kiểm tra về bảo vệ môi trường trên địa bàn tỉnh, gửi các cơ quan kiểm tra về bảo vệ môi trường tại Điểm b, Khoản 1 Điều này để phối hợp thực hiện.\n\n3\\. Các cơ quan kiểm tra về bảo vệ môi trường có trách nhiệm căn cứ kế hoạch thanh tra, kiểm tra của Sở Tài nguyên và Môi trường để xây dựng và thực hiện kế hoạch kiểm tra theo thẩm quyền; kết quả kiểm tra hàng năm gửi về Sở Tài nguyên và Môi trường để tổng hợp báo cáo chung trong toàn tỉnh.\n\n4\\. Sở Tài nguyên và Môi trường chủ trì, phối hợp Ban Quản lý các KCN, UBND cấp huyện kiểm tra sau cấp phép đối với các trường hợp chủ đầu tư có nhiều dự án được cơ quan có thẩm quyền cấp tỉnh, huyện phê duyệt thủ tục môi trường (đánh giá tác động môi trường, đề án bảo vệ môi trường, bản đăng ký đạt tiêu chuẩn môi trường, bản cam kết bảo vệ môi trường). Riêng trường hợp thủ tục môi trường do Bộ Tài nguyên và Môi trường phê duyệt thì việc thanh tra, kiểm tra sau cấp phép thực hiện theo quy định tại Điều 126 Luật Bảo vệ môi trường.\n\n5\\. Ủy ban nhân dân cấp huyện thực hiện giải quyết đơn phản ánh về môi trường thuộc thẩm quyền và phối hợp với Sở Tài nguyên và Môi trường trong trường hợp vượt quá thẩm quyền.\n\n6\\. Sở Tài nguyên và Môi trường phối hợp với các đơn vị có liên quan thực hiện giải quyết đơn phản ánh về môi trường theo thẩm quyền quy định tại Luật Thanh tra.\n\n7\\. Các cơ quan thanh tra, kiểm tra về bảo vệ môi trường tại Đồng Nai có trách nhiệm tham gia cùng với đoàn thanh tra, kiểm tra của Bộ Tài nguyên và Môi trường khi tiến hành thanh tra, kiểm tra trên địa bàn tỉnh Đồng Nai.\n\nTrường hợp kế hoạch thanh tra, kiểm tra của các cơ quan địa phương trùng lắp với đối tượng thanh tra, kiểm tra của Bộ Tài nguyên và Môi trường thì sử dụng kết quả thanh tra, kiểm tra của Bộ chuyển đến để xử lý theo quy định pháp luật.\n\n**Chương III**\n\n**CHẾ ĐỘ THÔNG TIN, BÁO CÁO**\n\n**Điều 9. Phối hợp trao đổi thông tin**\n\n1\\. Sở Tài nguyên và Môi trường có trách nhiệm thông tin về kết quả phê duyệt báo cáo đánh giá tác động môi trường, kết quả cấp sổ chủ nguồn thải chất thải nguy hại, giấy phép hành nghề quản lý chất thải nguy hại và kết quả quan trắc môi trường hàng quý cho Công an tỉnh, Ban Quản lý Khu công nghiệp, UBND cấp huyện.\n\n2\\. Ban Quản lý các Khu công nghiệp có trách nhiệm thông tin về kết quả đấu nối thoát nước, xử lý nước thải tại các khu công nghiệp về Sở Tài nguyên và Môi trường để tổng hợp.\n\n3\\. UBND cấp huyện có trách nhiệm thông tin về kết quả xác nhận bản cam kết bảo vệ môi trường, đề án bảo vệ môi trường, kết quả giải quyết đơn phản ánh về ô nhiễm môi trường cho Sở Tài nguyên và Môi trường.\n\n4\\. Công an tỉnh có trách nhiệm thông tin về kết quả phòng, chống các tội phạm môi trường về Sở Tài nguyên và Môi trường, Ban Quản lý Khu công nghiệp.\n\n5\\. Các cơ quan, đơn vị khác trong quá trình thực hiện các nhiệm vụ bảo vệ môi trường có trách nhiệm thông tin kết quả thực hiện về Sở Tài nguyên và Môi trường tổng hợp.\n\n**Điều 10. Chế độ báo cáo**\n\n1\\. Cơ quan chủ trì thực hiện đối với từng nội dung theo Quy chế này có trách nhiệm báo cáo định kỳ hoặc đột xuất kết quả thực hiện với UBND tỉnh, đồng gửi Sở Tài nguyên và Môi trường để tổng hợp.\n\n2\\. Định kỳ hàng năm (trước ngày 25/11), các cơ quan phối hợp truyền thông môi trường, các sở, ban, ngành, UBND cấp huyện theo chức năng nhiệm vụ được giao và quy định tại Quy chế này có trách nhiệm báo cáo kết quả thực hiện công tác bảo vệ môi trường với UBND tỉnh, đồng gửi Sở Tài nguyên và Môi trường để tổng hợp.\n\n3\\. Sở Tài nguyên và Môi trường có trách nhiệm tổng hợp kết quả bảo vệ môi trường trên địa bàn tỉnh, báo cáo UBND tỉnh và Bộ Tài nguyên và Môi trường theo quy định.\n\n**Chương IV**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 11. Trách nhiệm thực hiện**\n\n1\\. Ban Thường trực Ủy ban Mặt trận tổ quốc Việt Nam tỉnh và các tổ chức thành viên, các sở, ban, ngành, UBND cấp huyện, các cơ quan báo đài, các tổ chức, cá nhân có liên quan trên địa bàn tỉnh chịu trách nhiệm thực hiện Quy chế này.\n\n2\\. Sở Tài nguyên và Môi trường có trách nhiệm kiểm tra, đôn đốc và báo cáo UBND tỉnh việc thực hiện Quy chế này.\n\n**Điều 12. Việc sửa đổi, bổ sung Quy chế**\n\nTrong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Sở Tài nguyên và Môi trường để tổng hợp báo cáo UBND tỉnh xem xét, chỉ đạo sửa đổi, bổ sung cho phù hợp./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

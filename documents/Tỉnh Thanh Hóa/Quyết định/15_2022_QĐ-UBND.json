@@ -1,0 +1,550 @@
+{
+  "title": "Quyết định 15/2022/QĐ-UBND về Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Thanh Hóa",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 27/2019/QĐ-UBND về Quy chế hoạt động của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử tỉnh Thanh Hóa",
+      "id": "27/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Nguyễn Đình Xứng"
+      ],
+      "issuedDate": "2019-08-30",
+      "effectiveDate": "2019-09-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/05/2022"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 05/2020/QĐ-UBND về Quy chế hoạt động của phần mềm tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của tổ chức, cá nhân tỉnh Thanh Hóa",
+      "id": "05/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Mai Xuân Liêm"
+      ],
+      "issuedDate": "2020-01-13",
+      "effectiveDate": "2020-02-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 72/2013/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng",
+      "id": "72/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-15",
+      "effectiveDate": "2013-09-01",
+      "gazetteDate": "2013-07-31",
+      "gazetteNumber": "Từ số 443 đến số 444",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 107/2021/NĐ-CP sửa đổi Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "id": "107/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2021-12-06",
+      "effectiveDate": "2021-12-06",
+      "gazetteDate": "2021-12-20",
+      "gazetteNumber": "Từ số 1045 đến số 1046",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 31/2021/QĐ-TTg về Quy chế quản lý, vận hành, khai thác Cổng Dịch vụ công quốc gia do Thủ tướng Chính phủ ban hành",
+      "id": "31/2021/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-10-11",
+      "effectiveDate": "2021-12-09",
+      "gazetteDate": "2021-10-23",
+      "gazetteNumber": "Từ số 861 đến số 862",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước",
+      "id": "47/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-09",
+      "effectiveDate": "2020-05-25",
+      "gazetteDate": "2020-04-20",
+      "gazetteNumber": "Từ số 387 đến số 388",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2020/NĐ-CP về thực hiện thủ tục hành chính trên môi trường điện tử",
+      "id": "45/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-08",
+      "effectiveDate": "2020-05-22",
+      "gazetteDate": "2020-04-20",
+      "gazetteNumber": "Từ số 387 đến số 388",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 22/2019/TT-BTTTT quy định về tiêu chí, chức năng, tính năng kỹ thuật của Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh do Bộ Thông tin và Truyền thông ban hành",
+      "id": "22/2019/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2019-12-31",
+      "effectiveDate": "2020-02-20",
+      "gazetteDate": "2020-01-18",
+      "gazetteNumber": "Từ số 51 đến số 52",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 01/2018/TT-VPCP hướng dẫn Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính do Văn phòng Chính phủ ban hành",
+      "id": "01/2018/TT-VPCP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2018-11-23",
+      "effectiveDate": "2019-01-06",
+      "gazetteDate": "2018-12-04",
+      "gazetteNumber": "Từ số 1077 đến số 1078",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 130/2018/NĐ-CP hướng dẫn Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số",
+      "id": "130/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-09-27",
+      "effectiveDate": "2018-11-15",
+      "gazetteDate": "2018-10-10",
+      "gazetteNumber": "Từ số 967 đến số 968",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật An ninh mạng 2018",
+      "id": "24/2018/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2018-06-12",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2018-07-14",
+      "gazetteNumber": "Từ số 775 đến số 776",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "id": "61/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-04-23",
+      "effectiveDate": "2018-06-21",
+      "gazetteDate": "2018-05-08",
+      "gazetteNumber": "Từ số 551 đến số 552",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 32/2017/TT-BTTTT về quy định cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "32/2017/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Trương Minh Tuấn"
+      ],
+      "issuedDate": "2017-11-15",
+      "effectiveDate": "2018-06-01",
+      "gazetteDate": "2017-12-22",
+      "gazetteNumber": "Từ số 1041 đến số 1042",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 02/2017/TT-VPCP hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính do Văn phòng Chính phủ ban hành",
+      "id": "02/2017/TT-VPCP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2017-10-31",
+      "effectiveDate": "2017-12-15",
+      "gazetteDate": "2017-11-12",
+      "gazetteNumber": "Từ số 823 đến số 824",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 92/2017/NĐ-CP về sửa đổi Nghị định liên quan đến kiểm soát thủ tục hành chính",
+      "id": "92/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-08-07",
+      "effectiveDate": "2017-09-25",
+      "gazetteDate": "2017-08-22",
+      "gazetteNumber": "Từ số 607 đến số 608",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn thông tin mạng 2015",
+      "id": "86/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1239 đến số 1240",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 63/2010/NĐ-CP về kiểm soát thủ tục hành chính",
+      "id": "63/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-06-08",
+      "effectiveDate": "2010-10-14",
+      "gazetteDate": "2010-06-23",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 20/2008/NĐ-CP về việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính",
+      "id": "20/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-02-14",
+      "effectiveDate": "2008-03-03",
+      "gazetteDate": "2008-02-17",
+      "gazetteNumber": "Từ số 109 đến số 110",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Giao dịch điện tử 2005",
+      "id": "51/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-03-01",
+      "gazetteDate": "2005-12-27",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 21/2022/QĐ-UBND về Quy chế quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Thái Bình",
+      "id": "21/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Nguyễn Khắc Thận"
+      ],
+      "issuedDate": "2022-10-31",
+      "effectiveDate": "2022-11-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 35/2022/QĐ-UBND về Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Tây Ninh",
+      "id": "35/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Tây Ninh",
+      "signers": [
+        "Võ Đức Trong"
+      ],
+      "issuedDate": "2022-10-31",
+      "effectiveDate": "2022-11-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 16/2022/QĐ-UBND về Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Sóc Trăng",
+      "id": "16/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Lâm Hoàng Nghiệp"
+      ],
+      "issuedDate": "2022-08-03",
+      "effectiveDate": "2022-08-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1749/QĐ-UBND năm 2022 về Quy chế quản lý, sử dụng Hệ thống thông tin giải quyết thủ tục hành chính thành phố Cần Thơ",
+      "id": "1749/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Trần Việt Trường"
+      ],
+      "issuedDate": "2022-06-17",
+      "effectiveDate": "2022-06-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 05/2022/QĐ-UBND về Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Kon Tum",
+      "id": "05/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Lê Ngọc Tuấn"
+      ],
+      "issuedDate": "2022-03-10",
+      "effectiveDate": "2022-03-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 05/2022/QĐ-UBND về Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Điện Biên",
+      "id": "05/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Điện Biên",
+      "signers": [
+        "Lê Thành Đô"
+      ],
+      "issuedDate": "2022-02-10",
+      "effectiveDate": "2022-02-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 02/2022/QĐ-UBND về Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Hà Giang",
+      "id": "02/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hà Giang",
+      "signers": [
+        "Nguyễn Văn Sơn"
+      ],
+      "issuedDate": "2022-01-20",
+      "effectiveDate": "2022-02-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "15/2022/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Tỉnh Thanh Hóa",
+  "signers": [
+    "Nguyễn Văn Thi"
+  ],
+  "issuedDate": "2022-05-05",
+  "effectiveDate": "2022-05-20",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA1ADEAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN </span><br>\n  </b><b><span lang=\"VI\">TỈNH THANH HÓA</span><br>\n  </b><b><span lang=\"VI\">-------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số:\n  15/2022/QĐ-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Thanh\n  Hóa, ngày </span>05</i><i><span lang=\"VI\"> tháng </span>5</i><i><span lang=\"VI\">\n  năm </span>2022</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC\nHÀNH CHÍNH TỈNH THANH HÓA</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH THANH HÓA</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức chính quyền địa\nphương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ\nchức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm\n2019;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">C</span>ă</i><i><span lang=\"VI\">n cứ\nLuật Giao dịch điện tử ngày 29 tháng 11 năm 2005;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Công nghệ thông tin\nngày 29 tháng 6 năm 2006;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật An toàn thông tin mạng\nngày 19 tháng 11 năm 2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật An ninh mạng ngày 12\ntháng 6 năm 2018;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 20/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-20-2008-nd-cp-tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh-62386.aspx\">20/2008/NĐ-CP</a> \nngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị\ncủa cá nhân, tổ chức về quy định hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 63/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-63-2010-nd-cp-kiem-soat-thu-tuc-hanh-chinh-106929.aspx\">63/2010/NĐ-CP</a> \nngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 92/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-92-2017-nd-cp-sua-doi-nghi-dinh-lien-quan-den-kiem-soat-thu-tuc-hanh-chinh-348640.aspx\">92/2017/NĐ-CP</a> \nngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị\nđịnh liên quan đến kiểm soát thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a> \nngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa\nliên thông trong giải quyết thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 130/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-130-2018-nd-cp-huong-dan-luat-giao-dich-dien-tu-ve-chu-ky-so-358259.aspx\">130/2018/NĐ-CP</a> \nngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch\nđiện tử về chữ ký s</span>ố </i><i><span lang=\"VI\">và dịch vụ chứng thực chữ ký số;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a> \nngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi\ntrường điện tử;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 47/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-47-2020-nd-cp-quan-ly-ket-noi-va-chia-se-du-lieu-so-cua-co-quan-nha-nuoc-439384.aspx\">47/2020/NĐ-CP</a> \nngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ\nliệu s</span>ố </i><i><span lang=\"VI\">của cơ quan nhà nước;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a> \nngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a>  ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa,\nmột cửa liên thông trong giải quyết thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 31/2021/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-31-2021-qd-ttg-quy-che-quan-ly-van-hanh-cong-dich-vu-cong-quoc-gia-491068.aspx\">31/2021/QĐ-TTg</a>  ngày 11/10/2021 của Thủ tướng Chính phủ về việc ban hành Quy chế\nquản lý, vận hành, khai thác </span>C</i><i><span lang=\"VI\">ổng Dịch vụ công quốc\ngia;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 02/2017/TT-VPCP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-02-2017-tt-vpcp-huong-dan-ve-nghiep-vu-kiem-soat-thu-tuc-hanh-chinh-366111.aspx\">02/2017/TT-VPCP</a> \nngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về việc\nhướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 32/2017/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-32-2017-tt-btttt-cung-cap-bao-dam-kha-nang-truy-cap-thuan-tien-trang-thong-tin-dien-tu-341078.aspx\">32/2017/TT-BTTTT</a>  ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền\nthông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng\ntruy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử\ncủa cơ quan nhà nước;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 01/2018/TT-VPCP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-01-2018-tt-vpcp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-400735.aspx\">01/2018/TT-VPCP</a> \nngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về việc\nhướng dẫn thi hành một số quy định của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a>  ngày 23 tháng\n4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong\ngiải quyết thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số 22/2019/TTBTTTT\nngày 31/12/2019 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về tiêu ch</span>í\n</i><i><span lang=\"VI\">chức năng, tính năng kỹ thuật của Cổng dịch vụ công và Hệ\nthống thông tin một cửa điện tử cấp bộ, cấp tỉnh;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Theo đề nghị của Chánh Văn phòng\nUBND tỉnh tại Tờ trình s</span>ố</i><i><span lang=\"VI\"> 508/TTr-VP ngày 25 tháng\n4 năm 2022.</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy chế hoạt động\ncủa Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Thanh Hóa.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><span lang=\"VI\"> <a name=\"dieu_2_name\">Quyết định này có hiệu lực thi hành kể từ ngày 20\ntháng 5 năm 2022 và thay thế Quyết định số </a><a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 27/2019/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-27-2019-qd-ubnd-cong-dich-vu-cong-he-thong-thong-tin-mot-cua-dien-tu-tinh-thanh-hoa-430042.aspx\">27/2019/QĐ-UBND</a>  ngày 30 tháng 8 năm\n2019 của UBND tỉnh về việc ban hành Quy chế hoạt động của Cổng Dịch vụ công và\nHệ thống thông tin một cửa điện tử tỉnh Thanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a><span lang=\"VI\"> <a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh, Giám đốc các sở; Trưởng\ncác ban, ngành, đơn vị cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố;\nGiám đốc Trung tâm Phục vụ hành chính công tỉnh; Chủ tịch UBND các xã, phường,\nthị trấn; Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm\nthi hành Quyết định này./.</a></span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA1ADEAMQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Như Điều 3 Quyết định;<br>\n  - Văn phòng Chính phủ (để b/c);<br>\n  - Bộ Thông tin và Truyền thông (để b/c);<br>\n  - Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;<br>\n  - Thường trực: Tỉnh ủy, HĐND tỉnh (để b/c);<br>\n  - Chủ tịch, các Phó Chủ tịch UBND tỉnh;<br>\n  - Lãnh đạo Văn phòng UBND tỉnh;<br>\n  - Bưu điện tỉnh, Công báo tỉnh;<br>\n  - Cổng thông tin điện tử tỉnh;<br>\n  - UBND các huyện, thị xã, thành phố sao gửi cho UBND các xã, phường, thị trấn\n  trên địa bàn.<br>\n  - Lưu: VT, TTPVHCC, CNTT, KSTTHCNC. </span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM.ỦY BAN NHÂN\n  DÂN<br>\n  KT.CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Thi</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TỈNH\nTHANH HÓA</span></a><br>\n<i><span lang=\"VI\">(Ban hành kèm theo Quyết định số </span>15</i><i><span lang=\"VI\">/2022/</span>Q</i><i><span lang=\"VI\">Đ-UBND ngày </span>05 </i><i><span lang=\"VI\">tháng </span>05 </i><i><span lang=\"VI\">năm 2022 của Ủy ban nhân dân tỉnh\nThanh Hóa)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"VI\">Chương I</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"VI\">Điều 1. Phạm vi\nđiều chỉnh và đối tượng áp dụng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Phạm vi điều chỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quy chế này quy định việc quản lý, vận\nhành và khai thác sử dụng Hệ thống thông tin giải quyết thủ tục hành chính tỉnh\nThanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối tượng áp dụng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các sở, ban, ngành cấp t</span>ỉ<span lang=\"VI\">nh; UBND cấp huyện, UBND cấp xã; các cơ quan Trung ương được tổ chức\ntheo hệ thống ngành dọc t</span>r<span lang=\"VI\">ên địa bàn tỉnh Thanh Hóa có thủ\ntục hành chính (sau đây viết tắt là TTHC) thực hiện tại Trung tâm Phục vụ hành\nchính công tỉnh/B</span>ộ <span lang=\"VI\">phận Tiếp nhận và Trả kết quả cấp huyện,\ncấp xã (sau đây gọi chung là cơ quan thực hiện TTHC).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) T</span>run<span lang=\"VI\">g tâm Phục\nvụ hành chính công tỉnh; Bộ phận Tiếp nhận và Trả kết quả cấp huyện, cấp xã\n(sau đây gọi chung là Bộ phận Một cửa).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Doanh nghiệp cung ứng dịch vụ bưu\nchính công ích; doanh nghiệp, cá nhân được thuê hoặc được ủy quyền thực hiện\nTTHC theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Cán bộ, công chức, viên chức, người\nlao động của các cơ quan có thẩm quyền quy định tại điểm a, điểm b, điểm c Khoản\n2 Điều này trực tiếp tham gia giải quyết TTHC.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Các cơ quan, đơn vị, tổ chức, cá\nnhân tham gia giải quyết TTHC qua Hệ thống thông tin giải quyết TTHC của t</span>ỉ<span lang=\"VI\">nh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">Điều 2. Nguyên\ntắc hoạt động của Hệ thống thông tin giải quyết TTHC của tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Bảo đảm các nguyên tắc thực hiện\nTTHC trên môi trường điện tử theo quy định tại Điều 4 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a>  ngày 08/4/2020 của Chính phủ về thực hiện TTHC trên môi trường điện\ntử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Việc quản lý, vận hành, khai thác,\nsử dụng Hệ thống thông tin giải quyết TTHC của tỉnh phải tuân thủ theo các quy\nđịnh của pháp luật về công nghệ thông tin, tiếp cận thông tin, an toàn thông\ntin, giao dịch điện tử, bảo vệ bí mật Nhà nước và các quy định khác có liên\nquan của pháp luật đảm bảo cho việc thực hiện TTHC trên môi trường điện tử được\nthông suốt, tiết kiệm, an toàn, hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Nội dung thông tin được cung cấp\ntrên Hệ thống thông tin giải quyết TTHC của tỉnh phải chính xác, rõ ràng, cập\nnhật liên tục theo quy định; các trường thông tin được thiết kế theo mẫu thống\nnhất, đơn giản, thuận tiện, giúp tiết kiệm thời gian, chi phí của tổ chức, cá\nnhân khi sử dụng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Việc tiếp nhận, giải quyết TTHC\ntrên Hệ thống thông tin giải quyết TTHC của tỉnh được thực hiện hợp pháp, hợp\nlý, khoa học; bảo đảm sự bình đẳng, khách quan, công khai, minh bạch, an toàn\nthông tin và có sự phối hợp chặt chẽ giữa các cơ quan có thẩm quyền trong quá\ntrình giải quyết công việc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Hệ thống thông tin giải quyết TTHC\ncủa t</span>ỉ<span lang=\"VI\">nh được kết nối với </span>C<span lang=\"VI\">ổng Dịch vụ\ncông Quốc gia và Hệ thống các dịch vụ công trực tuyến do các bộ, ngành Trung ương\ntriển khai đến các cơ quan, đơn vị trong t</span>ỉ<span lang=\"VI\">nh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Các cơ quan, đơn vị, tổ chức, cá\nnhân có </span>li<span lang=\"VI\">ên quan thực hiện đầy đủ các quy định của pháp\nluật hiện hành về quyền hạn, trách nhiệm, nghĩa vụ trong quá trình vận hành, quản\nlý, khai thác sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"VI\">Điều 3. Tên miền,\nđăng ký, đăng nhập và quản lý tài khoản người dùng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Hệ thống thông tin giải quyết TTHC\ntỉnh Thanh Hóa có tên miền truy cập là: <a href=\"#\"><span style=\"color:windowtext;\ntext-decoration:none\">https://dichvucong.thanhhoa.gov.vn</span></a></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tên tài khoản cán bộ, công chức,\nviên chức, người lao động sử dụng Hệ thống thông tin giải quyết TTHC tỉnh được\ntích hợp trên Hệ thống đăng nhập tập trung tỉnh Thanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tài khoản do đơn vị quản lý phần mềm\nHệ thống thông tin giải quyết TTHC tỉnh Thanh Hóa cấp và thu hồi theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Tổ chức, cá nhân truy cập vào Hệ\nthống thông tin giải quyết TTHC của tỉnh để đăng ký tài khoản giao dịch </span>đ<span lang=\"VI\">iện tử (hoặc sử dụng tài khoản giao dịch điện tử đã đăng ký tại </span>C<span lang=\"VI\">ổng Dịch vụ công Quốc gia) được xác thực với danh tính do Bộ Công an\ncung cấp để thực hiện giao dịch đối với các TTHC được cung cấp dịch vụ công trực\ntuyến trên Hệ thống thông tin giải quyết TTHC của tỉnh theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Tổ chức, cá nhân sử dụng tài khoản\nđã đăng ký thành công, đăng nhập vào địa chỉ của </span>C<span lang=\"VI\">ổng dịch\nvụ công quốc gia hoặc Hệ thống thông tin giải quyết TTHC của tỉnh để thao tác\nthực hiện TTHC trên môi trường điện tử. Việc đăng nhập, quản lý tài khoản của tổ\nchức, cá nhân thực hiện theo quy định tại Điều 11 và Điều 13 Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 31/2021/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-31-2021-qd-ttg-quy-che-quan-ly-van-hanh-cong-dich-vu-cong-quoc-gia-491068.aspx\">31/2021/QĐ-TTg</a>  ngày 11/10/2021 của Thủ tướng Chính phủ về việc ban hành Quy chế\nquản lý, vận hành, khai thác </span>C<span lang=\"VI\">ổng Dịch vụ công quốc gia và\nquy định về xác thực với danh tính điện tử của Bộ Công an.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">Điều 4. Các yêu cầu\nvề định dạng, đồng bộ và kết nối dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Việc đồng bộ tình trạng hồ sơ từ\nphần mềm chuyên ngành về Hệ thống thông tin giải quyết TTHC của tỉnh phải bảo đảm\ntuân thủ quy chuẩn kỹ thuật do chủ quản hệ thống thông tin chuyên ngành xây dựng\nvà công bố theo quy định của Bộ Thông tin và Truyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Các tiêu chuẩn về kết nối, chia sẻ\ndữ liệu được thực hiện theo quy định hiện hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">Điều 5. Những\nhành vi bị nghiêm cấm khi tham gia Hệ thống thông tin giải quyết TTHC của tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Những hành vi bị nghiêm cấm khi\ntham gia Hệ thống thông tin giải quyết TTHC của tỉnh thực hiện theo quy định tại\nĐiều 12 Luật Công nghệ thông tin năm 2006 và Điều 9 Luật Giao dịch điện tử năm\n2005.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Các hành vi vi phạm khác theo quy\nđịnh của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">Chương II</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUẢN LÝ, VẬN HÀNH,\nKHAI THÁC, SỬ DỤNG HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC CỦA TỈNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">Điều 6. Quản lý,\nvận hành Hệ thống thông tin giải quyết TTHC của tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trung tâm Phục vụ hành chính công t</span>ỉ<span lang=\"VI\">nh chịu trách nhiệm quản lý, vận hành hoạt động của Hệ thống thông tin\ngiải quyết TTHC của tỉnh theo Quy chế này và các quy định khác có liên quan của\npháp luật hiện hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"VI\">Điều 7. Thông tin\ncung cấp trên Hệ thống thông tin giải quyết TTHC của tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Thông tin về dịch vụ công và cơ\nquan cung cấp dịch vụ</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Danh mục cơ quan, đơn vị thực hiện\nTTHC, cung cấp dịch vụ công trực tuyến gồm: </span>C<span lang=\"VI\">ấp tỉnh, cấp\nhuyện, cấp xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Danh mục TTHC, dịch vụ công trực\ntuyến và mức độ dịch vụ. Đối với mỗi dịch vụ, khi tra cứu đều được hiển thị đầy\nđủ nội dung gồm: trình tự, cách thức thực hiện; thành phần, số lượng hồ sơ; thời\ngian giải quyết; đối tượng thực hiện; cơ quan giải quyết TTHC; kết quả thực hiện\nthủ tục; phí, lệ phí, mẫu đơn, yêu cầu điều kiện (nếu có); căn cứ pháp lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Cung cấp thông tin về tình hình, kết\nquả giải quyết TTHC tại các đơn vị đầu mối giải quyết TTHC các cấp trên địa bàn\ntỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Thanh toán trực tuyến phí, lệ phí\nvà nghĩa vụ tài chính</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Thông tin tiếp nhận, giải quyết phản\nánh kiến nghị trong thực hiện TTHC, dịch vụ công trực tuyến của cơ quan, tổ chức,\ncá nhân có thẩm quyền.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Thông tin về đánh giá việc giải\nquyết TTHC, cung cấp dịch vụ công trực tuyến; khảo sát sự hài lòng của cơ quan,\ntổ chức, cá nhân thực hiện TTHC, dịch vụ công trực tuyến.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Các thông tin khác có liên quan đến\ncông tác cải cách hành chính và giải quyết TTHC của các cơ quan Trung ương và địa\nphương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b><span lang=\"VI\">Điều 8. Thời hạn\ncung cấp, xử lý thông tin</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đối với thông tin quy định tại khoản\n1, Điều 7</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong thời hạn 05 (năm) ngày làm việc\nkể từ ngày nhận được Quyết định công bố (mới, sửa đổi, bổ sung, bãi bỏ) danh mục\ncung cấp dịch vụ công trực tuyến của cơ quan có thẩm quyền, Trung tâm Phục vụ\nhành chính công tỉnh có trách nhiệm cập nhật các thông tin lên Hệ thống thông\ntin giải quyết TTHC của tỉnh theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối với thông tin quy định tại khoản\n2, 3, 4, 5, 6 Điều 7 của Quy chế này được cập nhật thường xuyên, liên tục trên\nHệ thống thông tin giải quyết TTHC của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b><span lang=\"VI\">Điều 9. Lựa chọn,\ncung cấp dịch vụ công trực tuyến</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các cơ quan thực hiện TTHC có trách\nnhiệm rà soát, đánh giá sự phù hợp của TTHC và các quy định có </span>li<span lang=\"VI\">ên quan đến TTHC với triển khai dịch vụ công trực tuyến gửi Văn phòng\nUBND tỉnh xem xét, thẩm định, trình Chủ tịch UBND tỉnh phê duyệt, triển khai tổ\nchức thực hiện các dịch vụ công trực tuyến mức độ 3, mức độ 4 trên Hệ thống\nthông tin giải quyết TTHC của tỉnh theo đúng quy định tại Điều 23 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a> ; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 02/2017/TT-VPCP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-02-2017-tt-vpcp-huong-dan-ve-nghiep-vu-kiem-soat-thu-tuc-hanh-chinh-366111.aspx\">02/2017/TT-VPCP</a>  và Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 01/2018/TT-VPCP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-01-2018-tt-vpcp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-400735.aspx\">01/2018/TT-VPCP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b><span lang=\"VI\">Điều 10. Nộp hồ\nsơ dịch vụ công trực tuyến</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tổ chức, cá nhân đăng nhập vào Hệ\nthống thông tin giải quyết TTHC của tỉnh để nộp hồ sơ dịch vụ công trực tuyến,\nđiền đầy đủ các thông tin theo quy định của TTHC vào mẫu đơn, tờ khai thành phần\nhồ sơ theo yêu cầu của từng TTHC được chụp hoặc quét (scan) từ bản chính hoặc\nthực hiện ký số vào mẫu đơn, tờ khai, giấy tờ, tài liệu điện tử (nếu có yêu cầu\nký số) theo quy định tại Điều 9 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Việc sửa đổi, bổ sung thông tin hồ\nsơ dịch vụ công trực tuyến được thực hiện theo quy định tại Điều 12 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b><span lang=\"VI\">Điều 11. Tiếp nhận,\ngiải quyết, trả hồ sơ, kết quả giải quyết TTHC</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tiếp nhận hồ sơ TTHC</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Đối với hồ sơ tiếp nhận trực tuyến\ntrên Hệ thống thông tin giải quyết TTHC của tỉnh, cán bộ, công chức, viên chức,\nngười lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực hiện tiếp nhận hoặc từ\nchối tiếp nhận hồ sơ trực tuyến của người sử dụng trong thời gian tối đa không\nquá 08 giờ làm việc kể từ thời điểm người sử dụng nộp hồ sơ trực tuyến thành\ncông. Trong trường hợp nộp hồ sơ trực tuyến ngoài giờ làm việc thì thời điểm để\ntính thời gian tiếp nhận hồ sơ được tính từ giờ làm việc kế tiếp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quy trình tiếp nhận, giải quyết TTHC\nquy định tại Điều 11 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a>  và khoản 2 Điều 17 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đối với hồ sơ tiếp nhận trực tiếp,\ncán bộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa\nhướng dẫn, hỗ trợ tổ chức, cá nhân đăng ký, đăng nhập tài khoản, chuẩn bị và nộp\nhồ sơ </span>đ<span lang=\"VI\">iện tử theo quy định tại Điều 3, Điều 10 Quy chế\nnày. Trường hợp tổ chức, cá nhân không có nhu cầu nộp hồ sơ điện tử thì cán bộ,\ncông chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực\nhiện tiếp nhận theo quy định tại khoản 1 Điều 17 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a>  và\nthực hiện nhiệm vụ số hóa hồ sơ theo quy định tại khoản 1 Điều 2</span>1<span lang=\"VI\">a được bổ sung tại khoản 11 Điều 1 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Đối với hồ sơ tiếp nhận thông qua\ndịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch\nvụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật; cán\nbộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực\nhiện tiếp nhận theo quy định tại khoản 1 Điều 17 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a>  và\nthực hiện nhiệm vụ số hóa hồ sơ theo quy định tại khoản 1 Điều 2</span>1<span lang=\"VI\">a được bổ sung tại khoản 11 Điều 1 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Ngay sau khi tiếp nhận hồ sơ TTHC\ntheo quy định tại khoản 1 Điều này, cán bộ, công chức, viên chức, người lao động\ntiếp nhận hồ sơ tại Bộ phận Một cửa thực hiện chuyển hồ sơ đến cơ quan giải quyết\nTTHC theo quy định tại Điều 18 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a> , khoản 9 Điều 1 Nghị\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a>  và quy định khác có liên quan của cơ quan có thẩm quyền.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Việc giải quyết TTHC trên Hệ thống\nthông tin giải quyết TTHC của tỉnh được thực hiện theo quy định tại Điều 19 Nghị\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a>  và khoản 2 Điều 2</span>1<span lang=\"VI\">a được bổ sung tại\nkhoản 11 Điều 1 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a>  của Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Việc trả hồ sơ, kết quả giải quyết\nTTHC được thực hiện theo quy định tại Điều 20 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx\">61/2018/NĐ-CP</a> , khoản\n3 Điều 2</span>1<span lang=\"VI\">a được bổ sung tại khoản 11 Điều 1 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a>  và Điều 14 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Tổ chức, cá nhân thanh toán phí, lệ\nphí, thuế và các nghĩa vụ tài chính khác (nếu có) trong giải quyết hồ sơ dịch vụ\ncông trực tuyến thực hiện theo hướng dẫn trên Hệ thống thông tin giải quyết\nTTHC của t</span>ỉ<span lang=\"VI\">nh và quy định hiện hành của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b><span lang=\"VI\">Điều 12. Tra cứu\ntình trạng hồ sơ TTHC</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổ chức, cá nhân có thể sử dụng mã hồ\nsơ TTHC (hoặc mã QR) để tra cứu tình trạng xử lý hồ sơ thông qua chức năng tra\ncứu trực tuyến trên Hệ thống thông tin giải quyết TTHC tỉnh và theo hướng dẫn của\nHệ thống.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b><span lang=\"VI\">Điều 13. Đánh\ngiá việc giải quyết TTHC</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Việc đánh giá, phân loại, xếp hạng\nkết quả giải quyết TTHC của các cơ quan thực hiện TTHC được thực hiện tự động\ntrên Hệ thống thông tin giải quyết TTHC của tỉnh và được đồng bộ, tích hợp với </span>C<span lang=\"VI\">ổng Dịch vụ công Quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. K</span>ế<span lang=\"VI\">t quả đánh\ngiá việc giải quyết TTHC được công bố, công khai định kỳ hàng quý, năm; làm căn\ncứ đánh giá mức độ hoàn thành nhiệm vụ hằng năm của các cơ quan thực hiện TTHC.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b><span lang=\"VI\">Điều 14. Tiếp nhận,\nxử lý phản ánh, kiến nghị</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Các cơ quan thực hiện TTHC công\nkhai địa chỉ trụ sở làm việc, hộp th</span>ư <span lang=\"VI\">điện tử, số điện thoại\nđường dây nóng trên Hệ thống thông tin giải quyết TTHC của tỉnh để tiếp nhận,\nphản ánh kiến nghị của các tổ chức, cá nhân liên quan đến việc thực hiện dịch vụ\ncông trên Hệ thống thông tin giải quyết TTHC của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tổ chức, cá nhân có quyền gửi phản\nánh, kiến nghị liên quan đến việc giải quyết TTHC đến cơ quan có thẩm quyền b</span>ằ<span lang=\"VI\">ng các cách thức sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thông qua hộp th</span>ư <span lang=\"VI\">điện tử, số điện thoại đường dây nóng công khai trên trên Hệ thống.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Thông qua mục “Phản ánh, Kiến nghị”\ntrên Hệ thống thông tin giải quyết TTHC của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Các cách thức khác theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Đối với phản ánh, kiến nghị của tổ\nchức, cá nhân không gửi thông qua mục “Phản ánh, Kiến nghị” trên Hệ thống thông\ntin giải quyết TTHC của tỉnh, mà gửi trực tiếp hoặc điện thoại hoặc bưu chính đến\ncơ quan thực hiện TTHC, trong thời gian tối đa không quá 08 giờ làm việc kể từ\nthời điểm tiếp nhận, cơ quan thực hiện TTHC có trách nhiệm cập nhật nội dung phản\nánh, kiến nghị lên Hệ thống thông tin giải quyết TTHC của tỉnh để giải quyết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Xử lý phản ánh, kiến nghị</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong thời gian 13 ngày làm việc kể từ\nngày tiếp nhận phản ánh kiến nghị, cơ quan thực hiện TTHC có trách nhiệm nghiên\ncứu, xử lý hoặc phối hợp xử lý phản ánh, kiến nghị theo quy trình được quy định\ntại Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 20/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-20-2008-nd-cp-tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh-62386.aspx\">20/2008/NĐ-CP</a> , Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 05/2020/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-05-2020-qd-ubnd-quy-che-hoat-dong-phan-mem-tra-loi-phan-anh-to-chuc-thanh-hoa-441809.aspx\">05/2020/QĐ-UBND</a>  ngày 13/01/2020 của\nUBND tỉnh Thanh Hóa; đồng thời, thông tin phản hồi kết quả xử lý cho tổ chức, cá\nnhân trên Hệ thống thông tin giải quyết TTHC của tỉnh và Hệ thống Phản hồi\nThanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b><span lang=\"VI\">Điều 15. Kho quản\nlý dữ liệu điện tử của tổ chức, cá nhân tại Hệ thống thông tin giải quyết TTHC\ntỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tổ chức, cá nhân có tài khoản đã\nđăng ký để thực hiện TTHC trên môi trường điện tử được cung cấp một Kho quản lý\ndữ liệu điện tử của tổ chức, cá nhân tại Hệ thống thông tin giải quyết TTHC tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Các tổ chức, cá nhân chịu trách\nnhiệm bảo quản tài khoản, mật khẩu đăng nhập tại Hệ thống thông tin giải quyết\nTTHC tỉnh để khai thác sử dụng dữ liệu điện tử được lưu giữ trên Kho quản lý dữ\nliệu điện tử của tổ chức, cá nhân theo quy định tại Điều 16 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a>  và quy định của pháp luật hiện hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b><span lang=\"VI\">Điều 16. Lưu trữ\nhồ sơ TTHC điện tử</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Thời hạn bảo quản hồ sơ TTHC điện\ntử thực hiện theo quy định tại điểm a khoản 4 Điều 2</span>1<span lang=\"VI\">a Nghị\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 107/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx\">107/2021/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Hồ sơ giải quyết TTHC được lưu trữ\nđiện tử và do cơ quan có thẩm quyền giải quyết quản lý thực hiện theo quy định\ntại điểm b khoản 4 Điều 2</span>1<span lang=\"VI\">a Nghị đ</span>ị<span lang=\"VI\">nh\ns</span>ố <span lang=\"VI\">107/2021/NĐ-CP.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b><span lang=\"VI\">Điều 17. Hỗ trợ\nkỹ thuật và xử lý sự cố</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Trường hợp gặp sự cố hoặc cần hỗ\ntrợ trong quá trình sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh, cán bộ,\ncông chức, viên chức, người lao động của các cơ quan thực hiện TTHC liên hệ với\nT</span>ru<span lang=\"VI\">ng tâm Phục vụ hành chính công tỉnh theo thông tin cụ\nthể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Gửi thư điện tử theo địa chỉ: <a href=\"mailto:dichvucong@thanhhoa.gov.vn\"><span style=\"color:windowtext;\ntext-decoration:none\">dichvucong@thanhhoa.gov.vn</span></a></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Gửi văn bản về Trung tâm Phục vụ\nhành chính công tỉnh, số 28 Đại lộ Lê Lợi, phường Điện Biên, thành phố Thanh\nHóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Điện thoại hỗ trợ: 02373 900 900,\nsố máy lẻ 100.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trường hợp phát hiện có sự cố\nkhông đảm bảo an toàn, Trung tâm Phục vụ hành chính công tỉnh báo cáo Chủ tịch\nUBND tỉnh và cho tạm dừng Hệ thống thông tin giải quyết TTHC của tỉnh để xử lý,\nkhắc phục.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b><span lang=\"VI\">Chương III</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18\"><b><span lang=\"VI\">Điều 18. Trách\nnhiệm thực hiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Văn phòng UBND tỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chủ trì, phối hợp với các cơ quan,\nđơn vị có </span>li<span lang=\"VI\">ên quan tham mưu các giải pháp đảm bảo việc\ncung cấp, công khai TTHC; cập nhật, rà soát, cung cấp dịch vụ công trực tuyến\ntrên </span>C<span lang=\"VI\">ổng dịch vụ công quốc gia để tích hợp với Hệ thống\nthông tin giải quyết TTHC tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Theo dõi, kiểm tra, đôn đốc các cơ\nquan, đơn vị, địa phương đối với việc sử dụng Hệ thống thông tin giải quyết\nTTHC tỉnh trong công tác giải quyết hồ sơ TTHC, cung cấp dịch vụ công trực tuyến.\nTổng hợp, báo cáo Chủ tịch UBND tỉnh xử lý hoặc chỉ đạo xử lý theo thẩm quyền\ncác tổ chức, cá nhân không sử dụng Hệ thống thông tin giải quyết TTHC để tiếp\nnhận hồ sơ TTHC.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trung tâm Phục vụ hành chính công\ntỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chủ trì tổ chức, hướng dẫn, kiểm\ntra và đôn đốc việc triển khai, thực hiện Quy chế này; tổng hợp, đánh giá kết\nquả triển khai thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4 của các cơ\nquan thực hiện TTHC trên Hệ thống thông tin giải quyết TTHC của tỉnh; định kỳ\nhàng quý báo cáo Chủ tịch UBND tỉnh và báo cáo đột xuất (khi có yêu cầu).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chủ trì, phối hợp với các cơ quan,\nđơn vị liên quan thực hiện các giải pháp kỹ thuật trong việc kết nối, tích hợp,\nchia sẻ, đồng bộ hóa dữ liệu và công tác lưu trữ dữ liệu điện tử của Hệ thống\nthông tin giải quyết TTHC của tỉnh đảm bảo an toàn thông tin, an ninh mạng, bảo\nmật thông tin theo các quy định hiện hành; đảm bảo hệ thống kết nối liên thông\nvà hoạt động liên tục 24/7 trên mạng Internet.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Hướng dẫn, hỗ trợ kỹ thuật, tập huấn,\ntriển khai việc cung cấp, sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh\ncho các cơ quan thực hiện TTHC.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Phối hợp với các cơ quan báo chí,\nĐài Phát thanh và Truyền hình tỉnh tăng cường thông tin, tuyên truyền, hướng dẫn\nvề Hệ thống thông tin giải quyết TTHC của tỉnh để tổ chức, cá nhân biết và sử dụng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Thường xuyên theo dõi, giám sát,\nđôn đốc các cơ quan, đơn vị thực hiện dịch vụ công trực tuyến mức độ 3, mức độ\n4 trên Hệ thống thông tin giải quyết TTHC của tỉnh đảm bảo đúng quy định của\npháp luật và quy định tại Quy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Hằng năm có kế hoạch bảo trì, bảo\ndưỡng, duy trì hoạt động Hệ thống thông tin giải quyết TTHC của tỉnh cho phù hợp\nvới tình hình thực tế; đề xuất với UBND tỉnh nâng cấp cơ sở vật chất, cơ sở hạ\ntầng thông tin và phần mềm ứng dụng; tham gia bảo đảm an toàn thông tin trong\nquá trình khai thác, sử dụng Hệ thống này. Thông báo bằng văn bản cho các cơ\nquan, tổ chức, cá nhân sử dụng hệ thống trước khi tiến hành bảo trì, bảo dưỡng\nvà nâng cấp Hệ thống thông tin giải quyết TTHC của tỉnh. Bảo đảm tính toàn vẹn\ncơ sở dữ liệu trước và sau bảo trì, bảo dưỡng và nâng cấp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">f) Phối hợp với Sở Tài chính và các\ncơ quan, đơn vị liên quan tham mưu về kinh phí thực hiện và duy trì hoạt động Hệ\nthống thông tin giải quyết TTHC tỉnh theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Sở Thông tin và T</span>ru<span lang=\"VI\">yền thông</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thực hiện đảm bảo hạ tầng máy chủ,\nlưu trữ dữ liệu, đường t</span>ru<span lang=\"VI\">yền và các biện pháp giám sát, bảo\nđảm an toàn thông tin cho Hệ thống thông tin giải quyết TTHC của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Phối hợp với Trung tâm Phục vụ\nhành chính công đảm bảo kết nối, tích hợp hệ thống quản lý văn bản và hồ sơ\ncông việc của các cơ quan nhà nước, các phần mềm quản lý chuyên ngành với Hệ thống\nthông tin giải quyết TTHC của tỉnh qua trục kết nối, chia sẻ dữ liệu của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Công an tỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phối hợp với Trung tâm Phục vụ hành\nchính công tỉnh và các đơn vị có liên quan cấu hình, cấp quyền khai thác dịch vụ\nxác thực thông tin trong cơ sở dữ liệu quốc gia về dân cư phục vụ xử lý TTHC,\ncung cấp dịch vụ công trực tuyến trên địa bàn tỉnh Thanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Các sở, ban, ngành, đơn vị cấp tỉnh;\nUBND cấp huyện, UBND cấp xã</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Triển khai thực hiện Quy chế này\nvà chịu trách nhiệm trước UBND tỉnh, Chủ tịch UBND tỉnh về kết quả, tiến độ giải\nquyết TTHC, dịch vụ công trực tuyến mức độ 3, mức độ 4 của ngành, địa phương\nmình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Theo phạm vi thẩm quyền và chức\nnăng, nhiệm vụ được giao, các cơ quan, đơn vị phối hợp với Văn phòng UBND tỉnh\ntham mưu đề xuất UBND tỉnh phê duyệt danh mục dịch vụ công trực tuyến mức độ 3,\nmức độ 4 trên Hệ thống thông tin giải quyết TTHC của t</span>ỉ<span lang=\"VI\">nh\ntheo quy định tại Quy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Phối hợp chặt chẽ với Trung tâm Phục\nvụ hành chính công tỉnh trong quá trình vận hành hoạt động của Hệ thống thông tin\ngiải quyết TTHC của tỉnh để đảm bảo việc cung cấp dịch vụ công trực tuyến thuộc\nphạm vi giải quyết của cơ quan, đơn vị được diễn ra thông suốt, an toàn, hiệu\nquả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Khi phát hiện những TTHC đã có hiệu\nlực thi hành nhưng chưa được công bố, công khai hoặc công bố, công khai nhưng\nchưa chính xác, đầy đủ theo quy định hoặc đã hết hiệu lực thi hành, bị hủy bỏ,\nbãi bỏ nhưng vẫn được đăng tải công khai, các cơ quan giải quyết TTHC có trách\nnhiệm thông báo, gửi ý kiến phản hồi cho Trung tâm Phục vụ hành chính công tỉnh\nđể kịp thời phối hợp xử lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Thông tin, tuyên truyền để tổ chức,\ncá nhân biết về Hệ thống thông tin giải quyết TTHC của tỉnh trong giải quyết\nTTHC, dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của ngành, địa phương\nmình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Thông báo kịp thời các sự cố liên\nquan đến Hệ thống thông tin giải quyết TTHC của tỉnh về Trung tâm Phục vụ hành\nchính công tỉnh để phối hợp xử lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Cán bộ, công chức, viên chức, người\nlao động của cơ quan, đơn vị cung cấp dịch vụ công trực tuyến và giải quyết\nTTHC</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thường xuyên đăng nhập vào Hệ thống\nthông tin giải quyết TTHC của tỉnh để theo dõi, kiểm tra, tiếp nhận, giải quyết\ncác hồ sơ đăng ký trực tuyến của tổ chức, cá nhân đúng thời gian quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Quản lý, bảo vệ tài khoản và mật\nkhẩu đăng nhập vào Hệ thống thông tin giải quyết TTHC của t</span>ỉ<span lang=\"VI\">nh; không cung cấp mật khẩu sử dụng của cá nhân mình cho người khác;\nkhông sử dụng tài khoản và mật khẩu của người khác để đăng nhập vào Hệ thống\nthông tin giải quyết TTHC của tỉnh; thay đổi mật khẩu tài khoản cá nhân theo định\nkỳ để đảm bảo tính bảo mật, an toàn thông tin trong quá trình sử dụng; chịu\ntrách nhiệm về tài khoản và mật khẩu cá nhân của mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Khi phát hiện tổ chức, cá nhân sử\ndụng Hệ thống thông tin giải quyết TTHC của tỉnh không đúng mục đích, tập tin\nđính kèm có mã độc, vi phạm quy định tại Điều 5 Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 72/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-72-2013-nd-cp-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-201110.aspx\">72/2013/NĐ-CP</a>  của\nChính phủ phải kịp thời báo cáo cho cán bộ phụ trách công nghệ thông tin của\nđơn vị hoặc Trung tâm Phục vụ hành chính công tỉnh để kịp thời xử lý, khắc phục.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">7. Trách nhiệm của các doanh nghiệp\nbưu chính</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện chuyển phát hồ sơ, kết quả\ngiải quyết TTHC hoặc số hóa hồ sơ theo yêu cầu của tổ chức, cá nhân đảm bảo\ntheo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">8. Tổ chức, cá nhân sử dụng dịch vụ\ntrên Hệ thống thông tin giải quyết TTHC của tỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chịu trách nhiệm trước pháp luật về\nnhững thông tin kê khai, đăng ký và sử dụng tài khoản trên Hệ thống thông tin\ngiải quyết TTHC của tỉnh. Quản lý tài khoản, chữ ký số, giữ bí mật thông tin\ntài khoản, mật khẩu của mình, trường hợp mật khẩu bị mất hoặc bị đánh cắp hoặc\nphát hiện có người sử dụng trái phép tài khoản của mình, phải thông báo kịp thời\ncho Trung tâm Phục vụ hành chính công tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chịu trách nhiệm đối với tất cả\ncác thông tin, nội dung đã cung cấp khi sử dụng dịch vụ và các tiện ích trên Hệ\nthống thông tin giải quyết TTHC của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Thực hiện các yêu cầu của cơ quan\ncung cấp dịch vụ công trực tuyến và nộp phí, lệ phí (nếu có) theo quy định của\npháp luật đối với từng loại dịch vụ công trực tuyến.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Trường hợp sử dụng lại các thông\ntin, nội dung trên Hệ thống thông tin giải quyết TTHC của t</span>ỉ<span lang=\"VI\">nh để đăng tải trên các phương tiện truyền thông phải thực hiện theo\nquy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Theo yêu cầu của tổ chức, cá nhân,\nHệ thống thông tin giải quyết TTHC của tỉnh chia sẻ các thông tin, dữ liệu của\ntổ chức, cá nhân đã có trên hệ thống để hỗ trợ thực hiện các TTHC, dịch vụ công\ntrực tuyến liên quan, tuân thủ quy định của pháp luật về cung cấp thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_19\"><b><span lang=\"VI\">Điều 19. Điều\nkhoản thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong quá trình triển khai thực hiện\nQuy chế, nếu có khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản\nánh b</span>ằ<span lang=\"VI\">ng văn bản về Văn phòng UBND tỉnh (qua Trung tâm Phục\nvụ hành chính công tỉnh) để tổng hợp, báo cáo UBND tỉnh xem xét, quyết định./.</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \n****TỈNH THANH HÓA  \n****\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 15/2022/QĐ-UBND\n\n_Thanh Hóa, ngày 05_ _tháng 5_ _năm 2022_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TỈNH THANH HÓA\n\n**ỦY BAN NHÂN DÂN TỈNH THANH HÓA**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;_\n\n_Că__n cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;_\n\n_Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;_\n\n_Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;_\n\n_Căn cứ Nghị định số [20/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-20-2008-nd-cp-tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh-62386.aspx \"Nghị định 20/2008/NĐ-CP\") ngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính;_\n\n_Căn cứ Nghị định số [63/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-63-2010-nd-cp-kiem-soat-thu-tuc-hanh-chinh-106929.aspx \"Nghị định 63/2010/NĐ-CP\") ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính;_\n\n_Căn cứ Nghị định số [92/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-92-2017-nd-cp-sua-doi-nghi-dinh-lien-quan-den-kiem-soat-thu-tuc-hanh-chinh-348640.aspx \"Nghị định 92/2017/NĐ-CP\") ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính;_\n\n_Căn cứ Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;_\n\n_Căn cứ Nghị định số [130/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-130-2018-nd-cp-huong-dan-luat-giao-dich-dien-tu-ve-chu-ky-so-358259.aspx \"Nghị định 130/2018/NĐ-CP\") ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số_ _và dịch vụ chứng thực chữ ký số;_\n\n_Căn cứ Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử;_\n\n_Căn cứ Nghị định số [47/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-47-2020-nd-cp-quan-ly-ket-noi-va-chia-se-du-lieu-so-cua-co-quan-nha-nuoc-439384.aspx \"Nghị định 47/2020/NĐ-CP\") ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số_ _của cơ quan nhà nước;_\n\n_Căn cứ Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;_\n\n_Căn cứ Quyết định số [31/2021/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-31-2021-qd-ttg-quy-che-quan-ly-van-hanh-cong-dich-vu-cong-quoc-gia-491068.aspx \"Quyết định 31/2021/QĐ-TTg\") ngày 11/10/2021 của Thủ tướng Chính phủ về việc ban hành Quy chế quản lý, vận hành, khai thác C__ổng Dịch vụ công quốc gia;_\n\n_Căn cứ Thông tư số [02/2017/TT-VPCP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-02-2017-tt-vpcp-huong-dan-ve-nghiep-vu-kiem-soat-thu-tuc-hanh-chinh-366111.aspx \"Thông tư 02/2017/TT-VPCP\") ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về việc hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính;_\n\n_Căn cứ Thông tư số [32/2017/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-32-2017-tt-btttt-cung-cap-bao-dam-kha-nang-truy-cap-thuan-tien-trang-thong-tin-dien-tu-341078.aspx \"Thông tư 32/2017/TT-BTTTT\") ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước;_\n\n_Căn cứ Thông tư số [01/2018/TT-VPCP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-01-2018-tt-vpcp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-400735.aspx \"Thông tư 01/2018/TT-VPCP\") ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về việc hướng dẫn thi hành một số quy định của Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;_\n\n_Căn cứ Thông tư số 22/2019/TTBTTTT ngày 31/12/2019 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về tiêu chí_ _chức năng, tính năng kỹ thuật của Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh;_\n\n_Theo đề nghị của Chánh Văn phòng UBND tỉnh tại Tờ trình số_ _508/TTr-VP ngày 25 tháng 4 năm 2022._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Thanh Hóa.\n\n**Điều 2.** Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 5 năm 2022 và thay thế Quyết định số [27/2019/QĐ-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-27-2019-qd-ubnd-cong-dich-vu-cong-he-thong-thong-tin-mot-cua-dien-tu-tinh-thanh-hoa-430042.aspx \"Quyết định 27/2019/QĐ-UBND\") ngày 30 tháng 8 năm 2019 của UBND tỉnh về việc ban hành Quy chế hoạt động của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử tỉnh Thanh Hóa.\n\n**Điều 3.** Chánh Văn phòng UBND tỉnh, Giám đốc các sở; Trưởng các ban, ngành, đơn vị cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố; Giám đốc Trung tâm Phục vụ hành chính công tỉnh; Chủ tịch UBND các xã, phường, thị trấn; Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Như Điều 3 Quyết định;  \n\\- Văn phòng Chính phủ (để b/c);  \n\\- Bộ Thông tin và Truyền thông (để b/c);  \n\\- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;  \n\\- Thường trực: Tỉnh ủy, HĐND tỉnh (để b/c);  \n\\- Chủ tịch, các Phó Chủ tịch UBND tỉnh;  \n\\- Lãnh đạo Văn phòng UBND tỉnh;  \n\\- Bưu điện tỉnh, Công báo tỉnh;  \n\\- Cổng thông tin điện tử tỉnh;  \n\\- UBND các huyện, thị xã, thành phố sao gửi cho UBND các xã, phường, thị trấn trên địa bàn.  \n\\- Lưu: VT, TTPVHCC, CNTT, KSTTHCNC.\n\n**TM.ỦY BAN NHÂN DÂN  \nKT.CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Văn Thi**\n\n**QUY CHẾ**\n\nHOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TỈNH THANH HÓA  \n_(Ban hành kèm theo Quyết định số 15__/2022/Q__Đ-UBND ngày 05_ _tháng 05_ _năm 2022 của Ủy ban nhân dân tỉnh Thanh Hóa)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Phạm vi điều chỉnh\n\nQuy chế này quy định việc quản lý, vận hành và khai thác sử dụng Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Thanh Hóa.\n\n2\\. Đối tượng áp dụng\n\na) Các sở, ban, ngành cấp tỉnh; UBND cấp huyện, UBND cấp xã; các cơ quan Trung ương được tổ chức theo hệ thống ngành dọc trên địa bàn tỉnh Thanh Hóa có thủ tục hành chính (sau đây viết tắt là TTHC) thực hiện tại Trung tâm Phục vụ hành chính công tỉnh/Bộ phận Tiếp nhận và Trả kết quả cấp huyện, cấp xã (sau đây gọi chung là cơ quan thực hiện TTHC).\n\nb) Trung tâm Phục vụ hành chính công tỉnh; Bộ phận Tiếp nhận và Trả kết quả cấp huyện, cấp xã (sau đây gọi chung là Bộ phận Một cửa).\n\nc) Doanh nghiệp cung ứng dịch vụ bưu chính công ích; doanh nghiệp, cá nhân được thuê hoặc được ủy quyền thực hiện TTHC theo quy định của pháp luật.\n\nd) Cán bộ, công chức, viên chức, người lao động của các cơ quan có thẩm quyền quy định tại điểm a, điểm b, điểm c Khoản 2 Điều này trực tiếp tham gia giải quyết TTHC.\n\nđ) Các cơ quan, đơn vị, tổ chức, cá nhân tham gia giải quyết TTHC qua Hệ thống thông tin giải quyết TTHC của tỉnh.\n\n**Điều 2. Nguyên tắc hoạt động của Hệ thống thông tin giải quyết TTHC của tỉnh**\n\n1\\. Bảo đảm các nguyên tắc thực hiện TTHC trên môi trường điện tử theo quy định tại Điều 4 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") ngày 08/4/2020 của Chính phủ về thực hiện TTHC trên môi trường điện tử.\n\n2\\. Việc quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh phải tuân thủ theo các quy định của pháp luật về công nghệ thông tin, tiếp cận thông tin, an toàn thông tin, giao dịch điện tử, bảo vệ bí mật Nhà nước và các quy định khác có liên quan của pháp luật đảm bảo cho việc thực hiện TTHC trên môi trường điện tử được thông suốt, tiết kiệm, an toàn, hiệu quả.\n\n3\\. Nội dung thông tin được cung cấp trên Hệ thống thông tin giải quyết TTHC của tỉnh phải chính xác, rõ ràng, cập nhật liên tục theo quy định; các trường thông tin được thiết kế theo mẫu thống nhất, đơn giản, thuận tiện, giúp tiết kiệm thời gian, chi phí của tổ chức, cá nhân khi sử dụng.\n\n4\\. Việc tiếp nhận, giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC của tỉnh được thực hiện hợp pháp, hợp lý, khoa học; bảo đảm sự bình đẳng, khách quan, công khai, minh bạch, an toàn thông tin và có sự phối hợp chặt chẽ giữa các cơ quan có thẩm quyền trong quá trình giải quyết công việc.\n\n5\\. Hệ thống thông tin giải quyết TTHC của tỉnh được kết nối với Cổng Dịch vụ công Quốc gia và Hệ thống các dịch vụ công trực tuyến do các bộ, ngành Trung ương triển khai đến các cơ quan, đơn vị trong tỉnh.\n\n6\\. Các cơ quan, đơn vị, tổ chức, cá nhân có liên quan thực hiện đầy đủ các quy định của pháp luật hiện hành về quyền hạn, trách nhiệm, nghĩa vụ trong quá trình vận hành, quản lý, khai thác sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh.\n\n**Điều 3. Tên miền, đăng ký, đăng nhập và quản lý tài khoản người dùng**\n\n1\\. Hệ thống thông tin giải quyết TTHC tỉnh Thanh Hóa có tên miền truy cập là: [https://dichvucong.thanhhoa.gov.vn](#)\n\n2\\. Tên tài khoản cán bộ, công chức, viên chức, người lao động sử dụng Hệ thống thông tin giải quyết TTHC tỉnh được tích hợp trên Hệ thống đăng nhập tập trung tỉnh Thanh Hóa.\n\nTài khoản do đơn vị quản lý phần mềm Hệ thống thông tin giải quyết TTHC tỉnh Thanh Hóa cấp và thu hồi theo quy định.\n\n3\\. Tổ chức, cá nhân truy cập vào Hệ thống thông tin giải quyết TTHC của tỉnh để đăng ký tài khoản giao dịch điện tử (hoặc sử dụng tài khoản giao dịch điện tử đã đăng ký tại Cổng Dịch vụ công Quốc gia) được xác thực với danh tính do Bộ Công an cung cấp để thực hiện giao dịch đối với các TTHC được cung cấp dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC của tỉnh theo quy định.\n\n4\\. Tổ chức, cá nhân sử dụng tài khoản đã đăng ký thành công, đăng nhập vào địa chỉ của Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết TTHC của tỉnh để thao tác thực hiện TTHC trên môi trường điện tử. Việc đăng nhập, quản lý tài khoản của tổ chức, cá nhân thực hiện theo quy định tại Điều 11 và Điều 13 Quyết định số [31/2021/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-31-2021-qd-ttg-quy-che-quan-ly-van-hanh-cong-dich-vu-cong-quoc-gia-491068.aspx \"Quyết định 31/2021/QĐ-TTg\") ngày 11/10/2021 của Thủ tướng Chính phủ về việc ban hành Quy chế quản lý, vận hành, khai thác Cổng Dịch vụ công quốc gia và quy định về xác thực với danh tính điện tử của Bộ Công an.\n\n**Điều 4. Các yêu cầu về định dạng, đồng bộ và kết nối dữ liệu**\n\n1\\. Việc đồng bộ tình trạng hồ sơ từ phần mềm chuyên ngành về Hệ thống thông tin giải quyết TTHC của tỉnh phải bảo đảm tuân thủ quy chuẩn kỹ thuật do chủ quản hệ thống thông tin chuyên ngành xây dựng và công bố theo quy định của Bộ Thông tin và Truyền thông.\n\n2\\. Các tiêu chuẩn về kết nối, chia sẻ dữ liệu được thực hiện theo quy định hiện hành.\n\n**Điều 5. Những hành vi bị nghiêm cấm khi tham gia Hệ thống thông tin giải quyết TTHC của tỉnh**\n\n1\\. Những hành vi bị nghiêm cấm khi tham gia Hệ thống thông tin giải quyết TTHC của tỉnh thực hiện theo quy định tại Điều 12 Luật Công nghệ thông tin năm 2006 và Điều 9 Luật Giao dịch điện tử năm 2005.\n\n2\\. Các hành vi vi phạm khác theo quy định của pháp luật.\n\n**Chương II**\n\n**QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC CỦA TỈNH**\n\n**Điều 6. Quản lý, vận hành Hệ thống thông tin giải quyết TTHC của tỉnh**\n\nTrung tâm Phục vụ hành chính công tỉnh chịu trách nhiệm quản lý, vận hành hoạt động của Hệ thống thông tin giải quyết TTHC của tỉnh theo Quy chế này và các quy định khác có liên quan của pháp luật hiện hành.\n\n**Điều 7. Thông tin cung cấp trên Hệ thống thông tin giải quyết TTHC của tỉnh**\n\n1\\. Thông tin về dịch vụ công và cơ quan cung cấp dịch vụ\n\na) Danh mục cơ quan, đơn vị thực hiện TTHC, cung cấp dịch vụ công trực tuyến gồm: Cấp tỉnh, cấp huyện, cấp xã.\n\nb) Danh mục TTHC, dịch vụ công trực tuyến và mức độ dịch vụ. Đối với mỗi dịch vụ, khi tra cứu đều được hiển thị đầy đủ nội dung gồm: trình tự, cách thức thực hiện; thành phần, số lượng hồ sơ; thời gian giải quyết; đối tượng thực hiện; cơ quan giải quyết TTHC; kết quả thực hiện thủ tục; phí, lệ phí, mẫu đơn, yêu cầu điều kiện (nếu có); căn cứ pháp lý.\n\n2\\. Cung cấp thông tin về tình hình, kết quả giải quyết TTHC tại các đơn vị đầu mối giải quyết TTHC các cấp trên địa bàn tỉnh.\n\n3\\. Thanh toán trực tuyến phí, lệ phí và nghĩa vụ tài chính\n\n4\\. Thông tin tiếp nhận, giải quyết phản ánh kiến nghị trong thực hiện TTHC, dịch vụ công trực tuyến của cơ quan, tổ chức, cá nhân có thẩm quyền.\n\n5\\. Thông tin về đánh giá việc giải quyết TTHC, cung cấp dịch vụ công trực tuyến; khảo sát sự hài lòng của cơ quan, tổ chức, cá nhân thực hiện TTHC, dịch vụ công trực tuyến.\n\n6\\. Các thông tin khác có liên quan đến công tác cải cách hành chính và giải quyết TTHC của các cơ quan Trung ương và địa phương.\n\n**Điều 8. Thời hạn cung cấp, xử lý thông tin**\n\n1\\. Đối với thông tin quy định tại khoản 1, Điều 7\n\nTrong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được Quyết định công bố (mới, sửa đổi, bổ sung, bãi bỏ) danh mục cung cấp dịch vụ công trực tuyến của cơ quan có thẩm quyền, Trung tâm Phục vụ hành chính công tỉnh có trách nhiệm cập nhật các thông tin lên Hệ thống thông tin giải quyết TTHC của tỉnh theo quy định.\n\n2\\. Đối với thông tin quy định tại khoản 2, 3, 4, 5, 6 Điều 7 của Quy chế này được cập nhật thường xuyên, liên tục trên Hệ thống thông tin giải quyết TTHC của tỉnh.\n\n**Điều 9. Lựa chọn, cung cấp dịch vụ công trực tuyến**\n\nCác cơ quan thực hiện TTHC có trách nhiệm rà soát, đánh giá sự phù hợp của TTHC và các quy định có liên quan đến TTHC với triển khai dịch vụ công trực tuyến gửi Văn phòng UBND tỉnh xem xét, thẩm định, trình Chủ tịch UBND tỉnh phê duyệt, triển khai tổ chức thực hiện các dịch vụ công trực tuyến mức độ 3, mức độ 4 trên Hệ thống thông tin giải quyết TTHC của tỉnh theo đúng quy định tại Điều 23 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") ; Thông tư số [02/2017/TT-VPCP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-02-2017-tt-vpcp-huong-dan-ve-nghiep-vu-kiem-soat-thu-tuc-hanh-chinh-366111.aspx \"Thông tư 02/2017/TT-VPCP\") và Thông tư số [01/2018/TT-VPCP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-01-2018-tt-vpcp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-400735.aspx \"Thông tư 01/2018/TT-VPCP\") .\n\n**Điều 10. Nộp hồ sơ dịch vụ công trực tuyến**\n\n1\\. Tổ chức, cá nhân đăng nhập vào Hệ thống thông tin giải quyết TTHC của tỉnh để nộp hồ sơ dịch vụ công trực tuyến, điền đầy đủ các thông tin theo quy định của TTHC vào mẫu đơn, tờ khai thành phần hồ sơ theo yêu cầu của từng TTHC được chụp hoặc quét (scan) từ bản chính hoặc thực hiện ký số vào mẫu đơn, tờ khai, giấy tờ, tài liệu điện tử (nếu có yêu cầu ký số) theo quy định tại Điều 9 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") .\n\n2\\. Việc sửa đổi, bổ sung thông tin hồ sơ dịch vụ công trực tuyến được thực hiện theo quy định tại Điều 12 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") .\n\n**Điều 11. Tiếp nhận, giải quyết, trả hồ sơ, kết quả giải quyết TTHC**\n\n1\\. Tiếp nhận hồ sơ TTHC\n\na) Đối với hồ sơ tiếp nhận trực tuyến trên Hệ thống thông tin giải quyết TTHC của tỉnh, cán bộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực hiện tiếp nhận hoặc từ chối tiếp nhận hồ sơ trực tuyến của người sử dụng trong thời gian tối đa không quá 08 giờ làm việc kể từ thời điểm người sử dụng nộp hồ sơ trực tuyến thành công. Trong trường hợp nộp hồ sơ trực tuyến ngoài giờ làm việc thì thời điểm để tính thời gian tiếp nhận hồ sơ được tính từ giờ làm việc kế tiếp.\n\nQuy trình tiếp nhận, giải quyết TTHC quy định tại Điều 11 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") và khoản 2 Điều 17 Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") .\n\nb) Đối với hồ sơ tiếp nhận trực tiếp, cán bộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa hướng dẫn, hỗ trợ tổ chức, cá nhân đăng ký, đăng nhập tài khoản, chuẩn bị và nộp hồ sơ điện tử theo quy định tại Điều 3, Điều 10 Quy chế này. Trường hợp tổ chức, cá nhân không có nhu cầu nộp hồ sơ điện tử thì cán bộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực hiện tiếp nhận theo quy định tại khoản 1 Điều 17 Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") và thực hiện nhiệm vụ số hóa hồ sơ theo quy định tại khoản 1 Điều 21a được bổ sung tại khoản 11 Điều 1 Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") .\n\nc) Đối với hồ sơ tiếp nhận thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật; cán bộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực hiện tiếp nhận theo quy định tại khoản 1 Điều 17 Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") và thực hiện nhiệm vụ số hóa hồ sơ theo quy định tại khoản 1 Điều 21a được bổ sung tại khoản 11 Điều 1 Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") .\n\n2\\. Ngay sau khi tiếp nhận hồ sơ TTHC theo quy định tại khoản 1 Điều này, cán bộ, công chức, viên chức, người lao động tiếp nhận hồ sơ tại Bộ phận Một cửa thực hiện chuyển hồ sơ đến cơ quan giải quyết TTHC theo quy định tại Điều 18 Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") , khoản 9 Điều 1 Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") và quy định khác có liên quan của cơ quan có thẩm quyền.\n\n3\\. Việc giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC của tỉnh được thực hiện theo quy định tại Điều 19 Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") và khoản 2 Điều 21a được bổ sung tại khoản 11 Điều 1 Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") của Chính phủ.\n\n4\\. Việc trả hồ sơ, kết quả giải quyết TTHC được thực hiện theo quy định tại Điều 20 Nghị định số [61/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-61-2018-nd-cp-co-che-mot-cua-mot-cua-lien-thong-trong-giai-quyet-thu-tuc-hanh-chinh-357427.aspx \"Nghị định 61/2018/NĐ-CP\") , khoản 3 Điều 21a được bổ sung tại khoản 11 Điều 1 Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") và Điều 14 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") .\n\n5\\. Tổ chức, cá nhân thanh toán phí, lệ phí, thuế và các nghĩa vụ tài chính khác (nếu có) trong giải quyết hồ sơ dịch vụ công trực tuyến thực hiện theo hướng dẫn trên Hệ thống thông tin giải quyết TTHC của tỉnh và quy định hiện hành của pháp luật.\n\n**Điều 12. Tra cứu tình trạng hồ sơ TTHC**\n\nTổ chức, cá nhân có thể sử dụng mã hồ sơ TTHC (hoặc mã QR) để tra cứu tình trạng xử lý hồ sơ thông qua chức năng tra cứu trực tuyến trên Hệ thống thông tin giải quyết TTHC tỉnh và theo hướng dẫn của Hệ thống.\n\n**Điều 13. Đánh giá việc giải quyết TTHC**\n\n1\\. Việc đánh giá, phân loại, xếp hạng kết quả giải quyết TTHC của các cơ quan thực hiện TTHC được thực hiện tự động trên Hệ thống thông tin giải quyết TTHC của tỉnh và được đồng bộ, tích hợp với Cổng Dịch vụ công Quốc gia.\n\n2\\. Kết quả đánh giá việc giải quyết TTHC được công bố, công khai định kỳ hàng quý, năm; làm căn cứ đánh giá mức độ hoàn thành nhiệm vụ hằng năm của các cơ quan thực hiện TTHC.\n\n**Điều 14. Tiếp nhận, xử lý phản ánh, kiến nghị**\n\n1\\. Các cơ quan thực hiện TTHC công khai địa chỉ trụ sở làm việc, hộp thư điện tử, số điện thoại đường dây nóng trên Hệ thống thông tin giải quyết TTHC của tỉnh để tiếp nhận, phản ánh kiến nghị của các tổ chức, cá nhân liên quan đến việc thực hiện dịch vụ công trên Hệ thống thông tin giải quyết TTHC của tỉnh.\n\n2\\. Tổ chức, cá nhân có quyền gửi phản ánh, kiến nghị liên quan đến việc giải quyết TTHC đến cơ quan có thẩm quyền bằng các cách thức sau:\n\na) Thông qua hộp thư điện tử, số điện thoại đường dây nóng công khai trên trên Hệ thống.\n\nb) Thông qua mục “Phản ánh, Kiến nghị” trên Hệ thống thông tin giải quyết TTHC của tỉnh.\n\nc) Các cách thức khác theo quy định.\n\n3\\. Đối với phản ánh, kiến nghị của tổ chức, cá nhân không gửi thông qua mục “Phản ánh, Kiến nghị” trên Hệ thống thông tin giải quyết TTHC của tỉnh, mà gửi trực tiếp hoặc điện thoại hoặc bưu chính đến cơ quan thực hiện TTHC, trong thời gian tối đa không quá 08 giờ làm việc kể từ thời điểm tiếp nhận, cơ quan thực hiện TTHC có trách nhiệm cập nhật nội dung phản ánh, kiến nghị lên Hệ thống thông tin giải quyết TTHC của tỉnh để giải quyết.\n\n4\\. Xử lý phản ánh, kiến nghị\n\nTrong thời gian 13 ngày làm việc kể từ ngày tiếp nhận phản ánh kiến nghị, cơ quan thực hiện TTHC có trách nhiệm nghiên cứu, xử lý hoặc phối hợp xử lý phản ánh, kiến nghị theo quy trình được quy định tại Nghị định số [20/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-20-2008-nd-cp-tiep-nhan-xu-ly-phan-anh-kien-nghi-cua-ca-nhan-to-chuc-ve-quy-dinh-hanh-chinh-62386.aspx \"Nghị định 20/2008/NĐ-CP\") , Quyết định số [05/2020/QĐ-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-05-2020-qd-ubnd-quy-che-hoat-dong-phan-mem-tra-loi-phan-anh-to-chuc-thanh-hoa-441809.aspx \"Quyết định 05/2020/QĐ-UBND\") ngày 13/01/2020 của UBND tỉnh Thanh Hóa; đồng thời, thông tin phản hồi kết quả xử lý cho tổ chức, cá nhân trên Hệ thống thông tin giải quyết TTHC của tỉnh và Hệ thống Phản hồi Thanh Hóa.\n\n**Điều 15. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân tại Hệ thống thông tin giải quyết TTHC tỉnh**\n\n1\\. Tổ chức, cá nhân có tài khoản đã đăng ký để thực hiện TTHC trên môi trường điện tử được cung cấp một Kho quản lý dữ liệu điện tử của tổ chức, cá nhân tại Hệ thống thông tin giải quyết TTHC tỉnh.\n\n2\\. Các tổ chức, cá nhân chịu trách nhiệm bảo quản tài khoản, mật khẩu đăng nhập tại Hệ thống thông tin giải quyết TTHC tỉnh để khai thác sử dụng dữ liệu điện tử được lưu giữ trên Kho quản lý dữ liệu điện tử của tổ chức, cá nhân theo quy định tại Điều 16 Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") và quy định của pháp luật hiện hành.\n\n**Điều 16. Lưu trữ hồ sơ TTHC điện tử**\n\n1\\. Thời hạn bảo quản hồ sơ TTHC điện tử thực hiện theo quy định tại điểm a khoản 4 Điều 21a Nghị định số [107/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-107-2021-nd-cp-sua-doi-nghi-dinh-61-2018-nd-cp-thuc-hien-co-che-mot-cua-484769.aspx \"Nghị định 107/2021/NĐ-CP\") .\n\n2\\. Hồ sơ giải quyết TTHC được lưu trữ điện tử và do cơ quan có thẩm quyền giải quyết quản lý thực hiện theo quy định tại điểm b khoản 4 Điều 21a Nghị định số 107/2021/NĐ-CP.\n\n**Điều 17. Hỗ trợ kỹ thuật và xử lý sự cố**\n\n1\\. Trường hợp gặp sự cố hoặc cần hỗ trợ trong quá trình sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh, cán bộ, công chức, viên chức, người lao động của các cơ quan thực hiện TTHC liên hệ với Trung tâm Phục vụ hành chính công tỉnh theo thông tin cụ thể như sau:\n\na) Gửi thư điện tử theo địa chỉ: [dichvucong@thanhhoa.gov.vn](mailto:dichvucong@thanhhoa.gov.vn)\n\nb) Gửi văn bản về Trung tâm Phục vụ hành chính công tỉnh, số 28 Đại lộ Lê Lợi, phường Điện Biên, thành phố Thanh Hóa.\n\nc) Điện thoại hỗ trợ: 02373 900 900, số máy lẻ 100.\n\n2\\. Trường hợp phát hiện có sự cố không đảm bảo an toàn, Trung tâm Phục vụ hành chính công tỉnh báo cáo Chủ tịch UBND tỉnh và cho tạm dừng Hệ thống thông tin giải quyết TTHC của tỉnh để xử lý, khắc phục.\n\n**Chương III**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 18. Trách nhiệm thực hiện**\n\n1\\. Văn phòng UBND tỉnh\n\na) Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan tham mưu các giải pháp đảm bảo việc cung cấp, công khai TTHC; cập nhật, rà soát, cung cấp dịch vụ công trực tuyến trên Cổng dịch vụ công quốc gia để tích hợp với Hệ thống thông tin giải quyết TTHC tỉnh.\n\nb) Theo dõi, kiểm tra, đôn đốc các cơ quan, đơn vị, địa phương đối với việc sử dụng Hệ thống thông tin giải quyết TTHC tỉnh trong công tác giải quyết hồ sơ TTHC, cung cấp dịch vụ công trực tuyến. Tổng hợp, báo cáo Chủ tịch UBND tỉnh xử lý hoặc chỉ đạo xử lý theo thẩm quyền các tổ chức, cá nhân không sử dụng Hệ thống thông tin giải quyết TTHC để tiếp nhận hồ sơ TTHC.\n\n2\\. Trung tâm Phục vụ hành chính công tỉnh\n\na) Chủ trì tổ chức, hướng dẫn, kiểm tra và đôn đốc việc triển khai, thực hiện Quy chế này; tổng hợp, đánh giá kết quả triển khai thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4 của các cơ quan thực hiện TTHC trên Hệ thống thông tin giải quyết TTHC của tỉnh; định kỳ hàng quý báo cáo Chủ tịch UBND tỉnh và báo cáo đột xuất (khi có yêu cầu).\n\nb) Chủ trì, phối hợp với các cơ quan, đơn vị liên quan thực hiện các giải pháp kỹ thuật trong việc kết nối, tích hợp, chia sẻ, đồng bộ hóa dữ liệu và công tác lưu trữ dữ liệu điện tử của Hệ thống thông tin giải quyết TTHC của tỉnh đảm bảo an toàn thông tin, an ninh mạng, bảo mật thông tin theo các quy định hiện hành; đảm bảo hệ thống kết nối liên thông và hoạt động liên tục 24/7 trên mạng Internet.\n\nc) Hướng dẫn, hỗ trợ kỹ thuật, tập huấn, triển khai việc cung cấp, sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh cho các cơ quan thực hiện TTHC.\n\nd) Phối hợp với các cơ quan báo chí, Đài Phát thanh và Truyền hình tỉnh tăng cường thông tin, tuyên truyền, hướng dẫn về Hệ thống thông tin giải quyết TTHC của tỉnh để tổ chức, cá nhân biết và sử dụng.\n\nđ) Thường xuyên theo dõi, giám sát, đôn đốc các cơ quan, đơn vị thực hiện dịch vụ công trực tuyến mức độ 3, mức độ 4 trên Hệ thống thông tin giải quyết TTHC của tỉnh đảm bảo đúng quy định của pháp luật và quy định tại Quy chế này.\n\ne) Hằng năm có kế hoạch bảo trì, bảo dưỡng, duy trì hoạt động Hệ thống thông tin giải quyết TTHC của tỉnh cho phù hợp với tình hình thực tế; đề xuất với UBND tỉnh nâng cấp cơ sở vật chất, cơ sở hạ tầng thông tin và phần mềm ứng dụng; tham gia bảo đảm an toàn thông tin trong quá trình khai thác, sử dụng Hệ thống này. Thông báo bằng văn bản cho các cơ quan, tổ chức, cá nhân sử dụng hệ thống trước khi tiến hành bảo trì, bảo dưỡng và nâng cấp Hệ thống thông tin giải quyết TTHC của tỉnh. Bảo đảm tính toàn vẹn cơ sở dữ liệu trước và sau bảo trì, bảo dưỡng và nâng cấp.\n\nf) Phối hợp với Sở Tài chính và các cơ quan, đơn vị liên quan tham mưu về kinh phí thực hiện và duy trì hoạt động Hệ thống thông tin giải quyết TTHC tỉnh theo quy định của pháp luật.\n\n3\\. Sở Thông tin và Truyền thông\n\na) Thực hiện đảm bảo hạ tầng máy chủ, lưu trữ dữ liệu, đường truyền và các biện pháp giám sát, bảo đảm an toàn thông tin cho Hệ thống thông tin giải quyết TTHC của tỉnh.\n\nb) Phối hợp với Trung tâm Phục vụ hành chính công đảm bảo kết nối, tích hợp hệ thống quản lý văn bản và hồ sơ công việc của các cơ quan nhà nước, các phần mềm quản lý chuyên ngành với Hệ thống thông tin giải quyết TTHC của tỉnh qua trục kết nối, chia sẻ dữ liệu của tỉnh.\n\n4\\. Công an tỉnh\n\nPhối hợp với Trung tâm Phục vụ hành chính công tỉnh và các đơn vị có liên quan cấu hình, cấp quyền khai thác dịch vụ xác thực thông tin trong cơ sở dữ liệu quốc gia về dân cư phục vụ xử lý TTHC, cung cấp dịch vụ công trực tuyến trên địa bàn tỉnh Thanh Hóa.\n\n5\\. Các sở, ban, ngành, đơn vị cấp tỉnh; UBND cấp huyện, UBND cấp xã\n\na) Triển khai thực hiện Quy chế này và chịu trách nhiệm trước UBND tỉnh, Chủ tịch UBND tỉnh về kết quả, tiến độ giải quyết TTHC, dịch vụ công trực tuyến mức độ 3, mức độ 4 của ngành, địa phương mình.\n\nb) Theo phạm vi thẩm quyền và chức năng, nhiệm vụ được giao, các cơ quan, đơn vị phối hợp với Văn phòng UBND tỉnh tham mưu đề xuất UBND tỉnh phê duyệt danh mục dịch vụ công trực tuyến mức độ 3, mức độ 4 trên Hệ thống thông tin giải quyết TTHC của tỉnh theo quy định tại Quy chế này.\n\nc) Phối hợp chặt chẽ với Trung tâm Phục vụ hành chính công tỉnh trong quá trình vận hành hoạt động của Hệ thống thông tin giải quyết TTHC của tỉnh để đảm bảo việc cung cấp dịch vụ công trực tuyến thuộc phạm vi giải quyết của cơ quan, đơn vị được diễn ra thông suốt, an toàn, hiệu quả.\n\nd) Khi phát hiện những TTHC đã có hiệu lực thi hành nhưng chưa được công bố, công khai hoặc công bố, công khai nhưng chưa chính xác, đầy đủ theo quy định hoặc đã hết hiệu lực thi hành, bị hủy bỏ, bãi bỏ nhưng vẫn được đăng tải công khai, các cơ quan giải quyết TTHC có trách nhiệm thông báo, gửi ý kiến phản hồi cho Trung tâm Phục vụ hành chính công tỉnh để kịp thời phối hợp xử lý.\n\nđ) Thông tin, tuyên truyền để tổ chức, cá nhân biết về Hệ thống thông tin giải quyết TTHC của tỉnh trong giải quyết TTHC, dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của ngành, địa phương mình.\n\ne) Thông báo kịp thời các sự cố liên quan đến Hệ thống thông tin giải quyết TTHC của tỉnh về Trung tâm Phục vụ hành chính công tỉnh để phối hợp xử lý.\n\n6\\. Cán bộ, công chức, viên chức, người lao động của cơ quan, đơn vị cung cấp dịch vụ công trực tuyến và giải quyết TTHC\n\na) Thường xuyên đăng nhập vào Hệ thống thông tin giải quyết TTHC của tỉnh để theo dõi, kiểm tra, tiếp nhận, giải quyết các hồ sơ đăng ký trực tuyến của tổ chức, cá nhân đúng thời gian quy định.\n\nb) Quản lý, bảo vệ tài khoản và mật khẩu đăng nhập vào Hệ thống thông tin giải quyết TTHC của tỉnh; không cung cấp mật khẩu sử dụng của cá nhân mình cho người khác; không sử dụng tài khoản và mật khẩu của người khác để đăng nhập vào Hệ thống thông tin giải quyết TTHC của tỉnh; thay đổi mật khẩu tài khoản cá nhân theo định kỳ để đảm bảo tính bảo mật, an toàn thông tin trong quá trình sử dụng; chịu trách nhiệm về tài khoản và mật khẩu cá nhân của mình.\n\nc) Khi phát hiện tổ chức, cá nhân sử dụng Hệ thống thông tin giải quyết TTHC của tỉnh không đúng mục đích, tập tin đính kèm có mã độc, vi phạm quy định tại Điều 5 Nghị định [72/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-72-2013-nd-cp-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-201110.aspx \"Nghị định 72/2013/NĐ-CP\") của Chính phủ phải kịp thời báo cáo cho cán bộ phụ trách công nghệ thông tin của đơn vị hoặc Trung tâm Phục vụ hành chính công tỉnh để kịp thời xử lý, khắc phục.\n\n7\\. Trách nhiệm của các doanh nghiệp bưu chính\n\nThực hiện chuyển phát hồ sơ, kết quả giải quyết TTHC hoặc số hóa hồ sơ theo yêu cầu của tổ chức, cá nhân đảm bảo theo đúng quy định.\n\n8\\. Tổ chức, cá nhân sử dụng dịch vụ trên Hệ thống thông tin giải quyết TTHC của tỉnh\n\na) Chịu trách nhiệm trước pháp luật về những thông tin kê khai, đăng ký và sử dụng tài khoản trên Hệ thống thông tin giải quyết TTHC của tỉnh. Quản lý tài khoản, chữ ký số, giữ bí mật thông tin tài khoản, mật khẩu của mình, trường hợp mật khẩu bị mất hoặc bị đánh cắp hoặc phát hiện có người sử dụng trái phép tài khoản của mình, phải thông báo kịp thời cho Trung tâm Phục vụ hành chính công tỉnh.\n\nb) Chịu trách nhiệm đối với tất cả các thông tin, nội dung đã cung cấp khi sử dụng dịch vụ và các tiện ích trên Hệ thống thông tin giải quyết TTHC của tỉnh.\n\nc) Thực hiện các yêu cầu của cơ quan cung cấp dịch vụ công trực tuyến và nộp phí, lệ phí (nếu có) theo quy định của pháp luật đối với từng loại dịch vụ công trực tuyến.\n\nd) Trường hợp sử dụng lại các thông tin, nội dung trên Hệ thống thông tin giải quyết TTHC của tỉnh để đăng tải trên các phương tiện truyền thông phải thực hiện theo quy định của pháp luật.\n\nđ) Theo yêu cầu của tổ chức, cá nhân, Hệ thống thông tin giải quyết TTHC của tỉnh chia sẻ các thông tin, dữ liệu của tổ chức, cá nhân đã có trên hệ thống để hỗ trợ thực hiện các TTHC, dịch vụ công trực tuyến liên quan, tuân thủ quy định của pháp luật về cung cấp thông tin.\n\n**Điều 19. Điều khoản thi hành**\n\nTrong quá trình triển khai thực hiện Quy chế, nếu có khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân kịp thời phản ánh bằng văn bản về Văn phòng UBND tỉnh (qua Trung tâm Phục vụ hành chính công tỉnh) để tổng hợp, báo cáo UBND tỉnh xem xét, quyết định./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

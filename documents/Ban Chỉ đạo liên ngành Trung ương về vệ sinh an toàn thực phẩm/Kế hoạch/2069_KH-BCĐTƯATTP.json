@@ -1,0 +1,601 @@
+{
+  "title": "Kế hoạch 2069/KH-BCĐTƯATTP năm 2020 về triển khai công tác hậu kiểm về an toàn thực phẩm năm 2021 do Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 98/2020/NĐ-CP quy định về xử phạt vi phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng",
+      "id": "98/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-08-26",
+      "effectiveDate": "2020-10-15",
+      "gazetteDate": "2020-09-10",
+      "gazetteNumber": "Từ số 861 đến số 862",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 84/NQ-CP năm 2020 về nhiệm vụ, giải pháp tháo gỡ khó khăn cho sản xuất kinh doanh, thúc đẩy giải ngân vốn đầu tư công và bảo đảm trật tự an toàn xã hội trong bối cảnh đại dịch COVID-19 do Chính phủ ban hành",
+      "id": "84/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-05-29",
+      "effectiveDate": "2020-05-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 17/CT-TTg năm 2020 về tiếp tục tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm trong tình hình mới do Thủ tướng Chính phủ ban hành",
+      "id": "17/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-13",
+      "effectiveDate": "2020-04-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 17/2020/NĐ-CP sửa đổi Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc lĩnh vực quản lý nhà nước của Bộ Công thương",
+      "id": "17/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-02-05",
+      "effectiveDate": "2020-03-22",
+      "gazetteDate": "2020-02-22",
+      "gazetteNumber": "Từ số 233 đến số 234",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 25/2019/TT-BYT quy định về truy xuất nguồn gốc sản phẩm thực phẩm thuộc lĩnh vực quản lý của Bộ Y tế",
+      "id": "25/2019/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Trương Quốc Cường"
+      ],
+      "issuedDate": "2019-08-30",
+      "effectiveDate": "2019-10-16",
+      "gazetteDate": "2019-09-24",
+      "gazetteNumber": "Từ số 771 đến số 772",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 18/2019/TT-BYT hướng dẫn Thực hành sản xuất tốt (GMP) trong sản xuất, kinh doanh thực phẩm bảo vệ sức khỏe do Bộ trưởng Bộ Y tế ban hành",
+      "id": "18/2019/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Trương Quốc Cường"
+      ],
+      "issuedDate": "2019-07-17",
+      "effectiveDate": "2019-07-17",
+      "gazetteDate": "2019-08-01",
+      "gazetteNumber": "Từ số 609 đến số 610",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1693/BYT-QLD năm 2019 về kiểm soát chất lượng thuốc dược liệu, thuốc cổ truyền, thực phẩm chức năng do Bộ Y tế ban hành",
+      "id": "1693/BYT-QLD",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Trương Quốc Cường"
+      ],
+      "issuedDate": "2019-03-29",
+      "effectiveDate": "2019-03-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 43/2018/TT-BCT quy định về quản lý an toàn thực phẩm thuộc trách nhiệm của Bộ Công thương",
+      "id": "43/2018/TT-BCT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Công thương",
+      "signers": [
+        "Trần Tuấn Anh"
+      ],
+      "issuedDate": "2018-11-15",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2018-12-09",
+      "gazetteNumber": "Từ số 1095 đến số 1096",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 155/2018/NĐ-CP sửa đổi quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế",
+      "id": "155/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-11-12",
+      "effectiveDate": "2018-11-12",
+      "gazetteDate": "2018-11-26",
+      "gazetteNumber": "Số 1057",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 115/2018/NĐ-CP quy định xử phạt vi phạm hành chính về an toàn thực phẩm",
+      "id": "115/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-09-04",
+      "effectiveDate": "2018-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 15/2018/NĐ-CP hướng dẫn Luật an toàn thực phẩm",
+      "id": "15/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-02-02",
+      "effectiveDate": "2018-02-02",
+      "gazetteDate": "2018-02-15",
+      "gazetteNumber": "Từ số 375 đến số 376",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 119/2017/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực tiêu chuẩn, đo lường và chất lượng sản phẩm, hàng hóa",
+      "id": "119/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-11-01",
+      "effectiveDate": "2017-12-15",
+      "gazetteDate": "2017-11-11",
+      "gazetteNumber": "Từ số 821 đến số 822",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 97/2017/NĐ-CP về sửa đổi, bổ sung một số điều của Nghị định 81/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ hướng dẫn và biện pháp thi hành Luật xử lý vi phạm hành chính",
+      "id": "97/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-08-18",
+      "effectiveDate": "2017-10-05",
+      "gazetteDate": "2017-09-04",
+      "gazetteNumber": "Từ số 657 đến số 658",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Luật sửa đổi Bộ luật Hình sự 2017",
+      "id": "12/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính",
+        "Trách nhiệm hình sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-20",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-27",
+      "gazetteNumber": "Từ số 523 đến số 524",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 17/CT-TTg năm 2017 về tăng cường hiệu lực, hiệu quả quản lý nhà nước, chấn chỉnh hoạt động quảng cáo do Thủ tướng Chính phủ ban hành",
+      "id": "17/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-09",
+      "effectiveDate": "2017-05-09",
+      "gazetteDate": "2017-05-21",
+      "gazetteNumber": "Từ số 361 đến số 362",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 28/2017/NĐ-CP sửa đổi Nghị định 131/2013/NĐ-CP quy định xử phạt vi phạm hành chính về quyền tác giả, quyền liên quan và Nghị định 158/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể thao, du lịch và quảng cáo",
+      "id": "28/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Sở hữu trí tuệ",
+        "Vi phạm hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-03-20",
+      "effectiveDate": "2017-05-05",
+      "gazetteDate": "2017-03-30",
+      "gazetteNumber": "Từ số 215 đến số 216",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 13/CT-TTg năm 2016 về tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm do Thủ tướng Chính phủ ban hành",
+      "id": "13/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-09",
+      "effectiveDate": "2016-05-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 48/2015/TT-BYT Quy định hoạt động kiểm tra an toàn vệ sinh thực phẩm trong sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý của Bộ Y tế",
+      "id": "48/2015/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2015-12-01",
+      "effectiveDate": "2016-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ luật hình sự 2015",
+      "id": "100/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Trách nhiệm hình sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-27",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2015-12-31",
+      "gazetteNumber": "Từ số 1263 đến số 1264",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 15/2015/NĐ-CP về đầu tư theo hình thức đối tác công tư",
+      "id": "15/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-02-14",
+      "effectiveDate": "2015-04-10",
+      "gazetteDate": "2015-03-05",
+      "gazetteNumber": "Từ số 295 đến số 296",
+      "status": "Hết hiệu lực: 19/06/2018"
+    },
+    {
+      "title": "Nghị định 158/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể thao, du lịch và quảng cáo",
+      "id": "158/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Thể thao - Y tế",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-12",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-11-26",
+      "gazetteNumber": "Từ số 819 đến số 820",
+      "status": "Hết hiệu lực: 01/06/2021"
+    },
+    {
+      "title": "Nghị định 81/2013/NĐ-CP hướng dẫn và biện pháp thi hành Luật xử lý vi phạm hành chính",
+      "id": "81/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-19",
+      "effectiveDate": "2013-07-19",
+      "gazetteDate": "2013-08-07",
+      "gazetteNumber": "Từ số 459 đến số 460",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Luật xử lý vi phạm hành chính 2012",
+      "id": "15/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Vi phạm hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 14/2011/TT-BYT hướng dẫn chung về lấy mẫu thực phẩm phục vụ thanh tra, kiểm tra chất lượng, vệ sinh an toàn thực phẩm do Bộ Y tế ban hành",
+      "id": "14/2011/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Trịnh Quân Huấn"
+      ],
+      "issuedDate": "2011-04-01",
+      "effectiveDate": "2011-06-01",
+      "gazetteDate": "2011-10-25",
+      "gazetteNumber": "Từ số 535 đến số 536",
+      "status": "Hết hiệu lực: 09/11/2023"
+    },
+    {
+      "title": "Luật an toàn thực phẩm 2010",
+      "id": "55/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-06-17",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2010-09-25",
+      "gazetteNumber": "Từ số 564 đến số 565",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công văn 6082/BCT-KHCN triển khai công tác hậu kiểm về an toàn thực phẩm năm 2023 do Bộ Công Thương ban hành",
+      "id": "6082/BCT-KHCN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Công thương",
+      "signers": [
+        "Nguyễn Sinh Nhật Tân"
+      ],
+      "issuedDate": "2023-09-05",
+      "effectiveDate": "2023-09-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 450/ATTP-PCTTR triển khai công tác hậu kiểm về an toàn thực phẩm năm 2023 do Cục An toàn thực phẩm ban hành",
+      "id": "450/ATTP-PCTTR",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Cục an toàn thực phẩm",
+      "signers": [
+        "Trần Việt Nga"
+      ],
+      "issuedDate": "2023-03-09",
+      "effectiveDate": "2023-03-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 1766/KH-BCĐTƯATTP năm 2022 triển khai công tác hậu kiểm về an toàn thực phẩm năm 2023 do Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm ban hành",
+      "id": "1766/KH-BCĐTƯATTP",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm",
+      "signers": [
+        "Đỗ Xuân Tuyên"
+      ],
+      "issuedDate": "2022-12-27",
+      "effectiveDate": "2022-12-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 1993/KH-BCĐTƯATTP năm 2020 về triển khai công tác bảo đảm an toàn thực phẩm Tết Nguyên đán Tân Sửu và mùa Lễ hội Xuân 2021 do Ban chỉ đạo liên ngành Trung ương về an toàn thực phẩm ban hành",
+      "id": "1993/KH-BCĐTƯATTP",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2020-12-21",
+      "effectiveDate": "2020-12-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 1518/KH-BCĐTƯATTP năm 2019 triển khai công tác kiểm tra, hậu kiểm về an toàn thực phẩm năm 2020 do Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm ban hành",
+      "id": "1518/KH-BCĐTƯATTP",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Vi phạm hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm",
+      "signers": [
+        "Trương Quốc Cường"
+      ],
+      "issuedDate": "2019-12-27",
+      "effectiveDate": "2019-12-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Công văn 858/BCĐTƯVSATTP năm 2018 về hướng dẫn thực hiện Nghị định 15/2018/NĐ-CP quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm do Ban chỉ đạo liên ngành vệ sinh an toàn thực phẩm Trung ương ban hành",
+      "id": "858/BCĐTƯVSATTP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm",
+      "signers": [
+        "Nguyễn Thanh Long"
+      ],
+      "issuedDate": "2018-02-07",
+      "effectiveDate": "2018-02-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "2069/KH-BCĐTƯATTP",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Thể thao - Y tế"
+  ],
+  "organization": "Ban Chỉ đạo liên ngành Trung ương về vệ sinh an toàn thực phẩm",
+  "signers": [
+    "Trương Quốc Cường"
+  ],
+  "issuedDate": "2020-12-30",
+  "effectiveDate": "2020-12-30",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADMAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>BAN CHỈ ĐẠO\n  LIÊN NGÀNH TRUNG ƯƠNG VỀ AN TOÀN THỰC PHẨM<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  2069/KH-BCĐTƯATTP</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 30\n  tháng 12 năm 2020</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">TRIỂN KHAI CÔNG TÁC HẬU KIỂM VỀ AN TOÀN THỰC PHẨM NĂM 2021</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong năm 2020 mặc dù bị ảnh hưởng\nbởi đại dịch Covid-19, thực hiện giãn cách xã hội phòng chống dịch bệnh, hạn chế,\ngiảm hoạt động thanh tra, kiểm tra trong thời kỳ dịch bệnh theo Nghị quyết số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 84/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-quyet-84-nq-cp-2020-giai-phap-thao-go-kho-khan-cho-san-xuat-kinh-doanh-trong-boi-canh-covid-19-443850.aspx\">84/NQ-CP</a>  ngày 29/5/2020 của Chính phủ nhưng công tác hậu kiểm về an toàn thực\nphẩm đã được các Bộ, ngành và Uỷ ban nhân dân các tỉnh, thành phố trực thuộc\ntrung ương chỉ đạo và triển khai thực hiện phù hợp với yêu cầu phòng chống dịch\nbệnh, cơ bản kiểm soát và ngăn chặn hành vi vi phạm pháp luật về an toàn thực\nphẩm, xử lý nghiêm tổ chức, cá nhân vi phạm. Trong năm 2020 đã hậu kiểm 469.083\ncơ sở, đã xử lý 27.631 cơ sở, tổng số tiền phạt 138.23 tỷ; Giá trị tang vật thu\ngiữ trên 28,5 tỷ đồng; Đình chỉ lưu hành 559 loại thực phẩm của 49 cơ sở; số cơ\nsở bị tiêu hủy sản phẩm: 1.894 cơ sở; tiêu hủy 5.689 loại thực phẩm do không đảm\nbảo chất lượng ATTP (thực phẩm không rõ nguồn gốc, xuất xứ, hết hạn sử dụng...),\nhàng hóa vi phạm bị tạm giữ trên 87 tấn (bao gồm các sản phẩm: bia, rượu, bánh\nkẹo, rau, củ quả, trứng gia cầm, thủy, hải sản, thịt lợn...); chuyển cơ quan điều\ntra 09 vụ việc có dấu hiệu sản xuất, kinh doanh hàng giả, sử dụng giấy tờ giả;\nkhởi tố 07 vụ, 08 bị can về tội \"Vi phạm các quy định về ATTP\" theo <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930864')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930864')\" atmm=\".lqhlTootip-4930864\" onmouseout=\"hideddrivetip();\">Điều 317 Bộ luật Hình sự năm 2015</a> (được sửa đổi, bổ sung năm\n2017).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Phát huy những kết quả đã đạt\nđược, nâng cao hiệu lực, hiệu quả công tác quản lý an toàn thực phẩm nhằm bảo đảm\nan toàn thực phẩm cho người dân, góp phần phát triển kinh tế - xã hội. Ban Chỉ đạo\nliên ngành Trung ương về an toàn thực phẩm ban hành kế hoạch hậu kiểm về an\ntoàn thực phẩm năm 2021 như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>A. MỤC\nĐÍCH, YÊU CẦU</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1\"><b>I. Mục đích</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Tăng cường trách nhiệm quản\nlý nhà nước về an toàn thực phẩm ở các cấp, thông qua hoạt động hậu kiểm kịp thời\nphát hiện, ngăn chặn, xử lý các trường hợp vi phạm về an toàn thực phẩm, hạn chế\nngộ độc thực phẩm và các bệnh truyền qua thực phẩm; triển khai hoạt động hậu kiểm\ncó trọng tâm, trọng điểm; tiếp tục tăng cường trách nhiệm quản lý về an toàn thực\nphẩm trong tình hình mới theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 17/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx\">17/CT-TTg</a>  ngày 13/4/2020 của Thủ tướng\nChính phủ; tăng cường hiệu quả, hiệu lực quản lý nhà nước, chấn chỉnh hoạt động\nquảng cáo theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 17/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/chi-thi-17-ct-ttg-2017-tang-cuong-quan-ly-nha-nuoc-chan-chinh-hoat-dong-quang-cao-348756.aspx\">17/CT-TTg</a>  ngày 09/5/2017 của Thủ tướng Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đánh giá việc chấp hành pháp\nluật về an toàn thực phẩm của các cơ sở sản xuất, kinh doanh, quảng cáo, nhập\nkhẩu, bảo quản, vận chuyển thực phẩm; cơ sở sản xuất, kinh doanh, quảng cáo, nhập\nkhẩu sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho trẻ\nnhỏ; cơ sở kinh doanh dịch vụ ăn uống, đặc biệt là bếp ăn tập thể khu công nghiệp,\ntrường học, cơ sở cung cấp suất ăn sẵn và an toàn thực phẩm tại các lễ hội, sự\nkiện lớn, kinh doanh thức ăn đường phố; kiểm soát hoạt động sản xuất, chế biến,\nkinh doanh, nhập khẩu thực phẩm và kiểm soát quảng cáo thực phẩm bảo vệ sức khỏe,\nthịt và các sản phẩm từ thịt, bia, rượu, cồn và đồ uống có cồn, nước giải khát,\nbánh, mứt, kẹo, rau, củ, quả, và sản phẩm rau củ quả, thủy sản, sản phẩm thủy sản,\nphụ gia thực phẩm v.v…và các sản phẩm thực phẩm theo sự phân công trách nhiệm\nquản lý của các Bộ: Y tế, Nông nghiệp và Phát triển nông thôn, Công Thương.\nTrên cơ sở đó, hướng dẫn các cơ sở sản xuất, kinh doanh thực phẩm thực hiện đảm\nbảo an toàn thực phẩm đúng theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Đánh giá tình hình về an\ntoàn thực phẩm đối với các nhóm thực phẩm lưu thông trên thị trường nhằm định\nhướng giải pháp quản lý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Thông qua việc hậu kiểm tại\ncác cơ sở sản xuất, kinh doanh, quảng cáo thực phẩm, đánh giá việc cấp các loại\ngiấy phép về an toàn thực phẩm (Giấy chứng nhận cơ sở đủ điều kiện an toàn thực\nphẩm, Giấy xác nhận nội dung quảng cáo, việc tự công bố sản phẩm, giấy tiếp nhận\nđăng ký bản công bố sản phẩm).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Qua công tác hậu kiểm tiếp tục\ntuyên truyền chính sách pháp luật và các văn bản quy phạm pháp luật trong lĩnh\nvực an toàn thực phẩm: <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930865')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930865')\" atmm=\".lqhlTootip-4930865\" onmouseout=\"hideddrivetip();\">Điều 317 Luật sửa đổi, bổ sung một số điều\ncủa Bộ luật hình sự số 100/2015/QH13</a> có hiệu lực từ 01/01/2018; Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  ngày 02/02/2018; Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 115/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham-360333.aspx\">115/2018/NĐ-CP</a>  ngày 04/9/2018; Nghị định\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 155/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-155-2018-nd-cp-sua-doi-quy-dinh-lien-quan-den-dieu-kien-kinh-doanh-thuoc-bo-y-te-399829.aspx\">155/2018/NĐ-CP</a>  ngày 12/11/2018; Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 17/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-17-2020-nd-cp-sua-doi-nghi-dinh-lien-quan-dieu-kien-dau-tu-kinh-doanh-bo-cong-thuong-434382.aspx\">17/2020/NĐ-CP</a>  ngày 05/02/2020 sửa đổi,\nbổ sung một số điều của các Nghị định liên quan đến điều kiện đầu tư kinh doanh\nthuộc lĩnh vực quản lý nhà nước của Bộ Công Thương; Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 17/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx\">17/CT-TTg</a>  ngày\n13/4/2020 của Thủ tướng Chính phủ về tiếp tục tăng cường trách nhiệm quản lý\nnhà nước về an toàn thực phẩm trong tình hình mới; Thông tư số 18/2019/TT- BYT\nngày 17/7/2019 của Bộ Trưởng Bộ Y tế hướng dẫn thực hành sản xuất tốt (GMP)\ntrong sản xuất, kinh doanh thực phẩm bảo vệ sức khỏe; Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 25/2019/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-25-2019-tt-byt-quy-dinh-ve-truy-xuat-nguon-goc-san-pham-thuc-pham-thuoc-quan-ly-bo-y-te-423280.aspx\">25/2019/TT-BYT</a>  ngày 30/8/2019 của Bộ Trưởng Bộ Y tế quy định truy xuất nguồn gốc\nsản phẩm thực phẩm thuộc lĩnh vực quản lý của Bộ Y tế; Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 43/2018/TT-BCT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-43-2018-tt-bct-quan-ly-an-toan-thuc-pham-thuoc-trach-nhiem-cua-bo-cong-thuong-400848.aspx\">43/2018/TT-BCT</a>  của Bộ Công Thương quy định về quản lý an toàn thực phẩm thuộc\ntrách nhiệm Bộ Công Thương và các văn bản quy phạm pháp luật khác mới ban hành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">6. Công tác hậu kiểm phải ngăn\nchặn được cơ bản tình trạng sản xuất, nhập khẩu, kinh doanh thực phẩm không bảo\nđảm an toàn; quảng cáo thực phẩm vi phạm; phát hiện, xử lý nghiêm tổ chức, cá\nnhân vi phạm về an toàn thực phẩm và công khai trên phương tiện thông tin đại\nchúng, cổng công khai Bộ Y tế theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2\"><b>II. Yêu cầu</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Công tác hậu kiểm có trọng\ntâm, trọng điểm, tập trung hậu kiểm nhóm sản phẩm/sản phẩm thuộc diện tự công bố\nsản phẩm, đăng ký bản công bố sản phẩm, sản phẩm nhập khẩu thuộc diện miễn kiểm\ntra hoặc kiểm tra giảm và kiểm soát an toàn thực phẩm tại các cơ sở sản xuất,\nkinh doanh thực phẩm, kinh doanh dịch vụ ăn uống đặc biệt là các bếp ăn tập thể\nkhu công nghiệp, trường học, lễ hội và các cơ sở thuộc diện không phải cấp Giấy\nchứng nhận cơ sở đủ điều kiện an toàn thực phẩm; các cơ sở đã được cấp Giấy chứng\nnhận cơ sở đủ điều kiện an toàn thực phẩm đạt yêu cầu thực hành sản xuất tốt\n(GMP) thực phẩm bảo vệ sức khỏe. Các hoạt động hậu kiểm phải được thực hiện thường\nxuyên, xử lý nghiêm các trường hợp vi phạm quy định của pháp luật về an toàn thực\nphẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Hậu kiểm hồ sơ tự công bố sản\nphẩm, đăng ký bản công bố sản phẩm, đánh giá nội dung ghi nhãn và chỉ tiêu an\ntoàn cơ sở tự công bố sản phẩm/đăng ký bản công bố sản phẩm (hoặc các quy chuẩn,\ntiêu chuẩn, quy định pháp luật cơ sở công bố áp dụng). Hoạt động hậu kiểm hồ sơ\ntự công bố sản phẩm được thực hiện thường xuyên tại cơ quan tiếp nhận hồ sơ, xử\nlý nghiêm các trường hợp vi phạm quy định của pháp luật về tự công bố sản phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Tăng cường xử lý vi phạm về\nquảng cáo thực phẩm bảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường\nmạng và lấy mẫu kiểm nghiệm về chất lượng, các chỉ tiêu an toàn thực phẩm, tập\ntrung lấy mẫu kiểm nghiệm các sản phẩm có nguy cơ pha trộn trái phép chất tân\ndược thuộc các nhóm sản phẩm: hỗ trợ người bị tăng huyết áp, đái tháo đường,\nđau xương khớp, mỡ máu, rối loạn cương dương, tăng cân, giảm cân (lấy mẫu tại\ncác cơ sở sản xuất, kinh doanh và các sản phẩm được bán online).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Tránh chồng chéo trong hoạt\nđộng hậu kiểm. Việc triển khai hậu kiểm của Bộ Y tế, Bộ Nông nghiệp và Phát triển\nnông thôn, Bộ Công Thương theo trách nhiệm quản lý đối với sản phẩm/nhóm sản phẩm\ntại phụ lục II, III, IV Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  ngày 02/02/2018; Ủy ban nhân\ndân cấp tỉnh, thành phố trực thuộc Trung ương hậu kiểm theo trách nhiệm quy định\ntại <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930866')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930866')\" atmm=\".lqhlTootip-4930866\" onmouseout=\"hideddrivetip();\">Điều 40 Nghị định số 15/2018/NĐ-CP</a> ngày 02/02/2018, tập\ntrung sản phẩm/nhóm sản phẩm và cơ sở sản xuất, kinh doanh thực phẩm phân cấp\ncho địa phương cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, tiếp\nnhận bản công bố sản phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>B. NỘI\nDUNG KẾ HOẠCH</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1_1\"><b>I. Triển\nkhai các cuộc hậu kiểm năm 2021</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>1. Kiểm tra\nliên ngành</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1.1 Tại tuyến Trung ương</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Năm 2021, Ban Chỉ đạo liên\nngành Trung ương về an toàn thực phẩm triển khai 02 đợt kiểm tra liên ngành về\nan toàn thực phẩm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiểm tra liên ngành an toàn\nthực phẩm dịp Tết Nguyên đán Tân Sửu và mùa Lễ hội Xuân năm 2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiểm tra liên ngành an toàn\nthực phẩm trong Tháng hành động vì an toàn thực phẩm năm 2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong dịp Tết trung thu, các Bộ:\nY tế, Nông nghiệp và Phát triển nông thôn, Công Thương chủ động chỉ đạo các địa\nphương tăng cường công tác hậu kiểm đối với sản phẩm/nhóm sản phẩm thuộc trách\nnhiệm quản lý quy định tại Phụ lục II, III, IV Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  ngày\n02/02/2018. Kết thúc đợt thanh tra, kiểm tra, Ban Chỉ đạo liên ngành tỉnh/thành\nphố báo cáo Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm (Bộ Công\nThương chỉ đạo kiểm tra và tổng hợp báo cáo trong dịp Tết trung thu 2021).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiểm tra liên ngành trong các\nđợt cao điểm nêu trên, Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm sẽ\nban hành kế hoạch để chỉ đạo các bộ, ngành và địa phương tổ chức các đoàn kiểm\ntra với thành phần đủ mạnh, gồm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">+ Các Bộ, ngành là thành viên\nBan Chỉ đạo liên ngành Trung ương về an toàn thực phẩm và các Bộ, ngành chức\nnăng có liên quan;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">+ Các cơ sở kiểm nghiệm an toàn\nthực phẩm của Bộ Y tế và các Bộ quản lý chuyên ngành, trường hợp cần thiết sẽ\ntrưng tập các labo khác có khả năng kiểm nghiệm an toàn thực phẩm để phục vụ\ncông tác quản lý nhà nước về an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1.2. Tại địa phương:</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Căn cứ vào kế hoạch của Ban Chỉ\nđạo liên ngành Trung ương về an toàn thực phẩm, Ban Chỉ đạo liên ngành an toàn\nthực phẩm các tỉnh, thành phố trực thuộc Trung ương giao Sở Y tế chủ trì, phối\nhợp với các sở, ngành liên quan xây dung kế hoạch của Ban Chỉ đạo (đối với địa\nphương đã thành lập Ban Quản lý an toàn thực phẩm, Ban Quản lý tham mưu xây dựng\nkế hoạch) và triển khai thực hiện kế hoạch hậu kiểm thường xuyên liên tục về tự\ncông bố sản phẩm/đăng ký bản công bố sản phẩm, sản xuất, kinh doanh, nhập khẩu,\nquảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm sản phẩm tại Phụ lục II, III,\nIV và theo đúng nguyên tắc phân công trách nhiệm quản lý nhà nước về an toàn thực\nphẩm quy định tại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930867')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930867')\" atmm=\".lqhlTootip-4930867\" onmouseout=\"hideddrivetip();\">Điều 36 Nghị định số 15/2018/NĐ-CP</a> ngày\n02/02/2018; hậu kiểm cơ sở kinh doanh dịch vụ ăn uống, thức ăn đường phố theo\nphân công trách nhiệm quản lý an toàn thực phẩm quy định tại <a name=\"dc_5\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930868')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930868')\" atmm=\".lqhlTootip-4930868\" onmouseout=\"hideddrivetip();\">Điều\n40 Nghị định số 15/2018/NĐ-CP</a>; đồng thời phối hợp chặt chẽ với các đoàn hậu\nkiểm của Trung ương khi hậu kiểm trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>2. Hậu kiểm\ntrong ngành Y tế</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2.1 Tại Trung ương</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Bộ Y tế giao Cục An toàn thực\nphẩm phối hợp với các Viện (Viện Kiểm nghiệm an toàn vệ sinh thực phẩm quốc\ngia, Viện Dinh dưỡng, Viện Y tế công cộng thành phố Hồ Chí Minh, Viện Pasteur\nNha Trang, Viện Vệ sinh dịch tễ Tây Nguyên), các lực lượng chức năng thuộc Bộ\nCông an và đơn vị liên quan triển khai hậu kiểm về công bố, sản xuất, kinh\ndoanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe, sản phẩm thực phẩm bổ\nsung và sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ. Chỉ đạo cơ quan chức\nnăng thuộc Ủy ban nhân dân cấp tỉnh hậu kiểm về tự công bố sản phẩm/đăng ký bản\ncông bố sản phẩm, sản xuất, kinh doanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm\ncác sản phẩm/nhóm sản phẩm tại Phụ lục II Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  (trọng tâm\nlà các nhóm sản phẩm nêu tại Mục 3.II phần A Kế hoạch này) và nhóm cơ sở quy định\ntại các <a name=\"dc_6\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930869')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930869')\" atmm=\".lqhlTootip-4930869\" onmouseout=\"hideddrivetip();\">khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP</a>\nngày 02/02/2018, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Quý I năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiểm tra liên ngành về an\ntoàn thực phẩm trong dịp tết Nguyên đán Tân Sửu và mùa Lễ hội Xuân 2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về quảng cáo thực phẩm\nbảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm việc chấp hành quy định\nvề an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo\nthực phẩm bảo vệ sức khỏe.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Quý II năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiểm tra liên ngành trong Tháng\nhành động vì an toàn thực phẩm 2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm việc chấp hành quy định\nvề an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo\nthực phẩm bảo vệ sức khỏe.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về quảng cáo thực phẩm\nbảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm việc chấp hành quy định\nvề an toàn thực phẩm đối với các cơ sở sản xuất, kinh doanh, nhập khẩu, công bố,\nquảng cáo sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho\ntrẻ nhỏ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Quý III năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm việc chấp hành quy định\nvề an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo\nthực phẩm bảo vệ sức khỏe.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về quảng cáo thực phẩm\nbảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Quý IV năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm việc chấp hành quy định\nvề an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo\nthực phẩm bảo vệ sức khỏe.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về quảng cáo thực phẩm\nbảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về hồ sơ công bố\ntrên hệ thống phần mềm dịch vụ công trực tuyến mức độ 4.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiểm tra trách nhiệm quản lý\nnhà nước về an toàn thực phẩm theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"13/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">13/CT-TTg</a>  và Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"17/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=17/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">17/CT-TTg</a> \ncủa Thủ tướng Chính phủ đối với 02 Chi cục An toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong năm 2021, ngoài việc hậu\nkiểm theo kế hoạch, Bộ Y tế sẽ tăng cường hậu kiểm đột xuất đối với cơ sở sản\nxuất, kinh doanh thực phẩm thuộc phạm vi quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(Cục An toàn thực phẩm - Bộ\nY tế xây dựng kế hoạch chi tiết để thực hiện công tác hậu kiểm tại mục 2.1, triển\nkhai các cuộc thanh tra theo kế hoạch đã được Bộ trưởng Bộ Y tế phê duyệt).</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2.2 Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Sở Y tế các tỉnh, thành phố trực\nthuộc trung ương, Ban quản lý an toàn thực phẩm Thành phố Hồ Chí Minh, Đà Nẵng,\nBắc Ninh tham mưu cho Ủy ban nhân dân cấp tỉnh/ Ban Chỉ đạo liên ngành an toàn\nthực phẩm tỉnh xây dựng kế hoạch hậu kiểm đối với cơ sở sản xuất, kinh doanh thực\nphẩm trên địa bàn, tập trung kiểm soát bảo đảm an toàn thực phẩm, phòng chống\nngộ độc thực phẩm tại các bếp ăn tập thể khu công nghiệp, trường học, lễ hội và\ncác sự kiện lớn; hậu kiểm về tự công bố sản phẩm, đăng ký bản công bố sản phẩm,\nsản xuất, kinh doanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm\nsản phẩm tại Phụ lục II Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  và nhóm cơ sở quy định tại\ncác <a name=\"dc_7\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930870')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930870')\" atmm=\".lqhlTootip-4930870\" onmouseout=\"hideddrivetip();\">khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP</a>; hậu\nkiểm việc chấp hành quy định về an toàn thực phẩm đối với cơ sở sản xuất, kinh\ndoanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe (trên các báo, đài; trên\nInternet và môi trường mạng); cơ sở sản xuất, kinh doanh thực phẩm dinh dưỡng y\nhọc, thực phẩm dùng cho chế độ ăn đặc biệt; cơ sở sản xuất, kinh doanh, nhập khẩu,\nquảng cáo sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho\ntrẻ nhỏ; cơ sở kinh doanh dịch vụ ăn uống thức ăn đường phố trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2.3 Viện Kiểm nghiệm an toàn vệ\nsinh thực phẩm quốc gia, Viện Dinh dưỡng, Viện Y tế công cộng thành phố Hồ Chí\nMinh, Viện Pasteur Nha Trang, Viện Vệ sinh dịch tễ Tây Nguyên phối hợp với Cục\nAn toàn thực phẩm và cơ quan quản lý an toàn thực phẩm các địa phương tiến hành\nlấy mẫu theo quy định tại Thông tư 14/2011/BYT-TT ngày 01/4/2011 của Bộ trưởng\nBộ Y tế hướng dẫn chung về lấy mẫu thực phẩm phục vụ thanh tra, kiểm tra chất\nlượng vệ sinh an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>3. Hậu kiểm\ntrong ngành Nông nghiệp và Phát triển nông thôn</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3.1. Tại Trung ương</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tăng cường trách nhiệm quản lý\nnhà nước về an toàn thực phẩm trong tình hình mới theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 17/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx\">17/CT-TTg</a> \nngày 13/4/2020 của Thủ tướng Chính phủ, Bộ Nông nghiệp và Phát triển nông thôn\ngiao các đơn vị chức năng của Bộ phối hợp với các cơ quan chức năng liên quan hậu\nkiểm và chỉ đạo kiểm tra, hậu kiểm về tự công bố sản phẩm, sản xuất, kinh\ndoanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm sản phẩm tại\nPhụ lục III Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  và nhóm cơ sở quy định tại các <a name=\"dc_8\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930871')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930871')\" atmm=\".lqhlTootip-4930871\" onmouseout=\"hideddrivetip();\">khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP</a> ngày\n02/02/2018; Hậu kiểm đối với những cơ sở không thuộc diện cấp Giấy chứng nhận\ncơ sở đủ điều kiện an toàn thực phẩm quy định tại <a name=\"dc_9\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930872')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930872')\" atmm=\".lqhlTootip-4930872\" onmouseout=\"hideddrivetip();\">Điều 12 Nghị định\nsố 15/2015/NĐ-CP</a>; Hậu kiểm tại thị trường đối với các nhóm sản phẩm/sản phẩm\nthuộc diện tự công bố sản phẩm, sản phẩm nhập khẩu thuộc diện miễn kiểm tra hoặc\nkiểm tra giảm thuộc phạm vi quản lý của Bộ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Quý I năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo kế hoạch chung của\nBan Chỉ đạo liên ngành Trung ương về an toàn thực phẩm trong dịp tết Nguyên đán\nTân Sửi và mùa Lễ hội Xuân 2021. Hậu kiểm an toàn thực phẩm các sản phẩm Thịt\nvà sản phẩm từ thịt; Rau, củ, quả và sản phẩm rau, củ, quả.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Quý II năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kiểm tra, an toàn thực phẩm\ntrong Tháng hành động vì an toàn thực phẩm. Hậu kiểm chuyên ngành về an toàn thực\nphẩm nông sản thực phẩm khác; Thủy sản và sản phẩm thủy sản, các thực phẩm theo\nsự phân công quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Quý III năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hậu kiểm an toàn thực phẩm đối\nvới cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản thực phẩm có nguồn gốc\nđộng vật, thực vật nhập khẩu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Quý IV năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hậu kiểm chuyên ngành về an\ntoàn thực phẩm nông sản thực phẩm khác và sản phẩm thủy sản. Chủ trì tổ chức kiểm\ntra, hậu kiểm hoạt động sản xuất, kinh doanh thực phẩm theo phân công quản lý về\nan toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Kiểm tra, đánh giá phân loại\nthường xuyên, liên tục trong năm 2021 tăng cường công tác kiểm tra, hậu kiểm đột\nxuất đối với cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản thuộc phạm\nvi quản lý ngành, đặc biệt khi phát hiện có dấu hiệu vi phạm cụ thể, có nguy cơ\ngây mất an toàn thực phẩm và ảnh hưởng sức khỏe người tiêu dùng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Chủ trì kiểm tra công tác quản\nlý nhà nước về an toàn thực phẩm theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"13/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">13/CT-TTg</a>  và Chỉ thị số\n<a class=\"text-blue\" target=\"_blank\" title=\"17/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=17/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">17/CT-TTg</a>  của Thủ tướng Chính phủ đối với các tỉnh đại diện vùng miền trong cả\nnước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong năm 2021, ngoài việc hậu\nkiểm theo kế hoạch, Bộ Nông nghiệp và Phát triển nông thôn sẽ tăng cường hậu kiểm\nđột xuất đối với cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản thuộc\nphạm vi quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3.2. Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Căn cứ Kế hoạch của Ban Chỉ đạo\nliên ngành Trung ương về an toàn thực phẩm và tình hình thực tế tại địa phương,\nSở Nông nghiệp và Phát triển nông thôn trình cấp có thẩm quyền phê duyệt kế hoạch\nvà chỉ đạo Chi cục Quản lý chất lượng Nông lâm sản và Thủy sản, Chi cục Chăn\nnuôi và Thú y, Chi cục Trồng trọt và Bảo vệ thực vật phối hợp với Thanh tra Sở\nvà các đơn vị liên quan triển khai hậu kiểm tại các cơ sở thực phẩm thuộc phạm\nvi quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>4. Hậu kiểm\ntrong ngành Công Thương</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4.1. Tại Trung ương</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tăng cường trách nhiệm quản lý\nnhà nước về an toàn thực phẩm trong tình hình mới theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 17/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx\">17/CT-TTg</a> \nngày 13/4/2020 của Thủ tướng Chính phủ, Bộ Công Thương giao các đơn vị chức\nnăng của Bộ phối hợp với các cơ quan chức năng liên quan hậu kiểm và chỉ đạo hậu\nkiểm về tự công bố sản phẩm, điều kiện bảo đảm an toàn thực phẩm, xuất nhập khẩu\nthực phẩm, ghi nhãn thực phẩm, quảng cáo thực phẩm, sử dụng phụ gia thực phẩm,\ntruy xuất nguồn gốc thực phẩm và lấy mẫu kiểm nghiệm đối với các sản phẩm/nhóm\nsản phẩm tại Phụ lục IV Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx\">15/2018/NĐ-CP</a>  và nhóm cơ sở quy định tại\ncác <a name=\"dc_10\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930873')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930873')\" atmm=\".lqhlTootip-4930873\" onmouseout=\"hideddrivetip();\">khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP</a> ngày\n02/02/2018.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Quý I năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kiểm tra về an toàn thực phẩm\ntrong dịp tết Nguyên đán Tân Sửi và Mùa lễ hội Xuân năm 2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Chủ trì kiểm tra công tác quản\nlý nhà nước về an toàn thực phẩm theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"13/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">13/CT-TTg</a>  và Chỉ thị số\n<a class=\"text-blue\" target=\"_blank\" title=\"17/CT-TTg\" href=\"/phap-luat/tim-van-ban.aspx?keyword=17/CT-TTg&amp;match=True&amp;area=2&amp;lan=1\">17/CT-TTg</a>  của Thủ tướng Chính phủ đối với các tỉnh đại diện vùng miền trong cả\nnước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Quý II năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kiểm tra an toàn thực phẩm\ntrong Tháng hành động vì an toàn thực phẩm; hậu kiểm chuyên ngành cơ sở sản xuất,\nchế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại\nrượu và đồ uống có cồn, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm\nchế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kiểm tra các cơ sở hoạt động\nkinh doanh đa cấp, thương mại điện tử đối với cơ sở sản xuất, kinh doanh, quảng\ncáo thực phẩm, chú trọng nhóm thực phẩm bảo vệ sức khỏe, thực phẩm bổ sung, thực\nphẩm tăng cường vi chất dinh dưỡng, sản phẩm dinh dưỡng công thức dùng cho trẻ\nnhỏ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Quý III năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kiểm tra an toàn thực phẩm\ntrong dịp Tết Trung thu; hậu kiểm chuyên ngành cơ sở sản xuất, chế biến, bảo quản,\nvận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu và đồ uống\ncó cồn, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột\nvà tinh bột, bánh, mứt, kẹo và các thực phẩm khác thuộc phạm vi quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Ưu tiên hậu kiểm, không dàn trải,\ntập trung vào một số mặt hàng, địa bàn trọng điểm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Quý IV năm 2021:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hậu kiểm các cơ sở sản xuất, chế\nbiến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại\nrượu và đồ uống có cồn; bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm\nchế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4.2. Tại các địa phương</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Căn cứ Kế hoạch của Ban Chỉ đạo\nliên ngành Trung ương về an toàn thực phẩm và tình hình thực tế tại địa phương,\nSở Công Thương trình cấp có thẩm quyền phê duyệt Kế hoạch và chỉ đạo Thanh tra\nSở phối hợp với các đơn vị liên quan triển khai hậu kiểm tại các cơ sở thực phẩm\nthuộc phạm vi quản lý của ngành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2_1\"><b>II. Trọng\ntâm các hoạt động hậu kiểm</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>1. Hậu kiểm\nbảo đảm chất lượng thực phẩm</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Tập trung kiểm soát chất lượng\nthực phẩm các khâu: Nguồn gốc nguyên liệu, vận chuyển, bảo quản; quá trình sản\nxuất, chế biến; nhập khẩu và lưu thông trên thị trường; việc sử dụng phụ gia thực\nphẩm, chất hỗ trợ chế biến, hương liệu, phẩm màu trong chế biến thực phẩm; chất\ncấm trong chăn nuôi; sử dụng kháng sinh, dư lượng thuốc bảo vệ thực vật, thuốc\nthú y, phân bón, thức ăn chăn nuôi, hoạt động giết mổ gia súc, gia cầm nhỏ lẻ;\ntiếp tục kiểm soát việc sử dụng salbutamol trong chăn nuôi; kiểm soát thực phẩm\nlà hàng giả, không rõ nguồn gốc xuất xứ, hết hạn sử dụng, nhập lậu; kiểm soát\nhoạt động kinh doanh đa cấp, thương mại điện tử đối với thực phẩm, chú trọng\nnhóm thực phẩm bảo vệ sức khỏe, thực phẩm bổ sung, thực phẩm tăng cường vi chất\ndinh dưỡng; kiểm soát các nhóm sản phẩm thực phẩm bảo vệ sức khỏe theo văn bản\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 1693/BYT-QLD\" href=\"https://thuvienphapluat.vn/cong-van/the-thao-y-te/cong-van-1693-byt-qld-2019-kiem-soat-chat-luong-thuoc-duoc-lieu-thuc-pham-chuc-nang-437041.aspx\">1693/BYT-QLD</a>  ngày 29/3/2019 của Bộ Y tế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Tăng cường lấy mẫu và kiểm\nnghiệm sản phẩm thực phẩm. Đặc biệt là sản phẩm thực phẩm bảo vệ sức khỏe nhóm\nsản phẩm có nguy cơ pha trộn chất tân dược thuộc các nhóm: hỗ trợ người bị tăng\nhuyết áp, đái tháo đường, đau xương khớp, mỡ máu, rối loạn cương dương, tăng\ncân, giảm cân.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>2. Đối với\ncơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Hậu kiểm các quy định về:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Công bố sản phẩm đối với sản phẩm\nthực phẩm; thực phẩm bảo vệ sức khỏe; thực phẩm dinh dưỡng y học; thực phẩm\ndùng cho chế độ ăn đặc biệt; sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ; phụ\ngia thực phẩm hỗn hợp có công dụng mới, phụ gia thực phẩm không thuộc danh mục\nphụ gia được phép sử dụng trong thực phẩm hoặc không đúng đối tượng sử dụng do\nBộ Y tế quy định. Phụ gia, hương liệu, chất hỗ trợ chế biến thực phẩm, dụng cụ,\nvật liệu bao gói, chứa đựng tiếp xúc trực tiếp với thực phẩm. Các địa phương tập\ntrung hậu kiểm Hồ sơ tự công bố sản phẩm tại cơ quan tiếp nhận hồ sơ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Tập trung hậu kiểm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về công bố sản phẩm:\nViệc thực hiện các quy định về tự công bố sản phẩm/đăng ký bản công bố sản phẩm,\ntrình tự công bố sản phẩm, phiếu kết quả kiểm nghiệm và các hồ sơ, tài liệu\npháp lý quy định tại <a name=\"dc_11\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930874')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930874')\" atmm=\".lqhlTootip-4930874\" onmouseout=\"hideddrivetip();\">Chương II và Chương III Nghị định số\n15/2018/NĐ-CP</a> ngày 02/02/2018.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về điều kiện bảo đảm\nan toàn thực phẩm: hậu kiểm cơ sở thuộc diện cấp và không thuộc diện cấp Giấy\nchứng nhận cơ sở đủ điều kiện an toàn thực phẩm, trong đó chú trọng hậu kiểm đối\nvới cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực\nphẩm quy định tại <a name=\"dc_12\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930875')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930875')\" atmm=\".lqhlTootip-4930875\" onmouseout=\"hideddrivetip();\">Khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP</a>\nngày 02/02/2018.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm đối với thực phẩm nhập\nkhẩu: hậu kiểm, lấy mẫu kiểm nghiệm theo thứ tự ưu tiên sau: Các sản phẩm thuộc\ndiện miễn kiểm tra nhà nước về an toàn thực phẩm nhập khẩu quy định tại <a name=\"dc_13\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930876')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930876')\" atmm=\".lqhlTootip-4930876\" onmouseout=\"hideddrivetip();\">Khoản 1 Điều 13 Nghị định số 15/2018/NĐ-CP</a> ngày 02/02/2018, sản\nphẩm/lô hàng áp dụng phương thức kiểm tra giảm, sản phẩm/lô hàng áp dụng phương\nthức kiểm tra thông thường (đối với các sản phẩm/nhóm sản phẩm tại Phụ lục II,\nIII, IV Nghị định số 15/2018/NĐ-CP).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về ghi nhãn thực hiện\ntheo quy định tại <a name=\"dc_14\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930877')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930877')\" atmm=\".lqhlTootip-4930877\" onmouseout=\"hideddrivetip();\">Chương VII Nghị định số 15/2018/NĐ-CP</a>\nngày 02/02/2018.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về quảng cáo: hậu kiểm\nvề quảng cáo đối với các nhóm thực phẩm phải đăng ký nội dung trước khi thực hiện\nquảng cáo quy định tại <a name=\"dc_15\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930878')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930878')\" atmm=\".lqhlTootip-4930878\" onmouseout=\"hideddrivetip();\">Điều 26 Nghị định số 15/2018/NĐ-CP</a>\nngày 02/02/2018.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về sản xuất, kinh\ndoanh và sử dụng phụ gia thực phẩm thực hiện theo quy định tại <a name=\"dc_16\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930879')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930879')\" atmm=\".lqhlTootip-4930879\" onmouseout=\"hideddrivetip();\">Chương\nX Nghị định số 15/2018/NĐ-CP</a> ngày 02/02/2018.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hậu kiểm về truy xuất nguồn gốc\nthực phẩm thực hiện theo quy định tại <a name=\"dc_17\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930880')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930880')\" atmm=\".lqhlTootip-4930880\" onmouseout=\"hideddrivetip();\">Chương XI Nghị định số\n15/2018/NĐ-CP</a> ngày 02/02/2018 và Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 25/2019/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-25-2019-tt-byt-quy-dinh-ve-truy-xuat-nguon-goc-san-pham-thuc-pham-thuoc-quan-ly-bo-y-te-423280.aspx\">25/2019/TT-BYT</a>  ngày 30/8/2019\ncủa Bộ trưởng Bộ Y tế quy định truy xuất nguồn gốc sản phẩm thực phẩm thuộc\nlĩnh vực quản lý của Bộ Y tế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đối với cơ sở kinh doanh dịch\nvụ ăn uống, thức ăn đường phố: Hậu kiểm việc chấp hành các quy định chung về bảo\nđảm an toàn thực phẩm, các yêu cầu về điều kiện bảo đảm an toàn thực phẩm; việc\nsử dụng phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, nguyên liệu thực phẩm;\nkiểm soát bảo đảm an toàn thực phẩm tại các bếp ăn tập thể khu công nghiệp, trường\nhọc, các cơ sở cung cấp suất ăn sẵn, khu du lịch, lễ hội, sự kiện lớn và thức\năn đường phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3_1\"><b>3. Đối với\ncơ quan quản lý về an toàn thực phẩm</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kiểm tra trách nhiệm quản lý\nnhà nước của các cơ quan quản lý an toàn thực phẩm tại địa phương tập trung các\nnội dung: Việc triển khai công tác bảo đảm an toàn thực phẩm theo chức năng,\nnhiệm vụ; cấp, thu hồi bản công bố sản phẩm và sản phẩm thuộc đối tượng tự công\nbố sản phẩm/đăng ký bản công bố sản phẩm, giấy xác nhận nội dung quảng cáo, giấy\nchứng nhận cơ sở đủ điều kiện an toàn thực phẩm; công tác thông tin, giáo dục,\ntruyền thông về an toàn thực phẩm; công tác thanh tra, kiểm tra, hậu kiểm và xử\nlý vi phạm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4_1\"><b>4. Trách\nnhiệm quản lý nhà nước về an toàn thực phẩm và xử lý vi phạm hành chính trong\nlĩnh vực an toàn thực phẩm:</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trách nhiệm quản lý nhà nước về\nan toàn thực phẩm của các Bộ ngành được quy định tại <a name=\"dc_18\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930881')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930881')\" atmm=\".lqhlTootip-4930881\" onmouseout=\"hideddrivetip();\">Điều\n62;63;64 Luật An toàn thực phẩm</a> và <a name=\"dc_19\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930882')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930882')\" atmm=\".lqhlTootip-4930882\" onmouseout=\"hideddrivetip();\">Điều 37,38,39 Nghị định\nsố 15/2018/NĐ-CP</a> ngày 02/02/2018; Trách nhiệm quản lý nhà nước của Ủy ban\nnhân dân các cấp được quy định tại <a name=\"dc_20\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930883')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930883')\" atmm=\".lqhlTootip-4930883\" onmouseout=\"hideddrivetip();\">Điều 65 Luật An toàn thực phẩm</a>\nvà <a name=\"dc_21\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930884')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930884')\" atmm=\".lqhlTootip-4930884\" onmouseout=\"hideddrivetip();\">Điều 40 Nghị định số 15/2018/NĐ-CP</a> ngày 02/02/2018; Cơ\nquan kiểm tra an toàn thực phẩm, trách nhiệm và quyền hạn của cơ quan kiểm tra,\nđoàn kiểm tra, xử lý kết quả kiểm tra được quy định tại Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 48/2015/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx\">48/2015/TT-BYT</a>  ngày 01/12/2015 của Bộ Y tế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Các đoàn hậu kiểm khi phát hiện\nvi phạm phải xử lý theo đúng quy định của pháp luật; Các cơ quan có thẩm quyền ở\nTrung ương và địa phương áp dụng các hình thức xử phạt bổ sung, biện pháp khắc\nphục hậu quả mạnh mẽ, quyết liệt như: đình chỉ hoạt động của cơ sở sản xuất,\nkinh doanh vi phạm quy định về an toàn thực phẩm; tịch thu tang vật, tạm dừng\nlưu thông, thu hồi, tiêu hủy sản phẩm vi phạm về an toàn thực phẩm; áp dụng thu\nhồi các loại giấy chứng nhận đã cấp theo thẩm quyền.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thông qua công tác hậu kiểm,\nphát hiện, ngăn chặn kịp thời vi phạm về an toàn thực phẩm, không để thực phẩm\nkhông bảo đảm an toàn, không rõ nguồn gốc xuất xứ, nhập lậu lưu thông trên thị\ntrường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kết hợp hậu kiểm với tuyên truyền\nquy định xử lý hình sự đối với tội vi phạm quy định về an toàn thực phẩm theo <a name=\"dc_22\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4930885')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4930885')\" atmm=\".lqhlTootip-4930885\" onmouseout=\"hideddrivetip();\">Điều 317 Bộ luật hình sự năm 2015</a> sửa đổi năm 2017. Các văn bản\nquy phạm pháp luật áp dụng xử lý:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Luật Xử lý vi phạm hành chính số\n15/2012/QH13 ngày 20 tháng 6 năm 2012; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 81/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-81-2013-nd-cp-huong-dan-va-bien-phap-thi-hanh-luat-xu-ly-vi-pham-hanh-chinh-202111.aspx\">81/2013/NĐ-CP</a>  ngày\n19/7/2013 của Chính phủ Quy định chi tiết một số điều và biện pháp thi hành luật\nxử lý vi phạm hành chính và Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 97/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-97-2017-nd-cp-sua-doi-81-2013-nd-cp-huong-dan-luat-xu-ly-vi-pham-hanh-chinh-2016-320311.aspx\">97/2017/NĐ-CP</a>  ngày 18/8/2017 của Chính\nphủ sửa đổi, bổ sung một số điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 81/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-81-2013-nd-cp-huong-dan-va-bien-phap-thi-hanh-luat-xu-ly-vi-pham-hanh-chinh-202111.aspx\">81/2013/NĐ-CP</a>  ngày 19/7/2013\ncủa Chính phủ Quy định chi tiết một số điều và biện pháp thi hành luật xử lý vi\nphạm hành chính.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 115/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham-360333.aspx\">115/2018/NĐ-CP</a>  ngày\n04/9/2018 quy định về hành vi, thẩm quyền xử phạt vi phạm hành chính về an toàn\nthực phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 119/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-119-2017-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-tieu-chuan-do-luong-343705.aspx\">119/2017/NĐ-CP</a> \nngày 01/11/2017 của Chính phủ Quy định về hành vi, thẩm quyền xử phạt vi phạm\nhành chính trong lĩnh vực tiêu chuẩn, đo lường và chất lượng sản phẩm, hàng\nhóa.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 158/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-158-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-van-hoa-the-thao-du-lich-quang-cao-213060.aspx\">158/2013/NĐ-CP</a> \nngày 12 tháng 11 năm 2013 của Chính phủ quy định về hành vi, thẩm quyền xử phạt\nvi phạm hành chính trong lĩnh vực văn hóa, thể thao, du lịch và quảng cáo; Nghị\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 28/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/nghi-dinh-28-2017-nd-cp-sua-doi-131-2013-nd-cp-158-2013-nd-cp-320512.aspx\">28/2017/NĐ-CP</a>  ngày 20/3/2017 của Chính phủ sửa đổi, bổ sung một số điều\ncủa Nghị định số <u>131/2013/NĐ-CP</u> ngày 16 tháng 10 năm 2013 của Chính phủ\nquy định xử phạt vi phạm hành chính về quyền tác giả, quyền liên quan và Nghị định\nsố 1<u>58/2013/NĐ-CP</u> ngày 12 tháng 11 năm 2013 của Chính phủ quy định về\nhành vi, thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể\nthao, du lịch và quảng cáo.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 98/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-98-2020-nd-cp-xu-phat-vi-pham-hanh-chinh-hoat-dong-san-xuat-buon-ban-hang-gia-406627.aspx\">98/2020/NĐ-CP</a>  ngày\n26/8/2020 của Chính phủ Quy định về hành vi, thẩm quyền xử phạt vi phạm hành\nchính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo\nvệ quyền lợi người tiêu dùng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Và các văn bản quy phạm pháp luật\ncó liên quan; Việc áp dụng xử lý vi phạm phải đúng quy định pháp luật, kết quả\nxử lý công bố công khai trên các phương tiện thông tin đại chúng theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_3\"><b>III. BÁO CÁO\nKẾT QUẢ KIỂM TRA, HẬU KIỂM</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Các Bộ: Y tế, Nông nghiệp và\nPhát triển nông thôn, Công Thương tổng hợp báo cáo kết quả kiểm tra, hậu kiểm của\ntoàn ngành; Sở Y tế các tỉnh, thành phố chủ trì phối hợp với các Sở: Nông nghiệp\nvà Phát triển nông thôn, Công Thương (các địa phương đã thành lập Ban Quản lý\nan toàn thực phẩm thì Ban Quản lý thực hiện) tham mưu cho Ban Chỉ đạo liên\nngành về an toàn thực phẩm tỉnh/thành phố tổng hợp báo cáo kết quả hậu kiểm về\nan toàn thực phẩm của toàn tỉnh/thành phố gửi Bộ Y tế (Cục An toàn thực phẩm) để\ntổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ và Trưởng Ban chỉ đạo liên\nngành Trung ương về an toàn thực phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Các mốc thời gian báo cáo</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với các đợt kiểm tra, hậu\nkiểm liên ngành (Tết Nguyên đán, Tháng hành động về an toàn thực phẩm) báo cáo\ntheo thời gian quy định ghi trong các bản Kế hoạch chi tiết triển khai hậu kiểm\ncủa từng đợt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Báo cáo 6 tháng: Trước ngày\n15/7/2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Báo cáo năm 2021: Trước ngày\n15/01/2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_4\"><b>IV. BẢO ĐẢM\nKINH PHÍ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kinh phí phục vụ cho công tác hậu\nkiểm về an toàn thực phẩm do ngân sách nhà nước ở Trung ương và địa phương bảo\nđảm theo quy định của Luật ngân sách Nhà nước và các nguồn kinh phí hợp pháp\nkhác. Việc sử dụng kinh phí thực hiện theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trên đây là Kế hoạch triển khai\ncông tác hậu kiểm về an toàn thực phẩm năm 2021, Ban Chỉ đạo liên ngành Trung\nương về an toàn thực phẩm đề nghị các Bộ, ngành và các địa phương triển khai thực\nhiện./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADMAMQA=-->\n <tbody><tr>\n  <td width=\"267\" valign=\"top\" style=\"width:200.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- PTTg Vũ Đức Đam (để báo cáo);<br>\n  - Bộ trưởng Nguyễn Thanh Long (để báo cáo);<br>\n  - Các Thành viên BCĐLNTƯ về ATTP;<br>\n  - Tổ Công tác giúp việc BCĐ LNTƯ về ATTP;<br>\n  - UBND các tỉnh, thành phố trực thuộc TƯ;<br>\n  - Sở Y tế, Ban QLATTP, Chi cục ATVSTP các tỉnh, TP trực thuộc TƯ;<br>\n  - Các Viện: DD, KNATVSTPQG, YTCC Tp. HCM, Pasteur Nha Trang, VSDT Tây Nguyên;<br>\n  - Báo SKĐS, Trung tâm TTGDSK Bộ Y tế;<br>\n  - Website Bộ Y tế, Cục An toàn thực phẩm;<br>\n  - Lưu: VT, ATTP.</span></p>\n  </td>\n  <td width=\"323\" valign=\"top\" style=\"width:242.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CƠ QUAN THƯỜNG\n  TRỰC BAN CHỈ ĐẠO<br>\n  KT. BỘ TRƯỞNG BỘ Y TẾ</b><br>\n  <b>THỨ TRƯỞNG</b><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  <b>Trương Quốc Cường</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n",
+  "mdContent": "**BAN CHỈ ĐẠO LIÊN NGÀNH TRUNG ƯƠNG VỀ AN TOÀN THỰC PHẨM  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 2069/KH-BCĐTƯATTP\n\n_Hà Nội, ngày 30 tháng 12 năm 2020_\n\n**KẾ HOẠCH**\n\nTRIỂN KHAI CÔNG TÁC HẬU KIỂM VỀ AN TOÀN THỰC PHẨM NĂM 2021\n\nTrong năm 2020 mặc dù bị ảnh hưởng bởi đại dịch Covid-19, thực hiện giãn cách xã hội phòng chống dịch bệnh, hạn chế, giảm hoạt động thanh tra, kiểm tra trong thời kỳ dịch bệnh theo Nghị quyết số [84/NQ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-quyet-84-nq-cp-2020-giai-phap-thao-go-kho-khan-cho-san-xuat-kinh-doanh-trong-boi-canh-covid-19-443850.aspx \"Nghị quyết 84/NQ-CP\") ngày 29/5/2020 của Chính phủ nhưng công tác hậu kiểm về an toàn thực phẩm đã được các Bộ, ngành và Uỷ ban nhân dân các tỉnh, thành phố trực thuộc trung ương chỉ đạo và triển khai thực hiện phù hợp với yêu cầu phòng chống dịch bệnh, cơ bản kiểm soát và ngăn chặn hành vi vi phạm pháp luật về an toàn thực phẩm, xử lý nghiêm tổ chức, cá nhân vi phạm. Trong năm 2020 đã hậu kiểm 469.083 cơ sở, đã xử lý 27.631 cơ sở, tổng số tiền phạt 138.23 tỷ; Giá trị tang vật thu giữ trên 28,5 tỷ đồng; Đình chỉ lưu hành 559 loại thực phẩm của 49 cơ sở; số cơ sở bị tiêu hủy sản phẩm: 1.894 cơ sở; tiêu hủy 5.689 loại thực phẩm do không đảm bảo chất lượng ATTP (thực phẩm không rõ nguồn gốc, xuất xứ, hết hạn sử dụng...), hàng hóa vi phạm bị tạm giữ trên 87 tấn (bao gồm các sản phẩm: bia, rượu, bánh kẹo, rau, củ quả, trứng gia cầm, thủy, hải sản, thịt lợn...); chuyển cơ quan điều tra 09 vụ việc có dấu hiệu sản xuất, kinh doanh hàng giả, sử dụng giấy tờ giả; khởi tố 07 vụ, 08 bị can về tội \"Vi phạm các quy định về ATTP\" theo Điều 317 Bộ luật Hình sự năm 2015 (được sửa đổi, bổ sung năm 2017).\n\nPhát huy những kết quả đã đạt được, nâng cao hiệu lực, hiệu quả công tác quản lý an toàn thực phẩm nhằm bảo đảm an toàn thực phẩm cho người dân, góp phần phát triển kinh tế - xã hội. Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm ban hành kế hoạch hậu kiểm về an toàn thực phẩm năm 2021 như sau:\n\n**A. MỤC ĐÍCH, YÊU CẦU**\n\n**I. Mục đích**\n\n1\\. Tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm ở các cấp, thông qua hoạt động hậu kiểm kịp thời phát hiện, ngăn chặn, xử lý các trường hợp vi phạm về an toàn thực phẩm, hạn chế ngộ độc thực phẩm và các bệnh truyền qua thực phẩm; triển khai hoạt động hậu kiểm có trọng tâm, trọng điểm; tiếp tục tăng cường trách nhiệm quản lý về an toàn thực phẩm trong tình hình mới theo Chỉ thị số [17/CT-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx \"Chỉ thị 17/CT-TTg\") ngày 13/4/2020 của Thủ tướng Chính phủ; tăng cường hiệu quả, hiệu lực quản lý nhà nước, chấn chỉnh hoạt động quảng cáo theo Chỉ thị số [17/CT-TTg](https://thuvienphapluat.vn/van-ban/thuong-mai/chi-thi-17-ct-ttg-2017-tang-cuong-quan-ly-nha-nuoc-chan-chinh-hoat-dong-quang-cao-348756.aspx \"Chỉ thị 17/CT-TTg\") ngày 09/5/2017 của Thủ tướng Chính phủ.\n\n2\\. Đánh giá việc chấp hành pháp luật về an toàn thực phẩm của các cơ sở sản xuất, kinh doanh, quảng cáo, nhập khẩu, bảo quản, vận chuyển thực phẩm; cơ sở sản xuất, kinh doanh, quảng cáo, nhập khẩu sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ; cơ sở kinh doanh dịch vụ ăn uống, đặc biệt là bếp ăn tập thể khu công nghiệp, trường học, cơ sở cung cấp suất ăn sẵn và an toàn thực phẩm tại các lễ hội, sự kiện lớn, kinh doanh thức ăn đường phố; kiểm soát hoạt động sản xuất, chế biến, kinh doanh, nhập khẩu thực phẩm và kiểm soát quảng cáo thực phẩm bảo vệ sức khỏe, thịt và các sản phẩm từ thịt, bia, rượu, cồn và đồ uống có cồn, nước giải khát, bánh, mứt, kẹo, rau, củ, quả, và sản phẩm rau củ quả, thủy sản, sản phẩm thủy sản, phụ gia thực phẩm v.v…và các sản phẩm thực phẩm theo sự phân công trách nhiệm quản lý của các Bộ: Y tế, Nông nghiệp và Phát triển nông thôn, Công Thương. Trên cơ sở đó, hướng dẫn các cơ sở sản xuất, kinh doanh thực phẩm thực hiện đảm bảo an toàn thực phẩm đúng theo quy định của pháp luật.\n\n3\\. Đánh giá tình hình về an toàn thực phẩm đối với các nhóm thực phẩm lưu thông trên thị trường nhằm định hướng giải pháp quản lý.\n\n4\\. Thông qua việc hậu kiểm tại các cơ sở sản xuất, kinh doanh, quảng cáo thực phẩm, đánh giá việc cấp các loại giấy phép về an toàn thực phẩm (Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, Giấy xác nhận nội dung quảng cáo, việc tự công bố sản phẩm, giấy tiếp nhận đăng ký bản công bố sản phẩm).\n\n5\\. Qua công tác hậu kiểm tiếp tục tuyên truyền chính sách pháp luật và các văn bản quy phạm pháp luật trong lĩnh vực an toàn thực phẩm: Điều 317 Luật sửa đổi, bổ sung một số điều của Bộ luật hình sự số 100/2015/QH13 có hiệu lực từ 01/01/2018; Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") ngày 02/02/2018; Nghị định [115/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham-360333.aspx \"Nghị định 115/2018/NĐ-CP\") ngày 04/9/2018; Nghị định [155/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-155-2018-nd-cp-sua-doi-quy-dinh-lien-quan-den-dieu-kien-kinh-doanh-thuoc-bo-y-te-399829.aspx \"Nghị định 155/2018/NĐ-CP\") ngày 12/11/2018; Nghị định [17/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-17-2020-nd-cp-sua-doi-nghi-dinh-lien-quan-dieu-kien-dau-tu-kinh-doanh-bo-cong-thuong-434382.aspx \"Nghị định 17/2020/NĐ-CP\") ngày 05/02/2020 sửa đổi, bổ sung một số điều của các Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc lĩnh vực quản lý nhà nước của Bộ Công Thương; Chỉ thị số [17/CT-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx \"Chỉ thị 17/CT-TTg\") ngày 13/4/2020 của Thủ tướng Chính phủ về tiếp tục tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm trong tình hình mới; Thông tư số 18/2019/TT- BYT ngày 17/7/2019 của Bộ Trưởng Bộ Y tế hướng dẫn thực hành sản xuất tốt (GMP) trong sản xuất, kinh doanh thực phẩm bảo vệ sức khỏe; Thông tư số [25/2019/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-25-2019-tt-byt-quy-dinh-ve-truy-xuat-nguon-goc-san-pham-thuc-pham-thuoc-quan-ly-bo-y-te-423280.aspx \"Thông tư 25/2019/TT-BYT\") ngày 30/8/2019 của Bộ Trưởng Bộ Y tế quy định truy xuất nguồn gốc sản phẩm thực phẩm thuộc lĩnh vực quản lý của Bộ Y tế; Thông tư số [43/2018/TT-BCT](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-43-2018-tt-bct-quan-ly-an-toan-thuc-pham-thuoc-trach-nhiem-cua-bo-cong-thuong-400848.aspx \"Thông tư 43/2018/TT-BCT\") của Bộ Công Thương quy định về quản lý an toàn thực phẩm thuộc trách nhiệm Bộ Công Thương và các văn bản quy phạm pháp luật khác mới ban hành.\n\n6\\. Công tác hậu kiểm phải ngăn chặn được cơ bản tình trạng sản xuất, nhập khẩu, kinh doanh thực phẩm không bảo đảm an toàn; quảng cáo thực phẩm vi phạm; phát hiện, xử lý nghiêm tổ chức, cá nhân vi phạm về an toàn thực phẩm và công khai trên phương tiện thông tin đại chúng, cổng công khai Bộ Y tế theo quy định.\n\n**II. Yêu cầu**\n\n1\\. Công tác hậu kiểm có trọng tâm, trọng điểm, tập trung hậu kiểm nhóm sản phẩm/sản phẩm thuộc diện tự công bố sản phẩm, đăng ký bản công bố sản phẩm, sản phẩm nhập khẩu thuộc diện miễn kiểm tra hoặc kiểm tra giảm và kiểm soát an toàn thực phẩm tại các cơ sở sản xuất, kinh doanh thực phẩm, kinh doanh dịch vụ ăn uống đặc biệt là các bếp ăn tập thể khu công nghiệp, trường học, lễ hội và các cơ sở thuộc diện không phải cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; các cơ sở đã được cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đạt yêu cầu thực hành sản xuất tốt (GMP) thực phẩm bảo vệ sức khỏe. Các hoạt động hậu kiểm phải được thực hiện thường xuyên, xử lý nghiêm các trường hợp vi phạm quy định của pháp luật về an toàn thực phẩm.\n\n2\\. Hậu kiểm hồ sơ tự công bố sản phẩm, đăng ký bản công bố sản phẩm, đánh giá nội dung ghi nhãn và chỉ tiêu an toàn cơ sở tự công bố sản phẩm/đăng ký bản công bố sản phẩm (hoặc các quy chuẩn, tiêu chuẩn, quy định pháp luật cơ sở công bố áp dụng). Hoạt động hậu kiểm hồ sơ tự công bố sản phẩm được thực hiện thường xuyên tại cơ quan tiếp nhận hồ sơ, xử lý nghiêm các trường hợp vi phạm quy định của pháp luật về tự công bố sản phẩm.\n\n3\\. Tăng cường xử lý vi phạm về quảng cáo thực phẩm bảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng và lấy mẫu kiểm nghiệm về chất lượng, các chỉ tiêu an toàn thực phẩm, tập trung lấy mẫu kiểm nghiệm các sản phẩm có nguy cơ pha trộn trái phép chất tân dược thuộc các nhóm sản phẩm: hỗ trợ người bị tăng huyết áp, đái tháo đường, đau xương khớp, mỡ máu, rối loạn cương dương, tăng cân, giảm cân (lấy mẫu tại các cơ sở sản xuất, kinh doanh và các sản phẩm được bán online).\n\n4\\. Tránh chồng chéo trong hoạt động hậu kiểm. Việc triển khai hậu kiểm của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công Thương theo trách nhiệm quản lý đối với sản phẩm/nhóm sản phẩm tại phụ lục II, III, IV Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") ngày 02/02/2018; Ủy ban nhân dân cấp tỉnh, thành phố trực thuộc Trung ương hậu kiểm theo trách nhiệm quy định tại Điều 40 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018, tập trung sản phẩm/nhóm sản phẩm và cơ sở sản xuất, kinh doanh thực phẩm phân cấp cho địa phương cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, tiếp nhận bản công bố sản phẩm.\n\n**B. NỘI DUNG KẾ HOẠCH**\n\n**I. Triển khai các cuộc hậu kiểm năm 2021**\n\n**1\\. Kiểm tra liên ngành**\n\n**1.1 Tại tuyến Trung ương**\n\nNăm 2021, Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm triển khai 02 đợt kiểm tra liên ngành về an toàn thực phẩm:\n\n\\- Kiểm tra liên ngành an toàn thực phẩm dịp Tết Nguyên đán Tân Sửu và mùa Lễ hội Xuân năm 2021.\n\n\\- Kiểm tra liên ngành an toàn thực phẩm trong Tháng hành động vì an toàn thực phẩm năm 2021.\n\nTrong dịp Tết trung thu, các Bộ: Y tế, Nông nghiệp và Phát triển nông thôn, Công Thương chủ động chỉ đạo các địa phương tăng cường công tác hậu kiểm đối với sản phẩm/nhóm sản phẩm thuộc trách nhiệm quản lý quy định tại Phụ lục II, III, IV Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") ngày 02/02/2018. Kết thúc đợt thanh tra, kiểm tra, Ban Chỉ đạo liên ngành tỉnh/thành phố báo cáo Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm (Bộ Công Thương chỉ đạo kiểm tra và tổng hợp báo cáo trong dịp Tết trung thu 2021).\n\n\\- Kiểm tra liên ngành trong các đợt cao điểm nêu trên, Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm sẽ ban hành kế hoạch để chỉ đạo các bộ, ngành và địa phương tổ chức các đoàn kiểm tra với thành phần đủ mạnh, gồm:\n\n\\+ Các Bộ, ngành là thành viên Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm và các Bộ, ngành chức năng có liên quan;\n\n\\+ Các cơ sở kiểm nghiệm an toàn thực phẩm của Bộ Y tế và các Bộ quản lý chuyên ngành, trường hợp cần thiết sẽ trưng tập các labo khác có khả năng kiểm nghiệm an toàn thực phẩm để phục vụ công tác quản lý nhà nước về an toàn thực phẩm.\n\n**1.2. Tại địa phương:**\n\nCăn cứ vào kế hoạch của Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm, Ban Chỉ đạo liên ngành an toàn thực phẩm các tỉnh, thành phố trực thuộc Trung ương giao Sở Y tế chủ trì, phối hợp với các sở, ngành liên quan xây dung kế hoạch của Ban Chỉ đạo (đối với địa phương đã thành lập Ban Quản lý an toàn thực phẩm, Ban Quản lý tham mưu xây dựng kế hoạch) và triển khai thực hiện kế hoạch hậu kiểm thường xuyên liên tục về tự công bố sản phẩm/đăng ký bản công bố sản phẩm, sản xuất, kinh doanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm sản phẩm tại Phụ lục II, III, IV và theo đúng nguyên tắc phân công trách nhiệm quản lý nhà nước về an toàn thực phẩm quy định tại Điều 36 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018; hậu kiểm cơ sở kinh doanh dịch vụ ăn uống, thức ăn đường phố theo phân công trách nhiệm quản lý an toàn thực phẩm quy định tại Điều 40 Nghị định số 15/2018/NĐ-CP; đồng thời phối hợp chặt chẽ với các đoàn hậu kiểm của Trung ương khi hậu kiểm trên địa bàn.\n\n**2\\. Hậu kiểm trong ngành Y tế**\n\n2.1 Tại Trung ương\n\nBộ Y tế giao Cục An toàn thực phẩm phối hợp với các Viện (Viện Kiểm nghiệm an toàn vệ sinh thực phẩm quốc gia, Viện Dinh dưỡng, Viện Y tế công cộng thành phố Hồ Chí Minh, Viện Pasteur Nha Trang, Viện Vệ sinh dịch tễ Tây Nguyên), các lực lượng chức năng thuộc Bộ Công an và đơn vị liên quan triển khai hậu kiểm về công bố, sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe, sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ. Chỉ đạo cơ quan chức năng thuộc Ủy ban nhân dân cấp tỉnh hậu kiểm về tự công bố sản phẩm/đăng ký bản công bố sản phẩm, sản xuất, kinh doanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm sản phẩm tại Phụ lục II Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") (trọng tâm là các nhóm sản phẩm nêu tại Mục 3.II phần A Kế hoạch này) và nhóm cơ sở quy định tại các khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018, cụ thể như sau:\n\na) Quý I năm 2021:\n\n\\- Kiểm tra liên ngành về an toàn thực phẩm trong dịp tết Nguyên đán Tân Sửu và mùa Lễ hội Xuân 2021.\n\n\\- Hậu kiểm về quảng cáo thực phẩm bảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.\n\n\\- Hậu kiểm việc chấp hành quy định về an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe.\n\nb) Quý II năm 2021:\n\n\\- Kiểm tra liên ngành trong Tháng hành động vì an toàn thực phẩm 2021.\n\n\\- Hậu kiểm việc chấp hành quy định về an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe.\n\n\\- Hậu kiểm về quảng cáo thực phẩm bảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.\n\n\\- Hậu kiểm việc chấp hành quy định về an toàn thực phẩm đối với các cơ sở sản xuất, kinh doanh, nhập khẩu, công bố, quảng cáo sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ.\n\nc) Quý III năm 2021:\n\n\\- Hậu kiểm việc chấp hành quy định về an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe.\n\n\\- Hậu kiểm về quảng cáo thực phẩm bảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.\n\nd) Quý IV năm 2021:\n\n\\- Hậu kiểm việc chấp hành quy định về an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe.\n\n\\- Hậu kiểm về quảng cáo thực phẩm bảo vệ sức khỏe trên các báo, đài; trên Internet và môi trường mạng.\n\n\\- Hậu kiểm về hồ sơ công bố trên hệ thống phần mềm dịch vụ công trực tuyến mức độ 4.\n\n\\- Kiểm tra trách nhiệm quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số [13/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&match=True&area=2&lan=1 \"13/CT-TTg\") và Chỉ thị số [17/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=17/CT-TTg&match=True&area=2&lan=1 \"17/CT-TTg\") của Thủ tướng Chính phủ đối với 02 Chi cục An toàn thực phẩm.\n\nTrong năm 2021, ngoài việc hậu kiểm theo kế hoạch, Bộ Y tế sẽ tăng cường hậu kiểm đột xuất đối với cơ sở sản xuất, kinh doanh thực phẩm thuộc phạm vi quản lý ngành.\n\n_(Cục An toàn thực phẩm - Bộ Y tế xây dựng kế hoạch chi tiết để thực hiện công tác hậu kiểm tại mục 2.1, triển khai các cuộc thanh tra theo kế hoạch đã được Bộ trưởng Bộ Y tế phê duyệt)._\n\n2.2 Tại các địa phương\n\nSở Y tế các tỉnh, thành phố trực thuộc trung ương, Ban quản lý an toàn thực phẩm Thành phố Hồ Chí Minh, Đà Nẵng, Bắc Ninh tham mưu cho Ủy ban nhân dân cấp tỉnh/ Ban Chỉ đạo liên ngành an toàn thực phẩm tỉnh xây dựng kế hoạch hậu kiểm đối với cơ sở sản xuất, kinh doanh thực phẩm trên địa bàn, tập trung kiểm soát bảo đảm an toàn thực phẩm, phòng chống ngộ độc thực phẩm tại các bếp ăn tập thể khu công nghiệp, trường học, lễ hội và các sự kiện lớn; hậu kiểm về tự công bố sản phẩm, đăng ký bản công bố sản phẩm, sản xuất, kinh doanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm sản phẩm tại Phụ lục II Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") và nhóm cơ sở quy định tại các khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP; hậu kiểm việc chấp hành quy định về an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm bảo vệ sức khỏe (trên các báo, đài; trên Internet và môi trường mạng); cơ sở sản xuất, kinh doanh thực phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt; cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo sản phẩm thực phẩm bổ sung và sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ; cơ sở kinh doanh dịch vụ ăn uống thức ăn đường phố trên địa bàn tỉnh.\n\n2.3 Viện Kiểm nghiệm an toàn vệ sinh thực phẩm quốc gia, Viện Dinh dưỡng, Viện Y tế công cộng thành phố Hồ Chí Minh, Viện Pasteur Nha Trang, Viện Vệ sinh dịch tễ Tây Nguyên phối hợp với Cục An toàn thực phẩm và cơ quan quản lý an toàn thực phẩm các địa phương tiến hành lấy mẫu theo quy định tại Thông tư 14/2011/BYT-TT ngày 01/4/2011 của Bộ trưởng Bộ Y tế hướng dẫn chung về lấy mẫu thực phẩm phục vụ thanh tra, kiểm tra chất lượng vệ sinh an toàn thực phẩm.\n\n**3\\. Hậu kiểm trong ngành Nông nghiệp và Phát triển nông thôn**\n\n3.1. Tại Trung ương\n\nTăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm trong tình hình mới theo Chỉ thị số [17/CT-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx \"Chỉ thị 17/CT-TTg\") ngày 13/4/2020 của Thủ tướng Chính phủ, Bộ Nông nghiệp và Phát triển nông thôn giao các đơn vị chức năng của Bộ phối hợp với các cơ quan chức năng liên quan hậu kiểm và chỉ đạo kiểm tra, hậu kiểm về tự công bố sản phẩm, sản xuất, kinh doanh, nhập khẩu, quảng cáo, lấy mẫu kiểm nghiệm các sản phẩm/nhóm sản phẩm tại Phụ lục III Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") và nhóm cơ sở quy định tại các khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018; Hậu kiểm đối với những cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm quy định tại Điều 12 Nghị định số 15/2015/NĐ-CP; Hậu kiểm tại thị trường đối với các nhóm sản phẩm/sản phẩm thuộc diện tự công bố sản phẩm, sản phẩm nhập khẩu thuộc diện miễn kiểm tra hoặc kiểm tra giảm thuộc phạm vi quản lý của Bộ.\n\na) Quý I năm 2021:\n\nThực hiện theo kế hoạch chung của Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm trong dịp tết Nguyên đán Tân Sửi và mùa Lễ hội Xuân 2021. Hậu kiểm an toàn thực phẩm các sản phẩm Thịt và sản phẩm từ thịt; Rau, củ, quả và sản phẩm rau, củ, quả.\n\nb) Quý II năm 2021:\n\nKiểm tra, an toàn thực phẩm trong Tháng hành động vì an toàn thực phẩm. Hậu kiểm chuyên ngành về an toàn thực phẩm nông sản thực phẩm khác; Thủy sản và sản phẩm thủy sản, các thực phẩm theo sự phân công quản lý ngành.\n\nc) Quý III năm 2021:\n\nHậu kiểm an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản thực phẩm có nguồn gốc động vật, thực vật nhập khẩu.\n\nd) Quý IV năm 2021:\n\nHậu kiểm chuyên ngành về an toàn thực phẩm nông sản thực phẩm khác và sản phẩm thủy sản. Chủ trì tổ chức kiểm tra, hậu kiểm hoạt động sản xuất, kinh doanh thực phẩm theo phân công quản lý về an toàn thực phẩm.\n\nđ) Kiểm tra, đánh giá phân loại thường xuyên, liên tục trong năm 2021 tăng cường công tác kiểm tra, hậu kiểm đột xuất đối với cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản thuộc phạm vi quản lý ngành, đặc biệt khi phát hiện có dấu hiệu vi phạm cụ thể, có nguy cơ gây mất an toàn thực phẩm và ảnh hưởng sức khỏe người tiêu dùng.\n\nChủ trì kiểm tra công tác quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số [13/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&match=True&area=2&lan=1 \"13/CT-TTg\") và Chỉ thị số [17/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=17/CT-TTg&match=True&area=2&lan=1 \"17/CT-TTg\") của Thủ tướng Chính phủ đối với các tỉnh đại diện vùng miền trong cả nước.\n\nTrong năm 2021, ngoài việc hậu kiểm theo kế hoạch, Bộ Nông nghiệp và Phát triển nông thôn sẽ tăng cường hậu kiểm đột xuất đối với cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản thuộc phạm vi quản lý ngành.\n\n3.2. Tại các địa phương\n\nCăn cứ Kế hoạch của Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Nông nghiệp và Phát triển nông thôn trình cấp có thẩm quyền phê duyệt kế hoạch và chỉ đạo Chi cục Quản lý chất lượng Nông lâm sản và Thủy sản, Chi cục Chăn nuôi và Thú y, Chi cục Trồng trọt và Bảo vệ thực vật phối hợp với Thanh tra Sở và các đơn vị liên quan triển khai hậu kiểm tại các cơ sở thực phẩm thuộc phạm vi quản lý ngành.\n\n**4\\. Hậu kiểm trong ngành Công Thương**\n\n4.1. Tại Trung ương\n\nTăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm trong tình hình mới theo Chỉ thị số [17/CT-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-17-ct-ttg-2020-trach-nhiem-quan-ly-nha-nuoc-an-toan-thuc-pham-trong-tinh-hinh-moi-439732.aspx \"Chỉ thị 17/CT-TTg\") ngày 13/4/2020 của Thủ tướng Chính phủ, Bộ Công Thương giao các đơn vị chức năng của Bộ phối hợp với các cơ quan chức năng liên quan hậu kiểm và chỉ đạo hậu kiểm về tự công bố sản phẩm, điều kiện bảo đảm an toàn thực phẩm, xuất nhập khẩu thực phẩm, ghi nhãn thực phẩm, quảng cáo thực phẩm, sử dụng phụ gia thực phẩm, truy xuất nguồn gốc thực phẩm và lấy mẫu kiểm nghiệm đối với các sản phẩm/nhóm sản phẩm tại Phụ lục IV Nghị định số [15/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham-341254.aspx \"Nghị định 15/2018/NĐ-CP\") và nhóm cơ sở quy định tại các khoản 8, 9 và 10 Điều 36 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018.\n\na) Quý I năm 2021:\n\nKiểm tra về an toàn thực phẩm trong dịp tết Nguyên đán Tân Sửi và Mùa lễ hội Xuân năm 2021.\n\nChủ trì kiểm tra công tác quản lý nhà nước về an toàn thực phẩm theo Chỉ thị số [13/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&match=True&area=2&lan=1 \"13/CT-TTg\") và Chỉ thị số [17/CT-TTg](/phap-luat/tim-van-ban.aspx?keyword=17/CT-TTg&match=True&area=2&lan=1 \"17/CT-TTg\") của Thủ tướng Chính phủ đối với các tỉnh đại diện vùng miền trong cả nước.\n\nb) Quý II năm 2021:\n\nKiểm tra an toàn thực phẩm trong Tháng hành động vì an toàn thực phẩm; hậu kiểm chuyên ngành cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu và đồ uống có cồn, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý ngành.\n\nKiểm tra các cơ sở hoạt động kinh doanh đa cấp, thương mại điện tử đối với cơ sở sản xuất, kinh doanh, quảng cáo thực phẩm, chú trọng nhóm thực phẩm bảo vệ sức khỏe, thực phẩm bổ sung, thực phẩm tăng cường vi chất dinh dưỡng, sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ.\n\nc) Quý III năm 2021:\n\nKiểm tra an toàn thực phẩm trong dịp Tết Trung thu; hậu kiểm chuyên ngành cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu và đồ uống có cồn, bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột, bánh, mứt, kẹo và các thực phẩm khác thuộc phạm vi quản lý ngành.\n\nƯu tiên hậu kiểm, không dàn trải, tập trung vào một số mặt hàng, địa bàn trọng điểm.\n\nd) Quý IV năm 2021:\n\nHậu kiểm các cơ sở sản xuất, chế biến, bảo quản, vận chuyển, xuất khẩu, nhập khẩu, kinh doanh đối với các loại rượu và đồ uống có cồn; bia, nước giải khát, sữa chế biến, dầu thực vật, sản phẩm chế biến bột và tinh bột và các thực phẩm khác thuộc phạm vi quản lý ngành.\n\n4.2. Tại các địa phương\n\nCăn cứ Kế hoạch của Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm và tình hình thực tế tại địa phương, Sở Công Thương trình cấp có thẩm quyền phê duyệt Kế hoạch và chỉ đạo Thanh tra Sở phối hợp với các đơn vị liên quan triển khai hậu kiểm tại các cơ sở thực phẩm thuộc phạm vi quản lý của ngành.\n\n**II. Trọng tâm các hoạt động hậu kiểm**\n\n**1\\. Hậu kiểm bảo đảm chất lượng thực phẩm**\n\na) Tập trung kiểm soát chất lượng thực phẩm các khâu: Nguồn gốc nguyên liệu, vận chuyển, bảo quản; quá trình sản xuất, chế biến; nhập khẩu và lưu thông trên thị trường; việc sử dụng phụ gia thực phẩm, chất hỗ trợ chế biến, hương liệu, phẩm màu trong chế biến thực phẩm; chất cấm trong chăn nuôi; sử dụng kháng sinh, dư lượng thuốc bảo vệ thực vật, thuốc thú y, phân bón, thức ăn chăn nuôi, hoạt động giết mổ gia súc, gia cầm nhỏ lẻ; tiếp tục kiểm soát việc sử dụng salbutamol trong chăn nuôi; kiểm soát thực phẩm là hàng giả, không rõ nguồn gốc xuất xứ, hết hạn sử dụng, nhập lậu; kiểm soát hoạt động kinh doanh đa cấp, thương mại điện tử đối với thực phẩm, chú trọng nhóm thực phẩm bảo vệ sức khỏe, thực phẩm bổ sung, thực phẩm tăng cường vi chất dinh dưỡng; kiểm soát các nhóm sản phẩm thực phẩm bảo vệ sức khỏe theo văn bản số [1693/BYT-QLD](https://thuvienphapluat.vn/cong-van/the-thao-y-te/cong-van-1693-byt-qld-2019-kiem-soat-chat-luong-thuoc-duoc-lieu-thuc-pham-chuc-nang-437041.aspx \"Công văn 1693/BYT-QLD\") ngày 29/3/2019 của Bộ Y tế.\n\nb) Tăng cường lấy mẫu và kiểm nghiệm sản phẩm thực phẩm. Đặc biệt là sản phẩm thực phẩm bảo vệ sức khỏe nhóm sản phẩm có nguy cơ pha trộn chất tân dược thuộc các nhóm: hỗ trợ người bị tăng huyết áp, đái tháo đường, đau xương khớp, mỡ máu, rối loạn cương dương, tăng cân, giảm cân.\n\n**2\\. Đối với cơ sở sản xuất, kinh doanh, nhập khẩu, quảng cáo thực phẩm**\n\na) Hậu kiểm các quy định về:\n\nCông bố sản phẩm đối với sản phẩm thực phẩm; thực phẩm bảo vệ sức khỏe; thực phẩm dinh dưỡng y học; thực phẩm dùng cho chế độ ăn đặc biệt; sản phẩm dinh dưỡng công thức dùng cho trẻ nhỏ; phụ gia thực phẩm hỗn hợp có công dụng mới, phụ gia thực phẩm không thuộc danh mục phụ gia được phép sử dụng trong thực phẩm hoặc không đúng đối tượng sử dụng do Bộ Y tế quy định. Phụ gia, hương liệu, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng tiếp xúc trực tiếp với thực phẩm. Các địa phương tập trung hậu kiểm Hồ sơ tự công bố sản phẩm tại cơ quan tiếp nhận hồ sơ.\n\nb) Tập trung hậu kiểm:\n\n\\- Hậu kiểm về công bố sản phẩm: Việc thực hiện các quy định về tự công bố sản phẩm/đăng ký bản công bố sản phẩm, trình tự công bố sản phẩm, phiếu kết quả kiểm nghiệm và các hồ sơ, tài liệu pháp lý quy định tại Chương II và Chương III Nghị định số 15/2018/NĐ-CP ngày 02/02/2018.\n\n\\- Hậu kiểm về điều kiện bảo đảm an toàn thực phẩm: hậu kiểm cơ sở thuộc diện cấp và không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, trong đó chú trọng hậu kiểm đối với cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm quy định tại Khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018.\n\n\\- Hậu kiểm đối với thực phẩm nhập khẩu: hậu kiểm, lấy mẫu kiểm nghiệm theo thứ tự ưu tiên sau: Các sản phẩm thuộc diện miễn kiểm tra nhà nước về an toàn thực phẩm nhập khẩu quy định tại Khoản 1 Điều 13 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018, sản phẩm/lô hàng áp dụng phương thức kiểm tra giảm, sản phẩm/lô hàng áp dụng phương thức kiểm tra thông thường (đối với các sản phẩm/nhóm sản phẩm tại Phụ lục II, III, IV Nghị định số 15/2018/NĐ-CP).\n\n\\- Hậu kiểm về ghi nhãn thực hiện theo quy định tại Chương VII Nghị định số 15/2018/NĐ-CP ngày 02/02/2018.\n\n\\- Hậu kiểm về quảng cáo: hậu kiểm về quảng cáo đối với các nhóm thực phẩm phải đăng ký nội dung trước khi thực hiện quảng cáo quy định tại Điều 26 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018.\n\n\\- Hậu kiểm về sản xuất, kinh doanh và sử dụng phụ gia thực phẩm thực hiện theo quy định tại Chương X Nghị định số 15/2018/NĐ-CP ngày 02/02/2018.\n\n\\- Hậu kiểm về truy xuất nguồn gốc thực phẩm thực hiện theo quy định tại Chương XI Nghị định số 15/2018/NĐ-CP ngày 02/02/2018 và Thông tư số [25/2019/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-25-2019-tt-byt-quy-dinh-ve-truy-xuat-nguon-goc-san-pham-thuc-pham-thuoc-quan-ly-bo-y-te-423280.aspx \"Thông tư 25/2019/TT-BYT\") ngày 30/8/2019 của Bộ trưởng Bộ Y tế quy định truy xuất nguồn gốc sản phẩm thực phẩm thuộc lĩnh vực quản lý của Bộ Y tế.\n\n\\- Đối với cơ sở kinh doanh dịch vụ ăn uống, thức ăn đường phố: Hậu kiểm việc chấp hành các quy định chung về bảo đảm an toàn thực phẩm, các yêu cầu về điều kiện bảo đảm an toàn thực phẩm; việc sử dụng phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, nguyên liệu thực phẩm; kiểm soát bảo đảm an toàn thực phẩm tại các bếp ăn tập thể khu công nghiệp, trường học, các cơ sở cung cấp suất ăn sẵn, khu du lịch, lễ hội, sự kiện lớn và thức ăn đường phố.\n\n**3\\. Đối với cơ quan quản lý về an toàn thực phẩm**\n\nKiểm tra trách nhiệm quản lý nhà nước của các cơ quan quản lý an toàn thực phẩm tại địa phương tập trung các nội dung: Việc triển khai công tác bảo đảm an toàn thực phẩm theo chức năng, nhiệm vụ; cấp, thu hồi bản công bố sản phẩm và sản phẩm thuộc đối tượng tự công bố sản phẩm/đăng ký bản công bố sản phẩm, giấy xác nhận nội dung quảng cáo, giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; công tác thông tin, giáo dục, truyền thông về an toàn thực phẩm; công tác thanh tra, kiểm tra, hậu kiểm và xử lý vi phạm.\n\n**4\\. Trách nhiệm quản lý nhà nước về an toàn thực phẩm và xử lý vi phạm hành chính trong lĩnh vực an toàn thực phẩm:**\n\nTrách nhiệm quản lý nhà nước về an toàn thực phẩm của các Bộ ngành được quy định tại Điều 62;63;64 Luật An toàn thực phẩm và Điều 37,38,39 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018; Trách nhiệm quản lý nhà nước của Ủy ban nhân dân các cấp được quy định tại Điều 65 Luật An toàn thực phẩm và Điều 40 Nghị định số 15/2018/NĐ-CP ngày 02/02/2018; Cơ quan kiểm tra an toàn thực phẩm, trách nhiệm và quyền hạn của cơ quan kiểm tra, đoàn kiểm tra, xử lý kết quả kiểm tra được quy định tại Thông tư số [48/2015/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-48-2015-tt-byt-kiem-tra-an-toan-ve-sinh-thuc-pham-san-xuat-kinh-doanh-thuc-pham-297660.aspx \"Thông tư 48/2015/TT-BYT\") ngày 01/12/2015 của Bộ Y tế.\n\nCác đoàn hậu kiểm khi phát hiện vi phạm phải xử lý theo đúng quy định của pháp luật; Các cơ quan có thẩm quyền ở Trung ương và địa phương áp dụng các hình thức xử phạt bổ sung, biện pháp khắc phục hậu quả mạnh mẽ, quyết liệt như: đình chỉ hoạt động của cơ sở sản xuất, kinh doanh vi phạm quy định về an toàn thực phẩm; tịch thu tang vật, tạm dừng lưu thông, thu hồi, tiêu hủy sản phẩm vi phạm về an toàn thực phẩm; áp dụng thu hồi các loại giấy chứng nhận đã cấp theo thẩm quyền.\n\nThông qua công tác hậu kiểm, phát hiện, ngăn chặn kịp thời vi phạm về an toàn thực phẩm, không để thực phẩm không bảo đảm an toàn, không rõ nguồn gốc xuất xứ, nhập lậu lưu thông trên thị trường.\n\nKết hợp hậu kiểm với tuyên truyền quy định xử lý hình sự đối với tội vi phạm quy định về an toàn thực phẩm theo Điều 317 Bộ luật hình sự năm 2015 sửa đổi năm 2017. Các văn bản quy phạm pháp luật áp dụng xử lý:\n\nLuật Xử lý vi phạm hành chính số 15/2012/QH13 ngày 20 tháng 6 năm 2012; Nghị định số [81/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-81-2013-nd-cp-huong-dan-va-bien-phap-thi-hanh-luat-xu-ly-vi-pham-hanh-chinh-202111.aspx \"Nghị định 81/2013/NĐ-CP\") ngày 19/7/2013 của Chính phủ Quy định chi tiết một số điều và biện pháp thi hành luật xử lý vi phạm hành chính và Nghị định số [97/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-97-2017-nd-cp-sua-doi-81-2013-nd-cp-huong-dan-luat-xu-ly-vi-pham-hanh-chinh-2016-320311.aspx \"Nghị định 97/2017/NĐ-CP\") ngày 18/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [81/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-81-2013-nd-cp-huong-dan-va-bien-phap-thi-hanh-luat-xu-ly-vi-pham-hanh-chinh-202111.aspx \"Nghị định 81/2013/NĐ-CP\") ngày 19/7/2013 của Chính phủ Quy định chi tiết một số điều và biện pháp thi hành luật xử lý vi phạm hành chính.\n\nNghị định [115/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham-360333.aspx \"Nghị định 115/2018/NĐ-CP\") ngày 04/9/2018 quy định về hành vi, thẩm quyền xử phạt vi phạm hành chính về an toàn thực phẩm.\n\nNghị định số [119/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-119-2017-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-tieu-chuan-do-luong-343705.aspx \"Nghị định 119/2017/NĐ-CP\") ngày 01/11/2017 của Chính phủ Quy định về hành vi, thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực tiêu chuẩn, đo lường và chất lượng sản phẩm, hàng hóa.\n\nNghị định số [158/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-158-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-van-hoa-the-thao-du-lich-quang-cao-213060.aspx \"Nghị định 158/2013/NĐ-CP\") ngày 12 tháng 11 năm 2013 của Chính phủ quy định về hành vi, thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể thao, du lịch và quảng cáo; Nghị định số [28/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/so-huu-tri-tue/nghi-dinh-28-2017-nd-cp-sua-doi-131-2013-nd-cp-158-2013-nd-cp-320512.aspx \"Nghị định 28/2017/NĐ-CP\") ngày 20/3/2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 131/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính về quyền tác giả, quyền liên quan và Nghị định số 158/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định về hành vi, thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực văn hóa, thể thao, du lịch và quảng cáo.\n\nNghị định số [98/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-98-2020-nd-cp-xu-phat-vi-pham-hanh-chinh-hoat-dong-san-xuat-buon-ban-hang-gia-406627.aspx \"Nghị định 98/2020/NĐ-CP\") ngày 26/8/2020 của Chính phủ Quy định về hành vi, thẩm quyền xử phạt vi phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng.\n\nVà các văn bản quy phạm pháp luật có liên quan; Việc áp dụng xử lý vi phạm phải đúng quy định pháp luật, kết quả xử lý công bố công khai trên các phương tiện thông tin đại chúng theo quy định.\n\n**III. BÁO CÁO KẾT QUẢ KIỂM TRA, HẬU KIỂM**\n\n1\\. Các Bộ: Y tế, Nông nghiệp và Phát triển nông thôn, Công Thương tổng hợp báo cáo kết quả kiểm tra, hậu kiểm của toàn ngành; Sở Y tế các tỉnh, thành phố chủ trì phối hợp với các Sở: Nông nghiệp và Phát triển nông thôn, Công Thương (các địa phương đã thành lập Ban Quản lý an toàn thực phẩm thì Ban Quản lý thực hiện) tham mưu cho Ban Chỉ đạo liên ngành về an toàn thực phẩm tỉnh/thành phố tổng hợp báo cáo kết quả hậu kiểm về an toàn thực phẩm của toàn tỉnh/thành phố gửi Bộ Y tế (Cục An toàn thực phẩm) để tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ và Trưởng Ban chỉ đạo liên ngành Trung ương về an toàn thực phẩm.\n\n2\\. Các mốc thời gian báo cáo\n\na) Đối với các đợt kiểm tra, hậu kiểm liên ngành (Tết Nguyên đán, Tháng hành động về an toàn thực phẩm) báo cáo theo thời gian quy định ghi trong các bản Kế hoạch chi tiết triển khai hậu kiểm của từng đợt.\n\nb) Báo cáo 6 tháng: Trước ngày 15/7/2021.\n\nc) Báo cáo năm 2021: Trước ngày 15/01/2022.\n\n**IV. BẢO ĐẢM KINH PHÍ**\n\nKinh phí phục vụ cho công tác hậu kiểm về an toàn thực phẩm do ngân sách nhà nước ở Trung ương và địa phương bảo đảm theo quy định của Luật ngân sách Nhà nước và các nguồn kinh phí hợp pháp khác. Việc sử dụng kinh phí thực hiện theo quy định.\n\nTrên đây là Kế hoạch triển khai công tác hậu kiểm về an toàn thực phẩm năm 2021, Ban Chỉ đạo liên ngành Trung ương về an toàn thực phẩm đề nghị các Bộ, ngành và các địa phương triển khai thực hiện./.\n\n**_  \nNơi nhận:  \n_**\\- PTTg Vũ Đức Đam (để báo cáo);  \n\\- Bộ trưởng Nguyễn Thanh Long (để báo cáo);  \n\\- Các Thành viên BCĐLNTƯ về ATTP;  \n\\- Tổ Công tác giúp việc BCĐ LNTƯ về ATTP;  \n\\- UBND các tỉnh, thành phố trực thuộc TƯ;  \n\\- Sở Y tế, Ban QLATTP, Chi cục ATVSTP các tỉnh, TP trực thuộc TƯ;  \n\\- Các Viện: DD, KNATVSTPQG, YTCC Tp. HCM, Pasteur Nha Trang, VSDT Tây Nguyên;  \n\\- Báo SKĐS, Trung tâm TTGDSK Bộ Y tế;  \n\\- Website Bộ Y tế, Cục An toàn thực phẩm;  \n\\- Lưu: VT, ATTP.\n\n**CƠ QUAN THƯỜNG TRỰC BAN CHỈ ĐẠO  \nKT. BỘ TRƯỞNG BỘ Y TẾ**  \n**THỨ TRƯỞNG**  \n  \n  \n  \n  \n**Trương Quốc Cường**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,401 @@
+{
+  "title": "Kế hoạch 502/KH-UBND năm 2021 về quản lý thuế và giải pháp chống thất thu thuế đối với hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng công nghệ số trên địa bàn tỉnh Bắc Kạn",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 126/2020/NĐ-CP về hướng dẫn Luật Quản lý thuế",
+      "id": "126/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-10-19",
+      "effectiveDate": "2020-12-05",
+      "gazetteDate": "2020-11-02",
+      "gazetteNumber": "Từ số 1019 đến số 1020",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1811/QĐ-UBND năm 2020 về Kế hoạch Phát triển thương mại điện tử tỉnh Bắc Kạn giai đoạn 2021-2025",
+      "id": "1811/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Đỗ Thị Minh Hoa"
+      ],
+      "issuedDate": "2020-10-07",
+      "effectiveDate": "2020-10-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý thuế 2019",
+      "id": "38/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-07-18",
+      "gazetteNumber": "Từ số 561 đến số 562",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 72/2013/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng",
+      "id": "72/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-15",
+      "effectiveDate": "2013-09-01",
+      "gazetteDate": "2013-07-31",
+      "gazetteNumber": "Từ số 443 đến số 444",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 52/2013/NĐ-CP về thương mại điện tử",
+      "id": "52/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-05-16",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2013-05-29",
+      "gazetteNumber": "Từ số 289 đến số 290",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 102/2010/TTLT-BTC-NHNN hướng dẫn về việc trao đổi, cung cấp thông tin giữa cơ quan quản lý thuế và các tổ chức tín dụng do Bộ Tài chính - Ngân hàng Nhà nước Việt Nam ban hành",
+      "id": "102/2010/TTLT-BTC-NHNN",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính, Ngân hàng Nhà nước",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn",
+        "Nguyễn Toàn Thắng"
+      ],
+      "issuedDate": "2010-07-14",
+      "effectiveDate": "2010-08-28",
+      "gazetteDate": "2010-08-09",
+      "gazetteNumber": "Từ số 451 đến số 452",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Giao dịch điện tử 2005",
+      "id": "51/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-03-01",
+      "gazetteDate": "2005-12-27",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 1095/QĐ-UBND năm 2023 phê duyệt Đề án “Tăng cường giải pháp chống thất thu thuế đối với hoạt động kinh doanh vận tải bằng xe ô tô trên địa bàn tỉnh Trà Vinh”",
+      "id": "1095/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Trà Vinh",
+      "signers": [
+        "Lê Văn Hẳn"
+      ],
+      "issuedDate": "2023-07-19",
+      "effectiveDate": "2023-07-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 144/KH-UBND về thu ngân sách và giải pháp chống thất thu ngân sách nhà nước năm 2023 do tỉnh Bắc Kạn ban hành",
+      "id": "144/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Nguyễn Đăng Bình"
+      ],
+      "issuedDate": "2023-03-03",
+      "effectiveDate": "2023-03-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 1399/KH-UBND năm 2022 về quản lý thuế đối với hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng số trên địa bàn tỉnh Bình Thuận",
+      "id": "1399/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Phan Văn Đăng"
+      ],
+      "issuedDate": "2022-05-11",
+      "effectiveDate": "2022-05-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 03/KH-UBND năm 2022 về tăng cường công tác quản lý thuế đối với hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng công nghệ số trên địa bàn tỉnh Quảng Ngãi",
+      "id": "03/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Võ Phiên"
+      ],
+      "issuedDate": "2022-01-12",
+      "effectiveDate": "2022-01-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 3412/KH-UBND năm 2021 về tăng cường quản lý thuế đối với hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng số trên địa bàn tỉnh Kon Tum",
+      "id": "3412/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Ngọc Sâm"
+      ],
+      "issuedDate": "2021-09-23",
+      "effectiveDate": "2021-09-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 2390/QĐ-UBND năm 2021 về Đề án “Tăng cường công tác chống thất thu thuế đối với hoạt động khai thác tài nguyên khoáng sản trên địa bàn tỉnh Lâm Đồng”",
+      "id": "2390/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Trần Văn Hiệp"
+      ],
+      "issuedDate": "2021-09-22",
+      "effectiveDate": "2021-09-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2374/QĐ-UBND năm 2021 phê duyệt Đề án “Tăng cường giải pháp chống thất thu thuế đối với hoạt động kinh doanh vận tải bằng xe ô tô trên địa bàn tỉnh Lâm Đồng\"",
+      "id": "2374/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Trần Văn Hiệp"
+      ],
+      "issuedDate": "2021-09-22",
+      "effectiveDate": "2021-09-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 21/CT-UBND năm 2021 về tăng cường công tác quản lý thuế đối với các tổ chức, cá nhân có hoạt động mua bán, cung cấp hàng hóa, dịch vụ trên nền tảng số do tỉnh Thừa Thiên Huế ban hành",
+      "id": "21/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Nguyễn Văn Phương"
+      ],
+      "issuedDate": "2021-08-13",
+      "effectiveDate": "2021-08-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 231/KH-UBND năm 2021 về quản lý thuế đối với các hoạt động kinh doanh thương mại điện tử và kinh doanh trên nền tảng công nghệ số trên địa bàn tỉnh Đồng Tháp",
+      "id": "231/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Đồng Tháp",
+      "signers": [
+        "Phạm Thiện Nghĩa"
+      ],
+      "issuedDate": "2021-07-28",
+      "effectiveDate": "2021-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Chỉ thị 13/CT-UBND năm 2021 về tăng cường công tác quản lý thuế đối với hoạt động kinh doanh thương mại điện tử trên địa bàn tỉnh Vĩnh Phúc",
+      "id": "13/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Vũ Việt Văn"
+      ],
+      "issuedDate": "2021-07-26",
+      "effectiveDate": "2021-07-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1543/QĐ-UBND năm 2021 Quy chế phối hợp quản lý hoạt động thương mại điện tử trên địa bàn thành phố Cần Thơ",
+      "id": "1543/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Nguyễn Văn Hồng"
+      ],
+      "issuedDate": "2021-07-21",
+      "effectiveDate": "2021-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 09/CT-UBND năm 2021 về tăng cường công tác quản lý thuế đối với hoạt động kinh doanh trên nền tảng số, kinh doanh thương mại điện tử do tỉnh Bình Định ban hành",
+      "id": "09/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Nguyễn Phi Long"
+      ],
+      "issuedDate": "2021-07-02",
+      "effectiveDate": "2021-07-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 97/KH-UBND năm 2018 về triển khai giải pháp quản lý, khai thác nguồn thu và chống thất thu thuế trên địa bàn tỉnh Cà Mau",
+      "id": "97/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Trần Hồng Quân"
+      ],
+      "issuedDate": "2018-08-23",
+      "effectiveDate": "2018-08-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "502/KH-UBND",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Thuế - Phí - Lệ Phí",
+    "Công nghệ thông tin"
+  ],
+  "organization": "Tỉnh Bắc Kạn",
+  "signers": [
+    "Nguyễn Long Hải"
+  ],
+  "issuedDate": "2021-08-05",
+  "effectiveDate": "2021-08-05",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH BẮC KẠN</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>502/KH-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bắc Kạn</i><i><span lang=\"VI\">, ngày </span>05</i><i><span lang=\"VI\"> tháng </span>8</i><i><span lang=\"VI\"> năm </span>2021</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">QUẢN LÝ THUẾ VÀ GIẢI PHÁP CHỐNG THẤT THU THUẾ ĐỐI VỚI HOẠT ĐỘNG KINH DOANH\nTHƯƠNG MẠI ĐIỆN TỬ, KINH DOANH DỰA TRÊN NỀN TẢNG CÔNG NGHỆ SỐ TRÊN ĐỊA BÀN TỈNH\nBẮC KẠN</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thời gian qua, hoạt động kinh doanh\nthương mại điện tử, kinh doanh dựa trên nền tảng công nghệ số </span><i>(h</i><i><span lang=\"VI\">oạt động kinh doanh TMĐT)</span></i><span lang=\"VI\"> trên địa bàn tỉnh Bắc\nKạn diễn ra thường xuyên và phát triển mạnh mẽ trong các tổ chức, cá nhân theo\nnhu cầu của xã hội. Hoạt động giao thương của người tiêu dùng giữa các địa\nphương trong và ngoài tỉnh đang có xu hướng tăng cao, hình thức mua sắm trực\ntuyến qua các kênh thương mại điện tử được diễn ra thông qua việc lựa chọn các\nkênh mua s</span>ắ<span lang=\"VI\">m và giao dịch bằng nhiều hình thức như: Sàn\nGiao dịch thương mại điện tử, các ứng dụng thương mại điện tử, mạng xã hội\nFacebook, Instagr</span>a<span lang=\"VI\">m, Zalo; quảng cáo trực tuyến trên\nFacebook, Youtube, Google... Tuy nhiên, phạm vi kinh doanh hoạt động TMĐT rất rộng,\nmọi giao dịch chủ yếu qua tin nhắn, điện thoại, Website, các trang mạng xã hội,\nquảng cáo... các hoạt động mua bán này thường tiềm ẩn nhiều rủi ro trong lĩnh vực\nquản lý Thuế như không xuất hóa đơn khi giao dịch, thông tin giao dịch trên\nInternet dễ xóa và cũng dễ thay đổi, do đó việc chứng minh nguồn thu nhập của\nnhững tổ chức, cá nhân kinh doanh loại hình này thường khó xác định, thiếu căn\ncứ, dẫn đến nhiều trường hợp đã lợi dụng và không thực hiện đầy đủ trách nhiệm,\nnghĩa vụ của mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trước thực trạng trên đòi hỏi các cơ\nquan chức năng phối hợp chặt chẽ với cơ quan Thuế để thực hiện thu Ngân sách\nnhà nước <i>(NSNN)</i> đối với hoạt động kinh doanh TMĐT. Đ</span>ể <span lang=\"VI\">đảm bảo quản lý chặt chẽ các nguồn thu phát sinh theo quy định, tạo sự\ncông bằng trong việc chấp hành pháp luật Thuế đối với người nộp thuế tham gia\nhoạt động kinh doanh hàng hóa, dịch vụ dưới mọi hình thức, thì việc th</span>ố<span lang=\"VI\">ng nhất quản lý Thuế đối với hoạt động kinh doanh TMĐT là cần thiết và\nlà giải pháp quan trọng để góp phần tạo động lực cho phát triển kinh tế và tăng\nthu ngân sách trên địa bàn. Với lý do trên, UBND tỉnh ban hành Kế hoạch quản lý\nthu</span>ế <span lang=\"VI\">và giải pháp chống thất thu thuế đối với hoạt động\nkinh doanh thương mại điện tử, kinh doanh dựa trên n</span>ề<span lang=\"VI\">n tảng\ncông nghệ số </span>tr<span lang=\"VI\">ên địa bàn tỉnh B</span>ắ<span lang=\"VI\">c Kạn,\ncụ thể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. MỤC ĐÍCH, YÊU CẦU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Mục đích</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao hiệu lực, hiệu quả quản lý\nnhà nước về hoạt động kinh doanh TMĐT; nâng cao nhận thức của các cấp ủy đảng,\nchính quyền, đoàn thể, tổ chức, cá nhân; đề cao trách nhiệm của người đứng đầu\nvề vai trò, tầm quan trọng của công tác quản lý, trách nhiệm trong việc quản lý\nhoạt động kinh doanh TMĐT trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác quản lý thuế,\nkiểm tra chống thất thu thuế đối với hoạt động kinh doanh TMĐT theo quy định tại\nLuật Quản lý thuế số 38/2019/QH14 ngày 13/6/2019 và Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 126/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-126-2020-nd-cp-huong-dan-luat-quan-ly-thue-455733.aspx\">126/2020/NĐ-CP</a> \nngày 19/10/2020 của Chính phủ, đảm bảo cơ quan Thuê quản lý được 100% người nộp\nthu</span>ế <span lang=\"VI\">trên địa bàn nhằm tăng thu cho NSNN.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác phối hợp kiểm\ntra, giám sát hoạt động kinh doanh TMĐT; triển khai đồng bộ các biện pháp nhằm\nngăn chặn kịp thời, xử lý nghiêm các trường hợp kinh doanh TMĐT trái quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao tính tự giác, tự chủ, tự\nchịu trách nhiệm trước pháp luật của người nộp thuế trong việc đăng ký, kê\nkhai, nộp thuế đối với hoạt động kinh doanh TMĐT, góp phần nâng cao hiệu lực,\nhiệu quả công tác quản lý thuế về kinh doanh TMĐT tại địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện công bằng trong việc đóng\ngóp nghĩa vụ thuế của các tổ chức, cá nhân kinh doanh thương mại, góp phần hoàn\nthành mục tiêu thu NSNN nội địa được giao, mục tiêu phát triển Kinh tế - Xã hội\nnăm 2021 và các năm tiếp theo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Yêu cầu</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai đầy đủ các nhiệm vụ, giải\npháp quản lý thuế đối với hoạt động kinh doanh TMĐT. Chủ động khắc phục những khó\nkhăn, vướng mắc, hạn chế trong quá trình triển khai công tác quản lý thuế đối với\nhoạt động kinh doanh TMĐT</span>.</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công khai, minh bạch, công bằng,\nkhách quan, tuân thủ pháp luật về thuế; không gây ảnh hưởng đến hoạt động kinh\ndoanh, không gây phiền hà cho người nộp thuế, dễ thực hiện, nhưng đạt hiệu quả\ncao trong công tác quản lý thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xác định rõ vai trò, trách nhiệm của\ncác sở, ban, ngành và UBND các cấp trong triển khai thực hiện nhiệm vụ quản lý\nthuế đối với hoạt động kinh doanh TMĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp đồng bộ, chặt chẽ giữa cơ\nquan Thuế với các cơ quan chức năng có liên quan, UBND cấp huyện, cấp xã trong\nquá </span>tr<span lang=\"VI\">ình triển khai thực hiện các biện pháp kiểm tra,\ngiám sát, tuyên truyền, vận động các doanh nghiệp, cá nhân kinh doanh tự giác hợp\ntác thực hiện chủ trương chống thất thu thuế trên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. NỘI DUNG VÀ THỜI\nGIAN THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Nội dung thực hiện</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.1. Xây dựng các hình thức tuyên\ntruyền, phổ biến, hỗ trợ, vận động để người nộp thuế nắm rõ các quy định về\nthương mại điện tử, các nghĩa vụ về ch</span>í<span lang=\"VI\">nh sách thuế, các\nloại thuế phải thực hiện kê khai trong hoạt động kinh doanh TMĐT; Nêu gương các\ntổ chức, cá nhân thực hiện tốt chính sách, pháp luật thuế, đồng thời công khai\ncác tổ chức, cá nhân nợ thuế, có hành vi gian lận, trốn thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.2. Tổ chức rà soát, đôn đốc, thanh\ntra, kiểm tra, giám sát chặt chẽ toàn bộ người nộp thuế trên địa bàn có liên\nquan đến hoạt động kinh doanh TMĐT để kịp thời nắm bắt thực tiễn phát sinh, xây\ndựng các biện pháp quản lý thu thuế phù hợp theo quy định của pháp luật Thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.3. Tăng cường sự phối hợp giữa các\nsở, ngành, tổ chức, địa phương để khai thác, thu thập thông tin dữ liệu các tổ\nchức, cá nhân có hoạt động kinh doanh TMĐT; tổ chức thanh tra, kiểm tra liên\nngành, chuyên ngành, định kỳ, đột xuất để phát hiện và xử lý các doanh nghiệp,\ncá nhân có hành vi gian lận, trốn thuế trong lĩnh vực kinh doanh TMĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.4. Đẩy mạnh cải cách, đơn giản hóa,\ncông khai, minh bạch thủ tục hành chính Thuế; ứng dụng công nghệ thông tin để\nxây dựng cơ sở dữ liệu về người nộp thuế nhằm nâng cao hiệu lực quản lý nhà nước\nvề thuế trong lĩnh vực thương mại điện tử trên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.5. Tiếp tục triển khai hiệu quả kế\nhoạch phát triển thương mại điện tử tỉnh Bắc Kạn giai đoạn 2021-2025 ban hành\nkèm theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1811/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-1811-qd-ubnd-2020-ke-hoach-phat-trien-thuong-mai-dien-tu-tinh-bac-kan-2021-2025-458628.aspx\">1811/QĐ-UBND</a>  ngày 07/10/2020 của UBND tỉnh Bắc Kạn để m</span><span lang=\"EN-GB\">ở </span><span lang=\"VI\">rộng thị trường tiêu thụ hàng hóa theo hướng\nvăn minh, hiện đại; thúc đẩy thị trường TMĐT phát triển lành mạnh, bền vững đồng\nthời tạo thêm nguồn thu cho NSNN.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Thời gian thực hiện</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kế hoạch được triển khai thực hiện\ntrên địa bàn tỉnh Bắc Kạn kể từ tháng 8 năm 2021. Trong quá trình triển khai kế\nhoạch, việc áp dụng các chính sách về quản lý thuế, quản lý thương mại điện tử\nsẽ được vận dụng phù hợp với từng thời điểm, nội dung chính sách có hiệu lực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. NHIỆM VỤ, GIẢI\nPHÁP THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để triển khai thực hiện có hiệu quả\ncác nội dung quản lý nêu trên, Chủ tịch UBND tỉnh yêu cầu các cơ quan, đơn vị\ntheo chức năng, nhiệm vụ được giao thực hiện và phối hợp chặt chẽ với ngành Thuế\nthực hiện nghiêm túc các nhiệm vụ, giải pháp cụ thể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">1. Cục Thuế tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tuyên truyền, phổ biến chính sách\nthuế, nghĩa vụ kê khai nộp thuế đối với hoạt động kinh doanh TMĐT nhằm đảm bảo\ncho các tổ chức, cá nhân kinh doanh trong lĩnh vực này nắm rõ chính sách thuế để\ntự thực hiện kê khai, nộp thuế; Hướng dẫn, đôn đốc người nộp thuế kê khai, nộp\ncác loại thuế có liên quan đến hoạt động kinh doanh TMĐT; Kiểm tra tính đầy đủ,\nđúng thủ tục của hồ sơ khai thuế theo quy định của Luật Quản lý thuế và các văn\nbản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Báo Bắc Kạn, Đài Phát\nthanh - Truyền hình tỉnh tổ chức tuyên truyền việc tăng cường quản lý thuế đối\nvới hoạt động kinh doanh TMĐT theo quy định của pháp luật về Thuế <i>(Luật Quản\nlý thuế năm 2019, các Luật thuế và các văn bản liên quan)</i>, pháp luật liên\nquan về thương mại điện tử <i>(Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 52/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-52-2013-nd-cp-thuong-mai-dien-tu-187901.aspx\">52/2013/NĐ-CP</a>  ngày 16/5/2013 của\nChính phủ quy định về TMĐT; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 72/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-72-2013-nd-cp-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-201110.aspx\">72/2013/NĐ-CP</a>  ngày 15/7/2013 của Chính\nphủ về quản lý, cung cấp sử dụng dịch vụ Internet và thông tin trên mạng; Điều\n50 Luật Giao dịch điện tử s</i></span><i>ố</i><i><span lang=\"VI\"> 51/2005/QH11\nngày 29/11/2005 và các văn bản hướng dẫn thi hành)</span></i><span lang=\"VI\"> nhằm\nbảo đảm người nộp thuế nắm được chính sách, tự giác thực hiện kê khai, nộp thu</span>ế\n<span lang=\"VI\">theo quy định; thông tin kịp thời các tổ chức, cá nhân hoạt động\nkinh doanh TMĐT có hành vi gian lận, trốn thuế đã được cơ quan Thuế thực hiện\ntruy thu thu</span>ế<span lang=\"VI\"> trên các phương tiện thông tin đại chúng, nhằm\nnâng cao tính hiệu quả, hiệu lực của cơ quan quản lý Nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng kế hoạch tổ chức thanh\ntra, kiểm tra, giám sát việc chấp hành nghĩa vụ kê khai và nộp thuế của các tổ\nchức, cá nhân hoạt động kinh doanh TMĐT để đưa công tác quản lý thu</span>ế <span lang=\"VI\">đối với hoạt động kinh doanh TMĐT vào n</span>ề <span lang=\"VI\">nếp,\ntrong đó cần tập trung thanh tra, kiểm tra các doanh nghiệp cung cấp dịch vụ\ngiao nhận hàng hóa cho các doanh nghiệp kinh doanh TMĐT <i>(nhất là các đơn vị\ngiao nhận hàng hóa được ủy quyền thu tiền kh</i></span><i>i </i><i><span lang=\"VI\">giao hàng - hình thức COD)</span></i><span lang=\"VI\"> qua đó xác định các\ntổ chức, cá nhân có hoạt động kinh doanh TMĐT, doanh thu của các tổ chức cá\nnhân này <i>(thông qua s</i></span><i>ố </i><i><span lang=\"VI\">lượng hàng hóa vận\nchuyển)</span></i><span lang=\"VI\"> đ</span>ể <span lang=\"VI\">có biện pháp đưa vào\nquản lý thuế đảm bảo thu đúng, thu đủ, không bỏ sót nguồn thu; để phát hiện các\ncá nhân có hoạt động kinh doanh TMĐT nhưng chưa thực hiện đăng ký với các cơ\nquan quản lý nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường thực hiện rà soát, kiểm\ntra, kiểm soát để phát hiện các hộ, cá nhân đang tham gia hoạt động kinh doanh\nthương mại theo phương thức truyền thống nộp thuế khoán có phát sinh hoạt động\nkinh doanh TMĐT nhưng chưa thực hiện đăng ký với cơ quan quản lý nhà nước hoặc\nđang hoạt động dưới Giấy phép của cá nhân khác <i>(hoạt động dưới Giấy phép đã\nđăng ký của Hộ kinh doanh, cá nhân kinh doanh khác)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xử lý nghiêm các hành vi không chấp\nhành kê khai, nộp thuế, gian lận, trốn tránh nghĩa vụ thuế trong hoạt động kinh\ndoanh TMĐT theo quy định tại Luật Quản lý thuế và các văn bản pháp luật có liên\nquan...; phối hợp với các tổ chức có liên quan <i>(các nhà mạng, các cơ quan quản\nlý khác của nhà nước ...)</i> ngăn chặn các giao dịch của tổ chức, cá nhân kinh\ndoanh qua mạng có hành vi cố tình trốn thuế, chây ỳ nộp thuế</span><span lang=\"EN-GB\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức công tác quản lý thu thuế,\ntheo dõi, đôn đốc, xử lý và xây dựng các giải pháp thu nợ tiền thuế từ hoạt động\nkinh doanh TMĐT trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động phối hợp với các sở, ban,\nngành, địa phương thực hiện công tác rà soát, kiểm tra, kiểm soát liên ngành để\nphát hiện người nộp thuế có hoạt động kinh doanh TMĐT trên địa bàn, yêu cầu phải\nkê khai, nộp thuế theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Thông tin và Truyền\nthông, Bưu điện tỉnh, Chi nhánh Viettel tỉnh, các nhà mạng, các sàn giao dịch\nTMĐT, các công ty chuyển phát thu hộ tiền bán hàng (COD), công ty có các ứng dụng\ntiện ích, các đơn vị cung cấp dịch vụ Hosting... trên địa bàn tỉnh để thu thập\nthông tin dữ liệu các tổ chức, cá nhân có hoạt động kinh doanh TMĐT đang sử dụng\ndịch vụ của đơn vị như: Tên, địa chỉ, số điện thoại, giá trị thanh toán, số lượng\nhàng hóa vận chuyển... của các tổ chức, cá nhân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Ngân hàng nhà nước Chi\nnhánh tỉnh Bắc Kạn để trao đổi, thu thập thông tin, dữ liệu theo quy định tại\nThông tư liên tịch số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư liên tịch 102/2010/TTLT-BTC-NHNN\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-lien-tich-102-2010-ttlt-btc-nhnn-huong-dan-trao-doi-cung-cap-thong-tin-109107.aspx\">102/2010/TTLT-BTC-NHNN</a>  ngày 14/7/2010 của Bộ Tài chính và\nNgân hàng nhà nước Việt Nam hướng dẫn về việc trao đổi, cung cấp thông tin giữa\ncơ quan quản lý thu</span>ế <span lang=\"VI\">và các tổ chức tín dụng của Bộ Tài\nchính và Ngân hàng Nhà nước. Đề nghị Ngân hàng nhà nước Chi nhánh tỉnh hỗ trợ\ncung cấp:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Bảng sao kê tài khoản của các tổ chức,\ncá nhân c</span>ó <span lang=\"VI\">thu nhập từ hoạt động kinh doanh TMĐT thực hiện\nthanh toán qua ngân hàng bằng nhiều tài khoản mở tại các Ngân hàng thương mại tại\nViệt Nam, các tổ chức cung ứng dịch vụ trung gian thanh toán nhưng không đăng\nký với cơ quan Thuế trên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Danh sách các tổ chức, cá nhân trả\ntiền dịch vụ cho các đơn vị nước ngoài liên quan đến hoạt động TMĐT thông qua\nviệc khai, nộp thuế nhà thầu; các cá nhân nhận tiền từ các nhà cung cấp nước\nngoài như Apple store, CH-Play, Youtube, Google...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, phối hợp với Sở Thông tin\nvà Truyền thông, Sở Công Thương xây dựng cơ sở dữ liệu quản lý về thuế trong\nTMĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì nghiên cứu, xây dựng Đề án\nvề quản lý thuế đối với hoạt động kinh doanh TMĐT trên địa bàn tỉnh, trình UBND\ntỉnh Bắc Kạn ban hành trong tháng 9 năm 2021. Nội dung Đề án xác định rõ trách\nnhiệm của các đơn vị liên quan, đảm bảo yêu cầu kiểm soát chặt chẽ các tổ chức,\ncá nhân tham gia hoạt động kinh doanh TMĐT trên địa bàn tỉnh để đưa vào quản lý\nthuế theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Sở Công Thương</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp và cung cấp cho cơ quan\nThuế thông tin dữ liệu các tổ chức, cá nhân đăng ký hoạt động kinh doanh TMĐT\ntrên địa bàn và cung cấp thông tin khác theo quy định tại Luật Quản lý thuế và\npháp luật có liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với cơ quan Thuế, các\nngành liên quan và chính quyền địa phương để thực hiện thanh tra, kiểm tra hoạt\nđộng kinh doanh TMĐT trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chế độ cung cấp thông tin: Phối hợp\nvới Cục Thương mại điện tử và Kinh tế số cung cấp thông tin danh sách về các tổ\nchức, cá nhân đăng ký hoạt/thông báo Website Thương mại điện tử trên địa bàn tỉnh\nđể thực hiện theo dõi, quản lý thu thuế theo quy định. Thông tin cung cấp gồm:\nTên, địa chỉ, mã số thuế/</span>S<span lang=\"VI\">ố Chứng minh nhân dân/số Thẻ căn\ncước công dân, số tài khoản mở tại tổ chức tín dụng</span><span lang=\"EN-GB\">. </span><span lang=\"VI\">Số liệu cung cấp đến 31 tháng 7 năm 2021 và khi phát sinh tổ chức, cá\nnhân đăng ký/thông báo Website thương mại điện tử trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">3. Sở Thông tin\nvà Truyền thông</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn, đề nghị các cơ quan báo\nchí tổ chức các hoạt động tuyên truyền về trách nhiệm, nghĩa vụ đăng ký thuế,\nkê khai thuế, nộp thuế đối với hoạt động kinh doanh TMĐT theo quy định của pháp\nluật thuế, pháp luật liên quan về thương mại điện tử nhằm đảm bảo người nộp thuế\nnắm được chính sách để thực hiện theo đúng quy định của Nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ cơ quan Thuế các cấp trên địa\nbàn về mặt kỹ thuật để thu thập thông tin các tổ chức, cá nhân cư trú có hoạt động\nkinh doanh TMĐT trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với cơ quan Thuế, cơ quan\nquản lý nhà nước có liên quan trao đổi, cung cấp thông tin về quản lý nhà nước\nđối với hoạt động kinh doanh TMĐT: Cung cấp thông tin hoạt động, sử dụng dịch vụ\nInternet; thông tin trên mạng; trò chơi điện tử trên mạng; cung cấp thông tin\nliên quan đối với hoạt động quảng cáo trên mạng; hoạt động mua bán sản phẩm, dịch\nvụ công nghệ thông tin trên môi trường mạng, kinh doanh dựa trên nền tảng số;\ncác dịch vụ khác trên mạng và các thông tin liên quan tr</span><span lang=\"EN-GB\">o</span><span lang=\"VI\">ng quản lý thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Cục Thuế tỉnh trong việc\nxây dựng cơ sở dữ liệu quản lý nhà nước đối với thông tin của tổ chức, cá nhân\ncó hoạt động kinh doanh TMĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Yêu cầu các doanh nghiệp bưu chính,\ncác đơn vị viễn thông trên địa bàn cung cấp kịp thời, chính xác các thông tin\nliên quan đến tổ chức, cá nhân có hoạt động kinh doanh TMĐT theo yêu cầu của cơ\nquan Thuế địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chế độ cung cấp thông tin: Từ quý\nIII/2021, cung cấp thông tin về các tổ chức, cá nhân có hoạt động liên quan đến\ncác dịch vụ trên mạng <i>(nếu có)</i> đến tháng 6 năm 2021, báo cáo định kỳ\nhàng quý <i>(trước ngày 10 tháng đầu </i></span><i>quý</i><i><span lang=\"VI\">)</span></i><span lang=\"VI\"> cung cấp về thông tin trên đối với trường hợp phát sinh mới, để cơ\nquan Thuế rà soát, hư</span>ớ<span lang=\"VI\">ng dẫn, đôn đốc người nộp thuế thực\nhiện nghĩa vụ đăng ký, kê khai và nộp thuế theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">4. Ngân hàng Nhà\nnước Chi nhánh tỉnh Bắc Kạn</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo, hướng dẫn các Chi nhánh\nNgân hàng thương mại, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp\nchặt chẽ với cơ quan Thuế các cấp trên địa bàn tỉnh; thực hiện nhiệm vụ, quyền\nhạn của Ngân hàng thương mại quy định tại Điều 27 Luật Quản lý thuế năm 2019,\nĐiều 30 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 126/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-126-2020-nd-cp-huong-dan-luat-quan-ly-thue-455733.aspx\">126/2020/NĐ-CP</a>  ngày 19/10/2020 của Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện việc quản lý,\ngiám sát các giao dịch thanh toán xuyên biên giới trong thương mại điện tử,\nkinh doanh dựa trên nền tảng số và các dịch </span>v<span lang=\"VI\">ụ khác với tổ\nchức, cá nhân ở Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo các Chi nhánh Ngân hàng\nthương mại trên địa bàn tỉnh phối hợp với cơ quan Thuế các cấp trong thực hiện\nviệc khấu trừ, nộp thay nghĩa vụ thuế đối với nhà cung cấp ở nước ngoài không\ncó cơ sở thường trú ở Việt Nam có hoạt động kinh doanh TMĐT với tổ chức, cá\nnhân ở Việt Nam theo quy định tại khoản 3 Điều 27 Luật Quản lý thuế năm 2019 và\nkhoản 3 Điều 30 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 126/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-126-2020-nd-cp-huong-dan-luat-quan-ly-thue-455733.aspx\">126/2020/NĐ-CP</a>  ngày 19/10/2020 của Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">5. Cục Quản lý thị\ntrường tỉnh Bắc Kạn</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác thanh tra, kiểm\ntra, kiểm soát, đấu tranh chống buôn lậu, gian lận thương mại trong lĩnh vực\nkinh doanh TMĐT trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp chặt chẽ với cơ quan Thuế\nvà các sở, ngành liên quan kiểm tra, kiểm soát việc vận chuyển, kinh doanh hàng\nhóa không rõ nguồn gốc, xuất xứ, hàng hóa nhập lậu, hàng hóa không có hóa đơn,\nchứng từ, hàng hóa xâm phạm quyền sở hữu trí tuệ... đối với các tổ chức, cá\nnhân có hoạt động kinh doanh TMĐT để ngăn chặn, phát hiện và xử lý kịp thời các\nhành vi vi phạm theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chế độ cung cấp thông tin: Từ quý\nIII/2021, cung cấp danh sách tổ chức, cá nhân có hành vi vi phạm về gian lận,\ntrốn thuế trong lĩnh vực kinh doanh TMĐT đến tháng 6 năm 2021 <i>(nếu có)</i>,\nbáo cáo định kỳ hàng quý <i>(trước ngày 10 tháng đầu </i></span><i>quý</i><i><span lang=\"VI\">)</span></i><span lang=\"VI\"> về cung cấp thông tin đối với trường hợp phát\nsinh mới để cơ quan Thuế đôn đốc yêu cầu người nộp thuế thực hiện nghĩa vụ thuế\ntheo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">6. Công an tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo các phòng chức năng, cơ\nquan Công an các huyện, thành phố phối hợp khi có đề nghị của cơ quan Thuế các\ncấp trên địa bàn để thực hiện chống thất thu thuế trong lĩnh vực kinh doanh\nTMĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các sở, ngành liên\nquan trong việc kiểm tra, điều tra, phát hiện và xử lý các vi phạm có hành vi\ntrốn thuế, gian lận thuế của tổ chức, cá nhân hoạt động kinh doanh TMĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"VI\">7. Báo Bắc Kạn, Đài\nPhát thanh - Truyền hình Bắc Kạn</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với cơ quan Thuế tuyên\ntruyền về trách nhiệm, nghĩa vụ đăng ký thuế, kê khai thuế, nộp thuế đối với hoạt\nđộng kinh doanh TMĐT theo quy định của pháp luật Thuế, pháp luật liên quan về\nTMĐT nhằm đảm bảo người nộp thuế nắm được chính sách thuế để kê khai và nộp thuế\ntheo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp thông tin trên các phương\ntiện thông tin đại chúng khi có văn bản đề nghị của cơ quan Thuế đối với trường\nhợp các tổ chức, cá nhân hoạt động kinh doanh TMĐT có hành vi trốn thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b><span lang=\"VI\">8. Bưu điện tỉnh,\nViễn thông Bắc Kạn, Viettel Bắc Kạn, Sàn giao dịch TMĐT, các Công ty chuyển\nphát thu hộ tiền bán hàng, Công ty có các ứng dụng tiện ích, các đơn vị cung ứng\ndịch vụ Hosting ...</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với các đơn vị bưu chính đề nghị\ncung cấp thông tin về người gửi hàng là các tổ chức, cá nhân có địa chỉ trên địa\nbàn tỉnh Bắc Kạn đã sử dụng dịch vụ giao hàng thu tiền hộ (COD) của doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với sàn giao dịch thương mại;\ncác nhà mạng; công ty chuyển phát thu hộ tiền bán hàng (COD), cung ứng các ứng\ndụng, dịch vụ tiện ích...: Phối hợp cung cấp cho cơ quan Thuế các cấp trên địa\nbàn tỉnh những thông tin về các tổ chức, cá nhân có hoạt động TMĐT đã đăng ký\nvà đang sử dụng dịch vụ của các nhà mạng, công ty thông qua việc quản lý các\nthông tin giao dịch mua, bán hàng hóa dưới hình thức: </span>S<span lang=\"VI\">ố\nthuê bao, SMS, Zalo, Facebook, Viber, COD ...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chế độ cung cấp thông tin: Đề nghị\ncác đơn vị phối hợp cung cấp danh sách tổ chức, cá nhân liên quan đến lĩnh vực\nkinh doanh TMĐT đến tháng 7 năm 2021 (nếu có), báo cáo định kỳ hàng tháng <i>(trước\nngày 10 tháng tiếp theo)</i> về cung cấp thông tin phát sinh mới <i>(n</i></span><i>ế</i><i><span lang=\"VI\">u có)</span></i><span lang=\"VI\"> đ</span>ể<span lang=\"VI\"> cơ quan Thu</span>ế\n<span lang=\"VI\">kịp thời rà soát, kiểm tra, đôn đốc yêu cầu người nộp thuế thực\nhiện nghĩa vụ thuế theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b><span lang=\"VI\">9. UBND các huyện,\nthành phố</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác quản lý nhà nước,\nkiểm soát chặt chẽ các hoạt động liên quan đến lĩnh vực kinh doanh TMĐT trên địa\nbàn, kịp thời phát hiện, xử lý nghiêm theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tuyên truyền, phổ biến pháp luật về\nhoạt động kinh doanh TMĐT và pháp luật có liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo các phòng, ban, UBND các\nxã, phường, thị trấn tăng cường phối hợp với cơ quan Thuế địa phương trong việc\nquản lý thuế và đôn đốc nộp các khoản thuế:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Thực hiện rà soát, kiểm tra, kiểm\nsoát, quản lý chặt chẽ nguồn thu đối với lĩnh vực kinh doanh TMĐT trên địa bàn;\nđối với các trường hợp không chấp hành, kiên quyết xử lý nghiêm theo đúng quy định\ncủa pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Phòng Tài chính - Kế hoạch: Hàng\ntháng cung cấp danh sách các hộ, cá nhân đăng ký hoạt động kinh doanh thương mại\nđể cơ quan Thuế làm cơ sở đưa vào rà soát, kiểm tra, kiểm soát hoạt động kinh\ndoanh thực tế nhằm phát hiện hình thức kinh doanh TMĐT núp bóng dưới hình thức\nkinh doanh thương mại theo phương thức truyền thống.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ UBND xã, phường, thị trấn: Cử cán bộ\nphối hợp, tham gia các đoàn kiểm, tra, kiểm soát liên ngành nhằm kiểm tra việc\nchấp hành các quy định về kinh doanh TMĐT, chấp hành các quy định về thuế trên\nđịa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Chỉ đạo Hội đồng tư vấn thuế phối hợp\nvới Đội thuế xã, phường thực hiện thống kê, rà soát và yêu cầu các hộ, cá nhân\nkinh doanh TMĐT thực hiện kê khai, nộp thuế theo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chế độ cung cấp thông tin: Từ tháng\n7/2021, cung cấp cho cơ quan Thuế thông tin theo đề nghị trên đến 30/6/2021, định\nkỳ hàng tháng <i>(trước ngày 10 tháng tiếp theo)</i> cung cấp thông tin trên đối\nvới trường hợp bổ sung, điều chỉnh <i>(nếu có)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">IV. TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Người nộp thuế</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện nghĩa vụ, trách nhiệm của\nngười nộp thuế theo quy định tại Điều 7 Luật Quản lý thuế năm 2019.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chấp hành theo các quy định của\npháp luật Thuế và các văn bản hướng dẫn thực hiện; tuân thủ đầy đủ các quy định\nquản lý nhà nước về hoạt động kinh doanh TMĐT và thực hiện các nghĩa vụ của tổ\nchức, cá nhân kinh doanh TMĐT theo quy định tại Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 52/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-52-2013-nd-cp-thuong-mai-dien-tu-187901.aspx\">52/2013/NĐ-CP</a>  ngày\n16/5/2013 của Chính phủ về thương mại điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Cơ quan Thuế</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì phối hợp các ngành, các địa\nphương triển khai thực hiện Kế hoạch này đảm bảo đúng mục tiêu, yêu cầu. Triển\nkhai đầy đủ các giải pháp quản lý thuế trên địa bàn đối với khoản thu từ kinh\ndoanh TMĐT đảm bảo không bỏ sót nguồn thu; kịp thời xử lý hoặc báo cáo Cục Thuế\ntỉnh để tổng hợp báo cáo UBND tỉnh về những vướng mắc tr</span>o<span lang=\"VI\">ng\nquá trình triển khai công tác quản lý thuế đối với hoạt động kinh doanh TMĐT\ntrên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cục Thuế tỉnh căn cứ Kế hoạch, chủ\nđộng triển khai các giải pháp quản lý thuế đối với hoạt động kinh doanh TMĐT đến\ncác đơn vị trực thuộc, giao trách nhiệm và cụ thể h</span>óa <span lang=\"VI\">các\ngiải pháp đến từng đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Định kỳ hàng năm, tổng hợp báo cáo\n6 tháng <i>(trước ngày 25/7)</i>, báo cáo năm <i>(trước ngày 25/1 năm sau) </i>gửi\nUBND tỉnh và phối hợp cung cấp thông tin về kết quả thực hiện theo kế hoạch cho\ncác sở, ngành, UBND các huyện, thành phố để phối hợp theo dõi đôn đốc thu. Kịp\nthời báo cáo, tham mưu đề xuất xử lý các khó khăn, vướng mắc trong quá trình thực\nhiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Đối với các sở, ban, ngành,\nUBND các huyện, thành phố</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp chặt chẽ với cơ quan Thuế\ntuyên truyền, phổ biến và tổ chức thực hiện đúng nội dung Kế hoạch này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kịp thời báo cáo về tình hình hoạt\nđộng kinh doanh TMĐT trên địa bàn, k</span>ế<span lang=\"VI\">t quả thực hiện, những\nkhó khăn vướng mắc đến cơ quan có thẩm quyền để xử lý giải quyết theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chế độ thông tin báo cáo:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Báo cáo 6 tháng: Trước ngày 10\ntháng 7 hàng năm, các đơn vị báo cáo gửi Cục Thuế tỉnh để tổng hợp, báo cáo\nUBND tỉnh trước ngày 25 tháng 7 hàng năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Báo cáo năm: Trước ngày 10 tháng 01\nnăm sau, các đơn vị báo cáo kết quả thực hiện kế hoạch gửi Cục Thuế tỉnh để tổng\nhợp, báo cáo UBND tỉnh trước ngày 25 tháng 01 năm sau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trong quá trình thực hiện nếu có\nkhó khăn, vướng mắc hoặc phát sinh vấn đề mới, các cơ quan, đơn vị, tổ chức và\ncá nhân có liên quan phản ánh đến cơ quan chủ trì để tổng hợp và đề xuất trình\nUBND tỉnh xem xét điều chỉnh, bổ sung.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">UBND tỉnh yêu cầu các sở, ban, ngành,\ncác đơn vị liên quan và UBND các huyện, thành phố nghiêm túc triển khai thực hiện\nKế hoạch này./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - Các Sở, ban, ngành thuộc t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Cục Thuế t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Cục Quản lý thị </span><span style=\"font-size:8.0pt\">tr</span><span lang=\"VI\" style=\"font-size:8.0pt\">ường t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh Bắc Kạn;<br>\n  - Ngân hàng nhà nước Chi nhánh t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Kho bạc nhà nước Bắc Kạn;<br>\n  - Bưu điện t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh Bắc Kạn; </span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- VNPT Bắc Kạn;<br>\n  - Chi nhánh Viettel Bắc Kạn;<br>\n  - Báo Bắc Kạn;<br>\n  - Đài Phát thanh - Truyền hình Bắc Kạn;<br>\n  - UBND các huyện, thành phố;<br>\n  - LĐVP;<br>\n  - Lưu: VT, Việt, Tuyết.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Long Hải</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p><b><span lang=\"EN-GB\">&nbsp;</span></b></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẮC KẠN****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 502/KH-UBND\n\n_Bắc Kạn__, ngày 05_ _tháng 8_ _năm 2021_\n\n**KẾ HOẠCH**\n\nQUẢN LÝ THUẾ VÀ GIẢI PHÁP CHỐNG THẤT THU THUẾ ĐỐI VỚI HOẠT ĐỘNG KINH DOANH THƯƠNG MẠI ĐIỆN TỬ, KINH DOANH DỰA TRÊN NỀN TẢNG CÔNG NGHỆ SỐ TRÊN ĐỊA BÀN TỈNH BẮC KẠN\n\nThời gian qua, hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng công nghệ số _(h__oạt động kinh doanh TMĐT)_ trên địa bàn tỉnh Bắc Kạn diễn ra thường xuyên và phát triển mạnh mẽ trong các tổ chức, cá nhân theo nhu cầu của xã hội. Hoạt động giao thương của người tiêu dùng giữa các địa phương trong và ngoài tỉnh đang có xu hướng tăng cao, hình thức mua sắm trực tuyến qua các kênh thương mại điện tử được diễn ra thông qua việc lựa chọn các kênh mua sắm và giao dịch bằng nhiều hình thức như: Sàn Giao dịch thương mại điện tử, các ứng dụng thương mại điện tử, mạng xã hội Facebook, Instagram, Zalo; quảng cáo trực tuyến trên Facebook, Youtube, Google... Tuy nhiên, phạm vi kinh doanh hoạt động TMĐT rất rộng, mọi giao dịch chủ yếu qua tin nhắn, điện thoại, Website, các trang mạng xã hội, quảng cáo... các hoạt động mua bán này thường tiềm ẩn nhiều rủi ro trong lĩnh vực quản lý Thuế như không xuất hóa đơn khi giao dịch, thông tin giao dịch trên Internet dễ xóa và cũng dễ thay đổi, do đó việc chứng minh nguồn thu nhập của những tổ chức, cá nhân kinh doanh loại hình này thường khó xác định, thiếu căn cứ, dẫn đến nhiều trường hợp đã lợi dụng và không thực hiện đầy đủ trách nhiệm, nghĩa vụ của mình.\n\nTrước thực trạng trên đòi hỏi các cơ quan chức năng phối hợp chặt chẽ với cơ quan Thuế để thực hiện thu Ngân sách nhà nước _(NSNN)_ đối với hoạt động kinh doanh TMĐT. Để đảm bảo quản lý chặt chẽ các nguồn thu phát sinh theo quy định, tạo sự công bằng trong việc chấp hành pháp luật Thuế đối với người nộp thuế tham gia hoạt động kinh doanh hàng hóa, dịch vụ dưới mọi hình thức, thì việc thống nhất quản lý Thuế đối với hoạt động kinh doanh TMĐT là cần thiết và là giải pháp quan trọng để góp phần tạo động lực cho phát triển kinh tế và tăng thu ngân sách trên địa bàn. Với lý do trên, UBND tỉnh ban hành Kế hoạch quản lý thuế và giải pháp chống thất thu thuế đối với hoạt động kinh doanh thương mại điện tử, kinh doanh dựa trên nền tảng công nghệ số trên địa bàn tỉnh Bắc Kạn, cụ thể như sau:\n\n**I. MỤC ĐÍCH, YÊU CẦU**\n\n**1\\. Mục đích**\n\n\\- Nâng cao hiệu lực, hiệu quả quản lý nhà nước về hoạt động kinh doanh TMĐT; nâng cao nhận thức của các cấp ủy đảng, chính quyền, đoàn thể, tổ chức, cá nhân; đề cao trách nhiệm của người đứng đầu về vai trò, tầm quan trọng của công tác quản lý, trách nhiệm trong việc quản lý hoạt động kinh doanh TMĐT trên địa bàn tỉnh.\n\n\\- Tăng cường công tác quản lý thuế, kiểm tra chống thất thu thuế đối với hoạt động kinh doanh TMĐT theo quy định tại Luật Quản lý thuế số 38/2019/QH14 ngày 13/6/2019 và Nghị định số [126/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-126-2020-nd-cp-huong-dan-luat-quan-ly-thue-455733.aspx \"Nghị định 126/2020/NĐ-CP\") ngày 19/10/2020 của Chính phủ, đảm bảo cơ quan Thuê quản lý được 100% người nộp thuế trên địa bàn nhằm tăng thu cho NSNN.\n\n\\- Tăng cường công tác phối hợp kiểm tra, giám sát hoạt động kinh doanh TMĐT; triển khai đồng bộ các biện pháp nhằm ngăn chặn kịp thời, xử lý nghiêm các trường hợp kinh doanh TMĐT trái quy định.\n\n\\- Nâng cao tính tự giác, tự chủ, tự chịu trách nhiệm trước pháp luật của người nộp thuế trong việc đăng ký, kê khai, nộp thuế đối với hoạt động kinh doanh TMĐT, góp phần nâng cao hiệu lực, hiệu quả công tác quản lý thuế về kinh doanh TMĐT tại địa phương.\n\n\\- Thực hiện công bằng trong việc đóng góp nghĩa vụ thuế của các tổ chức, cá nhân kinh doanh thương mại, góp phần hoàn thành mục tiêu thu NSNN nội địa được giao, mục tiêu phát triển Kinh tế - Xã hội năm 2021 và các năm tiếp theo.\n\n**2\\. Yêu cầu**\n\n\\- Triển khai đầy đủ các nhiệm vụ, giải pháp quản lý thuế đối với hoạt động kinh doanh TMĐT. Chủ động khắc phục những khó khăn, vướng mắc, hạn chế trong quá trình triển khai công tác quản lý thuế đối với hoạt động kinh doanh TMĐT.\n\n\\- Công khai, minh bạch, công bằng, khách quan, tuân thủ pháp luật về thuế; không gây ảnh hưởng đến hoạt động kinh doanh, không gây phiền hà cho người nộp thuế, dễ thực hiện, nhưng đạt hiệu quả cao trong công tác quản lý thuế.\n\n\\- Xác định rõ vai trò, trách nhiệm của các sở, ban, ngành và UBND các cấp trong triển khai thực hiện nhiệm vụ quản lý thuế đối với hoạt động kinh doanh TMĐT.\n\n\\- Phối hợp đồng bộ, chặt chẽ giữa cơ quan Thuế với các cơ quan chức năng có liên quan, UBND cấp huyện, cấp xã trong quá trình triển khai thực hiện các biện pháp kiểm tra, giám sát, tuyên truyền, vận động các doanh nghiệp, cá nhân kinh doanh tự giác hợp tác thực hiện chủ trương chống thất thu thuế trên địa bàn.\n\n**II. NỘI DUNG VÀ THỜI GIAN THỰC HIỆN**\n\n**1\\. Nội dung thực hiện**\n\n1.1. Xây dựng các hình thức tuyên truyền, phổ biến, hỗ trợ, vận động để người nộp thuế nắm rõ các quy định về thương mại điện tử, các nghĩa vụ về chính sách thuế, các loại thuế phải thực hiện kê khai trong hoạt động kinh doanh TMĐT; Nêu gương các tổ chức, cá nhân thực hiện tốt chính sách, pháp luật thuế, đồng thời công khai các tổ chức, cá nhân nợ thuế, có hành vi gian lận, trốn thuế.\n\n1.2. Tổ chức rà soát, đôn đốc, thanh tra, kiểm tra, giám sát chặt chẽ toàn bộ người nộp thuế trên địa bàn có liên quan đến hoạt động kinh doanh TMĐT để kịp thời nắm bắt thực tiễn phát sinh, xây dựng các biện pháp quản lý thu thuế phù hợp theo quy định của pháp luật Thuế.\n\n1.3. Tăng cường sự phối hợp giữa các sở, ngành, tổ chức, địa phương để khai thác, thu thập thông tin dữ liệu các tổ chức, cá nhân có hoạt động kinh doanh TMĐT; tổ chức thanh tra, kiểm tra liên ngành, chuyên ngành, định kỳ, đột xuất để phát hiện và xử lý các doanh nghiệp, cá nhân có hành vi gian lận, trốn thuế trong lĩnh vực kinh doanh TMĐT.\n\n1.4. Đẩy mạnh cải cách, đơn giản hóa, công khai, minh bạch thủ tục hành chính Thuế; ứng dụng công nghệ thông tin để xây dựng cơ sở dữ liệu về người nộp thuế nhằm nâng cao hiệu lực quản lý nhà nước về thuế trong lĩnh vực thương mại điện tử trên địa bàn.\n\n1.5. Tiếp tục triển khai hiệu quả kế hoạch phát triển thương mại điện tử tỉnh Bắc Kạn giai đoạn 2021-2025 ban hành kèm theo Quyết định số [1811/QĐ-UBND](https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-1811-qd-ubnd-2020-ke-hoach-phat-trien-thuong-mai-dien-tu-tinh-bac-kan-2021-2025-458628.aspx \"Quyết định 1811/QĐ-UBND\") ngày 07/10/2020 của UBND tỉnh Bắc Kạn để mở rộng thị trường tiêu thụ hàng hóa theo hướng văn minh, hiện đại; thúc đẩy thị trường TMĐT phát triển lành mạnh, bền vững đồng thời tạo thêm nguồn thu cho NSNN.\n\n**2\\. Thời gian thực hiện**\n\nKế hoạch được triển khai thực hiện trên địa bàn tỉnh Bắc Kạn kể từ tháng 8 năm 2021. Trong quá trình triển khai kế hoạch, việc áp dụng các chính sách về quản lý thuế, quản lý thương mại điện tử sẽ được vận dụng phù hợp với từng thời điểm, nội dung chính sách có hiệu lực.\n\n**III. NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN**\n\nĐể triển khai thực hiện có hiệu quả các nội dung quản lý nêu trên, Chủ tịch UBND tỉnh yêu cầu các cơ quan, đơn vị theo chức năng, nhiệm vụ được giao thực hiện và phối hợp chặt chẽ với ngành Thuế thực hiện nghiêm túc các nhiệm vụ, giải pháp cụ thể như sau:\n\n**1\\. Cục Thuế tỉnh**\n\n\\- Tuyên truyền, phổ biến chính sách thuế, nghĩa vụ kê khai nộp thuế đối với hoạt động kinh doanh TMĐT nhằm đảm bảo cho các tổ chức, cá nhân kinh doanh trong lĩnh vực này nắm rõ chính sách thuế để tự thực hiện kê khai, nộp thuế; Hướng dẫn, đôn đốc người nộp thuế kê khai, nộp các loại thuế có liên quan đến hoạt động kinh doanh TMĐT; Kiểm tra tính đầy đủ, đúng thủ tục của hồ sơ khai thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành.\n\n\\- Phối hợp với Báo Bắc Kạn, Đài Phát thanh - Truyền hình tỉnh tổ chức tuyên truyền việc tăng cường quản lý thuế đối với hoạt động kinh doanh TMĐT theo quy định của pháp luật về Thuế _(Luật Quản lý thuế năm 2019, các Luật thuế và các văn bản liên quan)_, pháp luật liên quan về thương mại điện tử _(Nghị định số [52/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-52-2013-nd-cp-thuong-mai-dien-tu-187901.aspx \"Nghị định 52/2013/NĐ-CP\") ngày 16/5/2013 của Chính phủ quy định về TMĐT; Nghị định số [72/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-72-2013-nd-cp-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-201110.aspx \"Nghị định 72/2013/NĐ-CP\") ngày 15/7/2013 của Chính phủ về quản lý, cung cấp sử dụng dịch vụ Internet và thông tin trên mạng; Điều 50 Luật Giao dịch điện tử s__ố_ _51/2005/QH11 ngày 29/11/2005 và các văn bản hướng dẫn thi hành)_ nhằm bảo đảm người nộp thuế nắm được chính sách, tự giác thực hiện kê khai, nộp thuế theo quy định; thông tin kịp thời các tổ chức, cá nhân hoạt động kinh doanh TMĐT có hành vi gian lận, trốn thuế đã được cơ quan Thuế thực hiện truy thu thuế trên các phương tiện thông tin đại chúng, nhằm nâng cao tính hiệu quả, hiệu lực của cơ quan quản lý Nhà nước.\n\n\\- Xây dựng kế hoạch tổ chức thanh tra, kiểm tra, giám sát việc chấp hành nghĩa vụ kê khai và nộp thuế của các tổ chức, cá nhân hoạt động kinh doanh TMĐT để đưa công tác quản lý thuế đối với hoạt động kinh doanh TMĐT vào nề nếp, trong đó cần tập trung thanh tra, kiểm tra các doanh nghiệp cung cấp dịch vụ giao nhận hàng hóa cho các doanh nghiệp kinh doanh TMĐT _(nhất là các đơn vị giao nhận hàng hóa được ủy quyền thu tiền kh__i_ _giao hàng - hình thức COD)_ qua đó xác định các tổ chức, cá nhân có hoạt động kinh doanh TMĐT, doanh thu của các tổ chức cá nhân này _(thông qua s__ố_ _lượng hàng hóa vận chuyển)_ để có biện pháp đưa vào quản lý thuế đảm bảo thu đúng, thu đủ, không bỏ sót nguồn thu; để phát hiện các cá nhân có hoạt động kinh doanh TMĐT nhưng chưa thực hiện đăng ký với các cơ quan quản lý nhà nước.\n\n\\- Tăng cường thực hiện rà soát, kiểm tra, kiểm soát để phát hiện các hộ, cá nhân đang tham gia hoạt động kinh doanh thương mại theo phương thức truyền thống nộp thuế khoán có phát sinh hoạt động kinh doanh TMĐT nhưng chưa thực hiện đăng ký với cơ quan quản lý nhà nước hoặc đang hoạt động dưới Giấy phép của cá nhân khác _(hoạt động dưới Giấy phép đã đăng ký của Hộ kinh doanh, cá nhân kinh doanh khác)_.\n\n\\- Xử lý nghiêm các hành vi không chấp hành kê khai, nộp thuế, gian lận, trốn tránh nghĩa vụ thuế trong hoạt động kinh doanh TMĐT theo quy định tại Luật Quản lý thuế và các văn bản pháp luật có liên quan...; phối hợp với các tổ chức có liên quan _(các nhà mạng, các cơ quan quản lý khác của nhà nước ...)_ ngăn chặn các giao dịch của tổ chức, cá nhân kinh doanh qua mạng có hành vi cố tình trốn thuế, chây ỳ nộp thuế.\n\n\\- Tổ chức công tác quản lý thu thuế, theo dõi, đôn đốc, xử lý và xây dựng các giải pháp thu nợ tiền thuế từ hoạt động kinh doanh TMĐT trên địa bàn tỉnh.\n\n\\- Chủ động phối hợp với các sở, ban, ngành, địa phương thực hiện công tác rà soát, kiểm tra, kiểm soát liên ngành để phát hiện người nộp thuế có hoạt động kinh doanh TMĐT trên địa bàn, yêu cầu phải kê khai, nộp thuế theo quy định.\n\n\\- Phối hợp với Sở Thông tin và Truyền thông, Bưu điện tỉnh, Chi nhánh Viettel tỉnh, các nhà mạng, các sàn giao dịch TMĐT, các công ty chuyển phát thu hộ tiền bán hàng (COD), công ty có các ứng dụng tiện ích, các đơn vị cung cấp dịch vụ Hosting... trên địa bàn tỉnh để thu thập thông tin dữ liệu các tổ chức, cá nhân có hoạt động kinh doanh TMĐT đang sử dụng dịch vụ của đơn vị như: Tên, địa chỉ, số điện thoại, giá trị thanh toán, số lượng hàng hóa vận chuyển... của các tổ chức, cá nhân.\n\n\\- Phối hợp với Ngân hàng nhà nước Chi nhánh tỉnh Bắc Kạn để trao đổi, thu thập thông tin, dữ liệu theo quy định tại Thông tư liên tịch số [102/2010/TTLT-BTC-NHNN](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-lien-tich-102-2010-ttlt-btc-nhnn-huong-dan-trao-doi-cung-cap-thong-tin-109107.aspx \"Thông tư liên tịch 102/2010/TTLT-BTC-NHNN\") ngày 14/7/2010 của Bộ Tài chính và Ngân hàng nhà nước Việt Nam hướng dẫn về việc trao đổi, cung cấp thông tin giữa cơ quan quản lý thuế và các tổ chức tín dụng của Bộ Tài chính và Ngân hàng Nhà nước. Đề nghị Ngân hàng nhà nước Chi nhánh tỉnh hỗ trợ cung cấp:\n\n\\+ Bảng sao kê tài khoản của các tổ chức, cá nhân có thu nhập từ hoạt động kinh doanh TMĐT thực hiện thanh toán qua ngân hàng bằng nhiều tài khoản mở tại các Ngân hàng thương mại tại Việt Nam, các tổ chức cung ứng dịch vụ trung gian thanh toán nhưng không đăng ký với cơ quan Thuế trên địa bàn.\n\n\\+ Danh sách các tổ chức, cá nhân trả tiền dịch vụ cho các đơn vị nước ngoài liên quan đến hoạt động TMĐT thông qua việc khai, nộp thuế nhà thầu; các cá nhân nhận tiền từ các nhà cung cấp nước ngoài như Apple store, CH-Play, Youtube, Google...\n\n\\- Chủ trì, phối hợp với Sở Thông tin và Truyền thông, Sở Công Thương xây dựng cơ sở dữ liệu quản lý về thuế trong TMĐT.\n\n\\- Chủ trì nghiên cứu, xây dựng Đề án về quản lý thuế đối với hoạt động kinh doanh TMĐT trên địa bàn tỉnh, trình UBND tỉnh Bắc Kạn ban hành trong tháng 9 năm 2021. Nội dung Đề án xác định rõ trách nhiệm của các đơn vị liên quan, đảm bảo yêu cầu kiểm soát chặt chẽ các tổ chức, cá nhân tham gia hoạt động kinh doanh TMĐT trên địa bàn tỉnh để đưa vào quản lý thuế theo quy định.\n\n**2\\. Sở Công Thương**\n\n\\- Phối hợp và cung cấp cho cơ quan Thuế thông tin dữ liệu các tổ chức, cá nhân đăng ký hoạt động kinh doanh TMĐT trên địa bàn và cung cấp thông tin khác theo quy định tại Luật Quản lý thuế và pháp luật có liên quan.\n\n\\- Phối hợp với cơ quan Thuế, các ngành liên quan và chính quyền địa phương để thực hiện thanh tra, kiểm tra hoạt động kinh doanh TMĐT trên địa bàn tỉnh.\n\n\\- Chế độ cung cấp thông tin: Phối hợp với Cục Thương mại điện tử và Kinh tế số cung cấp thông tin danh sách về các tổ chức, cá nhân đăng ký hoạt/thông báo Website Thương mại điện tử trên địa bàn tỉnh để thực hiện theo dõi, quản lý thu thuế theo quy định. Thông tin cung cấp gồm: Tên, địa chỉ, mã số thuế/Số Chứng minh nhân dân/số Thẻ căn cước công dân, số tài khoản mở tại tổ chức tín dụng. Số liệu cung cấp đến 31 tháng 7 năm 2021 và khi phát sinh tổ chức, cá nhân đăng ký/thông báo Website thương mại điện tử trên địa bàn tỉnh.\n\n**3\\. Sở Thông tin và Truyền thông**\n\n\\- Hướng dẫn, đề nghị các cơ quan báo chí tổ chức các hoạt động tuyên truyền về trách nhiệm, nghĩa vụ đăng ký thuế, kê khai thuế, nộp thuế đối với hoạt động kinh doanh TMĐT theo quy định của pháp luật thuế, pháp luật liên quan về thương mại điện tử nhằm đảm bảo người nộp thuế nắm được chính sách để thực hiện theo đúng quy định của Nhà nước.\n\n\\- Hỗ trợ cơ quan Thuế các cấp trên địa bàn về mặt kỹ thuật để thu thập thông tin các tổ chức, cá nhân cư trú có hoạt động kinh doanh TMĐT trên địa bàn tỉnh.\n\n\\- Phối hợp với cơ quan Thuế, cơ quan quản lý nhà nước có liên quan trao đổi, cung cấp thông tin về quản lý nhà nước đối với hoạt động kinh doanh TMĐT: Cung cấp thông tin hoạt động, sử dụng dịch vụ Internet; thông tin trên mạng; trò chơi điện tử trên mạng; cung cấp thông tin liên quan đối với hoạt động quảng cáo trên mạng; hoạt động mua bán sản phẩm, dịch vụ công nghệ thông tin trên môi trường mạng, kinh doanh dựa trên nền tảng số; các dịch vụ khác trên mạng và các thông tin liên quan trong quản lý thuế.\n\n\\- Phối hợp với Cục Thuế tỉnh trong việc xây dựng cơ sở dữ liệu quản lý nhà nước đối với thông tin của tổ chức, cá nhân có hoạt động kinh doanh TMĐT.\n\n\\- Yêu cầu các doanh nghiệp bưu chính, các đơn vị viễn thông trên địa bàn cung cấp kịp thời, chính xác các thông tin liên quan đến tổ chức, cá nhân có hoạt động kinh doanh TMĐT theo yêu cầu của cơ quan Thuế địa phương.\n\n\\- Chế độ cung cấp thông tin: Từ quý III/2021, cung cấp thông tin về các tổ chức, cá nhân có hoạt động liên quan đến các dịch vụ trên mạng _(nếu có)_ đến tháng 6 năm 2021, báo cáo định kỳ hàng quý _(trước ngày 10 tháng đầu_ _quý__)_ cung cấp về thông tin trên đối với trường hợp phát sinh mới, để cơ quan Thuế rà soát, hướng dẫn, đôn đốc người nộp thuế thực hiện nghĩa vụ đăng ký, kê khai và nộp thuế theo quy định.\n\n**4\\. Ngân hàng Nhà nước Chi nhánh tỉnh Bắc Kạn**\n\n\\- Chỉ đạo, hướng dẫn các Chi nhánh Ngân hàng thương mại, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp chặt chẽ với cơ quan Thuế các cấp trên địa bàn tỉnh; thực hiện nhiệm vụ, quyền hạn của Ngân hàng thương mại quy định tại Điều 27 Luật Quản lý thuế năm 2019, Điều 30 Nghị định số [126/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-126-2020-nd-cp-huong-dan-luat-quan-ly-thue-455733.aspx \"Nghị định 126/2020/NĐ-CP\") ngày 19/10/2020 của Chính phủ.\n\n\\- Triển khai thực hiện việc quản lý, giám sát các giao dịch thanh toán xuyên biên giới trong thương mại điện tử, kinh doanh dựa trên nền tảng số và các dịch vụ khác với tổ chức, cá nhân ở Việt Nam.\n\n\\- Chỉ đạo các Chi nhánh Ngân hàng thương mại trên địa bàn tỉnh phối hợp với cơ quan Thuế các cấp trong thực hiện việc khấu trừ, nộp thay nghĩa vụ thuế đối với nhà cung cấp ở nước ngoài không có cơ sở thường trú ở Việt Nam có hoạt động kinh doanh TMĐT với tổ chức, cá nhân ở Việt Nam theo quy định tại khoản 3 Điều 27 Luật Quản lý thuế năm 2019 và khoản 3 Điều 30 Nghị định số [126/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-126-2020-nd-cp-huong-dan-luat-quan-ly-thue-455733.aspx \"Nghị định 126/2020/NĐ-CP\") ngày 19/10/2020 của Chính phủ.\n\n**5\\. Cục Quản lý thị trường tỉnh Bắc Kạn**\n\n\\- Tăng cường công tác thanh tra, kiểm tra, kiểm soát, đấu tranh chống buôn lậu, gian lận thương mại trong lĩnh vực kinh doanh TMĐT trên địa bàn tỉnh.\n\n\\- Phối hợp chặt chẽ với cơ quan Thuế và các sở, ngành liên quan kiểm tra, kiểm soát việc vận chuyển, kinh doanh hàng hóa không rõ nguồn gốc, xuất xứ, hàng hóa nhập lậu, hàng hóa không có hóa đơn, chứng từ, hàng hóa xâm phạm quyền sở hữu trí tuệ... đối với các tổ chức, cá nhân có hoạt động kinh doanh TMĐT để ngăn chặn, phát hiện và xử lý kịp thời các hành vi vi phạm theo quy định của pháp luật.\n\n\\- Chế độ cung cấp thông tin: Từ quý III/2021, cung cấp danh sách tổ chức, cá nhân có hành vi vi phạm về gian lận, trốn thuế trong lĩnh vực kinh doanh TMĐT đến tháng 6 năm 2021 _(nếu có)_, báo cáo định kỳ hàng quý _(trước ngày 10 tháng đầu_ _quý__)_ về cung cấp thông tin đối với trường hợp phát sinh mới để cơ quan Thuế đôn đốc yêu cầu người nộp thuế thực hiện nghĩa vụ thuế theo quy định.\n\n**6\\. Công an tỉnh**\n\n\\- Chỉ đạo các phòng chức năng, cơ quan Công an các huyện, thành phố phối hợp khi có đề nghị của cơ quan Thuế các cấp trên địa bàn để thực hiện chống thất thu thuế trong lĩnh vực kinh doanh TMĐT.\n\n\\- Phối hợp với các sở, ngành liên quan trong việc kiểm tra, điều tra, phát hiện và xử lý các vi phạm có hành vi trốn thuế, gian lận thuế của tổ chức, cá nhân hoạt động kinh doanh TMĐT.\n\n**7\\. Báo Bắc Kạn, Đài Phát thanh - Truyền hình Bắc Kạn**\n\n\\- Phối hợp với cơ quan Thuế tuyên truyền về trách nhiệm, nghĩa vụ đăng ký thuế, kê khai thuế, nộp thuế đối với hoạt động kinh doanh TMĐT theo quy định của pháp luật Thuế, pháp luật liên quan về TMĐT nhằm đảm bảo người nộp thuế nắm được chính sách thuế để kê khai và nộp thuế theo quy định.\n\n\\- Phối hợp thông tin trên các phương tiện thông tin đại chúng khi có văn bản đề nghị của cơ quan Thuế đối với trường hợp các tổ chức, cá nhân hoạt động kinh doanh TMĐT có hành vi trốn thuế.\n\n**8\\. Bưu điện tỉnh, Viễn thông Bắc Kạn, Viettel Bắc Kạn, Sàn giao dịch TMĐT, các Công ty chuyển phát thu hộ tiền bán hàng, Công ty có các ứng dụng tiện ích, các đơn vị cung ứng dịch vụ Hosting ...**\n\n\\- Đối với các đơn vị bưu chính đề nghị cung cấp thông tin về người gửi hàng là các tổ chức, cá nhân có địa chỉ trên địa bàn tỉnh Bắc Kạn đã sử dụng dịch vụ giao hàng thu tiền hộ (COD) của doanh nghiệp.\n\n\\- Đối với sàn giao dịch thương mại; các nhà mạng; công ty chuyển phát thu hộ tiền bán hàng (COD), cung ứng các ứng dụng, dịch vụ tiện ích...: Phối hợp cung cấp cho cơ quan Thuế các cấp trên địa bàn tỉnh những thông tin về các tổ chức, cá nhân có hoạt động TMĐT đã đăng ký và đang sử dụng dịch vụ của các nhà mạng, công ty thông qua việc quản lý các thông tin giao dịch mua, bán hàng hóa dưới hình thức: Số thuê bao, SMS, Zalo, Facebook, Viber, COD ...\n\n\\- Chế độ cung cấp thông tin: Đề nghị các đơn vị phối hợp cung cấp danh sách tổ chức, cá nhân liên quan đến lĩnh vực kinh doanh TMĐT đến tháng 7 năm 2021 (nếu có), báo cáo định kỳ hàng tháng _(trước ngày 10 tháng tiếp theo)_ về cung cấp thông tin phát sinh mới _(n__ế__u có)_ để cơ quan Thuế kịp thời rà soát, kiểm tra, đôn đốc yêu cầu người nộp thuế thực hiện nghĩa vụ thuế theo quy định.\n\n**9\\. UBND các huyện, thành phố**\n\n\\- Tăng cường công tác quản lý nhà nước, kiểm soát chặt chẽ các hoạt động liên quan đến lĩnh vực kinh doanh TMĐT trên địa bàn, kịp thời phát hiện, xử lý nghiêm theo quy định của pháp luật.\n\n\\- Tuyên truyền, phổ biến pháp luật về hoạt động kinh doanh TMĐT và pháp luật có liên quan.\n\n\\- Chỉ đạo các phòng, ban, UBND các xã, phường, thị trấn tăng cường phối hợp với cơ quan Thuế địa phương trong việc quản lý thuế và đôn đốc nộp các khoản thuế:\n\n\\+ Thực hiện rà soát, kiểm tra, kiểm soát, quản lý chặt chẽ nguồn thu đối với lĩnh vực kinh doanh TMĐT trên địa bàn; đối với các trường hợp không chấp hành, kiên quyết xử lý nghiêm theo đúng quy định của pháp luật.\n\n\\+ Phòng Tài chính - Kế hoạch: Hàng tháng cung cấp danh sách các hộ, cá nhân đăng ký hoạt động kinh doanh thương mại để cơ quan Thuế làm cơ sở đưa vào rà soát, kiểm tra, kiểm soát hoạt động kinh doanh thực tế nhằm phát hiện hình thức kinh doanh TMĐT núp bóng dưới hình thức kinh doanh thương mại theo phương thức truyền thống.\n\n\\+ UBND xã, phường, thị trấn: Cử cán bộ phối hợp, tham gia các đoàn kiểm, tra, kiểm soát liên ngành nhằm kiểm tra việc chấp hành các quy định về kinh doanh TMĐT, chấp hành các quy định về thuế trên địa bàn.\n\n\\+ Chỉ đạo Hội đồng tư vấn thuế phối hợp với Đội thuế xã, phường thực hiện thống kê, rà soát và yêu cầu các hộ, cá nhân kinh doanh TMĐT thực hiện kê khai, nộp thuế theo đúng quy định.\n\n\\- Chế độ cung cấp thông tin: Từ tháng 7/2021, cung cấp cho cơ quan Thuế thông tin theo đề nghị trên đến 30/6/2021, định kỳ hàng tháng _(trước ngày 10 tháng tiếp theo)_ cung cấp thông tin trên đối với trường hợp bổ sung, điều chỉnh _(nếu có)_.\n\n**IV. TỔ CHỨC THỰC HIỆN**\n\n**1\\. Người nộp thuế**\n\n\\- Thực hiện nghĩa vụ, trách nhiệm của người nộp thuế theo quy định tại Điều 7 Luật Quản lý thuế năm 2019.\n\n\\- Chấp hành theo các quy định của pháp luật Thuế và các văn bản hướng dẫn thực hiện; tuân thủ đầy đủ các quy định quản lý nhà nước về hoạt động kinh doanh TMĐT và thực hiện các nghĩa vụ của tổ chức, cá nhân kinh doanh TMĐT theo quy định tại Nghị định số [52/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-52-2013-nd-cp-thuong-mai-dien-tu-187901.aspx \"Nghị định 52/2013/NĐ-CP\") ngày 16/5/2013 của Chính phủ về thương mại điện tử.\n\n**2\\. Cơ quan Thuế**\n\n\\- Chủ trì phối hợp các ngành, các địa phương triển khai thực hiện Kế hoạch này đảm bảo đúng mục tiêu, yêu cầu. Triển khai đầy đủ các giải pháp quản lý thuế trên địa bàn đối với khoản thu từ kinh doanh TMĐT đảm bảo không bỏ sót nguồn thu; kịp thời xử lý hoặc báo cáo Cục Thuế tỉnh để tổng hợp báo cáo UBND tỉnh về những vướng mắc trong quá trình triển khai công tác quản lý thuế đối với hoạt động kinh doanh TMĐT trên địa bàn.\n\n\\- Cục Thuế tỉnh căn cứ Kế hoạch, chủ động triển khai các giải pháp quản lý thuế đối với hoạt động kinh doanh TMĐT đến các đơn vị trực thuộc, giao trách nhiệm và cụ thể hóa các giải pháp đến từng đơn vị.\n\n\\- Định kỳ hàng năm, tổng hợp báo cáo 6 tháng _(trước ngày 25/7)_, báo cáo năm _(trước ngày 25/1 năm sau)_ gửi UBND tỉnh và phối hợp cung cấp thông tin về kết quả thực hiện theo kế hoạch cho các sở, ngành, UBND các huyện, thành phố để phối hợp theo dõi đôn đốc thu. Kịp thời báo cáo, tham mưu đề xuất xử lý các khó khăn, vướng mắc trong quá trình thực hiện.\n\n**3\\. Đối với các sở, ban, ngành, UBND các huyện, thành phố**\n\n\\- Phối hợp chặt chẽ với cơ quan Thuế tuyên truyền, phổ biến và tổ chức thực hiện đúng nội dung Kế hoạch này.\n\n\\- Kịp thời báo cáo về tình hình hoạt động kinh doanh TMĐT trên địa bàn, kết quả thực hiện, những khó khăn vướng mắc đến cơ quan có thẩm quyền để xử lý giải quyết theo quy định.\n\n\\- Chế độ thông tin báo cáo:\n\n\\+ Báo cáo 6 tháng: Trước ngày 10 tháng 7 hàng năm, các đơn vị báo cáo gửi Cục Thuế tỉnh để tổng hợp, báo cáo UBND tỉnh trước ngày 25 tháng 7 hàng năm.\n\n\\+ Báo cáo năm: Trước ngày 10 tháng 01 năm sau, các đơn vị báo cáo kết quả thực hiện kế hoạch gửi Cục Thuế tỉnh để tổng hợp, báo cáo UBND tỉnh trước ngày 25 tháng 01 năm sau.\n\n\\- Trong quá trình thực hiện nếu có khó khăn, vướng mắc hoặc phát sinh vấn đề mới, các cơ quan, đơn vị, tổ chức và cá nhân có liên quan phản ánh đến cơ quan chủ trì để tổng hợp và đề xuất trình UBND tỉnh xem xét điều chỉnh, bổ sung.\n\nUBND tỉnh yêu cầu các sở, ban, ngành, các đơn vị liên quan và UBND các huyện, thành phố nghiêm túc triển khai thực hiện Kế hoạch này./.\n\n**_  \nNơi nhận:  \n_**\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- CT, các PCT UBND tỉnh;  \n\\- Các Sở, ban, ngành thuộc tỉnh;  \n\\- Cục Thuế tỉnh;  \n\\- Cục Quản lý thị trường tỉnh Bắc Kạn;  \n\\- Ngân hàng nhà nước Chi nhánh tỉnh;  \n\\- Kho bạc nhà nước Bắc Kạn;  \n\\- Bưu điện tỉnh Bắc Kạn;  \n\\- VNPT Bắc Kạn;  \n\\- Chi nhánh Viettel Bắc Kạn;  \n\\- Báo Bắc Kạn;  \n\\- Đài Phát thanh - Truyền hình Bắc Kạn;  \n\\- UBND các huyện, thành phố;  \n\\- LĐVP;  \n\\- Lưu: VT, Việt, Tuyết.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Long Hải**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

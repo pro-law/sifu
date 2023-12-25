@@ -1,0 +1,428 @@
+{
+  "title": "Nghị quyết 104/2015/NQ-HĐND quy định mức thu, đối tượng thu, nộp, chế độ quản lý, sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn thành phố Đà Nẵng",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật quản lý thuế 2006",
+      "id": "78/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-11-29",
+      "effectiveDate": "2007-07-01",
+      "gazetteDate": "2007-06-25",
+      "gazetteNumber": "Từ số 410 đến số 411",
+      "status": "Hết hiệu lực: 01/07/2020"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 02/2014/TT-BTC hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "02/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Vũ Thị Mai"
+      ],
+      "issuedDate": "2014-01-02",
+      "effectiveDate": "2014-02-17",
+      "gazetteDate": "2014-02-22",
+      "gazetteNumber": "Từ số 217 đến số 218",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Thông tư 45/2006/TT-BTC sửa đổi Thông tư 63/2002/TT-BTC hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí do Bộ Tài chính ban hành",
+      "id": "45/2006/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2006-05-25",
+      "effectiveDate": "2006-06-18",
+      "gazetteDate": "2006-06-03",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị định 24/2006/NĐ-CP Sửa đổi Nghị định 57/2002/NĐ-CP Hướng dẫn Pháp lệnh Phí và Lệ phí",
+      "id": "24/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-03-06",
+      "effectiveDate": "2006-03-30",
+      "gazetteDate": "2006-03-15",
+      "gazetteNumber": "Từ số 14 đến số 15",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Luật Ngân sách Nhà nước 2002",
+      "id": "01/2002/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2002-12-16",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-01-25",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Thông tư 63/2002/TT-BTC hướng dẫn các quy định pháp luật về phí và lệ phí do Bộ Tài chính ban hành",
+      "id": "63/2002/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2002-07-24",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2002-08-31",
+      "gazetteNumber": "Số 42",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị định 57/2002/NĐ-CP Hướng dẫn Pháp lệnh phí và lệ phí",
+      "id": "57/2002/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2002-06-03",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2002-07-05",
+      "gazetteNumber": "Số 31",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Pháp lệnh phí và lệ phí năm 2001",
+      "id": "38/2001/PL-UBTVQH10",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2001-08-28",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2001-12-08",
+      "gazetteNumber": "Số 45",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Nghị quyết 58/2016/NQ-HĐND quy định mức thu chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn thành phố Đà Nẵng",
+      "id": "58/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Nguyễn Xuân Anh"
+      ],
+      "issuedDate": "2016-12-08",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Nghị quyết 56/2021/NQ-HĐND quy định về mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn thành phố Đà Nẵng",
+      "id": "56/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Lương Nguyễn Minh Triết"
+      ],
+      "issuedDate": "2021-12-17",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 154/QĐ-UBND năm 2022 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân và Ủy ban nhân dân thành phố Đà Nẵng ban hành hết hiệu lực, ngưng hiệu lực",
+      "id": "154/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Lê Trung Chinh"
+      ],
+      "issuedDate": "2022-01-17",
+      "effectiveDate": "2022-01-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 06/2016/QĐ-UBND sửa đổi Quy định về Lệ phí cấp giấy phép cho người lao động nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh Bình Định",
+      "id": "06/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Phan Cao Thắng"
+      ],
+      "issuedDate": "2016-01-26",
+      "effectiveDate": "2016-02-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 45/2015/QĐ-UBND Quy định mức thu, việc quản lý, sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh Bình Thuận",
+      "id": "45/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Lê Tiến Phương"
+      ],
+      "issuedDate": "2015-10-01",
+      "effectiveDate": "2015-10-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/09/2018"
+    },
+    {
+      "title": "Quyết định 27/2015/QĐ-UBND quy định chế độ thu, nộp và quản lý lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh Bình Dương",
+      "id": "27/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Trần Văn Nam"
+      ],
+      "issuedDate": "2015-08-12",
+      "effectiveDate": "2015-08-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 1704/QĐ-UBND năm 2015 về Quy chế phối hợp, xử lý các vấn đề phát sinh về lãnh sự liên quan đến người nước ngoài tỉnh Lâm Đồng",
+      "id": "1704/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Đoàn Văn Việt"
+      ],
+      "issuedDate": "2015-08-10",
+      "effectiveDate": "2015-08-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 13/2015/NQ-HĐND8 về chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh Bình Dương",
+      "id": "13/2015/NQ-HĐND8",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Phạm Văn Cành"
+      ],
+      "issuedDate": "2015-07-21",
+      "effectiveDate": "2015-07-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị quyết 11/2015/NQ-HĐND quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho lao động là người nước ngoài làm việc trên địa bàn tỉnh Trà Vinh",
+      "id": "11/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Trà Vinh",
+      "signers": [
+        "Sơn Thị Ánh Hồng"
+      ],
+      "issuedDate": "2015-07-17",
+      "effectiveDate": "2015-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 24/07/2017"
+    },
+    {
+      "title": "Nghị quyết 08/2015/NQ-HĐND về mức thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Khánh Hòa",
+      "id": "08/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Khánh Hòa",
+      "signers": [
+        "Lê Thanh Quang"
+      ],
+      "issuedDate": "2015-07-08",
+      "effectiveDate": "2015-07-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 23/2014/QĐ-UBND quy định mức thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc trên địa bàn tỉnh Quảng Nam",
+      "id": "23/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Lê Phước Thanh"
+      ],
+      "issuedDate": "2014-09-16",
+      "effectiveDate": "2014-09-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/12/2016"
+    },
+    {
+      "title": "Quyết định 38/2014/QĐ-UBND quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam trên địa bàn tỉnh Tây Ninh",
+      "id": "38/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tây Ninh",
+      "signers": [
+        "Trần Lưu Quang"
+      ],
+      "issuedDate": "2014-09-08",
+      "effectiveDate": "2014-09-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 24/2012/QĐ-UBND về mức thu, nộp lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại tỉnh Sóc Trăng",
+      "id": "24/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Quách Việt Tùng"
+      ],
+      "issuedDate": "2012-04-24",
+      "effectiveDate": "2012-05-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/12/2014"
+    }
+  ],
+  "id": "104/2015/NQ-HĐND",
+  "legislationType": "Nghị quyết",
+  "categories": [
+    "Thuế - Phí - Lệ Phí",
+    "Lao động - Tiền lương"
+  ],
+  "organization": "Thành phố Đà Nẵng",
+  "signers": [
+    "Trần Thọ"
+  ],
+  "issuedDate": "2015-07-09",
+  "effectiveDate": "2015-08-01",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 01/01/2017",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADUAMAA4ADAANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"EN-US\" style=\"color:black\">HỘI ĐỒNG</span></b><b><span lang=\"NL\" style=\"color:black\"> NHÂN DÂN<br>\n  THÀNH PHỐ ĐÀ NẴNG<br>\n  --------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"NL\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"EN-US\" style=\"color:black\">Số: 104/2015/NQ-HĐND</span></p>\n  </td>\n  <td width=\"367\" valign=\"bottom\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i><span style=\"color:black\">Đà Nẵng, ngày 09 tháng 7 năm 2015</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">&nbsp;</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"NL\" style=\"font-size:12.0pt;color:black\">NGHỊ QUYẾT</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"color:black\">QUY ĐỊNH MỨC THU, ĐỐI TƯỢNG THU, NỘP, CHẾ ĐỘ QUẢN LÝ, SỬ\nDỤNG LỆ PHÍ CẤP GIẤY PHÉP LAO ĐỘNG CHO NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI CÁC DOANH\nNGHIỆP, CƠ QUAN, TỔ CHỨC HOẠT ĐỘNG TRÊN ĐỊA BÀN THÀNH PHỐ ĐÀ NẴNG</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"NL\" style=\"font-size:12.0pt;color:black\">HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ ĐÀ NẴNG<br>\nKHÓA VIII, NHIỆM KỲ 2011 - 2016, KỲ HỌP THỨ 14</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"NL\" style=\"color:black\">Căn cứ Luật\nTổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"NL\" style=\"color:black\">Căn cứ Luật\nNgân sách Nhà nước ngày 16 tháng 12 năm 2002;</span></i></p>\n\n<p><i><span style=\"color:black\">Căn cứ Pháp lệnh </span></i><i><span lang=\"NL\" style=\"color:black\">P</span><span style=\"color:black\">hí và lệ phí</span></i><i><span lang=\"NL\" style=\"color:black\"> ngày 28 tháng 8 năm 2001;</span></i></p>\n\n<p><i><span style=\"color:black\">Căn cứ Nghị định số 57/2002/NĐ-CP ngày 03 tháng\n6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh </span></i><i><span lang=\"NL\" style=\"color:black\">Ph</span><span style=\"color:black\">í và lệ phí</span></i><i><span lang=\"NL\" style=\"color:black\"> và </span><span style=\"color:black\">Nghị định số 24/2006/NĐ-CP\nngày 06 tháng 03 năm 2006 của Chính phủ sửa đổi, bổ sung một số điều của Nghị\nđịnh số 57/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ;</span></i></p>\n\n<p><i><span style=\"color:black\">Căn cứ Thông tư số 63/2002/TT-BTC ngày 24 tháng\n7 năm 2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về phí\nvà lệ phí và Thông tư số 45/2006/TT-BTC ngày 25 tháng 5 năm 2006 của Bộ Tài chính\nsửa đổi, bổ sung Thông tư số 63/2002/TT-BTC ngày 24 tháng 7 năm 2002 của Bộ Tài\nchính;</span></i></p>\n\n<p><i><span style=\"color:black\">Căn cứ Thông tư số </span></i><i><span lang=\"X-NONE\" style=\"color:black\">02/2014</span><span style=\"color:black\">/TT-BTC\nngày </span></i><i><span lang=\"X-NONE\" style=\"color:black\">02</span><span style=\"color:black\"> tháng </span></i><i><span lang=\"X-NONE\" style=\"color:black\">01</span><span style=\"color:black\"> năm 20</span></i><i><span lang=\"X-NONE\" style=\"color:black\">14</span><span lang=\"X-NONE\" style=\"color:black\"> </span><span style=\"color:black\">của Bộ Tài\nchính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân\ndân tỉnh, thành phố trực thuộc Trung ương;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"X-NONE\" style=\"color:black\">Sau khi\nnghe Tờ trình số</span><span style=\"color:black\"> 5133</span></i><i><span lang=\"X-NONE\" style=\"color:black\">/TTr-UBND ngày</span><span style=\"color:black\">\n04 </span></i><i><span lang=\"X-NONE\" style=\"color:black\">tháng 7 năm 2015 của Ủy\nban nhân dân thành phố về việc quy định, điều chỉnh một số loại phí, lệ phí\ntrên địa bàn thành phố; Báo cáo thẩm tra của Ban Kinh tế </span><span style=\"color:black\">và</span></i><i><span lang=\"X-NONE\" style=\"color:black\"> Ngân\nsách</span><span style=\"color:black\">,</span></i><i><span style=\"color:black\"> <span lang=\"X-NONE\">ý kiến của các vị đại biểu Hội đồng nhân dân thành phố,</span></span></i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;color:black\">QUYẾT NGHỊ:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span style=\"color:black\">Điều 1.</span></b><span style=\"color:black\"> Quy định mức thu, đối tượng thu, nộp lệ </span><span lang=\"NL\" style=\"color:black\">phí cấp </span><span style=\"color:black\">giấy phép\nlao động cho người nước ngoài làm việc tại các doanh nghiệp, cơ quan, tổ chức\nhoạt động trên địa bàn thành phố Đà Nẵng</span><span lang=\"NL\" style=\"color:black\">,\ncụ thể như sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">1. Đối\ntượng nộp lệ phí</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">Người sử dụng\nlao động khi làm thủ tục đề nghị cơ quan thu lệ phí cấp mới và cấp lại giấy\nphép lao động cho người lao động nước ngoài làm việc tại doanh nghiệp, cơ quan,\ntổ chức hoạt động trên địa bàn thành phố Đà Nẵng.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">2.</span></b><span lang=\"NL\" style=\"color:black\"> <b>Cơ quan thu lệ phí:</b> Sở Lao động - Thương\nbinh và Xã hội hoặc các đơn vị được Sở Lao động - Thương binh và Xã hội ủy\nquyền.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">3. Mức thu\nlệ phí:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">a) Cấp mới\ngiấy phép lao động: 600.000 đồng/giấy phép;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">b) Cấp lại\ngiấy phép lao động: 450.000 đồng/giấy phép.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">Điều 2. Chế\nđộ thu, nộp, quản lý, sử dụng nguồn thu lệ phí</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">1.</span></b><span lang=\"NL\" style=\"color:black\"> Cơ quan thu lệ phí thực hiện chế độ thu, nộp lệ\nphí theo quy định của Luật Quản lý thuế, Thông tư số 63/2002/TT-BTC ngày 24\ntháng 7 năm 2002 và Thông tư số 45/2006/TT-BTC ngày 25 tháng 5 năm 2006 của Bộ\nTài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">2.</span></b><span lang=\"NL\" style=\"color:black\"> Chứng từ thu lệ phí: Biên lai thu lệ phí do cơ\nquan Thuế phát hành</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">3.</span></b><span lang=\"NL\" style=\"color:black\"> Tỷ lệ trích để lại, nộp ngân sách đối với tiền thu\nlệ phí</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">Cơ quan thu lệ\nphí được trích để lại 90% tổng số tiền lệ phí thu được để chi phí phục vụ công\ntác thu, số còn lại 10% nộp vào ngân sách thành phố.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">Điều 3.\nHiệu lực thi hành</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">1.</span></b><span lang=\"NL\" style=\"color:black\"> Nghị quyết này có hiệu lực thi hành từ ngày 01\ntháng 8 năm 2015.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">2.</span></b><span lang=\"NL\" style=\"color:black\"> Bãi bỏ nội dung quy định về lệ phí cấp giấy phép\nlao động cho người nước ngoài làm việc tại các doanh nghiệp, cơ quan, tổ chức\nhoạt động trên địa bàn thành phố Đà Nẵng tại điểm e, Khoản 1, Điều 1, Nghị\nquyết số 46/2006/NQ-HĐND ngày 22 tháng 12 năm 2006 của Hội đồng nhân dân thành\nphố Đà Nẵng khóa VII, nhiệm kỳ 2004 - 2009, kỳ họp thứ 8 về việc quy định thu\nmột số loại phí và lệ phí trên địa bàn thành phố Đà Nẵng.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">Điều 4. Tổ\nchức thực hiện</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">1.</span></b><span lang=\"NL\" style=\"color:black\"> Ủy ban nhân dân thành phố Đà Nẵng triển khai thực\nhiện Nghị quyết này theo đúng quy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\" style=\"color:black\">2.</span></b><span lang=\"NL\" style=\"color:black\"> Thường trực Hội đồng nhân dân thành phố, các Ban\ncủa Hội đồng nhân dân thành phố và các vị đại biểu Hội đồng nhân dân thành phố\ngiám sát việc triển khai Nghị quyết này.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">Nghị quyết này\nđã được Hội đồng nhân dân thành phố khóa VIII, nhiệm kỳ 2011-2016, kỳ họp thứ\n14 thông qua ngày 09 tháng 7 năm 2015./.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADUAMAA4ADAANwA=-->\n <tbody><tr>\n  <td width=\"311\" valign=\"top\" style=\"width:233.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b><span style=\"font-size:8.0pt;color:black\">&nbsp;</span></b></p>\n  <p style=\"margin-bottom:6.0pt\"><b><i><span style=\"color:black\">Nơi nhận:</span></i></b><b><i><span lang=\"NL\" style=\"color:black\"><br>\n  </span></i></b><span style=\"font-size:8.0pt;color:black\">- UBTVQH, Chính phủ,\n  VP Chủ tịch nước;<br>\n  - Bộ Tài chính; Cục KTVB QPPL - Bộ Tư pháp;<br>\n  - TV Thành ủy, các ban của Đảng;<br>\n  - ĐB HĐND TP; Đoàn ĐBQH TP;<br>\n  - UBND, UBMTTQVN, các sở, ngành, đoàn thể TP;<br>\n  - Quận, huyện ủy; UBND, UBMTTQ các q/h;<br>\n  - Thường trực HĐND 11 xã huyện Hòa Vang;<br>\n  - Báo ĐN, Báo CATP ĐN, Đài PTTH ĐN,<br>\n  TT TTVN tại ĐN, Cổng TTĐT thành phố;<br>\n  </span><span lang=\"NL\" style=\"font-size:8.0pt;color:black\">- Văn phòng Đoàn\n  ĐBQH và HĐND TP;<br>\n  - VP UBND thành phố;<br>\n  </span><span style=\"font-size:8.0pt;color:black\">- Lưu: VT, TT</span><span lang=\"NL\" style=\"font-size:8.0pt;color:black\">-</span><span style=\"font-size:\n  8.0pt;color:black\">TH, CTHĐND.</span></p>\n  </td>\n  <td width=\"279\" valign=\"top\" style=\"width:209.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"NL\" style=\"color:black\">CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Thọ</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">&nbsp;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"color:black\">&nbsp;</span></p>\n\n</div>\n\n",
+  "mdContent": "**HỘI ĐỒNG** **NHÂN DÂN  \nTHÀNH PHỐ ĐÀ NẴNG  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 104/2015/NQ-HĐND\n\n_Đà Nẵng, ngày 09 tháng 7 năm 2015_\n\n**NGHỊ QUYẾT**\n\nQUY ĐỊNH MỨC THU, ĐỐI TƯỢNG THU, NỘP, CHẾ ĐỘ QUẢN LÝ, SỬ DỤNG LỆ PHÍ CẤP GIẤY PHÉP LAO ĐỘNG CHO NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI CÁC DOANH NGHIỆP, CƠ QUAN, TỔ CHỨC HOẠT ĐỘNG TRÊN ĐỊA BÀN THÀNH PHỐ ĐÀ NẴNG\n\n**HỘI ĐỒNG NHÂN DÂN THÀNH PHỐ ĐÀ NẴNG  \nKHÓA VIII, NHIỆM KỲ 2011 - 2016, KỲ HỌP THỨ 14**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;_\n\n_Căn cứ Luật Ngân sách Nhà nước ngày 16 tháng 12 năm 2002;_\n\n_Căn cứ Pháp lệnh_ _Phí và lệ phí_ _ngày 28 tháng 8 năm 2001;_\n\n_Căn cứ Nghị định số 57/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh_ _Phí và lệ phí_ _và Nghị định số 24/2006/NĐ-CP ngày 06 tháng 03 năm 2006 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 57/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ;_\n\n_Căn cứ Thông tư số 63/2002/TT-BTC ngày 24 tháng 7 năm 2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí và Thông tư số 45/2006/TT-BTC ngày 25 tháng 5 năm 2006 của Bộ Tài chính sửa đổi, bổ sung Thông tư số 63/2002/TT-BTC ngày 24 tháng 7 năm 2002 của Bộ Tài chính;_\n\n_Căn cứ Thông tư số_ _02/2014/TT-BTC ngày_ _02 tháng_ _01 năm 20__14 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương;_\n\n_Sau khi nghe Tờ trình số 5133__/TTr-UBND ngày 04_ _tháng 7 năm 2015 của Ủy ban nhân dân thành phố về việc quy định, điều chỉnh một số loại phí, lệ phí trên địa bàn thành phố; Báo cáo thẩm tra của Ban Kinh tế và_ _Ngân sách,_ _ý kiến của các vị đại biểu Hội đồng nhân dân thành phố,_\n\n**QUYẾT NGHỊ:**\n\n**Điều 1.** Quy định mức thu, đối tượng thu, nộp lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại các doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn thành phố Đà Nẵng, cụ thể như sau:\n\n**1\\. Đối tượng nộp lệ phí**\n\nNgười sử dụng lao động khi làm thủ tục đề nghị cơ quan thu lệ phí cấp mới và cấp lại giấy phép lao động cho người lao động nước ngoài làm việc tại doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn thành phố Đà Nẵng.\n\n**2.** **Cơ quan thu lệ phí:** Sở Lao động - Thương binh và Xã hội hoặc các đơn vị được Sở Lao động - Thương binh và Xã hội ủy quyền.\n\n**3\\. Mức thu lệ phí:**\n\na) Cấp mới giấy phép lao động: 600.000 đồng/giấy phép;\n\nb) Cấp lại giấy phép lao động: 450.000 đồng/giấy phép.\n\n**Điều 2. Chế độ thu, nộp, quản lý, sử dụng nguồn thu lệ phí**\n\n**1.** Cơ quan thu lệ phí thực hiện chế độ thu, nộp lệ phí theo quy định của Luật Quản lý thuế, Thông tư số 63/2002/TT-BTC ngày 24 tháng 7 năm 2002 và Thông tư số 45/2006/TT-BTC ngày 25 tháng 5 năm 2006 của Bộ Tài chính.\n\n**2.** Chứng từ thu lệ phí: Biên lai thu lệ phí do cơ quan Thuế phát hành\n\n**3.** Tỷ lệ trích để lại, nộp ngân sách đối với tiền thu lệ phí\n\nCơ quan thu lệ phí được trích để lại 90% tổng số tiền lệ phí thu được để chi phí phục vụ công tác thu, số còn lại 10% nộp vào ngân sách thành phố.\n\n**Điều 3. Hiệu lực thi hành**\n\n**1.** Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 8 năm 2015.\n\n**2.** Bãi bỏ nội dung quy định về lệ phí cấp giấy phép lao động cho người nước ngoài làm việc tại các doanh nghiệp, cơ quan, tổ chức hoạt động trên địa bàn thành phố Đà Nẵng tại điểm e, Khoản 1, Điều 1, Nghị quyết số 46/2006/NQ-HĐND ngày 22 tháng 12 năm 2006 của Hội đồng nhân dân thành phố Đà Nẵng khóa VII, nhiệm kỳ 2004 - 2009, kỳ họp thứ 8 về việc quy định thu một số loại phí và lệ phí trên địa bàn thành phố Đà Nẵng.\n\n**Điều 4. Tổ chức thực hiện**\n\n**1.** Ủy ban nhân dân thành phố Đà Nẵng triển khai thực hiện Nghị quyết này theo đúng quy định của pháp luật.\n\n**2.** Thường trực Hội đồng nhân dân thành phố, các Ban của Hội đồng nhân dân thành phố và các vị đại biểu Hội đồng nhân dân thành phố giám sát việc triển khai Nghị quyết này.\n\nNghị quyết này đã được Hội đồng nhân dân thành phố khóa VIII, nhiệm kỳ 2011-2016, kỳ họp thứ 14 thông qua ngày 09 tháng 7 năm 2015./.\n\n**_Nơi nhận:_**\\- UBTVQH, Chính phủ, VP Chủ tịch nước;  \n\\- Bộ Tài chính; Cục KTVB QPPL - Bộ Tư pháp;  \n\\- TV Thành ủy, các ban của Đảng;  \n\\- ĐB HĐND TP; Đoàn ĐBQH TP;  \n\\- UBND, UBMTTQVN, các sở, ngành, đoàn thể TP;  \n\\- Quận, huyện ủy; UBND, UBMTTQ các q/h;  \n\\- Thường trực HĐND 11 xã huyện Hòa Vang;  \n\\- Báo ĐN, Báo CATP ĐN, Đài PTTH ĐN,  \nTT TTVN tại ĐN, Cổng TTĐT thành phố;  \n\\- Văn phòng Đoàn ĐBQH và HĐND TP;  \n\\- VP UBND thành phố;  \n\\- Lưu: VT, TT\\-TH, CTHĐND.\n\n**CHỦ TỊCH  \n  \n  \n  \n  \nTrần Thọ**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

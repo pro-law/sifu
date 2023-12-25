@@ -1,0 +1,625 @@
+{
+  "title": "Kế hoạch 21/KH-UBND công tác phổ biến, giáo dục pháp luật, hòa giải ở cơ sở, xây dựng và thực hiện hương ước, quy ước năm 2016 do tỉnh Nam Định ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Bộ luật tố tụng hình sự 2015",
+      "id": "101/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Trách nhiệm hình sự",
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-27",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2015-12-31",
+      "gazetteNumber": "Từ số 1271 đến số 1272",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ luật hình sự 2015",
+      "id": "100/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Trách nhiệm hình sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-27",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2015-12-31",
+      "gazetteNumber": "Từ số 1263 đến số 1264",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ luật tố tụng dân sự 2015",
+      "id": "92/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-29",
+      "gazetteNumber": "Từ số 1251 đến số 1252",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật trưng cầu ý dân 2015",
+      "id": "96/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-30",
+      "gazetteNumber": "Từ số 1261 đến số 1262",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tố tụng hành chính 2015",
+      "id": "93/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-29",
+      "gazetteNumber": "Từ số 1247 đến số 1248",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ luật dân sự 2015",
+      "id": "91/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-24",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1243 đến số 1244",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân 2015",
+      "id": "85/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2015-09-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 869 đến số 870",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Mặt trận tổ quốc Việt Nam 2015",
+      "id": "75/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-09",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-25",
+      "gazetteNumber": "Từ số 861 đến số 862",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4077/QĐ-BTP năm 2014 ban hành chương trình khung bồi dưỡng kiến thức pháp luật, nghiệp vụ hòa giải cơ sở cho hòa giải viên do Bộ Tư pháp ban hành",
+      "id": "4077/QĐ-BTP",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Bộ Tư pháp",
+      "signers": [
+        "Hà Hùng Cường"
+      ],
+      "issuedDate": "2014-12-31",
+      "effectiveDate": "2014-12-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Hộ tịch 2014",
+      "id": "60/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Căn cước công dân 2014",
+      "id": "59/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Luật Hôn nhân và gia đình 2014",
+      "id": "52/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-19",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-16",
+      "gazetteNumber": "Từ số 681 đến số 682",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 21/2013/TT-BTP quy định trình tự, thủ tục công nhận, miễn nhiệm báo cáo viên pháp luật; công nhận, cho thôi làm tuyên truyền pháp luật và biện pháp bảo đảm hoạt động của báo cáo viên pháp luật, tuyên truyền viên pháp luật do Bộ trưởng Bộ Tư pháp ban hành",
+      "id": "21/2013/TT-BTP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tư pháp",
+      "signers": [
+        "Nguyễn Thúy Hiền"
+      ],
+      "issuedDate": "2013-12-18",
+      "effectiveDate": "2014-02-01",
+      "gazetteDate": "2014-01-07",
+      "gazetteNumber": "Từ số 39 đến số 40",
+      "status": "Hết hiệu lực: 10/09/2016"
+    },
+    {
+      "title": "Hiến pháp 2013",
+      "id": "Khongso",
+      "legislationType": "Hiến pháp",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-28",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-12-29",
+      "gazetteNumber": "Từ số 1003 đến số 1004",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1133/QĐ-TTg năm 2013 phê duyệt và tổ chức thực hiện Đề án tại Quyết định 409/QĐ-TTg về Chương trình hành động thực hiện Kết luận 04-KL/TW do Thủ tướng Chính phủ ban hành",
+      "id": "1133/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-15",
+      "effectiveDate": "2013-07-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật hòa giải ở cơ sở năm 2013",
+      "id": "35/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-06-20",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-07-13",
+      "gazetteNumber": "Từ số 407 đến số 408",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật phổ biến, giáo dục pháp luật 2012",
+      "id": "14/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 409/QĐ-TTg năm 2012 về Chương trình hành động thực hiện Kết luận 04-KL/TW do Thủ tướng Chính phủ ban hành",
+      "id": "409/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-04-09",
+      "effectiveDate": "2012-04-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kết luận 04/KL-TW kết quả thực hiện Chỉ thị 32-CT/TW về tăng cường sự lãnh đạo của Đảng trong công tác phổ biến, giáo dục pháp luật, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân do Ban Chấp hành Trung ương ban hành",
+      "id": "04/KL-TW",
+      "legislationType": "Văn bản khác",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Trương Tấn Sang"
+      ],
+      "issuedDate": "2011-04-19",
+      "effectiveDate": "2011-04-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 06/2010/QĐ-TTg về việc xây dựng, quản lý, khai thác tủ sách pháp luật do Thủ tướng Chính phủ ban hành",
+      "id": "06/2010/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-01-25",
+      "effectiveDate": "2010-04-02",
+      "gazetteDate": "2010-02-09",
+      "gazetteNumber": "Từ số 83 đến số 84",
+      "status": "Hết hiệu lực: 01/05/2019"
+    },
+    {
+      "title": "Chỉ thị 32-CT/TW năm 2003 về tăng cường sự lãnh đạo của đảng trong công tác phổ biến, giáo dục pháp luật, nâng cao ý thức chấp hành pháp luật của cán bộ, nhân dân do Ban Bí thư ban hành",
+      "id": "32-CT/TW",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Bí thư",
+      "signers": [
+        "Phan Diễn"
+      ],
+      "issuedDate": "2003-12-09",
+      "effectiveDate": "2003-12-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 09/KH-UBND công tác phổ biến, giáo dục pháp luật, hòa giải ở cơ sở, chuẩn tiếp cận pháp luật của người dân tại cơ sở, xây dựng và thực hiện hương ước, quy ước năm 2017 do Ủy ban nhân dân tỉnh Tuyên Quang ban hành",
+      "id": "09/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Hải An"
+      ],
+      "issuedDate": "2017-01-24",
+      "effectiveDate": "2017-01-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 184/KH-UBND năm 2016 xây dựng, thực hiện hương ước, quy ước năm 2017 do tỉnh Thừa Thiên Huế ban hành",
+      "id": "184/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Đinh Khắc Đính"
+      ],
+      "issuedDate": "2016-12-13",
+      "effectiveDate": "2016-12-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị quyết 07/2016/NQ-HĐND quy định mức chi cụ thể thực hiện công tác hòa giải ở cơ sở trên địa bàn tỉnh Phú Thọ",
+      "id": "07/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thủ tục Tố tụng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Phú Thọ",
+      "signers": [
+        "Hoàng Dân Mạc"
+      ],
+      "issuedDate": "2016-12-08",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 1611/CT-UBND năm 2016 về tăng cường quản lý về xây dựng, thực hiện quy ước trên địa bàn tỉnh An Giang",
+      "id": "1611/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Nguyễn Thanh Bình"
+      ],
+      "issuedDate": "2016-06-14",
+      "effectiveDate": "2016-06-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 915/QĐ-UBND về phân bổ chi tiết dự toán kinh phí phổ biến, giáo dục pháp luật năm 2016 do tỉnh Lâm Đồng ban hành",
+      "id": "915/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giáo dục"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2016-05-04",
+      "effectiveDate": "2016-05-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 22/KH-UBND về phổ biến, giáo dục pháp luật năm 2016 trên địa bàn tỉnh Hậu Giang",
+      "id": "22/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giáo dục"
+      ],
+      "organization": "Tỉnh Hậu Giang",
+      "signers": [
+        "Đồng Văn Thanh"
+      ],
+      "issuedDate": "2016-03-29",
+      "effectiveDate": "2016-03-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Kế hoạch 20/KH-UBND theo dõi tình hình thi hành pháp luật năm 2016 trên địa bàn tỉnh Nam Định",
+      "id": "20/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Ngô Gia Tự"
+      ],
+      "issuedDate": "2016-03-07",
+      "effectiveDate": "2016-03-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị quyết 39/2015/NQ-HĐND về quy định mức chi thực hiện công tác hòa giải ở cơ sở trên địa bàn tỉnh Bình Định",
+      "id": "39/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Nguyễn Thanh Tùng"
+      ],
+      "issuedDate": "2015-12-25",
+      "effectiveDate": "2016-01-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 35/KH-UBND năm 2015 về việc triển khai Đề án \"Đẩy mạnh phổ biến nội dung cơ bản của Công ước quốc tế về quyền dân sự, chính trị và pháp luật Việt Nam về quyền dân sự, chính trị cho cán bộ, công chức, viên chức và nhân dân giai đoạn 2015-2020\" do Ủy ban nhân dân tỉnh Nam Định ban hành",
+      "id": "35/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Quyền dân sự",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Nguyễn Viết Hưng"
+      ],
+      "issuedDate": "2015-04-20",
+      "effectiveDate": "2015-04-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 13/KH-UBND năm 2014 thực hiện Đề án tiếp tục tăng cường công tác phổ biến, giáo dục pháp luật về khiếu nại, tố cáo ở xã phường, thị trấn trên địa bàn tỉnh Nam Định giai đoạn 2013 - 2016",
+      "id": "13/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Nguyễn Văn Tuấn"
+      ],
+      "issuedDate": "2014-03-03",
+      "effectiveDate": "2014-03-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "21/KH-UBND",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Lĩnh vực khác"
+  ],
+  "organization": "Tỉnh Nam Định",
+  "signers": [
+    "Ngô Gia Tự"
+  ],
+  "issuedDate": "2016-03-07",
+  "effectiveDate": "2016-03-07",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA4ADEANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH </b><b><span lang=\"VI\">NAM ĐỊNH<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>21/KH-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Nam Định, ngày 07\n  tháng 3 năm 2016</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"EN-US\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT, HÒA GIẢI Ở CƠ SỞ, XÂY DỰNG VÀ THỰC\nHIỆN HƯƠNG ƯỚC, QUY ƯỚC NĂM 2016</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. MỤC ĐÍCH, YÊU CẦU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Mục đích</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai có hiệu quả Luật phổ biến,\ngiáo dục pháp luật (PBGDPL), Luật Hòa giải ở cơ sở và các văn bản hướng dẫn thi\nhành; các quy định c</span><span lang=\"EN-US\">ủ</span><span lang=\"VI\">a Đảng, Nhà\nnước về PBGDPL, việc xây dựng và thực hiện hương ước, quy ước của thôn, làng, cụm\ndân cư năm 2016 trong t</span><span lang=\"EN-US\">ỉ</span><span lang=\"VI\">nh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đổi mới nội dung, hình thức PBGDPL\ngắn với những vấn đề dư luận quan tâm hoặc cần định hướng dư luận và nhiệm vụ\nchính trị của địa phương, nhất là tuyên truyền về cuộc bầu cử Đại biểu Quốc hội\nkhóa XIV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2016 - 2021.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao chất lượng, hiệu quả công\ntác quản lý nhà nước về PBGDPL, hòa giải ở cơ sở, xây dựng và thực hiện hương ước,\nquy ước; xây dựng và nhân rộng các mô hình, hình thức PBGDPL có hiệu quả phù hợp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Yêu c</span></b><b><span lang=\"EN-US\">ầ</span></b><b><span lang=\"VI\">u</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quán triệt đầy đ</span><span lang=\"EN-US\">ủ </span><span lang=\"VI\">chủ trương, quan điểm, mục tiêu, yêu cầu của\nĐảng, Nhà nước về PBGDPL, hòa giải ở cơ s</span><span lang=\"EN-US\">ở</span><span lang=\"VI\">; nội dung, tinh thần của Luật PBGDPL; Luật hòa giải ở cơ sở và các văn\nbản hướng d</span><span lang=\"EN-US\">ẫ</span><span lang=\"VI\">n thi hành; bám sát\ncác nhiệm vụ trọng tâm của ngành Tư pháp năm 2016, các chương trình, đề án về\nPBGDPL, nhiệm vụ chính trị và điều kiện thực tiễn của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai nhiệm vụ có trọng tâm,\ntrọng điểm, thiết thực, chất lượng, tiết kiệm và hiệu quả; khai thác, sử dụng\ncó hiệu quả các nguồn lực được giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. CÁC HOẠT ĐỘNG\nCHỦ YẾU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Công tác ph</span></b><b><span lang=\"EN-US\">ổ </span></b><b><span lang=\"VI\">biến, giáo dục pháp luật</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.1. Tuyên truyền, phổ biến, quán triệt\nnội dung Hiến pháp năm 2013, các luật, pháp lệnh mới được ban hành được dư luận\nxã hội quan tâm hoặc cần định hướng dư luận xã hội, nội dung các đi</span><span lang=\"EN-US\">ề</span><span lang=\"VI\">u ước qu</span><span lang=\"EN-US\">ố</span><span lang=\"VI\">c t</span><span lang=\"EN-US\">ế </span><span lang=\"VI\">mà Việt Nam là thành\nviên và các thỏa thuận quốc tế liên quan đến người dân, doanh nghiệp b</span><span lang=\"EN-US\">ằ</span><span lang=\"VI\">ng hình thức phù hợp với đối tượng, địa bàn</span><span lang=\"EN-US\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh tuyên truyền, phổ biến quy\nđịnh của Hiến pháp năm 2013, các luật, pháp lệnh mới được ban hành, tập trung\nvào Bộ luật dân sự (sửa đổi), Bộ luật Hình sự (sửa đổi), Bộ luật Tố tụng hình sự\n(sửa đổi), Bộ luật Tố tụng dân sự (s</span><span lang=\"EN-US\">ử</span><span lang=\"VI\">a đ</span><span lang=\"EN-US\">ổ</span><span lang=\"VI\">i), Luật ban hành văn\nbản quy phạm pháp luật, Luật ngân sách nhà nước, Luật hôn nhân và gi</span><span lang=\"EN-US\">a </span><span lang=\"VI\">đình, Luật hộ tịch, Luật căn cước công dân,\nLuật trưng cầu dân ý, Luật mặt trận Tổ quốc Việt Nam, Luật tố tụng hành chính\n(sửa đổi)... các văn b</span><span lang=\"EN-US\">ả</span><span lang=\"VI\">n ph</span><span lang=\"EN-US\">á</span><span lang=\"VI\">p luật v</span><span lang=\"EN-US\">ề</span><span lang=\"VI\"> đ</span><span lang=\"EN-US\">ấ</span><span lang=\"VI\">t đai, tài nguyên, môi trường,\nquốc phòng, an ninh, biển đảo, ch</span><span lang=\"EN-US\">ủ </span><span lang=\"VI\">quyền lãnh thổ, biên giới quốc gia, chính sách an sinh xã hội và các\nvăn bản liên quan trực tiếp đến quyền con người, quyền và nghĩa vụ cơ bản của\ncông dân, tổ chức, doanh nghiệp...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tập trung tuyên truyền, ph</span><span lang=\"EN-US\">ổ</span><span lang=\"VI\"> bi</span><span lang=\"EN-US\">ế</span><span lang=\"VI\">n Luật b</span><span lang=\"EN-US\">ầ</span><span lang=\"VI\">u cử đại biểu Qu</span><span lang=\"EN-US\">ố</span><span lang=\"VI\">c hội và đại biểu Hội đồng nhân dân các cấp\nnăm 2015; gắn với nội dung Luật tổ chức chính quyền địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức tuyên truyền, phổ biến rộng\nrãi chủ trương, quan điểm, nội dung chính sách, văn bản về cải cách hành chính;\nchủ trương, nhiệm vụ, quan điểm về cải cách tư pháp và hoạt động tư pháp; nội\ndung chính sách thể hiện trong các văn bản pháp luật liên quan đến phạm vi của\nngành, cơ </span><span lang=\"EN-US\">q</span><span lang=\"VI\">uan, đơn vị được giao\nquản lý</span><span lang=\"EN-US\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tuyên truyền, phổ biến định hướng đối\nvới các quy định pháp luật mà dư luận xã hội quan tâm hoặc cần định hướng dư luận\nxã hội; các quy định pháp luật mới được ban hành liên quan đến phạm vi quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tuyên truyền, phổ biến, giới thiệu\nnội dung các điều ước quốc tế mà Việt Nam là thành viên, các thỏa thuận quốc t</span><span lang=\"EN-US\">ế </span><span lang=\"VI\">liên quan đến người dân, doanh nghiệp; chú trọng\nHiệp định đối tác kinh tế chiến lược xuyên Thái Bình Dương (TPP), Hiệp định\nthương mại tự do Việt Nam - E</span><span lang=\"EN-US\">U</span><span lang=\"VI\">,\npháp luật về cộng đồng ASEAN, các Điều ước quốc tế về nhân quyền mà Việt Nam là\nthành viên...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.2</span><span lang=\"EN-US\">. </span><span lang=\"VI\">Triển khai thực hiện Luật phổ biến, giáo dục pháp luật và các văn bản\nquy định chi tiết, hướng dẫn thi hành Luật</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng, ban hành Chương trình\ncông tác trọng tâm của Hội đồng phối hợp PBGDPL các cấp năm 2016; Kế hoạch công\ntác PBGDPL của các s</span><span lang=\"EN-US\">ở</span><span lang=\"VI\">, ban, ngành,\nđoàn thể, địa phương và tổ chức triển khai thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo, hướng dẫn, triển khai thực hiện Ngày Pháp luật năm 2016.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức sơ kết 03 năm thực hiện Luật\nphổ biến, giáo dục pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo, hướng dẫn và tổ chức triển khai các hoạt động PBGDPL cho các đối\ntượng đặc thù theo Luật phổ biến, giáo dục pháp luật, các chương trình phối hợp\ngiữa ngành Tư pháp với các ngành, đoàn thể cho một số đ</span><span lang=\"EN-US\">ố</span><span lang=\"VI\">i tượng (nông dân, phụ nữ, cựu chiến binh...).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo, hướng dẫn và tổ chức thực hiện giáo dục pháp luật trong các cơ s</span><span lang=\"EN-US\">ở </span><span lang=\"VI\">giáo dục của hệ thống giáo dục quốc dân</span><span lang=\"EN-US\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Ban hành văn bản hướng dẫn, ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo triển khai công tác PBGDPL trong các cơ s</span><span lang=\"EN-US\">ở </span><span lang=\"VI\">giáo dục của hệ th</span><span lang=\"EN-US\">ố</span><span lang=\"VI\">ng giáo dục qu</span><span lang=\"EN-US\">ố</span><span lang=\"VI\">c dân gắn với\ntriển khai thực hiện có chất lượng, hiệu quả Đề án 1928 về PBGDPL trong nhà trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Ban hành văn bản hướng dẫn, ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo triển khai công tác PBGDPL trong nhà trường\nthuộc phạm vi quản lý của s</span><span lang=\"EN-US\">ở</span><span lang=\"VI\">, ban,\nngành, đoàn thể, địa phương;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo, hướng d</span><span lang=\"EN-US\">ẫ</span><span lang=\"VI\">n, tổ chức rà\nsoát nội dung, chương trình, giáo trình, tài liệu sách giáo khoa, tài liệu h</span><span lang=\"EN-US\">ỗ </span><span lang=\"VI\">trợ giảng dạy môn học pháp luật đại cương,\ngiáo dục công dân, đạo đức và các môn học khác có liên quan đến pháp luật; đổi\nmới nội dung, phương pháp giảng dạy và triển khai có ch</span><span lang=\"EN-US\">ấ</span><span lang=\"VI\">t lượng, hiệu quả công tác phổ biến, giáo dục pháp luật tại các nhà trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Xây dựng nội dung, chương trình,\ntài liệu phục vụ việc dạy và học pháp luật trong nhà trường gắn với Đề án đổi mới\nnội dung sách giáo khoa trong các trường phổ thông; tập huấn, bồi dưỡng nâng\ncao năng lực cho giáo viên môn pháp luật, giáo viên dạy các môn học liên quan đến\npháp luật trong nhà trường (giáo dục công dân, đạo đức...)</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục triển khai thực hiện chính\nsách xã hội hóa hoạt động PBGDPL theo Luật PBGDPL và các văn bản hướng dẫn thi\nhành gắn với việc thực hiện Đề án “Xã hội hóa công tác PBGDPL và trợ giúp pháp\nlý giai đoạn 2012 - 2016”</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, kiện toàn đội ngũ báo cáo\nviên pháp luật, tuyên truyền viên pháp luật các cấp theo Thông tư sửa đổi một số\nđiều của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 21/2013/TT-BTP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-21-2013-tt-btp-trinh-tu-thu-tuc-cong-nhan-mien-nhiem-bao-cao-vien-phap-luat-217243.aspx\">21/2013/TT-BTP</a>  ngày 18/12/2013 của Bộ Tư pháp và tổ chức tập\nhuấn, nâng cao chất lượng đội ngũ báo cáo viên, tuyên truyền viên pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo, hướng dẫn xây dựng, quản lý, khai thác Tủ sách pháp luật sau 05\nnăm thực hiện Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 06/2010/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-06-2010-qd-ttg-xay-dung-quan-ly-khai-thac-tu-sach-phap-luat-100791.aspx\">06/2010/QĐ-TTg</a>  ngày 25/01/2010 của Th</span><span lang=\"EN-US\">ủ </span><span lang=\"VI\">tướng Chính phủ; nghiên cứu, xây dựng mô hình\nTủ sách pháp luật điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.3. Tiếp tục triển khai và tổng kết\nviệc thực hiện các Chương trình, Đề án, Kế hoạch PBGDPL</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các cơ quan, đơn vị, địa phương được\nphân công chủ trì các chương trình, đề án có trách nhiệm chủ động tham mưu tiếp\ntục tổ chức triển khai và tổng kết việc thực hiện trong năm 2016</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục triển khai thực hiện các\nnhiệm vụ được giao theo Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">thị số\n32-CT/TW ngày 09/12/2003, Kết luận s</span><span lang=\"EN-US\">ố </span><span lang=\"VI\">04-KL/TW ngày 19/4/2011 của Ban bí th</span><span lang=\"EN-US\">ư </span><span lang=\"VI\">Trung ương Đảng, Chỉ thị số 26-CT/TU ngày 21/4/2004 của T</span><span lang=\"EN-US\">ỉ</span><span lang=\"VI\">nh ủy Nam Định về việc thực hiện Chỉ thị số\n32-CT/TW</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức tổng kết việc thực hiện các\nĐề án thuộc Chương trình hành động về PBGDPL trong giai đoạn 2012 - 2016 của\nChính phủ (theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 409/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-409-qd-ttg-chuong-trinh-hanh-dong-thuc-hien-ket-luan-04-137796.aspx\">409/QĐ-TTg</a>  ngày 09/4/2012, Quyết định số 1133/</span><span lang=\"EN-US\">Q</span><span lang=\"VI\">Đ-TTg ngày 15/7/2013 của Th</span><span lang=\"EN-US\">ủ </span><span lang=\"VI\">tướng Chính phủ); Đề án “Tuyên truyền, phổ biến\npháp luật về phòng, chống tham nhũng, Công ước của Liên hợp quốc về phòng, chống\ntham nhũng trong cán bộ, công chức, viên chức và nhân dân” từ năm 2012 - 2016.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Công tác hòa giải ở </span></b><b><span lang=\"EN-US\">cơ </span></b><b><span lang=\"VI\">sở</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn, đôn đốc, theo dõi việc\ntriển khai và đánh giá kết quả thực hiện Luật Hòa giải ở cơ s</span><span lang=\"EN-US\">ở </span><span lang=\"VI\">và các văn bản hướng dẫn thi hành</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn các địa phương nâng cao\nchất lượng, hiệu quả công tác hòa giải </span><span lang=\"EN-US\">ở </span><span lang=\"VI\">cơ sở; tháo gỡ vướng mắc, khó khăn từ thực tiễn triển khai thực hiện Luật\nHòa giải </span><span lang=\"EN-US\">ở</span><span lang=\"VI\"> cơ s</span><span lang=\"EN-US\">ở</span><span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức triển khai Chương trình bồi\ndưỡng kiến thức pháp luật, nghiệp vụ hòa giải </span><span lang=\"EN-US\">ở</span><span lang=\"VI\"> cơ s</span><span lang=\"EN-US\">ở </span><span lang=\"VI\">cho hòa giải viên\n(ban hành kèm theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 4077/QĐ-BTP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-4077-qd-btp-2014-khung-boi-duong-kien-thuc-phap-luat-nghiep-vu-hoa-giai-co-so-271323.aspx\">4077/QĐ-BTP</a>  ngày 31/12/2014).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức Hội thi hòa giải viên giỏi\ntoàn quốc năm 2016 trên địa bàn tỉnh theo kế hoạch và chỉ đạo của trung </span><span lang=\"EN-US\">ư</span><span lang=\"VI\">ơng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức triển khai công tác hòa giải\nở cơ sở theo Ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">thị số 35-CT/TW\nngày 26/5/2014 của Bộ Chính trị v</span><span lang=\"EN-US\">ề</span><span lang=\"EN-US\"> </span><span lang=\"VI\">tăng cường sự lãnh đạo của Đảng đối với công\ntác tiếp dân và giải quyết khiếu nại, tố cáo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Công tác xây d</span></b><b><span lang=\"EN-US\">ự</span></b><b><span lang=\"VI\">ng và thực hiện h</span></b><b><span lang=\"EN-US\">ư</span></b><b><span lang=\"VI\">ơng ước, quy ước của thôn, làng, cụm\ndân </span></b><b><span lang=\"EN-US\">cư </span></b><b><span lang=\"VI\">(hương ước,\nquy ư</span></b><b><span lang=\"EN-US\">ớ</span></b><b><span lang=\"VI\">c)</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo, hướng dẫn, theo dõi nhiệm\nvụ xây dựng, thực hiện và kiểm tra việc thực hiện hương ước, quy ước tại các\nthôn, xóm, tổ dân phố;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kịp thời hướng dẫn sửa đổi, bổ sung\nnhững hương ước không còn phù h</span><span lang=\"EN-US\">ợ</span><span lang=\"VI\">p\nvới thực tế của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4. Công tác tiếp cận pháp luật của\nngư</span></b><b><span lang=\"EN-US\">ờ</span></b><b><span lang=\"VI\">i dân tại cơ sở</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hướng dẫn, triển khai văn bản quy định\nchi tiết về tiêu chí tiếp cận pháp luật theo hướng dẫn của trung ương và ch</span><span lang=\"EN-US\">ỉ </span><span lang=\"VI\">đạo của Bộ Tư pháp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Sở Tư pháp</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Căn cứ Kế hoạch này, xây dựng và tổ\nchức thực hiện kế hoạch cụ thể về công tác phổ biến, giáo dục pháp luật, hòa giải\ncơ sở và thực hiện hương ước, quy ước trên địa bàn tỉnh; định kỳ 6 tháng (trước\nngày 02/6), cu</span><span lang=\"EN-US\">ố</span><span lang=\"VI\">i năm (trước ngày\n02/12) báo cáo kết quả thực hiện về Ủy ban nhân dân tỉnh, Bộ Tư pháp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn, đôn đốc các sở, ban,\nngành, UBND các huyện, thành phố trong quán triệt, triển khai, tổ chức thực hiện\nK</span><span lang=\"EN-US\">ế </span><span lang=\"VI\">hoạch. Chủ động phối hợp với\ncác cơ quan, tổ chức có liên quan trong tổ chức thực hiện K</span><span lang=\"EN-US\">ế </span><span lang=\"VI\">hoạch bằng các hình thức phù h</span><span lang=\"EN-US\">ợ</span><span lang=\"VI\">p.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Các sở, ban, ngành, </span></b><b><span lang=\"EN-US\">Ủy </span></b><b><span lang=\"VI\">ban nhân dân các huyện, thành phố</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Căn cứ vào kế hoạch của tỉnh và thực\ntế ở địa phương xây dựng kế hoạch triển khai công tác PBGDPL cụ thể phù hợp với\nnhiệm vụ chính trị của đ</span><span lang=\"EN-US\">ơ</span><span lang=\"VI\">n vị,\nngành mình và tổ chức thực hiện các nội dung K</span><span lang=\"EN-US\">ế </span><span lang=\"VI\">hoạch đã đề ra.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động, tích cực phối hợp với Sở\nTư pháp để thực hiện hiệu quả các nội dung K</span><span lang=\"EN-US\">ế </span><span lang=\"VI\">hoạch của tỉnh trên cơ sở chức năng, nhiệm vụ của mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Định kỳ 6 tháng, cuối năm tiến hành\nđánh giá, báo cáo bằng văn bản kết quả thực hiện kế </span><span lang=\"EN-US\">h</span><span lang=\"VI\">oạch về Sở Tư pháp theo quy định./. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">&nbsp;</span></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA4ADEANwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i>&nbsp;</i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\">Nơi nhận:</span></i></b><span lang=\"VI\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Bộ Tư pháp;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- TT T</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh ủy,\n  TT HĐND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Ch</span><span style=\"font-size:8.0pt\">ủ </span><span lang=\"VI\" style=\"font-size:8.0pt\">tịch,\n  các PCT UBND tỉnh;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Các sở, ban, ngành;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- UBND các huyện, thành phố;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Website t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh,\n  Website VP UBND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Lưu: VP1, VP8.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TM.\n  ỦY BAN NHÂN DÂN<br>\n  </span>KT. </b><b><span lang=\"VI\">CHỦ TỊCH</span><br>\n  PHÓ CHỦ TỊCH THƯỜNG TRỰC</b><b><span lang=\"VI\"><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Ngô Gia Tự</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">&nbsp;</span></b></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH** **NAM ĐỊNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 21/KH-UBND\n\n_Nam Định, ngày 07 tháng 3 năm 2016_\n\n**KẾ HOẠCH**\n\nCÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT, HÒA GIẢI Ở CƠ SỞ, XÂY DỰNG VÀ THỰC HIỆN HƯƠNG ƯỚC, QUY ƯỚC NĂM 2016\n\n**I. MỤC ĐÍCH, YÊU CẦU**\n\n**1\\. Mục đích**\n\n\\- Triển khai có hiệu quả Luật phổ biến, giáo dục pháp luật (PBGDPL), Luật Hòa giải ở cơ sở và các văn bản hướng dẫn thi hành; các quy định của Đảng, Nhà nước về PBGDPL, việc xây dựng và thực hiện hương ước, quy ước của thôn, làng, cụm dân cư năm 2016 trong tỉnh.\n\n\\- Đổi mới nội dung, hình thức PBGDPL gắn với những vấn đề dư luận quan tâm hoặc cần định hướng dư luận và nhiệm vụ chính trị của địa phương, nhất là tuyên truyền về cuộc bầu cử Đại biểu Quốc hội khóa XIV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2016 - 2021.\n\n\\- Nâng cao chất lượng, hiệu quả công tác quản lý nhà nước về PBGDPL, hòa giải ở cơ sở, xây dựng và thực hiện hương ước, quy ước; xây dựng và nhân rộng các mô hình, hình thức PBGDPL có hiệu quả phù hợp.\n\n**2\\. Yêu c****ầ****u**\n\n\\- Quán triệt đầy đủ chủ trương, quan điểm, mục tiêu, yêu cầu của Đảng, Nhà nước về PBGDPL, hòa giải ở cơ sở; nội dung, tinh thần của Luật PBGDPL; Luật hòa giải ở cơ sở và các văn bản hướng dẫn thi hành; bám sát các nhiệm vụ trọng tâm của ngành Tư pháp năm 2016, các chương trình, đề án về PBGDPL, nhiệm vụ chính trị và điều kiện thực tiễn của địa phương.\n\n\\- Triển khai nhiệm vụ có trọng tâm, trọng điểm, thiết thực, chất lượng, tiết kiệm và hiệu quả; khai thác, sử dụng có hiệu quả các nguồn lực được giao.\n\n**II. CÁC HOẠT ĐỘNG CHỦ YẾU**\n\n**1\\. Công tác ph****ổ** **biến, giáo dục pháp luật**\n\n1.1. Tuyên truyền, phổ biến, quán triệt nội dung Hiến pháp năm 2013, các luật, pháp lệnh mới được ban hành được dư luận xã hội quan tâm hoặc cần định hướng dư luận xã hội, nội dung các điều ước quốc tế mà Việt Nam là thành viên và các thỏa thuận quốc tế liên quan đến người dân, doanh nghiệp bằng hình thức phù hợp với đối tượng, địa bàn.\n\n\\- Đẩy mạnh tuyên truyền, phổ biến quy định của Hiến pháp năm 2013, các luật, pháp lệnh mới được ban hành, tập trung vào Bộ luật dân sự (sửa đổi), Bộ luật Hình sự (sửa đổi), Bộ luật Tố tụng hình sự (sửa đổi), Bộ luật Tố tụng dân sự (sửa đổi), Luật ban hành văn bản quy phạm pháp luật, Luật ngân sách nhà nước, Luật hôn nhân và gia đình, Luật hộ tịch, Luật căn cước công dân, Luật trưng cầu dân ý, Luật mặt trận Tổ quốc Việt Nam, Luật tố tụng hành chính (sửa đổi)... các văn bản pháp luật về đất đai, tài nguyên, môi trường, quốc phòng, an ninh, biển đảo, chủ quyền lãnh thổ, biên giới quốc gia, chính sách an sinh xã hội và các văn bản liên quan trực tiếp đến quyền con người, quyền và nghĩa vụ cơ bản của công dân, tổ chức, doanh nghiệp...\n\n\\- Tập trung tuyên truyền, phổ biến Luật bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp năm 2015; gắn với nội dung Luật tổ chức chính quyền địa phương.\n\n\\- Tổ chức tuyên truyền, phổ biến rộng rãi chủ trương, quan điểm, nội dung chính sách, văn bản về cải cách hành chính; chủ trương, nhiệm vụ, quan điểm về cải cách tư pháp và hoạt động tư pháp; nội dung chính sách thể hiện trong các văn bản pháp luật liên quan đến phạm vi của ngành, cơ quan, đơn vị được giao quản lý.\n\n\\- Tuyên truyền, phổ biến định hướng đối với các quy định pháp luật mà dư luận xã hội quan tâm hoặc cần định hướng dư luận xã hội; các quy định pháp luật mới được ban hành liên quan đến phạm vi quản lý.\n\n\\- Tuyên truyền, phổ biến, giới thiệu nội dung các điều ước quốc tế mà Việt Nam là thành viên, các thỏa thuận quốc tế liên quan đến người dân, doanh nghiệp; chú trọng Hiệp định đối tác kinh tế chiến lược xuyên Thái Bình Dương (TPP), Hiệp định thương mại tự do Việt Nam - EU, pháp luật về cộng đồng ASEAN, các Điều ước quốc tế về nhân quyền mà Việt Nam là thành viên...\n\n1.2. Triển khai thực hiện Luật phổ biến, giáo dục pháp luật và các văn bản quy định chi tiết, hướng dẫn thi hành Luật\n\n\\- Xây dựng, ban hành Chương trình công tác trọng tâm của Hội đồng phối hợp PBGDPL các cấp năm 2016; Kế hoạch công tác PBGDPL của các sở, ban, ngành, đoàn thể, địa phương và tổ chức triển khai thực hiện.\n\n\\- Chỉ đạo, hướng dẫn, triển khai thực hiện Ngày Pháp luật năm 2016.\n\n\\- Tổ chức sơ kết 03 năm thực hiện Luật phổ biến, giáo dục pháp luật.\n\n\\- Chỉ đạo, hướng dẫn và tổ chức triển khai các hoạt động PBGDPL cho các đối tượng đặc thù theo Luật phổ biến, giáo dục pháp luật, các chương trình phối hợp giữa ngành Tư pháp với các ngành, đoàn thể cho một số đối tượng (nông dân, phụ nữ, cựu chiến binh...).\n\n\\- Chỉ đạo, hướng dẫn và tổ chức thực hiện giáo dục pháp luật trong các cơ sở giáo dục của hệ thống giáo dục quốc dân.\n\n\\+ Ban hành văn bản hướng dẫn, chỉ đạo triển khai công tác PBGDPL trong các cơ sở giáo dục của hệ thống giáo dục quốc dân gắn với triển khai thực hiện có chất lượng, hiệu quả Đề án 1928 về PBGDPL trong nhà trường;\n\n\\+ Ban hành văn bản hướng dẫn, chỉ đạo triển khai công tác PBGDPL trong nhà trường thuộc phạm vi quản lý của sở, ban, ngành, đoàn thể, địa phương;\n\n\\+ Chỉ đạo, hướng dẫn, tổ chức rà soát nội dung, chương trình, giáo trình, tài liệu sách giáo khoa, tài liệu hỗ trợ giảng dạy môn học pháp luật đại cương, giáo dục công dân, đạo đức và các môn học khác có liên quan đến pháp luật; đổi mới nội dung, phương pháp giảng dạy và triển khai có chất lượng, hiệu quả công tác phổ biến, giáo dục pháp luật tại các nhà trường;\n\n\\+ Xây dựng nội dung, chương trình, tài liệu phục vụ việc dạy và học pháp luật trong nhà trường gắn với Đề án đổi mới nội dung sách giáo khoa trong các trường phổ thông; tập huấn, bồi dưỡng nâng cao năng lực cho giáo viên môn pháp luật, giáo viên dạy các môn học liên quan đến pháp luật trong nhà trường (giáo dục công dân, đạo đức...)\n\n\\- Tiếp tục triển khai thực hiện chính sách xã hội hóa hoạt động PBGDPL theo Luật PBGDPL và các văn bản hướng dẫn thi hành gắn với việc thực hiện Đề án “Xã hội hóa công tác PBGDPL và trợ giúp pháp lý giai đoạn 2012 - 2016”\n\n\\- Rà soát, kiện toàn đội ngũ báo cáo viên pháp luật, tuyên truyền viên pháp luật các cấp theo Thông tư sửa đổi một số điều của Thông tư số [21/2013/TT-BTP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-21-2013-tt-btp-trinh-tu-thu-tuc-cong-nhan-mien-nhiem-bao-cao-vien-phap-luat-217243.aspx \"Thông tư 21/2013/TT-BTP\") ngày 18/12/2013 của Bộ Tư pháp và tổ chức tập huấn, nâng cao chất lượng đội ngũ báo cáo viên, tuyên truyền viên pháp luật.\n\n\\- Chỉ đạo, hướng dẫn xây dựng, quản lý, khai thác Tủ sách pháp luật sau 05 năm thực hiện Quyết định số [06/2010/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-06-2010-qd-ttg-xay-dung-quan-ly-khai-thac-tu-sach-phap-luat-100791.aspx \"Quyết định 06/2010/QĐ-TTg\") ngày 25/01/2010 của Thủ tướng Chính phủ; nghiên cứu, xây dựng mô hình Tủ sách pháp luật điện tử.\n\n1.3. Tiếp tục triển khai và tổng kết việc thực hiện các Chương trình, Đề án, Kế hoạch PBGDPL\n\nCác cơ quan, đơn vị, địa phương được phân công chủ trì các chương trình, đề án có trách nhiệm chủ động tham mưu tiếp tục tổ chức triển khai và tổng kết việc thực hiện trong năm 2016\n\n\\- Tiếp tục triển khai thực hiện các nhiệm vụ được giao theo Chỉ thị số 32-CT/TW ngày 09/12/2003, Kết luận số 04-KL/TW ngày 19/4/2011 của Ban bí thư Trung ương Đảng, Chỉ thị số 26-CT/TU ngày 21/4/2004 của Tỉnh ủy Nam Định về việc thực hiện Chỉ thị số 32-CT/TW\n\n\\- Tổ chức tổng kết việc thực hiện các Đề án thuộc Chương trình hành động về PBGDPL trong giai đoạn 2012 - 2016 của Chính phủ (theo Quyết định số [409/QĐ-TTg](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-409-qd-ttg-chuong-trinh-hanh-dong-thuc-hien-ket-luan-04-137796.aspx \"Quyết định 409/QĐ-TTg\") ngày 09/4/2012, Quyết định số 1133/QĐ-TTg ngày 15/7/2013 của Thủ tướng Chính phủ); Đề án “Tuyên truyền, phổ biến pháp luật về phòng, chống tham nhũng, Công ước của Liên hợp quốc về phòng, chống tham nhũng trong cán bộ, công chức, viên chức và nhân dân” từ năm 2012 - 2016.\n\n**2\\. Công tác hòa giải ở** **cơ** **sở**\n\n\\- Hướng dẫn, đôn đốc, theo dõi việc triển khai và đánh giá kết quả thực hiện Luật Hòa giải ở cơ sở và các văn bản hướng dẫn thi hành\n\n\\- Hướng dẫn các địa phương nâng cao chất lượng, hiệu quả công tác hòa giải ở cơ sở; tháo gỡ vướng mắc, khó khăn từ thực tiễn triển khai thực hiện Luật Hòa giải ở cơ sở.\n\n\\- Tổ chức triển khai Chương trình bồi dưỡng kiến thức pháp luật, nghiệp vụ hòa giải ở cơ sở cho hòa giải viên (ban hành kèm theo Quyết định số [4077/QĐ-BTP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-4077-qd-btp-2014-khung-boi-duong-kien-thuc-phap-luat-nghiep-vu-hoa-giai-co-so-271323.aspx \"Quyết định 4077/QĐ-BTP\") ngày 31/12/2014).\n\n\\- Tổ chức Hội thi hòa giải viên giỏi toàn quốc năm 2016 trên địa bàn tỉnh theo kế hoạch và chỉ đạo của trung ương.\n\n\\- Tổ chức triển khai công tác hòa giải ở cơ sở theo Chỉ thị số 35-CT/TW ngày 26/5/2014 của Bộ Chính trị về tăng cường sự lãnh đạo của Đảng đối với công tác tiếp dân và giải quyết khiếu nại, tố cáo.\n\n**3\\. Công tác xây d****ự****ng và thực hiện h****ư****ơng ước, quy ước của thôn, làng, cụm dân** **cư** **(hương ước, quy ư****ớ****c)**\n\n\\- Chỉ đạo, hướng dẫn, theo dõi nhiệm vụ xây dựng, thực hiện và kiểm tra việc thực hiện hương ước, quy ước tại các thôn, xóm, tổ dân phố;\n\n\\- Kịp thời hướng dẫn sửa đổi, bổ sung những hương ước không còn phù hợp với thực tế của địa phương.\n\n**4\\. Công tác tiếp cận pháp luật của ngư****ờ****i dân tại cơ sở**\n\nHướng dẫn, triển khai văn bản quy định chi tiết về tiêu chí tiếp cận pháp luật theo hướng dẫn của trung ương và chỉ đạo của Bộ Tư pháp.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n**1\\. Sở Tư pháp**\n\n\\- Căn cứ Kế hoạch này, xây dựng và tổ chức thực hiện kế hoạch cụ thể về công tác phổ biến, giáo dục pháp luật, hòa giải cơ sở và thực hiện hương ước, quy ước trên địa bàn tỉnh; định kỳ 6 tháng (trước ngày 02/6), cuối năm (trước ngày 02/12) báo cáo kết quả thực hiện về Ủy ban nhân dân tỉnh, Bộ Tư pháp.\n\n\\- Hướng dẫn, đôn đốc các sở, ban, ngành, UBND các huyện, thành phố trong quán triệt, triển khai, tổ chức thực hiện Kế hoạch. Chủ động phối hợp với các cơ quan, tổ chức có liên quan trong tổ chức thực hiện Kế hoạch bằng các hình thức phù hợp.\n\n**2\\. Các sở, ban, ngành,** **Ủy** **ban nhân dân các huyện, thành phố**\n\n\\- Căn cứ vào kế hoạch của tỉnh và thực tế ở địa phương xây dựng kế hoạch triển khai công tác PBGDPL cụ thể phù hợp với nhiệm vụ chính trị của đơn vị, ngành mình và tổ chức thực hiện các nội dung Kế hoạch đã đề ra.\n\n\\- Chủ động, tích cực phối hợp với Sở Tư pháp để thực hiện hiệu quả các nội dung Kế hoạch của tỉnh trên cơ sở chức năng, nhiệm vụ của mình.\n\n\\- Định kỳ 6 tháng, cuối năm tiến hành đánh giá, báo cáo bằng văn bản kết quả thực hiện kế hoạch về Sở Tư pháp theo quy định./.\n\n**_Nơi nhận:_**  \n\\- Bộ Tư pháp;  \n\\- TT Tỉnh ủy, TT HĐND tỉnh;  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Các sở, ban, ngành;  \n\\- UBND các huyện, thành phố;  \n\\- Website tỉnh, Website VP UBND tỉnh;  \n\\- Lưu: VP1, VP8.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT.** **CHỦ TỊCH  \nPHÓ CHỦ TỊCH THƯỜNG TRỰC****  \n  \n  \n  \n  \nNgô Gia Tự**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

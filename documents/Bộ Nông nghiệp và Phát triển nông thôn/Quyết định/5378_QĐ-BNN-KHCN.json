@@ -1,0 +1,477 @@
+{
+  "title": "Quyết định 5378/QĐ-BNN-KHCN năm 2017 về Kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn Phiên bản 1.0",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 13/2017/TT-BTTTT quy định yêu cầu kỹ thuật về kết nối hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "13/2017/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Trương Minh Tuấn"
+      ],
+      "issuedDate": "2017-06-23",
+      "effectiveDate": "2017-08-10",
+      "gazetteDate": "2017-08-02",
+      "gazetteNumber": "Từ số 557 đến số 558",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 02/2017/TT-BTTTT Quy chuẩn kỹ thuật quốc gia về cấu trúc thông điệp dữ liệu công dân trao đổi với cơ sở dữ liệu quốc gia về dân cư do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "02/2017/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Trương Minh Tuấn"
+      ],
+      "issuedDate": "2017-04-04",
+      "effectiveDate": "2017-10-01",
+      "gazetteDate": "2017-04-24",
+      "gazetteNumber": "Từ số 291 đến số 292",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3140/BTTTT-KHCN năm 2016 hướng dẫn chi tiết công bố hợp quy Quy chuẩn kỹ thuật quốc gia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành do Bộ Thông tin và Truyền thông ban hành",
+      "id": "3140/BTTTT-KHCN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Lê Xuân Công"
+      ],
+      "issuedDate": "2016-09-12",
+      "effectiveDate": "2016-09-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 10/2016/TT-BTTTT Quy chuẩn kỹ thuật quốc gia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "10/2016/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Bắc Son"
+      ],
+      "issuedDate": "2016-04-01",
+      "effectiveDate": "2016-10-01",
+      "gazetteDate": "2016-04-22",
+      "gazetteNumber": "Từ số 297 đến số 298",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1036/BTTTT-THH năm 2015 hướng dẫn yêu cầu cơ bản về chức năng, tính năng kỹ thuật cho hệ thống quản lý văn bản và điều hành do Bộ Thông tin và Truyền thông ban hành",
+      "id": "1036/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2015-04-10",
+      "effectiveDate": "2015-04-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 25/2014/TT-BTTTT triển khai hệ thống thông tin có quy mô và phạm vi từ Trung ương đến địa phương do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "25/2014/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Bắc Son"
+      ],
+      "issuedDate": "2014-12-30",
+      "effectiveDate": "2015-02-13",
+      "gazetteDate": "2015-01-19",
+      "gazetteNumber": "Từ số 81 đến số 82",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3788/BTTTT-THH năm 2014 hướng dẫn liên thông, trao đổi dữ liệu có cấu trúc bằng ngôn ngữ XML giữa các hệ thống thông tin trong cơ quan nhà nước do Bộ Thông tin và Truyền thông ban hành",
+      "id": "3788/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2014-12-26",
+      "effectiveDate": "2014-12-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 2803/BTTTT-THH năm 2014 hướng dẫn kỹ thuật liên thông giữa hệ thống quản lý văn bản và điều hành trong cơ quan nhà nước do Bộ Thông tin và Truyền thông ban hành",
+      "id": "2803/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2014-10-01",
+      "effectiveDate": "2014-10-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 22/2013/TT-BTTTT về Danh mục tiêu chuẩn kỹ thuật ứng dụng công nghệ thông tin trong cơ quan nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "22/2013/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Bắc Son"
+      ],
+      "issuedDate": "2013-12-23",
+      "effectiveDate": "2014-02-15",
+      "gazetteDate": "2014-01-11",
+      "gazetteNumber": "Từ số 75 đến số 76",
+      "status": "Hết hiệu lực: 01/07/2018"
+    },
+    {
+      "title": "Quyết định 899/QĐ-TTg năm 2013 phê duyệt Đề án “Tái cơ cấu ngành nông nghiệp theo hướng nâng cao giá trị gia tăng và phát triển bền vững” do Thủ tướng Chính phủ ban hành",
+      "id": "899/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-06-10",
+      "effectiveDate": "2013-06-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 03/2013/TT-BTTTT về Quy định áp dụng tiêu chuẩn, quy chuẩn kỹ thuật đối với trung tâm dữ liệu do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "03/2013/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Bắc Son"
+      ],
+      "issuedDate": "2013-01-22",
+      "effectiveDate": "2013-03-15",
+      "gazetteDate": "2013-02-12",
+      "gazetteNumber": "Từ số 103 đến số 104",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 43/2011/NĐ-CP Quy định về cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước",
+      "id": "43/2011/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-06-13",
+      "effectiveDate": "2011-10-01",
+      "gazetteDate": "2011-06-27",
+      "gazetteNumber": "Từ số 381 đến số 382",
+      "status": "Hết hiệu lực: 15/08/2022"
+    },
+    {
+      "title": "Thông tư 26/2009/TT-BTTTT về việc cung cấp thông tin và đảm bảo khả năng truy cập thuận tiện đối với trang thông tin điện tử của cơ quan nhà nước do Bộ Thông tin và Truyền thông ban hành",
+      "id": "26/2009/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Lê Doãn Hợp"
+      ],
+      "issuedDate": "2009-07-31",
+      "effectiveDate": "2009-09-15",
+      "gazetteDate": "2009-08-16",
+      "gazetteNumber": "Từ số 385 đến số 386",
+      "status": "Hết hiệu lực: 01/06/2018"
+    },
+    {
+      "title": "Nghị quyết số 26-NQ/TW về nông nghiệp, nông dân, nông thôn do Ban Chấp hành Trung ương ban hành",
+      "id": "26-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2008-08-05",
+      "effectiveDate": "2008-08-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1654/BTTTT-ƯDCNTT hướng dẫn yêu cầu cơ bản về chức năng, tính năng kỹ thuật cho dự án dùng chung theo Quyết định 43/2008/QĐ-TTg do Bộ Thông tin và Truyền thông ban hành",
+      "id": "1654/BTTTT-ƯDCNTT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2008-05-27",
+      "effectiveDate": "2008-05-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 19/2008/QĐ-BTTTT Quy định áp dụng tiêu chuẩn về ứng dụng công nghệ thông tin trong cơ quan nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "19/2008/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2008-04-09",
+      "effectiveDate": "2008-05-07",
+      "gazetteDate": "2008-04-22",
+      "gazetteNumber": "Từ số 239 đến số 240",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 15/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn",
+      "id": "15/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-02-17",
+      "effectiveDate": "2017-02-17",
+      "gazetteDate": "2017-02-27",
+      "gazetteNumber": "Từ số 157 đến số 158",
+      "status": "Hết hiệu lực: 15/01/2023"
+    },
+    {
+      "title": "Nghị định 123/2016/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ",
+      "id": "123/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-09-01",
+      "effectiveDate": "2016-10-15",
+      "gazetteDate": "2016-09-19",
+      "gazetteNumber": "Từ số 949 đến số 950",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1819/QĐ-TTg năm 2015 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1819/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-26",
+      "effectiveDate": "2015-10-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị quyết 36a/NQ-CP năm 2015 về Chính phủ điện tử do Chính phủ ban hành",
+      "id": "36a/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-14",
+      "effectiveDate": "2015-10-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/03/2019"
+    },
+    {
+      "title": "Công văn 2384/BTTTT-THH năm 2015 hướng dẫn mẫu Đề cương Kiến trúc Chính phủ điện tử cấp Bộ, mẫu Đề cương Kiến trúc Chính quyền điện tử cấp tỉnh do Bộ Thông tin và Truyền thông ban hành",
+      "id": "2384/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Thành Hưng"
+      ],
+      "issuedDate": "2015-07-28",
+      "effectiveDate": "2015-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1178/BTTTT-THH năm 2015 về khung Kiến trúc Chính phủ điện tử Việt Nam, Phiên bản 1.0 do Bộ Thông tin và Truyền thông ban hành",
+      "id": "1178/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2015-04-21",
+      "effectiveDate": "2015-04-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Báo cáo 314/BC-VPCP năm 2018 về tình hình thực hiện Nghị quyết 36a/NQ-CP về Chính phủ điện tử năm 2017 do Văn phòng Chính phủ ban hành",
+      "id": "314/BC-VPCP",
+      "legislationType": "Báo cáo",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2018-01-10",
+      "effectiveDate": "2018-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 3769/QĐ-BKHCN năm 2017 về phê duyệt Kiến trúc chính phủ điện tử Bộ Khoa học và Công nghệ phiên bản 1.0",
+      "id": "3769/QĐ-BKHCN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Khoa học và Công nghệ",
+      "signers": [
+        "Phạm Đại Dương"
+      ],
+      "issuedDate": "2017-12-28",
+      "effectiveDate": "2017-12-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 686/QĐ-BBCVT năm 2007 về việc thay đổi tổ chức và sửa đổi chức năng, nhiệm vụ, quyền hạn của Trung tâm Hỗ trợ kiến trúc và Phát triển hạ tầng Chính phủ điện tử do Bộ trưởng Bộ Bưu chính, Viễn thông ban hành",
+      "id": "686/QĐ-BBCVT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Bưu chính, Viễn thông",
+      "signers": [
+        "Đỗ Trung Tá"
+      ],
+      "issuedDate": "2007-07-23",
+      "effectiveDate": "2007-07-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "5378/QĐ-BNN-KHCN",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+  "signers": [
+    "Hà Công Tuấn"
+  ],
+  "issuedDate": "2017-12-22",
+  "effectiveDate": "2017-12-22",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA0ADEAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">BỘ\n  NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN</span></b><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Số:\n  </span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:windowtext\">5378/QĐ-BNN-KHCN</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Hà\n  Nội, ngày </span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:windowtext\">22</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\n &quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"> tháng </span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">12</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\n  năm 201</span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:windowtext\">7</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"&quot;Arial&quot;,&quot;sans-serif&quot;;\ncolor:windowtext\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\ncolor:windowtext\">BAN HÀNH KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ NÔNG NGHIỆP VÀ PHÁT\nTRIỂN NÔNG THÔN PHIÊN BẢN 1.0</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">BỘ TRƯỞNG BỘ NÔNG\nNGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Căn cứ Nghị định số\n15/2017/NĐ-CP ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền\nhạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Căn cứ Nghị định số\n123/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền\nhạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Căn cứ Nghị quyết số\n36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Căn cứ Quyết định số\n1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ phê duyệt Chương trình quốc\ngia về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan nhà nước giai\nđoạn 2016-2020;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Căn cứ văn bản số\n1178/BTTT-THH ngày 21/4/2015 của Bộ Thông tin và Truyền thông về việc ban hành\nKhung Kiến trúc Chính phủ điện tử Việt Nam phi</span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ê</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">n\nbản 1.0 và Văn bản số 2384/BTTTT-THH ngày 28/7/2015 về việc Hướng dẫn mẫu đề\ncương Kiến trúc Chính phủ điện t</span></i><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ử</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\ncấp Bộ, mẫu Đ</span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\ncolor:windowtext\">ề</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"> cương Kiến trúc Chính quyền\nđiện t</span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\ncolor:windowtext\">ử</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"> cấp tỉnh;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Căn cứ văn bản số\n4544/BTTT-THH ngày 14/12/2017 của Bộ Thông tin và Truyền thông về việc góp ý\ncho dự thảo kiến trúc chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông\nthôn;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Theo đề nghị của Vụ\ntrưởng Vụ Khoa học, Công nghệ và Môi trường,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Điều\n1. Ban hành kèm theo Quyết định này “Kiến trúc Chính phủ điện tử của Bộ Nông\nnghiệp và Phát triển nông thôn Phiên bản 1.0”.</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Điều\n2. Tổ chức thực hiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">1. Giao Vụ Khoa học,\nCông nghệ và Môi trường:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Chủ trì, phối hợp với\nTrung tâm Tin học và Thống kê hướng dẫn các cơ quan, đơn vị thuộc Bộ Nông nghiệp\nvà Phát triển nông thôn triển khai thực hiện Kiến trúc Chính phủ điện tử của Bộ\nNông nghiệp và Phát triển nông thôn Phiên bản 1.0;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Tham mưu Lãnh đạo Bộ\nduy trì, cập nhật các phiên bản Kiến trúc Chính phủ điện tử của Bộ Nông nghiệp\nvà Phát triển nông thôn khi có sự thay đổi, đảm bảo xây dựng thành công Chính\nphủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">2. Các cơ quan, đơn vị\ntrực thuộc Bộ Nông nghiệp và Phát triển nông thôn tuân thủ triển khai ứng dụng\ncông nghệ thông tin theo Kiến trúc Chính phủ điện tử của Bộ đã ban hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Điều\n3. Quyết định này có hiệu lực kể từ ngày ký ban hành.</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Điều\n4. Chánh Văn phòng Bộ, Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường, Giám đốc\nTrung tâm Tin học và Thống kê và Thủ trưởng các cơ quan, đơn vị liên quan thuộc\nBộ chịu trách nhiệm thi hành Quyết định này./.</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA0ADEAOAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n  10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">&nbsp;</span></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nơi\n  nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:windowtext\">-</span><span lang=\"VI\" style=\"font-size:8.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"> </span><span lang=\"VI\" style=\"font-size:8.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Như\n  Điều 3;<br>\n  - Bộ trưởng (để b/c);<br>\n  - Văn phòng Chính phủ;<br>\n  - Bộ Thông tin và Truyền thông;<br>\n  - Các Thứ trưởng;<br>\n  - Các cơ quan, đơn vị thuộc Bộ;<br>\n  - Công đoàn ngành NN&amp;PTNT;<br>\n  - Đảng ủy Bộ;<br>\n  - Đảng ủy khối cơ sở tại TPHCM;<br>\n  - CĐ cơ quan Bộ, ĐTN Bộ;<br>\n  - Lưu: VT, KHCN (KTD.50b).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">KT.\n  BỘ TRƯỞNG<br>\n  THỨ TRƯỞNG</span></b><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  </span></b><b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:windowtext\">Hà Công Tuấn</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">KIẾN\nTRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN PHIÊN BẢN 1.0</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">(Ban\nhành kèm theo Quyết định số 5378/QĐ-BNN-KHCN ngày 22 tháng 12 năm 2017 của Bộ\ntrưởng Bộ Nông nghiệp và Phát triển nông thôn)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">I. MỤC\nĐÍCH VÀ PHẠM VI ÁP DỤNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">1. Mục đích</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">a) Mục đích chung</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Kiến trúc Chính phủ\nđiện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 được xây dựng\nnhằm tạo một mô hình thống nhất mang tính định hướng cho các đơn vị thuộc Bộ\nNông nghiệp và Phát triển nông thôn xây dựng cơ quan điện tử; tăng cường khả\nnăng kết nối liên thông, tích hợp, chia sẻ; kế thừa, sử dụng lại thông tin, cơ\nsở hạ tầng thông tin của các hệ thống thông tin triển khai; tăng cường khả năng\ngiám sát, đánh giá đầu tư; đảm bảo việc triển khai ứng dụng công nghệ thông tin\nđồng bộ, hạn chế trùng lặp, tiết kiệm chi phí, thời gian triển khai. Nâng cao\ntính linh hoạt khi xây dựng, triển khai các thành phần, hệ thống thông tin theo\nđiều kiện thực tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Làm cơ sở cho việc\ntriển khai các hoạt động công nghệ thông tin trong Bộ Nông nghiệp và Phát triển\nnông thôn theo Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính\nphủ điện tử và Quyết định số 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ\nphê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động\ncủa cơ quan nhà nước giai đoạn 2016-2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Tương thích với Kiến\ntrúc Chính phủ điện tử cấp Bộ ban hành tại văn bản số 1178/BTTTT-TTH ngày 21/04/2015\ncủa Bộ Thông tin và Truyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">b) Mục đích cụ thể</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Xác định các thành phần\nvà mối quan hệ giữa các thành phần của Kiến trúc Chính phủ điện tử Bộ Nông nghiệp\nvà Phát triển nông thôn phiên bản 1.0.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Xác định các thành phần\ntrong nền tảng tích hợp và chia sẻ dịch vụ (LGSP) đối với các đơn vị trong Bộ\nNông nghiệp và Phát triển nông thôn và các kết nối ra bên ngoài Bộ Nông nghiệp\nvà Phát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Xác định các ứng dụng,\ncơ sở dữ liệu và hạ tầng kỹ thuật dùng chung triển khai tại Bộ Nông nghiệp và\nPhát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Xác định lộ trình\nvà kế hoạch tổng quát trong việc triển khai Kiến trúc</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\"> </span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Chính\nphủ điện tử Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">2. Phạm vi áp dụng</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Kiến trúc Chính phủ\nđiện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 áp dụng đối với:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">+ 27 đơn vị trực thuộc\nBộ Nông nghiệp và Phát triển nông thôn (có trong Nghị định số 15/2017/NĐ-CP ngày\n17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ\nchức của Bộ Nông nghiệp và Phát triển nông thôn) và một số đơn vị khác, gồm:\nTrung tâm Khuyến nông Quốc gia, Văn phòng Điều phối nông thôn mới trung ương,\nTrung tâm Quốc gia nước sạch và Vệ sinh môi trường nông thôn, Đoàn thanh niên Bộ,\nCông đoàn Cơ quan Bộ, Đảng ủy Bộ và các tổ chức, cá nhân có liên quan trong việc\ntriển khai các dịch vụ công trực tuyến của Bộ Nông nghiệp và Phát triển nông\nthôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">+ Các ứng dụng chuyên\nngành phục vụ công tác quản lý, điều hành, ra quyết định, tra cứu thông tin do\nBộ Nông nghiệp và Phát triển nông thôn thực hiện; các ứng dụng nội bộ, ứng dụng\ndùng chung triển khai tại Bộ Nông nghiệp và Phát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">+ Cơ sở hạ tầng thông\ntin triển khai tại trụ sở Bộ Nông nghiệp và Phát triển nông thôn (số 2 Ngọc Hà,\nsố 10 Nguyễn Công Hoan và số 16 Thụy Khuê).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">+ K</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ế</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">t\nnối, chia sẻ thông tin, dữ liệu giữa các đơn vị trực thuộc Bộ Nông nghiệp và\nPhát triển nông thôn, các Sở Nông nghiệp và Phát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Các nội dung không nằm\ntrong kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn\nphiên bản 1.0, bao gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">+ Các ứng dụng, cơ sở\ndữ liệu, hạ tầng kỹ thuật nội bộ của các đơn vị thuộc Bộ Nông nghiệp và Phát\ntriển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">+ Các thủ tục hành\nchính công trong lĩnh vực nông nghiệp và phát triển nông thôn đã phân cấp cho\ncác địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">II.\nĐỊNH HƯỚNG KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">1. Chiến lược phát\ntriển của ngành</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Theo Nghị quyết số\n26-NQ/TW ngày 05/8/2008 của BCH TƯ Đảng khóa X, “Về nông nghiệp, nông dân, nông\nthôn”; Đề án “Tái cơ cấu ngành nông nghiệp theo hướng nâng cao giá trị gia tăng\nvà phát triển bền vững” tại Quyết định số 899/QĐ-TTg ngày 10/6/2013 của Thủ tướng\nChính phủ, đã chỉ ra các quan điểm, định hướng chiến lược phát triển ngành nông\nnghiệp và phát triển nông thôn như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Phát triển nông\nnghiệp, nông thôn đóng vai trò chiến lược trong sự nghiệp CNH-HĐH, xây dựng và\nbảo vệ tổ quốc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Các vấn đề phát triển\nnông nghiệp, nông thôn phải giải quyết đồng bộ gắn với CNH-HĐH đất nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Phát triển nông\nnghiệp, nông thôn phải dựa trên cơ chế kinh tế thị trường định hướng XHCN, phù\nhợp với điều kiện của từng vùng, từng lĩnh vực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Giải quyết vấn đề\nnông nghiệp, nông dân, nông thôn là nhiệm vụ của cả hệ thống chính trị và toàn\nxã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Phát triển phải vững\nbền cả về tự nhiên và xã hội. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">2. Tầm nhìn, định hướng\nphát triển chính phủ điện tử trong phát triển ngành</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Tầm nhìn, định hướng\nphát triển chính phủ điện tử, ứng dụng CNTT phục vụ công tác quản lý nhà nước của\nBộ Nông nghiệp và Phát triển nông thôn giai đoạn 2016-2012 và tầm nhìn đến năm\n2025 gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">a) Tầm nhìn và quan điểm\nchiến lược</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Phát triển ứng dụng\nCNTT phục vụ công tác quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông\nthôn là cần thiết phục vụ cho mục đích trước mắt và lâu dài phát triển ngành;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Phát triển ứng dụng\nCNTT trong quản lý nhà nước, thực hiện chính phủ điện tử phải gắn với tiến\ntrình cải cách hành chính của Bộ và từng đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">b) Định hướng chiến\nlược</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">1) Phát triển hạ tầng\nkỹ thuật CNTT</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Nâng cấp, quy hoạch\nmở rộng hạ tầng mạng LAN của Bộ và kết nối diện rộng với mạng LAN của các đơn vị\ntrực thuộc Bộ (tạo thành mạng diện rộng - WAN). Đảm bảo điều kiện an toàn, an\nninh cho mạng của Bộ với hệ thống máy chủ đủ mạnh để quản trị các CSDL dùng\nchung, sao lưu dữ liệu, đồng bộ hóa dữ liệu và thực hiện các ứng dụng trên mạng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Tăng cường bảo đảm\nan toàn thông tin. Phối hợp với các đơn vị, Cục An toàn thông tin, Trung tâm ứng\ncứu khẩn cấp máy tính Việt Nam, Trung tâm lưu trữ dữ liệu dự phòng Quốc gia\ntrong phòng chống tin tặc và thảm họa CNTT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Tăng cường trang\nthiết bị tin học, thiết bị mạng, từng bước bản quyền hóa các sản phẩm phần mềm\ncho các cơ quan quản lý nhà nước thuộc Bộ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">2) Ứng dụng CNTT\ntrong các cơ quan thuộc Bộ</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Phát triển Trang/Cổng\nThông tin điện tử của Bộ và của các đơn vị trực thuộc Bộ, tích hợp được các dịch\nvụ công và các ứng dụng chuyên ngành nông nghiệp và phát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Nâng cấp, xây dựng\ncác CSDL dùng chung chuyên ngành n</span><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ô</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ng\nnghiệp và phát triển nông thôn phục vụ được nhiều đối tượng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Thực hiện các chế độ\nbáo cáo, trao đổi thông tin qua mạng nhằm giảm thiểu sử dụng giấy tờ. Tăng cường\nsử dụng chữ ký số trong các văn bản tài liệu lưu chuyển qua mạng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Đẩy mạnh việc áp dụng\nvăn phòng điện tử tại các đơn vị nhằm đáp ứng tốt cho công tác quản lý, điều\nhành của đơn vị, như: Quản lý văn bản, quản lý chương trình công tác, lập lịch\ncông tác, theo dõi, giám sát, tổng hợp việc thực hiện các nhiệm vụ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Nâng cấp CSDL về thủ\ntục hành chính của Bộ. Chuẩn hóa các mẫu biểu điện tử và đưa lên mạng, công\nkhai, minh bạch hóa thông tin,...</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">3) </span></i><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Ứ</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ng\ndụng CNTT</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\ncolor:windowtext\"> </span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">phục vụ người dân và doanh\nnghiệp</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Tăng cường khả năng\nđáp ứng của Cổng TTĐT của Bộ, đảm bảo người dân thông qua Cổng TTĐT có thể kết\nnối, liên hệ đến cơ quan chuyên môn để tra cứu, gửi yêu cầu, kiến nghị các vấn\nđề liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Tổ chức thường\nxuyên các diễn đàn giao lưu trực tuyến v</span><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ớ</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">i\nngười dân thông qua Cổng TTĐT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Đẩy mạnh ứng dụng\nCNTT trong việc triển khai các thủ tục hành chính, dịch vụ công ở mức độ 3 và\n4.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Nâng cấp, xây dựng\nCSDL và hệ thống thông tin hỏi đáp trả lời người dân trên Cổng TTĐT của Bộ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">4) Nguồn nhân lực cho\nứng dụng CNTT</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Đào tạo nâng cao kiến\nthức cho cán bộ chuyên trách CNTT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Đào tạo phổ cập ứng\ndụng CNTT cho cán bộ, công chức, viên chức của Bộ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">- Có chính sách đãi\nngộ để thu hút nhân lực về CNTT, tuyển chọn người giỏi về làm việc tại những\nđơn vị có nhu cầu cao về ứng dụng CNTT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">III.\nCÁC NGUYÊN TẮC XÂY DỰNG KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Việc xây dựng Kiến\ntrúc Chính phủ điện tử Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0\ntuân theo các nguyên tắc cơ bản sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 1:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nPhù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam phiên bản 1.0 và các văn\nbản hướng dẫn liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 2:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nPhù hợp với định hướng, mục tiêu triển khai ứng dụng CNTT của quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 3:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nPhù hợp với chiến lược, mục tiêu phát triển KT-XH của Chính phủ và Bộ Nông nghiệp\nvà Phát triển nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 4:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nThúc đẩy việc chia sẻ, sử dụng lại thông tin, dữ liệu và các giải pháp, ứng dụng\ndùng chung.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 5:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nKế thừa kết quả đã đầu tư. Chuyển dần các ứng dụng đơn lẻ sang các ứng dụng đáp\nứng các yêu cầu nghiệp vụ, có khả năng dùng chung, chia sẻ thông tin, dữ liệu với\ncác ứng dụng khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 6:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nTriển khai đồng bộ, từ trên xuống; bảo đảm tính thống nhất của hạ tầng kỹ thuật\nvà các hệ thống thông tin nghiệp vụ; bảo đảm duy trì sự hoạt động ổn định, liên\ntục của các đơn vị trực thuộc Bộ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 7:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nQuản lý thông tin, dữ liệu theo hướng tập trung, thống nhất, được liên thông,\nchia sẻ tối đa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 8:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nAn toàn thông tin được tích h</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">ợ</span><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">p vào tất cả các lớp\ncủa Kiến trúc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Nguyên tắc 9:</span></i><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">\nTuân thủ các quy chuẩn, tiêu chuẩn kỹ thuật về ứng dụng CNTT của quốc gia,\nchuyên ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">IV.\nKIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">1.\nSơ đồ tổng thể Kiến trúc Chính phủ điện tử của Bộ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext\">Kiến trúc Chính phủ\nđiện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 được thể hiện\ntrong hình sau đây: </span></p>\n\n",
+  "mdContent": "**BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 5378/QĐ-BNN-KHCN\n\n_Hà Nội, ngày_ _22_ _tháng_ _12_ _năm 201__7_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN PHIÊN BẢN 1.0\n\n**BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN**\n\n_Căn cứ Nghị định số 15/2017/NĐ-CP ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn;_\n\n_Căn cứ Nghị định số 123/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ;_\n\n_Căn cứ Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử;_\n\n_Căn cứ Quyết định số 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ phê duyệt Chương trình quốc gia về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016-2020;_\n\n_Căn cứ văn bản số 1178/BTTT-THH ngày 21/4/2015 của Bộ Thông tin và Truyền thông về việc ban hành Khung Kiến trúc Chính phủ điện tử Việt Nam phi__ê__n bản 1.0 và Văn bản số 2384/BTTTT-THH ngày 28/7/2015 về việc Hướng dẫn mẫu đề cương Kiến trúc Chính phủ điện t__ử_ _cấp Bộ, mẫu Đ__ề_ _cương Kiến trúc Chính quyền điện t__ử_ _cấp tỉnh;_\n\n_Căn cứ văn bản số 4544/BTTT-THH ngày 14/12/2017 của Bộ Thông tin và Truyền thông về việc góp ý cho dự thảo kiến trúc chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn;_\n\n_Theo đề nghị của Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1. Ban hành kèm theo Quyết định này “Kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn Phiên bản 1.0”.**\n\n**Điều 2. Tổ chức thực hiện**\n\n1\\. Giao Vụ Khoa học, Công nghệ và Môi trường:\n\n\\- Chủ trì, phối hợp với Trung tâm Tin học và Thống kê hướng dẫn các cơ quan, đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn triển khai thực hiện Kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn Phiên bản 1.0;\n\n\\- Tham mưu Lãnh đạo Bộ duy trì, cập nhật các phiên bản Kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn khi có sự thay đổi, đảm bảo xây dựng thành công Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn.\n\n2\\. Các cơ quan, đơn vị trực thuộc Bộ Nông nghiệp và Phát triển nông thôn tuân thủ triển khai ứng dụng công nghệ thông tin theo Kiến trúc Chính phủ điện tử của Bộ đã ban hành.\n\n**Điều 3. Quyết định này có hiệu lực kể từ ngày ký ban hành.**\n\n**Điều 4. Chánh Văn phòng Bộ, Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường, Giám đốc Trung tâm Tin học và Thống kê và Thủ trưởng các cơ quan, đơn vị liên quan thuộc Bộ chịu trách nhiệm thi hành Quyết định này./.**\n\n**_Nơi nhận:  \n_**\\- Như Điều 3;  \n\\- Bộ trưởng (để b/c);  \n\\- Văn phòng Chính phủ;  \n\\- Bộ Thông tin và Truyền thông;  \n\\- Các Thứ trưởng;  \n\\- Các cơ quan, đơn vị thuộc Bộ;  \n\\- Công đoàn ngành NN&PTNT;  \n\\- Đảng ủy Bộ;  \n\\- Đảng ủy khối cơ sở tại TPHCM;  \n\\- CĐ cơ quan Bộ, ĐTN Bộ;  \n\\- Lưu: VT, KHCN (KTD.50b).\n\n**KT. BỘ TRƯỞNG  \nTHỨ TRƯỞNG****Hà Công Tuấn**\n\n**KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN PHIÊN BẢN 1.0**\n\n_(Ban hành kèm theo Quyết định số 5378/QĐ-BNN-KHCN ngày 22 tháng 12 năm 2017 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)_\n\n**I. MỤC ĐÍCH VÀ PHẠM VI ÁP DỤNG**\n\n**1\\. Mục đích**\n\na) Mục đích chung\n\n\\- Kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 được xây dựng nhằm tạo một mô hình thống nhất mang tính định hướng cho các đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn xây dựng cơ quan điện tử; tăng cường khả năng kết nối liên thông, tích hợp, chia sẻ; kế thừa, sử dụng lại thông tin, cơ sở hạ tầng thông tin của các hệ thống thông tin triển khai; tăng cường khả năng giám sát, đánh giá đầu tư; đảm bảo việc triển khai ứng dụng công nghệ thông tin đồng bộ, hạn chế trùng lặp, tiết kiệm chi phí, thời gian triển khai. Nâng cao tính linh hoạt khi xây dựng, triển khai các thành phần, hệ thống thông tin theo điều kiện thực tế.\n\n\\- Làm cơ sở cho việc triển khai các hoạt động công nghệ thông tin trong Bộ Nông nghiệp và Phát triển nông thôn theo Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử và Quyết định số 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016-2020.\n\n\\- Tương thích với Kiến trúc Chính phủ điện tử cấp Bộ ban hành tại văn bản số 1178/BTTTT-TTH ngày 21/04/2015 của Bộ Thông tin và Truyền thông.\n\nb) Mục đích cụ thể\n\n\\- Xác định các thành phần và mối quan hệ giữa các thành phần của Kiến trúc Chính phủ điện tử Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0.\n\n\\- Xác định các thành phần trong nền tảng tích hợp và chia sẻ dịch vụ (LGSP) đối với các đơn vị trong Bộ Nông nghiệp và Phát triển nông thôn và các kết nối ra bên ngoài Bộ Nông nghiệp và Phát triển nông thôn.\n\n\\- Xác định các ứng dụng, cơ sở dữ liệu và hạ tầng kỹ thuật dùng chung triển khai tại Bộ Nông nghiệp và Phát triển nông thôn.\n\n\\- Xác định lộ trình và kế hoạch tổng quát trong việc triển khai Kiến trúc Chính phủ điện tử Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0.\n\n**2\\. Phạm vi áp dụng**\n\nKiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 áp dụng đối với:\n\n\\+ 27 đơn vị trực thuộc Bộ Nông nghiệp và Phát triển nông thôn (có trong Nghị định số 15/2017/NĐ-CP ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn) và một số đơn vị khác, gồm: Trung tâm Khuyến nông Quốc gia, Văn phòng Điều phối nông thôn mới trung ương, Trung tâm Quốc gia nước sạch và Vệ sinh môi trường nông thôn, Đoàn thanh niên Bộ, Công đoàn Cơ quan Bộ, Đảng ủy Bộ và các tổ chức, cá nhân có liên quan trong việc triển khai các dịch vụ công trực tuyến của Bộ Nông nghiệp và Phát triển nông thôn.\n\n\\+ Các ứng dụng chuyên ngành phục vụ công tác quản lý, điều hành, ra quyết định, tra cứu thông tin do Bộ Nông nghiệp và Phát triển nông thôn thực hiện; các ứng dụng nội bộ, ứng dụng dùng chung triển khai tại Bộ Nông nghiệp và Phát triển nông thôn.\n\n\\+ Cơ sở hạ tầng thông tin triển khai tại trụ sở Bộ Nông nghiệp và Phát triển nông thôn (số 2 Ngọc Hà, số 10 Nguyễn Công Hoan và số 16 Thụy Khuê).\n\n\\+ Kết nối, chia sẻ thông tin, dữ liệu giữa các đơn vị trực thuộc Bộ Nông nghiệp và Phát triển nông thôn, các Sở Nông nghiệp và Phát triển nông thôn.\n\nCác nội dung không nằm trong kiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0, bao gồm:\n\n\\+ Các ứng dụng, cơ sở dữ liệu, hạ tầng kỹ thuật nội bộ của các đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn.\n\n\\+ Các thủ tục hành chính công trong lĩnh vực nông nghiệp và phát triển nông thôn đã phân cấp cho các địa phương.\n\n**II. ĐỊNH HƯỚNG KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ**\n\n**1\\. Chiến lược phát triển của ngành**\n\nTheo Nghị quyết số 26-NQ/TW ngày 05/8/2008 của BCH TƯ Đảng khóa X, “Về nông nghiệp, nông dân, nông thôn”; Đề án “Tái cơ cấu ngành nông nghiệp theo hướng nâng cao giá trị gia tăng và phát triển bền vững” tại Quyết định số 899/QĐ-TTg ngày 10/6/2013 của Thủ tướng Chính phủ, đã chỉ ra các quan điểm, định hướng chiến lược phát triển ngành nông nghiệp và phát triển nông thôn như sau:\n\n\\- Phát triển nông nghiệp, nông thôn đóng vai trò chiến lược trong sự nghiệp CNH-HĐH, xây dựng và bảo vệ tổ quốc.\n\n\\- Các vấn đề phát triển nông nghiệp, nông thôn phải giải quyết đồng bộ gắn với CNH-HĐH đất nước.\n\n\\- Phát triển nông nghiệp, nông thôn phải dựa trên cơ chế kinh tế thị trường định hướng XHCN, phù hợp với điều kiện của từng vùng, từng lĩnh vực.\n\n\\- Giải quyết vấn đề nông nghiệp, nông dân, nông thôn là nhiệm vụ của cả hệ thống chính trị và toàn xã hội.\n\n\\- Phát triển phải vững bền cả về tự nhiên và xã hội.\n\n**2\\. Tầm nhìn, định hướng phát triển chính phủ điện tử trong phát triển ngành**\n\nTầm nhìn, định hướng phát triển chính phủ điện tử, ứng dụng CNTT phục vụ công tác quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông thôn giai đoạn 2016-2012 và tầm nhìn đến năm 2025 gồm:\n\na) Tầm nhìn và quan điểm chiến lược\n\n\\- Phát triển ứng dụng CNTT phục vụ công tác quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông thôn là cần thiết phục vụ cho mục đích trước mắt và lâu dài phát triển ngành;\n\n\\- Phát triển ứng dụng CNTT trong quản lý nhà nước, thực hiện chính phủ điện tử phải gắn với tiến trình cải cách hành chính của Bộ và từng đơn vị.\n\nb) Định hướng chiến lược\n\n_1) Phát triển hạ tầng kỹ thuật CNTT_\n\n\\- Nâng cấp, quy hoạch mở rộng hạ tầng mạng LAN của Bộ và kết nối diện rộng với mạng LAN của các đơn vị trực thuộc Bộ (tạo thành mạng diện rộng - WAN). Đảm bảo điều kiện an toàn, an ninh cho mạng của Bộ với hệ thống máy chủ đủ mạnh để quản trị các CSDL dùng chung, sao lưu dữ liệu, đồng bộ hóa dữ liệu và thực hiện các ứng dụng trên mạng.\n\n\\- Tăng cường bảo đảm an toàn thông tin. Phối hợp với các đơn vị, Cục An toàn thông tin, Trung tâm ứng cứu khẩn cấp máy tính Việt Nam, Trung tâm lưu trữ dữ liệu dự phòng Quốc gia trong phòng chống tin tặc và thảm họa CNTT.\n\n\\- Tăng cường trang thiết bị tin học, thiết bị mạng, từng bước bản quyền hóa các sản phẩm phần mềm cho các cơ quan quản lý nhà nước thuộc Bộ.\n\n_2) Ứng dụng CNTT trong các cơ quan thuộc Bộ_\n\n\\- Phát triển Trang/Cổng Thông tin điện tử của Bộ và của các đơn vị trực thuộc Bộ, tích hợp được các dịch vụ công và các ứng dụng chuyên ngành nông nghiệp và phát triển nông thôn.\n\n\\- Nâng cấp, xây dựng các CSDL dùng chung chuyên ngành nông nghiệp và phát triển nông thôn phục vụ được nhiều đối tượng.\n\n\\- Thực hiện các chế độ báo cáo, trao đổi thông tin qua mạng nhằm giảm thiểu sử dụng giấy tờ. Tăng cường sử dụng chữ ký số trong các văn bản tài liệu lưu chuyển qua mạng.\n\n\\- Đẩy mạnh việc áp dụng văn phòng điện tử tại các đơn vị nhằm đáp ứng tốt cho công tác quản lý, điều hành của đơn vị, như: Quản lý văn bản, quản lý chương trình công tác, lập lịch công tác, theo dõi, giám sát, tổng hợp việc thực hiện các nhiệm vụ.\n\n\\- Nâng cấp CSDL về thủ tục hành chính của Bộ. Chuẩn hóa các mẫu biểu điện tử và đưa lên mạng, công khai, minh bạch hóa thông tin,...\n\n_3)_ _Ứ__ng dụng CNTT_ _phục vụ người dân và doanh nghiệp_\n\n\\- Tăng cường khả năng đáp ứng của Cổng TTĐT của Bộ, đảm bảo người dân thông qua Cổng TTĐT có thể kết nối, liên hệ đến cơ quan chuyên môn để tra cứu, gửi yêu cầu, kiến nghị các vấn đề liên quan.\n\n\\- Tổ chức thường xuyên các diễn đàn giao lưu trực tuyến với người dân thông qua Cổng TTĐT.\n\n\\- Đẩy mạnh ứng dụng CNTT trong việc triển khai các thủ tục hành chính, dịch vụ công ở mức độ 3 và 4.\n\n\\- Nâng cấp, xây dựng CSDL và hệ thống thông tin hỏi đáp trả lời người dân trên Cổng TTĐT của Bộ.\n\n_4) Nguồn nhân lực cho ứng dụng CNTT_\n\n\\- Đào tạo nâng cao kiến thức cho cán bộ chuyên trách CNTT.\n\n\\- Đào tạo phổ cập ứng dụng CNTT cho cán bộ, công chức, viên chức của Bộ.\n\n\\- Có chính sách đãi ngộ để thu hút nhân lực về CNTT, tuyển chọn người giỏi về làm việc tại những đơn vị có nhu cầu cao về ứng dụng CNTT.\n\n**III. CÁC NGUYÊN TẮC XÂY DỰNG KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ**\n\nViệc xây dựng Kiến trúc Chính phủ điện tử Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 tuân theo các nguyên tắc cơ bản sau:\n\n_Nguyên tắc 1:_ Phù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam phiên bản 1.0 và các văn bản hướng dẫn liên quan.\n\n_Nguyên tắc 2:_ Phù hợp với định hướng, mục tiêu triển khai ứng dụng CNTT của quốc gia.\n\n_Nguyên tắc 3:_ Phù hợp với chiến lược, mục tiêu phát triển KT-XH của Chính phủ và Bộ Nông nghiệp và Phát triển nông thôn.\n\n_Nguyên tắc 4:_ Thúc đẩy việc chia sẻ, sử dụng lại thông tin, dữ liệu và các giải pháp, ứng dụng dùng chung.\n\n_Nguyên tắc 5:_ Kế thừa kết quả đã đầu tư. Chuyển dần các ứng dụng đơn lẻ sang các ứng dụng đáp ứng các yêu cầu nghiệp vụ, có khả năng dùng chung, chia sẻ thông tin, dữ liệu với các ứng dụng khác.\n\n_Nguyên tắc 6:_ Triển khai đồng bộ, từ trên xuống; bảo đảm tính thống nhất của hạ tầng kỹ thuật và các hệ thống thông tin nghiệp vụ; bảo đảm duy trì sự hoạt động ổn định, liên tục của các đơn vị trực thuộc Bộ.\n\n_Nguyên tắc 7:_ Quản lý thông tin, dữ liệu theo hướng tập trung, thống nhất, được liên thông, chia sẻ tối đa.\n\n_Nguyên tắc 8:_ An toàn thông tin được tích hợp vào tất cả các lớp của Kiến trúc.\n\n_Nguyên tắc 9:_ Tuân thủ các quy chuẩn, tiêu chuẩn kỹ thuật về ứng dụng CNTT của quốc gia, chuyên ngành.\n\n**IV. KIẾN TRÚC CHÍNH PHỦ ĐIỆN TỬ CỦA BỘ**\n\n**1\\. Sơ đồ tổng thể Kiến trúc Chính phủ điện tử của Bộ**\n\nKiến trúc Chính phủ điện tử của Bộ Nông nghiệp và Phát triển nông thôn phiên bản 1.0 được thể hiện trong hình sau đây:",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,627 @@
+{
+  "title": "Quyết định 24/2017/QĐ-UBND ủy quyền phê duyệt giá đất cụ thể để tính tiền bồi thường về đất khi nhà nước thu hồi đất, giá cụ thể để giao đất tái định cư và giá đất cụ thể để xác định giá khởi điểm đấu giá quyền sử dụng đất ở trên địa bàn tỉnh Nghệ An",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 74/2015/TT-BTC hướng dẫn lập dự toán, sử dụng và thanh quyết toán kinh phí tổ chức thực hiện bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất do Bộ Tài chính ban hành",
+      "id": "74/2015/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2015-05-15",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/11/2022"
+    },
+    {
+      "title": "Thông tư 36/2014/TT-BTNMT quy định chi tiết phương pháp định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "36/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-06-30",
+      "effectiveDate": "2014-08-13",
+      "gazetteDate": "2014-08-19",
+      "gazetteNumber": "Từ số 773 đến số 774",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 43/2014/NĐ-CP hướng dẫn thi hành Luật Đất đai",
+      "id": "43/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-04",
+      "gazetteNumber": "Từ số 561 đến số 562",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 44/2014/NĐ-CP quy định về giá đất",
+      "id": "44/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-05",
+      "gazetteNumber": "Từ số 563 đến số 564",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất",
+      "id": "45/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-23",
+      "gazetteNumber": "Từ số 611 đến số 612",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước",
+      "id": "46/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-24",
+      "gazetteNumber": "Từ số 617 đến số 618",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 81/2017/QĐ-UBND về ủy quyền phê duyệt giá đất cụ thể để tính tiền bồi thường về đất khi Nhà nước thu hồi đất, giá đất cụ thể để giao đất tái định cư và giá đất cụ thể để xác định giá khởi điểm đấu giá quyền sử dụng đất ở trên địa bàn tỉnh Nghệ An",
+      "id": "81/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Xuân Đại"
+      ],
+      "issuedDate": "2017-12-29",
+      "effectiveDate": "2018-01-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/01/2019"
+    },
+    {
+      "title": "Quyết định 176/QĐ-UBND năm 2021 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2021-01-20",
+      "effectiveDate": "2021-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 54/2018/QĐ-UBND về ủy quyền xây dựng, thẩm định và phê duyệt giá đất cụ thể để tính tiền bồi thường về đất khi nhà nước thu hồi đất, giá đất cụ thể để giao đất tái định cư và giá đất cụ thể để xác định giá khởi điểm đấu giá quyền sử dụng đất ở trên địa bàn tỉnh Nghệ An",
+      "id": "54/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Đinh Viết Hồng"
+      ],
+      "issuedDate": "2018-12-28",
+      "effectiveDate": "2019-01-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Quyết định 176/QĐ-UBND năm 2021 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2021-01-20",
+      "effectiveDate": "2021-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 41/2019/QĐ-UBND về ủy quyền xây dựng, thẩm định và phê duyệt giá đất cụ thể để tính tiền bồi thường về đất khi nhà nước thu hồi đất, giá đất cụ thể để giao đất tái định cư và giá đất cụ thể để xác định giá khởi điểm đấu giá quyền sử dụng đất ở trên địa bàn tỉnh Nghệ An",
+      "id": "41/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hoàng Nghĩa Hiếu"
+      ],
+      "issuedDate": "2019-12-19",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Quyết định 176/QĐ-UBND năm 2021 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2021-01-20",
+      "effectiveDate": "2021-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 258/QĐ-UBND năm 2022 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân tỉnh, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "258/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2022-01-26",
+      "effectiveDate": "2022-01-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 60/2021/QĐ-UBND về ủy quyền xây dựng, thẩm định và phê duyệt giá đất cụ thể trên địa bàn tỉnh Nghệ An",
+      "id": "60/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hoàng Nghĩa Hiếu"
+      ],
+      "issuedDate": "2021-12-15",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/06/2022"
+    },
+    {
+      "title": "Quyết định 232/QĐ-UBND năm 2023 công bố văn bản quy phạm pháp luật do Hội đồng nhân dân tỉnh, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực toàn bộ và hết hiệu lực một phần năm 2022",
+      "id": "232/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2023-01-31",
+      "effectiveDate": "2023-01-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 44/2017/QĐ-UBND về ủy quyền phê duyệt giá đất cụ thể; thu hồi đất nông nghiệp thuộc quỹ đất công ích của xã, phường, thị trấn; cho phép san gạt mặt bằng, hạ cốt nền trên địa bàn tỉnh Bắc Giang",
+      "id": "44/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Thị Thu Hà"
+      ],
+      "issuedDate": "2017-12-29",
+      "effectiveDate": "2018-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 35/2017/QĐ-UBND quy định về xác định giá khởi điểm và chế độ tài chính trong hoạt động đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn thành phố Hà Nội",
+      "id": "35/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Đức Chung"
+      ],
+      "issuedDate": "2017-10-30",
+      "effectiveDate": "2017-11-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/10/2019"
+    },
+    {
+      "title": "Quyết định 235/QĐ-UBND năm 2017 phê duyệt giá đất cụ thể làm căn cứ tính tiền hỗ trợ nhận chuyển nhượng đất ở cho hộ di dân, tái định cư Dự án thủy điện Tuyên Quang trên địa bàn huyện Hàm Yên, tỉnh Tuyên Quang",
+      "id": "235/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Trần Ngọc Thực"
+      ],
+      "issuedDate": "2017-07-19",
+      "effectiveDate": "2017-07-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 311/QĐ-UBND năm 2017 phê duyệt giá đất cụ thể làm căn cứ tính tiền sử dụng đất khu nhà ở thôn Thanh Hoài, xã Thanh Khương, huyện Thuận Thành, tỉnh Bắc Ninh",
+      "id": "311/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bắc Ninh",
+      "signers": [
+        "Nguyễn Hữu Thành"
+      ],
+      "issuedDate": "2017-06-23",
+      "effectiveDate": "2017-06-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1357/QĐ-UBND năm 2017 phê duyệt giá đất cụ thể để tính tiền bồi thường, hỗ trợ khi Nhà nước thu hồi đất thực hiện dự án: Nút giao thông Nguyễn Thái Học - Thái Phiên, thành phố Đông Hà, tỉnh Quảng Trị",
+      "id": "1357/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Hà Sỹ Đồng"
+      ],
+      "issuedDate": "2017-06-23",
+      "effectiveDate": "2017-06-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 486/QĐ-UBND năm 2017 phê duyệt giá thuê đất tại Khu nông nghiệp công nghệ cao huyện Lạc Dương, tỉnh Lâm Đồng",
+      "id": "486/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2017-03-10",
+      "effectiveDate": "2017-03-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 17/KH-UBND năm 2017 Thực hiện Nghị quyết 08-NQ/BCSĐ về đẩy mạnh đấu giá đất, giao đất có thu tiền, đấu thầu dự án tạo nguồn thu để thanh toán nợ xây dựng cơ bản và đầu tư các dự án trọng điểm của tỉnh Ninh Bình",
+      "id": "17/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Ninh Bình",
+      "signers": [
+        "Nguyễn Ngọc Thạch"
+      ],
+      "issuedDate": "2017-03-06",
+      "effectiveDate": "2017-03-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 04/2017/QĐ-UBND về ủy quyền quyết định giá đất cụ thể để tính bồi thường khi Nhà nước thu hồi đất trên địa bàn các huyện, thị xã, thành phố thuộc tỉnh Vĩnh Phúc",
+      "id": "04/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Vũ Chí Giang"
+      ],
+      "issuedDate": "2017-02-10",
+      "effectiveDate": "2017-02-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 02/01/2018"
+    },
+    {
+      "title": "Quyết định 181/QĐ-UBND năm 2017 đính chính Khoản 8 Điều 37 Quyết định 40/2014/QĐ-UBND về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất trên địa bàn tỉnh Tiền Giang",
+      "id": "181/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Phạm Anh Tuấn"
+      ],
+      "issuedDate": "2017-02-10",
+      "effectiveDate": "2017-02-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 148/QĐ-UBND năm 2017 phê duyệt giá đất cụ thể để tính bồi thường khi Nhà nước thu hồi đất thực hiện dự án cầu và đường Trần Hoàng Na, đường song hành từ nút IC3 đến bến xe Cần Thơ thuộc quận Cái Răng, thành phố Cần Thơ",
+      "id": "148/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Võ Thị Hồng Ánh"
+      ],
+      "issuedDate": "2017-01-18",
+      "effectiveDate": "2017-01-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3916/QĐ-UBND năm 2016 phê duyệt giá đất cụ thể để tính tiền bồi thường cho hộ gia đình, cá nhân bị ảnh hưởng do giải phóng mặt xây dựng công trình Hạ tầng kỹ thuật khu đất ở sau Nhà máy súc sản cũ tại phường Phú Hải, thành phố Đồng Hới, tỉnh Quảng Bình",
+      "id": "3916/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Lê Minh Ngân"
+      ],
+      "issuedDate": "2016-12-07",
+      "effectiveDate": "2016-12-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3660/QĐ-UBND năm 2016 phê duyệt giá đất cụ thể để tính tiền sử dụng đất mà nhà đầu tư phải nộp cho ngân sách nhà nước khi thực hiện dự án Khu nhà ở thương mại phía Bắc đường Trần Quang Khải tại phường Đồng Phú, thành phố Đồng Hới, tỉnh Quảng Bình",
+      "id": "3660/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Lê Minh Ngân"
+      ],
+      "issuedDate": "2016-11-15",
+      "effectiveDate": "2016-11-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2447/QĐ-UBND năm 2016 phê duyệt hệ số điều chỉnh giá đất để xác định giá đất cụ thể tính tiền bồi thường và tính tiền giao đất tái định cư thực hiện dự án xây dựng vòng xoay cải tạo điểm đen khu vực nút giao thông đường vào cầu Đạ Tẻh và đường vào các xã Đạ Kho, xã Triệu Hải và xã Đạ Pal, huyện Đạ Tẻh, tỉnh Lâm Đồng",
+      "id": "2447/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2016-11-03",
+      "effectiveDate": "2016-11-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 16/2016/NQ-HĐND thông qua cơ chế xác định giá giao đất, cho thuê đất trong các khu, cụm công nghiệp trên địa bàn tỉnh Hậu Giang",
+      "id": "16/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hậu Giang",
+      "signers": [
+        "Huỳnh Thanh Tạo"
+      ],
+      "issuedDate": "2016-10-31",
+      "effectiveDate": "2016-11-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/12/2018"
+    },
+    {
+      "title": "Quyết định 1313/QĐ-UBND năm 2015 phê duyệt giá đất ở (giá sàn) để đấu giá quyền sử dụng đất và giá đất để bồi thường giải phóng mặt bằng tại một số dự án trên địa bàn huyện Đồng Hỷ, tỉnh Thái Nguyên",
+      "id": "1313/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Thái Nguyên",
+      "signers": [
+        "Nhữ Văn Tâm"
+      ],
+      "issuedDate": "2015-06-04",
+      "effectiveDate": "2015-06-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 651/QĐ-UBND năm 2009 ủy quyền phê duyệt giá sàn đấu giá đất, giá đất để giao đất có thu tiền sử dụng đất và giá đất tái định cư tại địa điểm cụ thể đối với dự án do Ủy ban nhân dân thành phố Thanh Hóa làm chủ đầu tư",
+      "id": "651/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Chu Phạm Ngọc Hiển"
+      ],
+      "issuedDate": "2009-03-04",
+      "effectiveDate": "2009-03-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/12/2011"
+    }
+  ],
+  "id": "24/2017/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bất động sản",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Tỉnh Nghệ An",
+  "signers": [
+    "Lê Xuân Đại"
+  ],
+  "issuedDate": "2017-01-23",
+  "effectiveDate": "2017-02-03",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 08/01/2018",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAAyADEANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH NGHỆ AN<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  24/2017/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Nghệ\n  An, ngày 23 tháng 01 năm 2017</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">VỀ\nVIỆC ỦY QUYỀN PHÊ DUYỆT GIÁ ĐẤT CỤ THỂ ĐỂ TÍNH TIỀN BỒI THƯỜNG VỀ ĐẤT KHI NHÀ\nNƯỚC THU HỒI ĐẤT, GIÁ ĐẤT CỤ THỂ ĐỂ GIAO ĐẤT TÁI ĐỊNH CƯ VÀ GIÁ ĐẤT CỤ THỂ ĐỂ\nXÁC ĐỊNH GIÁ KHỞI ĐIỂM ĐẤU GIÁ QSD ĐẤT Ở TRÊN ĐỊA BÀN TỈNH NGHỆ AN</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH NGHỆ AN</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức chính\nquyền địa phương ngày 19/6/2015;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Đất đai ngày\n29/11/2013;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ các Nghị định của\nChính phủ: Số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 43/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-43-2014-nd-cp-huong-dan-thi-hanh-luat-dat-dai-230680.aspx\">43/2014/NĐ-CP</a>  ngày 15/5/2014 quy định chi tiết thi hành một số\nđiều của Luật Đất đai, số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 44/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-44-2014-nd-cp-quy-dinh-ve-gia-dat-230632.aspx\">44/2014/NĐ-CP</a>  ngày 15/5/2014 quy định về giá đất,\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx\">45/2014/NĐ-CP</a>  ngày 15/5/2014 quy định về thu tiền sử dụng đất, số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 46/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx\">46/2014/NĐ-CP</a>  ngày 15/5/2014 quy định về thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 36/2014/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-36-2014-tt-btnmt-phuong-phap-dinh-gia-dat-xay-dung-dieu-chinh-bang-gia-dat-242349.aspx\">36/2014/TT-BTNMT</a> \nngày 30/6/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết\nphương pháp xác định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất\ncụ thể và tư vấn xác định giá đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 74/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-74-2015-tt-btc-lap-du-toan-kinh-phi-thuc-hien-boi-thuong-ho-tro-tai-dinh-cu-thu-hoi-dat-275040.aspx\">74/2015/TT-BTC</a>  ngày 15/5/2015 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự\ntoán, sử dụng và thanh quyết toán kinh phí tổ chức thực hiện bồi thường, hỗ\ntrợ, tái định cư khi Nhà nước thu hồi đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Theo đề nghị của Giám đốc Sở\nTài nguyên và Môi trường tại Tờ trình số 169/TTr-STNMT ngày 12/01/2017.</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">Điều 1. Phạm vi điều chỉnh và\nđối tượng áp dụng</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">1. Phạm vi điều chỉnh</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">Quyết định này quy định về việc ủy\nquyền cho Ủy ban nhân dân các huyện, thị xã, thành phố Vinh xây dựng, thẩm định\nvà phê duyệt giá đất cụ thể để bồi thường giải phóng mặt bằng và giá đất cụ thể\nđể xác định giá khởi điểm đấu giá quyền sử dụng đất ở trên địa bàn tỉnh Nghệ An</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">2. Đối tượng áp dụng</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">Ủy ban nhân dân các huyện, thị xã,\nthành phố Vinh và các tổ chức, cá nhân có liên quan đến việc phê duyệt giá đất\ncụ thể được quy định tại Khoản 1 điều này.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">Điều 2. Nội dung ủy quyền</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">1.<b> </b>Ủy quyền cho Ủy ban nhân\ndân các huyện, thị xã, thành phố Vinh xây dựng, thẩm định và phê duyệt giá đất\ncụ thể như sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">a) Giá đất cụ thể để tính tiền bồi\nthường về đất khi Nhà nước thu hồi đất nông nghiệp <i>(mức giá đất không cao\nhơn giá trong Bảng giá đất nhân với hệ số k do UBND tỉnh ban hành hàng năm);</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\">b) <span lang=\"NL\">Giá đất cụ thể để tính tiền bồi\nthường về đất khi Nhà nước thu hồi đất ở<i>;</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">c)<i> </i>Giá đất cụ thể để xác\nđịnh giá khởi điểm đấu giá quyền sử dụng đất ở để giao đất cho hộ gia đình cá\nnhân <i>(Đối với trường hợp mức giá đất không được thấp hơn mức giá trong Bảng\ngiá đất nhân với hệ số k do UBND tỉnh ban hành hàng năm. Mức giá này chưa bao\ngồm: Chi phí xây dựng hạ tầng, bồi thường GPMB, các chi phí khác nếu có);</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">d) Giá đất cụ thể để giao đất tái\nđịnh cư.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">2. Thời gian ủy quyền đến hết ngày\n31/12/2017.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">3. Ủy ban nhân dân các huyện, thị\nxã và thành phố Vinh thực hiện việc phê duyệt giá đất tại Khoản 1 Điều này phải\nphù hợp với các quy định hiện hành của pháp luật.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">Điều 3. Trách nhiệm của các cơ\nquan, đơn vị</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">1. Sở Tài nguyên và Môi trường:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">a) Chủ trì, phối hợp với Sở Tài\nchính hướng dẫn Ủy ban nhân dân các huyện, thị xã và thành phố Vinh thực hiện\nviệc xác định giá đất cụ thể; tổ chức giám sát, kiểm soát và báo cáo UBND tỉnh\nđịnh kỳ hàng quý việc tổ chức thực hiện xác định giá đất cụ thể theo Quyết định\nnày;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">b) Phối hợp với Sở Tài chính và Ủy\nban nhân dân các huyện, thị xã và thành phố Vinh để tổng hợp xử lý các khó khăn,\nvướng mắc theo chức năng và thẩm quyền.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">2.<b> </b>Định kỳ hàng <span style=\"color:black\">quý</span> Ủy ban nhân dân các huyện, thị xã và thành phố\nVinh: Báo cáo công tác tổ chức thực hiện việc xác định giá đất cụ thể theo\nQuyết định này về Sở Tài nguyên và Môi trường, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">Điều 4.</span></b><span lang=\"NL\"> <b>Hiệu lực thi hành</b></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">1. Quyết định có hiệu lực thi kể\ntừ ngày 03 tháng 02 năm 2017.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">2. Trường hợp Sở Tài nguyên và Môi\ntrường đã tiếp nhận hồ sơ xác định giá cụ thể trước ngày Quyết định này có hiệu\nlực thi hành nhưng chưa hoàn thành việc xử lý thì giao Sở Tài nguyên và Môi\ntrường tiếp tục xử lý theo quy định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">Điều 5. Tổ chức thực hiện</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\">Chánh Văn phòng UBND tỉnh; Giám\nđốc các Sở; Thủ trưởng các Ban, ngành cấp tỉnh; Chủ tịch Ủy ban nhân dân các\nhuyện, thị xã và thành phố Vinh và các tổ chức, cá nhân có liên quan chịu trách\nnhiệm thi hành Quyết định này./.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAAyADEANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"NL\">TM. ỦY BAN NHÂN DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH</span></b><span lang=\"NL\"><br>\n  </span><span lang=\"VI\"><br>\n  <br>\n  <br>\n  <br>\n  </span><b><span lang=\"NL\">Lê Xuân Đại</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"NL\">&nbsp;</span></b></p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH NGHỆ AN  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 24/2017/QĐ-UBND\n\n_Nghệ An, ngày 23 tháng 01 năm 2017_\n\n**QUYẾT ĐỊNH**\n\nVỀ VIỆC ỦY QUYỀN PHÊ DUYỆT GIÁ ĐẤT CỤ THỂ ĐỂ TÍNH TIỀN BỒI THƯỜNG VỀ ĐẤT KHI NHÀ NƯỚC THU HỒI ĐẤT, GIÁ ĐẤT CỤ THỂ ĐỂ GIAO ĐẤT TÁI ĐỊNH CƯ VÀ GIÁ ĐẤT CỤ THỂ ĐỂ XÁC ĐỊNH GIÁ KHỞI ĐIỂM ĐẤU GIÁ QSD ĐẤT Ở TRÊN ĐỊA BÀN TỈNH NGHỆ AN\n\n**ỦY BAN NHÂN DÂN TỈNH NGHỆ AN**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;_\n\n_Căn cứ Luật Đất đai ngày 29/11/2013;_\n\n_Căn cứ các Nghị định của Chính phủ: Số [43/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-43-2014-nd-cp-huong-dan-thi-hanh-luat-dat-dai-230680.aspx \"Nghị định 43/2014/NĐ-CP\") ngày 15/5/2014 quy định chi tiết thi hành một số điều của Luật Đất đai, số [44/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-44-2014-nd-cp-quy-dinh-ve-gia-dat-230632.aspx \"Nghị định 44/2014/NĐ-CP\") ngày 15/5/2014 quy định về giá đất, số [45/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx \"Nghị định 45/2014/NĐ-CP\") ngày 15/5/2014 quy định về thu tiền sử dụng đất, số [46/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx \"Nghị định 46/2014/NĐ-CP\") ngày 15/5/2014 quy định về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư số [36/2014/TT-BTNMT](https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-36-2014-tt-btnmt-phuong-phap-dinh-gia-dat-xay-dung-dieu-chinh-bang-gia-dat-242349.aspx \"Thông tư 36/2014/TT-BTNMT\") ngày 30/6/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết phương pháp xác định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất;_\n\n_Căn cứ Thông tư số [74/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-74-2015-tt-btc-lap-du-toan-kinh-phi-thuc-hien-boi-thuong-ho-tro-tai-dinh-cu-thu-hoi-dat-275040.aspx \"Thông tư 74/2015/TT-BTC\") ngày 15/5/2015 của Bộ trưởng Bộ Tài chính hướng dẫn việc lập dự toán, sử dụng và thanh quyết toán kinh phí tổ chức thực hiện bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất;_\n\n_Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường tại Tờ trình số 169/TTr-STNMT ngày 12/01/2017._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n**1\\. Phạm vi điều chỉnh**\n\nQuyết định này quy định về việc ủy quyền cho Ủy ban nhân dân các huyện, thị xã, thành phố Vinh xây dựng, thẩm định và phê duyệt giá đất cụ thể để bồi thường giải phóng mặt bằng và giá đất cụ thể để xác định giá khởi điểm đấu giá quyền sử dụng đất ở trên địa bàn tỉnh Nghệ An\n\n**2\\. Đối tượng áp dụng**\n\nỦy ban nhân dân các huyện, thị xã, thành phố Vinh và các tổ chức, cá nhân có liên quan đến việc phê duyệt giá đất cụ thể được quy định tại Khoản 1 điều này.\n\n**Điều 2. Nội dung ủy quyền**\n\n1. Ủy quyền cho Ủy ban nhân dân các huyện, thị xã, thành phố Vinh xây dựng, thẩm định và phê duyệt giá đất cụ thể như sau:\n\na) Giá đất cụ thể để tính tiền bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp _(mức giá đất không cao hơn giá trong Bảng giá đất nhân với hệ số k do UBND tỉnh ban hành hàng năm);_\n\nb) Giá đất cụ thể để tính tiền bồi thường về đất khi Nhà nước thu hồi đất ở_;_\n\nc) Giá đất cụ thể để xác định giá khởi điểm đấu giá quyền sử dụng đất ở để giao đất cho hộ gia đình cá nhân _(Đối với trường hợp mức giá đất không được thấp hơn mức giá trong Bảng giá đất nhân với hệ số k do UBND tỉnh ban hành hàng năm. Mức giá này chưa bao gồm: Chi phí xây dựng hạ tầng, bồi thường GPMB, các chi phí khác nếu có);_\n\nd) Giá đất cụ thể để giao đất tái định cư.\n\n2\\. Thời gian ủy quyền đến hết ngày 31/12/2017.\n\n3\\. Ủy ban nhân dân các huyện, thị xã và thành phố Vinh thực hiện việc phê duyệt giá đất tại Khoản 1 Điều này phải phù hợp với các quy định hiện hành của pháp luật.\n\n**Điều 3. Trách nhiệm của các cơ quan, đơn vị**\n\n1\\. Sở Tài nguyên và Môi trường:\n\na) Chủ trì, phối hợp với Sở Tài chính hướng dẫn Ủy ban nhân dân các huyện, thị xã và thành phố Vinh thực hiện việc xác định giá đất cụ thể; tổ chức giám sát, kiểm soát và báo cáo UBND tỉnh định kỳ hàng quý việc tổ chức thực hiện xác định giá đất cụ thể theo Quyết định này;\n\nb) Phối hợp với Sở Tài chính và Ủy ban nhân dân các huyện, thị xã và thành phố Vinh để tổng hợp xử lý các khó khăn, vướng mắc theo chức năng và thẩm quyền.\n\n2. Định kỳ hàng quý Ủy ban nhân dân các huyện, thị xã và thành phố Vinh: Báo cáo công tác tổ chức thực hiện việc xác định giá đất cụ thể theo Quyết định này về Sở Tài nguyên và Môi trường, Sở Tài chính.\n\n**Điều 4.** **Hiệu lực thi hành**\n\n1\\. Quyết định có hiệu lực thi kể từ ngày 03 tháng 02 năm 2017.\n\n2\\. Trường hợp Sở Tài nguyên và Môi trường đã tiếp nhận hồ sơ xác định giá cụ thể trước ngày Quyết định này có hiệu lực thi hành nhưng chưa hoàn thành việc xử lý thì giao Sở Tài nguyên và Môi trường tiếp tục xử lý theo quy định.\n\n**Điều 5. Tổ chức thực hiện**\n\nChánh Văn phòng UBND tỉnh; Giám đốc các Sở; Thủ trưởng các Ban, ngành cấp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã và thành phố Vinh và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH**  \n  \n  \n  \n  \n**Lê Xuân Đại**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

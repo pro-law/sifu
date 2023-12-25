@@ -1,0 +1,410 @@
+{
+  "title": "Quyết định 636/QĐ-UBND năm 2019 về phê duyệt Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu, phiên bản 1.0",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 85/2016/NĐ-CP về bảo đảm an toàn hệ thống thông tin theo cấp độ",
+      "id": "85/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-01",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-08-02",
+      "gazetteNumber": "Từ số 805 đến số 806",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn thông tin mạng 2015",
+      "id": "86/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1239 đến số 1240",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "id": "61/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-04-23",
+      "effectiveDate": "2018-06-21",
+      "gazetteDate": "2018-05-08",
+      "gazetteNumber": "Từ số 551 đến số 552",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 373/QĐ-UBND năm 2017 phê duyệt Kế hoạch Bảo đảm An toàn thông tin mạng giai đoạn 2017-2020 do tỉnh Bà Rịa - Vũng Tàu ban hành",
+      "id": "373/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Đặng Minh Thông"
+      ],
+      "issuedDate": "2017-02-21",
+      "effectiveDate": "2017-02-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3744/QĐ-UBND năm 2016 phê duyệt kế hoạch ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước tỉnh Bà Rịa - Vũng Tàu giai đoạn 2016-2020",
+      "id": "3744/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Đặng Minh Thông"
+      ],
+      "issuedDate": "2016-12-29",
+      "effectiveDate": "2016-12-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 898/QĐ-TTg năm 2016 phê duyệt phương hướng, mục tiêu, nhiệm vụ bảo đảm an toàn thông tin mạng giai đoạn 2016 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "898/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2016-05-27",
+      "effectiveDate": "2016-05-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1819/QĐ-TTg năm 2015 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1819/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-26",
+      "effectiveDate": "2015-10-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị quyết 36a/NQ-CP năm 2015 về Chính phủ điện tử do Chính phủ ban hành",
+      "id": "36a/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-14",
+      "effectiveDate": "2015-10-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/03/2019"
+    },
+    {
+      "title": "Công văn 2384/BTTTT-THH năm 2015 hướng dẫn mẫu Đề cương Kiến trúc Chính phủ điện tử cấp Bộ, mẫu Đề cương Kiến trúc Chính quyền điện tử cấp tỉnh do Bộ Thông tin và Truyền thông ban hành",
+      "id": "2384/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Thành Hưng"
+      ],
+      "issuedDate": "2015-07-28",
+      "effectiveDate": "2015-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1178/BTTTT-THH năm 2015 về khung Kiến trúc Chính phủ điện tử Việt Nam, Phiên bản 1.0 do Bộ Thông tin và Truyền thông ban hành",
+      "id": "1178/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2015-04-21",
+      "effectiveDate": "2015-04-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 26/NQ-CP năm 2015 về Chương trình hành động thực hiện Nghị quyết số 36-NQ/TW về đẩy mạnh ứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế do Chính phủ ban hành",
+      "id": "26/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-04-15",
+      "effectiveDate": "2015-04-15",
+      "gazetteDate": "2015-04-29",
+      "gazetteNumber": "Từ số 529 đến số 530",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 383/QĐ-UBND năm 2019 về phê duyệt Kiến trúc Chính quyền điện tử tỉnh Kon Tum, phiên bản 1.0",
+      "id": "383/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Văn Hòa"
+      ],
+      "issuedDate": "2019-04-22",
+      "effectiveDate": "2019-04-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2912/QĐ-UBND năm 2018 phê duyệt Kiến trúc Chính quyền điện tử tỉnh Yên Bái, phiên bản 1.0",
+      "id": "2912/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Yên Bái",
+      "signers": [
+        "Đỗ Đức Duy"
+      ],
+      "issuedDate": "2018-12-28",
+      "effectiveDate": "2018-12-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 14/12/2020"
+    },
+    {
+      "title": "Kế hoạch 8776/KH-UBND năm 2018 về triển khai Kiến trúc Chính quyền điện tử tỉnh Vĩnh Phúc phiên bản 1.0, giai đoạn 2018-2020",
+      "id": "8776/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Nguyễn Văn Trì"
+      ],
+      "issuedDate": "2018-11-05",
+      "effectiveDate": "2018-11-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 2523/QĐ-UBND năm 2018 về phê duyệt Kiến trúc Chính quyền điện tử tỉnh Bình Phước",
+      "id": "2523/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Nguyễn Văn Trăm"
+      ],
+      "issuedDate": "2018-11-02",
+      "effectiveDate": "2018-11-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3770/QĐ-UBND năm 2017 về phê duyệt Kiến trúc Chính quyền điện tử tỉnh Bình Thuận, phiên bản 1.0",
+      "id": "3770/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Ngọc Hai"
+      ],
+      "issuedDate": "2017-12-28",
+      "effectiveDate": "2017-12-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3379/QĐ-UBND năm 2017 phê duyệt Kiến trúc Chính quyền điện tử tỉnh Sóc Trăng, phiên bản 1.0",
+      "id": "3379/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Ngô Hùng"
+      ],
+      "issuedDate": "2017-12-21",
+      "effectiveDate": "2017-12-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4696/QĐ-UBND năm 2016 về Kiến trúc Chính quyền điện tử tỉnh Đồng Nai phiên bản 1.0",
+      "id": "4696/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Trần Văn Vĩnh"
+      ],
+      "issuedDate": "2016-12-30",
+      "effectiveDate": "2016-12-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "636/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+  "signers": [
+    "Nguyễn Thanh Tịnh"
+  ],
+  "issuedDate": "2019-03-20",
+  "effectiveDate": "2019-03-20",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA1ADEANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH BÀ RỊA - VŨNG TÀU</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>636/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bà Rịa - Vũng Tàu</i><i><span lang=\"VI\">, ngày </span>20</i><i><span lang=\"VI\"> tháng </span>3</i><i><span lang=\"VI\"> năm 201</span>9</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">PHÊ\nDUYỆT KIẾN TRÚC CHÍNH QUYỀN ĐIỆN TỬ TỈNH BÀ RỊA - VŨNG TÀU, PHIÊN BẢN 1.0</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH BÀ RỊA-VŨNG TÀU</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức chính quyền\nđịa phương ngày 19 tháng 6 năm 2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Công nghệ thông tin\nngày 29 tháng 6 năm 2006;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">C</span>ă</i><i><span lang=\"VI\">n cứ\nNghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng\ncông nghệ thông tin trong hoạt động của cơ quan nhà nước;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 61/2018/NĐ-CP ngày\n23 tháng 04 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên\nthông trong giải quyết thủ tục hành chính;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị quyết số 26/NQ-CP ngày\n15 tháng 4 năm 2015 của Chính phủ về việc ban hành Chương trình hành động của Chính\nphủ thực hiện Nghị quyết số 36-NQ/TW ngày 01/7/2014 của Bộ Chính trị về đẩy mạnh\nứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu phát triển bền vững và\nhội nhập quốc tế;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị quyết số 36a/NQ-CP\nngày 14 tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số 1819/QĐ-TTg ngày\n26 tháng 10 năm 2015 của Thủ tướng Chính phủ về việc phê duyệt Chương trình\nquốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước\ngiai đoạn 2016 - 2020;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">C</span>ă</i><i><span lang=\"VI\">n c</span>ứ</i><i>\n<span lang=\"VI\">Quyết định số 898/QĐ-TTg ngày 27 tháng 5 năm 2016 của Thủ tướng\nChính phủ về phê duyệt phương hướng, mục tiêu, nhiệm vụ bảo đảm an toàn thông\ntin mạng giai đoạn 2016 - 2020;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số 3744/QĐ-UBND ngày\n29 tháng 12 năm 2016 của Ủy ban nhân dân tỉnh về việc Phê duyệt Kế hoạch ứng dụng\ncông nghệ thông tin trong hoạt động của cơ quan nhà nước tỉnh Bà Rịa - Vũng Tàu\ngiai đoạn 2016-2020;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số 373/QĐ-UBND ngày\n21 tháng 02 năm 2017 của Ủy ban nhân dân tỉnh về việc phê duyệt Kế hoạch bảo đảm\nan toàn thông tin mạng tại tỉnh Bà Rịa - Vũng Tàu giai đoạn 2017 - 2020;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Công văn số 1178/BTTTT-THH ngày\n21 tháng 04 năm 2015 của Bộ Thông tin và Truyền thông về việc ban hành Khung\nKiến trúc Chính phủ điện tử Việt Nam, Phiên bản 1.0;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Công văn số 2384/BTTTT-THH ngày\n28 tháng 7 năm 2015 của Bộ Thông tin và Truyền thông về việc hướng dẫn mẫu Đề\ncương Kiến trúc Chính phủ điện tử cấp Bộ, mẫu Đề cương Kiến trúc Chính quyền điện\ntử cấp tỉnh;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Công văn số 1813/BTTTT-THH ngày\n07 tháng 6 năm 2018 của Bộ Thông tin và Truyền thông về việc ý kiến góp ý đối\nvới dự thảo Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị của Giám đốc Sở Thông tin\nvà Truyền thông tại Tờ trình số 09/TTr-STTTT ngày 18 tháng 02 năm 2019 về việc\nphê duyệt Ki</span>ế</i><i><span lang=\"VI\">n trúc Chính quyền điện tử tỉnh Bà Rịa\n- Vũng Tàu, phiên bản 1.0,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Điều 1.</span></b><span lang=\"VI\"> Phê\nduyệt Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu, phiên bản 1.0 với\nnhững nội dung chủ yếu sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Mục tiêu</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kiến trúc Chính quyền điện tử tỉnh Bà\nRịa - Vũng Tàu là cơ sở đ</span>ư<span lang=\"VI\">a ra các quyết định đầu tư triển\nkhai chính quyền điện tử kịp thời, chính xác; nâng cao hiệu quả, chất lượng các\ndịch vụ công trực tuyến của t</span>ỉ<span lang=\"VI\">nh; đảm bảo tính kết nối\nliên thông, tránh trùng lặp, lãng phí và đạt được mục tiêu xây dựng chính quyền\nđiện tử trên địa bàn tỉnh Bà Rịa - Vũng Tàu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phạm vi, đối tượng áp dụng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Kiến trúc Chính quyền điện tử tỉnh\nBà Rịa - Vũng Tàu áp dụng cho các cơ quan nhà nước trên địa bàn tỉnh Bà Rịa - Vũng\nTàu, bao gồm: các Sở, ban, ngành, Ủy ban nhân dân cấp huyện, cấp xã, các tổ chức\nchính trị, chính trị - xã hội và các đơn vị sự nghiệp công lập.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Các cơ quan và tổ chức khác có thể\náp dụng Kiến trúc Chính quyền điện tử tỉnh Bà R</span>ị<span lang=\"VI\">a - Vũng\nTàu khi triển khai ứng dụng công nghệ thông tin tại đơn vị mình, bảo đảm tính\nkết nối, liên thông và đồng bộ với hệ thống thông tin của các cơ quan nhà nước\ntrên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Nội dung Kiến trúc Chính quyền\nđiện tử tỉnh Bà Rịa - Vũng Tàu</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các thành phần</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kiến trúc Chính quyền điện tử tỉnh Bà\nRịa - Vũng Tàu phù hợp với mô hình Kiến trúc Chính phủ điện tử tiêu biểu cấp tỉnh\n(nêu tại Mục 2.4 Khung Kiến trúc Chính phủ điện tử Việt Nam phiên bản 1.0 ban\nhành theo văn bản 1178/BTTTT-THH ngày 21/04/2015 của Bộ Thông tin và Truyền thông),\nbao gồm các thành phần: Đối tượng sử dụng; Kênh truy cập; Dịch vụ </span>c<span lang=\"VI\">ổng thông tin điện tử; Dịch vụ công trực tuyến; ứng dụng và cơ sở dữ\nliệu; Các dịch vụ, nền tảng chia sẻ, tích hợp cấp tỉnh (LGSP); Cơ sở hạ tầng kỹ\nthuật; Quản lý chỉ đạo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Mô tả kiến trúc thành phần</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiến trúc nghiệp vụ: mô tả các nghiệp\nvụ cần thiết đáp ứng hoạt động của các cơ quan hành chính trong khối chính\nquyền của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiến trúc ứng dụng: xác định các\nứng dụng và các dịch vụ để hỗ trợ các nghiệp vụ của chính quyền đã được định\nnghĩa trong kiến trúc nghiệp vụ. Danh mục các ứng dụng và dịch vụ cần xây dựng\nphân theo các nhóm: Nhóm </span>ứ<span lang=\"VI\">ng dụng xây dựng môi trường làm\nviệc điện tử phục vụ chỉ đạo điều hành; Nhóm </span>ứ<span lang=\"VI\">ng dụng\nthuộc hệ thống giao dịch điện tử; Nhóm ứng dụng thuộc hệ thống tác nghiệp điện\ntử; Nhóm ứng dụng khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiến trúc thông tin, dữ liệu: xác định\ndữ liệu sẽ dùng để hỗ trợ cho các dịch vụ và nghiệp vụ. Danh mục cơ sở dữ liệu,\nhệ thống thông tin cần xây dựng bao gồm các nhóm: các cơ sở dữ liệu quốc gia;\ncác hệ thống thông tin quy mô toàn quốc theo lộ trình chung của Chính phủ và Bộ\nngành; các cơ sở dữ liệu chuyên ngành quy mô toàn tỉnh; các hệ thống thông tin\ncơ bản và hệ thống thông tin nền của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiến trúc công nghệ: xác định các công\nnghệ, nền tảng sẽ được triển khai để cung cấp môi trường phát triển ứng dụng, hỗ\ntrợ việc cung cấp dịch vụ và quản lý d</span>ữ <span lang=\"VI\">liệu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiến trúc an toàn và an ninh thông tin:\nxác định cơ ch</span>ế <span lang=\"VI\">an toàn thông tin cho các thành phần cơ sở\nhạ tầng, cơ sở dữ liệu và các hệ thống ứng dụng trên cơ sở tuân thủ Luật An\ntoàn thông tin mạng năm 2015; Nghị định 85/2016/NĐ-CP ngày 01/7/2016 của Chính\nphủ; các Chỉ thị về bảo mật, an toàn thông tin của Thủ tướng Chính phủ; các\nThông tư, văn bản chỉ đạo, hướng dẫn liên quan của Bộ Công an, Bộ Thông tin và\nTruyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các tiêu chuẩn công nghệ thông tin áp\ndụng cho Kiến trúc chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu: tuân thủ theo các\nquy chuẩn, tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin, tiêu chuẩn đánh\ngiá các hệ thống thông tin, phần mềm ứng dụng, tiêu chuẩn tích hợp, chia s</span>ẻ\n<span lang=\"VI\">dữ liệu, an toàn thông tin, nhân lực công nghệ thông tin,... theo\nquy định tại thời điểm triển khai từng nội dung cụ thể của chính quyền điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Lộ trình, kế hoạch triển khai</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Giai đoạn 1 (2016-2020):</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng hạ tầng dùng chung và nền tảng\ntích hợp, kết nối, chia sẻ các hệ thống thông tin quy mô cấp t</span>ỉ<span lang=\"VI\">nh (LGSP).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng nền tảng mở và các hệ\nthống công nghệ thông tin lõi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai các phần mềm ứng dụng cơ\nbản dùng chung trong hệ thống các cơ quan nhà nước phục vụ chỉ đạo điều hành và\nphục vụ người dân, doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai một số phần mềm ứng dụng\nchuyên ngành tại các cơ quan, đơn vị thuộc tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp Bộ ngành trung ương xây\ndựng các cơ sở dữ liệu, hệ thống thông tin quy mô quốc gia, ngành, lĩnh vực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Giai đoạn 2 (từ năm 2021)</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tiếp tục hoàn chỉnh việc xây dựng chính\nquyền điện tử tỉnh và hướng đến việc ứng </span>d<span lang=\"VI\">ụng công nghệ\nthông tin trong phát triển bền vững kinh t</span>ế <span lang=\"VI\">- xã hội của\ntỉnh Bà Rịa - Vũng Tàu và hướng tới xây dựng đô thị thông minh bao gồm các nội\ndung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục hoàn thiện xây dựng chính quyền\nđiện tử tỉn</span>h <span lang=\"VI\">Bà Rịa- Vũng Tàu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ứng dụng công nghệ thông tin trong phát\ntriển xã hội, tập trung vào việc ứng dụng CNTT phát triển kinh tế-xã hội với mục\nti</span>ê<span lang=\"VI\">u xây dựng hoàn thành hệ thống CQĐT, hướng t</span>ớ<span lang=\"VI\">i xây dựng đô thị thông minh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ứng dụng công nghệ thông tin trong phát\ntriển kinh tế, tập trung vào việc ưu tiên triển khai ứng dụng công nghệ thông\ntin cho các lĩnh vực ưu tiên như: công nghiệp, logistics, du lịch, nông nghiệp\ncông nghệ cao... để nhằm phát triển kinh tế-xã hội bền vững.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng công nghệ thông tin quản lý\ndữ liệu biến đ</span>ổ<span lang=\"VI\">i khí hậu, xây dựng hệ thống cơ sở dữ liệu\nchuyên ngành về khí tượng, thủy văn phục vụ công tác quản lý biến đổi khí hậu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Giải pháp thực hiện</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kết hợp đồng bộ các giải pháp về tổ chức\ntriển khai, cơ chế chính sách, phát triển nhân lực và huy động các nguồn tài\nchính để đảm bảo triển khai xây dựng chính quyền điện tử đạt hiệu quả. Thành\nlập Ban chỉ đạo để thống nhất chỉ đạo tổ chức triển khai phát triển Chính quyền\nđiện tử tại tỉnh Bà Rịa - Vũng Tàu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Nguồn vốn thực hiện</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngân sách Trung ương, ngân sách địa phương,\nnguồn vốn huy động của các tổ chức, cá nhân và các nguồn vốn hợp pháp khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">(Kèm theo bản chi tiết Kiến trúc Chính\nquyền điện tử tỉnh Bà Rịa - Vũng Tàu, phiên bản </span>1</i><i><span lang=\"VI\">.</span>0\n</i><i><span lang=\"VI\">do Sở Thông tin và Truyền thông xây dựng).</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Điều 2.</span></b><span lang=\"VI\"> Tổ\nchức thực hiện</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Sở Thông tin và Truyền thông</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Tổ chức công bố, tuyên truyền, phổ\nbiến Kiến trúc Chính quyền điện tử tỉnh; phối hợp với Văn phòng UBND tỉnh tạo chuyên\nmục trên Cổng Thông tin điện tử của tỉnh để đăng tải nội dung chi tiết Kiến\ntrúc Chính quyền điện tử tỉnh và các văn bản, tài liệu hướng dẫn liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Hướng dẫn, hỗ trợ các cơ quan, đơn\nvị triển khai thực hiện tuân thủ Kiến trúc Chính quyền điện tử tỉnh và Khung\nKiến trúc Chính phủ điện tử Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Theo d</span>õ<span lang=\"VI\">i, duy\ntrì và cập nhật Kiến trúc Chính quyền điện tử tỉnh phù hợp với tình hình triển\nkhai Chính phủ điện tử và thực tế của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Tham mưu ban hành các quy định, tiêu\nchuẩn, định mức kỹ thuật - công nghệ cần thiết phục vụ cho việc xây dựng chính\nquyền điện tử trên địa bàn tỉnh theo Kiến trúc Chính quyền điện tử tỉnh đã được\nphê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Chủ trì xây dựng kế hoạch, chương trình\nứng dụng công nghệ thông tin hàng năm, trung hạn và dài hạn của tỉnh phù hợp\nvới Kiến trúc Chính quyền điện tử tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Thẩm định hoặc tham gia cho ý kiến\nvề chuyên môn đối với các nội dung, dự án đầu tư trong lĩnh vực công nghệ thông\ntin đảm bảo tuân thủ Kiến trúc Chính quyền điện tử tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Chủ trì, tổ chức kiểm tra, giám sát,\nđôn đốc việc triển khai thực hiện, áp dụng và tuân thủ Ki</span>ế<span lang=\"VI\">n\ntrúc Chính quyền điện tử tỉnh. Tổng hợp, báo cáo Ủy ban nhân dân tỉnh theo định\nkỳ 6 tháng, năm và đề xuất các cơ chế, chính sách cần thiết để thúc đẩy thực\nhiện Kiến trúc Chính quyền điện tử tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Các sở, ban, ngành, Ủy ban nhân dân\nthành phố, thị xã, huyện, các tổ chức chính trị, chính trị - xã hội, các đơn vị\nsự nghiệp công lập thuộc tỉnh:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Xây dựng, triển khai kế hoạch ứng dụng\ncông nghệ thông tin tại đơn vị, ngành, địa phương phù hợp với Kiến trúc Chính\nquyền điện tử tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đóng góp ý kiến để Kiến trúc Chính\nquyền điện tử tỉnh thường xuyên được cập nhật, đảm bảo phù h</span>ợ<span lang=\"VI\">p với điều kiện phát triển kinh tế - xã hội của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Khi đầu tư mới, nâng cấp, mở rộng các\nhệ thống thông tin phải tuân thủ theo Kiến trúc Chính quyền điện tử tỉnh Bà Rịa\n- Vũng Tàu đã được phê duyệt về mô hình, nguyên tắc, tiêu chuẩn và theo hướng kết\nnối, liên thông, đồng bộ và chia sẻ dữ liệu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Định kỳ 6 tháng, năm báo cáo Ủy ban\nnhân dân tỉnh (thông qua Sở Thông tin và Truyền thông) về tình hình thực hiện nhiệm\nvụ được giao trong </span>ứ<span lang=\"VI\">ng dụng công nghệ thông tin và thực\nhiện Kiến trúc Chính quyền điện tử tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Sở Kế hoạch và đầu tư, Sở Tài\nchính</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phối hợp Sở Thông tin và Truyền thông\nvà các cơ quan, đơn vị liên quan tham mưu Ủy ban nhân dân tỉnh bố trí kinh phí\ntheo kế hoạch hàng năm để phát triển Chính quyền điện tử tỉnh theo Kiến trúc đã\nphê duyệt; hướng dẫn các cơ quan, đơn vị thực hiện các dự án đầu tư theo hình\nthức đ</span>ố<span lang=\"VI\">i tác công tư (PPP).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Điều 3.</span></b><span lang=\"VI\"> Chánh\nVăn phòng Ủy ban nhân dân tỉnh; Giám đốc các Sở, ban, ngành thuộc tỉnh; Giám\nđốc Kho bạc Nhà nước; Thủ trưởng các cơ quan, đơn vị liên quan và Chủ tịch Ủy\nban nhân dân các huyện, thị xã, thành phố thuộc tỉnh chịu trách nhiệm thi hành\nQuyết định này./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA1ADEANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- B</span><span style=\"font-size:8.0pt\">ộ </span><span lang=\"VI\" style=\"font-size:8.0pt\">TT</span><span style=\"font-size:8.0pt\">&amp;TT (b/c);</span><span lang=\"VI\" style=\"font-size:\n  8.0pt\"><br>\n  - TT T</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh ủy (b/c);<br>\n  - TT HĐND tỉnh (b/c);<br>\n  - CT, PCT UBND tỉnh;<br>\n  - Như điều 3 (t/h);<br>\n  - Trung tâm CBTH;<br>\n  - Báo BR-VT, Đài PTTH t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Lưu: VT, TH, CBTH.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH</b><b><span lang=\"VI\"><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  </span>Nguyễn Thanh Tịnh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b>&nbsp;</b></p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BÀ RỊA - VŨNG TÀU****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 636/QĐ-UBND\n\n_Bà Rịa - Vũng Tàu__, ngày 20_ _tháng 3_ _năm 2019_\n\n**QUYẾT ĐỊNH**\n\nPHÊ DUYỆT KIẾN TRÚC CHÍNH QUYỀN ĐIỆN TỬ TỈNH BÀ RỊA - VŨNG TÀU, PHIÊN BẢN 1.0\n\n**ỦY BAN NHÂN DÂN TỈNH BÀ RỊA-VŨNG TÀU**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;_\n\n_Că__n cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;_\n\n_Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 04 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính;_\n\n_Căn cứ Nghị quyết số 26/NQ-CP ngày 15 tháng 4 năm 2015 của Chính phủ về việc ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 36-NQ/TW ngày 01/7/2014 của Bộ Chính trị về đẩy mạnh ứng dụng, phát triển công nghệ thông tin đáp ứng yêu cầu phát triển bền vững và hội nhập quốc tế;_\n\n_Căn cứ Nghị quyết số 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử;_\n\n_Căn cứ Quyết định số 1819/QĐ-TTg ngày 26 tháng 10 năm 2015 của Thủ tướng Chính phủ về việc phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 - 2020;_\n\n_Că__n cứ_ _Quyết định số 898/QĐ-TTg ngày 27 tháng 5 năm 2016 của Thủ tướng Chính phủ về phê duyệt phương hướng, mục tiêu, nhiệm vụ bảo đảm an toàn thông tin mạng giai đoạn 2016 - 2020;_\n\n_Căn cứ Quyết định số 3744/QĐ-UBND ngày 29 tháng 12 năm 2016 của Ủy ban nhân dân tỉnh về việc Phê duyệt Kế hoạch ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước tỉnh Bà Rịa - Vũng Tàu giai đoạn 2016-2020;_\n\n_Căn cứ Quyết định số 373/QĐ-UBND ngày 21 tháng 02 năm 2017 của Ủy ban nhân dân tỉnh về việc phê duyệt Kế hoạch bảo đảm an toàn thông tin mạng tại tỉnh Bà Rịa - Vũng Tàu giai đoạn 2017 - 2020;_\n\n_Căn cứ Công văn số 1178/BTTTT-THH ngày 21 tháng 04 năm 2015 của Bộ Thông tin và Truyền thông về việc ban hành Khung Kiến trúc Chính phủ điện tử Việt Nam, Phiên bản 1.0;_\n\n_Căn cứ Công văn số 2384/BTTTT-THH ngày 28 tháng 7 năm 2015 của Bộ Thông tin và Truyền thông về việc hướng dẫn mẫu Đề cương Kiến trúc Chính phủ điện tử cấp Bộ, mẫu Đề cương Kiến trúc Chính quyền điện tử cấp tỉnh;_\n\n_Căn cứ Công văn số 1813/BTTTT-THH ngày 07 tháng 6 năm 2018 của Bộ Thông tin và Truyền thông về việc ý kiến góp ý đối với dự thảo Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu;_\n\n_Xét đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số 09/TTr-STTTT ngày 18 tháng 02 năm 2019 về việc phê duyệt Kiế__n trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu, phiên bản 1.0,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Phê duyệt Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu, phiên bản 1.0 với những nội dung chủ yếu sau:\n\n1\\. Mục tiêu\n\nKiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu là cơ sở đưa ra các quyết định đầu tư triển khai chính quyền điện tử kịp thời, chính xác; nâng cao hiệu quả, chất lượng các dịch vụ công trực tuyến của tỉnh; đảm bảo tính kết nối liên thông, tránh trùng lặp, lãng phí và đạt được mục tiêu xây dựng chính quyền điện tử trên địa bàn tỉnh Bà Rịa - Vũng Tàu.\n\n2\\. Phạm vi, đối tượng áp dụng\n\na) Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu áp dụng cho các cơ quan nhà nước trên địa bàn tỉnh Bà Rịa - Vũng Tàu, bao gồm: các Sở, ban, ngành, Ủy ban nhân dân cấp huyện, cấp xã, các tổ chức chính trị, chính trị - xã hội và các đơn vị sự nghiệp công lập.\n\nb) Các cơ quan và tổ chức khác có thể áp dụng Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu khi triển khai ứng dụng công nghệ thông tin tại đơn vị mình, bảo đảm tính kết nối, liên thông và đồng bộ với hệ thống thông tin của các cơ quan nhà nước trên địa bàn tỉnh.\n\n3\\. Nội dung Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu\n\na) Các thành phần\n\nKiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu phù hợp với mô hình Kiến trúc Chính phủ điện tử tiêu biểu cấp tỉnh (nêu tại Mục 2.4 Khung Kiến trúc Chính phủ điện tử Việt Nam phiên bản 1.0 ban hành theo văn bản 1178/BTTTT-THH ngày 21/04/2015 của Bộ Thông tin và Truyền thông), bao gồm các thành phần: Đối tượng sử dụng; Kênh truy cập; Dịch vụ cổng thông tin điện tử; Dịch vụ công trực tuyến; ứng dụng và cơ sở dữ liệu; Các dịch vụ, nền tảng chia sẻ, tích hợp cấp tỉnh (LGSP); Cơ sở hạ tầng kỹ thuật; Quản lý chỉ đạo.\n\nb) Mô tả kiến trúc thành phần\n\n\\- Kiến trúc nghiệp vụ: mô tả các nghiệp vụ cần thiết đáp ứng hoạt động của các cơ quan hành chính trong khối chính quyền của tỉnh.\n\n\\- Kiến trúc ứng dụng: xác định các ứng dụng và các dịch vụ để hỗ trợ các nghiệp vụ của chính quyền đã được định nghĩa trong kiến trúc nghiệp vụ. Danh mục các ứng dụng và dịch vụ cần xây dựng phân theo các nhóm: Nhóm ứng dụng xây dựng môi trường làm việc điện tử phục vụ chỉ đạo điều hành; Nhóm ứng dụng thuộc hệ thống giao dịch điện tử; Nhóm ứng dụng thuộc hệ thống tác nghiệp điện tử; Nhóm ứng dụng khác.\n\n\\- Kiến trúc thông tin, dữ liệu: xác định dữ liệu sẽ dùng để hỗ trợ cho các dịch vụ và nghiệp vụ. Danh mục cơ sở dữ liệu, hệ thống thông tin cần xây dựng bao gồm các nhóm: các cơ sở dữ liệu quốc gia; các hệ thống thông tin quy mô toàn quốc theo lộ trình chung của Chính phủ và Bộ ngành; các cơ sở dữ liệu chuyên ngành quy mô toàn tỉnh; các hệ thống thông tin cơ bản và hệ thống thông tin nền của tỉnh.\n\n\\- Kiến trúc công nghệ: xác định các công nghệ, nền tảng sẽ được triển khai để cung cấp môi trường phát triển ứng dụng, hỗ trợ việc cung cấp dịch vụ và quản lý dữ liệu.\n\n\\- Kiến trúc an toàn và an ninh thông tin: xác định cơ chế an toàn thông tin cho các thành phần cơ sở hạ tầng, cơ sở dữ liệu và các hệ thống ứng dụng trên cơ sở tuân thủ Luật An toàn thông tin mạng năm 2015; Nghị định 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ; các Chỉ thị về bảo mật, an toàn thông tin của Thủ tướng Chính phủ; các Thông tư, văn bản chỉ đạo, hướng dẫn liên quan của Bộ Công an, Bộ Thông tin và Truyền thông.\n\n\\- Các tiêu chuẩn công nghệ thông tin áp dụng cho Kiến trúc chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu: tuân thủ theo các quy chuẩn, tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin, tiêu chuẩn đánh giá các hệ thống thông tin, phần mềm ứng dụng, tiêu chuẩn tích hợp, chia sẻ dữ liệu, an toàn thông tin, nhân lực công nghệ thông tin,... theo quy định tại thời điểm triển khai từng nội dung cụ thể của chính quyền điện tử.\n\n4\\. Lộ trình, kế hoạch triển khai\n\na) Giai đoạn 1 (2016-2020):\n\n\\- Xây dựng hạ tầng dùng chung và nền tảng tích hợp, kết nối, chia sẻ các hệ thống thông tin quy mô cấp tỉnh (LGSP).\n\n\\- Xây dựng nền tảng mở và các hệ thống công nghệ thông tin lõi.\n\n\\- Triển khai các phần mềm ứng dụng cơ bản dùng chung trong hệ thống các cơ quan nhà nước phục vụ chỉ đạo điều hành và phục vụ người dân, doanh nghiệp.\n\n\\- Triển khai một số phần mềm ứng dụng chuyên ngành tại các cơ quan, đơn vị thuộc tỉnh.\n\n\\- Phối hợp Bộ ngành trung ương xây dựng các cơ sở dữ liệu, hệ thống thông tin quy mô quốc gia, ngành, lĩnh vực.\n\nb) Giai đoạn 2 (từ năm 2021)\n\nTiếp tục hoàn chỉnh việc xây dựng chính quyền điện tử tỉnh và hướng đến việc ứng dụng công nghệ thông tin trong phát triển bền vững kinh tế \\- xã hội của tỉnh Bà Rịa - Vũng Tàu và hướng tới xây dựng đô thị thông minh bao gồm các nội dung:\n\n\\- Tiếp tục hoàn thiện xây dựng chính quyền điện tử tỉnh Bà Rịa- Vũng Tàu.\n\n\\- Ứng dụng công nghệ thông tin trong phát triển xã hội, tập trung vào việc ứng dụng CNTT phát triển kinh tế-xã hội với mục tiêu xây dựng hoàn thành hệ thống CQĐT, hướng tới xây dựng đô thị thông minh.\n\n\\- Ứng dụng công nghệ thông tin trong phát triển kinh tế, tập trung vào việc ưu tiên triển khai ứng dụng công nghệ thông tin cho các lĩnh vực ưu tiên như: công nghiệp, logistics, du lịch, nông nghiệp công nghệ cao... để nhằm phát triển kinh tế-xã hội bền vững.\n\n\\- Xây dựng công nghệ thông tin quản lý dữ liệu biến đổi khí hậu, xây dựng hệ thống cơ sở dữ liệu chuyên ngành về khí tượng, thủy văn phục vụ công tác quản lý biến đổi khí hậu.\n\n5\\. Giải pháp thực hiện\n\nKết hợp đồng bộ các giải pháp về tổ chức triển khai, cơ chế chính sách, phát triển nhân lực và huy động các nguồn tài chính để đảm bảo triển khai xây dựng chính quyền điện tử đạt hiệu quả. Thành lập Ban chỉ đạo để thống nhất chỉ đạo tổ chức triển khai phát triển Chính quyền điện tử tại tỉnh Bà Rịa - Vũng Tàu.\n\n6\\. Nguồn vốn thực hiện\n\nNgân sách Trung ương, ngân sách địa phương, nguồn vốn huy động của các tổ chức, cá nhân và các nguồn vốn hợp pháp khác.\n\n_(Kèm theo bản chi tiết Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu, phiên bản 1__.0_ _do Sở Thông tin và Truyền thông xây dựng)._\n\n**Điều 2.** Tổ chức thực hiện\n\n1\\. Sở Thông tin và Truyền thông\n\na) Tổ chức công bố, tuyên truyền, phổ biến Kiến trúc Chính quyền điện tử tỉnh; phối hợp với Văn phòng UBND tỉnh tạo chuyên mục trên Cổng Thông tin điện tử của tỉnh để đăng tải nội dung chi tiết Kiến trúc Chính quyền điện tử tỉnh và các văn bản, tài liệu hướng dẫn liên quan.\n\nb) Hướng dẫn, hỗ trợ các cơ quan, đơn vị triển khai thực hiện tuân thủ Kiến trúc Chính quyền điện tử tỉnh và Khung Kiến trúc Chính phủ điện tử Việt Nam.\n\nc) Theo dõi, duy trì và cập nhật Kiến trúc Chính quyền điện tử tỉnh phù hợp với tình hình triển khai Chính phủ điện tử và thực tế của địa phương.\n\nd) Tham mưu ban hành các quy định, tiêu chuẩn, định mức kỹ thuật - công nghệ cần thiết phục vụ cho việc xây dựng chính quyền điện tử trên địa bàn tỉnh theo Kiến trúc Chính quyền điện tử tỉnh đã được phê duyệt.\n\nđ) Chủ trì xây dựng kế hoạch, chương trình ứng dụng công nghệ thông tin hàng năm, trung hạn và dài hạn của tỉnh phù hợp với Kiến trúc Chính quyền điện tử tỉnh.\n\ne) Thẩm định hoặc tham gia cho ý kiến về chuyên môn đối với các nội dung, dự án đầu tư trong lĩnh vực công nghệ thông tin đảm bảo tuân thủ Kiến trúc Chính quyền điện tử tỉnh.\n\ng) Chủ trì, tổ chức kiểm tra, giám sát, đôn đốc việc triển khai thực hiện, áp dụng và tuân thủ Kiến trúc Chính quyền điện tử tỉnh. Tổng hợp, báo cáo Ủy ban nhân dân tỉnh theo định kỳ 6 tháng, năm và đề xuất các cơ chế, chính sách cần thiết để thúc đẩy thực hiện Kiến trúc Chính quyền điện tử tỉnh.\n\n2\\. Các sở, ban, ngành, Ủy ban nhân dân thành phố, thị xã, huyện, các tổ chức chính trị, chính trị - xã hội, các đơn vị sự nghiệp công lập thuộc tỉnh:\n\na) Xây dựng, triển khai kế hoạch ứng dụng công nghệ thông tin tại đơn vị, ngành, địa phương phù hợp với Kiến trúc Chính quyền điện tử tỉnh.\n\nb) Đóng góp ý kiến để Kiến trúc Chính quyền điện tử tỉnh thường xuyên được cập nhật, đảm bảo phù hợp với điều kiện phát triển kinh tế - xã hội của địa phương.\n\nc) Khi đầu tư mới, nâng cấp, mở rộng các hệ thống thông tin phải tuân thủ theo Kiến trúc Chính quyền điện tử tỉnh Bà Rịa - Vũng Tàu đã được phê duyệt về mô hình, nguyên tắc, tiêu chuẩn và theo hướng kết nối, liên thông, đồng bộ và chia sẻ dữ liệu.\n\nd) Định kỳ 6 tháng, năm báo cáo Ủy ban nhân dân tỉnh (thông qua Sở Thông tin và Truyền thông) về tình hình thực hiện nhiệm vụ được giao trong ứng dụng công nghệ thông tin và thực hiện Kiến trúc Chính quyền điện tử tỉnh.\n\n3\\. Sở Kế hoạch và đầu tư, Sở Tài chính\n\nPhối hợp Sở Thông tin và Truyền thông và các cơ quan, đơn vị liên quan tham mưu Ủy ban nhân dân tỉnh bố trí kinh phí theo kế hoạch hàng năm để phát triển Chính quyền điện tử tỉnh theo Kiến trúc đã phê duyệt; hướng dẫn các cơ quan, đơn vị thực hiện các dự án đầu tư theo hình thức đối tác công tư (PPP).\n\n**Điều 3.** Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc các Sở, ban, ngành thuộc tỉnh; Giám đốc Kho bạc Nhà nước; Thủ trưởng các cơ quan, đơn vị liên quan và Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố thuộc tỉnh chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Bộ TT&TT (b/c);  \n\\- TT Tỉnh ủy (b/c);  \n\\- TT HĐND tỉnh (b/c);  \n\\- CT, PCT UBND tỉnh;  \n\\- Như điều 3 (t/h);  \n\\- Trung tâm CBTH;  \n\\- Báo BR-VT, Đài PTTH tỉnh;  \n\\- Lưu: VT, TH, CBTH.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH****  \n  \n  \n  \n  \nNguyễn Thanh Tịnh**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

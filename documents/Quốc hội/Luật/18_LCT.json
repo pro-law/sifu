@@ -1,0 +1,691 @@
+{
+  "title": "Luật tổ chức Hội đồng Chính phủ 1960",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Hiến pháp năm 1959",
+      "id": "1/SL",
+      "legislationType": "Hiến pháp",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Tôn Đức Thắng"
+      ],
+      "issuedDate": "1959-12-31",
+      "effectiveDate": "1960-01-01",
+      "gazetteDate": "1960-01-01",
+      "gazetteNumber": "Số 1",
+      "status": "Hết hiệu lực: 19/12/1980"
+    }
+  ],
+  "guidingDocuments": [
+    {
+      "title": "Nghị định 01-CP năm 1977 Điều lệ tổ chức và hoạt động của Ủy ban Thanh tra của Chính phủ do Hội đồng Chính phủ ban hành",
+      "id": "01-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Nguyễn Duy Trinh"
+      ],
+      "issuedDate": "1977-01-03",
+      "effectiveDate": "1977-01-18",
+      "gazetteDate": "1977-02-28",
+      "gazetteNumber": "Số 1",
+      "status": "Hết hiệu lực: 01/06/1990"
+    },
+    {
+      "title": "Nghị định 187-CP năm 1963 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Lao động do Hội đồng Chính phủ ban hành",
+      "id": "187-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1963-12-20",
+      "effectiveDate": "1964-01-04",
+      "gazetteDate": "1963-12-31",
+      "gazetteNumber": "Số 46",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 80-CP năm 1962 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nội thương do Hội đồng chính phủ ban hành",
+      "id": "80-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1962-07-16",
+      "effectiveDate": "1962-07-31",
+      "gazetteDate": "1962-08-01",
+      "gazetteNumber": "Số 28",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 43-CP năm 1962 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Uỷ ban Khoa học Nhà nước do Hội đồng Chính phủ ban hành",
+      "id": "43-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1962-04-04",
+      "effectiveDate": "1962-04-19",
+      "gazetteDate": "1962-04-18",
+      "gazetteNumber": "Số 13",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 203-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Ngoại Thương do Hội Đồng Chính Phủ ban hành.",
+      "id": "203-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-11-23",
+      "effectiveDate": "1961-12-08",
+      "gazetteDate": "1961-12-06",
+      "gazetteNumber": "Số 47",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 197-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Tài chính do Hội đồng Chính phủ ban hành",
+      "id": "197-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-11-07",
+      "effectiveDate": "1961-11-22",
+      "gazetteDate": "1961-11-22",
+      "gazetteNumber": "Số 45",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 198-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Giáo dục do Hội đồng Chính phủ ban hành",
+      "id": "198-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giáo dục"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-11-07",
+      "effectiveDate": "1961-11-22",
+      "gazetteDate": "1961-11-22",
+      "gazetteNumber": "Số 45",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 183-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Công nghiệp nặng do Hội đồng Chính phủ ban hành",
+      "id": "183-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-11-02",
+      "effectiveDate": "1961-11-17",
+      "gazetteDate": "1961-11-22",
+      "gazetteNumber": "Số 45",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 182-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Công nghiệp nhẹ do Hội đồng Chính phủ ban hành",
+      "id": "182-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-11-02",
+      "effectiveDate": "1961-11-17",
+      "gazetteDate": "1961-11-22",
+      "gazetteNumber": "Số 45",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 171-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Ngân hàng Nhà nước Việt Nam do Hội Đồng Chính Phủ ban hành",
+      "id": "171-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-26",
+      "effectiveDate": "1961-11-10",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 172-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Lao động do Hội Đồng Chính Phủ ban hành",
+      "id": "172-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-26",
+      "effectiveDate": "1961-11-10",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Hết hiệu lực: 04/01/1964"
+    },
+    {
+      "title": "Nghị định 165-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Tổng cục Vật tư do Hội Đồng Chính Phủ ban hành",
+      "id": "165-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-18",
+      "effectiveDate": "1961-11-02",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 166-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Kiến trúc do Hội Đồng Chính Phủ ban hành",
+      "id": "166-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-18",
+      "effectiveDate": "1961-11-02",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 157-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Ngoại giao do Hội Đồng Chính Phủ ban hành",
+      "id": "157-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-09",
+      "effectiveDate": "1961-10-24",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Hết hiệu lực: 10/11/1993"
+    },
+    {
+      "title": "Nghị định 159-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Tổng cục Địa chất do Hội Đồng Chính Phủ ban hành",
+      "id": "159-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-09",
+      "effectiveDate": "1961-10-24",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 152-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nông nghiệp do Hội Đồng Chính Phủ ban hành",
+      "id": "152-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-05",
+      "effectiveDate": "1961-10-20",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 153-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Y tế do Hội Đồng Chính Phủ ban hành",
+      "id": "153-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-05",
+      "effectiveDate": "1961-10-20",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 154-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Ủy ban Liên lạc văn hóa với nước ngoài do Hội Đồng Chính Phủ ban hành",
+      "id": "154-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-05",
+      "effectiveDate": "1961-10-20",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 156-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Tổng cục Thủy sản do Hội Đồng Chính Phủ ban hành",
+      "id": "156-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-10-05",
+      "effectiveDate": "1961-10-20",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 130-CP năm 1961 quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nội vụ do Hội Đồng Chính Phủ ban hành",
+      "id": "130-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 133-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Ủy ban Dân tộc do Hội Đồng Chính Phủ ban hành",
+      "id": "133-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 134-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Bộ Nông trường do Hội Đồng Chính Phủ ban hành",
+      "id": "134-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 135-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Bộ Văn hóa do Hội Đồng Chính Phủ ban hành",
+      "id": "135-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 136-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Ủy ban Thanh tra do Hội Đồng Chính Phủ ban hành",
+      "id": "136-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 138-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Bộ Thủy lợi và Điện lực do Hội Đồng Chính Phủ ban hành",
+      "id": "138-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 139-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Ủy ban Thể dục thể thao do Hội Đồng Chính Phủ ban hành",
+      "id": "139-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 140-CP năm 1961 quy định nhiệm vụ quyền hạn và tổ chức bộ máy của Tổng cục Lâm nghiệp do Hội Đồng Chính Phủ ban hành",
+      "id": "140-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1961-09-29",
+      "effectiveDate": "1961-10-14",
+      "gazetteDate": "1961-11-15",
+      "gazetteNumber": "Số 44",
+      "status": "Không còn phù hợp"
+    }
+  ],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Luật tổ chức Hội đồng Bộ trưởng 1981",
+      "id": "2-LCT/HĐNN7",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Trường Chinh"
+      ],
+      "issuedDate": "1981-07-04",
+      "effectiveDate": "1981-07-14",
+      "gazetteDate": "1981-07-31",
+      "gazetteNumber": "Số 13",
+      "status": "Hết hiệu lực: 02/10/1992"
+    },
+    {
+      "title": "Luật Tổ chức Chính phủ 1992",
+      "id": "1/L-CTN",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1992-09-30",
+      "effectiveDate": "1992-10-02",
+      "gazetteDate": "1992-11-30",
+      "gazetteNumber": "Số 22",
+      "status": "Hết hiệu lực: 07/01/2002"
+    },
+    {
+      "title": "Luật Tổ chức Chính phủ 2001",
+      "id": "32/2001/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2001-12-25",
+      "effectiveDate": "2002-01-07",
+      "gazetteDate": "2002-03-08",
+      "gazetteNumber": "Từ số 9 đến số 10",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Luật tổ chức Chính phủ 2015",
+      "id": "76/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-27",
+      "gazetteNumber": "Từ số 865 đến số 866",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 263-TTg năm 1979 về bản quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Hội đồng Trọng tài kinh tế tỉnh, thành phố trực thuộc Trung ương do Thủ tướng Chính phủ ban hành.",
+      "id": "263-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Lê Thanh Nghị"
+      ],
+      "issuedDate": "1979-08-02",
+      "effectiveDate": "1979-08-17",
+      "gazetteDate": "1979-08-31",
+      "gazetteNumber": "Số 15",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Thông tư 471-TTg-1977 về việc tổ chức quản lý nhà và công trình công cộng tại thành phố Hà Nội do Thủ tướng Chính phủ ban hành",
+      "id": "471-TTg",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Hùng"
+      ],
+      "issuedDate": "1977-12-27",
+      "effectiveDate": "1978-01-11",
+      "gazetteDate": "1977-12-31",
+      "gazetteNumber": "Số 10",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 38-CP năm 1964 về việc thành lập Cục Thi công thuộc Bộ Thủy lợi do Hội đồng Chính phủ ban hành",
+      "id": "38-CP",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1964-02-12",
+      "effectiveDate": "1964-02-27",
+      "gazetteDate": "1964-02-26",
+      "gazetteNumber": "Số 4",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 75-CP năm 1963 về việc tách Vụ Á châu thuộc Bộ Ngoại giao thành hai Vụ do Hội đồng Chính phủ ban hành",
+      "id": "75-CP",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1963-05-22",
+      "effectiveDate": "1963-06-06",
+      "gazetteDate": "1963-06-04",
+      "gazetteNumber": "Số 18",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 107-CP năm 1962 về việc tách Tổng cục Quản lý xây dựng cơ bản ra khỏi Ủy ban Kế hoạch Nhà nước và đặt thành một cơ quan ngang Bộ, lấy tên là Ủy ban Kiến thiết cơ bản Nhà nước do Hội Đồng Chính Phủ ban hành.",
+      "id": "107-CP",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Hội đồng Chính phủ",
+      "signers": [
+        "Phạm Văn Đồng"
+      ],
+      "issuedDate": "1962-09-15",
+      "effectiveDate": "1962-09-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 438/NT năm 1962 về việc tổ chức Cục Vật liệu kiến thiết thuộc Bộ Nội thương do Bộ trưởng Bộ Nội Thương ban hành",
+      "id": "438/NT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Nội thương",
+      "signers": [
+        "Hoàng Quốc Thịnh"
+      ],
+      "issuedDate": "1962-06-04",
+      "effectiveDate": "1962-06-19",
+      "gazetteDate": "1962-06-20",
+      "gazetteNumber": "Số 22",
+      "status": "Không còn phù hợp"
+    }
+  ],
+  "id": "18/LCT",
+  "legislationType": "Luật",
+  "categories": [
+    "Bộ máy hành chính"
+  ],
+  "organization": "Quốc hội",
+  "signers": [
+    "Hồ Chí Minh"
+  ],
+  "issuedDate": "1960-07-14",
+  "effectiveDate": "1960-07-26",
+  "gazetteDate": "1960-08-03",
+  "gazetteNumber": "Số 32",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">LỆNH </span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><u1:p></u1:p>CỦA\nCHỦ TỊCH NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ SỐ 18/LCT NGÀY 26-7-1960 CÔNG BỐ LUẬT TỔ\nCHỨC HỘI ĐỒNG CHÍNH PHỦ NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">CHỦ TỊCH NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ<u1:p></u1:p></span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><i>Căn cứ vào <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4611656')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4611656')\" atmm=\".lqhlTootip-4611656\" onmouseout=\"hideddrivetip();\">điều 63 của Hiến pháp nước Việt Nam dân chủ cộng hoà</a>: </i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><u2:p></u2:p><b><span style=\"font-size:12.0pt\">NAY CÔNG BỐ: <u1:p></u1:p></span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p>Luật tổ chức Hội đồng\nChính phủ nước Việt Nam dân chủ cộng hoà đã được Quốc hội nước Việt Nam dân chủ\ncộng hoà khoá thứ II, kỳ họp thứ nhất, thông qua ngày 14 tháng 7 năm 1960.\n</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">LUẬT<u1:p></u1:p></span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">TỔ\nCHỨC HỘI ĐỒNG CHÍNH PHỦ NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b>Điều 1</b></a></p>\n\n<u2:p></u2:p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ vào chương VI của Hiến\npháp nước Việt Nam dân chủ cộng hoà, luật này quy định tổ chức của Hội đồng\nChính phủ.</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_2\"><b>Điều\n2</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Hội đồng Chính phủ gồm có Thủ tướng,\ncác Phó thủ tướng, các Bộ trưởng và các Thủ trưởng các cơ quan ngang Bộ.</p>\n\n<p style=\"margin-bottom:6.0pt\">Thủ tướng Chính phủ và mỗi thành\nviên của Hội đồng Chính phủ chịu trách nhiệm chung trước Quốc hội về toàn bộ\ncông tác của Chính phủ, đồng thời chịu trách nhiệm riêng trước Quốc hội về phần\ncông tác của mình.</p>\n\n<p style=\"margin-bottom:6.0pt\">Hội đồng Chính phủ tổ chức và\nlãnh đạo toàn bộ công tác trong phạm vi trách nhiệm của mình theo nguyên tắc tập\ntrung dân chủ.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_3\"><b>Điều\n3</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Các Bộ và cơ quan ngang Bộ hiện\nnay có:</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771237')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771237')\" atmm=\".lqhlTootip-771237\" onmouseout=\"hideddrivetip();\">Bộ Nội vụ</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_2\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771238')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771238')\" atmm=\".lqhlTootip-771238\" onmouseout=\"hideddrivetip();\">Bộ Ngoại\ngiao</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_3\">Bộ Quốc\nphòng</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_4\">Bộ Công an</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_5\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771241')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771241')\" atmm=\".lqhlTootip-771241\" onmouseout=\"hideddrivetip();\">Bộ Nông nghiệp</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_6\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771242')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771242')\" atmm=\".lqhlTootip-771242\" onmouseout=\"hideddrivetip();\">Bộ Nông trường</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_7\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771243')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771243')\" atmm=\".lqhlTootip-771243\" onmouseout=\"hideddrivetip();\">Bộ Thuỷ lợi\nvà Điện lực</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_8\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771244')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771244')\" atmm=\".lqhlTootip-771244\" onmouseout=\"hideddrivetip();\">Bộ Công nghiệp\nnặng</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_9\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771245')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771245')\" atmm=\".lqhlTootip-771245\" onmouseout=\"hideddrivetip();\">Bộ Công nghiệp\nnhẹ</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_10\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771246')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771246')\" atmm=\".lqhlTootip-771246\" onmouseout=\"hideddrivetip();\">Bộ Kiến\ntrúc</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_11\">Bộ Giao\nthông và Bưu điện</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_12\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771248')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771248')\" atmm=\".lqhlTootip-771248\" onmouseout=\"hideddrivetip();\">Bộ Lao động</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_13\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771249')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771249')\" atmm=\".lqhlTootip-771249\" onmouseout=\"hideddrivetip();\">Bộ Tài\nchính</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_14\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771250')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771250')\" atmm=\".lqhlTootip-771250\" onmouseout=\"hideddrivetip();\">Bộ Nội\nthương</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_15\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771251')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771251')\" atmm=\".lqhlTootip-771251\" onmouseout=\"hideddrivetip();\">Bộ Ngoại\nthương</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_16\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771252')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771252')\" atmm=\".lqhlTootip-771252\" onmouseout=\"hideddrivetip();\">Bộ Văn hoá</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_17\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771253')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771253')\" atmm=\".lqhlTootip-771253\" onmouseout=\"hideddrivetip();\">Bộ Giáo dục</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_18\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771254')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771254')\" atmm=\".lqhlTootip-771254\" onmouseout=\"hideddrivetip();\">Bộ Y tế</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_19\">Uỷ ban Kế\nhoạch Nhà nước</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_20\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771256')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771256')\" atmm=\".lqhlTootip-771256\" onmouseout=\"hideddrivetip();\">Uỷ ban Khoa\nhọc Nhà nước</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_21\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771257')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771257')\" atmm=\".lqhlTootip-771257\" onmouseout=\"hideddrivetip();\">Uỷ ban Dân\ntộc</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_22\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771258')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771258')\" atmm=\".lqhlTootip-771258\" onmouseout=\"hideddrivetip();\">Uỷ ban\nThanh tra</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_23\">Uỷ ban Thống\nnhất</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_24\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771260')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771260')\" atmm=\".lqhlTootip-771260\" onmouseout=\"hideddrivetip();\">Ngân hàng\nNhà nước</a>.</p>\n\n<p style=\"margin-bottom:6.0pt\">Việc đặt thêm hoặc bãi bỏ Bộ và\ncơ quan ngang Bộ do Hội đồng Chính phủ trình Quốc hội phê chuẩn, giữa hai kỳ họp\nQuốc hội thì trình Uỷ ban thường vụ Quốc hội phê chuẩn.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_4\"><b>Điều\n4</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Tuỳ sự cần thiết, Hội đồng Chính\nphủ đặt những cơ quan trực thuộc Hội đồng Chính phủ. Các cơ quan trực thuộc Hội\nđồng Chính phủ hiện nay có:</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_25\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771261')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771261')\" atmm=\".lqhlTootip-771261\" onmouseout=\"hideddrivetip();\">Tổng cục Địa\nchất</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_26\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771262')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771262')\" atmm=\".lqhlTootip-771262\" onmouseout=\"hideddrivetip();\">Tổng cục\nLâm nghiệp</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_27\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771263')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771263')\" atmm=\".lqhlTootip-771263\" onmouseout=\"hideddrivetip();\">Tổng cục\nThuỷ sản</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_28\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771264')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771264')\" atmm=\".lqhlTootip-771264\" onmouseout=\"hideddrivetip();\">Tổng cục Vật\ntư</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_29\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771265')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771265')\" atmm=\".lqhlTootip-771265\" onmouseout=\"hideddrivetip();\">Uỷ ban Liên\nlạc văn hoá với nước ngoài</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">- <a name=\"cumtu_30\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-771266')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-771266')\" atmm=\".lqhlTootip-771266\" onmouseout=\"hideddrivetip();\">Uỷ ban Thể\ndục thể thao trung ương</a>.</p>\n\n<p style=\"margin-bottom:6.0pt\">Việc đặt thêm hoặc bãi bỏ cơ\nquan trực thuộc Hội đồng Chính phủ do Hội đồng Chính phủ trình Uỷ ban thường vụ\nQuốc hội phê chuẩn.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_5\"><b>Điều\n5</b></a></p>\n\n<u2:p></u2:p>\n\n<p style=\"margin-bottom:6.0pt\">Hội đồng Chính phủ có hai hình\nthức hội nghị: Hội nghị toàn thể và Hội nghị Thường vụ.</p>\n\n<p style=\"margin-bottom:6.0pt\">Hội nghị toàn thể của Hội đồng\nChính phủ gồm toàn thể các thành viên của Hội đồng Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">Hội nghị Thường vụ của Hội đồng\nChính phủ gồm Thủ tướng Chính phủ, các Phó thủ tướng và Bộ trưởng Phủ Thủ tướng.</p>\n\n<p style=\"margin-bottom:6.0pt\">Những nghị quyết của Hội nghị\nThường vụ của Hội đồng Chính phủ sẽ được báo cáo trước Hội nghị toàn thể của Hội\nđồng Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">Các Thủ trưởng các cơ quan trực\nthuộc Hội đồng Chính phủ dự Hội nghị toàn thể của Hội đồng Chính phủ, nhưng\nkhông có quyền biểu quyết.</p>\n\n<p style=\"margin-bottom:6.0pt\">Khi cần thiết, ngoài thành phần\nnói trên, những người hữu quan có thể được mời dự hội nghị của Hội đồng Chính\nphủ, nhưng không có quyền biểu quyết.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_6\"><b>Điều\n6</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Những nghị định, nghị quyết, quyết\nđịnh, thông tư và chỉ thị của Hội đồng Chính phủ phải được Hội nghị toàn thể của\nHội đồng Chính phủ hoặc Hội nghị Thường vụ của Hội đồng Chính phủ thông qua.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_7\"><b>Điều\n7</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Thủ tướng Chính phủ lãnh đạo\ncông tác của Hội đồng Chính phủ và thay mặt Hội đồng Chính phủ chỉ đạo công tác\ncủa các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Hội đồng Chính phủ và Uỷ ban\nhành chính các cấp.</p>\n\n<p style=\"margin-bottom:6.0pt\">Các Phó thủ tướng giúp Thủ tướng\ntrong việc lãnh đạo chung và có thể được uỷ nhiệm thay Thủ tướng chỉ đạo từng\nkhối công tác của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_8\"><b>Điều\n8</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Bộ máy làm việc của Hội đồng\nChính phủ và Thủ tướng Chính phủ là Phủ thủ tướng. Phủ Thủ tướng gồm có:</p>\n\n<p style=\"margin-bottom:6.0pt\">- Văn phòng Phủ Thủ tướng, đứng\nđầu là Bộ trưởng Phủ Thủ tướng có một hoặc nhiều Thứ trưởng giúp việc;</p>\n\n<p style=\"margin-bottom:6.0pt\">- Các Văn phòng nghiên cứu và\ntheo dõi từng khối công tác của Chính phủ, đứng đầu là các Chủ nhiệm Văn phòng\ncó một hoặc nhiều Phó chủ nhiệm giúp việc. Chủ nhiệm Văn phòng là một Bộ trưởng.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_9\"><b>Điều\n9</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Mỗi Bộ có Bộ trưởng và một hoặc\nnhiều Thứ trưởng. Mỗi Uỷ ban Nhà nước có Chủ nhiệm, một hoặc nhiều Phó chủ nhiệm\nvà một số uỷ viên.</p>\n\n<p style=\"margin-bottom:6.0pt\">Uỷ ban Thanh tra có Tổng thanh\ntra, một hoặc nhiều Phó tổng thanh tra và có thể có một số uỷ viên.</p>\n\n<p style=\"margin-bottom:6.0pt\">Ngân hàng Nhà nước có Tổng giám\nđốc và một hoặc nhiều Phó tổng giám đốc.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_10\"><b><u2:p></u2:p>Điều\n10</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Bộ trưởng, Thủ tướng cơ quan\nngang Bộ, Thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ lãnh đạo toàn bộ\ncông tác thuộc phạm vi trách nhiệm của mình và chịu trách nhiệm trước Hội đồng\nChính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_11\"><b>Điều\n11</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Thứ trưởng các Bộ, Phó thủ trưởng\ncơ quan ngang Bộ, Phó thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ giúp Bộ\ntrưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan trực thuộc Hội đồng\nChính phủ trong việc lãnh đạo chung và có thể được uỷ nhiệm thay Bộ trưởng hoặc\nThủ trưởng cơ quan chỉ đạo từng phần công tác của Bộ hoặc của cơ quan.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p><a name=\"dieu_12\"><b>Điều\n12</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Hội đồng Chính phủ bổ nhiệm và\nbãi miễn các nhân viên sau đây:</p>\n\n<p style=\"margin-bottom:6.0pt\">- Thủ trưởng các cơ quan trực\nthuộc Hội đồng Chính phủ;</p>\n\n<p style=\"margin-bottom:6.0pt\">- Thứ trưởng Phủ Thủ tướng, Thứ\ntrưởng các Bộ, Phó chủ nhiệm các văn phòng Phủ Thủ tướng, Phó chủ nhiệm các Uỷ\nban Nhà nước, Phó tổng thanh tra, Phó tổng giám đốc Ngân hàng Nhà nước;</p>\n\n<p style=\"margin-bottom:6.0pt\">- Phó Thủ trưởng các cơ quan trực\nthuộc Hội đồng Chính phủ, Uỷ viên các Uỷ ban Nhà nước, Thủ trưởng và Phó thủ\ntrưởng các cơ quan chuyên môn thuộc Phủ Thủ tướng, các Bộ và cơ quan ngang Bộ,\nChánh văn phòng và Phó văn phòng các Bộ và cơ quan ngang Bộ;</p>\n\n<p style=\"margin-bottom:6.0pt\">- Những nhân viên giữ những chức\nvụ tương đương với các chức vụ nói trên.</p>\n\n<p style=\"margin-bottom:6.0pt\"><u2:p></u2:p>Luật này đã được Quốc\nhội nước Việt Nam dân chủ cộng hoà khoá thứ II, kỳ họp thứ nhất, thông qua ngày\n14 tháng 7 năm 1960.</p>\n\n<p style=\"margin-bottom:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMQA=-->\n <tbody><tr>\n  <td width=\"310\" valign=\"top\" style=\"width:232.15pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p> </p>\n  </td>\n  <td width=\"310\" valign=\"top\" style=\"width:232.2pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>Hồ\n  Chí Minh</b></p>\n  <p align=\"center\" style=\"text-align:center\">(Đã ký)</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p> </p>\n\n",
+  "mdContent": "**LỆNH**\n\nCỦA CHỦ TỊCH NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ SỐ 18/LCT NGÀY 26-7-1960 CÔNG BỐ LUẬT TỔ CHỨC HỘI ĐỒNG CHÍNH PHỦ NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ\n\n**CHỦ TỊCH NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ**\n\n_Căn cứ vào điều 63 của Hiến pháp nước Việt Nam dân chủ cộng hoà:_\n\n**NAY CÔNG BỐ:**\n\nLuật tổ chức Hội đồng Chính phủ nước Việt Nam dân chủ cộng hoà đã được Quốc hội nước Việt Nam dân chủ cộng hoà khoá thứ II, kỳ họp thứ nhất, thông qua ngày 14 tháng 7 năm 1960.\n\n**LUẬT**\n\nTỔ CHỨC HỘI ĐỒNG CHÍNH PHỦ NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ\n\n**Điều 1**\n\n_Căn cứ vào chương VI của Hiến pháp nước Việt Nam dân chủ cộng hoà, luật này quy định tổ chức của Hội đồng Chính phủ._\n\n**Điều 2**\n\nHội đồng Chính phủ gồm có Thủ tướng, các Phó thủ tướng, các Bộ trưởng và các Thủ trưởng các cơ quan ngang Bộ.\n\nThủ tướng Chính phủ và mỗi thành viên của Hội đồng Chính phủ chịu trách nhiệm chung trước Quốc hội về toàn bộ công tác của Chính phủ, đồng thời chịu trách nhiệm riêng trước Quốc hội về phần công tác của mình.\n\nHội đồng Chính phủ tổ chức và lãnh đạo toàn bộ công tác trong phạm vi trách nhiệm của mình theo nguyên tắc tập trung dân chủ.\n\n**Điều 3**\n\nCác Bộ và cơ quan ngang Bộ hiện nay có:\n\n\\- Bộ Nội vụ,\n\n\\- Bộ Ngoại giao,\n\n\\- Bộ Quốc phòng,\n\n\\- Bộ Công an,\n\n\\- Bộ Nông nghiệp,\n\n\\- Bộ Nông trường,\n\n\\- Bộ Thuỷ lợi và Điện lực,\n\n\\- Bộ Công nghiệp nặng,\n\n\\- Bộ Công nghiệp nhẹ,\n\n\\- Bộ Kiến trúc,\n\n\\- Bộ Giao thông và Bưu điện,\n\n\\- Bộ Lao động,\n\n\\- Bộ Tài chính,\n\n\\- Bộ Nội thương,\n\n\\- Bộ Ngoại thương,\n\n\\- Bộ Văn hoá,\n\n\\- Bộ Giáo dục,\n\n\\- Bộ Y tế,\n\n\\- Uỷ ban Kế hoạch Nhà nước,\n\n\\- Uỷ ban Khoa học Nhà nước,\n\n\\- Uỷ ban Dân tộc,\n\n\\- Uỷ ban Thanh tra,\n\n\\- Uỷ ban Thống nhất,\n\n\\- Ngân hàng Nhà nước.\n\nViệc đặt thêm hoặc bãi bỏ Bộ và cơ quan ngang Bộ do Hội đồng Chính phủ trình Quốc hội phê chuẩn, giữa hai kỳ họp Quốc hội thì trình Uỷ ban thường vụ Quốc hội phê chuẩn.\n\n**Điều 4**\n\nTuỳ sự cần thiết, Hội đồng Chính phủ đặt những cơ quan trực thuộc Hội đồng Chính phủ. Các cơ quan trực thuộc Hội đồng Chính phủ hiện nay có:\n\n\\- Tổng cục Địa chất,\n\n\\- Tổng cục Lâm nghiệp,\n\n\\- Tổng cục Thuỷ sản,\n\n\\- Tổng cục Vật tư,\n\n\\- Uỷ ban Liên lạc văn hoá với nước ngoài,\n\n\\- Uỷ ban Thể dục thể thao trung ương.\n\nViệc đặt thêm hoặc bãi bỏ cơ quan trực thuộc Hội đồng Chính phủ do Hội đồng Chính phủ trình Uỷ ban thường vụ Quốc hội phê chuẩn.\n\n**Điều 5**\n\nHội đồng Chính phủ có hai hình thức hội nghị: Hội nghị toàn thể và Hội nghị Thường vụ.\n\nHội nghị toàn thể của Hội đồng Chính phủ gồm toàn thể các thành viên của Hội đồng Chính phủ.\n\nHội nghị Thường vụ của Hội đồng Chính phủ gồm Thủ tướng Chính phủ, các Phó thủ tướng và Bộ trưởng Phủ Thủ tướng.\n\nNhững nghị quyết của Hội nghị Thường vụ của Hội đồng Chính phủ sẽ được báo cáo trước Hội nghị toàn thể của Hội đồng Chính phủ.\n\nCác Thủ trưởng các cơ quan trực thuộc Hội đồng Chính phủ dự Hội nghị toàn thể của Hội đồng Chính phủ, nhưng không có quyền biểu quyết.\n\nKhi cần thiết, ngoài thành phần nói trên, những người hữu quan có thể được mời dự hội nghị của Hội đồng Chính phủ, nhưng không có quyền biểu quyết.\n\n**Điều 6**\n\nNhững nghị định, nghị quyết, quyết định, thông tư và chỉ thị của Hội đồng Chính phủ phải được Hội nghị toàn thể của Hội đồng Chính phủ hoặc Hội nghị Thường vụ của Hội đồng Chính phủ thông qua.\n\n**Điều 7**\n\nThủ tướng Chính phủ lãnh đạo công tác của Hội đồng Chính phủ và thay mặt Hội đồng Chính phủ chỉ đạo công tác của các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Hội đồng Chính phủ và Uỷ ban hành chính các cấp.\n\nCác Phó thủ tướng giúp Thủ tướng trong việc lãnh đạo chung và có thể được uỷ nhiệm thay Thủ tướng chỉ đạo từng khối công tác của Chính phủ.\n\n**Điều 8**\n\nBộ máy làm việc của Hội đồng Chính phủ và Thủ tướng Chính phủ là Phủ thủ tướng. Phủ Thủ tướng gồm có:\n\n\\- Văn phòng Phủ Thủ tướng, đứng đầu là Bộ trưởng Phủ Thủ tướng có một hoặc nhiều Thứ trưởng giúp việc;\n\n\\- Các Văn phòng nghiên cứu và theo dõi từng khối công tác của Chính phủ, đứng đầu là các Chủ nhiệm Văn phòng có một hoặc nhiều Phó chủ nhiệm giúp việc. Chủ nhiệm Văn phòng là một Bộ trưởng.\n\n**Điều 9**\n\nMỗi Bộ có Bộ trưởng và một hoặc nhiều Thứ trưởng. Mỗi Uỷ ban Nhà nước có Chủ nhiệm, một hoặc nhiều Phó chủ nhiệm và một số uỷ viên.\n\nUỷ ban Thanh tra có Tổng thanh tra, một hoặc nhiều Phó tổng thanh tra và có thể có một số uỷ viên.\n\nNgân hàng Nhà nước có Tổng giám đốc và một hoặc nhiều Phó tổng giám đốc.\n\n**Điều 10**\n\nBộ trưởng, Thủ tướng cơ quan ngang Bộ, Thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ lãnh đạo toàn bộ công tác thuộc phạm vi trách nhiệm của mình và chịu trách nhiệm trước Hội đồng Chính phủ.\n\n**Điều 11**\n\nThứ trưởng các Bộ, Phó thủ trưởng cơ quan ngang Bộ, Phó thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ trong việc lãnh đạo chung và có thể được uỷ nhiệm thay Bộ trưởng hoặc Thủ trưởng cơ quan chỉ đạo từng phần công tác của Bộ hoặc của cơ quan.\n\n**Điều 12**\n\nHội đồng Chính phủ bổ nhiệm và bãi miễn các nhân viên sau đây:\n\n\\- Thủ trưởng các cơ quan trực thuộc Hội đồng Chính phủ;\n\n\\- Thứ trưởng Phủ Thủ tướng, Thứ trưởng các Bộ, Phó chủ nhiệm các văn phòng Phủ Thủ tướng, Phó chủ nhiệm các Uỷ ban Nhà nước, Phó tổng thanh tra, Phó tổng giám đốc Ngân hàng Nhà nước;\n\n\\- Phó Thủ trưởng các cơ quan trực thuộc Hội đồng Chính phủ, Uỷ viên các Uỷ ban Nhà nước, Thủ trưởng và Phó thủ trưởng các cơ quan chuyên môn thuộc Phủ Thủ tướng, các Bộ và cơ quan ngang Bộ, Chánh văn phòng và Phó văn phòng các Bộ và cơ quan ngang Bộ;\n\n\\- Những nhân viên giữ những chức vụ tương đương với các chức vụ nói trên.\n\nLuật này đã được Quốc hội nước Việt Nam dân chủ cộng hoà khoá thứ II, kỳ họp thứ nhất, thông qua ngày 14 tháng 7 năm 1960.\n\n**Hồ Chí Minh**\n\n(Đã ký)",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

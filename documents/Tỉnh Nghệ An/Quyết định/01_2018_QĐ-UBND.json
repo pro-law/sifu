@@ -1,0 +1,629 @@
+{
+  "title": "Quyết định 01/2018/QĐ-UBND về hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Nghệ An",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 89/2017/TT-BTC hướng dẫn một số điều của Nghị định 35/2017/NĐ-CP quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "89/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2017-08-23",
+      "effectiveDate": "2017-10-06",
+      "gazetteDate": "2017-10-12",
+      "gazetteNumber": "Từ số 767 đến số 768",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 35/2017/NĐ-CP quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao",
+      "id": "35/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-04-03",
+      "effectiveDate": "2017-06-20",
+      "gazetteDate": "2017-04-17",
+      "gazetteNumber": "Từ số 271 đến số 272",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 01/2017/NĐ-CP sửa đổi nghị định hướng dẫn Luật đất đai",
+      "id": "01/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-01-06",
+      "effectiveDate": "2017-03-03",
+      "gazetteDate": "2017-01-24",
+      "gazetteNumber": "Từ số 87 đến số 88",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 332/2016/TT-BTC sửa đổi Thông tư 76/2014/TT-BTC của Bộ Tài chính hướng dẫn Nghị định 45/2014/NĐ-CP quy định về thu tiền sử dụng đất",
+      "id": "332/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2016-12-26",
+      "effectiveDate": "2017-02-10",
+      "gazetteDate": "2017-02-11",
+      "gazetteNumber": "Từ số 133 đến số 134",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 333/2016/TT-BTC sửa đổi Thông tư 77/2014/TT-BTC của Bộ Tài chính hướng dẫn Nghị định 46/2014/NĐ-CP quy định về thu tiền thuê đất, thuê mặt nước",
+      "id": "333/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2016-12-26",
+      "effectiveDate": "2017-02-10",
+      "gazetteDate": "2017-02-11",
+      "gazetteNumber": "Từ số 133 đến số 134",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 135/2016/NĐ-CP sửa đổi Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước",
+      "id": "135/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-09-09",
+      "effectiveDate": "2016-11-15",
+      "gazetteDate": "2016-09-25",
+      "gazetteNumber": "Từ số 989 đến số 990",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 36/2014/TT-BTNMT quy định chi tiết phương pháp định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "36/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-06-30",
+      "effectiveDate": "2014-08-13",
+      "gazetteDate": "2014-08-19",
+      "gazetteNumber": "Từ số 773 đến số 774",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 76/2014/TT-BTC hướng dẫn Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "76/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-06-16",
+      "effectiveDate": "2014-08-01",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Từ số 675 đến số 676",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 77/2014/TT-BTC hướng dẫn Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "77/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-06-16",
+      "effectiveDate": "2014-08-01",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Từ số 675 đến số 676",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 44/2014/NĐ-CP quy định về giá đất",
+      "id": "44/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-05",
+      "gazetteNumber": "Từ số 563 đến số 564",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất",
+      "id": "45/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-23",
+      "gazetteNumber": "Từ số 611 đến số 612",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước",
+      "id": "46/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-24",
+      "gazetteNumber": "Từ số 617 đến số 618",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 08/2019/QĐ-UBND về hệ số điều chỉnh giá đất năm 2019 trên địa bàn tỉnh Nghệ An",
+      "id": "08/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2019-03-22",
+      "effectiveDate": "2019-04-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/04/2020"
+    },
+    {
+      "title": "Quyết định 249/QĐ-UBND năm 2020 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "249/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2020-01-22",
+      "effectiveDate": "2020-01-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 06/2020/QĐ-UBND về hệ số điều chỉnh giá đất năm 2020 trên địa bàn tỉnh Nghệ An",
+      "id": "06/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hoàng Nghĩa Hiếu"
+      ],
+      "issuedDate": "2020-03-26",
+      "effectiveDate": "2020-04-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Quyết định 176/QĐ-UBND năm 2021 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2021-01-20",
+      "effectiveDate": "2021-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 01/2021/QĐ-UBND về hệ số điều chỉnh giá đất năm 2021 trên địa bàn tỉnh Nghệ An",
+      "id": "01/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hoàng Nghĩa Hiếu"
+      ],
+      "issuedDate": "2021-01-05",
+      "effectiveDate": "2021-01-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Quyết định 176/QĐ-UBND năm 2021 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực thi hành toàn bộ và một phần",
+      "id": "176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2021-01-20",
+      "effectiveDate": "2021-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 69/2021/QĐ-UBND về hệ số điều chỉnh giá đất năm 2022 trên địa bàn tỉnh Nghệ An",
+      "id": "69/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hoàng Nghĩa Hiếu"
+      ],
+      "issuedDate": "2021-12-22",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2023"
+    },
+    {
+      "title": "Quyết định 232/QĐ-UBND năm 2023 công bố văn bản quy phạm pháp luật do Hội đồng nhân dân tỉnh, Ủy ban nhân dân tỉnh Nghệ An ban hành hết hiệu lực toàn bộ và hết hiệu lực một phần năm 2022",
+      "id": "232/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Hồng Vinh"
+      ],
+      "issuedDate": "2023-01-31",
+      "effectiveDate": "2023-01-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 63/2022/QĐ-UBND về hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Nghệ An",
+      "id": "63/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Nguyễn Văn Đệ"
+      ],
+      "issuedDate": "2022-12-23",
+      "effectiveDate": "2023-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 03/2018/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2017 trên địa bàn tỉnh Sóc Trăng",
+      "id": "03/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Lê Văn Hiểu"
+      ],
+      "issuedDate": "2018-01-18",
+      "effectiveDate": "2018-02-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/10/2018"
+    },
+    {
+      "title": "Quyết định 01/2018/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Quảng Nam",
+      "id": "01/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Đinh Văn Thu"
+      ],
+      "issuedDate": "2018-01-15",
+      "effectiveDate": "2018-01-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 01/2018/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Yên Bái",
+      "id": "01/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Yên Bái",
+      "signers": [
+        "Đỗ Đức Duy"
+      ],
+      "issuedDate": "2018-01-04",
+      "effectiveDate": "2018-01-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 18/01/2019"
+    },
+    {
+      "title": "Quyết định 40/2017/QĐ-UBND về sửa đổi giá đất trong Khu công nghệ cao tại Bảng giá các loại đất trên địa bàn thành phố Đà Nẵng",
+      "id": "40/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Trần Văn Miên"
+      ],
+      "issuedDate": "2017-12-30",
+      "effectiveDate": "2018-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 11/02/2019"
+    },
+    {
+      "title": "Quyết định 36/2017/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Hậu Giang",
+      "id": "36/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hậu Giang",
+      "signers": [
+        "Trương Cảnh Tuyên"
+      ],
+      "issuedDate": "2017-12-22",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 48/2017/QĐ-UBND về quy định Hệ số điều chỉnh giá đất để tính giá đất cụ thể trên địa bàn tỉnh Tây Ninh năm 2018",
+      "id": "48/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tây Ninh",
+      "signers": [
+        "Trần Văn Chiến"
+      ],
+      "issuedDate": "2017-12-21",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 67/2017/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 làm cơ sở xác định nghĩa vụ tài chính đối với người sử dụng đất trên địa bàn tỉnh Long An",
+      "id": "67/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Long An",
+      "signers": [
+        "Trần Văn Cần"
+      ],
+      "issuedDate": "2017-12-20",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 41/2017/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Thái Nguyên",
+      "id": "41/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Thái Nguyên",
+      "signers": [
+        "Nhữ Văn Tâm"
+      ],
+      "issuedDate": "2017-12-20",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 27/2017/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Tuyên Quang",
+      "id": "27/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Đình Quang"
+      ],
+      "issuedDate": "2017-12-20",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 29/2017/QĐ-UBND về quy định hệ số điều chỉnh giá đất năm 2018 trên địa bàn tỉnh Cà Mau",
+      "id": "29/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Lâm Văn Bi"
+      ],
+      "issuedDate": "2017-12-19",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    }
+  ],
+  "id": "01/2018/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bất động sản",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Tỉnh Nghệ An",
+  "signers": [
+    "Lê Xuân Đại"
+  ],
+  "issuedDate": "2018-01-02",
+  "effectiveDate": "2018-01-12",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 01/04/2019",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAxADIAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>ỦY BAN NHÂN\n  DÂN<br>\n  TỈNH NGHỆ AN<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  01/2018/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Nghệ An, ngày\n  02 tháng 01 năm 2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">BAN HÀNH HỆ SỐ\nĐIỀU CHỈNH GIÁ ĐẤT NĂM 2018 TRÊN ĐỊA BÀN TỈNH NGHỆ AN</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH NGHỆ AN</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương\nngày 19/6/2015;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Đất đai ngày 29/11/2013;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ các Nghị định của Chính phủ: số\n44/2014/NĐ-CP ngày 15/5/2014 quy định về giá đất; số 45/2014/NĐ-CP ngày\n15/5/2014 về thu tiền sử dụng đất; số 46/2014/NĐ-CP ngày 15/5/2014 về thu tiền\nthuê đất, thuê mặt nước; số 135/2016/NĐ-CP ngày 09/9/2016 sửa đổi, bổ sung một\nsố điều của các Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất,\nthuê mặt nước; số 01/2017/NĐ-CP ngày 06/01/2017 sửa đổi, bổ sung một số Nghị\nđịnh quy định chi tiết thi hành Luật đất đai; số 35/2017/NĐ-CP ngày 03/4/2017\nquy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu\nkinh tế, Khu công nghệ cao;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 36/2014/TT-BTNMT ngày\n30/6/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết phương\npháp định giá đất; xây dựng điều chỉnh bảng giá đất; định giá đất cụ thể và tư\nvấn xác định giá đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ các Thông tư của Bộ trưởng Bộ Tài\nchính: số 76/2014/TT-BTC ngày 16/6/2014 hướng dẫn một số điều của Nghị định số 45/2014/NĐ-CP\nngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất; số 77/2014/TT-BTC\nngày 16/6/2014 hướng dẫn một số điều của Nghị định số 46/2014/NĐ-CP ngày\n15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước; số\n332/2016/TT-BTC ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông tư số\n76/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị\nđịnh số 45/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng\nđất; số 333/2016/TT-BTC ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông\ntư số 77/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính hướng dẫn một số điều của\nNghị định số 46/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền\nthuê đất, thuê mặt nước; số 89/2017/TT-BTC ngày 23/8/2017 hướng dẫn một số điều\ncủa Nghị định số 35/2017/NĐ-CP ngày 03/4/2017 của Chính phủ quy định về thu\ntiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công\nnghệ cao;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Theo đề nghị của Giám đốc Sở Tài chính tại Tờ\ntrình số 4149/TTr-STC ngày 26/12/2017.</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\"><b>Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng</b></p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">1. Phạm vi điều chỉnh</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">Quyết định này quy định hệ số điều chỉnh giá đất (gọi là Hệ số K) trên địa\nbàn tỉnh Nghệ An.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">2. Đối tượng áp dụng</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">a) Các cơ quan quản lý nhà nước, cơ quan chuyên môn về tài nguyên và môi\ntrường, cơ quan thuế, Ban quản lý Khu kinh tế Đông Nam, và các cơ quan, đơn vị\nkhác có liên quan;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Tổ chức trong nước (đã bao gồm cả các tổ chức\nkinh tế là doanh nghiệp trong nước), hộ gia đình, cá nhân trong nước, cộng đồng\ndân cư, cơ sở tôn giáo, tổ chức nước ngoài có chức năng ngoại giao, người Việt\nNam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>Điều 2. Nguyên tắc áp dụng</b></p>\n\n<p style=\"margin-bottom:6.0pt\">Hệ số điều chỉnh giá đất (K) được áp dụng để:</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">1. Xác định tiền sử dụng đất, tiền thuê đất mà diện tích tính thu tiền sử\ndụng đất, tiền thuê đất của thửa đất hoặc khu đất có giá trị (tính theo giá đất\ntrong Bảng giá đất) dưới 20 tỷ đồng, trong các trường hợp sau:</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">a) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất không thông qua\nhình thức đấu giá quyền sử dụng đất, công nhận quyền sử dụng đất, cho phép\nchuyển mục đích sử dụng đất;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">b) Hộ gia đình, cá nhân được Nhà nước giao đất không thông qua hình thức\nđấu giá quyền sử dụng đất, công nhận quyền sử dụng đất, cho phép chuyển mục\nđích sử dụng đất đối với diện tích đất ở vượt hạn mức;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">c) Xác định đơn giá thuê đất áp dụng trong các trường hợp:</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">- Trả tiền thuê đất hàng năm cho chu kỳ ổn định đầu tiên;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">- Trả tiền một lần cho cả thời gian thuê không thông qua hình thức đấu giá;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">- Chuyển từ thuê đất trả tiền thuê đất hàng năm sang thuê đất trả tiền\nthuê đất một lần cho cả thời gian thuê theo quy định tại Khoản 2 Điều 172 Luật\nĐất đai;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">- Nhận chuyển nhượng tài sản gắn liền với đất thuê theo quy định tại Khoản\n3 Điều 189 Luật Đất đai;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">- Trả tiền thuê đất hàng năm và trả tiền thuê đất một lần cho cả thời gian\nthuê khi cổ phần hóa doanh nghiệp Nhà nước;</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">d) Xác định giá khởi điểm trong đấu giá quyền sử dụng đất để giao đất có\nthu tiền sử dụng đất, thuê đất trả tiền thuê đất một lần cho cả thời gian thuê.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">2. Xác định đơn giá thuê đất trả tiền thuê đất hàng năm khi điều chỉnh lại\nđơn giá thuê đất cho chu kỳ ổn định tiếp theo.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">3. Xác định giá khởi điểm trong đấu giá quyền sử dụng đất để cho thuê theo\nhình thức thuê đất trả tiền thuê đất hàng năm.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">4. Xác định tiền sử dụng đất, tiền thuê đất trong Khu kinh tế, Khu công\nnghệ cao theo quy định tại Nghị định số 35/2017/NĐ-CP ngày 03/4/2017 của Chính\nphủ quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu\nkinh tế, Khu công nghệ cao.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\"><b>Điều 3.</b> <b>Hệ số điều chỉnh giá đất</b></p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">Hệ số điều chỉnh giá đất (K) năm 2018 trên địa bàn tỉnh Nghệ An: K = 1.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\"><b>Điều 4. Hiệu lực thi hành</b></p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">1. Quyết định này có hiệu lực thi hành kể từ ngày 12/01/2018.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">2. Các trường hợp phát sinh kể từ ngày 01/01/2018 đến ngày Quyết định này\ncó hiệu lực thì áp dụng theo quy định tại Quyết định này.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">3. Bãi bỏ Quyết định số 25/2017/QĐ-UBND ngày 23/01/2017 của UBND tỉnh về\nviệc ban hành hệ số điều chỉnh giá đất năm 2017 trên địa bàn tỉnh Nghệ An.</p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\"><b>Điều 5. Tổ chức thực hiện</b></p>\n\n<p style=\"margin-top:0in;margin-right:3.7pt;margin-bottom:6.0pt;margin-left:\n0in\">Chánh Văn phòng UBND tỉnh; Giám đốc các Sở; Thủ trưởng các ban ngành cấp\ntỉnh; Cục trưởng Cục thuế Nghệ An; Giám đốc Kho bạc Nhà nước Nghệ an; Trưởng\nBan Quản lý Khu kinh tế Đông Nam; Chủ tịch UBND các huyện, thành phố, thị xã;\nCác tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định này./.</p>\n\n<p style=\"margin-top:0in;margin-right:.05in;margin-bottom:6.0pt;margin-left:\n0in\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAxADIAOQA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><span style=\"font-size:8.0pt\">&nbsp;</span></p>\n  <p style=\"margin-bottom:6.0pt\"><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như Điều 5;<b><br>\n  </b>- Bộ Tài chính;<br>\n  - Cục kiểm tra văn bản-BTP;<b><i><br>\n  </i></b>- TT HĐND tỉnh;<br>\n  - Đoàn ĐBQH tỉnh (để giám sát);<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - Các Phó Văn phòng UBND tỉnh;<br>\n  - TT công báo tỉnh;<br>\n  - Lưu: VT, NN (X. Hùng).</span></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM.UỶ BAN\n  NHÂN DÂN</b><br>\n  <b>KT. CHỦ TỊCH</b><br>\n  <b>PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  </b><br>\n  <b>Lê Xuân Đại</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:0in;margin-right:.05in;margin-bottom:6.0pt;margin-left:\n0in\">&nbsp;</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH NGHỆ AN  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 01/2018/QĐ-UBND\n\n_Nghệ An, ngày 02 tháng 01 năm 2018_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH HỆ SỐ ĐIỀU CHỈNH GIÁ ĐẤT NĂM 2018 TRÊN ĐỊA BÀN TỈNH NGHỆ AN\n\n**ỦY BAN NHÂN DÂN TỈNH NGHỆ AN**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;_\n\n_Căn cứ Luật Đất đai ngày 29/11/2013;_\n\n_Căn cứ các Nghị định của Chính phủ: số 44/2014/NĐ-CP ngày 15/5/2014 quy định về giá đất; số 45/2014/NĐ-CP ngày 15/5/2014 về thu tiền sử dụng đất; số 46/2014/NĐ-CP ngày 15/5/2014 về thu tiền thuê đất, thuê mặt nước; số 135/2016/NĐ-CP ngày 09/9/2016 sửa đổi, bổ sung một số điều của các Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước; số 01/2017/NĐ-CP ngày 06/01/2017 sửa đổi, bổ sung một số Nghị định quy định chi tiết thi hành Luật đất đai; số 35/2017/NĐ-CP ngày 03/4/2017 quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao;_\n\n_Căn cứ Thông tư số 36/2014/TT-BTNMT ngày 30/6/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết phương pháp định giá đất; xây dựng điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất;_\n\n_Căn cứ các Thông tư của Bộ trưởng Bộ Tài chính: số 76/2014/TT-BTC ngày 16/6/2014 hướng dẫn một số điều của Nghị định số 45/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất; số 77/2014/TT-BTC ngày 16/6/2014 hướng dẫn một số điều của Nghị định số 46/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước; số 332/2016/TT-BTC ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông tư số 76/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 45/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất; số 333/2016/TT-BTC ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông tư số 77/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 46/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước; số 89/2017/TT-BTC ngày 23/8/2017 hướng dẫn một số điều của Nghị định số 35/2017/NĐ-CP ngày 03/4/2017 của Chính phủ quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao;_\n\n_Theo đề nghị của Giám đốc Sở Tài chính tại Tờ trình số 4149/TTr-STC ngày 26/12/2017._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Phạm vi điều chỉnh\n\nQuyết định này quy định hệ số điều chỉnh giá đất (gọi là Hệ số K) trên địa bàn tỉnh Nghệ An.\n\n2\\. Đối tượng áp dụng\n\na) Các cơ quan quản lý nhà nước, cơ quan chuyên môn về tài nguyên và môi trường, cơ quan thuế, Ban quản lý Khu kinh tế Đông Nam, và các cơ quan, đơn vị khác có liên quan;\n\nb) Tổ chức trong nước (đã bao gồm cả các tổ chức kinh tế là doanh nghiệp trong nước), hộ gia đình, cá nhân trong nước, cộng đồng dân cư, cơ sở tôn giáo, tổ chức nước ngoài có chức năng ngoại giao, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài.\n\n**Điều 2. Nguyên tắc áp dụng**\n\nHệ số điều chỉnh giá đất (K) được áp dụng để:\n\n1\\. Xác định tiền sử dụng đất, tiền thuê đất mà diện tích tính thu tiền sử dụng đất, tiền thuê đất của thửa đất hoặc khu đất có giá trị (tính theo giá đất trong Bảng giá đất) dưới 20 tỷ đồng, trong các trường hợp sau:\n\na) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất không thông qua hình thức đấu giá quyền sử dụng đất, công nhận quyền sử dụng đất, cho phép chuyển mục đích sử dụng đất;\n\nb) Hộ gia đình, cá nhân được Nhà nước giao đất không thông qua hình thức đấu giá quyền sử dụng đất, công nhận quyền sử dụng đất, cho phép chuyển mục đích sử dụng đất đối với diện tích đất ở vượt hạn mức;\n\nc) Xác định đơn giá thuê đất áp dụng trong các trường hợp:\n\n\\- Trả tiền thuê đất hàng năm cho chu kỳ ổn định đầu tiên;\n\n\\- Trả tiền một lần cho cả thời gian thuê không thông qua hình thức đấu giá;\n\n\\- Chuyển từ thuê đất trả tiền thuê đất hàng năm sang thuê đất trả tiền thuê đất một lần cho cả thời gian thuê theo quy định tại Khoản 2 Điều 172 Luật Đất đai;\n\n\\- Nhận chuyển nhượng tài sản gắn liền với đất thuê theo quy định tại Khoản 3 Điều 189 Luật Đất đai;\n\n\\- Trả tiền thuê đất hàng năm và trả tiền thuê đất một lần cho cả thời gian thuê khi cổ phần hóa doanh nghiệp Nhà nước;\n\nd) Xác định giá khởi điểm trong đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất, thuê đất trả tiền thuê đất một lần cho cả thời gian thuê.\n\n2\\. Xác định đơn giá thuê đất trả tiền thuê đất hàng năm khi điều chỉnh lại đơn giá thuê đất cho chu kỳ ổn định tiếp theo.\n\n3\\. Xác định giá khởi điểm trong đấu giá quyền sử dụng đất để cho thuê theo hình thức thuê đất trả tiền thuê đất hàng năm.\n\n4\\. Xác định tiền sử dụng đất, tiền thuê đất trong Khu kinh tế, Khu công nghệ cao theo quy định tại Nghị định số 35/2017/NĐ-CP ngày 03/4/2017 của Chính phủ quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao.\n\n**Điều 3.** **Hệ số điều chỉnh giá đất**\n\nHệ số điều chỉnh giá đất (K) năm 2018 trên địa bàn tỉnh Nghệ An: K = 1.\n\n**Điều 4. Hiệu lực thi hành**\n\n1\\. Quyết định này có hiệu lực thi hành kể từ ngày 12/01/2018.\n\n2\\. Các trường hợp phát sinh kể từ ngày 01/01/2018 đến ngày Quyết định này có hiệu lực thì áp dụng theo quy định tại Quyết định này.\n\n3\\. Bãi bỏ Quyết định số 25/2017/QĐ-UBND ngày 23/01/2017 của UBND tỉnh về việc ban hành hệ số điều chỉnh giá đất năm 2017 trên địa bàn tỉnh Nghệ An.\n\n**Điều 5. Tổ chức thực hiện**\n\nChánh Văn phòng UBND tỉnh; Giám đốc các Sở; Thủ trưởng các ban ngành cấp tỉnh; Cục trưởng Cục thuế Nghệ An; Giám đốc Kho bạc Nhà nước Nghệ an; Trưởng Ban Quản lý Khu kinh tế Đông Nam; Chủ tịch UBND các huyện, thành phố, thị xã; Các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định này./.\n\n**_Nơi nhận:  \n_**\\- Như Điều 5;\\- Bộ Tài chính;  \n\\- Cục kiểm tra văn bản-BTP;\\- TT HĐND tỉnh;  \n\\- Đoàn ĐBQH tỉnh (để giám sát);  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Các Phó Văn phòng UBND tỉnh;  \n\\- TT công báo tỉnh;  \n\\- Lưu: VT, NN (X. Hùng).\n\n**TM.UỶ BAN NHÂN DÂN**  \n**KT. CHỦ TỊCH**  \n**PHÓ CHỦ TỊCH  \n  \n  \n  \n**  \n**Lê Xuân Đại**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

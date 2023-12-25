@@ -1,0 +1,411 @@
+{
+  "title": "Thông tư 58/2015/TT-BTC Hướng dẫn lập, phân bổ dự toán, thanh toán, quyết toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu các tuyến luồng hàng hải - Bộ Giao thông vận tải quản lý do Bộ Tài chính ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [
+    {
+      "title": "Thông tư 119/2010/TT-BTC hướng dẫn về thu, quản lý, sử dụng nguồn thu phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ công ích bảo đảm an toàn hàng hải do Bộ Tài chính ban hành",
+      "id": "119/2010/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2010-08-10",
+      "effectiveDate": "2011-01-01",
+      "gazetteDate": "2010-08-23",
+      "gazetteNumber": "Từ số 501 đến số 502",
+      "status": "Hết hiệu lực: 01/04/2017"
+    }
+  ],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật Ngân sách Nhà nước 2002",
+      "id": "01/2002/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2002-12-16",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-01-25",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 32/2015/NĐ-CP về Quản lý chi phí đầu tư xây dựng",
+      "id": "32/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-03-25",
+      "effectiveDate": "2015-05-10",
+      "gazetteDate": "2015-04-08",
+      "gazetteNumber": "Từ số 467 đến số 468",
+      "status": "Hết hiệu lực: 01/10/2019"
+    },
+    {
+      "title": "Nghị định 215/2013/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính",
+      "id": "215/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-12-23",
+      "effectiveDate": "2014-02-15",
+      "gazetteDate": "2014-01-05",
+      "gazetteNumber": "Từ số 23 đến số 24",
+      "status": "Hết hiệu lực: 26/07/2017"
+    },
+    {
+      "title": "Quyết định 73/2013/QĐ-TTg về thí điểm thực hiện cơ chế nạo vét, duy tu tuyến luồng hàng hải do Thủ tướng Chính phủ ban hành",
+      "id": "73/2013/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-27",
+      "effectiveDate": "2014-02-01",
+      "gazetteDate": "2013-12-12",
+      "gazetteNumber": "Từ số 897 đến số 898",
+      "status": "Hết hiệu lực: 21/12/2023"
+    },
+    {
+      "title": "Nghị định 130/2013/NĐ-CP về sản xuất và cung ứng sản phẩm, dịch vụ công ích",
+      "id": "130/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-10-16",
+      "effectiveDate": "2013-11-29",
+      "gazetteDate": "2013-10-31",
+      "gazetteNumber": "Từ số 713 đến số 714",
+      "status": "Hết hiệu lực: 01/06/2019"
+    },
+    {
+      "title": "Nghị định 83/2009/NĐ-CP sửa đổi Nghị định 12/2009/NĐ-CP về quản lý dự án đầu tư xây dựng công trình",
+      "id": "83/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-10-15",
+      "effectiveDate": "2009-12-01",
+      "gazetteDate": "2009-10-26",
+      "gazetteNumber": "Từ số 487 đến số 488",
+      "status": "Hết hiệu lực: 05/08/2015"
+    },
+    {
+      "title": "Nghị định 12/2009/NĐ-CP về quản lý dự án đầu tư xây dựng công trình",
+      "id": "12/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-02-12",
+      "effectiveDate": "2009-04-02",
+      "gazetteDate": "2009-02-23",
+      "gazetteNumber": "Từ số 131 đến số 132",
+      "status": "Hết hiệu lực: 05/08/2015"
+    },
+    {
+      "title": "Nghị định 60/2003/NĐ-CP Hướng dẫn Luật Ngân sách nhà nước",
+      "id": "60/2003/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2003-06-06",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-06-30",
+      "gazetteNumber": "Từ số 67 đến số 68",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 190/QĐ-BTC năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực quản lý nhà nước của Bộ Tài chính kỳ 2014-2018",
+      "id": "190/QĐ-BTC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2019-01-29",
+      "effectiveDate": "2019-01-29",
+      "gazetteDate": "2019-06-18",
+      "gazetteNumber": "Từ số 483 đến số 484",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 2533/QĐ-BGTVT năm 2018 đính chính Thông tư 38/2018/TT-BGTVT sửa đổi, bổ sung nội dung của Định mức kinh tế - kỹ thuật kèm theo Thông tư 76/2014/TT-BGTVT về Định mức kinh tế - kỹ thuật trong lĩnh vực cung ứng dịch vụ công ích bảo đảm an toàn hàng hải do Bộ trưởng Bộ Giao thông vận tải ban hành",
+      "id": "2533/QĐ-BGTVT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Nguyễn Văn Công"
+      ],
+      "issuedDate": "2018-11-23",
+      "effectiveDate": "2018-11-23",
+      "gazetteDate": "2018-12-14",
+      "gazetteNumber": "Từ số 1107 đến số 1108",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 14/2017/TT-BXD về hướng dẫn xác định và quản lý chi phí dịch vụ công ích đô thị do Bộ trưởng Bộ Xây dựng ban hành",
+      "id": "14/2017/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Phan Thị Mỹ Linh"
+      ],
+      "issuedDate": "2017-12-28",
+      "effectiveDate": "2018-02-15",
+      "gazetteDate": "2018-01-30",
+      "gazetteNumber": "Từ số 225 đến số 226",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 92/2017/TT-BTC quy định về lập dự toán, phân bổ và quyết toán kinh phí để thực hiện sửa chữa, bảo trì, cải tạo, nâng cấp, mở rộng cơ sở vật chất do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "92/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Xuân Hà"
+      ],
+      "issuedDate": "2017-09-18",
+      "effectiveDate": "2017-11-10",
+      "gazetteDate": "2017-12-05",
+      "gazetteNumber": "Từ số 875 đến số 876",
+      "status": "Hết hiệu lực: 15/09/2021"
+    },
+    {
+      "title": "Công văn 3241/VPCP-CN năm 2017 sửa đổi Quyết định 73/2013/QĐ-TTg về thí điểm cơ chế nạo vét, duy tu các tuyến luồng hàng hải Bộ Giao thông vận tải quản lý do Văn phòng Chính phủ ban hành",
+      "id": "3241/VPCP-CN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Cao Lục"
+      ],
+      "issuedDate": "2017-04-04",
+      "effectiveDate": "2017-04-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 2420/VPCP-NC năm 2017 kiến nghị của Ủy ban nhân dân tỉnh Bắc Ninh liên quan đến thực hiện dự án nạo vét, khơi thông luồng đường thủy nội địa, kết hợp tận thu sản phẩm trên sông Cầu do Văn phòng Chính phủ ban hành",
+      "id": "2420/VPCP-NC",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Cao Lục"
+      ],
+      "issuedDate": "2017-03-16",
+      "effectiveDate": "2017-03-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 221/TTg-CN năm 2017 về cơ chế nạo vét, duy tu các tuyến luồng hàng hải và vùng nước cảng biển do Thủ tướng Chính phủ ban hành",
+      "id": "221/TTg-CN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2017-02-14",
+      "effectiveDate": "2017-02-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 597/VPCP-CN năm 2017 về hoàn thiện cơ chế công bố tuyến hàng hải và phân luồng giao thông trong lãnh hải Việt Nam và bảo vệ công trình hàng hải do Văn phòng Chính phủ ban hành",
+      "id": "597/VPCP-CN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Cao Lục"
+      ],
+      "issuedDate": "2017-01-20",
+      "effectiveDate": "2017-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4277/VPCP-KTTH năm 2016 về thu phí đảm bảo hàng hải và khai thác, vận hành luồng hàng hải Soài Rạp do Văn phòng Chính phủ ban hành",
+      "id": "4277/VPCP-KTTH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2016-06-02",
+      "effectiveDate": "2016-06-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Dự thảo Thông tư hướng dẫn việc quản lý, sử dụng và quyết toán kinh phí bảo đảm thực hiện Quyết định 81/2014/QĐ-TTg về phối hợp giữa các Bộ, ngành, Ủy ban nhân dân các cấp với các cấp Hội Nông dân Việt Nam trong việc tiếp công dân, giải quyết khiếu nại, tố cáo của nông dân do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "Khongso",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2015-07-18",
+      "effectiveDate": "Dữ liệu đang cập nhật",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Chưa xác định"
+    },
+    {
+      "title": "Thông tư 77/2014/TT-BGTVT về trình tự, thủ tục thực hiện nạo vét, duy tu tuyến luồng hàng hải Hải Phòng và Sài Gòn - Vũng Tàu theo cơ chế thí điểm tại Quyết định 73/2013/QĐ-TTg do Bộ Giao thông vận tải quản lý",
+      "id": "77/2014/TT-BGTVT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Đinh La Thăng"
+      ],
+      "issuedDate": "2014-12-19",
+      "effectiveDate": "2015-02-05",
+      "gazetteDate": "2015-01-13",
+      "gazetteNumber": "Từ số 49 đến số 50",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 28/2014/TT-BGTVT về trình tự, thủ tục thực hiện nạo vét, duy tu tuyến luồng hàng hải do Bộ Giao thông vận tải quản lý, sử dụng từ nguồn vốn ngân sách nhà nước",
+      "id": "28/2014/TT-BGTVT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Đinh La Thăng"
+      ],
+      "issuedDate": "2014-07-29",
+      "effectiveDate": "2014-09-15",
+      "gazetteDate": "2014-08-23",
+      "gazetteNumber": "Từ số 779 đến số 780",
+      "status": "Hết hiệu lực: 01/01/2018"
+    }
+  ],
+  "id": "58/2015/TT-BTC",
+  "legislationType": "Thông tư",
+  "categories": [
+    "Tài chính nhà nước",
+    "Giao thông - Vận tải"
+  ],
+  "organization": "Bộ Tài chính",
+  "signers": [
+    "Trần Văn Hiếu"
+  ],
+  "issuedDate": "2015-04-25",
+  "effectiveDate": "2015-06-15",
+  "gazetteDate": "2015-06-09",
+  "gazetteNumber": "Từ số 589 đến số 590",
+  "status": "Hết hiệu lực: 01/01/2017",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADAANwA=-->\n <tbody><tr style=\"height:14.4pt\">\n  <td width=\"226\" valign=\"top\" style=\"width:169.15pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:14.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>BỘ TÀI CHÍNH<br>\n  -------</b></p>\n  </td>\n  <td width=\"369\" valign=\"top\" style=\"width:276.6pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:14.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr style=\"height:12.8pt\">\n  <td width=\"226\" valign=\"top\" style=\"width:169.15pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:12.8pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 58/2015/TT-BTC</p>\n  </td>\n  <td width=\"369\" valign=\"top\" style=\"width:276.6pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:12.8pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 25\n  tháng 04 năm 2015</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">THÔNG TƯ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">HƯỚNG\nDẪN LẬP, PHÂN BỔ DỰ TOÁN, THANH TOÁN, QUYẾT TOÁN KINH PHÍ THỰC HIỆN CUNG ỨNG DỊCH\nVỤ CÔNG ÍCH NẠO VÉT, DUY TU CÁC TUYẾN LUỒNG HÀNG HẢI DO BỘ GIAO THÔNG VẬN TẢI\nQUẢN LÝ</a></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 60/2003/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-60-2003-nd-cp-quy-dinh-chi-tiet-huong-dan-thi-hanh-luat-ngan-sach-nha-nuoc-51008.aspx\">60/2003/NĐ-CP</a>  ngày 06 tháng\n06 năm 2003 của <span style=\"background:white\">Chính phủ</span> quy định chi tiết\nvà hướng dẫn thi hành Luật Ngân sách nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ <span style=\"background:white\">Nghị định\nsố</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 12/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-85068.aspx\">12/2009/NĐ-CP</a>  ngày 10 <span style=\"background:white\">tháng</span> 02\nnăm 2009 của Chính phủ <span style=\"background:white\">về</span> quản lý dự án đầu\ntư xây dựng công trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ <span style=\"background:white\">Nghị định\nsố</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 83/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-83-2009-nd-cp-sua-doi-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-96234.aspx\">83/2009/NĐ-CP</a>  ngày 15 tháng 10 năm 2009 về sửa đổi, bổ sung một số điều\ncủa <span style=\"background:white\">Nghị định số</span> 12/2009/NĐ-CP ngày 10\ntháng 02 năm 2009 của <span style=\"background:white\">Chính phủ</span> về quản\nlý dự án đầu tư xây dựng công trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ <span style=\"background:white\">Nghị định\nsố</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 32/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-32-2015-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-269169.aspx\">32/2015/NĐ-CP</a>  ngày 25 <span style=\"background:white\">tháng</span> 03\nnăm 2015 của Chính phủ <span style=\"background:white\">về</span> quản lý chi phí\n<span style=\"background:white\">đầu tư</span> xây dựng;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ <span style=\"background:white\">Nghị định\nsố</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 130/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-130-2013-nd-cp-san-xuat-cung-ung-san-pham-dich-vu-cong-ich-210030.aspx\">130/2013/NĐ-CP</a>  ngày 16 <span style=\"background:white\">tháng</span> 10\nnăm 2013 của Chính phủ về sản <span style=\"background:white\">xuất</span> và\ncung ứng sản phẩm, dịch vụ công ích;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ <span style=\"background:white\">Nghị định\nsố</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 215/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-215-2013-nd-cp-chuc-nang-quyen-han-co-cau-to-chuc-bo-tai-chinh-217183.aspx\">215/2013/NĐ-CP</a>  ngày 23 tháng 12 năm 2013 của <span style=\"background:\nwhite\">Chính phủ</span> quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu <span style=\"background:white\">tổ chức</span> của Bộ Tài chính;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ <span style=\"background:white\">Quyết định\nsố</span> <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 73/2013/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/quyet-dinh-73-2013-qd-ttg-thi-diem-thuc-hien-co-che-nao-vet-duy-tu-tuyen-luong-hang-hai-214590.aspx\">73/2013/QĐ-TTg</a>  ngày 27 tháng 11 năm 2013 của Thủ tướng Chính phủ về\nviệc thí <span style=\"background:white\">điểm</span> thực hiện cơ chế nạo vét,\nduy tu các tuyến luồng hàng hải do Bộ Giao thông vận tải quản lý;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Xét đề nghị của Cục trưởng Cục <span style=\"background:white\">Tài chính</span> doanh nghiệp;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn\nlập, phân bổ dự toán, thanh toán, quyết toán kinh <span style=\"background:white\">phí</span>\nthực hiện cung ứng dịch vụ công ích nạo vét, duy tu các tuyến luồng hàng hải do\nBộ Giao thông vận tải quản lý.</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1. Phạm vi điều chỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thông tư này hướng dẫn lập, phân bổ dự toán, thanh\ntoán, quyết toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu\ncác tuyến luồng hàng hải do Bộ Giao thông vận tải quản lý (sau đây gọi là luồng\nhàng hải) sử dụng nguồn vốn ngân sách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thông tư này không áp dụng đối với hoạt động nạo\nvét của công tác đầu tư xây dựng mới luồng hàng hải và hoạt động nạo vét nâng cấp\nluồng hàng hải làm thay đổi <span style=\"background:white\">chuẩn</span> tắc thiết\nkế của tuyến luồng đã được phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2. Đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Thông tư này áp dụng đối với các cơ quan, tổ chức, cá\nnhân có liên quan đến công tác nạo vét, duy tu luồng hàng hải, bao gồm:</p>\n\n<p style=\"margin-top:6.0pt\">1. Cục Hàng hải Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt\">2. Tổng công ty Bảo đảm an toàn hàng hải miền Bắc,\nTổng công ty Bảo đảm an toàn hàng hải miền Nam (sau đây gọi là các Tổng công ty\nBảo đảm an toàn hàng hải).</p>\n\n<p style=\"margin-top:6.0pt\">3. Các tổ chức, cá nhân trong nước và nước ngoài có\nđủ điều kiện cung ứng dịch vụ nạo vét, duy tu luồng hàng hải theo quy định của\npháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">4. Các cơ quan quản lý nhà nước có liên quan.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3. <span style=\"background:\nwhite\">Kinh</span> phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng\nhàng hải</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Nhà nước đảm bảo kinh phí thực hiện công tác nạo\nvét, duy tu luồng hàng hải quan trọng theo quy định và các tuyến luồng không\nhuy động được vốn xã hội hóa từ nguồn vốn ngân sách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Đơn giá dịch vụ công\ních nạo vét, duy tu luồng hàng hải</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Đơn giá dịch vụ công ích nạo vét, duy tu luồng hàng\nhải thực hiện theo quy định của pháp luật hiện hành về quản lý chi phí đầu tư\nxây dựng cơ bản.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">LẬP, PHÂN BỔ DỰ TOÁN,\nTHANH TOÁN, QUYẾT TOÁN KINH PHÍ THỰC HIỆN CUNG ỨNG DỊCH VỤ CÔNG ÍCH NẠO VÉT,\nDUY TU LUỒNG HÀNG HẢI</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Lập, phân bổ và giao dự\ntoán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Lập dự toán:</p>\n\n<p style=\"margin-top:6.0pt\">a) Hàng năm, căn cứ vào khối lượng dịch vụ công ích\nnạo vét, duy tu luồng hàng hải, các Tổng công ty Bảo đảm an toàn hàng hải đề xuất\nkế hoạch nạo vét và dự toán kinh phí thực hiện cung ứng dịch vụ công ích nạo\nvét, duy tu luồng hàng hải cho năm tiếp theo gửi Cục Hàng hải Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt\">b) Trên cơ sở dự toán kinh phí thực hiện nhiệm vụ\ncho năm tiếp theo do Cục Hàng hải Việt Nam trình và kế hoạch bảo trì nạo vét,\nduy tu luồng hàng hải bằng nguồn vốn sự nghiệp kinh tế được duyệt, Bộ Giao\nthông vận tải <span style=\"background:white\">tổng hợp</span> dự toán chi ngân\nsách nhà nước hàng năm cho công tác nạo vét, duy tu luồng hàng hải, gửi Bộ Tài\nchính xem xét, tổng hợp trình cấp có thẩm quyền quyết định.</p>\n\n<p style=\"margin-top:6.0pt\">2. Phân bổ và giao dự toán:</p>\n\n<p style=\"margin-top:6.0pt\">a) Căn cứ dự toán chi ngân sách cho công tác nạo\nvét, duy tu luồng hàng hải hàng năm được cấp có thẩm quyền giao, Bộ Giao thông\nvận tải lập phương án phân bổ dự toán chi công tác nạo vét, duy tu chi tiết cho\ntừng luồng hàng hải, gửi Bộ Tài chính thẩm định theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">b) Sau khi có ý kiến thẩm định của Bộ Tài chính về\nphương án phân bổ dự toán chi ngân sách nhà nước, Bộ Giao thông vận tải giao dự\ntoán cho Cục Hàng hải Việt Nam trước ngày 31 tháng 12 của năm trước để Cục Hàng\nhải Việt Nam triển khai thực hiện; đồng thời gửi Bộ Tài chính, Kho bạc nhà nước\nnơi đơn vị mở tài khoản giao dịch để <span style=\"background:white\">phối hợp</span>\nthực hiện.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Ký hợp đồng cung ứng dịch\nvụ công ích nạo vét, duy tu luồng hàng hải</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Căn cứ dự toán ngân sách nhà nước được Bộ Giao\nthông vận tải giao, Cục Hàng hải Việt Nam thực hiện ký <span style=\"background:\nwhite\">hợp đồng</span> cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải\nvới các Tổng công ty Bảo đảm an toàn hàng hải và tổ chức lựa chọn, ký <span style=\"background:white\">hợp đồng</span> với các đơn vị tư vấn khảo sát đo đạc,\ntư vấn giám sát theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">2. Căn cứ hợp đồng ký với Cục Hàng hải Việt Nam\ntheo Khoản 1 Điều này, các Tổng công ty Bảo đảm an toàn hàng hải tổ chức lựa chọn,\nký hợp đồng với các đơn vị tư vấn và nhà thầu thi công nạo vét, duy tu luồng\nhàng hải theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">3. Nội dung chủ yếu của <span style=\"background:\nwhite\">hợp đồng</span> cung ứng sản phẩm, dịch vụ công ích nạo vét, duy tu luồng\nhàng hải:</p>\n\n<p style=\"margin-top:6.0pt\">a) Tên luồng hàng hải thực hiện duy tu, nạo vét\ntrong năm;</p>\n\n<p style=\"margin-top:6.0pt\">b) Giá trị <span style=\"background:white\">hợp đồng</span>,\nđơn giá <span style=\"background:white\">hợp đồng</span>;</p>\n\n<p style=\"margin-top:6.0pt\">c) Khối lượng, chất lượng thực hiện;</p>\n\n<p style=\"margin-top:6.0pt\">d) Thời gian thực hiện;</p>\n\n<p style=\"margin-top:6.0pt\">e) Phương thức tạm ứng, nghiệm thu, thanh quyết\ntoán;</p>\n\n<p style=\"margin-top:6.0pt\">g) Trách nhiệm và nghĩa vụ của các bên;</p>\n\n<p style=\"margin-top:6.0pt\">h) Các nội dung khác có liên quan theo quy định của\npháp luật.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Tạm ứng, thanh toán <span style=\"background:white\">kinh</span> phí thực hiện cung ứng dịch vụ công ích nạo\nvét, duy tu luồng hàng hải</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ dự toán chi ngân sách nhà nước cho công tác\nnạo vét, duy tu luồng hàng hải được giao, Cục Hàng hải Việt Nam thực hiện rút dự\ntoán tại Kho bạc nhà nước để tạm ứng, thanh toán kinh phí cho các Tổng công ty\nBảo đảm an toàn hàng hải và các đơn vị tư vấn theo hợp đồng đã ký. Kho bạc nhà\nnước nơi giao dịch kiểm tra hồ sơ, thực hiện kiểm soát chi theo quy định trước\nkhi tạm ứng, thanh toán theo hợp đồng đã ký giữa Cục Hàng hải Việt Nam với các\nTổng công ty Bảo đảm an toàn hàng hải và các <span style=\"background:white\">đơn\nvị</span> tư vấn khảo sát đo đạc, tư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">1. Tạm ứng kinh phí</p>\n\n<p style=\"margin-top:6.0pt\">Sau khi ký hợp đồng cung ứng dịch vụ công ích nạo\nvét, duy tu luồng hàng hải, các <span style=\"background:white\">Tổng</span> công\nty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám\nsát được tạm ứng không quá 30% giá trị <span style=\"background:white\">hợp đồng</span>\nvà không quá 30% dự toán bố trí cho công tác nạo vét, duy tu luồng hàng hải được\ncấp có <span style=\"background:white\">thẩm quyền</span> giao.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thanh toán kinh phí</p>\n\n<p style=\"margin-top:6.0pt\">Sau khi công trình nạo vét, duy tu luồng hàng hải\nhoàn thành được nghiệm thu, Cục Hàng hải Việt Nam thực hiện thu hồi tiền tạm ứng\nvà thanh toán giá trị khối lượng nạo vét, duy tu luồng hàng hải hoàn thành cho\ncác Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc,\ntư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">3. Các <span style=\"background:white\">Tổng</span>\ncông ty Bảo đảm an toàn hàng hải có trách nhiệm tạm ứng và thanh toán đầy đủ, kịp\nthời cho các nhà thầu theo quy định tại hợp đồng do các <span style=\"background:\nwhite\">Tổng</span> công ty đã ký kết sau khi nhận được kinh phí từ Kho bạc nhà\nnước chuyển về tài khoản của Tổng công ty.</p>\n\n<p style=\"margin-top:6.0pt\">4. Hồ sơ tạm ứng và thanh toán kinh phí</p>\n\n<p style=\"margin-top:6.0pt\">a) Hồ sơ tạm ứng kinh phí:</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định giao dự toán chi của Bộ Giao thông vận\ntải.</p>\n\n<p style=\"margin-top:6.0pt\">- Hợp đồng cung ứng dịch vụ công ích nạo vét, duy\ntu luồng hàng hải.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy rút dự toán ngân sách nhà nước (tạm ứng) của\nCục Hàng hải Việt Nam, trong đó ghi rõ nội dung tạm ứng để Kho bạc nhà nước có\ncăn cứ kiểm soát và theo dõi khi thanh toán.</p>\n\n<p style=\"margin-top:6.0pt\">b) Hồ sơ thanh toán kinh phí:</p>\n\n<p style=\"margin-top:6.0pt\">Khi có khối lượng hoàn thành được nghiệm thu theo hợp\nđồng, chủ đầu tư lập hồ sơ đề nghị thanh toán và gửi đến Kho bạc nhà nước, hồ\nsơ gồm:</p>\n\n<p style=\"margin-top:6.0pt\">- Biên bản nghiệm thu khối lượng, chất lượng công\nviệc hoàn thành ký giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an\ntoàn hàng hải và Biên bản nghiệm thu khối lượng, chất lượng công việc hoàn\nthành ký giữa Cục Hàng hải Việt Nam và các đơn vị tư vấn khảo sát đo đạc, tư vấn\ngiám sát.</p>\n\n<p style=\"margin-top:6.0pt\">- Bản xác định giá trị khối lượng công việc hoàn\nthành có xác nhận giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an\ntoàn hàng hải và Bản xác định giá trị khối lượng công việc hoàn thành có xác nhận\ngiữa Cục Hàng hải Việt Nam và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám\nsát.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy đề nghị thanh toán hoặc thu hồi tạm ứng của\ncác Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc,\ntư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy đề nghị thanh toán hoặc thu hồi tạm ứng của\ncác Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc,\ntư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy rút dự toán ngân sách nhà nước của Cục Hàng\nhải Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt\">- Hồ sơ chứng từ hợp pháp khác theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b>Điều 8. Tạm ứng, thanh toán <span style=\"background:white\">kinh</span> phí nạo vét, duy tu luồng Hải Phòng và luồng\nSài Gòn - Vũng Tàu theo cơ chế đấu thầu rộng rãi với hợp đồng trọn gói</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Tạm ứng kinh phí:</p>\n\n<p style=\"margin-top:6.0pt\">Sau khi ký hợp đồng, Cục Hàng hải Việt Nam thực hiện\ntạm ứng cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo\nsát đo đạc, tư vấn giám sát không quá 30% giá trị hợp đồng và không quá 30% dự\ntoán chi ngân sách của năm kế hoạch đối với tuyến luồng đó.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thanh toán kinh phí:</p>\n\n<p style=\"margin-top:6.0pt\">Sau mỗi đợt nghiệm thu, Cục Hàng hải Việt Nam thanh\ntoán cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo\nsát đo đạc, tư vấn giám sát, đồng thời thực hiện thu hồi tiền tạm ứng theo quy\nđịnh trong <span style=\"background:white\">hợp đồng</span> đã ký kết. Kết thúc\nnăm kế hoạch, căn cứ Biên bản nghiệm thu năm, Cục Hàng hải Việt Nam thực hiện\nthanh toán và thu hồi hết tạm ứng trong năm cho các Tổng công ty Bảo đảm an\ntoàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">3. Các Tổng công ty Bảo đảm an toàn hàng hải có\ntrách nhiệm tạm ứng và thanh toán đầy đủ, kịp thời cho các nhà thầu theo quy định\ntại <span style=\"background:white\">hợp đồng</span> do các Tổng công ty đã ký kết\nsau khi nhận được kinh phí từ Kho bạc nhà nước chuyển về tài khoản của Tổng\ncông ty.</p>\n\n<p style=\"margin-top:6.0pt\">4. Hồ sơ tạm ứng và thanh toán kinh phí</p>\n\n<p style=\"margin-top:6.0pt\">a) Hồ sơ tạm ứng kinh phí:</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định giao dự toán chi của Bộ Giao thông vận\ntải.</p>\n\n<p style=\"margin-top:6.0pt\">- Hợp đồng cung ứng dịch vụ công ích nạo vét, duy\ntu luồng hàng hải.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy rút dự toán ngân sách nhà nước (tạm ứng) của\nCục Hàng hải Việt Nam, trong đó ghi rõ nội dung tạm ứng để Kho bạc nhà nước có\ncăn cứ kiểm soát và theo dõi khi thanh toán.</p>\n\n<p style=\"margin-top:6.0pt\">b) Hồ sơ thanh toán kinh phí:</p>\n\n<p style=\"margin-top:6.0pt\">- Bản xác định giá trị khối lượng công việc hoàn\nthành có xác nhận giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an\ntoàn hàng hải và Bản xác định giá trị khối lượng công việc hoàn thành có xác nhận\ngiữa Cục Hàng hải Việt Nam và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám\nsát.</p>\n\n<p style=\"margin-top:6.0pt\">- Biên bản nghiệm thu giai đoạn ký giữa Cục Hàng hải\nViệt Nam và các Tổng công ty Bảo đảm an toàn hàng hải và Biên bản nghiệm thu giai\nđoạn ký được ký kết giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an\ntoàn hàng hải.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy đề nghị thanh toán hoặc thu hồi tạm ứng của\ncác Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc,\ntư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy rút dự toán ngân sách nhà nước của Cục Hàng\nhải Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt\">- Hồ sơ chứng từ <span style=\"background:white\">hợp\npháp</span> khác theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">5. Thanh toán khi kết thúc hợp đồng</p>\n\n<p style=\"margin-top:6.0pt\">Hồ sơ thanh toán gồm:</p>\n\n<p style=\"margin-top:6.0pt\">- Biên bản nghiệm thu kết quả bảo đảm chuẩn tắc thiết\nkế của tuyến luồng đối với hạng mục thi công nạo vét, duy tu luồng hàng hải;\nBiên bản nghiệm thu khối lượng hoàn thành đối với các hạng mục khác.</p>\n\n<p style=\"margin-top:6.0pt\">- Biên bản nghiệm thu sản phẩm, dịch vụ công ích của\nCục Hàng hải Việt Nam với các <span style=\"background:white\">Tổng</span> công\nty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám\nsát.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy rút dự toán ngân sách nhà nước của Cục Hàng\nhải Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt\">- Giấy đề nghị thanh toán của các Tổng công ty Bảo\nđảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">6. Các đơn vị cung ứng dịch vụ nạo vét, duy tu luồng\nhàng hải có trách nhiệm bảo đảm duy trì chuẩn tắc thiết kế tuyến luồng hàng hải\ntrong suốt thời gian thực hiện <span style=\"background:white\">Hợp đồng</span>\ntrọn gói và không điều chỉnh kinh phí thực hiện.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Quyết toán nguồn kinh\nphí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Cục Hàng hải Việt Nam có trách nhiệm lập báo cáo\nquyết toán nguồn kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu\nluồng hàng hải theo quy định của Luật Ngân sách nhà nước; tổng hợp chung trong\nbáo cáo quyết toán của Cục Hàng hải Việt Nam, gửi Bộ Giao thông vận tải. Bộ\nGiao thông vận tải thẩm định quyết toán của Cục Hàng hải Việt Nam và tổng hợp\nchung trong báo cáo quyết toán của Bộ Giao thông vận tải, gửi Bộ Tài chính <span style=\"background:white\">thẩm định</span> theo quy định của Luật Ngân sách nhà\nnước.</p>\n\n<p style=\"margin-top:6.0pt\">2. Trường hợp đến ngày 31 tháng 12 hàng năm, khối\nlượng dịch vụ nạo vét, duy tu luồng hàng hải đã hoàn thành và nghiệm thu theo hợp\nđồng nhưng chưa hoàn thiện thủ tục, hồ sơ thanh toán thì được thanh toán tiếp\ntrong thời gian chỉnh lý quyết toán theo đúng quy định hiện hành và tổng <span style=\"background:white\">hợp quy</span>ết toán vào niên độ ngân sách năm trước.</p>\n\n<p style=\"margin-top:6.0pt\">3. Ngoài việc quyết toán kinh phí hàng năm, khi\ncông trình hoàn thành, Cục Hàng hải Việt Nam thực hiện thẩm tra phê duyệt quyết\ntoán công trình hoàn thành theo các quy định về đầu tư xây dựng cơ bản thuộc\nnguồn vốn nhà nước. <span style=\"background:white\">Trường hợp</span> kết quả\nphê duyệt quyết toán công trình hoàn thành nếu có chênh lệch với giá trị quyết\ntoán ngân sách hàng năm, Cục Hàng hải Việt Nam tiến hành điều chỉnh quyết toán <span style=\"background:white\">phù hợp</span> với quyết toán năm ngân sách tương ứng.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">HIỆU LỰC THI HÀNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Hiệu lực thi hành</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thông tư này có hiệu lực thi hành kể từ ngày\n15/06/2015 và áp dụng đến hết năm ngân sách 2016.</p>\n\n<p style=\"margin-top:6.0pt\">2. Bãi bỏ các quy định tại <a name=\"dc_115\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-873002')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-873002')\" atmm=\".lqhlTootip-873002\" onmouseout=\"hideddrivetip();\">Điều\n11, Điều 13 và Điều 15 Thông tư số 119/2010/TT-BTC</a> ngày 10/08/2010 của Bộ\nTài chính hướng dẫn về thu, quản lý, sử dụng nguồn thu phí bảo đảm hàng hải và\ncơ chế tài chính trong lĩnh vực cung ứng dịch vụ công ích bảo đảm an toàn hàng\nhải.</p>\n\n<p style=\"margin-top:6.0pt\">3. Trong quá trình thực hiện, nếu có vướng mắc đề\nnghị các đơn vị phản ánh về Bộ Tài chính để xem xét, giải quyết./.</p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADAANwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:8.0pt\"> </span></i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Thủ tướng, các Phó Thủ tướng <span style=\"background:white\">Chính phủ</span>;<br>\n  - Văn phòng Tổng Bí thư;<br>\n  - Văn phòng Trung ương Đảng;<br>\n  - Văn phòng Quốc hội; <span style=\"background:white\">Văn</span> phòng Chủ tịch\n  nước;<br>\n  - Văn phòng Chính phủ;<br>\n  - Văn phòng BCĐ TW về phòng chống tham nhũng;<br>\n  - Tòa án nhân dân tối cao;<br>\n  - Viện kiểm sát nhân dân tối cao;<br>\n  - Kiểm toán nhà nước;<br>\n  - Bộ Giao thông vận tải;<br>\n  - Cục Hàng hải Việt Nam;<br>\n  - Cục Kiểm tra văn bản (Bộ Tư pháp);<br>\n  - Cục thuế, KBNN các tỉnh, TP;<br>\n  - TCT BĐATHH MB; TCT BĐATHH MN;<br>\n  - Công báo;<br>\n  - Cổng TTĐT Chính phủ;<br>\n  - Trang TTĐT Bộ Giao thông vận tải;<br>\n  - Website Bộ Tài chính;<br>\n  - Các đơn vị thuộc và trực thuộc Bộ GTVT, BTC;<br>\n  - Lưu: VT, Cục TCDN.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. BỘ TRƯỞNG<br>\n  THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Văn Hiếu</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b> </b></p>\n\n",
+  "mdContent": "**BỘ TÀI CHÍNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 58/2015/TT-BTC\n\n_Hà Nội, ngày 25 tháng 04 năm 2015_\n\n**THÔNG TƯ**\n\nHƯỚNG DẪN LẬP, PHÂN BỔ DỰ TOÁN, THANH TOÁN, QUYẾT TOÁN KINH PHÍ THỰC HIỆN CUNG ỨNG DỊCH VỤ CÔNG ÍCH NẠO VÉT, DUY TU CÁC TUYẾN LUỒNG HÀNG HẢI DO BỘ GIAO THÔNG VẬN TẢI QUẢN LÝ\n\n_Căn cứ Nghị định số [60/2003/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-60-2003-nd-cp-quy-dinh-chi-tiet-huong-dan-thi-hanh-luat-ngan-sach-nha-nuoc-51008.aspx \"Nghị định 60/2003/NĐ-CP\") ngày 06 tháng 06 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước;_\n\n_Căn cứ Nghị định số [12/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-85068.aspx \"Nghị định 12/2009/NĐ-CP\") ngày 10 tháng 02 năm 2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;_\n\n_Căn cứ Nghị định số [83/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-83-2009-nd-cp-sua-doi-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-96234.aspx \"Nghị định 83/2009/NĐ-CP\") ngày 15 tháng 10 năm 2009 về sửa đổi, bổ sung một số điều của Nghị định số 12/2009/NĐ-CP ngày 10 tháng 02 năm 2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;_\n\n_Căn cứ Nghị định số [32/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-32-2015-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-269169.aspx \"Nghị định 32/2015/NĐ-CP\") ngày 25 tháng 03 năm 2015 của Chính phủ về quản lý chi phí đầu tư xây dựng;_\n\n_Căn cứ Nghị định số [130/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-130-2013-nd-cp-san-xuat-cung-ung-san-pham-dich-vu-cong-ich-210030.aspx \"Nghị định 130/2013/NĐ-CP\") ngày 16 tháng 10 năm 2013 của Chính phủ về sản xuất và cung ứng sản phẩm, dịch vụ công ích;_\n\n_Căn cứ Nghị định số [215/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-215-2013-nd-cp-chuc-nang-quyen-han-co-cau-to-chuc-bo-tai-chinh-217183.aspx \"Nghị định 215/2013/NĐ-CP\") ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;_\n\n_Căn cứ Quyết định số [73/2013/QĐ-TTg](https://thuvienphapluat.vn/van-ban/giao-thong-van-tai/quyet-dinh-73-2013-qd-ttg-thi-diem-thuc-hien-co-che-nao-vet-duy-tu-tuyen-luong-hang-hai-214590.aspx \"Quyết định 73/2013/QĐ-TTg\") ngày 27 tháng 11 năm 2013 của Thủ tướng Chính phủ về việc thí điểm thực hiện cơ chế nạo vét, duy tu các tuyến luồng hàng hải do Bộ Giao thông vận tải quản lý;_\n\n_Xét đề nghị của Cục trưởng Cục Tài chính doanh nghiệp;_\n\n_Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn lập, phân bổ dự toán, thanh toán, quyết toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu các tuyến luồng hàng hải do Bộ Giao thông vận tải quản lý._\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\n1\\. Thông tư này hướng dẫn lập, phân bổ dự toán, thanh toán, quyết toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu các tuyến luồng hàng hải do Bộ Giao thông vận tải quản lý (sau đây gọi là luồng hàng hải) sử dụng nguồn vốn ngân sách nhà nước.\n\n2\\. Thông tư này không áp dụng đối với hoạt động nạo vét của công tác đầu tư xây dựng mới luồng hàng hải và hoạt động nạo vét nâng cấp luồng hàng hải làm thay đổi chuẩn tắc thiết kế của tuyến luồng đã được phê duyệt.\n\n**Điều 2. Đối tượng áp dụng**\n\nThông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến công tác nạo vét, duy tu luồng hàng hải, bao gồm:\n\n1\\. Cục Hàng hải Việt Nam.\n\n2\\. Tổng công ty Bảo đảm an toàn hàng hải miền Bắc, Tổng công ty Bảo đảm an toàn hàng hải miền Nam (sau đây gọi là các Tổng công ty Bảo đảm an toàn hàng hải).\n\n3\\. Các tổ chức, cá nhân trong nước và nước ngoài có đủ điều kiện cung ứng dịch vụ nạo vét, duy tu luồng hàng hải theo quy định của pháp luật.\n\n4\\. Các cơ quan quản lý nhà nước có liên quan.\n\n**Điều 3. Kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải**\n\nNhà nước đảm bảo kinh phí thực hiện công tác nạo vét, duy tu luồng hàng hải quan trọng theo quy định và các tuyến luồng không huy động được vốn xã hội hóa từ nguồn vốn ngân sách nhà nước.\n\n**Điều 4. Đơn giá dịch vụ công ích nạo vét, duy tu luồng hàng hải**\n\nĐơn giá dịch vụ công ích nạo vét, duy tu luồng hàng hải thực hiện theo quy định của pháp luật hiện hành về quản lý chi phí đầu tư xây dựng cơ bản.\n\n**Chương II**\n\n**LẬP, PHÂN BỔ DỰ TOÁN, THANH TOÁN, QUYẾT TOÁN KINH PHÍ THỰC HIỆN CUNG ỨNG DỊCH VỤ CÔNG ÍCH NẠO VÉT, DUY TU LUỒNG HÀNG HẢI**\n\n**Điều 5. Lập, phân bổ và giao dự toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải**\n\n1\\. Lập dự toán:\n\na) Hàng năm, căn cứ vào khối lượng dịch vụ công ích nạo vét, duy tu luồng hàng hải, các Tổng công ty Bảo đảm an toàn hàng hải đề xuất kế hoạch nạo vét và dự toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải cho năm tiếp theo gửi Cục Hàng hải Việt Nam.\n\nb) Trên cơ sở dự toán kinh phí thực hiện nhiệm vụ cho năm tiếp theo do Cục Hàng hải Việt Nam trình và kế hoạch bảo trì nạo vét, duy tu luồng hàng hải bằng nguồn vốn sự nghiệp kinh tế được duyệt, Bộ Giao thông vận tải tổng hợp dự toán chi ngân sách nhà nước hàng năm cho công tác nạo vét, duy tu luồng hàng hải, gửi Bộ Tài chính xem xét, tổng hợp trình cấp có thẩm quyền quyết định.\n\n2\\. Phân bổ và giao dự toán:\n\na) Căn cứ dự toán chi ngân sách cho công tác nạo vét, duy tu luồng hàng hải hàng năm được cấp có thẩm quyền giao, Bộ Giao thông vận tải lập phương án phân bổ dự toán chi công tác nạo vét, duy tu chi tiết cho từng luồng hàng hải, gửi Bộ Tài chính thẩm định theo quy định.\n\nb) Sau khi có ý kiến thẩm định của Bộ Tài chính về phương án phân bổ dự toán chi ngân sách nhà nước, Bộ Giao thông vận tải giao dự toán cho Cục Hàng hải Việt Nam trước ngày 31 tháng 12 của năm trước để Cục Hàng hải Việt Nam triển khai thực hiện; đồng thời gửi Bộ Tài chính, Kho bạc nhà nước nơi đơn vị mở tài khoản giao dịch để phối hợp thực hiện.\n\n**Điều 6. Ký hợp đồng cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải**\n\n1\\. Căn cứ dự toán ngân sách nhà nước được Bộ Giao thông vận tải giao, Cục Hàng hải Việt Nam thực hiện ký hợp đồng cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải với các Tổng công ty Bảo đảm an toàn hàng hải và tổ chức lựa chọn, ký hợp đồng với các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát theo quy định.\n\n2\\. Căn cứ hợp đồng ký với Cục Hàng hải Việt Nam theo Khoản 1 Điều này, các Tổng công ty Bảo đảm an toàn hàng hải tổ chức lựa chọn, ký hợp đồng với các đơn vị tư vấn và nhà thầu thi công nạo vét, duy tu luồng hàng hải theo quy định.\n\n3\\. Nội dung chủ yếu của hợp đồng cung ứng sản phẩm, dịch vụ công ích nạo vét, duy tu luồng hàng hải:\n\na) Tên luồng hàng hải thực hiện duy tu, nạo vét trong năm;\n\nb) Giá trị hợp đồng, đơn giá hợp đồng;\n\nc) Khối lượng, chất lượng thực hiện;\n\nd) Thời gian thực hiện;\n\ne) Phương thức tạm ứng, nghiệm thu, thanh quyết toán;\n\ng) Trách nhiệm và nghĩa vụ của các bên;\n\nh) Các nội dung khác có liên quan theo quy định của pháp luật.\n\n**Điều 7. Tạm ứng, thanh toán kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải**\n\nCăn cứ dự toán chi ngân sách nhà nước cho công tác nạo vét, duy tu luồng hàng hải được giao, Cục Hàng hải Việt Nam thực hiện rút dự toán tại Kho bạc nhà nước để tạm ứng, thanh toán kinh phí cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn theo hợp đồng đã ký. Kho bạc nhà nước nơi giao dịch kiểm tra hồ sơ, thực hiện kiểm soát chi theo quy định trước khi tạm ứng, thanh toán theo hợp đồng đã ký giữa Cục Hàng hải Việt Nam với các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n1\\. Tạm ứng kinh phí\n\nSau khi ký hợp đồng cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải, các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát được tạm ứng không quá 30% giá trị hợp đồng và không quá 30% dự toán bố trí cho công tác nạo vét, duy tu luồng hàng hải được cấp có thẩm quyền giao.\n\n2\\. Thanh toán kinh phí\n\nSau khi công trình nạo vét, duy tu luồng hàng hải hoàn thành được nghiệm thu, Cục Hàng hải Việt Nam thực hiện thu hồi tiền tạm ứng và thanh toán giá trị khối lượng nạo vét, duy tu luồng hàng hải hoàn thành cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n3\\. Các Tổng công ty Bảo đảm an toàn hàng hải có trách nhiệm tạm ứng và thanh toán đầy đủ, kịp thời cho các nhà thầu theo quy định tại hợp đồng do các Tổng công ty đã ký kết sau khi nhận được kinh phí từ Kho bạc nhà nước chuyển về tài khoản của Tổng công ty.\n\n4\\. Hồ sơ tạm ứng và thanh toán kinh phí\n\na) Hồ sơ tạm ứng kinh phí:\n\n\\- Quyết định giao dự toán chi của Bộ Giao thông vận tải.\n\n\\- Hợp đồng cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải.\n\n\\- Giấy rút dự toán ngân sách nhà nước (tạm ứng) của Cục Hàng hải Việt Nam, trong đó ghi rõ nội dung tạm ứng để Kho bạc nhà nước có căn cứ kiểm soát và theo dõi khi thanh toán.\n\nb) Hồ sơ thanh toán kinh phí:\n\nKhi có khối lượng hoàn thành được nghiệm thu theo hợp đồng, chủ đầu tư lập hồ sơ đề nghị thanh toán và gửi đến Kho bạc nhà nước, hồ sơ gồm:\n\n\\- Biên bản nghiệm thu khối lượng, chất lượng công việc hoàn thành ký giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an toàn hàng hải và Biên bản nghiệm thu khối lượng, chất lượng công việc hoàn thành ký giữa Cục Hàng hải Việt Nam và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Bản xác định giá trị khối lượng công việc hoàn thành có xác nhận giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an toàn hàng hải và Bản xác định giá trị khối lượng công việc hoàn thành có xác nhận giữa Cục Hàng hải Việt Nam và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Giấy đề nghị thanh toán hoặc thu hồi tạm ứng của các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Giấy đề nghị thanh toán hoặc thu hồi tạm ứng của các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Giấy rút dự toán ngân sách nhà nước của Cục Hàng hải Việt Nam.\n\n\\- Hồ sơ chứng từ hợp pháp khác theo quy định.\n\n**Điều 8. Tạm ứng, thanh toán kinh phí nạo vét, duy tu luồng Hải Phòng và luồng Sài Gòn - Vũng Tàu theo cơ chế đấu thầu rộng rãi với hợp đồng trọn gói**\n\n1\\. Tạm ứng kinh phí:\n\nSau khi ký hợp đồng, Cục Hàng hải Việt Nam thực hiện tạm ứng cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát không quá 30% giá trị hợp đồng và không quá 30% dự toán chi ngân sách của năm kế hoạch đối với tuyến luồng đó.\n\n2\\. Thanh toán kinh phí:\n\nSau mỗi đợt nghiệm thu, Cục Hàng hải Việt Nam thanh toán cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát, đồng thời thực hiện thu hồi tiền tạm ứng theo quy định trong hợp đồng đã ký kết. Kết thúc năm kế hoạch, căn cứ Biên bản nghiệm thu năm, Cục Hàng hải Việt Nam thực hiện thanh toán và thu hồi hết tạm ứng trong năm cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n3\\. Các Tổng công ty Bảo đảm an toàn hàng hải có trách nhiệm tạm ứng và thanh toán đầy đủ, kịp thời cho các nhà thầu theo quy định tại hợp đồng do các Tổng công ty đã ký kết sau khi nhận được kinh phí từ Kho bạc nhà nước chuyển về tài khoản của Tổng công ty.\n\n4\\. Hồ sơ tạm ứng và thanh toán kinh phí\n\na) Hồ sơ tạm ứng kinh phí:\n\n\\- Quyết định giao dự toán chi của Bộ Giao thông vận tải.\n\n\\- Hợp đồng cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải.\n\n\\- Giấy rút dự toán ngân sách nhà nước (tạm ứng) của Cục Hàng hải Việt Nam, trong đó ghi rõ nội dung tạm ứng để Kho bạc nhà nước có căn cứ kiểm soát và theo dõi khi thanh toán.\n\nb) Hồ sơ thanh toán kinh phí:\n\n\\- Bản xác định giá trị khối lượng công việc hoàn thành có xác nhận giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an toàn hàng hải và Bản xác định giá trị khối lượng công việc hoàn thành có xác nhận giữa Cục Hàng hải Việt Nam và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Biên bản nghiệm thu giai đoạn ký giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an toàn hàng hải và Biên bản nghiệm thu giai đoạn ký được ký kết giữa Cục Hàng hải Việt Nam và các Tổng công ty Bảo đảm an toàn hàng hải.\n\n\\- Giấy đề nghị thanh toán hoặc thu hồi tạm ứng của các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Giấy rút dự toán ngân sách nhà nước của Cục Hàng hải Việt Nam.\n\n\\- Hồ sơ chứng từ hợp pháp khác theo quy định.\n\n5\\. Thanh toán khi kết thúc hợp đồng\n\nHồ sơ thanh toán gồm:\n\n\\- Biên bản nghiệm thu kết quả bảo đảm chuẩn tắc thiết kế của tuyến luồng đối với hạng mục thi công nạo vét, duy tu luồng hàng hải; Biên bản nghiệm thu khối lượng hoàn thành đối với các hạng mục khác.\n\n\\- Biên bản nghiệm thu sản phẩm, dịch vụ công ích của Cục Hàng hải Việt Nam với các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n\\- Giấy rút dự toán ngân sách nhà nước của Cục Hàng hải Việt Nam.\n\n\\- Giấy đề nghị thanh toán của các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị tư vấn khảo sát đo đạc, tư vấn giám sát.\n\n6\\. Các đơn vị cung ứng dịch vụ nạo vét, duy tu luồng hàng hải có trách nhiệm bảo đảm duy trì chuẩn tắc thiết kế tuyến luồng hàng hải trong suốt thời gian thực hiện Hợp đồng trọn gói và không điều chỉnh kinh phí thực hiện.\n\n**Điều 9. Quyết toán nguồn kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải**\n\n1\\. Cục Hàng hải Việt Nam có trách nhiệm lập báo cáo quyết toán nguồn kinh phí thực hiện cung ứng dịch vụ công ích nạo vét, duy tu luồng hàng hải theo quy định của Luật Ngân sách nhà nước; tổng hợp chung trong báo cáo quyết toán của Cục Hàng hải Việt Nam, gửi Bộ Giao thông vận tải. Bộ Giao thông vận tải thẩm định quyết toán của Cục Hàng hải Việt Nam và tổng hợp chung trong báo cáo quyết toán của Bộ Giao thông vận tải, gửi Bộ Tài chính thẩm định theo quy định của Luật Ngân sách nhà nước.\n\n2\\. Trường hợp đến ngày 31 tháng 12 hàng năm, khối lượng dịch vụ nạo vét, duy tu luồng hàng hải đã hoàn thành và nghiệm thu theo hợp đồng nhưng chưa hoàn thiện thủ tục, hồ sơ thanh toán thì được thanh toán tiếp trong thời gian chỉnh lý quyết toán theo đúng quy định hiện hành và tổng hợp quyết toán vào niên độ ngân sách năm trước.\n\n3\\. Ngoài việc quyết toán kinh phí hàng năm, khi công trình hoàn thành, Cục Hàng hải Việt Nam thực hiện thẩm tra phê duyệt quyết toán công trình hoàn thành theo các quy định về đầu tư xây dựng cơ bản thuộc nguồn vốn nhà nước. Trường hợp kết quả phê duyệt quyết toán công trình hoàn thành nếu có chênh lệch với giá trị quyết toán ngân sách hàng năm, Cục Hàng hải Việt Nam tiến hành điều chỉnh quyết toán phù hợp với quyết toán năm ngân sách tương ứng.\n\n**Chương III**\n\n**HIỆU LỰC THI HÀNH**\n\n**Điều 11. Hiệu lực thi hành**\n\n1\\. Thông tư này có hiệu lực thi hành kể từ ngày 15/06/2015 và áp dụng đến hết năm ngân sách 2016.\n\n2\\. Bãi bỏ các quy định tại Điều 11, Điều 13 và Điều 15 Thông tư số 119/2010/TT-BTC ngày 10/08/2010 của Bộ Tài chính hướng dẫn về thu, quản lý, sử dụng nguồn thu phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ công ích bảo đảm an toàn hàng hải.\n\n3\\. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các đơn vị phản ánh về Bộ Tài chính để xem xét, giải quyết./.\n\n**_Nơi nhận:  \n_**\\- Thủ tướng, các Phó Thủ tướng Chính phủ;  \n\\- Văn phòng Tổng Bí thư;  \n\\- Văn phòng Trung ương Đảng;  \n\\- Văn phòng Quốc hội; Văn phòng Chủ tịch nước;  \n\\- Văn phòng Chính phủ;  \n\\- Văn phòng BCĐ TW về phòng chống tham nhũng;  \n\\- Tòa án nhân dân tối cao;  \n\\- Viện kiểm sát nhân dân tối cao;  \n\\- Kiểm toán nhà nước;  \n\\- Bộ Giao thông vận tải;  \n\\- Cục Hàng hải Việt Nam;  \n\\- Cục Kiểm tra văn bản (Bộ Tư pháp);  \n\\- Cục thuế, KBNN các tỉnh, TP;  \n\\- TCT BĐATHH MB; TCT BĐATHH MN;  \n\\- Công báo;  \n\\- Cổng TTĐT Chính phủ;  \n\\- Trang TTĐT Bộ Giao thông vận tải;  \n\\- Website Bộ Tài chính;  \n\\- Các đơn vị thuộc và trực thuộc Bộ GTVT, BTC;  \n\\- Lưu: VT, Cục TCDN.\n\n**KT. BỘ TRƯỞNG  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nTrần Văn Hiếu**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

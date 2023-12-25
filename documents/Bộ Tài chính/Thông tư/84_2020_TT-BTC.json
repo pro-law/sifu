@@ -1,0 +1,832 @@
+{
+  "title": "Thông tư 84/2020/TT-BTC sửa đổi quy định về chế độ báo cáo định kỳ thuộc thẩm quyền quyết định của Bộ trưởng Bộ Tài chính trong lĩnh vực tài chính ngân hàng",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [
+    {
+      "title": "Thông tư 15/2019/TT-BTC hướng dẫn cơ chế quản lý tài chính và đánh giá hiệu quả hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "15/2019/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2019-03-18",
+      "effectiveDate": "2019-06-01",
+      "gazetteDate": "2019-05-18",
+      "gazetteNumber": "Từ số 443 đến số 444",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 18/2018/TT-BTC về hướng dẫn chế độ tài chính đối với tổ chức tài chính vi mô do Bộ Tài chính ban hành",
+      "id": "18/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2018-02-12",
+      "effectiveDate": "2018-03-29",
+      "gazetteDate": "2018-03-24",
+      "gazetteNumber": "Từ số 473 đến số 474",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 19/2018/TT-BTC hướng dẫn về chế độ tài chính đối với Ngân hàng Hợp tác xã Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "19/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2018-02-12",
+      "effectiveDate": "2018-03-29",
+      "gazetteDate": "2018-03-25",
+      "gazetteNumber": "Từ số 477 đến số 478",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 20/2018/TT-BTC hướng dẫn về chế độ tài chính đối với quỹ tín dụng nhân dân do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "20/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2018-02-12",
+      "effectiveDate": "2018-03-29",
+      "gazetteDate": "2018-03-25",
+      "gazetteNumber": "Từ số 477 đến số 478",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 16/2018/TT-BTC hướng dẫn về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "16/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2018-02-07",
+      "effectiveDate": "2018-03-26",
+      "gazetteDate": "2018-03-21",
+      "gazetteNumber": "Từ số 461 đến số 462",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 102/2017/TT-BTC hướng dẫn quy định tại Nghị định 03/2017/NĐ-CP về kinh doanh casino do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "102/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-10-05",
+      "effectiveDate": "2017-12-01",
+      "gazetteDate": "2017-11-10",
+      "gazetteNumber": "Từ số 819 đến số 820",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 101/2017/TT-BTC hướng dẫn Nghị định 06/2017/NĐ-CP về kinh doanh đặt cược đua ngựa, đua chó và bóng đá quốc tế do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "101/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-10-04",
+      "effectiveDate": "2017-12-01",
+      "gazetteDate": "2017-11-09",
+      "gazetteNumber": "Từ số 817 đến số 818",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 86/2017/TT-BTC hướng dẫn thực hiện Nghị định 88/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về chương trình hưu trí bổ sung tự nguyện do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "86/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-08-15",
+      "effectiveDate": "2017-10-01",
+      "gazetteDate": "2017-09-21",
+      "gazetteNumber": "Từ số 695 đến số 696",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 53/2017/TT-BTC hướng dẫn Nghị định 69/2016/NĐ-CP về điều kiện kinh doanh dịch vụ mua bán nợ do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "53/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-05-19",
+      "effectiveDate": "2017-07-03",
+      "gazetteDate": "2017-06-20",
+      "gazetteNumber": "Từ số 455 đến số 456",
+      "status": "Hết hiệu lực: 23/08/2021"
+    },
+    {
+      "title": "Thông tư 08/2017/TT-BTC hướng dẫn quản lý và sử dụng tiền ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản tại Quỹ Bảo vệ môi trường do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "08/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-01-24",
+      "effectiveDate": "2017-03-10",
+      "gazetteDate": "2017-03-01",
+      "gazetteNumber": "Từ số 161 đến số 162",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 01/2017/TT-BTC hướng dẫn chế độ tài chính đối với Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "01/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-01-05",
+      "effectiveDate": "2017-02-21",
+      "gazetteDate": "2017-03-01",
+      "gazetteNumber": "Từ số 161 đến số 162",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 62/2016/TT-BTC hướng dẫn thực hiện Quy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội kèm theo Quyết định 180/2002/QĐ-TTg và 30/2015/QĐ-TTg do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "62/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2016-04-15",
+      "effectiveDate": "2016-06-01",
+      "gazetteDate": "2016-05-25",
+      "gazetteNumber": "Từ số 351 đến số 352",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 132/2015/TT-BTC về hướng dẫn cơ chế quản lý tài chính đối với Quỹ Bảo vệ môi trường Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "132/2015/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2015-08-28",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-09-30",
+      "gazetteNumber": "Từ số 1021 đến số 1022",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 28/2014/TT-BTC hướng dẫn cơ chế quản lý tài chính của Quỹ đầu tư phát triển địa phương do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "28/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Xuân Hà"
+      ],
+      "issuedDate": "2014-02-25",
+      "effectiveDate": "2014-04-12",
+      "gazetteDate": "2014-03-21",
+      "gazetteNumber": "Từ số 341 đến số 342",
+      "status": "Hết hiệu lực: 20/11/2021"
+    },
+    {
+      "title": "Thông tư 11/2014/TT-BTC hướng dẫn Nghị định 86/2013/NĐ-CP về kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "11/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Công Nghiệp"
+      ],
+      "issuedDate": "2014-01-17",
+      "effectiveDate": "2014-03-15",
+      "gazetteDate": "2014-02-07",
+      "gazetteNumber": "Từ số 173 đến số 174",
+      "status": "Hết hiệu lực: 08/08/2022"
+    },
+    {
+      "title": "Thông tư 195/2013/TT-BTC hướng dẫn chế độ tài chính của Ngân hàng Nhà nước Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "195/2013/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Xuân Hà"
+      ],
+      "issuedDate": "2013-12-18",
+      "effectiveDate": "2014-02-03",
+      "gazetteDate": "2014-01-06",
+      "gazetteNumber": "Từ số 27 đến số 28",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 111/2007/TT-BTC hướng dẫn thực hiện Quy chế quản lý tài chính đối với Ngân hàng phát triển Việt Nam do Bộ Tài chính ban hành",
+      "id": "111/2007/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Xuân Hà"
+      ],
+      "issuedDate": "2007-09-12",
+      "effectiveDate": "2007-10-10",
+      "gazetteDate": "2007-09-25",
+      "gazetteNumber": "Từ số 687 đến số 688",
+      "status": "Hết hiệu lực: 31/12/2021"
+    }
+  ],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 93/2017/NĐ-CP về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và giám sát tài chính, đánh giá hiệu quả đầu tư vốn nhà nước tại tổ chức tín dụng do Nhà nước nắm giữ 100% vốn điều lệ và tổ chức tín dụng có vốn nhà nước",
+      "id": "93/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-08-07",
+      "effectiveDate": "2017-09-25",
+      "gazetteDate": "2017-08-22",
+      "gazetteNumber": "Từ số 607 đến số 608",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 09/2019/NĐ-CP quy định về chế độ báo cáo của cơ quan hành chính nhà nước",
+      "id": "09/2019/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-01-24",
+      "effectiveDate": "2019-03-12",
+      "gazetteDate": "2019-02-10",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 87/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính",
+      "id": "87/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-07-26",
+      "effectiveDate": "2017-07-26",
+      "gazetteDate": "2017-08-07",
+      "gazetteNumber": "Từ số 573 đến số 574",
+      "status": "Hết hiệu lực: 15/05/2023"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [
+    {
+      "title": "Văn bản hợp nhất 60/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn về thực hiện quy chế quản lý tài chính đối với Ngân hàng phát triển Việt Nam do Bộ Tài chính ban hành",
+      "id": "60/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-21",
+      "gazetteNumber": "Từ số 95 đến số 96",
+      "status": "Hết hiệu lực: 31/12/2021"
+    },
+    {
+      "title": "Văn bản hợp nhất 51/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn một số Điều về chế độ tài chính đối với tổ chức tài chính vi mô do Bộ Tài chính ban hành",
+      "id": "51/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-19",
+      "gazetteNumber": "Từ số 85 đến số 86",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 54/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn Nghị định 86/2013/NĐ-CP về kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài do Bộ Tài chính ban hành",
+      "id": "54/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 87 đến số 88",
+      "status": "Hết hiệu lực: 08/08/2022"
+    },
+    {
+      "title": "Văn bản hợp nhất 55/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn Nghị định 06/2017/NĐ-CP về kinh doanh đặt cược đua ngựa, đua chó và bóng đá quốc tế do Bộ Tài chính ban hành",
+      "id": "55/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 87 đến số 88",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 65/VBHN-BTC hợp nhất Thông tư hướng dẫn chế độ tài chính đối với Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "65/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-21",
+      "gazetteNumber": "Từ số 95 đến số 96",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 56/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn Nghị định 03/2017/NĐ-CP về kinh doanh casino do Bộ Tài chính ban hành",
+      "id": "56/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 91 đến số 92",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 64/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn chế độ tài chính của Ngân hàng Nhà nước Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "64/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 91 đến số 92",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 49/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn thi hành Nghị định 69/2016/NĐ-CP về điều kiện kinh doanh dịch vụ mua bán nợ do Bộ Tài chính ban hành",
+      "id": "49/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-19",
+      "gazetteNumber": "Từ số 79 đến số 80",
+      "status": "Hết hiệu lực: 23/08/2021"
+    },
+    {
+      "title": "Văn bản hợp nhất 63/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn quản lý và sử dụng tiền ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản tại Quỹ Bảo vệ môi trường do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "63/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 87 đến số 88",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 50/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn một số Điều về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do Bộ Tài chính ban hành",
+      "id": "50/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-19",
+      "gazetteNumber": "Từ số 79 đến số 80",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 52/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn về chế độ tài chính đối với Ngân hàng Hợp tác xã Việt Nam do Bộ Tài chính ban hành",
+      "id": "52/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-19",
+      "gazetteNumber": "Từ số 85 đến số 86",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 62/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn cơ chế quản lý tài chính và đánh giá hiệu quả hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "62/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-21",
+      "gazetteNumber": "Từ số 95 đến số 96",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 53/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn một số điều về chế độ tài chính đối với quỹ tín dụng nhân dân do Bộ Tài chính ban hành",
+      "id": "53/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 87 đến số 88",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 61/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn cơ chế quản lý tài chính đối với Quỹ Bảo vệ môi trường Việt Nam do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "61/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-21",
+      "gazetteNumber": "Từ số 95 đến số 96",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 57/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn thực hiện Nghị định 88/2016/NĐ-CP về chương trình hưu trí bổ sung tự nguyện do Bộ Tài chính ban hành",
+      "id": "57/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 89 đến số 90",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Văn bản hợp nhất 58/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn cơ chế quản lý tài chính của Quỹ đầu tư phát triển địa phương do Bộ Tài chính ban hành",
+      "id": "58/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 91 đến số 92",
+      "status": "Hết hiệu lực: 20/11/2021"
+    },
+    {
+      "title": "Văn bản hợp nhất 59/VBHN-BTC năm 2020 hợp nhất Thông tư hướng dẫn thực hiện Quy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội kèm theo Quyết định 180/2002/QĐ-TTg và 30/2015/QĐ-TTg do Bộ Tài chính ban hành",
+      "id": "59/VBHN-BTC",
+      "legislationType": "Văn bản hợp nhất",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2020-12-31",
+      "gazetteDate": "2021-01-20",
+      "gazetteNumber": "Từ số 93 đến số 94",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "amendingDocuments": [
+    {
+      "title": "Thông tư 39/2022/TT-BTC hướng dẫn Nghị định 121/2021/NĐ-CP về kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "39/2022/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Đức Chi"
+      ],
+      "issuedDate": "2022-06-24",
+      "effectiveDate": "2022-08-08",
+      "gazetteDate": "2022-07-31",
+      "gazetteNumber": "Từ số 635 đến số 636",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 86/2021/TT-BTC hướng dẫn Nghị định 147/2020/NĐ-CP quy định về tổ chức và hoạt động của Quỹ đầu tư phát triển địa phương do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "86/2021/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Đức Chi"
+      ],
+      "issuedDate": "2021-10-06",
+      "effectiveDate": "2021-11-20",
+      "gazetteDate": "2021-10-29",
+      "gazetteNumber": "Từ số 921 đến số 922",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Dự thảo Nghị định quy định về Cơ chế thử nghiệm có kiểm soát hoạt động công nghệ tài chính trong lĩnh vực ngân hàng",
+      "id": "Khongso",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "***"
+      ],
+      "issuedDate": "2022-04-01",
+      "effectiveDate": "Dữ liệu đang cập nhật",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Chưa xác định"
+    },
+    {
+      "title": "Quyết định 275/QĐ-BTC năm 2021 công bố danh mục chế độ báo cáo định kỳ trong lĩnh vực bảo hiểm thuộc phạm vi quản lý nhà nước của Bộ Tài chính",
+      "id": "275/QĐ-BTC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2021-03-09",
+      "effectiveDate": "2021-03-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 01/2020/TT-VPCP quy định về chế độ báo cáo định kỳ và quản lý, sử dụng, khai thác Hệ thống thông tin báo cáo của Văn phòng Chính phủ",
+      "id": "01/2020/TT-VPCP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2020-10-21",
+      "effectiveDate": "2020-12-15",
+      "gazetteDate": "2020-11-05",
+      "gazetteNumber": "Từ số 1031 đến số 1032",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2172/QĐ-BGDĐT năm 2020 về công bố danh mục chế độ báo cáo định kỳ thuộc phạm vi quản lý nhà nước của Bộ Giáo dục và Đào tạo",
+      "id": "2172/QĐ-BGDĐT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giáo dục"
+      ],
+      "organization": "Bộ Giáo dục và Đào tạo",
+      "signers": [
+        "Phạm Ngọc Thưởng"
+      ],
+      "issuedDate": "2020-08-03",
+      "effectiveDate": "2020-08-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 992/QĐ-BTC về danh mục chế độ báo cáo định kỳ của Bộ Tài chính kết nối lên Hệ thống thông tin báo cáo Chính phủ năm 2020",
+      "id": "992/QĐ-BTC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2020-06-30",
+      "effectiveDate": "2020-06-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 983/QĐ-BTC năm 2020 công bố danh mục chế độ báo cáo định kỳ trong lĩnh vực kế toán, kiểm toán độc lập thuộc phạm vi chức năng quản lý của Bộ Tài chính",
+      "id": "983/QĐ-BTC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Kế toán - Kiểm toán",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2020-06-29",
+      "effectiveDate": "2020-06-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "84/2020/TT-BTC",
+  "legislationType": "Thông tư",
+  "categories": [
+    "Tiền tệ - Ngân hàng",
+    "Bộ máy hành chính",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Bộ Tài chính",
+  "signers": [
+    "Huỳnh Quang Hải"
+  ],
+  "issuedDate": "2020-10-01",
+  "effectiveDate": "2020-11-15",
+  "gazetteDate": "2020-10-30",
+  "gazetteNumber": "Từ số 1007 đến số 1008",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA3ADIANAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>BỘ TÀI CHÍNH<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 84/2020/TT-BTC</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 01\n  tháng 10 năm 2020</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">THÔNG TƯ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">SỬA\nĐỔI, BỔ SUNG QUY ĐỊNH VỀ CHẾ ĐỘ BÁO CÁO ĐỊNH KỲ THUỘC THẨM QUYỀN QUYẾT ĐỊNH CỦA\nBỘ TRƯỞNG BỘ TÀI CHÍNH TRONG LĨNH VỰC TÀI CHÍNH NGÂN HÀNG</a></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a name=\"tvpllink_vymqtteupn\" href=\"https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-87-2017-ND-CP-chuc-nang-nhiem-vu-quyen-han-va-co-cau-to-chuc-cua-Bo-Tai-chinh-327957.aspx\" target=\"_blank\" style=\"color: rgb(14, 112, 195); cursor: pointer;\">87/2017/NĐ-CP</a>\nngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn\nvà cơ cấu tổ chức của Bộ Tài chính;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a name=\"tvpllink_jimeevccgq\" href=\"https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-09-2019-ND-CP-quy-dinh-ve-che-do-bao-cao-cua-co-quan-hanh-chinh-nha-nuoc-386322.aspx\" target=\"_blank\" style=\"color: rgb(14, 112, 195); cursor: pointer;\">09/2019/NĐ-CP</a>\nngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan\nhành chính nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Theo đề nghị của Vụ trưởng Vụ Tài chính các ngân\nhàng và tổ chức tài chính;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi,\nbổ sung quy định chế độ báo cáo định kỳ thuộc thẩm quyền quyết định của Bộ trưởng\nBộ Tài chính trong lĩnh vực tài chính ngân hàng.</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1. Sửa đổi, bổ sung một số\nđiều của Thông tư số</b></a><b> <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 195/2013/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-195-2013-tt-btc-huong-dan-che-do-tai-chinh-ngan-hang-nha-nuoc-viet-nam-217562.aspx\">195/2013/TT-BTC</a>  <a name=\"dieu_1_name\">ngày 18\ntháng 12 năm 2013 của Bộ Tài chính hướng dẫn chế độ tài chính của Ngân hàng Nhà\nnước Việt Nam như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_1_1\">1. Sửa đổi, bổ sung</a> <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187771')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187771')\" atmm=\".lqhlTootip-3187771\" onmouseout=\"hideddrivetip();\">điểm 2.2 khoản 2 Điều 12</a> <a name=\"khoan_1_1_name\">như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">“2.2. Kế hoạch thu, chi tài chính của Ngân hàng Nhà\nnước được lập hàng năm, gửi Bộ Tài chính thẩm định và tổng hợp vào dự toán ngân\nsách Nhà nước theo quy định của <a name=\"tvpllink_orzgiqxtpn\" href=\"https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-ngan-sach-nha-nuoc-nam-2015-281762.aspx\" target=\"_blank\" style=\"color: rgb(14, 112, 195); cursor: pointer;\">Luật ngân sách\nnhà nước</a> và các văn bản hướng dẫn.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_2_1\">2. Bổ sung điểm 2.4</a> <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187772')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187772')\" atmm=\".lqhlTootip-3187772\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 12</a> <a name=\"khoan_2_1_name\">như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">“2.4. Phương thức gửi kế hoạch tài chính thực hiện\ndưới hình thức văn bản giấy theo một trong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_3_13\">3. Bổ sung điểm 2.3</a> <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187773')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187773')\" atmm=\".lqhlTootip-3187773\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 13</a> <a name=\"khoan_3_13_name\">như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">“2.3. Phương thức gửi báo cáo tài chính thực hiện\ndưới hình thức văn bản giấy theo một trong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2. Bổ sung khoản 7</b></a><b>\n<a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187774')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187774')\" atmm=\".lqhlTootip-3187774\" onmouseout=\"hideddrivetip();\">Điều 10 Thông tư số 01/2017/TT-BTC</a> <a name=\"dieu_2_name\">ngày\n05 tháng 01 năm 2017 của Bộ Tài chính hướng dẫn chế độ tài chính đối với Công\nty quản lý tài sản của các tổ chức tín dụng Việt Nam như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“7. Thời gian chốt số liệu và phương thức gửi báo\ncáo:</p>\n\n<p style=\"margin-top:6.0pt\">a) Thời gian chốt số liệu:</p>\n\n<p style=\"margin-top:6.0pt\">- Thời gian chốt số liệu kế hoạch tài chính quy định\ntại khoản 1 Điều này: Tính từ ngày 01 tháng 01 năm kế hoạch đến ngày 31 tháng\n12 năm kế hoạch.</p>\n\n<p style=\"margin-top:6.0pt\">- Thời gian chốt số liệu báo cáo tài chính quý, năm\nquy định tại khoản 4 Điều này:</p>\n\n<p style=\"margin-top:6.0pt\">+ Đối với báo cáo tài chính quý: Tính từ ngày đầu\ntiên của quý báo cáo đến ngày cuối cùng của quý báo cáo (đối với số liệu lũy kế\nlà ngày đầu năm báo cáo).</p>\n\n<p style=\"margin-top:6.0pt\">+ Đối với báo cáo tài chính năm: Tính từ ngày 01\ntháng 01 năm báo cáo đến ngày 31 tháng 12 năm báo cáo.</p>\n\n<p style=\"margin-top:6.0pt\">b) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">c) Nội dung, thời gian chốt số liệu và thời hạn gửi\nbáo cáo đột xuất quy định tại khoản 6 Điều này thực hiện theo yêu cầu của Ngân\nhàng Nhà nước Việt Nam và cơ quan quản lý nhà nước.\"</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3. Bổ sung khoản 4</b></a><b>\n<a name=\"dc_5\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187775')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187775')\" atmm=\".lqhlTootip-3187775\" onmouseout=\"hideddrivetip();\">Điều 8 Thông tư số 53/2017/TT-BTC</a> <a name=\"dieu_3_name\">ngày\n19 tháng 5 năm 2017 của Bộ Tài chính hướng dẫn thi hành Nghị định số</a>\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 69/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-69-2016-nd-cp-dieu-kien-kinh-doanh-dich-vu-mua-ban-no-315453.aspx\">69/2016/NĐ-CP</a>  <a name=\"dieu_3_name_name\">ngày 01 tháng 7 năm 2016 của Chính phủ\nvề điều kiện kinh doanh dịch vụ mua bán nợ như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“4. Thời gian chốt số liệu và phương thức gửi báo\ncáo:</p>\n\n<p style=\"margin-top:6.0pt\">a) Thời gian chốt số liệu báo cáo quý, năm: Tính từ\nthời điểm bắt đầu lấy số liệu đến hết thời điểm kết thúc lấy số liệu (trừ số liệu\nphản ánh tại thời điểm nhất định). Thời điểm bắt đầu lấy số liệu là ngày đầu\ntiên của quý, năm báo cáo (đối với số liệu lũy kế là ngày đầu năm báo cáo); thời\nđiểm kết thúc lấy số liệu là ngày cuối cùng của quý, năm báo cáo.</p>\n\n<p style=\"margin-top:6.0pt\">b) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">c) Nội dung, thời gian chốt số liệu và thời hạn gửi\nbáo cáo đột xuất thực hiện theo yêu cầu của cơ quan quản lý nhà nước.\"</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Sửa đổi, bổ sung</b></a><b>\n<a name=\"dc_6\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187776')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187776')\" atmm=\".lqhlTootip-3187776\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 10 Thông tư số 16/2018/TT-BTC</a> <a name=\"dieu_4_name\">ngày 07 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số\nđiều về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước\nngoài như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“2. Trách nhiệm của Ngân hàng Nhà nước Việt Nam:</p>\n\n<p style=\"margin-top:6.0pt\">a) Định kỳ 06 tháng (trước ngày 31/8) và hàng năm\n(trước ngày 30/4 năm kế tiếp), Ngân hàng Nhà nước Việt Nam thông báo cho Bộ Tài\nchính tình hình tài chính của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài\ntheo quy định tại <a name=\"dc_7\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187777')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187777')\" atmm=\".lqhlTootip-3187777\" onmouseout=\"hideddrivetip();\">Khoản 2 Điều 38 Nghị định số 93/2017/NĐ-CP</a>,\ncụ thể theo các chỉ tiêu sau (có phân theo loại hình tổ chức tín dụng):</p>\n\n<p style=\"margin-top:6.0pt\">- Số lượng các tổ chức tín dụng, chi nhánh ngân\nhàng nước ngoài.</p>\n\n<p style=\"margin-top:6.0pt\">- Tổng số vốn điều lệ, vốn chủ sở hữu, tài sản có,\ntổng dư nợ, tổng huy động vốn, tỷ lệ nợ xấu và các tỷ lệ an toàn trong hoạt động\ncủa các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.</p>\n\n<p style=\"margin-top:6.0pt\">- Tổng số lợi nhuận (lỗ) và số lượng các tổ chức\ntín dụng, chi nhánh ngân hàng nước ngoài hoạt động có lợi nhuận (bị lỗ).</p>\n\n<p style=\"margin-top:6.0pt\">- Tình hình tài chính, hiệu quả hoạt động của các tổ\nchức tín dụng Nhà nước nắm giữ trên 50% vốn Điều lệ.</p>\n\n<p style=\"margin-top:6.0pt\">- Các chỉ tiêu, nội dung khác có liên quan.</p>\n\n<p style=\"margin-top:6.0pt\">- Các vi phạm về chế độ tài chính của các tổ chức\ntín dụng, chi nhánh ngân hàng nước ngoài được phát hiện trong quá trình thanh\ntra, giám sát.</p>\n\n<p style=\"margin-top:6.0pt\">b) Thời gian chốt số liệu:</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng\n01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời\nđiểm nhất định).</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm\nbáo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm\nnhất định).</p>\n\n<p style=\"margin-top:6.0pt\">c) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Sửa đổi, bổ sung</b></a><b>\n<a name=\"dc_8\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187778')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187778')\" atmm=\".lqhlTootip-3187778\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 11 Thông tư số 18/2018/TT-BTC</a> <a name=\"dieu_5_name\">ngày 12 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số\nđiều về chế độ tài chính đối với tổ chức tài chính vi mô như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“2. Ngân hàng Nhà nước Việt Nam chủ trì giám sát việc\nthực hiện chế độ tài chính của tổ chức tài chính vi mô.</p>\n\n<p style=\"margin-top:6.0pt\">a) Định kỳ 06 tháng và hàng năm gửi báo cáo thông báo\ncho Bộ Tài chính tình hình tài chính của tổ chức tài chính vi mô và các vi phạm\nvề chế độ tài chính của tổ chức tài chính vi mô được phát hiện trong quá trình\nkiểm tra, thanh tra, giám sát (nếu có). Đối với báo cáo 06 tháng, Ngân hàng Nhà\nnước Việt Nam gửi Bộ Tài chính trước ngày 15 tháng 8; đối với báo cáo năm, Ngân\nhàng Nhà nước Việt Nam gửi Bộ Tài chính trước ngày 15 tháng 4 năm sau.</p>\n\n<p style=\"margin-top:6.0pt\">b) Thời gian chốt số liệu:</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng\n01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời\nđiểm nhất định).</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm\nbáo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm\nnhất định).</p>\n\n<p style=\"margin-top:6.0pt\">c) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Bổ sung điểm c và điểm\nd</b></a><b> <a name=\"dc_9\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187779')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187779')\" atmm=\".lqhlTootip-3187779\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 12 Thông tư số 19/2018/TT-BTC</a> <a name=\"dieu_6_name\">ngày 12 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số\nđiều về chế độ tài chính đối với Ngân hàng hợp tác xã Việt Nam như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“c) Thời gian chốt số liệu:</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng\n01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời\nđiểm nhất định).</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm\nbáo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm\nnhất định).</p>\n\n<p style=\"margin-top:6.0pt\">d) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.\"</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Sửa đổi, bổ sung</b></a><b>\n<a name=\"dc_10\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187780')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187780')\" atmm=\".lqhlTootip-3187780\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 11 Thông tư số 20/2018/TT-BTC</a> <a name=\"dieu_7_name\">ngày 12 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số\nđiều về chế độ tài chính đối với Quỹ tín dụng nhân dân như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“2. Trách nhiệm của Ngân hàng Nhà nước Việt Nam</p>\n\n<p style=\"margin-top:6.0pt\">2.1. Định kỳ 6 tháng (trước ngày 31/8) và hàng năm\n(trước ngày 30/4 năm kế tiếp) Ngân hàng Nhà nước Việt Nam có trách nhiệm thông\nbáo cho Bộ Tài chính tình hình tài chính của hệ thống quỹ tín dụng nhân dân\ntheo quy định tại <a name=\"dc_11\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187781')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187781')\" atmm=\".lqhlTootip-3187781\" onmouseout=\"hideddrivetip();\">khoản 2 Điều 38 Nghị định số 93/2017/NĐ-CP</a>,\ncụ thể theo các chỉ tiêu sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Số lượng quỹ tín dụng nhân dân (trong đó, nêu rõ\nsố lượng quỹ tín dụng nhân dân bị lỗ, số lượng quỹ tín dụng nhân dân không bị lỗ,\nsố lượng quỹ tín dụng nhân dân lãi);</p>\n\n<p style=\"margin-top:6.0pt\">b) Tổng số lãi; tổng số lỗ;</p>\n\n<p style=\"margin-top:6.0pt\">c) Các vi phạm về chế độ tài chính của các quỹ tín\ndụng nhân dân được phát hiện trong quá trình thanh tra, giám sát (nếu có).</p>\n\n<p style=\"margin-top:6.0pt\">2.2. Thời gian chốt số liệu:</p>\n\n<p style=\"margin-top:6.0pt\">a) Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng\n01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời\nđiểm nhất định).</p>\n\n<p style=\"margin-top:6.0pt\">b) Đối với báo cáo năm: Tính từ ngày 01 tháng 01\nnăm báo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời\nđiểm nhất định).</p>\n\n<p style=\"margin-top:6.0pt\">2.3. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-3187755')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187755')\" atmm=\".lqhlTootip-3187755\" onmouseout=\"hideddrivetip();\"><b>Điều 8. Bổ sung điểm c</b></a><b>\n<a name=\"dc_12\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187782')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187782')\" atmm=\".lqhlTootip-3187782\" onmouseout=\"hideddrivetip();\">khoản 3 Điều 23 Thông tư số 11/2014/TT-BTC</a> <a name=\"dieu_8\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-3187755')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187755')\" atmm=\".lqhlTootip-3187755\" onmouseout=\"hideddrivetip();\">ngày 17 tháng 01 năm 2014 của Bộ Tài chính hướng dẫn một số\nđiều quy định tại Nghị định số</a> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 86/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-86-2013-nd-cp-kinh-doanh-tro-choi-dien-tu-co-thuong-cho-nguoi-nuoc-ngoai-202681.aspx\">86/2013/NĐ-CP</a>  <a name=\"dieu_8\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-3187755')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187755')\" atmm=\".lqhlTootip-3187755\" onmouseout=\"hideddrivetip();\">ngày\n29 tháng 7 năm 2013 của Chính phủ về kinh doanh trò chơi điện tử có thưởng dành\ncho người nước ngoài như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“c) Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Bổ sung khoản 4</b></a><b>\n<a name=\"dc_13\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187783')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187783')\" atmm=\".lqhlTootip-3187783\" onmouseout=\"hideddrivetip();\">Điều 13 Thông tư số 101/2017/TT-BTC</a> <a name=\"dieu_9_name\">ngày\n04 tháng 10 năm 2017 của Bộ Tài chính hướng dẫn một số điều quy định tại Nghị định\nsố</a> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 06/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-06-2017-nd-cp-kinh-doanh-dat-cuoc-dua-ngua-dua-cho-bong-da-quoc-te-338399.aspx\">06/2017/NĐ-CP</a>  <a name=\"dieu_9_name_name\">ngày 24 tháng 01 năm 2017 của\nChính phủ về kinh doanh đặt cược đua ngựa, đua chó và bóng đá quốc tế như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“4. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b>Điều 10. Bổ sung khoản 4</b></a><b>\n<a name=\"dc_14\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187784')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187784')\" atmm=\".lqhlTootip-3187784\" onmouseout=\"hideddrivetip();\">Điều 13 Thông tư số 102/2017/TT-BTC</a> <a name=\"dieu_10_name\">ngày\n05 tháng 10 năm 2017 của Bộ Tài chính hướng dẫn một số điều quy định tại Nghị định\nsố</a> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 03/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-03-2017-nd-cp-kinh-doanh-casino-337883.aspx\">03/2017/NĐ-CP</a>  <a name=\"dieu_10_name_name\">ngày 16 tháng 01 năm 2017 của\nChính phủ về kinh doanh casino như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“4. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Bổ sung một số Điều của\nThông tư số</b></a><b> <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 86/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/thong-tu-86-2017-tt-btc-huong-dan-88-2016-nd-cp-ve-chuong-trinh-huu-tri-bo-sung-tu-nguyen-323936.aspx\">86/2017/TT-BTC</a>  <a name=\"dieu_11_name\">ngày 15 tháng 8\nnăm 2017 của Bộ Tài chính hướng dẫn một số điều của Nghị định số</a>\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 88/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-88-2016-nd-cp-chuong-trinh-huu-tri-bo-sung-tu-nguyen-317414.aspx\">88/2016/NĐ-CP</a>  <a name=\"dieu_11_name_name\">ngày 01 tháng 7 năm 2016 của Chính phủ\nvề chương trình hưu trí bổ sung tự nguyện như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_1\">1. Bổ sung khoản 3</a> <a name=\"dc_15\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187785')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187785')\" atmm=\".lqhlTootip-3187785\" onmouseout=\"hideddrivetip();\">Điều 6</a> <a name=\"khoan_1_name\">như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">“3. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_2\">2. Bổ sung khoản 3</a> <a name=\"dc_16\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187786')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187786')\" atmm=\".lqhlTootip-3187786\" onmouseout=\"hideddrivetip();\">Điều 7</a> <a name=\"khoan_2_name\">như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">“3. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-3187761')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187761')\" atmm=\".lqhlTootip-3187761\" onmouseout=\"hideddrivetip();\"><b>Điều 12. Sửa đổi, bổ sung</b></a><b>\n<a name=\"dc_17\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187787')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187787')\" atmm=\".lqhlTootip-3187787\" onmouseout=\"hideddrivetip();\">khoản 4 Điều 23 Thông tư số 28/2014/TT-BTC</a> <a name=\"dieu_12\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-3187761')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187761')\" atmm=\".lqhlTootip-3187761\" onmouseout=\"hideddrivetip();\">ngày 25 tháng 2 năm 2014 của Bộ Tài chính hướng dẫn cơ chế\nquản lý tài chính của Quỹ đầu tư phát triển địa phương như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“4. Cơ quan nhận và phương thức gửi báo cáo:</p>\n\n<p style=\"margin-top:6.0pt\">a) Cơ quan nhận báo cáo:</p>\n\n<p style=\"margin-top:6.0pt\">Các báo cáo quy định tại Khoản 2 Điều này được gửi\ncho Ủy ban nhân dân cấp tỉnh, đồng gửi Bộ Tài chính, Sở Tài chính tỉnh và Ngân\nhàng Nhà nước chi nhánh tỉnh, thành phố.</p>\n\n<p style=\"margin-top:6.0pt\">b) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b>Điều 13. Bổ sung điểm 4.4</b></a><b>\n<a name=\"dc_18\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187788')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187788')\" atmm=\".lqhlTootip-3187788\" onmouseout=\"hideddrivetip();\">khoản 4 Điều 16 Thông tư số 62/2016/TT-BTC</a> <a name=\"dieu_13_name\">ngày 15 tháng 4 năm 2016 của Bộ Tài chính hướng dẫn thực hiện\nQuy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội ban hành kèm theo\nQuyết định số</a> <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 180/2002/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/quyet-dinh-180-2002-qd-ttg-quy-che-quan-ly-tai-chinh-ngan-hang-chinh-sach-xa-hoi-50324.aspx\">180/2002/QĐ-TTg</a>  <a name=\"dieu_13_name_name\">ngày 19 tháng 12\nnăm 2002 và Quyết định số</a> <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 30/2015/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/quyet-dinh-30-2015-qd-ttg-sua-doi-tai-chinh-ngan-hang-chinh-sach-quyet-dinh-180-2002-qd-ttg-284613.aspx\">30/2015/QĐ-TTg</a>  <a name=\"dieu_13_name_name_name\">ngày\n31 tháng 7 năm 2015 của Thủ tướng Chính phủ như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“4.4. Thời hạn, thời gian chốt số liệu và phương thức\ngửi báo cáo nghiệp vụ và báo cáo thu nhập, chi phí:</p>\n\n<p style=\"margin-top:6.0pt\">a) Thời hạn gửi báo cáo:</p>\n\n<p style=\"margin-top:6.0pt\">- Báo cáo quý: Chậm nhất là 30 ngày kể từ ngày kết\nthúc quý của năm tài chính.</p>\n\n<p style=\"margin-top:6.0pt\">- Báo cáo năm: Chậm nhất là 45 ngày kể từ ngày kết\nthúc năm tài chính;</p>\n\n<p style=\"margin-top:6.0pt\">b) Thời gian chốt số liệu báo cáo quý, năm: Thời điểm\nbắt đầu lấy số liệu là ngày đầu tiên của quý, năm báo cáo; Thời điểm kết thúc lấy\nsố liệu là ngày cuối cùng của quý, năm báo cáo.</p>\n\n<p style=\"margin-top:6.0pt\">c) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.\"</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b>Điều 14. Bổ sung điểm 2.3 và\nđiểm 2.4</b></a><b> <a name=\"dc_19\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187789')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187789')\" atmm=\".lqhlTootip-3187789\" onmouseout=\"hideddrivetip();\">khoản 2 mục IX Thông tư số 111/2007/TT-BTC</a>\n<a name=\"dieu_14_name\">ngày 12 tháng 9 năm 2007 của Bộ Tài chính hướng dẫn thực\nhiện Quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“2.3. Thời gian chốt số liệu báo cáo quý, năm; Thời\nđiểm bắt đầu lấy số liệu là ngày đầu tiên của quý, năm báo cáo; Thời điểm kết\nthúc lấy số liệu là ngày cuối cùng của quý, năm báo cáo.”</p>\n\n<p style=\"margin-top:6.0pt\">2.3. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc phần mềm thông\ntin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b>Điều 15. Bổ sung khoản 7</b></a><b>\n<a name=\"dc_20\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187790')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187790')\" atmm=\".lqhlTootip-3187790\" onmouseout=\"hideddrivetip();\">Điều 19 Thông tư số 132/2015/TT-BTC</a> <a name=\"dieu_15_name\">ngày\n28 tháng 8 năm 2015 của Bộ Tài chính hướng dẫn cơ chế quản lý tài chính đối với\nQuỹ bảo vệ môi trường Việt Nam như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“7. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b>Điều 16. Bổ sung khoản 2</b></a><b>\n<a name=\"dc_21\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187791')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187791')\" atmm=\".lqhlTootip-3187791\" onmouseout=\"hideddrivetip();\">Điều 20 Thông tư số 15/2019/TT-BTC</a> <a name=\"dieu_16_name\">ngày\n18 tháng 03 năm 2019 của Bộ Tài chính về hướng dẫn cơ chế quản lý tài chính và\nđánh giá hiệu quả hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa\nnhư sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“2. Phương thức gửi báo cáo thực hiện theo một\ntrong các phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">b) Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">c) Gửi qua hệ thống thư điện tử hoặc hệ thống phần\nmềm thông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b>Điều 17. Sửa đổi</b></a><b> <a name=\"dc_22\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3187792')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3187792')\" atmm=\".lqhlTootip-3187792\" onmouseout=\"hideddrivetip();\">khoản 3 Điều 8 Thông tư số 08/2017/TT-BTC</a> <a name=\"dieu_17_name\">ngày 24 tháng 01 năm 2017 hướng dẫn quản lý và sử dụng tiền\nký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản tại\nQuỹ Bảo vệ môi trường như sau:</a></b></p>\n\n<p style=\"margin-top:6.0pt\">“3. Quản lý, sử dụng tiền ký quỹ theo đúng quy định\ncủa pháp luật và quy định tại Thông tư này. Định kỳ hàng quý (trước ngày 25 của\ntháng đầu Quý sau) và hàng năm (trước ngày 31 tháng 3 của năm sau), bên nhận ký\nquỹ gửi báo cáo cho Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Bộ\nTài nguyên và Môi trường về tình hình quản lý và sử dụng tiền ký quỹ theo Phụ lục\nkèm theo Thông tư này.</p>\n\n<p style=\"margin-top:6.0pt\">a) Thời gian chốt số liệu báo cáo: Thời điểm bắt đầu\nlấy số liệu là ngày đầu tiên của quý, năm báo cáo; Thời điểm kết thúc lấy số liệu\nlà ngày cuối cùng của quý, năm báo cáo.</p>\n\n<p style=\"margin-top:6.0pt\">b) Phương thức gửi báo cáo thực hiện theo một trong\ncác phương thức sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi trực tiếp dưới hình thức văn bản giấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua dịch vụ bưu chính dưới hình thức văn bản\ngiấy;</p>\n\n<p style=\"margin-top:6.0pt\">- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm\nthông tin báo cáo chuyên dùng;</p>\n\n<p style=\"margin-top:6.0pt\">- Các phương thức khác theo quy định của pháp luật.”</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18\"><b>Điều 18. Điều khoản thi hành</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thông tư này có hiệu lực thi hành kể từ ngày 15\ntháng 11 năm 2020.</p>\n\n<p style=\"margin-top:6.0pt\">2. Trong quá trình triển khai thực hiện, nếu có khó\nkhăn, vướng mắc, các tổ chức, cá nhân phản ánh về Bộ Tài chính để xem xét, giải\nquyết./.</p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA3ADIANAA=-->\n <tbody><tr>\n  <td width=\"331\" valign=\"top\" style=\"width:248.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Thủ tướng Chính phủ, các Phó TTCP;<br>\n  - Văn phòng TW và các ban của Đảng;<br>\n  - Văn phòng Tổng Bí thư;<br>\n  - Văn phòng Chủ tịch nước;<br>\n  - Văn phòng Quốc hội;<br>\n  - Tòa án nhân dân tối cao;<br>\n  - Viện Kiểm sát nhân dân tối cao;<br>\n  - Kiểm toán Nhà nước;<br>\n  - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;<br>\n  - HĐND, UBND các tỉnh, TP trực thuộc Trung ương;<br>\n  - Sở Tài chính, Cục Thuế các tỉnh, TP trực thuộc Trung ương;<br>\n  - Cục kiểm tra văn bản (Bộ Tư pháp);<br>\n  - Công báo;<br>\n  - Website Chính phủ;<br>\n  - Website Bộ Tài chính;<br>\n  - Các đơn vị thuộc Bộ Tài chính;<br>\n  - Lưu VT, Vụ TCNH. (Pxs) (270b)</span></p>\n  </td>\n  <td width=\"237\" valign=\"top\" style=\"width:177.7pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. BỘ TRƯỞNG<br>\n  THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Huỳnh Quang Hải</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p> </p>\n\n",
+  "mdContent": "**BỘ TÀI CHÍNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 84/2020/TT-BTC\n\n_Hà Nội, ngày 01 tháng 10 năm 2020_\n\n**THÔNG TƯ**\n\nSỬA ĐỔI, BỔ SUNG QUY ĐỊNH VỀ CHẾ ĐỘ BÁO CÁO ĐỊNH KỲ THUỘC THẨM QUYỀN QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH TRONG LĨNH VỰC TÀI CHÍNH NGÂN HÀNG\n\n_Căn cứ Nghị định số [87/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-87-2017-ND-CP-chuc-nang-nhiem-vu-quyen-han-va-co-cau-to-chuc-cua-Bo-Tai-chinh-327957.aspx) ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;_\n\n_Căn cứ Nghị định số [09/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-09-2019-ND-CP-quy-dinh-ve-che-do-bao-cao-cua-co-quan-hanh-chinh-nha-nuoc-386322.aspx) ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước;_\n\n_Theo đề nghị của Vụ trưởng Vụ Tài chính các ngân hàng và tổ chức tài chính;_\n\n_Bộ trưởng Bộ Tài chính ban hành Thông tư sửa đổi, bổ sung quy định chế độ báo cáo định kỳ thuộc thẩm quyền quyết định của Bộ trưởng Bộ Tài chính trong lĩnh vực tài chính ngân hàng._\n\n**Điều 1. Sửa đổi, bổ sung một số điều của Thông tư số** **[195/2013/TT-BTC](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/thong-tu-195-2013-tt-btc-huong-dan-che-do-tai-chinh-ngan-hang-nha-nuoc-viet-nam-217562.aspx \"Thông tư 195/2013/TT-BTC\") ngày 18 tháng 12 năm 2013 của Bộ Tài chính hướng dẫn chế độ tài chính của Ngân hàng Nhà nước Việt Nam như sau:**\n\n1\\. Sửa đổi, bổ sung điểm 2.2 khoản 2 Điều 12 như sau:\n\n“2.2. Kế hoạch thu, chi tài chính của Ngân hàng Nhà nước được lập hàng năm, gửi Bộ Tài chính thẩm định và tổng hợp vào dự toán ngân sách Nhà nước theo quy định của [Luật ngân sách nhà nước](https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Luat-ngan-sach-nha-nuoc-nam-2015-281762.aspx) và các văn bản hướng dẫn.”\n\n2\\. Bổ sung điểm 2.4 khoản 2 Điều 12 như sau:\n\n“2.4. Phương thức gửi kế hoạch tài chính thực hiện dưới hình thức văn bản giấy theo một trong các phương thức sau:\n\na) Gửi trực tiếp;\n\nb) Gửi qua dịch vụ bưu chính.”\n\n3\\. Bổ sung điểm 2.3 khoản 2 Điều 13 như sau:\n\n“2.3. Phương thức gửi báo cáo tài chính thực hiện dưới hình thức văn bản giấy theo một trong các phương thức sau:\n\na) Gửi trực tiếp;\n\nb) Gửi qua dịch vụ bưu chính.”\n\n**Điều 2. Bổ sung khoản 7** **Điều 10 Thông tư số 01/2017/TT-BTC ngày 05 tháng 01 năm 2017 của Bộ Tài chính hướng dẫn chế độ tài chính đối với Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam như sau:**\n\n“7. Thời gian chốt số liệu và phương thức gửi báo cáo:\n\na) Thời gian chốt số liệu:\n\n\\- Thời gian chốt số liệu kế hoạch tài chính quy định tại khoản 1 Điều này: Tính từ ngày 01 tháng 01 năm kế hoạch đến ngày 31 tháng 12 năm kế hoạch.\n\n\\- Thời gian chốt số liệu báo cáo tài chính quý, năm quy định tại khoản 4 Điều này:\n\n\\+ Đối với báo cáo tài chính quý: Tính từ ngày đầu tiên của quý báo cáo đến ngày cuối cùng của quý báo cáo (đối với số liệu lũy kế là ngày đầu năm báo cáo).\n\n\\+ Đối với báo cáo tài chính năm: Tính từ ngày 01 tháng 01 năm báo cáo đến ngày 31 tháng 12 năm báo cáo.\n\nb) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.\n\nc) Nội dung, thời gian chốt số liệu và thời hạn gửi báo cáo đột xuất quy định tại khoản 6 Điều này thực hiện theo yêu cầu của Ngân hàng Nhà nước Việt Nam và cơ quan quản lý nhà nước.\"\n\n**Điều 3. Bổ sung khoản 4** **Điều 8 Thông tư số 53/2017/TT-BTC ngày 19 tháng 5 năm 2017 của Bộ Tài chính hướng dẫn thi hành Nghị định số [69/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-69-2016-nd-cp-dieu-kien-kinh-doanh-dich-vu-mua-ban-no-315453.aspx \"Nghị định 69/2016/NĐ-CP\") ngày 01 tháng 7 năm 2016 của Chính phủ về điều kiện kinh doanh dịch vụ mua bán nợ như sau:**\n\n“4. Thời gian chốt số liệu và phương thức gửi báo cáo:\n\na) Thời gian chốt số liệu báo cáo quý, năm: Tính từ thời điểm bắt đầu lấy số liệu đến hết thời điểm kết thúc lấy số liệu (trừ số liệu phản ánh tại thời điểm nhất định). Thời điểm bắt đầu lấy số liệu là ngày đầu tiên của quý, năm báo cáo (đối với số liệu lũy kế là ngày đầu năm báo cáo); thời điểm kết thúc lấy số liệu là ngày cuối cùng của quý, năm báo cáo.\n\nb) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.\n\nc) Nội dung, thời gian chốt số liệu và thời hạn gửi báo cáo đột xuất thực hiện theo yêu cầu của cơ quan quản lý nhà nước.\"\n\n**Điều 4. Sửa đổi, bổ sung** **khoản 2 Điều 10 Thông tư số 16/2018/TT-BTC ngày 07 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số điều về chế độ tài chính đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài như sau:**\n\n“2. Trách nhiệm của Ngân hàng Nhà nước Việt Nam:\n\na) Định kỳ 06 tháng (trước ngày 31/8) và hàng năm (trước ngày 30/4 năm kế tiếp), Ngân hàng Nhà nước Việt Nam thông báo cho Bộ Tài chính tình hình tài chính của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định tại Khoản 2 Điều 38 Nghị định số 93/2017/NĐ-CP, cụ thể theo các chỉ tiêu sau (có phân theo loại hình tổ chức tín dụng):\n\n\\- Số lượng các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\n\n\\- Tổng số vốn điều lệ, vốn chủ sở hữu, tài sản có, tổng dư nợ, tổng huy động vốn, tỷ lệ nợ xấu và các tỷ lệ an toàn trong hoạt động của các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\n\n\\- Tổng số lợi nhuận (lỗ) và số lượng các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài hoạt động có lợi nhuận (bị lỗ).\n\n\\- Tình hình tài chính, hiệu quả hoạt động của các tổ chức tín dụng Nhà nước nắm giữ trên 50% vốn Điều lệ.\n\n\\- Các chỉ tiêu, nội dung khác có liên quan.\n\n\\- Các vi phạm về chế độ tài chính của các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được phát hiện trong quá trình thanh tra, giám sát.\n\nb) Thời gian chốt số liệu:\n\n\\- Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng 01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\n\\- Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm báo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\nc) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 5. Sửa đổi, bổ sung** **khoản 2 Điều 11 Thông tư số 18/2018/TT-BTC ngày 12 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số điều về chế độ tài chính đối với tổ chức tài chính vi mô như sau:**\n\n“2. Ngân hàng Nhà nước Việt Nam chủ trì giám sát việc thực hiện chế độ tài chính của tổ chức tài chính vi mô.\n\na) Định kỳ 06 tháng và hàng năm gửi báo cáo thông báo cho Bộ Tài chính tình hình tài chính của tổ chức tài chính vi mô và các vi phạm về chế độ tài chính của tổ chức tài chính vi mô được phát hiện trong quá trình kiểm tra, thanh tra, giám sát (nếu có). Đối với báo cáo 06 tháng, Ngân hàng Nhà nước Việt Nam gửi Bộ Tài chính trước ngày 15 tháng 8; đối với báo cáo năm, Ngân hàng Nhà nước Việt Nam gửi Bộ Tài chính trước ngày 15 tháng 4 năm sau.\n\nb) Thời gian chốt số liệu:\n\n\\- Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng 01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\n\\- Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm báo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\nc) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 6. Bổ sung điểm c và điểm d** **khoản 2 Điều 12 Thông tư số 19/2018/TT-BTC ngày 12 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số điều về chế độ tài chính đối với Ngân hàng hợp tác xã Việt Nam như sau:**\n\n“c) Thời gian chốt số liệu:\n\n\\- Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng 01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\n\\- Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm báo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\nd) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.\"\n\n**Điều 7. Sửa đổi, bổ sung** **khoản 2 Điều 11 Thông tư số 20/2018/TT-BTC ngày 12 tháng 02 năm 2018 của Bộ Tài chính hướng dẫn một số điều về chế độ tài chính đối với Quỹ tín dụng nhân dân như sau:**\n\n“2. Trách nhiệm của Ngân hàng Nhà nước Việt Nam\n\n2.1. Định kỳ 6 tháng (trước ngày 31/8) và hàng năm (trước ngày 30/4 năm kế tiếp) Ngân hàng Nhà nước Việt Nam có trách nhiệm thông báo cho Bộ Tài chính tình hình tài chính của hệ thống quỹ tín dụng nhân dân theo quy định tại khoản 2 Điều 38 Nghị định số 93/2017/NĐ-CP, cụ thể theo các chỉ tiêu sau:\n\na) Số lượng quỹ tín dụng nhân dân (trong đó, nêu rõ số lượng quỹ tín dụng nhân dân bị lỗ, số lượng quỹ tín dụng nhân dân không bị lỗ, số lượng quỹ tín dụng nhân dân lãi);\n\nb) Tổng số lãi; tổng số lỗ;\n\nc) Các vi phạm về chế độ tài chính của các quỹ tín dụng nhân dân được phát hiện trong quá trình thanh tra, giám sát (nếu có).\n\n2.2. Thời gian chốt số liệu:\n\na) Đối với báo cáo 06 tháng: Tính từ ngày 01 tháng 01 kỳ báo cáo đến hết ngày 30 tháng 6 kỳ báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\nb) Đối với báo cáo năm: Tính từ ngày 01 tháng 01 năm báo cáo đến hết ngày 31 tháng 12 năm báo cáo (trừ số liệu phản ánh tại thời điểm nhất định).\n\n2.3. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 8. Bổ sung điểm c** **khoản 3 Điều 23 Thông tư số 11/2014/TT-BTC ngày 17 tháng 01 năm 2014 của Bộ Tài chính hướng dẫn một số điều quy định tại Nghị định số [86/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-86-2013-nd-cp-kinh-doanh-tro-choi-dien-tu-co-thuong-cho-nguoi-nuoc-ngoai-202681.aspx \"Nghị định 86/2013/NĐ-CP\") ngày 29 tháng 7 năm 2013 của Chính phủ về kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài như sau:**\n\n“c) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 9. Bổ sung khoản 4** **Điều 13 Thông tư số 101/2017/TT-BTC ngày 04 tháng 10 năm 2017 của Bộ Tài chính hướng dẫn một số điều quy định tại Nghị định số [06/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-06-2017-nd-cp-kinh-doanh-dat-cuoc-dua-ngua-dua-cho-bong-da-quoc-te-338399.aspx \"Nghị định 06/2017/NĐ-CP\") ngày 24 tháng 01 năm 2017 của Chính phủ về kinh doanh đặt cược đua ngựa, đua chó và bóng đá quốc tế như sau:**\n\n“4. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 10. Bổ sung khoản 4** **Điều 13 Thông tư số 102/2017/TT-BTC ngày 05 tháng 10 năm 2017 của Bộ Tài chính hướng dẫn một số điều quy định tại Nghị định số [03/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-03-2017-nd-cp-kinh-doanh-casino-337883.aspx \"Nghị định 03/2017/NĐ-CP\") ngày 16 tháng 01 năm 2017 của Chính phủ về kinh doanh casino như sau:**\n\n“4. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 11. Bổ sung một số Điều của Thông tư số** **[86/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/thong-tu-86-2017-tt-btc-huong-dan-88-2016-nd-cp-ve-chuong-trinh-huu-tri-bo-sung-tu-nguyen-323936.aspx \"Thông tư 86/2017/TT-BTC\") ngày 15 tháng 8 năm 2017 của Bộ Tài chính hướng dẫn một số điều của Nghị định số [88/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-88-2016-nd-cp-chuong-trinh-huu-tri-bo-sung-tu-nguyen-317414.aspx \"Nghị định 88/2016/NĐ-CP\") ngày 01 tháng 7 năm 2016 của Chính phủ về chương trình hưu trí bổ sung tự nguyện như sau:**\n\n1\\. Bổ sung khoản 3 Điều 6 như sau:\n\n“3. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n2\\. Bổ sung khoản 3 Điều 7 như sau:\n\n“3. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 12. Sửa đổi, bổ sung** **khoản 4 Điều 23 Thông tư số 28/2014/TT-BTC ngày 25 tháng 2 năm 2014 của Bộ Tài chính hướng dẫn cơ chế quản lý tài chính của Quỹ đầu tư phát triển địa phương như sau:**\n\n“4. Cơ quan nhận và phương thức gửi báo cáo:\n\na) Cơ quan nhận báo cáo:\n\nCác báo cáo quy định tại Khoản 2 Điều này được gửi cho Ủy ban nhân dân cấp tỉnh, đồng gửi Bộ Tài chính, Sở Tài chính tỉnh và Ngân hàng Nhà nước chi nhánh tỉnh, thành phố.\n\nb) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 13. Bổ sung điểm 4.4** **khoản 4 Điều 16 Thông tư số 62/2016/TT-BTC ngày 15 tháng 4 năm 2016 của Bộ Tài chính hướng dẫn thực hiện Quy chế quản lý tài chính đối với Ngân hàng Chính sách xã hội ban hành kèm theo Quyết định số [180/2002/QĐ-TTg](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/quyet-dinh-180-2002-qd-ttg-quy-che-quan-ly-tai-chinh-ngan-hang-chinh-sach-xa-hoi-50324.aspx \"Quyết định 180/2002/QĐ-TTg\") ngày 19 tháng 12 năm 2002 và Quyết định số [30/2015/QĐ-TTg](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/quyet-dinh-30-2015-qd-ttg-sua-doi-tai-chinh-ngan-hang-chinh-sach-quyet-dinh-180-2002-qd-ttg-284613.aspx \"Quyết định 30/2015/QĐ-TTg\") ngày 31 tháng 7 năm 2015 của Thủ tướng Chính phủ như sau:**\n\n“4.4. Thời hạn, thời gian chốt số liệu và phương thức gửi báo cáo nghiệp vụ và báo cáo thu nhập, chi phí:\n\na) Thời hạn gửi báo cáo:\n\n\\- Báo cáo quý: Chậm nhất là 30 ngày kể từ ngày kết thúc quý của năm tài chính.\n\n\\- Báo cáo năm: Chậm nhất là 45 ngày kể từ ngày kết thúc năm tài chính;\n\nb) Thời gian chốt số liệu báo cáo quý, năm: Thời điểm bắt đầu lấy số liệu là ngày đầu tiên của quý, năm báo cáo; Thời điểm kết thúc lấy số liệu là ngày cuối cùng của quý, năm báo cáo.\n\nc) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.\"\n\n**Điều 14. Bổ sung điểm 2.3 và điểm 2.4** **khoản 2 mục IX Thông tư số 111/2007/TT-BTC ngày 12 tháng 9 năm 2007 của Bộ Tài chính hướng dẫn thực hiện Quy chế quản lý tài chính đối với Ngân hàng Phát triển Việt Nam như sau:**\n\n“2.3. Thời gian chốt số liệu báo cáo quý, năm; Thời điểm bắt đầu lấy số liệu là ngày đầu tiên của quý, năm báo cáo; Thời điểm kết thúc lấy số liệu là ngày cuối cùng của quý, năm báo cáo.”\n\n2.3. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc phần mềm thông tin báo cáo chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 15. Bổ sung khoản 7** **Điều 19 Thông tư số 132/2015/TT-BTC ngày 28 tháng 8 năm 2015 của Bộ Tài chính hướng dẫn cơ chế quản lý tài chính đối với Quỹ bảo vệ môi trường Việt Nam như sau:**\n\n“7. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 16. Bổ sung khoản 2** **Điều 20 Thông tư số 15/2019/TT-BTC ngày 18 tháng 03 năm 2019 của Bộ Tài chính về hướng dẫn cơ chế quản lý tài chính và đánh giá hiệu quả hoạt động của Quỹ bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa như sau:**\n\n“2. Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\na) Gửi trực tiếp dưới hình thức văn bản giấy;\n\nb) Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\nc) Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\nd) Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 17. Sửa đổi** **khoản 3 Điều 8 Thông tư số 08/2017/TT-BTC ngày 24 tháng 01 năm 2017 hướng dẫn quản lý và sử dụng tiền ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản tại Quỹ Bảo vệ môi trường như sau:**\n\n“3. Quản lý, sử dụng tiền ký quỹ theo đúng quy định của pháp luật và quy định tại Thông tư này. Định kỳ hàng quý (trước ngày 25 của tháng đầu Quý sau) và hàng năm (trước ngày 31 tháng 3 của năm sau), bên nhận ký quỹ gửi báo cáo cho Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Bộ Tài nguyên và Môi trường về tình hình quản lý và sử dụng tiền ký quỹ theo Phụ lục kèm theo Thông tư này.\n\na) Thời gian chốt số liệu báo cáo: Thời điểm bắt đầu lấy số liệu là ngày đầu tiên của quý, năm báo cáo; Thời điểm kết thúc lấy số liệu là ngày cuối cùng của quý, năm báo cáo.\n\nb) Phương thức gửi báo cáo thực hiện theo một trong các phương thức sau:\n\n\\- Gửi trực tiếp dưới hình thức văn bản giấy;\n\n\\- Gửi qua dịch vụ bưu chính dưới hình thức văn bản giấy;\n\n\\- Gửi qua hệ thống thư điện tử hoặc hệ thống phần mềm thông tin báo cáo chuyên dùng;\n\n\\- Các phương thức khác theo quy định của pháp luật.”\n\n**Điều 18. Điều khoản thi hành**\n\n1\\. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 11 năm 2020.\n\n2\\. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc, các tổ chức, cá nhân phản ánh về Bộ Tài chính để xem xét, giải quyết./.\n\n**_  \nNơi nhận:  \n_**\\- Thủ tướng Chính phủ, các Phó TTCP;  \n\\- Văn phòng TW và các ban của Đảng;  \n\\- Văn phòng Tổng Bí thư;  \n\\- Văn phòng Chủ tịch nước;  \n\\- Văn phòng Quốc hội;  \n\\- Tòa án nhân dân tối cao;  \n\\- Viện Kiểm sát nhân dân tối cao;  \n\\- Kiểm toán Nhà nước;  \n\\- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;  \n\\- HĐND, UBND các tỉnh, TP trực thuộc Trung ương;  \n\\- Sở Tài chính, Cục Thuế các tỉnh, TP trực thuộc Trung ương;  \n\\- Cục kiểm tra văn bản (Bộ Tư pháp);  \n\\- Công báo;  \n\\- Website Chính phủ;  \n\\- Website Bộ Tài chính;  \n\\- Các đơn vị thuộc Bộ Tài chính;  \n\\- Lưu VT, Vụ TCNH. (Pxs) (270b)\n\n**KT. BỘ TRƯỞNG  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nHuỳnh Quang Hải**",
+  "htmlContentEn": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADAAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"color:black\">THE MINISTRY OF FINANCE<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"color:black\">THE SOCIALIST REPUBLIC OF VIETNAM<br>\n  Independence - Freedom - Happiness<br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span style=\"color:black\">No. 84/2020/TT-BTC</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span style=\"color:black\">Hanoi, October 01, 2020</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\"> </span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt;color:black\">CIRCULAR</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span style=\"color:black\">AMENDMENTS TO REGULATIONS ON PERIODIC REPORTING REGIME\nUNDER AUTHORITY OF MINISTER OF FINANCE IN THE FIELD OF FINANCE AND BANKING</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"color:black\">Pursuant to the\nGovernment’s Decree No. 87/2017/ND-CP dated July 26, 2017 defining functions,\ntasks, powers and organizational structure of the Ministry of Finance;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"color:black\">Pursuant to the\nGovernment’s Decree No. 09/2019/ND-CP dated January 24, 2019 providing for\nreporting regimes applicable to state administrative agencies;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"color:black\">At the request of the\nDirector General of the Department of Banking and Financial Institutions;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"color:black\">The Minister of\nFinance hereby promulgates a Circular on amendments to regulations on periodic\nreporting regime under authority of Minister of Finance in the field of\nfinance and banking.</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span style=\"color:black\">Article\n1. Amendments to some Articles of the Circular No. 195/2013/TT-BTC dated\nDecember 18, 2013 of the Ministry of Finance providing guidelines for reporting\nregimes applicable to the State Bank of Vietnam:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">1. Point 2.2 clause 2 of\nArticle 12 is amended as follows:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2.2. Financial plan of\nthe State Bank of Vietnam shall be prepared on an annual basis and submitted to\nMinistry of Finance for appraisal and aggregation in state budget estimates as\nreferred to by the Law on State Budget and its guiding documents.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2. Point 2.4 is added to\nclause 2 of Article 12 as follows:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2.4. The financial plan\nshall be submitted in the form of a physical document by adopting any of the\nfollowing methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">3. Point 2.3 is added to\nclause 2 of Article 13 as follows:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2.3. The financial statement\nshall be submitted in the form of a physical document by adopting any of the\nfollowing methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span style=\"color:black\">Article\n2. Adding clause 7 to Article 10 of the Circular No. 01/2017/TT-BTC dated\nJanuary 05, 2017 of the Ministry of Finance providing guidelines for financial\nregimes applicable to asset management companies of Vietnamese credit\ninstitutions:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“7. Data closing period\nand report submission methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Data closing period:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- The data closing period\nfor the financial plan specified in clause 1 of this Article shall begin from\nJanuary 01 of the plan year to December 31 of the plan year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- The data closing period\nfor the quarterly and annual financial statements specified in clause 1 of this\nArticle:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">+ For a quarterly\nfinancial statement: From the first day of the reporting quarter to the last\nday of the reporting quarter (accumulated data shall be collected from the\nfirst day of the reporting year).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">+ For an annual financial\nstatement: From January 01 of the reporting year to December 31 of the\nreporting year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) The statement shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) Contents, data closing\nperiod and deadline for submission of ad hoc statements prescribed in clause 6\nof this Article shall comply with requests of the State Bank of Vietnam and\nregulatory bodies.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span style=\"color:black\">Article\n3. Adding clause 4 to Article 8 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 53/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/circular-53-2017-tt-btc-guidance-69-2016-nd-cp-regarding-requirements-for-running-debt-trading-352833.aspx\">53/2017/TT-BTC</a>  dated May\n19, 2017 of the Ministry of Finance providing guidelines for implementation of\nthe Government’s Decree No. <a class=\"text-blue\" target=\"_blank\" title=\"Decree of Government 69/2016/ND-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/decree-69-2016-nd-cp-requirements-running-debt-trading-service-317171.aspx\">69/2016/ND-CP</a>  dated July 01, 2016 on requirements\nfor running debt trading services:</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“4. Data closing period\nand report submission methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Data closing period\nfor quarterly and annual reports: From the starting date of data collection to\nthe ending date of data collection (except for data reflected at stated times).\nData collection begins on the first day of the reporting quarter or year (for\naccumulated data collected from the first day of the reporting year); data\ncollection ends on the last day of the reporting quarter or year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) The statement shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) Contents, data closing\nperiod and deadline for submission of ad hoc reports shall comply with requests\nof regulatory bodies.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span style=\"color:black\">Article\n2. Amendments to clause 2 Article 10 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 16/2018/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/circular-16-2018-tt-btc-financial-regulations-applied-credit-institutions-and-branches-foreign-banks-378688.aspx\">16/2018/TT-BTC</a>  dated\nFebruary 07, 2018 of the Ministry of Finance providing guidelines for certain\nArticles on financial regimes applicable to credit institutions and branches of\nforeign banks:</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2.</span><span style=\"font-size:9.0pt;color:black;background:white\"> </span><span style=\"color:black\">Responsibilities of the State Bank of Vietnam:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Biannually (before August\n31) and annually (before April 30 of subsequent year), the State Bank of\nVietnam shall inform the Ministry of Finance the financial status of the credit\ninstitutions and foreign bank branches under the provisions of clause 2 Article\n38 of the Decree No. <a class=\"text-blue\" target=\"_blank\" title=\"Decree of Government 57/2012/ND-CP\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/decree-no-57-2012-nd-cp-on-the-financial-regulations-applicable-to-branches-144296.aspx\">57/2012/ND-CP</a> , specifically with the following indicators\n(categorized by type of credit institution):</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- The number of credit\ninstitutions, foreign bank branches.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Total charter capital,\nequity, assets, total liabilities, total raised capital, nonperforming loan\nratio and safety ratios during operation of the credit institutions and foreign\nbank branches.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Total profit (loss) and\nthe number of credit institutions and foreign bank branches making profits\n(losses).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Financial situation,\nperformance of the credit institutions more than 50% of the charter capital of\nwhich is held by the State.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other related\nindicators, contents.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Violations of the\nfinancial regimes applicable to credit institutions and foreign bank branches\ndetected during the inspection and supervision.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) Data closing period:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For a biannual report:\nFrom January 01 to June 30 inclusive of the reporting period (except for data\nreflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For an annual report:\nFrom January 01 of the reporting year to December 31 inclusive of the reporting\nyear (except for data reflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span style=\"color:black\">Article\n5. Amendments to clause 2 Article 11 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 18/2018/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/circular-18-2018-tt-btc-financial-policies-applicable-to-microfinance-institutions-432330.aspx\">18/2018/TT-BTC</a>  dated\nFebruary 12, 2018 of the Ministry of Finance providing guidance on financial\nregimes applicable to microfinance institutions:</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2. The State Bank of\nVietnam shall preside over supervising the compliance with financial regimes by\nmicrofinance institutions.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Biannually and\nannually submit reports on financial status of microfinance institutions and\nviolations against financial regimes detected during inspection or supervision\n(if any) to the Ministry of Finance. For a biannual report, the State Bank of\nVietnam shall submit to the Ministry of Finance before August 15; for an annual\nreport, the State Bank of Vietnam shall submit to the Ministry of Finance\nbefore April 15 of the following year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) Data closing period:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For a biannual report:\nFrom January 01 to June 30 inclusive of the reporting period (except for data\nreflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For an annual report:\nFrom January 01 of the reporting year to December 31 inclusive of the reporting\nyear (except for data reflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span style=\"color:black\">Article\n6. Adding points c and d to clause 2 Article 12 of the Circular No.\n19/2018/TT-BTC dated February 12, 2018 of the Ministry of Finance providing\nguidance on financial regimes applicable to Co-operative Bank of Vietnam:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“c) Data closing period:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For a biannual report:\nFrom January 01 to June 30 inclusive of the reporting period (except for data\nreflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For an annual report:\nFrom January 01 of the reporting year to December 31 inclusive of the reporting\nyear (except for data reflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span style=\"color:black\">Article\n7. Amendments to clause 2 Article 11 of the Circular No. 20/2018/TT-BTC dated\nFebruary 12, 2018 of the Ministry of Finance providing guidance on financial\nregimes applicable to People's Credit Funds:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2. Responsibilities of\nthe State Bank of Vietnam:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2.1. Biannually (before\nAugust 31) and annually (before April 30 of subsequent year), the State Bank of\nVietnam shall inform the Ministry of Finance the financial status of the\nPeople's Credit Fund system under the provisions of clause 2 Article 38 of the\nDecree No. <a class=\"text-blue\" target=\"_blank\" title=\"Decree of Government 93/2017/ND-CP\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/decree-93-2017-nd-cp-financial-regime-applicable-to-credit-institutions-branches-of-foreign-banks-375177.aspx\">93/2017/ND-CP</a> , specifically with the following indicators:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) The number of people's\ncredit funds (including the number of people's credit funds sustaining loss,\nthe number of people's credit funds sustaining no loss, the number of people's\ncredit funds making profits);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) Total profits; total\nlosses;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) Violations against\nfinancial regimes applicable to people's credit funds detected during the\ninspection or supervision (if any).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2.2. Data closing period:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) For a biannual report:\nFrom January 01 of the reporting period to June 30 inclusive of the reporting\nperiod (except for data reflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) For an annual report:\nFrom January 01 of the reporting year to December 31 inclusive of the reporting\nyear (except for data reflected at stated times).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2.3. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b><span style=\"color:black\">Article\n8. Adding point c to clause 3 Article 23 of the Circular No.\n</span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 11/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/circular-no-11-2014-tt-btc-the-business-of-prize-winning-electronic-games-for-foreigners-221965.aspx\">11/2014/TT-BTC</a>   dated January 17, 2014 of the Ministry of Finance\nproviding guidelines for some Articles specified in the Government’s Decree No.\n<a class=\"text-blue\" target=\"_blank\" title=\"Decree of Government 86/2013/ND-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/decree-no-86-2013-nd-cp-business-in-prize-winning-electronic-games-for-foreigners-203295.aspx\">86/2013/ND-CP</a>  dated July 29, 2013 on business involving prize-winning\nelectronic games for foreigners</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“c) The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b><span style=\"color:black\">Article\n9. Adding clause 4 to Article 13 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 101/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/circular-101-2017-tt-btc-guidelines-06-2017-nd-cp-business-betting-horse-racing-greyhound-racing-365018.aspx\">101/2017/TT-BTC</a>  dated\nOctober 04, 2017 of the Ministry of Finance providing guidelines for some\nArticles of the Government’s Decree No. <a class=\"text-blue\" target=\"_blank\" title=\"Decree of Government 06/2017/ND-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/decree-06-2017-nd-cp-businessf-betting-on-horse-racing-greyhound-racing-and-international-soccer-340208.aspx\">06/2017/ND-CP</a>  dated January 24, 2017 on<i> </i>business\ninvolving betting on horse racing, greyhound racing and international soccer</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“4. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9_1\"><b><span style=\"color:black\">Article\n9. Adding clause 4 to Article 13 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 102/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/circular-102-2017-tt-btc-on-guidelines-decree-03-2017-nd-cp-on-casino-business-366764.aspx\">102/2017/TT-BTC</a>  dated\nOctober 05, 2017 of the Ministry of Finance providing guidelines for some\nArticles of the Government’s Decree No. <a class=\"text-blue\" target=\"_blank\" title=\"Decree of Government 03/2017/ND-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/decree-03-2017-nd-cp-on-casino-business-339337.aspx\">03/2017/ND-CP</a>  dated January 16, 2017 on\ncasino business:</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“4. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b><span style=\"color:black\">Article\n11. Amendments to some Articles of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 86/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/circular-86-2017-tt-btc-guidelines-88-2016-nd-cp-voluntary-supplemental-retirement-367406.aspx\">86/2017/TT-BTC</a>  dated August\n15, 2017 of the Ministry of Finance providing guidelines for some Articles of\nthe Government’s Decree No. 88/2016/ND-CP dated July 01, 2016 on voluntary\nsupplemental retirement program:</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">1. Clause 3 of Article 6\nis added as follows:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“3. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2. Clause 3 of Article 7\nis added as follows:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“3. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b><span style=\"color:black\">Article\n12. Amendments to clause 4 Article 23 of the Circular No. 28/2014/TT-BTC dated\nFebruary 25, 2014 of the Ministry of Finance providing guidance on financial\nmanagement mechanisms of local development investment funds</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“4. Receiving authorities\nand report submission methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Receiving authorities:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">The reports prescribed in\nclause 2 of this Article shall be submitted to provincial People’s Committees and\nto Ministry of Finance, provincial Departments of Finance and State Bank’s\nbranches of provinces and cities.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) The reports shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b><span style=\"color:black\">Article\n13. Adding points 4.4 to clause 4 Article 16 of the Circular No. 62/2016/TT-BTC\ndated April 15, 2016 of the Ministry of Finance providing guidance on\nimplementation of financial management mechanism applicable to Vietnam Bank for\nSocial Policies promulgated together with the Prime Minister’s Decision\nNo. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Decision 180/2002/QD-TTg\" href=\"https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/-74825.aspx\">180/2002/QD-TTg</a>  dated December 19, 2002 and Decision No. 30/2015/QD-TTg\ndated July 31, 2015</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“4.4. Deadline, data\nclosing period and method for submission of operation reports and income\nstatements:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Submission deadline:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For a quarterly report:\nNo later than 30 days from the end of the quarter of the fiscal year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- For an annual report:\nNo later than 45 days from the end of the fiscal year;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) Data closing period\nfor quarterly and annual reports: Data collection begins on the first day of\nthe reporting quarter or year; data collection ends on the last day of the\nreporting quarter or year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b><span style=\"color:black\">Article\n14. Adding to points 2.3 and 2.4 to clause 2 section IX of the Circular No.\n111/2007/TT-BTC dated September 12, 2007 of the Ministry of Finance providing\nguidance on implementation of financial management mechanism applicable to\nVietnam Development Bank</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2.3. Data closing period\nfor quarterly and annual reports: Data collection begins on the first day of\nthe reporting quarter or year; data collection ends on the last day of the\nreporting quarter or year.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2.3. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b><span style=\"color:black\">Article\n15. Adding clause 7 to Article 19 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 132/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/circular-no-132-2015-tt-btc-financial-management-for-vietnam-environment-protection-fund-291239.aspx\">132/2015/TT-BTC</a>  dated\nAugust 28, 2015 of the Ministry of Finance providing guidelines for financial\nmanagement mechanism applicable to\nVietnam Environment Protection Fund</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“7. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b><span style=\"color:black\">Article\n16. Adding clause 2 to Article 20 of the Circular No. 15/2019/TT-BTC dated\nMarch 18, 2019 of the Ministry of Finance providing guidelines for financial\nmanagement mechanism applicable to and evaluation of performance of the Credit\nGuarantee Fund for Small and Medium Enterprises</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“2. The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">c) By email or through specialized\nreporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">d) Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b><span style=\"color:black\">Article\n17. Amendments to clause 3 Article 8 of the Circular No. </span></b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Circular 08/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/circular-08-2017-tt-btc-management-use-environmental-remediation-deposits-paid-by-mining-organizations-345686.aspx\">08/2017/TT-BTC</a>  dated\nJanuary 24, 2017 of the Ministry of Finance providing guidance on management\nand use of environmental improvement and remediation deposits for mineral\nmining activities made to Environment Protection Funds</b></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">“3. Manage and use\ndeposits as prescribed by law and this Circular. Quarterly (before the 25th of\nthe first month of the following quarter) and annually (before March 31 of the\nfollowing year), the deposit-receiving party shall submit a report on\nmanagement and use of deposits to the People's Committee of province or\ncentral-affiliated city and the Ministry of Natural Resources and Environment according\nto the Appendix to this Circular.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">a) Data closing period:\nData collection begins on the first day of the reporting quarter or year; data\ncollection ends on the last day of the reporting quarter or year.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">b) The report shall be\nsubmitted adopting any of the following methods:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- In person in the form\nof a physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By post in the form of\na physical document;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- By email or through\nspecialized reporting software system;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">- Other methods\nprescribed by law.”</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18\"><b><span style=\"color:black\">Article\n18. Implementation clause</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">1. This Circular comes\ninto force from November 15, 2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\">2. Any difficulties that\narise during the implementation of this Circular should be reported to the\nMinistry of Finance for consideration and resolution./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"color:black\"> </span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADAAOQA=-->\n <tbody><tr>\n  <td width=\"331\" valign=\"top\" style=\"width:248.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:\n  0cm\"> </p>\n  </td>\n  <td width=\"237\" valign=\"top\" style=\"width:177.7pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"color:black\">PP. THE MINISTER<br>\n  THE DEPUTY MINISTER<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Huynh Quang Hai</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p><span style=\"color:black\"> </span></p>\n\n",
+  "mdContentEn": "**THE MINISTRY OF FINANCE  \n\\-------**\n\n**THE SOCIALIST REPUBLIC OF VIETNAM  \nIndependence - Freedom - Happiness  \n\\---------------**\n\nNo. 84/2020/TT-BTC\n\n_Hanoi, October 01, 2020_\n\n**CIRCULAR**\n\nAMENDMENTS TO REGULATIONS ON PERIODIC REPORTING REGIME UNDER AUTHORITY OF MINISTER OF FINANCE IN THE FIELD OF FINANCE AND BANKING\n\n_Pursuant to the Government’s Decree No. 87/2017/ND-CP dated July 26, 2017 defining functions, tasks, powers and organizational structure of the Ministry of Finance;_\n\n_Pursuant to the Government’s Decree No. 09/2019/ND-CP dated January 24, 2019 providing for reporting regimes applicable to state administrative agencies;_\n\n_At the request of the Director General of the Department of Banking and Financial Institutions;_\n\n_The Minister of Finance hereby promulgates a Circular on amendments to regulations on periodic reporting regime under authority of Minister of Finance in the field of finance and banking._\n\n**Article 1. Amendments to some Articles of the Circular No. 195/2013/TT-BTC dated December 18, 2013 of the Ministry of Finance providing guidelines for reporting regimes applicable to the State Bank of Vietnam:**\n\n1\\. Point 2.2 clause 2 of Article 12 is amended as follows:\n\n“2.2. Financial plan of the State Bank of Vietnam shall be prepared on an annual basis and submitted to Ministry of Finance for appraisal and aggregation in state budget estimates as referred to by the Law on State Budget and its guiding documents.”\n\n2\\. Point 2.4 is added to clause 2 of Article 12 as follows:\n\n“2.4. The financial plan shall be submitted in the form of a physical document by adopting any of the following methods:\n\na) In person;\n\nb) By post.”\n\n3\\. Point 2.3 is added to clause 2 of Article 13 as follows:\n\n“2.3. The financial statement shall be submitted in the form of a physical document by adopting any of the following methods:\n\na) In person;\n\nb) By post.”\n\n**Article 2. Adding clause 7 to Article 10 of the Circular No. 01/2017/TT-BTC dated January 05, 2017 of the Ministry of Finance providing guidelines for financial regimes applicable to asset management companies of Vietnamese credit institutions:**\n\n“7. Data closing period and report submission methods:\n\na) Data closing period:\n\n\\- The data closing period for the financial plan specified in clause 1 of this Article shall begin from January 01 of the plan year to December 31 of the plan year.\n\n\\- The data closing period for the quarterly and annual financial statements specified in clause 1 of this Article:\n\n\\+ For a quarterly financial statement: From the first day of the reporting quarter to the last day of the reporting quarter (accumulated data shall be collected from the first day of the reporting year).\n\n\\+ For an annual financial statement: From January 01 of the reporting year to December 31 of the reporting year.\n\nb) The statement shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.\n\nc) Contents, data closing period and deadline for submission of ad hoc statements prescribed in clause 6 of this Article shall comply with requests of the State Bank of Vietnam and regulatory bodies.”\n\n**Article 3. Adding clause 4 to Article 8 of the Circular No.** **[53/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/circular-53-2017-tt-btc-guidance-69-2016-nd-cp-regarding-requirements-for-running-debt-trading-352833.aspx \"Circular 53/2017/TT-BTC\") dated May 19, 2017 of the Ministry of Finance providing guidelines for implementation of the Government’s Decree No. [69/2016/ND-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/decree-69-2016-nd-cp-requirements-running-debt-trading-service-317171.aspx \"Decree of Government 69/2016/ND-CP\") dated July 01, 2016 on requirements for running debt trading services:**\n\n“4. Data closing period and report submission methods:\n\na) Data closing period for quarterly and annual reports: From the starting date of data collection to the ending date of data collection (except for data reflected at stated times). Data collection begins on the first day of the reporting quarter or year (for accumulated data collected from the first day of the reporting year); data collection ends on the last day of the reporting quarter or year.\n\nb) The statement shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.\n\nc) Contents, data closing period and deadline for submission of ad hoc reports shall comply with requests of regulatory bodies.”\n\n**Article 2. Amendments to clause 2 Article 10 of the Circular No.** **[16/2018/TT-BTC](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/circular-16-2018-tt-btc-financial-regulations-applied-credit-institutions-and-branches-foreign-banks-378688.aspx \"Circular 16/2018/TT-BTC\") dated February 07, 2018 of the Ministry of Finance providing guidelines for certain Articles on financial regimes applicable to credit institutions and branches of foreign banks:**\n\n“2. Responsibilities of the State Bank of Vietnam:\n\na) Biannually (before August 31) and annually (before April 30 of subsequent year), the State Bank of Vietnam shall inform the Ministry of Finance the financial status of the credit institutions and foreign bank branches under the provisions of clause 2 Article 38 of the Decree No. [57/2012/ND-CP](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/decree-no-57-2012-nd-cp-on-the-financial-regulations-applicable-to-branches-144296.aspx \"Decree of Government 57/2012/ND-CP\") , specifically with the following indicators (categorized by type of credit institution):\n\n\\- The number of credit institutions, foreign bank branches.\n\n\\- Total charter capital, equity, assets, total liabilities, total raised capital, nonperforming loan ratio and safety ratios during operation of the credit institutions and foreign bank branches.\n\n\\- Total profit (loss) and the number of credit institutions and foreign bank branches making profits (losses).\n\n\\- Financial situation, performance of the credit institutions more than 50% of the charter capital of which is held by the State.\n\n\\- Other related indicators, contents.\n\n\\- Violations of the financial regimes applicable to credit institutions and foreign bank branches detected during the inspection and supervision.\n\nb) Data closing period:\n\n\\- For a biannual report: From January 01 to June 30 inclusive of the reporting period (except for data reflected at stated times).\n\n\\- For an annual report: From January 01 of the reporting year to December 31 inclusive of the reporting year (except for data reflected at stated times).\n\nc) The report shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 5. Amendments to clause 2 Article 11 of the Circular No.** **[18/2018/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/circular-18-2018-tt-btc-financial-policies-applicable-to-microfinance-institutions-432330.aspx \"Circular 18/2018/TT-BTC\") dated February 12, 2018 of the Ministry of Finance providing guidance on financial regimes applicable to microfinance institutions:**\n\n“2. The State Bank of Vietnam shall preside over supervising the compliance with financial regimes by microfinance institutions.\n\na) Biannually and annually submit reports on financial status of microfinance institutions and violations against financial regimes detected during inspection or supervision (if any) to the Ministry of Finance. For a biannual report, the State Bank of Vietnam shall submit to the Ministry of Finance before August 15; for an annual report, the State Bank of Vietnam shall submit to the Ministry of Finance before April 15 of the following year.\n\nb) Data closing period:\n\n\\- For a biannual report: From January 01 to June 30 inclusive of the reporting period (except for data reflected at stated times).\n\n\\- For an annual report: From January 01 of the reporting year to December 31 inclusive of the reporting year (except for data reflected at stated times).\n\nc) The report shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 6. Adding points c and d to clause 2 Article 12 of the Circular No. 19/2018/TT-BTC dated February 12, 2018 of the Ministry of Finance providing guidance on financial regimes applicable to Co-operative Bank of Vietnam:**\n\n“c) Data closing period:\n\n\\- For a biannual report: From January 01 to June 30 inclusive of the reporting period (except for data reflected at stated times).\n\n\\- For an annual report: From January 01 of the reporting year to December 31 inclusive of the reporting year (except for data reflected at stated times).\n\nd) The report shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 7. Amendments to clause 2 Article 11 of the Circular No. 20/2018/TT-BTC dated February 12, 2018 of the Ministry of Finance providing guidance on financial regimes applicable to People's Credit Funds:**\n\n“2. Responsibilities of the State Bank of Vietnam:\n\n2.1. Biannually (before August 31) and annually (before April 30 of subsequent year), the State Bank of Vietnam shall inform the Ministry of Finance the financial status of the People's Credit Fund system under the provisions of clause 2 Article 38 of the Decree No. [93/2017/ND-CP](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/decree-93-2017-nd-cp-financial-regime-applicable-to-credit-institutions-branches-of-foreign-banks-375177.aspx \"Decree of Government 93/2017/ND-CP\") , specifically with the following indicators:\n\na) The number of people's credit funds (including the number of people's credit funds sustaining loss, the number of people's credit funds sustaining no loss, the number of people's credit funds making profits);\n\nb) Total profits; total losses;\n\nc) Violations against financial regimes applicable to people's credit funds detected during the inspection or supervision (if any).\n\n2.2. Data closing period:\n\na) For a biannual report: From January 01 of the reporting period to June 30 inclusive of the reporting period (except for data reflected at stated times).\n\nb) For an annual report: From January 01 of the reporting year to December 31 inclusive of the reporting year (except for data reflected at stated times).\n\n2.3. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 8. Adding point c to clause 3 Article 23 of the Circular No.** **[11/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/doanh-nghiep/circular-no-11-2014-tt-btc-the-business-of-prize-winning-electronic-games-for-foreigners-221965.aspx \"Circular 11/2014/TT-BTC\") dated January 17, 2014 of the Ministry of Finance providing guidelines for some Articles specified in the Government’s Decree No. [86/2013/ND-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/decree-no-86-2013-nd-cp-business-in-prize-winning-electronic-games-for-foreigners-203295.aspx \"Decree of Government 86/2013/ND-CP\") dated July 29, 2013 on business involving prize-winning electronic games for foreigners**\n\n“c) The report shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 9. Adding clause 4 to Article 13 of the Circular No.** **[101/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/doanh-nghiep/circular-101-2017-tt-btc-guidelines-06-2017-nd-cp-business-betting-horse-racing-greyhound-racing-365018.aspx \"Circular 101/2017/TT-BTC\") dated October 04, 2017 of the Ministry of Finance providing guidelines for some Articles of the Government’s Decree No. [06/2017/ND-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/decree-06-2017-nd-cp-businessf-betting-on-horse-racing-greyhound-racing-and-international-soccer-340208.aspx \"Decree of Government 06/2017/ND-CP\") dated January 24, 2017 on business involving betting on horse racing, greyhound racing and international soccer**\n\n“4. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 9. Adding clause 4 to Article 13 of the Circular No.** **[102/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/circular-102-2017-tt-btc-on-guidelines-decree-03-2017-nd-cp-on-casino-business-366764.aspx \"Circular 102/2017/TT-BTC\") dated October 05, 2017 of the Ministry of Finance providing guidelines for some Articles of the Government’s Decree No. [03/2017/ND-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/decree-03-2017-nd-cp-on-casino-business-339337.aspx \"Decree of Government 03/2017/ND-CP\") dated January 16, 2017 on casino business:**\n\n“4. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 11. Amendments to some Articles of the Circular No.** **[86/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/circular-86-2017-tt-btc-guidelines-88-2016-nd-cp-voluntary-supplemental-retirement-367406.aspx \"Circular 86/2017/TT-BTC\") dated August 15, 2017 of the Ministry of Finance providing guidelines for some Articles of the Government’s Decree No. 88/2016/ND-CP dated July 01, 2016 on voluntary supplemental retirement program:**\n\n1\\. Clause 3 of Article 6 is added as follows:\n\n“3. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n2\\. Clause 3 of Article 7 is added as follows:\n\n“3. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 12. Amendments to clause 4 Article 23 of the Circular No. 28/2014/TT-BTC dated February 25, 2014 of the Ministry of Finance providing guidance on financial management mechanisms of local development investment funds**\n\n“4. Receiving authorities and report submission methods:\n\na) Receiving authorities:\n\nThe reports prescribed in clause 2 of this Article shall be submitted to provincial People’s Committees and to Ministry of Finance, provincial Departments of Finance and State Bank’s branches of provinces and cities.\n\nb) The reports shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 13. Adding points 4.4 to clause 4 Article 16 of the Circular No. 62/2016/TT-BTC dated April 15, 2016 of the Ministry of Finance providing guidance on implementation of financial management mechanism applicable to Vietnam Bank for Social Policies promulgated together with the Prime Minister’s Decision No.** **[180/2002/QD-TTg](https://thuvienphapluat.vn/van-ban/tien-te-ngan-hang/-74825.aspx \"Decision 180/2002/QD-TTg\") dated December 19, 2002 and Decision No. 30/2015/QD-TTg dated July 31, 2015**\n\n“4.4. Deadline, data closing period and method for submission of operation reports and income statements:\n\na) Submission deadline:\n\n\\- For a quarterly report: No later than 30 days from the end of the quarter of the fiscal year.\n\n\\- For an annual report: No later than 45 days from the end of the fiscal year;\n\nb) Data closing period for quarterly and annual reports: Data collection begins on the first day of the reporting quarter or year; data collection ends on the last day of the reporting quarter or year.\n\nc) The report shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 14. Adding to points 2.3 and 2.4 to clause 2 section IX of the Circular No. 111/2007/TT-BTC dated September 12, 2007 of the Ministry of Finance providing guidance on implementation of financial management mechanism applicable to Vietnam Development Bank**\n\n“2.3. Data closing period for quarterly and annual reports: Data collection begins on the first day of the reporting quarter or year; data collection ends on the last day of the reporting quarter or year.”\n\n2.3. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 15. Adding clause 7 to Article 19 of the Circular No.** **[132/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/circular-no-132-2015-tt-btc-financial-management-for-vietnam-environment-protection-fund-291239.aspx \"Circular 132/2015/TT-BTC\") dated August 28, 2015 of the Ministry of Finance providing guidelines for financial management mechanism applicable to Vietnam Environment Protection Fund**\n\n“7. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 16. Adding clause 2 to Article 20 of the Circular No. 15/2019/TT-BTC dated March 18, 2019 of the Ministry of Finance providing guidelines for financial management mechanism applicable to and evaluation of performance of the Credit Guarantee Fund for Small and Medium Enterprises**\n\n“2. The report shall be submitted adopting any of the following methods:\n\na) In person in the form of a physical document;\n\nb) By post in the form of a physical document;\n\nc) By email or through specialized reporting software system;\n\nd) Other methods prescribed by law.”\n\n**Article 17. Amendments to clause 3 Article 8 of the Circular No.** **[08/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/circular-08-2017-tt-btc-management-use-environmental-remediation-deposits-paid-by-mining-organizations-345686.aspx \"Circular 08/2017/TT-BTC\") dated January 24, 2017 of the Ministry of Finance providing guidance on management and use of environmental improvement and remediation deposits for mineral mining activities made to Environment Protection Funds**\n\n“3. Manage and use deposits as prescribed by law and this Circular. Quarterly (before the 25th of the first month of the following quarter) and annually (before March 31 of the following year), the deposit-receiving party shall submit a report on management and use of deposits to the People's Committee of province or central-affiliated city and the Ministry of Natural Resources and Environment according to the Appendix to this Circular.\n\na) Data closing period: Data collection begins on the first day of the reporting quarter or year; data collection ends on the last day of the reporting quarter or year.\n\nb) The report shall be submitted adopting any of the following methods:\n\n\\- In person in the form of a physical document;\n\n\\- By post in the form of a physical document;\n\n\\- By email or through specialized reporting software system;\n\n\\- Other methods prescribed by law.”\n\n**Article 18. Implementation clause**\n\n1\\. This Circular comes into force from November 15, 2020.\n\n2\\. Any difficulties that arise during the implementation of this Circular should be reported to the Ministry of Finance for consideration and resolution./.\n\n**PP. THE MINISTER  \nTHE DEPUTY MINISTER  \n  \n  \n  \n  \nHuynh Quang Hai**"
+}

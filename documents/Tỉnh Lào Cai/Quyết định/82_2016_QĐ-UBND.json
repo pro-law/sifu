@@ -1,0 +1,641 @@
+{
+  "title": "Quyết định 82/2016/QĐ-UBND Quy định mức hỗ trợ, khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai; chế độ trợ cấp đặc thù đối với công, viên chức và người lao động làm việc tại cơ sở quản lý người nghiện ma tuý, người sau cai nghiện ma tuý giai đoạn 2016-2020",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 35/2009/QĐ-UBND quy định mức phụ cấp thu hút đặc thù đối với cán bộ, viên chức làm việc tại các cơ sở quản lý người cai nghiện ma tuý, người bán dâm và người sau cai nghiện ma tuý trên địa bàn tỉnh Lào Cai do Ủy ban nhân dân tỉnh Lào Cai ban hành",
+      "id": "35/2009/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Hữu Vạn"
+      ],
+      "issuedDate": "2009-11-06",
+      "effectiveDate": "2009-11-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/09/2016"
+    },
+    {
+      "title": "Quyết định 42/2015/QĐ-UBND Quy định về mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai",
+      "id": "42/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Doãn Văn Hưởng"
+      ],
+      "issuedDate": "2015-09-01",
+      "effectiveDate": "2015-09-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/09/2016"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Luật xử lý vi phạm hành chính 2012",
+      "id": "15/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Vi phạm hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Pháp lệnh ưu đãi người có công với cách mạng năm 2005",
+      "id": "26/2005/PL-UBTVQH11",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-06-29",
+      "effectiveDate": "2005-10-01",
+      "gazetteDate": "2005-08-08",
+      "gazetteNumber": "Số 9",
+      "status": "Hết hiệu lực: 01/07/2021"
+    },
+    {
+      "title": "Nghị định 204/2004/NĐ-CP về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+      "id": "204/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2004-12-14",
+      "effectiveDate": "2005-01-04",
+      "gazetteDate": "2004-12-20",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Phòng, chống ma túy 2000",
+      "id": "23/2000/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2000-12-09",
+      "effectiveDate": "2001-06-01",
+      "gazetteDate": "2001-02-15",
+      "gazetteNumber": "Số 6",
+      "status": "Hết hiệu lực: 01/01/2022"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị quyết 68/2016/NQ-HĐND về mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai; chế độ trợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại cơ sở quản lý người nghiện ma tuý, người sau cai nghiện ma tuý giai đoạn 2016-2020",
+      "id": "68/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Văn Vịnh"
+      ],
+      "issuedDate": "2016-07-18",
+      "effectiveDate": "2016-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị định 34/2016/NĐ-CP quy định chi tiết và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật",
+      "id": "34/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-14",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-05-29",
+      "gazetteNumber": "Từ số 365 đến số 366",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 26/2016/NĐ-CP quy định chế độ trợ cấp, phụ cấp đối với công, viên chức và người lao động làm việc tại cơ sở quản lý người nghiện ma túy, người sau cai nghiện ma túy và cơ sở trợ giúp xã hội công lập",
+      "id": "26/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2016-04-06",
+      "effectiveDate": "2016-06-01",
+      "gazetteDate": "2016-04-17",
+      "gazetteNumber": "Từ số 289 đến số 290",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 148/2014/TTLT-BTC-BLĐTBXH quy định quản lý và sử dụng kinh phí thực hiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; chế độ đối với người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội và tổ chức cai nghiện ma tuý tại gia đình và cộng đồng do Bộ trưởng Bộ Tài chính - Bộ Lao động - Thương binh và Xã hội ban hành",
+      "id": "148/2014/TTLT-BTC-BLĐTBXH",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Vi phạm hành chính",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Tài chính, Bộ Lao động - Thương binh và Xã hội",
+      "signers": [
+        "Trương Chí Trung",
+        "Nguyễn Trọng Đàm"
+      ],
+      "issuedDate": "2014-10-08",
+      "effectiveDate": "2014-11-23",
+      "gazetteDate": "2014-12-12",
+      "gazetteNumber": "Từ số 1047 đến số 1048",
+      "status": "Hết hiệu lực: 19/11/2022"
+    },
+    {
+      "title": "Nghị định 60/2003/NĐ-CP Hướng dẫn Luật Ngân sách nhà nước",
+      "id": "60/2003/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2003-06-06",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-06-30",
+      "gazetteNumber": "Từ số 67 đến số 68",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Luật Ngân sách Nhà nước 2002",
+      "id": "01/2002/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2002-12-16",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-01-25",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Nghị quyết 201/2023/NQ-HĐND quy định về chế độ đối với người cai nghiện ma túy và người làm công tác cai nghiện ma túy ở cấp xã trên địa bàn tỉnh Lâm Đồng",
+      "id": "201/2023/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Trần Đức Quận"
+      ],
+      "issuedDate": "2023-07-12",
+      "effectiveDate": "2023-07-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 340/QĐ-UBND-HC năm 2023 bãi bỏ Quyết định 1098/QĐ-UBND-HC về mức hỗ trợ đặc thù đối với lao động hợp đồng tại các Hội có tính chất đặc thù theo Khoản 2 Điều 3 Quyết định 59/QĐ-UBND-HC và hỗ trợ kinh phí hoạt động cho Hội hoạt động trên địa bàn tỉnh Đồng Tháp",
+      "id": "340/QĐ-UBND-HC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Đồng Tháp",
+      "signers": [
+        "Đoàn Tấn Bửu"
+      ],
+      "issuedDate": "2023-03-27",
+      "effectiveDate": "2023-03-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 80/KH-UBND năm 2022 về cai nghiện ma túy và quản lý sau cai nghiện ma túy giai đoạn 2022-2025 trên địa bàn tỉnh Lạng Sơn",
+      "id": "80/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2022-04-09",
+      "effectiveDate": "2022-04-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị quyết 18/2018/NQ-HĐND quy định mức hỗ trợ chi phí cho học viên trong thời gian chấp hành quyết định xử lý hành chính tại cơ sở cai nghiện bắt buộc; mức đóng góp, mức hỗ trợ và chế độ miễn, giảm chi phí đối với người nghiện ma tuý trong thời gian cai nghiện bắt buộc tại cộng đồng do tỉnh Kon Tum ban hành",
+      "id": "18/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Văn Hùng"
+      ],
+      "issuedDate": "2018-07-19",
+      "effectiveDate": "2018-07-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 85/2018/NQ-HĐND quy định về mức đóng góp và chế độ miễn, giảm đóng góp chi phí trong thời gian cai nghiện đối với người nghiện ma túy cai nghiện bắt buộc tại cộng đồng trên địa bàn tỉnh Lâm Đồng",
+      "id": "85/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Trần Đức Quận"
+      ],
+      "issuedDate": "2018-07-11",
+      "effectiveDate": "2018-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 22/07/2023"
+    },
+    {
+      "title": "Quyết định 06/2018/QĐ-UBND về quy định mức đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy cai nghiện tự nguyện tại Cơ sở cai nghiện ma túy tỉnh Cà Mau",
+      "id": "06/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Thể thao - Y tế",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Thân Đức Hưởng"
+      ],
+      "issuedDate": "2018-02-28",
+      "effectiveDate": "2018-03-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/02/2019"
+    },
+    {
+      "title": "Quyết định 08/2017/QĐ-UBND sửa đổi Khoản 1 Điều 4, Khoản 2 Điều 6 tại Quy định mức chi, chế độ đóng góp, miễn giảm, hỗ trợ đối với người cai nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào Trung tâm Chữa bệnh-Giáo dục-Lao động xã hội; người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Chữa bệnh-Giáo dục-Lao động xã hội và tổ chức cai nghiện tại gia đình và tại cộng đồng trên địa bàn tỉnh Yên Bái kèm theo Quyết định 35/2016/QĐ-UBND",
+      "id": "08/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Yên Bái",
+      "signers": [
+        "Đỗ Đức Duy"
+      ],
+      "issuedDate": "2017-06-19",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 17/2017/QĐ-UBND sửa đổi, bổ sung Quyết định số 22/2016/QĐ-UBND do tỉnh Kiên Giang ban hành",
+      "id": "17/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Phạm Vũ Hồng"
+      ],
+      "issuedDate": "2017-05-24",
+      "effectiveDate": "2017-06-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/11/2019"
+    },
+    {
+      "title": "Quyết định 433/2017/QĐ-UBND sửa đổi Quy định quản lý và sử dụng kinh phí thực hiện chế độ đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội; chế độ đối với người nghiện ma túy cai nghiện tại gia đình và cộng đồng; cơ chế quản lý sử dụng tiền đóng góp cai nghiện ma túy tại Trung tâm và tại gia đình, cộng đồng trên địa bàn tỉnh Thanh Hóa  ban hành theo Quyết định 4652/2015/QĐ-UBND",
+      "id": "433/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Phạm Đăng Quyền"
+      ],
+      "issuedDate": "2017-02-10",
+      "effectiveDate": "2017-03-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/08/2020"
+    },
+    {
+      "title": "Quyết định 01/2017/QĐ-UBND Quy định quản lý và sử dụng kinh phí thực hiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; chế độ đối với người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Giáo dục - Lao động xã hội và tổ chức cai nghiện ma túy tại gia đình và cộng đồng trên địa bàn tỉnh Quảng Nam",
+      "id": "01/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Đinh Văn Thu"
+      ],
+      "issuedDate": "2017-01-20",
+      "effectiveDate": "2017-01-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 11/09/2018"
+    },
+    {
+      "title": "Quyết định 71/2016/QĐ-UBND về quy định mức trợ cấp đặc thù cho công, viên chức và người lao động làm việc tại Cơ sở điều trị người nghiện ma túy tỉnh Tây Ninh",
+      "id": "71/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tây Ninh",
+      "signers": [
+        "Nguyễn Thanh Ngọc"
+      ],
+      "issuedDate": "2016-12-22",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 72/2016/NQ-HĐND quy định mức trợ cấp đặc thù đối với công, viên chức và người lao động làm việc tại cơ sở quản lý người nghiện ma túy và người sau cai nghiện ma túy trên địa bàn tỉnh Phú Yên",
+      "id": "72/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Huỳnh Tấn Việt"
+      ],
+      "issuedDate": "2016-12-16",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 42/2016/NQ-HĐND quy định mức trợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại cơ sở quản lý người nghiện ma túy, người sau cai nghiện ma túy công lập trên địa bàn tỉnh Đồng Nai",
+      "id": "42/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Nguyễn Phú Cường"
+      ],
+      "issuedDate": "2016-12-09",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2023"
+    },
+    {
+      "title": "Nghị quyết 41/2016/NQ-HĐND quy định mức trợ cấp đặc thù đối với công, viên chức và người lao động làm việc tại cơ sở quản lý người nghiện và sau cai nghiện ma túy trên địa bàn tỉnh Hòa Bình",
+      "id": "41/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Trần Đăng Ninh"
+      ],
+      "issuedDate": "2016-12-07",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/07/2022"
+    },
+    {
+      "title": "Nghị quyết 07/2016/NQ-HĐND về mức trợ cấp đặc thù đối với công, viên chức và người lao động làm việc tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội tỉnh Tuyên Quang",
+      "id": "07/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Văn Sơn"
+      ],
+      "issuedDate": "2016-12-06",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 15/2016/QĐ-UBND quy định mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Giáo dục - Lao động Xã hội và tổ chức cai nghiện ma túy tại gia đình và cộng đồng trên địa bàn tỉnh Cà Mau",
+      "id": "15/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Thân Đức Hưởng"
+      ],
+      "issuedDate": "2016-06-13",
+      "effectiveDate": "2016-06-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 12/03/2018"
+    },
+    {
+      "title": "Quyết định 14/2016/QĐ-UBND Quy định về mức hỗ trợ, khoản đóng góp, chế độ miễn, giảm đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Ninh Thuận",
+      "id": "14/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Lê Văn Bình"
+      ],
+      "issuedDate": "2016-04-04",
+      "effectiveDate": "2016-04-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/08/2019"
+    },
+    {
+      "title": "Quyết định 4652/2015/QĐ-UBND Quy định quản lý và sử dụng kinh phí thực hiện chế độ đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội; chế độ đối với người nghiện ma túy cai nghiện tại gia đình và cộng đồng; cơ chế quản lý, sử dụng tiền đóng góp cai nghiện ma túy tại Trung tâm và tại gia đình, cộng đồng trên địa bàn tỉnh Thanh Hóa",
+      "id": "4652/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Phạm Đăng Quyền"
+      ],
+      "issuedDate": "2015-11-11",
+      "effectiveDate": "2015-11-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/08/2020"
+    },
+    {
+      "title": "Kế hoạch 693/KH-UBND-NC năm 2012 thực hiện Chương trình mục tiêu quốc gia phòng, chống ma túy giai đoạn 2012-2015 do tỉnh Nghệ an ban hành",
+      "id": "693/KH-UBND-NC",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Nguyễn Xuân Đường"
+      ],
+      "issuedDate": "2012-11-27",
+      "effectiveDate": "2012-11-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 31/2009/QĐ-UBND quy định mức đóng góp khoản chi phí đối với người nghiện ma túy chữa trị, cai nghiện tự nguyện tại Trung tâm chữa bệnh giáo dục lao động xã hội tỉnh Hòa Bình",
+      "id": "31/2009/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Bùi Văn Tỉnh"
+      ],
+      "issuedDate": "2009-09-14",
+      "effectiveDate": "2009-09-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/04/2020"
+    }
+  ],
+  "id": "82/2016/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Văn hóa - Xã hội"
+  ],
+  "organization": "Tỉnh Lào Cai",
+  "signers": [
+    "Đặng Xuân Phong"
+  ],
+  "issuedDate": "2016-08-26",
+  "effectiveDate": "2016-09-01",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMQAyADAAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>UỶ BAN NHÂN\n  DÂN <br>\n  TỈNH LÀO CAI<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  82/2016/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Lào Cai, ngày\n  26 tháng 8 năm 2016</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY ĐỊNH MỨC HỖ TRỢ, CÁC KHOẢN ĐÓNG GÓP, CHẾ ĐỘ MIỄN,\nGIẢM CHI PHÍ ĐỐI VỚI NGƯỜI NGHIỆN MA TÚY BỊ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH\nĐƯA VÀO CƠ SỞ CAI NGHIỆN BẮT BUỘC, NGƯỜI NGHIỆN MA TÚY CHỮA TRỊ, CAI NGHIỆN TẠI\nTRUNG TÂM CHỮA BỆNH - GIÁO DỤC - LAO ĐỘNG XÃ HỘI, TẠI GIA ĐÌNH VÀ CỘNG ĐỒNG\nTRÊN ĐỊA BÀN TỈNH LÀO CAI; CHẾ ĐỘ TRỢ CẤP ĐẶC THÙ ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC\nVÀ NGƯỜI LAO ĐỘNG LÀM VIỆC TẠI CÁC CƠ SỞ QUẢN LÝ NGƯỜI NGHIỆN MA TUÝ, NGƯỜI SAU\nCAI NGHIỆN MA TUÝ GIAI ĐOẠN 2016 - 2020</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH LÀO CAI</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương\nngày 19 tháng 6 năm 2015; </i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Ban hành văn bản quy phạm pháp luật\nngày 22 tháng 6 năm 2015; </i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Ngân sách nhà nước ngày 16 tháng\n12 năm 2002;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06\ntháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật\nNgân sách nhà nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14\ntháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi\nhành Luật Ban hành văn bản quy phạm pháp luật;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 26/2016/NĐ-CP ngày 06\ntháng 4 năm 2016 của Chính phủ quy định chế độ trợ cấp, phụ cấp đối với công chức,\nviên chức và người lao động làm việc tại các cơ sở quản lý người nghiện ma túy,\nngười sau cai nghiện ma túy và cơ sở trợ giúp xã hội công lập;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư liên tịch số\n148/2014/TTLT-BTC-BLĐTBXH ngày 08 tháng 10 năm 2014 của liên bộ: Bộ Tài chính,\nBộ Lao động - Thương binh và Xã hội quy định về quản lý và sử dụng kinh phí thực\nhiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc;\nchế độ đối với người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại\nTrung tâm Chữa bệnh - Giáo dục - Lao động xã hội và tổ chức cai nghiện ma túy tại\ngia đình và cộng đồng;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị quyết số 68/2016/NQ-HĐND ngày 18\ntháng 7 năm 2016 của HĐND tỉnh Lào Cai về mức hỗ trợ, các khoản đóng góp, chế độ\nmiễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành\nchính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện\ntại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng\ntrên địa bàn tỉnh Lào Cai; chế độ trợ cấp đặc thù đối với công chức, viên chức\nvà người lao động làm việc tại các cơ sở quản lý người nghiện ma tuý, người sau\ncai nghiện ma tuý giai đoạn 2016 - 2020;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Theo đề nghị của Sở Lao động - Thương binh và\nXã hội tại Tờ trình số 129/TTr-SLĐTBXH ngày 04 tháng 8 năm 2016.</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1</b></a><b>.\n</b><a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy định mức hỗ trợ,\ncác khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp\ndụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện\nma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội,\ntại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai; chế độ trợ cấp đặc thù đối\nvới công chức, viên chức và người lao động làm việc tại các cơ sở quản lý người\nnghiện ma tuý, người sau cai nghiện ma tuý giai đoạn 2016 - 2020.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>Điều 2</b></a><b>.\n</b><a name=\"dieu_2_name\">Giao Sở Lao động - Thương binh và Xã hội chủ trì, phối\nhợp với Sở Kế hoạch và Đầu tư, Sở Nội vụ, Sở Tài chính, Sở Y tế; Chủ tịch UBND\ncác huyện, thành phố hướng dẫn triển khai thực hiện Quyết định này.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>Điều 3</b></a><b>.\n</b><a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Lao động\n- Thương binh và Xã hội, Kế hoạch và Đầu tư, Nội vụ, Tài chính, Y tế; Chủ tịch\nUBND các huyện, thành phố; Giám đốc, Trưởng các Cơ sở cai nghiện ma túy và các\ncơ quan, đơn vị, tổ chức, cá nhân có liên quan trên địa bàn tỉnh chịu trách nhiệm\nthi hành Quyết định này.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Quyết định này có hiệu lực kể\ntừ ngày 01 tháng 9 năm 2016.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Quyết định số 42/2015/QĐ-UBND\nngày 01/9/2015 của UBND tỉnh Lào Cai ban hành Quy định về mức hỗ trợ, các khoản\nđóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện\npháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa\ntrị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia\nđình và cộng đồng trên địa bàn tỉnh Lào Cai và Quyết định số 35/2009/QĐ-UBND\nngày 06/11/2009 của UBND tỉnh Lào Cai quy định mức phụ cấp thu hút đặc thù đối\nvới cán bộ, viên chức làm việc tại các cơ sở quản lý người cai nghiện ma tuý,\nngười bán dâm và người sau cai nghiện ma tuý trên địa bàn tỉnh Lào Cai hết hiệu\nlực kể từ ngày quyết định này có hiệu lực thi hành./.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMQAyADAAOAA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM. UỶ BAN\n  NHÂN DÂN<br>\n  TỈNH CHỦ TỊCH</b><br>\n  <br>\n  <i><br>\n  </i><br>\n  <br>\n  <b>Đặng Xuân Phong</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"loai_2_name\">MỨC HỖ TRỢ, CÁC KHOẢN ĐÓNG GÓP, CHẾ ĐỘ MIỄN, GIẢM\nCHI PHÍ ĐỐI VỚI NGƯỜI NGHIỆN MA TÚY BỊ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH ĐƯA\nVÀO CƠ SỞ CAI NGHIỆN BẮT BUỘC, NGƯỜI NGHIỆN MA TÚY CHỮA TRỊ, CAI NGHIỆN TẠI\nTRUNG TÂM CHỮA BỆNH - GIÁO DỤC - LAO ĐỘNG XÃ HỘI, TẠI GIA ĐÌNH VÀ CỘNG ĐỒNG\nTRÊN ĐỊA BÀN TỈNH LÀO CAI; CHẾ ĐỘ TRỢ CẤP ĐẶC THÙ ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC\nVÀ NGƯỜI LAO ĐỘNG LÀM VIỆC TẠI CÁC CƠ SỞ QUẢN LÝ NGƯỜI NGHIỆN MA TUÝ, NGƯỜI SAU\nCAI NGHIỆN MA TUÝ GIAI ĐOẠN 2016 - 2020</a><br>\n<i>(Ban hành kèm theo Quyết định số: 82/2016/QĐ-UBND ngày 26 tháng 8 năm 2016 của\nỦy ban nhân dân tỉnh Lào Cai)</i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>Chương\nI</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH MỨC HỖ\nTRỢ, CÁC KHOẢN ĐÓNG GÓP, CHẾ ĐỘ MIỄN, GIẢM CHI PHÍ ĐỐI VỚI NGƯỜI NGHIỆN MA TÚY\nBỊ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH ĐƯA VÀO CƠ SỞ CAI NGHIỆN BẮT BUỘC, NGƯỜI\nNGHIỆN MA TÚY CHỮA TRỊ, CAI NGHIỆN TẠI TRUNG TÂM CHỮA BỆNH - GIÁO DỤC - LAO ĐỘNG\nXÃ HỘI, TẠI GIA ĐÌNH VÀ CỘNG ĐỒNG TRÊN ĐỊA BÀN TỈNH LÀO CAI GIAI ĐOẠN 2016 -\n2020</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>Điều\n1. Phạm vi điều chỉnh, đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Phạm vi điều chỉnh</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Quy định này quy định về\nmức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện\nma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc,\nngười nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục -\nLao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Các nội dung khác có liên\nquan đến mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người\nnghiện ma túy áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt\nbuộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục\n- Lao động xã hội, tại gia đình và cộng đồng không quy định tại Quy định này\nthì được thực hiện theo quy định tại các văn bản pháp luật hiện hành có liên\nquan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Đối tượng áp dụng</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Trung tâm Chữa bệnh -\nGiáo dục - Lao động xã hội (sau đây gọi là Trung tâm); các cơ quan, tổ chức sử\ndụng nguồn vốn sự nghiệp từ ngân sách nhà nước để thực hiện chế độ áp dụng biện\npháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; chế độ chữa trị, cai\nnghiện tại Trung tâm và tham gia công tác cai nghiện ma túy tại gia đình, cộng\nđồng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Người nghiện ma túy bị áp\ndụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo Luật Xử\nlý vi phạm hành chính.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Người chưa thành niên\nnghiện ma túy chữa trị cai nghiện bắt buộc tại Trung tâm, người nghiện ma túy\nchữa trị, cai nghiện tự nguyện tại Trung tâm; người nghiện ma túy chữa trị, cai\nnghiện tại gia đình, cộng đồng theo Luật Phòng, chống ma túy.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) Người nghiện ma túy không\ncó nơi cư trú ổn định được đưa vào Cơ sở xã hội trong thời gian làm thủ tục áp\ndụng biện pháp cai nghiện bắt buộc tại Trung tâm.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">đ) Người đã hoàn thành xong\nthời gian cai nghiện ma túy bắt buộc tại Trung tâm được áp dụng biện pháp quản\nlý sau cai tại nơi cư trú.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>Điều\n2. Nguồn kinh phí và phân cấp quản lý</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Nguồn kinh phí:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Nguồn dự toán chi đảm bảo\nxã hội của ngân sách địa phương;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Nguồn ngân sách Chương\ntrình mục tiêu Quốc gia phòng, chống ma túy;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Nguồn đóng góp của bản\nthân hoặc gia đình người nghiện, người sau cai nghiện ma túy;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) Nguồn thu từ kết quả lao\nđộng sản xuất của Trung tâm;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">đ) Nguồn tài trợ hợp pháp của\ncác tổ chức, cá nhân trong và ngoài nước.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Việc lập dự toán, thu,\nchi, thanh quyết toán kinh phí cho công tác cai nghiện ma túy, quản lý sau cai nghiện\nthực hiện theo phân cấp quản lý ngân sách và các quy định hiện hành của Nhà nước.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_3_1\"><b>Điều\n3. Chế độ hỗ trợ cho người nghiện trong thời gian chấp hành quyết định xử lý\nhành chính, người chưa thành niên chữa trị, cai nghiện bắt buộc tại Cơ sở cai\nnghiện bắt buộc</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Tiền hoạt động văn nghệ,\nthể thao: 70.000 đồng/học viên/năm.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Tiền điện, nước sinh hoạt:\n80.000 đồng/học viên/tháng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Tiền ăn đường, tiền tàu\nxe: Học viên thuộc đối tượng là thân nhân người có công với cách mạng, đối tượng\nbảo trợ xã hội, thuộc gia đình hộ nghèo, hộ cận nghèo sau khi chấp hành xong\nquyết định trở về nơi cư trú được cấp tiền ăn đường, tiền tàu xe như sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Tiền ăn là 40.000 đồng/người/ngày\ntrong những ngày đi đường, tối đa không quá 3 ngày;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Tiền tàu xe theo giá\nphương tiện công cộng phổ thông áp dụng tại địa phương. Trường hợp sử dụng\nphương tiện cơ quan, đơn vị, chi phí tính theo số km và tiêu hao nhiên liệu thực\ntế; trường hợp thuê xe bên ngoài thì giá thuê xe theo hợp đồng, chứng từ, hóa\nđơn thực tế và phù hợp với giá trên địa bàn cùng thời điểm.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>Điều 4.\nCác khoản đóng góp, chế độ miễn, giảm đối với người cai nghiện tự nguyện tại\nTrung tâm</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Các khoản đóng góp:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Tiền ăn 40.000 đồng/người/ngày;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Thuốc hỗ trợ cắt cơn nghiện\nvà thuốc chữa bệnh thông thường khác: 650.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Xét nghiệm tìm chất ma\ntuý và các xét nghiệm khác: 200.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) Sinh hoạt văn nghệ, thể\nthao: 70.000 đồng/người/năm;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">đ) Học văn hoá, học nghề (nếu\nbản thân đối tượng có nhu cầu) mức thu theo mức hợp đồng đào tạo cụ thể cho từng\nkhóa học nghề, khóa học văn hóa;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">e) Điện, nước, vệ sinh:\n80.000 đồng/người/tháng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">g) Tiền đóng góp xây dựng cơ\nsở vật chất mức 50.000 đồng/người/tháng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">h) Phục vụ, quản lý: 100.000\nđồng/người/tháng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Chế độ miễn, giảm</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Miễn các khoản đóng góp đối\nvới những trường hợp người thuộc diện hộ nghèo, người thuộc gia đình chính sách\ntheo Pháp lệnh Ưu đãi người có công với cách mạng, người chưa thành niên, người\nthuộc diện bảo trợ xã hội, người khuyết tật; người nhiễm HIV/AIDS;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Giảm 50% kinh phí phải\nđóng góp đối với những trường hợp người thuộc diện hộ cận nghèo.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>Điều 5.\nChi hỗ trợ cán bộ theo dõi, quản lý đối tượng cai nghiện ma túy tại gia đình và\ncộng đồng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Căn cứ vào số lượng người\nnghiện có hồ sơ quản lý hàng năm, UBND cấp xã phân công từ 01 đến 03 cán bộ phụ\ntrách công tác theo dõi, quản lý đối tượng nghiện ma túy, đối tượng cai nghiện\nma túy tại gia đình, cộng đồng, đối tượng quản lý sau cai tại nơi cư trú và hưởng\nmức hỗ trợ 350.000 đồng/người/tháng, cụ thể như sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Xã, phường, thị trấn có\ndưới 50 người nghiện ma túy được bố trí 01 cán bộ;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Xã, phường, thị trấn có\n50 đến dưới 100 người nghiện ma túy được bố trí 02 cán bộ;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Xã, phường, thị trấn có\n100 người nghiện ma túy trở lên được bố trí 03 cán bộ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>Điều 6.\nCác khoản đóng góp đối với người cai nghiện ma túy tại gia đình, cộng đồng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Người nghiện ma túy cai nghiện\nbắt buộc và tự nguyện tại cộng đồng hoặc gia đình của người nghiện ma túy có\ntrách nhiệm đóng góp các khoản chi phí trong thời gian cai nghiện (trừ trường hợp\nđược miễn, giảm theo quy định của UBND tỉnh Lào Cai và được hỗ trợ một số khoản\ntheo quy định tại Điều 13, Thông tư liên tịch số 148/2014/TTLT-BTC-BLĐTBXH), gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Đối với người cai nghiện\nma túy tại cộng đồng:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Chi phí khám sức khỏe;\nxét nghiệm phát hiện chất ma túy và các xét nghiệm khác để chuẩn bị điều trị cắt\ncơn: 200.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Tiền thuốc hỗ trợ cắt cơn\nnghiện: 400.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Tiền ăn: 40.000 đồng/người/ngày;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) Tiền điện, nước sinh hoạt:\n80.000 đồng/người/tháng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">đ) Tiền hoạt động văn thể:\n50.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">e) Chi phí cho các hoạt động\ngiáo dục, phục hồi hành vi nhân cách, dạy nghề, tạo việc làm cho người sau cai\nnghiện (nếu có). Mức chi căn cứ vào hóa đơn, chứng từ chi tiêu hợp pháp và\ntrong phạm vi dự toán được cấp có thẩm quyền phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Đối với người cai nghiện\nma túy tại gia đình:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Chi phí khám sức khỏe;\nxét nghiệm phát hiện chất ma túy và các xét nghiệm khác để chuẩn bị điều trị cắt\ncơn: 200.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Tiền thuốc hỗ trợ cắt cơn\nnghiện: 400.000 đồng/người/lần chấp hành quyết định;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Tiền hoạt động văn thể:\n50.000 đồng/người/lần chấp hành quyết định; chi phí cho các hoạt động giáo dục,\nphục hồi hành vi nhân cách, dạy nghề, tạo việc làm cho người sau cai nghiện (nếu\ncó). Mức chi căn cứ vào hóa đơn, chứng từ chi tiêu hợp pháp và trong phạm vi dự\ntoán được cấp có thẩm quyền phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>Điều 7.\nChế độ hỗ trợ, miễn, giảm đối với người cai nghiện ma túy tại gia đình, cộng đồng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Chế độ hỗ trợ: Thực hiện\ntheo quy định tại Khoản 1 và Khoản 2, Điều 13 Thông tư liên tịch số\n148/2014/TTLT-BTC-BLĐTBXH ngày 08 tháng 10 năm 2014 của liên bộ Bộ Tài chính, Bộ\nLao động - Thương binh và Xã hội quy định về quản lý và sử dụng kinh phí thực\nhiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc;\nchế độ đối với người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại\nTrung tâm Chữa bệnh - Giáo dục - Lao động xã hội và tổ chức cai nghiện ma túy tại\ngia đình và cộng đồng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Chế độ miễn, giảm đối với\nngười nghiện ma túy cai nghiện bắt buộc tại cộng đồng:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Miễn các khoản đóng góp đối\nvới những trường hợp người thuộc diện hộ nghèo, người thuộc gia đình chính sách\ntheo Pháp lệnh Ưu đãi người có công với cách mạng, người chưa thành niên, người\nthuộc diện bảo trợ xã hội, người khuyết tật; người nhiễm HIV/AIDS.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Giảm 50% kinh phí phải\nđóng góp đối với những trường hợp người thuộc diện hộ cận nghèo.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>Chương\nII</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHẾ ĐỘ\nTRỢ CẤP ĐẶC THÙ ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG LÀM VIỆC TẠI CÁC\nCƠ SỞ QUẢN LÝ NGƯỜI NGHIỆN MA TÚY, NGƯỜI SAU CAI NGHIỆN MA TÚY GIAI ĐOẠN 2016 -\n2020</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_8\"><b>Điều 8.\nPhạm vi, đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Công chức, viên chức và\nngười lao động làm việc theo chế độ hợp đồng, điều động, biệt phái đã được xếp\nlương theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ\nvề chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang\n(sau đây gọi chung là công chức, viên chức) làm công tác quản lý, chuyên môn,\nnghiệp vụ, phục vụ tại các Cơ sở quản lý người nghiện ma túy và người sau cai\nnghiện ma túy trên địa bàn tỉnh Lào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Cơ sở quản lý người nghiện\nma túy và người sau cai nghiện ma túy trên địa bàn tỉnh Lào Cai, bao gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Trung tâm Chữa bệnh -\nGiáo dục - Lao động xã hội;</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Cơ sở điều trị bằng thuốc\nMethadone do cơ quan có thẩm quyền quyết định thành lập.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_9\"><b>Điều 9.\nĐối tượng không áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Người làm việc theo hợp đồng\nlao động mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Người được điều động, biệt\nphái có thời hạn dưới 03 tháng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Người có thời gian đi\ncông tác, học tập ở trong nước không trực tiếp làm các công việc tại Cơ sở liên\ntục từ 03 tháng trở lên.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">4. Người có thời gian nghỉ việc\nriêng không hưởng lương liên tục từ 01 tháng trở lên.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">5. Người có thời gian nghỉ\nviệc hưởng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">6. Người có thời gian bị\nđình chỉ công tác hoặc không được làm các công việc tại cơ sở quản lý người cai\nnghiện ma tuý và người sau cai nghiện ma tuý theo quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_10\"><b>Điều\n10. Mức trợ cấp đặc thù và thời gian chi trả</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Mức trợ cấp đặc thù bằng\nmột tháng tiền lương cơ sở do Chính phủ quy định. Khi mức tiền lương cơ sở được\nđiều chỉnh tăng lên thì mức trợ cấp đặc thù sẽ được điều chỉnh tăng theo tương ứng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Thời gian chi trả trợ cấp\nđặc thù: Trợ cấp đặc thù được trả cùng kỳ lương hằng tháng, không dùng để tính\nđóng, hưởng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_11\"><b>Điều\n11. Nguồn kinh phí thực hiện</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Ngân sách nhà nước bảo đảm\ntheo phân cấp ngân sách hiện hành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"chuong_3\"><b>Chương\nIII</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_12\"><b>Điều\n12. Trách nhiệm của các cơ quan có liên quan</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Sở Lao động - Thương binh\nvà Xã hội:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Hàng năm, phối hợp với Sở\nKế hoạch và Đầu tư, Sở Tài chính tham mưu cho UBND tỉnh giao chỉ tiêu kế hoạch\ncai nghiện ma túy, quản lý sau cai nghiện ma túy cho UBND các huyện, thành phố,\nTrung tâm Chữa bệnh - Giáo dục - Lao động xã hội, các cơ sở cai nghiện ma túy\ntrên địa bàn tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Phối hợp với Sở Nội vụ, Sở\nTài chính, Sở Y tế trong việc hướng dẫn, kiểm tra, giám sát việc thực hiện các\nchế độ, chính sách về công tác cai nghiện, quản lý sau cai nghiện ma túy; chế độ\ntrợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại các\ncơ sở quản lý người nghiện ma tuý, người sau cai nghiện ma tuý quy định tại Quy\nđịnh này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Sở Kế hoạch và Đầu tư: Chủ\ntrì, phối hợp với Sở Lao động - Thương binh và Xã hội, Sở Tài chính tham mưu\ncho UBND tỉnh phân bổ các nguồn kinh phí hàng năm cho UBND các huyện, thành phố;\ncác Trung tâm, cơ sở cai nghiện ma túy trên địa bàn tỉnh; cân đối, đảm bảo nguồn\nvốn thực hiện chính sách về công tác cai nghiện ma túy và quản lý sau cai nghiện\nma túy.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Sở Tài chính: Chủ trì, phối\nhợp với Sở Kế hoạch và Đầu tư, Sở Lao động</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Thương binh và Xã hội, Sở\nY tế bố trí kinh phí hàng năm để thực hiện công tác cai nghiện, quản lý sau cai\nnghiện ma túy trên địa bàn tỉnh. Thẩm định dự toán, cấp phát kinh phí và hướng\ndẫn, đôn đốc đơn vị sử dụng kinh phí, quyết toán kinh phí theo đúng chế độ quy\nđịnh hiện hành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">4. Sở Nội vụ: Chủ trì, phối\nhợp với Sở Lao động - Thương binh và Xã hội, Sở Y tế trong việc hướng dẫn, kiểm\ntra việc chi trả chế độ trợ cấp đặc thù đúng đối tượng được quy định tại Quy định\nnày.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">5. Sở Y tế: Chủ trì hướng dẫn\ncác cơ sở thực hiện thu giá các dịch vụ khám bệnh, chữa bệnh theo quy định hiện\nhành. Chỉ đạo các Cơ sở điều trị nghiện bằng thuốc methadone thuộc ngành quản\nlý chi trả chế độ trợ cấp đặc thù đối với công chức, viên chức và người lao động\nlàm việc tại Cơ sở theo Quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">6. Chủ tịch UBND các huyện,\nthành phố; Thủ trưởng các đơn vị có liên quan; Giám đốc, Trưởng các cơ sở cai\nnghiện ma túy trên địa bàn tỉnh; Chủ tịch UBND các xã, phường, thị trấn: Căn cứ\nchỉ tiêu kế hoạch được giao, triển khai thực hiện Quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_13\"><b>Điều\n13. Chế độ thông tin, báo cáo</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Định kỳ 6 tháng, một năm\nUBND các huyện, thành phố tổng hợp báo cáo kết quả triển khai thực hiện Quy định\nnày về Sở Lao động - Thương binh và Xã hội, Sở Tài chính, Sở Nội vụ để tổng hợp\nbáo cáo UBND tỉnh, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Trong quá trình triển khai\nthực hiện Quy định này có khó khăn, vướng mắc, phát sinh, các ý kiến kịp thời\nphản ánh về Sở Lao động - Thương binh và Xã hội để tổng hợp, báo cáo UBND tỉnh\nxem xét, giải quyết./.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><b>&nbsp;</b></p>\n\n</div>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH LÀO CAI  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 82/2016/QĐ-UBND\n\n_Lào Cai, ngày 26 tháng 8 năm 2016_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH MỨC HỖ TRỢ, CÁC KHOẢN ĐÓNG GÓP, CHẾ ĐỘ MIỄN, GIẢM CHI PHÍ ĐỐI VỚI NGƯỜI NGHIỆN MA TÚY BỊ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH ĐƯA VÀO CƠ SỞ CAI NGHIỆN BẮT BUỘC, NGƯỜI NGHIỆN MA TÚY CHỮA TRỊ, CAI NGHIỆN TẠI TRUNG TÂM CHỮA BỆNH - GIÁO DỤC - LAO ĐỘNG XÃ HỘI, TẠI GIA ĐÌNH VÀ CỘNG ĐỒNG TRÊN ĐỊA BÀN TỈNH LÀO CAI; CHẾ ĐỘ TRỢ CẤP ĐẶC THÙ ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG LÀM VIỆC TẠI CÁC CƠ SỞ QUẢN LÝ NGƯỜI NGHIỆN MA TUÝ, NGƯỜI SAU CAI NGHIỆN MA TUÝ GIAI ĐOẠN 2016 - 2020\n\n**ỦY BAN NHÂN DÂN TỈNH LÀO CAI**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;_\n\n_Căn cứ Luật Ngân sách nhà nước ngày 16 tháng 12 năm 2002;_\n\n_Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06 tháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước;_\n\n_Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Ban hành văn bản quy phạm pháp luật;_\n\n_Căn cứ Nghị định số 26/2016/NĐ-CP ngày 06 tháng 4 năm 2016 của Chính phủ quy định chế độ trợ cấp, phụ cấp đối với công chức, viên chức và người lao động làm việc tại các cơ sở quản lý người nghiện ma túy, người sau cai nghiện ma túy và cơ sở trợ giúp xã hội công lập;_\n\n_Căn cứ Thông tư liên tịch số 148/2014/TTLT-BTC-BLĐTBXH ngày 08 tháng 10 năm 2014 của liên bộ: Bộ Tài chính, Bộ Lao động - Thương binh và Xã hội quy định về quản lý và sử dụng kinh phí thực hiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; chế độ đối với người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội và tổ chức cai nghiện ma túy tại gia đình và cộng đồng;_\n\n_Căn cứ Nghị quyết số 68/2016/NQ-HĐND ngày 18 tháng 7 năm 2016 của HĐND tỉnh Lào Cai về mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai; chế độ trợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại các cơ sở quản lý người nghiện ma tuý, người sau cai nghiện ma tuý giai đoạn 2016 - 2020;_\n\n_Theo đề nghị của Sở Lao động - Thương binh và Xã hội tại Tờ trình số 129/TTr-SLĐTBXH ngày 04 tháng 8 năm 2016._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1****.** Ban hành kèm theo Quyết định này Quy định mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai; chế độ trợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại các cơ sở quản lý người nghiện ma tuý, người sau cai nghiện ma tuý giai đoạn 2016 - 2020.\n\n**Điều 2****.** Giao Sở Lao động - Thương binh và Xã hội chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Sở Nội vụ, Sở Tài chính, Sở Y tế; Chủ tịch UBND các huyện, thành phố hướng dẫn triển khai thực hiện Quyết định này.\n\n**Điều 3****.** Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Lao động - Thương binh và Xã hội, Kế hoạch và Đầu tư, Nội vụ, Tài chính, Y tế; Chủ tịch UBND các huyện, thành phố; Giám đốc, Trưởng các Cơ sở cai nghiện ma túy và các cơ quan, đơn vị, tổ chức, cá nhân có liên quan trên địa bàn tỉnh chịu trách nhiệm thi hành Quyết định này.\n\nQuyết định này có hiệu lực kể từ ngày 01 tháng 9 năm 2016.\n\nQuyết định số 42/2015/QĐ-UBND ngày 01/9/2015 của UBND tỉnh Lào Cai ban hành Quy định về mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai và Quyết định số 35/2009/QĐ-UBND ngày 06/11/2009 của UBND tỉnh Lào Cai quy định mức phụ cấp thu hút đặc thù đối với cán bộ, viên chức làm việc tại các cơ sở quản lý người cai nghiện ma tuý, người bán dâm và người sau cai nghiện ma tuý trên địa bàn tỉnh Lào Cai hết hiệu lực kể từ ngày quyết định này có hiệu lực thi hành./.\n\n**TM. UỶ BAN NHÂN DÂN  \nTỈNH CHỦ TỊCH**  \n  \n  \n  \n**Đặng Xuân Phong**\n\n**QUY ĐỊNH**\n\nMỨC HỖ TRỢ, CÁC KHOẢN ĐÓNG GÓP, CHẾ ĐỘ MIỄN, GIẢM CHI PHÍ ĐỐI VỚI NGƯỜI NGHIỆN MA TÚY BỊ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH ĐƯA VÀO CƠ SỞ CAI NGHIỆN BẮT BUỘC, NGƯỜI NGHIỆN MA TÚY CHỮA TRỊ, CAI NGHIỆN TẠI TRUNG TÂM CHỮA BỆNH - GIÁO DỤC - LAO ĐỘNG XÃ HỘI, TẠI GIA ĐÌNH VÀ CỘNG ĐỒNG TRÊN ĐỊA BÀN TỈNH LÀO CAI; CHẾ ĐỘ TRỢ CẤP ĐẶC THÙ ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG LÀM VIỆC TẠI CÁC CƠ SỞ QUẢN LÝ NGƯỜI NGHIỆN MA TUÝ, NGƯỜI SAU CAI NGHIỆN MA TUÝ GIAI ĐOẠN 2016 - 2020  \n_(Ban hành kèm theo Quyết định số: 82/2016/QĐ-UBND ngày 26 tháng 8 năm 2016 của Ủy ban nhân dân tỉnh Lào Cai)_\n\n**Chương I**\n\n**QUY ĐỊNH MỨC HỖ TRỢ, CÁC KHOẢN ĐÓNG GÓP, CHẾ ĐỘ MIỄN, GIẢM CHI PHÍ ĐỐI VỚI NGƯỜI NGHIỆN MA TÚY BỊ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH ĐƯA VÀO CƠ SỞ CAI NGHIỆN BẮT BUỘC, NGƯỜI NGHIỆN MA TÚY CHỮA TRỊ, CAI NGHIỆN TẠI TRUNG TÂM CHỮA BỆNH - GIÁO DỤC - LAO ĐỘNG XÃ HỘI, TẠI GIA ĐÌNH VÀ CỘNG ĐỒNG TRÊN ĐỊA BÀN TỈNH LÀO CAI GIAI ĐOẠN 2016 - 2020**\n\n**Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng**\n\n1\\. Phạm vi điều chỉnh\n\na) Quy định này quy định về mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng trên địa bàn tỉnh Lào Cai.\n\nb) Các nội dung khác có liên quan đến mức hỗ trợ, các khoản đóng góp, chế độ miễn, giảm chi phí đối với người nghiện ma túy áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc, người nghiện ma túy chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, tại gia đình và cộng đồng không quy định tại Quy định này thì được thực hiện theo quy định tại các văn bản pháp luật hiện hành có liên quan.\n\n2\\. Đối tượng áp dụng\n\na) Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội (sau đây gọi là Trung tâm); các cơ quan, tổ chức sử dụng nguồn vốn sự nghiệp từ ngân sách nhà nước để thực hiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; chế độ chữa trị, cai nghiện tại Trung tâm và tham gia công tác cai nghiện ma túy tại gia đình, cộng đồng.\n\nb) Người nghiện ma túy bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo Luật Xử lý vi phạm hành chính.\n\nc) Người chưa thành niên nghiện ma túy chữa trị cai nghiện bắt buộc tại Trung tâm, người nghiện ma túy chữa trị, cai nghiện tự nguyện tại Trung tâm; người nghiện ma túy chữa trị, cai nghiện tại gia đình, cộng đồng theo Luật Phòng, chống ma túy.\n\nd) Người nghiện ma túy không có nơi cư trú ổn định được đưa vào Cơ sở xã hội trong thời gian làm thủ tục áp dụng biện pháp cai nghiện bắt buộc tại Trung tâm.\n\nđ) Người đã hoàn thành xong thời gian cai nghiện ma túy bắt buộc tại Trung tâm được áp dụng biện pháp quản lý sau cai tại nơi cư trú.\n\n**Điều 2. Nguồn kinh phí và phân cấp quản lý**\n\n1\\. Nguồn kinh phí:\n\na) Nguồn dự toán chi đảm bảo xã hội của ngân sách địa phương;\n\nb) Nguồn ngân sách Chương trình mục tiêu Quốc gia phòng, chống ma túy;\n\nc) Nguồn đóng góp của bản thân hoặc gia đình người nghiện, người sau cai nghiện ma túy;\n\nd) Nguồn thu từ kết quả lao động sản xuất của Trung tâm;\n\nđ) Nguồn tài trợ hợp pháp của các tổ chức, cá nhân trong và ngoài nước.\n\n2\\. Việc lập dự toán, thu, chi, thanh quyết toán kinh phí cho công tác cai nghiện ma túy, quản lý sau cai nghiện thực hiện theo phân cấp quản lý ngân sách và các quy định hiện hành của Nhà nước.\n\n**Điều 3. Chế độ hỗ trợ cho người nghiện trong thời gian chấp hành quyết định xử lý hành chính, người chưa thành niên chữa trị, cai nghiện bắt buộc tại Cơ sở cai nghiện bắt buộc**\n\n1\\. Tiền hoạt động văn nghệ, thể thao: 70.000 đồng/học viên/năm.\n\n2\\. Tiền điện, nước sinh hoạt: 80.000 đồng/học viên/tháng.\n\n3\\. Tiền ăn đường, tiền tàu xe: Học viên thuộc đối tượng là thân nhân người có công với cách mạng, đối tượng bảo trợ xã hội, thuộc gia đình hộ nghèo, hộ cận nghèo sau khi chấp hành xong quyết định trở về nơi cư trú được cấp tiền ăn đường, tiền tàu xe như sau:\n\na) Tiền ăn là 40.000 đồng/người/ngày trong những ngày đi đường, tối đa không quá 3 ngày;\n\nb) Tiền tàu xe theo giá phương tiện công cộng phổ thông áp dụng tại địa phương. Trường hợp sử dụng phương tiện cơ quan, đơn vị, chi phí tính theo số km và tiêu hao nhiên liệu thực tế; trường hợp thuê xe bên ngoài thì giá thuê xe theo hợp đồng, chứng từ, hóa đơn thực tế và phù hợp với giá trên địa bàn cùng thời điểm.\n\n**Điều 4. Các khoản đóng góp, chế độ miễn, giảm đối với người cai nghiện tự nguyện tại Trung tâm**\n\n1\\. Các khoản đóng góp:\n\na) Tiền ăn 40.000 đồng/người/ngày;\n\nb) Thuốc hỗ trợ cắt cơn nghiện và thuốc chữa bệnh thông thường khác: 650.000 đồng/người/lần chấp hành quyết định;\n\nc) Xét nghiệm tìm chất ma tuý và các xét nghiệm khác: 200.000 đồng/người/lần chấp hành quyết định;\n\nd) Sinh hoạt văn nghệ, thể thao: 70.000 đồng/người/năm;\n\nđ) Học văn hoá, học nghề (nếu bản thân đối tượng có nhu cầu) mức thu theo mức hợp đồng đào tạo cụ thể cho từng khóa học nghề, khóa học văn hóa;\n\ne) Điện, nước, vệ sinh: 80.000 đồng/người/tháng;\n\ng) Tiền đóng góp xây dựng cơ sở vật chất mức 50.000 đồng/người/tháng;\n\nh) Phục vụ, quản lý: 100.000 đồng/người/tháng.\n\n2\\. Chế độ miễn, giảm\n\na) Miễn các khoản đóng góp đối với những trường hợp người thuộc diện hộ nghèo, người thuộc gia đình chính sách theo Pháp lệnh Ưu đãi người có công với cách mạng, người chưa thành niên, người thuộc diện bảo trợ xã hội, người khuyết tật; người nhiễm HIV/AIDS;\n\nb) Giảm 50% kinh phí phải đóng góp đối với những trường hợp người thuộc diện hộ cận nghèo.\n\n**Điều 5. Chi hỗ trợ cán bộ theo dõi, quản lý đối tượng cai nghiện ma túy tại gia đình và cộng đồng**\n\nCăn cứ vào số lượng người nghiện có hồ sơ quản lý hàng năm, UBND cấp xã phân công từ 01 đến 03 cán bộ phụ trách công tác theo dõi, quản lý đối tượng nghiện ma túy, đối tượng cai nghiện ma túy tại gia đình, cộng đồng, đối tượng quản lý sau cai tại nơi cư trú và hưởng mức hỗ trợ 350.000 đồng/người/tháng, cụ thể như sau:\n\n1\\. Xã, phường, thị trấn có dưới 50 người nghiện ma túy được bố trí 01 cán bộ;\n\n2\\. Xã, phường, thị trấn có 50 đến dưới 100 người nghiện ma túy được bố trí 02 cán bộ;\n\n3\\. Xã, phường, thị trấn có 100 người nghiện ma túy trở lên được bố trí 03 cán bộ.\n\n**Điều 6. Các khoản đóng góp đối với người cai nghiện ma túy tại gia đình, cộng đồng**\n\nNgười nghiện ma túy cai nghiện bắt buộc và tự nguyện tại cộng đồng hoặc gia đình của người nghiện ma túy có trách nhiệm đóng góp các khoản chi phí trong thời gian cai nghiện (trừ trường hợp được miễn, giảm theo quy định của UBND tỉnh Lào Cai và được hỗ trợ một số khoản theo quy định tại Điều 13, Thông tư liên tịch số 148/2014/TTLT-BTC-BLĐTBXH), gồm:\n\n1\\. Đối với người cai nghiện ma túy tại cộng đồng:\n\na) Chi phí khám sức khỏe; xét nghiệm phát hiện chất ma túy và các xét nghiệm khác để chuẩn bị điều trị cắt cơn: 200.000 đồng/người/lần chấp hành quyết định;\n\nb) Tiền thuốc hỗ trợ cắt cơn nghiện: 400.000 đồng/người/lần chấp hành quyết định;\n\nc) Tiền ăn: 40.000 đồng/người/ngày;\n\nd) Tiền điện, nước sinh hoạt: 80.000 đồng/người/tháng;\n\nđ) Tiền hoạt động văn thể: 50.000 đồng/người/lần chấp hành quyết định;\n\ne) Chi phí cho các hoạt động giáo dục, phục hồi hành vi nhân cách, dạy nghề, tạo việc làm cho người sau cai nghiện (nếu có). Mức chi căn cứ vào hóa đơn, chứng từ chi tiêu hợp pháp và trong phạm vi dự toán được cấp có thẩm quyền phê duyệt.\n\n2\\. Đối với người cai nghiện ma túy tại gia đình:\n\na) Chi phí khám sức khỏe; xét nghiệm phát hiện chất ma túy và các xét nghiệm khác để chuẩn bị điều trị cắt cơn: 200.000 đồng/người/lần chấp hành quyết định;\n\nb) Tiền thuốc hỗ trợ cắt cơn nghiện: 400.000 đồng/người/lần chấp hành quyết định;\n\nc) Tiền hoạt động văn thể: 50.000 đồng/người/lần chấp hành quyết định; chi phí cho các hoạt động giáo dục, phục hồi hành vi nhân cách, dạy nghề, tạo việc làm cho người sau cai nghiện (nếu có). Mức chi căn cứ vào hóa đơn, chứng từ chi tiêu hợp pháp và trong phạm vi dự toán được cấp có thẩm quyền phê duyệt.\n\n**Điều 7. Chế độ hỗ trợ, miễn, giảm đối với người cai nghiện ma túy tại gia đình, cộng đồng**\n\n1\\. Chế độ hỗ trợ: Thực hiện theo quy định tại Khoản 1 và Khoản 2, Điều 13 Thông tư liên tịch số 148/2014/TTLT-BTC-BLĐTBXH ngày 08 tháng 10 năm 2014 của liên bộ Bộ Tài chính, Bộ Lao động - Thương binh và Xã hội quy định về quản lý và sử dụng kinh phí thực hiện chế độ áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc; chế độ đối với người chưa thành niên, người tự nguyện chữa trị, cai nghiện tại Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội và tổ chức cai nghiện ma túy tại gia đình và cộng đồng.\n\n2\\. Chế độ miễn, giảm đối với người nghiện ma túy cai nghiện bắt buộc tại cộng đồng:\n\na) Miễn các khoản đóng góp đối với những trường hợp người thuộc diện hộ nghèo, người thuộc gia đình chính sách theo Pháp lệnh Ưu đãi người có công với cách mạng, người chưa thành niên, người thuộc diện bảo trợ xã hội, người khuyết tật; người nhiễm HIV/AIDS.\n\nb) Giảm 50% kinh phí phải đóng góp đối với những trường hợp người thuộc diện hộ cận nghèo.\n\n**Chương II**\n\n**QUY ĐỊNH CHẾ ĐỘ TRỢ CẤP ĐẶC THÙ ĐỐI VỚI CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG LÀM VIỆC TẠI CÁC CƠ SỞ QUẢN LÝ NGƯỜI NGHIỆN MA TÚY, NGƯỜI SAU CAI NGHIỆN MA TÚY GIAI ĐOẠN 2016 - 2020**\n\n**Điều 8. Phạm vi, đối tượng áp dụng**\n\n1\\. Công chức, viên chức và người lao động làm việc theo chế độ hợp đồng, điều động, biệt phái đã được xếp lương theo Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (sau đây gọi chung là công chức, viên chức) làm công tác quản lý, chuyên môn, nghiệp vụ, phục vụ tại các Cơ sở quản lý người nghiện ma túy và người sau cai nghiện ma túy trên địa bàn tỉnh Lào Cai.\n\n2\\. Cơ sở quản lý người nghiện ma túy và người sau cai nghiện ma túy trên địa bàn tỉnh Lào Cai, bao gồm:\n\na) Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội;\n\nb) Cơ sở điều trị bằng thuốc Methadone do cơ quan có thẩm quyền quyết định thành lập.\n\n**Điều 9. Đối tượng không áp dụng**\n\n1\\. Người làm việc theo hợp đồng lao động mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng.\n\n2\\. Người được điều động, biệt phái có thời hạn dưới 03 tháng.\n\n3\\. Người có thời gian đi công tác, học tập ở trong nước không trực tiếp làm các công việc tại Cơ sở liên tục từ 03 tháng trở lên.\n\n4\\. Người có thời gian nghỉ việc riêng không hưởng lương liên tục từ 01 tháng trở lên.\n\n5\\. Người có thời gian nghỉ việc hưởng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.\n\n6\\. Người có thời gian bị đình chỉ công tác hoặc không được làm các công việc tại cơ sở quản lý người cai nghiện ma tuý và người sau cai nghiện ma tuý theo quy định của pháp luật.\n\n**Điều 10. Mức trợ cấp đặc thù và thời gian chi trả**\n\n1\\. Mức trợ cấp đặc thù bằng một tháng tiền lương cơ sở do Chính phủ quy định. Khi mức tiền lương cơ sở được điều chỉnh tăng lên thì mức trợ cấp đặc thù sẽ được điều chỉnh tăng theo tương ứng.\n\n2\\. Thời gian chi trả trợ cấp đặc thù: Trợ cấp đặc thù được trả cùng kỳ lương hằng tháng, không dùng để tính đóng, hưởng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp.\n\n**Điều 11. Nguồn kinh phí thực hiện**\n\nNgân sách nhà nước bảo đảm theo phân cấp ngân sách hiện hành.\n\n**Chương III**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 12. Trách nhiệm của các cơ quan có liên quan**\n\n1\\. Sở Lao động - Thương binh và Xã hội:\n\na) Hàng năm, phối hợp với Sở Kế hoạch và Đầu tư, Sở Tài chính tham mưu cho UBND tỉnh giao chỉ tiêu kế hoạch cai nghiện ma túy, quản lý sau cai nghiện ma túy cho UBND các huyện, thành phố, Trung tâm Chữa bệnh - Giáo dục - Lao động xã hội, các cơ sở cai nghiện ma túy trên địa bàn tỉnh.\n\nb) Phối hợp với Sở Nội vụ, Sở Tài chính, Sở Y tế trong việc hướng dẫn, kiểm tra, giám sát việc thực hiện các chế độ, chính sách về công tác cai nghiện, quản lý sau cai nghiện ma túy; chế độ trợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại các cơ sở quản lý người nghiện ma tuý, người sau cai nghiện ma tuý quy định tại Quy định này.\n\n2\\. Sở Kế hoạch và Đầu tư: Chủ trì, phối hợp với Sở Lao động - Thương binh và Xã hội, Sở Tài chính tham mưu cho UBND tỉnh phân bổ các nguồn kinh phí hàng năm cho UBND các huyện, thành phố; các Trung tâm, cơ sở cai nghiện ma túy trên địa bàn tỉnh; cân đối, đảm bảo nguồn vốn thực hiện chính sách về công tác cai nghiện ma túy và quản lý sau cai nghiện ma túy.\n\n3\\. Sở Tài chính: Chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Sở Lao động\n\n\\- Thương binh và Xã hội, Sở Y tế bố trí kinh phí hàng năm để thực hiện công tác cai nghiện, quản lý sau cai nghiện ma túy trên địa bàn tỉnh. Thẩm định dự toán, cấp phát kinh phí và hướng dẫn, đôn đốc đơn vị sử dụng kinh phí, quyết toán kinh phí theo đúng chế độ quy định hiện hành.\n\n4\\. Sở Nội vụ: Chủ trì, phối hợp với Sở Lao động - Thương binh và Xã hội, Sở Y tế trong việc hướng dẫn, kiểm tra việc chi trả chế độ trợ cấp đặc thù đúng đối tượng được quy định tại Quy định này.\n\n5\\. Sở Y tế: Chủ trì hướng dẫn các cơ sở thực hiện thu giá các dịch vụ khám bệnh, chữa bệnh theo quy định hiện hành. Chỉ đạo các Cơ sở điều trị nghiện bằng thuốc methadone thuộc ngành quản lý chi trả chế độ trợ cấp đặc thù đối với công chức, viên chức và người lao động làm việc tại Cơ sở theo Quy định này.\n\n6\\. Chủ tịch UBND các huyện, thành phố; Thủ trưởng các đơn vị có liên quan; Giám đốc, Trưởng các cơ sở cai nghiện ma túy trên địa bàn tỉnh; Chủ tịch UBND các xã, phường, thị trấn: Căn cứ chỉ tiêu kế hoạch được giao, triển khai thực hiện Quy định này.\n\n**Điều 13. Chế độ thông tin, báo cáo**\n\nĐịnh kỳ 6 tháng, một năm UBND các huyện, thành phố tổng hợp báo cáo kết quả triển khai thực hiện Quy định này về Sở Lao động - Thương binh và Xã hội, Sở Tài chính, Sở Nội vụ để tổng hợp báo cáo UBND tỉnh, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính.\n\nTrong quá trình triển khai thực hiện Quy định này có khó khăn, vướng mắc, phát sinh, các ý kiến kịp thời phản ánh về Sở Lao động - Thương binh và Xã hội để tổng hợp, báo cáo UBND tỉnh xem xét, giải quyết./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

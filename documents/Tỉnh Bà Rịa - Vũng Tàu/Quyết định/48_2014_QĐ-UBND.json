@@ -1,0 +1,580 @@
+{
+  "title": "Quyết định 48/2014/QĐ-UBND quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 208/2013/NĐ-CP quy định biện pháp phòng ngừa, ngăn chặn và xử lý hành vi chống người thi hành công vụ",
+      "id": "208/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Trách nhiệm hình sự",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-12-17",
+      "effectiveDate": "2014-02-01",
+      "gazetteDate": "2014-01-01",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 06/2012/TT-BXD quy định chế độ báo cáo thống kê tổng hợp ngành Xây dựng do Bộ trưởng Bộ Xây dựng ban hành",
+      "id": "06/2012/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2012-10-10",
+      "effectiveDate": "2012-11-25",
+      "gazetteDate": "2012-10-31",
+      "gazetteNumber": "Từ số 641 đến số 642",
+      "status": "Hết hiệu lực: 25/09/2018"
+    },
+    {
+      "title": "Thông tư liên tịch 04/2007/TTLT-BXD-BCA hướng dẫn phối hợp xử lý vi phạm pháp luật trong hoạt động xây dựng do Liên bộ Bộ Xây dựng và Bộ Công an ban hành",
+      "id": "04/2007/TTLT-BXD-BCA",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Vi phạm hành chính",
+        "Trách nhiệm hình sự",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Công An, Bộ Xây dựng",
+      "signers": [
+        "Đinh Tiến Dũng",
+        "Trần Đại Quang"
+      ],
+      "issuedDate": "2007-07-07",
+      "effectiveDate": "2007-08-16",
+      "gazetteDate": "2007-08-01",
+      "gazetteNumber": "Từ số 522 đến số 523",
+      "status": "Hết hiệu lực: 15/08/2021"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 166/2013/NĐ-CP quy định về cưỡng chế thi hành quyết định xử phạt vi phạm hành chính",
+      "id": "166/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-12",
+      "effectiveDate": "2013-12-28",
+      "gazetteDate": "2013-12-03",
+      "gazetteNumber": "Từ số 851 đến số 852",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 121/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong hoạt động xây dựng; kinh doanh bất động sản; khai thác, sản xuất, kinh doanh vật liệu xây dựng; quản lý công trình hạ tầng kỹ thuật; quản lý phát triển nhà và công sở",
+      "id": "121/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Vi phạm hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-10-10",
+      "effectiveDate": "2013-11-30",
+      "gazetteDate": "2013-10-28",
+      "gazetteNumber": "Từ số 705 đến số 706",
+      "status": "Hết hiệu lực: 15/01/2018"
+    },
+    {
+      "title": "Nghị định 81/2013/NĐ-CP hướng dẫn và biện pháp thi hành Luật xử lý vi phạm hành chính",
+      "id": "81/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-19",
+      "effectiveDate": "2013-07-19",
+      "gazetteDate": "2013-08-07",
+      "gazetteNumber": "Từ số 459 đến số 460",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Nghị định 26/2013/NĐ-CP về tổ chức và hoạt động của thanh tra ngành Xây dựng",
+      "id": "26/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-03-29",
+      "effectiveDate": "2013-05-15",
+      "gazetteDate": "2013-04-08",
+      "gazetteNumber": "Từ số 185 đến số 186",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 180/2007/NĐ-CP Hướng dẫn Luật Xây dựng về xử lý vi phạm trật tự xây dựng đô thị",
+      "id": "180/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Vi phạm hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-12-07",
+      "effectiveDate": "2008-01-04",
+      "gazetteDate": "2007-12-20",
+      "gazetteNumber": "Từ số 827 đến số 828",
+      "status": "Hết hiệu lực: 15/01/2018"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 32/2019/QĐ-UBND về Quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+      "id": "32/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Lê Tuấn Quốc"
+      ],
+      "issuedDate": "2019-12-10",
+      "effectiveDate": "2019-12-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/03/2023"
+    },
+    {
+      "title": "Quyết định 176/QĐ-UBND năm 2020 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu ban hành hết hiệu lực, ngưng hiệu lực toàn bộ hoặc một phần năm 2019",
+      "id": "176/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Thanh Tịnh"
+      ],
+      "issuedDate": "2020-01-21",
+      "effectiveDate": "2020-01-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 06/2023/QĐ-UBND quy định về quản lý trật tự xây dựng; phân cấp thẩm quyền quản lý trật tự xây dựng và tiếp nhận thông báo khởi công kèm theo hồ sơ thiết kế xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+      "id": "06/2023/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Công Vinh"
+      ],
+      "issuedDate": "2023-02-17",
+      "effectiveDate": "2023-03-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 37/2015/QĐ-UBND về Quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Bình Dương",
+      "id": "37/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Trần Thanh Liêm"
+      ],
+      "issuedDate": "2015-09-07",
+      "effectiveDate": "2015-09-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/03/2020"
+    },
+    {
+      "title": "Quyết định 2312/QĐ-UBND năm 2015 về Quy chế phối hợp thực hiện công tác quản lý trật tự xây dựng trên địa bàn tỉnh Đồng Nai",
+      "id": "2312/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Trần Văn Vĩnh"
+      ],
+      "issuedDate": "2015-08-10",
+      "effectiveDate": "2015-08-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/01/2021"
+    },
+    {
+      "title": "Quyết định 07/2015/QĐ-UBND về Quy chế phối hợp Quản lý trật tự xây dựng trên địa bàn tỉnh Phú Yên",
+      "id": "07/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Phạm Đình Cự"
+      ],
+      "issuedDate": "2015-02-10",
+      "effectiveDate": "2015-02-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/07/2017"
+    },
+    {
+      "title": "Quyết định 06/2015/QĐ-UBND về Quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Tây Ninh",
+      "id": "06/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Tây Ninh",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2015-01-20",
+      "effectiveDate": "2015-01-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/09/2022"
+    },
+    {
+      "title": "Quyết định 39/2014/QĐ-UBND sửa đổi Quyết định 23/2014/QĐ-UBND do tỉnh Tiền Giang ban hành",
+      "id": "39/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Lê Văn Nghĩa"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2014-12-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/01/2019"
+    },
+    {
+      "title": "Quyết định 1330/QĐ-UBND năm 2014 về quản lý xây dựng theo đồ án quy hoạch chung xây dựng Khu Nông nghiệp ứng dụng công nghệ cao Hậu Giang đến năm 2025",
+      "id": "1330/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Hậu Giang",
+      "signers": [
+        "Nguyễn Liên Khoa"
+      ],
+      "issuedDate": "2014-09-22",
+      "effectiveDate": "2014-09-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 20/2014/QĐ-UBND về Quy định cấp giấy phép xây dựng, giấy phép quy hoạch và quản lý trật tự xây dựng theo giấy phép xây dựng trên địa bàn tỉnh Gia Lai",
+      "id": "20/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Hoàng Công Lự"
+      ],
+      "issuedDate": "2014-09-08",
+      "effectiveDate": "2014-09-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 08/12/2016"
+    },
+    {
+      "title": "Quyết định 29/2014/QĐ-UBND về lập, thẩm định, phê duyệt, quản lý quy hoạch xây dựng, cấp giấy phép xây dựng, quản lý trật tự xây dựng trên địa bàn tỉnh Hà Nam",
+      "id": "29/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Hà Nam",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2014-08-19",
+      "effectiveDate": "2014-08-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/07/2016"
+    },
+    {
+      "title": "Quyết định 23/2014/QĐ-UBND về Quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Tiền Giang",
+      "id": "23/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Lê Văn Nghĩa"
+      ],
+      "issuedDate": "2014-07-30",
+      "effectiveDate": "2014-08-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/01/2019"
+    },
+    {
+      "title": "Quyết định 2008/QĐ-UBND năm 2014 về Quy chế phối hợp hoạt động giữa Thanh tra Sở Xây dựng và Ủy ban nhân dân huyện, thành phố, xã, phường, thị trấn trong việc quản lý trật tự xây dựng trên địa bàn tỉnh Sơn La",
+      "id": "2008/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Bùi Đức Hải"
+      ],
+      "issuedDate": "2014-07-29",
+      "effectiveDate": "2014-07-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 27/2014/QĐ-UBND về Quy chế phối hợp trong công tác quản lý và xử lý vi phạm hành chính về trật tự xây dựng trên địa bàn tỉnh Bình Thuận",
+      "id": "27/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Lê Tiến Phương"
+      ],
+      "issuedDate": "2014-07-03",
+      "effectiveDate": "2014-07-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/12/2017"
+    },
+    {
+      "title": "Quyết định 20/2014/QĐ-UBND về Quy chế phối hợp hoạt động giữa Thanh tra Sở Xây dựng, Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã trong việc quản lý trật tự xây dựng trên địa bàn tỉnh Đắk Lắk",
+      "id": "20/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Đắk Lắk",
+      "signers": [
+        "Hoàng Trọng Hải"
+      ],
+      "issuedDate": "2014-06-27",
+      "effectiveDate": "2014-07-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 09/08/2019"
+    },
+    {
+      "title": "Quyết định 125/2014/QĐ-UBND về trách nhiệm người đứng đầu quản lý trật tự xây dựng trên địa bàn tỉnh Bắc Ninh",
+      "id": "125/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Ninh",
+      "signers": [
+        "Nguyễn Tiến Nhường"
+      ],
+      "issuedDate": "2014-04-18",
+      "effectiveDate": "2014-04-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 09/2014/QĐ-UBND về Quy chế phối hợp quản lý trật tự xây dựng giữa Sở Xây dựng và Ủy ban nhân dân quận, huyện, thị xã, Ủy ban nhân dân xã, phường, thị trấn trên địa bàn thành phố Hà Nội",
+      "id": "09/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Văn Khôi"
+      ],
+      "issuedDate": "2014-02-14",
+      "effectiveDate": "2014-02-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/04/2019"
+    },
+    {
+      "title": "Quyết định 58/2013/QĐ-UBND về Quy chế phối hợp quản lý trật tự xây dựng trên địa bàn Thành phố Hồ Chí Minh",
+      "id": "58/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Vi phạm hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Nguyễn Hữu Tín"
+      ],
+      "issuedDate": "2013-12-18",
+      "effectiveDate": "2013-12-28",
+      "gazetteDate": "2014-02-01",
+      "gazetteNumber": "Số 6",
+      "status": "Hết hiệu lực: 12/12/2019"
+    },
+    {
+      "title": "Quyết định 600/QĐ-UBND năm 2013 hủy bỏ Điều 3 Quyết định thành lập và đổi tên Đội Quản lý trật tự giao thông, xây dựng và môi trường huyện, thành phố trên địa bàn tỉnh Bắc Giang",
+      "id": "600/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Văn Linh"
+      ],
+      "issuedDate": "2013-11-14",
+      "effectiveDate": "2013-11-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2694/QĐ-UBND năm 2012 thành lập Đoàn kiểm tra tình hình thực hiện công tác quản lý nhà nước về chống lấn chiếm đất đai, xử lý vi phạm trật tự xây dựng trên địa bàn thành phố Hà Nội",
+      "id": "2694/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Văn Khôi"
+      ],
+      "issuedDate": "2012-06-18",
+      "effectiveDate": "2012-06-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "48/2014/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bộ máy hành chính",
+    "Xây dựng - Đô thị"
+  ],
+  "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+  "signers": [
+    "Trần Ngọc Thới"
+  ],
+  "issuedDate": "2014-09-22",
+  "effectiveDate": "2014-10-02",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 24/12/2019",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMQAwADAANQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"color:black\">ỦY BAN NHÂN DÂN</span></b><br>\n  <b><span style=\"color:black\">TỈNH BÀ RỊA – VŨNG TÀU<br>\n  --------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  48/2014/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Bà Rịa, ngày\n  22 tháng 9 năm 2014</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">VỀ VIỆC BAN HÀNH QUY CHẾ PHỐI HỢP QUẢN LÝ TRẬT\nTỰ XÂY DỰNG TRÊN ĐỊA BÀN TỈNH BÀ RỊA - VŨNG TÀU</span></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH BÀ RỊA-VŨNG TÀU</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức Hội đồng\nnhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Ban hành văn bản\nquy phạm pháp luật của Hội đồng nhân dân và Ủy ban nhân dân năm 2004;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ quy định chi tiết và hướng\ndẫn thi hành một số điều của Luật Xây dựng về xử lý vi phạm trật tự xây dựng đô\nthị;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n26/2013/NĐ-CP ngày 29 tháng 3 năm 2013 của Chính phủ về tổ chức và hoạt động của\nthanh tra ngành xây dựng;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n81/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ quy định chi tiết một số\nđiều và biện pháp thi hành Luật Xử lý vi phạm hành chính;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n121/2013/NĐ-CP ngày 10 tháng 10 năm 2013 của Chính phủ quy định xử phạt vi phạm\nhành chính trong hoạt động xây dựng; kinh doanh bất động sản; khai thác, sản xuất,\nkinh doanh vật liệu xây dựng; quản lý công trình hạ tầng kỹ thuật; quản lý phát\ntriển nhà và công sở;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n166/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định về cưỡng chế\nthi hành quyết định xử phạt vi phạm hành chính;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Theo đề nghị của Giám đốc Sở\nXây dựng tại Tờ trình số 163/TTr-SXD ngày 21 tháng 7 năm 2014 về ban hành quy\nchế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu,</span></i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này, quy chế phối hợp\nquản lý trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><span lang=\"VI\"> <a name=\"dieu_2_name\">Quyết định này có hiệu lực thi hành sau 10 ngày,\nkể từ ngày ký.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a><span lang=\"VI\"> <a name=\"dieu_3_name\">Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc\ncác Sở: Xây dựng, Tài nguyên và Môi trường, Tài chính; Giám đốc Công an tỉnh,\nTrưởng ban Ban Quản lý các khu công nghiệp Bà Rịa - Vũng Tàu; Chủ tịch Ủy ban\nnhân dân các huyện, thành phố; Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn,\nChánh Thanh tra Sở Xây dựng và Thủ trưởng các cơ quan, đơn vị có liên quan chịu\ntrách nhiệm thi hành Quyết định này./.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMQAwADAANQA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM. ỦY BAN\n  NHÂN DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Ngọc Thới</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2\"><b>PHỐI\nHỢP QUẢN LÝ TRẬT TỰ XÂY DỰNG TRÊN ĐỊA BÀN TỈNH BÀ RỊA - VŨNG TÀU</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><i>(Ban hành kèm\ntheo Quyết định số 48/2014/QĐ-UBND ngày 22 tháng 9 năm 2014 của Ủy ban nhân dân\ntỉnh Bà Rịa - Vũng Tàu)</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1_1\"><b>Điều 1. Phạm vi điều chỉnh\nvà đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Quy chế này quy định trách nhiệm của Thanh tra Sở\nXây dựng; Ủy ban nhân dân các huyện, thành phố (sau đây gọi chung là Ủy ban\nnhân dân cấp huyện); Ủy ban nhân dân các xã, phường, thị trấn (sau đây gọi\nchung là Ủy ban nhân dân cấp xã) và các tổ chức, cá nhân có liên quan trong\ncông tác phối hợp kiểm tra, phát hiện và xử lý vi phạm trật tự xây dựng trên địa\nbàn tỉnh Bà Rịa - Vũng Tàu.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2_1\"><b>Điều 2. Nguyên tắc thực hiện</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Nguyên tắc phối hợp:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Quan hệ phối hợp phải đồng bộ, thống nhất,\nđúng quy định pháp luật, đảm bảo kịp thời trong quá trình kiểm tra, phát hiện\nvà xử lý hành vi vi phạm pháp luật về xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Các cơ quan, cá nhân trong quá trình phối hợp\nphải thực hiện đúng chức năng, nhiệm vụ và quyền hạn theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Nguyên tắc xử lý:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Công trình, bộ phận công trình xây dựng vi phạm\ntrật tự xây dựng phải được phát hiện, lập biên bản, ngăn chặn, xử lý kịp thời\nvà triệt để theo đúng quy định của pháp luật về xây dựng;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Việc xử lý công trình vi phạm trật tự xây dựng\nphải tuân thủ đúng trình tự, thủ tục được pháp luật quy định, đảm bảo công\nkhai, minh bạch, công bằng, đúng pháp luật, tạo điều kiện thuận lợi cho các tổ\nchức và công dân cùng tham gia giám sát các hoạt động về xây dựng trên địa bàn;</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Mọi thông tin phản ánh về công trình vi phạm\ntrật tự xây dựng đều phải được kiểm tra, xử lý theo quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Nguyên tắc công khai, minh bạch:</p>\n\n<p style=\"margin-bottom:6.0pt\">Quyết định đình chỉ thi công, quyết định cưỡng\nchế phá dỡ và các văn bản thông báo thời gian tổ chức cưỡng chế phải được gửi\ncho các tổ chức, cá nhân có liên quan theo đúng quy định và phải được niêm yết\ncông khai tại trụ sở Ủy ban nhân dân cấp xã (nơi có công trình vi phạm) để mọi\ntổ chức, công dân biết và giám sát thực hiện;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Chủ đầu tư, nhà thầu thi công xây dựng, nhà\nthầu tư vấn thiết kế, nhà thầu tư vấn giám sát thi công xây dựng công trình có\nhành vi vi phạm pháp luật về trật tự xây dựng phải bị xử lý và công bố công\nkhai hành vi vi phạm trên trang tin điện tử của Bộ Xây dựng, Ủy ban nhân dân tỉnh,\nỦy ban nhân dân cấp huyện và Sở Xây dựng theo quy định;</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Trường hợp xử lý đối với công trình vi phạm\nqua thông tin phản ánh do các tổ chức hoặc cá nhân chuyển đến thì phải thông\nbáo kết quả xử lý đến tổ chức, cá nhân cung cấp thông tin được biết để tiếp tục\ntham gia giám sát.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC TIẾP NHẬN, XỬ LÝ\nTHÔNG TIN PHẢN ÁNH</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3_1\"><b>Điều 3. Phản ánh thông tin</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Mọi cơ quan, tổ chức, cá nhân khi phát hiện\ncác hành vi vi phạm pháp luật về trật tự xây dựng đều có quyền phản ánh thông\ntin đến các cơ quan nhà nước và các cá nhân có trách nhiệm và thẩm quyền để tiến\nhành xác minh, xử lý theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Thông tin phản ánh hành vi vi phạm pháp luật\nvề xây dựng là việc các tổ chức, cá nhân phản ánh thông tin, tố giác bằng hình\nthức điện thoại, hộp thư thoại, hộp thư điện tử, tin nhắn, tin báo trực tiếp,\nđơn trình báo, gửi đến các cơ quan nhà nước và cá nhân quy định tại Điều 4 của\nQuy chế này để thực hiện tiếp nhận thông tin theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Trách nhiệm tiếp nhận\nthông tin phản ánh</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Các cơ quan nhà nước có trách nhiệm tiếp nhận\nthông tin:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Ủy ban nhân dân cấp xã;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Ủy ban nhân dân cấp huyện;</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Thanh tra Sở Xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\">Các cơ quan nhà nước có trách nhiệm tiếp nhận\nthông tin phải lập hộp thư thoại, số điện thoại đường dây nóng, hộp thư điện tử,\nsổ tiếp nhận thông tin tại trụ sở cơ quan, đơn vị, đồng thời, có kế hoạch tổ chức,\nphân công lịch trực, người trực tiếp nhận thông tin phản ánh, theo dõi và xử lý\nthông tin phản ánh các hành vi vi phạm pháp luật về trật tự xây dựng theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Các cá nhân có trách nhiệm tiếp nhận thông\ntin:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Chủ tịch Ủy ban nhân dân cấp xã;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Chủ tịch Ủy ban nhân dân cấp huyện;</p>\n\n<p style=\"margin-bottom:6.0pt\">c) Chánh Thanh tra Sở Xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\">Các cá nhân có trách nhiệm tiếp nhận thông tin\nphải công bố số điện thoại cá nhân và đảm bảo liên lạc 24/2.4 giờ, để kịp thời\ntiếp nhận thông tin phản ánh các hành vi vi phạm pháp luật về trật tự xây dựng\nvà chỉ đạo xử lý theo đúng quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Thanh tra Sở Xây dựng có trách nhiệm hướng dẫn\nlập các loại sổ, biểu mẫu ghi chép quá trình tiếp nhận, xử lý thông tin, kiểm\ntra, xử lý công trình vi phạm để thống nhất thực hiện.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TRÁCH NHIỆM KIỂM TRA VÀ\nPHỐI HỢP XỬ LÝ VI PHẠM TRẬT TỰ XÂY DỰNG</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Trách nhiệm kiểm tra\nvà phối hợp lập biên bản vi phạm trật tự xây dựng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Trách nhiệm của Ủy ban nhân dân cấp xã:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Cán bộ quản lý xây dựng cấp xã có trách nhiệm\ntổ chức kiểm tra định kỳ và đột xuất đối với tất cả các công trình xây dựng\ntrên địa bàn; phát hiện, ngăn chặn kịp thời các hành vi vi phạm trật tự xây dựng.\nRiêng đối với các công trình bí mật nhà nước, việc thanh tra, kiểm tra được thực\nhiện theo quy định của Chính phủ về quản lý đầu tư xây dựng công trình đặc thù.\nKhi phát hiện hành vi vi phạm về trật tự xây dựng, phải tiến hành các thủ tục lập\nbiên bản vi phạm trật tự xây dựng và xử lý vụ việc theo quy định tại Điều 22\nNghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của chính phủ;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm\nđôn đốc, kiểm tra tình hình trật tự xây dựng trên địa bàn; ban hành kịp thời\ncác quyết định xử lý vi phạm về trật tự xây dựng thuộc thẩm quyền quy định tại\nĐiều 17 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Trách nhiệm của Ủy ban nhân dân cấp huyện:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Trưởng phòng chuyên môn cấp huyện chủ trì tổ\nchức kiểm tra và xử lý đối với các trường hợp công trình vi phạm trật tự xây dựng,\ntrong trường hợp Chủ tịch Ủy ban nhân dân cấp xã không kịp thời xử lý; công\ntrình vi phạm vượt quá thẩm quyền xử lý của Chủ tịch Ủy ban nhân dân cấp xã;\ncác công trình xây dựng do các tổ chức, công dân phản ánh qua các kênh thông\ntin và các công trình xây dựng mà cán bộ quản lý xây dựng cấp xã buông lỏng quản\nlý, không thực hiện kiểm tra, xử lý theo thẩm quyền quy định tại Điều 20 Nghị định\nsố 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của chính phủ;</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Chủ tịch Ủy ban nhân dân cấp huyện có trách\nnhiệm đôn đốc, kiểm tra Chủ tịch Ủy ban nhân dân cấp xã trong việc thực hiện quản\nlý trật tự xây dựng thuộc địa bàn; chỉ đạo các lực lượng quản lý trật tự xây dựng\nthường xuyên kiểm tra, phát hiện, ngăn chặn các hành vi vi phạm trên địa bàn, đồng\nthời ban hành kịp thời các quyết định xử lý vi phạm trật tự xây dựng theo thẩm\nquyền quy định tại Điều 18 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm\n2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Trách nhiệm của Thanh tra Sở Xây dựng:</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Cán bộ, công chức, thanh tra viên Thanh tra Sở\nXây dựng thực hiện kiểm tra đối với các công trình xây dựng vi phạm do Sở Xây dựng\nhoặc Ủy ban nhân dân cấp huyện cấp giấy phép xây dựng, trong trường hợp Ủy ban\nnhân dân cấp huyện không kịp thời ban hành quyết định xử lý.</p>\n\n<p style=\"margin-bottom:6.0pt\">Phối hợp với lực lượng quản lý trật tự xây dựng\ncấp huyện, cấp xã tiến hành kiểm tra các công trình do các cơ quan, tổ chức, cá\nnhân cung cấp thông tin. Khi phát hiện công trình vi phạm trật tự xây dựng, phải\ntiến hành lập biên bản, xử lý vụ việc theo thẩm quyền quy định tại Điều 16 Nghị\nđịnh số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ hoặc kiến nghị\nChánh Thanh tra Sở Xây dựng xử lý vụ việc theo thẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Chánh Thanh tra Sở Xây dựng có trách nhiệm kiểm\ntra, đôn đốc, tổng hợp tình hình trật tự xây dựng trên địa bàn, ban hành kịp thời\ncác quyết định xử lý vi phạm trật tự xây dựng theo thẩm quyền quy định tại Điều\n21 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Trách nhiệm phối hợp\nthực hiện quyết định đình chỉ thi công xây dựng công trình</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết\nđịnh đình chỉ thi công xây dựng công trình vi phạm trật tự xây dựng trong trường\nhợp chủ đầu tư không chấp hành việc ngừng thi công xây dựng theo nội dung biên\nbản ngừng thi công xây dựng của cán bộ có trách nhiệm về quản lý xây dựng và xử\nlý vụ việc vi phạm theo nội dung quy định tại Điều 23 Nghị định số\n180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Trưởng phòng chuyên môn cấp huyện có trách\nnhiệm yêu cầu Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết định đình chỉ thi\ncông xây dựng công trình vi phạm trật tự xây dựng trong trường hợp chủ đầu tư\nkhông chấp hành việc ngừng thi công xây dựng mà Ủy ban nhân dân cấp xã không kịp\nthời xử lý hoặc ban hành quyết định đình chỉ thi công đối với công trình xây dựng\nvi phạm trật tự xây theo thẩm quyền quy định tại Điều 20 Nghị định số\n180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Chánh Thanh tra Sở Xây dựng ban hành quyết định\nđình chỉ thi công xây dựng công trình vi phạm trật tự xây dựng trong trường hợp\nỦy ban nhân dân cấp huyện không ban hành quyết định kịp thời, đồng thời kiến\nnghị xử lý vụ việc theo thẩm quyền quy định tại Điều 21 Nghị định số\n180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Trách nhiệm phối hợp\nthực hiện quyết định cưỡng chế và tổ chức cưỡng chế phá dỡ công trình xây dựng,\nbộ phận công trình xây dựng vi phạm</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết\nđịnh cưỡng chế đối với các công trình vi phạm trật tự xây dựng theo thẩm quyền.\nTrường hợp công trình xây dựng vi phạm vượt quá thẩm quyền, trong thời hạn 24\ngiờ kể từ khi ban hành quyết định đình chỉ thi công xây dựng, Ủy ban nhân dân cấp\nxã phải gửi hồ sơ lên Chủ tịch Ủy ban nhân dân cấp huyện để ban hành quyết định\ncưỡng chế phá dỡ theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tổ chức thực hiện cưỡng chế tất cả các công\ntrình vi phạm trật tự xây dựng trên địa bàn theo quyết định cưỡng chế của cơ\nquan có thẩm quyền ban hành, quy định tại Điều 17 Nghị định số 180/2007/NĐ-CP ngày\n07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Chủ tịch Ủy ban nhân dân cấp huyện ban hành\nquyết định cưỡng chế phá dỡ đối với công trình vi phạm theo thẩm quyền, đồng thời\nchỉ đạo tổ chức thực hiện cưỡng chế phá dỡ những công trình xây dựng vi phạm\ntheo quyết định của cơ quan có thẩm quyền ban hành, đồng thời xử lý các vi phạm\ntheo quy định tại Điều 18 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007\ncủa Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Chánh Thanh tra Sở Xây dựng ban hành quyết định\ncưỡng chế đối với các công trình xây dựng vi phạm trật tự xây dựng trong trường\nhợp Ủy ban nhân dân cấp huyện không ban hành quyết định kịp thời, đồng thời kiến\nnghị xử lý đối với những hành vi vi phạm quy định tại Điều 21 Nghị định số 180/2007/NĐ-CP\nngày 07 tháng 12 năm 2007 của Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Gửi quyết định cưỡng chế đến cá nhân, tổ chức\nbị cưỡng chế, tổ chức, cá nhân có liên quan và thời hạn thi hành quyết định cưỡng\nchế thực hiện theo quy định tại Điều 5 Nghị định số 166/2013/NĐ-CP ngày 12\ntháng 11 năm 2013 của Chính phủ quy định về cưỡng chế thi hành quyết định xử phạt\nvi phạm hành chính.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">TRÁCH NHIỆM PHỐI HỢP CỦA\nCÁC CƠ QUAN, TỔ CHỨC KHÁC CÓ LIÊN QUAN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_8\"><b>Điều 8. Trách nhiệm của Sở\nXây dựng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Xây dựng kế hoạch tuyên truyền, phổ biến kiến\nthức pháp luật và các văn bản quy phạm pháp luật liên quan đến các lĩnh vực hoạt\nđộng xây dựng trên địa bàn. Đồng thời, tham mưu Ủy ban nhân dân tỉnh ban hành\ncác văn bản, quy định trong công tác quản lý trật tự xây dựng trên địa bàn tỉnh\ntheo quy định của Chính phủ và hướng dẫn của các bộ, ngành, trung ương;</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Chỉ đạo Thanh tra Sở Xây dựng phối hợp với\nchính quyền địa phương và các cơ quan liên quan thực hiện nhiệm vụ quản lý trật\ntự xây dựng trên địa bàn tỉnh. Chủ động nghiên cứu, đề xuất các giải pháp để thực\nhiện nghiêm túc các quy định của pháp luật về quản lý trật tự xây dựng; đôn đốc\nvà hướng dẫn các địa phương thực hiện tốt công tác quản lý trật tự xây dựng\ntrên địa bàn;</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Ban hành kịp thời các văn bản trình Chủ tịch Ủy\nban nhân dân tỉnh xử lý đối với các trường hợp vi phạm trật tự xây dựng vượt\nquá thẩm quyền của Chủ tịch Ủy ban nhân dân cấp huyện và Chánh Thanh tra Sở Xây\ndựng.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Trách nhiệm của Ban\nQuản lý các khu công nghiệp Bà Rịa - Vũng Tàu</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Xây dựng kế hoạch tuyên truyền, phổ biến kiến\nthức pháp luật và các văn bản quy phạm pháp luật liên quan đến các lĩnh vực hoạt\nđộng xây dựng cho các doanh nghiệp hoạt động đầu tư xây dựng trong các khu công\nnghiệp thuộc địa bàn được giao quản lý;</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Tổ chức kiểm tra tình hình trật tự xây dựng đối\nvới các công trình xây dựng trong các khu công nghiệp thuộc phạm vi quản lý.\nKhi phát hiện hành vi vi phạm trật tự xây dựng phải tiến hành lập biên bản, xử\nlý theo thẩm quyền hoặc đề nghị Ủy ban nhân dân cấp huyện phối hợp kiểm tra, xử\nlý theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_10\"><b>Điều 10. Trách nhiệm của Sở\nTài nguyên và Môi trường</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Xem xét tạm dừng việc giao đất, cho thuê đất\nvà cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn\nliền với đất theo đề nghị bằng văn bản của Chủ tịch Ủy ban nhân dân cấp huyện\nhoặc Chánh Thanh tra Sở Xây dựng đối với các trường hợp tổ chức, cá nhân vi phạm\ntrật tự xây dựng nhưng chưa chấm dứt hành vi vi phạm, chưa chấp hành các quyết\nđịnh xử lý vi phạm hành chính hoặc chưa thực hiện xong các biện pháp khắc phục\nhậu quả do hành vi vi phạm trật tự xây dựng gây ra;</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Chỉ đạo lực lượng Thanh tra Sở phối hợp với Ủy\nban nhân dân cấp huyện và Thanh tra Sở Xây dựng trong việc kiểm tra, xử lý đối\nvới các trường hợp vi phạm trật tự xây dựng liên quan đến các lĩnh vực quản lý\nnhà nước của Sở Tài nguyên và Môi trường theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Trách nhiệm của Sở\nTài chính</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Thẩm định, trình Ủy ban nhân dân tỉnh bố trí\ndự toán hàng năm cho các cơ quan, đơn vị liên quan đến hoạt động kiểm tra, xử\nlý vi phạm trật tự xây dựng, tổ chức cưỡng chế công trình xây dựng vi phạm\nv.v... theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Hướng dẫn các cơ quan, đơn vị sử dụng nguồn\nkinh phí xử phạt vi phạm hành chính trong hoạt động xây dựng theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_12\"><b>Điều 12. Trách nhiệm của\nCông an tỉnh</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">Chỉ đạo Trưởng công an các huyện, thành phố;\nCông an các xã, phường, thị trấn có trách nhiệm phối hợp với Ủy ban nhân dân cấp\nhuyện, Ủy ban nhân dân cấp xã và Thanh tra Sở Xây dựng trong việc thực hiện các\nquyết định đình chỉ thi công xây dựng, quyết định cưỡng chế phá dỡ công trình\nvi phạm trật tự xây dựng theo quy định tại Nghị định số 180/2007/NĐ-CP ngày 07\ntháng 12 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số\nđiều của Luật Xây dựng về xử lý vi phạm trật tự xây dựng đô thị; Nghị định số\n121/2013/NĐ-CP ngày 10 tháng 10 năm 2013 của Chính phủ về xử phạt vi phạm hành\nchính trong hoạt động xây dựng; Nghị định số 166/2013/NĐ-CP ngày 12 tháng 11\nnăm 2013 của Chính phủ quy định về cưỡng chế thi hành quyết định xử phạt vi phạm\nhành chính; Nghị định số 208/2013/NĐ-CP ngày 17 tháng 12 năm 2013 của Chính phủ\nquy định các biện pháp phòng ngừa, ngăn chặn và xử lý hành vi chống người thi\nhành công vụ và Thông tư liên tịch số 04/2007/TTLT-BXD-BCA ngày 07 tháng 7 năm\n2007 của Bộ Xây dựng và Bộ Công an hướng dẫn phối hợp xử lý vi phạm pháp luật\ntrong hoạt động xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_13\"><b>Điều 13. Trách nhiệm của\ncác cơ quan công an, cơ quan cung cấp dịch vụ điện, nước và các cơ quan liên\nquan khác</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Thủ trưởng cơ quan công an xã, phường, thị trấn\ncó trách nhiệm chỉ đạo lực lượng phối hợp với Ủy ban nhân dân cấp huyện, Ủy ban\nnhân dân cấp xã và Thanh tra Sở Xây dựng xử lý vi phạm trật tự xây dựng, thực\nhiện nghiêm chỉnh các yêu cầu trong quyết định đình chỉ thi công xây dựng, quyết\nđịnh cưỡng chế phá dỡ của cấp có thẩm quyền; trường hợp không thực hiện hoặc\ndung túng cho hành vi vi phạm để công trình tiếp tục xây dựng thì bị xử lý theo\nquy định hoặc có thể bị xử lý theo quy định của pháp luật hình sự khi để xảy ra\nhậu quả nghiêm trọng.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Giám đốc: Công ty Điện lực Bà Rịa - Vũng Tàu,\nCông ty cổ phần Cấp nước Bà Rịa - Vũng Tàu, Công ty cổ phần Cấp nước Phú Mỹ,\nTrung tâm Nước sạch và Vệ sinh môi trường nông thôn, Trạm cung Cấp nước Côn Đảo;\nThủ trưởng các đơn vị, cá nhân cung cấp dịch vụ điện, nước và các dịch vụ khác\nliên quan đến công trình vi phạm trật tự xây dựng trên địa bàn có trách nhiệm\nthực hiện nghiêm chỉnh, đúng thời hạn các yêu cầu ngừng cung cấp điện, ngừng\ncung cấp nước trong quyết định đình chỉ thi công xây dựng, quyết định cưỡng chế\nphá dỡ của cấp có thẩm quyền; trường hợp không thực hiện, thực hiện không kịp\nthời hoặc dung túng, tiếp tay cho hành vi vi phạm thì bị xử lý theo quy định hoặc\ncó thể bị xử lý theo quy định của pháp luật hình sự khi để xảy ra hậu quả\nnghiêm trọng.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"chuong_5\"><b>Chương V</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_14\"><b>Điều 14. Chế độ giao ban và\nthông tin, báo cáo</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Chế độ giao ban</p>\n\n<p style=\"margin-bottom:6.0pt\">Ủy ban nhân dân cấp huyện chủ trì, tổ chức giao\nban tháng, quý hoặc đột xuất với các Phòng chuyên môn trực thuộc Ủy ban nhân\ndân cấp huyện, Thanh tra Sở Xây dựng và Ủy ban nhân dân các xã, phường, thị trấn\nđể đánh giá về tình hình xây dựng và vi phạm trật tự xây dựng trên địa bàn, để\nkịp thời đề ra những biện pháp xử lý đối với các vi phạm trật tự xây dựng theo\nquy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Chế độ thông tin, báo cáo</p>\n\n<p style=\"margin-bottom:6.0pt\">a) Hàng tháng, Chủ tịch Ủy ban nhân dân cấp xã\ncó trách nhiệm tổng hợp số liệu báo cáo về tình hình vi phạm trật tự xây dựng;\nnhững khó khăn, vướng mắc và kiến nghị biện pháp xử lý đối với các hành vi vi\nphạm trật tự xây dựng trên địa bàn báo cáo tại cuộc họp giao ban hàng tháng do Ủy\nban nhân dân cấp huyện tổ chức để được xem xét, xử lý.</p>\n\n<p style=\"margin-bottom:6.0pt\">b) Hàng quý, 6 tháng và một năm, Chủ tịch Ủy ban\nnhân dân cấp huyện có trách nhiệm tổng hợp báo cáo về tình hình quản lý trật tự\nxây dựng trên địa bàn, gửi Thanh tra Sở Xây dựng để tổng hợp, báo cáo theo mẫu\nquy định tại Thông tư số 06/2012/TT-BXD ngày 10 tháng 10 năm 2012 của Bộ trưởng\nBộ Xây dựng quy định chế độ báo cáo thống kê tổng hợp ngành xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_15\"><b>Điều 15. Tổ chức thực hiện</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Sở Xây dựng có trách nhiệm:</p>\n\n<p style=\"margin-bottom:6.0pt\">- Chỉ đạo Thanh tra Sở Xây dựng phối hợp với Ủy\nban nhân dân các huyện, thành phố; Ủy ban nhân dân xã, phường, thị trấn và các\ncơ quan, đơn vị, cá nhân có liên quan phổ biến và tổ chức triển khai thực hiện\nQuy chế này;</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tổng hợp các ý kiến phản ánh của các cơ quan\ncó liên quan về những vấn đề vướng mắc phát sinh và nghiên cứu đề xuất việc sửa\nđổi, bổ sung Quy chế cho phù hợp;</p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì, đôn đốc, hướng dẫn, kiểm tra việc triển\nkhai thực hiện nội dung Quy chế theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Giao Ủy ban nhân dân các huyện, thành phố có\ntrách nhiệm phổ biến và tổ chức triển khai nội dung Quy chế này đến các cán bộ,\ncông chức, viên chức thuộc cấp mình quản lý, cán bộ lãnh đạo và người được giao\nnhiệm vụ quản lý trật tự xây dựng cấp xã; Công an các xã, phường, thị trấn; các\nđơn vị cung cấp dịch vụ điện, nước và các tổ chức, cá nhân khác có liên quan\nđóng trên địa bàn biết để thực hiện.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_16\"><b>Điều 16.</b></a> <a name=\"dieu_16_name\">Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng\nmắc, đề nghị phản ánh kịp thời về Sở Xây dựng để tổng hợp, báo cáo Ủy ban nhân\ndân tỉnh xem xét, sửa đổi bổ sung cho phù hợp với quy định của pháp luật và\ntình hình thực tế tại địa phương./.</a></p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN**  \n**TỈNH BÀ RỊA – VŨNG TÀU  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 48/2014/QĐ-UBND\n\n_Bà Rịa, ngày 22 tháng 9 năm 2014_\n\n**QUYẾT ĐỊNH**\n\nVỀ VIỆC BAN HÀNH QUY CHẾ PHỐI HỢP QUẢN LÝ TRẬT TỰ XÂY DỰNG TRÊN ĐỊA BÀN TỈNH BÀ RỊA - VŨNG TÀU\n\n**ỦY BAN NHÂN DÂN TỈNH BÀ RỊA-VŨNG TÀU**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Ủy ban nhân dân năm 2004;_\n\n_Căn cứ Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xây dựng về xử lý vi phạm trật tự xây dựng đô thị;_\n\n_Căn cứ Nghị định số 26/2013/NĐ-CP ngày 29 tháng 3 năm 2013 của Chính phủ về tổ chức và hoạt động của thanh tra ngành xây dựng;_\n\n_Căn cứ Nghị định số 81/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xử lý vi phạm hành chính;_\n\n_Căn cứ Nghị định số 121/2013/NĐ-CP ngày 10 tháng 10 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong hoạt động xây dựng; kinh doanh bất động sản; khai thác, sản xuất, kinh doanh vật liệu xây dựng; quản lý công trình hạ tầng kỹ thuật; quản lý phát triển nhà và công sở;_\n\n_Căn cứ Nghị định số 166/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định về cưỡng chế thi hành quyết định xử phạt vi phạm hành chính;_\n\n_Theo đề nghị của Giám đốc Sở Xây dựng tại Tờ trình số 163/TTr-SXD ngày 21 tháng 7 năm 2014 về ban hành quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này, quy chế phối hợp quản lý trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu.\n\n**Điều 2.** Quyết định này có hiệu lực thi hành sau 10 ngày, kể từ ngày ký.\n\n**Điều 3.** Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc các Sở: Xây dựng, Tài nguyên và Môi trường, Tài chính; Giám đốc Công an tỉnh, Trưởng ban Ban Quản lý các khu công nghiệp Bà Rịa - Vũng Tàu; Chủ tịch Ủy ban nhân dân các huyện, thành phố; Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn, Chánh Thanh tra Sở Xây dựng và Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nTrần Ngọc Thới**\n\n**PHỐI HỢP QUẢN LÝ TRẬT TỰ XÂY DỰNG TRÊN ĐỊA BÀN TỈNH BÀ RỊA - VŨNG TÀU**\n\n_(Ban hành kèm theo Quyết định số 48/2014/QĐ-UBND ngày 22 tháng 9 năm 2014 của Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\nQuy chế này quy định trách nhiệm của Thanh tra Sở Xây dựng; Ủy ban nhân dân các huyện, thành phố (sau đây gọi chung là Ủy ban nhân dân cấp huyện); Ủy ban nhân dân các xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân cấp xã) và các tổ chức, cá nhân có liên quan trong công tác phối hợp kiểm tra, phát hiện và xử lý vi phạm trật tự xây dựng trên địa bàn tỉnh Bà Rịa - Vũng Tàu.\n\n**Điều 2. Nguyên tắc thực hiện**\n\n1\\. Nguyên tắc phối hợp:\n\na) Quan hệ phối hợp phải đồng bộ, thống nhất, đúng quy định pháp luật, đảm bảo kịp thời trong quá trình kiểm tra, phát hiện và xử lý hành vi vi phạm pháp luật về xây dựng.\n\nb) Các cơ quan, cá nhân trong quá trình phối hợp phải thực hiện đúng chức năng, nhiệm vụ và quyền hạn theo quy định.\n\n2\\. Nguyên tắc xử lý:\n\na) Công trình, bộ phận công trình xây dựng vi phạm trật tự xây dựng phải được phát hiện, lập biên bản, ngăn chặn, xử lý kịp thời và triệt để theo đúng quy định của pháp luật về xây dựng;\n\nb) Việc xử lý công trình vi phạm trật tự xây dựng phải tuân thủ đúng trình tự, thủ tục được pháp luật quy định, đảm bảo công khai, minh bạch, công bằng, đúng pháp luật, tạo điều kiện thuận lợi cho các tổ chức và công dân cùng tham gia giám sát các hoạt động về xây dựng trên địa bàn;\n\nc) Mọi thông tin phản ánh về công trình vi phạm trật tự xây dựng đều phải được kiểm tra, xử lý theo quy định của pháp luật.\n\n3\\. Nguyên tắc công khai, minh bạch:\n\nQuyết định đình chỉ thi công, quyết định cưỡng chế phá dỡ và các văn bản thông báo thời gian tổ chức cưỡng chế phải được gửi cho các tổ chức, cá nhân có liên quan theo đúng quy định và phải được niêm yết công khai tại trụ sở Ủy ban nhân dân cấp xã (nơi có công trình vi phạm) để mọi tổ chức, công dân biết và giám sát thực hiện;\n\nb) Chủ đầu tư, nhà thầu thi công xây dựng, nhà thầu tư vấn thiết kế, nhà thầu tư vấn giám sát thi công xây dựng công trình có hành vi vi phạm pháp luật về trật tự xây dựng phải bị xử lý và công bố công khai hành vi vi phạm trên trang tin điện tử của Bộ Xây dựng, Ủy ban nhân dân tỉnh, Ủy ban nhân dân cấp huyện và Sở Xây dựng theo quy định;\n\nc) Trường hợp xử lý đối với công trình vi phạm qua thông tin phản ánh do các tổ chức hoặc cá nhân chuyển đến thì phải thông báo kết quả xử lý đến tổ chức, cá nhân cung cấp thông tin được biết để tiếp tục tham gia giám sát.\n\n**Chương II**\n\n**TỔ CHỨC TIẾP NHẬN, XỬ LÝ THÔNG TIN PHẢN ÁNH**\n\n**Điều 3. Phản ánh thông tin**\n\n1\\. Mọi cơ quan, tổ chức, cá nhân khi phát hiện các hành vi vi phạm pháp luật về trật tự xây dựng đều có quyền phản ánh thông tin đến các cơ quan nhà nước và các cá nhân có trách nhiệm và thẩm quyền để tiến hành xác minh, xử lý theo quy định.\n\n2\\. Thông tin phản ánh hành vi vi phạm pháp luật về xây dựng là việc các tổ chức, cá nhân phản ánh thông tin, tố giác bằng hình thức điện thoại, hộp thư thoại, hộp thư điện tử, tin nhắn, tin báo trực tiếp, đơn trình báo, gửi đến các cơ quan nhà nước và cá nhân quy định tại Điều 4 của Quy chế này để thực hiện tiếp nhận thông tin theo quy định.\n\n**Điều 4. Trách nhiệm tiếp nhận thông tin phản ánh**\n\n1\\. Các cơ quan nhà nước có trách nhiệm tiếp nhận thông tin:\n\na) Ủy ban nhân dân cấp xã;\n\nb) Ủy ban nhân dân cấp huyện;\n\nc) Thanh tra Sở Xây dựng.\n\nCác cơ quan nhà nước có trách nhiệm tiếp nhận thông tin phải lập hộp thư thoại, số điện thoại đường dây nóng, hộp thư điện tử, sổ tiếp nhận thông tin tại trụ sở cơ quan, đơn vị, đồng thời, có kế hoạch tổ chức, phân công lịch trực, người trực tiếp nhận thông tin phản ánh, theo dõi và xử lý thông tin phản ánh các hành vi vi phạm pháp luật về trật tự xây dựng theo quy định.\n\n2\\. Các cá nhân có trách nhiệm tiếp nhận thông tin:\n\na) Chủ tịch Ủy ban nhân dân cấp xã;\n\nb) Chủ tịch Ủy ban nhân dân cấp huyện;\n\nc) Chánh Thanh tra Sở Xây dựng.\n\nCác cá nhân có trách nhiệm tiếp nhận thông tin phải công bố số điện thoại cá nhân và đảm bảo liên lạc 24/2.4 giờ, để kịp thời tiếp nhận thông tin phản ánh các hành vi vi phạm pháp luật về trật tự xây dựng và chỉ đạo xử lý theo đúng quy định.\n\n3\\. Thanh tra Sở Xây dựng có trách nhiệm hướng dẫn lập các loại sổ, biểu mẫu ghi chép quá trình tiếp nhận, xử lý thông tin, kiểm tra, xử lý công trình vi phạm để thống nhất thực hiện.\n\n**Chương III**\n\n**TRÁCH NHIỆM KIỂM TRA VÀ PHỐI HỢP XỬ LÝ VI PHẠM TRẬT TỰ XÂY DỰNG**\n\n**Điều 5. Trách nhiệm kiểm tra và phối hợp lập biên bản vi phạm trật tự xây dựng**\n\n1\\. Trách nhiệm của Ủy ban nhân dân cấp xã:\n\na) Cán bộ quản lý xây dựng cấp xã có trách nhiệm tổ chức kiểm tra định kỳ và đột xuất đối với tất cả các công trình xây dựng trên địa bàn; phát hiện, ngăn chặn kịp thời các hành vi vi phạm trật tự xây dựng. Riêng đối với các công trình bí mật nhà nước, việc thanh tra, kiểm tra được thực hiện theo quy định của Chính phủ về quản lý đầu tư xây dựng công trình đặc thù. Khi phát hiện hành vi vi phạm về trật tự xây dựng, phải tiến hành các thủ tục lập biên bản vi phạm trật tự xây dựng và xử lý vụ việc theo quy định tại Điều 22 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của chính phủ;\n\nb) Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm đôn đốc, kiểm tra tình hình trật tự xây dựng trên địa bàn; ban hành kịp thời các quyết định xử lý vi phạm về trật tự xây dựng thuộc thẩm quyền quy định tại Điều 17 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n2\\. Trách nhiệm của Ủy ban nhân dân cấp huyện:\n\na) Trưởng phòng chuyên môn cấp huyện chủ trì tổ chức kiểm tra và xử lý đối với các trường hợp công trình vi phạm trật tự xây dựng, trong trường hợp Chủ tịch Ủy ban nhân dân cấp xã không kịp thời xử lý; công trình vi phạm vượt quá thẩm quyền xử lý của Chủ tịch Ủy ban nhân dân cấp xã; các công trình xây dựng do các tổ chức, công dân phản ánh qua các kênh thông tin và các công trình xây dựng mà cán bộ quản lý xây dựng cấp xã buông lỏng quản lý, không thực hiện kiểm tra, xử lý theo thẩm quyền quy định tại Điều 20 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của chính phủ;\n\nb) Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm đôn đốc, kiểm tra Chủ tịch Ủy ban nhân dân cấp xã trong việc thực hiện quản lý trật tự xây dựng thuộc địa bàn; chỉ đạo các lực lượng quản lý trật tự xây dựng thường xuyên kiểm tra, phát hiện, ngăn chặn các hành vi vi phạm trên địa bàn, đồng thời ban hành kịp thời các quyết định xử lý vi phạm trật tự xây dựng theo thẩm quyền quy định tại Điều 18 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n3\\. Trách nhiệm của Thanh tra Sở Xây dựng:\n\na) Cán bộ, công chức, thanh tra viên Thanh tra Sở Xây dựng thực hiện kiểm tra đối với các công trình xây dựng vi phạm do Sở Xây dựng hoặc Ủy ban nhân dân cấp huyện cấp giấy phép xây dựng, trong trường hợp Ủy ban nhân dân cấp huyện không kịp thời ban hành quyết định xử lý.\n\nPhối hợp với lực lượng quản lý trật tự xây dựng cấp huyện, cấp xã tiến hành kiểm tra các công trình do các cơ quan, tổ chức, cá nhân cung cấp thông tin. Khi phát hiện công trình vi phạm trật tự xây dựng, phải tiến hành lập biên bản, xử lý vụ việc theo thẩm quyền quy định tại Điều 16 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ hoặc kiến nghị Chánh Thanh tra Sở Xây dựng xử lý vụ việc theo thẩm quyền.\n\nb) Chánh Thanh tra Sở Xây dựng có trách nhiệm kiểm tra, đôn đốc, tổng hợp tình hình trật tự xây dựng trên địa bàn, ban hành kịp thời các quyết định xử lý vi phạm trật tự xây dựng theo thẩm quyền quy định tại Điều 21 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n**Điều 6. Trách nhiệm phối hợp thực hiện quyết định đình chỉ thi công xây dựng công trình**\n\n1\\. Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết định đình chỉ thi công xây dựng công trình vi phạm trật tự xây dựng trong trường hợp chủ đầu tư không chấp hành việc ngừng thi công xây dựng theo nội dung biên bản ngừng thi công xây dựng của cán bộ có trách nhiệm về quản lý xây dựng và xử lý vụ việc vi phạm theo nội dung quy định tại Điều 23 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n2\\. Trưởng phòng chuyên môn cấp huyện có trách nhiệm yêu cầu Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết định đình chỉ thi công xây dựng công trình vi phạm trật tự xây dựng trong trường hợp chủ đầu tư không chấp hành việc ngừng thi công xây dựng mà Ủy ban nhân dân cấp xã không kịp thời xử lý hoặc ban hành quyết định đình chỉ thi công đối với công trình xây dựng vi phạm trật tự xây theo thẩm quyền quy định tại Điều 20 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n3\\. Chánh Thanh tra Sở Xây dựng ban hành quyết định đình chỉ thi công xây dựng công trình vi phạm trật tự xây dựng trong trường hợp Ủy ban nhân dân cấp huyện không ban hành quyết định kịp thời, đồng thời kiến nghị xử lý vụ việc theo thẩm quyền quy định tại Điều 21 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n**Điều 7. Trách nhiệm phối hợp thực hiện quyết định cưỡng chế và tổ chức cưỡng chế phá dỡ công trình xây dựng, bộ phận công trình xây dựng vi phạm**\n\n1\\. Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết định cưỡng chế đối với các công trình vi phạm trật tự xây dựng theo thẩm quyền. Trường hợp công trình xây dựng vi phạm vượt quá thẩm quyền, trong thời hạn 24 giờ kể từ khi ban hành quyết định đình chỉ thi công xây dựng, Ủy ban nhân dân cấp xã phải gửi hồ sơ lên Chủ tịch Ủy ban nhân dân cấp huyện để ban hành quyết định cưỡng chế phá dỡ theo quy định.\n\nTổ chức thực hiện cưỡng chế tất cả các công trình vi phạm trật tự xây dựng trên địa bàn theo quyết định cưỡng chế của cơ quan có thẩm quyền ban hành, quy định tại Điều 17 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n2\\. Chủ tịch Ủy ban nhân dân cấp huyện ban hành quyết định cưỡng chế phá dỡ đối với công trình vi phạm theo thẩm quyền, đồng thời chỉ đạo tổ chức thực hiện cưỡng chế phá dỡ những công trình xây dựng vi phạm theo quyết định của cơ quan có thẩm quyền ban hành, đồng thời xử lý các vi phạm theo quy định tại Điều 18 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n3\\. Chánh Thanh tra Sở Xây dựng ban hành quyết định cưỡng chế đối với các công trình xây dựng vi phạm trật tự xây dựng trong trường hợp Ủy ban nhân dân cấp huyện không ban hành quyết định kịp thời, đồng thời kiến nghị xử lý đối với những hành vi vi phạm quy định tại Điều 21 Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ.\n\n4\\. Gửi quyết định cưỡng chế đến cá nhân, tổ chức bị cưỡng chế, tổ chức, cá nhân có liên quan và thời hạn thi hành quyết định cưỡng chế thực hiện theo quy định tại Điều 5 Nghị định số 166/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định về cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.\n\n**Chương IV**\n\n**TRÁCH NHIỆM PHỐI HỢP CỦA CÁC CƠ QUAN, TỔ CHỨC KHÁC CÓ LIÊN QUAN**\n\n**Điều 8. Trách nhiệm của Sở Xây dựng**\n\n1\\. Xây dựng kế hoạch tuyên truyền, phổ biến kiến thức pháp luật và các văn bản quy phạm pháp luật liên quan đến các lĩnh vực hoạt động xây dựng trên địa bàn. Đồng thời, tham mưu Ủy ban nhân dân tỉnh ban hành các văn bản, quy định trong công tác quản lý trật tự xây dựng trên địa bàn tỉnh theo quy định của Chính phủ và hướng dẫn của các bộ, ngành, trung ương;\n\n2\\. Chỉ đạo Thanh tra Sở Xây dựng phối hợp với chính quyền địa phương và các cơ quan liên quan thực hiện nhiệm vụ quản lý trật tự xây dựng trên địa bàn tỉnh. Chủ động nghiên cứu, đề xuất các giải pháp để thực hiện nghiêm túc các quy định của pháp luật về quản lý trật tự xây dựng; đôn đốc và hướng dẫn các địa phương thực hiện tốt công tác quản lý trật tự xây dựng trên địa bàn;\n\n3\\. Ban hành kịp thời các văn bản trình Chủ tịch Ủy ban nhân dân tỉnh xử lý đối với các trường hợp vi phạm trật tự xây dựng vượt quá thẩm quyền của Chủ tịch Ủy ban nhân dân cấp huyện và Chánh Thanh tra Sở Xây dựng.\n\n**Điều 9. Trách nhiệm của Ban Quản lý các khu công nghiệp Bà Rịa - Vũng Tàu**\n\n1\\. Xây dựng kế hoạch tuyên truyền, phổ biến kiến thức pháp luật và các văn bản quy phạm pháp luật liên quan đến các lĩnh vực hoạt động xây dựng cho các doanh nghiệp hoạt động đầu tư xây dựng trong các khu công nghiệp thuộc địa bàn được giao quản lý;\n\n2\\. Tổ chức kiểm tra tình hình trật tự xây dựng đối với các công trình xây dựng trong các khu công nghiệp thuộc phạm vi quản lý. Khi phát hiện hành vi vi phạm trật tự xây dựng phải tiến hành lập biên bản, xử lý theo thẩm quyền hoặc đề nghị Ủy ban nhân dân cấp huyện phối hợp kiểm tra, xử lý theo quy định.\n\n**Điều 10. Trách nhiệm của Sở Tài nguyên và Môi trường**\n\n1\\. Xem xét tạm dừng việc giao đất, cho thuê đất và cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo đề nghị bằng văn bản của Chủ tịch Ủy ban nhân dân cấp huyện hoặc Chánh Thanh tra Sở Xây dựng đối với các trường hợp tổ chức, cá nhân vi phạm trật tự xây dựng nhưng chưa chấm dứt hành vi vi phạm, chưa chấp hành các quyết định xử lý vi phạm hành chính hoặc chưa thực hiện xong các biện pháp khắc phục hậu quả do hành vi vi phạm trật tự xây dựng gây ra;\n\n2\\. Chỉ đạo lực lượng Thanh tra Sở phối hợp với Ủy ban nhân dân cấp huyện và Thanh tra Sở Xây dựng trong việc kiểm tra, xử lý đối với các trường hợp vi phạm trật tự xây dựng liên quan đến các lĩnh vực quản lý nhà nước của Sở Tài nguyên và Môi trường theo quy định.\n\n**Điều 11. Trách nhiệm của Sở Tài chính**\n\n1\\. Thẩm định, trình Ủy ban nhân dân tỉnh bố trí dự toán hàng năm cho các cơ quan, đơn vị liên quan đến hoạt động kiểm tra, xử lý vi phạm trật tự xây dựng, tổ chức cưỡng chế công trình xây dựng vi phạm v.v... theo quy định.\n\n2\\. Hướng dẫn các cơ quan, đơn vị sử dụng nguồn kinh phí xử phạt vi phạm hành chính trong hoạt động xây dựng theo quy định.\n\n**Điều 12. Trách nhiệm của Công an tỉnh**\n\nChỉ đạo Trưởng công an các huyện, thành phố; Công an các xã, phường, thị trấn có trách nhiệm phối hợp với Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã và Thanh tra Sở Xây dựng trong việc thực hiện các quyết định đình chỉ thi công xây dựng, quyết định cưỡng chế phá dỡ công trình vi phạm trật tự xây dựng theo quy định tại Nghị định số 180/2007/NĐ-CP ngày 07 tháng 12 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xây dựng về xử lý vi phạm trật tự xây dựng đô thị; Nghị định số 121/2013/NĐ-CP ngày 10 tháng 10 năm 2013 của Chính phủ về xử phạt vi phạm hành chính trong hoạt động xây dựng; Nghị định số 166/2013/NĐ-CP ngày 12 tháng 11 năm 2013 của Chính phủ quy định về cưỡng chế thi hành quyết định xử phạt vi phạm hành chính; Nghị định số 208/2013/NĐ-CP ngày 17 tháng 12 năm 2013 của Chính phủ quy định các biện pháp phòng ngừa, ngăn chặn và xử lý hành vi chống người thi hành công vụ và Thông tư liên tịch số 04/2007/TTLT-BXD-BCA ngày 07 tháng 7 năm 2007 của Bộ Xây dựng và Bộ Công an hướng dẫn phối hợp xử lý vi phạm pháp luật trong hoạt động xây dựng.\n\n**Điều 13. Trách nhiệm của các cơ quan công an, cơ quan cung cấp dịch vụ điện, nước và các cơ quan liên quan khác**\n\n1\\. Thủ trưởng cơ quan công an xã, phường, thị trấn có trách nhiệm chỉ đạo lực lượng phối hợp với Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã và Thanh tra Sở Xây dựng xử lý vi phạm trật tự xây dựng, thực hiện nghiêm chỉnh các yêu cầu trong quyết định đình chỉ thi công xây dựng, quyết định cưỡng chế phá dỡ của cấp có thẩm quyền; trường hợp không thực hiện hoặc dung túng cho hành vi vi phạm để công trình tiếp tục xây dựng thì bị xử lý theo quy định hoặc có thể bị xử lý theo quy định của pháp luật hình sự khi để xảy ra hậu quả nghiêm trọng.\n\n2\\. Giám đốc: Công ty Điện lực Bà Rịa - Vũng Tàu, Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu, Công ty cổ phần Cấp nước Phú Mỹ, Trung tâm Nước sạch và Vệ sinh môi trường nông thôn, Trạm cung Cấp nước Côn Đảo; Thủ trưởng các đơn vị, cá nhân cung cấp dịch vụ điện, nước và các dịch vụ khác liên quan đến công trình vi phạm trật tự xây dựng trên địa bàn có trách nhiệm thực hiện nghiêm chỉnh, đúng thời hạn các yêu cầu ngừng cung cấp điện, ngừng cung cấp nước trong quyết định đình chỉ thi công xây dựng, quyết định cưỡng chế phá dỡ của cấp có thẩm quyền; trường hợp không thực hiện, thực hiện không kịp thời hoặc dung túng, tiếp tay cho hành vi vi phạm thì bị xử lý theo quy định hoặc có thể bị xử lý theo quy định của pháp luật hình sự khi để xảy ra hậu quả nghiêm trọng.\n\n**Chương V**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 14. Chế độ giao ban và thông tin, báo cáo**\n\n1\\. Chế độ giao ban\n\nỦy ban nhân dân cấp huyện chủ trì, tổ chức giao ban tháng, quý hoặc đột xuất với các Phòng chuyên môn trực thuộc Ủy ban nhân dân cấp huyện, Thanh tra Sở Xây dựng và Ủy ban nhân dân các xã, phường, thị trấn để đánh giá về tình hình xây dựng và vi phạm trật tự xây dựng trên địa bàn, để kịp thời đề ra những biện pháp xử lý đối với các vi phạm trật tự xây dựng theo quy định.\n\n2\\. Chế độ thông tin, báo cáo\n\na) Hàng tháng, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm tổng hợp số liệu báo cáo về tình hình vi phạm trật tự xây dựng; những khó khăn, vướng mắc và kiến nghị biện pháp xử lý đối với các hành vi vi phạm trật tự xây dựng trên địa bàn báo cáo tại cuộc họp giao ban hàng tháng do Ủy ban nhân dân cấp huyện tổ chức để được xem xét, xử lý.\n\nb) Hàng quý, 6 tháng và một năm, Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm tổng hợp báo cáo về tình hình quản lý trật tự xây dựng trên địa bàn, gửi Thanh tra Sở Xây dựng để tổng hợp, báo cáo theo mẫu quy định tại Thông tư số 06/2012/TT-BXD ngày 10 tháng 10 năm 2012 của Bộ trưởng Bộ Xây dựng quy định chế độ báo cáo thống kê tổng hợp ngành xây dựng.\n\n**Điều 15. Tổ chức thực hiện**\n\n1\\. Sở Xây dựng có trách nhiệm:\n\n\\- Chỉ đạo Thanh tra Sở Xây dựng phối hợp với Ủy ban nhân dân các huyện, thành phố; Ủy ban nhân dân xã, phường, thị trấn và các cơ quan, đơn vị, cá nhân có liên quan phổ biến và tổ chức triển khai thực hiện Quy chế này;\n\n\\- Tổng hợp các ý kiến phản ánh của các cơ quan có liên quan về những vấn đề vướng mắc phát sinh và nghiên cứu đề xuất việc sửa đổi, bổ sung Quy chế cho phù hợp;\n\n\\- Chủ trì, đôn đốc, hướng dẫn, kiểm tra việc triển khai thực hiện nội dung Quy chế theo quy định.\n\n2\\. Giao Ủy ban nhân dân các huyện, thành phố có trách nhiệm phổ biến và tổ chức triển khai nội dung Quy chế này đến các cán bộ, công chức, viên chức thuộc cấp mình quản lý, cán bộ lãnh đạo và người được giao nhiệm vụ quản lý trật tự xây dựng cấp xã; Công an các xã, phường, thị trấn; các đơn vị cung cấp dịch vụ điện, nước và các tổ chức, cá nhân khác có liên quan đóng trên địa bàn biết để thực hiện.\n\n**Điều 16.** Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc, đề nghị phản ánh kịp thời về Sở Xây dựng để tổng hợp, báo cáo Ủy ban nhân dân tỉnh xem xét, sửa đổi bổ sung cho phù hợp với quy định của pháp luật và tình hình thực tế tại địa phương./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

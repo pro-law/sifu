@@ -1,0 +1,952 @@
+{
+  "title": "Nghị quyết 12/2021/NQ-HĐND về nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022 và giai đoạn 2022-2025 trên địa bàn tỉnh Bình Thuận",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 81/2021/NĐ-CP quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo",
+      "id": "81/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giáo dục"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-08-27",
+      "effectiveDate": "2021-10-15",
+      "gazetteDate": "2021-09-10",
+      "gazetteNumber": "Từ số 751 đến số 752",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 04/2021/NQ-HĐND quy định về chế độ hỗ trợ cho học sinh, sinh viên dân tộc thiểu số trên địa bàn tỉnh Bình Thuận",
+      "id": "04/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Hoài Anh"
+      ],
+      "issuedDate": "2021-08-17",
+      "effectiveDate": "2021-08-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 05/2021/NQ-HĐND quy định về chế độ đối với người hoạt động không chuyên trách ở thôn, khu phố và số lượng, chế độ đối với người tham gia công việc ở thôn, khu phố trên địa bàn tỉnh Bình Thuận",
+      "id": "05/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Hoài Anh"
+      ],
+      "issuedDate": "2021-08-17",
+      "effectiveDate": "2021-08-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 60/2021/NĐ-CP về cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập",
+      "id": "60/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Lê Minh Khái"
+      ],
+      "issuedDate": "2021-06-21",
+      "effectiveDate": "2021-08-15",
+      "gazetteDate": "2021-07-01",
+      "gazetteNumber": "Từ số 653 đến số 654",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 29/2021/NĐ-CP quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư",
+      "id": "29/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2021-03-26",
+      "effectiveDate": "2021-03-26",
+      "gazetteDate": "2021-04-08",
+      "gazetteNumber": "Từ số 511 đến số 512",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 20/2021/NĐ-CP quy định về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội",
+      "id": "20/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2021-03-15",
+      "effectiveDate": "2021-07-01",
+      "gazetteDate": "2021-03-27",
+      "gazetteNumber": "Từ số 475 đến số 476",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 105/2020/NĐ-CP quy định về chính sách phát triển giáo dục mầm non",
+      "id": "105/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giáo dục"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-09-08",
+      "effectiveDate": "2020-11-01",
+      "gazetteDate": "2020-09-19",
+      "gazetteNumber": "Từ số 881 đến số 882",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 22/2020/QĐ-UBND quy định về việc bố trí số lượng cán bộ, công chức xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận",
+      "id": "22/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Ngọc Hai"
+      ],
+      "issuedDate": "2020-07-31",
+      "effectiveDate": "2020-08-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 12/2020/NQ-HĐND quy định về chế độ hỗ trợ thôi việc đối với cán bộ, công chức, người hoạt động không chuyên trách ở cấp xã, thôn, khu phố dôi dư do sắp xếp lại tổ chức, nhân sự và chế độ trợ cấp bổ sung hàng tháng đối với người hoạt động không chuyên trách ở cấp xã, khu phố trên địa bàn tỉnh Bình Thuận",
+      "id": "12/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2020-07-22",
+      "effectiveDate": "2020-08-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 13/2020/NQ-HĐND quy định về chức danh, số lượng và chế độ, chính sách đối với người hoạt động không chuyên trách ở cấp xã, thôn, khu phố và mức khoán kinh phí hoạt động của các tổ chức chính trị - xã hội cấp xã trên địa bàn tỉnh Bình Thuận",
+      "id": "13/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2020-07-22",
+      "effectiveDate": "2020-08-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 122/2020/QH14 về kỳ họp thứ 9, Quốc hội khóa XIV",
+      "id": "122/2020/QH14",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2020-06-19",
+      "effectiveDate": "2020-06-29",
+      "gazetteDate": "2020-07-24",
+      "gazetteNumber": "Từ số 715 đến số 716",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 81/2019/NQ-HĐND quy định về mức quà tặng chúc thọ, mừng thọ người cao tuổi trên địa bàn tỉnh Bình Thuận",
+      "id": "81/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2019-07-25",
+      "effectiveDate": "2019-08-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 73/2019/NQ-HĐND quy định về mức hỗ trợ thường xuyên cho chức danh Đội trưởng, Đội phó của Đội dân phòng và định mức trang bị phương tiện phòng cháy và chữa cháy cho Đội dân phòng, Ban bảo vệ dân phố trên địa bàn tỉnh Bình Thuận",
+      "id": "73/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2019-07-25",
+      "effectiveDate": "2019-08-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 18/07/2022"
+    },
+    {
+      "title": "Nghị định 62/2019/NĐ-CP sửa đổi Nghị định 35/2015/NĐ-CP về quản lý, sử dụng đất trồng lúa",
+      "id": "62/2019/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-07-11",
+      "effectiveDate": "2019-09-01",
+      "gazetteDate": "2019-07-25",
+      "gazetteNumber": "Từ số 591 đến số 592",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 58/2018/NQ-HĐND quy định về mức hỗ trợ cho cộng tác viên tham gia công tác bảo vệ, chăm sóc trẻ em tại thôn, bản, khu phố trên địa bàn tỉnh Bình Thuận",
+      "id": "58/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2018-07-20",
+      "effectiveDate": "2018-07-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 60/2018/NQ-HĐND quy định về mức chi hỗ trợ kinh phí thực hiện Cuộc vận động “Toàn dân đoàn kết xây dựng nông thôn mới, đô thị văn minh” đối với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và Ban công tác Mặt trận ở khu dân cư trên địa bàn tỉnh Bình Thuận",
+      "id": "60/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2018-07-20",
+      "effectiveDate": "2018-07-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 65/2018/NQ-HĐND quy định về chế độ, chính sách và điều kiện bảo đảm hoạt động của Hội đồng nhân dân các cấp trên địa bàn tỉnh Bình Thuận",
+      "id": "65/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2018-07-20",
+      "effectiveDate": "2018-07-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 42/2018/NQ-HĐND quy định về chế độ, chính sách thăm bệnh, trợ cấp ốm đau, khám sức khỏe; phúng viếng cán bộ từ trần; tham quan, nghỉ dưỡng và tặng quà nhân dịp lễ, tết cho cán bộ tỉnh Bình Thuận",
+      "id": "42/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2018-03-30",
+      "effectiveDate": "2018-04-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 50/2017/QĐ-TTg về quy định tiêu chuẩn, định mức sử dụng máy móc, thiết bị do Thủ tướng Chính phủ ban hành",
+      "id": "50/2017/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-12-31",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2018-01-29",
+      "gazetteNumber": "Từ số 223 đến số 224",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 35/2017/NQ-HĐND về quy định mức kinh phí hỗ trợ hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận",
+      "id": "35/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2017-12-07",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19-NQ/TW năm 2017 về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của đơn vị sự nghiệp công lập do Ban Chấp hành Trung ương ban hành",
+      "id": "19-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 51/NQ-CP năm 2017 chương trình hành động thực hiện Nghị quyết 07-NQ/TW về Chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để đảm bảo nền tài chính quốc gia an toàn, bền vững do Chính phủ ban hành",
+      "id": "51/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-06-19",
+      "effectiveDate": "2017-06-19",
+      "gazetteDate": "2017-06-28",
+      "gazetteNumber": "Từ số 469 đến số 470",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 57/2017/NĐ-CP quy định chính sách ưu tiên tuyển sinh và hỗ trợ học tập đối với trẻ mẫu giáo, học sinh, sinh viên dân tộc thiểu số rất ít người",
+      "id": "57/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-09",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2017-05-24",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 07-NQ/TW năm 2016 về chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc gia an toàn, bền vững do Ban Chấp hành Trung ương Đảng ban hành",
+      "id": "07-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2016-11-18",
+      "effectiveDate": "2016-11-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 116/2016/NĐ-CP Quy định chính sách hỗ trợ học sinh và trường phổ thông ở xã, thôn đặc biệt khó khăn",
+      "id": "116/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-18",
+      "effectiveDate": "2016-09-01",
+      "gazetteDate": "2016-08-05",
+      "gazetteNumber": "Từ số 837 đến số 838",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 1206/2016/NQ-UBTVQH13 quy định chế độ, chính sách và điều kiện bảo đảm hoạt động của đại biểu Hội đồng nhân dân do Ủy ban Thường vụ Quốc hội ban hành",
+      "id": "1206/2016/NQ-UBTVQH13",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-05-13",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-05-24",
+      "gazetteNumber": "Từ số 349 đến số 350",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 59/2015/QĐ-TTg về chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "59/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-01-05",
+      "gazetteDate": "2015-12-04",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Hết hiệu lực: 12/12/2022"
+    },
+    {
+      "title": "Nghị định 35/2015/NĐ-CP về quản lý, sử dụng đất trồng lúa",
+      "id": "35/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-04-13",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2015-04-26",
+      "gazetteNumber": "Từ số 525 đến số 526",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 06/2015/TTLT-BGDĐT-BNV quy định về danh mục khung vị trí việc làm và định mức số lượng người làm việc trong các cơ sở giáo dục mầm non công lập do Bộ trưởng Bộ Giáo dục và Đào tạo - Bộ Nội vụ ban hành",
+      "id": "06/2015/TTLT-BGDĐT-BNV",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Bộ máy hành chính",
+        "Giáo dục"
+      ],
+      "organization": "Bộ Giáo dục và Đào tạo, Bộ Nội vụ",
+      "signers": [
+        "Trần Anh Tuấn",
+        "Nguyễn Thị Nghĩa"
+      ],
+      "issuedDate": "2015-03-16",
+      "effectiveDate": "2015-05-01",
+      "gazetteDate": "2015-04-23",
+      "gazetteNumber": "Từ số 521 đến số 522",
+      "status": "Hết hiệu lực: 16/12/2023"
+    },
+    {
+      "title": "Thông tư 190/2014/TT-BTC quy định thực hiện chính sách hỗ trợ tiền điện cho hộ nghèo và hộ chính sách xã hội do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "190/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2014-12-11",
+      "effectiveDate": "2015-01-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 42/2013/TTLT-BGDĐT-BLĐTBXH-BTC quy định chính sách về giáo dục đối với người khuyết tật do Bộ trưởng Bộ Giáo dục và Đào tạo - Bộ Lao động-Thương binh và Xã hội ban hành",
+      "id": "42/2013/TTLT-BGDĐT-BLĐTBXH-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội",
+      "signers": [
+        "Nguyễn Trọng Đàm",
+        "Nguyễn Thị Nghĩa",
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2013-12-31",
+      "effectiveDate": "2014-03-05",
+      "gazetteDate": "2014-02-23",
+      "gazetteNumber": "Từ số 219 đến số 220",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 56/2013/QĐ-UBND quy định chế độ hỗ trợ đối với thành viên của Đội công tác xã hội tình nguyện tại xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận",
+      "id": "56/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Lê Tiến Phương"
+      ],
+      "issuedDate": "2013-11-22",
+      "effectiveDate": "2013-12-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 99-QĐ/TW năm 2012 về Quy định chế độ chi hoạt động công tác đảng của tổ chức cơ sở đảng, đảng bộ cấp trên trực tiếp cơ sở do Ban Chấp hành Trung ương ban hành",
+      "id": "99-QĐ/TW",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Lê Hồng Anh"
+      ],
+      "issuedDate": "2012-05-30",
+      "effectiveDate": "2012-05-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 49/2012/TT-BTC hướng dẫn việc hỗ trợ kinh phí hoạt động của Chi hội thuộc tổ chức Chính trị - xã hội thuộc xã đặc biệt khó khăn do Bộ Tài chính ban hành",
+      "id": "49/2012/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2012-03-20",
+      "effectiveDate": "2012-05-05",
+      "gazetteDate": "2012-03-26",
+      "gazetteNumber": "Từ số 273 đến số 274",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 109/2009/TTLT/BTC-BGDĐT hướng dẫn chế độ tài chính đối với học sinh các trường phổ thông dân tộc nội trú và các trường dự bị đại học dân tộc do Bộ Tài chính - Bộ Giáo dục và Đào tạo ban hành",
+      "id": "109/2009/TTLT/BTC-BGDĐT",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giáo dục"
+      ],
+      "organization": "Bộ Giáo dục và Đào tạo, Bộ Tài chính",
+      "signers": [
+        "Bành Tiến Long",
+        "Phạm Sỹ Danh"
+      ],
+      "issuedDate": "2009-05-29",
+      "effectiveDate": "2009-07-13",
+      "gazetteDate": "2009-06-14",
+      "gazetteNumber": "Từ số 293 đến số 294",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 57/2008/QĐ-UBND sửa đổi quy định chế độ, chính sách cho lực lượng Bảo vệ dân phố kèm theo quyết định 23/2008/QĐ-UBND do tỉnh Bình Thuận ban hành",
+      "id": "57/2008/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Huỳnh Tấn Thành"
+      ],
+      "issuedDate": "2008-07-16",
+      "effectiveDate": "2008-07-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 23/2008/QĐ-UBND quy định chế độ, chính sách cho lực lượng bảo vệ dân phố trên địa bàn tỉnh Bình Thuận do Ủy ban nhân dân tỉnh Bình Thuận ban hành",
+      "id": "23/2008/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Huỳnh Tấn Thành"
+      ],
+      "issuedDate": "2008-02-25",
+      "effectiveDate": "2008-03-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 68/2000/NĐ-CP về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp",
+      "id": "68/2000/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2000-11-17",
+      "effectiveDate": "2000-12-02",
+      "gazetteDate": "2000-12-22",
+      "gazetteNumber": "Số 47",
+      "status": "Hết hiệu lực: 22/02/2023"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Quyết định 30/2021/QĐ-TTg về các nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách Nhà nước năm 2022 do Thủ tướng Chính phủ ban hành",
+      "id": "30/2021/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Lê Minh Khái"
+      ],
+      "issuedDate": "2021-10-10",
+      "effectiveDate": "2021-10-10",
+      "gazetteDate": "2021-10-19",
+      "gazetteNumber": "Từ số 855 đến số 856",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 01/2021/UBTVQH15 quy định về nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách nhà nước năm 2022 do Ủy ban Thường vụ Quốc hội ban hành",
+      "id": "01/2021/UBTVQH15",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2021-09-01",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật sửa đổi 2020",
+      "id": "63/2020/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2020-06-18",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "2020-07-23",
+      "gazetteNumber": "Từ số 711 đến số 712",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước",
+      "id": "163/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-12-21",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2017-01-01",
+      "gazetteNumber": "Từ số 1 đến số 2",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Nghị quyết 21/2022/NQ-HĐND sửa đổi Quy định nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022 và giai đoạn 2022-2025 trên địa bàn tỉnh Bình Thuận kèm theo Nghị quyết số 12/2021/NQ-HĐND",
+      "id": "21/2022/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Hoài Anh"
+      ],
+      "issuedDate": "2022-12-08",
+      "effectiveDate": "2022-12-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Nghị quyết 56/2021/NQ-HĐND quy định về nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022 và thời kỳ ổn định ngân sách giai đoạn 2022-2025 do tỉnh Hòa Bình ban hành",
+      "id": "56/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Bùi Đức Hinh"
+      ],
+      "issuedDate": "2021-12-09",
+      "effectiveDate": "2021-12-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 09/2021/NQ-HĐND quy định về các nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022, ổn định đến năm 2025 trên địa bàn tỉnh Vĩnh Long",
+      "id": "09/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Vĩnh Long",
+      "signers": [
+        "Bùi Văn Nghiêm"
+      ],
+      "issuedDate": "2021-12-09",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 24/2021/NQ-HĐND về nguyên tắc, tiêu chí, định mức phân bổ dự toán chi thường xuyên ngân sách địa phương tỉnh Tiền Giang năm 2022",
+      "id": "24/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Võ Văn Bình"
+      ],
+      "issuedDate": "2021-12-08",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 07/2021/NQ-HĐND quy định về nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương, tỉnh Sóc Trăng giai đoạn ổn định 2022-2025",
+      "id": "07/2021/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Hồ Thị Cẩm Đào"
+      ],
+      "issuedDate": "2021-12-08",
+      "effectiveDate": "2021-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 32/2021/QĐ-UBND về định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022 tỉnh Hà Nam",
+      "id": "32/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Nam",
+      "signers": [
+        "Trương Quốc Huy"
+      ],
+      "issuedDate": "2021-10-29",
+      "effectiveDate": "2022-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/08/2023"
+    }
+  ],
+  "id": "12/2021/NQ-HĐND",
+  "legislationType": "Nghị quyết",
+  "categories": [
+    "Tài chính nhà nước"
+  ],
+  "organization": "Tỉnh Bình Thuận",
+  "signers": [
+    "Nguyễn Hoài Anh"
+  ],
+  "issuedDate": "2021-12-08",
+  "effectiveDate": "2022-01-01",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>HỘI ĐỒNG NHÂN\n  DÂN<br>\n  TỈNH BÌNH THUẬN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  12/2021/NQ-HĐND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bình Thuận, ngày\n  08 tháng 12 năm 2012</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">NGHỊ QUYẾT</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">BAN HÀNH NGUYÊN TẮC, TIÊU CHÍ VÀ ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI\nTHƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG NĂM 2022 VÀ GIAI ĐOẠN 2022 - 2025 TRÊN ĐỊA\nBÀN TỈNH</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">HỘI ĐỒNG NHÂN DÂN TỈNH BÌNH THUẬN<br>\nKHÓA XI, KỲ HỌP THỨ 5</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tổ chức chính\nquyền địa phương ngày 19 tháng 6 năm 2015 và Luật Sửa đổi, bổ sung một số điều\nLuật Tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22 tháng 11\nnăm 2019;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Ban hành văn bản\nquy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật Sửa đổi, bổ sung một số điều\ncủa Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020</i>;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Ngân sách nhà nước\nngày 25 tháng 6 năm 2015;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị quyết số\n01/2021/UBTVQH15 ngày 01 tháng 9 năm 2021 của Ủy ban Thường vụ Quốc hội quy định\nvề các nguyên tắc, tiêu chí và định mức phân bổ chi thường xuyên ngân sách nhà\nnước năm 2022;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 163/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-163-2016-nd-cp-huong-dan-luat-ngan-sach-nha-nuoc-335331.aspx\">163/2016/NĐ-CP</a>  ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi\nhành một số điều của Luật Ngân sách nhà nước; Căn cứ Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 30/2021/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/quyet-dinh-30-2021-qd-ttg-dinh-muc-phan-bo-du-toan-chi-thuong-xuyen-ngan-sach-2022-490760.aspx\">30/2021/QĐ-TTg</a>  ngày 10 tháng 10 năm 2021 của Thủ tướng Chính phủ về việc ban\nhành các nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân\nsách nhà nước năm 2022;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Xét Tờ trình số\n4462/TTr-UBND ngày 23 tháng 11 năm 2021 của Ủy ban nhân dân tỉnh về ban hành\nnguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa\nphương năm 2022 và giai đoạn 2022 - 2025 trên địa bàn tỉnh Bình Thuận; Báo cáo\nthẩm tra số 155/BC-HĐND ngày 30 tháng 11 năm 2021 của Ban Kinh tế - Ngân sách Hội\nđồng nhân dân tỉnh; ý kiến thảo luận của đại biểu Hội đồng nhân dân tỉnh.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">QUYẾT NGHỊ:</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1.</b></a><b>\n</b><a name=\"dieu_1_name\">Ban hành kèm theo Nghị quyết này Quy định nguyên tắc,\ntiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm\n2022 và giai đoạn 2022 - 2025 trên địa bàn tỉnh.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>Điều 2. Tổ\nchức thực hiện</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Giao Ủy ban nhân dân tỉnh tổ\nchức thực hiện Nghị quyết này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Thường trực Hội đồng nhân\ndân tỉnh, các Ban Hội đồng nhân dân tỉnh, các Tổ đại biểu Hội đồng nhân dân tỉnh\nvà đại biểu Hội đồng nhân dân tỉnh giám sát việc thực hiện Nghị quyết này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Nghị quyết này đã được Hội đồng\nnhân dân tỉnh Bình Thuận khóa XI, kỳ họp thứ 5 thông qua ngày 08 tháng 12 năm\n2021 và có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2022, áp dụng đối với\nnăm ngân sách 2022 và giai đoạn 2022 - 2025./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i> </i></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"307\" valign=\"top\" style=\"width:3.2in;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Ủy ban Thường vụ Quốc hội;<br>\n  - Chính phủ;<br>\n  - Bộ Tài chính;<br>\n  - Ban công tác Đại biểu - UBTV Quốc hội;<br>\n  - Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;<br>\n  - Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND, UBND tỉnh; Ban Thường trực UBMTTQVN tỉnh;<br>\n  - Đoàn ĐBQH tỉnh Bình Thuận;<br>\n  - Các Ban HĐND tỉnh;<br>\n  - Đại biểu HĐND tỉnh;<br>\n  - Các sở, ban, ngành và đoàn thể cấp tỉnh;<br>\n  - Các Văn phòng: ĐĐBQH và HĐND tỉnh, UBND tỉnh;<br>\n  - HĐND và UBND các huyện, thị xã, thành phố;<br>\n  - Cổng Thông tin điện tử Chính phủ;<br>\n  - Trung tâm Thông tin tỉnh;<br>\n  - Lưu: VT. Duy</span></p>\n  </td>\n  <td width=\"283\" valign=\"top\" style=\"width:2.95in;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Hoài Anh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_2_name\">NGUYÊN TẮC, TIÊU CHÍ VÀ ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI THƯỜNG\nXUYÊN NGÂN SÁCH ĐỊA PHƯƠNG NĂM 2022 VÀ GIAI ĐOẠN 2022 - 2025 TRÊN ĐỊA BÀN TỈNH</a>\n<br>\n<i>(Ban hành kèm theo Nghị quyết số 12/2021/NQ-HĐND ngày 08 tháng 12 năm 2021 của\nHội đồng nhân dân tỉnh)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">PHẠM VI, ĐỐI TƯỢNG,\nNGUYÊN TẮC ÁP DỤNG VÀ PHƯƠNG PHÁP XÁC ĐỊNH MỘT SỐ TIÊU CHÍ, CĂN CỨ CỦA ĐỊNH MỨC\nPHÂN BỔ DỰ TOÁN CHI THƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>Điều 1.\nPhạm vi điều chỉnh và đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Phạm vi điều chỉnh:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Nghị quyết này quy định\nnguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa\nphương áp dụng cho năm ngân sách 2022, năm đầu của thời kỳ ổn định ngân sách mới\nbắt đầu từ năm 2022 theo Nghị quyết số 122/2020/QH14 ngày 19 tháng 6 năm 2020 của\nQuốc hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đối với các năm trong thời kỳ\nổn định ngân sách 2022 - 2025, thực hiện theo quy định của Luật Ngân sách nhà\nnước và các quy định áp dụng cho thời kỳ ổn định ngân sách tại Nghị quyết này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối tượng áp dụng:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Cơ quan Đảng, cơ quan quản\nlý hành chính nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp công lập\nvà các cơ quan khác ở tỉnh; các huyện, thị xã, thành phố trên địa bàn tỉnh Bình\nThuận.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Cơ quan, tổ chức, cá nhân\nkhác có liên quan đến lập, phân bổ, chấp hành dự toán chi thường xuyên ngân\nsách địa phương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>Điều 2.\nNguyên tắc áp dụng định mức</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Định mức phân bổ dự toán chi\nthường xuyên ngân sách địa phương ban hành kèm theo Quy định này là cơ sở để\nxây dựng dự toán chi ngân sách của từng sở, ngành, các huyện, thị xã, thành phố\n(bao gồm cấp huyện và ngân sách cấp xã).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Định mức phân bổ dự toán chi\nthường xuyên bao gồm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Định mức phân bổ đã bao gồm\ntoàn bộ nhu cầu kinh phí thực hiện các chế độ, chính sách do Trung ương và địa\nphương ban hành (trừ những trường hợp có quy định riêng ngoài định mức kinh phí\nhoạt động) và các khoản chi phí thường xuyên đảm bảo cho hoạt động của cơ quan,\nđơn vị thực hiện đầy đủ chức năng nhiệm vụ được giao. Định mức phân bổ theo số\nbiên chế được giao theo phê duyệt của cấp có thẩm quyền, trong đó đã cơ cấu\nthêm kinh phí hoạt động của lao động hợp đồng theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a> \nngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế độ hợp đồng một số loại\ncông việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp. Định mức phân bổ\nđã bao gồm các khoản tiết kiệm để thực hiện cải cách tiền lương hoặc tiết kiệm\nđể thực hiện các nhiệm vụ khác theo quyết định điều hành hàng năm của Bộ Tài\nchính (nếu có).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Các khoản chi hành chính phục\nvụ hoạt động thường xuyên bộ máy các cơ quan: Khen thưởng theo chế độ, phúc lợi\ntập thể; thông tin, tuyên truyền, liên lạc; công tác phí, hội nghị, tổng kết;\nđoàn ra, đoàn vào; vật tư văn phòng, thanh toán dịch vụ công cộng; chi thuê mướn;\nchi ứng dụng công nghệ thông tin; vận hành trụ sở cơ quan; chi hỗ trợ hoạt động\ncông tác Đảng, đoàn thể trong cơ quan (bao gồm phụ cấp cấp ủy, an ninh quốc\nphòng, dân quân tự vệ, phòng cháy chữa cháy,…).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Các khoản chi nghiệp vụ mang\ntính thường xuyên phát sinh hàng năm của đơn vị: Chi nghiệp vụ chuyên môn quản\nlý ngành, lĩnh vực; chi xây dựng, tập huấn, tuyên truyền phổ biến giáo dục pháp\nluật; chi hoạt động thanh tra, kiểm tra, giám sát; chi đào tạo, chi tập huấn bồi\ndưỡng nghiệp vụ chuyên môn; rà soát văn bản quy phạm pháp luật; duy trì, vận\nhành trang thông tin điện tử, công tác văn thư lưu trữ, cải cách thủ tục hành\nchính, hoạt động ISO.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Kinh phí duy tu sửa chữa tài\nsản phục vụ công tác chuyên môn và bảo dưỡng thường xuyên các công trình cơ sở\nhạ tầng; kinh phí mua sắm trang thiết bị dạy học; kinh phí mua sắm, thay thế\ntrang thiết bị phương tiện làm việc của cán bộ, công chức và máy móc, thiết bị\nvăn phòng phổ biến (trừ máy photocopy) phục vụ công tác hành chính, văn thư, tiếp\ndân, bộ phận một cửa của cơ quan, tổ chức, đơn vị theo Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 50/2017/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-50-2017-qd-ttg-quy-dinh-tieu-chuan-dinh-muc-su-dung-may-moc-thiet-bi-354149.aspx\">50/2017/QĐ-TTg</a>  ngày 31 tháng 12 năm 2017 của Thủ tướng Chính phủ về quy định\ntiêu chuẩn, định mức sử dụng máy móc, thiết bị.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Các khoản chi khác phục vụ\nhoạt động thường xuyên của cơ quan, đơn vị.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Trường hợp dự toán chi thường\nxuyên ngân sách tính theo nguyên tắc, tiêu chí và định mức năm 2022 thấp hơn dự\ntoán năm 2021 đã được Hội đồng nhân dân tỉnh quyết định, sẽ được hỗ trợ để đảm\nbảo không thấp hơn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Định mức phân bổ dự toán chi\nthường xuyên không bao gồm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Chi tiền lương, phụ cấp, các\nkhoản có tính chất lương (bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn)\ntheo quy định hiện hành của số biên chế và lao động hợp đồng theo Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a>  ngày 17 tháng 11 năm 2000 của Chính phủ được cấp có thẩm quyền\ngiao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Các khoản chi đặc thù chung\ncủa các sở, ngành, địa phương, bao gồm: Đóng niên liễm; kinh phí đối ứng của\ncác dự án; chi thuê trụ sở; chi tổ chức Đại hội các cấp, Hội nghị, hội thảo cấp\nkhu vực, cấp tỉnh, cấp huyện và cấp xã được cấp thẩm quyền quyết định; chi khen\nthưởng của ngành hàng năm; chi công tác xây dựng văn bản quy phạm pháp luật;\nchi hoạt động của các Ban chỉ đạo, Ban điều phối, Đoàn kiểm tra liên ngành được\nỦy ban nhân dân các cấp quyết định thành lập; chi mua ô tô, sửa chữa lớn trụ sở;\nkinh phí mua sắm trang thiết bị, phương tiện làm việc theo Đề án được cấp có thẩm\nquyền phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Các khoản chi đặc thù mang\ntính chất riêng biệt của các cơ quan không đưa được vào định mức phân bổ: Trang\nphục thanh tra theo quy định của nhà nước; kinh phí được trích để lại chi phục\nvụ công tác thu theo chế độ quy định; chi phục vụ hoạt động của Thường trực Tỉnh\nủy, Huyện, Thị, Thành ủy, Thường trực Hội đồng nhân dân, Đoàn đại biểu Quốc hội,\nỦy ban nhân dân; chi hoạt động của Đại biểu Hội đồng nhân dân được phân bổ dự\ntoán hàng năm theo khả năng ngân sách trên cơ sở khối lượng công việc, định mức,\nchế độ, tiêu chuẩn và các nhiệm vụ được phê duyệt; các đề án, chương trình, kế\nhoạch theo chỉ đạo của Tỉnh ủy, Ủy ban nhân dân tỉnh; chế độ, chính sách và nhiệm\nvụ phát sinh không thường xuyên khác được cấp có thẩm quyền phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Chi bảo đảm các hoạt động sự\nnghiệp và các hoạt động phục vụ chung của tỉnh như: Quản lý bảo vệ rừng, nông\nnghiệp, thủy sản; duy tu bảo dưỡng đường bộ, an toàn giao thông; quy hoạch, môi\ntrường; trợ giá trợ cước; bảo tồn, bảo tàng, di tích, nghĩa trang, đảm bảo xã hội,\nthư viện; hoạt động xúc tiến đầu tư, thương mại, du lịch; hoạt động của các đội\ntuyển thể dục thể thao; hoạt động khoa học và công nghệ, thẩm định, phản biện;\nchương trình công nghệ thông tin; Trung tâm lưu trữ, Trung tâm thông tin, tích\nhợp dữ liệu, hành chính công; chi đặt hàng, giao nhiệm vụ;…được bố trí từ kinh\nphí sự nghiệp theo dự toán và khả năng cân đối của ngân sách tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Thực hiện phân bổ chi thường\nxuyên ngân sách địa phương năm 2022 và giai đoạn 2022 - 2025 cho các lĩnh vực sự\nnghiệp căn cứ chức năng, nhiệm vụ được giao, định hướng đổi mới khu vực sự nghiệp\ncông lập theo Nghị quyết số 19-NQ/TW ngày 25 tháng 10 năm 2017 của Hội nghị lần\nthứ 6 Ban Chấp hành Trung ương khóa XII về tiếp tục đổi mới hệ thống tổ chức và\nquản lý, nâng cao chất lượng và hiệu quả hoạt động của các đơn vị sự nghiệp\ncông lập; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 60/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-60-2021-nd-cp-co-che-tu-chu-tai-chinh-cua-don-vi-su-nghiep-cong-lap-478766.aspx\">60/2021/NĐ-CP</a>  ngày 21 tháng 6 năm 2021 của Chính phủ về\nquy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập và các quy định\ncủa pháp luật về việc giao nhiệm vụ, đặt hàng, đấu thầu cung cấp sản phẩm dịch\nvụ sự nghiệp công, trong đó:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đơn vị sự nghiệp công lập tự\nbảo đảm toàn bộ chi đầu tư và chi thường xuyên, đơn vị sự nghiệp công lập tự bảo\nđảm chi thường xuyên: Ngân sách địa phương không hỗ trợ chi thường xuyên. Đơn vị\nthực hiện báo cáo đầy đủ nguồn thu, nhiệm vụ chi năm hiện hành và dự kiến năm kế\nhoạch; gửi cơ quan quản lý cấp trên tổng hợp, gửi Sở Tài chính cùng thời điểm\nxây dựng dự toán ngân sách nhà nước hàng năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đơn vị sự nghiệp công lập tự\nđảm bảo một phần chi thường xuyên: Ngân sách địa phương hỗ trợ chi thường xuyên\nsau khi đơn vị đã sử dụng nguồn thu sự nghiệp và nguồn thu phí được để lại chi\nđể thực hiện nhiệm vụ, cung ứng dịch vụ sự nghiệp công lập chưa tính đủ chi\nphí; đồng thời, dành nguồn thu sự nghiệp của đơn vị để thực hiện cải cách tiền\nlương theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Đơn vị sự nghiệp công lập do\nnhà nước đảm bảo chi thường xuyên: Được vận dụng nguyên tắc phân bổ như đối với\nlĩnh vực chi quản lý nhà nước, đảng, đoàn thể.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Hàng năm, trong thời kỳ ổn định\nngân sách 2022 - 2025, căn cứ kết quả thực hiện Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 60/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-60-2021-nd-cp-co-che-tu-chu-tai-chinh-cua-don-vi-su-nghiep-cong-lap-478766.aspx\">60/2021/NĐ-CP</a>  ngày\n21 tháng 6 năm 2021 của Chính phủ và các văn bản pháp luật có liên quan, xác định\nphần giảm chi ngân sách nhà nước hỗ trợ cho các đơn vị sự nghiệp công lập để thực\nhiện cải cách tiền lương trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">6. Trong quá trình phân bổ, quản\nlý, sử dụng kinh phí ngân sách địa phương, Thủ trưởng các sở, ngành, địa phương\nphải quán triệt thực hành tiết kiệm, chống lãng phí, cải cách hành chính; thực\nhiện chủ trương cơ cấu lại thu - chi ngân sách nhà nước và nợ công theo Nghị\nquyết số 07-NQ/TW ngày 18 tháng 11 năm 2016 của Bộ Chính trị về chủ trương, giải\npháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc\ngia an toàn, bền vững; Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 51/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-51-nq-cp-2017-chu-truong-giai-phap-co-cau-lai-ngan-sach-quan-ly-no-cong-352345.aspx\">51/NQ-CP</a>  ngày 19 tháng 6 năm 2017 của\nChính phủ về ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết\nsố 07-NQ/TW ngày 18 tháng 11 năm 2016 của Bộ Chính trị về chủ trương, giải pháp\ncơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc\ngia an toàn, bền vững; sắp xếp bộ máy, tổ chức bộ máy, đổi mới tổ chức, nâng\ncao chất lượng và hiệu quả của các đơn vị sự nghiệp công lập, sắp xếp lại các\nđơn vị hành chính cấp huyện, xã, tinh giản biên chế, thực hiện Đề án cải cách\ntiền lương theo Nghị quyết của Ban Chấp hành Trung ương khóa XII; thực hiện\ncông khai, minh bạch ngân sách theo quy định; xác định rõ trách nhiệm của từng\ncơ quan, đơn vị và người đứng đầu trong quản lý, sử dụng ngân sách địa phương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>Điều 3.\nPhương pháp xác định một số tiêu chí, căn cứ của định mức phân bổ dự toán chi\nthường xuyên ngân sách địa phương</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Tiêu chí biên chế:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Biên chế cán bộ, công chức,\nngười làm việc hưởng lương từ ngân sách nhà nước trong đơn vị sự nghiệp công lập,\nbiên chế trong các tổ chức hội được cấp có thẩm quyền giao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Số lượng cán bộ, công chức\nxã, phường, thị trấn theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 22/2020/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-22-2020-qd-ubnd-bo-tri-so-luong-can-bo-cong-chuc-xa-phuong-thi-tran-binh-thuan-449163.aspx\">22/2020/QĐ-UBND</a>  ngày 31 tháng 7 năm\n2020 của Ủy ban nhân dân tỉnh về việc quy định việc bố trí số lượng cán bộ,\ncông chức xã, phường, thị trấn trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"khoan_2_3\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-4522809')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4522809')\" atmm=\".lqhlTootip-4522809\" onmouseout=\"hideddrivetip();\">2. Tiêu chí\nsố học sinh ở các Trường Cao đẳng Cộng đồng, Trường Cao đẳng Nghề, Trường Cao đẳng\nY tế được cấp có thẩm quyền phê duyệt.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Tiêu chí huyện (trong đó có\nhuyện đảo), thị xã, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Tiêu chí xã, phường, thị trấn;\nxã trọng điểm, phức tạp về an ninh, trật tự và xã, phường, thị trấn trọng điểm\nvề quốc phòng và an ninh theo Quyết định của cấp có thẩm quyền.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Tiêu chí người thuộc hộ gia\nđình nghèo: Số người thuộc hộ gia đình nghèo được xác định trên cơ sở quyết định\ncủa Bộ Lao động - Thương binh và Xã hội về số hộ nghèo năm 2020 theo chuẩn\nnghèo quy định tại Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 59/2015/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-59-2015-qd-ttg-chuan-ngheo-tiep-can-da-chieu-ap-dung-2016-2020-296044.aspx\">59/2015/QĐ-TTg</a>  ngày 19 tháng 11 năm 2015 của\nThủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho\ngiai đoạn 2016 - 2020.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">ĐỊNH MỨC PHÂN BỔ DỰ TOÁN\nCHI THƯỜNG XUYÊN CHO CÁC SỞ, BAN, NGÀNH, ĐOÀN THỂ CẤP TỈNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>Điều 4. Định\nmức phân bổ dự toán chi quản lý nhà nước, đảng, đoàn thể cấp tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Áp dụng định mức tính theo từng\nbậc biên chế đối với các sở, ban, ngành, đoàn thể cấp tỉnh. Số biên chế do cơ\nquan có thẩm quyền giao cho từng sở, ban, ngành, đoàn thể cấp tỉnh được chia\nthành 02 bậc khác nhau với quy mô biên chế bậc đầu tiên là từ 30 biên chế trở\nxuống và biên chế bậc thứ hai là từ biên chế thứ 31 trở lên. Định mức phân bổ\nngân sách giảm dần theo các bậc biên chế, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Cơ quan Đảng, các Hội, đoàn\nthể được giao biên chế; cơ quan cấp sở, ban, ngành và tương đương:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Từ 30 biên chế trở xuống: 29\ntriệu đồng/biên chế. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Từ biên chế thứ 31 trở lên: 27\ntriệu đồng/biên chế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Cơ quan, đơn vị trực thuộc\ncác sở, ban, ngành, đoàn thể: 27 triệu đồng/biên chế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>Điều 5. Định\nmức phân bổ chi sự nghiệp giáo dục</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Định mức phân bổ chi sự nghiệp\ngiáo dục:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Áp dụng định mức tính theo từng\nbậc lớp học của các Trường. Số lớp học của các Trường được chia thành 03 bậc\nkhác nhau với quy mô số lớp học của bậc đầu tiên là từ 20 lớp trở xuống, bậc thứ\nhai là từ lớp thứ 21 đến lớp thứ 40 và bậc thứ ba là từ lớp thứ 41 trở lên. Định\nmức phân bổ ngân sách giảm dần theo các bậc lớp học, cụ thể:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Từ 20 lớp trở xuống: 18 triệu đồng/lớp.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Từ lớp thứ 21 đến lớp thứ 40:\n16,5 triệu đồng/lớp. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Từ lớp thứ 41 trở lên: 15 triệu\nđồng/lớp.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Hỗ trợ đối với các trường xa\nđơn vị chủ quản (khoảng cách từ trường đến Sở Giáo dục và Đào tạo trên 15km):\n75 triệu đồng/trường/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Hỗ trợ Trường Trung học phổ\nthông Ngô Quyền (huyện Phú Quý): 300 triệu đồng/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Định mức nêu trên chưa tính\ntrừ nguồn thu học phí và các nguồn thu khác. Sau khi tính theo định mức và cân\nđối các nguồn thu được để lại, ngân sách cấp bổ sung phần chênh lệch còn thiếu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>Điều 6. Định\nmức phân bổ chi sự nghiệp đào tạo và dạy nghề</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"khoan_1_6\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-4522810')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4522810')\" atmm=\".lqhlTootip-4522810\" onmouseout=\"hideddrivetip();\">1. Đối với\ncác Trường: Cao đẳng Cộng đồng, Cao đẳng Y tế, Cao đẳng Nghề, định mức phân bổ\ntheo số học sinh, cụ thể như sau:</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với Trường Cao đẳng Cộng\nđồng:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Cao đẳng khối kỹ thuật, du lịch:\n2,6 triệu đồng/học sinh/năm. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Cao đẳng nghề: 3,4 triệu đồng/học\nsinh/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Cao đẳng sư phạm: 2,6 triệu\nđồng/học sinh/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Cao đẳng ngành học khác: 2,6\ntriệu đồng/học sinh/năm. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Trung cấp ngành học khác:\n2,4 triệu đồng/học sinh/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Trung cấp khối kỹ thuật, du\nlịch: 2,4 triệu đồng/học sinh/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đối với Trường Cao đẳng Y tế:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Cao đẳng: 3,6 triệu đồng/học\nsinh/năm. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Trung cấp: 3,2 triệu đồng/học\nsinh/năm. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Đối với Trường Cao đẳng Nghề:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Cao đẳng: 3,4 triệu đồng/học\nsinh/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hệ Trung cấp: 3,2 triệu đồng/học\nsinh/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Định mức nêu trên tính theo\nkế hoạch đào tạo, quyết toán theo số học sinh thực tế đào tạo (theo số học sinh\ncó mặt đầu học kỳ) trong phạm vi kế hoạch được giao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với Trường Chính trị tỉnh,\nđịnh mức phân bổ theo số biên chế là 28 triệu đồng/biên chế/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Đối với Trung tâm Đào tạo,\nhuấn luyện và thi đấu thể dục thể thao tỉnh, định mức phân bổ theo số biên chế\nlà 20 triệu đồng/biên chế/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>Điều 7. Định\nmức phân bổ chi sự nghiệp y tế</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với các đơn vị khối khám\nchữa bệnh (trừ các đơn vị tự bảo đảm chi thường xuyên, bảo đảm chi thường xuyên\nvà chi đầu tư): Ngân sách cấp kinh phí chưa kết cấu đủ vào giá (trong đó, định\nmức chi hoạt động của bộ phận quản lý là 20 triệu đồng/biên chế; riêng đối với\nhuyện Phú Quý là 26 triệu đồng/biên chế). Trên cơ sở nguồn thu, sau khi cân đối\nngân sách cấp hỗ trợ chênh lệch thiếu theo lộ trình và cơ chế tự chủ đơn vị sự\nnghiệp công lập. Đối với các đơn vị có nguồn thu thấp, ngân sách xem xét hỗ trợ\nđể bảo đảm tiền lương và hoạt động của đơn vị.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với các đơn vị làm công\ntác dự phòng, dân số, kế hoạch hóa gia đình: Ngân sách bảo đảm kinh phí hoạt động\ntheo định mức tuyến tỉnh: 20 triệu đồng/biên chế; tuyến huyện: 18 triệu đồng/biên\nchế; tuyến xã: 11 triệu đồng/biên chế. Riêng đối với huyện Phú Quý: 26 triệu đồng/biên\nchế dự phòng; 23 triệu đồng/biên chế dân số, kế hoạch hóa gia đình; 21 triệu đồng/biên\nchế y tế xã.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Đối với các đơn vị thực hiện\n02 chức năng khám chữa bệnh và công tác dự phòng (trừ các đơn vị tự bảo đảm chi\nthường xuyên, bảo đảm chi thường xuyên và chi đầu tư): Tính kinh phí chưa kết cấu\nđủ vào giá (đối với hoạt động khám chữa bệnh); kinh phí hoạt động cho công tác\ndự phòng (tính theo biên chế giao cho công tác dự phòng) theo định mức nêu\ntrên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_8\"><b>Điều 8. Định\nmức phân bổ chi đối với các sự nghiệp khác</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Định mức chi hoạt động của đơn\nvị sự nghiệp công lập là 21 triệu đồng/biên chế/năm. Định mức trên để xây dựng\ndự toán chi thường xuyên; ngân sách hỗ trợ kinh phí hàng năm theo quyết định\ngiao tự chủ tài chính của giai đoạn đã được cấp có thẩm quyền phê duyệt theo\nnguyên tắc giảm dần hỗ trợ từ ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_9\"><b>Điều 9. Định\nmức phân bổ chi an ninh, quốc phòng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Căn cứ yêu cầu nhiệm vụ theo\nphân cấp và nhu cầu thực hiện các đề án, các chế độ, chính sách, Ủy ban nhân\ndân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả\nnăng cân đối ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_3\"><b>Chương\nIII</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">ĐỊNH MỨC PHÂN BỔ DỰ TOÁN\nCHI THƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG CHO CÁC HUYỆN, THỊ XÃ, THÀNH PHỐ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_10\"><b>Điều 10. Định\nmức phân bổ chi hoạt động kinh tế</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Định mức phân bổ chi hoạt động,\nphân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/biên chế/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border:solid black 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">21</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">23</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với kinh phí hỗ trợ chi sự\nnghiệp kinh tế, phân bổ theo các tiêu chí, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Sự nghiệp nông nghiệp, phân\nbổ theo tiêu chí các huyện, thị xã, thành phố:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border:solid black 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">450</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thị xã La Gi</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">400</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thành phố Phan Thiết</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">350</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.08%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.92%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">250</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Sự nghiệp lâm nghiệp, phân bổ\ntheo tiêu chí các xã có rừng với mức phân bổ 20 triệu đồng/xã/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Sự nghiệp giao thông, phân bổ\ntheo tiêu chí các huyện, thị xã, thành phố:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.08%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.92%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.08%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thành phố Phan Thiết</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.92%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">2.000</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.08%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thị xã La Gi</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.92%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">1.500</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.08%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.92%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">1.000</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Sự nghiệp kiến thiết thị\nchính, phân bổ kinh phí hỗ trợ tiền điện chiếu sáng theo tiêu chí các huyện, thị\nxã, thành phố:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thành phố Phan Thiết</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">27.000</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thị xã La Gi</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">4.500</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">2.500</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">1.200</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Các hoạt động kinh tế khác,\nphân bổ theo tiêu chí huyện, thị xã, thành phố và các xã, phường, thị trấn, cụ\nthể:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Ngân sách cấp huyện: 50 triệu đồng/huyện,\nthị xã, thành phố/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Ngân sách xã, phường, thị trấn:\n10 triệu đồng/xã, phường, thị trấn/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Định mức phân bổ theo tiêu\nchí bổ sung:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Kinh phí lập kế hoạch sử dụng\nđất hàng năm; kinh phí hỗ trợ thanh toán nợ quy hoạch theo khả năng cân đối của\nngân sách tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Kinh phí hỗ trợ địa phương sản\nxuất lúa xác định trên cơ sở mức hỗ trợ và diện tích đất trồng lúa Bộ Tài\nnguyên và Môi trường công bố theo quy định tại khoản 2 và 3 Điều 7 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 35/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-35-2015-nd-cp-ve-quan-ly-su-dung-dat-trong-lua-271072.aspx\">35/2015/NĐ-CP</a>  ngày 13 tháng 4 năm 2015 của Chính phủ về quản lý, sử dụng đất trồng\nlúa; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 62/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-62-2019-nd-cp-sua-doi-nghi-dinh-35-2015-nd-cp-ve-quan-ly-su-dung-dat-trong-lua-418633.aspx\">62/2019/NĐ-CP</a>  ngày 11 tháng 7 năm 2019 của Chính phủ sửa đổi,\nbổ sung một số điều Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 35/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-35-2015-nd-cp-ve-quan-ly-su-dung-dat-trong-lua-271072.aspx\">35/2015/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Kinh phí thực hiện phòng, chống\ndịch bệnh động vật trên cạn theo Kế hoạch được Ủy ban nhân dân tỉnh phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Kinh phí duy tu, bảo dưỡng hệ\nthống đèn chiếu sáng, vỉa hè, hệ thống cấp nước, thoát nước, công viên cây\nxanh; kinh phí bảo trì, sửa chữa các công trình giao thông: Ủy ban nhân dân tỉnh\ntrình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả năng cân đối\nngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_11\"><b>Điều 11. Định\nmức phân bổ chi sự nghiệp giáo dục</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với các trường mầm non,\ntrường tiểu học, trường trung học cơ sở, phân bổ theo tiêu chí số trường học và\nsố lớp học, cụ thể:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Phân bổ theo tiêu chí trường\nhọc:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/trường/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"43%\" rowspan=\"2\" style=\"width:43.56%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"56%\" colspan=\"3\" style=\"width:56.44%;border-top:solid black 1.0pt;\n  border-left:none;border-bottom:none;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ theo cấp học</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"17%\" style=\"width:17.74%;border:solid black 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Mầm non</b></p>\n  </td>\n  <td width=\"20%\" style=\"width:20.98%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Tiểu học</b></p>\n  </td>\n  <td width=\"17%\" style=\"width:17.72%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>THCS</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"43%\" style=\"width:43.56%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"17%\" style=\"width:17.74%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\">70</p>\n  </td>\n  <td width=\"20%\" style=\"width:20.98%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\">100</p>\n  </td>\n  <td width=\"17%\" style=\"width:17.72%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\">130</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"43%\" style=\"width:43.56%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"17%\" style=\"width:17.74%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\">140</p>\n  </td>\n  <td width=\"20%\" style=\"width:20.98%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\">200</p>\n  </td>\n  <td width=\"17%\" style=\"width:17.72%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\">260</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Phân bổ theo tiêu chí số lớp\nhọc: Các huyện, thị xã, thành phố phân bổ theo định mức 8 triệu đồng/lớp/năm.\nHuyện đảo phân bổ theo định mức 12 triệu đồng/lớp/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Đối với trường có dưới 10 lớp,\nsau khi phân bổ theo tiêu chí tại điểm a và b khoản 1 Điều này được bố trí đảm\nbảo không thấp hơn 150 triệu đồng/trường/năm (đối với trường mầm non), 180 triệu\nđồng/trường/năm (đối với trường tiểu học) và 210 triệu đồng/trường/năm (đối với\ntrường trung học cơ sở).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Đối với các Trường có sắp xếp\nlại và thành lập trường mới có nhiều cấp học:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trường hợp sắp xếp, sáp nhập 02\nhoặc nhiều trường cùng cấp học thì trường (tại cơ sở chính) tính 100% định mức,\ncác trường còn lại (trước sáp nhập) tính bằng 95% định mức.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trường hợp sắp xếp, sáp nhập\nkhác cấp học thì trường có cấp học cao nhất tính 100% định mức, các trường có cấp\nhọc thấp hơn (trước sáp nhập) tính bằng 95% định mức của cấp đó.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Đối với những trường cách xa\ntrung tâm huyện lỵ (khoảng cách từ trường đến trung tâm huyện lỵ trên 15km): Bố\ntrí thêm 15 triệu đồng/trường/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Đối với trường ở vùng có điều\nkiện kinh tế - xã hội đặc biệt khó khăn: Bố trí thêm 20 triệu đồng/trường/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">g) Đối với trường có nhiều điểm\ntrường lẻ: Bố trí thêm 15 triệu đồng/điểm trường lẻ/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với Trường Phổ thông Dân\ntộc nội trú: 280 triệu đồng/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Kinh phí tổ chức các hoạt động\nchung của ngành Giáo dục: Phân bổ theo định mức 1.000 triệu đồng/huyện, thị xã,\nthành phố/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Kinh phí hỗ trợ nâng cấp, sửa\nchữa, mua sắm trang thiết bị trường học phục vụ chương trình đổi mới giáo dục\nphổ thông; kinh phí triển khai các phần mềm phục vụ công tác giáo dục do Ủy ban\nnhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả\nnăng cân đối ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Định mức phân bổ theo tiêu\nchí bổ sung:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Chính sách phát triển giáo dục\nmầm non theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 105/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-105-2020-nd-cp-quy-dinh-chinh-sach-phat-trien-giao-duc-mam-non-452005.aspx\">105/2020/NĐ-CP</a>  ngày 08 tháng 9 năm 2020 của Chính phủ\nvề quy định chính sách phát triển giáo dục mầm non.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Kinh phí học bổng cho học\nsinh dân tộc nội trú theo Thông tư liên tịch số 109/2009/TTLT-BTC-BGDĐT ngày 29\ntháng 5 năm 2009 của Bộ Tài chính, Bộ Giáo dục và Đào tạo về hướng dẫn một số\nchế độ tài chính đối với học sinh các trường phổ thông dân tộc nội trú và các\ntrường dự bị đại học dân tộc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Chính sách giáo dục đối với\nngười khuyết tật theo quy định tại Thông tư liên tịch số 42/2013/TTLT-BGDĐT-BLĐTBXH-BTC\nngày 31 tháng 12 năm 2013 của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh\nvà Xã hội, Bộ Tài chính về quy định chính sách về giáo dục đối với người khuyết\ntật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Hỗ trợ học sinh và trường phổ\nthông ở xã, thôn đặc biệt khó khăn theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 116/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-duc/nghi-dinh-116-2016-nd-cp-chinh-sach-ho-tro-hoc-sinh-truong-pho-thong-o-xa-thon-dac-biet-kho-khan-317616.aspx\">116/2016/NĐ-CP</a>  ngày 18\ntháng 7 năm 2016 của Chính phủ về quy định chính sách hỗ trợ học sinh và trường\nphổ thông ở xã, thôn đặc biệt khó khăn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Hỗ trợ kinh phí miễn giảm học\nphí và hỗ trợ chi phí học tập theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 81/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-81-2021-nd-cp-quan-ly-hoc-phi-doi-voi-co-so-giao-duc-thuoc-he-thong-giao-duc-quoc-dan-457392.aspx\">81/2021/NĐ-CP</a>  ngày 27 tháng 8\nnăm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở\ngiáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ\ntrợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Kinh phí hỗ trợ đối với trẻ\nmẫu giáo, học sinh và sinh viên dân tộc thiểu số rất ít người theo Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 57/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/giao-duc/nghi-dinh-57-2017-nd-cp-uu-tien-tuyen-sinh-ho-tro-hoc-tap-tre-mau-giao-hoc-sinh-sinh-vien-dan-toc-348922.aspx\">57/2017/NĐ-CP</a>  ngày 09 tháng 5 năm 2017 của Chính phủ về quy định chính sách ưu\ntiên tuyển sinh và hỗ trợ học tập đối với trẻ mẫu giáo, học sinh, sinh viên dân\ntộc thiểu số rất ít người.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">g) Kinh phí hỗ trợ cho học\nsinh, sinh viên dân tộc thiểu số trên địa bàn tỉnh theo Nghị quyết số\n<a class=\"text-blue\" target=\"_blank\" title=\"04/2021/NQ-HĐND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=04/2021/NQ-HĐND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=17/8/2021&amp;eday=17/8/2021\">04/2021/NQ-HĐND</a>  ngày 17 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh về quy định\nchế độ hỗ trợ cho học sinh, sinh viên dân tộc thiểu số trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">h) Kinh phí chi cho hợp đồng\nthuê khoán nấu ăn đối với bậc học mầm non thực hiện theo quy định của Chính phủ\nvề mức lương tối thiểu vùng đối với người lao động làm việc theo hợp đồng lao động.\nVề số lượng hợp đồng thuê khoán nấu ăn, Ủy ban nhân dân tỉnh phê duyệt số lượng\nngười theo quy định tại khoản 14 Điều 6 Thông tư liên tịch số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư liên tịch 06/2015/TTLT-BGDĐT-BNV\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-lien-tich-06-2015-ttlt-bgddt-bnv-dinh-muc-so-luong-nguoi-lam-viec-o-co-so-giao-duc-mam-non-270112.aspx\">06/2015/TTLT-BGDĐT-BNV</a>  ngày 16 tháng 3 năm 2015 của Bộ Giáo dục và Đào tạo - Bộ\nNội vụ quy định về danh mục khung vị trí việc làm và định mức số lượng người\nlàm việc trong các cơ sở giáo dục mầm non công lập.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_12\"><b>Điều 12. Định\nmức phân bổ chi sự nghiệp đào tạo và dạy nghề</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với kinh phí chi hoạt động,\nphân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/biên chế/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">21</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">23</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với kinh phí hỗ trợ chi\nsự nghiệp đào tạo và dạy nghề, phân bổ theo tiêu chí huyện, thị xã, thành phố:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thành phố Phan Thiết</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">470</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">370</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">270</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_13\"><b>Điều 13. Định\nmức phân bổ chi sự nghiệp văn hóa - thông tin</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với kinh phí chi hoạt động,\nphân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/biên chế/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">21</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">23</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với kinh phí hỗ trợ chi\nsự nghiệp văn hóa - thông tin, phân bổ theo tiêu chí huyện, thị xã, thành phố và\ntiêu chí xã, phường, thị trấn:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với ngân sách cấp huyện:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" style=\"width:56.74%;border:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" style=\"width:43.26%;border:solid black 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.74%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thành phố Phan Thiết</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.26%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">1.350</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.74%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thị xã La Gi</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.26%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">400</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" style=\"width:56.74%;border:solid black 1.0pt;border-top:none;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện</p>\n  </td>\n  <td width=\"43%\" style=\"width:43.26%;border-top:none;border-left:none;\n  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">280</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Ngân sách xã, phường, thị trấn:\n30 triệu đồng/xã, phường, thị trấn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Định mức phân bổ theo tiêu\nchí bổ sung, bao gồm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Kinh phí thực hiện Đề án tổ\nchức lễ hội giỗ Tổ các vua Hùng tại đền thờ Hùng Vương, thị trấn Phan Rí Cửa,\nhuyện Tuy Phong theo Quyết định số 1575/QĐ-UBND ngày 12 tháng 6 năm 2017 của Ủy\nban nhân dân tỉnh về phê duyệt Đề án tổ chức lễ hội giỗ Tổ các vua Hùng tại đền\nthờ Hùng Vương, thị trấn Phan Rí Cửa, huyện Tuy Phong.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Kinh phí thờ cúng Hoàng tộc\nChăm, huyện Bắc Bình.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Kinh phí xây dựng, quản lý,\nkhai thác tủ sách pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Kinh phí thực hiện phong\ntrào “Toàn dân đoàn kết xây dựng đời sống văn hóa”.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Kinh phí thực hiện Cuộc vận\nđộng “Toàn dân đoàn kết xây dựng nông thôn mới, đô thị văn minh” đối với Ủy ban\nMặt trận Tổ quốc Việt Nam cấp xã và Ban công tác Mặt trận ở khu dân cư trên địa\nbàn tỉnh theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 60/2018/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-60-2018-nq-hdnd-ho-tro-kinh-phi-xay-dung-nong-thon-moi-do-thi-van-minh-binh-thuan-390038.aspx\">60/2018/NQ-HĐND</a>  ngày 20 tháng 7 năm 2018 của Hội đồng\nnhân dân tỉnh. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Kinh phí mua báo Đại Đoàn kết.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_14\"><b>Điều 14. Định\nmức phân bổ chi sự nghiệp phát thanh, truyền hình</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với kinh phí chi hoạt động,\nphân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/biên chế/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">21</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">23</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với kinh phí hỗ trợ chi sự\nnghiệp phát thanh, truyền hình, phân bổ theo tiêu chí huyện, thị xã, thành phố\nvà tiêu chí xã, phường, thị trấn:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với ngân sách cấp huyện:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">250</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">200</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hàng năm, Ủy ban nhân dân tỉnh\ntrình Hội đồng nhân dân tỉnh xem xét, quyết định hỗ trợ thêm kinh phí nâng cấp,\nbảo trì, sửa chữa hệ thống truyền thanh cơ sở theo khả năng cân đối ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Ngân sách xã, phường, thị trấn:\n10 triệu đồng/xã, phường, thị trấn/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_15\"><b>Điều 15. Định\nmức phân bổ chi sự nghiệp thể dục thể thao</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với kinh phí chi hoạt động,\nphân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/biên chế/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">21</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">23</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Đối với kinh phí hỗ trợ chi\nsự nghiệp thể dục thể thao, phân bổ theo tiêu chí huyện, thị xã, thành phố và\ntiêu chí xã, phường, thị trấn:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với ngân sách cấp huyện:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.46%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.54%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.46%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.54%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">200</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.46%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.54%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">150</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Ngân sách xã, phường, thị trấn:\n10 triệu đồng/xã, phường, thị trấn/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_16\"><b>Điều 16. Định\nmức phân bổ chi sự nghiệp môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Định mức phân bổ theo tiêu chí\nhuyện, thị xã, thành phố và tiêu chí xã, phường, thị trấn:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với ngân sách cấp huyện:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thành phố Phan Thiết</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">60.000</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Thị xã La Gi</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">5.000</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.7%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.3%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">2.000</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Định mức phân bổ nêu trên đã\nbao gồm các khoản chi cho hoạt động thu gom, vận chuyển, xử lý rác thải, vệ\nsinh môi trường các huyện, thị xã, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Ngân sách xã, phường, thị trấn:\n20 triệu đồng/xã, phường, thị trấn/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Định mức phân bổ theo tiêu chí\nbổ sung:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Các huyện, thị xã, thành phố\ncó nhà máy xử lý rác thải thì được hỗ trợ thêm kinh phí để xử lý rác thải.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Căn cứ khối lượng rác thải\nvà số thu dịch vụ thu gom, vận chuyển rác thải sinh hoạt trên địa bàn các huyện,\nthị xã, thành phố, hàng năm, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh\nxem xét, quyết định hỗ trợ thêm kinh phí thu gom, vận chuyển rác thải, vệ sinh\nmôi trường cho các huyện, thị xã, thành phố theo khả năng cân đối ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_17\"><b>Điều 17. Định\nmức phân bổ chi đảm bảo xã hội</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Định mức phân bổ theo tiêu\nchí huyện, thị xã, thành phố:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Ngân sách cấp huyện:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">500</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">250</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Ngân sách xã, phường, thị trấn:\n30 triệu đồng/xã, phường, thị trấn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Định mức phân bổ theo tiêu\nchí bổ sung, bao gồm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Kinh phí thực hiện chế độ trợ\ncấp xã hội hàng tháng cho các đối tượng bảo trợ xã hội theo quy định tại Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 20/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/nghi-dinh-20-2021-nd-cp-chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi-467723.aspx\">20/2021/NĐ-CP</a>  ngày 15 tháng 3 năm 2021 của Chính phủ về quy định chính sách\ntrợ giúp xã hội đối với đối tượng bảo trợ xã hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Kinh phí thực hiện chế độ hỗ\ntrợ hộ nghèo, hộ chính sách tiền điện theo Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 190/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-190-2014-tt-btc-chinh-sach-ho-tro-tien-dien-cho-ho-ngheo-ho-chinh-sach-xa-hoi-261164.aspx\">190/2014/TT-BTC</a>  ngày 11\ntháng 12 năm 2014 của Bộ Tài chính về việc quy định thực hiện chính sách hỗ trợ\ntiền điện cho hộ nghèo và hộ chính sách xã hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Kinh phí thực hiện chế độ điều\nchỉnh mức trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc theo Quyết định số\n130-CP ngày 20 tháng 6 năm 1975 của Hội đồng Chính phủ, Quyết định số 111-HĐBT\nngày 13 tháng 10 năm 1981 của Hội đồng Bộ trưởng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Kinh phí quà tặng chúc thọ,\nmừng thọ người cao tuổi theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 81/2019/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-81-2019-nq-hdnd-muc-qua-tang-chuc-tho-nguoi-cao-tuoi-binh-thuan-422272.aspx\">81/2019/NQ-HĐND</a>  ngày 25 tháng 7 năm\n2019 của Hội đồng nhân dân tỉnh về việc quy định mức quà tặng chúc thọ, mừng thọ\nngười cao tuổi trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Kinh phí chi trả trợ cấp xã\nhội qua hệ thống Bưu điện theo Quyết định số 1524/QĐ-UBND ngày 01 tháng 6 năm\n2016 của Ủy ban nhân dân tỉnh về việc ban hành quy định mức phí chi trả trợ cấp\nxã hội qua hệ thống Bưu điện trên địa bàn tỉnh Bình Thuận.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Kinh phí hỗ trợ đối với\nthành viên của Đội công tác xã hội tình nguyện tại xã, phường, thị trấn theo\nQuyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 56/2013/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/quyet-dinh-56-2013-qd-ubnd-ho-tro-thanh-vien-doi-cong-tac-xa-hoi-tinh-nguyen-binh-thuan-215019.aspx\">56/2013/QĐ-UBND</a>  ngày 22 tháng 11 năm 2013 của Ủy ban nhân dân tỉnh\nvề việc quy định chế độ hỗ trợ đối với thành viên của Đội công tác xã hội tình\nnguyện tại xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">g) Kinh phí hỗ trợ cho cộng tác\nviên tham gia công tác bảo vệ, chăm sóc trẻ em tại thôn, bản, khu phố theo Nghị\nquyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 58/2018/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-58-2018-nq-hdnd-ho-tro-cho-cong-tac-vien-tham-gia-cham-soc-tre-em-binh-thuan-390036.aspx\">58/2018/NQ-HĐND</a>  ngày 20 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh\nquy định mức hỗ trợ cho cộng tác viên tham gia công tác bảo vệ, chăm sóc trẻ em\ntại thôn, bản, khu phố trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_18\"><b>Điều 18. Định\nmức phân bổ chi quản lý hành chính</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Định mức phân bổ chi hoạt động,\nphân bổ theo các tiêu chí sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với ngân sách cấp huyện,\nphân bổ theo tiêu chí biên chế cán bộ, công chức cấp huyện:</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><i>Đơn\nvị: Triệu đồng/biên chế/năm.</i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAAxADEANwA=-->\n <tbody><tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Huyện, thị xã, thành phố</b></p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border:solid black 1.0pt;\n  border-left:none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Định mức phân bổ</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Các huyện, thị xã, thành phố</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">29</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.74%;border:solid black 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\">Huyện đảo</p>\n  </td>\n  <td width=\"43%\" valign=\"top\" style=\"width:43.26%;border-top:none;border-left:\n  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">33,5</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đối với ngân sách các xã,\nphường, thị trấn, phân bổ theo tiêu chí số lượng cán bộ, công chức cấp xã với định\nmức 16,5 triệu đồng/biên chế/năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Định mức phân bổ theo tiêu\nchí bổ sung:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Kinh phí hỗ trợ hoạt động đặc\nthù của Huyện, Thị, Thành ủy; phục vụ công tác chỉ đạo, điều hành của Ủy ban\nnhân dân các huyện, thị xã, thành phố; phục vụ một số hoạt động của Ủy ban Mặt\ntrận Tổ quốc Việt Nam cấp huyện và các đoàn thể, tổ chức xã hội, nghề nghiệp\ntheo khả năng cân đối của ngân sách tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Kinh phí hỗ trợ tổ chức đại\nhội các đoàn thể cấp huyện theo chỉ đạo của Tỉnh ủy, Ủy ban nhân dân tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Kinh phí thăm bệnh, trợ cấp ốm\nđau, khám sức khỏe theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 42/2018/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-42-2018-nq-hdnd-che-do-tham-benh-om-dau-phung-vieng-can-bo-tu-tran-binh-thuan-380150.aspx\">42/2018/NQ-HĐND</a>  ngày 30 tháng 3 năm 2018\ncủa Hội đồng nhân dân tỉnh về việc ban hành Quy định chế độ, chính sách thăm bệnh,\ntrợ cấp ốm đau, khám sức khỏe, phúng viếng cán bộ từ trần; tham quan, nghỉ dưỡng\nvà tặng quà nhân dịp lễ, tết cho cán bộ tỉnh Bình Thuận.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Kinh phí hỗ trợ các tổ chức\nchính trị - xã hội ở thôn, bản thuộc các xã đặc biệt khó khăn theo Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 49/2012/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-49-2012-tt-btc-huong-dan-ho-tro-kinh-phi-hoat-dong-chi-hoi-thu-136615.aspx\">49/2012/TT-BTC</a>  ngày 20 tháng 3 năm 2012 của Bộ Tài chính về hướng dẫn việc hỗ\ntrợ kinh phí hoạt động của chi hội thuộc các tổ chức chính trị - xã hội thuộc\ncác xã đặc biệt khó khăn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Kinh phí hoạt động của các tổ\nchức cơ sở đảng theo Quyết định số 99- QĐ/TW ngày 30 tháng 5 năm 2012 của Ban\nChấp hành Trung ương về việc ban hành chế độ chi hoạt động công tác đảng của tổ\nchức cơ sở đảng, đảng bộ cấp trên trực tiếp cơ sở.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Kinh phí thực hiện chế độ,\nchính sách và các điều kiện bảo đảm hoạt động của Hội đồng nhân dân cấp huyện,\ncấp xã theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 1206/2016/NQ-UBTVQH13\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-1206-2016-nq-ubtvqh13-chinh-sach-dieu-kien-bao-dam-hoat-dong-dai-bieu-hoi-dong-nhan-dan-312507.aspx\">1206/2016/NQ-UBTVQH13</a>  ngày 13 tháng 5 năm 2016 của Ủy\nban Thường vụ Quốc hội về điều kiện bảo đảm hoạt động của Đại biểu Hội đồng\nnhân dân và Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 65/2018/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-65-2018-nq-hdnd-dieu-kien-bao-dam-hoat-dong-cua-hoi-dong-nhan-dan-cac-cap-binh-thuan-391991.aspx\">65/2018/NQ-HĐND</a>  ngày 20 tháng 7 năm 2018 của Hội đồng\nnhân dân tỉnh về việc quy định chế độ, chính sách và các điều kiện bảo đảm hoạt\nđộng của Hội đồng nhân dân các cấp trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">g) Kinh phí thực hiện chế độ,\nchính sách đối với những người hoạt động không chuyên trách cấp xã và ở thôn,\nkhu phố theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 12/2020/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-12-2020-nq-hdnd-che-do-ho-tro-thoi-viec-doi-voi-can-bo-cap-xa-doi-du-binh-thuan-449161.aspx\">12/2020/NQ-HĐND</a>  ngày 22/7/2020 quy định chế độ hỗ trợ\nthôi việc đối với cán bộ, công chức, người hoạt động không chuyên trách ở cấp\nxã, thôn, khu phố dôi dư do sắp xếp lại tổ chức, nhân sự và chế độ trợ cấp bổ\nsung hàng tháng đối với người hoạt động không chuyên trách ở cấp xã, khu phố\ntrên địa bàn tỉnh; Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 13/2020/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-13-2020-nq-hdnd-che-do-nguoi-hoat-dong-khong-chuyen-trach-o-cap-xa-binh-thuan-449162.aspx\">13/2020/NQ-HĐND</a>  ngày 22 tháng 7 năm 2020 quy định\nchức danh, số lượng và chế độ, chính sách đối với người hoạt động không chuyên\ntrách ở cấp xã, thôn, khu phố và mức khoán kinh phí hoạt động của các tổ chức\nchính trị - xã hội cấp xã trên địa bàn tỉnh và Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"05/2021/NQ-HĐND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=05/2021/NQ-HĐND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=17/8/2021&amp;eday=17/8/2021\">05/2021/NQ-HĐND</a> \nngày 17 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh quy định về chế độ đối với\nngười hoạt động không chuyên trách ở thôn, khu phố và số lượng, chế độ đối với\nngười tham gia công việc ở thôn, khu phố trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">h) Kinh phí chi trả chế độ thù\nlao đối với lãnh đạo các Hội có tính chất đặc thù theo Quyết định số\n2510/QĐ-UBND ngày 18 tháng 11 năm 2011 của Ủy ban nhân dân tỉnh về việc quy định\nchế độ thù lao đối với người đã nghỉ hưu giữ chức danh lãnh đạo chuyên trách tại\ncác Hội có tính chất đặc thù của tỉnh và Quyết định số 1031/QĐ-UBND ngày 30\ntháng 5 năm 2012 của Ủy ban nhân dân tỉnh về việc quy định chế độ thù lao cho\ncác Hội có tính chất đặc thù của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">i) Kinh phí thực hiện chế độ\nchi trả đối với cộng tác viên dư luận xã hội các cấp theo Quyết định số\n309/QĐ-UBND ngày 03 tháng 02 năm 2017 của Ủy ban nhân dân tỉnh về kinh phí thực\nhiện chế độ chi trả đối với cộng tác viên dư luận xã hội các cấp.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">k) Kinh phí hỗ trợ hoạt động của\nBan Thanh tra nhân dân cấp xã theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"35/2017/NQ-HĐND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=35/2017/NQ-HĐND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=14/12/2017&amp;eday=14/12/2017\">35/2017/NQ-HĐND</a>  ngày 14 tháng\n12 năm 2017 của Hội đồng nhân dân tỉnh về việc quy định mức kinh phí hỗ trợ hoạt\nđộng của Ban Thanh tra nhân dân ở xã, phường, thị trấn trên địa bàn tỉnh Bình\nThuận.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">l) Kinh phí hỗ trợ giám sát đầu\ntư của cộng đồng theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 29/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-29-2021-nd-cp-thu-tuc-tham-dinh-du-an-quan-trong-quoc-gia-giam-sat-danh-gia-dau-tu-468883.aspx\">29/2021/NĐ-CP</a>  ngày 26 tháng 3 năm 2021 của\nChính phủ về việc quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc\ngia và giám sát, đánh giá đầu tư.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_19\"><b>Điều 19. Định\nmức phân bổ chi quốc phòng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với ngân sách cấp huyện:\nCăn cứ yêu cầu nhiệm vụ theo phân cấp và nhu cầu thực hiện các đề án, các chế độ,\nchính sách, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định\nhàng năm theo khả năng cân đối ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Ngân sách xã, phường, thị trấn:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với các xã, phường, thị\ntrấn trọng điểm về quốc phòng và an ninh: 40 triệu đồng/xã, phường, thị trấn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đối với các xã, phường, thị\ntrấn còn lại: 35 triệu đồng/xã, phường, thị trấn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_20\"><b>Điều 20. Định\nmức phân bổ chi an ninh</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Đối với ngân sách cấp huyện:\nCăn cứ yêu cầu nhiệm vụ theo phân cấp và nhu cầu thực hiện các đề án, các chế độ,\nchính sách, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định\nhàng năm theo khả năng cân đối ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Ngân sách xã, phường, thị trấn:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Đối với các xã trọng điểm,\nphức tạp về an ninh, trật tự: 40 triệu đồng/xã. </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đối với các xã, phường, thị\ntrấn còn lại: 35 triệu đồng/xã, phường, thị trấn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Định mức phân bổ theo tiêu\nchí bổ sung, bao gồm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Kinh phí thực hiện chế độ đối\nvới lực lượng bảo vệ dân phố theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 23/2008/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-23-2008-qd-ubnd-quy-dinh-che-do-chinh-sach-cho-luc-luong-bao-ve-dan-pho-tren-dia-ban-tinh-binh-thuan-64068.aspx\">23/2008/QĐ-UBND</a>  ngày 25 tháng\n02 năm 2008 của Ủy ban nhân dân tỉnh về việc quy định chế độ, chính sách cho lực\nlượng Bảo vệ dân phố trên địa bàn tỉnh Bình Thuận và Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 57/2008/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-57-2008-qd-ubnd-sua-doi-che-do-luc-luong-bao-ve-dan-pho-binh-thuan-193665.aspx\">57/2008/QĐ-UBND</a> \nngày 16 tháng 7 năm 2008 của Ủy ban nhân dân tỉnh về việc sửa đổi bổ sung khoản\n1 điều 5 Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 23/2008/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-23-2008-qd-ubnd-quy-dinh-che-do-chinh-sach-cho-luc-luong-bao-ve-dan-pho-tren-dia-ban-tinh-binh-thuan-64068.aspx\">23/2008/QĐ-UBND</a>  ngày 25/02/2008 của Ủy ban nhân dân tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Kinh phí thực hiện chế độ đối\nvới công an viên ở thôn theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"05/2021/NQ-HĐND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=05/2021/NQ-HĐND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=17/8/2021&amp;eday=17/8/2021\">05/2021/NQ-HĐND</a>  ngày 17 tháng 8 năm\n2021 của Hội đồng nhân dân tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Kinh phí hỗ trợ cho Đội trưởng,\nĐội phó Đội dân phòng theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 73/2019/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-73-2019-nq-hdnd-ve-muc-ho-tro-thuong-xuyen-cho-doi-truong-doi-dan-phong-binh-thuan-422012.aspx\">73/2019/NQ-HĐND</a>  ngày 25 tháng 7 năm\n2019 của Hội đồng nhân dân tỉnh quy định mức hỗ trợ thường xuyên cho chức danh\nĐội trưởng, Đội phó của Đội dân phòng và định mức trang bị phương tiện phòng\ncháy và chữa cháy cho Đội dân phòng, Ban bảo vệ dân phố trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_21\"><b>Điều 21. Định\nmức phân bổ chi khác ngân sách</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Phân bổ theo tỷ trọng bằng 0,5%\ntổng các khoản chi thường xuyên đã tính được theo định mức phân bổ (trừ kinh\nphí thực hiện các chính sách an sinh, xã hội và các khoản bổ sung có mục tiêu từ\nngân sách cấp tỉnh).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_22\"><b>Điều 22. Dự\nphòng ngân sách</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Căn cứ dự toán Bộ Tài chính\ngiao và khả năng cân đối của ngân sách địa phương, phân bổ dự phòng ngân sách\ncho các huyện, thị xã, thành phố là 2%, đảm bảo theo quy định của Luật Ngân\nsách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trên cơ sở dự toán chi cân đối\nngân sách địa phương, các huyện, thị xã, thành phố chủ động bố trí dự phòng\nngân sách địa phương đảm bảo theo quy định của Luật Ngân sách nhà nước và không\nthấp hơn dự toán tỉnh giao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">CÁC NĂM TRONG THỜI KỲ ỔN\nĐỊNH NGÂN SÁCH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_23\"><b>Điều 23. Đối\nvới các năm tiếp theo trong thời kỳ ổn định ngân sách</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Hàng năm, nếu phát sinh các\nkhoản chi để thực hiện các chế độ, chính sách của Trung ương và của tỉnh, Ủy\nban nhân dân tỉnh trình Hội đồng nhân dân tỉnh bổ sung có mục tiêu cho ngân\nsách các huyện, thị xã, thành phố để thực hiện.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Trong tổ chức thực hiện đối\nvới dự toán các năm trong thời kỳ ổn định ngân sách, căn cứ tốc độ tăng trưởng\nkinh tế, chỉ số giá tiêu dùng, khả năng thu ngân sách nhà nước và số bổ sung\ncân đối từ ngân sách trung ương cho ngân sách địa phương, bổ sung thêm định mức\nphân bổ chi thường xuyên cho các sở, ngành, địa phương so với năm đầu thời kỳ ổn\nđịnh ngân sách, giao Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét,\nquyết định./.</p>\n\n<p style=\"margin-top:6.0pt\"><b> </b></p>\n\n",
+  "mdContent": "**HỘI ĐỒNG NHÂN DÂN  \nTỈNH BÌNH THUẬN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 12/2021/NQ-HĐND\n\n_Bình Thuận, ngày 08 tháng 12 năm 2012_\n\n**NGHỊ QUYẾT**\n\nBAN HÀNH NGUYÊN TẮC, TIÊU CHÍ VÀ ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI THƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG NĂM 2022 VÀ GIAI ĐOẠN 2022 - 2025 TRÊN ĐỊA BÀN TỈNH\n\n**HỘI ĐỒNG NHÂN DÂN TỈNH BÌNH THUẬN  \nKHÓA XI, KỲ HỌP THỨ 5**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015 và Luật Sửa đổi, bổ sung một số điều Luật Tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22 tháng 11 năm 2019;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020_;\n\n_Căn cứ Luật Ngân sách nhà nước ngày 25 tháng 6 năm 2015;_\n\n_Căn cứ Nghị quyết số 01/2021/UBTVQH15 ngày 01 tháng 9 năm 2021 của Ủy ban Thường vụ Quốc hội quy định về các nguyên tắc, tiêu chí và định mức phân bổ chi thường xuyên ngân sách nhà nước năm 2022;_\n\n_Căn cứ Nghị định số [163/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-163-2016-nd-cp-huong-dan-luat-ngan-sach-nha-nuoc-335331.aspx \"Nghị định 163/2016/NĐ-CP\") ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật Ngân sách nhà nước; Căn cứ Quyết định số [30/2021/QĐ-TTg](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/quyet-dinh-30-2021-qd-ttg-dinh-muc-phan-bo-du-toan-chi-thuong-xuyen-ngan-sach-2022-490760.aspx \"Quyết định 30/2021/QĐ-TTg\") ngày 10 tháng 10 năm 2021 của Thủ tướng Chính phủ về việc ban hành các nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách nhà nước năm 2022;_\n\n_Xét Tờ trình số 4462/TTr-UBND ngày 23 tháng 11 năm 2021 của Ủy ban nhân dân tỉnh về ban hành nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022 và giai đoạn 2022 - 2025 trên địa bàn tỉnh Bình Thuận; Báo cáo thẩm tra số 155/BC-HĐND ngày 30 tháng 11 năm 2021 của Ban Kinh tế - Ngân sách Hội đồng nhân dân tỉnh; ý kiến thảo luận của đại biểu Hội đồng nhân dân tỉnh._\n\n**QUYẾT NGHỊ:**\n\n**Điều 1.** Ban hành kèm theo Nghị quyết này Quy định nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2022 và giai đoạn 2022 - 2025 trên địa bàn tỉnh.\n\n**Điều 2. Tổ chức thực hiện**\n\n1\\. Giao Ủy ban nhân dân tỉnh tổ chức thực hiện Nghị quyết này.\n\n2\\. Thường trực Hội đồng nhân dân tỉnh, các Ban Hội đồng nhân dân tỉnh, các Tổ đại biểu Hội đồng nhân dân tỉnh và đại biểu Hội đồng nhân dân tỉnh giám sát việc thực hiện Nghị quyết này.\n\nNghị quyết này đã được Hội đồng nhân dân tỉnh Bình Thuận khóa XI, kỳ họp thứ 5 thông qua ngày 08 tháng 12 năm 2021 và có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2022, áp dụng đối với năm ngân sách 2022 và giai đoạn 2022 - 2025./.\n\n**_  \nNơi nhận:  \n_**\\- Ủy ban Thường vụ Quốc hội;  \n\\- Chính phủ;  \n\\- Bộ Tài chính;  \n\\- Ban công tác Đại biểu - UBTV Quốc hội;  \n\\- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;  \n\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND, UBND tỉnh; Ban Thường trực UBMTTQVN tỉnh;  \n\\- Đoàn ĐBQH tỉnh Bình Thuận;  \n\\- Các Ban HĐND tỉnh;  \n\\- Đại biểu HĐND tỉnh;  \n\\- Các sở, ban, ngành và đoàn thể cấp tỉnh;  \n\\- Các Văn phòng: ĐĐBQH và HĐND tỉnh, UBND tỉnh;  \n\\- HĐND và UBND các huyện, thị xã, thành phố;  \n\\- Cổng Thông tin điện tử Chính phủ;  \n\\- Trung tâm Thông tin tỉnh;  \n\\- Lưu: VT. Duy\n\n**CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Hoài Anh**\n\n**QUY ĐỊNH**\n\nNGUYÊN TẮC, TIÊU CHÍ VÀ ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI THƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG NĂM 2022 VÀ GIAI ĐOẠN 2022 - 2025 TRÊN ĐỊA BÀN TỈNH  \n_(Ban hành kèm theo Nghị quyết số 12/2021/NQ-HĐND ngày 08 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh)_\n\n**Chương I**\n\n**PHẠM VI, ĐỐI TƯỢNG, NGUYÊN TẮC ÁP DỤNG VÀ PHƯƠNG PHÁP XÁC ĐỊNH MỘT SỐ TIÊU CHÍ, CĂN CỨ CỦA ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI THƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Phạm vi điều chỉnh:\n\na) Nghị quyết này quy định nguyên tắc, tiêu chí và định mức phân bổ dự toán chi thường xuyên ngân sách địa phương áp dụng cho năm ngân sách 2022, năm đầu của thời kỳ ổn định ngân sách mới bắt đầu từ năm 2022 theo Nghị quyết số 122/2020/QH14 ngày 19 tháng 6 năm 2020 của Quốc hội.\n\nb) Đối với các năm trong thời kỳ ổn định ngân sách 2022 - 2025, thực hiện theo quy định của Luật Ngân sách nhà nước và các quy định áp dụng cho thời kỳ ổn định ngân sách tại Nghị quyết này.\n\n2\\. Đối tượng áp dụng:\n\na) Cơ quan Đảng, cơ quan quản lý hành chính nhà nước, tổ chức chính trị - xã hội, đơn vị sự nghiệp công lập và các cơ quan khác ở tỉnh; các huyện, thị xã, thành phố trên địa bàn tỉnh Bình Thuận.\n\nb) Cơ quan, tổ chức, cá nhân khác có liên quan đến lập, phân bổ, chấp hành dự toán chi thường xuyên ngân sách địa phương.\n\n**Điều 2. Nguyên tắc áp dụng định mức**\n\n1\\. Định mức phân bổ dự toán chi thường xuyên ngân sách địa phương ban hành kèm theo Quy định này là cơ sở để xây dựng dự toán chi ngân sách của từng sở, ngành, các huyện, thị xã, thành phố (bao gồm cấp huyện và ngân sách cấp xã).\n\n2\\. Định mức phân bổ dự toán chi thường xuyên bao gồm:\n\na) Định mức phân bổ đã bao gồm toàn bộ nhu cầu kinh phí thực hiện các chế độ, chính sách do Trung ương và địa phương ban hành (trừ những trường hợp có quy định riêng ngoài định mức kinh phí hoạt động) và các khoản chi phí thường xuyên đảm bảo cho hoạt động của cơ quan, đơn vị thực hiện đầy đủ chức năng nhiệm vụ được giao. Định mức phân bổ theo số biên chế được giao theo phê duyệt của cấp có thẩm quyền, trong đó đã cơ cấu thêm kinh phí hoạt động của lao động hợp đồng theo Nghị định số [68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp. Định mức phân bổ đã bao gồm các khoản tiết kiệm để thực hiện cải cách tiền lương hoặc tiết kiệm để thực hiện các nhiệm vụ khác theo quyết định điều hành hàng năm của Bộ Tài chính (nếu có).\n\nb) Các khoản chi hành chính phục vụ hoạt động thường xuyên bộ máy các cơ quan: Khen thưởng theo chế độ, phúc lợi tập thể; thông tin, tuyên truyền, liên lạc; công tác phí, hội nghị, tổng kết; đoàn ra, đoàn vào; vật tư văn phòng, thanh toán dịch vụ công cộng; chi thuê mướn; chi ứng dụng công nghệ thông tin; vận hành trụ sở cơ quan; chi hỗ trợ hoạt động công tác Đảng, đoàn thể trong cơ quan (bao gồm phụ cấp cấp ủy, an ninh quốc phòng, dân quân tự vệ, phòng cháy chữa cháy,…).\n\nc) Các khoản chi nghiệp vụ mang tính thường xuyên phát sinh hàng năm của đơn vị: Chi nghiệp vụ chuyên môn quản lý ngành, lĩnh vực; chi xây dựng, tập huấn, tuyên truyền phổ biến giáo dục pháp luật; chi hoạt động thanh tra, kiểm tra, giám sát; chi đào tạo, chi tập huấn bồi dưỡng nghiệp vụ chuyên môn; rà soát văn bản quy phạm pháp luật; duy trì, vận hành trang thông tin điện tử, công tác văn thư lưu trữ, cải cách thủ tục hành chính, hoạt động ISO.\n\nd) Kinh phí duy tu sửa chữa tài sản phục vụ công tác chuyên môn và bảo dưỡng thường xuyên các công trình cơ sở hạ tầng; kinh phí mua sắm trang thiết bị dạy học; kinh phí mua sắm, thay thế trang thiết bị phương tiện làm việc của cán bộ, công chức và máy móc, thiết bị văn phòng phổ biến (trừ máy photocopy) phục vụ công tác hành chính, văn thư, tiếp dân, bộ phận một cửa của cơ quan, tổ chức, đơn vị theo Quyết định số [50/2017/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-50-2017-qd-ttg-quy-dinh-tieu-chuan-dinh-muc-su-dung-may-moc-thiet-bi-354149.aspx \"Quyết định 50/2017/QĐ-TTg\") ngày 31 tháng 12 năm 2017 của Thủ tướng Chính phủ về quy định tiêu chuẩn, định mức sử dụng máy móc, thiết bị.\n\nđ) Các khoản chi khác phục vụ hoạt động thường xuyên của cơ quan, đơn vị.\n\ne) Trường hợp dự toán chi thường xuyên ngân sách tính theo nguyên tắc, tiêu chí và định mức năm 2022 thấp hơn dự toán năm 2021 đã được Hội đồng nhân dân tỉnh quyết định, sẽ được hỗ trợ để đảm bảo không thấp hơn.\n\n3\\. Định mức phân bổ dự toán chi thường xuyên không bao gồm:\n\na) Chi tiền lương, phụ cấp, các khoản có tính chất lương (bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn) theo quy định hiện hành của số biên chế và lao động hợp đồng theo Nghị định số [68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17 tháng 11 năm 2000 của Chính phủ được cấp có thẩm quyền giao.\n\nb) Các khoản chi đặc thù chung của các sở, ngành, địa phương, bao gồm: Đóng niên liễm; kinh phí đối ứng của các dự án; chi thuê trụ sở; chi tổ chức Đại hội các cấp, Hội nghị, hội thảo cấp khu vực, cấp tỉnh, cấp huyện và cấp xã được cấp thẩm quyền quyết định; chi khen thưởng của ngành hàng năm; chi công tác xây dựng văn bản quy phạm pháp luật; chi hoạt động của các Ban chỉ đạo, Ban điều phối, Đoàn kiểm tra liên ngành được Ủy ban nhân dân các cấp quyết định thành lập; chi mua ô tô, sửa chữa lớn trụ sở; kinh phí mua sắm trang thiết bị, phương tiện làm việc theo Đề án được cấp có thẩm quyền phê duyệt.\n\nc) Các khoản chi đặc thù mang tính chất riêng biệt của các cơ quan không đưa được vào định mức phân bổ: Trang phục thanh tra theo quy định của nhà nước; kinh phí được trích để lại chi phục vụ công tác thu theo chế độ quy định; chi phục vụ hoạt động của Thường trực Tỉnh ủy, Huyện, Thị, Thành ủy, Thường trực Hội đồng nhân dân, Đoàn đại biểu Quốc hội, Ủy ban nhân dân; chi hoạt động của Đại biểu Hội đồng nhân dân được phân bổ dự toán hàng năm theo khả năng ngân sách trên cơ sở khối lượng công việc, định mức, chế độ, tiêu chuẩn và các nhiệm vụ được phê duyệt; các đề án, chương trình, kế hoạch theo chỉ đạo của Tỉnh ủy, Ủy ban nhân dân tỉnh; chế độ, chính sách và nhiệm vụ phát sinh không thường xuyên khác được cấp có thẩm quyền phê duyệt.\n\nd) Chi bảo đảm các hoạt động sự nghiệp và các hoạt động phục vụ chung của tỉnh như: Quản lý bảo vệ rừng, nông nghiệp, thủy sản; duy tu bảo dưỡng đường bộ, an toàn giao thông; quy hoạch, môi trường; trợ giá trợ cước; bảo tồn, bảo tàng, di tích, nghĩa trang, đảm bảo xã hội, thư viện; hoạt động xúc tiến đầu tư, thương mại, du lịch; hoạt động của các đội tuyển thể dục thể thao; hoạt động khoa học và công nghệ, thẩm định, phản biện; chương trình công nghệ thông tin; Trung tâm lưu trữ, Trung tâm thông tin, tích hợp dữ liệu, hành chính công; chi đặt hàng, giao nhiệm vụ;…được bố trí từ kinh phí sự nghiệp theo dự toán và khả năng cân đối của ngân sách tỉnh.\n\n4\\. Thực hiện phân bổ chi thường xuyên ngân sách địa phương năm 2022 và giai đoạn 2022 - 2025 cho các lĩnh vực sự nghiệp căn cứ chức năng, nhiệm vụ được giao, định hướng đổi mới khu vực sự nghiệp công lập theo Nghị quyết số 19-NQ/TW ngày 25 tháng 10 năm 2017 của Hội nghị lần thứ 6 Ban Chấp hành Trung ương khóa XII về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của các đơn vị sự nghiệp công lập; Nghị định số [60/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-60-2021-nd-cp-co-che-tu-chu-tai-chinh-cua-don-vi-su-nghiep-cong-lap-478766.aspx \"Nghị định 60/2021/NĐ-CP\") ngày 21 tháng 6 năm 2021 của Chính phủ về quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập và các quy định của pháp luật về việc giao nhiệm vụ, đặt hàng, đấu thầu cung cấp sản phẩm dịch vụ sự nghiệp công, trong đó:\n\na) Đơn vị sự nghiệp công lập tự bảo đảm toàn bộ chi đầu tư và chi thường xuyên, đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên: Ngân sách địa phương không hỗ trợ chi thường xuyên. Đơn vị thực hiện báo cáo đầy đủ nguồn thu, nhiệm vụ chi năm hiện hành và dự kiến năm kế hoạch; gửi cơ quan quản lý cấp trên tổng hợp, gửi Sở Tài chính cùng thời điểm xây dựng dự toán ngân sách nhà nước hàng năm.\n\nb) Đơn vị sự nghiệp công lập tự đảm bảo một phần chi thường xuyên: Ngân sách địa phương hỗ trợ chi thường xuyên sau khi đơn vị đã sử dụng nguồn thu sự nghiệp và nguồn thu phí được để lại chi để thực hiện nhiệm vụ, cung ứng dịch vụ sự nghiệp công lập chưa tính đủ chi phí; đồng thời, dành nguồn thu sự nghiệp của đơn vị để thực hiện cải cách tiền lương theo quy định.\n\nc) Đơn vị sự nghiệp công lập do nhà nước đảm bảo chi thường xuyên: Được vận dụng nguyên tắc phân bổ như đối với lĩnh vực chi quản lý nhà nước, đảng, đoàn thể.\n\nd) Hàng năm, trong thời kỳ ổn định ngân sách 2022 - 2025, căn cứ kết quả thực hiện Nghị định số [60/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-60-2021-nd-cp-co-che-tu-chu-tai-chinh-cua-don-vi-su-nghiep-cong-lap-478766.aspx \"Nghị định 60/2021/NĐ-CP\") ngày 21 tháng 6 năm 2021 của Chính phủ và các văn bản pháp luật có liên quan, xác định phần giảm chi ngân sách nhà nước hỗ trợ cho các đơn vị sự nghiệp công lập để thực hiện cải cách tiền lương trên địa bàn.\n\n6\\. Trong quá trình phân bổ, quản lý, sử dụng kinh phí ngân sách địa phương, Thủ trưởng các sở, ngành, địa phương phải quán triệt thực hành tiết kiệm, chống lãng phí, cải cách hành chính; thực hiện chủ trương cơ cấu lại thu - chi ngân sách nhà nước và nợ công theo Nghị quyết số 07-NQ/TW ngày 18 tháng 11 năm 2016 của Bộ Chính trị về chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc gia an toàn, bền vững; Nghị quyết số [51/NQ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-51-nq-cp-2017-chu-truong-giai-phap-co-cau-lai-ngan-sach-quan-ly-no-cong-352345.aspx \"Nghị quyết 51/NQ-CP\") ngày 19 tháng 6 năm 2017 của Chính phủ về ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 07-NQ/TW ngày 18 tháng 11 năm 2016 của Bộ Chính trị về chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc gia an toàn, bền vững; sắp xếp bộ máy, tổ chức bộ máy, đổi mới tổ chức, nâng cao chất lượng và hiệu quả của các đơn vị sự nghiệp công lập, sắp xếp lại các đơn vị hành chính cấp huyện, xã, tinh giản biên chế, thực hiện Đề án cải cách tiền lương theo Nghị quyết của Ban Chấp hành Trung ương khóa XII; thực hiện công khai, minh bạch ngân sách theo quy định; xác định rõ trách nhiệm của từng cơ quan, đơn vị và người đứng đầu trong quản lý, sử dụng ngân sách địa phương.\n\n**Điều 3. Phương pháp xác định một số tiêu chí, căn cứ của định mức phân bổ dự toán chi thường xuyên ngân sách địa phương**\n\n1\\. Tiêu chí biên chế:\n\na) Biên chế cán bộ, công chức, người làm việc hưởng lương từ ngân sách nhà nước trong đơn vị sự nghiệp công lập, biên chế trong các tổ chức hội được cấp có thẩm quyền giao.\n\nb) Số lượng cán bộ, công chức xã, phường, thị trấn theo Quyết định số [22/2020/QĐ-UBND](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-22-2020-qd-ubnd-bo-tri-so-luong-can-bo-cong-chuc-xa-phuong-thi-tran-binh-thuan-449163.aspx \"Quyết định 22/2020/QĐ-UBND\") ngày 31 tháng 7 năm 2020 của Ủy ban nhân dân tỉnh về việc quy định việc bố trí số lượng cán bộ, công chức xã, phường, thị trấn trên địa bàn tỉnh.\n\n2\\. Tiêu chí số học sinh ở các Trường Cao đẳng Cộng đồng, Trường Cao đẳng Nghề, Trường Cao đẳng Y tế được cấp có thẩm quyền phê duyệt.\n\n3\\. Tiêu chí huyện (trong đó có huyện đảo), thị xã, thành phố.\n\n4\\. Tiêu chí xã, phường, thị trấn; xã trọng điểm, phức tạp về an ninh, trật tự và xã, phường, thị trấn trọng điểm về quốc phòng và an ninh theo Quyết định của cấp có thẩm quyền.\n\n5\\. Tiêu chí người thuộc hộ gia đình nghèo: Số người thuộc hộ gia đình nghèo được xác định trên cơ sở quyết định của Bộ Lao động - Thương binh và Xã hội về số hộ nghèo năm 2020 theo chuẩn nghèo quy định tại Quyết định số [59/2015/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-59-2015-qd-ttg-chuan-ngheo-tiep-can-da-chieu-ap-dung-2016-2020-296044.aspx \"Quyết định 59/2015/QĐ-TTg\") ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020.\n\n**Chương II**\n\n**ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI THƯỜNG XUYÊN CHO CÁC SỞ, BAN, NGÀNH, ĐOÀN THỂ CẤP TỈNH**\n\n**Điều 4. Định mức phân bổ dự toán chi quản lý nhà nước, đảng, đoàn thể cấp tỉnh**\n\nÁp dụng định mức tính theo từng bậc biên chế đối với các sở, ban, ngành, đoàn thể cấp tỉnh. Số biên chế do cơ quan có thẩm quyền giao cho từng sở, ban, ngành, đoàn thể cấp tỉnh được chia thành 02 bậc khác nhau với quy mô biên chế bậc đầu tiên là từ 30 biên chế trở xuống và biên chế bậc thứ hai là từ biên chế thứ 31 trở lên. Định mức phân bổ ngân sách giảm dần theo các bậc biên chế, cụ thể như sau:\n\n1\\. Cơ quan Đảng, các Hội, đoàn thể được giao biên chế; cơ quan cấp sở, ban, ngành và tương đương:\n\nTừ 30 biên chế trở xuống: 29 triệu đồng/biên chế.\n\nTừ biên chế thứ 31 trở lên: 27 triệu đồng/biên chế.\n\n2\\. Cơ quan, đơn vị trực thuộc các sở, ban, ngành, đoàn thể: 27 triệu đồng/biên chế.\n\n**Điều 5. Định mức phân bổ chi sự nghiệp giáo dục**\n\n1\\. Định mức phân bổ chi sự nghiệp giáo dục:\n\na) Áp dụng định mức tính theo từng bậc lớp học của các Trường. Số lớp học của các Trường được chia thành 03 bậc khác nhau với quy mô số lớp học của bậc đầu tiên là từ 20 lớp trở xuống, bậc thứ hai là từ lớp thứ 21 đến lớp thứ 40 và bậc thứ ba là từ lớp thứ 41 trở lên. Định mức phân bổ ngân sách giảm dần theo các bậc lớp học, cụ thể:\n\nTừ 20 lớp trở xuống: 18 triệu đồng/lớp.\n\nTừ lớp thứ 21 đến lớp thứ 40: 16,5 triệu đồng/lớp.\n\nTừ lớp thứ 41 trở lên: 15 triệu đồng/lớp.\n\nb) Hỗ trợ đối với các trường xa đơn vị chủ quản (khoảng cách từ trường đến Sở Giáo dục và Đào tạo trên 15km): 75 triệu đồng/trường/năm.\n\nc) Hỗ trợ Trường Trung học phổ thông Ngô Quyền (huyện Phú Quý): 300 triệu đồng/năm.\n\n2\\. Định mức nêu trên chưa tính trừ nguồn thu học phí và các nguồn thu khác. Sau khi tính theo định mức và cân đối các nguồn thu được để lại, ngân sách cấp bổ sung phần chênh lệch còn thiếu.\n\n**Điều 6. Định mức phân bổ chi sự nghiệp đào tạo và dạy nghề**\n\n1\\. Đối với các Trường: Cao đẳng Cộng đồng, Cao đẳng Y tế, Cao đẳng Nghề, định mức phân bổ theo số học sinh, cụ thể như sau:\n\na) Đối với Trường Cao đẳng Cộng đồng:\n\nHệ Cao đẳng khối kỹ thuật, du lịch: 2,6 triệu đồng/học sinh/năm.\n\nHệ Cao đẳng nghề: 3,4 triệu đồng/học sinh/năm.\n\nHệ Cao đẳng sư phạm: 2,6 triệu đồng/học sinh/năm.\n\nHệ Cao đẳng ngành học khác: 2,6 triệu đồng/học sinh/năm.\n\nHệ Trung cấp ngành học khác: 2,4 triệu đồng/học sinh/năm.\n\nHệ Trung cấp khối kỹ thuật, du lịch: 2,4 triệu đồng/học sinh/năm.\n\nb) Đối với Trường Cao đẳng Y tế:\n\nHệ Cao đẳng: 3,6 triệu đồng/học sinh/năm.\n\nHệ Trung cấp: 3,2 triệu đồng/học sinh/năm.\n\nc) Đối với Trường Cao đẳng Nghề:\n\nHệ Cao đẳng: 3,4 triệu đồng/học sinh/năm.\n\nHệ Trung cấp: 3,2 triệu đồng/học sinh/năm.\n\nd) Định mức nêu trên tính theo kế hoạch đào tạo, quyết toán theo số học sinh thực tế đào tạo (theo số học sinh có mặt đầu học kỳ) trong phạm vi kế hoạch được giao.\n\n2\\. Đối với Trường Chính trị tỉnh, định mức phân bổ theo số biên chế là 28 triệu đồng/biên chế/năm.\n\n3\\. Đối với Trung tâm Đào tạo, huấn luyện và thi đấu thể dục thể thao tỉnh, định mức phân bổ theo số biên chế là 20 triệu đồng/biên chế/năm.\n\n**Điều 7. Định mức phân bổ chi sự nghiệp y tế**\n\n1\\. Đối với các đơn vị khối khám chữa bệnh (trừ các đơn vị tự bảo đảm chi thường xuyên, bảo đảm chi thường xuyên và chi đầu tư): Ngân sách cấp kinh phí chưa kết cấu đủ vào giá (trong đó, định mức chi hoạt động của bộ phận quản lý là 20 triệu đồng/biên chế; riêng đối với huyện Phú Quý là 26 triệu đồng/biên chế). Trên cơ sở nguồn thu, sau khi cân đối ngân sách cấp hỗ trợ chênh lệch thiếu theo lộ trình và cơ chế tự chủ đơn vị sự nghiệp công lập. Đối với các đơn vị có nguồn thu thấp, ngân sách xem xét hỗ trợ để bảo đảm tiền lương và hoạt động của đơn vị.\n\n2\\. Đối với các đơn vị làm công tác dự phòng, dân số, kế hoạch hóa gia đình: Ngân sách bảo đảm kinh phí hoạt động theo định mức tuyến tỉnh: 20 triệu đồng/biên chế; tuyến huyện: 18 triệu đồng/biên chế; tuyến xã: 11 triệu đồng/biên chế. Riêng đối với huyện Phú Quý: 26 triệu đồng/biên chế dự phòng; 23 triệu đồng/biên chế dân số, kế hoạch hóa gia đình; 21 triệu đồng/biên chế y tế xã.\n\n3\\. Đối với các đơn vị thực hiện 02 chức năng khám chữa bệnh và công tác dự phòng (trừ các đơn vị tự bảo đảm chi thường xuyên, bảo đảm chi thường xuyên và chi đầu tư): Tính kinh phí chưa kết cấu đủ vào giá (đối với hoạt động khám chữa bệnh); kinh phí hoạt động cho công tác dự phòng (tính theo biên chế giao cho công tác dự phòng) theo định mức nêu trên.\n\n**Điều 8. Định mức phân bổ chi đối với các sự nghiệp khác**\n\nĐịnh mức chi hoạt động của đơn vị sự nghiệp công lập là 21 triệu đồng/biên chế/năm. Định mức trên để xây dựng dự toán chi thường xuyên; ngân sách hỗ trợ kinh phí hàng năm theo quyết định giao tự chủ tài chính của giai đoạn đã được cấp có thẩm quyền phê duyệt theo nguyên tắc giảm dần hỗ trợ từ ngân sách.\n\n**Điều 9. Định mức phân bổ chi an ninh, quốc phòng**\n\nCăn cứ yêu cầu nhiệm vụ theo phân cấp và nhu cầu thực hiện các đề án, các chế độ, chính sách, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả năng cân đối ngân sách.\n\n**Chương III**\n\n**ĐỊNH MỨC PHÂN BỔ DỰ TOÁN CHI THƯỜNG XUYÊN NGÂN SÁCH ĐỊA PHƯƠNG CHO CÁC HUYỆN, THỊ XÃ, THÀNH PHỐ**\n\n**Điều 10. Định mức phân bổ chi hoạt động kinh tế**\n\n1\\. Định mức phân bổ chi hoạt động, phân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:\n\n_Đơn vị: Triệu đồng/biên chế/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n21\n\nHuyện đảo\n\n23\n\n2\\. Đối với kinh phí hỗ trợ chi sự nghiệp kinh tế, phân bổ theo các tiêu chí, cụ thể như sau:\n\na) Sự nghiệp nông nghiệp, phân bổ theo tiêu chí các huyện, thị xã, thành phố:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện\n\n450\n\nThị xã La Gi\n\n400\n\nThành phố Phan Thiết\n\n350\n\nHuyện đảo\n\n250\n\nb) Sự nghiệp lâm nghiệp, phân bổ theo tiêu chí các xã có rừng với mức phân bổ 20 triệu đồng/xã/năm.\n\nc) Sự nghiệp giao thông, phân bổ theo tiêu chí các huyện, thị xã, thành phố:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nThành phố Phan Thiết\n\n2.000\n\nThị xã La Gi\n\n1.500\n\nCác huyện\n\n1.000\n\nd) Sự nghiệp kiến thiết thị chính, phân bổ kinh phí hỗ trợ tiền điện chiếu sáng theo tiêu chí các huyện, thị xã, thành phố:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nThành phố Phan Thiết\n\n27.000\n\nThị xã La Gi\n\n4.500\n\nCác huyện\n\n2.500\n\nHuyện đảo\n\n1.200\n\nđ) Các hoạt động kinh tế khác, phân bổ theo tiêu chí huyện, thị xã, thành phố và các xã, phường, thị trấn, cụ thể:\n\nNgân sách cấp huyện: 50 triệu đồng/huyện, thị xã, thành phố/năm.\n\nNgân sách xã, phường, thị trấn: 10 triệu đồng/xã, phường, thị trấn/năm.\n\n3\\. Định mức phân bổ theo tiêu chí bổ sung:\n\na) Kinh phí lập kế hoạch sử dụng đất hàng năm; kinh phí hỗ trợ thanh toán nợ quy hoạch theo khả năng cân đối của ngân sách tỉnh.\n\nb) Kinh phí hỗ trợ địa phương sản xuất lúa xác định trên cơ sở mức hỗ trợ và diện tích đất trồng lúa Bộ Tài nguyên và Môi trường công bố theo quy định tại khoản 2 và 3 Điều 7 Nghị định số [35/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-35-2015-nd-cp-ve-quan-ly-su-dung-dat-trong-lua-271072.aspx \"Nghị định 35/2015/NĐ-CP\") ngày 13 tháng 4 năm 2015 của Chính phủ về quản lý, sử dụng đất trồng lúa; Nghị định số [62/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-62-2019-nd-cp-sua-doi-nghi-dinh-35-2015-nd-cp-ve-quan-ly-su-dung-dat-trong-lua-418633.aspx \"Nghị định 62/2019/NĐ-CP\") ngày 11 tháng 7 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều Nghị định số [35/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-35-2015-nd-cp-ve-quan-ly-su-dung-dat-trong-lua-271072.aspx \"Nghị định 35/2015/NĐ-CP\") .\n\nc) Kinh phí thực hiện phòng, chống dịch bệnh động vật trên cạn theo Kế hoạch được Ủy ban nhân dân tỉnh phê duyệt.\n\nd) Kinh phí duy tu, bảo dưỡng hệ thống đèn chiếu sáng, vỉa hè, hệ thống cấp nước, thoát nước, công viên cây xanh; kinh phí bảo trì, sửa chữa các công trình giao thông: Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả năng cân đối ngân sách.\n\n**Điều 11. Định mức phân bổ chi sự nghiệp giáo dục**\n\n1\\. Đối với các trường mầm non, trường tiểu học, trường trung học cơ sở, phân bổ theo tiêu chí số trường học và số lớp học, cụ thể:\n\na) Phân bổ theo tiêu chí trường học:\n\n_Đơn vị: Triệu đồng/trường/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ theo cấp học**\n\n**Mầm non**\n\n**Tiểu học**\n\n**THCS**\n\nCác huyện, thị xã, thành phố\n\n70\n\n100\n\n130\n\nHuyện đảo\n\n140\n\n200\n\n260\n\nb) Phân bổ theo tiêu chí số lớp học: Các huyện, thị xã, thành phố phân bổ theo định mức 8 triệu đồng/lớp/năm. Huyện đảo phân bổ theo định mức 12 triệu đồng/lớp/năm.\n\nc) Đối với trường có dưới 10 lớp, sau khi phân bổ theo tiêu chí tại điểm a và b khoản 1 Điều này được bố trí đảm bảo không thấp hơn 150 triệu đồng/trường/năm (đối với trường mầm non), 180 triệu đồng/trường/năm (đối với trường tiểu học) và 210 triệu đồng/trường/năm (đối với trường trung học cơ sở).\n\nd) Đối với các Trường có sắp xếp lại và thành lập trường mới có nhiều cấp học:\n\nTrường hợp sắp xếp, sáp nhập 02 hoặc nhiều trường cùng cấp học thì trường (tại cơ sở chính) tính 100% định mức, các trường còn lại (trước sáp nhập) tính bằng 95% định mức.\n\nTrường hợp sắp xếp, sáp nhập khác cấp học thì trường có cấp học cao nhất tính 100% định mức, các trường có cấp học thấp hơn (trước sáp nhập) tính bằng 95% định mức của cấp đó.\n\nđ) Đối với những trường cách xa trung tâm huyện lỵ (khoảng cách từ trường đến trung tâm huyện lỵ trên 15km): Bố trí thêm 15 triệu đồng/trường/năm.\n\ne) Đối với trường ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn: Bố trí thêm 20 triệu đồng/trường/năm.\n\ng) Đối với trường có nhiều điểm trường lẻ: Bố trí thêm 15 triệu đồng/điểm trường lẻ/năm.\n\n2\\. Đối với Trường Phổ thông Dân tộc nội trú: 280 triệu đồng/năm.\n\n3\\. Kinh phí tổ chức các hoạt động chung của ngành Giáo dục: Phân bổ theo định mức 1.000 triệu đồng/huyện, thị xã, thành phố/năm.\n\n4\\. Kinh phí hỗ trợ nâng cấp, sửa chữa, mua sắm trang thiết bị trường học phục vụ chương trình đổi mới giáo dục phổ thông; kinh phí triển khai các phần mềm phục vụ công tác giáo dục do Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả năng cân đối ngân sách.\n\n5\\. Định mức phân bổ theo tiêu chí bổ sung:\n\na) Chính sách phát triển giáo dục mầm non theo Nghị định số [105/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-105-2020-nd-cp-quy-dinh-chinh-sach-phat-trien-giao-duc-mam-non-452005.aspx \"Nghị định 105/2020/NĐ-CP\") ngày 08 tháng 9 năm 2020 của Chính phủ về quy định chính sách phát triển giáo dục mầm non.\n\nb) Kinh phí học bổng cho học sinh dân tộc nội trú theo Thông tư liên tịch số 109/2009/TTLT-BTC-BGDĐT ngày 29 tháng 5 năm 2009 của Bộ Tài chính, Bộ Giáo dục và Đào tạo về hướng dẫn một số chế độ tài chính đối với học sinh các trường phổ thông dân tộc nội trú và các trường dự bị đại học dân tộc.\n\nc) Chính sách giáo dục đối với người khuyết tật theo quy định tại Thông tư liên tịch số 42/2013/TTLT-BGDĐT-BLĐTBXH-BTC ngày 31 tháng 12 năm 2013 của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, Bộ Tài chính về quy định chính sách về giáo dục đối với người khuyết tật.\n\nd) Hỗ trợ học sinh và trường phổ thông ở xã, thôn đặc biệt khó khăn theo Nghị định số [116/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-duc/nghi-dinh-116-2016-nd-cp-chinh-sach-ho-tro-hoc-sinh-truong-pho-thong-o-xa-thon-dac-biet-kho-khan-317616.aspx \"Nghị định 116/2016/NĐ-CP\") ngày 18 tháng 7 năm 2016 của Chính phủ về quy định chính sách hỗ trợ học sinh và trường phổ thông ở xã, thôn đặc biệt khó khăn.\n\nđ) Hỗ trợ kinh phí miễn giảm học phí và hỗ trợ chi phí học tập theo Nghị định số [81/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-81-2021-nd-cp-quan-ly-hoc-phi-doi-voi-co-so-giao-duc-thuoc-he-thong-giao-duc-quoc-dan-457392.aspx \"Nghị định 81/2021/NĐ-CP\") ngày 27 tháng 8 năm 2021 của Chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập; giá dịch vụ trong lĩnh vực giáo dục, đào tạo.\n\ne) Kinh phí hỗ trợ đối với trẻ mẫu giáo, học sinh và sinh viên dân tộc thiểu số rất ít người theo Nghị định số [57/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/giao-duc/nghi-dinh-57-2017-nd-cp-uu-tien-tuyen-sinh-ho-tro-hoc-tap-tre-mau-giao-hoc-sinh-sinh-vien-dan-toc-348922.aspx \"Nghị định 57/2017/NĐ-CP\") ngày 09 tháng 5 năm 2017 của Chính phủ về quy định chính sách ưu tiên tuyển sinh và hỗ trợ học tập đối với trẻ mẫu giáo, học sinh, sinh viên dân tộc thiểu số rất ít người.\n\ng) Kinh phí hỗ trợ cho học sinh, sinh viên dân tộc thiểu số trên địa bàn tỉnh theo Nghị quyết số [04/2021/NQ-HĐND](/phap-luat/tim-van-ban.aspx?keyword=04/2021/NQ-HĐND&match=True&area=2&lan=1&bday=17/8/2021&eday=17/8/2021 \"04/2021/NQ-HĐND\") ngày 17 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh về quy định chế độ hỗ trợ cho học sinh, sinh viên dân tộc thiểu số trên địa bàn tỉnh.\n\nh) Kinh phí chi cho hợp đồng thuê khoán nấu ăn đối với bậc học mầm non thực hiện theo quy định của Chính phủ về mức lương tối thiểu vùng đối với người lao động làm việc theo hợp đồng lao động. Về số lượng hợp đồng thuê khoán nấu ăn, Ủy ban nhân dân tỉnh phê duyệt số lượng người theo quy định tại khoản 14 Điều 6 Thông tư liên tịch số [06/2015/TTLT-BGDĐT-BNV](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-lien-tich-06-2015-ttlt-bgddt-bnv-dinh-muc-so-luong-nguoi-lam-viec-o-co-so-giao-duc-mam-non-270112.aspx \"Thông tư liên tịch 06/2015/TTLT-BGDĐT-BNV\") ngày 16 tháng 3 năm 2015 của Bộ Giáo dục và Đào tạo - Bộ Nội vụ quy định về danh mục khung vị trí việc làm và định mức số lượng người làm việc trong các cơ sở giáo dục mầm non công lập.\n\n**Điều 12. Định mức phân bổ chi sự nghiệp đào tạo và dạy nghề**\n\n1\\. Đối với kinh phí chi hoạt động, phân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:\n\n_Đơn vị: Triệu đồng/biên chế/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n21\n\nHuyện đảo\n\n23\n\n2\\. Đối với kinh phí hỗ trợ chi sự nghiệp đào tạo và dạy nghề, phân bổ theo tiêu chí huyện, thị xã, thành phố:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nThành phố Phan Thiết\n\n470\n\nCác huyện, thị xã\n\n370\n\nHuyện đảo\n\n270\n\n**Điều 13. Định mức phân bổ chi sự nghiệp văn hóa - thông tin**\n\n1\\. Đối với kinh phí chi hoạt động, phân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:\n\n_Đơn vị: Triệu đồng/biên chế/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n21\n\nHuyện đảo\n\n23\n\n2\\. Đối với kinh phí hỗ trợ chi sự nghiệp văn hóa - thông tin, phân bổ theo tiêu chí huyện, thị xã, thành phố và tiêu chí xã, phường, thị trấn:\n\na) Đối với ngân sách cấp huyện:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nThành phố Phan Thiết\n\n1.350\n\nThị xã La Gi\n\n400\n\nCác huyện\n\n280\n\nb) Ngân sách xã, phường, thị trấn: 30 triệu đồng/xã, phường, thị trấn.\n\n3\\. Định mức phân bổ theo tiêu chí bổ sung, bao gồm:\n\na) Kinh phí thực hiện Đề án tổ chức lễ hội giỗ Tổ các vua Hùng tại đền thờ Hùng Vương, thị trấn Phan Rí Cửa, huyện Tuy Phong theo Quyết định số 1575/QĐ-UBND ngày 12 tháng 6 năm 2017 của Ủy ban nhân dân tỉnh về phê duyệt Đề án tổ chức lễ hội giỗ Tổ các vua Hùng tại đền thờ Hùng Vương, thị trấn Phan Rí Cửa, huyện Tuy Phong.\n\nb) Kinh phí thờ cúng Hoàng tộc Chăm, huyện Bắc Bình.\n\nc) Kinh phí xây dựng, quản lý, khai thác tủ sách pháp luật.\n\nd) Kinh phí thực hiện phong trào “Toàn dân đoàn kết xây dựng đời sống văn hóa”.\n\nđ) Kinh phí thực hiện Cuộc vận động “Toàn dân đoàn kết xây dựng nông thôn mới, đô thị văn minh” đối với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã và Ban công tác Mặt trận ở khu dân cư trên địa bàn tỉnh theo Nghị quyết số [60/2018/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-60-2018-nq-hdnd-ho-tro-kinh-phi-xay-dung-nong-thon-moi-do-thi-van-minh-binh-thuan-390038.aspx \"Nghị quyết 60/2018/NQ-HĐND\") ngày 20 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh.\n\ne) Kinh phí mua báo Đại Đoàn kết.\n\n**Điều 14. Định mức phân bổ chi sự nghiệp phát thanh, truyền hình**\n\n1\\. Đối với kinh phí chi hoạt động, phân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:\n\n_Đơn vị: Triệu đồng/biên chế/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n21\n\nHuyện đảo\n\n23\n\n2\\. Đối với kinh phí hỗ trợ chi sự nghiệp phát thanh, truyền hình, phân bổ theo tiêu chí huyện, thị xã, thành phố và tiêu chí xã, phường, thị trấn:\n\na) Đối với ngân sách cấp huyện:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n250\n\nHuyện đảo\n\n200\n\nHàng năm, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hỗ trợ thêm kinh phí nâng cấp, bảo trì, sửa chữa hệ thống truyền thanh cơ sở theo khả năng cân đối ngân sách.\n\nb) Ngân sách xã, phường, thị trấn: 10 triệu đồng/xã, phường, thị trấn/năm.\n\n**Điều 15. Định mức phân bổ chi sự nghiệp thể dục thể thao**\n\n1\\. Đối với kinh phí chi hoạt động, phân bổ theo tiêu chí người làm việc trong các đơn vị sự nghiệp công lập:\n\n_Đơn vị: Triệu đồng/biên chế/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n21\n\nHuyện đảo\n\n23\n\n2\\. Đối với kinh phí hỗ trợ chi sự nghiệp thể dục thể thao, phân bổ theo tiêu chí huyện, thị xã, thành phố và tiêu chí xã, phường, thị trấn:\n\na) Đối với ngân sách cấp huyện:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n200\n\nHuyện đảo\n\n150\n\nb) Ngân sách xã, phường, thị trấn: 10 triệu đồng/xã, phường, thị trấn/năm.\n\n**Điều 16. Định mức phân bổ chi sự nghiệp môi trường**\n\n1\\. Định mức phân bổ theo tiêu chí huyện, thị xã, thành phố và tiêu chí xã, phường, thị trấn:\n\na) Đối với ngân sách cấp huyện:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nThành phố Phan Thiết\n\n60.000\n\nThị xã La Gi\n\n5.000\n\nCác huyện\n\n2.000\n\nĐịnh mức phân bổ nêu trên đã bao gồm các khoản chi cho hoạt động thu gom, vận chuyển, xử lý rác thải, vệ sinh môi trường các huyện, thị xã, thành phố.\n\nb) Ngân sách xã, phường, thị trấn: 20 triệu đồng/xã, phường, thị trấn/năm.\n\n2\\. Định mức phân bổ theo tiêu chí bổ sung:\n\na) Các huyện, thị xã, thành phố có nhà máy xử lý rác thải thì được hỗ trợ thêm kinh phí để xử lý rác thải.\n\nb) Căn cứ khối lượng rác thải và số thu dịch vụ thu gom, vận chuyển rác thải sinh hoạt trên địa bàn các huyện, thị xã, thành phố, hàng năm, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hỗ trợ thêm kinh phí thu gom, vận chuyển rác thải, vệ sinh môi trường cho các huyện, thị xã, thành phố theo khả năng cân đối ngân sách.\n\n**Điều 17. Định mức phân bổ chi đảm bảo xã hội**\n\n1\\. Định mức phân bổ theo tiêu chí huyện, thị xã, thành phố:\n\na) Ngân sách cấp huyện:\n\n_Đơn vị: Triệu đồng/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n500\n\nHuyện đảo\n\n250\n\nb) Ngân sách xã, phường, thị trấn: 30 triệu đồng/xã, phường, thị trấn.\n\n2\\. Định mức phân bổ theo tiêu chí bổ sung, bao gồm:\n\na) Kinh phí thực hiện chế độ trợ cấp xã hội hàng tháng cho các đối tượng bảo trợ xã hội theo quy định tại Nghị định số [20/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/nghi-dinh-20-2021-nd-cp-chinh-sach-tro-giup-xa-hoi-doi-voi-doi-tuong-bao-tro-xa-hoi-467723.aspx \"Nghị định 20/2021/NĐ-CP\") ngày 15 tháng 3 năm 2021 của Chính phủ về quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội.\n\nb) Kinh phí thực hiện chế độ hỗ trợ hộ nghèo, hộ chính sách tiền điện theo Thông tư số [190/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-190-2014-tt-btc-chinh-sach-ho-tro-tien-dien-cho-ho-ngheo-ho-chinh-sach-xa-hoi-261164.aspx \"Thông tư 190/2014/TT-BTC\") ngày 11 tháng 12 năm 2014 của Bộ Tài chính về việc quy định thực hiện chính sách hỗ trợ tiền điện cho hộ nghèo và hộ chính sách xã hội.\n\nc) Kinh phí thực hiện chế độ điều chỉnh mức trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc theo Quyết định số 130-CP ngày 20 tháng 6 năm 1975 của Hội đồng Chính phủ, Quyết định số 111-HĐBT ngày 13 tháng 10 năm 1981 của Hội đồng Bộ trưởng.\n\nd) Kinh phí quà tặng chúc thọ, mừng thọ người cao tuổi theo Nghị quyết số [81/2019/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-81-2019-nq-hdnd-muc-qua-tang-chuc-tho-nguoi-cao-tuoi-binh-thuan-422272.aspx \"Nghị quyết 81/2019/NQ-HĐND\") ngày 25 tháng 7 năm 2019 của Hội đồng nhân dân tỉnh về việc quy định mức quà tặng chúc thọ, mừng thọ người cao tuổi trên địa bàn tỉnh.\n\nđ) Kinh phí chi trả trợ cấp xã hội qua hệ thống Bưu điện theo Quyết định số 1524/QĐ-UBND ngày 01 tháng 6 năm 2016 của Ủy ban nhân dân tỉnh về việc ban hành quy định mức phí chi trả trợ cấp xã hội qua hệ thống Bưu điện trên địa bàn tỉnh Bình Thuận.\n\ne) Kinh phí hỗ trợ đối với thành viên của Đội công tác xã hội tình nguyện tại xã, phường, thị trấn theo Quyết định số [56/2013/QĐ-UBND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/quyet-dinh-56-2013-qd-ubnd-ho-tro-thanh-vien-doi-cong-tac-xa-hoi-tinh-nguyen-binh-thuan-215019.aspx \"Quyết định 56/2013/QĐ-UBND\") ngày 22 tháng 11 năm 2013 của Ủy ban nhân dân tỉnh về việc quy định chế độ hỗ trợ đối với thành viên của Đội công tác xã hội tình nguyện tại xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận.\n\ng) Kinh phí hỗ trợ cho cộng tác viên tham gia công tác bảo vệ, chăm sóc trẻ em tại thôn, bản, khu phố theo Nghị quyết số [58/2018/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-58-2018-nq-hdnd-ho-tro-cho-cong-tac-vien-tham-gia-cham-soc-tre-em-binh-thuan-390036.aspx \"Nghị quyết 58/2018/NQ-HĐND\") ngày 20 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh quy định mức hỗ trợ cho cộng tác viên tham gia công tác bảo vệ, chăm sóc trẻ em tại thôn, bản, khu phố trên địa bàn tỉnh.\n\n**Điều 18. Định mức phân bổ chi quản lý hành chính**\n\n1\\. Định mức phân bổ chi hoạt động, phân bổ theo các tiêu chí sau:\n\na) Đối với ngân sách cấp huyện, phân bổ theo tiêu chí biên chế cán bộ, công chức cấp huyện:\n\n_Đơn vị: Triệu đồng/biên chế/năm._\n\n**Huyện, thị xã, thành phố**\n\n**Định mức phân bổ**\n\nCác huyện, thị xã, thành phố\n\n29\n\nHuyện đảo\n\n33,5\n\nb) Đối với ngân sách các xã, phường, thị trấn, phân bổ theo tiêu chí số lượng cán bộ, công chức cấp xã với định mức 16,5 triệu đồng/biên chế/năm.\n\n2\\. Định mức phân bổ theo tiêu chí bổ sung:\n\na) Kinh phí hỗ trợ hoạt động đặc thù của Huyện, Thị, Thành ủy; phục vụ công tác chỉ đạo, điều hành của Ủy ban nhân dân các huyện, thị xã, thành phố; phục vụ một số hoạt động của Ủy ban Mặt trận Tổ quốc Việt Nam cấp huyện và các đoàn thể, tổ chức xã hội, nghề nghiệp theo khả năng cân đối của ngân sách tỉnh.\n\nb) Kinh phí hỗ trợ tổ chức đại hội các đoàn thể cấp huyện theo chỉ đạo của Tỉnh ủy, Ủy ban nhân dân tỉnh.\n\nc) Kinh phí thăm bệnh, trợ cấp ốm đau, khám sức khỏe theo Nghị quyết số [42/2018/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-42-2018-nq-hdnd-che-do-tham-benh-om-dau-phung-vieng-can-bo-tu-tran-binh-thuan-380150.aspx \"Nghị quyết 42/2018/NQ-HĐND\") ngày 30 tháng 3 năm 2018 của Hội đồng nhân dân tỉnh về việc ban hành Quy định chế độ, chính sách thăm bệnh, trợ cấp ốm đau, khám sức khỏe, phúng viếng cán bộ từ trần; tham quan, nghỉ dưỡng và tặng quà nhân dịp lễ, tết cho cán bộ tỉnh Bình Thuận.\n\nd) Kinh phí hỗ trợ các tổ chức chính trị - xã hội ở thôn, bản thuộc các xã đặc biệt khó khăn theo Thông tư số [49/2012/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-49-2012-tt-btc-huong-dan-ho-tro-kinh-phi-hoat-dong-chi-hoi-thu-136615.aspx \"Thông tư 49/2012/TT-BTC\") ngày 20 tháng 3 năm 2012 của Bộ Tài chính về hướng dẫn việc hỗ trợ kinh phí hoạt động của chi hội thuộc các tổ chức chính trị - xã hội thuộc các xã đặc biệt khó khăn.\n\nđ) Kinh phí hoạt động của các tổ chức cơ sở đảng theo Quyết định số 99- QĐ/TW ngày 30 tháng 5 năm 2012 của Ban Chấp hành Trung ương về việc ban hành chế độ chi hoạt động công tác đảng của tổ chức cơ sở đảng, đảng bộ cấp trên trực tiếp cơ sở.\n\ne) Kinh phí thực hiện chế độ, chính sách và các điều kiện bảo đảm hoạt động của Hội đồng nhân dân cấp huyện, cấp xã theo Nghị quyết số [1206/2016/NQ-UBTVQH13](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-1206-2016-nq-ubtvqh13-chinh-sach-dieu-kien-bao-dam-hoat-dong-dai-bieu-hoi-dong-nhan-dan-312507.aspx \"Nghị quyết 1206/2016/NQ-UBTVQH13\") ngày 13 tháng 5 năm 2016 của Ủy ban Thường vụ Quốc hội về điều kiện bảo đảm hoạt động của Đại biểu Hội đồng nhân dân và Nghị quyết số [65/2018/NQ-HĐND](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-65-2018-nq-hdnd-dieu-kien-bao-dam-hoat-dong-cua-hoi-dong-nhan-dan-cac-cap-binh-thuan-391991.aspx \"Nghị quyết 65/2018/NQ-HĐND\") ngày 20 tháng 7 năm 2018 của Hội đồng nhân dân tỉnh về việc quy định chế độ, chính sách và các điều kiện bảo đảm hoạt động của Hội đồng nhân dân các cấp trên địa bàn tỉnh.\n\ng) Kinh phí thực hiện chế độ, chính sách đối với những người hoạt động không chuyên trách cấp xã và ở thôn, khu phố theo Nghị quyết số [12/2020/NQ-HĐND](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-quyet-12-2020-nq-hdnd-che-do-ho-tro-thoi-viec-doi-voi-can-bo-cap-xa-doi-du-binh-thuan-449161.aspx \"Nghị quyết 12/2020/NQ-HĐND\") ngày 22/7/2020 quy định chế độ hỗ trợ thôi việc đối với cán bộ, công chức, người hoạt động không chuyên trách ở cấp xã, thôn, khu phố dôi dư do sắp xếp lại tổ chức, nhân sự và chế độ trợ cấp bổ sung hàng tháng đối với người hoạt động không chuyên trách ở cấp xã, khu phố trên địa bàn tỉnh; Nghị quyết số [13/2020/NQ-HĐND](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-quyet-13-2020-nq-hdnd-che-do-nguoi-hoat-dong-khong-chuyen-trach-o-cap-xa-binh-thuan-449162.aspx \"Nghị quyết 13/2020/NQ-HĐND\") ngày 22 tháng 7 năm 2020 quy định chức danh, số lượng và chế độ, chính sách đối với người hoạt động không chuyên trách ở cấp xã, thôn, khu phố và mức khoán kinh phí hoạt động của các tổ chức chính trị - xã hội cấp xã trên địa bàn tỉnh và Nghị quyết số [05/2021/NQ-HĐND](/phap-luat/tim-van-ban.aspx?keyword=05/2021/NQ-HĐND&match=True&area=2&lan=1&bday=17/8/2021&eday=17/8/2021 \"05/2021/NQ-HĐND\") ngày 17 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh quy định về chế độ đối với người hoạt động không chuyên trách ở thôn, khu phố và số lượng, chế độ đối với người tham gia công việc ở thôn, khu phố trên địa bàn tỉnh.\n\nh) Kinh phí chi trả chế độ thù lao đối với lãnh đạo các Hội có tính chất đặc thù theo Quyết định số 2510/QĐ-UBND ngày 18 tháng 11 năm 2011 của Ủy ban nhân dân tỉnh về việc quy định chế độ thù lao đối với người đã nghỉ hưu giữ chức danh lãnh đạo chuyên trách tại các Hội có tính chất đặc thù của tỉnh và Quyết định số 1031/QĐ-UBND ngày 30 tháng 5 năm 2012 của Ủy ban nhân dân tỉnh về việc quy định chế độ thù lao cho các Hội có tính chất đặc thù của tỉnh.\n\ni) Kinh phí thực hiện chế độ chi trả đối với cộng tác viên dư luận xã hội các cấp theo Quyết định số 309/QĐ-UBND ngày 03 tháng 02 năm 2017 của Ủy ban nhân dân tỉnh về kinh phí thực hiện chế độ chi trả đối với cộng tác viên dư luận xã hội các cấp.\n\nk) Kinh phí hỗ trợ hoạt động của Ban Thanh tra nhân dân cấp xã theo Nghị quyết số [35/2017/NQ-HĐND](/phap-luat/tim-van-ban.aspx?keyword=35/2017/NQ-HĐND&match=True&area=2&lan=1&bday=14/12/2017&eday=14/12/2017 \"35/2017/NQ-HĐND\") ngày 14 tháng 12 năm 2017 của Hội đồng nhân dân tỉnh về việc quy định mức kinh phí hỗ trợ hoạt động của Ban Thanh tra nhân dân ở xã, phường, thị trấn trên địa bàn tỉnh Bình Thuận.\n\nl) Kinh phí hỗ trợ giám sát đầu tư của cộng đồng theo Nghị định số [29/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-29-2021-nd-cp-thu-tuc-tham-dinh-du-an-quan-trong-quoc-gia-giam-sat-danh-gia-dau-tu-468883.aspx \"Nghị định 29/2021/NĐ-CP\") ngày 26 tháng 3 năm 2021 của Chính phủ về việc quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư.\n\n**Điều 19. Định mức phân bổ chi quốc phòng**\n\n1\\. Đối với ngân sách cấp huyện: Căn cứ yêu cầu nhiệm vụ theo phân cấp và nhu cầu thực hiện các đề án, các chế độ, chính sách, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả năng cân đối ngân sách.\n\n2\\. Ngân sách xã, phường, thị trấn:\n\na) Đối với các xã, phường, thị trấn trọng điểm về quốc phòng và an ninh: 40 triệu đồng/xã, phường, thị trấn.\n\nb) Đối với các xã, phường, thị trấn còn lại: 35 triệu đồng/xã, phường, thị trấn.\n\n**Điều 20. Định mức phân bổ chi an ninh**\n\n1\\. Đối với ngân sách cấp huyện: Căn cứ yêu cầu nhiệm vụ theo phân cấp và nhu cầu thực hiện các đề án, các chế độ, chính sách, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định hàng năm theo khả năng cân đối ngân sách.\n\n2\\. Ngân sách xã, phường, thị trấn:\n\na) Đối với các xã trọng điểm, phức tạp về an ninh, trật tự: 40 triệu đồng/xã.\n\nb) Đối với các xã, phường, thị trấn còn lại: 35 triệu đồng/xã, phường, thị trấn.\n\n3\\. Định mức phân bổ theo tiêu chí bổ sung, bao gồm:\n\na) Kinh phí thực hiện chế độ đối với lực lượng bảo vệ dân phố theo Quyết định số [23/2008/QĐ-UBND](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-23-2008-qd-ubnd-quy-dinh-che-do-chinh-sach-cho-luc-luong-bao-ve-dan-pho-tren-dia-ban-tinh-binh-thuan-64068.aspx \"Quyết định 23/2008/QĐ-UBND\") ngày 25 tháng 02 năm 2008 của Ủy ban nhân dân tỉnh về việc quy định chế độ, chính sách cho lực lượng Bảo vệ dân phố trên địa bàn tỉnh Bình Thuận và Quyết định số [57/2008/QĐ-UBND](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-57-2008-qd-ubnd-sua-doi-che-do-luc-luong-bao-ve-dan-pho-binh-thuan-193665.aspx \"Quyết định 57/2008/QĐ-UBND\") ngày 16 tháng 7 năm 2008 của Ủy ban nhân dân tỉnh về việc sửa đổi bổ sung khoản 1 điều 5 Quyết định số [23/2008/QĐ-UBND](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-23-2008-qd-ubnd-quy-dinh-che-do-chinh-sach-cho-luc-luong-bao-ve-dan-pho-tren-dia-ban-tinh-binh-thuan-64068.aspx \"Quyết định 23/2008/QĐ-UBND\") ngày 25/02/2008 của Ủy ban nhân dân tỉnh.\n\nb) Kinh phí thực hiện chế độ đối với công an viên ở thôn theo Nghị quyết số [05/2021/NQ-HĐND](/phap-luat/tim-van-ban.aspx?keyword=05/2021/NQ-HĐND&match=True&area=2&lan=1&bday=17/8/2021&eday=17/8/2021 \"05/2021/NQ-HĐND\") ngày 17 tháng 8 năm 2021 của Hội đồng nhân dân tỉnh.\n\nc) Kinh phí hỗ trợ cho Đội trưởng, Đội phó Đội dân phòng theo Nghị quyết số [73/2019/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-73-2019-nq-hdnd-ve-muc-ho-tro-thuong-xuyen-cho-doi-truong-doi-dan-phong-binh-thuan-422012.aspx \"Nghị quyết 73/2019/NQ-HĐND\") ngày 25 tháng 7 năm 2019 của Hội đồng nhân dân tỉnh quy định mức hỗ trợ thường xuyên cho chức danh Đội trưởng, Đội phó của Đội dân phòng và định mức trang bị phương tiện phòng cháy và chữa cháy cho Đội dân phòng, Ban bảo vệ dân phố trên địa bàn tỉnh.\n\n**Điều 21. Định mức phân bổ chi khác ngân sách**\n\nPhân bổ theo tỷ trọng bằng 0,5% tổng các khoản chi thường xuyên đã tính được theo định mức phân bổ (trừ kinh phí thực hiện các chính sách an sinh, xã hội và các khoản bổ sung có mục tiêu từ ngân sách cấp tỉnh).\n\n**Điều 22. Dự phòng ngân sách**\n\nCăn cứ dự toán Bộ Tài chính giao và khả năng cân đối của ngân sách địa phương, phân bổ dự phòng ngân sách cho các huyện, thị xã, thành phố là 2%, đảm bảo theo quy định của Luật Ngân sách nhà nước.\n\nTrên cơ sở dự toán chi cân đối ngân sách địa phương, các huyện, thị xã, thành phố chủ động bố trí dự phòng ngân sách địa phương đảm bảo theo quy định của Luật Ngân sách nhà nước và không thấp hơn dự toán tỉnh giao.\n\n**Chương IV**\n\n**CÁC NĂM TRONG THỜI KỲ ỔN ĐỊNH NGÂN SÁCH**\n\n**Điều 23. Đối với các năm tiếp theo trong thời kỳ ổn định ngân sách**\n\n1\\. Hàng năm, nếu phát sinh các khoản chi để thực hiện các chế độ, chính sách của Trung ương và của tỉnh, Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh bổ sung có mục tiêu cho ngân sách các huyện, thị xã, thành phố để thực hiện.\n\n2\\. Trong tổ chức thực hiện đối với dự toán các năm trong thời kỳ ổn định ngân sách, căn cứ tốc độ tăng trưởng kinh tế, chỉ số giá tiêu dùng, khả năng thu ngân sách nhà nước và số bổ sung cân đối từ ngân sách trung ương cho ngân sách địa phương, bổ sung thêm định mức phân bổ chi thường xuyên cho các sở, ngành, địa phương so với năm đầu thời kỳ ổn định ngân sách, giao Ủy ban nhân dân tỉnh trình Hội đồng nhân dân tỉnh xem xét, quyết định./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

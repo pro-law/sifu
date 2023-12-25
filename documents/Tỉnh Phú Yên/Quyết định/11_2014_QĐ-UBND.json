@@ -1,0 +1,791 @@
+{
+  "title": "Quyết định 11/2014/QĐ-UBND về phân cấp quản lý tổ chức bộ máy, biên chế, tiền lương cán bộ, công, viên chức cơ quan hành chính, đơn vị sự nghiệp công lập, cán bộ, công chức cấp xã và chức danh lãnh đạo quản lý doanh nghiệp do Nhà nước làm chủ sở hữu thuộc Ủy ban nhân dân tỉnh Phú Yên",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 672/2008/QĐ-UBND Quy định về phân cấp quản lý tổ chức bộ máy, biên chế, tiền lương, cán bộ, công chức, viên chức cơ quan hành chính, đơn vị sự nghiệp và cán bộ quản lý doanh nghiệp nhà nước thuộc Ủy ban nhân dân tỉnh Phú Yên quản lý do Ủy ban nhân dân tỉnh Phú Yên ban hành",
+      "id": "672/2008/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Phạm Ngọc Chi"
+      ],
+      "issuedDate": "2008-04-22",
+      "effectiveDate": "2008-05-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/05/2014"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 06/2010/NĐ-CP quy định những người là công chức",
+      "id": "06/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-01-25",
+      "effectiveDate": "2010-03-15",
+      "gazetteDate": "2010-02-09",
+      "gazetteNumber": "Từ số 83 đến số 84",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 58/TTg năm 1994 về tổ chức và chế độ chính sách đối với y tế cơ sở do Thủ tướng Chính Phủ ban hành",
+      "id": "58/TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Võ Văn Kiệt"
+      ],
+      "issuedDate": "1994-02-03",
+      "effectiveDate": "1994-02-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 31/01/2015"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 36/2013/NĐ-CP về vị trí việc làm và cơ cấu ngạch công chức",
+      "id": "36/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-04-22",
+      "effectiveDate": "2013-06-10",
+      "gazetteDate": "2013-05-03",
+      "gazetteNumber": "Từ số 229 đến số 230",
+      "status": "Hết hiệu lực: 20/07/2020"
+    },
+    {
+      "title": "Nghị định 55/2012/NĐ-CP quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập",
+      "id": "55/2012/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-06-28",
+      "effectiveDate": "2012-08-15",
+      "gazetteDate": "2012-07-12",
+      "gazetteNumber": "Từ số 427 đến số 428",
+      "status": "Hết hiệu lực: 01/12/2020"
+    },
+    {
+      "title": "Nghị định 41/2012/NĐ-CP quy định vị trí việc làm trong đơn vị sự nghiệp công lập",
+      "id": "41/2012/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-05-08",
+      "effectiveDate": "2012-06-25",
+      "gazetteDate": "2012-05-19",
+      "gazetteNumber": "Từ số 369 đến số 370",
+      "status": "Hết hiệu lực: 15/11/2020"
+    },
+    {
+      "title": "Nghị định 30/2012/NĐ-CP về tổ chức, hoạt động của quỹ xã hội, từ thiện",
+      "id": "30/2012/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-04-12",
+      "effectiveDate": "2012-06-01",
+      "gazetteDate": "2012-04-24",
+      "gazetteNumber": "Từ số 345 đến số 346",
+      "status": "Hết hiệu lực: 15/01/2020"
+    },
+    {
+      "title": "Nghị định 112/2011/NĐ-CP về công chức xã, phường, thị trấn",
+      "id": "112/2011/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-12-05",
+      "effectiveDate": "2012-02-01",
+      "gazetteDate": "2011-12-14",
+      "gazetteNumber": "Từ số 621 đến số 622",
+      "status": "Hết hiệu lực: 01/08/2023"
+    },
+    {
+      "title": "Luật viên chức 2010",
+      "id": "58/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-15",
+      "effectiveDate": "2012-01-01",
+      "gazetteDate": "2011-04-01",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật thanh tra 2010",
+      "id": "56/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-15",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2011-04-01",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Hết hiệu lực: 01/07/2023"
+    },
+    {
+      "title": "Nghị định 45/2010/NĐ-CP quy định về tổ chức, hoạt động và quản lý hội",
+      "id": "45/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-04-21",
+      "effectiveDate": "2010-07-01",
+      "gazetteDate": "2010-05-05",
+      "gazetteNumber": "Từ số 202 đến số 203",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 92/2009/NĐ-CP về chức danh, số lượng, một số chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị trấn và những người hoạt động không chuyên trách ở cấp xã",
+      "id": "92/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-10-22",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-11-01",
+      "gazetteNumber": "Từ số 501 đến số 502",
+      "status": "Hết hiệu lực: 01/08/2023"
+    },
+    {
+      "title": "Luật cán bộ, công chức 2008",
+      "id": "22/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-11-13",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-03-10",
+      "gazetteNumber": "Từ số 143 đến số 144",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 13/2008/NĐ-CP quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+      "id": "13/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-02-04",
+      "effectiveDate": "2008-03-16",
+      "gazetteDate": "2008-03-01",
+      "gazetteNumber": "Từ số 157 đến số 158",
+      "status": "Hết hiệu lực: 20/05/2014"
+    },
+    {
+      "title": "Nghị định 14/2008/NĐ-CP quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh",
+      "id": "14/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-02-04",
+      "effectiveDate": "2008-02-25",
+      "gazetteDate": "2008-02-10",
+      "gazetteNumber": "Từ số 103 đến số 104",
+      "status": "Hết hiệu lực: 20/06/2014"
+    },
+    {
+      "title": "Luật Doanh nghiệp 2005",
+      "id": "60/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-22",
+      "gazetteNumber": "Từ số 37 đến số 38",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Nghị định 68/2000/NĐ-CP về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp",
+      "id": "68/2000/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2000-11-17",
+      "effectiveDate": "2000-12-02",
+      "gazetteDate": "2000-12-22",
+      "gazetteNumber": "Số 47",
+      "status": "Hết hiệu lực: 22/02/2023"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Quyết định 14/2015/QĐ-UBND sửa đổi một số điều của Quy định phân cấp quản lý tổ chức bộ máy, biên chế, tiền lương cán bộ, công chức, viên chức cơ quan hành chính, đơn vị sự nghiệp công lập, cán bộ, công chức cấp xã và các chức danh lãnh đạo quản lý doanh nghiệp do Nhà nước làm chủ sở hữu thuộc Ủy ban nhân dân tỉnh Phú Yên được ban hành kèm theo Quyết định số 11/2014/QĐ-UBND",
+      "id": "14/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Phạm Đình Cự"
+      ],
+      "issuedDate": "2015-05-05",
+      "effectiveDate": "2015-05-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 160/QĐ-UBND năm 2019 về điều chỉnh vùng áp dụng mức lương cơ sở đầu vào tại phụ lục kèm theo Quyết định 1155/QĐ-UBND công bố đơn giá nhân công trong quản lý chi phí đầu tư xây dựng trên địa bàn tỉnh Bắc Ninh",
+      "id": "160/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bắc Ninh",
+      "signers": [
+        "Nguyễn Tiến Nhường"
+      ],
+      "issuedDate": "2019-04-10",
+      "effectiveDate": "2019-04-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/02/2020"
+    },
+    {
+      "title": "Quyết định 1590/QĐ-UBND năm 2016 phê duyệt danh sách quy hoạch lãnh đạo, quản lý do tỉnh Bắc Giang ban hành",
+      "id": "1590/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Văn Linh"
+      ],
+      "issuedDate": "2016-09-04",
+      "effectiveDate": "2016-09-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2183/QĐ-UBND hỗ trợ tiền lương và khoản trích theo lương cho nhân viên bán hàng chính sách miền núi năm 2016 cho huyện Vĩnh Thạnh, tỉnh Bình Định",
+      "id": "2183/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Trần Châu"
+      ],
+      "issuedDate": "2016-06-27",
+      "effectiveDate": "2016-06-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 04/2015/QĐ-UBND sửa đổi một số điều của quy định phân cấp quản lý viên chức, vị trí việc làm trong đơn vị sự nghiệp công lập và lao động hợp đồng theo Nghị định số 68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 của Chính phủ ban hành kèm theo Quyết định số 18/2013/QĐ-UBND ngày 03 tháng 10 năm 2013 của UBND tỉnh Sơn La",
+      "id": "04/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2015-03-09",
+      "effectiveDate": "2015-03-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2018"
+    },
+    {
+      "title": "Quyết định 38/2014/QĐ-UBND về Quy định lấy phiếu tín nhiệm bổ nhiệm công, viên chức lãnh đạo, quản lý do tỉnh Cà Mau ban hành",
+      "id": "38/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Phạm Thành Tươi"
+      ],
+      "issuedDate": "2014-12-31",
+      "effectiveDate": "2015-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/09/2016"
+    },
+    {
+      "title": "Công văn 5430/BNV-TCBC năm 2014 về biên chế công, viên chức năm 2015 do Bộ Nội vụ ban hành",
+      "id": "5430/BNV-TCBC",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Trần Anh Tuấn"
+      ],
+      "issuedDate": "2014-12-18",
+      "effectiveDate": "2014-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 101/NQ-HĐND năm 2014 về kế hoạch biên chế công chức cơ quan hành chính nhà nước và số lượng người làm việc trong đơn vị sự nghiệp công lập tỉnh Hải Dương năm 2015",
+      "id": "101/NQ-HĐND15",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hải Dương",
+      "signers": [
+        "Bùi Thanh Quyến"
+      ],
+      "issuedDate": "2014-12-11",
+      "effectiveDate": "2014-12-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 23/2014/QĐ-UBND về phân cấp quản lý công chức xã, phường, thị trấn trên địa bàn tỉnh Bắc Kạn",
+      "id": "23/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Lý Thái Hải"
+      ],
+      "issuedDate": "2014-10-29",
+      "effectiveDate": "2014-11-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/10/2020"
+    },
+    {
+      "title": "Quyết định 32/2014/QĐ-UBND sửa đổi Quyết định 28/2011/QĐ-UBND về quản lý tổ chức bộ máy, biên chế , cán bộ, công, viên chức cơ quan hành chính, đơn vị sự nghiệp và cán bộ quản lý doanh nghiệp do Nhà nước làm chủ sở hữu thuộc Uỷ ban nhân dân thành phố Đà Nẵng",
+      "id": "32/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Văn Hữu Chiến"
+      ],
+      "issuedDate": "2014-09-26",
+      "effectiveDate": "2014-10-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 28/05/2015"
+    },
+    {
+      "title": "Quyết định 22/2014/QĐ-UBND sửa đổi Quy định phân cấp quản lý tổ chức bộ máy, cán bộ, công chức trong cơ quan hành chính, đơn vị sự nghiệp nhà nước, doanh nghiệp nhà nước trên địa bàn tỉnh Sơn La",
+      "id": "22/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2014-09-12",
+      "effectiveDate": "2014-09-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2018"
+    },
+    {
+      "title": "Quyết định 33/2014/QĐ-UBND về phân cấp quản lý tiền lương cán bộ, công, viên chức và người lao động trong cơ quan hành chính nhà nước, đơn vị sự nghiệp công lập, tổ chức hội được giao biên chế, công ty trách nhiệm hữu hạn một thành viên do Ủy ban nhân dân tỉnh Quảng Trị làm chủ sở hữu",
+      "id": "33/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Nguyễn Đức Cường"
+      ],
+      "issuedDate": "2014-07-31",
+      "effectiveDate": "2014-08-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/07/2020"
+    },
+    {
+      "title": "Nghị quyết 13/2014/NQ-HĐND phê duyệt giao biên chế, hợp đồng đối với cơ quan hành chính, đơn vị sự nghiệp thuộc tỉnh Ninh Thuận năm 2014",
+      "id": "13/2014/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Nguyễn Đức Thanh"
+      ],
+      "issuedDate": "2014-07-22",
+      "effectiveDate": "2014-07-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 06/2014/QĐ-UBND về phân cấp quản lý tổ chức bộ máy và cán bộ, công chức, viên chức trong cơ quan hành chính, đơn vị sự nghiệp, các Hội, doanh nghiệp do Nhà nước làm chủ sở hữu thuộc Ủy ban nhân dân tỉnh Đồng Tháp",
+      "id": "06/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Đồng Tháp",
+      "signers": [
+        "Lê Minh Hoan"
+      ],
+      "issuedDate": "2014-05-06",
+      "effectiveDate": "2014-05-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/01/2015"
+    },
+    {
+      "title": "Quyết định 858/2014/QĐ-UBND về phân cấp quản lý tổ chức bộ máy, biên chế, cán bộ, công, viên chức cơ quan hành chính, đơn vị sự nghiệp và cán bộ quản lý doanh nghiệp có vốn nhà nước thuộc Ủy ban nhân dân tỉnh Quảng Ninh",
+      "id": "858/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Nguyễn Văn Đọc"
+      ],
+      "issuedDate": "2014-05-06",
+      "effectiveDate": "2014-05-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/03/2017"
+    },
+    {
+      "title": "Quyết định 09/2014/QĐ-UBND về phân cấp quản lý tổ chức, biên chế và cán bộ, công chức trong cơ quan hành chính nhà nước và doanh nghiệp nhà nước trên địa bàn tỉnh Bình Dương",
+      "id": "09/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Lê Thanh Cung"
+      ],
+      "issuedDate": "2014-03-31",
+      "effectiveDate": "2014-04-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/10/2022"
+    },
+    {
+      "title": "Quyết định 02/2014/QĐ-UBND về phân cấp quản lý tổ chức bộ máy, biên chế, cán bộ, công, viên chức tỉnh Vĩnh Phúc",
+      "id": "02/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Phùng Quang Hùng"
+      ],
+      "issuedDate": "2014-01-09",
+      "effectiveDate": "2014-01-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/10/2022"
+    },
+    {
+      "title": "Hướng dẫn 3505/HD-SGDĐT năm 2013 thực hiện chế độ nâng lương thường xuyên và nâng lương trước thời hạn đối với cán bộ, công, viên chức do tỉnh Bình Phước ban hành",
+      "id": "3505/HD-SGDĐT",
+      "legislationType": "Hướng dẫn",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Nguyễn Văn Hùng"
+      ],
+      "issuedDate": "2013-12-18",
+      "effectiveDate": "2013-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 281/QĐ-UBND năm 2013 về xếp ngạch lương, bậc lương đối với cán bộ công chức xã, phường, thị trấn có trình độ lý luận chính trị do tỉnh Quãng Ngãi ban hành",
+      "id": "281/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Cao Khoa"
+      ],
+      "issuedDate": "2013-11-15",
+      "effectiveDate": "2013-11-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 44/2013/QĐ-UBND Quy định quản lý tổ chức bộ máy, biên chế và cán bộ, công chức tỉnh Thừa Thiên Huế",
+      "id": "44/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Nguyễn Văn Cao"
+      ],
+      "issuedDate": "2013-11-07",
+      "effectiveDate": "2013-11-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/11/2015"
+    },
+    {
+      "title": "Quyết định 44/2013/QĐ-UBND Quy định quản lý tổ chức bộ máy, biên chế và cán bộ, công, viên chức do tỉnh Hà Tĩnh ban hành",
+      "id": "44/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Võ Kim Cự"
+      ],
+      "issuedDate": "2013-10-17",
+      "effectiveDate": "2013-10-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/05/2021"
+    },
+    {
+      "title": "Nghị quyết 14/2011/NQ-HĐND về Tổng biên chế hành chính, sự nghiệp của thành phố Hà Nội năm 2012",
+      "id": "14/2011/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Ngô Thị Doãn Thanh"
+      ],
+      "issuedDate": "2011-12-12",
+      "effectiveDate": "2011-12-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 09/2009/QĐ-UBND về phân cấp quản lý cán bộ, công, viên chức trong cơ quan hành chính, sự nghiệp nhà nước tỉnh Sơn La",
+      "id": "09/2009/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Chí Thức"
+      ],
+      "issuedDate": "2009-03-29",
+      "effectiveDate": "2009-06-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/11/2013"
+    },
+    {
+      "title": "Quyết định 2041/QĐ-UBND năm 2006 bổ sung số lượng cán bộ không chuyên trách để bố trí tăng biên chế cho Công an xã do tỉnh Trà Vinh ban hành",
+      "id": "2041/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Trà Vinh",
+      "signers": [
+        "Trần Khiêu"
+      ],
+      "issuedDate": "2006-12-31",
+      "effectiveDate": "2006-12-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2010"
+    },
+    {
+      "title": "Chỉ thị 38/2006/CT-UBND thực hiện chế độ, chính sách về tiền lương, tiền thưởng trong các doanh nghiệp do tỉnh Bình Dương ban hành",
+      "id": "38/2006/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Nguyễn Hoàng Sơn"
+      ],
+      "issuedDate": "2006-11-28",
+      "effectiveDate": "2006-12-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/08/2016"
+    }
+  ],
+  "id": "11/2014/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Lao động - Tiền lương",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Tỉnh Phú Yên",
+  "signers": [
+    "Phạm Đình Cự"
+  ],
+  "issuedDate": "2014-04-21",
+  "effectiveDate": "2014-05-01",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"NL\">ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH PHÚ YÊN</span><br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  11/2014/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Tuy Hòa, ngày 21\n  tháng 4 năm 2014</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN\nHÀNH QUY ĐỊNH VỀ PHÂN CẤP QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, TIỀN LƯƠNG CÁN BỘ,\nCÔNG CHỨC, VIÊN CHỨC CƠ QUAN HÀNH CHÍNH, ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP, CÁN BỘ,\nCÔNG CHỨC CẤP XÃ VÀ CÁC CHỨC DANH LÃNH ĐẠO QUẢN LÝ DOANH NGHIỆP DO NHÀ NƯỚC LÀM\nCHỦ SỞ HỮU THUỘC ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban\nnhân dân ngày 26 tháng 11 năm 2003;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Cán bộ, công chức ngày 13 tháng 11\nnăm 2008 và các văn bản hướng dẫn thi hành Luật;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010\nvà các văn bản hướng dẫn thi hành Luật;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010\nvà các văn bản hướng dẫn thi hành Luật;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Doanh nghiệp ngày 29 tháng 11 năm\n2005;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a>  ngày 17 tháng 11\nnăm 2000 của Chính phủ về thực hiện chế hợp đồng một số loại công việc trong cơ\nquan hành chính nhà nước, đơn vị sự nghiệp;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 13/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-13-2008-nd-cp-to-chuc-co-quan-chuyen-mon-thuoc-uy-ban-nhan-dan-tinh-thanh-pho-truc-thuoc-trung-uong-62259.aspx\">13/2008/NĐ-CP</a>  ngày 04 tháng\n02 năm 2008 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 14/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-14-2008-nd-cp-to-chuc-co-quan-chuyen-mon-thuoc-uy-ban-nhan-dan-huyen-quan-thi-xa-thanh-pho-thuoc-tinh-62233.aspx\">14/2008/NĐ-CP</a>  ngày 04 tháng\n02 năm 2008 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy\nban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 92/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-92-2009-nd-cp-chuc-danh-so-luong-che-do-chinh-sach-can-bo-cong-chuc-o-xa-phuong-thi-tran-va-nhung-nguoi-hoat-dong-khong-chuyen-trach-96422.aspx\">92/2009/NĐ-CP</a>  ngày 22 tháng\n10 năm 2009 của Chính phủ về chức danh, số lượng, một số chế độ, chính sách đối\nvới cán bộ, công chức ở xã, phường, thị trấn và những người hoạt động không\nchuyên trách ở cấp xã;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/quyen-dan-su/nghi-dinh-45-2010-nd-cp-to-chuc-hoat-dong-quan-ly-hoi-104561.aspx\">45/2010/NĐ-CP</a>  ngày 21 tháng\n4 năm 2010 của Chính phủ quy định về tổ chức, hoạt động và quản lý hội;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 112/2011/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-112-2011-nd-cp-cong-chuc-xa-phuong-thi-tran-132674.aspx\">112/2011/NĐ-CP</a>  ngày 05 tháng\n12 năm 2011 của Chính phủ về công chức xã, phường, thị trấn;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 30/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/nghi-dinh-30-2012-nd-cp-to-chuc-hoat-dong-quy-xa-hoi-tu-thien-137920.aspx\">30/2012/NĐ-CP</a>  ngày 12 tháng\n4 năm 2012 của Chính phủ quy định về tổ chức, hoạt động của quỹ xã hội, quỹ từ\nthiện;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 41/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-41-2012-nd-cp-vi-tri-viec-lam-trong-don-vi-su-nghiep-cong-lap-138976.aspx\">41/2012/NĐ-CP</a>  ngày 08 tháng\n5 năm 2012 của Chính phủ quy định về vị trí việc làm trong đơn vị sự nghiệp\ncông lập;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 55/2012/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-55-2012-nd-cp-quy-dinh-thanh-lap-to-chuc-lai-giai-the-don-vi-142237.aspx\">55/2012/NĐ-CP</a>  ngày 28 tháng\n6 năm 2012 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự\nnghiệp công lập;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 36/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-36-2013-nd-cp-vi-tri-viec-lam-va-co-cau-ngach-cong-chuc-183202.aspx\">36/2013/NĐ-CP</a>  ngày 22 tháng\n4 năm 2013 của Chính phủ về vị trí việc làm và cơ cấu ngạch công chức;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Xét đề nghị của Giám đốc Sở Nội vụ tại Tờ trình\nsố 144/TTr-SNV ngày 15 tháng 4 năm 2014,</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a>  <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy định về phân cấp quản\nlý tổ chức bộ máy, biên chế, tiền lương cán bộ, công chức, viên chức cơ quan\nhành chính, đơn vị sự nghiệp công lập, cán bộ, công chức cấp xã và các chức\ndanh lãnh đạo quản lý doanh nghiệp do Nhà nước làm chủ sở hữu thuộc Ủy ban nhân\ndân tỉnh Phú Yên.</a> </p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a><b> </b> <a name=\"dieu_2_name\">Giám đốc Sở Nội vụ chịu trách nhiệm tổ chức triển khai thực\nhiện và kiểm tra việc thực hiện Quyết định này.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a>  <a name=\"dieu_3_name\">Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký ban\nhành và thay thế Quyết định số 672/QĐ-UBND ngày 22 tháng 4 năm 2008 của Ủy ban\nnhân dân tỉnh Phú Yên ban hành Quy định về phân cấp quản lý tổ chức bộ máy,\nbiên chế, tiền lương, cán bộ, công chức, viên chức cơ quan hành chính, đơn vị sự\nnghiệp và cán bộ quản lý doanh nghiệp nhà nước thuộc Ủy ban nhân dân tỉnh Phú\nYên quản lý.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4.</b></a>  <a name=\"dieu_4_name\">Các ông, bà: Chánh Văn phòng UBND tỉnh, Giám đốc Sở Nội vụ,\nThủ trưởng các sở, ban, ngành, đơn vị sự nghiệp thuộc UBND tỉnh, Chủ tịch UBND\ncác huyện, thị xã, thành phố chịu trách nhiệm thi hành Quyết định này./.</a></p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIAOAA=-->\n <tbody><tr>\n  <td width=\"247\" valign=\"top\" style=\"width:185.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:8.0pt\"> </span></i></b></p>\n  </td>\n  <td width=\"344\" valign=\"top\" style=\"width:258.0pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"NL\">TM.\n  ỦY BAN NHÂN DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Phạm Đình Cự</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\">VỀ\nPHÂN CẤP QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, TIỀN LƯƠNG CÁN BỘ, CÔNG CHỨC, VIÊN\nCHỨC CƠ QUAN HÀNH CHÍNH, ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP, CÁN BỘ, CÔNG CHỨC CẤP XÃ VÀ\nCÁC CHỨC DANH LÃNH ĐẠO QUẢN LÝ DOANH NGHIỆP DO NHÀ NƯỚC LÀM CHỦ SỞ HỮU THUỘC ỦY\nBAN NHÂN DÂN TỈNH PHÚ YÊN<br>\n</a><i>(Ban hành kèm theo Quyết định số 11/2014/QĐ-UBND ngày 21/4/2014 của UBND\ntỉnh Phú Yên)</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">NHỮNG QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>Điều 1. Phạm vi điều chỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Quy định này quy định về phân cấp quản lý tổ chức bộ\nmáy, biên chế, tiền lương cán bộ, công chức, viên chức, nhân viên hợp đồng theo\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a>  ngày 17/11/2000 của Chính phủ trong cơ quan hành\nchính, đơn vị sự nghiệp công lập (viết tắt là đơn vị sự nghiệp) thuộc Ủy ban\nnhân dân (viết tắt là UBND) tỉnh Phú Yên; cán bộ, công chức xã, phường, thị trấn\n(viết tắt là cán bộ, công chức cấp xã) và các chức danh lãnh đạo, quản lý doanh\nnghiệp do Nhà nước làm chủ sở hữu (viết tắt là viên chức quản lý doanh nghiệp\nnhà nước) thuộc UBND tỉnh Phú Yên; các tổ chức hội, quỹ xã hội, quỹ từ thiện do\nUBND tỉnh cho phép thành lập; các tổ chức thuộc Bộ, ngành Trung ương, địa\nphương khác đóng trên địa bàn tỉnh Phú Yên.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b>Điều 2. Đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Cán bộ, công chức trong các cơ quan nhà nước quy\nđịnh tại Luật Cán bộ, công chức ngày 13/11/2008 và công chức quy định tại Nghị\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 06/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-06-2010-nd-cp-quy-dinh-nhung-nguoi-la-cong-chuc-100704.aspx\">06/2010/NĐ-CP</a>  ngày 25/01/2010 của Chính phủ quy định những người là\ncông chức.</p>\n\n<p style=\"margin-top:6.0pt\">2. Cán bộ, công chức cấp xã quy định tại Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 92/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-92-2009-nd-cp-chuc-danh-so-luong-che-do-chinh-sach-can-bo-cong-chuc-o-xa-phuong-thi-tran-va-nhung-nguoi-hoat-dong-khong-chuyen-trach-96422.aspx\">92/2009/NĐ-CP</a>  ngày 22/10/2009 của Chính phủ về chức danh, số lượng, một số\nchế độ, chính sách đối với cán bộ, công chức cấp xã, và những người hoạt động\nkhông chuyên trách ở cấp xã.</p>\n\n<p style=\"margin-top:6.0pt\">3. Viên chức trong các đơn vị sự nghiệp quy định tại\nLuật Viên chức ngày 15/11/2010.</p>\n\n<p style=\"margin-top:6.0pt\">4. Viên chức quản lý Công ty TNHH một thành viên do\nnhà nước làm chủ sở hữu thuộc UBND tỉnh Phú Yên quản lý bao gồm: Chủ tịch Hội đồng\nthành viên, Chủ tịch công ty; Thành viên Hội đồng thành viên; Tổng giám đốc,\nPhó Tổng giám đốc, Giám đốc, Phó Giám đốc và Kế toán trưởng; Kiểm soát viên.</p>\n\n<p style=\"margin-top:6.0pt\">5. Các tổ chức hội, quỹ xã hội, quỹ từ thiện do\nUBND tỉnh cho phép thành lập hoặc ủy quyền cho cấp huyện cho phép thành lập;\ncác tổ chức thuộc Bộ, ngành Trung ương, địa phương khác đóng trên địa bàn tỉnh\nPhú Yên.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>Điều 3.</b></a>  <a name=\"dieu_3_1_name\">Công tác quản lý tổ chức bộ máy, biên chế, cán bộ, công chức,\nviên chức trong các cơ quan hành chính, đơn vị sự nghiệp và viên chức quản lý\ndoanh nghiệp Nhà nước thuộc UBND tỉnh Phú Yên được thực hiện trên cơ sở quy định\nhiện hành của Nhà nước và Quy định này.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4_1\"><b>Điều 4.</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <a name=\"dieu_4_1_name\">UBND tỉnh, Chủ tịch UBND\ntỉnh chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ, Ban Thường vụ Tỉnh ủy,\nHội đồng nhân dân (viết tắt là HĐND) Tỉnh trong việc quản lý tổ chức bộ máy,\nbiên chế, cán bộ, công chức (kể cả cán bộ, công chức cấp xã); viên chức trong\ncác đơn vị sự nghiệp, các tổ chức hội, quỹ xã hội, quỹ từ thiện và viên chức quản\nlý doanh nghiệp nhà nước thuộc thẩm quyền quản lý của UBND Tỉnh.</a></p>\n\n<p style=\"margin-top:6.0pt\">2. Sở Nội vụ là cơ quan tham mưu, giúp UBND Tỉnh,\nChủ tịch UBND Tỉnh thực hiện việc quản lý: tổ chức bộ máy, biên chế các cơ quan\nhành chính, đơn vị sự nghiệp; cán bộ, công chức, viên chức, cán bộ quản lý\ndoanh nghiệp Nhà nước thuộc UBND Tỉnh; cán bộ, công chức và những người hoạt động\nkhông chuyên trách ở cấp xã; tổ chức hội; tổ chức phi Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt\">3. Người đứng đầu các cơ quan chuyên môn, các đơn vị\nsự nghiệp thuộc UBND Tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố (gọi tắt\nlà Chủ tịch UBND cấp huyện) quyết định việc phân cấp và chịu trách nhiệm trước\nUBND Tỉnh, Chủ tịch UBND Tỉnh, cấp ủy Đảng cùng cấp trong việc quản lý cán bộ,\ncông chức, viên chức cho các cơ quan, đơn vị trực thuộc theo thẩm quyền quản\nlý.</p>\n\n<p style=\"margin-top:6.0pt\">4. Người đứng đầu các cơ quan chuyên môn, các đơn vị\nsự nghiệp thuộc UBND Tỉnh, Chủ tịch UBND cấp huyện chịu trách nhiệm trước UBND\nTỉnh, Chủ tịch UBND Tỉnh, cấp ủy Đảng cùng cấp trong việc quản lý tổ chức bộ\nmáy, biên chế, cán bộ, công chức, viên chức thuộc thẩm quyền quản lý.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b>Điều 5.</b></a>  <a name=\"dieu_5_name\">Các tổ chức thuộc Bộ, ngành Trung ương và địa phương khác đặt\ntrụ sở, chi nhánh, văn phòng đại diện trên địa bàn Tỉnh chịu sự quản lý Nhà nước\ncủa UBND Tỉnh theo quy định của Nhà nước và Quy định này.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">QUẢN LÝ TỔ CHỨC BỘ MÁY</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b>Mục 1. NỘI DUNG QUẢN LÝ</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Nội dung quản lý theo từng\nđối tượng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đối với cơ quan hành chính, đơn vị sự nghiệp của\ntỉnh: thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, quy định chức\nnăng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, quy chế hoạt động, xếp hạng các tổ\nchức và các nội dung liên quan khác.</p>\n\n<p style=\"margin-top:6.0pt\">2. Đối với doanh nghiệp do Nhà nước làm chủ sở hữu:\nthành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, chuyển giao, chuyển\nđổi, cổ phần hóa, xếp hạng.</p>\n\n<p style=\"margin-top:6.0pt\">3. Đối với các hội: cho phép thành lập, đại hội,\nsáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, phê duyệt điều lệ. </p>\n\n<p style=\"margin-top:6.0pt\">Đối với quỹ xã hội, quỹ từ thiện: cấp giấy phép\nthành lập; cho phép hợp nhất, sáp nhập, chia, tách, giải thể, đổi tên; đình chỉ\nhoạt động; cho phép quỹ hoạt động trở lại sau khi bị tạm đình chỉ; công nhận quỹ\nđủ điều kiện hoạt động; công nhận thành viên Hội đồng quản lý quỹ; cho phép\nthay đổi hoặc cấp lại giấy phép thành lập; thu hồi giấy phép thành lập; giải\nquyết khiếu nại, tố cáo đối với quỹ.</p>\n\n<p style=\"margin-top:6.0pt\">4. Đối với cơ quan hành chính, đơn vị sự nghiệp của\nNhà nước, các tổ chức phi Chính phủ thuộc Bộ, ngành Trung ương và địa phương\nkhác quản lý: cho phép đặt trụ sở, chi nhánh, văn phòng đại diện.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Cơ cấu tổ chức bộ máy</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đối với các cơ quan chuyên môn thuộc UBND tỉnh\ncó: Văn phòng, thanh tra, phòng chuyên môn nghiệp vụ, ban, chi cục, các đơn vị\nsự nghiệp.</p>\n\n<p style=\"margin-top:6.0pt\">2. Đối với UBND cấp huyện có: Văn phòng, thanh tra,\nphòng chuyên môn, các đơn vị sự nghiệp.</p>\n\n<p style=\"margin-top:6.0pt\">3. Đối với các đơn vị sự nghiệp thuộc UBND tỉnh có:\nCác phòng, khoa chuyên môn, các tổ chức sự nghiệp.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b>Mục 2. THẨM QUYỀN QUẢN LÝ VỀ TỔ\nCHỨC BỘ MÁY</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b>Điều 8.</b> <b>Thẩm quyền của\nUBND Tỉnh, Chủ tịch UBND Tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thẩm quyền của UBND Tỉnh:</p>\n\n<p style=\"margin-top:6.0pt\">a) Xây dựng đề án thành lập các cơ quan chuyên môn thuộc\nỦy ban nhân dân tỉnh theo hướng dẫn của Chính phủ trình Hội đồng nhân dân quyết\nđịnh.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quyết định thành lập, sáp nhập, hợp nhất, chia,\ntách, giải thể, đổi tên các đơn vị sự nghiệp thuộc UBND Tỉnh; đơn vị sự nghiệp,\nchi cục, thanh tra thuộc các cơ quan chuyên môn thuộc UBND Tỉnh và các cơ quan\nchuyên môn thuộc UBND cấp huyện theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">c) Quyết định thành lập, sáp nhập, hợp nhất, chia,\ntách, giải thể doanh nghiệp do Nhà nước làm chủ sở hữu thuộc UBND Tỉnh theo quy\nđịnh của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">d) Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu\ntổ chức, số lượng và tên gọi cụ thể các phòng chuyên môn nghiệp vụ, các bộ phận\nkhác tương đương phòng thuộc các cơ quan chuyên môn, đơn vị sự nghiệp thuộc\nUBND Tỉnh; các tổ chức thuộc chi cục và các cơ quan chuyên môn thuộc UBND cấp\nhuyện do pháp luật quy định thuộc thẩm quyền của UBND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">đ) Trình Bộ Nội vụ xem xét, quyết định phân loại\nđơn vị hành chính của UBND cấp huyện.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thẩm quyền của Chủ tịch UBND Tỉnh:</p>\n\n<p style=\"margin-top:6.0pt\">a) Phê duyệt đề án: </p>\n\n<p style=\"margin-top:6.0pt\">- Thành lập, sáp nhập, hợp nhất, chia, tách, giải\nthể, đổi tên các bộ phận, tổ chức trực thuộc đơn vị sự nghiệp thuộc UBND Tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"cumtu_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752754')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752754')\" atmm=\".lqhlTootip-752754\" onmouseout=\"hideddrivetip();\">- Thành lập, sáp nhập, hợp nhất,\nchia, tách, giải thể, đổi tên đơn vị sự nghiệp thuộc các sở, ban, ngành Tỉnh,\nUBND cấp huyện theo quy định của pháp luật</a>;</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"cumtu_2\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752755')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752755')\" atmm=\".lqhlTootip-752755\" onmouseout=\"hideddrivetip();\">- Thành lập, sáp nhập, hợp nhất,\nchia, tách, giải thể, đổi tên phòng chuyên môn và tương đương thuộc các cơ quan\nchuyên môn thuộc UBND Tỉnh và UBND cấp huyện</a>.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quyết định các nội dung:</p>\n\n<p style=\"margin-top:6.0pt\">- Thành lập, đổi tên, giải thể, thay đổi, bổ sung\nthành viên, nhiệm vụ các tổ chức tư vấn, hội đồng, ban chỉ đạo thuộc UBND Tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">- Xếp hạng, chuyển giao, chuyển đổi, cổ phần hóa\ncác doanh nghiệp do Nhà nước làm chủ sở hữu thuộc UBND Tỉnh theo quy định hiện\nhành của pháp luật;</p>\n\n<p style=\"margin-top:6.0pt\">- Xếp hạng các đơn vị sự nghiệp thuộc UBND Tỉnh;\nđơn vị sự nghiệp thuộc các sở, ban, ngành Tỉnh, UBND cấp huyện;</p>\n\n<p style=\"margin-top:6.0pt\"> - Phân loại và điều chỉnh việc phân loại đơn\nvị hành chính cấp xã;</p>\n\n<p style=\"margin-top:6.0pt\"> - Cho phép các tổ chức thuộc Bộ, ngành Trung\nương và địa phương khác đặt trụ sở, chi nhánh, văn phòng đại diện trên địa bàn\ntỉnh; cho phép các tổ chức thuộc UBND tỉnh, các doanh nghiệp nhà nước trong tỉnh\nđặt chi nhánh, văn phòng đại diện tại các địa phương khác trong nước; </p>\n\n<p style=\"margin-top:6.0pt\">- Cho phép thành lập, đại hội, chia, tách, sáp nhập,\nhợp nhất, giải thể, đổi tên và phê duyệt điều lệ hội cấp tỉnh, cấp huyện; quản\nlý, hướng dẫn, kiểm tra việc thành lập và hoạt động của hội theo quy định của\npháp luật; cấp giấy phép thành lập, cho phép hợp nhất, sáp nhập, chia, tách, giải\nthể, đổi tên, đình chỉ hoạt động, cho phép quỹ hoạt động trở lại sau khi bị tạm\nđình chỉ, công nhận quỹ đủ điều kiện hoạt động, công nhận thành viên Hội đồng\nquản lý quỹ, cho phép thay đổi hoặc cấp lại giấy phép thành lập, thu hồi giấy\nphép thành lập, giải quyết khiếu nại, tố cáo đối với quỹ đối với quỹ xã hội và\nquỹ từ thiện. Ủy quyền cho Chủ tịch UBND cấp huyện cho phép thành lập, đại hội,\nchia, tách, sáp nhập, hợp nhất, giải thể, đổi tên và phê duyệt điều lệ hội cấp\nxã.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Nhiệm vụ, thẩm quyền của\nGiám đốc Sở Nội vụ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Chủ trì, phối hợp với các cơ quan có liên quan\nthẩm định các nội dung quy định tại Điều 8 Quy định này do các cơ quan chuyên\nmôn, đơn vị sự nghiệp thuộc UBND Tỉnh và UBND cấp huyện trình để báo cáo UBND Tỉnh,\nChủ tịch UBND Tỉnh quyết định, phê duyệt (trừ các nội dung thuộc thẩm quyền của\nngười đứng đầu các sở, ban, ngành tỉnh, Chủ tịch UBND cấp huyện theo quy định của\npháp luật và Quy định này).</p>\n\n<p style=\"margin-top:6.0pt\">2. Thực hiện thanh tra, kiểm tra về công tác tổ chức,\nbộ máy các cơ quan, đơn vị, địa phương thuộc UBND Tỉnh. Phối hợp với các cơ\nquan có liên quan hướng dẫn điều kiện, thủ tục thành lập hội theo quy định pháp\nluật; theo dõi quản lý các hội hoạt động trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b>Điều 10.</b> <b>Nhiệm vụ, thẩm\nquyền của người đứng đầu các sở, ban, ngành tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Xây dựng đề án thành lập, sáp nhập, hợp nhất,\nchia, tách, giải thể, đổi tên các chi cục, phòng chuyên môn và tương đương, các\nđơn vị sự nghiệp thuộc sở, ban, ngành tỉnh, trình cấp có thẩm quyền thẩm định,\nphê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">2. Quyết định thành lập, sáp nhập, hợp nhất, chia,\ntách, giải thể, đổi tên, quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu các\nphòng chuyên môn nghiệp vụ và tương đương, các tổ chức bên trong đơn vị sự nghiệp\nthuộc sở, ban, ngành Tỉnh sau khi được Chủ tịch UBND Tỉnh phê duyệt đề án (trừ\ncác cơ quan chuyên môn mà pháp luật quy định thẩm quyền này thuộc UBND Tỉnh hoặc\nChủ tịch UBND Tỉnh).</p>\n\n<p style=\"margin-top:6.0pt\">3. Thực hiện chức năng quản lý Nhà nước theo ngành,\nlĩnh vực đối với các cơ quan hành chính, đơn vị sự nghiệp của Nhà nước thuộc Bộ,\nngành Trung ương và địa phương khác đặt trụ sở, chi nhánh, văn phòng đại diện\ntrên địa bàn Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">4. Xây dựng và trình UBND Tỉnh các đề án; thành lập,\nsáp nhập, hợp nhất, chia, tách, giải thể, chuyển giao, chuyển đổi, cổ phần hoá,\nđổi tên, xếp hạng đơn vị sự nghiệp, doanh nghiệp nhà nước thuộc UBND Tỉnh theo\nđúng quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">Riêng việc thành lập, sáp nhập, hợp nhất, chia,\ntách, giải thể, đổi tên các đơn vị trực thuộc doanh nghiệp Nhà nước, đặt chi\nnhánh, văn phòng đại diện của doanh nghiệp Nhà nước tại các địa phương khác\ntrong nước thực hiện theo Luật Doanh nghiệp và các văn bản hiện hành của Nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b>Điều 11.</b> <b>Thẩm quyền của\nUBND cấp huyện, Chủ tịch UBND cấp huyện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. UBND cấp huyện:</p>\n\n<p style=\"margin-top:6.0pt\">a) Xây dựng <a name=\"cumtu_3\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752756')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752756')\" atmm=\".lqhlTootip-752756\" onmouseout=\"hideddrivetip();\">phương án</a> thành lập,\nsáp nhập, hợp nhất, chia, tách, giải thể, đổi tên các phòng chuyên môn và tương\nđương, các đơn vị sự nghiệp thuộc UBND cấp huyện, trình cấp có thẩm quyền phê\nduyệt.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quy định cụ thể nhiệm vụ, quyền hạn và cơ cấu tổ\nchức các cơ quan chuyên môn thuộc UBND cấp huyện; quyết định thành lập, sáp nhập,\nhợp nhất, chia, tách, giải thể, đổi tên, quy định chức năng, nhiệm vụ, quyền hạn\ncác đơn vị sự nghiệp thuộc UBND cấp huyện sau khi được UBND Tỉnh phê duyệt (trừ\ncác đơn vị sự nghiệp mà pháp luật quy định thuộc thẩm quyền UBND Tỉnh hoặc Chủ\ntịch UBND Tỉnh).</p>\n\n<p style=\"margin-top:6.0pt\">2. Chủ tịch UBND cấp huyện:</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định thành lập, sáp nhập, hợp nhất, đổi tên,\nchia tách, giải thể và phê duyệt điều lệ Hội có phạm vi hoạt động trong các xã,\nphường, thị trấn, theo quy định hiện hành của Nhà nước; Thực hiện chức năng quản\nlý nhà nước đối với Hội, các tổ chức thuộc Bộ, ngành Trung ương và địa phương\nkhác đặt trụ sở, chi nhánh, văn phòng đại diện tại địa phương mình.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">QUẢN LÝ BIÊN CHẾ CÔNG CHỨC\nVÀ VỊ TRÍ VIỆC LÀM VIÊN CHỨC</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_1\"><b>Mục 1. NỘI DUNG QUẢN LÝ</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b>Điều 12. Nội dung quản lý biên\nchế công chức, vị trí việc làm viên chức</b> </a></p>\n\n<p style=\"margin-top:6.0pt\">1. Xây dựng kế hoạch biên chế công chức, đề án vị\ntrí việc làm và cơ cấu ngạch công chức; đề án vị trí việc làm viên chức trong\ncác đơn vị sự nghiệp, hướng dẫn xác định biên chế công chức, vị trí việc làm\nviên chức. </p>\n\n<p style=\"margin-top:6.0pt\">2. Quyết định phân bổ, sử dụng biên chế công chức,\nvị trí việc làm viên chức.</p>\n\n<p style=\"margin-top:6.0pt\">3. Thanh tra, kiểm tra việc sử dụng biên chế công\nchức, vị trí việc làm viên chức.</p>\n\n<p style=\"margin-top:6.0pt\">4. Thực hiện chế độ thông tin báo cáo.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b>Điều 13.   Căn cứ\nxây dựng kế hoạch biên chế công chức, đề án vị trí việc làm và cấu ngạch công\nchức; đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp</b></a><b> </b></p>\n\n<p style=\"margin-top:6.0pt\">1. Vị trí việc làm phải phù hợp với chức năng, nhiệm\nvụ, quyền hạn và cơ cấu tổ chức của cơ quan, đơn vị.</p>\n\n<p style=\"margin-top:6.0pt\">2. Tính chất đặc thù, đặc điểm, mức độ phức tạp,\nquy mô, phạm vi đối tượng quản lý của ngành, lĩnh vực.</p>\n\n<p style=\"margin-top:6.0pt\">3. Khả năng ngân sách và kinh phí hoạt động do cơ\nquan nhà nước có thẩm quyền phân bổ hàng năm.</p>\n\n<p style=\"margin-top:6.0pt\">4. Định mức biên chế, vị trí việc làm do cơ quan có\nthẩm quyền ban hành.</p>\n\n<p style=\"margin-top:6.0pt\">5. Kế hoạch thực hiện xã hội hóa hoạt động đối với\nmột số lĩnh vực sự nghiệp về giáo dục và đào tạo, y tế, văn hóa thông tin, thể\ndục thể thao, nghiên cứu khoa học và sự nghiệp khác.</p>\n\n<p style=\"margin-top:6.0pt\">6. Chất lượng đội ngũ cán bộ, công chức, viên chức\nhiện có và dự kiến nguồn cán bộ, công chức, viên chức thay thế.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_1\"><b>Mục 2. THẨM QUYỀN QUẢN LÝ BIÊN\nCHẾ CÔNG CHỨC, VỊ TRÍ VIỆC LÀM VIÊN CHỨC</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b>Điều 14.</b> <b>Thẩm quyền của\nUBND Tỉnh, Chủ tịch UBND Tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. UBND tỉnh:</p>\n\n<p style=\"margin-top:6.0pt\">a) Lập kế hoạch biên chế công chức, xây dựng đề án\nvị trí việc làm và cơ cấu ngạch công chức hàng năm gửi Bộ Nội vụ.</p>\n\n<p style=\"margin-top:6.0pt\">b) Xây dựng đề án vị trí việc làm trong các đơn vị\nsự nghiệp công lập của Tỉnh gửi Bộ Nội vụ.</p>\n\n<p style=\"margin-top:6.0pt\">c) Trình HĐND Tỉnh phê duyệt tổng biên chế công chức,\ntổng chỉ tiêu vị trí làm việc trong các đơn vị sự nghiệp hàng năm.</p>\n\n<p style=\"margin-top:6.0pt\">d) Trình HĐND Tỉnh phê duyệt số lượng cán bộ, công\nchức cấp xã, số lượng, chức danh, mức phụ cấp cho những người hoạt động không\nchuyên trách cấp xã và thôn, buôn, khu phố.</p>\n\n<p style=\"margin-top:6.0pt\">2. Chủ tịch UBND tỉnh:</p>\n\n<p style=\"margin-top:6.0pt\">a) Chỉ đạo các sở, ban, ngành, UBND cấp huyện xây dựng\nđề án vị trí việc làm và cơ cấu ngạch công chức, lập kế hoạch biên chế công chức\nvà xây dựng đề án vị trí việc làm trong các đơn vị sự nghiệp hàng năm.</p>\n\n<p style=\"margin-top:6.0pt\">b) Quyết định phân bổ chỉ tiêu biên chế công chức\nvà vị trí việc làm trong các đơn vị sự nghiệp cho các sở, ban, ngành tỉnh, UBND\ncấp huyện sau khi có Nghị quyết của HĐND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">c) Căn cứ quy định của Trung ương và Nghị quyết của\nHĐND Tỉnh ra quyết định phân bổ số lượng cán bộ chuyên trách và công chức cấp\nxã.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13_1\"><b>Điều 13.   Căn cứ\nxây dựng kế hoạch biên chế công chức, đề án vị trí việc làm và cấu ngạch công\nchức; đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Chỉ đạo, hướng dẫn các đơn vị trực thuộc xây dựng\nđề án vị trí việc làm, lập kế hoạch biên chế theo hướng dẫn của cơ quan có thẩm\nquyền quản lý biên chế.</p>\n\n<p style=\"margin-top:6.0pt\">2. Kiểm tra, điều chỉnh kế hoạch biên chế của các\nđơn vị trực thuộc, bảo đảm sự phù hợp giữa kế hoạch biên chế với chức năng, nhiệm\nvụ, vị trí việc làm.</p>\n\n<p style=\"margin-top:6.0pt\">- Lập quy hoạch, kế hoạch xây dựng đội ngũ cán bộ,\ncông chức, viên chức để có kế hoạch đào tạo, bồi dưỡng, từng bước thực hiện\ntiêu chuẩn hóa cán bộ, công chức, viên chức;</p>\n\n<p style=\"margin-top:6.0pt\">- Thống kê, đánh giá số lượng, chất lượng cán bộ,\ncông chức, viên chức trong phạm vi đơn vị mình quản lý theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">3. Hướng dẫn các đơn vị sự nghiệp tự đảm bảo toàn bộ\nchi phí hoạt động xây dựng kế hoạch tuyển dụng và sử dụng viên chức, bảo đảm\nphù hợp với chức năng, nhiệm vụ của đơn vị.</p>\n\n<p style=\"margin-top:6.0pt\">4. Xây dựng kế hoạch biên chế công chức theo đề án\nvị trí việc làm và cơ cấu ngạch công chức đã được cấp thẩm quyền phê duyệt; xây\ndựng đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp của đơn vị, báo\ncáo UBND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">5. Xây dựng kế hoạch và đề xuất các yêu cầu, điều\nkiện về tuyển dụng công chức các cơ quan hành chính, viên chức các đơn vị sự\nnghiệp trực thuộc.</p>\n\n<p style=\"margin-top:6.0pt\">6. Định kỳ hoặc theo yêu cầu đột xuất, báo cáo biến\nđộng về biên chế của ngành, địa phương mình cho UBND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b>Điều 16. Trách nhiệm, quyền hạn\ncủa Giám đốc Sở Nội vụ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Hướng dẫn các cơ quan, đơn vị, địa phương xây dựng\nđề án vị trí việc làm và cơ cấu ngạch công chức, kế hoạch biên chế công chức, đề\nán vị trí việc làm viên chức.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thẩm định đề án vị trí việc làm và cơ cấu ngạch\ncông chức, kế hoạch biên chế công chức, đề án xác định vị trí việc làm viên chức\ncủa các cơ quan, đơn vị, địa phương thuộc UBND Tỉnh quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">3. Tổng hợp đề án vị trí việc làm và cơ cấu ngạch\ncông chức, xây dựng kế hoạch biên chế công chức, đề án vị trí việc làm viên chức\nhàng năm của Tỉnh, báo cáo UBND Tỉnh xem xét, trình Bộ Nội vụ theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">4. Tham mưu cho Chủ tịch UBND Tỉnh quyết định phân\nbổ chỉ tiêu biên chế công chức, chỉ tiêu vị trí việc làm viên chức cho các sở,\nban, ngành tỉnh, UBND cấp huyện, sau khi có Nghị quyết của HĐND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">5. Hướng dẫn, thanh tra, kiểm tra việc quản lý, sử\ndụng biên chế công chức, chỉ tiêu vị trí việc làm viên chức của các sở, ban,\nngành và UBND các huyện, thị xã, thành phố; giải quyết khiếu nại, tố cáo và xử\nlý những vi phạm về quản lý, sử dụng biên chế thuộc thẩm quyền theo quy định của\npháp luật; thực hiện chế độ báo cáo thống kê về tình hình sử dụng biên chế cho\nTrung ương theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">6. Kiểm tra việc tổ chức thực hiện quy định về chức\nnăng, nhiệm vụ và bố trí biên chế công chức, chỉ tiêu vị trí việc làm viên chức\ncủa các sở, ban, ngành, UBND cấp huyện đã được UBND Tỉnh phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">TUYỂN DỤNG, NÂNG NGẠCH,\nCHUYỂN NGẠCH CÔNG CHỨC, THĂNG HẠNG, CHUYỂN CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_2\"><b>Mục 1.  NỘI DUNG TUYỂN DỤNG,\nNÂNG NGẠCH, CHUYỂN NGẠCH CÔNG CHỨC, THĂNG HẠNG, CHUYỂN CHỨC DANH NGHỀ NGHIỆP\nVIÊN CHỨC</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b>Điều 17.  Tuyển dụng công\nchức, viên chức; hợp đồng nhân viên theo Nghị định </b></a><b><a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a>  ngày\n17/11/2000 của Chính phủ</b></p>\n\n<p style=\"margin-top:6.0pt\">1. Việc tuyển dụng công chức, viên chức phải thực\nhiện công khai, minh bạch, công bằng, khách quan, đúng pháp luật và phải căn cứ\nvào nhu cầu nhiệm vụ, vị trí việc làm, chỉ tiêu biên chế công chức, chỉ tiêu vị\ntrí việc làm viên chức được cấp có thẩm quyền giao cho cơ quan, đơn vị, địa\nphương.</p>\n\n<p style=\"margin-top:6.0pt\">2. Người được tuyển dụng vào công chức, viên chức\nvà công chức xã, phường, thị trấn phải đảm bảo tiêu chuẩn, phải thông qua kỳ\nthi tuyển theo nguyên tắc cạnh tranh hoặc xét tuyển, tiếp nhận không qua thi\ntuyển theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">3. Thực hiện chế độ hợp lao động theo quy định tại\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a>  ngày 17/11/2000 của Chính phủ đối với các chức danh:\nlái xe, nhân viên bảo vệ, nhân viên phục vụ trong các cơ quan hành chính, đơn vị\nsự nghiệp do ngân sách nhà nước cấp kinh phí hoạt động thường xuyên có giao chỉ\ntiêu biên chế (trừ những người đã tuyển dụng vào biên chế trước ngày\n01/4/1993).</p>\n\n<p style=\"margin-top:6.0pt\">4. Thực hiện chế độ hợp đồng đối với đội ngũ y tế\ncơ sở theo quy định của tại Quyết định số <span style=\"background:#F9FAFC\">58/TTg\nngày 03/02/1994 của Thủ tướng Chính phủ quy định một số vấn đề về tổ chức và chế\nđộ chính sách đối với y tế cơ sở. </span></p>\n\n<p style=\"margin-top:6.0pt\">5. Hàng năm, chậm nhất 06 (sáu) tháng, kể từ ngày cơ\nquan có thẩm quyền quyết định giao biên chế công chức, chỉ tiêu tiêu vị trí việc\nlàm viên chức, cơ quan, đơn vị sử dụng công chức, viên chức phải có kế hoạch tổ\nchức tuyển dụng công chức, viên chức đối với số biên chế, chỉ tiêu chưa sử dụng.\n</p>\n\n<p style=\"margin-top:6.0pt\">6. Thực hiện việc quản lý, sử dụng biên chế công chức,\nchỉ tiêu vị trí việc làm viên chức đúng quy định. </p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18\"><b>Điều 18.</b> <b>Nâng ngạch\ncông chức, thăng hạng viên chức</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Việc nâng ngạch công chức phải căn cứ vào vị trí\nviệc làm, phù hợp với cơ cấu ngạch công chức của cơ quan, đơn vị sử dụng công\nchức đã được xác định và phải thông qua kỳ thi nâng ngạch theo nguyên tắc cạnh\ntranh.</p>\n\n<p style=\"margin-top:6.0pt\">2. Việc thăng hạng chức danh nghề nghiệp viên chức\n(viết tắt là thăng hạng viên chức) phải căn cứ vào nhu cầu, tiêu chuẩn, điều kiện,\nsố lượng vị trí việc làm và cơ cấu viên chức theo chức danh nghề nghiệp của đơn\nvị sự nghiệp công lập và thông qua kỳ thi hoặc xét thăng hạng viên chức theo\nquy định. UBND tỉnh chủ trì, phối hợp với Bộ Nội vụ tổ chức thi hoặc xét thăng\nhạng viên chức từ hạng III lên hạng II, đồng thời chủ trì tổ chức thi hoặc xét\nthăng hạng viên chức từ hạng IV lên hạng III.</p>\n\n<p style=\"margin-top:6.0pt\">3. Người trúng tuyển trong kỳ thi nâng ngạch công\nchức, thăng hạng hoặc xét thăng hạng viên chức được cơ quan có thẩm quyền ra\nquyết định bổ nhiệm ngạch công chức, bổ nhiệm hạng viên chức theo quy định. </p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_19\"><b>Điều 19. Chuyển ngạch công chức,\nchuyển chức danh nghề nghiệp cho viên chức</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Việc chuyển ngạch được thực hiện khi công chức\nthay đổi vị trí việc làm hoặc theo quy định phải chuyển đổi vị trí công tác mà\nngạch công chức đang giữ không phù hợp với yêu cầu ngạch công chức của vị trí\nviệc làm mới. Ngạch công chức mới được bổ nhiệm phải có cùng thứ bậc về chuyên\nmôn, nghiệp vụ.<b> </b>Công chức được chuyển ngạch phải đáp ứng tiêu chuẩn\nchuyên môn, nghiệp vụ của ngạch được chuyển và phù hợp với nhiệm vụ, quyền hạn\nđược giao. </p>\n\n<p style=\"margin-top:6.0pt\">2. Thay đổi chức danh nghề nghiệp của viên chức là\nviệc chuyển từ chức danh nghề nghiệp này sang chức danh nghề nghiệp khác cùng hạng,\nphù hợp với vị trí việc làm và đủ tiêu chuẩn chuyên môn, nghiệp vụ của chức\ndanh nghề nghiệp được chuyển.</p>\n\n<p style=\"margin-top:6.0pt\">3. Việc chuyển ngạch công chức, thay đổi chức danh\nnghề nghiệp viên chức được cơ quan có thẩm quyền quản lý công chức, viên chức\nra quyết định bổ nhiệm ngạch công chức, chức danh nghề nghiệp viên chức mới.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_2\"><b>Mục 2.  THẨM QUYỀN TUYỂN\nDỤNG, NÂNG NGẠCH, CHUYỂN NGẠCH CÔNG CHỨC, THĂNG HẠNG, CHUYỂN CHỨC DANH NGHỀ\nNGHIỆP VIÊN CHỨC</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_20\"><b>Điều 20.</b> <b>Thẩm quyền của\nChủ tịch UBND Tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Phê duyệt kế hoạch thi tuyển, xét tuyển công chức;\nkế hoạch thi nâng ngạch lên cán sự, chuyên viên và tương đương; phê duyệt kế hoạch\nthi tuyển, xét tuyển viên chức; kế hoạch thi hoặc xét thăng hạng viên chức theo\nquy định. </p>\n\n<p style=\"margin-top:6.0pt\">2. Quyết định thành lập hội đồng thi tuyển, xét tuyển\ncông chức, viên chức; quyết định công nhận kết quả kỳ thi tuyển, xét tuyển công\nchức, viên chức. </p>\n\n<p style=\"margin-top:6.0pt\">3. Quyết định thành lập Hội đồng thi nâng ngạch lên\ncán sự, chuyên viên và tương đương đối với công chức, Hội đồng thi thăng hạng\nhoặc xét thăng hạng viên chức từ hạng IV lên hạng III và từ hạng III lên hạng\nII. Quyết định công nhận kết quả các kỳ thi nâng ngạch công chức, thăng hạng hoặc\nxét thăng hạng viên chức.</p>\n\n<p style=\"margin-top:6.0pt\">4. Quyết định cử cán bộ, công chức, viên chức tham\ndự kỳ thi nâng ngạch chuyên viên chính và tương đương trở lên, thi thăng hạng\nviên chức từ hạng II lên hạng I; Quyết định bổ nhiệm ngạch Thanh tra viên,\nThanh tra viên chính, viên chức hạng II theo chức danh nghề nghiệp và một số ngạch\nkhác theo quy định của pháp luật; Quyết định chuyển ngạch, chuyển chức danh nghề\nnghiệp đối với các chức danh được quy định tại Điểm a, Khoản 2 và Điểm a, b Khoản\n3, Điều 25.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_21\"><b>Điều 21.</b> <b>Nhiệm vụ, thẩm\nquyền của Giám đốc Sở Nội vụ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Tham mưu UBND Tỉnh xây dựng kế hoạch thi tuyển,\nxét tuyển công chức, kế hoạch thi nâng ngạch lên cán sự, chuyên viên và tương\nđương; xây dựng kế hoạch thi hoặc xét thăng hạng viên chức từ hạng III lên hạng\nII; thẩm định trình Chủ tịch UBND Tỉnh phê duyệt kế hoạch thi tuyển hoặc xét\ntuyển dụng viên chức, thi hoặc xét thăng hạng viên chức hạng IV lên hạng III;\nthẩm định và có ý kiến thống nhất đối với kế hoạch thi tuyển công chức cấp xã. </p>\n\n<p style=\"margin-top:6.0pt\">2. Chủ trì, phối hợp với các cơ quan có liên quan\ngiúp UBND tỉnh: tổ chức kỳ thi tuyển, xét tuyển, xét tiếp nhận công chức không\nqua thi tuyển, tổ chức thi nâng ngạch lên cán sự, chuyên viên và tương đương đối\nvới công chức; thi tuyển hoặc xét tuyển viên chức, thi hoặc xét thăng hạng viên\nchức từ hạng III lên hạng II, hạng IV lên hạng III theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">3.<b> </b>Thực hiện giám sát các kỳ thi tuyển, xét\ntuyển công chức cấp xã theo quy định của Nhà nước.<b> </b></p>\n\n<p style=\"margin-top:6.0pt\">4. Quyết định tuyển dụng, bổ nhiệm ngạch công chức\ntrúng tuyển kỳ thi hoặc xét tuyển, xét tiếp nhận sau khi UBND Tỉnh có quyết định\ncông nhận kết quả trúng tuyển; Quyết định công nhận hết thời gian tập sự công\nchức. Quyết định bổ nhiệm chức danh nghề nghiệp viên chức từ hạng III trở xuống.</p>\n\n<p style=\"margin-top:6.0pt\">5. Xét chuyển viên chức và cán bộ, công chức cấp xã\nthành công chức Nhà nước theo quy định pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">6. Xét chuyển ngạch công chức, chuyển chức danh nghề\nnghiệp viên chức khi thay đổi vị trí việc làm theo quy định của pháp luật (trừ\ncác chức danh thuộc thẩm quyền của Chủ tịch UBND Tỉnh).</p>\n\n<p style=\"margin-top:6.0pt\">7. Thẩm định hồ sơ cán bộ, công chức tham dự kỳ thi\nnâng ngạch chuyên viên chính và tương đương trở lên và viên chức từ hạng II lên\nhạng I, trình Chủ tịch UBND tỉnh quyết định cử dự thi.</p>\n\n<p style=\"margin-top:6.0pt\">8. Quyết định bổ nhiệm ngạch và xếp lương công chức\ntừ ngạch chuyên viên chính và tương đương trở xuống, sau khi có quyết định công\nnhận kết quả kỳ thi hoặc xét nâng ngạch không qua thi (trừ những ngạch theo quy\nđịnh của pháp luật thuộc thẩm quyền quyết định bổ nhiệm của Chủ tịch UBND Tỉnh).</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_22\"><b>Điều 22.</b> <b>Nhiệm vụ, thẩm\nquyền của người đứng đầu các sở, ban, ngành tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Trên cơ sở biên chế công chức, chỉ tiêu vị trí\nviệc làm viên chức được Chủ tịch UBND tỉnh giao, quyết định phân bổ cho các đơn\nvị trực thuộc; đề nghị cơ quan có thẩm quyền tổ chức thi tuyển hoặc xét tuyển\ncông chức; phối hợp với các ngành chức năng tổ chức thi tuyển hoặc xét tuyển\nviên chức theo quy định để tuyển dụng vào biên chế, chỉ tiêu vị trí việc làm\nchưa tuyển dụng trong phạm vi chỉ tiêu, biên chế được giao. Cử thí sinh tham dự\nkỳ thi tuyển công chức hoặc thi nâng ngạch công chức do Hội đồng thi tỉnh tổ chức\nthi.</p>\n\n<p style=\"margin-top:6.0pt\">2. Xây dựng kế hoạch thi tuyển, xét tuyển viên chức,\nkế hoạch thi hoặc xét thăng hạng viên chức từ hạng IV lên hạng III, trình cấp\ncó thẩm quyền phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">3. Tổ chức thông báo công khai trên các phương tiện\nthông tin đại chúng và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn\nvị về tiêu chuẩn, điều kiện, số lượng cần tuyển dụng vào các vị trí việc làm,\nthời hạn và địa điểm tiếp nhận hồ sơ. Tổ chức tiếp nhận hồ sơ đăng ký dự tuyển\nthời gian ít nhất 30 ngày, kể từ ngày thông báo công khai trên các phương tiện\nthông tin đại chúng.</p>\n\n<p style=\"margin-top:6.0pt\">Chậm nhất 07 ngày trước ngày thi tuyển, xét tuyển\nviên chức hoặc cử công chức tham dự kỳ thi tuyển do tỉnh tổ chức, phải niêm yết\ncông khai tại trụ sở làm việc của cơ quan, đơn vị danh sách những người đủ điều\nkiện dự tuyển hoặc những người được Hội đồng sơ tuyển của đơn vị chọn, cử dự\nthi công chức. </p>\n\n<p style=\"margin-top:6.0pt\">4. Thông báo kết quả trúng tuyển kỳ thi hoặc xét\ntuyển dụng viên chức tới người dự thi, sau khi có quyết định công nhận kết quả\nkỳ thi tuyển, xét tuyển của cấp có thẩm quyền; ký hợp đồng làm việc đối với những\nngười trúng tuyển vào viên chức hoặc phân cấp cho người đứng đầu đơn vị sự nghiệp\nsử dụng viên chức ký hợp đồng.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_23\"><b>Điều 23.</b> <b>Nhiệm vụ,</b> <b>thẩm\nquyền của Chủ tịch UBND cấp huyện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thực hiện theo quy định tại Điều 22 Quy định\nnày.</p>\n\n<p style=\"margin-top:6.0pt\">2. Xây dựng kế hoạch thi tuyển, xét tuyển công chức\ncấp xã trình Sở Nội vụ phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">3. Tổ chức thi tuyển hoặc xét tuyển dụng công chức\ncấp xã thuộc thẩm quyền theo quy định của nhà nước, xem xét phê duyệt danh sách\ntuyển dụng những người hoạt động không chuyên trách cấp xã và có sự giám sát của\nSở Nội vụ. </p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_5\"><b>Chương V</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span style=\"font-size:12.0pt\">QUẢN LÝ, SỬ DỤNG CÁN BỘ,\nCÔNG CHỨC, VIÊN CHỨC</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_3\"><b>Mục 1. NỘI DUNG QUẢN LÝ</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_24\"><b>Điều 24.</b> <b>Nội dung quản lý,\nsử dụng cán bộ, công chức, viên chức</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Quản lý về số lượng, chất lượng, sử dụng, đánh\ngiá, quy hoạch, đào tạo, bồi dưỡng, bổ nhiệm, miễn nhiệm, điều động, luân chuyển,\nbiệt phái, thuyên chuyển.</p>\n\n<p style=\"margin-top:6.0pt\">2. Giải quyết các chế độ chính sách như: tiền\nlương, phụ cấp, nghỉ hưu thôi việc, đãi ngộ, thu hút và một số chính sách khác\ntheo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">3. Thực hiện công tác đào tạo, khen thưởng, kỷ luật,\nquản lý hồ sơ cán bộ, công chức, viên chức; thống kê, báo cáo tình hình sử dụng,\nquản lý cán bộ, công chức, viên chức theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">4. Thanh tra, kiểm tra việc thực hiện các quy định\ncủa pháp luật về quản lý, sử dụng và các chế độ chính sách đối với cán bộ, công\nchức, viên chức; giải quyết khiếu nại, tố cáo theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">5. Đánh giá cán bộ, công chức, viên chức hàng năm về\ncác mặt: phẩm chất chính trị, đạo đức, năng lực, trình độ chuyên môn, nghiệp vụ,\nkết quả thực hiện nhiệm vụ được giao; có kế hoạch xây dựng chiến lược, kế hoạch,\nquy hoạch, chương trình phát triển đội ngũ cán bộ, công chức, viên chức.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_3\"><b>Mục 2. THẨM QUYỀN QUẢN LÝ, SỬ\nDỤNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_25\"><b>Điều 25. Thẩm quyền của Chủ tịch\nUBND Tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Chịu trách nhiệm trước Chính phủ, Ban Thường vụ\nTỉnh ủy, Ban cán sự Đảng UBND Tỉnh và UBND Tỉnh trong việc lãnh đạo, chỉ đạo và\nkiểm tra thực hiện các nghị quyết, chủ trương, chính sách của Đảng, pháp luật của\nNhà nước về cán bộ, công chức, viên chức và công tác cán bộ trong phạm vi phụ\ntrách.</p>\n\n<p style=\"margin-top:6.0pt\">Đề nghị Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy\nvề quy hoạch, bố trí, phân công công tác; điều động, luân chuyển, giới thiệu ứng\ncử, bổ nhiệm, miễn nhiệm; khen thưởng, kỷ luật, nghỉ hưu và thực hiện chính\nsách cán bộ đối với các chức danh lãnh đạo ở các cơ quan trực thuộc UBND tỉnh\nthuộc thẩm quyền quyết định của Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy theo\nphân cấp quản lý cán bộ hiện hành của Ban Thường vụ Tỉnh ủy. </p>\n\n<p style=\"margin-top:6.0pt\">Giới thiệu nhân sự tham gia Ban chấp hành Trung\nương hội của các hội do UBND Tỉnh quản lý (trừ các chức danh do Ban Thường vụ Tỉnh\nủy quản lý).</p>\n\n<p style=\"margin-top:6.0pt\">Cử cán bộ đi học tập trong và ngoài nước; cho phép\ncán bộ đi công tác nước ngoài (trừ các chức danh cán bộ thuộc diện Thường trực\nTỉnh ủy; Ban Thường vụ Tỉnh ủy quản lý).</p>\n\n<p style=\"margin-top:6.0pt\">2. Trực tiếp quyết định đối với một số chức danh\ncán bộ, công chức, viên chức lãnh đạo thuộc UBND Tỉnh quản lý:</p>\n\n<p style=\"margin-top:6.0pt\">a) Quyết định bổ nhiệm, miễn nhiệm, cách chức, từ\nchức, khen thưởng, kỷ luật, điều động, luân chuyển cán bộ, công chức, viên chức\nlãnh đạo, quản lý sau khi có kết luận của Ban Thường vụ Tỉnh ủy, bao gồm: Chủ tịch\nUBND cấp huyện; Giám đốc, Phó Giám đốc sở, ban, ngành và tương đương, Hiệu trưởng,\nPhó Hiệu trưởng Trường Đại học Phú Yên, Hiệu trưởng các Trường Cao đẳng thuộc\nUBND tỉnh. (Riêng việc bổ nhiệm, miễn nhiệm, cách chức Chánh Thanh tra tỉnh phải\ncó sự thống nhất của Tổng Thanh tra Chính phủ); cho ý kiến về nhân sự dự bầu chức\ndanh Chủ tịch các Hội trước khi tổ chức Đại hội gồm: Văn học Nghệ thuật; Liên\nhiệp các Hội Khoa học Kỹ thuật tỉnh; Liên minh HTX tỉnh; Hội Nhà báo; Hội Chữ\nthập đỏ; Hội Y học cổ truyền sau khi có ý kiến kết luận của Thường trực Tỉnh ủy\n(Ban Thường vụ Tỉnh ủy).</p>\n\n<p style=\"margin-top:6.0pt\">b) Quyết định bổ nhiệm lại, kéo dài thời gian công\ntác chờ nghỉ hưu các chức danh lãnh đạo, quản lý tại Điểm a, khoản 2 Điều này,\nsau khi có kết luận Ban cán sự Đảng UBND tỉnh. Phê chuẩn kết quả bầu cử, miễn\nnhiệm, bãi nhiệm các thành viên UBND cấp dưới trực tiếp.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"diem_2_25\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752757')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752757')\" atmm=\".lqhlTootip-752757\" onmouseout=\"hideddrivetip();\">c) Quyết định, bổ nhiệm, miễn\nnhiệm, bãi nhiệm, khen thưởng, kỷ luật điều động, luân chuyển cán bộ sau khi có\nkết luận thống nhất của Ban cán sự Đảng UBND tỉnh bao gồm các chức danh: Phó Chủ\ntịch UBND các huyện thực hiện thí điểm không có tổ chức HĐND, Chủ tịch, Phó Chủ\ntịch các hội trực thuộc UBND Tỉnh (trừ các chức danh do Ban Thường vụ Tỉnh ủy\nquản lý); Phó Hiệu trưởng các Trường Cao đẳng thuộc UBND tỉnh; Giám đốc, Phó\nGiám đốc Bệnh viện đa khoa tỉnh và các bệnh viện chuyên khoa tỉnh xếp hạng II\ntrở lên; Chủ tịch, Phó Chủ tịch Hội đồng quản trị, Giám đốc, Phó Giám đốc, Kiểm\nsoát viên các công ty trách nhiệm hữu hạn một thành viên và người được cử làm đại\ndiện chủ sở hữu phần vốn của Nhà nước tại doanh nghiệp có vốn góp của Nhà nước</a>.</p>\n\n<p style=\"margin-top:6.0pt\">d) Quyết định bổ nhiệm, miễn nhiệm hoặc cho ý kiến\ngiới thiệu, hiệp y đối với một số chức danh khác theo quy định của pháp luật và\nphân cấp quản lý cán bộ của Ban Thường vụ Tỉnh ủy.</p>\n\n<p style=\"margin-top:6.0pt\">3. Trực tiếp quản lý các chức danh: </p>\n\n<p style=\"margin-top:6.0pt\">a) Chuyên viên cao cấp (tương đương); Tiến sỹ, Phó\nGiáo sư, Giáo sư trong các cơ quan hành chính, đơn vị sự nghiệp thuộc UBND Tỉnh\nquản lý.</p>\n\n<p style=\"margin-top:6.0pt\">b) Chủ tịch, Phó Chủ tịch Hội đồng quản trị, Tổng\nGiám đốc, Phó Tổng Giám đốc, Giám đốc, Phó Giám đốc đại diện cho Tỉnh trong các\ncông ty liên doanh giữa doanh nghiệp Nhà nước của Tỉnh với doanh nghiệp trong\nnước và nước ngoài; cán bộ, công chức, viên chức được cử tham gia quản lý phần\nvốn nhà nước tại các công ty cổ phần được chuyển từ doanh nghiệp Nhà nước thuộc\nUBND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_4_25\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752758')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752758')\" atmm=\".lqhlTootip-752758\" onmouseout=\"hideddrivetip();\">4. Quyết định nghỉ hưu theo\nquy định hiện hành của Nhà nước đối với Phó Chủ tịch UBND tỉnh, cán bộ, công chức,\nviên chức quy định tại Điểm a, Khoản 2; Điểm a, b, Khoản 3 của Điều này</a>.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_5_25\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752759')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752759')\" atmm=\".lqhlTootip-752759\" onmouseout=\"hideddrivetip();\">5. Quyết định nâng bậc trước\nthời hạn cho cán bộ, công chức, viên chức thuộc diện Ban cán sự Đảng UBND tỉnh\nquản lý, các Phó Chủ tịch UBND cấp huyện</a>. </p>\n\n<p style=\"margin-top:6.0pt\">6. Quyết định nâng lương niên hạn, phụ cấp thâm\nniên vượt khung, thâm niên nghề, phụ cấp cho cán bộ, công chức, viên chức thuộc\ndiện Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy, Ban cán sự đảng UBND Tỉnh và\nUBND Tỉnh quản lý; cán bộ, công chức, viên chức là chuyên viên cao cấp và tương\nđương thuộc khối Nhà nước (kể cả cán bộ, công chức ở cơ quan Hội đồng nhân dân\ncác cấp). </p>\n\n<p style=\"margin-top:6.0pt\">7. Quyết định nâng lương trước thời hạn cho cán bộ,\ncông chức, viên chức thuộc diện Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy quản\nlý, cán bộ, công chức, viên chức là chuyên viên cao cấp và tương đương thuộc khối\nNhà nước (kể cả cán bộ, công chức ở cơ quan Hội đồng nhân dân các cấp), sau khi\ncó ý kiến đồng ý của Thường trực Tỉnh ủy. (Riêng nâng lương trước thời hạn đối\nvới chuyên viên cao cấp và tương đương phải có ý kiến thống nhất của Bộ Nội vụ).</p>\n\n<p style=\"margin-top:6.0pt\">8. Trực tiếp hoặc ủy quyền cho Phó Chủ tịch UBND tỉnh\ngặp mặt trước khi nghỉ hưu đối với cán bộ, công chức, viên chức thuộc diện được\nquy định tại Điểm a, Khoản 2; Điểm a, b, Khoản 3 Điều này. Giám đốc các sở,\nban, ngành (tương đương), Chủ tịch UBND cấp huyện gặp mặt cán bộ, công chức trước\nkhi nghỉ hưu đối với các chức danh còn lại.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_26\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-625016')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-625016')\" atmm=\".lqhlTootip-625016\" onmouseout=\"hideddrivetip();\"><b>Điều 26. Nhiệm vụ, thẩm quyền\ncủa Giám đốc Sở Nội vụ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Thẩm định, trình Ban cán sự Đảng UBND Tỉnh, Chủ\ntịch UBND Tỉnh bổ nhiệm, miễn nhiệm, điều động, luân chuyển, kỷ luật, nghỉ hưu,\nđối với các chức danh thuộc thẩm quyền quản lý của Ban Thường vụ Tỉnh ủy, UBND\nTỉnh. Thẩm định đề nghị Ban cán sự Đảng UBND Tỉnh cho ý kiến trình Ban Thường vụ\nTỉnh ủy, Thanh tra Chính phủ cho ý kiến thống nhất để tham mưu Chủ tịch UBND Tỉnh\nra quyết định bổ nhiệm, miễn nhiệm, cách chức Chánh Thanh tra tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_2_26\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752760')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752760')\" atmm=\".lqhlTootip-752760\" onmouseout=\"hideddrivetip();\">2. Thẩm định, tham mưu Chủ tịch\nUBND Tỉnh quyết định bổ nhiệm vào ngạch và xếp lương đối với các ngạch công chức,\nhạng viên chức thuộc thẩm quyền bổ nhiệm của Chủ tịch UBND Tỉnh. Quyết định tuyển\ndụng, bổ nhiệm và xếp ngạch lương chuyên viên chính và tương đương trở xuống đối\nvới công chức</a>.</p>\n\n<p style=\"margin-top:6.0pt\">3. Thẩm định, trình Chủ tịch UBND tỉnh quyết định\nnâng bậc lương thường xuyên, nâng bậc lương trước thời hạn, phụ cấp thâm niên\nvượt khung, thâm niên nghề, phụ cấp đặc thù đối với cán bộ, công chức, viên chức\nthuộc diện Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy và UBND Tỉnh quản lý, cán\nbộ, công chức, viên chức là chuyên viên cao cấp và tương đương thuộc khối Nhà\nnước (kể cả cán bộ, công chức ở cơ quan Hội đồng nhân dân các cấp) theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_4_26\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752761')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752761')\" atmm=\".lqhlTootip-752761\" onmouseout=\"hideddrivetip();\">4. Quyết định nâng bậc lương\nthường xuyên, phụ cấp thâm niên vượt khung, nâng lương trước thời hạn đối với\ncán bộ, công chức, viên chức ngạch chuyên viên chính và tương đương của các sở,\nban, ngành, UBND các huyện, thị xã, thành phố (trừ các chức danh do UBND Tỉnh\nquản lý); quyết định nâng bậc lương thường xuyên và trước thời hạn cho Phó Giám\nđốc, Kế toán trưởng và kiểm soát viên doanh nghiệp Nhà nước</a>.</p>\n\n<p style=\"margin-top:6.0pt\">Thẩm định và ký xác nhận danh sách đề nghị nâng bậc\nlương trước thời hạn; các loại phụ cấp đối với cán bộ, công chức, viên chức\ntheo quy định pháp luật. </p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_5_26\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752762')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752762')\" atmm=\".lqhlTootip-752762\" onmouseout=\"hideddrivetip();\">5. Xây dựng kế hoạch đào tạo,\nbồi dưỡng cán bộ, công chức, viên chức thuộc khối Nhà nước, cán bộ công chức cấp\nxã, trình UBND Tỉnh phê duyệt và phối hợp với các cơ quan có liên quan tổ chức\nthực hiện sau khi được UBND Tỉnh phê duyệt</a>. </p>\n\n<p style=\"margin-top:6.0pt\">6. Thỏa thuận bằng văn bản để Giám đốc các sở, ban,\nngành; Chủ tịch UBND các huyện, thị xã, thành phố quyết định về xử lý kỷ luật hạ\nbậc lương đối với công chức, viên chức ngạch chuyên viên chính và tương đương\n(trừ các chức danh do UBND Tỉnh, Ban Thường vụ Huyện ủy, Thị ủy, Thành ủy quản\nlý).</p>\n\n<p style=\"margin-top:6.0pt\">7. Quyết định điều động, tiếp nhận công chức ngoài\ntỉnh về tỉnh Phú Yên công tác và từ cơ quan, đơn vị địa phương này đến công tác\ncơ quan, đơn vị, địa phương khác theo đề nghị của các cơ quan, đơn vị, địa\nphương (trừ các đối tượng thuộc diện UBND tỉnh, quản lý). Quyết định điều động\nviên chức ra ngoài tỉnh và tiếp nhận viên chức ngoài tỉnh về công tác tại tỉnh\nPhú Yên.</p>\n\n<p style=\"margin-top:6.0pt\">8. Quyết định tiếp nhận và bố trí công chức, viên\nchức theo đề nghị của các sở, ban, ngành, UBND các huyện, thị xã, thành phố\ntheo chính sách thu hút nguồn nhân lực trí thức của Tỉnh (trừ các đối tượng thuộc\nUBND Tỉnh quản lý).</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_9_26\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752763')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752763')\" atmm=\".lqhlTootip-752763\" onmouseout=\"hideddrivetip();\">9. Xét thẩm định và ký xác nhận\ndanh sách hợp đồng lao động theo Nghị định số </a><a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2000/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx\">68/2000/NĐ-CP</a>  ngày 17/11/2000 của\nChính phủ và hợp đồng viên chức y tế cơ sở theo Quyết số 58/TTg ngày 03/02/1994\ncủa Thủ tướng Chính phủ, trên cơ sở đề nghị của các sở, ban, ngành, UBND huyện,\nthị xã, thành phố.</p>\n\n<p style=\"margin-top:6.0pt\">10. Hướng dẫn việc làm thẻ công chức, viên chức và\nkiểm tra việc sử dụng thẻ công chức, viên chức đối với cán bộ, công chức, viên\nchức các cơ quan hành chính, đơn vị sự nghiệp.</p>\n\n<p style=\"margin-top:6.0pt\">11. Tiến hành thanh tra, kiểm tra công vụ về thực\nhiện công tác tổ chức, biên chế, cán bộ, công chức, viên chức về thực hiện chế\nđộ, chính sách đối với cán bộ, công chức, viên chức tại các cơ quan hành chính,\nđơn vị sự nghiệp thuộc UBND Tỉnh và UBND các huyện, thị xã, thành phố. Kiểm tra\nviệc tổ chức thực hiện về quy định chức năng nhiệm vụ của các ngành được UBND Tỉnh\nphê duyệt và kiểm tra thực hiện công tác cải cách hành chính của các sở, ban,\nngành; UBND các huyện, thị xã, <a name=\"cumtu_26\">thành phố.</a><huongdan class=\"huong-dan-dieu-khoan\" id=\"span-note_cumtu_26\" onmouseover=\"ShowGuid(&quot;note_cumtu_26&quot;)\">Bổ&nbsp;sung</huongdan></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_27\"><b>Điều 27. Nhiệm vụ, quyền hạn của\nthủ trưởng các sở, ban, ngành cấp Tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Quản lý các chức danh trưởng, phó cấp phòng,\nban, chi cục và các đơn vị sự nghiệp trực thuộc (trừ các chức danh theo quy định\nthuộc thẩm quyền của Chủ tịch UBND Tỉnh) và <a name=\"cumtu_5\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752764')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752764')\" atmm=\".lqhlTootip-752764\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công\nchức, viên chức ngạch chuyên viên (tương đương) trở xuống.</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định hoặc phân cấp cho trưởng các phòng, ban\nvà tương đương, chi cục và các đơn vị sự nghiệp công lập trực thuộc trực tiếp\nquyết định thực hiện một hoặc một số nội dung quản lý theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">2. Quyết định bổ nhiệm, miễn nhiệm, xử lý kỷ luật\nTrưởng phòng, Phó Trưởng phòng và tương đương thuộc sở, ban, ngành. Bổ nhiệm,\nmiễn nhiệm, cách chức Chánh Thanh tra sở sau khi có thỏa thuận của Chánh Thanh\ntra tỉnh, <a name=\"cumtu_4\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752765')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752765')\" atmm=\".lqhlTootip-752765\" onmouseout=\"hideddrivetip();\">đề nghị Sở Nội vụ thẩm định và thực hiện quy trình\nbổ nhiệm Kế toán trưởng theo quy định</a>. Việc bổ nhiệm <a name=\"cumtu_6\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752766')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752766')\" atmm=\".lqhlTootip-752766\" onmouseout=\"hideddrivetip();\">cán\nbộ</a>, công chức, viên chức giữ các chức danh lãnh đạo phải bảo đảm lịch sử\nchính trị và chính trị hiện nay theo Quy định và phải gửi quyết định bổ nhiệm,\nmiễn nhiệm, xử lý kỷ luật về Sở Nội vụ để theo dõi quản lý <a name=\"cumtu_7\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752767')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752767')\" atmm=\".lqhlTootip-752767\" onmouseout=\"hideddrivetip();\">cán\nbộ</a>, công chức, viên chức.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_3_27\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752768')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752768')\" atmm=\".lqhlTootip-752768\" onmouseout=\"hideddrivetip();\">3. Nhận xét, đánh giá </a><a name=\"cumtu_8\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752769')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752769')\" atmm=\".lqhlTootip-752769\" onmouseout=\"hideddrivetip();\">cán bộ</a> công chức hàng năm theo quy định pháp luật. Triển\nkhai thực hiện các chế độ chính sách liên quan đối với các cán bộ, công chức,\nviên chức thuộc thẩm quyền quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">4. Đề nghị việc bổ nhiệm, miễn nhiệm, xử lý kỷ luật,\nkhen thưởng, nâng ngạch, chuyển ngạch, điều động, luân chuyển, biệt phái, đào tạo,\nbồi dưỡng, thực hiện các chế độ chính sách như: tiền lương, nghỉ hưu, thôi việc,\nchuyển công tác đối với <a name=\"cumtu_9\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752770')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752770')\" atmm=\".lqhlTootip-752770\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức, viên chức cho\ncơ quan có thẩm quyền giải quyết theo phân cấp quản lý tại Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_5_27\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752771')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752771')\" atmm=\".lqhlTootip-752771\" onmouseout=\"hideddrivetip();\">5. Bố trí, điều động, phân\ncông hợp lý </a><a name=\"cumtu_10\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752772')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752772')\" atmm=\".lqhlTootip-752772\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức, viên chức thuộc thẩm\nquyền quản lý; thẩm định hồ sơ, danh sách và quyết định nâng bậc lương niên hạn,\nphụ cấp thâm niên vượt khung đối với <a name=\"cumtu_11\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752773')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752773')\" atmm=\".lqhlTootip-752773\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức,\nviên chức ngạch chuyên viên (01.003) và tương đương trở xuống đang làm việc\ntrong các cơ quan hành chính và đơn vị sự nghiệp do ngân sách Nhà nước cấp kinh\nphí hoạt động thường xuyên có giao chỉ tiêu biên chế, đồng thời phải gửi danh\nsách <a name=\"cumtu_12\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752774')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752774')\" atmm=\".lqhlTootip-752774\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức, viên chức được nâng lương hàng\nnăm về Sở Nội vụ để kiểm tra, theo dõi. Riêng đối với <a name=\"cumtu_13\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752775')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752775')\" atmm=\".lqhlTootip-752775\" onmouseout=\"hideddrivetip();\">cán bộ</a>,\ncông chức, viên chức nâng lương trước thời hạn thì đơn vị phải có công văn đề\nnghị, kèm theo danh sách, biên bản họp Hội đồng xét nâng lương của đơn vị, phô\ntô quyết định lương gần nhất, quyết định khen thưởng của cấp có thẩm quyền gửi\nvề Sở Nội vụ để thẩm định xác nhận danh sách trước khi ra quyết định nâng lương\ntrước thời hạn.</p>\n\n<p style=\"margin-top:6.0pt\">6. Lập thủ tục đề nghị cơ quan có thẩm quyền quyết\nđịnh bổ nhiệm vào ngạch công chức, hạng viên chức đối với những <a name=\"cumtu_14\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752776')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752776')\" atmm=\".lqhlTootip-752776\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức, viên chức đạt kết quả kỳ thi tuyển, thi\nnâng ngạch công chức, thăng hạng viên chức theo quy định; công chức hết thời\ngian tập sự, thử việc.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_7_27\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752777')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752777')\" atmm=\".lqhlTootip-752777\" onmouseout=\"hideddrivetip();\">7. Lập thủ tục đề nghị Sở Nội\nvụ quyết định tiếp nhận và điều động công chức công tác ở cơ quan, đơn vị và địa\nphương khác về cơ quan, đơn vị mình; thuyên chuyển viên chức trong tỉnh ra\nngoài tỉnh và tiếp nhận viên chức ngoài tỉnh về công tác tại đơn vị mình</a>.</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định tiếp nhận viên chức công tác ở các cơ\nquan, đơn vị, địa phương khác thuộc phạm vi tỉnh Phú Yên về công tác tại cơ\nquan, đơn vị mình.</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định cho chấm dứt hợp đồng để chuyển công tác\nđối với viên chức của cơ quan, đơn vị mình đến công tác ở cơ quan, đơn vị và địa\nphương khác trong phạm vi tỉnh Phú Yên.</p>\n\n<p style=\"margin-top:6.0pt\">8. Lập thủ tục đề nghị cơ quan có thẩm quyền cử,\nthôi cử <a name=\"cumtu_15\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752778')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752778')\" atmm=\".lqhlTootip-752778\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức, viên chức thuộc phạm vi quản\nlý của mình tham gia quản lý tại các công ty liên doanh giữa doanh nghiệp do\nNhà nước làm chủ sở hữu thuộc UBND Tỉnh với các doanh nghiệp trong nước, nước\nngoài, cử người tham gia quản lý phần vốn của doanh nghiệp do Nhà nước làm chủ\nsở hữu thuộc UBND Tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">9. Quyết định nghỉ hưu, khen thưởng, kỷ luật cán bộ,\ncông chức từ ngạch chuyên viên chính (01.002) và tương đương trở xuống. Đối với\n<a name=\"cumtu_16\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752779')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752779')\" atmm=\".lqhlTootip-752779\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức ngạch chuyên viên chính (01.002) và\ntương đương trước ra quyết định xử lý hình thức kỷ luật hạ bậc lương (trừ các\nchức danh do UBND Tỉnh, Chủ tịch UBND Tỉnh quản lý) phải có văn bản thỏa thuận\ncủa Sở Nội vụ. Việc giải quyết chính sách nghỉ hưu thực hiện theo quy định hiện\nhành của của Nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\">10. Hướng dẫn, chỉ đạo các đơn vị sự nghiệp có thu\ntự bảo đảm toàn bộ kinh phí hoạt động (không giao chỉ tiêu biên chế) tổ chức\ntuyển dụng, bổ nhiệm, quyết định xử lý kỷ luật, nghỉ hưu, thôi việc đối với\nviên chức thuộc thẩm quyền quản lý theo đúng quy định của Nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\">Sau khi quyết định xử lý kỷ luật, nghỉ hưu đối với <a name=\"cumtu_17\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752780')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752780')\" atmm=\".lqhlTootip-752780\" onmouseout=\"hideddrivetip();\">cán bộ</a>, công chức, viên chức thuộc thẩm quyền quản lý, các\nsở, ban, ngành gửi báo cáo (kèm theo danh sách và quyết định của từng người) về\nSở Nội vụ để theo dõi, quản lý cán bộ, công chức, viên chức.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_28\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-625018')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-625018')\" atmm=\".lqhlTootip-625018\" onmouseout=\"hideddrivetip();\"><b>Điều 28. Nhiệm vụ, thẩm quyền\ncủa Chủ tịch UBND cấp huyện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Quản lý và trực tiếp bổ nhiệm, miễn nhiệm, cách\nchức các chức danh lãnh đạo, quản lý do Ban Thường vụ Huyện ủy, Thị ủy, Thành ủy\nphân cấp (trừ các chức danh quy định thuộc thẩm quyền của Chủ tịch UBND Tỉnh);\ncán bộ, công chức, viên chức ngạch chuyên viên (01.003) và tương đương trở xuống;\ncán bộ, công chức cấp xã.</p>\n\n<p style=\"margin-top:6.0pt\">Riêng việc bổ nhiệm, miễn nhiệm, cách chức Chánh\nThanh tra cấp huyện phải có văn bản thống nhất của Chánh Thanh tra tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định hoặc phân cấp cho người đứng đầu đơn vị\ncơ sở trực tiếp quyết định thực hiện một hoặc một số nội dung về quản lý, sử dụng\ncán bộ, công chức, viên chức.</p>\n\n<p style=\"margin-top:6.0pt\">2. Nhận xét, đánh giá, cán bộ, công chức, viên chức\nhàng năm; triển khai thực hiện các chế độ chính sách liên quan đến các cán bộ,\ncông chức, viên chức đang công tác tại các đơn vị thuộc quyền quản lý của địa\nphương mình.</p>\n\n<p style=\"margin-top:6.0pt\">3. Tham gia ý kiến nhận xét đối với việc bổ nhiệm,\nmiễn nhiệm cán bộ lãnh đạo các đơn vị thuộc ngành dọc quản lý đang hoạt động\ntrên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\">4. Đề nghị thi tuyển công chức, thi nâng ngạch,\nchuyển ngạch cho công chức, điều động, luân chuyển, biệt phái, đào tạo, bồi dưỡng,\nthực hiện các chế độ chính sách như: tiền lương, nghỉ hưu, thôi việc,... chuyển\ncông tác đối với cán bộ, công chức, viên chức cho cơ quan có thẩm quyền giải\nquyết theo phân cấp quản lý tại Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_5_28\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752781')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752781')\" atmm=\".lqhlTootip-752781\" onmouseout=\"hideddrivetip();\">5. Bố trí, điều động, phân\ncông cán bộ, công chức, viên chức thuộc thẩm quyền quản lý. Thẩm định danh\nsách, quyết định nâng bậc lương niên hạn, phụ cấp thâm niên vượt khung, đối với\ncán bộ, công chức, viên chức ngạch chuyên viên (01.003) và tương đương trở xuống\nđang làm việc trong các cơ quan hành chính và đơn vị sự nghiệp do ngân sách nhà\nnước cấp chi phí hoạt động thường xuyên có giao chỉ tiêu biên chế. Riêng nâng bậc\nlương trước thời hạn phải có thẩm định, xác nhận của Sở Nội vụ</a>.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_6_28\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752782')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752782')\" atmm=\".lqhlTootip-752782\" onmouseout=\"hideddrivetip();\">6. Lập thủ tục đề nghị Sở Nội\nvụ quyết định tiếp nhận và điều động công chức công tác ở cơ quan, đơn vị và địa\nphương khác về cơ quan, đơn vị mình; điều động viên chức ra ngoài tỉnh và tiếp\nnhận viên chức ngoài tỉnh về công tác tại địa phương mình</a>.</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định tiếp nhận viên chức công tác ở các cơ\nquan, đơn vị, địa phương khác thuộc phạm vi tỉnh Phú Yên về công tác tại địa\nphương mình.</p>\n\n<p style=\"margin-top:6.0pt\">Quyết định cho chấm dứt hợp đồng để chuyển công tác\nđối với viên chức của địa phương mình đến công tác ở cơ quan, đơn vị và địa\nphương khác trong phạm vi tỉnh Phú Yên.</p>\n\n<p style=\"margin-top:6.0pt\">7. Quyết định nghỉ hưu, khen thưởng, kỷ luật cán bộ,\ncông chức từ ngạch chuyên viên chính (01.002) và tương đương trở xuống <a name=\"cumtu_18\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-752783')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-752783')\" atmm=\".lqhlTootip-752783\" onmouseout=\"hideddrivetip();\">(trừ các chức danh do Ban Thường vụ Huyện ủy, Thị ủy, Thành ủy\nquản lý)</a>. Đối với cán bộ, công chức ngạch chuyên viên chính (01.002) và\ntương đương trước ra quyết định xử lý hình thức kỷ luật hạ bậc lương (trừ các\nchức danh do UBND Tỉnh, Chủ tịch UBND Tỉnh quản lý) phải có văn bản thỏa thuận\ncủa Sở Nội vụ. Việc giải quyết nghỉ hưu phải thực hiện đúng theo quy định hiện\nhành của Nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\">8. Hướng dẫn, chỉ đạo các đơn vị sự nghiệp có nguồn\nthu tự bảo đảm toàn bộ kinh phí hoạt động (không giao chỉ tiêu biên chế) tổ chức\ntuyển dụng, bổ nhiệm, quyết định xử lý kỷ luật, nghỉ hưu, thôi việc đối với\nviên chức thuộc thẩm quyền quản lý theo đúng quy định của nhà nước.</p>\n\n<p style=\"margin-top:6.0pt\">Sau khi bổ nhiệm, xử lý kỷ luật đối với cán bộ,\ncông chức, viên chức thuộc thẩm quyền quản lý, UBND huyện, thị xã, thành phố gửi\nquyết định của từng người về Sở Nội vụ để theo dõi quản lý <a name=\"cumtu_28\">cán\nbộ.</a><huongdan class=\"huong-dan-dieu-khoan\" id=\"span-note_cumtu_28\" onmouseover=\"ShowGuid(&quot;note_cumtu_28&quot;)\">Bổ&nbsp;sung</huongdan></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_6\"><b>Chương VI</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_6_name\"><b><span style=\"font-size:12.0pt\">ĐIỀU KHOẢN THI HÀNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_29\"><b>Điều 29.</b></a>  <a name=\"dieu_29_name\">Thủ trưởng các sở, ban, ngành; Chủ tịch UBND các huyện, thị\nxã, thành phố và Thủ trưởng các cơ quan, tổ chức liên quan có trách nhiệm tổ chức\ntriển khai thực hiện Quy định này, đồng thời cụ thể hóa việc phân cấp quản lý\ncho các đơn vị trực thuộc theo đúng quy định của Nhà nước và Quy định này.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_30\"><b>Điều 30.</b></a>  <a name=\"dieu_30_name\">Giám đốc Sở Nội vụ phối hợp với Chánh Văn phòng UBND tỉnh,\nThủ trưởng các sở, ban, ngành, Chủ tịch UBND cấp huyện có liên quan theo dõi,\nkiểm tra việc thực hiện Quy định này.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_31\"><b>Điều 31.</b></a>  <a name=\"dieu_31_name\">Khi thực hiện Quy định này nếu có văn bản quy phạm pháp luật\nkhác cùng quy định một nội dung trong bản Quy định này, thì áp dụng văn bản quy\nphạm pháp luật có hiệu lực pháp lý cao hơn.</a></p>\n\n<p style=\"margin-top:6.0pt\">Trong quá trình thực hiện, nếu phát sinh vấn đề vướng\nmắc, các sở, ban, ngành; UBND các huyện, thị xã, thành phố phản ánh về UBND Tỉnh\n(qua Sở Nội vụ) để nghiên cứu điều chỉnh, bổ sung cho phù hợp với quy định của\nNhà nước và tình hình thực tế của địa phương./.</p>\n\n<p><b><span lang=\"NL\"> </span></b></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH PHÚ YÊN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 11/2014/QĐ-UBND\n\n_Tuy Hòa, ngày 21 tháng 4 năm 2014_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH VỀ PHÂN CẤP QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, TIỀN LƯƠNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC CƠ QUAN HÀNH CHÍNH, ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP, CÁN BỘ, CÔNG CHỨC CẤP XÃ VÀ CÁC CHỨC DANH LÃNH ĐẠO QUẢN LÝ DOANH NGHIỆP DO NHÀ NƯỚC LÀM CHỦ SỞ HỮU THUỘC ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN\n\n**ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;_\n\n_Căn cứ Luật Cán bộ, công chức ngày 13 tháng 11 năm 2008 và các văn bản hướng dẫn thi hành Luật;_\n\n_Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010 và các văn bản hướng dẫn thi hành Luật;_\n\n_Căn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010 và các văn bản hướng dẫn thi hành Luật;_\n\n_Căn cứ Luật Doanh nghiệp ngày 29 tháng 11 năm 2005;_\n\n_Căn cứ Nghị định [68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp;_\n\n_Căn cứ Nghị định số [13/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-13-2008-nd-cp-to-chuc-co-quan-chuyen-mon-thuoc-uy-ban-nhan-dan-tinh-thanh-pho-truc-thuoc-trung-uong-62259.aspx \"Nghị định 13/2008/NĐ-CP\") ngày 04 tháng 02 năm 2008 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương;_\n\n_Căn cứ Nghị định số [14/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-14-2008-nd-cp-to-chuc-co-quan-chuyen-mon-thuoc-uy-ban-nhan-dan-huyen-quan-thi-xa-thanh-pho-thuoc-tinh-62233.aspx \"Nghị định 14/2008/NĐ-CP\") ngày 04 tháng 02 năm 2008 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh;_\n\n_Căn cứ Nghị định số [92/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-92-2009-nd-cp-chuc-danh-so-luong-che-do-chinh-sach-can-bo-cong-chuc-o-xa-phuong-thi-tran-va-nhung-nguoi-hoat-dong-khong-chuyen-trach-96422.aspx \"Nghị định 92/2009/NĐ-CP\") ngày 22 tháng 10 năm 2009 của Chính phủ về chức danh, số lượng, một số chế độ, chính sách đối với cán bộ, công chức ở xã, phường, thị trấn và những người hoạt động không chuyên trách ở cấp xã;_\n\n_Căn cứ Nghị định số [45/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/quyen-dan-su/nghi-dinh-45-2010-nd-cp-to-chuc-hoat-dong-quan-ly-hoi-104561.aspx \"Nghị định 45/2010/NĐ-CP\") ngày 21 tháng 4 năm 2010 của Chính phủ quy định về tổ chức, hoạt động và quản lý hội;_\n\n_Căn cứ Nghị định số [112/2011/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-112-2011-nd-cp-cong-chuc-xa-phuong-thi-tran-132674.aspx \"Nghị định 112/2011/NĐ-CP\") ngày 05 tháng 12 năm 2011 của Chính phủ về công chức xã, phường, thị trấn;_\n\n_Căn cứ Nghị định số [30/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/nghi-dinh-30-2012-nd-cp-to-chuc-hoat-dong-quy-xa-hoi-tu-thien-137920.aspx \"Nghị định 30/2012/NĐ-CP\") ngày 12 tháng 4 năm 2012 của Chính phủ quy định về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện;_\n\n_Căn cứ Nghị định số [41/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-41-2012-nd-cp-vi-tri-viec-lam-trong-don-vi-su-nghiep-cong-lap-138976.aspx \"Nghị định 41/2012/NĐ-CP\") ngày 08 tháng 5 năm 2012 của Chính phủ quy định về vị trí việc làm trong đơn vị sự nghiệp công lập;_\n\n_Căn cứ Nghị định số [55/2012/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-55-2012-nd-cp-quy-dinh-thanh-lap-to-chuc-lai-giai-the-don-vi-142237.aspx \"Nghị định 55/2012/NĐ-CP\") ngày 28 tháng 6 năm 2012 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập;_\n\n_Căn cứ Nghị định số [36/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-36-2013-nd-cp-vi-tri-viec-lam-va-co-cau-ngach-cong-chuc-183202.aspx \"Nghị định 36/2013/NĐ-CP\") ngày 22 tháng 4 năm 2013 của Chính phủ về vị trí việc làm và cơ cấu ngạch công chức;_\n\n_Xét đề nghị của Giám đốc Sở Nội vụ tại Tờ trình số 144/TTr-SNV ngày 15 tháng 4 năm 2014,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy định về phân cấp quản lý tổ chức bộ máy, biên chế, tiền lương cán bộ, công chức, viên chức cơ quan hành chính, đơn vị sự nghiệp công lập, cán bộ, công chức cấp xã và các chức danh lãnh đạo quản lý doanh nghiệp do Nhà nước làm chủ sở hữu thuộc Ủy ban nhân dân tỉnh Phú Yên.\n\n**Điều 2.** Giám đốc Sở Nội vụ chịu trách nhiệm tổ chức triển khai thực hiện và kiểm tra việc thực hiện Quyết định này.\n\n**Điều 3.** Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký ban hành và thay thế Quyết định số 672/QĐ-UBND ngày 22 tháng 4 năm 2008 của Ủy ban nhân dân tỉnh Phú Yên ban hành Quy định về phân cấp quản lý tổ chức bộ máy, biên chế, tiền lương, cán bộ, công chức, viên chức cơ quan hành chính, đơn vị sự nghiệp và cán bộ quản lý doanh nghiệp nhà nước thuộc Ủy ban nhân dân tỉnh Phú Yên quản lý.\n\n**Điều 4.** Các ông, bà: Chánh Văn phòng UBND tỉnh, Giám đốc Sở Nội vụ, Thủ trưởng các sở, ban, ngành, đơn vị sự nghiệp thuộc UBND tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố chịu trách nhiệm thi hành Quyết định này./.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nPhạm Đình Cự**\n\n**QUY ĐỊNH**\n\nVỀ PHÂN CẤP QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, TIỀN LƯƠNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC CƠ QUAN HÀNH CHÍNH, ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP, CÁN BỘ, CÔNG CHỨC CẤP XÃ VÀ CÁC CHỨC DANH LÃNH ĐẠO QUẢN LÝ DOANH NGHIỆP DO NHÀ NƯỚC LÀM CHỦ SỞ HỮU THUỘC ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN  \n_(Ban hành kèm theo Quyết định số 11/2014/QĐ-UBND ngày 21/4/2014 của UBND tỉnh Phú Yên)_\n\n**Chương I**\n\n**NHỮNG QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\nQuy định này quy định về phân cấp quản lý tổ chức bộ máy, biên chế, tiền lương cán bộ, công chức, viên chức, nhân viên hợp đồng theo Nghị định số [68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17/11/2000 của Chính phủ trong cơ quan hành chính, đơn vị sự nghiệp công lập (viết tắt là đơn vị sự nghiệp) thuộc Ủy ban nhân dân (viết tắt là UBND) tỉnh Phú Yên; cán bộ, công chức xã, phường, thị trấn (viết tắt là cán bộ, công chức cấp xã) và các chức danh lãnh đạo, quản lý doanh nghiệp do Nhà nước làm chủ sở hữu (viết tắt là viên chức quản lý doanh nghiệp nhà nước) thuộc UBND tỉnh Phú Yên; các tổ chức hội, quỹ xã hội, quỹ từ thiện do UBND tỉnh cho phép thành lập; các tổ chức thuộc Bộ, ngành Trung ương, địa phương khác đóng trên địa bàn tỉnh Phú Yên.\n\n**Điều 2. Đối tượng áp dụng**\n\n1\\. Cán bộ, công chức trong các cơ quan nhà nước quy định tại Luật Cán bộ, công chức ngày 13/11/2008 và công chức quy định tại Nghị định số [06/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-06-2010-nd-cp-quy-dinh-nhung-nguoi-la-cong-chuc-100704.aspx \"Nghị định 06/2010/NĐ-CP\") ngày 25/01/2010 của Chính phủ quy định những người là công chức.\n\n2\\. Cán bộ, công chức cấp xã quy định tại Nghị định số [92/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-92-2009-nd-cp-chuc-danh-so-luong-che-do-chinh-sach-can-bo-cong-chuc-o-xa-phuong-thi-tran-va-nhung-nguoi-hoat-dong-khong-chuyen-trach-96422.aspx \"Nghị định 92/2009/NĐ-CP\") ngày 22/10/2009 của Chính phủ về chức danh, số lượng, một số chế độ, chính sách đối với cán bộ, công chức cấp xã, và những người hoạt động không chuyên trách ở cấp xã.\n\n3\\. Viên chức trong các đơn vị sự nghiệp quy định tại Luật Viên chức ngày 15/11/2010.\n\n4\\. Viên chức quản lý Công ty TNHH một thành viên do nhà nước làm chủ sở hữu thuộc UBND tỉnh Phú Yên quản lý bao gồm: Chủ tịch Hội đồng thành viên, Chủ tịch công ty; Thành viên Hội đồng thành viên; Tổng giám đốc, Phó Tổng giám đốc, Giám đốc, Phó Giám đốc và Kế toán trưởng; Kiểm soát viên.\n\n5\\. Các tổ chức hội, quỹ xã hội, quỹ từ thiện do UBND tỉnh cho phép thành lập hoặc ủy quyền cho cấp huyện cho phép thành lập; các tổ chức thuộc Bộ, ngành Trung ương, địa phương khác đóng trên địa bàn tỉnh Phú Yên.\n\n**Điều 3.** Công tác quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức trong các cơ quan hành chính, đơn vị sự nghiệp và viên chức quản lý doanh nghiệp Nhà nước thuộc UBND tỉnh Phú Yên được thực hiện trên cơ sở quy định hiện hành của Nhà nước và Quy định này.\n\n**Điều 4.**\n\n1\\. UBND tỉnh, Chủ tịch UBND tỉnh chịu trách nhiệm trước Chính phủ, Thủ tướng Chính phủ, Ban Thường vụ Tỉnh ủy, Hội đồng nhân dân (viết tắt là HĐND) Tỉnh trong việc quản lý tổ chức bộ máy, biên chế, cán bộ, công chức (kể cả cán bộ, công chức cấp xã); viên chức trong các đơn vị sự nghiệp, các tổ chức hội, quỹ xã hội, quỹ từ thiện và viên chức quản lý doanh nghiệp nhà nước thuộc thẩm quyền quản lý của UBND Tỉnh.\n\n2\\. Sở Nội vụ là cơ quan tham mưu, giúp UBND Tỉnh, Chủ tịch UBND Tỉnh thực hiện việc quản lý: tổ chức bộ máy, biên chế các cơ quan hành chính, đơn vị sự nghiệp; cán bộ, công chức, viên chức, cán bộ quản lý doanh nghiệp Nhà nước thuộc UBND Tỉnh; cán bộ, công chức và những người hoạt động không chuyên trách ở cấp xã; tổ chức hội; tổ chức phi Chính phủ.\n\n3\\. Người đứng đầu các cơ quan chuyên môn, các đơn vị sự nghiệp thuộc UBND Tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố (gọi tắt là Chủ tịch UBND cấp huyện) quyết định việc phân cấp và chịu trách nhiệm trước UBND Tỉnh, Chủ tịch UBND Tỉnh, cấp ủy Đảng cùng cấp trong việc quản lý cán bộ, công chức, viên chức cho các cơ quan, đơn vị trực thuộc theo thẩm quyền quản lý.\n\n4\\. Người đứng đầu các cơ quan chuyên môn, các đơn vị sự nghiệp thuộc UBND Tỉnh, Chủ tịch UBND cấp huyện chịu trách nhiệm trước UBND Tỉnh, Chủ tịch UBND Tỉnh, cấp ủy Đảng cùng cấp trong việc quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức thuộc thẩm quyền quản lý.\n\n**Điều 5.** Các tổ chức thuộc Bộ, ngành Trung ương và địa phương khác đặt trụ sở, chi nhánh, văn phòng đại diện trên địa bàn Tỉnh chịu sự quản lý Nhà nước của UBND Tỉnh theo quy định của Nhà nước và Quy định này.\n\n**Chương II**\n\n**QUẢN LÝ TỔ CHỨC BỘ MÁY**\n\n**Mục 1. NỘI DUNG QUẢN LÝ**\n\n**Điều 6. Nội dung quản lý theo từng đối tượng**\n\n1\\. Đối với cơ quan hành chính, đơn vị sự nghiệp của tỉnh: thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, quy chế hoạt động, xếp hạng các tổ chức và các nội dung liên quan khác.\n\n2\\. Đối với doanh nghiệp do Nhà nước làm chủ sở hữu: thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, chuyển giao, chuyển đổi, cổ phần hóa, xếp hạng.\n\n3\\. Đối với các hội: cho phép thành lập, đại hội, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, phê duyệt điều lệ.\n\nĐối với quỹ xã hội, quỹ từ thiện: cấp giấy phép thành lập; cho phép hợp nhất, sáp nhập, chia, tách, giải thể, đổi tên; đình chỉ hoạt động; cho phép quỹ hoạt động trở lại sau khi bị tạm đình chỉ; công nhận quỹ đủ điều kiện hoạt động; công nhận thành viên Hội đồng quản lý quỹ; cho phép thay đổi hoặc cấp lại giấy phép thành lập; thu hồi giấy phép thành lập; giải quyết khiếu nại, tố cáo đối với quỹ.\n\n4\\. Đối với cơ quan hành chính, đơn vị sự nghiệp của Nhà nước, các tổ chức phi Chính phủ thuộc Bộ, ngành Trung ương và địa phương khác quản lý: cho phép đặt trụ sở, chi nhánh, văn phòng đại diện.\n\n**Điều 7. Cơ cấu tổ chức bộ máy**\n\n1\\. Đối với các cơ quan chuyên môn thuộc UBND tỉnh có: Văn phòng, thanh tra, phòng chuyên môn nghiệp vụ, ban, chi cục, các đơn vị sự nghiệp.\n\n2\\. Đối với UBND cấp huyện có: Văn phòng, thanh tra, phòng chuyên môn, các đơn vị sự nghiệp.\n\n3\\. Đối với các đơn vị sự nghiệp thuộc UBND tỉnh có: Các phòng, khoa chuyên môn, các tổ chức sự nghiệp.\n\n**Mục 2. THẨM QUYỀN QUẢN LÝ VỀ TỔ CHỨC BỘ MÁY**\n\n**Điều 8.** **Thẩm quyền của UBND Tỉnh, Chủ tịch UBND Tỉnh**\n\n1\\. Thẩm quyền của UBND Tỉnh:\n\na) Xây dựng đề án thành lập các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh theo hướng dẫn của Chính phủ trình Hội đồng nhân dân quyết định.\n\nb) Quyết định thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên các đơn vị sự nghiệp thuộc UBND Tỉnh; đơn vị sự nghiệp, chi cục, thanh tra thuộc các cơ quan chuyên môn thuộc UBND Tỉnh và các cơ quan chuyên môn thuộc UBND cấp huyện theo quy định của pháp luật.\n\nc) Quyết định thành lập, sáp nhập, hợp nhất, chia, tách, giải thể doanh nghiệp do Nhà nước làm chủ sở hữu thuộc UBND Tỉnh theo quy định của pháp luật.\n\nd) Quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, số lượng và tên gọi cụ thể các phòng chuyên môn nghiệp vụ, các bộ phận khác tương đương phòng thuộc các cơ quan chuyên môn, đơn vị sự nghiệp thuộc UBND Tỉnh; các tổ chức thuộc chi cục và các cơ quan chuyên môn thuộc UBND cấp huyện do pháp luật quy định thuộc thẩm quyền của UBND Tỉnh.\n\nđ) Trình Bộ Nội vụ xem xét, quyết định phân loại đơn vị hành chính của UBND cấp huyện.\n\n2\\. Thẩm quyền của Chủ tịch UBND Tỉnh:\n\na) Phê duyệt đề án:\n\n\\- Thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên các bộ phận, tổ chức trực thuộc đơn vị sự nghiệp thuộc UBND Tỉnh;\n\n\\- Thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên đơn vị sự nghiệp thuộc các sở, ban, ngành Tỉnh, UBND cấp huyện theo quy định của pháp luật;\n\n\\- Thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên phòng chuyên môn và tương đương thuộc các cơ quan chuyên môn thuộc UBND Tỉnh và UBND cấp huyện.\n\nb) Quyết định các nội dung:\n\n\\- Thành lập, đổi tên, giải thể, thay đổi, bổ sung thành viên, nhiệm vụ các tổ chức tư vấn, hội đồng, ban chỉ đạo thuộc UBND Tỉnh;\n\n\\- Xếp hạng, chuyển giao, chuyển đổi, cổ phần hóa các doanh nghiệp do Nhà nước làm chủ sở hữu thuộc UBND Tỉnh theo quy định hiện hành của pháp luật;\n\n\\- Xếp hạng các đơn vị sự nghiệp thuộc UBND Tỉnh; đơn vị sự nghiệp thuộc các sở, ban, ngành Tỉnh, UBND cấp huyện;\n\n\\- Phân loại và điều chỉnh việc phân loại đơn vị hành chính cấp xã;\n\n\\- Cho phép các tổ chức thuộc Bộ, ngành Trung ương và địa phương khác đặt trụ sở, chi nhánh, văn phòng đại diện trên địa bàn tỉnh; cho phép các tổ chức thuộc UBND tỉnh, các doanh nghiệp nhà nước trong tỉnh đặt chi nhánh, văn phòng đại diện tại các địa phương khác trong nước;\n\n\\- Cho phép thành lập, đại hội, chia, tách, sáp nhập, hợp nhất, giải thể, đổi tên và phê duyệt điều lệ hội cấp tỉnh, cấp huyện; quản lý, hướng dẫn, kiểm tra việc thành lập và hoạt động của hội theo quy định của pháp luật; cấp giấy phép thành lập, cho phép hợp nhất, sáp nhập, chia, tách, giải thể, đổi tên, đình chỉ hoạt động, cho phép quỹ hoạt động trở lại sau khi bị tạm đình chỉ, công nhận quỹ đủ điều kiện hoạt động, công nhận thành viên Hội đồng quản lý quỹ, cho phép thay đổi hoặc cấp lại giấy phép thành lập, thu hồi giấy phép thành lập, giải quyết khiếu nại, tố cáo đối với quỹ đối với quỹ xã hội và quỹ từ thiện. Ủy quyền cho Chủ tịch UBND cấp huyện cho phép thành lập, đại hội, chia, tách, sáp nhập, hợp nhất, giải thể, đổi tên và phê duyệt điều lệ hội cấp xã.\n\n**Điều 9. Nhiệm vụ, thẩm quyền của Giám đốc Sở Nội vụ**\n\n1\\. Chủ trì, phối hợp với các cơ quan có liên quan thẩm định các nội dung quy định tại Điều 8 Quy định này do các cơ quan chuyên môn, đơn vị sự nghiệp thuộc UBND Tỉnh và UBND cấp huyện trình để báo cáo UBND Tỉnh, Chủ tịch UBND Tỉnh quyết định, phê duyệt (trừ các nội dung thuộc thẩm quyền của người đứng đầu các sở, ban, ngành tỉnh, Chủ tịch UBND cấp huyện theo quy định của pháp luật và Quy định này).\n\n2\\. Thực hiện thanh tra, kiểm tra về công tác tổ chức, bộ máy các cơ quan, đơn vị, địa phương thuộc UBND Tỉnh. Phối hợp với các cơ quan có liên quan hướng dẫn điều kiện, thủ tục thành lập hội theo quy định pháp luật; theo dõi quản lý các hội hoạt động trên địa bàn tỉnh.\n\n**Điều 10.** **Nhiệm vụ, thẩm quyền của người đứng đầu các sở, ban, ngành tỉnh**\n\n1\\. Xây dựng đề án thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên các chi cục, phòng chuyên môn và tương đương, các đơn vị sự nghiệp thuộc sở, ban, ngành tỉnh, trình cấp có thẩm quyền thẩm định, phê duyệt.\n\n2\\. Quyết định thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu các phòng chuyên môn nghiệp vụ và tương đương, các tổ chức bên trong đơn vị sự nghiệp thuộc sở, ban, ngành Tỉnh sau khi được Chủ tịch UBND Tỉnh phê duyệt đề án (trừ các cơ quan chuyên môn mà pháp luật quy định thẩm quyền này thuộc UBND Tỉnh hoặc Chủ tịch UBND Tỉnh).\n\n3\\. Thực hiện chức năng quản lý Nhà nước theo ngành, lĩnh vực đối với các cơ quan hành chính, đơn vị sự nghiệp của Nhà nước thuộc Bộ, ngành Trung ương và địa phương khác đặt trụ sở, chi nhánh, văn phòng đại diện trên địa bàn Tỉnh.\n\n4\\. Xây dựng và trình UBND Tỉnh các đề án; thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chuyển giao, chuyển đổi, cổ phần hoá, đổi tên, xếp hạng đơn vị sự nghiệp, doanh nghiệp nhà nước thuộc UBND Tỉnh theo đúng quy định của pháp luật.\n\nRiêng việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên các đơn vị trực thuộc doanh nghiệp Nhà nước, đặt chi nhánh, văn phòng đại diện của doanh nghiệp Nhà nước tại các địa phương khác trong nước thực hiện theo Luật Doanh nghiệp và các văn bản hiện hành của Nhà nước.\n\n**Điều 11.** **Thẩm quyền của UBND cấp huyện, Chủ tịch UBND cấp huyện**\n\n1\\. UBND cấp huyện:\n\na) Xây dựng phương án thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên các phòng chuyên môn và tương đương, các đơn vị sự nghiệp thuộc UBND cấp huyện, trình cấp có thẩm quyền phê duyệt.\n\nb) Quy định cụ thể nhiệm vụ, quyền hạn và cơ cấu tổ chức các cơ quan chuyên môn thuộc UBND cấp huyện; quyết định thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, đổi tên, quy định chức năng, nhiệm vụ, quyền hạn các đơn vị sự nghiệp thuộc UBND cấp huyện sau khi được UBND Tỉnh phê duyệt (trừ các đơn vị sự nghiệp mà pháp luật quy định thuộc thẩm quyền UBND Tỉnh hoặc Chủ tịch UBND Tỉnh).\n\n2\\. Chủ tịch UBND cấp huyện:\n\nQuyết định thành lập, sáp nhập, hợp nhất, đổi tên, chia tách, giải thể và phê duyệt điều lệ Hội có phạm vi hoạt động trong các xã, phường, thị trấn, theo quy định hiện hành của Nhà nước; Thực hiện chức năng quản lý nhà nước đối với Hội, các tổ chức thuộc Bộ, ngành Trung ương và địa phương khác đặt trụ sở, chi nhánh, văn phòng đại diện tại địa phương mình.\n\n**Chương III**\n\n**QUẢN LÝ BIÊN CHẾ CÔNG CHỨC VÀ VỊ TRÍ VIỆC LÀM VIÊN CHỨC**\n\n**Mục 1. NỘI DUNG QUẢN LÝ**\n\n**Điều 12. Nội dung quản lý biên chế công chức, vị trí việc làm viên chức**\n\n1\\. Xây dựng kế hoạch biên chế công chức, đề án vị trí việc làm và cơ cấu ngạch công chức; đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp, hướng dẫn xác định biên chế công chức, vị trí việc làm viên chức.\n\n2\\. Quyết định phân bổ, sử dụng biên chế công chức, vị trí việc làm viên chức.\n\n3\\. Thanh tra, kiểm tra việc sử dụng biên chế công chức, vị trí việc làm viên chức.\n\n4\\. Thực hiện chế độ thông tin báo cáo.\n\n**Điều 13. Căn cứ xây dựng kế hoạch biên chế công chức, đề án vị trí việc làm và cấu ngạch công chức; đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp**\n\n1\\. Vị trí việc làm phải phù hợp với chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan, đơn vị.\n\n2\\. Tính chất đặc thù, đặc điểm, mức độ phức tạp, quy mô, phạm vi đối tượng quản lý của ngành, lĩnh vực.\n\n3\\. Khả năng ngân sách và kinh phí hoạt động do cơ quan nhà nước có thẩm quyền phân bổ hàng năm.\n\n4\\. Định mức biên chế, vị trí việc làm do cơ quan có thẩm quyền ban hành.\n\n5\\. Kế hoạch thực hiện xã hội hóa hoạt động đối với một số lĩnh vực sự nghiệp về giáo dục và đào tạo, y tế, văn hóa thông tin, thể dục thể thao, nghiên cứu khoa học và sự nghiệp khác.\n\n6\\. Chất lượng đội ngũ cán bộ, công chức, viên chức hiện có và dự kiến nguồn cán bộ, công chức, viên chức thay thế.\n\n**Mục 2. THẨM QUYỀN QUẢN LÝ BIÊN CHẾ CÔNG CHỨC, VỊ TRÍ VIỆC LÀM VIÊN CHỨC**\n\n**Điều 14.** **Thẩm quyền của UBND Tỉnh, Chủ tịch UBND Tỉnh**\n\n1\\. UBND tỉnh:\n\na) Lập kế hoạch biên chế công chức, xây dựng đề án vị trí việc làm và cơ cấu ngạch công chức hàng năm gửi Bộ Nội vụ.\n\nb) Xây dựng đề án vị trí việc làm trong các đơn vị sự nghiệp công lập của Tỉnh gửi Bộ Nội vụ.\n\nc) Trình HĐND Tỉnh phê duyệt tổng biên chế công chức, tổng chỉ tiêu vị trí làm việc trong các đơn vị sự nghiệp hàng năm.\n\nd) Trình HĐND Tỉnh phê duyệt số lượng cán bộ, công chức cấp xã, số lượng, chức danh, mức phụ cấp cho những người hoạt động không chuyên trách cấp xã và thôn, buôn, khu phố.\n\n2\\. Chủ tịch UBND tỉnh:\n\na) Chỉ đạo các sở, ban, ngành, UBND cấp huyện xây dựng đề án vị trí việc làm và cơ cấu ngạch công chức, lập kế hoạch biên chế công chức và xây dựng đề án vị trí việc làm trong các đơn vị sự nghiệp hàng năm.\n\nb) Quyết định phân bổ chỉ tiêu biên chế công chức và vị trí việc làm trong các đơn vị sự nghiệp cho các sở, ban, ngành tỉnh, UBND cấp huyện sau khi có Nghị quyết của HĐND Tỉnh.\n\nc) Căn cứ quy định của Trung ương và Nghị quyết của HĐND Tỉnh ra quyết định phân bổ số lượng cán bộ chuyên trách và công chức cấp xã.\n\n**Điều 13. Căn cứ xây dựng kế hoạch biên chế công chức, đề án vị trí việc làm và cấu ngạch công chức; đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp**\n\n1\\. Chỉ đạo, hướng dẫn các đơn vị trực thuộc xây dựng đề án vị trí việc làm, lập kế hoạch biên chế theo hướng dẫn của cơ quan có thẩm quyền quản lý biên chế.\n\n2\\. Kiểm tra, điều chỉnh kế hoạch biên chế của các đơn vị trực thuộc, bảo đảm sự phù hợp giữa kế hoạch biên chế với chức năng, nhiệm vụ, vị trí việc làm.\n\n\\- Lập quy hoạch, kế hoạch xây dựng đội ngũ cán bộ, công chức, viên chức để có kế hoạch đào tạo, bồi dưỡng, từng bước thực hiện tiêu chuẩn hóa cán bộ, công chức, viên chức;\n\n\\- Thống kê, đánh giá số lượng, chất lượng cán bộ, công chức, viên chức trong phạm vi đơn vị mình quản lý theo quy định.\n\n3\\. Hướng dẫn các đơn vị sự nghiệp tự đảm bảo toàn bộ chi phí hoạt động xây dựng kế hoạch tuyển dụng và sử dụng viên chức, bảo đảm phù hợp với chức năng, nhiệm vụ của đơn vị.\n\n4\\. Xây dựng kế hoạch biên chế công chức theo đề án vị trí việc làm và cơ cấu ngạch công chức đã được cấp thẩm quyền phê duyệt; xây dựng đề án vị trí việc làm viên chức trong các đơn vị sự nghiệp của đơn vị, báo cáo UBND Tỉnh.\n\n5\\. Xây dựng kế hoạch và đề xuất các yêu cầu, điều kiện về tuyển dụng công chức các cơ quan hành chính, viên chức các đơn vị sự nghiệp trực thuộc.\n\n6\\. Định kỳ hoặc theo yêu cầu đột xuất, báo cáo biến động về biên chế của ngành, địa phương mình cho UBND Tỉnh.\n\n**Điều 16. Trách nhiệm, quyền hạn của Giám đốc Sở Nội vụ**\n\n1\\. Hướng dẫn các cơ quan, đơn vị, địa phương xây dựng đề án vị trí việc làm và cơ cấu ngạch công chức, kế hoạch biên chế công chức, đề án vị trí việc làm viên chức.\n\n2\\. Thẩm định đề án vị trí việc làm và cơ cấu ngạch công chức, kế hoạch biên chế công chức, đề án xác định vị trí việc làm viên chức của các cơ quan, đơn vị, địa phương thuộc UBND Tỉnh quản lý.\n\n3\\. Tổng hợp đề án vị trí việc làm và cơ cấu ngạch công chức, xây dựng kế hoạch biên chế công chức, đề án vị trí việc làm viên chức hàng năm của Tỉnh, báo cáo UBND Tỉnh xem xét, trình Bộ Nội vụ theo quy định.\n\n4\\. Tham mưu cho Chủ tịch UBND Tỉnh quyết định phân bổ chỉ tiêu biên chế công chức, chỉ tiêu vị trí việc làm viên chức cho các sở, ban, ngành tỉnh, UBND cấp huyện, sau khi có Nghị quyết của HĐND Tỉnh.\n\n5\\. Hướng dẫn, thanh tra, kiểm tra việc quản lý, sử dụng biên chế công chức, chỉ tiêu vị trí việc làm viên chức của các sở, ban, ngành và UBND các huyện, thị xã, thành phố; giải quyết khiếu nại, tố cáo và xử lý những vi phạm về quản lý, sử dụng biên chế thuộc thẩm quyền theo quy định của pháp luật; thực hiện chế độ báo cáo thống kê về tình hình sử dụng biên chế cho Trung ương theo quy định.\n\n6\\. Kiểm tra việc tổ chức thực hiện quy định về chức năng, nhiệm vụ và bố trí biên chế công chức, chỉ tiêu vị trí việc làm viên chức của các sở, ban, ngành, UBND cấp huyện đã được UBND Tỉnh phê duyệt.\n\n**Chương IV**\n\n**TUYỂN DỤNG, NÂNG NGẠCH, CHUYỂN NGẠCH CÔNG CHỨC, THĂNG HẠNG, CHUYỂN CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC**\n\n**Mục 1. NỘI DUNG TUYỂN DỤNG, NÂNG NGẠCH, CHUYỂN NGẠCH CÔNG CHỨC, THĂNG HẠNG, CHUYỂN CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC**\n\n**Điều 17. Tuyển dụng công chức, viên chức; hợp đồng nhân viên theo Nghị định** **[68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17/11/2000 của Chính phủ**\n\n1\\. Việc tuyển dụng công chức, viên chức phải thực hiện công khai, minh bạch, công bằng, khách quan, đúng pháp luật và phải căn cứ vào nhu cầu nhiệm vụ, vị trí việc làm, chỉ tiêu biên chế công chức, chỉ tiêu vị trí việc làm viên chức được cấp có thẩm quyền giao cho cơ quan, đơn vị, địa phương.\n\n2\\. Người được tuyển dụng vào công chức, viên chức và công chức xã, phường, thị trấn phải đảm bảo tiêu chuẩn, phải thông qua kỳ thi tuyển theo nguyên tắc cạnh tranh hoặc xét tuyển, tiếp nhận không qua thi tuyển theo quy định của pháp luật.\n\n3\\. Thực hiện chế độ hợp lao động theo quy định tại Nghị định số [68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17/11/2000 của Chính phủ đối với các chức danh: lái xe, nhân viên bảo vệ, nhân viên phục vụ trong các cơ quan hành chính, đơn vị sự nghiệp do ngân sách nhà nước cấp kinh phí hoạt động thường xuyên có giao chỉ tiêu biên chế (trừ những người đã tuyển dụng vào biên chế trước ngày 01/4/1993).\n\n4\\. Thực hiện chế độ hợp đồng đối với đội ngũ y tế cơ sở theo quy định của tại Quyết định số 58/TTg ngày 03/02/1994 của Thủ tướng Chính phủ quy định một số vấn đề về tổ chức và chế độ chính sách đối với y tế cơ sở.\n\n5\\. Hàng năm, chậm nhất 06 (sáu) tháng, kể từ ngày cơ quan có thẩm quyền quyết định giao biên chế công chức, chỉ tiêu tiêu vị trí việc làm viên chức, cơ quan, đơn vị sử dụng công chức, viên chức phải có kế hoạch tổ chức tuyển dụng công chức, viên chức đối với số biên chế, chỉ tiêu chưa sử dụng.\n\n6\\. Thực hiện việc quản lý, sử dụng biên chế công chức, chỉ tiêu vị trí việc làm viên chức đúng quy định.\n\n**Điều 18.** **Nâng ngạch công chức, thăng hạng viên chức**\n\n1\\. Việc nâng ngạch công chức phải căn cứ vào vị trí việc làm, phù hợp với cơ cấu ngạch công chức của cơ quan, đơn vị sử dụng công chức đã được xác định và phải thông qua kỳ thi nâng ngạch theo nguyên tắc cạnh tranh.\n\n2\\. Việc thăng hạng chức danh nghề nghiệp viên chức (viết tắt là thăng hạng viên chức) phải căn cứ vào nhu cầu, tiêu chuẩn, điều kiện, số lượng vị trí việc làm và cơ cấu viên chức theo chức danh nghề nghiệp của đơn vị sự nghiệp công lập và thông qua kỳ thi hoặc xét thăng hạng viên chức theo quy định. UBND tỉnh chủ trì, phối hợp với Bộ Nội vụ tổ chức thi hoặc xét thăng hạng viên chức từ hạng III lên hạng II, đồng thời chủ trì tổ chức thi hoặc xét thăng hạng viên chức từ hạng IV lên hạng III.\n\n3\\. Người trúng tuyển trong kỳ thi nâng ngạch công chức, thăng hạng hoặc xét thăng hạng viên chức được cơ quan có thẩm quyền ra quyết định bổ nhiệm ngạch công chức, bổ nhiệm hạng viên chức theo quy định.\n\n**Điều 19. Chuyển ngạch công chức, chuyển chức danh nghề nghiệp cho viên chức**\n\n1\\. Việc chuyển ngạch được thực hiện khi công chức thay đổi vị trí việc làm hoặc theo quy định phải chuyển đổi vị trí công tác mà ngạch công chức đang giữ không phù hợp với yêu cầu ngạch công chức của vị trí việc làm mới. Ngạch công chức mới được bổ nhiệm phải có cùng thứ bậc về chuyên môn, nghiệp vụ. Công chức được chuyển ngạch phải đáp ứng tiêu chuẩn chuyên môn, nghiệp vụ của ngạch được chuyển và phù hợp với nhiệm vụ, quyền hạn được giao.\n\n2\\. Thay đổi chức danh nghề nghiệp của viên chức là việc chuyển từ chức danh nghề nghiệp này sang chức danh nghề nghiệp khác cùng hạng, phù hợp với vị trí việc làm và đủ tiêu chuẩn chuyên môn, nghiệp vụ của chức danh nghề nghiệp được chuyển.\n\n3\\. Việc chuyển ngạch công chức, thay đổi chức danh nghề nghiệp viên chức được cơ quan có thẩm quyền quản lý công chức, viên chức ra quyết định bổ nhiệm ngạch công chức, chức danh nghề nghiệp viên chức mới.\n\n**Mục 2. THẨM QUYỀN TUYỂN DỤNG, NÂNG NGẠCH, CHUYỂN NGẠCH CÔNG CHỨC, THĂNG HẠNG, CHUYỂN CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC**\n\n**Điều 20.** **Thẩm quyền của Chủ tịch UBND Tỉnh**\n\n1\\. Phê duyệt kế hoạch thi tuyển, xét tuyển công chức; kế hoạch thi nâng ngạch lên cán sự, chuyên viên và tương đương; phê duyệt kế hoạch thi tuyển, xét tuyển viên chức; kế hoạch thi hoặc xét thăng hạng viên chức theo quy định.\n\n2\\. Quyết định thành lập hội đồng thi tuyển, xét tuyển công chức, viên chức; quyết định công nhận kết quả kỳ thi tuyển, xét tuyển công chức, viên chức.\n\n3\\. Quyết định thành lập Hội đồng thi nâng ngạch lên cán sự, chuyên viên và tương đương đối với công chức, Hội đồng thi thăng hạng hoặc xét thăng hạng viên chức từ hạng IV lên hạng III và từ hạng III lên hạng II. Quyết định công nhận kết quả các kỳ thi nâng ngạch công chức, thăng hạng hoặc xét thăng hạng viên chức.\n\n4\\. Quyết định cử cán bộ, công chức, viên chức tham dự kỳ thi nâng ngạch chuyên viên chính và tương đương trở lên, thi thăng hạng viên chức từ hạng II lên hạng I; Quyết định bổ nhiệm ngạch Thanh tra viên, Thanh tra viên chính, viên chức hạng II theo chức danh nghề nghiệp và một số ngạch khác theo quy định của pháp luật; Quyết định chuyển ngạch, chuyển chức danh nghề nghiệp đối với các chức danh được quy định tại Điểm a, Khoản 2 và Điểm a, b Khoản 3, Điều 25.\n\n**Điều 21.** **Nhiệm vụ, thẩm quyền của Giám đốc Sở Nội vụ**\n\n1\\. Tham mưu UBND Tỉnh xây dựng kế hoạch thi tuyển, xét tuyển công chức, kế hoạch thi nâng ngạch lên cán sự, chuyên viên và tương đương; xây dựng kế hoạch thi hoặc xét thăng hạng viên chức từ hạng III lên hạng II; thẩm định trình Chủ tịch UBND Tỉnh phê duyệt kế hoạch thi tuyển hoặc xét tuyển dụng viên chức, thi hoặc xét thăng hạng viên chức hạng IV lên hạng III; thẩm định và có ý kiến thống nhất đối với kế hoạch thi tuyển công chức cấp xã.\n\n2\\. Chủ trì, phối hợp với các cơ quan có liên quan giúp UBND tỉnh: tổ chức kỳ thi tuyển, xét tuyển, xét tiếp nhận công chức không qua thi tuyển, tổ chức thi nâng ngạch lên cán sự, chuyên viên và tương đương đối với công chức; thi tuyển hoặc xét tuyển viên chức, thi hoặc xét thăng hạng viên chức từ hạng III lên hạng II, hạng IV lên hạng III theo quy định.\n\n3. Thực hiện giám sát các kỳ thi tuyển, xét tuyển công chức cấp xã theo quy định của Nhà nước.\n\n4\\. Quyết định tuyển dụng, bổ nhiệm ngạch công chức trúng tuyển kỳ thi hoặc xét tuyển, xét tiếp nhận sau khi UBND Tỉnh có quyết định công nhận kết quả trúng tuyển; Quyết định công nhận hết thời gian tập sự công chức. Quyết định bổ nhiệm chức danh nghề nghiệp viên chức từ hạng III trở xuống.\n\n5\\. Xét chuyển viên chức và cán bộ, công chức cấp xã thành công chức Nhà nước theo quy định pháp luật.\n\n6\\. Xét chuyển ngạch công chức, chuyển chức danh nghề nghiệp viên chức khi thay đổi vị trí việc làm theo quy định của pháp luật (trừ các chức danh thuộc thẩm quyền của Chủ tịch UBND Tỉnh).\n\n7\\. Thẩm định hồ sơ cán bộ, công chức tham dự kỳ thi nâng ngạch chuyên viên chính và tương đương trở lên và viên chức từ hạng II lên hạng I, trình Chủ tịch UBND tỉnh quyết định cử dự thi.\n\n8\\. Quyết định bổ nhiệm ngạch và xếp lương công chức từ ngạch chuyên viên chính và tương đương trở xuống, sau khi có quyết định công nhận kết quả kỳ thi hoặc xét nâng ngạch không qua thi (trừ những ngạch theo quy định của pháp luật thuộc thẩm quyền quyết định bổ nhiệm của Chủ tịch UBND Tỉnh).\n\n**Điều 22.** **Nhiệm vụ, thẩm quyền của người đứng đầu các sở, ban, ngành tỉnh**\n\n1\\. Trên cơ sở biên chế công chức, chỉ tiêu vị trí việc làm viên chức được Chủ tịch UBND tỉnh giao, quyết định phân bổ cho các đơn vị trực thuộc; đề nghị cơ quan có thẩm quyền tổ chức thi tuyển hoặc xét tuyển công chức; phối hợp với các ngành chức năng tổ chức thi tuyển hoặc xét tuyển viên chức theo quy định để tuyển dụng vào biên chế, chỉ tiêu vị trí việc làm chưa tuyển dụng trong phạm vi chỉ tiêu, biên chế được giao. Cử thí sinh tham dự kỳ thi tuyển công chức hoặc thi nâng ngạch công chức do Hội đồng thi tỉnh tổ chức thi.\n\n2\\. Xây dựng kế hoạch thi tuyển, xét tuyển viên chức, kế hoạch thi hoặc xét thăng hạng viên chức từ hạng IV lên hạng III, trình cấp có thẩm quyền phê duyệt.\n\n3\\. Tổ chức thông báo công khai trên các phương tiện thông tin đại chúng và niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị về tiêu chuẩn, điều kiện, số lượng cần tuyển dụng vào các vị trí việc làm, thời hạn và địa điểm tiếp nhận hồ sơ. Tổ chức tiếp nhận hồ sơ đăng ký dự tuyển thời gian ít nhất 30 ngày, kể từ ngày thông báo công khai trên các phương tiện thông tin đại chúng.\n\nChậm nhất 07 ngày trước ngày thi tuyển, xét tuyển viên chức hoặc cử công chức tham dự kỳ thi tuyển do tỉnh tổ chức, phải niêm yết công khai tại trụ sở làm việc của cơ quan, đơn vị danh sách những người đủ điều kiện dự tuyển hoặc những người được Hội đồng sơ tuyển của đơn vị chọn, cử dự thi công chức.\n\n4\\. Thông báo kết quả trúng tuyển kỳ thi hoặc xét tuyển dụng viên chức tới người dự thi, sau khi có quyết định công nhận kết quả kỳ thi tuyển, xét tuyển của cấp có thẩm quyền; ký hợp đồng làm việc đối với những người trúng tuyển vào viên chức hoặc phân cấp cho người đứng đầu đơn vị sự nghiệp sử dụng viên chức ký hợp đồng.\n\n**Điều 23.** **Nhiệm vụ,** **thẩm quyền của Chủ tịch UBND cấp huyện**\n\n1\\. Thực hiện theo quy định tại Điều 22 Quy định này.\n\n2\\. Xây dựng kế hoạch thi tuyển, xét tuyển công chức cấp xã trình Sở Nội vụ phê duyệt.\n\n3\\. Tổ chức thi tuyển hoặc xét tuyển dụng công chức cấp xã thuộc thẩm quyền theo quy định của nhà nước, xem xét phê duyệt danh sách tuyển dụng những người hoạt động không chuyên trách cấp xã và có sự giám sát của Sở Nội vụ.\n\n**Chương V**\n\n**QUẢN LÝ, SỬ DỤNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC**\n\n**Mục 1. NỘI DUNG QUẢN LÝ**\n\n**Điều 24.** **Nội dung quản lý, sử dụng cán bộ, công chức, viên chức**\n\n1\\. Quản lý về số lượng, chất lượng, sử dụng, đánh giá, quy hoạch, đào tạo, bồi dưỡng, bổ nhiệm, miễn nhiệm, điều động, luân chuyển, biệt phái, thuyên chuyển.\n\n2\\. Giải quyết các chế độ chính sách như: tiền lương, phụ cấp, nghỉ hưu thôi việc, đãi ngộ, thu hút và một số chính sách khác theo quy định.\n\n3\\. Thực hiện công tác đào tạo, khen thưởng, kỷ luật, quản lý hồ sơ cán bộ, công chức, viên chức; thống kê, báo cáo tình hình sử dụng, quản lý cán bộ, công chức, viên chức theo quy định.\n\n4\\. Thanh tra, kiểm tra việc thực hiện các quy định của pháp luật về quản lý, sử dụng và các chế độ chính sách đối với cán bộ, công chức, viên chức; giải quyết khiếu nại, tố cáo theo quy định của pháp luật.\n\n5\\. Đánh giá cán bộ, công chức, viên chức hàng năm về các mặt: phẩm chất chính trị, đạo đức, năng lực, trình độ chuyên môn, nghiệp vụ, kết quả thực hiện nhiệm vụ được giao; có kế hoạch xây dựng chiến lược, kế hoạch, quy hoạch, chương trình phát triển đội ngũ cán bộ, công chức, viên chức.\n\n**Mục 2. THẨM QUYỀN QUẢN LÝ, SỬ DỤNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC**\n\n**Điều 25. Thẩm quyền của Chủ tịch UBND Tỉnh**\n\n1\\. Chịu trách nhiệm trước Chính phủ, Ban Thường vụ Tỉnh ủy, Ban cán sự Đảng UBND Tỉnh và UBND Tỉnh trong việc lãnh đạo, chỉ đạo và kiểm tra thực hiện các nghị quyết, chủ trương, chính sách của Đảng, pháp luật của Nhà nước về cán bộ, công chức, viên chức và công tác cán bộ trong phạm vi phụ trách.\n\nĐề nghị Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy về quy hoạch, bố trí, phân công công tác; điều động, luân chuyển, giới thiệu ứng cử, bổ nhiệm, miễn nhiệm; khen thưởng, kỷ luật, nghỉ hưu và thực hiện chính sách cán bộ đối với các chức danh lãnh đạo ở các cơ quan trực thuộc UBND tỉnh thuộc thẩm quyền quyết định của Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy theo phân cấp quản lý cán bộ hiện hành của Ban Thường vụ Tỉnh ủy.\n\nGiới thiệu nhân sự tham gia Ban chấp hành Trung ương hội của các hội do UBND Tỉnh quản lý (trừ các chức danh do Ban Thường vụ Tỉnh ủy quản lý).\n\nCử cán bộ đi học tập trong và ngoài nước; cho phép cán bộ đi công tác nước ngoài (trừ các chức danh cán bộ thuộc diện Thường trực Tỉnh ủy; Ban Thường vụ Tỉnh ủy quản lý).\n\n2\\. Trực tiếp quyết định đối với một số chức danh cán bộ, công chức, viên chức lãnh đạo thuộc UBND Tỉnh quản lý:\n\na) Quyết định bổ nhiệm, miễn nhiệm, cách chức, từ chức, khen thưởng, kỷ luật, điều động, luân chuyển cán bộ, công chức, viên chức lãnh đạo, quản lý sau khi có kết luận của Ban Thường vụ Tỉnh ủy, bao gồm: Chủ tịch UBND cấp huyện; Giám đốc, Phó Giám đốc sở, ban, ngành và tương đương, Hiệu trưởng, Phó Hiệu trưởng Trường Đại học Phú Yên, Hiệu trưởng các Trường Cao đẳng thuộc UBND tỉnh. (Riêng việc bổ nhiệm, miễn nhiệm, cách chức Chánh Thanh tra tỉnh phải có sự thống nhất của Tổng Thanh tra Chính phủ); cho ý kiến về nhân sự dự bầu chức danh Chủ tịch các Hội trước khi tổ chức Đại hội gồm: Văn học Nghệ thuật; Liên hiệp các Hội Khoa học Kỹ thuật tỉnh; Liên minh HTX tỉnh; Hội Nhà báo; Hội Chữ thập đỏ; Hội Y học cổ truyền sau khi có ý kiến kết luận của Thường trực Tỉnh ủy (Ban Thường vụ Tỉnh ủy).\n\nb) Quyết định bổ nhiệm lại, kéo dài thời gian công tác chờ nghỉ hưu các chức danh lãnh đạo, quản lý tại Điểm a, khoản 2 Điều này, sau khi có kết luận Ban cán sự Đảng UBND tỉnh. Phê chuẩn kết quả bầu cử, miễn nhiệm, bãi nhiệm các thành viên UBND cấp dưới trực tiếp.\n\nc) Quyết định, bổ nhiệm, miễn nhiệm, bãi nhiệm, khen thưởng, kỷ luật điều động, luân chuyển cán bộ sau khi có kết luận thống nhất của Ban cán sự Đảng UBND tỉnh bao gồm các chức danh: Phó Chủ tịch UBND các huyện thực hiện thí điểm không có tổ chức HĐND, Chủ tịch, Phó Chủ tịch các hội trực thuộc UBND Tỉnh (trừ các chức danh do Ban Thường vụ Tỉnh ủy quản lý); Phó Hiệu trưởng các Trường Cao đẳng thuộc UBND tỉnh; Giám đốc, Phó Giám đốc Bệnh viện đa khoa tỉnh và các bệnh viện chuyên khoa tỉnh xếp hạng II trở lên; Chủ tịch, Phó Chủ tịch Hội đồng quản trị, Giám đốc, Phó Giám đốc, Kiểm soát viên các công ty trách nhiệm hữu hạn một thành viên và người được cử làm đại diện chủ sở hữu phần vốn của Nhà nước tại doanh nghiệp có vốn góp của Nhà nước.\n\nd) Quyết định bổ nhiệm, miễn nhiệm hoặc cho ý kiến giới thiệu, hiệp y đối với một số chức danh khác theo quy định của pháp luật và phân cấp quản lý cán bộ của Ban Thường vụ Tỉnh ủy.\n\n3\\. Trực tiếp quản lý các chức danh:\n\na) Chuyên viên cao cấp (tương đương); Tiến sỹ, Phó Giáo sư, Giáo sư trong các cơ quan hành chính, đơn vị sự nghiệp thuộc UBND Tỉnh quản lý.\n\nb) Chủ tịch, Phó Chủ tịch Hội đồng quản trị, Tổng Giám đốc, Phó Tổng Giám đốc, Giám đốc, Phó Giám đốc đại diện cho Tỉnh trong các công ty liên doanh giữa doanh nghiệp Nhà nước của Tỉnh với doanh nghiệp trong nước và nước ngoài; cán bộ, công chức, viên chức được cử tham gia quản lý phần vốn nhà nước tại các công ty cổ phần được chuyển từ doanh nghiệp Nhà nước thuộc UBND Tỉnh.\n\n4\\. Quyết định nghỉ hưu theo quy định hiện hành của Nhà nước đối với Phó Chủ tịch UBND tỉnh, cán bộ, công chức, viên chức quy định tại Điểm a, Khoản 2; Điểm a, b, Khoản 3 của Điều này.\n\n5\\. Quyết định nâng bậc trước thời hạn cho cán bộ, công chức, viên chức thuộc diện Ban cán sự Đảng UBND tỉnh quản lý, các Phó Chủ tịch UBND cấp huyện.\n\n6\\. Quyết định nâng lương niên hạn, phụ cấp thâm niên vượt khung, thâm niên nghề, phụ cấp cho cán bộ, công chức, viên chức thuộc diện Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy, Ban cán sự đảng UBND Tỉnh và UBND Tỉnh quản lý; cán bộ, công chức, viên chức là chuyên viên cao cấp và tương đương thuộc khối Nhà nước (kể cả cán bộ, công chức ở cơ quan Hội đồng nhân dân các cấp).\n\n7\\. Quyết định nâng lương trước thời hạn cho cán bộ, công chức, viên chức thuộc diện Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy quản lý, cán bộ, công chức, viên chức là chuyên viên cao cấp và tương đương thuộc khối Nhà nước (kể cả cán bộ, công chức ở cơ quan Hội đồng nhân dân các cấp), sau khi có ý kiến đồng ý của Thường trực Tỉnh ủy. (Riêng nâng lương trước thời hạn đối với chuyên viên cao cấp và tương đương phải có ý kiến thống nhất của Bộ Nội vụ).\n\n8\\. Trực tiếp hoặc ủy quyền cho Phó Chủ tịch UBND tỉnh gặp mặt trước khi nghỉ hưu đối với cán bộ, công chức, viên chức thuộc diện được quy định tại Điểm a, Khoản 2; Điểm a, b, Khoản 3 Điều này. Giám đốc các sở, ban, ngành (tương đương), Chủ tịch UBND cấp huyện gặp mặt cán bộ, công chức trước khi nghỉ hưu đối với các chức danh còn lại.\n\n**Điều 26. Nhiệm vụ, thẩm quyền của Giám đốc Sở Nội vụ**\n\n1\\. Thẩm định, trình Ban cán sự Đảng UBND Tỉnh, Chủ tịch UBND Tỉnh bổ nhiệm, miễn nhiệm, điều động, luân chuyển, kỷ luật, nghỉ hưu, đối với các chức danh thuộc thẩm quyền quản lý của Ban Thường vụ Tỉnh ủy, UBND Tỉnh. Thẩm định đề nghị Ban cán sự Đảng UBND Tỉnh cho ý kiến trình Ban Thường vụ Tỉnh ủy, Thanh tra Chính phủ cho ý kiến thống nhất để tham mưu Chủ tịch UBND Tỉnh ra quyết định bổ nhiệm, miễn nhiệm, cách chức Chánh Thanh tra tỉnh.\n\n2\\. Thẩm định, tham mưu Chủ tịch UBND Tỉnh quyết định bổ nhiệm vào ngạch và xếp lương đối với các ngạch công chức, hạng viên chức thuộc thẩm quyền bổ nhiệm của Chủ tịch UBND Tỉnh. Quyết định tuyển dụng, bổ nhiệm và xếp ngạch lương chuyên viên chính và tương đương trở xuống đối với công chức.\n\n3\\. Thẩm định, trình Chủ tịch UBND tỉnh quyết định nâng bậc lương thường xuyên, nâng bậc lương trước thời hạn, phụ cấp thâm niên vượt khung, thâm niên nghề, phụ cấp đặc thù đối với cán bộ, công chức, viên chức thuộc diện Ban Thường vụ Tỉnh ủy, Thường trực Tỉnh ủy và UBND Tỉnh quản lý, cán bộ, công chức, viên chức là chuyên viên cao cấp và tương đương thuộc khối Nhà nước (kể cả cán bộ, công chức ở cơ quan Hội đồng nhân dân các cấp) theo quy định.\n\n4\\. Quyết định nâng bậc lương thường xuyên, phụ cấp thâm niên vượt khung, nâng lương trước thời hạn đối với cán bộ, công chức, viên chức ngạch chuyên viên chính và tương đương của các sở, ban, ngành, UBND các huyện, thị xã, thành phố (trừ các chức danh do UBND Tỉnh quản lý); quyết định nâng bậc lương thường xuyên và trước thời hạn cho Phó Giám đốc, Kế toán trưởng và kiểm soát viên doanh nghiệp Nhà nước.\n\nThẩm định và ký xác nhận danh sách đề nghị nâng bậc lương trước thời hạn; các loại phụ cấp đối với cán bộ, công chức, viên chức theo quy định pháp luật.\n\n5\\. Xây dựng kế hoạch đào tạo, bồi dưỡng cán bộ, công chức, viên chức thuộc khối Nhà nước, cán bộ công chức cấp xã, trình UBND Tỉnh phê duyệt và phối hợp với các cơ quan có liên quan tổ chức thực hiện sau khi được UBND Tỉnh phê duyệt.\n\n6\\. Thỏa thuận bằng văn bản để Giám đốc các sở, ban, ngành; Chủ tịch UBND các huyện, thị xã, thành phố quyết định về xử lý kỷ luật hạ bậc lương đối với công chức, viên chức ngạch chuyên viên chính và tương đương (trừ các chức danh do UBND Tỉnh, Ban Thường vụ Huyện ủy, Thị ủy, Thành ủy quản lý).\n\n7\\. Quyết định điều động, tiếp nhận công chức ngoài tỉnh về tỉnh Phú Yên công tác và từ cơ quan, đơn vị địa phương này đến công tác cơ quan, đơn vị, địa phương khác theo đề nghị của các cơ quan, đơn vị, địa phương (trừ các đối tượng thuộc diện UBND tỉnh, quản lý). Quyết định điều động viên chức ra ngoài tỉnh và tiếp nhận viên chức ngoài tỉnh về công tác tại tỉnh Phú Yên.\n\n8\\. Quyết định tiếp nhận và bố trí công chức, viên chức theo đề nghị của các sở, ban, ngành, UBND các huyện, thị xã, thành phố theo chính sách thu hút nguồn nhân lực trí thức của Tỉnh (trừ các đối tượng thuộc UBND Tỉnh quản lý).\n\n9\\. Xét thẩm định và ký xác nhận danh sách hợp đồng lao động theo Nghị định số [68/2000/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-68-2000-nd-cp-thuc-hien-che-do-hop-dong-loai-cong-viec-trong-co-quan-hanh-chinh-nha-nuoc-don-vi-su-nghiep-47047.aspx \"Nghị định 68/2000/NĐ-CP\") ngày 17/11/2000 của Chính phủ và hợp đồng viên chức y tế cơ sở theo Quyết số 58/TTg ngày 03/02/1994 của Thủ tướng Chính phủ, trên cơ sở đề nghị của các sở, ban, ngành, UBND huyện, thị xã, thành phố.\n\n10\\. Hướng dẫn việc làm thẻ công chức, viên chức và kiểm tra việc sử dụng thẻ công chức, viên chức đối với cán bộ, công chức, viên chức các cơ quan hành chính, đơn vị sự nghiệp.\n\n11\\. Tiến hành thanh tra, kiểm tra công vụ về thực hiện công tác tổ chức, biên chế, cán bộ, công chức, viên chức về thực hiện chế độ, chính sách đối với cán bộ, công chức, viên chức tại các cơ quan hành chính, đơn vị sự nghiệp thuộc UBND Tỉnh và UBND các huyện, thị xã, thành phố. Kiểm tra việc tổ chức thực hiện về quy định chức năng nhiệm vụ của các ngành được UBND Tỉnh phê duyệt và kiểm tra thực hiện công tác cải cách hành chính của các sở, ban, ngành; UBND các huyện, thị xã, thành phố.Bổ sung\n\n**Điều 27. Nhiệm vụ, quyền hạn của thủ trưởng các sở, ban, ngành cấp Tỉnh**\n\n1\\. Quản lý các chức danh trưởng, phó cấp phòng, ban, chi cục và các đơn vị sự nghiệp trực thuộc (trừ các chức danh theo quy định thuộc thẩm quyền của Chủ tịch UBND Tỉnh) và cán bộ, công chức, viên chức ngạch chuyên viên (tương đương) trở xuống.\n\nQuyết định hoặc phân cấp cho trưởng các phòng, ban và tương đương, chi cục và các đơn vị sự nghiệp công lập trực thuộc trực tiếp quyết định thực hiện một hoặc một số nội dung quản lý theo quy định.\n\n2\\. Quyết định bổ nhiệm, miễn nhiệm, xử lý kỷ luật Trưởng phòng, Phó Trưởng phòng và tương đương thuộc sở, ban, ngành. Bổ nhiệm, miễn nhiệm, cách chức Chánh Thanh tra sở sau khi có thỏa thuận của Chánh Thanh tra tỉnh, đề nghị Sở Nội vụ thẩm định và thực hiện quy trình bổ nhiệm Kế toán trưởng theo quy định. Việc bổ nhiệm cán bộ, công chức, viên chức giữ các chức danh lãnh đạo phải bảo đảm lịch sử chính trị và chính trị hiện nay theo Quy định và phải gửi quyết định bổ nhiệm, miễn nhiệm, xử lý kỷ luật về Sở Nội vụ để theo dõi quản lý cán bộ, công chức, viên chức.\n\n3\\. Nhận xét, đánh giá cán bộ công chức hàng năm theo quy định pháp luật. Triển khai thực hiện các chế độ chính sách liên quan đối với các cán bộ, công chức, viên chức thuộc thẩm quyền quản lý.\n\n4\\. Đề nghị việc bổ nhiệm, miễn nhiệm, xử lý kỷ luật, khen thưởng, nâng ngạch, chuyển ngạch, điều động, luân chuyển, biệt phái, đào tạo, bồi dưỡng, thực hiện các chế độ chính sách như: tiền lương, nghỉ hưu, thôi việc, chuyển công tác đối với cán bộ, công chức, viên chức cho cơ quan có thẩm quyền giải quyết theo phân cấp quản lý tại Quy định này.\n\n5\\. Bố trí, điều động, phân công hợp lý cán bộ, công chức, viên chức thuộc thẩm quyền quản lý; thẩm định hồ sơ, danh sách và quyết định nâng bậc lương niên hạn, phụ cấp thâm niên vượt khung đối với cán bộ, công chức, viên chức ngạch chuyên viên (01.003) và tương đương trở xuống đang làm việc trong các cơ quan hành chính và đơn vị sự nghiệp do ngân sách Nhà nước cấp kinh phí hoạt động thường xuyên có giao chỉ tiêu biên chế, đồng thời phải gửi danh sách cán bộ, công chức, viên chức được nâng lương hàng năm về Sở Nội vụ để kiểm tra, theo dõi. Riêng đối với cán bộ, công chức, viên chức nâng lương trước thời hạn thì đơn vị phải có công văn đề nghị, kèm theo danh sách, biên bản họp Hội đồng xét nâng lương của đơn vị, phô tô quyết định lương gần nhất, quyết định khen thưởng của cấp có thẩm quyền gửi về Sở Nội vụ để thẩm định xác nhận danh sách trước khi ra quyết định nâng lương trước thời hạn.\n\n6\\. Lập thủ tục đề nghị cơ quan có thẩm quyền quyết định bổ nhiệm vào ngạch công chức, hạng viên chức đối với những cán bộ, công chức, viên chức đạt kết quả kỳ thi tuyển, thi nâng ngạch công chức, thăng hạng viên chức theo quy định; công chức hết thời gian tập sự, thử việc.\n\n7\\. Lập thủ tục đề nghị Sở Nội vụ quyết định tiếp nhận và điều động công chức công tác ở cơ quan, đơn vị và địa phương khác về cơ quan, đơn vị mình; thuyên chuyển viên chức trong tỉnh ra ngoài tỉnh và tiếp nhận viên chức ngoài tỉnh về công tác tại đơn vị mình.\n\nQuyết định tiếp nhận viên chức công tác ở các cơ quan, đơn vị, địa phương khác thuộc phạm vi tỉnh Phú Yên về công tác tại cơ quan, đơn vị mình.\n\nQuyết định cho chấm dứt hợp đồng để chuyển công tác đối với viên chức của cơ quan, đơn vị mình đến công tác ở cơ quan, đơn vị và địa phương khác trong phạm vi tỉnh Phú Yên.\n\n8\\. Lập thủ tục đề nghị cơ quan có thẩm quyền cử, thôi cử cán bộ, công chức, viên chức thuộc phạm vi quản lý của mình tham gia quản lý tại các công ty liên doanh giữa doanh nghiệp do Nhà nước làm chủ sở hữu thuộc UBND Tỉnh với các doanh nghiệp trong nước, nước ngoài, cử người tham gia quản lý phần vốn của doanh nghiệp do Nhà nước làm chủ sở hữu thuộc UBND Tỉnh.\n\n9\\. Quyết định nghỉ hưu, khen thưởng, kỷ luật cán bộ, công chức từ ngạch chuyên viên chính (01.002) và tương đương trở xuống. Đối với cán bộ, công chức ngạch chuyên viên chính (01.002) và tương đương trước ra quyết định xử lý hình thức kỷ luật hạ bậc lương (trừ các chức danh do UBND Tỉnh, Chủ tịch UBND Tỉnh quản lý) phải có văn bản thỏa thuận của Sở Nội vụ. Việc giải quyết chính sách nghỉ hưu thực hiện theo quy định hiện hành của của Nhà nước.\n\n10\\. Hướng dẫn, chỉ đạo các đơn vị sự nghiệp có thu tự bảo đảm toàn bộ kinh phí hoạt động (không giao chỉ tiêu biên chế) tổ chức tuyển dụng, bổ nhiệm, quyết định xử lý kỷ luật, nghỉ hưu, thôi việc đối với viên chức thuộc thẩm quyền quản lý theo đúng quy định của Nhà nước.\n\nSau khi quyết định xử lý kỷ luật, nghỉ hưu đối với cán bộ, công chức, viên chức thuộc thẩm quyền quản lý, các sở, ban, ngành gửi báo cáo (kèm theo danh sách và quyết định của từng người) về Sở Nội vụ để theo dõi, quản lý cán bộ, công chức, viên chức.\n\n**Điều 28. Nhiệm vụ, thẩm quyền của Chủ tịch UBND cấp huyện**\n\n1\\. Quản lý và trực tiếp bổ nhiệm, miễn nhiệm, cách chức các chức danh lãnh đạo, quản lý do Ban Thường vụ Huyện ủy, Thị ủy, Thành ủy phân cấp (trừ các chức danh quy định thuộc thẩm quyền của Chủ tịch UBND Tỉnh); cán bộ, công chức, viên chức ngạch chuyên viên (01.003) và tương đương trở xuống; cán bộ, công chức cấp xã.\n\nRiêng việc bổ nhiệm, miễn nhiệm, cách chức Chánh Thanh tra cấp huyện phải có văn bản thống nhất của Chánh Thanh tra tỉnh.\n\nQuyết định hoặc phân cấp cho người đứng đầu đơn vị cơ sở trực tiếp quyết định thực hiện một hoặc một số nội dung về quản lý, sử dụng cán bộ, công chức, viên chức.\n\n2\\. Nhận xét, đánh giá, cán bộ, công chức, viên chức hàng năm; triển khai thực hiện các chế độ chính sách liên quan đến các cán bộ, công chức, viên chức đang công tác tại các đơn vị thuộc quyền quản lý của địa phương mình.\n\n3\\. Tham gia ý kiến nhận xét đối với việc bổ nhiệm, miễn nhiệm cán bộ lãnh đạo các đơn vị thuộc ngành dọc quản lý đang hoạt động trên địa bàn.\n\n4\\. Đề nghị thi tuyển công chức, thi nâng ngạch, chuyển ngạch cho công chức, điều động, luân chuyển, biệt phái, đào tạo, bồi dưỡng, thực hiện các chế độ chính sách như: tiền lương, nghỉ hưu, thôi việc,... chuyển công tác đối với cán bộ, công chức, viên chức cho cơ quan có thẩm quyền giải quyết theo phân cấp quản lý tại Quy định này.\n\n5\\. Bố trí, điều động, phân công cán bộ, công chức, viên chức thuộc thẩm quyền quản lý. Thẩm định danh sách, quyết định nâng bậc lương niên hạn, phụ cấp thâm niên vượt khung, đối với cán bộ, công chức, viên chức ngạch chuyên viên (01.003) và tương đương trở xuống đang làm việc trong các cơ quan hành chính và đơn vị sự nghiệp do ngân sách nhà nước cấp chi phí hoạt động thường xuyên có giao chỉ tiêu biên chế. Riêng nâng bậc lương trước thời hạn phải có thẩm định, xác nhận của Sở Nội vụ.\n\n6\\. Lập thủ tục đề nghị Sở Nội vụ quyết định tiếp nhận và điều động công chức công tác ở cơ quan, đơn vị và địa phương khác về cơ quan, đơn vị mình; điều động viên chức ra ngoài tỉnh và tiếp nhận viên chức ngoài tỉnh về công tác tại địa phương mình.\n\nQuyết định tiếp nhận viên chức công tác ở các cơ quan, đơn vị, địa phương khác thuộc phạm vi tỉnh Phú Yên về công tác tại địa phương mình.\n\nQuyết định cho chấm dứt hợp đồng để chuyển công tác đối với viên chức của địa phương mình đến công tác ở cơ quan, đơn vị và địa phương khác trong phạm vi tỉnh Phú Yên.\n\n7\\. Quyết định nghỉ hưu, khen thưởng, kỷ luật cán bộ, công chức từ ngạch chuyên viên chính (01.002) và tương đương trở xuống (trừ các chức danh do Ban Thường vụ Huyện ủy, Thị ủy, Thành ủy quản lý). Đối với cán bộ, công chức ngạch chuyên viên chính (01.002) và tương đương trước ra quyết định xử lý hình thức kỷ luật hạ bậc lương (trừ các chức danh do UBND Tỉnh, Chủ tịch UBND Tỉnh quản lý) phải có văn bản thỏa thuận của Sở Nội vụ. Việc giải quyết nghỉ hưu phải thực hiện đúng theo quy định hiện hành của Nhà nước.\n\n8\\. Hướng dẫn, chỉ đạo các đơn vị sự nghiệp có nguồn thu tự bảo đảm toàn bộ kinh phí hoạt động (không giao chỉ tiêu biên chế) tổ chức tuyển dụng, bổ nhiệm, quyết định xử lý kỷ luật, nghỉ hưu, thôi việc đối với viên chức thuộc thẩm quyền quản lý theo đúng quy định của nhà nước.\n\nSau khi bổ nhiệm, xử lý kỷ luật đối với cán bộ, công chức, viên chức thuộc thẩm quyền quản lý, UBND huyện, thị xã, thành phố gửi quyết định của từng người về Sở Nội vụ để theo dõi quản lý cán bộ.Bổ sung\n\n**Chương VI**\n\n**ĐIỀU KHOẢN THI HÀNH**\n\n**Điều 29.** Thủ trưởng các sở, ban, ngành; Chủ tịch UBND các huyện, thị xã, thành phố và Thủ trưởng các cơ quan, tổ chức liên quan có trách nhiệm tổ chức triển khai thực hiện Quy định này, đồng thời cụ thể hóa việc phân cấp quản lý cho các đơn vị trực thuộc theo đúng quy định của Nhà nước và Quy định này.\n\n**Điều 30.** Giám đốc Sở Nội vụ phối hợp với Chánh Văn phòng UBND tỉnh, Thủ trưởng các sở, ban, ngành, Chủ tịch UBND cấp huyện có liên quan theo dõi, kiểm tra việc thực hiện Quy định này.\n\n**Điều 31.** Khi thực hiện Quy định này nếu có văn bản quy phạm pháp luật khác cùng quy định một nội dung trong bản Quy định này, thì áp dụng văn bản quy phạm pháp luật có hiệu lực pháp lý cao hơn.\n\nTrong quá trình thực hiện, nếu phát sinh vấn đề vướng mắc, các sở, ban, ngành; UBND các huyện, thị xã, thành phố phản ánh về UBND Tỉnh (qua Sở Nội vụ) để nghiên cứu điều chỉnh, bổ sung cho phù hợp với quy định của Nhà nước và tình hình thực tế của địa phương./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

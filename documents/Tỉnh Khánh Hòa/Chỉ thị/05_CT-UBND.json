@@ -1,0 +1,662 @@
+{
+  "title": "Chỉ thị 05/CT-UBND về tổ chức thực hiện dự toán ngân sách nhà nước năm 2021 do tỉnh Khánh Hòa ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2021 do Chính phủ ban hành",
+      "id": "01/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2021-01-01",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 109/2020/TT-BTC quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2021 do Bộ Tài chính ban hành",
+      "id": "109/2020/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2020-12-25",
+      "effectiveDate": "2021-02-08",
+      "gazetteDate": "2021-01-12",
+      "gazetteNumber": "Từ số 41 đến số 42",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 79/NQ-HĐND năm 2020 về dự toán thu ngân sách nhà nước trên địa bàn, thu, chi ngân sách địa phương năm 2021 do tỉnh Khánh Hòa ban hành",
+      "id": "79/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Khánh Hòa",
+      "signers": [
+        "Trần Mạnh Dũng"
+      ],
+      "issuedDate": "2020-12-07",
+      "effectiveDate": "2020-12-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 123/2020/NĐ-CP quy định về hóa đơn, chứng từ",
+      "id": "123/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-10-19",
+      "effectiveDate": "2022-07-01",
+      "gazetteDate": "2020-11-01",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 41/2020/NĐ-CP về gia hạn thời hạn nộp thuế và tiền thuê đất",
+      "id": "41/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-08",
+      "effectiveDate": "2020-04-08",
+      "gazetteDate": "2020-04-16",
+      "gazetteNumber": "Từ số 365 đến số 366",
+      "status": "Hết hiệu lực: 19/12/2023"
+    },
+    {
+      "title": "Chỉ thị 32/CT-TTg năm 2019 về đẩy mạnh triển khai thi hành luật quản lý, sử dụng tài sản công và các văn bản quy định chi tiết thi hành luật do Thủ tướng Chính phủ ban hành",
+      "id": "32/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-12-10",
+      "effectiveDate": "2019-12-10",
+      "gazetteDate": "2019-12-21",
+      "gazetteNumber": "Từ số 979 đến số 980",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 94/2019/QH14 về khoanh nợ tiền thuế, xóa nợ tiền phạt chậm nộp, tiền chậm nộp đối với người nộp thuế không còn khả năng nộp ngân sách nhà nước do Quốc hội ban hành",
+      "id": "94/2019/QH14",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-26",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-19",
+      "gazetteNumber": "Từ số 975 đến số 976",
+      "status": "Hết hiệu lực: 01/07/2023"
+    },
+    {
+      "title": "Luật Đầu tư công 2019",
+      "id": "39/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "2019-07-19",
+      "gazetteNumber": "Từ số 565 đến số 566",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý thuế 2019",
+      "id": "38/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-07-18",
+      "gazetteNumber": "Từ số 561 đến số 562",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 04/CT-BTC năm 2018 về tăng cường công tác quản lý nợ và cưỡng chế thu hồi nợ thuế để giảm nợ đọng ngành thuế quản lý do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "04/CT-BTC",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đinh Tiến Dũng"
+      ],
+      "issuedDate": "2018-10-15",
+      "effectiveDate": "2018-10-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 119/2018/NĐ-CP quy định về hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ",
+      "id": "119/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-09-12",
+      "effectiveDate": "2018-11-01",
+      "gazetteDate": "2018-09-22",
+      "gazetteNumber": "Từ số 929 đến số 930",
+      "status": "Hết hiệu lực: 01/07/2022"
+    },
+    {
+      "title": "Chỉ thị 15/CT-TTg năm 2018 về tổ chức triển khai thực hiện hiệu quả Luật Hỗ trợ doanh nghiệp nhỏ và vừa do Thủ tướng Chính phủ ban hành",
+      "id": "15/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-06-15",
+      "effectiveDate": "2018-06-15",
+      "gazetteDate": "2018-06-26",
+      "gazetteNumber": "Từ số 739 đến số 740",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quy hoạch 2017",
+      "id": "21/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-11-24",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2017-12-29",
+      "gazetteNumber": "Từ số 1061 đến số 1062",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 18-NQ/TW năm 2017 về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả do Ban Chấp hành Trung ương ban hành",
+      "id": "18-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19-NQ/TW năm 2017 về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của đơn vị sự nghiệp công lập do Ban Chấp hành Trung ương ban hành",
+      "id": "19-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý, sử dụng tài sản công 2017",
+      "id": "15/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-21",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-26",
+      "gazetteNumber": "Từ số 519 đến số 520",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 579/QĐ-TTg năm 2017 về nguyên tắc hỗ trợ có mục tiêu từ ngân sách trung ương cho ngân sách địa phương thực hiện chính sách an sinh xã hội giai đoạn 2017-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "579/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-04-28",
+      "effectiveDate": "2017-04-28",
+      "gazetteDate": "2017-05-17",
+      "gazetteNumber": "Từ số 357 đến số 358",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước",
+      "id": "163/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-12-21",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2017-01-01",
+      "gazetteNumber": "Từ số 1 đến số 2",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 12/2016/NQ-HĐND về tỷ lệ phần trăm (%) phân chia khoản thu giữa ngân sách cấp tỉnh với ngân sách cấp huyện và ngân sách cấp xã trong thời kỳ ổn định ngân sách giai đoạn 2017-2020 do tỉnh Khánh Hòa ban hành",
+      "id": "12/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Khánh Hòa",
+      "signers": [
+        "Nguyễn Tấn Tuân"
+      ],
+      "issuedDate": "2016-12-12",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 13/2016/NQ-HĐND về định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2017 do tỉnh Khánh Hòa ban hành",
+      "id": "13/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Khánh Hòa",
+      "signers": [
+        "Nguyễn Tấn Tuân"
+      ],
+      "issuedDate": "2016-12-12",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 70/QĐ-UBND điều chỉnh Quyết định 02/QĐ-UBND về Kế hoạch triển khai những nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế-xã hội và Dự toán ngân sách Nhà nước năm 2021 do tỉnh Ninh Thuận ban hành",
+      "id": "70/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Trần Quốc Nam"
+      ],
+      "issuedDate": "2021-02-23",
+      "effectiveDate": "2021-02-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 13/KH-UBND thực hiện Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2021 do tỉnh Hậu Giang ban hành",
+      "id": "13/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hậu Giang",
+      "signers": [
+        "Đồng Văn Thanh"
+      ],
+      "issuedDate": "2021-01-21",
+      "effectiveDate": "2021-01-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 17/KH-UBND thực hiện Nghị quyết về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2021 do thành phố Cần Thơ ban hành",
+      "id": "17/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Đầu tư",
+        "Thương mại"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Trần Việt Trường"
+      ],
+      "issuedDate": "2021-01-19",
+      "effectiveDate": "2021-01-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 134/QĐ-UBND về Chương trình hành động thực hiện Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2021 trên địa bàn tỉnh Vĩnh Long",
+      "id": "134/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Vĩnh Long",
+      "signers": [
+        "Lữ Quang Ngời"
+      ],
+      "issuedDate": "2021-01-15",
+      "effectiveDate": "2021-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chương trình 02/CTr-UBND thực hiện Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2021 do tỉnh Yên Bái ban hành",
+      "id": "02/CTr-UBND",
+      "legislationType": "Văn bản khác",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Yên Bái",
+      "signers": [
+        "Trần Huy Tuấn"
+      ],
+      "issuedDate": "2021-01-15",
+      "effectiveDate": "2021-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 92/QĐ-UBND quy định về tổ chức thực hiện dự toán ngân sách nhà nước địa phương năm 2021 do tỉnh Thừa Thiên Huế ban hành",
+      "id": "92/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Phan Ngoc Thọ"
+      ],
+      "issuedDate": "2021-01-13",
+      "effectiveDate": "2021-01-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 54/QĐ-UBND công bố công khai dự toán ngân sách nhà nước năm 2021 và quyết toán ngân sách địa phương năm 2019 do tỉnh Phú Thọ ban hành",
+      "id": "54/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Phú Thọ",
+      "signers": [
+        "Phan Trọng Tấn"
+      ],
+      "issuedDate": "2021-01-08",
+      "effectiveDate": "2021-01-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3409/QĐ-UBND năm 2020 quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2021 do tỉnh Vĩnh Phúc ban hành",
+      "id": "3409/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Lê Duy Thành"
+      ],
+      "issuedDate": "2020-12-31",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 222/HĐND-TH năm 2020 về đính chính Nghị quyết 157/NQ-HĐND do tỉnh Thừa Thiên Huế ban hành",
+      "id": "222/HĐND-TH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Nguyễn Văn Tiến"
+      ],
+      "issuedDate": "2020-12-15",
+      "effectiveDate": "2020-12-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 35/NQ-HĐND năm 2020 về dự toán ngân sách nhà nước tỉnh Vĩnh Phúc năm 2021",
+      "id": "35/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Hoàng Thị Thúy Lan"
+      ],
+      "issuedDate": "2020-12-14",
+      "effectiveDate": "2020-12-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2900/QĐ-UBND năm 2020 quy định về tổ chức thực hiện dự toán ngân sách năm 2021 trên địa bàn tỉnh Nam Định",
+      "id": "2900/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Phạm Đình Nghị"
+      ],
+      "issuedDate": "2020-12-08",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2899/QĐ-UBND năm 2020 về giao chỉ tiêu kế hoạch và dự toán ngân sách nhà nước năm 2021 do tỉnh Nam Định ban hành",
+      "id": "2899/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Phạm Đình Nghị"
+      ],
+      "issuedDate": "2020-12-08",
+      "effectiveDate": "2020-12-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 157/NQ-HĐND năm 2020 về dự toán ngân sách nhà nước năm 2021 do tỉnh Thừa Thiên Huế ban hành",
+      "id": "157/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Lê Trường Lưu"
+      ],
+      "issuedDate": "2020-12-07",
+      "effectiveDate": "2020-12-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 81/KH-UBND năm 2020 về tài chính - ngân sách nhà nước 03 năm 2021-2023 tỉnh Cà Mau",
+      "id": "81/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Lâm Văn Bi"
+      ],
+      "issuedDate": "2020-08-07",
+      "effectiveDate": "2020-08-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "05/CT-UBND",
+  "legislationType": "Chỉ thị",
+  "categories": [
+    "Tài chính nhà nước"
+  ],
+  "organization": "Tỉnh Khánh Hòa",
+  "signers": [
+    "Lê Hữu Hoàng"
+  ],
+  "issuedDate": "2021-02-05",
+  "effectiveDate": "2021-02-05",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH KHÁNH HÒA<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>05<span lang=\"VI\">/</span>CT<span lang=\"VI\">-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Khánh\n  Hòa, ngày </span>05</i><i><span lang=\"VI\"> tháng 02 năm 202</span>1</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CHỈ THỊ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">VỀ VIỆC TỔ CHỨC THỰC HIỆN DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2021</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Năm 2020, tình hình thế giới, kinh tế\ntrong nước nói chung và của tỉnh nói riêng gặp nhiều khó khăn, thách thức, nhất\nlà tác động, ảnh hưởng nghiêm trọng của đại dịch Covid-19 và thiên tai, bão lũ\nđã ảnh hưởng rất lớn đến thu ngân sách nhà nước </span>tr<span lang=\"VI\">ên địa\nbàn tỉnh. Trong bối cảnh đó, căn cứ các Nghị quyết của Chính phủ, dưới sự chỉ đạo\nsát sao của Tỉnh ủy, sự giám sát chặt chẽ của HĐND tỉnh, UBND tỉnh đã căn cứ\ntình hình thực tiễn của từng giai đoạn, chủ động đề xuất các giải pháp và chỉ đạo\nthực hiện quyết liệt với những giải pháp đồng bộ cộng với sự phấn đấu của cả hệ\nthống chính trị, các cấp, các ngành, sự đồng thuận của cộng đồng doanh nghiệp\nvà người dân trên địa bàn tỉnh đã góp phần tích cực vào kết quả thực hiện<i>\n“nhiệm vụ kép” </i></span><i>- </i><i><span lang=\"VI\">vừa phòng ch</span>ố</i><i><span lang=\"VI\">ng dịch, vừa phát triển kinh tế - xã hội, đảm bảo đời sống nhân dân</span></i><span lang=\"VI\"> nhằm hoàn thành ở mức cao nhất nhiệm vụ NSNN năm 2020. Bên cạnh đó,\ncác cơ quân, ban, ngành của tỉnh tích cực đẩy m</span>ạ<span lang=\"VI\">nh giải\nngân vốn đầu tư công góp phần đảm bảo mục tiêu kép vừa đảm bảo tiến độ giải\nngân vốn đầu tư công, vừa đóng góp nguồn thu vào ngân sách nhà nước. Vì vậy số\nthu ngân sách nhà nước từ dự kiến chỉ đạt 70% dự toán (trong đó thu nội địa đạt\n68% dự toán) đến thời điểm này cơ bản đã hoàn thành được mục tiêu phấn đấu hoàn\nthành dự toán thu NSNN ở mức cao nhất, theo đó thu NSNN năm 2020 là 13.768 tỷ đồng\nđạt 80% dự toán (tăng 10% so với số đã trình HĐND tỉnh), trong đó thu nội địa\nlà 11.649 tỷ đồng, đạt 73% dự toán (tăng 5% so với số đã trình tại kỳ họp thứ\n13, HĐND tỉnh khóa VI).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Năm 2021 có ý nghĩa đặc biệt với các\nsự kiện chính </span>tr<span lang=\"VI\">ị quan trọng của cả nước, đây là năm tổ chức\nĐại hội đại biểu toàn quốc lần thứ XIII của Đảng, bầu cử Quốc hội khóa XV, bầu\ncử HĐND các cấp. Với dự báo tình hình thế giới, khu vực năm 2021 tiếp tục diễn\nbiến phức tạp, khó lường, đại dịch Covid-19 còn có thể kéo dài; bên canh đó,\ntác động tiêu cực từ biến đổi khí hậu như: hạn hán, lũ lụt.</span>.<span lang=\"VI\">.đã ảnh hư</span>ở<span lang=\"VI\">ng rất lớn đến tình hình phát triển\nkinh tế xã hội của cả nước, trong đó có tỉnh Khánh Hòa. Vì vậy, việc cân đối\nngân sách địa phương hết sức khó khăn, vừa đảm bảo các nhiệm vụ chính trị, vừa\nđảm bảo các mục tiêu kép, vừa đáp ứng được nhu cầu phát hiển kinh tế xã hội; đảm\nbảo chi chế độ, chính sách cho con người, chi an sinh xã hội và phòng chống dịch\nbệnh, thiên tai là hết sức khó khăn, đòi hỏi sự vào cuộc của cả hệ thống chính\ntrị và nỗ lực phấn đấu của cộng đồng doanh nghiệp và người dân. Do đó để hoàn\nthành vượt mức nhiệm vụ tài chính -ngân sách năm 2021 và chỉ tiêu kế hoạch Nghị\nquyết Đại hội Đảng bộ tỉnh Khánh Hòa lần thứ XVIII đã đề ra, đòi hỏi các cấp,\ncác ngành, cả hệ thống chính trị, cộng đồng doanh nghiệp phải quyết tâm, nỗ lực,\nphấn đấu, tập trung thực hiện quyết liệt các nhiệm vụ, giải pháp chủ yếu để thực\nhiện chỉ đạo điều hành kinh tế - xã hội và dự toán ngân sách năm 2020 của Chính\nphủ tại Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 01/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-01-nq-cp-2021-nhiem-vu-giai-phap-chu-yeu-thuc-hien-ke-hoach-phat-trien-kinh-te-xa-hoi-461294.aspx\">01/NQ-CP</a>  ngày 01/01/2021; Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 79/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-79-nq-hdnd-2020-du-toan-thu-ngan-sach-nha-nuoc-tinh-khanh-hoa-465489.aspx\">79/NQ-HĐND</a>  ngày\n07/12/2020 của Hội đồng nhân dân tỉnh khóa VI, kỳ họp thứ 13 về dự toán thu\nngân sách nhà nước trên địa bàn; thu, chi ngân sách địa phư</span>ơn<span lang=\"VI\">g năm 2021; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 109/2020/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-109-2020-tt-btc-to-chuc-thuc-hien-du-toan-ngan-sach-nha-nuoc-nam-2021-461155.aspx\">109/2020/TT-BTC</a>  ngày 25/12/2020 của Bộ Tài\nchính quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2021. Bên cạnh\nđó, UBND tỉnh yêu cầu Thủ trưởng các Sở, ban, ngành thuộc tỉnh, Chủ tịch UBND\ncác huyện, thị xã, thành phố căn cứ tình hình thực tế của địa phương, đơn vị\nmình tổ chức xây dựng các giải pháp cụ thể để triển khai nhiệm vụ tài chính -\nngân sách năm 2021, </span>tr<span lang=\"VI\">ong đó cần tập trung một số nhiệm vụ\nnhư sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">1. Tổ chức quản\nlý thu ngân sách nhà nước:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Tổ chức </span>tr<span lang=\"VI\">iển\nkhai thực hiện có hiệu quả các quy định pháp luật về thuế có hiệu lực thi hành;\ntập trung đôn đốc thu hồi vào ngân sách nhà nước năm 2021 khoản thuế thu nhập\ndoanh nghiệp của người nộp thuế có năm tài chính khác năm dương lịch đ</span>ã <span lang=\"VI\">được gia hạn nộp thuế theo quy định tại Nghị định số 41/2020/NĐ- CP\nngày 08 tháng 4 năm 2020 về gia hạn thời hạn nộp thuế và tiền thuê đất. Đẩy mạnh\nứng dụng công nghệ thông tin gắn kết với cải cách hành chính, khai, nộp, hoàn\nthuế điện tử và các nhiệm vụ, giải pháp về nâng cao năng lực cạnh tranh, cải\nthiện môi trường kinh doanh. Tăng cường quảng bá, khuyến khích tiêu dùng sản phẩm\nnội địa để khuyến khích hoạt động sản xuất kinh doanh trong tỉnh cũng như cả nước\ngóp phần tăng thu ngân sách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện nghiêm Chỉ thị số\n<a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 15/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/chi-thi-15-ct-ttg-2018-to-chuc-trien-khai-thuc-hien-hieu-qua-luat-ho-tro-doanh-nghiep-nho-va-vua-384225.aspx\">15/CT-TTg</a>  ngày 15 tháng 06 năm 2018 của Thủ tướng Chính phủ về tổ chức triển\nkhai thực hiện hiệu quả Luật hỗ trợ doanh nghiệp nhỏ và vừa; Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 119/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-119-2018-nd-cp-quy-dinh-ve-hoa-don-dien-tu-khi-ban-hang-hoa-cung-cap-dich-vu-394152.aspx\">119/2018/NĐ-CP</a>  ngày 12 tháng 09 năm 2018 của Chính phủ quy định về hóa đơn điện\ntử khi bán hàng hóa, cung cấp dịch vụ và Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 123/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/nghi-dinh-123-2020-nd-cp-quy-dinh-hoa-don-chung-tu-445980.aspx\">123/2020/NĐ-CP</a>  ngày 19\ntháng 10 năm 2020 quy định về hóa đơn, chứng từ. Tiếp tục tổ chức triển khai thực\nhiện tốt việc xử lý nợ thuế theo Nghị quyết số 94/2019/QH14 ngày 26 tháng 11\nnăm 2019 của Quốc hội về khoanh nợ tiền thuế, xóa nợ tiền phạt chậm nộp, tiền\nchậm nộp đối với người nộp thuế không còn khả năng nộp ngân sách nhà nước, Luật\nQuản lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019 và Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 04/CT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/chi-thi-04-ct-btc-2018-tang-cuong-cong-tac-quan-ly-no-va-cuong-che-thu-hoi-no-thue-397262.aspx\">04/CT-BTC</a> \nngày 15 tháng 10 năm 2018 của Bộ </span>tr<span lang=\"VI\">ưởng Bộ Tài chính về việc\ntăng cường công tác quản lý nợ và cưỡng chế thu hồi nợ thuế để giảm nợ đọng\nngành thuế quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Cơ quan Thuế, Hải quan:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Theo dõi chặt chẽ tiến độ thu ngân\nsách, đánh giá, phân tích cụ thể từng địa bàn thu, từng khu vực, từng sắc thuế\nvà có phương án chỉ đạo, điều hành kịp thời, dự báo thu hàng tháng, hàng quý\nsát với thực tế phát sinh. Chủ động rà soát, xác định các nguồn thu còn tiềm\nnăng, khai thác các nguồn thu mới phát sinh, các lĩnh vực, loại thuế còn thất\nthu để kịp thời đề xuất các giải pháp quản lý hiệu quả, đảm bảo thu đúng, thu đủ,\nkịp thời các khoản thuế, phí, lệ phí và thu khác vào ngân sách nhà n</span>ư<span lang=\"VI\">ớc, đặc biệt là các khoản nợ đọng thuế; phấn đấu hoàn thành và hoàn\nthành vượt mức dự toán thu NSNN đã được Chính phủ giao và HĐND tỉnh thông qua tại\nNghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 79/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-79-nq-hdnd-2020-du-toan-thu-ngan-sach-nha-nuoc-tinh-khanh-hoa-465489.aspx\">79/NQ-HĐND</a>  ngày 07/12/2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường theo dõi, kiểm tra, kiểm\nsoát việc kê khai thuế của các tổ chức, cá nhân theo quy định của pháp luật về\nthuế, việc khai báo tên hàng, mã hàng, thuế suất, trị giá, số lượng,... để phát\nhiện kịp thời các trường hợp kê khai không đúng, không đủ, gian lận thuế. Tăng\ncường quản lý thu, mở rộng cơ sở thuế, cải cách, hiện đại hóa ngành thuế. Đấu\ntranh phòng chống buôn lậu, gian lận thương mại, hàng giả, trốn thuế, chuyển\ngiá,....</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quản lý hoàn thuế giá </span>tr<span lang=\"VI\">ị gia tăng theo đúng quy định của pháp luật, điều hành hoàn thuế giá </span>tr<span lang=\"VI\">ị gia tăng </span>tr<span lang=\"VI\">ong phạm vi dự toán được cấp có thẩm\nquyền giao năm 2021; đồng thời tạo điều kiện cho người nộp thuế; thực hiện kiểm\ntra trước và sau hoàn thuế theo quy định của pháp luật và mức độ rủi ro; kịp thời\nphát hiện, xử lý nghiêm đối v</span>ớ<span lang=\"VI\">i các hành vi gian lận, lợi\ndụng chính sách hoàn thuế, chiếm đoạt tiền từ ngân sách nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện rà soát các dự án hết thời\ngian ưu đãi miễn, giảm thuế; các giấy phép cấp quyền khai thác khoáng sản để triển\nkhai thu đúng, thu đủ và kịp thời các khoản thu theo đúng quy định của pháp luật.\nRà soát, xác định cụ thể các đối tượng đang được nhà nước giao đất, cho thuê đất\ntrên địa bàn, nhất là các dự án hết thời gian được hưởng ưu đãi theo quy định của\nLuật đất đai năm 2013, phối hợp với cơ quan tài nguyên và môi trường hoàn chỉnh\nhồ sơ về đất đai, chuyển cho cơ quan thuế để xác định nghĩa vụ tài chính và đôn\nđốc, thu nộp đầy đủ, kịp thời các khoản thu từ đất đai vào ngân sách nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Tổ chức điều\nhành dự toán chi ngân sách địa phương:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thủ trưởng các cơ quan, đơn vị sử\ndụng ngân sách và UBND các huyện, thị xã, thành phố:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai đồng bộ, kịp thời, hiệu\nquả chương </span>tr<span lang=\"VI\">ình, kế hoạch công tác phục vụ tổ chức bầu cử\nHội đồng nhân dân các cấp nhiệm kỳ 2021 - 2026.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục thực hiện linh hoạt, hiệu\nquả <i>“mục tiêu kép</i></span><i>”</i> <span lang=\"VI\">vừa phòng, chống đại dịch\nCovid-19, vừa phục hồi và phát triển kinh tế - xã hội </span>tr<span lang=\"VI\">ong\ntrạng thái bình thường mới: Triển khai hiệu quả công tác phòng, chống dịch bệnh\nCovid-19, tuyệt đối không chủ quan trước dịch bệnh; tiếp tục củng cố trạng thái\nbình thường mới. Kiểm soát phù hợp người nhập cảnh, ngăn chặn hiệu quả nguồn bệnh\nxâm nhập từ bên ngoài. Bố trí nguồn lực và triển khai các giải pháp phù hợp, kịp\nthời để tháo gỡ khó khăn, hỗ trợ doanh nghiệp, người dân, người lao động bị mất\nviệc, thiếu việc làm, giảm sâu thu nhập do đại dịch Covid-19 và khôi phục sản\nxuất, kinh doanh, nhất là trong các ngành công nghiệp, dịch vụ, du lịch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chấp hành nghiêm kỷ luật, kỷ cương\ntài chính - ngân sách nhà nước, tăng cường chỉ đạo kiểm tra, giám sát và công\nkhai, minh bạch việc sử dụng ngân sách nhà nước. Triệt để tiết kiệm, chống lãng\nphí, nâng cao trách nhiệm người đứng đầu trong quản lý ngân sách nhà nước; giảm\ntối đa kinh phí hội nghị, công tác trong và ngoài nước; trong năm chủ động rà\nsoát các nhiệm vụ chi được giao dự toán nhưng chưa sử dụng để bố </span>tr<span lang=\"VI\">í các nhiệm vụ chi phát sinh trong năm, hạn chế đề nghị bổ sung ngoài dự\ntoán. Đ</span>ế<span lang=\"VI\">n ngày 30/6/2021, những khoản chi thường xuyên đã\ncó trong dự toán nhưng chưa phân bổ hoặc đã phân bổ nhưng chưa triển khai thực\nhiện, chưa phê duyệt dự toán, chưa phê duyệt kế hoạch lựa chọn nhà thầu thì\nkiên quyết cắt giảm để bổ sung dự phòng ngân sách, </span>tr<span lang=\"VI\">ừ trường\nhợp đặc biệt được Chủ tịch UBND tỉnh quyết định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện việc rà soát, đối chiếu\ngiữa số đối tượng được giao dự toán với số đối tượng thực tế, báo cáo, đề xuất\ncơ quan tài chính các cấp để kịp thời điều chỉnh, b</span>ổ<span lang=\"VI\"> sung.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục thực hiện đầy đủ, kịp thời\nLuật Quản lý, sử dụng tài sản công, Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 32/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-32-ct-ttg-2019-trien-khai-thi-hanh-luat-quan-ly-su-dung-tai-san-cong-430656.aspx\">32/CT-TTg</a>  ngày 10/12/2019 của Thủ\ntướng Ch</span>í<span lang=\"VI\">nh phủ về đẩy mạnh triển khai thi hành Luật Quản\nlý, sử dụng tài sản công và các văn bản quy định chi tiết thi hành Luật. Tổ chức\nviệc rà soát, kiểm tra, đôn đốc thực hiện các phương án sắp xếp lại, xử lý nhà,\nđất đã được cấp có thẩm quyền phê duyệt; thực hiện sắp xếp lại, xử lý xe ô tô,\nmáy móc, thiết bị bảo đảm theo tiêu chuẩn, định mức sử dụng tài sản công. Thực\nhiện nghiêm quy định về đấu giá khi thực hiện bán, chuyển nhượng, cho thuê tài\nsản công, giao đất, cho thuê đất theo quy định của pháp luật về quản lý, sử dụng\ntài sản công, pháp luật về đất đai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức rà soát, đánh giá định mức\nchi thường xuyên và nguồn thu, nhiệm vụ chi giai đoạn 2017 - 2020 làm cơ sở xây\ndựng định mức phân bổ chi thường xuyên và phân cấp nguồn thu, nhiệm vụ chi giai\nđoạn 2022 - 2025.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với nhu cầu bổ sung ngoài dự\ntoán năm 2021, đề ngh</span>ị <span lang=\"VI\">Thủ trưởng các cơ quan, đơn vị,\nUBND các huyện, thị xã, thành phố thuộc tỉnh tổng hợp nhu cầu bổ sung gửi cơ\nquan tài chính để tổng hợp trình UBND tỉnh theo 02 đợt: đợt 01 vào tháng\n05/2021 và đợt 02 vào tháng 10/2021 (trừ những trường hợp cấp bách, cấp thiết\nkhông thể trì hoãn).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Riêng đối với UBND các huyện, thị xã,\nthành phố chỉ đạo phòng Tài chính - Kế hoạch thực hiện một số nội dung như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Đối với số bổ sung có mục tiêu từ\nngân sách cấp tỉnh năm 2020, chỉ đạo rà soát, xác định số thừa, thiếu so với\nnhiệm vụ chi, thực hiện việc chuyển nguồn theo quy định của Luật NSNN hoặc nộp </span>tr<span lang=\"VI\">ả ngân sách cấp tỉnh nếu hết nhiệm vụ chi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Căn cứ khả năng nguồn thu và nhiệm\nvụ chi theo dự toán đã giao, hàng quý xây dựng phương án điều hành ngân sách gửi\nKho bạc Nhà nước cùng cấp. Đôn đ</span>ố<span lang=\"VI\">c các cơ quan, đơn vị\nhoàn trả các khoản ứng trước dự toán đúng thời gian quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Đối với số bổ sung cân đối, bổ sung\ncó mục tiêu năm 2021, đề nghị sử dụng đúng mục tiêu theo quy định, không được sử\ndụng vào mục đích khác. Chủ động sử dụng nguồn dự phòng ngân sách theo quy định\ntại Khoản 2, Điều 10, Luật NSNN </span>tr<span lang=\"VI\">ong đó sử dụng 50% nguồn\ndự phòng để chi an sinh xã hội theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 579/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/quyet-dinh-579-qd-ttg-ho-tro-ngan-sach-dia-phuong-chinh-sach-an-sinh-xa-hoi-2017-2020-348367.aspx\">579/QĐ-TTg</a>  ngày 28/04/2017 của\nThủ tướng Chính phủ, 50% còn lại thực hiện chi phòng chống, khắc phục hậu quả của\nthiên tai, dịch bệnh, an ninh quốc phòng và các nhiệm vụ chi quan </span>tr<span lang=\"VI\">ọng, cấp bách, đột xuất phát sinh theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Quản lý chặt chẽ và hạn chế tối đa\nviệc ứng trước dự toán ngân sách năm sau, các nội dung chuyển nguồn sang năm\nsau thực hiện theo quy định tại Điều 43 của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 163/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-163-2016-nd-cp-huong-dan-luat-ngan-sach-nha-nuoc-335331.aspx\">163/2016/NĐ-CP</a>  ngày\n21/12/2016 c</span>ủ<span lang=\"VI\">a Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Trong quá trình triển khai thực hiện\nNghị quyết số 18-NQ/TW ngày 25/10/2017 về tiếp tục đổi mới, sắp xếp tổ chức bộ\nmáy của hệ thống chính </span>tr<span lang=\"VI\">ị tinh gọn, hoạt động hiệu lực,\nhiệu quả; Nghị quyết số 19-NQ/TW ngày 25 tháng 10 năm 2017 của Ban chấp hành\nTrung ương Đảng khóa XII về đổi mới hệ thống tổ chức và quản lý, nâng cao chất\nlượng và hiệu quả hoạt động của các đơn vị sự nghiệp công lập; Kết luận số\n17-KL/TW ngày 11 tháng 9 năm 2017 của Bộ Chính trị về tình hình thực hiện biên\nchế, tinh giản biên chế của các tổ chức trong hệ thống chính trị năm 2015-2016,\nmục tiêu, nhiệm vụ, giải pháp giai đoạn 2017- 2021; đề nghị các địa phương dành\nra phần kinh phí từ giảm chi hỗ trợ hoạt động thường xuyên trong lĩnh vực hành\nchính và hỗ trợ các đơn vị sự nghiệp công lập, để sử dụng theo nguyên tắc:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) 50% bổ sung vào nguồn cải cách tiền\nlương theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) 50% còn lại để ưu tiên chi trả các\nchính sách an sinh xã hội do địa phương ban hành và tăng chi cho nhiệm vụ tăng\ncường cơ sở vật chất của lĩnh vực tương ứng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Năm 2021 vẫn thực hiện mức lương\ncơ sở từ 1,49 triệu đồng/tháng. Vì vậy, các cơ quan, đơn vị chủ động sử dụng\nnguồn cải cách tiền lương hiện có để thực hiện. Đối với các địa phương tiếp tục\nthực hiện cơ chế tạo nguồn tiền lương trong năm 2021, gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 70% tăng thu ngân sách địa phương\nnăm 2020 thực hiện so với dự toán, (không kể thu tiền sử dụng đất, xổ số kiến\nthiết; tiền thuê đất một lần được nhà đầu tư ứng trước để bồi thường, giải\nphóng mặt bằng và thu từ xử lý tài sản công tại cơ quan, tổ chức, đơn vị được\ncơ quan có thẩm quyền quyết định sử dụng để chi đầu tư theo quy định; thu tiền\nbảo vệ và phát triển đất trồng lúa; phí tham quan các khu di tích, di sản thế\ngiới; phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công\ncộng trong khu vực cửa khẩu; phí bảo vệ môi trường đối với khai thác khoáng sản;\nthu từ quỹ đất công ích, thu hoa lợi, công sản tại xã; thu tiền cho thuê, cho\nthuê mua, bán nhà thuộc sở hữu nhà nước và khoản thu phí bảo vệ môi trường đối\nvới nước thải) được Thủ tướng Chính phủ giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 50% tăng thu ngân sách địa phương\n(không kể thu tiền sử dụng đất, xổ số kiến thiết) dự toán năm 2018 so với dự\ntoán năm 2017 được Thủ tướng Chính phủ giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 50% tăng thu ngân sách địa phương\n(không kể thu tiền sử dụng đất, xổ số kiến thiết) dự toán năm 2019 so với dự\ntoán năm 2018 được Thủ tướng Chính phủ giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 50% tăng thu ngân sách địa phương\n(không kể thu tiền sử dụng đất, xổ số kiến thiết; tiền thuê đất một lần được\nnhà đầu tư ứng trước để bồi thường, giải phóng mặt bằng và thu từ xử lý tài sản\ncông tại cơ quan, tổ chức, đơn vị được cơ quan có thẩm quyền quyết định sử dụng\nđể chi đầu tư theo quy định; thu tiền bảo vệ và phát triển đất trồng lúa; phí\ntham quan các khu di tích, di sản thế giới; phí sử dụng công trình kết cấu hạ tầng,\ncông trình dịch vụ, tiện ích công cộng trong khu vực cửa khẩu; phí bảo vệ môi\ntrường đối với khai thác khoáng sản; thu từ quỹ đất công ích, thu hoa lợi, công\nsản tại xã và thu tiền cho thuê, cho thuê mua, bán nhà thuộc sở hữu nhà nước) dự\ntoán năm 2020 so với dự toán năm 2019 được Thủ tướng Chính phủ giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 50% tăng thu ngân sách địa phương\n(không kể thu tiền sử dụng đất, xổ số kiến thiết; tiền thuê đất một lần được\nnhà đầu tư ứng trước để bồi thường, giải phóng mặt bằng và thu từ xử lý tài sản\ncông tại cơ quan, tổ chức, đơn vị được cơ quan có thẩm quyền quyết định sử dụng\nđể chi đầu tư theo quy định; thu tiền bảo vệ và phát triển đất </span>tr<span lang=\"VI\">ồng lúa; phí tham quan các khu di tích, di sản thế giới; phí sử dụng\ncông trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng </span>tr<span lang=\"VI\">ong khu vực cửa khẩu; phí bảo vệ môi trường đối với khai thác khoáng sản;\nthu từ quỹ đất công ích, thu hoa lợi, công sản tại xã và thu tiền cho thuê, cho\nthuê mua, bán nhà thuộc sở hữu nhà nước; khoản thu phí bảo vệ môi trường đối với\nnước thải) dự toán năm 2021 so với dự toán năm 2020 được Thủ tướng Chính phủ\ngiao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 50% kinh phí ngân sách địa phương\ngiảm chi hỗ trợ hoạt động thường xuyên </span>tr<span lang=\"VI\">ong lĩnh vực hành\nchính và hỗ </span>tr<span lang=\"VI\">ợ các đơn vị sự nghiệp công lập.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn thực hiện cải cách tiền lương\nnăm 2020 chưa sử dụng hết chuyển sang.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 10% tiết kiệm chi thường xuyên (trừ\ncác khoản tiền lương, phụ cấp theo lương, khoản có tính chất lương và các khoản\nchi cho con người theo chế độ) dự toán năm 2017 đã được cấp có thẩm quyền giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- 10% tiết kiệm chi thường xuyên (trừ\ncác khoản tiền lương, phụ cấp theo lương, khoản có tính chất lương và các khoản\nchi cho con người theo chế độ) dự toán năm 2021 so dự toán năm 2017 theo Quyết\nđịnh giao dự toán năm 2021 của Bộ trưởng Bộ Tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sử dụng tối thiểu 40% số thu được để\nlại theo chế độ năm 2021. Riêng đối với số thu từ việc cung cấp các dịch vụ\nkhám bệnh, chữa bệnh, y tế dự phòng và dịch vụ y tế khác của cơ sở y tế công lập\nsử dụng tối thiểu 35%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sau khi cân đối nguồn thực hiện điều\nchỉnh mức lương cơ sở, các địa phương chủ động sử dụng nguồn cải cách tiền\nlương còn dư để thực hiện các chính sách, chế độ an sinh xã hội năm 2021 để giảm\ntrừ tương ứng kinh phí ngân sách cấp tỉnh bổ sung.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Kinh phí đánh giá quy hoạch tiếp tục\nđược bố trí dự toán kinh phí thường xuyên theo quy định của Luật Quy hoạch. Đồng\nthời, việc phân bổ và giao dự toán chi thường xuyên phù hợp với tiến độ và lộ\ntr</span>ì<span lang=\"VI\">nh thực hiện tinh giản biên chế, sắp xếp tổ chức bộ\nmáy, sắp xếp đơn vị hành chính cấp huyện, cấp xã, nâng cao mức độ tự chủ của\ncác đơn vị sự nghiệp công lập, điều chỉnh giá, phí,... theo các quy định của Đảng\nvà Nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Kiểm soát chặt chẽ bội chi NSNN,\nphấn đấu tăng thu, tiết kiệm chi để giảm bội chi NSNN.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">3. Sở Kế hoạch và\nĐầu tư:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường kiểm soát việc giải ngân\nvốn đầu tư xây dựng cơ bản tập trung, thực hiện chuyển nguồn theo đúng quy định\ncủa Luật NSNN và Luật Đầu tư công. Quyết liệt thực hiện các giải pháp về đẩy mạnh\ngiải ngân, gắn với nâng cao hiệu quả quản lý, sử dụng vốn đầu tư công ngay từ đầu\nnăm; thường xuyên kiểm </span>tr<span lang=\"VI\">a, đôn đốc, gắn trách nhiệm của\nngười đứng đầu cơ quan, đơn vị với kết quả giải ngân; kiên quyết cắt giảm, điều\nchuyển vốn đầu tư các dự án chậm giải ngân sang các dự án có khả năng giải ngân\ntốt hơn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ưu tiên bố trí nguồn để đẩy nhanh\ntiến độ hoàn thành các cơ sở hạ tầng tại các khu, cụm công nghiệp. Bên cạnh đó,\nphối hợp với các cơ quan liên quan thu hút các doanh nghiệp đầu tư, sản xuất\nkinh doanh tại các khu, cụm công nghiệp để tạo nguồn thu mới và ổn định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">4. Kho bạc Nhà nước\ncác cấp:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tăng cường công tác kiểm soát chi\nngân sách, đảm bảo mọi khoản chi phải đúng chế độ, tiêu chuẩn, định mức chi\ntiêu do cấp có thẩm quyền ban hành. Thực hiện đầy đủ nguyên tắc kiểm soát,\nthanh toán vốn đầu tư xây d</span>ự<span lang=\"VI\">ng cơ bản, tạo điều kiện thuận\nlợi cho các chủ đầu tư và nhà thầu được tạm ứng, thanh toán khối lượng hoàn\nthành đúng với quy định. Đôn đốc các chủ đầu tư và nhà thầu khẩn trương thanh\ntoán khối lượng đã được tạm ứng, nhằm hạn chế chi chuyển nguồn tạm ứng vốn đầu\ntư sang năm sau. Trên cơ sở khối lượng thực hiện của dự án, công trình, Kho bạc\nNhà nước tỉnh chịu trách nhiệm trong việc giải ngân, thanh toán vốn cho các chủ\nđầu tư. Chủ động lập kế hoạch nguồn vốn, kế hoạch chi trả, thanh toán đảm bảo đầy\nđủ, kịp thời yêu cầu nhiệm vụ chi theo phương án điều hành ngân sách hàng quý của\ncơ quan tài chính cùng cấp; ưu tiên nguồn vốn chi cho các khoản thanh toán cá\nnhân (lương, phụ cấp, </span>tr<span lang=\"VI\">ợ cấp xã hội,...) và các khoản chi\ncho công tác an sinh xã hội. Đối với những khoản chi có tính chất thời vụ hoặc\nch</span>i <span lang=\"VI\">phát sinh vào một số thời điểm như đầu tư xây dựng cơ\nbản, mua sắm, sửa chữa lớn và các khoản có tính chất không thường xuyên khác thực\nhiện thanh toán theo tiến độ, khối lượng công việc căn cứ vào khả năng cân đối\nngân sách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">5. Cơ quan tài\nchính:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức triển khai thực hiện tốt Luật\nNgân sách nhà nước năm 2015; chủ động tham mưu UBND các cấp tổ chức điều hành\nngân sách năm 2021 theo dự toán đã được Hội đồng nhân dân tỉnh quyết định, bảo\nđảm chặt chẽ, tiết kiệm, hiệu quả; chủ động rà soát, sắp x</span>ế<span lang=\"VI\">p các nhiệm vụ chi, sử dụng nguồn tăng thu dự toán để bố trí các nhiệm\nvụ chi phát sinh trong năm và điều chỉnh các nhiệm vụ chi được giao đầu năm\nnhưng chưa chi để bố trí các nhiệm vụ chi mới phát sinh nhằm giảm áp lực cho\nngân sách cấp trên, ưu tiên bố trí kinh phí bầu cử đại biểu Hội đồng nhân dân\ncác cấp giai đoạn 2021 - 2026. Trên cơ sở thu ngân sách nhà nước 6 tháng, 9\ntháng Sở Tài chính chủ động tham mưu UBND tỉnh bổ sung nguồn tăng thêm ngoài dự\ntoán để đảm bảo cân đối các nhiệm vụ chi chưa được dự toán đầu năm theo thứ tự\nưu tiên như sau: Các chính sách an sinh xã hội; chi phòng chống thiên tai, dịch\nbệnh; các chế độ, chính sách đã được Trung ương và HĐND tỉnh thông qua và các\nnhiệm vụ cấp bách khác không thể trì hoãn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ tham mưu UBND tỉnh trình HĐND tỉnh\nban hành chính sách, chế độ mới làm tăng chi ngân sách phải có giải pháp bảo đảm\nnguồn tài chính, phù hợp với khả năng cân đối của ngân sách theo quy định tại\nkhoản 4 Điều 9 Luật Ngân sách nhà nước ngày 25/6/2015.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động sử dụng các nguồn tài\nchính hợp pháp năm 2020 chuyển sang và phấn đấu tăng thu năm 2021 để dành nguồn\nbảo đảm các nhiệm vụ chi tiền lương và các chính sách an sinh xã hội. Trong điều\nhành tài chính ngân sách nhà nước năm 2021, trường hợp địa phương có nguồn thu\ncân đối ngân sách địa phương giảm lớn so với dự toán được cấp có thẩm quyền\ngiao do nguyên nhân khách quan phải chủ động sử dụng các nguồn lực h</span>ợ<span lang=\"VI\">p pháp của mình, rà soát, sắp xếp, cắt giảm các nhiệm vụ chi để đảm bảo\ncân đối theo dự toán đã được HĐND tỉnh giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động phối hợp với các cơ quan,\nđơn vị lập các Đoàn kiểm tra việc chấp hành pháp luật về kê khai giá, niêm yết\ngiá và bán theo giá niêm yết đối với các đơn vị kinh doanh vận tải tuyến cố định,\ndịch vụ lưu trú du lịch trong các dịp lễ, T</span>ế<span lang=\"VI\">t, trên cơ sở\nđó xử lý nghiêm các hành vi vi phạm theo quy định, không cho điều chỉnh tăng\ngiá bất h</span>ợ<span lang=\"VI\">p lý; tiếp tục đẩy mạnh việc thực hiện dịch vụ\ncông trực tuyến về giá để tiết kiệm thời gian, chi phí cho người dân và doanh\nnghiệp; công khai thông tin về giá, điều hành giá để tạo sự đồng thuận trong xã\nhội; kiểm tra việc sử dụng tài sản công của các cơ quan, đơn vị, địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trong năm 2021, tổ chức rà soát,\nđánh giá các nguồn thu tại địa phương; khảo sát đánh giá phân cấp nguồn thu,\nnhiệm vụ chi theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"12/2016/NQ-HĐND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=12/2016/NQ-HĐND&amp;match=True&amp;area=2&amp;lan=1\">12/2016/NQ-HĐND</a> , định mức phân bổ chi thường\nxuyên theo Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"13/2016/NQ-HĐND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=13/2016/NQ-HĐND&amp;match=True&amp;area=2&amp;lan=1\">13/2016/NQ-HĐND</a>  tại các cơ quan, đơn vị thuộc tỉnh;\ncác huyện, thị xã, thành phố; làm cơ sở để xây dựng định mức chi thường xuyên\ngiai đoạn 2022 - 2025 với Bộ Tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện tổng hợp và tham mưu UBND\ntỉnh trình HĐND tỉnh ban hành các Nghị quyết phân cấp nguồn thu, nhiệm vụ chi;\nđịnh mức phân bổ chi thường xuyên giai đoạn 2022 - 2025.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động rà soát đánh giá dự toán\ncác đ</span>ơ<span lang=\"VI\">n vị, địa phư</span>ơ<span lang=\"VI\">ng để điều chỉnh\ncác nhiệm vụ chi trong dự toán, hạn ch</span>ế <span lang=\"VI\">đề nghị bổ sung\nngoài dự toán đảm bảo sử dụng ngân sách tiết kiệm và hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kết thúc năm ngân sách, cơ quan Tài\nchính các cấp căn cứ số liệu thu, chi NSĐP tính toán, xác đị</span>n<span lang=\"VI\">h nguồn tiết kiệm chi và xây dựng phương án phân bổ tham mưu UBND các cấp\ntrình Thường trực HĐND cùng cấp quyết định theo quy định tại Khoản 6, Điều 36\nNghị định số 163/2016/NĐ-CP ngày 22/12/2016 của Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">6. Các chủ đầu\ntư:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Có trách nhiệm đảm bảo tiến độ giải\nngân của dự án, trường hợp tỷ lệ giải ngân so với dự toán thấp, đến ngày\n30/9/2021, Sở Kế hoạch và Đầu tư phối hợp với Sở Tài chính, Kho bạc Nhà nước\ntham mưu UBND tỉnh thực hiện cắt, giảm kinh phí để bố trí cho dự án khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nhận được Chỉ thị này, yêu cầu các\nGiám đốc Sở; Thủ trưởng các ban, ngành, đoàn thể thuộc tỉnh; Chủ tịch UBND các\nhuyện, thị xã, thành phố chịu trách nhiệm tổ chức, chỉ đạo thực hiện nghiêm\ntúc; thường xuyên báo cáo kết quả và những khó khăn, vướng mắc gửi về Sở Tài\nchính để tổng hợp trình UBND tỉnh xem xét giải quyết./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- TT.TU, TT. HĐND tỉnh;<br>\n  - CT và các PCT UBND tỉnh;<br>\n  - Đoàn đại biểu QH tỉnh;<br>\n  - C</span><span style=\"font-size:8.0pt\">á</span><span lang=\"VI\" style=\"font-size:8.0pt\">c sở, ban, ngành, đoàn thể thuộc tỉnh;<br>\n  - UBMTTQ Việt Nam tỉnh;<br>\n  - UBND các huyện, thị xã, thành phố;<br>\n  - Cục Thuế, Cục Hải quan, KBNN tỉnh;<br>\n  - NHNN tỉnh;<br>\n  - Báo Khánh Hòa, Đài PT - TH tỉnh;<br>\n  - TT Công báo tỉnh, TT Cổng thông tin điện tử tỉnh;<br>\n  - Lãnh đạo VP UBND tỉnh;<br>\n  - Các phong: XDNĐ, VX, TH, NC, QTTV;<br>\n  - Lưu: VT, HB, TL, HLe.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Lê Hữu Hoàng</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH KHÁNH HÒA  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 05/CT\\-UBND\n\n_Khánh Hòa, ngày 05_ _tháng 02 năm 2021_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TỔ CHỨC THỰC HIỆN DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2021\n\nNăm 2020, tình hình thế giới, kinh tế trong nước nói chung và của tỉnh nói riêng gặp nhiều khó khăn, thách thức, nhất là tác động, ảnh hưởng nghiêm trọng của đại dịch Covid-19 và thiên tai, bão lũ đã ảnh hưởng rất lớn đến thu ngân sách nhà nước trên địa bàn tỉnh. Trong bối cảnh đó, căn cứ các Nghị quyết của Chính phủ, dưới sự chỉ đạo sát sao của Tỉnh ủy, sự giám sát chặt chẽ của HĐND tỉnh, UBND tỉnh đã căn cứ tình hình thực tiễn của từng giai đoạn, chủ động đề xuất các giải pháp và chỉ đạo thực hiện quyết liệt với những giải pháp đồng bộ cộng với sự phấn đấu của cả hệ thống chính trị, các cấp, các ngành, sự đồng thuận của cộng đồng doanh nghiệp và người dân trên địa bàn tỉnh đã góp phần tích cực vào kết quả thực hiện _“nhiệm vụ kép”_ _\\-_ _vừa phòng chố__ng dịch, vừa phát triển kinh tế - xã hội, đảm bảo đời sống nhân dân_ nhằm hoàn thành ở mức cao nhất nhiệm vụ NSNN năm 2020. Bên cạnh đó, các cơ quân, ban, ngành của tỉnh tích cực đẩy mạnh giải ngân vốn đầu tư công góp phần đảm bảo mục tiêu kép vừa đảm bảo tiến độ giải ngân vốn đầu tư công, vừa đóng góp nguồn thu vào ngân sách nhà nước. Vì vậy số thu ngân sách nhà nước từ dự kiến chỉ đạt 70% dự toán (trong đó thu nội địa đạt 68% dự toán) đến thời điểm này cơ bản đã hoàn thành được mục tiêu phấn đấu hoàn thành dự toán thu NSNN ở mức cao nhất, theo đó thu NSNN năm 2020 là 13.768 tỷ đồng đạt 80% dự toán (tăng 10% so với số đã trình HĐND tỉnh), trong đó thu nội địa là 11.649 tỷ đồng, đạt 73% dự toán (tăng 5% so với số đã trình tại kỳ họp thứ 13, HĐND tỉnh khóa VI).\n\nNăm 2021 có ý nghĩa đặc biệt với các sự kiện chính trị quan trọng của cả nước, đây là năm tổ chức Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, bầu cử Quốc hội khóa XV, bầu cử HĐND các cấp. Với dự báo tình hình thế giới, khu vực năm 2021 tiếp tục diễn biến phức tạp, khó lường, đại dịch Covid-19 còn có thể kéo dài; bên canh đó, tác động tiêu cực từ biến đổi khí hậu như: hạn hán, lũ lụt...đã ảnh hưởng rất lớn đến tình hình phát triển kinh tế xã hội của cả nước, trong đó có tỉnh Khánh Hòa. Vì vậy, việc cân đối ngân sách địa phương hết sức khó khăn, vừa đảm bảo các nhiệm vụ chính trị, vừa đảm bảo các mục tiêu kép, vừa đáp ứng được nhu cầu phát hiển kinh tế xã hội; đảm bảo chi chế độ, chính sách cho con người, chi an sinh xã hội và phòng chống dịch bệnh, thiên tai là hết sức khó khăn, đòi hỏi sự vào cuộc của cả hệ thống chính trị và nỗ lực phấn đấu của cộng đồng doanh nghiệp và người dân. Do đó để hoàn thành vượt mức nhiệm vụ tài chính -ngân sách năm 2021 và chỉ tiêu kế hoạch Nghị quyết Đại hội Đảng bộ tỉnh Khánh Hòa lần thứ XVIII đã đề ra, đòi hỏi các cấp, các ngành, cả hệ thống chính trị, cộng đồng doanh nghiệp phải quyết tâm, nỗ lực, phấn đấu, tập trung thực hiện quyết liệt các nhiệm vụ, giải pháp chủ yếu để thực hiện chỉ đạo điều hành kinh tế - xã hội và dự toán ngân sách năm 2020 của Chính phủ tại Nghị quyết số [01/NQ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-01-nq-cp-2021-nhiem-vu-giai-phap-chu-yeu-thuc-hien-ke-hoach-phat-trien-kinh-te-xa-hoi-461294.aspx \"Nghị quyết 01/NQ-CP\") ngày 01/01/2021; Nghị quyết số [79/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-79-nq-hdnd-2020-du-toan-thu-ngan-sach-nha-nuoc-tinh-khanh-hoa-465489.aspx \"Nghị quyết 79/NQ-HĐND\") ngày 07/12/2020 của Hội đồng nhân dân tỉnh khóa VI, kỳ họp thứ 13 về dự toán thu ngân sách nhà nước trên địa bàn; thu, chi ngân sách địa phương năm 2021; Thông tư số [109/2020/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-109-2020-tt-btc-to-chuc-thuc-hien-du-toan-ngan-sach-nha-nuoc-nam-2021-461155.aspx \"Thông tư 109/2020/TT-BTC\") ngày 25/12/2020 của Bộ Tài chính quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2021. Bên cạnh đó, UBND tỉnh yêu cầu Thủ trưởng các Sở, ban, ngành thuộc tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố căn cứ tình hình thực tế của địa phương, đơn vị mình tổ chức xây dựng các giải pháp cụ thể để triển khai nhiệm vụ tài chính - ngân sách năm 2021, trong đó cần tập trung một số nhiệm vụ như sau:\n\n**1\\. Tổ chức quản lý thu ngân sách nhà nước:**\n\na) Tổ chức triển khai thực hiện có hiệu quả các quy định pháp luật về thuế có hiệu lực thi hành; tập trung đôn đốc thu hồi vào ngân sách nhà nước năm 2021 khoản thuế thu nhập doanh nghiệp của người nộp thuế có năm tài chính khác năm dương lịch đã được gia hạn nộp thuế theo quy định tại Nghị định số 41/2020/NĐ- CP ngày 08 tháng 4 năm 2020 về gia hạn thời hạn nộp thuế và tiền thuê đất. Đẩy mạnh ứng dụng công nghệ thông tin gắn kết với cải cách hành chính, khai, nộp, hoàn thuế điện tử và các nhiệm vụ, giải pháp về nâng cao năng lực cạnh tranh, cải thiện môi trường kinh doanh. Tăng cường quảng bá, khuyến khích tiêu dùng sản phẩm nội địa để khuyến khích hoạt động sản xuất kinh doanh trong tỉnh cũng như cả nước góp phần tăng thu ngân sách.\n\nb) Tổ chức thực hiện nghiêm Chỉ thị số [15/CT-TTg](https://thuvienphapluat.vn/van-ban/doanh-nghiep/chi-thi-15-ct-ttg-2018-to-chuc-trien-khai-thuc-hien-hieu-qua-luat-ho-tro-doanh-nghiep-nho-va-vua-384225.aspx \"Chỉ thị 15/CT-TTg\") ngày 15 tháng 06 năm 2018 của Thủ tướng Chính phủ về tổ chức triển khai thực hiện hiệu quả Luật hỗ trợ doanh nghiệp nhỏ và vừa; Nghị định số [119/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-119-2018-nd-cp-quy-dinh-ve-hoa-don-dien-tu-khi-ban-hang-hoa-cung-cap-dich-vu-394152.aspx \"Nghị định 119/2018/NĐ-CP\") ngày 12 tháng 09 năm 2018 của Chính phủ quy định về hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ và Nghị định số [123/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/ke-toan-kiem-toan/nghi-dinh-123-2020-nd-cp-quy-dinh-hoa-don-chung-tu-445980.aspx \"Nghị định 123/2020/NĐ-CP\") ngày 19 tháng 10 năm 2020 quy định về hóa đơn, chứng từ. Tiếp tục tổ chức triển khai thực hiện tốt việc xử lý nợ thuế theo Nghị quyết số 94/2019/QH14 ngày 26 tháng 11 năm 2019 của Quốc hội về khoanh nợ tiền thuế, xóa nợ tiền phạt chậm nộp, tiền chậm nộp đối với người nộp thuế không còn khả năng nộp ngân sách nhà nước, Luật Quản lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019 và Chỉ thị số [04/CT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/chi-thi-04-ct-btc-2018-tang-cuong-cong-tac-quan-ly-no-va-cuong-che-thu-hoi-no-thue-397262.aspx \"Chỉ thị 04/CT-BTC\") ngày 15 tháng 10 năm 2018 của Bộ trưởng Bộ Tài chính về việc tăng cường công tác quản lý nợ và cưỡng chế thu hồi nợ thuế để giảm nợ đọng ngành thuế quản lý.\n\nc) Cơ quan Thuế, Hải quan:\n\n\\- Theo dõi chặt chẽ tiến độ thu ngân sách, đánh giá, phân tích cụ thể từng địa bàn thu, từng khu vực, từng sắc thuế và có phương án chỉ đạo, điều hành kịp thời, dự báo thu hàng tháng, hàng quý sát với thực tế phát sinh. Chủ động rà soát, xác định các nguồn thu còn tiềm năng, khai thác các nguồn thu mới phát sinh, các lĩnh vực, loại thuế còn thất thu để kịp thời đề xuất các giải pháp quản lý hiệu quả, đảm bảo thu đúng, thu đủ, kịp thời các khoản thuế, phí, lệ phí và thu khác vào ngân sách nhà nước, đặc biệt là các khoản nợ đọng thuế; phấn đấu hoàn thành và hoàn thành vượt mức dự toán thu NSNN đã được Chính phủ giao và HĐND tỉnh thông qua tại Nghị quyết số [79/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-79-nq-hdnd-2020-du-toan-thu-ngan-sach-nha-nuoc-tinh-khanh-hoa-465489.aspx \"Nghị quyết 79/NQ-HĐND\") ngày 07/12/2020.\n\n\\- Tăng cường theo dõi, kiểm tra, kiểm soát việc kê khai thuế của các tổ chức, cá nhân theo quy định của pháp luật về thuế, việc khai báo tên hàng, mã hàng, thuế suất, trị giá, số lượng,... để phát hiện kịp thời các trường hợp kê khai không đúng, không đủ, gian lận thuế. Tăng cường quản lý thu, mở rộng cơ sở thuế, cải cách, hiện đại hóa ngành thuế. Đấu tranh phòng chống buôn lậu, gian lận thương mại, hàng giả, trốn thuế, chuyển giá,....\n\n\\- Quản lý hoàn thuế giá trị gia tăng theo đúng quy định của pháp luật, điều hành hoàn thuế giá trị gia tăng trong phạm vi dự toán được cấp có thẩm quyền giao năm 2021; đồng thời tạo điều kiện cho người nộp thuế; thực hiện kiểm tra trước và sau hoàn thuế theo quy định của pháp luật và mức độ rủi ro; kịp thời phát hiện, xử lý nghiêm đối với các hành vi gian lận, lợi dụng chính sách hoàn thuế, chiếm đoạt tiền từ ngân sách nhà nước.\n\n\\- Thực hiện rà soát các dự án hết thời gian ưu đãi miễn, giảm thuế; các giấy phép cấp quyền khai thác khoáng sản để triển khai thu đúng, thu đủ và kịp thời các khoản thu theo đúng quy định của pháp luật. Rà soát, xác định cụ thể các đối tượng đang được nhà nước giao đất, cho thuê đất trên địa bàn, nhất là các dự án hết thời gian được hưởng ưu đãi theo quy định của Luật đất đai năm 2013, phối hợp với cơ quan tài nguyên và môi trường hoàn chỉnh hồ sơ về đất đai, chuyển cho cơ quan thuế để xác định nghĩa vụ tài chính và đôn đốc, thu nộp đầy đủ, kịp thời các khoản thu từ đất đai vào ngân sách nhà nước.\n\n**2\\. Tổ chức điều hành dự toán chi ngân sách địa phương:**\n\na) Thủ trưởng các cơ quan, đơn vị sử dụng ngân sách và UBND các huyện, thị xã, thành phố:\n\n\\- Triển khai đồng bộ, kịp thời, hiệu quả chương trình, kế hoạch công tác phục vụ tổ chức bầu cử Hội đồng nhân dân các cấp nhiệm kỳ 2021 - 2026.\n\n\\- Tiếp tục thực hiện linh hoạt, hiệu quả _“mục tiêu kép__”_ vừa phòng, chống đại dịch Covid-19, vừa phục hồi và phát triển kinh tế - xã hội trong trạng thái bình thường mới: Triển khai hiệu quả công tác phòng, chống dịch bệnh Covid-19, tuyệt đối không chủ quan trước dịch bệnh; tiếp tục củng cố trạng thái bình thường mới. Kiểm soát phù hợp người nhập cảnh, ngăn chặn hiệu quả nguồn bệnh xâm nhập từ bên ngoài. Bố trí nguồn lực và triển khai các giải pháp phù hợp, kịp thời để tháo gỡ khó khăn, hỗ trợ doanh nghiệp, người dân, người lao động bị mất việc, thiếu việc làm, giảm sâu thu nhập do đại dịch Covid-19 và khôi phục sản xuất, kinh doanh, nhất là trong các ngành công nghiệp, dịch vụ, du lịch.\n\n\\- Chấp hành nghiêm kỷ luật, kỷ cương tài chính - ngân sách nhà nước, tăng cường chỉ đạo kiểm tra, giám sát và công khai, minh bạch việc sử dụng ngân sách nhà nước. Triệt để tiết kiệm, chống lãng phí, nâng cao trách nhiệm người đứng đầu trong quản lý ngân sách nhà nước; giảm tối đa kinh phí hội nghị, công tác trong và ngoài nước; trong năm chủ động rà soát các nhiệm vụ chi được giao dự toán nhưng chưa sử dụng để bố trí các nhiệm vụ chi phát sinh trong năm, hạn chế đề nghị bổ sung ngoài dự toán. Đến ngày 30/6/2021, những khoản chi thường xuyên đã có trong dự toán nhưng chưa phân bổ hoặc đã phân bổ nhưng chưa triển khai thực hiện, chưa phê duyệt dự toán, chưa phê duyệt kế hoạch lựa chọn nhà thầu thì kiên quyết cắt giảm để bổ sung dự phòng ngân sách, trừ trường hợp đặc biệt được Chủ tịch UBND tỉnh quyết định.\n\n\\- Thực hiện việc rà soát, đối chiếu giữa số đối tượng được giao dự toán với số đối tượng thực tế, báo cáo, đề xuất cơ quan tài chính các cấp để kịp thời điều chỉnh, bổ sung.\n\n\\- Tiếp tục thực hiện đầy đủ, kịp thời Luật Quản lý, sử dụng tài sản công, Chỉ thị số [32/CT-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/chi-thi-32-ct-ttg-2019-trien-khai-thi-hanh-luat-quan-ly-su-dung-tai-san-cong-430656.aspx \"Chỉ thị 32/CT-TTg\") ngày 10/12/2019 của Thủ tướng Chính phủ về đẩy mạnh triển khai thi hành Luật Quản lý, sử dụng tài sản công và các văn bản quy định chi tiết thi hành Luật. Tổ chức việc rà soát, kiểm tra, đôn đốc thực hiện các phương án sắp xếp lại, xử lý nhà, đất đã được cấp có thẩm quyền phê duyệt; thực hiện sắp xếp lại, xử lý xe ô tô, máy móc, thiết bị bảo đảm theo tiêu chuẩn, định mức sử dụng tài sản công. Thực hiện nghiêm quy định về đấu giá khi thực hiện bán, chuyển nhượng, cho thuê tài sản công, giao đất, cho thuê đất theo quy định của pháp luật về quản lý, sử dụng tài sản công, pháp luật về đất đai.\n\n\\- Tổ chức rà soát, đánh giá định mức chi thường xuyên và nguồn thu, nhiệm vụ chi giai đoạn 2017 - 2020 làm cơ sở xây dựng định mức phân bổ chi thường xuyên và phân cấp nguồn thu, nhiệm vụ chi giai đoạn 2022 - 2025.\n\n\\- Đối với nhu cầu bổ sung ngoài dự toán năm 2021, đề nghị Thủ trưởng các cơ quan, đơn vị, UBND các huyện, thị xã, thành phố thuộc tỉnh tổng hợp nhu cầu bổ sung gửi cơ quan tài chính để tổng hợp trình UBND tỉnh theo 02 đợt: đợt 01 vào tháng 05/2021 và đợt 02 vào tháng 10/2021 (trừ những trường hợp cấp bách, cấp thiết không thể trì hoãn).\n\nRiêng đối với UBND các huyện, thị xã, thành phố chỉ đạo phòng Tài chính - Kế hoạch thực hiện một số nội dung như sau:\n\n\\+ Đối với số bổ sung có mục tiêu từ ngân sách cấp tỉnh năm 2020, chỉ đạo rà soát, xác định số thừa, thiếu so với nhiệm vụ chi, thực hiện việc chuyển nguồn theo quy định của Luật NSNN hoặc nộp trả ngân sách cấp tỉnh nếu hết nhiệm vụ chi.\n\n\\+ Căn cứ khả năng nguồn thu và nhiệm vụ chi theo dự toán đã giao, hàng quý xây dựng phương án điều hành ngân sách gửi Kho bạc Nhà nước cùng cấp. Đôn đốc các cơ quan, đơn vị hoàn trả các khoản ứng trước dự toán đúng thời gian quy định.\n\n\\+ Đối với số bổ sung cân đối, bổ sung có mục tiêu năm 2021, đề nghị sử dụng đúng mục tiêu theo quy định, không được sử dụng vào mục đích khác. Chủ động sử dụng nguồn dự phòng ngân sách theo quy định tại Khoản 2, Điều 10, Luật NSNN trong đó sử dụng 50% nguồn dự phòng để chi an sinh xã hội theo Quyết định số [579/QĐ-TTg](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/quyet-dinh-579-qd-ttg-ho-tro-ngan-sach-dia-phuong-chinh-sach-an-sinh-xa-hoi-2017-2020-348367.aspx \"Quyết định 579/QĐ-TTg\") ngày 28/04/2017 của Thủ tướng Chính phủ, 50% còn lại thực hiện chi phòng chống, khắc phục hậu quả của thiên tai, dịch bệnh, an ninh quốc phòng và các nhiệm vụ chi quan trọng, cấp bách, đột xuất phát sinh theo quy định.\n\n\\+ Quản lý chặt chẽ và hạn chế tối đa việc ứng trước dự toán ngân sách năm sau, các nội dung chuyển nguồn sang năm sau thực hiện theo quy định tại Điều 43 của Nghị định số [163/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-163-2016-nd-cp-huong-dan-luat-ngan-sach-nha-nuoc-335331.aspx \"Nghị định 163/2016/NĐ-CP\") ngày 21/12/2016 của Chính phủ.\n\nb) Trong quá trình triển khai thực hiện Nghị quyết số 18-NQ/TW ngày 25/10/2017 về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả; Nghị quyết số 19-NQ/TW ngày 25 tháng 10 năm 2017 của Ban chấp hành Trung ương Đảng khóa XII về đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của các đơn vị sự nghiệp công lập; Kết luận số 17-KL/TW ngày 11 tháng 9 năm 2017 của Bộ Chính trị về tình hình thực hiện biên chế, tinh giản biên chế của các tổ chức trong hệ thống chính trị năm 2015-2016, mục tiêu, nhiệm vụ, giải pháp giai đoạn 2017- 2021; đề nghị các địa phương dành ra phần kinh phí từ giảm chi hỗ trợ hoạt động thường xuyên trong lĩnh vực hành chính và hỗ trợ các đơn vị sự nghiệp công lập, để sử dụng theo nguyên tắc:\n\na) 50% bổ sung vào nguồn cải cách tiền lương theo quy định.\n\nb) 50% còn lại để ưu tiên chi trả các chính sách an sinh xã hội do địa phương ban hành và tăng chi cho nhiệm vụ tăng cường cơ sở vật chất của lĩnh vực tương ứng.\n\nc) Năm 2021 vẫn thực hiện mức lương cơ sở từ 1,49 triệu đồng/tháng. Vì vậy, các cơ quan, đơn vị chủ động sử dụng nguồn cải cách tiền lương hiện có để thực hiện. Đối với các địa phương tiếp tục thực hiện cơ chế tạo nguồn tiền lương trong năm 2021, gồm:\n\n\\- 70% tăng thu ngân sách địa phương năm 2020 thực hiện so với dự toán, (không kể thu tiền sử dụng đất, xổ số kiến thiết; tiền thuê đất một lần được nhà đầu tư ứng trước để bồi thường, giải phóng mặt bằng và thu từ xử lý tài sản công tại cơ quan, tổ chức, đơn vị được cơ quan có thẩm quyền quyết định sử dụng để chi đầu tư theo quy định; thu tiền bảo vệ và phát triển đất trồng lúa; phí tham quan các khu di tích, di sản thế giới; phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng trong khu vực cửa khẩu; phí bảo vệ môi trường đối với khai thác khoáng sản; thu từ quỹ đất công ích, thu hoa lợi, công sản tại xã; thu tiền cho thuê, cho thuê mua, bán nhà thuộc sở hữu nhà nước và khoản thu phí bảo vệ môi trường đối với nước thải) được Thủ tướng Chính phủ giao.\n\n\\- 50% tăng thu ngân sách địa phương (không kể thu tiền sử dụng đất, xổ số kiến thiết) dự toán năm 2018 so với dự toán năm 2017 được Thủ tướng Chính phủ giao.\n\n\\- 50% tăng thu ngân sách địa phương (không kể thu tiền sử dụng đất, xổ số kiến thiết) dự toán năm 2019 so với dự toán năm 2018 được Thủ tướng Chính phủ giao.\n\n\\- 50% tăng thu ngân sách địa phương (không kể thu tiền sử dụng đất, xổ số kiến thiết; tiền thuê đất một lần được nhà đầu tư ứng trước để bồi thường, giải phóng mặt bằng và thu từ xử lý tài sản công tại cơ quan, tổ chức, đơn vị được cơ quan có thẩm quyền quyết định sử dụng để chi đầu tư theo quy định; thu tiền bảo vệ và phát triển đất trồng lúa; phí tham quan các khu di tích, di sản thế giới; phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng trong khu vực cửa khẩu; phí bảo vệ môi trường đối với khai thác khoáng sản; thu từ quỹ đất công ích, thu hoa lợi, công sản tại xã và thu tiền cho thuê, cho thuê mua, bán nhà thuộc sở hữu nhà nước) dự toán năm 2020 so với dự toán năm 2019 được Thủ tướng Chính phủ giao.\n\n\\- 50% tăng thu ngân sách địa phương (không kể thu tiền sử dụng đất, xổ số kiến thiết; tiền thuê đất một lần được nhà đầu tư ứng trước để bồi thường, giải phóng mặt bằng và thu từ xử lý tài sản công tại cơ quan, tổ chức, đơn vị được cơ quan có thẩm quyền quyết định sử dụng để chi đầu tư theo quy định; thu tiền bảo vệ và phát triển đất trồng lúa; phí tham quan các khu di tích, di sản thế giới; phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng trong khu vực cửa khẩu; phí bảo vệ môi trường đối với khai thác khoáng sản; thu từ quỹ đất công ích, thu hoa lợi, công sản tại xã và thu tiền cho thuê, cho thuê mua, bán nhà thuộc sở hữu nhà nước; khoản thu phí bảo vệ môi trường đối với nước thải) dự toán năm 2021 so với dự toán năm 2020 được Thủ tướng Chính phủ giao.\n\n\\- 50% kinh phí ngân sách địa phương giảm chi hỗ trợ hoạt động thường xuyên trong lĩnh vực hành chính và hỗ trợ các đơn vị sự nghiệp công lập.\n\n\\- Nguồn thực hiện cải cách tiền lương năm 2020 chưa sử dụng hết chuyển sang.\n\n\\- 10% tiết kiệm chi thường xuyên (trừ các khoản tiền lương, phụ cấp theo lương, khoản có tính chất lương và các khoản chi cho con người theo chế độ) dự toán năm 2017 đã được cấp có thẩm quyền giao.\n\n\\- 10% tiết kiệm chi thường xuyên (trừ các khoản tiền lương, phụ cấp theo lương, khoản có tính chất lương và các khoản chi cho con người theo chế độ) dự toán năm 2021 so dự toán năm 2017 theo Quyết định giao dự toán năm 2021 của Bộ trưởng Bộ Tài chính.\n\n\\- Sử dụng tối thiểu 40% số thu được để lại theo chế độ năm 2021. Riêng đối với số thu từ việc cung cấp các dịch vụ khám bệnh, chữa bệnh, y tế dự phòng và dịch vụ y tế khác của cơ sở y tế công lập sử dụng tối thiểu 35%.\n\nSau khi cân đối nguồn thực hiện điều chỉnh mức lương cơ sở, các địa phương chủ động sử dụng nguồn cải cách tiền lương còn dư để thực hiện các chính sách, chế độ an sinh xã hội năm 2021 để giảm trừ tương ứng kinh phí ngân sách cấp tỉnh bổ sung.\n\nd) Kinh phí đánh giá quy hoạch tiếp tục được bố trí dự toán kinh phí thường xuyên theo quy định của Luật Quy hoạch. Đồng thời, việc phân bổ và giao dự toán chi thường xuyên phù hợp với tiến độ và lộ trình thực hiện tinh giản biên chế, sắp xếp tổ chức bộ máy, sắp xếp đơn vị hành chính cấp huyện, cấp xã, nâng cao mức độ tự chủ của các đơn vị sự nghiệp công lập, điều chỉnh giá, phí,... theo các quy định của Đảng và Nhà nước.\n\ne) Kiểm soát chặt chẽ bội chi NSNN, phấn đấu tăng thu, tiết kiệm chi để giảm bội chi NSNN.\n\n**3\\. Sở Kế hoạch và Đầu tư:**\n\n\\- Tăng cường kiểm soát việc giải ngân vốn đầu tư xây dựng cơ bản tập trung, thực hiện chuyển nguồn theo đúng quy định của Luật NSNN và Luật Đầu tư công. Quyết liệt thực hiện các giải pháp về đẩy mạnh giải ngân, gắn với nâng cao hiệu quả quản lý, sử dụng vốn đầu tư công ngay từ đầu năm; thường xuyên kiểm tra, đôn đốc, gắn trách nhiệm của người đứng đầu cơ quan, đơn vị với kết quả giải ngân; kiên quyết cắt giảm, điều chuyển vốn đầu tư các dự án chậm giải ngân sang các dự án có khả năng giải ngân tốt hơn.\n\n\\- Ưu tiên bố trí nguồn để đẩy nhanh tiến độ hoàn thành các cơ sở hạ tầng tại các khu, cụm công nghiệp. Bên cạnh đó, phối hợp với các cơ quan liên quan thu hút các doanh nghiệp đầu tư, sản xuất kinh doanh tại các khu, cụm công nghiệp để tạo nguồn thu mới và ổn định.\n\n**4\\. Kho bạc Nhà nước các cấp:**\n\nTăng cường công tác kiểm soát chi ngân sách, đảm bảo mọi khoản chi phải đúng chế độ, tiêu chuẩn, định mức chi tiêu do cấp có thẩm quyền ban hành. Thực hiện đầy đủ nguyên tắc kiểm soát, thanh toán vốn đầu tư xây dựng cơ bản, tạo điều kiện thuận lợi cho các chủ đầu tư và nhà thầu được tạm ứng, thanh toán khối lượng hoàn thành đúng với quy định. Đôn đốc các chủ đầu tư và nhà thầu khẩn trương thanh toán khối lượng đã được tạm ứng, nhằm hạn chế chi chuyển nguồn tạm ứng vốn đầu tư sang năm sau. Trên cơ sở khối lượng thực hiện của dự án, công trình, Kho bạc Nhà nước tỉnh chịu trách nhiệm trong việc giải ngân, thanh toán vốn cho các chủ đầu tư. Chủ động lập kế hoạch nguồn vốn, kế hoạch chi trả, thanh toán đảm bảo đầy đủ, kịp thời yêu cầu nhiệm vụ chi theo phương án điều hành ngân sách hàng quý của cơ quan tài chính cùng cấp; ưu tiên nguồn vốn chi cho các khoản thanh toán cá nhân (lương, phụ cấp, trợ cấp xã hội,...) và các khoản chi cho công tác an sinh xã hội. Đối với những khoản chi có tính chất thời vụ hoặc chi phát sinh vào một số thời điểm như đầu tư xây dựng cơ bản, mua sắm, sửa chữa lớn và các khoản có tính chất không thường xuyên khác thực hiện thanh toán theo tiến độ, khối lượng công việc căn cứ vào khả năng cân đối ngân sách.\n\n**5\\. Cơ quan tài chính:**\n\n\\- Tổ chức triển khai thực hiện tốt Luật Ngân sách nhà nước năm 2015; chủ động tham mưu UBND các cấp tổ chức điều hành ngân sách năm 2021 theo dự toán đã được Hội đồng nhân dân tỉnh quyết định, bảo đảm chặt chẽ, tiết kiệm, hiệu quả; chủ động rà soát, sắp xếp các nhiệm vụ chi, sử dụng nguồn tăng thu dự toán để bố trí các nhiệm vụ chi phát sinh trong năm và điều chỉnh các nhiệm vụ chi được giao đầu năm nhưng chưa chi để bố trí các nhiệm vụ chi mới phát sinh nhằm giảm áp lực cho ngân sách cấp trên, ưu tiên bố trí kinh phí bầu cử đại biểu Hội đồng nhân dân các cấp giai đoạn 2021 - 2026. Trên cơ sở thu ngân sách nhà nước 6 tháng, 9 tháng Sở Tài chính chủ động tham mưu UBND tỉnh bổ sung nguồn tăng thêm ngoài dự toán để đảm bảo cân đối các nhiệm vụ chi chưa được dự toán đầu năm theo thứ tự ưu tiên như sau: Các chính sách an sinh xã hội; chi phòng chống thiên tai, dịch bệnh; các chế độ, chính sách đã được Trung ương và HĐND tỉnh thông qua và các nhiệm vụ cấp bách khác không thể trì hoãn.\n\n\\- Chỉ tham mưu UBND tỉnh trình HĐND tỉnh ban hành chính sách, chế độ mới làm tăng chi ngân sách phải có giải pháp bảo đảm nguồn tài chính, phù hợp với khả năng cân đối của ngân sách theo quy định tại khoản 4 Điều 9 Luật Ngân sách nhà nước ngày 25/6/2015.\n\n\\- Chủ động sử dụng các nguồn tài chính hợp pháp năm 2020 chuyển sang và phấn đấu tăng thu năm 2021 để dành nguồn bảo đảm các nhiệm vụ chi tiền lương và các chính sách an sinh xã hội. Trong điều hành tài chính ngân sách nhà nước năm 2021, trường hợp địa phương có nguồn thu cân đối ngân sách địa phương giảm lớn so với dự toán được cấp có thẩm quyền giao do nguyên nhân khách quan phải chủ động sử dụng các nguồn lực hợp pháp của mình, rà soát, sắp xếp, cắt giảm các nhiệm vụ chi để đảm bảo cân đối theo dự toán đã được HĐND tỉnh giao.\n\n\\- Chủ động phối hợp với các cơ quan, đơn vị lập các Đoàn kiểm tra việc chấp hành pháp luật về kê khai giá, niêm yết giá và bán theo giá niêm yết đối với các đơn vị kinh doanh vận tải tuyến cố định, dịch vụ lưu trú du lịch trong các dịp lễ, Tết, trên cơ sở đó xử lý nghiêm các hành vi vi phạm theo quy định, không cho điều chỉnh tăng giá bất hợp lý; tiếp tục đẩy mạnh việc thực hiện dịch vụ công trực tuyến về giá để tiết kiệm thời gian, chi phí cho người dân và doanh nghiệp; công khai thông tin về giá, điều hành giá để tạo sự đồng thuận trong xã hội; kiểm tra việc sử dụng tài sản công của các cơ quan, đơn vị, địa phương.\n\n\\- Trong năm 2021, tổ chức rà soát, đánh giá các nguồn thu tại địa phương; khảo sát đánh giá phân cấp nguồn thu, nhiệm vụ chi theo Nghị quyết số [12/2016/NQ-HĐND](/phap-luat/tim-van-ban.aspx?keyword=12/2016/NQ-HĐND&match=True&area=2&lan=1 \"12/2016/NQ-HĐND\") , định mức phân bổ chi thường xuyên theo Nghị quyết số [13/2016/NQ-HĐND](/phap-luat/tim-van-ban.aspx?keyword=13/2016/NQ-HĐND&match=True&area=2&lan=1 \"13/2016/NQ-HĐND\") tại các cơ quan, đơn vị thuộc tỉnh; các huyện, thị xã, thành phố; làm cơ sở để xây dựng định mức chi thường xuyên giai đoạn 2022 - 2025 với Bộ Tài chính.\n\n\\- Thực hiện tổng hợp và tham mưu UBND tỉnh trình HĐND tỉnh ban hành các Nghị quyết phân cấp nguồn thu, nhiệm vụ chi; định mức phân bổ chi thường xuyên giai đoạn 2022 - 2025.\n\n\\- Chủ động rà soát đánh giá dự toán các đơn vị, địa phương để điều chỉnh các nhiệm vụ chi trong dự toán, hạn chế đề nghị bổ sung ngoài dự toán đảm bảo sử dụng ngân sách tiết kiệm và hiệu quả.\n\n\\- Kết thúc năm ngân sách, cơ quan Tài chính các cấp căn cứ số liệu thu, chi NSĐP tính toán, xác định nguồn tiết kiệm chi và xây dựng phương án phân bổ tham mưu UBND các cấp trình Thường trực HĐND cùng cấp quyết định theo quy định tại Khoản 6, Điều 36 Nghị định số 163/2016/NĐ-CP ngày 22/12/2016 của Chính phủ.\n\n**6\\. Các chủ đầu tư:**\n\nCó trách nhiệm đảm bảo tiến độ giải ngân của dự án, trường hợp tỷ lệ giải ngân so với dự toán thấp, đến ngày 30/9/2021, Sở Kế hoạch và Đầu tư phối hợp với Sở Tài chính, Kho bạc Nhà nước tham mưu UBND tỉnh thực hiện cắt, giảm kinh phí để bố trí cho dự án khác.\n\nNhận được Chỉ thị này, yêu cầu các Giám đốc Sở; Thủ trưởng các ban, ngành, đoàn thể thuộc tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố chịu trách nhiệm tổ chức, chỉ đạo thực hiện nghiêm túc; thường xuyên báo cáo kết quả và những khó khăn, vướng mắc gửi về Sở Tài chính để tổng hợp trình UBND tỉnh xem xét giải quyết./.\n\n**_  \nNơi nhận:  \n_**\\- TT.TU, TT. HĐND tỉnh;  \n\\- CT và các PCT UBND tỉnh;  \n\\- Đoàn đại biểu QH tỉnh;  \n\\- Các sở, ban, ngành, đoàn thể thuộc tỉnh;  \n\\- UBMTTQ Việt Nam tỉnh;  \n\\- UBND các huyện, thị xã, thành phố;  \n\\- Cục Thuế, Cục Hải quan, KBNN tỉnh;  \n\\- NHNN tỉnh;  \n\\- Báo Khánh Hòa, Đài PT - TH tỉnh;  \n\\- TT Công báo tỉnh, TT Cổng thông tin điện tử tỉnh;  \n\\- Lãnh đạo VP UBND tỉnh;  \n\\- Các phong: XDNĐ, VX, TH, NC, QTTV;  \n\\- Lưu: VT, HB, TL, HLe.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nLê Hữu Hoàng**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

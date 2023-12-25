@@ -1,0 +1,679 @@
+{
+  "title": "Kế hoạch 142/KH-UBND năm 2018 thực hiện Quyết định về phê duyệt Đề án “Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020” trên địa bàn tỉnh Hòa Bình",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Kế hoạch 6390/KH-BNN-KTHT năm 2018 về liên kết sản xuất và tiêu thụ sản phẩm nông nghiệp giữa hợp tác xã, liên hiệp hợp tác xã nông nghiệp với doanh nghiệp đến năm 2020 do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "6390/KH-BNN-KTHT",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Trần Thanh Nam"
+      ],
+      "issuedDate": "2018-08-17",
+      "effectiveDate": "2018-08-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị định 98/2018/NĐ-CP về chính sách khuyến khích phát triển hợp tác, liên kết trong sản xuất và tiêu thụ sản phẩm nông nghiệp",
+      "id": "98/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-07-05",
+      "effectiveDate": "2018-08-20",
+      "gazetteDate": "2018-07-25",
+      "gazetteNumber": "Từ số 801 đến số 802",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 67/2018/NĐ-CP hướng dẫn Luật Thủy lợi",
+      "id": "67/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-05-14",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2018-05-28",
+      "gazetteNumber": "Từ số 639 đến số 640",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 58/2018/NĐ-CP về bảo hiểm nông nghiệp",
+      "id": "58/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bảo hiểm"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-04-18",
+      "effectiveDate": "2018-06-05",
+      "gazetteDate": "2018-05-06",
+      "gazetteNumber": "Từ số 547 đến số 548",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 31/2018/TT-BTC về hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã, liên hiệp hợp tác xã giải thể, phá sản do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "31/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2018-03-30",
+      "effectiveDate": "2018-05-14",
+      "gazetteDate": "2018-06-25",
+      "gazetteNumber": "Từ số 737 đến số 738",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 107/2017/NĐ-CP sửa đổi Nghị định 193/2013/NĐ-CP hướng dẫn Luật Hợp tác xã",
+      "id": "107/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-09-15",
+      "effectiveDate": "2017-09-15",
+      "gazetteDate": "2017-09-30",
+      "gazetteNumber": "Từ số 725 đến số 726",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 23/2017/QĐ-UBND về sửa đổi Quy định cơ chế hỗ trợ phát triển sản xuất hàng hóa trong lĩnh vực trồng trọt, giai đoạn 2015-2020 trên địa bàn tỉnh Hòa Bình kèm theo Quyết định 11/2015/QĐ-UBND",
+      "id": "23/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Nguyễn Văn Quang"
+      ],
+      "issuedDate": "2017-08-02",
+      "effectiveDate": "2017-08-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 923/QĐ-TTg năm 2017 phê duyệt Chương trình mục tiêu Tái cơ cấu kinh tế nông nghiệp và phòng chống giảm nhẹ thiên tai, ổn định đời sống dân cư do Thủ tướng Chính phủ ban hành",
+      "id": "923/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2017-06-28",
+      "effectiveDate": "2017-06-28",
+      "gazetteDate": "2017-07-10",
+      "gazetteNumber": "Từ số 485 đến số 486",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Thủy lợi 2017",
+      "id": "08/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-19",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2017-07-26",
+      "gazetteNumber": "Từ số 517 đến số 518",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 57/2017/NĐ-CP quy định chính sách ưu tiên tuyển sinh và hỗ trợ học tập đối với trẻ mẫu giáo, học sinh, sinh viên dân tộc thiểu số rất ít người",
+      "id": "57/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-09",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2017-05-24",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 09/2017/TT-BNNPTNT hướng dẫn phân loại và đánh giá hợp tác xã hoạt động trong lĩnh vực nông nghiệp do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "09/2017/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Trần Thanh Nam"
+      ],
+      "issuedDate": "2017-04-17",
+      "effectiveDate": "2017-05-31",
+      "gazetteDate": "2017-05-17",
+      "gazetteNumber": "Từ số 357 đến số 358",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 340/2016/TT-BTC hướng dẫn về mức hỗ trợ và cơ chế tài chính hỗ trợ bồi dưỡng nguồn nhân lực của hợp tác xã, thành lập mới hợp tác xã, tổ chức lại hoạt động của hợp tác xã theo Chương trình hỗ trợ phát triển hợp tác xã giai đoạn 2015-2020 do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "340/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2016-12-29",
+      "effectiveDate": "2017-02-12",
+      "gazetteDate": "2017-02-05",
+      "gazetteNumber": "Từ số 119 đến số 120",
+      "status": "Hết hiệu lực: 14/02/2022"
+    },
+    {
+      "title": "Quyết định 38/2016/QĐ-TTg về chính sách bảo vệ, phát triển rừng và đầu tư hỗ trợ kết cấu hạ tầng, giao nhiệm vụ công ích đối với các công ty nông, lâm nghiệp do Thủ tướng Chính phủ ban hành",
+      "id": "38/2016/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2016-09-14",
+      "effectiveDate": "2016-11-01",
+      "gazetteDate": "2016-09-29",
+      "gazetteNumber": "Từ số 1017 đến số 1018",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1600/QĐ-TTg năm 2016 phê duyệt Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1600/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-08-16",
+      "effectiveDate": "2016-08-16",
+      "gazetteDate": "2016-08-29",
+      "gazetteNumber": "Từ số 891 đến số 892",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 89/2015/NĐ-CP sửa đổi Nghị định 67/2014/NĐ-CP về một số chính sách phát triển thủy sản",
+      "id": "89/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-07",
+      "effectiveDate": "2015-11-25",
+      "gazetteDate": "2015-10-20",
+      "gazetteNumber": "Từ số 1055 đến số 1056",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 61/2015/NĐ-CP Quy định về chính sách hỗ trợ tạo việc làm và Quỹ quốc gia về việc làm",
+      "id": "61/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-07-09",
+      "effectiveDate": "2015-09-01",
+      "gazetteDate": "2015-07-22",
+      "gazetteNumber": "Từ số 857 đến số 858",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 971/QĐ-TTg năm 2015 sửa đổi Quyết định 1956/QĐ-TTg phê duyệt Đề án Đào tạo nghề cho lao động nông thôn đến năm 2020 của Thủ tướng Chính phủ ban hành",
+      "id": "971/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2015-07-01",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2015-07-16",
+      "gazetteNumber": "Từ số 831 đến số 832",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 55/2015/NĐ-CP về chính sách tín dụng phục vụ phát triển nông nghiệp, nông thôn",
+      "id": "55/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-06-09",
+      "effectiveDate": "2015-07-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 11/2015/QĐ-UBND Quy định cơ chế hỗ trợ phát triển sản xuất hàng hóa trong lĩnh vực trồng trọt, giai đoạn 2015-2020 tỉnh Hòa Bình",
+      "id": "11/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Nguyễn Văn Quang"
+      ],
+      "issuedDate": "2015-04-27",
+      "effectiveDate": "2015-05-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 10/2015/QĐ-UBND Quy định chính sách hỗ trợ khuyến khích phát triển nuôi cá lồng vùng hồ thủy điện Hòa Bình, giai đoạn 2015-2020",
+      "id": "10/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Nguyễn Văn Quang"
+      ],
+      "issuedDate": "2015-04-27",
+      "effectiveDate": "2015-05-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2261/QĐ-TTg năm 2014 phê duyệt Chương trình hỗ trợ phát triển hợp tác xã giai đoạn 2015-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "2261/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Hoàng Trung Hải"
+      ],
+      "issuedDate": "2014-12-15",
+      "effectiveDate": "2014-12-15",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 67/2014/NĐ-CP về chính sách phát triển thủy sản",
+      "id": "67/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-07-07",
+      "effectiveDate": "2014-08-25",
+      "gazetteDate": "2014-07-24",
+      "gazetteNumber": "Từ số 707 đến số 708",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 193/2013/NĐ-CP hướng dẫn Luật hợp tác xã",
+      "id": "193/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-21",
+      "effectiveDate": "2014-01-27",
+      "gazetteDate": "2013-12-27",
+      "gazetteNumber": "Từ số 989 đến số 990",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật hợp tác xã 2012",
+      "id": "23/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-11-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-12-24",
+      "gazetteNumber": "Từ số 765 đến số 766",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Quyết định 1956/QĐ-TTg năm 2009 phê duyệt đề án “Đào tạo nghề cho lao động nông thôn đến năm 2020” do Thủ tướng Chính phủ ban hành",
+      "id": "1956/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Thiện Nhân"
+      ],
+      "issuedDate": "2009-11-27",
+      "effectiveDate": "2009-11-27",
+      "gazetteDate": "2009-12-10",
+      "gazetteNumber": "Từ số 567 đến số 568",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Quyết định 3594/QĐ-BNN-KTHT năm 2018 về Kế hoạch triển khai thực hiện Quyết định của Thủ tướng Chính phủ phê duyệt Đề án \"Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến 2020\" do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "3594/QĐ-BNN-KTHT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Trần Thanh Nam"
+      ],
+      "issuedDate": "2018-09-13",
+      "effectiveDate": "2018-09-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 461/QĐ-TTg năm 2018 phê duyệt Đề án phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "461/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2018-04-27",
+      "effectiveDate": "2018-04-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 579/QĐ-UBND năm 2019 về Kế hoạch thực hiện Quyết định của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020” trên địa bàn thành phố Hà Nội",
+      "id": "579/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Văn Sửu"
+      ],
+      "issuedDate": "2019-01-30",
+      "effectiveDate": "2019-01-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2794/QĐ-UBND năm 2018 về Kế hoạch hành động thực hiện Đề án “Phát triển hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020” trên địa bàn tỉnh Bình Phước",
+      "id": "2794/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Huỳnh Anh Minh"
+      ],
+      "issuedDate": "2018-12-10",
+      "effectiveDate": "2018-12-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 14/2018/NQ-HĐND \"quy định về cơ chế, chính sách huy động nguồn lực hỗ trợ đầu tư kết cấu hạ tầng cho phát triển hợp tác xã nông, lâm, ngư, diêm nghiệp trên địa bàn tỉnh Thừa Thiên Huế giai đoạn 2016-2020\"",
+      "id": "14/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Lê Trường Lưu"
+      ],
+      "issuedDate": "2018-12-07",
+      "effectiveDate": "2018-12-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 9526/KH-UBND năm 2018 thực hiện Quyết định phê duyệt Đề án “Phát triển 15.000 Hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020” trên địa bàn tỉnh Vĩnh Phúc",
+      "id": "9526/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Lê Duy Thành"
+      ],
+      "issuedDate": "2018-11-29",
+      "effectiveDate": "2018-11-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 190/KH-UBND năm 2018 thực hiện Quyết định 461/QĐ-TTg về phê duyệt đề án phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020, trên địa bàn tỉnh Thanh Hóa",
+      "id": "190/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Nguyễn Đức Quyền"
+      ],
+      "issuedDate": "2018-11-22",
+      "effectiveDate": "2018-11-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 3311/KH-UBND năm 2018 về phát triển hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020 trên địa bàn tỉnh Điện Biên",
+      "id": "3311/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Điện Biên",
+      "signers": [
+        "Lò Văn Tiến"
+      ],
+      "issuedDate": "2018-11-12",
+      "effectiveDate": "2018-11-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1371/QĐ-UBND-HC năm 2018 quy định về phương thức xác định các hợp tác xã nông nghiệp tham gia thí điểm và điều kiện, tiêu chuẩn tuyển dụng lao động làm việc có thời hạn ở hợp tác xã nông nghiệp trên địa bàn tỉnh Đồng Tháp",
+      "id": "1371/QĐ-UBND-HC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Đồng Tháp",
+      "signers": [
+        "Nguyễn Thanh Hùng"
+      ],
+      "issuedDate": "2018-11-06",
+      "effectiveDate": "2018-11-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 2354/KH-UBND năm 2018 triển khai thí điểm mô hình đưa cán bộ trẻ tốt nghiệp đại học, cao đẳng về làm việc có thời hạn ở các Hợp tác xã nông nghiệp do tỉnh Điện Biên ban hành",
+      "id": "2354/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Tỉnh Điện Biên",
+      "signers": [
+        "Lò Văn Tiến"
+      ],
+      "issuedDate": "2018-08-27",
+      "effectiveDate": "2018-08-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 244/KH-UBND năm 2018 về thí điểm mô hình đưa tri thức trẻ tốt nghiệp đại học về làm việc có thời hạn tại hợp tác xã nông nghiệp trên địa bàn tỉnh Lào Cai",
+      "id": "244/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Hữu Thể"
+      ],
+      "issuedDate": "2018-08-15",
+      "effectiveDate": "2018-08-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "142/KH-UBND",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Doanh nghiệp"
+  ],
+  "organization": "Tỉnh Hòa Bình",
+  "signers": [
+    "Nguyễn Văn Dũng"
+  ],
+  "issuedDate": "2018-11-07",
+  "effectiveDate": "2018-11-07",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMQAxADMAMAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN</span><br>\n  </b><b><span lang=\"VI\">TỈNH HÒA BÌNH<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>142/KH-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hòa Bình</i><i><span lang=\"VI\">, ngày </span>07</i><i><span lang=\"VI\"> tháng </span>11</i><i><span lang=\"VI\"> năm </span>2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN\n“PHÁT TRIỂN 15.000 HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ NÔNG NGHIỆP HOẠT ĐỘNG CÓ HIỆU\nQUẢ ĐẾN NĂM 2020” TRÊN ĐỊA BÀN TỈNH HÒA BÌNH</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Quyết định số 461/QĐ-TTg ngày\n27/4/2018 của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển 15.000 hợp tác\nxã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020”;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Quyết định số 3594/QĐ-BNN-KTHT\nngày 13/9/2018 của Bộ Nông nghiệp và Phát triển nông thôn về việc phê duyệt Kế\nhoạch triển khai thực hiện Quyết định của Thủ tướng Chính phủ phê duyệt Đề án\n“Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu\nquả đến năm 2020”;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ủy ban nhân dân tỉnh ban hành Kế hoạch\nthực hiện Quyết định của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển 15.000\nhợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm\n2020” trên địa bàn tỉnh Hòa Bình, với các nội dung sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. MỤC TIÊU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Duy trì, củng cố, nâng cao chất lượng\nhoạt động cho 65 hợp tác xã nông nghiệp đang hoạt động có hiệu quả trên địa bàn\ntỉnh. Phấn đấu có trên 15 hợp tác xã ứng dụng công nghệ cao trong lĩnh vực nông\nnghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nâng cao chất lượng hoạt động của\nhợp tác xã nông nghiệp chưa hiệu quả để phấn đấu có trên 45 hợp tác xã nông nghiệp\ncó hiệu quả <i>(trong tổng số 57 hợp tác xã nông nghiệp trung bình yếu)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Tạo điều kiện cho 93 hợp tác xã\nthành lập mới trên các lĩnh vực có lợi thế ở các địa phương và hỗ trợ để hoạt động\ncó hiệu quả <i>(Trong đó đến 30/9/2018 đã thành lập mới được 64 hợp tác xã nông\nnghiệp, phấn đấu đến năm 2020 tiếp tục thành lập mới 45 hợp tác xã nông nghiệp).</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">(Có phụ biểu chi tiết kèm theo)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. CÁC NHIỆM VỤ\nTRỌNG TÂM</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Xử lý dứt điểm việc giải thể, chuyển\nđổi sang loại hình khác đối với các hợp tác xã yếu kém đã ngừng hoạt động</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đến hết tháng 9 năm 2018 trong tỉnh\ncó 8 hợp tác xã nông nghiệp đã ngừng hoạt động cần giải thể, hoặc chuyển đổi\nhình thức khác. Các địa phương căn cứ vào Nghị định số 107/2017/NĐ-CP ngày\n15/9/2017 của Chính phủ và Thông tư số 31/2018/TT-BTC ngày 30/3/2018 của Bộ Tài\nchính hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã\ngiải thể, phá sản để lập phương án giải quyết những khó khăn và chỉ đạo sớm giải\nthể hoặc chuyển đổi sang loại hình khác đối với các hợp tác xã yếu kém đã ngừng\nhoạt động dứt điểm trong năm 2018.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nâng cao chất lượng của các hợp\ntác xã nông nghiệp hoạt động chưa hiệu quả để đạt tiêu chí có hiệu quả</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Qua rà soát, đánh giá hiện trên địa\nbàn tỉnh có 57 hợp tác xã nông nghiệp trung bình và yếu (Phân loại theo TT\n09/2017/TT-BNNPTNT), các địa phương cần rà soát tình hình hoạt động và những\nkhó khăn, vướng mắc của các hợp tác xã, từ đó có các biện pháp cụ thể giúp các\nhợp tác xã này nâng cao chất lượng hoạt động nhằm đạt tiêu chí hiệu quả, theo\nhướng:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn các hợp tác xã xây dựng\nphương án sản xuất kinh doanh có hiệu quả, trong đó đẩy mạnh chuyển đổi phương\nthức hoạt động từ dịch vụ đầu vào sang sản xuất hàng hóa, đưa giống mới có năng\nsuất, chất lượng tốt vào sản xuất, ứng dụng tiến bộ kỹ thuật để sản xuất theo\ntheo tiêu chuẩn an toàn và kết nối sản xuất gắn với tiêu thụ ổn định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tập trung chỉ đạo công tác đào tạo,\nbồi dưỡng nâng cao trình độ quản trị, sản xuất cho cán bộ quản lý hợp tác xã và\nthành viên thông qua đào tạo bồi dưỡng ngắn hạn <i>(theo Thông tư số\n340/2016/TT-BTC ngày 29/12/2016 của Bộ Tài chính)</i>, đào tạo nghề, thí điểm\nđưa cán bộ hợp tác xã và thành viên hợp tác xã đi học tập và làm việc ở nước\nngoài.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kết nối với các doanh nghiệp thực\nhiện liên kết với hợp tác xã để đầu tư vào sản xuất và tiêu thụ sản phẩm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ để các hợp tác xã vay vốn\ntín dụng và tiếp cận được với các nguồn vốn hỗ trợ của Nhà nước nhất là tiếp cận\nQuỹ phát triển hợp tác xã và Quỹ hỗ trợ phát triển kinh tế của Hội Nông dân để\nphát triển kết cấu hạ tầng kỹ thuật, tổ chức sản xuất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tạo điều kiện cho các hợp tác xã\ntham gia hoạt động một số dịch vụ phục vụ sản xuất và xây dựng nông thôn mới\nnhư: Quản lý, khai thác công trình thủy lợi; nước sinh hoạt nông thôn, bảo vệ\nmôi trường, chợ nông thôn, ngành nghề nông thôn để các hợp tác xã tăng thêm việc\nlàm và thu nhập cho các thành viên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Duy trì và nâng cao chất lượng hoạt\nđộng của các hợp tác xã nông nghiệp đang hoạt động hiệu quả</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để tiếp tục duy trì và nâng cao hiệu\nquả hoạt động các hợp tác xã này, các địa phương cần có các biện pháp hỗ trợ\nphù hợp, như:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn và hỗ trợ các hợp tác xã\nrà soát, nâng cao chất lượng phương án sản xuất kinh doanh có hiệu quả, trong\nđó tập trung vào các nội dung: Đẩy mạnh sản xuất hàng hóa, lựa chọn cây trồng,\nvật nuôi có giá trị kinh tế cao đưa vào sản xuất; áp dụng tiến bộ khoa học kỹ\nthuật vào sản xuất, đặc biệt là sản xuất theo tiêu chuẩn an toàn, công nghệ\ncao, sản xuất hữu cơ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác đào tạo, bồi dưỡng\nnâng cao trình độ quản lý, sản xuất cho cán bộ và thành viên hợp tác xã <i>(trong\nđó có thí điểm đưa cán bộ về hợp tác xã theo Thông tư số 340/2016/TT-BTC ngày\n29/12/2016 của Bộ Tài chính và của Bộ Nông nghiệp và Phát triển nông thôn ban\nhành kèm theo Quyết định số 1801/QĐ-BNN-KTHT ngày 21/5/2018; Quyết định số\n1747/QĐ-UBND ngày 13/9/2017 của Ủy ban nhân dân tỉnh phê duyệt Đề án xây dựng củng\ncố và phát triển kinh tế hợp tác, hợp tác xã đến năm 2020, định hướng đến năm\n2025).</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tạo điều kiện cho các hợp tác xã\nvay vốn vay tín dụng và tiếp cận với các nguồn vốn hỗ trợ của Nhà nước để đầu\ntư cơ sở hạ tầng kỹ thuật, mở rộng quy mô sản xuất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ đầu tư kết cấu hạ tầng cho\nHTX theo Quyết định số 2261/QĐ-TTg của Thủ tướng Chính phủ đối với các HTX hoạt\nđộng có hiệu quả có đủ tiêu chí theo Thông tư 15 của Bộ Nông nghiệp và Phát triển\nnông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quan tâm hỗ trợ xây dựng các mô\nhình sơ chế, đóng gói, bảo quản sau thu hoạch, xây dựng thương hiệu hàng hóa để\nnâng cao giá trị sản phẩm, tạo thị trường đầu ra ổn định, định hướng cho các hoạt\nđộng xuất khẩu hàng hóa nông sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh công tác xúc tiến thương mại,\nkết nối cung cầu, thực hiện liên kết với doanh nghiệp. Phát huy vai trò nòng cốt\ncủa các hợp tác xã đang phát triển mạnh (doanh thu trên 1 tỷ đồng/năm) để hỗ trợ\ncác hợp tác xã khác cùng liên kết, hợp tác với doanh nghiệp và tiêu thụ sản phẩm\ncó hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Tạo điều kiện thành lập mới các hợp\ntác xã nông nghiệp và hỗ trợ để hoạt động có hiệu quả</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4.1. Lựa chọn các sản phẩm có thế mạnh\ncủa địa phương, vận động thành lập các hợp tác xã để phối hợp cùng các doanh\nnghiệp xây dựng vùng nguyên liệu, liên kết tiêu thụ sản phẩm tại các huyện và\nthành phố:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các huyện, thành phố căn cứ vào định\nhướng phát triển kinh tế hợp tác của Bộ Nông nghiệp và Phát triển nông thôn và Đề\nán Xây dựng củng cố và Phát triển kinh tế hợp tác, hợp tác xã đến năm 2020, định\nhướng đến năm 2025 tại Quyết định số 1747/QĐ-UBND ngày 13/9/2017 của Ủy ban\nnhân dân tỉnh và của địa phương để lập kế hoạch, xác định sản phẩm có thế mạnh\nvà tổ chức cho nông dân phát triển các hợp tác xã; tổ chức chuyển đổi cơ cấu\ncây trồng, vật nuôi. Tập trung cho phát triển các sản phẩm có quy mô và diện\ntích tương đối lớn ở các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các hợp tác xã mới thành lập cần\nxây dựng phương án sản xuất kinh doanh hiệu quả có quy mô phù hợp với từng loại\nsản phẩm; huy động nguồn lực hợp tác xã, nguồn hỗ trợ của Nhà nước theo chính\nsách, nguồn tín dụng, vốn doanh nghiệp và các nguồn vốn hợp pháp khác để phát\ntriển hạ tầng cơ sở cho sản xuất và chế biến; tổ chức liên kết với doanh nghiệp\nthông qua hợp đồng tiêu thụ sản phẩm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4.2. Xây dựng và triển khai thực hiện\nĐề án “Mỗi xã một sản phẩm” gắn với củng cố, hoàn thiện và xây dựng mới các hợp\ntác xã hoạt động hiệu quả</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trên cơ sở lựa chọn các tổ hợp tác\nđang hoạt động có hiệu quả để vận động nâng lên hợp tác xã hoạt động hiệu quả\ncó sự hỗ trợ, định hướng của Nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Vận động những chủ trang trại có\nquy mô sản xuất tương đối lớn để tuyên truyền, vận động cùng nhau thành lập hợp\ntác xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với các sản phẩm sản xuất ở nhiều\nnông hộ cần tập trung vận động những người nông dân và người lao động sản xuất\ngiỏi (có thể là các trưởng thôn, bản) có kinh nghiệm, uy tín đối với cộng đồng\nđể đứng ra làm sáng lập viên thành lập hợp tác xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quy mô hợp tác xã phù hợp với quy\nmô sản xuất theo từng loại sản phẩm làng xã ở các vùng miền.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4.3. Củng cố, kiện toàn và hỗ trợ các\ntổ hợp tác hoạt động có hiệu quả phát triển thành hợp tác xã</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ủy ban nhân </span>dân <span lang=\"VI\">các huyện, thành phố chỉ đạo phòng Nông nghiệp và PTNT các huyện, phòng\nKinh tế thành phố lựa chọn các tổ hợp tác hoạt động có hiệu quả để tuyên truyền,\nvận động phát triển thành lập hợp tác xã và hỗ trợ nâng cao hoạt động cho hiệu\nquả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. GIẢI PHÁP THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đẩy mạnh công tác tuyên truyền\nnâng cao nhận thức về thực hiện Đề án 15.000 hợp tác xã</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các Sở, Ban, ngành, Ủy ban nhân dân\ncác huyện, thành phố Tuyên truyền về mục đích, ý nghĩa và nhiệm vụ của Kế hoạch\nthực hiện Đề án 15.000 hợp tác xã để nâng cao nhận thức đội ngũ cán bộ quản lý;\ncán bộ, thành viên hợp tác xã; người dân và triển khai các chương trình hành động\ncụ thể nhằm đạt được mục tiêu của Đề án đã đề ra.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cấp ủy đảng, chính quyền, đoàn thể ở\ncác cấp phải xây dựng Kế hoạch cụ thể để triển khai nhằm đạt được mục tiêu của\nđịa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chú trọng tuyên truyền thông qua nhiều\nhình thức đa dạng, đặc biệt là thông qua các mô hình, các phong trào thi đua để\nvận động các cấp, các ngành, đoàn thể và doanh nghiệp, hợp tác xã, hộ thành\nviên sản xuất, lực lượng sáng lập viên hợp tác xã <i>(nông dân sản xuất giỏi,\nchủ trang trại, những người có kinh nghiệm, uy tín với cộng đồng và có tiềm lực\nkinh tế)</i> tham gia thành lập và phát triển hợp tác xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Hoàn thiện thể chế, cơ chế chính\nsách đối với hợp tác xã nông nghiệp</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2.1. Về thể chế:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xác định vai trò, trách nhiệm của Sở\nNông nghiệp và Phát triển nông thôn, đặc biệt là Chi cục Phát triển nông thôn\nthuộc Sở trong việc thực hiện nhiệm vụ quản lý nhà nước về hợp tác xã nông nghiệp\nđể tổ chức, kiện toàn bộ máy và nâng cao chất lượng hoạt động của các cán bộ\nchuyên trách nhằm triển khai có hiệu quả Kế hoạch thực hiện Đề án 15.000 hợp\ntác xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phối hợp giữa các đơn vị chức năng có\nliên quan để phân công cụ thể, rõ ràng nhiệm vụ triển khai Kế hoạch thực hiện Đề\nán 15.000 hợp tác xã, trong đó làm rõ nhiệm vụ chủ trì và nhiệm vụ phối hợp để\ntránh trùng chéo trong tổ chức thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Củng cố, kiện toàn đội ngũ cán bộ phụ\ntrách tham mưu quản lý nhà nước về hợp tác xã nông nghiệp ở Phòng Nông nghiệp\nvà Phát triển nông thôn <i>(hoặc Phòng Kinh tế)</i> cấp huyện, thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phân công rõ nhiệm vụ, trách nhiệm của\ncán bộ chuyên môn cấp xã để trực tiếp tham mưu cho Chủ tịch UBND cấp xã trong\nviệc tham mưu quản lý nhà nước về hợp tác xã nông nghiệp và hỗ trợ hợp tác xã\nnông nghiệp phát triển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bổ sung cán bộ tham mưu quản lý nhà\nnước về hợp tác xã nông nghiệp trong bộ máy thuộc UBND các cấp và thực hiện việc\nđào tạo bồi dưỡng cập nhật kiến thức thường xuyên cho đội ngũ cán bộ phụ trách\nquản lý nhà nước về hợp tác xã nông nghiệp đảm bảo thực hiện nhiệm vụ có hiệu\nquả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2.2. Về cơ chế, chính sách:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ nội dung Kế hoạch thực hiện Đề\nán 15.000 hợp tác xã để tập trung triển khai thực hiện hỗ trợ hợp tác xã nông\nnghiệp theo cơ chế, chính sách của Chính phủ liên quan đến phát triển hợp tác\nxã đã ban hành; Quyết định số 1747/QĐ-UBND ngày 13/9/2017 của Ủy ban nhân dân tỉnh;\nĐồng thời thực hiện lồng ghép các cơ chế, chính sách của tỉnh đã ban hành như:\nHỗ trợ trồng cây có múi theo Quyết định số 11/2015/QĐ-UBND ngày 27/4/2015 của Ủy\nban nhân dân tỉnh Hòa Bình về hỗ trợ phát triển sản xuất hàng hóa trong lĩnh vực\ntrồng trọt (nay là Quyết định số 23/2017/QĐ-UBND ngày 02/8/2017); Đề án Cải tạo\nvườn tạp; Chương trình chăn nuôi cá lồng theo Quyết định số 10/2015/QĐ-UBND\nngày 27/4/2015 của UBND tỉnh Hòa Bình, về việc Ban hành Quy định một số chính\nsách hỗ trợ khuyến khích phát triển nuôi cá lồng vùng hồ thủy điện Hòa Bình,\ngiai đoạn 2015-2020.... và các chương trình, dự án khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bố trí đủ nguồn lực của địa phương và\ntăng cường việc hướng dẫn tiếp cận chính sách để thực hiện hỗ trợ mạnh cho các\nhợp tác xã nông nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Đẩy mạnh công tác đào tạo, bồi dưỡng\nđể nâng cao năng lực, trình độ của cán bộ hệ thống quản lý nhà nước, lực lượng\nhỗ trợ, lực lượng trực tiếp hoạt động ở các hợp tác xã và thành viên hợp tác xã</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tiếp tục triển khai, hướng dẫn thực\nhiện Luật Hợp tác xã và các văn bản dưới Luật để nâng cao nhận thức và năng lực\ncho cán bộ trong hệ thống quản lý nhà nước về hợp tác xã nông nghiệp nhằm thực\nhiện nhiệm vụ có hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng hình thành đội ngũ chuyên\ngia tư vấn có đủ kinh nghiệm thực tiễn để hỗ trợ kỹ thuật cho các địa phương nhằm\ncủng cố, kiện toàn và phát triển mới các hợp tác xã nông nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tập trung đào tạo, bồi dưỡng cho cán\nbộ và thành viên hợp tác xã nông nghiệp, đặc biệt là nâng cao năng lực về quản\ntrị, xây dựng và thực hiện có hiệu quả phương án sản xuất kinh doanh, kỹ thuật ứng\ndụng công nghệ cao vào sản xuất nông nghiệp, kiến thức tiếp cận thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kinh phí đào tạo, bồi dưỡng bố trí từ\ncác nguồn vốn hỗ trợ của Trung ương và một phần ngân sách của địa phương; huy động\ntừ các nguồn xã hội hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Tăng cường sự phối hợp giữa hợp giữa\nSở Nông nghiệp và Phát triển nông thôn với Liên Minh Hợp tác xã, Hội Nông dân tỉnh\nvà các Ban, ngành, đoàn thể liên quan trong thực hiện Đề án 15.000 hợp tác xã</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng Chương trình phối hợp liên tịch\ngiữa 03 cơ quan <i>(Sở Nông nghiệp và Phát triển nông thôn - Liên minh Hợp tác\nxã tỉnh - Hội Nông dân tỉnh)</i>, trong đó có việc thực hiện nhiệm vụ Kế hoạch\nthực hiện Đề án phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã hoạt động có\nhiệu quả. Đặc biệt tập trung nguồn lực để xây dựng các mô hình điểm có huy động\nnguồn lực của cả 03 đơn vị, trên cơ sở đó thực hiện tổng kết và nhân rộng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngoài ra, phối hợp chặt chẽ với Mặt\ntrận tổ quốc Việt Nam và các đoàn thể chính trị - xã hội khác trong việc tuyên\ntruyền, vận động hội viên, đoàn viên tham gia tích cực trong phong trào phát\ntriển hợp tác xã; đào tạo bồi dưỡng nâng cao năng lực cho các hội viên là thành\nviên hợp tác xã; tổ chức xây dựng các mô hình hợp tác xã điển hình; có giải\npháp tạo điều kiện thuận lợi cho hợp tác xã có thành viên là hội viên phát triển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Huy động nguồn lực để hỗ trợ có hiệu\nquả cho hợp tác xã nông nghiệp</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5.1. Kinh phí huy động từ hỗ trợ của\nNhà nước theo chính sách:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn hỗ trợ phát triển hợp tác xã\ntại Quyết định số 2261/QĐ-TTg ngày 22/4/2017 <i>(thực hiện chính sách hỗ trợ tại\nNghị định số 193/2013/NĐ-CP ngày 21/11/2013)</i> để hỗ trợ: Đầu tư phát triển kết\ncấu hạ tầng; chế biến sản phẩm; đào tạo, bồi dưỡng cán bộ hợp tác xã và đưa cán\nbộ trẻ có trình độ về hợp tác xã; ứng dụng khoa học, kỹ thuật và công nghệ mới;\nthành lập mới hợp tác xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn Chương trình Mục tiêu quốc\ngia xây dựng nông thôn mới tại Quyết định số 1600/QĐ-TTg ngày 16/8/2016 để hỗ\ntrợ: ứng dụng khoa học công nghệ, công nghệ cao vào sản xuất nông nghiệp; liên\nkết chuỗi giá trị giữa hợp tác xã với doanh nghiệp <i>(chính sách theo Nghị định\nsố 98/2018/NĐ-CP ngày 05/7/2018)</i>; đổi mới tổ chức sản xuất trong nông nghiệp;\nđào tạo nghề cho lao động nông thôn <i>(chính sách theo Quyết định số 1956/QĐ-TTg\nngày 27/11/2009 và số 971/QĐ-TTg ngày 01/7/2015; Nghị định số 61/2015/NĐ-CP\nngày 09/07/2015)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chương trình mục tiêu Tái cơ cấu\nkinh tế nông nghiệp và phòng chống giảm nhẹ thiên tai và ổn định đời sống dân\ncư </span>hỗ <span lang=\"VI\">trợ phát triển hợp tác xã nông nghiệp theo Quyết định\nsố 923/QĐ-TTg ngày 28/6/2017.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chương trình khuyến nông quốc gia hỗ\ntrợ cho đào tạo, bồi dưỡng cán bộ, thành viên hợp tác xã và xây dựng các mô\nhình khuyến nông ứng dụng công nghệ cao trong hợp tác xã nông nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ thuê đất phục vụ hoạt động của\nhợp tác xã và hỗ trợ đầu tư phát triển kết cấu hạ tầng để hợp tác xã thực hiện\ncác dịch vụ công ích, tiêu thụ sản phẩm gắn với chuỗi giá trị <i>(Nghị định số\n107/2017/NĐ-CP ngày 15/9/2017)</i>; hỗ trợ bảo hiểm nông nghiệp <i>(Nghị định số\n58/2018/NĐ-CP ngày 18/4/2018)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ thu hút, khuyến khích doanh\nnghiệp đầu tư vào nông nghiệp, nông thôn để liên kết với hợp tác xã <i>(Nghị định\nsố 57/2017/NĐ-CP ngày 03/5/2018).</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các Chương trình hỗ trợ theo chuyên\nngành như: Thủy lợi phí <i>(ưu tiên hợp tác xã tham gia hoạt động quản lý, khai\nthác công trình thủy lợi nhỏ, thủy lợi nội đồng theo quy định của Luật Thủy lợi\nvà Nghị định số 67/2018/NĐ-CP ngày 14/5/2018)</i>; hỗ trợ đầu tư, bảo vệ và\nphát triển rừng <i>(theo Quyết định số 38/2016/QĐ-TTg ngày 14/9/2016 của Thủ tướng\nChính phủ)</i>; hỗ trợ phát triển thủy sản <i>(theo Nghị định số 67/2014/NĐ-CP\nngày 07/7/2014 và Nghị định số 89/2015/NĐ-CP ngày 07/10/2015)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5.2. Huy động các nguồn lực từ các tổ\nchức quốc tế thông qua diễn đàn nông dân hợp tác và các chương trình tài trợ\ncho hợp tác xã nông nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5.3. Nguồn vốn từ Quỹ Hỗ trợ phát triển\nhợp tác xã, Quỹ Hỗ trợ nông dân và các tổ chức tín dụng, trong đó có hỗ trợ\ntheo chính sách tín dụng phục vụ phát triển nông nghiệp nông thôn <i>(Nghị định\nsố 55/2015/NĐ-CP ngày 09/6/2015)</i> để các hợp tác xã tiếp cận các nguồn hỗ trợ\nđầu tư phát triển sản xuất kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5.4. Vốn của doanh nghiệp tham gia\nliên kết, vốn đối ứng của các hợp tác xã đầu tư phát triển sản xuất và các nguồn\nvốn hợp pháp khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">IV. TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Sở Nông nghiệp và Phát triển nông\nthôn</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, hướng dẫn, theo dõi, đôn đốc\ncác địa phương và kiểm tra thực hiện Kế hoạch; sơ kết, tổng kết việc thực hiện\nKế hoạch và tổng hợp báo cáo Ủy ban nhân dân tỉnh kết quả thực hiện hàng năm và\nkết thúc giai đoạn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Liên minh Hợp tác xã tỉnh,\nHội Nông dân tỉnh và các đoàn thể chính trị - xã hội xây dựng Chương trình phối\nhợp thống nhất từ tỉnh đến địa phương, trong đó phân công nhiệm vụ cụ thể để\ntriển khai thực hiện các nhiệm vụ trong Đề án 15.000 hợp tác xã.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Liên minh Hợp tác xã tỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bổ sung nội dung của Kế hoạch số\n6390/KH-KTHT, ngày 17/8/2018 của Bộ Nông nghiệp và Phát triển nông thôn, về việc\nKế hoạch liên kết sản xuất và tiêu thụ sản phẩm nông nghiệp giữa HTX, Liên hiệp\nHTX nông nghiệp với các doanh nghiệp đến năm 2020 cho phù hợp vào Kế hoạch phát\ntriển hợp tác xã kiểu mới liên kết sản xuất tiêu thụ theo chuỗi giá trị sản phẩm\nnông nghiệp chủ lực quy mô lớn, có sức lan tỏa trên địa bàn tỉnh giai đoạn\n2018-2025 cho phù hợp với tình hình địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Nông nghiệp và Phát\ntriển nông thôn để triển khai các nhiệm vụ được giao trong Kế hoạch thực hiện Đề\nán 15.000 hợp tác xã và thống nhất sơ kết, tổng kết, rút kinh nghiệm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ưu tiên nguồn vốn vay ưu đãi từ Quỹ\nhỗ trợ phát triển hợp tác xã của Trung ương và của tỉnh trong việc tạo điều kiện\ncho các hợp tác xã nông nghiệp tiếp cận được nguồn vốn vay ưu đãi để phát triển\nsản xuất kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Các Sở: Kế hoạch và Đầu tư, Tài\nchính</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sở Kế hoạch và Đầu tư: Chủ trì, phối\nhợp với Sở Tài chính bố trí, hướng dẫn kinh phí đầu tư trung hạn và hàng năm để\ntổ chức thực hiện kế hoạch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sở Tài chính: Trên cơ sở đề xuất của\ncác Sở, Ban, ngành và các địa phương, hàng năm Sở Tài chính phối hợp với Sở Kế\nhoạch và Đầu tư tổng hợp kinh phí thực hiện đề án, căn cứ khả năng ngân sách,\ntrình cấp có thẩm quyền phê duyệt theo quy định của Luật ngân sách nhà nước và\ncác văn bản hướng dẫn việc sử dụng và thanh quyết toán kinh phí hỗ trợ trong kế\nhoạch thực hiện “Đề án 15.000 hợp tác xã”.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Hội Nông dân tỉnh</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo Hội Nông dân các huyện,\nthành phố và các Quỹ Hỗ trợ nông dân để thực hiện ưu tiên hỗ trợ cho các thành\nviên hợp tác xã nông nghiệp tiếp cận được nguồn hỗ trợ nhằm phát triển sản xuất\nkinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Vận động các chủ trang trại, nông\ndân sản xuất giỏi là hội viên Hội Nông dân tham gia tích cực vào phong trào\nphát triển hợp tác xã; đào tạo, bồi dưỡng nâng cao năng lực, trình độ sản xuất\ncho thành viên hợp tác xã, chủ trang trại, nông dân sản xuất giỏi là hội viên của\nHội Nông dân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo Hội Nông dân các huyện,\nthành phố phối hợp chặt chẽ với phòng Nông nghiệp và Phát triển nông thôn các\nhuyện, phòng Kinh tế thành phố trong quá trình triển khai Kế hoạch này, thường\nxuyên sơ, tổng kết rút kinh nghiệm nhân rộng mô hình tại địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Mặt trận tổ quốc và các đoàn thể\nchính trị - xã hội khác</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn chỉ đạo Ủy ban MTTQ Việt\nNam tỉnh và các tổ chức Chính trị - xã hội các cấp trong toàn tỉnh phối hợp chặt\nchẽ với Phòng Nông nghiệp và Phát triển nông thôn huyện, phòng Kinh tế thành phố\nvà cơ sở trong quá trình triển khai Kế hoạch thực hiện Đề án 15.000 hợp tác xã\ntại địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Căn cứ chức năng, nhiệm vụ để tổ chức\ntuyên truyền đến các hội viên, đoàn viên tham gia xây dựng mô hình hợp tác xã\nnông nghiệp hiệu quả; vận động hội viên thành lập mới các hợp tác xã nông nghiệp;\nphát động những phong trào thi đua trong tổ chức hội, đoàn để phát triển hợp\ntác xã nông nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Ủy ban nhân dân các huyện, thành\nphố</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh công tác tuyên truyền, vận\nđộng để thành lập mới và củng cố, phát triển hợp tác xã hoạt động có hiệu quả.\nPhấn đấu đến năm 2020 thành lập mới 45 hợp tác xã trong nông nghiệp và nâng cao\nchất lượng hoạt động các hợp tác xã nông nghiệp để đạt chỉ tiêu trên 203 hợp\ntác xã nông nghiệp hoạt động có hiệu quả <i>(chi tiết tại phụ biểu đính kèm)</i>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Căn cứ nhiệm vụ tại Kế hoạch năm và\ntình hình cụ thể của địa phương để xây dựng Kế hoạch hành động cụ thể của địa\nphương cho phù hợp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Củng cố, kiện toàn các Ban chỉ đạo\nkinh tế tập thể và cơ quan tham mưu quản lý nhà nước về hợp tác xã nông nghiệp\ncác cấp ở địa phương để đáp ứng yêu cầu trong việc tổ chức thực hiện Kế hoạch\nphát triển hợp tác xã trong lĩnh vực nông nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí nguồn kinh phí của địa\nphương và huy động các nguồn lực hợp pháp để triển khai thực hiện Kế hoạch của\ntỉnh, hỗ trợ hợp tác xã theo yêu cầu phát triển ở địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện sơ kết, tổng kết và tổng\nhợp báo cáo Sở Nông nghiệp và Phát triển nông thôn kết quả thực hiện hàng năm\nvà kết thúc giai đoạn theo yêu cầu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ủy ban nhân dân tỉnh yêu cầu các Sở:\nNông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường, Kế hoạch và Đầu\ntư, Tài chính, Xây dựng, Giao thông vận tải, Khoa học và Công nghệ, Thông tin\nTruyền thông; Chủ tịch Liên minh hợp tác xã tỉnh, Giám đốc Đài Phát thanh và\nTruyền hình tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thành phố và các Sở, Ban,\nngành, các cơ quan, đơn vị liên quan triển khai thực hiện Kế hoạch này. Trong\nquá trình thực hiện, nếu có khó khăn, vướng mắc, kịp thời thông tin về Sở Nông\nnghiệp và Phát triển nông thôn để phối hợp với các cơ quan liên quan thống nhất,\nbáo cáo Ủy ban nhân dân tỉnh./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMQAxADMAMAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - Ủy ban MTTQ VN t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Chủ tịch, các Phó Chủ tịch UBND tỉnh;<br>\n  - Các Sở, Ban, ngành;<br>\n  - Hội Nông dân t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Hội Phụ nữ tỉnh;<br>\n  - Hội Cựu chiến binh t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - UBND các huyện, thành phố;<br>\n  - Chánh, Phó VPUBND tỉnh;<br>\n  - Chánh Văn phòng UBND tỉnh;<br>\n  - Lưu: VT, NNTN (BD60).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TM.\n  ỦY BAN NHÂN DÂN</span><br>\n  </b><b><span lang=\"VI\">KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Dũng</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_pl_1\"><b><span lang=\"VI\">CHỈ TIÊU SỐ LƯỢNG HTX NÔNG NGHIỆP ĐẾN NĂM 2020</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><i><span lang=\"VI\">(Ban\nhành kèm theo Kế hoạch số 142/UBND-NNTN ngày 07 tháng 11 năm 2018 của Ủy ban\nnhân dân tỉnh)</span></i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAxADgAMQAxADMAMAA=-->\n <tbody><tr>\n  <td width=\"4%\" rowspan=\"2\" style=\"width:4.22%;border:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TT</span></b></p>\n  </td>\n  <td width=\"15%\" rowspan=\"2\" style=\"width:15.56%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Huy</span>ệ</b><b><span lang=\"VI\">n, thành phố</span></b></p>\n  </td>\n  <td width=\"54%\" colspan=\"5\" style=\"width:54.4%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Thực\n  trạng số HTX đang hoạt động đến 30/9/2018</span></b></p>\n  </td>\n  <td width=\"25%\" colspan=\"2\" style=\"width:25.82%;border:solid windowtext 1.0pt;\n  border-left:none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Kế\n  hoạch HTX hoạt động có hiệu quả đến năm 2020</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số\n  HTX đến 30/9/2018</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số\n  HTX hoạt động có hiệu quả</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số\n  HTX hoạt động chưa hiệu quả</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số\n  HTX thành lập mới đến 30/9/2018</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số\n  HTX ngừng hoạt động</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số\n  HTX thành lập mới đến 2020</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">HTX\n  hoạt động có hiệu quả đến năm 2020</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Toàn tỉnh</span></b></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">194</span></b></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">65</span></b></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">57</span></b></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">64</span></b></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">8</span></b></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">45</span></b></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">203</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đà Bắc</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">16</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">14</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Yên Thủy</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">19</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">8</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">20</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tân Lạc</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">12</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">14</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Lạc Sơn</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">16</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">18</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kỳ Sơn</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">8</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">8</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cao Phong</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">18</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">19</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Lương Sơn</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">28</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">18</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">25</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">8</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Mai Châu</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">9</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">12</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">9</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kim Bôi</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">22</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">12</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">6</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">25</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">10</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thành phố</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">15</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">4</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">8</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">15</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"4%\" style=\"width:4.22%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">11</span></p>\n  </td>\n  <td width=\"15%\" style=\"width:15.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Lạc Thủy</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.84%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">31</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.12%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">15</span></p>\n  </td>\n  <td width=\"12%\" style=\"width:12.86%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">15</span></p>\n  </td>\n  <td width=\"10%\" style=\"width:10.56%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1</span></p>\n  </td>\n  <td width=\"9%\" style=\"width:9.02%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">&nbsp;</span></p>\n  </td>\n  <td width=\"11%\" style=\"width:11.06%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3</span></p>\n  </td>\n  <td width=\"14%\" style=\"width:14.76%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0cm 0cm 0cm 0cm\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">33</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">&nbsp;</span></b></p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \n****TỈNH HÒA BÌNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 142/KH-UBND\n\n_Hòa Bình__, ngày 07_ _tháng 11_ _năm 2018_\n\n**KẾ HOẠCH**\n\nTRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “PHÁT TRIỂN 15.000 HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ NÔNG NGHIỆP HOẠT ĐỘNG CÓ HIỆU QUẢ ĐẾN NĂM 2020” TRÊN ĐỊA BÀN TỈNH HÒA BÌNH\n\nCăn cứ Quyết định số 461/QĐ-TTg ngày 27/4/2018 của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020”;\n\nCăn cứ Quyết định số 3594/QĐ-BNN-KTHT ngày 13/9/2018 của Bộ Nông nghiệp và Phát triển nông thôn về việc phê duyệt Kế hoạch triển khai thực hiện Quyết định của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020”;\n\nỦy ban nhân dân tỉnh ban hành Kế hoạch thực hiện Quyết định của Thủ tướng Chính phủ phê duyệt Đề án “Phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã nông nghiệp hoạt động có hiệu quả đến năm 2020” trên địa bàn tỉnh Hòa Bình, với các nội dung sau:\n\n**I. MỤC TIÊU**\n\n1\\. Duy trì, củng cố, nâng cao chất lượng hoạt động cho 65 hợp tác xã nông nghiệp đang hoạt động có hiệu quả trên địa bàn tỉnh. Phấn đấu có trên 15 hợp tác xã ứng dụng công nghệ cao trong lĩnh vực nông nghiệp.\n\n2\\. Nâng cao chất lượng hoạt động của hợp tác xã nông nghiệp chưa hiệu quả để phấn đấu có trên 45 hợp tác xã nông nghiệp có hiệu quả _(trong tổng số 57 hợp tác xã nông nghiệp trung bình yếu)_.\n\n3\\. Tạo điều kiện cho 93 hợp tác xã thành lập mới trên các lĩnh vực có lợi thế ở các địa phương và hỗ trợ để hoạt động có hiệu quả _(Trong đó đến 30/9/2018 đã thành lập mới được 64 hợp tác xã nông nghiệp, phấn đấu đến năm 2020 tiếp tục thành lập mới 45 hợp tác xã nông nghiệp)._\n\n_(Có phụ biểu chi tiết kèm theo)_\n\n**II. CÁC NHIỆM VỤ TRỌNG TÂM**\n\n1\\. Xử lý dứt điểm việc giải thể, chuyển đổi sang loại hình khác đối với các hợp tác xã yếu kém đã ngừng hoạt động\n\nĐến hết tháng 9 năm 2018 trong tỉnh có 8 hợp tác xã nông nghiệp đã ngừng hoạt động cần giải thể, hoặc chuyển đổi hình thức khác. Các địa phương căn cứ vào Nghị định số 107/2017/NĐ-CP ngày 15/9/2017 của Chính phủ và Thông tư số 31/2018/TT-BTC ngày 30/3/2018 của Bộ Tài chính hướng dẫn việc xử lý tài sản hình thành từ nhiều nguồn vốn khi hợp tác xã giải thể, phá sản để lập phương án giải quyết những khó khăn và chỉ đạo sớm giải thể hoặc chuyển đổi sang loại hình khác đối với các hợp tác xã yếu kém đã ngừng hoạt động dứt điểm trong năm 2018.\n\n2\\. Nâng cao chất lượng của các hợp tác xã nông nghiệp hoạt động chưa hiệu quả để đạt tiêu chí có hiệu quả\n\nQua rà soát, đánh giá hiện trên địa bàn tỉnh có 57 hợp tác xã nông nghiệp trung bình và yếu (Phân loại theo TT 09/2017/TT-BNNPTNT), các địa phương cần rà soát tình hình hoạt động và những khó khăn, vướng mắc của các hợp tác xã, từ đó có các biện pháp cụ thể giúp các hợp tác xã này nâng cao chất lượng hoạt động nhằm đạt tiêu chí hiệu quả, theo hướng:\n\n\\- Hướng dẫn các hợp tác xã xây dựng phương án sản xuất kinh doanh có hiệu quả, trong đó đẩy mạnh chuyển đổi phương thức hoạt động từ dịch vụ đầu vào sang sản xuất hàng hóa, đưa giống mới có năng suất, chất lượng tốt vào sản xuất, ứng dụng tiến bộ kỹ thuật để sản xuất theo theo tiêu chuẩn an toàn và kết nối sản xuất gắn với tiêu thụ ổn định.\n\n\\- Tập trung chỉ đạo công tác đào tạo, bồi dưỡng nâng cao trình độ quản trị, sản xuất cho cán bộ quản lý hợp tác xã và thành viên thông qua đào tạo bồi dưỡng ngắn hạn _(theo Thông tư số 340/2016/TT-BTC ngày 29/12/2016 của Bộ Tài chính)_, đào tạo nghề, thí điểm đưa cán bộ hợp tác xã và thành viên hợp tác xã đi học tập và làm việc ở nước ngoài.\n\n\\- Kết nối với các doanh nghiệp thực hiện liên kết với hợp tác xã để đầu tư vào sản xuất và tiêu thụ sản phẩm.\n\n\\- Hỗ trợ để các hợp tác xã vay vốn tín dụng và tiếp cận được với các nguồn vốn hỗ trợ của Nhà nước nhất là tiếp cận Quỹ phát triển hợp tác xã và Quỹ hỗ trợ phát triển kinh tế của Hội Nông dân để phát triển kết cấu hạ tầng kỹ thuật, tổ chức sản xuất.\n\n\\- Tạo điều kiện cho các hợp tác xã tham gia hoạt động một số dịch vụ phục vụ sản xuất và xây dựng nông thôn mới như: Quản lý, khai thác công trình thủy lợi; nước sinh hoạt nông thôn, bảo vệ môi trường, chợ nông thôn, ngành nghề nông thôn để các hợp tác xã tăng thêm việc làm và thu nhập cho các thành viên.\n\n3\\. Duy trì và nâng cao chất lượng hoạt động của các hợp tác xã nông nghiệp đang hoạt động hiệu quả\n\nĐể tiếp tục duy trì và nâng cao hiệu quả hoạt động các hợp tác xã này, các địa phương cần có các biện pháp hỗ trợ phù hợp, như:\n\n\\- Hướng dẫn và hỗ trợ các hợp tác xã rà soát, nâng cao chất lượng phương án sản xuất kinh doanh có hiệu quả, trong đó tập trung vào các nội dung: Đẩy mạnh sản xuất hàng hóa, lựa chọn cây trồng, vật nuôi có giá trị kinh tế cao đưa vào sản xuất; áp dụng tiến bộ khoa học kỹ thuật vào sản xuất, đặc biệt là sản xuất theo tiêu chuẩn an toàn, công nghệ cao, sản xuất hữu cơ.\n\n\\- Tăng cường công tác đào tạo, bồi dưỡng nâng cao trình độ quản lý, sản xuất cho cán bộ và thành viên hợp tác xã _(trong đó có thí điểm đưa cán bộ về hợp tác xã theo Thông tư số 340/2016/TT-BTC ngày 29/12/2016 của Bộ Tài chính và của Bộ Nông nghiệp và Phát triển nông thôn ban hành kèm theo Quyết định số 1801/QĐ-BNN-KTHT ngày 21/5/2018; Quyết định số 1747/QĐ-UBND ngày 13/9/2017 của Ủy ban nhân dân tỉnh phê duyệt Đề án xây dựng củng cố và phát triển kinh tế hợp tác, hợp tác xã đến năm 2020, định hướng đến năm 2025)._\n\n\\- Tạo điều kiện cho các hợp tác xã vay vốn vay tín dụng và tiếp cận với các nguồn vốn hỗ trợ của Nhà nước để đầu tư cơ sở hạ tầng kỹ thuật, mở rộng quy mô sản xuất.\n\n\\- Hỗ trợ đầu tư kết cấu hạ tầng cho HTX theo Quyết định số 2261/QĐ-TTg của Thủ tướng Chính phủ đối với các HTX hoạt động có hiệu quả có đủ tiêu chí theo Thông tư 15 của Bộ Nông nghiệp và Phát triển nông thôn.\n\n\\- Quan tâm hỗ trợ xây dựng các mô hình sơ chế, đóng gói, bảo quản sau thu hoạch, xây dựng thương hiệu hàng hóa để nâng cao giá trị sản phẩm, tạo thị trường đầu ra ổn định, định hướng cho các hoạt động xuất khẩu hàng hóa nông sản.\n\n\\- Đẩy mạnh công tác xúc tiến thương mại, kết nối cung cầu, thực hiện liên kết với doanh nghiệp. Phát huy vai trò nòng cốt của các hợp tác xã đang phát triển mạnh (doanh thu trên 1 tỷ đồng/năm) để hỗ trợ các hợp tác xã khác cùng liên kết, hợp tác với doanh nghiệp và tiêu thụ sản phẩm có hiệu quả.\n\n4\\. Tạo điều kiện thành lập mới các hợp tác xã nông nghiệp và hỗ trợ để hoạt động có hiệu quả\n\n4.1. Lựa chọn các sản phẩm có thế mạnh của địa phương, vận động thành lập các hợp tác xã để phối hợp cùng các doanh nghiệp xây dựng vùng nguyên liệu, liên kết tiêu thụ sản phẩm tại các huyện và thành phố:\n\n\\- Các huyện, thành phố căn cứ vào định hướng phát triển kinh tế hợp tác của Bộ Nông nghiệp và Phát triển nông thôn và Đề án Xây dựng củng cố và Phát triển kinh tế hợp tác, hợp tác xã đến năm 2020, định hướng đến năm 2025 tại Quyết định số 1747/QĐ-UBND ngày 13/9/2017 của Ủy ban nhân dân tỉnh và của địa phương để lập kế hoạch, xác định sản phẩm có thế mạnh và tổ chức cho nông dân phát triển các hợp tác xã; tổ chức chuyển đổi cơ cấu cây trồng, vật nuôi. Tập trung cho phát triển các sản phẩm có quy mô và diện tích tương đối lớn ở các địa phương.\n\n\\- Các hợp tác xã mới thành lập cần xây dựng phương án sản xuất kinh doanh hiệu quả có quy mô phù hợp với từng loại sản phẩm; huy động nguồn lực hợp tác xã, nguồn hỗ trợ của Nhà nước theo chính sách, nguồn tín dụng, vốn doanh nghiệp và các nguồn vốn hợp pháp khác để phát triển hạ tầng cơ sở cho sản xuất và chế biến; tổ chức liên kết với doanh nghiệp thông qua hợp đồng tiêu thụ sản phẩm.\n\n4.2. Xây dựng và triển khai thực hiện Đề án “Mỗi xã một sản phẩm” gắn với củng cố, hoàn thiện và xây dựng mới các hợp tác xã hoạt động hiệu quả\n\n\\- Trên cơ sở lựa chọn các tổ hợp tác đang hoạt động có hiệu quả để vận động nâng lên hợp tác xã hoạt động hiệu quả có sự hỗ trợ, định hướng của Nhà nước.\n\n\\- Vận động những chủ trang trại có quy mô sản xuất tương đối lớn để tuyên truyền, vận động cùng nhau thành lập hợp tác xã.\n\n\\- Đối với các sản phẩm sản xuất ở nhiều nông hộ cần tập trung vận động những người nông dân và người lao động sản xuất giỏi (có thể là các trưởng thôn, bản) có kinh nghiệm, uy tín đối với cộng đồng để đứng ra làm sáng lập viên thành lập hợp tác xã.\n\n\\- Quy mô hợp tác xã phù hợp với quy mô sản xuất theo từng loại sản phẩm làng xã ở các vùng miền.\n\n4.3. Củng cố, kiện toàn và hỗ trợ các tổ hợp tác hoạt động có hiệu quả phát triển thành hợp tác xã\n\n\\- Ủy ban nhân dân các huyện, thành phố chỉ đạo phòng Nông nghiệp và PTNT các huyện, phòng Kinh tế thành phố lựa chọn các tổ hợp tác hoạt động có hiệu quả để tuyên truyền, vận động phát triển thành lập hợp tác xã và hỗ trợ nâng cao hoạt động cho hiệu quả.\n\n**III. GIẢI PHÁP THỰC HIỆN**\n\n1\\. Đẩy mạnh công tác tuyên truyền nâng cao nhận thức về thực hiện Đề án 15.000 hợp tác xã\n\nCác Sở, Ban, ngành, Ủy ban nhân dân các huyện, thành phố Tuyên truyền về mục đích, ý nghĩa và nhiệm vụ của Kế hoạch thực hiện Đề án 15.000 hợp tác xã để nâng cao nhận thức đội ngũ cán bộ quản lý; cán bộ, thành viên hợp tác xã; người dân và triển khai các chương trình hành động cụ thể nhằm đạt được mục tiêu của Đề án đã đề ra.\n\nCấp ủy đảng, chính quyền, đoàn thể ở các cấp phải xây dựng Kế hoạch cụ thể để triển khai nhằm đạt được mục tiêu của địa phương.\n\nChú trọng tuyên truyền thông qua nhiều hình thức đa dạng, đặc biệt là thông qua các mô hình, các phong trào thi đua để vận động các cấp, các ngành, đoàn thể và doanh nghiệp, hợp tác xã, hộ thành viên sản xuất, lực lượng sáng lập viên hợp tác xã _(nông dân sản xuất giỏi, chủ trang trại, những người có kinh nghiệm, uy tín với cộng đồng và có tiềm lực kinh tế)_ tham gia thành lập và phát triển hợp tác xã.\n\n2\\. Hoàn thiện thể chế, cơ chế chính sách đối với hợp tác xã nông nghiệp\n\n2.1. Về thể chế:\n\nXác định vai trò, trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn, đặc biệt là Chi cục Phát triển nông thôn thuộc Sở trong việc thực hiện nhiệm vụ quản lý nhà nước về hợp tác xã nông nghiệp để tổ chức, kiện toàn bộ máy và nâng cao chất lượng hoạt động của các cán bộ chuyên trách nhằm triển khai có hiệu quả Kế hoạch thực hiện Đề án 15.000 hợp tác xã.\n\nPhối hợp giữa các đơn vị chức năng có liên quan để phân công cụ thể, rõ ràng nhiệm vụ triển khai Kế hoạch thực hiện Đề án 15.000 hợp tác xã, trong đó làm rõ nhiệm vụ chủ trì và nhiệm vụ phối hợp để tránh trùng chéo trong tổ chức thực hiện.\n\nCủng cố, kiện toàn đội ngũ cán bộ phụ trách tham mưu quản lý nhà nước về hợp tác xã nông nghiệp ở Phòng Nông nghiệp và Phát triển nông thôn _(hoặc Phòng Kinh tế)_ cấp huyện, thành phố.\n\nPhân công rõ nhiệm vụ, trách nhiệm của cán bộ chuyên môn cấp xã để trực tiếp tham mưu cho Chủ tịch UBND cấp xã trong việc tham mưu quản lý nhà nước về hợp tác xã nông nghiệp và hỗ trợ hợp tác xã nông nghiệp phát triển.\n\nBổ sung cán bộ tham mưu quản lý nhà nước về hợp tác xã nông nghiệp trong bộ máy thuộc UBND các cấp và thực hiện việc đào tạo bồi dưỡng cập nhật kiến thức thường xuyên cho đội ngũ cán bộ phụ trách quản lý nhà nước về hợp tác xã nông nghiệp đảm bảo thực hiện nhiệm vụ có hiệu quả.\n\n2.2. Về cơ chế, chính sách:\n\nCăn cứ nội dung Kế hoạch thực hiện Đề án 15.000 hợp tác xã để tập trung triển khai thực hiện hỗ trợ hợp tác xã nông nghiệp theo cơ chế, chính sách của Chính phủ liên quan đến phát triển hợp tác xã đã ban hành; Quyết định số 1747/QĐ-UBND ngày 13/9/2017 của Ủy ban nhân dân tỉnh; Đồng thời thực hiện lồng ghép các cơ chế, chính sách của tỉnh đã ban hành như: Hỗ trợ trồng cây có múi theo Quyết định số 11/2015/QĐ-UBND ngày 27/4/2015 của Ủy ban nhân dân tỉnh Hòa Bình về hỗ trợ phát triển sản xuất hàng hóa trong lĩnh vực trồng trọt (nay là Quyết định số 23/2017/QĐ-UBND ngày 02/8/2017); Đề án Cải tạo vườn tạp; Chương trình chăn nuôi cá lồng theo Quyết định số 10/2015/QĐ-UBND ngày 27/4/2015 của UBND tỉnh Hòa Bình, về việc Ban hành Quy định một số chính sách hỗ trợ khuyến khích phát triển nuôi cá lồng vùng hồ thủy điện Hòa Bình, giai đoạn 2015-2020.... và các chương trình, dự án khác.\n\nBố trí đủ nguồn lực của địa phương và tăng cường việc hướng dẫn tiếp cận chính sách để thực hiện hỗ trợ mạnh cho các hợp tác xã nông nghiệp.\n\n3\\. Đẩy mạnh công tác đào tạo, bồi dưỡng để nâng cao năng lực, trình độ của cán bộ hệ thống quản lý nhà nước, lực lượng hỗ trợ, lực lượng trực tiếp hoạt động ở các hợp tác xã và thành viên hợp tác xã\n\nTiếp tục triển khai, hướng dẫn thực hiện Luật Hợp tác xã và các văn bản dưới Luật để nâng cao nhận thức và năng lực cho cán bộ trong hệ thống quản lý nhà nước về hợp tác xã nông nghiệp nhằm thực hiện nhiệm vụ có hiệu quả.\n\nXây dựng hình thành đội ngũ chuyên gia tư vấn có đủ kinh nghiệm thực tiễn để hỗ trợ kỹ thuật cho các địa phương nhằm củng cố, kiện toàn và phát triển mới các hợp tác xã nông nghiệp.\n\nTập trung đào tạo, bồi dưỡng cho cán bộ và thành viên hợp tác xã nông nghiệp, đặc biệt là nâng cao năng lực về quản trị, xây dựng và thực hiện có hiệu quả phương án sản xuất kinh doanh, kỹ thuật ứng dụng công nghệ cao vào sản xuất nông nghiệp, kiến thức tiếp cận thị trường.\n\nKinh phí đào tạo, bồi dưỡng bố trí từ các nguồn vốn hỗ trợ của Trung ương và một phần ngân sách của địa phương; huy động từ các nguồn xã hội hóa.\n\n4\\. Tăng cường sự phối hợp giữa hợp giữa Sở Nông nghiệp và Phát triển nông thôn với Liên Minh Hợp tác xã, Hội Nông dân tỉnh và các Ban, ngành, đoàn thể liên quan trong thực hiện Đề án 15.000 hợp tác xã\n\nXây dựng Chương trình phối hợp liên tịch giữa 03 cơ quan _(Sở Nông nghiệp và Phát triển nông thôn - Liên minh Hợp tác xã tỉnh - Hội Nông dân tỉnh)_, trong đó có việc thực hiện nhiệm vụ Kế hoạch thực hiện Đề án phát triển 15.000 hợp tác xã, liên hiệp hợp tác xã hoạt động có hiệu quả. Đặc biệt tập trung nguồn lực để xây dựng các mô hình điểm có huy động nguồn lực của cả 03 đơn vị, trên cơ sở đó thực hiện tổng kết và nhân rộng.\n\nNgoài ra, phối hợp chặt chẽ với Mặt trận tổ quốc Việt Nam và các đoàn thể chính trị - xã hội khác trong việc tuyên truyền, vận động hội viên, đoàn viên tham gia tích cực trong phong trào phát triển hợp tác xã; đào tạo bồi dưỡng nâng cao năng lực cho các hội viên là thành viên hợp tác xã; tổ chức xây dựng các mô hình hợp tác xã điển hình; có giải pháp tạo điều kiện thuận lợi cho hợp tác xã có thành viên là hội viên phát triển.\n\n5\\. Huy động nguồn lực để hỗ trợ có hiệu quả cho hợp tác xã nông nghiệp\n\n5.1. Kinh phí huy động từ hỗ trợ của Nhà nước theo chính sách:\n\n\\- Nguồn hỗ trợ phát triển hợp tác xã tại Quyết định số 2261/QĐ-TTg ngày 22/4/2017 _(thực hiện chính sách hỗ trợ tại Nghị định số 193/2013/NĐ-CP ngày 21/11/2013)_ để hỗ trợ: Đầu tư phát triển kết cấu hạ tầng; chế biến sản phẩm; đào tạo, bồi dưỡng cán bộ hợp tác xã và đưa cán bộ trẻ có trình độ về hợp tác xã; ứng dụng khoa học, kỹ thuật và công nghệ mới; thành lập mới hợp tác xã.\n\n\\- Nguồn vốn Chương trình Mục tiêu quốc gia xây dựng nông thôn mới tại Quyết định số 1600/QĐ-TTg ngày 16/8/2016 để hỗ trợ: ứng dụng khoa học công nghệ, công nghệ cao vào sản xuất nông nghiệp; liên kết chuỗi giá trị giữa hợp tác xã với doanh nghiệp _(chính sách theo Nghị định số 98/2018/NĐ-CP ngày 05/7/2018)_; đổi mới tổ chức sản xuất trong nông nghiệp; đào tạo nghề cho lao động nông thôn _(chính sách theo Quyết định số 1956/QĐ-TTg ngày 27/11/2009 và số 971/QĐ-TTg ngày 01/7/2015; Nghị định số 61/2015/NĐ-CP ngày 09/07/2015)_.\n\n\\- Chương trình mục tiêu Tái cơ cấu kinh tế nông nghiệp và phòng chống giảm nhẹ thiên tai và ổn định đời sống dân cư hỗ trợ phát triển hợp tác xã nông nghiệp theo Quyết định số 923/QĐ-TTg ngày 28/6/2017.\n\n\\- Chương trình khuyến nông quốc gia hỗ trợ cho đào tạo, bồi dưỡng cán bộ, thành viên hợp tác xã và xây dựng các mô hình khuyến nông ứng dụng công nghệ cao trong hợp tác xã nông nghiệp.\n\n\\- Hỗ trợ thuê đất phục vụ hoạt động của hợp tác xã và hỗ trợ đầu tư phát triển kết cấu hạ tầng để hợp tác xã thực hiện các dịch vụ công ích, tiêu thụ sản phẩm gắn với chuỗi giá trị _(Nghị định số 107/2017/NĐ-CP ngày 15/9/2017)_; hỗ trợ bảo hiểm nông nghiệp _(Nghị định số 58/2018/NĐ-CP ngày 18/4/2018)_.\n\n\\- Hỗ trợ thu hút, khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn để liên kết với hợp tác xã _(Nghị định số 57/2017/NĐ-CP ngày 03/5/2018)._\n\n\\- Các Chương trình hỗ trợ theo chuyên ngành như: Thủy lợi phí _(ưu tiên hợp tác xã tham gia hoạt động quản lý, khai thác công trình thủy lợi nhỏ, thủy lợi nội đồng theo quy định của Luật Thủy lợi và Nghị định số 67/2018/NĐ-CP ngày 14/5/2018)_; hỗ trợ đầu tư, bảo vệ và phát triển rừng _(theo Quyết định số 38/2016/QĐ-TTg ngày 14/9/2016 của Thủ tướng Chính phủ)_; hỗ trợ phát triển thủy sản _(theo Nghị định số 67/2014/NĐ-CP ngày 07/7/2014 và Nghị định số 89/2015/NĐ-CP ngày 07/10/2015)_.\n\n5.2. Huy động các nguồn lực từ các tổ chức quốc tế thông qua diễn đàn nông dân hợp tác và các chương trình tài trợ cho hợp tác xã nông nghiệp.\n\n5.3. Nguồn vốn từ Quỹ Hỗ trợ phát triển hợp tác xã, Quỹ Hỗ trợ nông dân và các tổ chức tín dụng, trong đó có hỗ trợ theo chính sách tín dụng phục vụ phát triển nông nghiệp nông thôn _(Nghị định số 55/2015/NĐ-CP ngày 09/6/2015)_ để các hợp tác xã tiếp cận các nguồn hỗ trợ đầu tư phát triển sản xuất kinh doanh.\n\n5.4. Vốn của doanh nghiệp tham gia liên kết, vốn đối ứng của các hợp tác xã đầu tư phát triển sản xuất và các nguồn vốn hợp pháp khác.\n\n**IV. TỔ CHỨC THỰC HIỆN**\n\n1\\. Sở Nông nghiệp và Phát triển nông thôn\n\n\\- Chủ trì, hướng dẫn, theo dõi, đôn đốc các địa phương và kiểm tra thực hiện Kế hoạch; sơ kết, tổng kết việc thực hiện Kế hoạch và tổng hợp báo cáo Ủy ban nhân dân tỉnh kết quả thực hiện hàng năm và kết thúc giai đoạn.\n\n\\- Phối hợp với Liên minh Hợp tác xã tỉnh, Hội Nông dân tỉnh và các đoàn thể chính trị - xã hội xây dựng Chương trình phối hợp thống nhất từ tỉnh đến địa phương, trong đó phân công nhiệm vụ cụ thể để triển khai thực hiện các nhiệm vụ trong Đề án 15.000 hợp tác xã.\n\n2\\. Liên minh Hợp tác xã tỉnh\n\n\\- Bổ sung nội dung của Kế hoạch số 6390/KH-KTHT, ngày 17/8/2018 của Bộ Nông nghiệp và Phát triển nông thôn, về việc Kế hoạch liên kết sản xuất và tiêu thụ sản phẩm nông nghiệp giữa HTX, Liên hiệp HTX nông nghiệp với các doanh nghiệp đến năm 2020 cho phù hợp vào Kế hoạch phát triển hợp tác xã kiểu mới liên kết sản xuất tiêu thụ theo chuỗi giá trị sản phẩm nông nghiệp chủ lực quy mô lớn, có sức lan tỏa trên địa bàn tỉnh giai đoạn 2018-2025 cho phù hợp với tình hình địa phương.\n\n\\- Phối hợp với Sở Nông nghiệp và Phát triển nông thôn để triển khai các nhiệm vụ được giao trong Kế hoạch thực hiện Đề án 15.000 hợp tác xã và thống nhất sơ kết, tổng kết, rút kinh nghiệm.\n\n\\- Ưu tiên nguồn vốn vay ưu đãi từ Quỹ hỗ trợ phát triển hợp tác xã của Trung ương và của tỉnh trong việc tạo điều kiện cho các hợp tác xã nông nghiệp tiếp cận được nguồn vốn vay ưu đãi để phát triển sản xuất kinh doanh.\n\n3\\. Các Sở: Kế hoạch và Đầu tư, Tài chính\n\n\\- Sở Kế hoạch và Đầu tư: Chủ trì, phối hợp với Sở Tài chính bố trí, hướng dẫn kinh phí đầu tư trung hạn và hàng năm để tổ chức thực hiện kế hoạch.\n\n\\- Sở Tài chính: Trên cơ sở đề xuất của các Sở, Ban, ngành và các địa phương, hàng năm Sở Tài chính phối hợp với Sở Kế hoạch và Đầu tư tổng hợp kinh phí thực hiện đề án, căn cứ khả năng ngân sách, trình cấp có thẩm quyền phê duyệt theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn việc sử dụng và thanh quyết toán kinh phí hỗ trợ trong kế hoạch thực hiện “Đề án 15.000 hợp tác xã”.\n\n4\\. Hội Nông dân tỉnh\n\n\\- Chỉ đạo Hội Nông dân các huyện, thành phố và các Quỹ Hỗ trợ nông dân để thực hiện ưu tiên hỗ trợ cho các thành viên hợp tác xã nông nghiệp tiếp cận được nguồn hỗ trợ nhằm phát triển sản xuất kinh doanh.\n\n\\- Vận động các chủ trang trại, nông dân sản xuất giỏi là hội viên Hội Nông dân tham gia tích cực vào phong trào phát triển hợp tác xã; đào tạo, bồi dưỡng nâng cao năng lực, trình độ sản xuất cho thành viên hợp tác xã, chủ trang trại, nông dân sản xuất giỏi là hội viên của Hội Nông dân.\n\n\\- Chỉ đạo Hội Nông dân các huyện, thành phố phối hợp chặt chẽ với phòng Nông nghiệp và Phát triển nông thôn các huyện, phòng Kinh tế thành phố trong quá trình triển khai Kế hoạch này, thường xuyên sơ, tổng kết rút kinh nghiệm nhân rộng mô hình tại địa phương.\n\n5\\. Mặt trận tổ quốc và các đoàn thể chính trị - xã hội khác\n\n\\- Hướng dẫn chỉ đạo Ủy ban MTTQ Việt Nam tỉnh và các tổ chức Chính trị - xã hội các cấp trong toàn tỉnh phối hợp chặt chẽ với Phòng Nông nghiệp và Phát triển nông thôn huyện, phòng Kinh tế thành phố và cơ sở trong quá trình triển khai Kế hoạch thực hiện Đề án 15.000 hợp tác xã tại địa phương.\n\n\\- Căn cứ chức năng, nhiệm vụ để tổ chức tuyên truyền đến các hội viên, đoàn viên tham gia xây dựng mô hình hợp tác xã nông nghiệp hiệu quả; vận động hội viên thành lập mới các hợp tác xã nông nghiệp; phát động những phong trào thi đua trong tổ chức hội, đoàn để phát triển hợp tác xã nông nghiệp.\n\n6\\. Ủy ban nhân dân các huyện, thành phố\n\n\\- Đẩy mạnh công tác tuyên truyền, vận động để thành lập mới và củng cố, phát triển hợp tác xã hoạt động có hiệu quả. Phấn đấu đến năm 2020 thành lập mới 45 hợp tác xã trong nông nghiệp và nâng cao chất lượng hoạt động các hợp tác xã nông nghiệp để đạt chỉ tiêu trên 203 hợp tác xã nông nghiệp hoạt động có hiệu quả _(chi tiết tại phụ biểu đính kèm)_.\n\n\\- Căn cứ nhiệm vụ tại Kế hoạch năm và tình hình cụ thể của địa phương để xây dựng Kế hoạch hành động cụ thể của địa phương cho phù hợp.\n\n\\- Củng cố, kiện toàn các Ban chỉ đạo kinh tế tập thể và cơ quan tham mưu quản lý nhà nước về hợp tác xã nông nghiệp các cấp ở địa phương để đáp ứng yêu cầu trong việc tổ chức thực hiện Kế hoạch phát triển hợp tác xã trong lĩnh vực nông nghiệp.\n\n\\- Bố trí nguồn kinh phí của địa phương và huy động các nguồn lực hợp pháp để triển khai thực hiện Kế hoạch của tỉnh, hỗ trợ hợp tác xã theo yêu cầu phát triển ở địa phương.\n\n\\- Thực hiện sơ kết, tổng kết và tổng hợp báo cáo Sở Nông nghiệp và Phát triển nông thôn kết quả thực hiện hàng năm và kết thúc giai đoạn theo yêu cầu.\n\nỦy ban nhân dân tỉnh yêu cầu các Sở: Nông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường, Kế hoạch và Đầu tư, Tài chính, Xây dựng, Giao thông vận tải, Khoa học và Công nghệ, Thông tin Truyền thông; Chủ tịch Liên minh hợp tác xã tỉnh, Giám đốc Đài Phát thanh và Truyền hình tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thành phố và các Sở, Ban, ngành, các cơ quan, đơn vị liên quan triển khai thực hiện Kế hoạch này. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, kịp thời thông tin về Sở Nông nghiệp và Phát triển nông thôn để phối hợp với các cơ quan liên quan thống nhất, báo cáo Ủy ban nhân dân tỉnh./.\n\n**_  \nNơi nhận:  \n_**\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- Ủy ban MTTQ VN tỉnh;  \n\\- Chủ tịch, các Phó Chủ tịch UBND tỉnh;  \n\\- Các Sở, Ban, ngành;  \n\\- Hội Nông dân tỉnh;  \n\\- Hội Phụ nữ tỉnh;  \n\\- Hội Cựu chiến binh tỉnh;  \n\\- UBND các huyện, thành phố;  \n\\- Chánh, Phó VPUBND tỉnh;  \n\\- Chánh Văn phòng UBND tỉnh;  \n\\- Lưu: VT, NNTN (BD60).\n\n**TM. ỦY BAN NHÂN DÂN  \n****KT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Văn Dũng**\n\n**CHỈ TIÊU SỐ LƯỢNG HTX NÔNG NGHIỆP ĐẾN NĂM 2020**\n\n_(Ban hành kèm theo Kế hoạch số 142/UBND-NNTN ngày 07 tháng 11 năm 2018 của Ủy ban nhân dân tỉnh)_\n\n**TT**\n\n**Huyệ****n, thành phố**\n\n**Thực trạng số HTX đang hoạt động đến 30/9/2018**\n\n**Kế hoạch HTX hoạt động có hiệu quả đến năm 2020**\n\nSố HTX đến 30/9/2018\n\nSố HTX hoạt động có hiệu quả\n\nSố HTX hoạt động chưa hiệu quả\n\nSố HTX thành lập mới đến 30/9/2018\n\nSố HTX ngừng hoạt động\n\nSố HTX thành lập mới đến 2020\n\nHTX hoạt động có hiệu quả đến năm 2020\n\n**Toàn tỉnh**\n\n**194**\n\n**65**\n\n**57**\n\n**64**\n\n**8**\n\n**45**\n\n**203**\n\n1\n\nĐà Bắc\n\n16\n\n6\n\n3\n\n7\n\n6\n\n14\n\n2\n\nYên Thủy\n\n19\n\n8\n\n7\n\n3\n\n1\n\n2\n\n20\n\n3\n\nTân Lạc\n\n12\n\n3\n\n3\n\n6\n\n7\n\n14\n\n4\n\nLạc Sơn\n\n16\n\n4\n\n5\n\n5\n\n2\n\n7\n\n18\n\n5\n\nKỳ Sơn\n\n8\n\n2\n\n2\n\n3\n\n1\n\n2\n\n8\n\n6\n\nCao Phong\n\n18\n\n7\n\n6\n\n3\n\n2\n\n3\n\n19\n\n7\n\nLương Sơn\n\n28\n\n3\n\n7\n\n18\n\n4\n\n25\n\n8\n\nMai Châu\n\n9\n\n1\n\n4\n\n4\n\n4\n\n12\n\n9\n\nKim Bôi\n\n22\n\n12\n\n4\n\n6\n\n5\n\n25\n\n10\n\nThành phố\n\n15\n\n4\n\n1\n\n8\n\n2\n\n2\n\n15\n\n11\n\nLạc Thủy\n\n31\n\n15\n\n15\n\n1\n\n3\n\n33",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

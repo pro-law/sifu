@@ -1,0 +1,595 @@
+{
+  "title": "Quyết định 13/2023/QĐ-UBND quy định cung cấp thông tin, tổ chức quản lý và hoạt động của Cổng thông tin điện tử tỉnh Bắc Giang và Cổng thông tin điện tử thành phần",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 36/2019/QĐ-UBND về Quy chế tổ chức, quản lý hoạt động Cổng thông tin điện tử tỉnh Bắc Giang và các Cổng thông tin điện tử thành phần",
+      "id": "36/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Dương Văn Thái"
+      ],
+      "issuedDate": "2019-12-31",
+      "effectiveDate": "2020-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/05/2023"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 47/2022/QĐ-UBND về Quy chế Quản lý, khai thác, sử dụng dữ liệu của cơ sở dữ liệu trên địa bàn tỉnh Bắc Giang",
+      "id": "47/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Mai Sơn"
+      ],
+      "issuedDate": "2022-10-28",
+      "effectiveDate": "2022-11-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 22/2019/QĐ-UBND quy định về chế độ báo cáo định kỳ thực hiện trên địa bàn tỉnh Bắc Giang",
+      "id": "22/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Lại Thanh Sơn"
+      ],
+      "issuedDate": "2019-09-11",
+      "effectiveDate": "2019-09-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật thống kê 2015",
+      "id": "89/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-23",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1241 đến số 1242",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật kế toán 2015",
+      "id": "88/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-20",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1241 đến số 1242",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật khoa học và công nghệ năm 2013",
+      "id": "29/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-06-18",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-07-12",
+      "gazetteNumber": "Từ số 405 đến số 406",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 24/2011/TT-BTTTT quy định về việc tạo lập, sử dụng và lưu trữ dữ liệu đặc tả trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "24/2011/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2011-09-20",
+      "effectiveDate": "2011-11-15",
+      "gazetteDate": "2011-10-08",
+      "gazetteNumber": "Từ số 521 đến số 522",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Phòng, chống bệnh truyền nhiễm 2007",
+      "id": "03/2007/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2007-11-21",
+      "effectiveDate": "2008-07-01",
+      "gazetteDate": "2008-01-13",
+      "gazetteNumber": "Từ số 27 đến số 28",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 12/2022/TT-BTTTT hướng dẫn Nghị định 85/2016/NĐ-CP về bảo đảm an toàn hệ thống thông tin theo cấp độ do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "12/2022/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2022-08-12",
+      "effectiveDate": "2022-10-01",
+      "gazetteDate": "2022-08-28",
+      "gazetteNumber": "Từ số 705 đến số 706",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 42/2022/NĐ-CP quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan Nhà nước trên môi trường mạng",
+      "id": "42/2022/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2022-06-24",
+      "effectiveDate": "2022-08-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 26/2020/TT-BTTTT quy định về việc áp dụng tiêu chuẩn, công nghệ hỗ trợ người khuyết tật tiếp cận, sử dụng sản phẩm, dịch vụ thông tin và truyền thông do Bộ Thông tin và Truyền thông ban hành",
+      "id": "26/2020/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2020-09-23",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "2020-10-11",
+      "gazetteNumber": "Từ số 943 đến số 944",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật sửa đổi 2020",
+      "id": "63/2020/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2020-06-18",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "2020-07-23",
+      "gazetteNumber": "Từ số 711 đến số 712",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 32/2017/TT-BTTTT về quy định cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "32/2017/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Trương Minh Tuấn"
+      ],
+      "issuedDate": "2017-11-15",
+      "effectiveDate": "2018-06-01",
+      "gazetteDate": "2017-12-22",
+      "gazetteNumber": "Từ số 1041 đến số 1042",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 09/2017/NĐ-CP quy định phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước",
+      "id": "09/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-02-09",
+      "effectiveDate": "2017-03-30",
+      "gazetteDate": "2017-02-19",
+      "gazetteNumber": "Từ số 147 đến số 148",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 85/2016/NĐ-CP về bảo đảm an toàn hệ thống thông tin theo cấp độ",
+      "id": "85/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-01",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-08-02",
+      "gazetteNumber": "Từ số 805 đến số 806",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tiếp cận thông tin 2016",
+      "id": "104/2016/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-04-06",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2016-05-19",
+      "gazetteNumber": "Từ số 341 đến số 342",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Báo chí 2016",
+      "id": "103/2016/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-04-05",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2016-05-18",
+      "gazetteNumber": "Từ số 339 đến số 340",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn thông tin mạng 2015",
+      "id": "86/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1239 đến số 1240",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 09/2014/TT-BTTTT về quy định chi tiết hoạt động quản lý, cung cấp, sử dụng thông tin trên trang thông tin điện tử và mạng xã hội của Bộ Thông tin và Truyền thông",
+      "id": "09/2014/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Bắc Son"
+      ],
+      "issuedDate": "2014-08-19",
+      "effectiveDate": "2014-10-03",
+      "gazetteDate": "2014-09-22",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 72/2013/NĐ-CP về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng",
+      "id": "72/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-15",
+      "effectiveDate": "2013-09-01",
+      "gazetteDate": "2013-07-31",
+      "gazetteNumber": "Từ số 443 đến số 444",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quảng cáo 2012",
+      "id": "16/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-21",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-08-06",
+      "gazetteNumber": "Từ số 481 đến số 482",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 25/2010/TT-BTTTT quy định việc thu thập, sử dụng, chia sẻ, đảm bảo an toàn và bảo vệ thông tin cá nhân trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "25/2010/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2010-11-15",
+      "effectiveDate": "2011-01-01",
+      "gazetteDate": "2010-12-03",
+      "gazetteNumber": "Từ số 711 đến số 712",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 28/2023/QĐ-UBND hướng dẫn về tổ chức và hoạt động của thôn, tổ dân phố trên địa bàn tỉnh Gia Lai",
+      "id": "28/2023/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Trương Hải Long"
+      ],
+      "issuedDate": "2023-07-11",
+      "effectiveDate": "2023-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 586/QĐ-UBND năm 2023 về thiết lập và ban hành Quy chế quản lý, vận hành và cung cấp thông tin trên Trang thông tin điện tử Lịch sử Cao Bằng",
+      "id": "586/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Cao Bằng",
+      "signers": [
+        "Trịnh Trường Huy"
+      ],
+      "issuedDate": "2023-05-25",
+      "effectiveDate": "2023-05-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 458/QĐ-UBND năm 2023 về Quy chế tổ chức và quản lý hoạt động của Cổng Thông tin điện tử tỉnh Sơn La",
+      "id": "458/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Quốc Khánh"
+      ],
+      "issuedDate": "2023-03-30",
+      "effectiveDate": "2023-03-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 05/2023/QĐ-UBND về Quy chế tổ chức và quản lý hoạt động của Cổng thông tin điện tử tỉnh Quảng Ninh",
+      "id": "05/2023/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Cao Tường Huy"
+      ],
+      "issuedDate": "2023-02-16",
+      "effectiveDate": "2023-03-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 28/2021/QĐ-UBND sửa đổi, bổ sung Quyết định 13/2019/QĐ-UBND Quy chế hoạt động của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử tỉnh Bình Phước",
+      "id": "28/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Trần Tuệ Hiền"
+      ],
+      "issuedDate": "2021-08-06",
+      "effectiveDate": "2021-08-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "13/2023/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin"
+  ],
+  "organization": "Tỉnh Bắc Giang",
+  "signers": [
+    "Mai Sơn"
+  ],
+  "issuedDate": "2023-05-09",
+  "effectiveDate": "2023-05-20",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH BẮC GIANG<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  13/2023/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bắc Giang, ngày\n  09 tháng 5 năm 2023 </i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b> </b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">BAN HÀNH QUY ĐỊNH CUNG CẤP THÔNG TIN, TỔ CHỨC QUẢN LÝ VÀ\nHOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ TỈNH BẮC GIANG VÀ CỔNG THÔNG TIN ĐIỆN TỬ\nTHÀNH PHẦN</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH BẮC GIANG</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tổ chức chính\nquyền địa phương ngày 19 tháng 6 năm 2015; Luật Sửa đổi, bổ sung một số điều của\nLuật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11\nnăm 2019;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Ban hành văn bản\nquy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật Sửa đổi, bổ sung một số điều\ncủa Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Công nghệ thông\ntin ngày 29 tháng 6 năm 2006; Căn cứ Luật Quảng cáo ngày 21 tháng 6 năm 2012;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật An toàn thông\ntin mạng ngày 19 tháng 11 năm 2015;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tiếp cận thông\ntin ngày 06 tháng 4 năm 2016; Căn cứ Luật Báo chí ngày 05 tháng 4 năm 2016;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 64/2007/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-64-2007-nd-cp-ung-dung-cong-nghe-thong-tin-trong-co-quan-nha-nuoc-18234.aspx\">64/2007/NĐ-CP</a>  ngày 10 tháng 4 năm 2007 của Chính phủ Ứng dụng Công nghệ thông\ntin trong hoạt động cơ quan Nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 72/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-72-2013-nd-cp-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-201110.aspx\">72/2013/NĐ-CP</a>  ngày 15 tháng 7 năm 2013 của Chính phủ Quản lý, cung cấp, sử dụng\ndịch vụ Internet và thông tin trên mạng;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 85/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx\">85/2016/NĐ-CP</a>  ngày 01 tháng 7 năm 2016 của Chính phủ Về bảo đảm an toàn hệ thống\nthông tin theo cấp độ;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 09/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-09-2017-nd-cp-phat-ngon-cung-cap-thong-tin-cho-bao-chi-cua-cac-co-quan-hanh-chinh-nha-nuoc-320096.aspx\">09/2017/NĐ-CP</a> \nngày 09 tháng 02 năm 2017 của Chính phủ Quy định chi tiết việc phát ngôn và\ncung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a>  ngày 24 tháng 6 năm 2022 của Chính phủ Quy định về việc cung cấp\nthông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 09/2014/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-09-2014-tt-btttt-quan-ly-cung-cap-su-dung-thong-tin-trang-thong-tin-dien-tu-mang-xa-hoi-246351.aspx\">09/2014/TT-BTTTT</a>  ngày 19 tháng 8 năm 2014 của Bộ trưởng Bộ Thông tin và Truyền\nthông Quy định chi tiết về hoạt động quản lý, cung cấp, sử dụng thông tin trên\ntrang thông tin điện tử và mạng xã hội;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 12/2022/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-12-2022-tt-btttt-huong-dan-nghi-dinh-85-2016-nd-cp-an-toan-he-thong-thong-tin-526291.aspx\">12/2022/TT-BTTTT</a>  ngày 12 tháng 8 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền\nthông Quy định chi tiết và hướng dẫn một số điều</i> <i>của Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 85/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx\">85/2016/NĐ-CP</a>  ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống\nthông tin theo cấp độ;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 25/2010/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-25-2010-tt-btttt-thu-thap-su-dung-chia-se-dam-bao-an-toan-114735.aspx\">25/2010/TT-BTTTT</a>  ngày 15 tháng 11 năm 2010 của Bộ trưởng Bộ Thông tin và Truyền\nthông Quy định về việc thu thập, sử dụng, chia sẻ, đảm bảo an toàn và bảo vệ\nthông tin cá nhân trên trang thông tin điện tử hoặc Cổng thông tin điện tử của\ncơ quan nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 32/2017/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-32-2017-tt-btttt-cung-cap-bao-dam-kha-nang-truy-cap-thuan-tien-trang-thong-tin-dien-tu-341078.aspx\">32/2017/TT-BTTTT</a>  ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền\nthông Quy định về việc cung cấp dịch vụ công trực tuyến và đảm bảo khả năng\ntruy cập thuận tiện đối với trang thông tin điện tử hoặc Cổng thông tin điện tử\ncủa cơ quan nhà nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 26/2020/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-26-2020-tt-btttt-ap-dung-cong-nghe-ho-tro-nguoi-khuyet-tat-tiep-can-san-pham-thong-tin-453691.aspx\">26/2020/TT-BTTTT</a>  ngày 23 tháng 9 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền\nthông Quy định việc áp dụng tiêu chuẩn, công nghệ hỗ trợ người khuyết tật tiếp\ncận, sử dụng công nghệ thông tin và truyền thông;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Theo đề nghị của Giám đốc\nSở Thông tin và Truyền thông tại Tờ trình số 24/TTr-STTTT ngày 17 tháng 4 năm\n2023.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1. </b>Ban\nhành kèm theo Quyết định này Quy định cung cấp thông tin, tổ chức quản lý và\nhoạt động của Cổng thông tin điện tử tỉnh Bắc Giang và Cổng thông tin điện tử\nthành phần.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>Điều 2. </b>Quyết\nđịnh này có hiệu lực kể từ ngày 20 tháng 5 năm 2023 và thay thế Quyết định số</a>\n<a class=\"text-blue\" target=\"_blank\" title=\"36/2019/QĐ-UBND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=36/2019/QĐ-UBND&amp;match=True&amp;area=2&amp;lan=1\">36/2019/QĐ-UBND</a>  <a name=\"dieu_2_name\">ngày 31 tháng 12 năm 2019 của UBND tỉnh\nBắc Giang ban hành Quy chế tổ chức, quản lý hoạt động Cổng thông tin điện tử tỉnh\nBắc Giang và các Cổng thông tin điện tử thành phần.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>Điều 3. </b>Giám\nđốc sở, Thủ trưởng cơ quan thuộc UBND tỉnh; Chủ tịch UBND huyện, thành phố; Chủ\ntịch UBND xã, phường, thị trấn và các tổ chức, cá nhân có liên quan chịu\ntrách nhiệm thi hành Quyết định này./.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như Điều 3;<br>\n  - Văn phòng Chính phủ;<br>\n  - Vụ Pháp chế - Bộ Thông tin và Truyền thông;<br>\n  - Cục Kiểm tra VBQPPL - Bộ Tư pháp;<br>\n  - TT Tỉnh ủy, TT HĐND tỉnh;<br>\n  - Đoàn ĐBQH tỉnh;<br>\n  - Ủy ban MTTQVN và các tổ chức CT-XH tỉnh;<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - VP UBND tỉnh: LĐVP, các phòng, TTTT (<i>để t/h</i>);<br>\n  - Lưu: VT, KGVX.Cường.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN <br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Mai Sơn</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_2_name\">CUNG CẤP THÔNG TIN, TỔ CHỨC QUẢN LÝ VÀ HOẠT ĐỘNG CỦA CỔNG\nTHÔNG TIN ĐIỆN TỬ TỈNH BẮC GIANG VÀ CỔNG THÔNG TIN ĐIỆN TỬ THÀNH PHẦN<br>\n</a><i>(Kèm theo Quyết định số 13/2023/QĐ-UBND ngày 09 tháng 5 năm 2023 của Ủy\nban nhân dân tỉnh Bắc Giang)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>Điều 1.\nPhạm vi điều chỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Quy định này quy định về nội\ndung, nguyên tắc, trách nhiệm và cơ chế phối hợp trong cung cấp thông tin, tổ\nchức quản lý và hoạt động của Cổng thông tin điện tử tỉnh Bắc Giang và Cổng\nthông tin điện tử thành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>Điều 2. Đối\ntượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Quy định này áp dụng cho\ncác sở, cơ quan thuộc UBND tỉnh; UBND huyện, thành phố; UBND xã, phường, thị\ntrấn trên địa bàn tỉnh (sau đây viết tắt là các cơ quan, đơn vị).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Tổ chức, cá nhân tham gia\ncung cấp, khai thác và sử dụng thông tin, dữ liệu, dịch vụ trên Cổng thông\ntin điện tử tỉnh và Cổng thông tin điện tử thành phần theo quy định pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3_1\"><b>Điều 3.\nGiải thích từ ngữ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong Quy định này, các từ ngữ\ndưới đây được hiểu như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Cổng thông tin điện tử tỉnh\nBắc Giang (sau đây viết tắt là Cổng TTĐT tỉnh) là kênh cung cấp thông tin\nchính thức, thống nhất, tập trung về hoạt động của các cơ quan, đơn vị trên\nmôi trường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Cổng thông tin điện tử thành\nphần (sau đây viết tắt là Cổng thành phần) là Cổng thông tin điện tử của các\ncơ quan, đơn vị. Cổng thành phần trực thuộc Cổng TTĐT tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Hạ tầng kỹ thuật của Cổng\nTTĐT tỉnh và Cổng thành phần gồm có trang thiết bị, máy chủ, hệ thống mạng, hệ\nthống phần mềm ứng dụng Cổng TTĐT tỉnh và Cổng thành phần. Hạ tầng kỹ thuật của\nCổng TTĐT tỉnh và Cổng thành phần được đặt tại Trung tâm Tích hợp dữ liệu của\ntỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Người quản trị vận hành Cổng\nTTĐT là người quản trị vận hành về hạ tầng kỹ thuật và về nội dung của Cổng\nTTĐT tỉnh và Cổng thành phần. Người quản trị vận hành hạ tầng kỹ thuật Cổng\nTTĐT tỉnh và Cổng thành phần do công chức hoặc viên chức thuộc quản lý của Sở\nThông tin và Truyền thông thực hiện; người quản trị vận hành về nội dung Cổng\nTTĐT tỉnh do công chức hoặc viên chức thuộc quản lý của Văn phòng UBND tỉnh;\nngười quản trị vận hành về nội dung Cổng thành phần do công chức hoặc viên chức\nthuộc quản lý của của cơ quan, đơn vị thực hiện.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Kênh cung cấp thông tin là\nkênh giao tiếp trên môi trường mạng của cơ quan nhà nước được quy định tại khoản\n9 Điều 3 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a>  ngày 24/6/2022 của Chính phủ Quy định về việc\ncung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi\ntrường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>Điều 4. Quy\nđịnh tên miền cho Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Tên miền của Cổng TTĐT tỉnh và\nCổng thành phần sử dụng tên miền quốc gia Việt Nam “.vn” và sử dụng công nghệ địa\nchỉ Internet IPv6, tuân thủ theo quy tắc sau đây:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Cổng TTĐT tỉnh sử dụng tên\nmiền cấp 3 của Việt Nam, là tên đầy đủ của tỉnh, bằng tiếng Việt không dấu\ntheo dạng: bacgiang.gov.vn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Cổng TTĐT của các cơ quan\nchuyên môn thuộc UBND tỉnh có tên miền cấp 4 là tên viết tắt của cơ quan bằng\ntiếng Việt không dấu, không khoảng trống theo dạng: tencoquan.bacgiang.gov.vn,\ntrong đó tencoquan là tên viết tắt hoặc tên đầy đủ của cơ quan chuyên môn bằng\ntiếng Việt không dấu hoặc tiếng Anh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Cổng TTĐT của UBND cấp huyện\ncó tên miền cấp 4 sử dụng tên đầy đủ của địa phương bằng tiếng Việt không\ndấu, không khoảng trống theo dạng: tenhuyen.bacgiang.gov.vn; tên miền Cổng\nthành phần là Cổng thông tin điện tử thành phố Bắc Giang là:\ntpbacgiang.bacgiang.gov.vn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Cổng TTĐT của UBND xã, phường,\nthị trấn sử dụng tên miền cấp 5 theo dạng:\ntenphuongxa.tenhuyen.bacgiang.gov.vn, trong đó tenphuongxa là tên đầy đủ của\nxã, phường, thị trấn bằng tiếng Việt không dấu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Tên miền Cổng TTĐT tỉnh và Cổng\nthành phần do Sở Thông tin và Truyền thông quản lý, cung cấp theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CỤ THỂ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1_2\"><b>Mục 1.\nCUNG CẤP THÔNG TIN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>Điều 5.\nCung cấp thông tin trên Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Nội dung thông tin cung cấp\ntrên Cổng TTĐT tỉnh và Cổng thành phần </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Thông tin theo quy định tại\nĐiều 4 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> ; các thông tin khác theo yêu cầu của Chủ tịch\nUBND tỉnh và theo các văn bản pháp luật khác có liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Cung cấp thông tin bằng tiếng\nnước ngoài theo quy định tại khoản 2 Điều 7 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Thông tin kết nối, tích\nhợp, chia sẻ dữ liệu từ các hệ thống khác theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Nguyên tắc cung cấp thông tin\ntrên Cổng TTĐT tỉnh và Cổng thành phần </p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Kênh cung cấp thông tin\nđược thực hiện theo quy định tại Điều 5 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Việc kết nối, tích hợp,\nchia sẻ thông tin, dữ liệu trên Cổng TTĐT tỉnh và Cổng thành phần thực hiện\ntheo quy định tại Điều 9 Nghị định số 42/2022/NĐ- CP và Điều 9 Quy chế Quản lý,\nkhai thác, sử dụng dữ liệu của cơ sở dữ liệu trên địa bàn tỉnh Bắc Giang ban\nhành theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"47/2022/QĐ-UBND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=47/2022/QĐ-UBND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=28/10/2022&amp;eday=28/10/2022\">47/2022/QĐ-UBND</a>  ngày 28/10/2022 của Uỷ ban nhân dân tỉnh\nBắc Giang.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Thông tin cung cấp trên Cổng\nthông tin điện tử phải tuân thủ các quy định của pháp luật về bảo vệ bí mật\nnhà nước, báo chí, sở hữu trí tuệ và quản lý thông tin trên Internet và các\nquy định pháp luật khác có liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Cổng TTĐT tỉnh và Cổng thành\nphần phải đáp ứng các tiêu chuẩn hỗ trợ người khuyết tật theo Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 26/2020/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-26-2020-tt-btttt-ap-dung-cong-nghe-ho-tro-nguoi-khuyet-tat-tiep-can-san-pham-thong-tin-453691.aspx\">26/2020/TT-BTTTT</a>  ngày 23/9/2020 của Bộ trưởng Bộ Thông tin và Truyền thông Quy\nđịnh việc áp dụng tiêu chuẩn, công nghệ hỗ trợ người khuyết tật tiếp cận, sử\ndụng sản phẩm, dịch vụ thông tin và truyền thông.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Việc tạo lập, sử dụng và lưu\ntrữ dữ liệu đặc tả trên Cổng TTĐT tỉnh và Cổng thành phần thực hiện theo quy định\ntại khoản 11 Điều 3 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> , các quy định kỹ thuật cụ thể\nthực hiện theo Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 24/2011/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-24-2011-tt-btttt-tao-lap-su-dung-va-luu-tru-du-lieu-dac-ta-129602.aspx\">24/2011/TT-BTTTT</a>  ngày 20/09/2011 của Bộ trưởng Bộ\nThông tin và Truyền thông Quy định về việc tạo lập, sử dụng và lưu trữ dữ liệu\nđặc tả trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà\nnước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>Điều 6. Các\nchức năng trên Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Cổng TTĐT tỉnh và Cổng thành\nphần phải có các chức năng phục vụ việc cung cấp thông tin theo quy định tại\nĐiều 5 của Quy định này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Cổng TTĐT tỉnh và Cổng thành\nphần phải có các chức năng hỗ trợ cơ bản theo quy định tại Điều 7 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Các chức năng khác theo\nyêu cầu thực tiễn của các cơ quan, đơn vị hoặc theo các văn bản pháp luật\nkhác có liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>Điều 7.\nTương tác với tổ chức, cá nhân trên môi trường mạng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Nội dung tương tác với tổ\nchức, cá nhân trên môi trường mạng của Cổng TTĐT tỉnh và Cổng thành phần được\nthực hiện theo quy định tại Điều 8 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Việc thu thập, xử lý và sử dụng\nthông tin cá nhân trên Cổng TTĐT tỉnh và Cổng thành phần được thực hiện theo\nquy định tại Điều 5, Điều 6, Điều 7 và Điều 8 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 25/2010/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-25-2010-tt-btttt-thu-thap-su-dung-chia-se-dam-bao-an-toan-114735.aspx\">25/2010/TT-BTTTT</a>  ngày\n15/11/2010 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định việc thu thập, sử\ndụng, chia sẻ, đảm bảo an toàn và bảo vệ thông tin cá nhân trên trang thông\ntin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước và quy định bảo vệ\nthông tin cá nhân theo Điều 16, Điều 17, Điều 18, Điều 19, Điều 20 Luật An\ntoàn thông tin mạng số 86/2015/QH13 ngày 19/11/2015 của Quốc hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_8\"><b>Điều 8. Quảng\ncáo trên Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Quảng cáo trên Cổng TTĐT tỉnh\nvà Cổng thành phần được thực hiện theo quy định tại khoản 2 Điều 23 Luật Quảng\ncáo số 16/2012/QH13 ngày 21/6/2012 của Quốc hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2_2\"><b>Mục 2. TỔ\nCHỨC QUẢN LÝ VÀ HOẠT ĐỘNG CỔNG THÔNG TIN ĐIỆN TỬ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_9\"><b>Điều 9. Tổ\nchức, quản lý Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Cổng TTĐT tỉnh hoạt động dưới\nsự chỉ đạo trực tiếp của Chủ tịch UBND tỉnh. Cổng thành phần hoạt động dưới sự\nchỉ đạo trực tiếp của thủ trưởng cơ quan, đơn vị có Cổng thành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Ban biên tập Cổng TTĐT tỉnh\ndo Chủ tịch UBND tỉnh quyết định thành lập; Thủ trưởng các cơ quan, đơn vị quyết\nđịnh thành lập Ban Biên tập Cổng thành phần là Cổng thông tin điện tử của cơ\nquan, đơn vị mình.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Ban biên tập Cổng TTĐT tỉnh\nvà Ban biên tập Cổng thành phần (sau đây viết tắt là Ban biên tập Cổng TTĐT) làm\nviệc theo chế độ kiêm nhiệm. Trưởng Ban biên tập Cổng TTĐT tỉnh được sử dụng\ncon dấu của UBND tỉnh; Phó trưởng Ban biên tập Cổng TTĐT tỉnh, Trưởng Ban và\nPhó trưởng Ban biên tập Cổng thành phần được sử dụng con dấu của cơ quan đơn\nvị mình phụ trách để liên hệ công tác.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_10\"><b>Điều 10.\nNguyên tắc đảm bảo hạ tầng kỹ thuật, quản lý, vận hành, duy trì hoạt Cổng\nTTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Hạ tầng kỹ thuật Cổng TTĐT tỉnh\nvà Cổng thành phần phải được đảm bảo  theo quy định tại các Điều 23, Điều\n24, Điều 25 và Điều 26 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Hệ thống Cổng TTĐT tỉnh và Cổng\nthành phần phải được quản lý, vận hành, duy trì hoạt động ổn định, đảm bảo\nliên tục, thông suốt; hệ thống phải thường xuyên được kiểm tra về mức độ an\ntoàn thông tin và phải được phê duyệt cấp độ an toàn thông tin theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Hệ thống Cổng TTĐT tỉnh và Cổng\nthành phần phải có giải pháp sao lưu, phục hồi, đảm bảo an toàn an ninh thông\ntin cho dữ liệu, sẵn sàng phục hồi dữ liệu khi hệ thống gặp sự cố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Hệ thống Cổng TTĐT tỉnh và Cổng\nthành phần được nâng cấp thường xuyên trên cơ sở các quy định hiện hành và\nyêu cầu thực tiễn của các cơ quan, đơn vị.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_11\"><b>Điều 11.\nKinh phí duy trì hoạt động Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Kinh phí chi cho hoạt động\nduy trì Cổng TTĐT tỉnh và Cổng thành phần được bố trí trong dự toán chi ngân\nsách hằng năm của các cơ quan, đơn vị bảo đảm theo quy định pháp luật hiện\nhành về phân cấp ngân sách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Kinh phí chi cho công tác đào\ntạo, bồi dưỡng nhân lực phục vụ duy trì hoạt động Cổng TTĐT được bố trí hằng\nnăm trong dự toán ngân sách của cơ quan để đào tạo, bồi dưỡng nhân lực thuộc\nphạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Ngoài nguồn kinh phí được bố\ntrí trong dự toán chi ngân sách hằng năm, các cơ quan được phép sử dụng\ncác nguồn kinh phí hợp pháp khác theo quy định của pháp luật để duy trì\nhoạt động và phát triển Cổng TTĐT tỉnh và Cổng thành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Các nội dung khác về kinh\nphí theo quy định tại Điều 22 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_3\"><b>Chương\nIII</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_12\"><b>Điều 12.\nTrách nhiệm của các cơ quan, đơn vị</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Chịu trách nhiệm trước UBND\ntỉnh về giao diện, nội dung thông tin trên Cổng thành phần của cơ quan, đơn vị\nmình quản lý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Thường xuyên kiểm tra, giám\nsát công tác quản trị vận hành, biên tập, cập nhật và hoạt động Cổng thành phần\ncủa cơ quan, đơn vị mình, đảm bảo theo các quy định của Quy định này và các\nquy định pháp luật khác có liên quan. Chịu trách nhiệm kiểm tra, giám sát\nvà đánh giá việc cung cấp thông tin của các cơ quan, đơn vị trực thuộc trên\nmôi trường mạng theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Cử người quản trị vận hành Cổng\nthành phần của cơ quan, đơn vị; thông báo cho Văn phòng UBND tỉnh, Sở Thông tin\nvà Truyền thông biết để phối hợp trong quá trình quản lý, vận hành, cung cấp\nthông tin và duy trì hoạt động Cổng thành phần thuộc phạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Ban hành quy định hoạt động\nBan biên tập Cổng thành phần của cơ quan, đơn vị và phân công nhiệm vụ cụ thể\ncho người thực hiện việc tiếp nhận, xử lý, biên tập, cập nhật thông tin theo\ncác quy định của Quy định này và các quy định pháp luật khác có liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Cung cấp các thông tin\ntheo yêu cầu của Ban Biên tập Cổng TTĐT tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">6. Trả lời ý kiến bạn đọc theo\nquy định pháp luật hiện hành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">7. Thực hiện báo cáo định kỳ\ntình hình hoạt động Cổng thành phần của đơn vị theo các nội dung sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Tên báo cáo, nội dung báo\ncáo theo Phụ lục ban hành kèm theo Quyết định này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Đối tượng thực hiện báo\ncáo: Ban biên tập Cổng TTĐT.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Cơ quan nhận báo cáo: UBND tỉnh\n(qua Sở Thông tin và Truyền thông).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Thời hạn gửi báo cáo định\nkỳ theo quy định tại Điều 7, thời gian chốt số liệu báo cáo theo quy định tại\nĐiều 6, hình thức, phương thức gửi, nhận báo cáo định kỳ được thực hiện\ntheo quy định tại điểm b khoản 1, điểm a khoản 2, Điều 5 của Quy định Chế độ\nbáo cáo định kỳ thực hiện trên địa bàn tỉnh Bắc Giang ban hành kèm theo Quyết\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 22/2019/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-22-2019-qd-ubnd-quy-dinh-che-do-bao-cao-dinh-ky-tinh-bac-giang-424639.aspx\">22/2019/QĐ-UBND</a>  ngày 11/9/2019 của Ủy ban nhân dân tỉnh Bắc Giang.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Tần suất thực hiện báo cáo:\nBáo cáo 06 tháng, 01 năm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">8. Khi phát hiện có sự cố về mặt\nkỹ thuật hoặc nguy cơ mất an toàn, an ninh thông tin phải báo cáo kịp thời về\nSở Thông tin và Truyền thông để xử lý theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">9. Xây dựng dự toán kinh phí\nduy trì hoạt động; kinh phí đào tạo, bồi dưỡng nhân lực cho Cổng thành phần do\ncơ quan, đơn vị quản lý trong dự toán ngân sách hằng năm của các cơ quan,\nđơn vị bảo đảm theo quy định pháp luật hiện hành về phân cấp ngân sách nhà\nnước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_13\"><b>Điều 13.\nTrách nhiệm của Ban Biên tập Cổng TTĐT</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Thực hiện cung cấp thông\ntin trên Cổng TTĐT tỉnh và Cổng thành phần theo quy định tại Điều 5 Quy định\nnày.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Kiểm duyệt nội dung thông\ntin trước khi đưa lên Cổng TTĐT tỉnh và Cổng thành phần, bảo đảm phù hợp với\ncác quy định hiện hành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Ban biên tập Cổng TTĐT có\ntrách nhiệm quyết định thành lập tổ giúp việc trực thuộc và phân công nhiệm vụ\ncụ thể cho các thành viên, đảm bảo phù hợp với điều kiện thực tiễn, tinh gọn\nvà hiệu quả.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Phối hợp với người quản trị\nvận hành Cổng thành phần của cơ quan, đơn vị mình và phối hợp với Sở Thông\ntin và Truyền thông đảm bảo Cổng thành phần của cơ quan, đơn vị hoạt động thông\nsuốt, hiệu quả, an toàn, bảo mật thông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Là đầu mối tiếp nhận, giải\nquyết các kiến nghị, phản ánh của tổ chức, cá nhân gửi đến Cổng TTĐT tỉnh và\nCổng thành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">6. Tham mưu cơ chế, chính\nsách, huy động các nguồn lực cho ứng dụng phát triển Cổng TTĐT tỉnh và Cổng\nthành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_14\"><b>Điều 14.\nTrách nhiệm của Văn phòng UBND tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Là cơ quan thường trực Ban biên\ntập Cổng TTĐT tỉnh, giúp Chủ tịch UBND tỉnh quản trị về nội dung và chịu trách\nnhiệm trước Chủ tịch UBND tỉnh và trước pháp luật về toàn bộ nội dung cung\ncấp trên Cổng TTĐT tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Chủ trì tham mưu ban hành\nquy chế hoạt động và các văn bản liên quan của Ban biên tập Cổng TTĐT tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Chủ trì, phối hợp với Sở\nThông tin và Truyền thông đề xuất với UBND tỉnh các giải pháp để mở rộng\nkênh thông tin, nâng cao chất lượng, hiệu quả hoạt động của Cổng TTĐT tỉnh. Hằng\nnăm, có trách nhiệm xây dựng dự toán bảo đảm kinh phí hoạt động của Cổng TTĐT\ntỉnh; tham mưu chế độ nhuận bút, thù lao cho những thông tin được sử dụng trên\nCổng TTĐT tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Chịu trách nhiệm kiểm tra,\ngiám sát và đánh giá việc cung cấp thông tin của các cơ quan, đơn vị trên\nmôi trường mạng theo quy định tại Điều 5 Quy định này và các quy định pháp luật\nkhác có liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_15\"><b>Điều 15.\nTrách nhiệm của Sở Thông tin và Truyền thông</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Là đơn vị đầu mối về kỹ thuật,\nchịu trách nhiệm trước UBND tỉnh về đảm bảo duy trì hoạt động ổn định, thông\nsuốt, an toàn an ninh thông tin cho hạ tầng kỹ thuật Cổng TTĐT tỉnh và Cổng\nthành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Hướng dẫn việc thực hiện\ncác tiêu chuẩn, quy chuẩn kỹ thuật áp dụng cho Cổng TTĐT tỉnh và Cổng thành\nphần cho các cơ quan, đơn vị; thực hiện kết nối Cổng TTĐT tỉnh và Cổng thành\nphần với Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ\nChính phủ số để quản lý, giám sát hiệu quả, mức độ cung cấp, sử dụng thông\ntin của cơ quan nhà nước trên môi trường mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Chủ trì tham mưu, đề xuất\ncác giải pháp cho hạ tầng kỹ thuật Cổng TTĐT tỉnh và Cổng thành phần, đảm bảo\nduy trì hoạt động ổn định, thông suốt, an toàn an ninh thông tin cho Cổng TTĐT\ntỉnh và Cổng thành phần.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Chủ trì, phối hợp với Văn\nphòng UBND tỉnh tham mưu thực hiện nâng cấp Cổng TTĐT tỉnh đảm bảo phù hợp với\ncác quy định pháp luật hiện hành và điều kiện thực tiễn của địa phương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Định kỳ tổng hợp báo cáo\nUBND tỉnh về tình hình hoạt động của Cổng TTĐT tỉnh và Cổng thành phần theo\nquy định tại khoản 7 Điều 12 Quy định này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_16\"><b>Điều 16.\nTrách nhiệm của Sở Tài chính</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Có trách nhiệm tổng hợp, tham\nmưu UBND tỉnh bố trí kinh phí hoạt động cho Cổng TTĐT tỉnh và Cổng thành phần\ntrong dự toán ngân sách hằng năm, bảo đảm theo quy định pháp luật hiện hành\nvề phân cấp ngân sách nhà nước; hướng dẫn các đơn vị sử dụng kinh phí đúng\nquy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_17\"><b>Điều 17.\nTrách nhiệm của người quản trị vận hành Cổng TTĐT</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Người quản trị vận hành Cổng\nTTĐT phải có trách nhiệm bảo quản an toàn, bảo mật thông tin tài khoản truy cập\nquản trị, biên tập hệ thống (gồm: tên đăng nhập và mật khẩu).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Chịu trách nhiệm về sự cố xảy\nra nếu liên quan đến tài khoản mình quản lý; có trách nhiệm bàn giao tài khoản,\nmật khẩu khi không còn được giao quản trị, vận hành Cổng TTĐT.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Có trách nhiệm báo cáo cơ\nquan, đơn vị và Sở Thông tin và Truyền thông để kịp thời khắc phục, xử lý khi\ncó sự cố xảy ra.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_18\"><b>Điều 18.\nCác tổ chức, cá nhân tham gia cung cấp, khai thác và sử dụng thông tin, dữ liệu,\ndịch vụ trên Cổng TTĐT tỉnh và Cổng thành phần</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Khi sử dụng tin, bài, ảnh\ntrên Cổng TTĐT tỉnh và Cổng thành phần phải ghi rõ nguồn “Cổng TTĐT tỉnh Bắc\nGiang, tại địa chỉ: &lt;ghi rõ địa chỉ tên miền truy cập Cổng TTĐT tỉnh hoặc Cổng\nthành phần&gt;”.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Các tổ chức, cá nhân cung\ncấp tin, bài, ảnh, và các thông tin phù hợp với yêu cầu nội dung của Cổng\nTTĐT tỉnh và Cổng thành phần, được Ban biên tập Cổng TTĐT kiểm duyệt và đăng tải\nsẽ được hưởng chế độ nhuận bút theo quy định hiện hành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Không được vi phạm các nội\ndung quy định tại Điều 7 của Luật An toàn thông tin mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Thực hiện các quy định của\nQuy định này và các quy định pháp luật liên quan khác.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_19\"><b>Điều 19.\nĐiều khoản thi hành</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Trong trường hợp các văn bản\nquy phạm pháp luật có liên quan đến Quy định này có sự điều chỉnh, bổ sung,\nthay thế thì áp dụng theo các nội dung được điều chỉnh, bổ sung, thay thế\ntrong văn bản mới.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Trong quá trình thực hiện,\nnếu phát sinh khó khăn, vướng mắc; các cơ quan, đơn vị, tổ chức, cá nhân có\nliên quan phản ánh về Sở Thông tin và Truyền thông để tổng hợp, báo cáo\nUBND tỉnh xem xét, sửa đổi, bổ sung Quy định này cho phù hợp./.</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b> </b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_pl\"><b><span style=\"font-size:12.0pt\">PHỤ LỤC</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_pl_name\">MẪU BÁO CÁO ĐỊNH KỲ<br>\n</a>(<i>Kèm theo Quyết định số    /2023/QĐ-UBND ngày  \n tháng 5 năm 2023 của UBND tỉnh Bắc Giang</i>)</p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><b><i>Mẫu\n01</i></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CƠ QUAN BÁO CÁO<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: /BC-...</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bắc Giang,\n  ngày   tháng   năm 20… </i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b> </b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b>BÁO\nCÁO</b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b>Tình\nhình cung cấp thông tin trên Cổng thông tin của đơn vị 6 tháng/năm…</b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMwA=-->\n <tbody><tr>\n  <td width=\"3%\" style=\"width:3.86%;border:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>TT</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>VB QPPL</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>VB QLHC</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Tin PBPL</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Thủ tục hành chính</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Chương trình kế hoạch</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Dự án</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Thông tin</b> <b>về bộ máy</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Báo cáo tài chính</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Thông tin</b> <b>thống kê</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Thông tin</b> <b>KHCN</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Thông tin</b> <b>dịch bệnh</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Thông tin công khai</b></p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Kênh thông tin</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"3%\" style=\"width:3.86%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(1)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(2)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(3)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(4)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(5)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(6)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(7)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(8)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(9)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(10)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(11)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(12)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(13)</p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">(14)</p>\n  </td>\n </tr>\n <tr>\n  <td width=\"3%\" style=\"width:3.86%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.38%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n  <td width=\"7%\" style=\"width:7.4%;border-top:none;border-left:none;border-bottom:\n  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"> </p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Nội dung báo cáo theo tiêu\nchí thuộc Điều 4,5 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a> .</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(1). Số thứ tự</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(2). Số lượng văn bản quy phạm\npháp luật của đơn vị ban hành đăng tải lên cổng đầy đủ theo Điều 4 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a>  / Tổng số lượng (tổng của đăng tải và không đăng tải)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(3). Số lượng văn bản quản\nlý hành chính thuộc thẩm quyền ban hành đầy đủ theo Điều 4 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a>  /Tổng số lượng (tổng của đăng tải và không đăng tải)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(4).Thủ tục hành chính, dịch\nvụ công trực tuyến, quy trình giải quyết công việc của đơn vị có tuân thủ các\nquy định của pháp luật, bảo đảm thống nhất, tích hợp từ Cổng Dịch vụ công quốc\ngia, Cổng dịch vụ công cấp bộ, cấp tỉnh hay không (Có/Không)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(5). Số lượng tin bài thông\ntin phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(6). Số lượng chiến lược,\nchương trình, dự án, đề án, kế hoạch, quy hoạch phát triển kinh tế - xã hội của\nquốc gia, địa phương; quy hoạch ngành, lĩnh vực và phương thức, kết quả thực hiện;\nchương trình, kế hoạch công tác hằng năm của cơ quan nhà nước / Tổng số lượng\n(tổng của đăng tải và không đăng tải)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(7) Số lượng thông tin về\ndanh mục dự án, chương trình và kết quả thực hiện đầu tư công, mua sắm công và\nquản lý, sử dụng vốn đầu tư công, các nguồn vốn vay theo quy định của pháp luật\n/Tổng số lượng (tổng của đăng tải và không đăng tải)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(8) Thông tin về tổ chức bộ\nmáy hành chính, bản đồ địa giới hành chính đến cấp xã, điều kiện tự nhiên, lịch\nsử, truyền thống văn hóa, di tích, danh thắng; tiểu sử tóm tắt và nhiệm vụ đảm\nnhiệm của lãnh đạo cơ quan có đầy đủ hay không? (Có/Không)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(9). Báo cáo tài chính năm\ncông khai theo quy định của Luật Kế toán.? (Có/Không)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(10). Thông tin thống kê về\nngành, lĩnh vực quản lý theo quy định của Luật Thống kê? (Có đăng/Không\nđăng/Không có dữ liệu) </i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(11). Thông tin về danh mục\nvà kết quả chương trình, đề tài khoa học theo quy định của Luật Khoa học và\nCông nghệ? (Có đăng/Không đăng/Không có dữ liệu)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(12). Thông tin về dịch theo\nquy định của Luật Phòng, chống bệnh truyền nhiễm? (Có đăng/Không đăng/Không có\ndữ liệu) (13). Đã công khai danh mục thông tin phải được công khai chưa, trong\nđó nêu rõ địa chỉ, hình thức, thời điểm, thời hạn công khai đối với từng loại\nthông tin. (Có/Không).</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(14). Số lượng kênh thông\ntin được đơn vị cung cấp theo Điều 5 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 42/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx\">42/2022/NĐ-CP</a>  được công bố\ntrên Cổng của đơn vị.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><i> </i></b></p>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><b><i>Mẫu\n02</i></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CƠ QUAN BÁO CÁO<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: /BC-...</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bắc Giang,\n  ngày    tháng   năm 20… </i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"right\" style=\"margin-top:6.0pt;text-align:right;text-autospace:none\"><b><i> </i></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b>BÁO\nCÁO</b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b>Đánh\ngiá, kiến nghị về hoạt động Cổng thông tin của đơn vị 6 tháng/ năm…</b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAA1ADEAMwA=-->\n <tbody><tr>\n  <td width=\"7%\" style=\"width:7.06%;border:solid windowtext 1.0pt;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>TT</b></p>\n  </td>\n  <td width=\"46%\" style=\"width:46.46%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Các vấn đề tồn tại</b></p>\n  </td>\n  <td width=\"46%\" style=\"width:46.48%;border:solid windowtext 1.0pt;border-left:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><b>Kiến nghị, đề xuất</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" style=\"width:7.06%;border:solid windowtext 1.0pt;border-top:\n  none;padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><i>(1)</i></p>\n  </td>\n  <td width=\"46%\" style=\"width:46.46%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><i>(2)</i></p>\n  </td>\n  <td width=\"46%\" style=\"width:46.48%;border-top:none;border-left:none;\n  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\"><i>(3)</i></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"7%\" valign=\"top\" style=\"width:7.06%;border:solid windowtext 1.0pt;\n  border-top:none;padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n  </td>\n  <td width=\"46%\" valign=\"top\" style=\"width:46.46%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n  </td>\n  <td width=\"46%\" valign=\"top\" style=\"width:46.48%;border-top:none;border-left:\n  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;\n  padding:0in 0in 0in 0in\">\n  <p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(1). Số thứ tự</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(2). Các vấn đề tồn tại, khó\nkhăn trong hoạt động Cổng thông tin điện tử của đơn vị</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>(3). Kiến nghị, đề xuất để\ngiải quyết các khó khăn, vấn đề tồn tại.</i></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẮC GIANG  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 13/2023/QĐ-UBND\n\n_Bắc Giang, ngày 09 tháng 5 năm 2023_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH CUNG CẤP THÔNG TIN, TỔ CHỨC QUẢN LÝ VÀ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ TỈNH BẮC GIANG VÀ CỔNG THÔNG TIN ĐIỆN TỬ THÀNH PHẦN\n\n**ỦY BAN NHÂN DÂN TỈNH BẮC GIANG**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Quảng cáo ngày 21 tháng 6 năm 2012;_\n\n_Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;_\n\n_Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Luật Báo chí ngày 05 tháng 4 năm 2016;_\n\n_Căn cứ Nghị định số [64/2007/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-64-2007-nd-cp-ung-dung-cong-nghe-thong-tin-trong-co-quan-nha-nuoc-18234.aspx \"Nghị định 64/2007/NĐ-CP\") ngày 10 tháng 4 năm 2007 của Chính phủ Ứng dụng Công nghệ thông tin trong hoạt động cơ quan Nhà nước;_\n\n_Căn cứ Nghị định số [72/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-72-2013-nd-cp-quan-ly-cung-cap-su-dung-dich-vu-internet-va-thong-tin-tren-mang-201110.aspx \"Nghị định 72/2013/NĐ-CP\") ngày 15 tháng 7 năm 2013 của Chính phủ Quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;_\n\n_Căn cứ Nghị định số [85/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx \"Nghị định 85/2016/NĐ-CP\") ngày 01 tháng 7 năm 2016 của Chính phủ Về bảo đảm an toàn hệ thống thông tin theo cấp độ;_\n\n_Căn cứ Nghị định số [09/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-09-2017-nd-cp-phat-ngon-cung-cap-thong-tin-cho-bao-chi-cua-cac-co-quan-hanh-chinh-nha-nuoc-320096.aspx \"Nghị định 09/2017/NĐ-CP\") ngày 09 tháng 02 năm 2017 của Chính phủ Quy định chi tiết việc phát ngôn và cung cấp thông tin cho báo chí của các cơ quan hành chính nhà nước;_\n\n_Căn cứ Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") ngày 24 tháng 6 năm 2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng;_\n\n_Căn cứ Thông tư số [09/2014/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-09-2014-tt-btttt-quan-ly-cung-cap-su-dung-thong-tin-trang-thong-tin-dien-tu-mang-xa-hoi-246351.aspx \"Thông tư 09/2014/TT-BTTTT\") ngày 19 tháng 8 năm 2014 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định chi tiết về hoạt động quản lý, cung cấp, sử dụng thông tin trên trang thông tin điện tử và mạng xã hội;_\n\n_Căn cứ Thông tư số [12/2022/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-12-2022-tt-btttt-huong-dan-nghi-dinh-85-2016-nd-cp-an-toan-he-thong-thong-tin-526291.aspx \"Thông tư 12/2022/TT-BTTTT\") ngày 12 tháng 8 năm 2022 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định chi tiết và hướng dẫn một số điều_ _của Nghị định số [85/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx \"Nghị định 85/2016/NĐ-CP\") ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;_\n\n_Căn cứ Thông tư số [25/2010/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-25-2010-tt-btttt-thu-thap-su-dung-chia-se-dam-bao-an-toan-114735.aspx \"Thông tư 25/2010/TT-BTTTT\") ngày 15 tháng 11 năm 2010 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định về việc thu thập, sử dụng, chia sẻ, đảm bảo an toàn và bảo vệ thông tin cá nhân trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước;_\n\n_Căn cứ Thông tư số [32/2017/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-32-2017-tt-btttt-cung-cap-bao-dam-kha-nang-truy-cap-thuan-tien-trang-thong-tin-dien-tu-341078.aspx \"Thông tư 32/2017/TT-BTTTT\") ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định về việc cung cấp dịch vụ công trực tuyến và đảm bảo khả năng truy cập thuận tiện đối với trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước;_\n\n_Căn cứ Thông tư số [26/2020/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-26-2020-tt-btttt-ap-dung-cong-nghe-ho-tro-nguoi-khuyet-tat-tiep-can-san-pham-thong-tin-453691.aspx \"Thông tư 26/2020/TT-BTTTT\") ngày 23 tháng 9 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định việc áp dụng tiêu chuẩn, công nghệ hỗ trợ người khuyết tật tiếp cận, sử dụng công nghệ thông tin và truyền thông;_\n\n_Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số 24/TTr-STTTT ngày 17 tháng 4 năm 2023._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy định cung cấp thông tin, tổ chức quản lý và hoạt động của Cổng thông tin điện tử tỉnh Bắc Giang và Cổng thông tin điện tử thành phần.\n\n**Điều 2.** Quyết định này có hiệu lực kể từ ngày 20 tháng 5 năm 2023 và thay thế Quyết định số [36/2019/QĐ-UBND](/phap-luat/tim-van-ban.aspx?keyword=36/2019/QĐ-UBND&match=True&area=2&lan=1 \"36/2019/QĐ-UBND\") ngày 31 tháng 12 năm 2019 của UBND tỉnh Bắc Giang ban hành Quy chế tổ chức, quản lý hoạt động Cổng thông tin điện tử tỉnh Bắc Giang và các Cổng thông tin điện tử thành phần.\n\n**Điều 3.** Giám đốc sở, Thủ trưởng cơ quan thuộc UBND tỉnh; Chủ tịch UBND huyện, thành phố; Chủ tịch UBND xã, phường, thị trấn và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Như Điều 3;  \n\\- Văn phòng Chính phủ;  \n\\- Vụ Pháp chế - Bộ Thông tin và Truyền thông;  \n\\- Cục Kiểm tra VBQPPL - Bộ Tư pháp;  \n\\- TT Tỉnh ủy, TT HĐND tỉnh;  \n\\- Đoàn ĐBQH tỉnh;  \n\\- Ủy ban MTTQVN và các tổ chức CT-XH tỉnh;  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- VP UBND tỉnh: LĐVP, các phòng, TTTT (_để t/h_);  \n\\- Lưu: VT, KGVX.Cường.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nMai Sơn**\n\n**QUY ĐỊNH**\n\nCUNG CẤP THÔNG TIN, TỔ CHỨC QUẢN LÝ VÀ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ TỈNH BẮC GIANG VÀ CỔNG THÔNG TIN ĐIỆN TỬ THÀNH PHẦN  \n_(Kèm theo Quyết định số 13/2023/QĐ-UBND ngày 09 tháng 5 năm 2023 của Ủy ban nhân dân tỉnh Bắc Giang)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\nQuy định này quy định về nội dung, nguyên tắc, trách nhiệm và cơ chế phối hợp trong cung cấp thông tin, tổ chức quản lý và hoạt động của Cổng thông tin điện tử tỉnh Bắc Giang và Cổng thông tin điện tử thành phần.\n\n**Điều 2. Đối tượng áp dụng**\n\n1\\. Quy định này áp dụng cho các sở, cơ quan thuộc UBND tỉnh; UBND huyện, thành phố; UBND xã, phường, thị trấn trên địa bàn tỉnh (sau đây viết tắt là các cơ quan, đơn vị).\n\n2\\. Tổ chức, cá nhân tham gia cung cấp, khai thác và sử dụng thông tin, dữ liệu, dịch vụ trên Cổng thông tin điện tử tỉnh và Cổng thông tin điện tử thành phần theo quy định pháp luật.\n\n**Điều 3. Giải thích từ ngữ**\n\nTrong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n\n1\\. Cổng thông tin điện tử tỉnh Bắc Giang (sau đây viết tắt là Cổng TTĐT tỉnh) là kênh cung cấp thông tin chính thức, thống nhất, tập trung về hoạt động của các cơ quan, đơn vị trên môi trường mạng.\n\n2\\. Cổng thông tin điện tử thành phần (sau đây viết tắt là Cổng thành phần) là Cổng thông tin điện tử của các cơ quan, đơn vị. Cổng thành phần trực thuộc Cổng TTĐT tỉnh.\n\n3\\. Hạ tầng kỹ thuật của Cổng TTĐT tỉnh và Cổng thành phần gồm có trang thiết bị, máy chủ, hệ thống mạng, hệ thống phần mềm ứng dụng Cổng TTĐT tỉnh và Cổng thành phần. Hạ tầng kỹ thuật của Cổng TTĐT tỉnh và Cổng thành phần được đặt tại Trung tâm Tích hợp dữ liệu của tỉnh.\n\n4\\. Người quản trị vận hành Cổng TTĐT là người quản trị vận hành về hạ tầng kỹ thuật và về nội dung của Cổng TTĐT tỉnh và Cổng thành phần. Người quản trị vận hành hạ tầng kỹ thuật Cổng TTĐT tỉnh và Cổng thành phần do công chức hoặc viên chức thuộc quản lý của Sở Thông tin và Truyền thông thực hiện; người quản trị vận hành về nội dung Cổng TTĐT tỉnh do công chức hoặc viên chức thuộc quản lý của Văn phòng UBND tỉnh; người quản trị vận hành về nội dung Cổng thành phần do công chức hoặc viên chức thuộc quản lý của của cơ quan, đơn vị thực hiện.\n\n5\\. Kênh cung cấp thông tin là kênh giao tiếp trên môi trường mạng của cơ quan nhà nước được quy định tại khoản 9 Điều 3 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng.\n\n**Điều 4. Quy định tên miền cho Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Tên miền của Cổng TTĐT tỉnh và Cổng thành phần sử dụng tên miền quốc gia Việt Nam “.vn” và sử dụng công nghệ địa chỉ Internet IPv6, tuân thủ theo quy tắc sau đây:\n\na) Cổng TTĐT tỉnh sử dụng tên miền cấp 3 của Việt Nam, là tên đầy đủ của tỉnh, bằng tiếng Việt không dấu theo dạng: bacgiang.gov.vn.\n\nb) Cổng TTĐT của các cơ quan chuyên môn thuộc UBND tỉnh có tên miền cấp 4 là tên viết tắt của cơ quan bằng tiếng Việt không dấu, không khoảng trống theo dạng: tencoquan.bacgiang.gov.vn, trong đó tencoquan là tên viết tắt hoặc tên đầy đủ của cơ quan chuyên môn bằng tiếng Việt không dấu hoặc tiếng Anh.\n\nc) Cổng TTĐT của UBND cấp huyện có tên miền cấp 4 sử dụng tên đầy đủ của địa phương bằng tiếng Việt không dấu, không khoảng trống theo dạng: tenhuyen.bacgiang.gov.vn; tên miền Cổng thành phần là Cổng thông tin điện tử thành phố Bắc Giang là: tpbacgiang.bacgiang.gov.vn.\n\nd) Cổng TTĐT của UBND xã, phường, thị trấn sử dụng tên miền cấp 5 theo dạng: tenphuongxa.tenhuyen.bacgiang.gov.vn, trong đó tenphuongxa là tên đầy đủ của xã, phường, thị trấn bằng tiếng Việt không dấu.\n\n2\\. Tên miền Cổng TTĐT tỉnh và Cổng thành phần do Sở Thông tin và Truyền thông quản lý, cung cấp theo quy định.\n\n**Chương II**\n\n**QUY ĐỊNH CỤ THỂ**\n\n**Mục 1. CUNG CẤP THÔNG TIN**\n\n**Điều 5. Cung cấp thông tin trên Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Nội dung thông tin cung cấp trên Cổng TTĐT tỉnh và Cổng thành phần\n\na) Thông tin theo quy định tại Điều 4 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") ; các thông tin khác theo yêu cầu của Chủ tịch UBND tỉnh và theo các văn bản pháp luật khác có liên quan.\n\nb) Cung cấp thông tin bằng tiếng nước ngoài theo quy định tại khoản 2 Điều 7 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") .\n\nc) Thông tin kết nối, tích hợp, chia sẻ dữ liệu từ các hệ thống khác theo quy định.\n\n2\\. Nguyên tắc cung cấp thông tin trên Cổng TTĐT tỉnh và Cổng thành phần\n\na) Kênh cung cấp thông tin được thực hiện theo quy định tại Điều 5 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") .\n\nb) Việc kết nối, tích hợp, chia sẻ thông tin, dữ liệu trên Cổng TTĐT tỉnh và Cổng thành phần thực hiện theo quy định tại Điều 9 Nghị định số 42/2022/NĐ- CP và Điều 9 Quy chế Quản lý, khai thác, sử dụng dữ liệu của cơ sở dữ liệu trên địa bàn tỉnh Bắc Giang ban hành theo Quyết định số [47/2022/QĐ-UBND](/phap-luat/tim-van-ban.aspx?keyword=47/2022/QĐ-UBND&match=True&area=2&lan=1&bday=28/10/2022&eday=28/10/2022 \"47/2022/QĐ-UBND\") ngày 28/10/2022 của Uỷ ban nhân dân tỉnh Bắc Giang.\n\nc) Thông tin cung cấp trên Cổng thông tin điện tử phải tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước, báo chí, sở hữu trí tuệ và quản lý thông tin trên Internet và các quy định pháp luật khác có liên quan.\n\nd) Cổng TTĐT tỉnh và Cổng thành phần phải đáp ứng các tiêu chuẩn hỗ trợ người khuyết tật theo Thông tư số [26/2020/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-26-2020-tt-btttt-ap-dung-cong-nghe-ho-tro-nguoi-khuyet-tat-tiep-can-san-pham-thong-tin-453691.aspx \"Thông tư 26/2020/TT-BTTTT\") ngày 23/9/2020 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định việc áp dụng tiêu chuẩn, công nghệ hỗ trợ người khuyết tật tiếp cận, sử dụng sản phẩm, dịch vụ thông tin và truyền thông.\n\nđ) Việc tạo lập, sử dụng và lưu trữ dữ liệu đặc tả trên Cổng TTĐT tỉnh và Cổng thành phần thực hiện theo quy định tại khoản 11 Điều 3 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") , các quy định kỹ thuật cụ thể thực hiện theo Thông tư số [24/2011/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-24-2011-tt-btttt-tao-lap-su-dung-va-luu-tru-du-lieu-dac-ta-129602.aspx \"Thông tư 24/2011/TT-BTTTT\") ngày 20/09/2011 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định về việc tạo lập, sử dụng và lưu trữ dữ liệu đặc tả trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước.\n\n**Điều 6. Các chức năng trên Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Cổng TTĐT tỉnh và Cổng thành phần phải có các chức năng phục vụ việc cung cấp thông tin theo quy định tại Điều 5 của Quy định này.\n\n2\\. Cổng TTĐT tỉnh và Cổng thành phần phải có các chức năng hỗ trợ cơ bản theo quy định tại Điều 7 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") .\n\n3\\. Các chức năng khác theo yêu cầu thực tiễn của các cơ quan, đơn vị hoặc theo các văn bản pháp luật khác có liên quan.\n\n**Điều 7. Tương tác với tổ chức, cá nhân trên môi trường mạng**\n\n1\\. Nội dung tương tác với tổ chức, cá nhân trên môi trường mạng của Cổng TTĐT tỉnh và Cổng thành phần được thực hiện theo quy định tại Điều 8 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") .\n\n2\\. Việc thu thập, xử lý và sử dụng thông tin cá nhân trên Cổng TTĐT tỉnh và Cổng thành phần được thực hiện theo quy định tại Điều 5, Điều 6, Điều 7 và Điều 8 Thông tư số [25/2010/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-25-2010-tt-btttt-thu-thap-su-dung-chia-se-dam-bao-an-toan-114735.aspx \"Thông tư 25/2010/TT-BTTTT\") ngày 15/11/2010 của Bộ trưởng Bộ Thông tin và Truyền thông Quy định việc thu thập, sử dụng, chia sẻ, đảm bảo an toàn và bảo vệ thông tin cá nhân trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước và quy định bảo vệ thông tin cá nhân theo Điều 16, Điều 17, Điều 18, Điều 19, Điều 20 Luật An toàn thông tin mạng số 86/2015/QH13 ngày 19/11/2015 của Quốc hội.\n\n**Điều 8. Quảng cáo trên Cổng TTĐT tỉnh và Cổng thành phần**\n\nQuảng cáo trên Cổng TTĐT tỉnh và Cổng thành phần được thực hiện theo quy định tại khoản 2 Điều 23 Luật Quảng cáo số 16/2012/QH13 ngày 21/6/2012 của Quốc hội.\n\n**Mục 2. TỔ CHỨC QUẢN LÝ VÀ HOẠT ĐỘNG CỔNG THÔNG TIN ĐIỆN TỬ**\n\n**Điều 9. Tổ chức, quản lý Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Cổng TTĐT tỉnh hoạt động dưới sự chỉ đạo trực tiếp của Chủ tịch UBND tỉnh. Cổng thành phần hoạt động dưới sự chỉ đạo trực tiếp của thủ trưởng cơ quan, đơn vị có Cổng thành phần.\n\n2\\. Ban biên tập Cổng TTĐT tỉnh do Chủ tịch UBND tỉnh quyết định thành lập; Thủ trưởng các cơ quan, đơn vị quyết định thành lập Ban Biên tập Cổng thành phần là Cổng thông tin điện tử của cơ quan, đơn vị mình.\n\n3\\. Ban biên tập Cổng TTĐT tỉnh và Ban biên tập Cổng thành phần (sau đây viết tắt là Ban biên tập Cổng TTĐT) làm việc theo chế độ kiêm nhiệm. Trưởng Ban biên tập Cổng TTĐT tỉnh được sử dụng con dấu của UBND tỉnh; Phó trưởng Ban biên tập Cổng TTĐT tỉnh, Trưởng Ban và Phó trưởng Ban biên tập Cổng thành phần được sử dụng con dấu của cơ quan đơn vị mình phụ trách để liên hệ công tác.\n\n**Điều 10. Nguyên tắc đảm bảo hạ tầng kỹ thuật, quản lý, vận hành, duy trì hoạt Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Hạ tầng kỹ thuật Cổng TTĐT tỉnh và Cổng thành phần phải được đảm bảo theo quy định tại các Điều 23, Điều 24, Điều 25 và Điều 26 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") .\n\n2\\. Hệ thống Cổng TTĐT tỉnh và Cổng thành phần phải được quản lý, vận hành, duy trì hoạt động ổn định, đảm bảo liên tục, thông suốt; hệ thống phải thường xuyên được kiểm tra về mức độ an toàn thông tin và phải được phê duyệt cấp độ an toàn thông tin theo quy định.\n\n3\\. Hệ thống Cổng TTĐT tỉnh và Cổng thành phần phải có giải pháp sao lưu, phục hồi, đảm bảo an toàn an ninh thông tin cho dữ liệu, sẵn sàng phục hồi dữ liệu khi hệ thống gặp sự cố.\n\n4\\. Hệ thống Cổng TTĐT tỉnh và Cổng thành phần được nâng cấp thường xuyên trên cơ sở các quy định hiện hành và yêu cầu thực tiễn của các cơ quan, đơn vị.\n\n**Điều 11. Kinh phí duy trì hoạt động Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Kinh phí chi cho hoạt động duy trì Cổng TTĐT tỉnh và Cổng thành phần được bố trí trong dự toán chi ngân sách hằng năm của các cơ quan, đơn vị bảo đảm theo quy định pháp luật hiện hành về phân cấp ngân sách nhà nước.\n\n2\\. Kinh phí chi cho công tác đào tạo, bồi dưỡng nhân lực phục vụ duy trì hoạt động Cổng TTĐT được bố trí hằng năm trong dự toán ngân sách của cơ quan để đào tạo, bồi dưỡng nhân lực thuộc phạm vi quản lý.\n\n3\\. Ngoài nguồn kinh phí được bố trí trong dự toán chi ngân sách hằng năm, các cơ quan được phép sử dụng các nguồn kinh phí hợp pháp khác theo quy định của pháp luật để duy trì hoạt động và phát triển Cổng TTĐT tỉnh và Cổng thành phần.\n\n4\\. Các nội dung khác về kinh phí theo quy định tại Điều 22 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") .\n\n**Chương III**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 12. Trách nhiệm của các cơ quan, đơn vị**\n\n1\\. Chịu trách nhiệm trước UBND tỉnh về giao diện, nội dung thông tin trên Cổng thành phần của cơ quan, đơn vị mình quản lý.\n\n2\\. Thường xuyên kiểm tra, giám sát công tác quản trị vận hành, biên tập, cập nhật và hoạt động Cổng thành phần của cơ quan, đơn vị mình, đảm bảo theo các quy định của Quy định này và các quy định pháp luật khác có liên quan. Chịu trách nhiệm kiểm tra, giám sát và đánh giá việc cung cấp thông tin của các cơ quan, đơn vị trực thuộc trên môi trường mạng theo quy định của pháp luật.\n\n3\\. Cử người quản trị vận hành Cổng thành phần của cơ quan, đơn vị; thông báo cho Văn phòng UBND tỉnh, Sở Thông tin và Truyền thông biết để phối hợp trong quá trình quản lý, vận hành, cung cấp thông tin và duy trì hoạt động Cổng thành phần thuộc phạm vi quản lý.\n\n4\\. Ban hành quy định hoạt động Ban biên tập Cổng thành phần của cơ quan, đơn vị và phân công nhiệm vụ cụ thể cho người thực hiện việc tiếp nhận, xử lý, biên tập, cập nhật thông tin theo các quy định của Quy định này và các quy định pháp luật khác có liên quan.\n\n5\\. Cung cấp các thông tin theo yêu cầu của Ban Biên tập Cổng TTĐT tỉnh.\n\n6\\. Trả lời ý kiến bạn đọc theo quy định pháp luật hiện hành.\n\n7\\. Thực hiện báo cáo định kỳ tình hình hoạt động Cổng thành phần của đơn vị theo các nội dung sau:\n\na) Tên báo cáo, nội dung báo cáo theo Phụ lục ban hành kèm theo Quyết định này.\n\nb) Đối tượng thực hiện báo cáo: Ban biên tập Cổng TTĐT.\n\nc) Cơ quan nhận báo cáo: UBND tỉnh (qua Sở Thông tin và Truyền thông).\n\nd) Thời hạn gửi báo cáo định kỳ theo quy định tại Điều 7, thời gian chốt số liệu báo cáo theo quy định tại Điều 6, hình thức, phương thức gửi, nhận báo cáo định kỳ được thực hiện theo quy định tại điểm b khoản 1, điểm a khoản 2, Điều 5 của Quy định Chế độ báo cáo định kỳ thực hiện trên địa bàn tỉnh Bắc Giang ban hành kèm theo Quyết định số [22/2019/QĐ-UBND](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-22-2019-qd-ubnd-quy-dinh-che-do-bao-cao-dinh-ky-tinh-bac-giang-424639.aspx \"Quyết định 22/2019/QĐ-UBND\") ngày 11/9/2019 của Ủy ban nhân dân tỉnh Bắc Giang.\n\nđ) Tần suất thực hiện báo cáo: Báo cáo 06 tháng, 01 năm.\n\n8\\. Khi phát hiện có sự cố về mặt kỹ thuật hoặc nguy cơ mất an toàn, an ninh thông tin phải báo cáo kịp thời về Sở Thông tin và Truyền thông để xử lý theo quy định.\n\n9\\. Xây dựng dự toán kinh phí duy trì hoạt động; kinh phí đào tạo, bồi dưỡng nhân lực cho Cổng thành phần do cơ quan, đơn vị quản lý trong dự toán ngân sách hằng năm của các cơ quan, đơn vị bảo đảm theo quy định pháp luật hiện hành về phân cấp ngân sách nhà nước.\n\n**Điều 13. Trách nhiệm của Ban Biên tập Cổng TTĐT**\n\n1\\. Thực hiện cung cấp thông tin trên Cổng TTĐT tỉnh và Cổng thành phần theo quy định tại Điều 5 Quy định này.\n\n2\\. Kiểm duyệt nội dung thông tin trước khi đưa lên Cổng TTĐT tỉnh và Cổng thành phần, bảo đảm phù hợp với các quy định hiện hành.\n\n3\\. Ban biên tập Cổng TTĐT có trách nhiệm quyết định thành lập tổ giúp việc trực thuộc và phân công nhiệm vụ cụ thể cho các thành viên, đảm bảo phù hợp với điều kiện thực tiễn, tinh gọn và hiệu quả.\n\n4\\. Phối hợp với người quản trị vận hành Cổng thành phần của cơ quan, đơn vị mình và phối hợp với Sở Thông tin và Truyền thông đảm bảo Cổng thành phần của cơ quan, đơn vị hoạt động thông suốt, hiệu quả, an toàn, bảo mật thông tin.\n\n5\\. Là đầu mối tiếp nhận, giải quyết các kiến nghị, phản ánh của tổ chức, cá nhân gửi đến Cổng TTĐT tỉnh và Cổng thành phần.\n\n6\\. Tham mưu cơ chế, chính sách, huy động các nguồn lực cho ứng dụng phát triển Cổng TTĐT tỉnh và Cổng thành phần.\n\n**Điều 14. Trách nhiệm của Văn phòng UBND tỉnh**\n\n1\\. Là cơ quan thường trực Ban biên tập Cổng TTĐT tỉnh, giúp Chủ tịch UBND tỉnh quản trị về nội dung và chịu trách nhiệm trước Chủ tịch UBND tỉnh và trước pháp luật về toàn bộ nội dung cung cấp trên Cổng TTĐT tỉnh.\n\n2\\. Chủ trì tham mưu ban hành quy chế hoạt động và các văn bản liên quan của Ban biên tập Cổng TTĐT tỉnh.\n\n3\\. Chủ trì, phối hợp với Sở Thông tin và Truyền thông đề xuất với UBND tỉnh các giải pháp để mở rộng kênh thông tin, nâng cao chất lượng, hiệu quả hoạt động của Cổng TTĐT tỉnh. Hằng năm, có trách nhiệm xây dựng dự toán bảo đảm kinh phí hoạt động của Cổng TTĐT tỉnh; tham mưu chế độ nhuận bút, thù lao cho những thông tin được sử dụng trên Cổng TTĐT tỉnh.\n\n4\\. Chịu trách nhiệm kiểm tra, giám sát và đánh giá việc cung cấp thông tin của các cơ quan, đơn vị trên môi trường mạng theo quy định tại Điều 5 Quy định này và các quy định pháp luật khác có liên quan.\n\n**Điều 15. Trách nhiệm của Sở Thông tin và Truyền thông**\n\n1\\. Là đơn vị đầu mối về kỹ thuật, chịu trách nhiệm trước UBND tỉnh về đảm bảo duy trì hoạt động ổn định, thông suốt, an toàn an ninh thông tin cho hạ tầng kỹ thuật Cổng TTĐT tỉnh và Cổng thành phần.\n\n2\\. Hướng dẫn việc thực hiện các tiêu chuẩn, quy chuẩn kỹ thuật áp dụng cho Cổng TTĐT tỉnh và Cổng thành phần cho các cơ quan, đơn vị; thực hiện kết nối Cổng TTĐT tỉnh và Cổng thành phần với Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ Chính phủ số để quản lý, giám sát hiệu quả, mức độ cung cấp, sử dụng thông tin của cơ quan nhà nước trên môi trường mạng.\n\n3\\. Chủ trì tham mưu, đề xuất các giải pháp cho hạ tầng kỹ thuật Cổng TTĐT tỉnh và Cổng thành phần, đảm bảo duy trì hoạt động ổn định, thông suốt, an toàn an ninh thông tin cho Cổng TTĐT tỉnh và Cổng thành phần.\n\n4\\. Chủ trì, phối hợp với Văn phòng UBND tỉnh tham mưu thực hiện nâng cấp Cổng TTĐT tỉnh đảm bảo phù hợp với các quy định pháp luật hiện hành và điều kiện thực tiễn của địa phương.\n\n5\\. Định kỳ tổng hợp báo cáo UBND tỉnh về tình hình hoạt động của Cổng TTĐT tỉnh và Cổng thành phần theo quy định tại khoản 7 Điều 12 Quy định này.\n\n**Điều 16. Trách nhiệm của Sở Tài chính**\n\nCó trách nhiệm tổng hợp, tham mưu UBND tỉnh bố trí kinh phí hoạt động cho Cổng TTĐT tỉnh và Cổng thành phần trong dự toán ngân sách hằng năm, bảo đảm theo quy định pháp luật hiện hành về phân cấp ngân sách nhà nước; hướng dẫn các đơn vị sử dụng kinh phí đúng quy định.\n\n**Điều 17. Trách nhiệm của người quản trị vận hành Cổng TTĐT**\n\n1\\. Người quản trị vận hành Cổng TTĐT phải có trách nhiệm bảo quản an toàn, bảo mật thông tin tài khoản truy cập quản trị, biên tập hệ thống (gồm: tên đăng nhập và mật khẩu).\n\n2\\. Chịu trách nhiệm về sự cố xảy ra nếu liên quan đến tài khoản mình quản lý; có trách nhiệm bàn giao tài khoản, mật khẩu khi không còn được giao quản trị, vận hành Cổng TTĐT.\n\n3\\. Có trách nhiệm báo cáo cơ quan, đơn vị và Sở Thông tin và Truyền thông để kịp thời khắc phục, xử lý khi có sự cố xảy ra.\n\n**Điều 18. Các tổ chức, cá nhân tham gia cung cấp, khai thác và sử dụng thông tin, dữ liệu, dịch vụ trên Cổng TTĐT tỉnh và Cổng thành phần**\n\n1\\. Khi sử dụng tin, bài, ảnh trên Cổng TTĐT tỉnh và Cổng thành phần phải ghi rõ nguồn “Cổng TTĐT tỉnh Bắc Giang, tại địa chỉ: <ghi rõ địa chỉ tên miền truy cập Cổng TTĐT tỉnh hoặc Cổng thành phần>”.\n\n2\\. Các tổ chức, cá nhân cung cấp tin, bài, ảnh, và các thông tin phù hợp với yêu cầu nội dung của Cổng TTĐT tỉnh và Cổng thành phần, được Ban biên tập Cổng TTĐT kiểm duyệt và đăng tải sẽ được hưởng chế độ nhuận bút theo quy định hiện hành.\n\n3\\. Không được vi phạm các nội dung quy định tại Điều 7 của Luật An toàn thông tin mạng.\n\n4\\. Thực hiện các quy định của Quy định này và các quy định pháp luật liên quan khác.\n\n**Điều 19. Điều khoản thi hành**\n\n1\\. Trong trường hợp các văn bản quy phạm pháp luật có liên quan đến Quy định này có sự điều chỉnh, bổ sung, thay thế thì áp dụng theo các nội dung được điều chỉnh, bổ sung, thay thế trong văn bản mới.\n\n2\\. Trong quá trình thực hiện, nếu phát sinh khó khăn, vướng mắc; các cơ quan, đơn vị, tổ chức, cá nhân có liên quan phản ánh về Sở Thông tin và Truyền thông để tổng hợp, báo cáo UBND tỉnh xem xét, sửa đổi, bổ sung Quy định này cho phù hợp./.\n\n**PHỤ LỤC**\n\nMẪU BÁO CÁO ĐỊNH KỲ  \n(_Kèm theo Quyết định số /2023/QĐ-UBND ngày tháng 5 năm 2023 của UBND tỉnh Bắc Giang_)\n\n**_Mẫu 01_**\n\n**CƠ QUAN BÁO CÁO  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: /BC-...\n\n_Bắc Giang, ngày tháng năm 20…_\n\n**BÁO CÁO**\n\n**Tình hình cung cấp thông tin trên Cổng thông tin của đơn vị 6 tháng/năm…**\n\n**TT**\n\n**VB QPPL**\n\n**VB QLHC**\n\n**Tin PBPL**\n\n**Thủ tục hành chính**\n\n**Chương trình kế hoạch**\n\n**Dự án**\n\n**Thông tin** **về bộ máy**\n\n**Báo cáo tài chính**\n\n**Thông tin** **thống kê**\n\n**Thông tin** **KHCN**\n\n**Thông tin** **dịch bệnh**\n\n**Thông tin công khai**\n\n**Kênh thông tin**\n\n(1)\n\n(2)\n\n(3)\n\n(4)\n\n(5)\n\n(6)\n\n(7)\n\n(8)\n\n(9)\n\n(10)\n\n(11)\n\n(12)\n\n(13)\n\n(14)\n\n_Nội dung báo cáo theo tiêu chí thuộc Điều 4,5 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") ._\n\n_(1). Số thứ tự_\n\n_(2). Số lượng văn bản quy phạm pháp luật của đơn vị ban hành đăng tải lên cổng đầy đủ theo Điều 4 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") / Tổng số lượng (tổng của đăng tải và không đăng tải)_\n\n_(3). Số lượng văn bản quản lý hành chính thuộc thẩm quyền ban hành đầy đủ theo Điều 4 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") /Tổng số lượng (tổng của đăng tải và không đăng tải)_\n\n_(4).Thủ tục hành chính, dịch vụ công trực tuyến, quy trình giải quyết công việc của đơn vị có tuân thủ các quy định của pháp luật, bảo đảm thống nhất, tích hợp từ Cổng Dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh hay không (Có/Không)_\n\n_(5). Số lượng tin bài thông tin phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách_\n\n_(6). Số lượng chiến lược, chương trình, dự án, đề án, kế hoạch, quy hoạch phát triển kinh tế - xã hội của quốc gia, địa phương; quy hoạch ngành, lĩnh vực và phương thức, kết quả thực hiện; chương trình, kế hoạch công tác hằng năm của cơ quan nhà nước / Tổng số lượng (tổng của đăng tải và không đăng tải)_\n\n_(7) Số lượng thông tin về danh mục dự án, chương trình và kết quả thực hiện đầu tư công, mua sắm công và quản lý, sử dụng vốn đầu tư công, các nguồn vốn vay theo quy định của pháp luật /Tổng số lượng (tổng của đăng tải và không đăng tải)_\n\n_(8) Thông tin về tổ chức bộ máy hành chính, bản đồ địa giới hành chính đến cấp xã, điều kiện tự nhiên, lịch sử, truyền thống văn hóa, di tích, danh thắng; tiểu sử tóm tắt và nhiệm vụ đảm nhiệm của lãnh đạo cơ quan có đầy đủ hay không? (Có/Không)_\n\n_(9). Báo cáo tài chính năm công khai theo quy định của Luật Kế toán.? (Có/Không)_\n\n_(10). Thông tin thống kê về ngành, lĩnh vực quản lý theo quy định của Luật Thống kê? (Có đăng/Không đăng/Không có dữ liệu)_\n\n_(11). Thông tin về danh mục và kết quả chương trình, đề tài khoa học theo quy định của Luật Khoa học và Công nghệ? (Có đăng/Không đăng/Không có dữ liệu)_\n\n_(12). Thông tin về dịch theo quy định của Luật Phòng, chống bệnh truyền nhiễm? (Có đăng/Không đăng/Không có dữ liệu) (13). Đã công khai danh mục thông tin phải được công khai chưa, trong đó nêu rõ địa chỉ, hình thức, thời điểm, thời hạn công khai đối với từng loại thông tin. (Có/Không)._\n\n_(14). Số lượng kênh thông tin được đơn vị cung cấp theo Điều 5 Nghị định số [42/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-42-2022-nd-cp-cung-cap-thong-tin-dich-vu-cong-truc-tuyen-tren-moi-truong-mang-518831.aspx \"Nghị định 42/2022/NĐ-CP\") được công bố trên Cổng của đơn vị._\n\n**_Mẫu 02_**\n\n**CƠ QUAN BÁO CÁO  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: /BC-...\n\n_Bắc Giang, ngày tháng năm 20…_\n\n**BÁO CÁO**\n\n**Đánh giá, kiến nghị về hoạt động Cổng thông tin của đơn vị 6 tháng/ năm…**\n\n**TT**\n\n**Các vấn đề tồn tại**\n\n**Kiến nghị, đề xuất**\n\n_(1)_\n\n_(2)_\n\n_(3)_\n\n_(1). Số thứ tự_\n\n_(2). Các vấn đề tồn tại, khó khăn trong hoạt động Cổng thông tin điện tử của đơn vị_\n\n_(3). Kiến nghị, đề xuất để giải quyết các khó khăn, vấn đề tồn tại._",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

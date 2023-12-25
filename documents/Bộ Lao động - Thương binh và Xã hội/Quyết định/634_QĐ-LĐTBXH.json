@@ -1,0 +1,933 @@
+{
+  "title": "Quyết định 634/QĐ-LĐTBXH năm 2018 về Kế hoạch thực hiện giai đoạn 2018-2020 Đề án xây dựng Cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030 do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Kế hoạch 266/KH-BYT triển khai ứng dụng công nghệ thông tin trong quản lý khám, chữa bệnh và thanh toán bảo hiểm y tế năm 2017 do Bộ Y tế ban hành",
+      "id": "266/KH-BYT",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bảo hiểm",
+        "Công nghệ thông tin",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Phạm Lê Tuấn"
+      ],
+      "issuedDate": "2017-03-10",
+      "effectiveDate": "2017-03-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1663/QĐ-LĐTBXH năm 2016 phê duyệt Kế hoạch Ứng dụng công nghệ thông tin trong hoạt động của Bộ Lao động - Thương binh và Xã hội giai đoạn 2016-2020",
+      "id": "1663/QĐ-LĐTBXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Lao động - Thương binh và Xã hội",
+      "signers": [
+        "Doãn Mậu Diệp"
+      ],
+      "issuedDate": "2016-12-02",
+      "effectiveDate": "2016-12-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 5004/QĐ-BYT năm 2016 phê duyệt mô hình kiến trúc tổng thể hệ thống thông tin khám chữa bệnh bảo hiểm y tế do Bộ trưởng Bộ Y tế ban hành",
+      "id": "5004/QĐ-BYT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Công nghệ thông tin",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Phạm Lê Tuấn"
+      ],
+      "issuedDate": "2016-09-19",
+      "effectiveDate": "2016-09-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 982/QĐ-BHXH năm 2016 về Hệ thống chỉ tiêu thống kê và chế độ báo cáo thống kê ngành Bảo hiểm xã hội do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "982/QĐ-BHXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2016-07-13",
+      "effectiveDate": "2016-07-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 23/04/2019"
+    },
+    {
+      "title": "Nghị định 94/2016/NĐ-CP hướng dẫn Luật thống kê",
+      "id": "94/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Kế toán - Kiểm toán",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-01",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-08-14",
+      "gazetteNumber": "Từ số 857 đến số 858",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 640/QĐ-BHXH năm 2016 phê duyệt Kế hoạch ứng dụng công nghệ thông tin trong hoạt động của ngành Bảo hiểm xã hội giai đoạn 2016-2020 do Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "640/QĐ-BHXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Đỗ Văn Sinh"
+      ],
+      "issuedDate": "2016-04-28",
+      "effectiveDate": "2016-04-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật trẻ em 2016",
+      "id": "102/2016/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-04-05",
+      "effectiveDate": "2017-06-01",
+      "gazetteDate": "2016-05-18",
+      "gazetteNumber": "Từ số 339 đến số 340",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 445/QĐ-BYT năm 2016 phê duyệt Kế hoạch ứng dụng và phát triển công nghệ thông tin giai đoạn 2016 - 2020 của Bộ Y tế",
+      "id": "445/QĐ-BYT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Lê Quang Cường"
+      ],
+      "issuedDate": "2016-02-05",
+      "effectiveDate": "2016-02-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2361/QĐ-TTg năm 2015 phê duyệt Chương trình bảo vệ trẻ em giai đoạn 2016 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "2361/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2015-12-22",
+      "effectiveDate": "2015-12-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2173/QĐ-BTP năm 2015 phê duyệt Đề án “Cơ sở dữ liệu hộ tịch điện tử toàn quốc” do Bộ trưởng Bộ Tư pháp ban hành",
+      "id": "2173/QĐ-BTP",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Bộ Tư pháp",
+      "signers": [
+        "Hà Hùng Cường"
+      ],
+      "issuedDate": "2015-12-11",
+      "effectiveDate": "2015-12-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật thống kê 2015",
+      "id": "89/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-23",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1241 đến số 1242",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 59/2015/QĐ-TTg về chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "59/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-01-05",
+      "gazetteDate": "2015-12-04",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Hết hiệu lực: 12/12/2022"
+    },
+    {
+      "title": "Quyết định 1819/QĐ-TTg năm 2015 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1819/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-26",
+      "effectiveDate": "2015-10-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị quyết 36a/NQ-CP năm 2015 về Chính phủ điện tử do Chính phủ ban hành",
+      "id": "36a/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-14",
+      "effectiveDate": "2015-10-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/03/2019"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 714/QĐ-TTg năm 2015 ban hành Danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử của Thủ tướng Chính phủ",
+      "id": "714/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-05-22",
+      "effectiveDate": "2015-05-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Căn cước công dân 2014",
+      "id": "59/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Luật Bảo hiểm xã hội 2014",
+      "id": "58/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1163 đến số 1164",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1982/QĐ-TTg năm 2014 phê duyệt Đề án \"Ứng dụng công nghệ thông tin trong quản lý, hoạt động dạy và học nghề đến năm 2020\" do Thủ tướng Chính phủ ban hành",
+      "id": "1982/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Công nghệ thông tin",
+        "Giáo dục"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2014-10-31",
+      "effectiveDate": "2014-10-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 06/2014/TT-BYT về danh mục hệ thống chỉ số thống kê cơ bản ngành Y tế do Bộ trưởng Bộ Y tế ban hành",
+      "id": "06/2014/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thể thao - Y tế",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Phạm Lê Tuấn"
+      ],
+      "issuedDate": "2014-02-14",
+      "effectiveDate": "2014-03-15",
+      "gazetteDate": "2014-03-06",
+      "gazetteNumber": "Từ số 269 đến số 270",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Thông tư 20/2013/TT-BTP hướng dẫn hoạt động thống kê của Ngành Tư pháp do Bộ trưởng Bộ Tư pháp ban hành",
+      "id": "20/2013/TT-BTP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tư pháp",
+      "signers": [
+        "Hà Hùng Cường"
+      ],
+      "issuedDate": "2013-12-03",
+      "effectiveDate": "2014-01-16",
+      "gazetteDate": "2013-12-28",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật việc làm 2013",
+      "id": "38/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-16",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2013-12-29",
+      "gazetteNumber": "Từ số 1003 đến số 1004",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 136/2013/NĐ-CP quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội",
+      "id": "136/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-10-21",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-11-07",
+      "gazetteNumber": "Từ số 771 đến số 772",
+      "status": "Hết hiệu lực: 01/07/2021"
+    },
+    {
+      "title": "Quyết định 896/QĐ-TTg năm 2013 phê duyệt Đề án tổng thể đơn giản hóa thủ tục hành chính, giấy tờ công dân và các cơ sở dữ liệu liên quan đến quản lý dân cư giai đoạn 2013 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "896/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-06-08",
+      "effectiveDate": "2013-06-08",
+      "gazetteDate": "2013-06-18",
+      "gazetteNumber": "Từ số 335 đến số 336",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 150/QĐ-TTg năm 2013 phê duyệt Đề án xác định hài cốt liệt sĩ còn thiếu thông tin do Thủ tướng Chính phủ ban hành",
+      "id": "150/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-01-14",
+      "effectiveDate": "2013-01-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 70/NQ-CP năm 2012 về Chương trình hành động của Chính phủ thực hiện Nghị quyết 15-NQ/TW về chính sách xã hội giai đoạn 2012 - 2020",
+      "id": "70/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-11-01",
+      "effectiveDate": "2012-11-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Bộ Luật lao động 2012",
+      "id": "10/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-06-18",
+      "effectiveDate": "2013-05-01",
+      "gazetteDate": "2012-08-05",
+      "gazetteNumber": "Từ số 475 đến số 476",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 15-NQ/TW năm 2012 hội nghị lần thứ năm Ban chấp hành Trung ương khóa XI về chính sách xã hội giai đoạn 2012 - 2020",
+      "id": "15-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2012-06-01",
+      "effectiveDate": "2012-06-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Thông tư 30/2011/TT-BLĐTBXH về Hệ thống chỉ tiêu thống kê ngành Lao động - Thương binh và Xã hội do Bộ Lao động - Thương binh và Xã hội ban hành",
+      "id": "30/2011/TT-BLĐTBXH",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Lao động – Thương binh và Xã hội",
+      "signers": [
+        "Nguyễn Thanh Hoà"
+      ],
+      "issuedDate": "2011-10-24",
+      "effectiveDate": "2011-12-08",
+      "gazetteDate": "2011-12-01",
+      "gazetteNumber": "Từ số 609 đến số 610",
+      "status": "Hết hiệu lực: 12/04/2018"
+    },
+    {
+      "title": "Thông tư 39/2011/TT-BGDĐT về Hệ thống chỉ tiêu thống kê giáo dục và Đào tạo do Bộ Giáo dục và Đào tạo ban hành",
+      "id": "39/2011/TT-BGDĐT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Bộ Giáo dục và Đào tạo",
+      "signers": [
+        "Phạm Vũ Luận"
+      ],
+      "issuedDate": "2011-09-15",
+      "effectiveDate": "2011-11-01",
+      "gazetteDate": "2011-09-30",
+      "gazetteNumber": "Từ số 513 đến số 514",
+      "status": "Hết hiệu lực: 12/09/2017"
+    },
+    {
+      "title": "Luật người khuyết tật 2010",
+      "id": "51/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-06-17",
+      "effectiveDate": "2011-01-01",
+      "gazetteDate": "2010-09-29",
+      "gazetteNumber": "Từ số 570 đến số 571",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật nuôi con nuôi 2010",
+      "id": "52/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-06-17",
+      "effectiveDate": "2011-01-01",
+      "gazetteDate": "2010-09-23",
+      "gazetteNumber": "Từ số 562 đến số 563",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 43/2010/QĐ-TTg ban hành Hệ thống chỉ tiêu thống kê quốc gia do Thủ tướng Chính phủ ban hành",
+      "id": "43/2010/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-06-02",
+      "effectiveDate": "2010-07-20",
+      "gazetteDate": "2010-06-18",
+      "gazetteNumber": "Từ số 359 đến số 360",
+      "status": "Hết hiệu lực: 03/01/2020"
+    },
+    {
+      "title": "Luật người cao tuổi năm 2009",
+      "id": "39/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-11-23",
+      "effectiveDate": "2010-07-01",
+      "gazetteDate": "2010-03-25",
+      "gazetteNumber": "Từ số 131 đến số 132",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật khám bệnh, chữa bệnh 2009",
+      "id": "40/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-11-23",
+      "effectiveDate": "2011-01-01",
+      "gazetteDate": "2010-03-25",
+      "gazetteNumber": "Từ số 131 đến số 132",
+      "status": "Còn hiệu lực đến: 31/12/2023"
+    },
+    {
+      "title": "Luật bảo hiểm y tế 2008",
+      "id": "25/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bảo hiểm"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-11-14",
+      "effectiveDate": "2009-07-01",
+      "gazetteDate": "2009-03-14",
+      "gazetteNumber": "Từ số 147 đến số 148",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Dạy nghề 2006",
+      "id": "76/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Giáo dục"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-11-29",
+      "effectiveDate": "2007-06-01",
+      "gazetteDate": "2007-06-23",
+      "gazetteNumber": "Từ số 406 đến số 407",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Pháp lệnh ưu đãi người có công với cách mạng năm 2005",
+      "id": "26/2005/PL-UBTVQH11",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-06-29",
+      "effectiveDate": "2005-10-01",
+      "gazetteDate": "2005-08-08",
+      "gazetteNumber": "Số 9",
+      "status": "Hết hiệu lực: 01/07/2021"
+    },
+    {
+      "title": "Luật Giáo dục 2005",
+      "id": "38/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Giáo dục"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-06-14",
+      "effectiveDate": "2006-01-01",
+      "gazetteDate": "2005-08-02",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 01/07/2020"
+    },
+    {
+      "title": "Luật Bảo vệ sức khỏe nhân dân 1989",
+      "id": "21-LCT/HĐNN8",
+      "legislationType": "Luật",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Võ Chí Công"
+      ],
+      "issuedDate": "1989-06-30",
+      "effectiveDate": "1989-07-11",
+      "gazetteDate": "1992-01-15",
+      "gazetteNumber": "Số 1",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Quyết định 708/QĐ-TTg năm 2017 phê duyệt Đề án xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "708/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2017-05-25",
+      "effectiveDate": "2017-05-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 14/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội",
+      "id": "14/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-02-17",
+      "effectiveDate": "2017-02-17",
+      "gazetteDate": "2017-02-27",
+      "gazetteNumber": "Từ số 157 đến số 158",
+      "status": "Hết hiệu lực: 12/09/2022"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công điện 1105/CĐ-TTg năm 2021 về thu dung, thực hiện chính sách an sinh xã hội đối với người \"lang thang, cơ nhỡ\" do Thủ tướng Chính phủ điện",
+      "id": "1105/CĐ-TTg",
+      "legislationType": "Công điện",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Minh Chính"
+      ],
+      "issuedDate": "2021-08-27",
+      "effectiveDate": "2021-08-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 634/QĐ-LĐTBXH năm 2021 về Danh mục cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội do Bộ Lao động - Thương binh và Xã hội ban hành",
+      "id": "634/QĐ-LĐTBXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Lao động - Thương binh và Xã hội",
+      "signers": [
+        "Nguyễn Bá Hoan"
+      ],
+      "issuedDate": "2021-06-02",
+      "effectiveDate": "2021-06-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1760/UBDT-CSDT năm 2020 về tiếp tục thực hiện các chính sách an sinh xã hội trên địa bàn vùng dân tộc thiểu số và miền núi do Ủy ban Dân ban hành",
+      "id": "1760/UBDT-CSDT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Uỷ ban Dân tộc",
+      "signers": [
+        "Đỗ Văn Chiến"
+      ],
+      "issuedDate": "2020-12-16",
+      "effectiveDate": "2020-12-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 1764/KH-BHXH năm 2019 thực hiện đẩy mạnh chi trả dịch vụ an sinh xã hội thông qua phương tiện thanh toán không dùng tiền mặt do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "1764/KH-BHXH",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Đình Khương"
+      ],
+      "issuedDate": "2019-05-23",
+      "effectiveDate": "2019-05-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Công văn 1017/BTC-NSNN năm 2019 về báo cáo kết quả thực hiện chính sách an sinh xã hội từ năm 2018 trở về trước do Bộ Tài chính ban hành",
+      "id": "1017/BTC-NSNN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2019-01-22",
+      "effectiveDate": "2019-01-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 637/QĐ-BTTTT năm 2018 về Kế hoạch đẩy mạnh thông tin, tuyên truyền về thanh toán qua ngân hàng đối với các dịch vụ công: Thuế, điện, nước, học phí, viện phí và chi trả các chương trình an sinh xã hội đến năm 2020 do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "637/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Hoàng Vĩnh Bảo"
+      ],
+      "issuedDate": "2018-05-03",
+      "effectiveDate": "2018-05-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 241/QĐ-TTg năm 2018 về phê duyệt Đề án đẩy mạnh thanh toán qua ngân hàng đối với dịch vụ công: thuế, điện, nước, học phí, viện phí và chi trả các chương trình an sinh xã hội do Thủ tướng Chính phủ ban hành",
+      "id": "241/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Thuế - Phí - Lệ Phí",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-02-23",
+      "effectiveDate": "2018-02-23",
+      "gazetteDate": "2018-03-07",
+      "gazetteNumber": "Từ số 425 đến số 426",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 2999/LĐTBXH-BTXH năm 2017 thực hiện Đề án “Xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030” do Bộ Lao động - Thương binh và Xã hội ban hành",
+      "id": "2999/LĐTBXH-BTXH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Lao động - Thương binh và Xã hội",
+      "signers": [
+        "Nguyễn Trọng Đàm"
+      ],
+      "issuedDate": "2017-07-19",
+      "effectiveDate": "2017-07-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "634/QĐ-LĐTBXH",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Văn hóa - Xã hội"
+  ],
+  "organization": "Bộ Lao động - Thương binh và Xã hội",
+  "signers": [
+    "Lê Tấn Dũng"
+  ],
+  "issuedDate": "2018-05-29",
+  "effectiveDate": "2018-05-29",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA2ADEANgA=-->\n <tbody><tr>\n  <td width=\"227\" valign=\"top\" style=\"width:170.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">B</span>Ộ\n  </b><b><span lang=\"VI\">LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"363\" valign=\"top\" style=\"width:272.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"227\" valign=\"top\" style=\"width:170.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>634/QĐ-LĐ<span lang=\"VI\">TBXH</span></p>\n  </td>\n  <td width=\"363\" valign=\"top\" style=\"width:272.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Hà\n  Nội, ngày </span>29</i><i><span lang=\"VI\"> tháng </span>5</i><i><span lang=\"VI\">\n  năm</span> 2018 </i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">BAN HÀNH KẾ HOẠCH THỰC HIỆN GIAI ĐOẠN 2018 - 2020 ĐỀ ÁN XÂY DỰNG CƠ SỞ\nDỮ LIỆU QUỐC GIA VỀ AN SINH XÃ HỘI, ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀO GIẢI QUYẾT\nCHÍNH SÁCH AN SINH XÃ HỘI ĐẾN NĂM 2020 VÀ ĐỊNH HƯỚNG PHÁT TRIỂN ĐẾN NĂM 2030</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 14/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-14-2017-nd-cp-chuc-nang-nhiem-vu-quyen-han-co-cau-to-chuc-bo-lao-dong-thuong-binh-xa-hoi-340184.aspx\">14/2017/NĐ-CP</a> \nngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu\ntổ chức của Bộ Lao động - Thương binh và Xã hội;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 708/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-708-qd-ttg-2017-de-an-xay-dung-co-so-du-lieu-quoc-gia-ung-dung-ve-an-sinh-xa-hoi-350204.aspx\">708/QĐ-TTg</a> \nngày 25/5/2017 của Thủ tướng Chính phủ phê duyệt Đề án xây dựng Cơ sở dữ liệu\nquốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính\nsách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị của Cục trưởng Cục Bảo\ntrợ xã hội,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Kế hoạch thực\nhiện giai đoạn 2018-2020 Đề án xây dựng Cơ sở dữ liệu quốc gia về an sinh xã hội,\nứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm\n2020 và định hướng phát triển đến năm 2030.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><span lang=\"VI\"> <a name=\"dieu_2_name\">Các cơ quan, đơn vị liên quan theo nhiệm vụ,\ntrách nhiệm được giao tại Kế hoạch này, phê duyệt Kế hoạch chi tiết và tổ chức\nthực hiện bảo đảm mục tiêu, tiến độ đề ra; gửi Kế hoạch chi tiết về Bộ Lao động\n- Thương binh và Xã hội để tổng hợp, báo cáo Thủ tướng Chính phủ.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a><span lang=\"VI\"> <a name=\"dieu_3_name\">Giao Cục Bảo trợ xã hội chịu trách nhiệm đôn đốc,\nhướng dẫn, kiểm tra việc triển khai Kế hoạch này và tổng hợp tình hình thực hiện,\nbáo cáo Bộ theo quy định.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">Điều 4.</span></b></a><span lang=\"VI\"> <a name=\"dieu_4_name\">Quyết định này có hiệu lực kể từ ngày ký.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">Điều 5.</span></b></a><span lang=\"VI\"> <a name=\"dieu_5_name\">Chánh Văn phòng Bộ, Cục trưởng Cục Bảo trợ xã hội,\nVụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị liên quan chịu trách\nnhiệm thi hành Quyết định này./.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA2ADEANgA=-->\n <tbody><tr>\n  <td width=\"294\" valign=\"top\" style=\"width:220.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><br>\n  <b><i><span lang=\"VI\">Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Như Điều 5;<br>\n  - Bộ trưởng (để báo cáo);<br>\n  - Các Thứ trưởng;<br>\n  - Văn phòng Chính phủ;<br>\n  - Các Bộ: Tài chính, KHĐT, Nội vụ, Y tế, Tư Ph</span><span style=\"font-size:\n  8.0pt\">á</span><span lang=\"VI\" style=\"font-size:8.0pt\">p, KHCN, TTTT;<br>\n  - UBND các tỉnh, thành phố trực thuộc TW;<br>\n  - Sở LĐTBXH các tỉnh, thành phố trực thuộc </span><span style=\"font-size:\n  8.0pt\">TW </span><span lang=\"VI\" style=\"font-size:8.0pt\">(để thực hiện);<br>\n  - BHXH Việt Nam;<br>\n  - Tổng Công ty Bưu điện Việt Nam;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Cổng TTĐT Bộ LĐTBXH;<br>\n  - Lưu: VT, Cục BTXH.</span></p>\n  </td>\n  <td width=\"297\" valign=\"top\" style=\"width:222.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">KT.\n  B</span>Ộ </b><b><span lang=\"VI\">TRƯỞNG</span><br>\n  THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Lê Tấn Dũng</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH THỰC HIỆN GIAI ĐOẠN 2018 - 2020</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">ĐỀ ÁN XÂY DỰNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ AN SINH XÃ HỘI, ỨNG DỤNG CÔNG NGHỆ\nTHÔNG TIN VÀO GIẢI QUYẾT CHÍNH SÁCH AN SINH XÃ HỘI ĐẾN NĂM 2020 VÀ ĐỊNH HƯỚNG\nPHÁT TRIỂN ĐẾN NĂM 2030</span></a><br>\n<i><span lang=\"VI\">(Kèm theo Quyết định số </span>634</i><i><span lang=\"VI\">/QĐ-LĐTBXH\nngày 2</span>9 </i><i><span lang=\"VI\">tháng 5 năm 2018 của Bộ trưởng Bộ Lao động-Thương\nbinh và Xã hội)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 708/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-708-qd-ttg-2017-de-an-xay-dung-co-so-du-lieu-quoc-gia-ung-dung-ve-an-sinh-xa-hoi-350204.aspx\">708/QĐ-TTg</a>  ngày\n25/5/2017 của Thủ tướng Chính phủ phê duyệt Đề án xây dựng Cơ sở dữ liệu quốc\ngia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách\nan sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030 (gọi tắt là Đề\nán 708), Bộ Lao động - Thương binh và Xã hội ban hành K</span>ế <span lang=\"VI\">hoạch\nthực hiện Đề án 708 giai đoạn 2018 - 2020 như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>Phần I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ĐÁNH GIÁ KHÁI\nQUÁT CƠ SỞ DỮ LIỆU QUỐC GIA VỀ AN SINH XÃ HỘI</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. Tình hình đối\ntượng an sinh xã hội và dự báo đến năm 2025</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Tình hình đối tượng an sinh xã\nhội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Đối tượng bảo trợ xã hội và hộ\nnghèo</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Theo s</span>ố <span lang=\"VI\">liệu thống\nkê, đối tượng được hưởng trợ giúp xã hội tăng từ 700 nghìn người (năm 2007) lên\ngần 2,78 triệu người năm 2017, chiếm 3% dân số, trong đó có: hơn 1,5 triệu người\ntừ 80 tu</span>ổ<span lang=\"VI\">i trở lên không có lương hưu và trợ cấp bảo hiểm\nxã hội; khoảng 96 nghìn người già cô đơn; 913 nghìn người khuy</span>ế<span lang=\"VI\">t tật và tâm thần; hơn 60 nghìn trẻ em mồ côi, còn lại là các đối tượng\nkhác. Cả nước có 418 cơ sở trợ giúp xã hội công lập và ngoài công lập, trong đó\ncó 195 cơ sở công lập và 223 cơ sở ngoài công lập, công suất nuôi dưỡng trên 42\nnghìn đối tượng bảo tr</span>ợ <span lang=\"VI\">xã hội. Hàng triệu lượt hộ gia\nđình bị ảnh hưởng bởi thiên tai, bão lũ đã được hưởng chính sách trợ giúp xã hội\nđột xuất kịp thời. Hàng năm, Chính phủ dành ngân sách lớn để chi trợ cấp xã hội\nhàng tháng cho các đối tượng bảo trợ xã hội tại cộng đồng và trong các cơ sở bảo\ntrợ xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đến cuối năm 2017 cả nước còn trên\n1,6 triệu hộ nghèo, chiếm tỷ lệ khoảng 6,72% và 1,3 triệu hộ cận nghèo, chiếm tỷ\nlệ 5,32%. Các chính sách giảm nghèo được triển khai đồng bộ, hiệu quả. Hàng\nnăm, có hơn 1 triệu lượt hộ nghèo được vay vốn tín dụng ưu đãi để phát triển sản\nxuất với mức vay bình quân 12 triệu đồng/lượt; 29 triệu lượt người nghèo, dân tộc\nthiểu số được cấp thẻ bảo hiểm y tế miễn phí; người thuộc hộ cận nghèo tham gia\nmua thẻ bảo hi</span>ể<span lang=\"VI\">m y t</span>ế <span lang=\"VI\">được ngân sách\nhỗ trợ bằng 70%-100% mệnh giá; có trên 04 triệu lượt học sinh nghèo được miễn\ngiảm học phí, hỗ trợ điều kiện học tập và trợ cấp tiền ăn; trên 500 ngàn hộ\nnghèo được hỗ trợ nhà ở...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đối tượng hưởng chính sách người\ncó công</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đến nay cả nước đã xác nhận trên 9\ntriệu người có công; có 98% gia đình người có công có mức s</span>ố<span lang=\"VI\">ng bằng hoặc cao hơn mức s</span>ố<span lang=\"VI\">ng trung bình của dân\ncư n</span>ơ<span lang=\"VI\">i cư trú.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Đối tượng tham gia bảo hiểm xã hội,\nbảo hiểm y tế và bảo hiểm thất nghiệp</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tính đến 31/10/2017, tổng số người\ntham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cả nước đã đạt\ngần 80 triệu người, trong đó số người tham gia bảo hiểm xã hội bắt buộc là hơn\n13,2 triệu người, bảo hiểm xã hội tự nguyện là hơn 220 nghìn người, bảo hiểm thất\nnghiệp là 11,4 triệu người, bảo hi</span>ể<span lang=\"VI\">m y t</span>ế<span lang=\"VI\"> là g</span>ầ<span lang=\"VI\">n 80 triệu người, đạt tỷ lệ bao phủ bảo hi</span>ể<span lang=\"VI\">m y t</span>ế<span lang=\"VI\"> hơn 85% dân s</span>ố<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Dự báo đối tượng đến năm 2025</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Đối tượng bảo trợ xã hội và hộ\nnghèo</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Khoảng 3 triệu người được hưởng trợ\ngiúp xã hội thường xuyên, chiếm 3% dân số (trong đó trên 30% là người cao tuổi).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Giai đoạn 2016-2020, dự kiến tỷ lệ hộ\nnghèo cả nước giảm bình quân từ 1 - 1,5%/năm, các huyện nghèo giảm bình quân\n4%/năm, các xã đặc biệt khó khăn vùng dân tộc và miền núi, vùng bãi ngang ven\nbiển và hải đảo giảm bình quân từ 3- 4%/năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đối tượng tham gia bảo hiểm xã hội,\nbảo hiểm y t</span>ế<span lang=\"VI\">, bảo hiểm thất nghiệp</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ước tính khoảng 29 triệu người tham gia\nbảo hiểm xã hội (26 triệu người tham gia bảo hiểm xã hội bắt buộc và 3 triệu\nngười tham gia bảo hi</span>ể<span lang=\"VI\">m xã hội tự nguyện), 85 triệu người\ntham gia bảo hiểm y tế; có 20 triệu lao động tham gia bảo hiểm thất nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Đối tượng hưởng chính sách người\ncó công: Tổng số người có công dự kiến khoảng trên 9,2 triệu người. Tổng số người\ncó công và thân nhân hưởng trợ cấp hàng tháng dự kiến khoảng 1,2 triệu người.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. Khái quát kết\nquả xây dựng cơ sở dữ liệu (CSDL) quốc gia về an sinh xã hội và ứng dụng công\nnghệ thông tin vào giải quyết chính sách an sinh xã hội (ASXH)</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Công tác chỉ đạo, xây dựng luật\npháp, chính sách về hình thành cơ sở dữ liệu an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nghị quyết số 15-NQ/TW ngày 01/6/2012\ncủa Ban chấp hành Trung ương Đảng khóa XI; Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 70/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/nghi-quyet-70-nq-cp-nam-2012-chuong-trinh-hanh-dong-cua-chinh-phu-thuc-hien-150852.aspx\">70/NQ-CP</a>  ngày\n01/11/2012 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện\nNghị quyết số 15-NQ/TW ngày 01/6/2012 của Ban chấp hành Trung ương Đảng khóa XI\nmột số vấn đề về chính sách xã hội giai đoạn 2012- 2020, trong đó đã xác định\nrõ quan điểm “Hệ thống an sinh xã hội phải đa dạng, toàn diện, có tính chia sẻ\ngiữa Nhà nước, xã hội với người dân”; và nhiệm vụ “Xây dựng mã số an sinh xã hội\nđể phát triển Hệ thống thông tin chính sách an sinh xã hội; Xây dựng bộ chỉ số\nvề an sinh xã hội quốc gia và bộ cơ sở dữ liệu hộ gia đình để phát triển hệ thống\ngiám sát, đánh giá thực hiện chính sách an sinh xã hội hàng năm”.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quốc hội đã ban hành Luật Thống kê số\n89/2015/QH13 ngày 23/11/2015, Chính phủ ban hành Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 94/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-94-2016-nd-cp-huong-dan-luat-thong-ke-318797.aspx\">94/2016/NĐ-CP</a> \nngày 01/7/2016 quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thống\nkê; Thủ tướng Chính phủ ban hành Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1819/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1819-qd-ttg-ung-dung-cong-nghe-thong-tin-hoat-dong-cua-co-quan-nha-nuoc-2015-294230.aspx\">1819/QĐ-TTg</a>  ngày 26/10/2015 phê\nduyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của\ncơ quan nhà nước giai đoạn 2016-2020, trong đó nêu rõ mục tiêu “Cung cấp các dịch\nvụ công cơ bản trực tuyến mức độ 4, đáp ứng nhu cầu thực tế, phục vụ người dân\nvà doanh nghiệp mọi lúc, mọi nơi... </span>Ứ<span lang=\"VI\">ng dụng hiệu quả công\nnghệ thông tin trong hoạt động c</span>ủa <span lang=\"VI\">cơ quan nhà nước nhằm\ntăng tốc độ xử lý công việc, giảm chi phí hoạt động... Phát triển hạ tầng kỹ\nthuật, các hệ thống thông tin, cơ sở dữ liệu quốc gia, tạo nền tảng phát triển\nChính phủ điện tử, bảo đảm an toàn, an ninh thông tin. Tích hợp, kết nối các hệ\nthống thông tin, cơ sở dữ liệu trên quy mô quốc gia, tạo lập môi trường chia sẻ\nthông tin qua mạng rộng khắp giữa các cơ quan trên cơ sở Khung kiến trúc Chính\nphủ điện tử Việt Nam”</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngoài ra, việc xây dựng cơ dữ liệu\nthành phần được quy định từ các bộ luật, luật quan trọng như: Bộ luật Lao động;\nLuật Dạy nghề; Pháp lệnh Ưu đãi người có công với cách mạng; Luật Bảo hiểm xã hội;\nLuật Trẻ em; Luật Người cao tuổi; Luật Người khuyết tật; Luật Nuôi con nuôi; Luật\nBảo vệ sức khỏe nhân dân, Luật Khám chữa bệnh; Luật Bảo hiểm y tế; Luật Giáo dục...\nThủ tướng Chính phủ phê duyệt các chương trình mục tiêu đều có quy định xây dựng\nhệ thống thông tin và cơ sở dữ liệu (HTTT&amp;CSDL) chuyên ngành về các hợp phần\ncủa hệ thống an sinh xã hội như: Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 2361/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/giao-duc/quyet-dinh-2361-qd-ttg-duyet-chuong-trinh-bao-ve-tre-em-2015-298996.aspx\">2361/QĐ-TTg</a>  ngày 22/12/2015 của\nThủ tướng chính phủ phê duyệt Chương trình bảo vệ trẻ em giai đoạn 2016-2020,\ntrong đó có nhiệm vụ “xây dựng hệ thống phần mềm theo dõi thông tin về bảo vệ\ntrẻ em tích hợp với hệ thống thống kê dữ liệu về bảo vệ, chăm sóc trẻ em”; Quyết\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1982/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-1982-qd-ttg-2014-ung-dung-cong-nghe-thong-tin-quan-ly-day-hoc-nghe-den-2020-255885.aspx\">1982/QĐ-TTg</a>  ngày 31/10/2014 của Thủ tướng chính phủ phê duyệt Đề án “</span>Ứ<span lang=\"VI\">ng dụng công nghệ thông tin trong quản lý, hoạt động dạy và học nghề đến\nnăm 2020”, trong đó có nhiệm vụ “ứng dụng công nghệ thông tin vào các hoạt động\nquản lý, dạy và học nghề...; tích h</span>ợ<span lang=\"VI\">p toàn bộ dữ liệu về\ngiáo dục nghề nghiệp và doanh nghiệp nhằm đáp ứng nhu cầu tuyển dụng và nhu cầu\nđào tạo lao động...”; Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 150/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-150-qd-ttg-nam-2013-phe-duyet-de-an-xac-dinh-hai-cot-liet-si-164527.aspx\">150/QĐ-TTg</a>  ngày 14/01/2013 của Thủ tướng\nChính phủ về việc phê duyệt Đề án xác định hài cốt liệt sỹ còn thiếu thông tin,\ntrong đó có nhiệm vụ “Điều tra, thu thập thông tin và, xây dựng phần mềm quản\nlý và cơ sở dữ liệu thông tin liệt sỹ. Đẩy mạnh mô hình trao đổi, thu thập\nthông tin; phát triển các hệ th</span>ố<span lang=\"VI\">ng cung cấp thông tin liên\nquan đến hài cốt liệt sỹ”.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trên cơ sở đó, các Bộ ngành đã chủ động\nban hành các văn bản ứng dụng công nghệ thông tin trong hoạt động quản lý nhà\nnước của ngành như:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bộ Lao động - Thương binh và Xã hội\nban hành Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1663/QĐ-LĐTBXH\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1663-qd-ldtbxh-ung-dung-cong-nghe-thong-tin-2016-2020-343606.aspx\">1663/QĐ-LĐTBXH</a>  ngày 02/12/2016 phê duyệt kế hoạch ứng dụng\ncông nghệ thông tin trong hoạt động của Bộ Lao động - Thương binh và Xã hội\ngiai đoạn 2016-2020, trong đó có nhiệm vụ “xây dựng các phần m</span>ề<span lang=\"VI\">m và CSDL chuyên ngành và đưa vào khai thác có hiệu quả cơ sở dữ liệu\nchuyên ngành về: Lao động, người có công và các đối tượng chính sách xã hội...;\nxây dựng các quy định, hướng dẫn thu thập, cập nhật, chia sẻ, khai thác thông\ntin, dữ liệu, CSDL chuyên ngành nhằm đảm bảo khả năng tiếp cận và sử dụng cho\ncác cơ quan, tổ chức, doanh nghiệp, người dân; tăng cường kết nối, tích h</span>ợ<span lang=\"VI\">p, trao đổi thông tin, dữ liệu giữa các cơ quan Bộ, ngành,...”.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bảo hiểm xã hội Việt Nam ban hành Quyết\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 640/QĐ-BHXH\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-640-qd-bhxh-ung-dung-cong-nghe-thong-tin-nganh-bao-hiem-xa-hoi-2016-2020-310512.aspx\">640/QĐ-BHXH</a>  ngày 28/4/2016 phê duyệt kế hoạch ứng dụng công nghệ thông\ntin trong hoạt động của ngành Bảo hiểm xã hội giai đoạn 2016-2020, trong đó nêu\nrõ “Xây dựng Cơ sở dữ liệu quốc gia về Bảo hiểm với dữ liệu đầy đủ, được làm sạch\nvà cập nhật của tất cả các đối tượng, đơn vị tham gia bảo hiểm xã hội (BHXH), bảo\nhiểm y tế (BHYT) theo yêu cầu của Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 714/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-714-qd-ttg-2015-danh-muc-co-so-du-lieu-quoc-gia-trien-khai-phat-trien-chinh-phu-dien-tu-275429.aspx\">714/QĐ-TTg</a>  ngày 22/5/2015 của\nThủ tướng Chính phủ ban hành danh Mục Cơ sở dữ liệu quốc gia cần được ưu tiên\ntriển khai tạo nền tảng phát triển Chính phủ điện tử…</span>”.</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bộ Y tế ban hành Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 445/QĐ-BYT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-445-qd-byt-ke-hoach-ung-dung-phat-trien-cong-nghe-thong-tin-2016-2020-302377.aspx\">445/QĐ-BYT</a>  ngày 5/2/2016 phê duyệt kế hoạch ứng dụng và phát triển công nghệ thông\ntin giai đoạn 2016-2020 của Bộ Y tế, trong đó nêu rõ “Xây dựng hệ th</span>ố<span lang=\"VI\">ng cơ sở dữ liệu tích h</span>ợ<span lang=\"VI\">p phục vụ các nhu cầu thiết\nyếu của công tác chỉ đạo, điều hành, quản lý ngành y tế...”; Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 5004/QĐ-BYT\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-5004-qd-byt-mo-hinh-kien-truc-tong-the-he-thong-thong-tin-kham-chua-benh-bao-hiem-y-te-2016-323303.aspx\">5004/QĐ-BYT</a>  ngày 19/9/2016 về việc phê duyệt mô hình kiến trúc tổng thể hệ thống\nthông tin khám chữa bệnh BHYT; Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Kế hoạch 266/KH-BYT\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/ke-hoach-266-kh-byt-ung-dung-cong-nghe-thong-tin-quan-ly-kham-benh-thanh-toan-bao-hiem-y-te-2017-342777.aspx\">266/KH-BYT</a>  ngày 10/3/2017 về triển\nkhai ứng dụng công nghệ thông tin trong quản lý khám, chữa bệnh và thanh toán\nBHYT năm 2017.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bộ Tư pháp ban hành Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 2173/QĐ-BTP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-so-2173-qd-btp-phe-duyet-de-an-co-so-du-lieu-ho-tich-dien-tu-toan-quoc-2015-307027.aspx\">2173/QĐ-BTP</a>  ngày 11/12/2015 phê duyệt Đề án “Cơ sở dữ liệu hộ tịch điện tử toàn\nquốc”, nhằm “Hiện đại hóa công tác đăng ký và quản lý hộ tịch trên cơ sở xây dựng\nCơ sở dữ liệu hộ tịch điện tử toàn quốc, nhằm thiết lập hệ thống thông tin hộ tịch\nđ</span>ồ<span lang=\"VI\">ng bộ, thông su</span>ố<span lang=\"VI\">t giữa các cơ quan\nđăng ký, quản lý hộ tịch trên toàn quốc, bảo đảm việc kết nối để chia sẻ, cung\ncấp thông tin hộ tịch cho Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu\nchuyên ngành khác,…”.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hệ thống các văn bản quy phạm pháp luật,\nvăn bản chỉ đạo đã tạo môi trường pháp lý thuận lợi để các Bộ, ngành bước đầu\ntriển khai, xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Hệ thống chỉ tiêu theo dõi, quản\nlý chính sách an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Hệ thống chỉ tiêu thống kê cấp quốc\ngia</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thủ tướng Chính phủ đã ban hành quyết\nđịnh số 43/QĐ-TTg ngày 02/6/2010 ban hành hệ thống chỉ tiêu quốc gia, trong đó\ncó các chỉ tiêu thuộc lĩnh vực an sinh xã hội gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(i) Lĩnh vực lao động - thương binh\nvà xã hội (LĐTBXH) gồm 9 chỉ tiêu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Lao động - việc làm (2 chỉ tiêu): </span>S<span lang=\"VI\">ố lao động được tạo việc làm, số lao động đi làm việc có thời hạn ở nước\nngoài trong năm theo hợp đồng,</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dạy nghề (4 chỉ tiêu): </span>S<span lang=\"VI\">ố cơ sở dạy nghề, số giáo viên dạy nghề, số học sinh học nghề, Chi cho\nhoạt động dạy nghề,</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bảo trợ xã hội (3 chỉ tiêu): </span>S<span lang=\"VI\">ố người tàn tật được trợ cấp, số người được hỗ trợ xã hội thường xuyên,\n</span>S<span lang=\"VI\">ố người được hỗ trợ xã hội đột xuất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(ii) Lĩnh vực Bảo hiểm xã hội, gồm 5\nchỉ tiêu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Số người đóng bảo hiểm xã hội, bảo hiểm\ny tế, bảo hiểm thất nghiệp; </span>S<span lang=\"VI\">ố người được hưởng bảo hiểm\nxã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Thu bảo hiểm xã hội, bảo hiểm y t</span>ế<span lang=\"VI\">, bảo hiểm thất nghiệp; Chi bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất\nnghiệp; </span>S<span lang=\"VI\">ố dư cuối kỳ, số tăng trong kỳ của quỹ bảo hiểm\nxã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(iii) Lĩnh vực Giáo dục, đào tạo gồm\n4 chỉ tiêu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Số học sinh trung cấp chuyên nghiệp; </span>S<span lang=\"VI\">ố sinh viên cao đẳng; </span>S<span lang=\"VI\">ố sinh viên đại học; Chi\ncho hoạt động giáo dục và đào tạo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(iv) Lĩnh vực Y tế gồm 6 chỉ tiêu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tỷ lệ mắc, chết mười bệnh cao nhất\ntính trên 100.000 người dân; Tỷ lệ trẻ em dưới 1 tuổi được tiêm chủng đầy đủ\ncác loại vắc xin; </span>S<span lang=\"VI\">ố trẻ em dưới 15 tuổi mắc, chết do các\nloại bệnh có vắc xin tiêm chủng; Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng; </span>S<span lang=\"VI\">ố người nhiễm HIV, số bệnh nhân AIDS, số người chết do AIDS; </span>S<span lang=\"VI\">ố phụ nữ mang thai từ 15 - 25 tuổi có HIV.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(v) Lĩnh vực ngành Công an gồm 2 chỉ\ntiêu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Số người nghiện ma t</span>úy <span lang=\"VI\">có hồ sơ quản lý; </span>S<span lang=\"VI\">ố xã, phường không có người\nnghiện ma t</span>úy<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(vi) Lĩnh vực Tư pháp gồm 1 chỉ tiêu:\n</span>S<span lang=\"VI\">ố lượt người được trợ giúp pháp lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Hệ thống chỉ tiêu cấp Bộ, ngành</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trên cơ sở hệ thống chỉ tiêu quốc\ngia, xuất phát từ nhu cầu quản lý một số Bộ, ngành xây dựng hệ thống chỉ tiêu\nquản lý, chế độ báo cáo thống kê cấp Bộ như:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(i) Bộ Lao động - Thương binh và Xã hội\nđã xây dựng hệ thống chỉ tiêu thống kê ngành ban hành theo Thông tư số\n30/2011/TT-BLĐTBXH ngày 24/11/2011. Trong đó, có 23 chỉ tiêu thuộc lĩnh vực\nASXH với kỳ công bố hàng năm, do các cơ quan, đơn vị thuộc Bộ thu thập, tổng hợp\ncụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Lao động - việc làm (3 chỉ tiêu): </span>S<span lang=\"VI\">ố người được hưởng trợ cấp thất nghiệp được hỗ trợ học nghề, </span>S<span lang=\"VI\">ố người hưởng trợ cấp thất nghiệp được tư vấn giới thiệu việc làm, Số\nlao động người nước ngoài làm việc ở Việt Nam được cấp phép.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dạy nghề (3 chỉ tiêu): Tỷ lệ học\nsinh tốt nghiệp ra trường có việc làm, Tỷ lệ lao động qua đào tạo nghề, </span>S<span lang=\"VI\">ố người được hỗ trợ học nghề theo chính sách Đề án dạy nghề cho lao động\nnông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Người có công (4 chỉ tiêu): </span>Số\n<span lang=\"VI\">lượt người đang hưởng trợ cấp ưu đãi người có công hàng tháng, </span>S<span lang=\"VI\">ố lượt người được hưởng trợ cấp ưu đãi một lần, </span>S<span lang=\"VI\">ố\nhộ người có công được hỗ trợ cải thiện nhà ở, </span>S<span lang=\"VI\">ố công\ntrình ghi công liệt sỹ).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trợ giúp xã hội - Giảm nghèo (7 chỉ\ntiêu): Kinh phí trợ giúp xã hội, </span>S<span lang=\"VI\">ố cơ sở bảo trợ xã hội, </span>Số\n<span lang=\"VI\">đối tượng hỗ trợ xã hội được cấp thẻ bảo hiểm y tế, </span>S<span lang=\"VI\">ố hộ nghèo, </span>S<span lang=\"VI\">ố hộ thoát nghèo, </span>S<span lang=\"VI\">ố hộ nghèo phát sinh, Tổng kinh phí giảm nghèo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chăm sóc và bảo vệ trẻ em (6 chỉ\ntiêu): </span>S<span lang=\"VI\">ố trẻ em, </span>S<span lang=\"VI\">ố trẻ có hoàn cảnh\nđặc biệt, Tỷ lệ trẻ em có hoàn cảnh đặc biệt được chăm sóc, </span>S<span lang=\"VI\">ố xã/phường và tỷ lệ xã/phường phù hợp với trẻ em, </span>S<span lang=\"VI\">ố cơ sở có trợ giúp trẻ em.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Với 23 chỉ tiêu được ban hành nhưng\ncác chỉ tiêu báo cáo vẫn còn chung chung, chưa đáp ứng được nhu cầu quản lý nhà\nnước (chủ yếu là chỉ tiêu đầu vào) nhất là công tác lập kế hoạch, phân b</span>ổ\n<span lang=\"VI\">ngân sách. Trên cơ sở chỉ tiêu do Bộ ban hành, các lĩnh vực sẽ\ntùy vào nhu cầu quản lý để xây dựng bộ chỉ tiêu báo cáo hàng năm. Tuy nhiên,\nquá trình xây dựng bộ chỉ tiêu chưa có văn bản chung dẫn đến thông tin thiếu\nchính xác, không cập nhật và đa phần bị chồng chéo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(ii) Bảo hiểm xã hội Việt Nam ban hành\nQuyết định số 982/QĐ-BHXH ngày 12/7/2016 của Tổng Giám đốc Bảo hiểm xã hội Việt\nNam về việc ban hành hệ thống chỉ tiêu thống kê và chế độ báo cáo thống kê\nngành BHXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(iii) Bộ Y tế ban hành Danh mục Hệ thống\nchỉ số cơ bản ngành Y tế kèm theo Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 06/2014/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-06-2014-tt-byt-danh-muc-he-thong-chi-so-thong-ke-co-ban-nganh-y-te-221521.aspx\">06/2014/TT-BYT</a>  ngày 14/02/2014\nbao gồm 88 chỉ tiêu cấp bộ, chưa kể rất nhiều chỉ số, chỉ tiêu phục vụ cho quản\nlý từng lĩnh vực cụ thể tại các đơn vị Cục, Vụ, Viện và các dự án, chương trình\nmục tiêu quốc gia do Bộ Y tế quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(iv) Bộ Giáo dục và Đào tạo ban hành\nThông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 39/2011/TT-BGDĐT\" href=\"https://thuvienphapluat.vn/van-ban/giao-duc/thong-tu-39-2011-tt-bgddt-he-thong-chi-tieu-thong-ke-giao-duc-va-dao-tao-129249.aspx\">39/2011/TT-BGDĐT</a>  ngày 15/9/2011 về ban hành hệ thống chỉ tiêu thống\nkê giáo dục và đào tạo g</span>ồ<span lang=\"VI\">m 47 chỉ tiêu, trong đó một số chỉ\ntiêu có phân tổ theo loại hình; tỉnh/thành phố; khối lớp; giới tính, dân tộc; đối\ntượng chính sách, khuyết tật; tuyển mới, lưu ban, bỏ học; học 2 buổi/ngày; độ\ntuổi; trường phổ thông dân tộc bán trú. Tuy nhiên, không thấy có các chỉ tiêu về\ntrợ giúp xã hội cho các đối tượng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">(v) Bộ Tư pháp ban hành Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 20/2013/TT-BTP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-20-2013-tt-btp-huong-dan-thong-ke-nganh-tu-phap-215936.aspx\">20/2013/TT-BTP</a>  ngày 03/12/2013 hướng dẫn một số nội dung về hoạt động thống kê\nngành tư pháp với 3 chỉ tiêu về trợ giúp pháp lý, gồm: </span>Số <span lang=\"VI\">lượt\nngười được trợ giúp pháp lý; s</span>ố <span lang=\"VI\">vụ việc trợ giúp pháp lý;\nsố kiến nghị trong trợ giúp pháp lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Hệ thống phần mềm quản lý và cơ\nsở dữ liệu thành phần về an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 64/2007/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-64-2007-nd-cp-ung-dung-cong-nghe-thong-tin-trong-co-quan-nha-nuoc-18234.aspx\">64/2007/NĐ-CP</a> \nngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin (CNTT) trong hoạt\nđộng quản lý nhà nước, các bộ ngành đã tổ chức triển khai, bước đầu đã hình\nthành các hệ thống cơ sở dữ liệu chuyên ngành. Trong đó, hệ thống cơ sở dữ liệu\nđược xây dựng tương đối bài bản gồm lĩnh vực: bảo hiểm xã hội, thông tin thị\ntrường lao động, dữ liệu chứng minh thư nhân dân... Các hệ thống trên được triển\nkhai cụ thể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3.1. Hệ thống thông tin quản lý và cơ\nsở dữ liệu lĩnh vực Bảo hiểm xã hội</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">BHXH Việt Nam đã đẩy mạnh các hoạt động\nứng dụng công nghệ thông tin theo hướng hiện đại và tuân thủ chung theo khung\nkiến trúc Chính phủ điện tử Việt Nam; BHXH Việt Nam đã xây dựng hệ thống mạng\nWAN toàn ngành, kết nối 63 BHXH các tỉnh, thành phố và hơn 700 quận, huyện phục\nvụ các ứng dụng CNTT của Ngành; xây dựng Trung tâm dữ liệu (TTDL) ngành để phục\nvụ triển khai phần mềm nghiệp vụ lõi trên phạm vi toàn quốc, cũng như thực hiện\nxử lý các hệ thống ứng dụng CNTT khác; vận hành hệ thống Thông tin giám định\nBHYT; triển khai hệ thống dịch vụ công trực tuyến của Ngành theo tinh thần Nghị\nquyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử; thực hiện\ngắn mã định danh BHXH duy nhất cho toàn bộ đối tượng tham gia, xây dựng nền tảng\nkỹ thuật để hoàn thiện hệ thống sổ BHXH, thẻ BHYT điện tử trong năm 2018; triển\nkhai Hệ thống Quản lý văn bản điều hành (thực hiện gửi, nhận văn bản điện tử;\nphân công, xử lý công việc qua mạng) trong toàn Ngành. Đến nay, các đơn vị thuộc\nNgành từ Trung ương đến cấp tỉnh, cấp huyện đã ứng dụng CNTT trong công tác quản\nlý điều hành, xử lý văn bản, kết nối liên thông cho toàn bộ các đ</span>ơn <span lang=\"VI\">vị trực thuộc và tới Văn phòng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3.2. Hệ thống thông tin và cơ sở dữ\nliệu người có công</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Cổng thông tin điện tử: đã được\nxây dựng và triển khai nhằm cung cấp các thông tin, tin tức sự kiện có liên\nquan; văn bản chính sách và các hỏi/đáp có liên quan đến trợ cấp, ưu đãi người\ncó công và công tác đền ơn đáp nghĩa...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Cơ sở dữ liệu người có công: được\nlưu trữ không tập trung. Năm 1997, “phần mềm quản lý thông tin về người có\ncông”; năm 1998, phần mềm cấp Bằng Tổ quốc ghi công; năm 2004, phần mềm “Quản\nlý tài chính trợ cấp ưu đãi người có công; năm 2010, xây dựng phần mềm quản lý\nvà cơ sở dữ liệu về mộ liệt sĩ, nghĩa trang liệt sĩ; năm 2011, xây dựng phần mềm\nquản lý giám định ADN xác định hài cốt liệt sĩ còn thiếu thông tin; năm 2017,\nphần mềm điều tra thông tin liệt sĩ, thân nhân liệt sĩ, mộ và nghĩa trang liệt\nsỹ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bộ Lao động - Thương binh và Xã hội\nđã xây dựng, triển khai phần mềm “Quản lý tài chính trợ cấp ưu đãi người có\ncông” để cập nhật, quản lý thông tin và phục vụ hoạt động chi trả trợ cấp đối với\nngười có công theo 03 cấp: Bộ LĐTBXH, Sở LĐTBXH, Phòng LĐTBXH; Quản lý hồ sơ đối\ntượng và danh sách chi trả trợ cấp; Quản lý công tác lập dự toán, cấp phát kinh\nphí và chi trả trợ cấp ưu đãi người có công...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3.3. Hệ thống thông tin và Cơ sở dữ\nliệu Bảo trợ xã hội và giảm nghèo</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Cổng thông tin điện tử về Bảo trợ\nxã hội được triển khai tại địa chỉ http://btxh.gov.vn là nền tảng gắn kết các ứng\ndụng, HTTT&amp;CSDL trong nội bộ phục vụ quản lý, điều hành; đồng thời cũng là\nkênh kết nối/tích h</span>ợ<span lang=\"VI\">p với hệ thống khác nhằm cung cấp dịch\nvụ công về BTXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Hệ thống Cơ sở dữ liệu về giảm\nnghèo: Đã xây dựng phần mềm quản lý, nhập dữ liệu hộ nghèo, hộ cận nghèo để\nchuyển giao cho các địa phương. Giai đoạn 2016-2020, thực hiện Quyết định số\n656/QĐ-LĐTBXH ngày 03/6/2015 của Bộ Lao động - Thương binh và Xã hội, việc nhập\nvà quản lý dữ liệu hộ nghèo, hộ cận nghèo được thực hiện thí điểm trên phần mềm\nPosaSoft (quản lý trực tuyến) do Dự án Tăng cường hệ thống trợ giúp xã hội Việt\nNam thuộc Bộ LĐTBXH triển khai tổ chức thực hiện. Hiện nay phần mềm đã cơ bản\nhoàn thành quá trình thí </span>điểm<span lang=\"VI\"> tại 04 tỉnh tham gia Dự án,\ndự kiến sẽ hoàn thiện và chuyển giao cho 63/63 tỉnh, thành phố trong năm 2018.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Bộ Lao động - Thương binh và Xã hội\nđang triển khai hệ thống Cơ sở dữ liệu về bảo trợ xã hội (chuẩn </span>hóa <span lang=\"VI\">bộ chỉ tiêu th</span>ố<span lang=\"VI\">ng kê, xây dựng các giải pháp kỹ\nthuật phần cứng, phần mềm bảo đảm cập nhật, phân tích, tổng hợp và truyền tải\nthông tin về BTXH từ Trung ương tới địa phương (63 tỉnh, thành phố). Đ</span>ồ<span lang=\"VI\">ng thời, Bộ Lao động - Thương binh và Xã hội cũng đang xây dựng, triển\nkhai dự án “Tăng cường Hệ thống trợ giúp xã hội Việt Nam” là một dự án vay vốn\nđầu tư từ Ngân hàng thế giới với mục tiêu là xây dựng một hệ th</span>ố<span lang=\"VI\">ng quản lý và triển khai các chương trình trợ giúp xã hội nhằm hướng đến\nđảm bảo mức sống tối thiểu cho mọi người dân, góp phần giảm nghèo bền vững theo\ntinh thần Nghị quyết số 15-NQ/TW ngày 01/6/2012 của Ban chấp hành Trung ương Đảng\nkhóa XI.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4. Hạ tầng ứng dụng công nghệ\nthông tin của các Bộ, ngành</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cơ sở hạ tầng CNTT được Bộ Lao động -\nThương binh và Xã hội, Bộ Công an, Bảo hiểm xã hội Việt Nam và các cơ quan quản\nlý địa phương xây dựng riêng để phục vụ triển khai các ứng dụng, HTTT&amp;CSDL\nphục vụ công tác quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Tại Bộ Lao động - Thương binh và\nXã hội</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đã đầu tư xây dựng Trung tâm tích h</span>ợ<span lang=\"VI\">p dữ liệu (THDL) tại Bộ, gồm tổng thể các trang thiết bị bao gồm các\nmáy chủ, hệ thống lưu trữ, hệ thống mạng, hệ thống sao lưu backup, hệ thống an\nninh bảo mật, hệ thống phòng cháy chữa cháy... Trung tâm THDL của Bộ đã chính\nthức đi vào hoạt động, hỗ trợ cho việc lưu trữ, xử lý số liệu thông tin ngành\nLĐTBXH cũng như phục vụ trao đổi thông tin kịp thời đảm bảo ninh, an toàn với độ\nsẵn sàng cao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trung tâm THDL thiết kế dựa theo tiêu\nchuẩn TIA-942. Thành phần của Trung tâm THDL bao gồm một phòng điều khiển Trung\ntâm (NOC - được </span>tr<span lang=\"VI\">ang bị máy tính để kiểm soát các hoạt động\ncủa Trung tâm), phòng chứa Server (Server của Trung tâm THDL được đầu tư là các\nBlade Server giúp tiết kiệm không gian của phòng, tăng khả năng lưu trữ...) và\ncác thiết bị mạng, thiết bị an toàn, bảo mật nhằm bảo vệ hệ thống. Hệ thống\ncung cấp điện lưới cho Trung tâm THDL, để đảm bảo cho hệ thống hoạt động xuyên\nsuốt không xảy ra sự cố về nguồn điện (UPS và máy phát điện dự phòng). Hệ thống\nđiều hòa nhiệt độ sử dụng loại máy lạnh chính xác duy trì nhiệt độ ổn định\ntrong giới hạn cho phép ở +/- 22 độ </span>C <span lang=\"VI\">nhằm đáp ứng mức độ\nlàm mát cho thiết bị hoạt động bên trong. Hệ th</span>ố<span lang=\"VI\">ng an ninh\ncho Trung tâm THDL: hệ thống IP Camera, dữ liệu thu được sẽ lưu trữ trên </span>ổ\n<span lang=\"VI\">cứng máy tính. Cả hai hệ thống trên đều cho phép dùng IP và có thể\nkết nối vào mạng Ethernet.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tại BHXH Việt Nam</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đã xây dựng và triển khai kế hoạch ứng\ndụng CNTT trong hoạt động của ngành giai đoạn 2012-2015; ban hành thiết kế mẫu\nmạng nội bộ, mạng diện rộng của BHXH cấp tỉnh và huyện. Kết quả đầu tư ứng dụng\nvà phát triển CNTT trong ngành BHXH bước đầu đã đạt được những kết quả nhất định,\ncó tác động tích cực đến công tác chuyên môn nghiệp vụ, đặc biệt đã từng bước\nthay đổi phương pháp và môi trường làm việc dựa trên việc ứng dụng CNTT tại các\ncấp trong toàn Ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- BHXH Việt Nam đã triển khai mạng\nWAN ở tất cả 63 tỉnh thành và hơn 700 huyện để thực hiện kết nối từ Trung ương\nđến tỉnh, từ tỉnh đến huyện. Hệ thống mạng WAN Ngành đã đảm bảo kết nối liên tục,\nthông suốt và bảo mật cho các hoạt động nghiệp vụ và quản lý trên môi trường mạng\ncủa BHXH Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cùng với việc mở rộng và hoàn thiện\nTrung tâm dữ liệu, năm 2017 ngành BHXH cũng đang xây dựng Trung tâm dữ liệu dự\nphòng, phục hồi thảm họa nhằm đảm bảo an toàn và độ sẵn sàng ở mức cao nhất cho\nhoạt động của hệ thống CNTT của Ngành khi có sự cố bất khả kháng xảy ra.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Tại Bộ Công an</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Luật Căn cước công dân và\nQuyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 896/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-896-qd-ttg-nam-2013-phe-duyet-de-an-don-gian-hoa-thu-tuc-hanh-chinh-192791.aspx\">896/QĐ-TTg</a>  ngày 08/6/2013 của Thủ tướng Chính phủ, Bộ Công an\nđang triển khai xây dựng dự án Cơ sở dữ liệu quốc gia về dân cư (dự kiến hoàn\nthành năm 2020).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ sở dữ liệu quốc gia về dân cư là\ncơ sở dữ liệu dùng chung do Bộ Công an quản lý, bao gồm tập hợp thông tin cơ bản\n(được quy định tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2457967')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2457967')\" atmm=\".lqhlTootip-2457967\" onmouseout=\"hideddrivetip();\">Điều 9 Luật Căn cước công dân</a>) của tất cả\ncông dân Việt Nam được chuẩn hóa, số hóa, lưu trữ, quản lý bằng cơ sở hạ tầng\nthông tin để phục vụ quản lý nhà nước và giao dịch của cơ quan, tổ chức, cá\nnhân. Dự án Cơ sở dữ liệu quốc gia về dân cư được xây dựng theo mục tiêu tạo sự\nđổi mới căn bản về tổ chức, hoạt động quản lý nhà nước về dân cư theo hướng hiện\nđại, phù hợp với điều kiện của Việt Nam trong thời kỳ công nghiệp hóa, hiện đại\nhóa và thông lệ quốc t</span>ế<span lang=\"VI\">; đẩy mạnh ứng dụng công nghệ thông\ntin vào giải quyết thủ tục hành chính cho người dân, doanh nghiệp, nhằm đ</span>ơ<span lang=\"VI\">n giản hóa thủ tục hành chính, giảm giấy tờ công dân, góp phần nâng cao\nhiệu lực, hiệu quả quản lý nhà nước trên tất cả các lĩnh vực của đời s</span>ố<span lang=\"VI\">ng xã hội; đồng thời, góp phần phát triển Chính phủ điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Số định danh cá nhân được xác lập từ\nCơ sở dữ liệu quốc gia về dân cư, cấp cho mỗi công dân Việt Nam và gắn với người\nđó từ khi sinh ra đến khi chết, không lặp lại ở người khác, dùng để xác định dữ\nliệu về công dân và kết nối, cập nhật, chia sẻ, khai thác thông tin của công\ndân trong Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu chuyên ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Như vậy, các cơ sở dữ liệu quốc gia\nkhác, cơ sở dữ liệu chuyên ngành kết nối với Cơ sở dữ liệu quốc gia về dân cư để\nthu thập, cập nhật, chia sẻ, khai thác, sử dụng thông tin về công dân thông qua\nsố định danh cá nhân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5 . Nguồn nhân lực</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đội ngũ cán bộ, nhân viên làm công\ntác ASXH cả nước ước tính có khoảng 30.000 người làm việc tại các cơ quan Trung\nương (Bảo hiểm xã hội Việt Nam, Bộ LĐTBXH, Bộ Y tế) và các địa phương (cấp tỉnh:\n63 Sở L</span>Đ<span lang=\"VI\">TBXH, 63 sở Y tế; 63 BHXH địa phương; cấp huyện:\n698 đơn vị cấp huyện; 11.112 cấp xã), các cơ sở bảo trợ xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">6. Hợp tác quốc tế</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thời gian qua, chúng ta đã tranh thủ\nđược sự ủng hộ về nhiều mặt của nhiều của qu</span>ố<span lang=\"VI\">c tế như\nWORLD BANK, UNICEF, UNDP, IL</span>O<span lang=\"VI\">, GIZ, các cá nhân, tổ chức\nquốc tế khác. Các tổ chức quốc tế ở tại Việt Nam cũng như Chính phủ các nước\nđóng vai trò quan trọng và rất quan tâm hỗ trợ cho lĩnh vực ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nguồn viện trợ quốc t</span>ế <span lang=\"VI\">cho Việt Nam ngày một tăng lên. Năm 2013, Thủ tướng Chính phủ vừ</span>a\n<span lang=\"VI\">phê duyệt danh mục đầu tư dự án tăng cường trợ giúp xã hội, vốn\nvay của Ngân hàng Thế giới, trong đó 32,5 triệu đô dành cho việc xây dựng cơ sở\ndữ liệu quốc gia về TGXH. Ngoài việc tài trợ về nguồn lực, chia sẻ các bài học\nkinh nghiệm, nâng cao năng lực cán bộ công tác trong lĩnh vực ASXH. Các mô hình\nASXH tiên tiến trên thế giới đã và đang được thí điểm, nghiên cứu, áp dụng\ntrong thực tiễn tại Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Việt Nam cũng đã tham gia ký kết các\nvăn bản thỏa thuận, điều ước quốc tế quan trọng liên quan đến hợp tác trong\nlĩnh vực ASXH. Tuyên bố thiên niên kỷ được 189 nguyên thủ quốc gia ký kết vào\ntháng 9/2000, trong đó có các mục tiêu phát triển thiên niên kỷ. Ngày\n13/11/2013, Việt Nam trúng cử với số phiếu cao nhất trong 14 nước thành viên mới\nvà lần đầu tiên trở thành thành viên Hội đ</span>ồ<span lang=\"VI\">ng Nhân quyền\nLiên H</span>ợ<span lang=\"VI\">p Quốc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. Khó khăn,\nthách thức</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Hệ thống chỉ tiêu thống kê, báo\ncáo về an sinh xã hội chưa đồng bộ, thống nhất</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cho đến nay chưa có hệ thống chỉ tiêu\nthống kê và các thông tin đồng bộ, thống nhất về ASXH trên phạm vi toàn quốc,\nchỉ có các hệ thống chỉ tiêu thống kê trong từng lĩnh vực cụ thể của các bộ,\nngành. Trong một chừng mực nhất định, một số chỉ tiêu thống kê chuyên ngành của\nlĩnh vực ASXH chưa được chuẩn </span>hóa<span lang=\"VI\">, thống nhất giữa các cấp\nquản lý, chồng chéo về nội dung dẫn đến tình trạng trùng lặp về đối tượng. Chưa\nhình thành được mã số đ</span>ị<span lang=\"VI\">nh danh cá nhân/mã số an sinh xã hội\ncấp quốc gia (hệ thống cơ sở dữ liệu quốc gia về dân cư xây dựng với mục tiêu\nxây dựng mã số công dân, cấp cho 01 người từ lúc sinh cho đến khi chết đã được\nxây dựng nhưng tiến độ kéo dài đến năm 2020 mới hoàn thành). Công tác thu thập,\ntổng hợp, báo cáo số liệu còn thiếu chi tiết, chưa đáp ứng yêu cầu, chưa thực sự\ntạo điều kiện thuận tiện cho cán bộ cơ sở, nhất là cấp xã, phường và cấp quận\nhuyện thực hiện, dẫn tới tình trạng tổng hợp được số liệu chưa chính xác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Các hệ thống phần mềm quản lý\nvà cơ sở dữ liệu an sinh xã hội chưa đồng bộ, thống nhất</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hệ thống cơ sở dữ liệu chuyên ngành\nđược hình thành và phát triển không đồng bộ. Hệ thống thông tin và CSDL hiện có\nchưa được chuẩn hóa, việc thu thập, cập nhật, quản lý thông tin còn mang tính\nđơn lẻ, chưa đầy đủ, kịp thời, độ tin cậy chưa cao, hiệu quả sử dụng thấp. Do\nđó không thể cập nhập, theo dõi biến động dẫn đến không đáp ứng được yêu cầu quản\nlý nhà nước: kịp thời, chính xác. Bên cạnh đó, do thiếu sự phát triển đồng bộ\nnên các CSDL chuyên ngành không có sự kết nối dẫn đến không hiệu quả, tốn kém từ\nkhâu thu thập thông tin, quản lý, khai thác, chia sẻ. Thiếu sự kết nối nên vẫn\nxảy ra tình trạng trùng, sai, gây lãng phí cho nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Nguồn kinh phí đầu tư cho ứng dụng\ncông nghệ thông tin, cơ sở dữ liệu còn hạn chế</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nguồn đầu tư cho ứng dụng CNTT phục vụ\ncông tác quản lý về </span>A<span lang=\"VI\">SXH của Nhà nước có tăng hàng năm\nnhưng chưa đáp ứng được yêu cầu ngày càng tăng của ASXH; cơ chế tài chính cho ứng\ndụng CNTT còn nhiều bất cập. Nhìn chung, chi ứng dụng CNTT chưa được tách độc lập\nmà vẫn nằm chung với các nhiệm vụ chi khác do đó kinh phí còn hạn hẹp, chưa đáp\nứng được đầy đủ các nhu cầu ứng dụng CNTT xây dựng các hệ thống cơ sở dữ liệu\nphục vụ công tác quản lý theo từng trụ cột của hệ thống ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4. Nguồn nhân lực làm công tác an\nsinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cán bộ, nhân viên làm công tác ASXH\nđa phần là kiêm nhiệm và hầu như chưa được đào tạo bài bản về kỹ năng </span>ứ<span lang=\"VI\">ng dụng CNTT, quản lý, vận hành các HTTT&amp;CSDL thành phần. Với sự\nphát triển của CNTT&amp;TT, việc tổ chức, triển khai đào tạo về kỹ năng CNTT\ncho cán bộ, nhân viên làm công tác ASXH là yêu cầu cần thiết nhằm từng bước\nchuyên nghiệp </span>hóa <span lang=\"VI\">về công tác quản lý HTTT&amp;CSDL về\nASXH hiện đại, thúc đẩy phát triển mạng lưới xây dựng chính sách, cung cấp dịch\nvụ ASXH trong phạm vi cả nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5. Cơ chế quản lý và khai thác\nthông tin</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hàng năm, Bộ Lao động - Thương binh\nvà Xã hội đều yêu cầu các đơn vị cung cấp số liệu về các lĩnh vực quản lý của\nngành, song chất lượng báo cáo còn nhiều hạn chế. Việc quản lý và khai thác\nthông tin chưa thành nề nếp. Mặt khác cũng chưa có quy định cụ thể về việc chia\nsẻ thông tin, khai thác sử dụng thông tin. Bên cạnh đó, nguồn nhân lực tuy đông\nsong chủ yếu làm kiêm nhiệm, số cán bộ chuyên trách về công nghệ thông tin\nkhông nhiều, trình độ sử dụng công nghệ thông tin còn hạn chế; hạ tầng kỹ thuật\nvề công nghệ thông tin còn bất cập do vậy việc khai thác sử dụng cũng chưa thật\nhiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">IV. Kinh nghiệm quốc\ntế</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kinh nghiệm quốc tế cho thấy, các nước\nđặc biệt chú trọng đầu tư cho việc xây dựng hệ thống an sinh xã hội hiện đại,\ntiên tiến trên nền tảng ứng dụng công nghệ thông tin. Điển hình là các nước khu\nvực Châu Âu, Mỹ, Nhật, </span>Ú<span lang=\"VI\">c, Ấn Độ, Nga, Nam Phi. Tính đến\nnăm 2013, có hơn 15 quốc gia được Ngân hàng thế giới hỗ trợ về tài chính để thực\nhiện các chương trình này như Philippines, Indonesia, Trung Quốc, Brazil và\ntrong đó có Việt Nam. Một số hệ thống thông tin quản lý chương trình trợ giúp\nxã hội tiêu biểu nhất đang được thực hiện ở các quốc gia như chương trình bảo\ntrợ xã hội “Dibao” của Trung Quốc, chương trình “4P” của Philippines, chương\ntrình “Bolsa Familia” của Brazil. Tại Nam Phi, Cơ quan An sinh xã hội đang triển\nkhai hệ thống thông tin quản lý kỹ thuật số 6 chương trình trợ cấp xã hội cho\nhơn 9,6 triệu người. Hệ thống thông tin quản lý bằng kỹ thuật số tích h</span>ợ<span lang=\"VI\">p các hệ thống hiện có, cung cấp các tính năng, các dịch vụ trợ cấp cho\nngười hưởng lợi (như nộp hồ sơ đăng ký, chấp nhận đối tượng, chức năng chi trả,\nquản trị, rủi ro), các dịch vụ về tuân thủ chính sách (như phát hiện gian lận),\ndịch vụ trợ giúp (như quản lý tài chính và nguồn lực) hoặc các dịch vụ phục vụ\nthông minh (như giám sát, báo cáo, quản lý tri thức); cung cấp một nền tảng mới\ntích hợp và tối ưu hóa công nghệ thông tin; trang bị cho cơ quan an sinh xã hội\nkhả năng ứng phó với các áp lực kinh tế, xã hội, công nghệ và luật pháp một\ncách nhanh chóng, hiệu quả; ph</span>ụ<span lang=\"VI\">c v</span>ụ <span lang=\"VI\">người\nhưởng lợi theo hướng lấy người dân làm trung tâm, bằng cách nhìn từ góc đ</span>ộ\n<span lang=\"VI\">của người hưởng lợi; bảo đảm thực hiện kiểm toán tích h</span>ợ<span lang=\"VI\">p nhằm tăng tính bảo mật và trách nhiệm giải trình; cung cấp thông tin\nliên quan đến đúng người vào đúng thời điểm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tại Pháp, việc thực hiện các chính\nsách giải pháp về bảo đảm an sinh xã hội diễn ra theo 3 mô hình: mô hình cứu trợ\nxã hội; mô hình bảo hiểm xã hội; mô hình phát triển cộng đồng nhung đều dựa\ntrên nền tảng mã số định danh cá nhân (ID). Mỗi công dân kể từ khi sinh ra được\ncấp 1 mã s</span>ố <span lang=\"VI\">ID khi đi đăng ký tại Trung tâm đăng ký quốc\ngia cá nhân</span>. S<span lang=\"VI\">ố ID thường được gọi là số INSEE hay số “An\nsinh xã hội” bao gồm 15 chữ số. </span>S<span lang=\"VI\">ố ID được sử dụng chủ yếu\ntrong lĩnh vực bảo trợ xã hội và một số dịch vụ hành chính khác như thuế, giáo\ndục, công an... Các quốc gia khác tại châu Âu như Bỉ, Đan Mạch, Hà Lan, Thụy Điển\ncũng sử dụng công cụ “số định danh cá nhân” trong hoạt động quản lý hành chính\ncũng như thực hiện các chính sách về an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kinh nghiệm triển khai của các nước\ncho thấy hệ thống thông tin quản lý về an sinh xã hội được xây dựng dựa trên nền\ntảng công nghệ hiện đại, quy trình xác định đối tượng hưởng lợi thông qua tự\nđăng ký của người dân trên hệ th</span>ố<span lang=\"VI\">ng mạng, đăng ký đối tượng\nđược chuẩn hóa để xây dựng hệ thống cơ sở dữ liệu tích hợp quản lý đối tượng,\nchi trả trợ giúp xã hội, theo dõi, đánh giá việc thực hiện chính sách. Kinh\nnghiệm cũng cho thấy việc xác lập mã số định danh cá nhân góp phần quan trọng\ntrong việc xây dựng hệ thống thông tin quản lý về an sinh xã hội. Đối với điều\nkiện hiện nay, Việt Nam rất cần triển khai Đề án cơ sở dữ liệu quốc gia về an\nsinh xã hội trên cơ sở các bài học kinh nghiệm của các nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">Phần II</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH THỰC HIỆN\nĐỀ ÁN 708 GIAI ĐOẠN 2018 - 2020</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_1\"><b><span lang=\"VI\">I. Mục tiêu đến\nnăm 2020</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) </span>Ứ<span lang=\"VI\">ng dụng công\nnghệ thông tin trong đăng ký, giải quyết chính sách, chi trả cho đối tượng thụ\nhưởng chính sách an sinh xã hội kịp thời, công khai và minh bạch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Hoàn thiện cơ sở pháp lý, triển\nkhai cấp số và thẻ an sinh xã hội điện tử để tích hợp, giúp người dân thụ hưởng\nthuận lợi các chính sách trợ giúp xã hội, giảm nghèo, người có công với cách mạng,\nbảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Xây dựng cơ sở dữ liệu quốc gia về\nan sinh xã hội bao gồm thông tin cơ bản về công dân Việt Nam là đối tượng của\ncác chính sách: Trợ giúp xã hội, giảm nghèo, người có công với cách mạng, bảo\nhiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_1\"><b><span lang=\"VI\">II. Nhiệm vụ, giải\npháp</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Rà soát, đề xuất sửa đổi, bổ\nsung, ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành nhằm\nhoàn thiện hành lang pháp lý triển khai cơ sở dữ liệu quốc gia về an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát hệ thống pháp luật về cơ sở\ndữ liệu quốc gia về an sinh xã hội và đề xuất sửa đổi, bổ sung cho phù hợp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng văn bản quy phạm pháp luật\nquy định về Cơ sở dữ liệu quốc gia về an sinh xã hội, trong đó quy định rõ vai\ntrò, vị trí, quy định phân biệt rõ đặc tính, phạm vi dữ liệu đảm bảo tránh thu\nthập trùng lặp, chồng lấn với các cơ sở dữ liệu quốc gia khác; quy định cách thức\nxây dựng, thu thập, cập nhật, duy trì kết nối cũng như nguyên tắc </span>tr<span lang=\"VI\">ong việc chia sẻ dữ liệu như đối tượng khai thác, trình tự thủ tục kết\nnối; quy định về quyền hạn, trách nhiệm của chủ quản cơ sở dữ liệu quốc gia,\ncác cơ quan tổ chức có liên quan trong quá trình xây dựng, vận hành, cũng như\nquy định về giá trị pháp lý của dữ liệu, giá trị sử dụng dữ liệu trong chỉ đạo\nđiều hành của Chính phủ, của các Bộ, ngành, địa phương;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, hoàn thiện các cơ chế,\nchính sách đẩy mạnh ứng dụng công nghệ thông tin trong giải quyết chính sách an\nsinh xã hội, xây dựng cơ sở dữ liệu an sinh xã hội; khuyến khích doanh nghiệp đầu\ntư hạ tầng kỹ thuật nhằm tăng cường ứng dụng công nghệ thông tin trong việc giải\nquyết chi trả chính sách, xây dựng cơ sở dữ liệu; lựa chọn đơn vị cung cấp dịch\nvụ công bảo đảm chi trả theo yêu cầu, thực hiện theo cơ chế thu hồi vốn đầu tư\nthông qua thu phí cung cấp dịch vụ chi trả chính sách; đẩy mạnh thực hiện tiếp\nnhận hồ sơ, trả kết quả qua dịch vụ Bưu chính công ích trong giải quyết các\nchính sách ASXH tạo thuận lợi hơn nữa cho người dân khi đăng ký hưởng chính\nsách ASXH; hướng dẫn, hỗ trợ người dân tự đăng ký và nhập liệu các </span>tr<span lang=\"VI\">ường thông tin cá nhân vào cơ sở dữ liệu quốc gia về an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng và hoàn thiện cấu trúc dữ\nliệu phục vụ trao đổi của cơ sở dữ liệu quốc gia và các tài liệu kỹ thuật phục vụ\nmục đích kết nối các hệ thống thông tin vào cơ sở dữ liệu quốc gia đáp ứng sự\nminh bạch về cấu trúc thông tin, khả năng cung cấp, chia sẻ thông tin từ cơ sở\ndữ liệu quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng hệ thống chỉ tiêu, chỉ số\nđầu vào, đầu ra, bảo đảm các cơ sở dữ liệu thành phần cập nhật, quản lý, tích hợp\nvà trao đổi cơ sở dữ liệu an sinh xã hội. Hoàn thiện và ban hành hệ thống chỉ\ntiêu thông tin quản lý, bộ chỉ số quốc gia về an sinh xã hội, các mẫu biểu báo\ncáo thống kê thông tin dữ liệu an sinh xã hội ở các cấp quản lý; sử dụng bộ mã\nsố định danh cho đối tượng thụ hưởng chính sách an sinh xã hội để xác định đối\ntượng. Trên cơ sở đó, các hệ thống thông tin thành phần sử dụng bộ mã số làm cơ\nsở quản lý và trao đổi cơ sở dữ liệu về an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan chủ trì: Bộ Lao động -\nThương binh và X</span>ã <span lang=\"VI\">hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan phối hợp: Bộ Tài chính, Bộ\nThông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam và các Bộ, ngành\nliên quan; các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Xây dựng cổng thông tin điện tử\nan sinh xã hội và phần mềm đăng ký thụ hưởng chính sách an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng </span>C<span lang=\"VI\">ổng\nThông tin điện tử An sinh xã hội trên mạng điện tử để thực hiện: Giải quyết các\nchính sách an sinh xã hội cho người dân; cung cấp thông tin về chính sách, đối\ntượng thụ hưởng chính sách an sinh xã hội; tích hợp cung cấp dịch vụ trực tuyến\nvà kết nối hệ thống thông tin thống kê về an sinh xã hội của các bộ, ngành, địa\nphương. Cụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cổng cung cấp các thông tin, ứng dụng\nriêng về ASXH như sau: Cung cấp thông tin chính sách, tin tức sự kiện ASXH...\nTích h</span>ợ<span lang=\"VI\">p các ứng dụng và CSDL có liên quan về ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng, tích h</span>ợ<span lang=\"VI\">p và cung cấp trên Cổng thông tin điện tử ASXH các dịch vụ công trực\ntuyến mức độ 3, 4 về ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng, hoàn thiện các phần mềm để\ntăng cường ứng dụng công nghệ thông tin trong việc đăng ký, thụ hưởng giải quyết\ncác chính sách an sinh xã hội, bảo đảm đơn giản </span>hóa <span lang=\"VI\">các thủ\ntục hành chính, gi</span>ấ<span lang=\"VI\">y tờ công dân: M</span>ẫ<span lang=\"VI\">u\nđơn, m</span>ẫ<span lang=\"VI\">u tờ khai xét duyệt và thẩm định đối tượng hưởng\nchính sách an sinh xã hội; giảm thủ tục hành chính trong việc giải quyết chính\nsách an sinh xã hội cho người dân, bảo đảm liên thông 3 thủ tục hành chính đăng\nký, thụ hưởng chính sách, cấp thẻ an sinh xã hội dùng chung cho 6 loại hình\nchính sách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tích h</span>ợ<span lang=\"VI\">p và\ncung cấp công cụ tìm kiếm đa năng nhiều tiêu chí khác nhau; có thể vẽ biểu đồ\nso sánh từng thời kỳ; hỗ trợ tìm k</span>iế<span lang=\"VI\">m và khai thác thông\ntin dữ liệu trực quan gắn kết thông tin bản đồ với thông tin thuộc tính phục vụ\nchỉ đạo, điều hành về ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng, tích h</span>ợ<span lang=\"VI\">p kênh thông tin, truyền thông đối thoại trực tuyến với người dân,\ndoanh nghiệp (eTV) trên Internet về An sinh xã hội phục vụ công tác truyền\nthông, quảng bá cơ sở dữ liệu về ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị phối hợp: Bộ Thông tin và\nTruyền thông, Bảo hiểm xã hội Việt Nam, các Bộ, ngành và các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Xây dựng hạ tầng công nghệ\nthông tin và hình thành trung tâm dữ liệu quốc gia về ASXH</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung hoạt động:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Có chính sách khuyến khích doanh\nnghiệp đầu tư thiết bị, hạ tầng kỹ thuật nhằm tăng cường ứng dụng công nghệ\nthông tin trong việc giải quyết chi </span>tr<span lang=\"VI\">ả chính sách, xây dựng\ncơ sở dữ liệu, xây dựng cơ sở dữ liệu an sinh xã hội. Sử dụng có hiệu quả hạ tầng\nbưu chính công cộng do Nhà nước đầu tư để đảm nhiệm công tác phục vụ người hưởng\ntrong việc thực hiện các thủ tục liên quan đến thụ hưởng các chính sách an sinh\nxã hội dưới sự quản lý của các cơ quan nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, xây dựng tiêu chuẩn kỹ\nthuật, quy trình chung </span>t<span lang=\"VI\">rong việc thiết kế, xây dựng hạ tầng\ncông nghệ thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng hạ tầng lõi và phần mềm để\nthực hiện cập nhật, quản lý cơ sở dữ liệu quốc gia về an sinh xã hội, bảo đảm\ntích h</span>ợ<span lang=\"VI\">p, chia sẻ thông tin, từ đó phục vụ cho các phần mềm\nquản lý của các cơ quan nhà nước. Thiết kế hệ thống và các phần mềm ứng dụng của\nCơ sở dữ liệu quốc gia về an sinh xã hội phải đảm bảo tính tương thích, khả\nnăng tích h</span>ợ<span lang=\"VI\">p, chia sẻ thông tin theo mục tiêu và các tiêu\nchí, tiêu chuẩn về công nghệ thông tin, khả năng mở rộng các trường dữ liệu, số\nan sinh xã hội để các ngành và đối tượng sử dụng khi truy cập, kết nối vào Cơ sở\ndữ liệu quốc gia về an sinh xã hội để khai thác thông tin về đối tượng liên\nquan. Hướng dẫn, hỗ trợ người dân tự đăng ký và nhập liệu các trường thông tin\ncá nhân vào cơ sở dữ liệu quốc gia về an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hình thành trung tâm dữ liệu quốc\ngia về ASXH</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hình thành trung tâm dữ liệu quốc gia\nvề ASXH theo tiêu chuẩn quốc tế, quy mô đủ lưu trữ, bảo đảm công suất xử lý dữ\nliệu cho tất cả các hoạt động nghiệp vụ của hệ thống thông tin và cơ sở dữ liệu\nvề ASXH; bảo đảm an ninh, an toàn dữ liệu, có hệ thống lưu trữ dự phòng dữ liệu\nvà hỗ trợ khôi phục sau sự cố...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trung tâm dữ liệu có các thành phần\ncơ bản sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Trung tâm dữ liệu thiết kế dựa theo\ntiêu chuẩn TIA-942, mức tier-2, tier-3. Có hệ thống cung cấp điện lưới, hệ thống\nđiều hòa nhiệt độ, hệ thống chữa cháy dùng khí sạch, hệ thống an ninh (IP\nCamera), hệ thống bảo mật nhằm bảo vệ hệ thống mạng và dịch vụ mạng...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Hệ thống máy chủ bổ sung cho Trung\ntâm dữ liệu với các máy chủ Blade cho có kèm theo kèm module tích h</span>ợ<span lang=\"VI\">p hệ thống, module quang cho máy chủ nhằm sẵn sàng cho kết nối quang\ntrong tương lai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Để hệ thống hoạt động ổn định và hiệu\nquả 24x7x365, Trung tâm dữ liệu cần phải có đường truyền Internet tốc độ cao và\nđường truyền dự phòng (sử dụng cáp quang). Nâng cấp đường truyền Internet băng\nthông rộng, xây dựng hệ thống mạng diện rộng kết nối từ Trung tâm dữ liệu tới\ncác địa phương, đơn vị có liên quan phục vụ trao đổi thông tin, dữ liệu về\nASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan phối hợp: Bộ Tài chính, Bộ\nThông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam và các Bộ, ngành\nliên quan, các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4. Nhập liệu cơ s</span>ở </b><b><span lang=\"VI\">dữ liệu quốc gia về an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cập nhật cơ sở dữ liệu quốc gia về\nan sinh xã hội gồm các thông tin sau đây: Các thông tin về đối tượng và chính\nsách trợ giúp xã hội theo quy định tại Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 136/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-136-2013-nd-cp-chinh-sach-tro-giup-xa-hoi-bao-tro-xa-hoi-210669.aspx\">136/2013/NĐ-CP</a>  ngày 21\ntháng 10 năm 2013 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối\ntượng bảo trợ xã hội và các văn bản pháp luật có liên quan; Các thông tin về đối\ntượng và chính sách giảm nghèo theo quy định tại Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 59/2015/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-59-2015-qd-ttg-chuan-ngheo-tiep-can-da-chieu-ap-dung-2016-2020-296044.aspx\">59/2015/QĐ-TTg</a> \nngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo\ntiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020 và các văn bản pháp luật có\nliên quan; Các thông tin về đối tượng và chính sách ưu đãi người có công với\ncách mạng được quy định tại Pháp lệnh Ưu đãi người có công với cách mạng và các\nvăn bản pháp luật có liên quan; Các thông tin về đối tượng và chính sách bảo hiểm\nthất nghiệp theo quy định tại Luật Việc làm và các văn bản hướng dẫn Luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tích hợp các thông tin sau đây vào\ncơ sở dữ liệu quốc gia về an sinh xã hội: Các thông tin đ</span>ị<span lang=\"VI\">nh\ndanh công dân theo quy định tại <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2457968')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2457968')\" atmm=\".lqhlTootip-2457968\" onmouseout=\"hideddrivetip();\">Điều 9 Luật Căn cước công dân</a>\nvà các văn bản hướng dẫn Luật; Các thông tin về đối tượng và chính sách bảo hiểm\nx</span>ã <span lang=\"VI\">hội theo quy định tại Luật Bảo hiểm xã hội và các văn bản\npháp </span>luật <span lang=\"VI\">hướng dẫn Luật; Các thông tin về đối tượng và\nchính sách bảo hiểm y tế theo quy định tại Luật Bảo hiểm y tế và các văn bản hướng\ndẫn Luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Người dân nhập liệu các thông tin\nđăng ký thụ hưởng các chính sách an sinh xã hội thông qua dịch vụ công trực tuy</span>ế<span lang=\"VI\">n. Trong trường hợp gặp khó khăn, người dân có thể thực hiện hoàn tất\ncác thủ tục đăng ký hưởng chính sách ASXH thông qua đơn vị cung cấp dịch vụ chi\ntrả, dịch vụ Bưu chính công ích.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ngành Lao động - Thương binh và Xã\nhội phối hợp với ngành Công an, Bảo hiểm xã hội Việt Nam, các ngành liên quan\nvà địa phương tổ chức nhập liệu và tích h</span>ợ<span lang=\"VI\">p hồ sơ đối tượng\nđang hưởng chính sách an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5. Quản lý, lưu trữ, bảo mật và\nphân phối hiệu quả cơ sở dữ liệu thành phần và cơ sở dữ liệu quốc gia về an\nsinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng các quy định pháp lý quản\nlý, lưu trữ, bảo mật và phân phối hiệu quả cơ sở dữ liệu thành phần và cơ sở dữ\nliệu quốc gia về an sinh xã hội; tích h</span>ợ<span lang=\"VI\">p dữ liệu quốc gia\nvề ASXH theo tiêu chuẩn quốc t</span>ế<span lang=\"VI\">, quy mô đủ lưu trữ, bảo đảm\ncông suất xử lý dữ liệu cho tất cả các hoạt động nghiệp vụ của hệ thống thông\ntin và cơ sở dữ liệu về ASXH; xây dựng hệ thống an ninh (IP Camera), hệ thống bảo\nmật nhằm bảo vệ hệ thống mạng và dịch vụ mạng bảo đảm an ninh, an toàn dữ liệu,\ncó hệ thống lưu trữ dự phòng dữ liệu và hỗ trợ khôi phục sau sự cố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị phối hợp: Các Bộ, ngành liên\nquan, địa phương và tổ chức cung cấp dịch vụ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">6. Cấp số và thẻ an sinh xã hội điện\ntử</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, hoàn thiện cơ sở pháp\nlý cấp số và thẻ an sinh xã hội điện tử; xây dựng số an sinh xã hội duy nhất đối\nvới mỗi người dân, bảo đảm kết nối với mã số định danh công dân nhằm quản lý thống\nnhất cơ sở dữ liệu về an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng văn bản pháp lý quy định cấp,\nđổi, hủy, công năng, tác dụng thẻ an sinh xã hội điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phát triển Thẻ an sinh xã hội điện\ntử để giảm giấy tờ công dân trong lĩnh vực quản lý các chính sách trợ giúp xã hội,\nhộ nghèo, người có công, bảo hiểm thất nghiệp, bảo hiểm xã hội, bảo hiểm y tế.\nTừng bước kết nối cơ sở dữ liệu chuyên ngành với Cơ sở dữ liệu quốc gia về an\nsinh xã hội, đơn giản hóa thủ tục hành chính và tích hợp các loại giấy tờ công\ndân khác như: S</span>ố <span lang=\"VI\">hưởng trợ cấp, thẻ bảo hiểm y tế, sổ bảo\nhiểm xã hội, mã số thuế cá nhân và các giấy tờ khác có liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giai đoạn 2017-2018 hỗ trợ thí điểm\ncấp số và thẻ an sinh xã hội điện tử tại 1-3 tỉnh, thành phố trực thuộc trung\nương, dự kiến Quảng Ninh, </span>C<span lang=\"VI\">ần Thơ/Vĩnh Phúc, thành phố Hồ\nChí Minh;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giai đoạn 2019 - 2020 hỗ trợ cấp số\nvà thẻ an sinh xã hội điện tử cho công dân Việt Nam là đối tượng của an sinh xã\nhội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị phối hợp: Bộ Công an, Bộ Tài\nchính, Bộ Thông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam và các Bộ,\nngành liên quan, các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">7. Tổ chức chi trả chính sách an\nsinh xã hội thông qua tổ chức cung cấp dịch vụ công.</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hoàn thiện cơ chế đổi mới phương thức\nchi trả gắn với giải quyết các chế độ chính sách an sinh xã hội; phối hợp với\ncác tổ chức cung cấp dịch vụ công thực hiện chi trả trợ cấp cho đối tượng bảo đảm\nđúng người, đúng số tiền, đúng quy định của các cấp quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn các địa phương lựa chọn\nđơn vị có mạng lưới cơ sở vật chất và nhân lực, có kinh nghiệm cung cấp dịch vụ\nchi trả trợ cấp xã hội, các chính sách an sinh xã hội và bảo đảm xây dựng cơ sở\ndữ liệu an sinh xã hội để cung cấp dịch vụ chi trả các chính sách an sinh xã hội\ntrên địa bàn; bảo đảm chi trả theo yêu cầu, thực hiện theo cơ chế thu hồi vốn đầu\ntư thông qua thu phí cung cấp dịch vụ chi trả chính sách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị chủ trì: Bộ Lao động -\nThương binh Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn vị phối hợp: Bộ Thông tin và\nTruyền thông, các Bộ, ngành liên quan, các tổ chức cung cấp dịch vụ công và địa\nphương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">8. Đào tạo, tập huấn nâng cao năng\n</span>l</b><b><span lang=\"VI\">ực cho đội ngũ cán bộ, viên chức, nhân viên trong\nviệc ứng dụng, khai thác hệ thống thông tin và cơ sở dữ liệu về an sinh xã hội.</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung hoạt động:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đào tạo, tập huấn, bồi dưỡng kiến\nthức, kỹ năng sử dụng, ứng dụng công nghệ thông tin cho cán bộ, công chức, viên\nchức của các cơ quan quản lý nhà nước để quản lý, vận hành, khai thác cơ sở dữ\nliệu về an sinh xã hội nhằm phục vụ hiệu quả trong công tác quản lý nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Hướng dẫn khai thác, sử dụng Hệ thống\nthông tin ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Đào tạo quản trị hệ thống mạng, quản\ntrị các ứng dụng và hệ thống thông tin về ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Có chính sách khuyến khích để có thể\ntuyển dụng được các cán bộ CNTT khá, giỏi tham gia triển khai, vận hành, phát\ntriển hệ thống ASXH.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức học tập kinh nghiệm quản lý\ncơ sở dữ liệu về an sinh xã hội, ứng dụng công nghệ thông tin trong giải quyết\nchính sách an sinh xã hội, xây dựng và quản lý thẻ an sinh xã hội điện tử tại\ncác nước có n</span>ề<span lang=\"VI\">n an sinh xã hội tiên ti</span>ế<span lang=\"VI\">n, phát triển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan phối hợp: Các Bộ, ngành\nliên quan và các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">9. Tuyên truyền, nâng cao nhận thức\ncủa các cấp, ngành và người dân về cơ sở dữ liệu quốc gia về an sinh xã hội, ứng\ndụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung hoạt động:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tuyên truyền, nâng cao nhận thức của\ncác cấp, ngành và người dân về Cơ sở quốc gia về an sinh xã hội bao gồm thông\ntin cơ bản về công dân Việt Nam là đối tượng của các chính sách: Trợ giúp xã hội,\ngiảm nghèo, người có công với cách mạng, bảo hiểm xã hội, bảo hiểm y tế và bảo\nhiểm thất nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan phối hợp: Các Bộ, ngành\nliên quan, các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">10. Tăng cường kiểm tra, giám sát,\nđánh giá việc thực hiện xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội ứng dụng\ncông nghệ thông tin trong giải quyết chính sách an sinh xã hội.</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nội dung hoạt động:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kiểm tra, giám sát và đánh giá việc\nquản lý, cập nhật cơ sở dữ liệu quốc gia về an sinh xã hội tại các cơ quan, địa\nphương để khắc phục những khó khăn, hạn chế, vướng mắc, từ đó đưa ra những giải\npháp kịp thời nhằm thực hiện Đề án có hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan chủ trì: Bộ Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cơ quan phối hợp: Các Bộ, ngành\nliên quan và các địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3_1\"><b><span lang=\"VI\">III. Kinh phí thực\nhiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hàng năm, Kế hoạch thực hiện Đề án của\nTrung ương và địa phương được cấp có thẩm quyền phê duyệt. Căn cứ nội dung các\nhoạt động triển khai, kinh phí thực hiện Đề án được bảo đảm từ các nguồn:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Nguồn vốn ngân sách nhà nước được\nbố trí trong dự toán chi thường xuyên hàng năm theo phân cấp của Luật ngân sách\nnhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nguồn vốn doanh nghiệp, chi phí dịch\nvụ chi trả các chính sách an sinh xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Nguồn huy động, tài trợ, đóng góp\ncủa các tổ chức, cá nhân trong và ngoài nước</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Các nguồn h</span>ợ<span lang=\"VI\">p\npháp khác theo quy định của pháp luật./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\"> </span></p>\n\n</div>\n\n",
+  "mdContent": "**BỘ** **LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 634/QĐ-LĐTBXH\n\n_Hà Nội, ngày 29_ _tháng 5_ _năm 2018_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH KẾ HOẠCH THỰC HIỆN GIAI ĐOẠN 2018 - 2020 ĐỀ ÁN XÂY DỰNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ AN SINH XÃ HỘI, ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀO GIẢI QUYẾT CHÍNH SÁCH AN SINH XÃ HỘI ĐẾN NĂM 2020 VÀ ĐỊNH HƯỚNG PHÁT TRIỂN ĐẾN NĂM 2030\n\n**BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI**\n\n_Căn cứ Nghị định số [14/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-14-2017-nd-cp-chuc-nang-nhiem-vu-quyen-han-co-cau-to-chuc-bo-lao-dong-thuong-binh-xa-hoi-340184.aspx \"Nghị định 14/2017/NĐ-CP\") ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội;_\n\n_Căn cứ Quyết định số [708/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-708-qd-ttg-2017-de-an-xay-dung-co-so-du-lieu-quoc-gia-ung-dung-ve-an-sinh-xa-hoi-350204.aspx \"Quyết định 708/QĐ-TTg\") ngày 25/5/2017 của Thủ tướng Chính phủ phê duyệt Đề án xây dựng Cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030;_\n\n_Xét đề nghị của Cục trưởng Cục Bảo trợ xã hội,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Kế hoạch thực hiện giai đoạn 2018-2020 Đề án xây dựng Cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030.\n\n**Điều 2.** Các cơ quan, đơn vị liên quan theo nhiệm vụ, trách nhiệm được giao tại Kế hoạch này, phê duyệt Kế hoạch chi tiết và tổ chức thực hiện bảo đảm mục tiêu, tiến độ đề ra; gửi Kế hoạch chi tiết về Bộ Lao động - Thương binh và Xã hội để tổng hợp, báo cáo Thủ tướng Chính phủ.\n\n**Điều 3.** Giao Cục Bảo trợ xã hội chịu trách nhiệm đôn đốc, hướng dẫn, kiểm tra việc triển khai Kế hoạch này và tổng hợp tình hình thực hiện, báo cáo Bộ theo quy định.\n\n**Điều 4.** Quyết định này có hiệu lực kể từ ngày ký.\n\n**Điều 5.** Chánh Văn phòng Bộ, Cục trưởng Cục Bảo trợ xã hội, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n  \n**_Nơi nhận:  \n_**\\- Như Điều 5;  \n\\- Bộ trưởng (để báo cáo);  \n\\- Các Thứ trưởng;  \n\\- Văn phòng Chính phủ;  \n\\- Các Bộ: Tài chính, KHĐT, Nội vụ, Y tế, Tư Pháp, KHCN, TTTT;  \n\\- UBND các tỉnh, thành phố trực thuộc TW;  \n\\- Sở LĐTBXH các tỉnh, thành phố trực thuộc TW (để thực hiện);  \n\\- BHXH Việt Nam;  \n\\- Tổng Công ty Bưu điện Việt Nam;  \n\\- Cổng TTĐT Bộ LĐTBXH;  \n\\- Lưu: VT, Cục BTXH.\n\n**KT. BỘ** **TRƯỞNG  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nLê Tấn Dũng**\n\n**KẾ HOẠCH THỰC HIỆN GIAI ĐOẠN 2018 - 2020**\n\nĐỀ ÁN XÂY DỰNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ AN SINH XÃ HỘI, ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀO GIẢI QUYẾT CHÍNH SÁCH AN SINH XÃ HỘI ĐẾN NĂM 2020 VÀ ĐỊNH HƯỚNG PHÁT TRIỂN ĐẾN NĂM 2030  \n_(Kèm theo Quyết định số 634__/QĐ-LĐTBXH ngày 29_ _tháng 5 năm 2018 của Bộ trưởng Bộ Lao động-Thương binh và Xã hội)_\n\nThực hiện Quyết định số [708/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-708-qd-ttg-2017-de-an-xay-dung-co-so-du-lieu-quoc-gia-ung-dung-ve-an-sinh-xa-hoi-350204.aspx \"Quyết định 708/QĐ-TTg\") ngày 25/5/2017 của Thủ tướng Chính phủ phê duyệt Đề án xây dựng Cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội đến năm 2020 và định hướng phát triển đến năm 2030 (gọi tắt là Đề án 708), Bộ Lao động - Thương binh và Xã hội ban hành Kế hoạch thực hiện Đề án 708 giai đoạn 2018 - 2020 như sau:\n\n**Phần I**\n\n**ĐÁNH GIÁ KHÁI QUÁT CƠ SỞ DỮ LIỆU QUỐC GIA VỀ AN SINH XÃ HỘI**\n\n**I. Tình hình đối tượng an sinh xã hội và dự báo đến năm 2025**\n\n**1\\. Tình hình đối tượng an sinh xã hội**\n\na) Đối tượng bảo trợ xã hội và hộ nghèo\n\nTheo số liệu thống kê, đối tượng được hưởng trợ giúp xã hội tăng từ 700 nghìn người (năm 2007) lên gần 2,78 triệu người năm 2017, chiếm 3% dân số, trong đó có: hơn 1,5 triệu người từ 80 tuổi trở lên không có lương hưu và trợ cấp bảo hiểm xã hội; khoảng 96 nghìn người già cô đơn; 913 nghìn người khuyết tật và tâm thần; hơn 60 nghìn trẻ em mồ côi, còn lại là các đối tượng khác. Cả nước có 418 cơ sở trợ giúp xã hội công lập và ngoài công lập, trong đó có 195 cơ sở công lập và 223 cơ sở ngoài công lập, công suất nuôi dưỡng trên 42 nghìn đối tượng bảo trợ xã hội. Hàng triệu lượt hộ gia đình bị ảnh hưởng bởi thiên tai, bão lũ đã được hưởng chính sách trợ giúp xã hội đột xuất kịp thời. Hàng năm, Chính phủ dành ngân sách lớn để chi trợ cấp xã hội hàng tháng cho các đối tượng bảo trợ xã hội tại cộng đồng và trong các cơ sở bảo trợ xã hội.\n\nĐến cuối năm 2017 cả nước còn trên 1,6 triệu hộ nghèo, chiếm tỷ lệ khoảng 6,72% và 1,3 triệu hộ cận nghèo, chiếm tỷ lệ 5,32%. Các chính sách giảm nghèo được triển khai đồng bộ, hiệu quả. Hàng năm, có hơn 1 triệu lượt hộ nghèo được vay vốn tín dụng ưu đãi để phát triển sản xuất với mức vay bình quân 12 triệu đồng/lượt; 29 triệu lượt người nghèo, dân tộc thiểu số được cấp thẻ bảo hiểm y tế miễn phí; người thuộc hộ cận nghèo tham gia mua thẻ bảo hiểm y tế được ngân sách hỗ trợ bằng 70%-100% mệnh giá; có trên 04 triệu lượt học sinh nghèo được miễn giảm học phí, hỗ trợ điều kiện học tập và trợ cấp tiền ăn; trên 500 ngàn hộ nghèo được hỗ trợ nhà ở...\n\nb) Đối tượng hưởng chính sách người có công\n\nĐến nay cả nước đã xác nhận trên 9 triệu người có công; có 98% gia đình người có công có mức sống bằng hoặc cao hơn mức sống trung bình của dân cư nơi cư trú.\n\nc) Đối tượng tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp\n\nTính đến 31/10/2017, tổng số người tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp cả nước đã đạt gần 80 triệu người, trong đó số người tham gia bảo hiểm xã hội bắt buộc là hơn 13,2 triệu người, bảo hiểm xã hội tự nguyện là hơn 220 nghìn người, bảo hiểm thất nghiệp là 11,4 triệu người, bảo hiểm y tế là gần 80 triệu người, đạt tỷ lệ bao phủ bảo hiểm y tế hơn 85% dân số.\n\n**2\\. Dự báo đối tượng đến năm 2025**\n\na) Đối tượng bảo trợ xã hội và hộ nghèo\n\nKhoảng 3 triệu người được hưởng trợ giúp xã hội thường xuyên, chiếm 3% dân số (trong đó trên 30% là người cao tuổi).\n\nGiai đoạn 2016-2020, dự kiến tỷ lệ hộ nghèo cả nước giảm bình quân từ 1 - 1,5%/năm, các huyện nghèo giảm bình quân 4%/năm, các xã đặc biệt khó khăn vùng dân tộc và miền núi, vùng bãi ngang ven biển và hải đảo giảm bình quân từ 3- 4%/năm.\n\nb) Đối tượng tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp\n\nƯớc tính khoảng 29 triệu người tham gia bảo hiểm xã hội (26 triệu người tham gia bảo hiểm xã hội bắt buộc và 3 triệu người tham gia bảo hiểm xã hội tự nguyện), 85 triệu người tham gia bảo hiểm y tế; có 20 triệu lao động tham gia bảo hiểm thất nghiệp.\n\nc) Đối tượng hưởng chính sách người có công: Tổng số người có công dự kiến khoảng trên 9,2 triệu người. Tổng số người có công và thân nhân hưởng trợ cấp hàng tháng dự kiến khoảng 1,2 triệu người.\n\n**II. Khái quát kết quả xây dựng cơ sở dữ liệu (CSDL) quốc gia về an sinh xã hội và ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội (ASXH)**\n\n**1\\. Công tác chỉ đạo, xây dựng luật pháp, chính sách về hình thành cơ sở dữ liệu an sinh xã hội**\n\nNghị quyết số 15-NQ/TW ngày 01/6/2012 của Ban chấp hành Trung ương Đảng khóa XI; Nghị quyết số [70/NQ-CP](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/nghi-quyet-70-nq-cp-nam-2012-chuong-trinh-hanh-dong-cua-chinh-phu-thuc-hien-150852.aspx \"Nghị quyết 70/NQ-CP\") ngày 01/11/2012 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 15-NQ/TW ngày 01/6/2012 của Ban chấp hành Trung ương Đảng khóa XI một số vấn đề về chính sách xã hội giai đoạn 2012- 2020, trong đó đã xác định rõ quan điểm “Hệ thống an sinh xã hội phải đa dạng, toàn diện, có tính chia sẻ giữa Nhà nước, xã hội với người dân”; và nhiệm vụ “Xây dựng mã số an sinh xã hội để phát triển Hệ thống thông tin chính sách an sinh xã hội; Xây dựng bộ chỉ số về an sinh xã hội quốc gia và bộ cơ sở dữ liệu hộ gia đình để phát triển hệ thống giám sát, đánh giá thực hiện chính sách an sinh xã hội hàng năm”.\n\nQuốc hội đã ban hành Luật Thống kê số 89/2015/QH13 ngày 23/11/2015, Chính phủ ban hành Nghị định số [94/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-94-2016-nd-cp-huong-dan-luat-thong-ke-318797.aspx \"Nghị định 94/2016/NĐ-CP\") ngày 01/7/2016 quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thống kê; Thủ tướng Chính phủ ban hành Quyết định số [1819/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1819-qd-ttg-ung-dung-cong-nghe-thong-tin-hoat-dong-cua-co-quan-nha-nuoc-2015-294230.aspx \"Quyết định 1819/QĐ-TTg\") ngày 26/10/2015 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2016-2020, trong đó nêu rõ mục tiêu “Cung cấp các dịch vụ công cơ bản trực tuyến mức độ 4, đáp ứng nhu cầu thực tế, phục vụ người dân và doanh nghiệp mọi lúc, mọi nơi... Ứng dụng hiệu quả công nghệ thông tin trong hoạt động của cơ quan nhà nước nhằm tăng tốc độ xử lý công việc, giảm chi phí hoạt động... Phát triển hạ tầng kỹ thuật, các hệ thống thông tin, cơ sở dữ liệu quốc gia, tạo nền tảng phát triển Chính phủ điện tử, bảo đảm an toàn, an ninh thông tin. Tích hợp, kết nối các hệ thống thông tin, cơ sở dữ liệu trên quy mô quốc gia, tạo lập môi trường chia sẻ thông tin qua mạng rộng khắp giữa các cơ quan trên cơ sở Khung kiến trúc Chính phủ điện tử Việt Nam”\n\nNgoài ra, việc xây dựng cơ dữ liệu thành phần được quy định từ các bộ luật, luật quan trọng như: Bộ luật Lao động; Luật Dạy nghề; Pháp lệnh Ưu đãi người có công với cách mạng; Luật Bảo hiểm xã hội; Luật Trẻ em; Luật Người cao tuổi; Luật Người khuyết tật; Luật Nuôi con nuôi; Luật Bảo vệ sức khỏe nhân dân, Luật Khám chữa bệnh; Luật Bảo hiểm y tế; Luật Giáo dục... Thủ tướng Chính phủ phê duyệt các chương trình mục tiêu đều có quy định xây dựng hệ thống thông tin và cơ sở dữ liệu (HTTT&CSDL) chuyên ngành về các hợp phần của hệ thống an sinh xã hội như: Quyết định số [2361/QĐ-TTg](https://thuvienphapluat.vn/van-ban/giao-duc/quyet-dinh-2361-qd-ttg-duyet-chuong-trinh-bao-ve-tre-em-2015-298996.aspx \"Quyết định 2361/QĐ-TTg\") ngày 22/12/2015 của Thủ tướng chính phủ phê duyệt Chương trình bảo vệ trẻ em giai đoạn 2016-2020, trong đó có nhiệm vụ “xây dựng hệ thống phần mềm theo dõi thông tin về bảo vệ trẻ em tích hợp với hệ thống thống kê dữ liệu về bảo vệ, chăm sóc trẻ em”; Quyết định số [1982/QĐ-TTg](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-1982-qd-ttg-2014-ung-dung-cong-nghe-thong-tin-quan-ly-day-hoc-nghe-den-2020-255885.aspx \"Quyết định 1982/QĐ-TTg\") ngày 31/10/2014 của Thủ tướng chính phủ phê duyệt Đề án “Ứng dụng công nghệ thông tin trong quản lý, hoạt động dạy và học nghề đến năm 2020”, trong đó có nhiệm vụ “ứng dụng công nghệ thông tin vào các hoạt động quản lý, dạy và học nghề...; tích hợp toàn bộ dữ liệu về giáo dục nghề nghiệp và doanh nghiệp nhằm đáp ứng nhu cầu tuyển dụng và nhu cầu đào tạo lao động...”; Quyết định số [150/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-150-qd-ttg-nam-2013-phe-duyet-de-an-xac-dinh-hai-cot-liet-si-164527.aspx \"Quyết định 150/QĐ-TTg\") ngày 14/01/2013 của Thủ tướng Chính phủ về việc phê duyệt Đề án xác định hài cốt liệt sỹ còn thiếu thông tin, trong đó có nhiệm vụ “Điều tra, thu thập thông tin và, xây dựng phần mềm quản lý và cơ sở dữ liệu thông tin liệt sỹ. Đẩy mạnh mô hình trao đổi, thu thập thông tin; phát triển các hệ thống cung cấp thông tin liên quan đến hài cốt liệt sỹ”.\n\nTrên cơ sở đó, các Bộ ngành đã chủ động ban hành các văn bản ứng dụng công nghệ thông tin trong hoạt động quản lý nhà nước của ngành như:\n\nBộ Lao động - Thương binh và Xã hội ban hành Quyết định số [1663/QĐ-LĐTBXH](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1663-qd-ldtbxh-ung-dung-cong-nghe-thong-tin-2016-2020-343606.aspx \"Quyết định 1663/QĐ-LĐTBXH\") ngày 02/12/2016 phê duyệt kế hoạch ứng dụng công nghệ thông tin trong hoạt động của Bộ Lao động - Thương binh và Xã hội giai đoạn 2016-2020, trong đó có nhiệm vụ “xây dựng các phần mềm và CSDL chuyên ngành và đưa vào khai thác có hiệu quả cơ sở dữ liệu chuyên ngành về: Lao động, người có công và các đối tượng chính sách xã hội...; xây dựng các quy định, hướng dẫn thu thập, cập nhật, chia sẻ, khai thác thông tin, dữ liệu, CSDL chuyên ngành nhằm đảm bảo khả năng tiếp cận và sử dụng cho các cơ quan, tổ chức, doanh nghiệp, người dân; tăng cường kết nối, tích hợp, trao đổi thông tin, dữ liệu giữa các cơ quan Bộ, ngành,...”.\n\nBảo hiểm xã hội Việt Nam ban hành Quyết định số [640/QĐ-BHXH](https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-640-qd-bhxh-ung-dung-cong-nghe-thong-tin-nganh-bao-hiem-xa-hoi-2016-2020-310512.aspx \"Quyết định 640/QĐ-BHXH\") ngày 28/4/2016 phê duyệt kế hoạch ứng dụng công nghệ thông tin trong hoạt động của ngành Bảo hiểm xã hội giai đoạn 2016-2020, trong đó nêu rõ “Xây dựng Cơ sở dữ liệu quốc gia về Bảo hiểm với dữ liệu đầy đủ, được làm sạch và cập nhật của tất cả các đối tượng, đơn vị tham gia bảo hiểm xã hội (BHXH), bảo hiểm y tế (BHYT) theo yêu cầu của Quyết định số [714/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-714-qd-ttg-2015-danh-muc-co-so-du-lieu-quoc-gia-trien-khai-phat-trien-chinh-phu-dien-tu-275429.aspx \"Quyết định 714/QĐ-TTg\") ngày 22/5/2015 của Thủ tướng Chính phủ ban hành danh Mục Cơ sở dữ liệu quốc gia cần được ưu tiên triển khai tạo nền tảng phát triển Chính phủ điện tử…”.\n\nBộ Y tế ban hành Quyết định số [445/QĐ-BYT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-445-qd-byt-ke-hoach-ung-dung-phat-trien-cong-nghe-thong-tin-2016-2020-302377.aspx \"Quyết định 445/QĐ-BYT\") ngày 5/2/2016 phê duyệt kế hoạch ứng dụng và phát triển công nghệ thông tin giai đoạn 2016-2020 của Bộ Y tế, trong đó nêu rõ “Xây dựng hệ thống cơ sở dữ liệu tích hợp phục vụ các nhu cầu thiết yếu của công tác chỉ đạo, điều hành, quản lý ngành y tế...”; Quyết định số [5004/QĐ-BYT](https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-5004-qd-byt-mo-hinh-kien-truc-tong-the-he-thong-thong-tin-kham-chua-benh-bao-hiem-y-te-2016-323303.aspx \"Quyết định 5004/QĐ-BYT\") ngày 19/9/2016 về việc phê duyệt mô hình kiến trúc tổng thể hệ thống thông tin khám chữa bệnh BHYT; Kế hoạch số [266/KH-BYT](https://thuvienphapluat.vn/van-ban/bao-hiem/ke-hoach-266-kh-byt-ung-dung-cong-nghe-thong-tin-quan-ly-kham-benh-thanh-toan-bao-hiem-y-te-2017-342777.aspx \"Kế hoạch 266/KH-BYT\") ngày 10/3/2017 về triển khai ứng dụng công nghệ thông tin trong quản lý khám, chữa bệnh và thanh toán BHYT năm 2017.\n\nBộ Tư pháp ban hành Quyết định số [2173/QĐ-BTP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-so-2173-qd-btp-phe-duyet-de-an-co-so-du-lieu-ho-tich-dien-tu-toan-quoc-2015-307027.aspx \"Quyết định 2173/QĐ-BTP\") ngày 11/12/2015 phê duyệt Đề án “Cơ sở dữ liệu hộ tịch điện tử toàn quốc”, nhằm “Hiện đại hóa công tác đăng ký và quản lý hộ tịch trên cơ sở xây dựng Cơ sở dữ liệu hộ tịch điện tử toàn quốc, nhằm thiết lập hệ thống thông tin hộ tịch đồng bộ, thông suốt giữa các cơ quan đăng ký, quản lý hộ tịch trên toàn quốc, bảo đảm việc kết nối để chia sẻ, cung cấp thông tin hộ tịch cho Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu chuyên ngành khác,…”.\n\nHệ thống các văn bản quy phạm pháp luật, văn bản chỉ đạo đã tạo môi trường pháp lý thuận lợi để các Bộ, ngành bước đầu triển khai, xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội.\n\n**2\\. Hệ thống chỉ tiêu theo dõi, quản lý chính sách an sinh xã hội**\n\na) Hệ thống chỉ tiêu thống kê cấp quốc gia\n\nThủ tướng Chính phủ đã ban hành quyết định số 43/QĐ-TTg ngày 02/6/2010 ban hành hệ thống chỉ tiêu quốc gia, trong đó có các chỉ tiêu thuộc lĩnh vực an sinh xã hội gồm:\n\n(i) Lĩnh vực lao động - thương binh và xã hội (LĐTBXH) gồm 9 chỉ tiêu:\n\n\\- Lao động - việc làm (2 chỉ tiêu): Số lao động được tạo việc làm, số lao động đi làm việc có thời hạn ở nước ngoài trong năm theo hợp đồng,\n\n\\- Dạy nghề (4 chỉ tiêu): Số cơ sở dạy nghề, số giáo viên dạy nghề, số học sinh học nghề, Chi cho hoạt động dạy nghề,\n\n\\- Bảo trợ xã hội (3 chỉ tiêu): Số người tàn tật được trợ cấp, số người được hỗ trợ xã hội thường xuyên, Số người được hỗ trợ xã hội đột xuất.\n\n(ii) Lĩnh vực Bảo hiểm xã hội, gồm 5 chỉ tiêu:\n\nSố người đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Số người được hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Chi bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Số dư cuối kỳ, số tăng trong kỳ của quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.\n\n(iii) Lĩnh vực Giáo dục, đào tạo gồm 4 chỉ tiêu:\n\nSố học sinh trung cấp chuyên nghiệp; Số sinh viên cao đẳng; Số sinh viên đại học; Chi cho hoạt động giáo dục và đào tạo.\n\n(iv) Lĩnh vực Y tế gồm 6 chỉ tiêu:\n\nTỷ lệ mắc, chết mười bệnh cao nhất tính trên 100.000 người dân; Tỷ lệ trẻ em dưới 1 tuổi được tiêm chủng đầy đủ các loại vắc xin; Số trẻ em dưới 15 tuổi mắc, chết do các loại bệnh có vắc xin tiêm chủng; Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng; Số người nhiễm HIV, số bệnh nhân AIDS, số người chết do AIDS; Số phụ nữ mang thai từ 15 - 25 tuổi có HIV.\n\n(v) Lĩnh vực ngành Công an gồm 2 chỉ tiêu:\n\nSố người nghiện ma túy có hồ sơ quản lý; Số xã, phường không có người nghiện ma túy.\n\n(vi) Lĩnh vực Tư pháp gồm 1 chỉ tiêu: Số lượt người được trợ giúp pháp lý.\n\nb) Hệ thống chỉ tiêu cấp Bộ, ngành\n\nTrên cơ sở hệ thống chỉ tiêu quốc gia, xuất phát từ nhu cầu quản lý một số Bộ, ngành xây dựng hệ thống chỉ tiêu quản lý, chế độ báo cáo thống kê cấp Bộ như:\n\n(i) Bộ Lao động - Thương binh và Xã hội đã xây dựng hệ thống chỉ tiêu thống kê ngành ban hành theo Thông tư số 30/2011/TT-BLĐTBXH ngày 24/11/2011. Trong đó, có 23 chỉ tiêu thuộc lĩnh vực ASXH với kỳ công bố hàng năm, do các cơ quan, đơn vị thuộc Bộ thu thập, tổng hợp cụ thể:\n\n\\- Lao động - việc làm (3 chỉ tiêu): Số người được hưởng trợ cấp thất nghiệp được hỗ trợ học nghề, Số người hưởng trợ cấp thất nghiệp được tư vấn giới thiệu việc làm, Số lao động người nước ngoài làm việc ở Việt Nam được cấp phép.\n\n\\- Dạy nghề (3 chỉ tiêu): Tỷ lệ học sinh tốt nghiệp ra trường có việc làm, Tỷ lệ lao động qua đào tạo nghề, Số người được hỗ trợ học nghề theo chính sách Đề án dạy nghề cho lao động nông thôn.\n\n\\- Người có công (4 chỉ tiêu): Số lượt người đang hưởng trợ cấp ưu đãi người có công hàng tháng, Số lượt người được hưởng trợ cấp ưu đãi một lần, Số hộ người có công được hỗ trợ cải thiện nhà ở, Số công trình ghi công liệt sỹ).\n\n\\- Trợ giúp xã hội - Giảm nghèo (7 chỉ tiêu): Kinh phí trợ giúp xã hội, Số cơ sở bảo trợ xã hội, Số đối tượng hỗ trợ xã hội được cấp thẻ bảo hiểm y tế, Số hộ nghèo, Số hộ thoát nghèo, Số hộ nghèo phát sinh, Tổng kinh phí giảm nghèo.\n\n\\- Chăm sóc và bảo vệ trẻ em (6 chỉ tiêu): Số trẻ em, Số trẻ có hoàn cảnh đặc biệt, Tỷ lệ trẻ em có hoàn cảnh đặc biệt được chăm sóc, Số xã/phường và tỷ lệ xã/phường phù hợp với trẻ em, Số cơ sở có trợ giúp trẻ em.\n\nVới 23 chỉ tiêu được ban hành nhưng các chỉ tiêu báo cáo vẫn còn chung chung, chưa đáp ứng được nhu cầu quản lý nhà nước (chủ yếu là chỉ tiêu đầu vào) nhất là công tác lập kế hoạch, phân bổ ngân sách. Trên cơ sở chỉ tiêu do Bộ ban hành, các lĩnh vực sẽ tùy vào nhu cầu quản lý để xây dựng bộ chỉ tiêu báo cáo hàng năm. Tuy nhiên, quá trình xây dựng bộ chỉ tiêu chưa có văn bản chung dẫn đến thông tin thiếu chính xác, không cập nhật và đa phần bị chồng chéo.\n\n(ii) Bảo hiểm xã hội Việt Nam ban hành Quyết định số 982/QĐ-BHXH ngày 12/7/2016 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành hệ thống chỉ tiêu thống kê và chế độ báo cáo thống kê ngành BHXH.\n\n(iii) Bộ Y tế ban hành Danh mục Hệ thống chỉ số cơ bản ngành Y tế kèm theo Thông tư số [06/2014/TT-BYT](https://thuvienphapluat.vn/van-ban/the-thao-y-te/thong-tu-06-2014-tt-byt-danh-muc-he-thong-chi-so-thong-ke-co-ban-nganh-y-te-221521.aspx \"Thông tư 06/2014/TT-BYT\") ngày 14/02/2014 bao gồm 88 chỉ tiêu cấp bộ, chưa kể rất nhiều chỉ số, chỉ tiêu phục vụ cho quản lý từng lĩnh vực cụ thể tại các đơn vị Cục, Vụ, Viện và các dự án, chương trình mục tiêu quốc gia do Bộ Y tế quản lý.\n\n(iv) Bộ Giáo dục và Đào tạo ban hành Thông tư số [39/2011/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/giao-duc/thong-tu-39-2011-tt-bgddt-he-thong-chi-tieu-thong-ke-giao-duc-va-dao-tao-129249.aspx \"Thông tư 39/2011/TT-BGDĐT\") ngày 15/9/2011 về ban hành hệ thống chỉ tiêu thống kê giáo dục và đào tạo gồm 47 chỉ tiêu, trong đó một số chỉ tiêu có phân tổ theo loại hình; tỉnh/thành phố; khối lớp; giới tính, dân tộc; đối tượng chính sách, khuyết tật; tuyển mới, lưu ban, bỏ học; học 2 buổi/ngày; độ tuổi; trường phổ thông dân tộc bán trú. Tuy nhiên, không thấy có các chỉ tiêu về trợ giúp xã hội cho các đối tượng.\n\n(v) Bộ Tư pháp ban hành Thông tư số [20/2013/TT-BTP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-20-2013-tt-btp-huong-dan-thong-ke-nganh-tu-phap-215936.aspx \"Thông tư 20/2013/TT-BTP\") ngày 03/12/2013 hướng dẫn một số nội dung về hoạt động thống kê ngành tư pháp với 3 chỉ tiêu về trợ giúp pháp lý, gồm: Số lượt người được trợ giúp pháp lý; số vụ việc trợ giúp pháp lý; số kiến nghị trong trợ giúp pháp lý.\n\n**3\\. Hệ thống phần mềm quản lý và cơ sở dữ liệu thành phần về an sinh xã hội**\n\nThực hiện Nghị định số [64/2007/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-64-2007-nd-cp-ung-dung-cong-nghe-thong-tin-trong-co-quan-nha-nuoc-18234.aspx \"Nghị định 64/2007/NĐ-CP\") ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin (CNTT) trong hoạt động quản lý nhà nước, các bộ ngành đã tổ chức triển khai, bước đầu đã hình thành các hệ thống cơ sở dữ liệu chuyên ngành. Trong đó, hệ thống cơ sở dữ liệu được xây dựng tương đối bài bản gồm lĩnh vực: bảo hiểm xã hội, thông tin thị trường lao động, dữ liệu chứng minh thư nhân dân... Các hệ thống trên được triển khai cụ thể như sau:\n\n3.1. Hệ thống thông tin quản lý và cơ sở dữ liệu lĩnh vực Bảo hiểm xã hội\n\nBHXH Việt Nam đã đẩy mạnh các hoạt động ứng dụng công nghệ thông tin theo hướng hiện đại và tuân thủ chung theo khung kiến trúc Chính phủ điện tử Việt Nam; BHXH Việt Nam đã xây dựng hệ thống mạng WAN toàn ngành, kết nối 63 BHXH các tỉnh, thành phố và hơn 700 quận, huyện phục vụ các ứng dụng CNTT của Ngành; xây dựng Trung tâm dữ liệu (TTDL) ngành để phục vụ triển khai phần mềm nghiệp vụ lõi trên phạm vi toàn quốc, cũng như thực hiện xử lý các hệ thống ứng dụng CNTT khác; vận hành hệ thống Thông tin giám định BHYT; triển khai hệ thống dịch vụ công trực tuyến của Ngành theo tinh thần Nghị quyết số 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử; thực hiện gắn mã định danh BHXH duy nhất cho toàn bộ đối tượng tham gia, xây dựng nền tảng kỹ thuật để hoàn thiện hệ thống sổ BHXH, thẻ BHYT điện tử trong năm 2018; triển khai Hệ thống Quản lý văn bản điều hành (thực hiện gửi, nhận văn bản điện tử; phân công, xử lý công việc qua mạng) trong toàn Ngành. Đến nay, các đơn vị thuộc Ngành từ Trung ương đến cấp tỉnh, cấp huyện đã ứng dụng CNTT trong công tác quản lý điều hành, xử lý văn bản, kết nối liên thông cho toàn bộ các đơn vị trực thuộc và tới Văn phòng Chính phủ.\n\n3.2. Hệ thống thông tin và cơ sở dữ liệu người có công\n\na) Cổng thông tin điện tử: đã được xây dựng và triển khai nhằm cung cấp các thông tin, tin tức sự kiện có liên quan; văn bản chính sách và các hỏi/đáp có liên quan đến trợ cấp, ưu đãi người có công và công tác đền ơn đáp nghĩa...\n\nb) Cơ sở dữ liệu người có công: được lưu trữ không tập trung. Năm 1997, “phần mềm quản lý thông tin về người có công”; năm 1998, phần mềm cấp Bằng Tổ quốc ghi công; năm 2004, phần mềm “Quản lý tài chính trợ cấp ưu đãi người có công; năm 2010, xây dựng phần mềm quản lý và cơ sở dữ liệu về mộ liệt sĩ, nghĩa trang liệt sĩ; năm 2011, xây dựng phần mềm quản lý giám định ADN xác định hài cốt liệt sĩ còn thiếu thông tin; năm 2017, phần mềm điều tra thông tin liệt sĩ, thân nhân liệt sĩ, mộ và nghĩa trang liệt sỹ.\n\nBộ Lao động - Thương binh và Xã hội đã xây dựng, triển khai phần mềm “Quản lý tài chính trợ cấp ưu đãi người có công” để cập nhật, quản lý thông tin và phục vụ hoạt động chi trả trợ cấp đối với người có công theo 03 cấp: Bộ LĐTBXH, Sở LĐTBXH, Phòng LĐTBXH; Quản lý hồ sơ đối tượng và danh sách chi trả trợ cấp; Quản lý công tác lập dự toán, cấp phát kinh phí và chi trả trợ cấp ưu đãi người có công...\n\n3.3. Hệ thống thông tin và Cơ sở dữ liệu Bảo trợ xã hội và giảm nghèo\n\na) Cổng thông tin điện tử về Bảo trợ xã hội được triển khai tại địa chỉ http://btxh.gov.vn là nền tảng gắn kết các ứng dụng, HTTT&CSDL trong nội bộ phục vụ quản lý, điều hành; đồng thời cũng là kênh kết nối/tích hợp với hệ thống khác nhằm cung cấp dịch vụ công về BTXH.\n\nb) Hệ thống Cơ sở dữ liệu về giảm nghèo: Đã xây dựng phần mềm quản lý, nhập dữ liệu hộ nghèo, hộ cận nghèo để chuyển giao cho các địa phương. Giai đoạn 2016-2020, thực hiện Quyết định số 656/QĐ-LĐTBXH ngày 03/6/2015 của Bộ Lao động - Thương binh và Xã hội, việc nhập và quản lý dữ liệu hộ nghèo, hộ cận nghèo được thực hiện thí điểm trên phần mềm PosaSoft (quản lý trực tuyến) do Dự án Tăng cường hệ thống trợ giúp xã hội Việt Nam thuộc Bộ LĐTBXH triển khai tổ chức thực hiện. Hiện nay phần mềm đã cơ bản hoàn thành quá trình thí điểm tại 04 tỉnh tham gia Dự án, dự kiến sẽ hoàn thiện và chuyển giao cho 63/63 tỉnh, thành phố trong năm 2018.\n\nc) Bộ Lao động - Thương binh và Xã hội đang triển khai hệ thống Cơ sở dữ liệu về bảo trợ xã hội (chuẩn hóa bộ chỉ tiêu thống kê, xây dựng các giải pháp kỹ thuật phần cứng, phần mềm bảo đảm cập nhật, phân tích, tổng hợp và truyền tải thông tin về BTXH từ Trung ương tới địa phương (63 tỉnh, thành phố). Đồng thời, Bộ Lao động - Thương binh và Xã hội cũng đang xây dựng, triển khai dự án “Tăng cường Hệ thống trợ giúp xã hội Việt Nam” là một dự án vay vốn đầu tư từ Ngân hàng thế giới với mục tiêu là xây dựng một hệ thống quản lý và triển khai các chương trình trợ giúp xã hội nhằm hướng đến đảm bảo mức sống tối thiểu cho mọi người dân, góp phần giảm nghèo bền vững theo tinh thần Nghị quyết số 15-NQ/TW ngày 01/6/2012 của Ban chấp hành Trung ương Đảng khóa XI.\n\n**4\\. Hạ tầng ứng dụng công nghệ thông tin của các Bộ, ngành**\n\nCơ sở hạ tầng CNTT được Bộ Lao động - Thương binh và Xã hội, Bộ Công an, Bảo hiểm xã hội Việt Nam và các cơ quan quản lý địa phương xây dựng riêng để phục vụ triển khai các ứng dụng, HTTT&CSDL phục vụ công tác quản lý.\n\na) Tại Bộ Lao động - Thương binh và Xã hội\n\nĐã đầu tư xây dựng Trung tâm tích hợp dữ liệu (THDL) tại Bộ, gồm tổng thể các trang thiết bị bao gồm các máy chủ, hệ thống lưu trữ, hệ thống mạng, hệ thống sao lưu backup, hệ thống an ninh bảo mật, hệ thống phòng cháy chữa cháy... Trung tâm THDL của Bộ đã chính thức đi vào hoạt động, hỗ trợ cho việc lưu trữ, xử lý số liệu thông tin ngành LĐTBXH cũng như phục vụ trao đổi thông tin kịp thời đảm bảo ninh, an toàn với độ sẵn sàng cao.\n\nTrung tâm THDL thiết kế dựa theo tiêu chuẩn TIA-942. Thành phần của Trung tâm THDL bao gồm một phòng điều khiển Trung tâm (NOC - được trang bị máy tính để kiểm soát các hoạt động của Trung tâm), phòng chứa Server (Server của Trung tâm THDL được đầu tư là các Blade Server giúp tiết kiệm không gian của phòng, tăng khả năng lưu trữ...) và các thiết bị mạng, thiết bị an toàn, bảo mật nhằm bảo vệ hệ thống. Hệ thống cung cấp điện lưới cho Trung tâm THDL, để đảm bảo cho hệ thống hoạt động xuyên suốt không xảy ra sự cố về nguồn điện (UPS và máy phát điện dự phòng). Hệ thống điều hòa nhiệt độ sử dụng loại máy lạnh chính xác duy trì nhiệt độ ổn định trong giới hạn cho phép ở +/- 22 độ C nhằm đáp ứng mức độ làm mát cho thiết bị hoạt động bên trong. Hệ thống an ninh cho Trung tâm THDL: hệ thống IP Camera, dữ liệu thu được sẽ lưu trữ trên ổ cứng máy tính. Cả hai hệ thống trên đều cho phép dùng IP và có thể kết nối vào mạng Ethernet.\n\nb) Tại BHXH Việt Nam\n\nĐã xây dựng và triển khai kế hoạch ứng dụng CNTT trong hoạt động của ngành giai đoạn 2012-2015; ban hành thiết kế mẫu mạng nội bộ, mạng diện rộng của BHXH cấp tỉnh và huyện. Kết quả đầu tư ứng dụng và phát triển CNTT trong ngành BHXH bước đầu đã đạt được những kết quả nhất định, có tác động tích cực đến công tác chuyên môn nghiệp vụ, đặc biệt đã từng bước thay đổi phương pháp và môi trường làm việc dựa trên việc ứng dụng CNTT tại các cấp trong toàn Ngành.\n\n\\- BHXH Việt Nam đã triển khai mạng WAN ở tất cả 63 tỉnh thành và hơn 700 huyện để thực hiện kết nối từ Trung ương đến tỉnh, từ tỉnh đến huyện. Hệ thống mạng WAN Ngành đã đảm bảo kết nối liên tục, thông suốt và bảo mật cho các hoạt động nghiệp vụ và quản lý trên môi trường mạng của BHXH Việt Nam.\n\nCùng với việc mở rộng và hoàn thiện Trung tâm dữ liệu, năm 2017 ngành BHXH cũng đang xây dựng Trung tâm dữ liệu dự phòng, phục hồi thảm họa nhằm đảm bảo an toàn và độ sẵn sàng ở mức cao nhất cho hoạt động của hệ thống CNTT của Ngành khi có sự cố bất khả kháng xảy ra.\n\nc) Tại Bộ Công an\n\nThực hiện Luật Căn cước công dân và Quyết định số [896/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-896-qd-ttg-nam-2013-phe-duyet-de-an-don-gian-hoa-thu-tuc-hanh-chinh-192791.aspx \"Quyết định 896/QĐ-TTg\") ngày 08/6/2013 của Thủ tướng Chính phủ, Bộ Công an đang triển khai xây dựng dự án Cơ sở dữ liệu quốc gia về dân cư (dự kiến hoàn thành năm 2020).\n\n\\- Cơ sở dữ liệu quốc gia về dân cư là cơ sở dữ liệu dùng chung do Bộ Công an quản lý, bao gồm tập hợp thông tin cơ bản (được quy định tại Điều 9 Luật Căn cước công dân) của tất cả công dân Việt Nam được chuẩn hóa, số hóa, lưu trữ, quản lý bằng cơ sở hạ tầng thông tin để phục vụ quản lý nhà nước và giao dịch của cơ quan, tổ chức, cá nhân. Dự án Cơ sở dữ liệu quốc gia về dân cư được xây dựng theo mục tiêu tạo sự đổi mới căn bản về tổ chức, hoạt động quản lý nhà nước về dân cư theo hướng hiện đại, phù hợp với điều kiện của Việt Nam trong thời kỳ công nghiệp hóa, hiện đại hóa và thông lệ quốc tế; đẩy mạnh ứng dụng công nghệ thông tin vào giải quyết thủ tục hành chính cho người dân, doanh nghiệp, nhằm đơn giản hóa thủ tục hành chính, giảm giấy tờ công dân, góp phần nâng cao hiệu lực, hiệu quả quản lý nhà nước trên tất cả các lĩnh vực của đời sống xã hội; đồng thời, góp phần phát triển Chính phủ điện tử.\n\n\\- Số định danh cá nhân được xác lập từ Cơ sở dữ liệu quốc gia về dân cư, cấp cho mỗi công dân Việt Nam và gắn với người đó từ khi sinh ra đến khi chết, không lặp lại ở người khác, dùng để xác định dữ liệu về công dân và kết nối, cập nhật, chia sẻ, khai thác thông tin của công dân trong Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu chuyên ngành.\n\nNhư vậy, các cơ sở dữ liệu quốc gia khác, cơ sở dữ liệu chuyên ngành kết nối với Cơ sở dữ liệu quốc gia về dân cư để thu thập, cập nhật, chia sẻ, khai thác, sử dụng thông tin về công dân thông qua số định danh cá nhân.\n\n**5 . Nguồn nhân lực**\n\nĐội ngũ cán bộ, nhân viên làm công tác ASXH cả nước ước tính có khoảng 30.000 người làm việc tại các cơ quan Trung ương (Bảo hiểm xã hội Việt Nam, Bộ LĐTBXH, Bộ Y tế) và các địa phương (cấp tỉnh: 63 Sở LĐTBXH, 63 sở Y tế; 63 BHXH địa phương; cấp huyện: 698 đơn vị cấp huyện; 11.112 cấp xã), các cơ sở bảo trợ xã hội.\n\n**6\\. Hợp tác quốc tế**\n\nThời gian qua, chúng ta đã tranh thủ được sự ủng hộ về nhiều mặt của nhiều của quốc tế như WORLD BANK, UNICEF, UNDP, ILO, GIZ, các cá nhân, tổ chức quốc tế khác. Các tổ chức quốc tế ở tại Việt Nam cũng như Chính phủ các nước đóng vai trò quan trọng và rất quan tâm hỗ trợ cho lĩnh vực ASXH.\n\nNguồn viện trợ quốc tế cho Việt Nam ngày một tăng lên. Năm 2013, Thủ tướng Chính phủ vừa phê duyệt danh mục đầu tư dự án tăng cường trợ giúp xã hội, vốn vay của Ngân hàng Thế giới, trong đó 32,5 triệu đô dành cho việc xây dựng cơ sở dữ liệu quốc gia về TGXH. Ngoài việc tài trợ về nguồn lực, chia sẻ các bài học kinh nghiệm, nâng cao năng lực cán bộ công tác trong lĩnh vực ASXH. Các mô hình ASXH tiên tiến trên thế giới đã và đang được thí điểm, nghiên cứu, áp dụng trong thực tiễn tại Việt Nam.\n\nViệt Nam cũng đã tham gia ký kết các văn bản thỏa thuận, điều ước quốc tế quan trọng liên quan đến hợp tác trong lĩnh vực ASXH. Tuyên bố thiên niên kỷ được 189 nguyên thủ quốc gia ký kết vào tháng 9/2000, trong đó có các mục tiêu phát triển thiên niên kỷ. Ngày 13/11/2013, Việt Nam trúng cử với số phiếu cao nhất trong 14 nước thành viên mới và lần đầu tiên trở thành thành viên Hội đồng Nhân quyền Liên Hợp Quốc.\n\n**III. Khó khăn, thách thức**\n\n**1\\. Hệ thống chỉ tiêu thống kê, báo cáo về an sinh xã hội chưa đồng bộ, thống nhất**\n\nCho đến nay chưa có hệ thống chỉ tiêu thống kê và các thông tin đồng bộ, thống nhất về ASXH trên phạm vi toàn quốc, chỉ có các hệ thống chỉ tiêu thống kê trong từng lĩnh vực cụ thể của các bộ, ngành. Trong một chừng mực nhất định, một số chỉ tiêu thống kê chuyên ngành của lĩnh vực ASXH chưa được chuẩn hóa, thống nhất giữa các cấp quản lý, chồng chéo về nội dung dẫn đến tình trạng trùng lặp về đối tượng. Chưa hình thành được mã số định danh cá nhân/mã số an sinh xã hội cấp quốc gia (hệ thống cơ sở dữ liệu quốc gia về dân cư xây dựng với mục tiêu xây dựng mã số công dân, cấp cho 01 người từ lúc sinh cho đến khi chết đã được xây dựng nhưng tiến độ kéo dài đến năm 2020 mới hoàn thành). Công tác thu thập, tổng hợp, báo cáo số liệu còn thiếu chi tiết, chưa đáp ứng yêu cầu, chưa thực sự tạo điều kiện thuận tiện cho cán bộ cơ sở, nhất là cấp xã, phường và cấp quận huyện thực hiện, dẫn tới tình trạng tổng hợp được số liệu chưa chính xác.\n\n**2\\. Các hệ thống phần mềm quản lý và cơ sở dữ liệu an sinh xã hội chưa đồng bộ, thống nhất**\n\nHệ thống cơ sở dữ liệu chuyên ngành được hình thành và phát triển không đồng bộ. Hệ thống thông tin và CSDL hiện có chưa được chuẩn hóa, việc thu thập, cập nhật, quản lý thông tin còn mang tính đơn lẻ, chưa đầy đủ, kịp thời, độ tin cậy chưa cao, hiệu quả sử dụng thấp. Do đó không thể cập nhập, theo dõi biến động dẫn đến không đáp ứng được yêu cầu quản lý nhà nước: kịp thời, chính xác. Bên cạnh đó, do thiếu sự phát triển đồng bộ nên các CSDL chuyên ngành không có sự kết nối dẫn đến không hiệu quả, tốn kém từ khâu thu thập thông tin, quản lý, khai thác, chia sẻ. Thiếu sự kết nối nên vẫn xảy ra tình trạng trùng, sai, gây lãng phí cho nhà nước.\n\n**3\\. Nguồn kinh phí đầu tư cho ứng dụng công nghệ thông tin, cơ sở dữ liệu còn hạn chế**\n\nNguồn đầu tư cho ứng dụng CNTT phục vụ công tác quản lý về ASXH của Nhà nước có tăng hàng năm nhưng chưa đáp ứng được yêu cầu ngày càng tăng của ASXH; cơ chế tài chính cho ứng dụng CNTT còn nhiều bất cập. Nhìn chung, chi ứng dụng CNTT chưa được tách độc lập mà vẫn nằm chung với các nhiệm vụ chi khác do đó kinh phí còn hạn hẹp, chưa đáp ứng được đầy đủ các nhu cầu ứng dụng CNTT xây dựng các hệ thống cơ sở dữ liệu phục vụ công tác quản lý theo từng trụ cột của hệ thống ASXH.\n\n**4\\. Nguồn nhân lực làm công tác an sinh xã hội**\n\nCán bộ, nhân viên làm công tác ASXH đa phần là kiêm nhiệm và hầu như chưa được đào tạo bài bản về kỹ năng ứng dụng CNTT, quản lý, vận hành các HTTT&CSDL thành phần. Với sự phát triển của CNTT&TT, việc tổ chức, triển khai đào tạo về kỹ năng CNTT cho cán bộ, nhân viên làm công tác ASXH là yêu cầu cần thiết nhằm từng bước chuyên nghiệp hóa về công tác quản lý HTTT&CSDL về ASXH hiện đại, thúc đẩy phát triển mạng lưới xây dựng chính sách, cung cấp dịch vụ ASXH trong phạm vi cả nước.\n\n**5\\. Cơ chế quản lý và khai thác thông tin**\n\nHàng năm, Bộ Lao động - Thương binh và Xã hội đều yêu cầu các đơn vị cung cấp số liệu về các lĩnh vực quản lý của ngành, song chất lượng báo cáo còn nhiều hạn chế. Việc quản lý và khai thác thông tin chưa thành nề nếp. Mặt khác cũng chưa có quy định cụ thể về việc chia sẻ thông tin, khai thác sử dụng thông tin. Bên cạnh đó, nguồn nhân lực tuy đông song chủ yếu làm kiêm nhiệm, số cán bộ chuyên trách về công nghệ thông tin không nhiều, trình độ sử dụng công nghệ thông tin còn hạn chế; hạ tầng kỹ thuật về công nghệ thông tin còn bất cập do vậy việc khai thác sử dụng cũng chưa thật hiệu quả.\n\n**IV. Kinh nghiệm quốc tế**\n\nKinh nghiệm quốc tế cho thấy, các nước đặc biệt chú trọng đầu tư cho việc xây dựng hệ thống an sinh xã hội hiện đại, tiên tiến trên nền tảng ứng dụng công nghệ thông tin. Điển hình là các nước khu vực Châu Âu, Mỹ, Nhật, Úc, Ấn Độ, Nga, Nam Phi. Tính đến năm 2013, có hơn 15 quốc gia được Ngân hàng thế giới hỗ trợ về tài chính để thực hiện các chương trình này như Philippines, Indonesia, Trung Quốc, Brazil và trong đó có Việt Nam. Một số hệ thống thông tin quản lý chương trình trợ giúp xã hội tiêu biểu nhất đang được thực hiện ở các quốc gia như chương trình bảo trợ xã hội “Dibao” của Trung Quốc, chương trình “4P” của Philippines, chương trình “Bolsa Familia” của Brazil. Tại Nam Phi, Cơ quan An sinh xã hội đang triển khai hệ thống thông tin quản lý kỹ thuật số 6 chương trình trợ cấp xã hội cho hơn 9,6 triệu người. Hệ thống thông tin quản lý bằng kỹ thuật số tích hợp các hệ thống hiện có, cung cấp các tính năng, các dịch vụ trợ cấp cho người hưởng lợi (như nộp hồ sơ đăng ký, chấp nhận đối tượng, chức năng chi trả, quản trị, rủi ro), các dịch vụ về tuân thủ chính sách (như phát hiện gian lận), dịch vụ trợ giúp (như quản lý tài chính và nguồn lực) hoặc các dịch vụ phục vụ thông minh (như giám sát, báo cáo, quản lý tri thức); cung cấp một nền tảng mới tích hợp và tối ưu hóa công nghệ thông tin; trang bị cho cơ quan an sinh xã hội khả năng ứng phó với các áp lực kinh tế, xã hội, công nghệ và luật pháp một cách nhanh chóng, hiệu quả; phục vụ người hưởng lợi theo hướng lấy người dân làm trung tâm, bằng cách nhìn từ góc độ của người hưởng lợi; bảo đảm thực hiện kiểm toán tích hợp nhằm tăng tính bảo mật và trách nhiệm giải trình; cung cấp thông tin liên quan đến đúng người vào đúng thời điểm.\n\nTại Pháp, việc thực hiện các chính sách giải pháp về bảo đảm an sinh xã hội diễn ra theo 3 mô hình: mô hình cứu trợ xã hội; mô hình bảo hiểm xã hội; mô hình phát triển cộng đồng nhung đều dựa trên nền tảng mã số định danh cá nhân (ID). Mỗi công dân kể từ khi sinh ra được cấp 1 mã số ID khi đi đăng ký tại Trung tâm đăng ký quốc gia cá nhân. Số ID thường được gọi là số INSEE hay số “An sinh xã hội” bao gồm 15 chữ số. Số ID được sử dụng chủ yếu trong lĩnh vực bảo trợ xã hội và một số dịch vụ hành chính khác như thuế, giáo dục, công an... Các quốc gia khác tại châu Âu như Bỉ, Đan Mạch, Hà Lan, Thụy Điển cũng sử dụng công cụ “số định danh cá nhân” trong hoạt động quản lý hành chính cũng như thực hiện các chính sách về an sinh xã hội.\n\nKinh nghiệm triển khai của các nước cho thấy hệ thống thông tin quản lý về an sinh xã hội được xây dựng dựa trên nền tảng công nghệ hiện đại, quy trình xác định đối tượng hưởng lợi thông qua tự đăng ký của người dân trên hệ thống mạng, đăng ký đối tượng được chuẩn hóa để xây dựng hệ thống cơ sở dữ liệu tích hợp quản lý đối tượng, chi trả trợ giúp xã hội, theo dõi, đánh giá việc thực hiện chính sách. Kinh nghiệm cũng cho thấy việc xác lập mã số định danh cá nhân góp phần quan trọng trong việc xây dựng hệ thống thông tin quản lý về an sinh xã hội. Đối với điều kiện hiện nay, Việt Nam rất cần triển khai Đề án cơ sở dữ liệu quốc gia về an sinh xã hội trên cơ sở các bài học kinh nghiệm của các nước.\n\n**Phần II**\n\n**KẾ HOẠCH THỰC HIỆN ĐỀ ÁN 708 GIAI ĐOẠN 2018 - 2020**\n\n**I. Mục tiêu đến năm 2020**\n\na) Ứng dụng công nghệ thông tin trong đăng ký, giải quyết chính sách, chi trả cho đối tượng thụ hưởng chính sách an sinh xã hội kịp thời, công khai và minh bạch.\n\nb) Hoàn thiện cơ sở pháp lý, triển khai cấp số và thẻ an sinh xã hội điện tử để tích hợp, giúp người dân thụ hưởng thuận lợi các chính sách trợ giúp xã hội, giảm nghèo, người có công với cách mạng, bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.\n\nc) Xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội bao gồm thông tin cơ bản về công dân Việt Nam là đối tượng của các chính sách: Trợ giúp xã hội, giảm nghèo, người có công với cách mạng, bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.\n\n**II. Nhiệm vụ, giải pháp**\n\n**1\\. Rà soát, đề xuất sửa đổi, bổ sung, ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành nhằm hoàn thiện hành lang pháp lý triển khai cơ sở dữ liệu quốc gia về an sinh xã hội**\n\na) Nội dung:\n\n\\- Rà soát hệ thống pháp luật về cơ sở dữ liệu quốc gia về an sinh xã hội và đề xuất sửa đổi, bổ sung cho phù hợp.\n\n\\- Xây dựng văn bản quy phạm pháp luật quy định về Cơ sở dữ liệu quốc gia về an sinh xã hội, trong đó quy định rõ vai trò, vị trí, quy định phân biệt rõ đặc tính, phạm vi dữ liệu đảm bảo tránh thu thập trùng lặp, chồng lấn với các cơ sở dữ liệu quốc gia khác; quy định cách thức xây dựng, thu thập, cập nhật, duy trì kết nối cũng như nguyên tắc trong việc chia sẻ dữ liệu như đối tượng khai thác, trình tự thủ tục kết nối; quy định về quyền hạn, trách nhiệm của chủ quản cơ sở dữ liệu quốc gia, các cơ quan tổ chức có liên quan trong quá trình xây dựng, vận hành, cũng như quy định về giá trị pháp lý của dữ liệu, giá trị sử dụng dữ liệu trong chỉ đạo điều hành của Chính phủ, của các Bộ, ngành, địa phương;\n\n\\- Nghiên cứu, hoàn thiện các cơ chế, chính sách đẩy mạnh ứng dụng công nghệ thông tin trong giải quyết chính sách an sinh xã hội, xây dựng cơ sở dữ liệu an sinh xã hội; khuyến khích doanh nghiệp đầu tư hạ tầng kỹ thuật nhằm tăng cường ứng dụng công nghệ thông tin trong việc giải quyết chi trả chính sách, xây dựng cơ sở dữ liệu; lựa chọn đơn vị cung cấp dịch vụ công bảo đảm chi trả theo yêu cầu, thực hiện theo cơ chế thu hồi vốn đầu tư thông qua thu phí cung cấp dịch vụ chi trả chính sách; đẩy mạnh thực hiện tiếp nhận hồ sơ, trả kết quả qua dịch vụ Bưu chính công ích trong giải quyết các chính sách ASXH tạo thuận lợi hơn nữa cho người dân khi đăng ký hưởng chính sách ASXH; hướng dẫn, hỗ trợ người dân tự đăng ký và nhập liệu các trường thông tin cá nhân vào cơ sở dữ liệu quốc gia về an sinh xã hội.\n\n\\- Xây dựng và hoàn thiện cấu trúc dữ liệu phục vụ trao đổi của cơ sở dữ liệu quốc gia và các tài liệu kỹ thuật phục vụ mục đích kết nối các hệ thống thông tin vào cơ sở dữ liệu quốc gia đáp ứng sự minh bạch về cấu trúc thông tin, khả năng cung cấp, chia sẻ thông tin từ cơ sở dữ liệu quốc gia.\n\n\\- Xây dựng hệ thống chỉ tiêu, chỉ số đầu vào, đầu ra, bảo đảm các cơ sở dữ liệu thành phần cập nhật, quản lý, tích hợp và trao đổi cơ sở dữ liệu an sinh xã hội. Hoàn thiện và ban hành hệ thống chỉ tiêu thông tin quản lý, bộ chỉ số quốc gia về an sinh xã hội, các mẫu biểu báo cáo thống kê thông tin dữ liệu an sinh xã hội ở các cấp quản lý; sử dụng bộ mã số định danh cho đối tượng thụ hưởng chính sách an sinh xã hội để xác định đối tượng. Trên cơ sở đó, các hệ thống thông tin thành phần sử dụng bộ mã số làm cơ sở quản lý và trao đổi cơ sở dữ liệu về an sinh xã hội.\n\nb) Tổ chức thực hiện:\n\n\\- Cơ quan chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Cơ quan phối hợp: Bộ Tài chính, Bộ Thông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam và các Bộ, ngành liên quan; các địa phương.\n\n**2\\. Xây dựng cổng thông tin điện tử an sinh xã hội và phần mềm đăng ký thụ hưởng chính sách an sinh xã hội**\n\na) Nội dung:\n\nXây dựng Cổng Thông tin điện tử An sinh xã hội trên mạng điện tử để thực hiện: Giải quyết các chính sách an sinh xã hội cho người dân; cung cấp thông tin về chính sách, đối tượng thụ hưởng chính sách an sinh xã hội; tích hợp cung cấp dịch vụ trực tuyến và kết nối hệ thống thông tin thống kê về an sinh xã hội của các bộ, ngành, địa phương. Cụ thể:\n\n\\- Cổng cung cấp các thông tin, ứng dụng riêng về ASXH như sau: Cung cấp thông tin chính sách, tin tức sự kiện ASXH... Tích hợp các ứng dụng và CSDL có liên quan về ASXH.\n\n\\- Xây dựng, tích hợp và cung cấp trên Cổng thông tin điện tử ASXH các dịch vụ công trực tuyến mức độ 3, 4 về ASXH.\n\n\\- Xây dựng, hoàn thiện các phần mềm để tăng cường ứng dụng công nghệ thông tin trong việc đăng ký, thụ hưởng giải quyết các chính sách an sinh xã hội, bảo đảm đơn giản hóa các thủ tục hành chính, giấy tờ công dân: Mẫu đơn, mẫu tờ khai xét duyệt và thẩm định đối tượng hưởng chính sách an sinh xã hội; giảm thủ tục hành chính trong việc giải quyết chính sách an sinh xã hội cho người dân, bảo đảm liên thông 3 thủ tục hành chính đăng ký, thụ hưởng chính sách, cấp thẻ an sinh xã hội dùng chung cho 6 loại hình chính sách.\n\n\\- Tích hợp và cung cấp công cụ tìm kiếm đa năng nhiều tiêu chí khác nhau; có thể vẽ biểu đồ so sánh từng thời kỳ; hỗ trợ tìm kiếm và khai thác thông tin dữ liệu trực quan gắn kết thông tin bản đồ với thông tin thuộc tính phục vụ chỉ đạo, điều hành về ASXH.\n\n\\- Xây dựng, tích hợp kênh thông tin, truyền thông đối thoại trực tuyến với người dân, doanh nghiệp (eTV) trên Internet về An sinh xã hội phục vụ công tác truyền thông, quảng bá cơ sở dữ liệu về ASXH.\n\nb) Tổ chức thực hiện:\n\n\\- Đơn vị chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Đơn vị phối hợp: Bộ Thông tin và Truyền thông, Bảo hiểm xã hội Việt Nam, các Bộ, ngành và các địa phương.\n\n**3\\. Xây dựng hạ tầng công nghệ thông tin và hình thành trung tâm dữ liệu quốc gia về ASXH**\n\na) Nội dung hoạt động:\n\n\\- Có chính sách khuyến khích doanh nghiệp đầu tư thiết bị, hạ tầng kỹ thuật nhằm tăng cường ứng dụng công nghệ thông tin trong việc giải quyết chi trả chính sách, xây dựng cơ sở dữ liệu, xây dựng cơ sở dữ liệu an sinh xã hội. Sử dụng có hiệu quả hạ tầng bưu chính công cộng do Nhà nước đầu tư để đảm nhiệm công tác phục vụ người hưởng trong việc thực hiện các thủ tục liên quan đến thụ hưởng các chính sách an sinh xã hội dưới sự quản lý của các cơ quan nhà nước.\n\n\\- Nghiên cứu, xây dựng tiêu chuẩn kỹ thuật, quy trình chung trong việc thiết kế, xây dựng hạ tầng công nghệ thông tin.\n\n\\- Xây dựng hạ tầng lõi và phần mềm để thực hiện cập nhật, quản lý cơ sở dữ liệu quốc gia về an sinh xã hội, bảo đảm tích hợp, chia sẻ thông tin, từ đó phục vụ cho các phần mềm quản lý của các cơ quan nhà nước. Thiết kế hệ thống và các phần mềm ứng dụng của Cơ sở dữ liệu quốc gia về an sinh xã hội phải đảm bảo tính tương thích, khả năng tích hợp, chia sẻ thông tin theo mục tiêu và các tiêu chí, tiêu chuẩn về công nghệ thông tin, khả năng mở rộng các trường dữ liệu, số an sinh xã hội để các ngành và đối tượng sử dụng khi truy cập, kết nối vào Cơ sở dữ liệu quốc gia về an sinh xã hội để khai thác thông tin về đối tượng liên quan. Hướng dẫn, hỗ trợ người dân tự đăng ký và nhập liệu các trường thông tin cá nhân vào cơ sở dữ liệu quốc gia về an sinh xã hội.\n\n\\- Hình thành trung tâm dữ liệu quốc gia về ASXH\n\nHình thành trung tâm dữ liệu quốc gia về ASXH theo tiêu chuẩn quốc tế, quy mô đủ lưu trữ, bảo đảm công suất xử lý dữ liệu cho tất cả các hoạt động nghiệp vụ của hệ thống thông tin và cơ sở dữ liệu về ASXH; bảo đảm an ninh, an toàn dữ liệu, có hệ thống lưu trữ dự phòng dữ liệu và hỗ trợ khôi phục sau sự cố...\n\nTrung tâm dữ liệu có các thành phần cơ bản sau:\n\n\\+ Trung tâm dữ liệu thiết kế dựa theo tiêu chuẩn TIA-942, mức tier-2, tier-3. Có hệ thống cung cấp điện lưới, hệ thống điều hòa nhiệt độ, hệ thống chữa cháy dùng khí sạch, hệ thống an ninh (IP Camera), hệ thống bảo mật nhằm bảo vệ hệ thống mạng và dịch vụ mạng...\n\n\\+ Hệ thống máy chủ bổ sung cho Trung tâm dữ liệu với các máy chủ Blade cho có kèm theo kèm module tích hợp hệ thống, module quang cho máy chủ nhằm sẵn sàng cho kết nối quang trong tương lai.\n\n\\+ Để hệ thống hoạt động ổn định và hiệu quả 24x7x365, Trung tâm dữ liệu cần phải có đường truyền Internet tốc độ cao và đường truyền dự phòng (sử dụng cáp quang). Nâng cấp đường truyền Internet băng thông rộng, xây dựng hệ thống mạng diện rộng kết nối từ Trung tâm dữ liệu tới các địa phương, đơn vị có liên quan phục vụ trao đổi thông tin, dữ liệu về ASXH.\n\nb) Tổ chức thực hiện:\n\n\\- Cơ quan chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Cơ quan phối hợp: Bộ Tài chính, Bộ Thông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam và các Bộ, ngành liên quan, các địa phương.\n\n**4\\. Nhập liệu cơ sở** **dữ liệu quốc gia về an sinh xã hội**\n\na) Nội dung:\n\n\\- Cập nhật cơ sở dữ liệu quốc gia về an sinh xã hội gồm các thông tin sau đây: Các thông tin về đối tượng và chính sách trợ giúp xã hội theo quy định tại Nghị định số [136/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-136-2013-nd-cp-chinh-sach-tro-giup-xa-hoi-bao-tro-xa-hoi-210669.aspx \"Nghị định 136/2013/NĐ-CP\") ngày 21 tháng 10 năm 2013 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội và các văn bản pháp luật có liên quan; Các thông tin về đối tượng và chính sách giảm nghèo theo quy định tại Quyết định số [59/2015/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-59-2015-qd-ttg-chuan-ngheo-tiep-can-da-chieu-ap-dung-2016-2020-296044.aspx \"Quyết định 59/2015/QĐ-TTg\") ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020 và các văn bản pháp luật có liên quan; Các thông tin về đối tượng và chính sách ưu đãi người có công với cách mạng được quy định tại Pháp lệnh Ưu đãi người có công với cách mạng và các văn bản pháp luật có liên quan; Các thông tin về đối tượng và chính sách bảo hiểm thất nghiệp theo quy định tại Luật Việc làm và các văn bản hướng dẫn Luật.\n\n\\- Tích hợp các thông tin sau đây vào cơ sở dữ liệu quốc gia về an sinh xã hội: Các thông tin định danh công dân theo quy định tại Điều 9 Luật Căn cước công dân và các văn bản hướng dẫn Luật; Các thông tin về đối tượng và chính sách bảo hiểm xã hội theo quy định tại Luật Bảo hiểm xã hội và các văn bản pháp luật hướng dẫn Luật; Các thông tin về đối tượng và chính sách bảo hiểm y tế theo quy định tại Luật Bảo hiểm y tế và các văn bản hướng dẫn Luật.\n\nb) Tổ chức thực hiện:\n\n\\- Người dân nhập liệu các thông tin đăng ký thụ hưởng các chính sách an sinh xã hội thông qua dịch vụ công trực tuyến. Trong trường hợp gặp khó khăn, người dân có thể thực hiện hoàn tất các thủ tục đăng ký hưởng chính sách ASXH thông qua đơn vị cung cấp dịch vụ chi trả, dịch vụ Bưu chính công ích.\n\n\\- Ngành Lao động - Thương binh và Xã hội phối hợp với ngành Công an, Bảo hiểm xã hội Việt Nam, các ngành liên quan và địa phương tổ chức nhập liệu và tích hợp hồ sơ đối tượng đang hưởng chính sách an sinh xã hội.\n\n**5\\. Quản lý, lưu trữ, bảo mật và phân phối hiệu quả cơ sở dữ liệu thành phần và cơ sở dữ liệu quốc gia về an sinh xã hội**\n\na) Nội dung:\n\nXây dựng các quy định pháp lý quản lý, lưu trữ, bảo mật và phân phối hiệu quả cơ sở dữ liệu thành phần và cơ sở dữ liệu quốc gia về an sinh xã hội; tích hợp dữ liệu quốc gia về ASXH theo tiêu chuẩn quốc tế, quy mô đủ lưu trữ, bảo đảm công suất xử lý dữ liệu cho tất cả các hoạt động nghiệp vụ của hệ thống thông tin và cơ sở dữ liệu về ASXH; xây dựng hệ thống an ninh (IP Camera), hệ thống bảo mật nhằm bảo vệ hệ thống mạng và dịch vụ mạng bảo đảm an ninh, an toàn dữ liệu, có hệ thống lưu trữ dự phòng dữ liệu và hỗ trợ khôi phục sau sự cố.\n\nb) Tổ chức thực hiện:\n\n\\- Đơn vị chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Đơn vị phối hợp: Các Bộ, ngành liên quan, địa phương và tổ chức cung cấp dịch vụ.\n\n**6\\. Cấp số và thẻ an sinh xã hội điện tử**\n\na) Nội dung:\n\n\\- Nghiên cứu, hoàn thiện cơ sở pháp lý cấp số và thẻ an sinh xã hội điện tử; xây dựng số an sinh xã hội duy nhất đối với mỗi người dân, bảo đảm kết nối với mã số định danh công dân nhằm quản lý thống nhất cơ sở dữ liệu về an sinh xã hội.\n\n\\- Xây dựng văn bản pháp lý quy định cấp, đổi, hủy, công năng, tác dụng thẻ an sinh xã hội điện tử.\n\n\\- Phát triển Thẻ an sinh xã hội điện tử để giảm giấy tờ công dân trong lĩnh vực quản lý các chính sách trợ giúp xã hội, hộ nghèo, người có công, bảo hiểm thất nghiệp, bảo hiểm xã hội, bảo hiểm y tế. Từng bước kết nối cơ sở dữ liệu chuyên ngành với Cơ sở dữ liệu quốc gia về an sinh xã hội, đơn giản hóa thủ tục hành chính và tích hợp các loại giấy tờ công dân khác như: Số hưởng trợ cấp, thẻ bảo hiểm y tế, sổ bảo hiểm xã hội, mã số thuế cá nhân và các giấy tờ khác có liên quan.\n\n\\- Giai đoạn 2017-2018 hỗ trợ thí điểm cấp số và thẻ an sinh xã hội điện tử tại 1-3 tỉnh, thành phố trực thuộc trung ương, dự kiến Quảng Ninh, Cần Thơ/Vĩnh Phúc, thành phố Hồ Chí Minh;\n\n\\- Giai đoạn 2019 - 2020 hỗ trợ cấp số và thẻ an sinh xã hội điện tử cho công dân Việt Nam là đối tượng của an sinh xã hội.\n\nb) Tổ chức thực hiện:\n\n\\- Đơn vị chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Đơn vị phối hợp: Bộ Công an, Bộ Tài chính, Bộ Thông tin và Truyền thông, Bộ Y tế, Bảo hiểm xã hội Việt Nam và các Bộ, ngành liên quan, các địa phương.\n\n**7\\. Tổ chức chi trả chính sách an sinh xã hội thông qua tổ chức cung cấp dịch vụ công.**\n\na) Nội dung:\n\n\\- Hoàn thiện cơ chế đổi mới phương thức chi trả gắn với giải quyết các chế độ chính sách an sinh xã hội; phối hợp với các tổ chức cung cấp dịch vụ công thực hiện chi trả trợ cấp cho đối tượng bảo đảm đúng người, đúng số tiền, đúng quy định của các cấp quản lý.\n\n\\- Hướng dẫn các địa phương lựa chọn đơn vị có mạng lưới cơ sở vật chất và nhân lực, có kinh nghiệm cung cấp dịch vụ chi trả trợ cấp xã hội, các chính sách an sinh xã hội và bảo đảm xây dựng cơ sở dữ liệu an sinh xã hội để cung cấp dịch vụ chi trả các chính sách an sinh xã hội trên địa bàn; bảo đảm chi trả theo yêu cầu, thực hiện theo cơ chế thu hồi vốn đầu tư thông qua thu phí cung cấp dịch vụ chi trả chính sách.\n\nb) Tổ chức thực hiện:\n\n\\- Đơn vị chủ trì: Bộ Lao động - Thương binh Xã hội.\n\n\\- Đơn vị phối hợp: Bộ Thông tin và Truyền thông, các Bộ, ngành liên quan, các tổ chức cung cấp dịch vụ công và địa phương.\n\n**8\\. Đào tạo, tập huấn nâng cao năng l****ực cho đội ngũ cán bộ, viên chức, nhân viên trong việc ứng dụng, khai thác hệ thống thông tin và cơ sở dữ liệu về an sinh xã hội.**\n\na) Nội dung hoạt động:\n\n\\- Đào tạo, tập huấn, bồi dưỡng kiến thức, kỹ năng sử dụng, ứng dụng công nghệ thông tin cho cán bộ, công chức, viên chức của các cơ quan quản lý nhà nước để quản lý, vận hành, khai thác cơ sở dữ liệu về an sinh xã hội nhằm phục vụ hiệu quả trong công tác quản lý nhà nước.\n\n\\+ Hướng dẫn khai thác, sử dụng Hệ thống thông tin ASXH.\n\n\\+ Đào tạo quản trị hệ thống mạng, quản trị các ứng dụng và hệ thống thông tin về ASXH.\n\n\\+ Có chính sách khuyến khích để có thể tuyển dụng được các cán bộ CNTT khá, giỏi tham gia triển khai, vận hành, phát triển hệ thống ASXH.\n\n\\- Tổ chức học tập kinh nghiệm quản lý cơ sở dữ liệu về an sinh xã hội, ứng dụng công nghệ thông tin trong giải quyết chính sách an sinh xã hội, xây dựng và quản lý thẻ an sinh xã hội điện tử tại các nước có nền an sinh xã hội tiên tiến, phát triển.\n\nb) Tổ chức thực hiện:\n\n\\- Cơ quan chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Cơ quan phối hợp: Các Bộ, ngành liên quan và các địa phương.\n\n**9\\. Tuyên truyền, nâng cao nhận thức của các cấp, ngành và người dân về cơ sở dữ liệu quốc gia về an sinh xã hội, ứng dụng công nghệ thông tin vào giải quyết chính sách an sinh xã hội**\n\na) Nội dung hoạt động:\n\nTuyên truyền, nâng cao nhận thức của các cấp, ngành và người dân về Cơ sở quốc gia về an sinh xã hội bao gồm thông tin cơ bản về công dân Việt Nam là đối tượng của các chính sách: Trợ giúp xã hội, giảm nghèo, người có công với cách mạng, bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.\n\nb) Tổ chức thực hiện:\n\n\\- Cơ quan chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Cơ quan phối hợp: Các Bộ, ngành liên quan, các địa phương.\n\n**10\\. Tăng cường kiểm tra, giám sát, đánh giá việc thực hiện xây dựng cơ sở dữ liệu quốc gia về an sinh xã hội ứng dụng công nghệ thông tin trong giải quyết chính sách an sinh xã hội.**\n\na) Nội dung hoạt động:\n\nKiểm tra, giám sát và đánh giá việc quản lý, cập nhật cơ sở dữ liệu quốc gia về an sinh xã hội tại các cơ quan, địa phương để khắc phục những khó khăn, hạn chế, vướng mắc, từ đó đưa ra những giải pháp kịp thời nhằm thực hiện Đề án có hiệu quả.\n\nb) Tổ chức thực hiện:\n\n\\- Cơ quan chủ trì: Bộ Lao động - Thương binh và Xã hội.\n\n\\- Cơ quan phối hợp: Các Bộ, ngành liên quan và các địa phương.\n\n**III. Kinh phí thực hiện**\n\nHàng năm, Kế hoạch thực hiện Đề án của Trung ương và địa phương được cấp có thẩm quyền phê duyệt. Căn cứ nội dung các hoạt động triển khai, kinh phí thực hiện Đề án được bảo đảm từ các nguồn:\n\n1\\. Nguồn vốn ngân sách nhà nước được bố trí trong dự toán chi thường xuyên hàng năm theo phân cấp của Luật ngân sách nhà nước.\n\n2\\. Nguồn vốn doanh nghiệp, chi phí dịch vụ chi trả các chính sách an sinh xã hội.\n\n3\\. Nguồn huy động, tài trợ, đóng góp của các tổ chức, cá nhân trong và ngoài nước\n\n4\\. Các nguồn hợp pháp khác theo quy định của pháp luật./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

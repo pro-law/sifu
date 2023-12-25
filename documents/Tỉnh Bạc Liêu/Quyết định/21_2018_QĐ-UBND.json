@@ -1,0 +1,508 @@
+{
+  "title": "Quyết định 21/2018/QĐ-UBND quy định về quản lý hoạt động đo đạc và bản đồ trên địa bàn tỉnh Bạc Liêu",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 84/2017/NĐ-CP sửa đổi Nghị định 173/2013/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực khí tượng thủy văn, đo đạc và bản đồ do Thủ tướng Chính phủ ban hành",
+      "id": "84/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-07-18",
+      "effectiveDate": "2017-09-10",
+      "gazetteDate": "2017-07-30",
+      "gazetteNumber": "Từ số 527 đến số 528",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 973/2001/TT-TCĐC hướng dẫn áp dụng hệ quy chiếu và hệ toạ độ quốc gia VN-2000 do Tổng cục Địa chính ban hành",
+      "id": "973/2001/TT-TCĐC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Tổng cục Địa chính",
+      "signers": [
+        "Đặng Hùng Võ"
+      ],
+      "issuedDate": "2001-06-20",
+      "effectiveDate": "2001-07-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 83/2000/QĐ-TTg về sử dụng Hệ quy chế và Hệ toạ độ quốc gia Việt Nam do Thủ tướng Chính phủ ban hành",
+      "id": "83/2000/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2000-07-12",
+      "effectiveDate": "2000-08-11",
+      "gazetteDate": "2000-08-15",
+      "gazetteNumber": "Số 30",
+      "status": "Không xác định"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 34/2017/TT-BTC quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy phép hoạt động đo đạc và bản đồ do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "34/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Vũ Thị Mai"
+      ],
+      "issuedDate": "2017-04-21",
+      "effectiveDate": "2017-06-08",
+      "gazetteDate": "2017-05-23",
+      "gazetteNumber": "Từ số 365 đến số 366",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 49/2016/TT-BTNMT quy định công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực đất đai do Bộ Tài nguyên và Môi trường ban hành",
+      "id": "49/2016/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Thị Phương Hoa"
+      ],
+      "issuedDate": "2016-12-28",
+      "effectiveDate": "2017-03-01",
+      "gazetteDate": "2017-03-08",
+      "gazetteNumber": "Từ số 177 đến số 178",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 63/2015/TT-BTNMT quy định kiểm tra, thẩm định và nghiệm thu chất lượng công trình, sản phẩm đo đạc và bản đồ do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "63/2015/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Linh Ngọc"
+      ],
+      "issuedDate": "2015-12-21",
+      "effectiveDate": "2016-02-15",
+      "gazetteDate": "2016-01-29",
+      "gazetteNumber": "Từ số 129 đến số 130",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Thông tư 48/2015/TT-BTNMT quy định về quản lý, cung cấp và khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ do bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "48/2015/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Linh Ngọc"
+      ],
+      "issuedDate": "2015-11-12",
+      "effectiveDate": "2015-12-30",
+      "gazetteDate": "2015-12-13",
+      "gazetteNumber": "Từ số 1187 đến số 1188",
+      "status": "Hết hiệu lực: 15/02/2020"
+    },
+    {
+      "title": "Thông tư 49/2015/TT-BTNMT quy định về quản lý, sử dụng và bảo vệ công trình xây dựng đo đạc do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "49/2015/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Linh Ngọc"
+      ],
+      "issuedDate": "2015-11-12",
+      "effectiveDate": "2015-12-30",
+      "gazetteDate": "2015-12-13",
+      "gazetteNumber": "Từ số 1187 đến số 1188",
+      "status": "Hết hiệu lực: 15/02/2020"
+    },
+    {
+      "title": "Thông tư 46/2015/TT-BTNMT về chế độ báo cáo trong hoạt động đo đạc và bản đồ do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "46/2015/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Linh Ngọc"
+      ],
+      "issuedDate": "2015-10-30",
+      "effectiveDate": "2015-12-15",
+      "gazetteDate": "2015-11-19",
+      "gazetteNumber": "Từ số 1129 đến số 1130",
+      "status": "Hết hiệu lực: 15/02/2020"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2015/NĐ-CP về hoạt động đo đạc và bản đồ",
+      "id": "45/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-05-06",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2015-05-20",
+      "gazetteNumber": "Từ số 555 đến số 556",
+      "status": "Hết hiệu lực: 01/05/2019"
+    },
+    {
+      "title": "Thông tư 25/2014/TT-BTNMT về bản đồ địa chính do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "25/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-05-19",
+      "effectiveDate": "2014-07-05",
+      "gazetteDate": "2014-07-06",
+      "gazetteNumber": "Từ số 647 đến số 648",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 173/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực khí tượng thủy văn, đo đạc và bản đồ",
+      "id": "173/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-13",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-12-03",
+      "gazetteNumber": "Từ số 851 đến số 852",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 21/2013/QĐ-TTg về Danh mục bí mật nhà nước độ Tối mật trong lĩnh vực tài nguyên và môi trường do Thủ tướng Chính phủ ban hành",
+      "id": "21/2013/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-04-24",
+      "effectiveDate": "2013-06-10",
+      "gazetteDate": "2013-05-04",
+      "gazetteNumber": "Từ số 231 đến số 232",
+      "status": "Hết hiệu lực: 10/04/2021"
+    },
+    {
+      "title": "Luật xuất bản 2012",
+      "id": "19/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-11-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-12-22",
+      "gazetteNumber": "Từ số 761 đến số 762",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 18/2021/QĐ-UBND quy định về quản lý hoạt động đo đạc và bản đồ trên địa bàn thành phố Hải Phòng",
+      "id": "18/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Lê Anh Quân"
+      ],
+      "issuedDate": "2021-07-28",
+      "effectiveDate": "2021-09-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 707/QĐ-UBND năm 2021 quy định một số nội dung về quản lý, hoạt động đo đạc và bản đồ trên địa bàn tỉnh Quảng Trị",
+      "id": "707/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Võ Văn Hưng"
+      ],
+      "issuedDate": "2021-03-26",
+      "effectiveDate": "2021-03-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 02/2021/QĐ-UBND quy định về hoạt động Đo đạc và bản đồ trên địa bàn tỉnh Đắk Nông",
+      "id": "02/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Đắk Nông",
+      "signers": [
+        "Lê Trọng Yên"
+      ],
+      "issuedDate": "2021-01-19",
+      "effectiveDate": "2021-02-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 02/2021/QĐ-UBND bãi bỏ Quyết định 29/2016/QĐ-UBND quy định về quản lý hoạt động đo đạc và bản đồ trên địa bàn tỉnh Quảng Trị",
+      "id": "02/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Võ Văn Hưng"
+      ],
+      "issuedDate": "2021-01-18",
+      "effectiveDate": "2021-02-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2258/QĐ-UBND năm 2019 về Quy chế hoạt động đo đạc và bản đồ, kiểm tra nghiệm thu sản phẩm bản đồ trên địa bàn tỉnh Sơn La",
+      "id": "2258/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Lê Hồng Minh"
+      ],
+      "issuedDate": "2019-09-13",
+      "effectiveDate": "2019-09-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 28/02/2023"
+    },
+    {
+      "title": "Quyết định 41/2019/QĐ-UBND bãi bỏ Quyết định 47/2016/QĐ-UBND của ủy ban nhân dân tỉnh Ninh Thuận quy định về quản lý hoạt động đo đạc và bản đồ trên địa bàn tỉnh Ninh Thuận",
+      "id": "41/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Lưu Xuân Vĩnh"
+      ],
+      "issuedDate": "2019-08-09",
+      "effectiveDate": "2019-08-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 15/2018/QĐ-UBND bãi bỏ Quyết định 20/2012/QĐ-UBND quy định về hoạt động đo đạc và bản đồ, sử dụng sản phẩm đo đạc và bản đồ trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+      "id": "15/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Lê Tuấn Quốc"
+      ],
+      "issuedDate": "2018-05-23",
+      "effectiveDate": "2018-06-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 14/2018/QĐ-UBND bãi bỏ Quyết định 10/2013/QĐ-UBND quy định về hoạt động đo đạc và bản đồ trên địa bàn tỉnh Lai Châu",
+      "id": "14/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lai Châu",
+      "signers": [
+        "Đỗ Ngọc An"
+      ],
+      "issuedDate": "2018-04-16",
+      "effectiveDate": "2018-05-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 08/2018/QĐ-UBND về Quy định quản lý nhà nước đối với hoạt động đo đạc và bản đồ trên địa bàn tỉnh Thừa Thiên Huế",
+      "id": "08/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Phan Ngọc Thọ"
+      ],
+      "issuedDate": "2018-01-25",
+      "effectiveDate": "2018-02-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/12/2020"
+    },
+    {
+      "title": "Quyết định 3624/2005/QĐ-UBND quy định về hoạt động đo đạc bản đồ và bảo quản, khai thác sử dụng tài liệu trắc địa và bản đồ trên địa bàn tỉnh Quảng Ninh",
+      "id": "3624/2005/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Nguyễn Quang Hưng"
+      ],
+      "issuedDate": "2005-09-23",
+      "effectiveDate": "2005-10-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Quyết định 1748/2005/QĐ-UBND Quy chế về hoạt động đo đạc và bản đồ trên địa bàn tỉnh An Giang",
+      "id": "1748/2005/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Phạm Kim Yên"
+      ],
+      "issuedDate": "2005-06-16",
+      "effectiveDate": "2005-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/06/2020"
+    }
+  ],
+  "id": "21/2018/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bất động sản"
+  ],
+  "organization": "Tỉnh Bạc Liêu",
+  "signers": [
+    "Lê Minh Chiến"
+  ],
+  "issuedDate": "2018-09-17",
+  "effectiveDate": "2018-10-02",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMQAwADEANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH BẠC LIÊU<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  21/2018/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bạc Liêu, ngày 17\n  tháng 09 năm 2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN\nHÀNH QUY ĐỊNH VỀ QUẢN LÝ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ TRÊN ĐỊA BÀN TỈNH BẠC LIÊU</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH BẠC LIÊU</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương ngày\n19 tháng 6 năm 2015;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Xuất bản ngày 20 tháng 11 năm 2012;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Quyết định số 21/2013/QĐ-TTg ngày 24\ntháng 4 năm 2013 của Thủ tướng Chính phủ về danh mục bí mật Nhà nước độ tối mật\ntrong lĩnh vực Tài nguyên và Môi trường;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số 173/2013/NĐ-CP ngày 13 tháng\n11 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực\nkhí tượng thủy văn, đo đạc và bản đồ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số 45/2015/NĐ-CP ngày 06 tháng\n5 năm 2015 của Chính phủ về hoạt động đo đạc và bản đồ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 25/2014/TT-BTNMT ngày 19\ntháng 05 năm 2014 của Bộ Tài nguyên và Môi trường quy định về bản đồ địa chính;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 46/2015/TT-BTNMT ngày 30\ntháng 10 năm 2015 của Bộ Tài nguyên và Môi trường quy định về chế độ báo cáo\ntrong hoạt động đo đạc và bản đồ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 48/2015/TT-BTNMT ngày 12 tháng\n11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, cung cấp và\nkhai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 49/2015/TT-BTNMT ngày 12\ntháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, sử dụng\nvà bảo vệ công trình xây dựng đo đạc;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 63/2015/TT-BTNMT ngày 21\ntháng 12 năm 2015 của Bộ Tài nguyên và Môi trường quy định về kiểm tra, thẩm định\nvà nghiệm thu chất lượng công trình, sản phẩm đo đạc bản đồ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 49/2016/TT-BTNMT ngày 28\ntháng 12 năm 2016 của Bộ Tài nguyên và Môi trường quy định về công tác giám sát\nkiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất\nđai;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số 34/2017/TT-BTC ngày 21 tháng\n4 năm 2017 Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định\ncấp giấy phép hoạt động đo đạc và bản đồ;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Theo đề nghị của Giám đốc Sở Tài nguyên và Môi\ntrường tại Tờ trình số 392/TTr-STNMT ngày 30 tháng 8 năm 2018.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy định về quản lý hoạt động\nđo đạc và bản đồ trên địa bàn tỉnh Bạc Liêu.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a> <a name=\"dieu_2_name\">Giao Sở Tài nguyên và Môi trường chịu trách nhiệm phối hợp với\ncác Sở, Ban, Ngành có liên quan và Ủy ban nhân dân các huyện, thị xã, thành phố\ntheo dõi, hướng dẫn, kiểm tra việc triển khai thực hiện Quyết định này.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc, Thủ trưởng\ncác Sở, Ban, Ngành, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và\ncác tổ chức, cá nhân có liên quan đến hoạt động đo đạc và bản đồ chịu trách nhiệm\nthi hành Quyết định này.</a></p>\n\n<p style=\"margin-top:6.0pt\">Quyết định này có hiệu lực kể từ ngày 02 tháng 10\nnăm 2018./.</p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMQAwADEANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như Điều 3; <br>\n  - Bộ Tài nguyên và Môi trường;<br>\n  - Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;<br>\n  - TT Tỉnh ủy, HĐND tỉnh;<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - Sở Tư pháp (tự kiểm tra);<br>\n  - Các PVP UBND tỉnh;<br>\n  - TT Công báo - Tin học <i>(đăng công báo)</i>;<br>\n  - Lưu: VT, CH, MT (QĐ 20).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Lê Minh Chiến</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a><b><span style=\"font-size:12.0pt\">\n</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\">QUẢN\nLÝ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ TRÊN ĐỊA BÀN TỈNH BẠC LIÊU</a><br>\n<i>(Ban hành kèm theo Quyết định số 21/2018/QĐ-UBND ngày 17 tháng 9 năm 2018 của\nỦy ban nhân dân tỉnh Bạc Liêu)</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>Điều 1. Phạm vi điều chỉnh và\nđối tượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Phạm vi điều chỉnh</p>\n\n<p style=\"margin-top:6.0pt\">a) Quy định này quy định trách nhiệm quản lý nhà nước\nđối với hoạt động đo đạc và bản đồ trên địa bàn tỉnh Bạc Liêu.</p>\n\n<p style=\"margin-top:6.0pt\">b) Những nội dung không nêu trong Quy định này được\nthực hiện theo các quy định hiện hành của Nhà nước về hoạt động đo đạc và bản đồ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Đối tượng áp dụng: Quy định này áp dụng đối với cơ\nquan quản lý nhà nước và các tổ chức, cá nhân có liên quan đến hoạt động đo đạc\nvà bản đồ.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b>Điều 2. Áp dụng Hệ quy chiếu\nvà Hệ tọa độ quốc gia VN-2000</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Bản đồ các chuyên ngành, khi thành lập phải áp dụng\nHệ tọa độ quốc gia VN-2000 theo Quyết định số 83/2000/QĐ-TTg ngày 12 tháng 7\nnăm 2000 của Thủ tướng Chính phủ về việc áp dụng Hệ quy chiếu và Hệ tọa độ quốc\ngia Việt Nam. Các thông số kỹ thuật áp dụng theo Thông tư số 973/2001/TT-TCĐC\nngày 20 tháng 6 năm 2001 của Tổng cục Địa chính về việc hướng dẫn áp dụng Hệ\nquy chiếu và Hệ tọa độ quốc gia VN-2000.</p>\n\n<p style=\"margin-top:6.0pt\">2. Bản đồ chuyên ngành phải thực hiện bằng công nghệ\nsố, lý lịch bản đồ (Hệ tọa độ, tỷ lệ, thời điểm thực hiện, phương pháp thành lập,\ntài liệu gốc để đo vẽ) thực hiện theo các quy định hiện hành của Bộ Tài nguyên\nvà Môi trường.</p>\n\n<p style=\"margin-top:6.0pt\">3. Bản đồ được thành lập trước đây theo Hệ tọa độ\nHN-72 phải chuyển sang Hệ tọa độ quốc gia VN-2000 để sử dụng.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH VỀ QUẢN LÝ HOẠT\nĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>Điều 3. Quản lý nhà nước về\nhoạt động đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Các tổ chức hoạt động dịch vụ đo đạc và bản đồ\nquy định tại Điều 10 của Nghị định số 45/2015/NĐ-CP ngày 06 tháng 5 năm 2015 của\nChính phủ về hoạt động đo đạc và bản đồ phải có giấy phép còn hiệu lực pháp luật\ndo Cục Đo đạc và bản đồ Việt Nam thuộc Bộ Tài nguyên và Môi trường cấp.</p>\n\n<p style=\"margin-top:6.0pt\">Tổ chức, cá nhân liên quan phải thực hiện chế độ\nbáo cáo theo quy định tại Thông tư số 46/2015/TT-BTNMT ngày 30 tháng 10 năm\n2015 của Bộ Tài nguyên và Môi trường quy định về chế độ báo cáo trong hoạt động\nđo đạc và bản đồ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Các sản phẩm đo đạc và bản đồ phải được kiểm\ntra, thẩm định và nghiệm thu theo quy định của pháp luật trước khi đưa vào sử dụng.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Lập, thẩm định và phê\nduyệt thiết kế kỹ thuật - dự toán đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đối với các thiết kế kỹ thuật - dự toán thành lập\nhệ thống bản đồ địa chính, xây dựng cơ sở dữ liệu địa chính, thành lập bản đồ\nhành chính cấp huyện, Sở Tài nguyên và Môi trường có trách nhiệm thẩm định thiết\nkế kỹ thuật, Sở Tài chính thẩm định dự toán kinh phí trước khi trình Ủy ban\nnhân dân tỉnh phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">2. Nội dung thiết kế kỹ thuật - dự toán công trình\nđo đạc bản đồ địa chính thực hiện theo Quy định tại Điều 21 của Thông tư số\n25/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ Tài nguyên và Môi trường quy định\nvề bản đồ địa chính.</p>\n\n<p style=\"margin-top:6.0pt\">3. Trường hợp trích đo địa chính, chỉnh lý bản đồ địa\nchính phục vụ thu hồi, bồi thường, giải phóng mặt bằng, giao đất; trích đo địa\nchính phục vụ quy hoạch phân lô bán đấu giá, chủ đầu tư lập phương án thi công\ngửi Sở Tài nguyên và Môi trường thẩm định trước khi phê duyệt phương án.</p>\n\n<p style=\"margin-top:6.0pt\">Phạm vi đo đạc được xác định trong phương án thi\ncông và phải bảo đảm các nguyên tắc:</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với khu vực đã có bản đồ địa chính, bản trích\nđo địa chính thửa đất, căn cứ phương án thi công đã được phê duyệt để xác định\nranh giới và diện tích phần đất thu hồi trên thực địa, thực hiện chỉnh lý trên\nbản đồ địa chính, bản trích đo địa chính và hồ sơ địa chính.</p>\n\n<p style=\"margin-top:6.0pt\">- Đối với khu vực chưa có bản đồ địa chính, các thửa\nđất bị thu hồi một phần hoặc toàn bộ thì phải đo vẽ trọn từng thửa đất, bao gồm\ncả phần diện tích bị thu hồi và phần diện tích còn lại của thửa đất, lập bản mô\ntả ranh giới, mốc giới thửa đất, phiếu xác nhận kết quả đo đạc hiện trạng thửa\nđất để phục vụ việc giải phóng mặt bằng, bồi thường, hỗ trợ tái định cư và cập\nnhật, chỉnh lý biến động hồ sơ địa chính (nếu có).</p>\n\n<p style=\"margin-top:6.0pt\">4. Nội dung phương án thi công về đo đạc và bản đồ\nbao gồm:</p>\n\n<p style=\"margin-top:6.0pt\">a) Căn cứ để lập phương án;</p>\n\n<p style=\"margin-top:6.0pt\">b) Tóm tắt mục tiêu, yêu cầu, phạm vi nhiệm vụ, khối\nlượng công việc;</p>\n\n<p style=\"margin-top:6.0pt\">c) Tóm tắt giải pháp kỹ thuật và tổ chức thực hiện;</p>\n\n<p style=\"margin-top:6.0pt\">d) Kinh phí thực hiện.</p>\n\n<p style=\"margin-top:6.0pt\">5. Đối với các chương trình, dự án, đề án, nhiệm vụ\ntrên địa bàn tỉnh có hạng mục đo đạc và bản đồ sử dụng ngân sách nhà nước, chủ\nđầu tư lập Phương án thi công về nội dung đo đạc và bản đồ gửi Sở Tài nguyên và\nMôi trường thẩm định kỹ thuật; Sở Tài chính thẩm định dự toán kinh phí trước\nkhi trình cơ quan quyết định đầu tư phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Kinh phí thực hiện hoạt\nđộng đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đối với các hoạt động đo đạc và bản đồ chuyên\nngành, phục vụ yêu cầu quản lý của tỉnh do ngân sách nhà nước bảo đảm.</p>\n\n<p style=\"margin-top:6.0pt\">2. Đối với các hoạt động đo đạc và bản đồ chuyên\nngành, hoạt động phục vụ cho nhu cầu sản xuất, kinh doanh của tổ chức, cá nhân\ndo tổ chức, cá nhân tự bảo đảm.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b>Điều 6. Kiểm tra, thẩm định và\nnghiệm thu chất lượng công trình, sản phẩm đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Các cơ quan trên địa bàn tỉnh được Ủy ban nhân\ndân tỉnh giao làm chủ đầu tư các nhiệm vụ có hạng mục đo đạc và bản đồ có trách\nnhiệm kiểm tra; phối hợp với Sở Tài nguyên và Môi trường trong việc thẩm định\nvà nghiệm thu chất lượng công trình, sản phẩm theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">2. Các tổ chức, cá nhân trực tiếp thực hiện công\ntrình, sản phẩm đo đạc và bản đồ phải chịu trách nhiệm về chất lượng các hạng mục\ndo mình thực hiện.</p>\n\n<p style=\"margin-top:6.0pt\">3. Quy định về kiểm tra, thẩm định và nghiệm thu chất\nlượng công trình, sản phẩm đo đạc và bản đồ thực hiện theo Thông tư số\n63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 và Thông tư số 49/2016/TT-BTNMT ngày\n28 tháng 12 năm 2016 của Bộ Tài nguyên và Môi trường.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Quản lý lưu trữ thông\ntin, dữ liệu đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Sở Tài nguyên và Môi trường có trách nhiệm quản\nlý, lưu trữ thông tin, dữ liệu đo đạc và bản đồ về hệ thống điểm đo đạc cơ sở,\nbản đồ địa hình, bản đồ địa chính, bản đồ hành chính cấp huyện, các loại bản đồ\nchuyên đề, cơ sở dữ liệu địa lý và hệ thống thông tin địa lý phục vụ cho mục\nđích chuyên dụng của địa phương và các thông tin, dữ liệu đo đạc bản đồ khác do\nBộ Tài nguyên và Môi trường bàn giao.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thông tin, dữ liệu về hệ thống bản đồ địa chính,\ncơ sở dữ liệu bản đồ địa chính, bản đồ hành chính cấp huyện, các thông tin, dữ\nliệu đo đạc và bản đồ phục vụ quản lý đất đai khác giao nộp cho Sở Tài nguyên\nvà Môi trường và các cơ quan khác theo quy định của pháp luật có liên quan.</p>\n\n<p style=\"margin-top:6.0pt\">3. Thông tin, dữ liệu đo đạc và bản đồ chuyên ngành\nkhác thực hiện từ nguồn ngân sách địa phương, thông tin, dữ liệu đo đạc và bản\nđồ chuyên ngành do tổ chức, cá nhân tự bảo đảm kinh phí thực hiện, giao nộp\ntheo quy định của pháp luật chuyên ngành; đồng thời, chủ đầu tư có trách nhiệm\ngiao nộp cho Sở Tài nguyên và Môi trường một (01) bản sao các sản phẩm.</p>\n\n<p style=\"margin-top:6.0pt\">4. Thông tin, dữ liệu đo đạc và bản đồ do các tổ chức,\ncá nhân nước ngoài trực tiếp hoặc hợp tác với tổ chức, cá nhân trong nước có\ntriển khai thực hiện công trình trên địa bàn tỉnh Bạc Liêu, sau khi hoàn thành\ndự án có trách nhiệm giao nộp cho Sở Tài nguyên và Môi trường một (01) bản sao\ndữ liệu sản phẩm cuối cùng.</p>\n\n<p style=\"margin-top:6.0pt\">5. Trình tự giao nộp thông tin, dữ liệu đo đạc và bản\nđồ thực hiện theo quy định tại Điều 6 của Thông tư số 48/2015/TT-BTNMT ngày 12\ntháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, cung cấp\nvà khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b>Điều 8. Cung cấp, khai thác sử\ndụng thông tin, dữ liệu đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Sở Tài nguyên và Môi trường có trách nhiệm cung\ncấp, xác nhận nguồn gốc hợp pháp của thông tin, dữ liệu đo đạc và bản đồ trong\nphạm vi quản lý theo Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thủ tục cung cấp thông tin, dữ liệu đo đạc và bản\nđồ thực hiện theo Điều 10 của Thông tư số 48/2015/TT-BTNMT ngày 12 tháng 11 năm\n2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, cung cấp và khai\nthác, sử dụng thông tin, dữ liệu đo đạc và bản đồ.</p>\n\n<p style=\"margin-top:6.0pt\">3. Việc quản lý, lưu trữ, cung cấp và khai thác, sử\ndụng thông tin, dữ liệu đo đạc và bản đồ phải tuân thủ các quy định của pháp luật\nvề bảo vệ bí mật nhà nước, về sở hữu trí tuệ, về lưu trữ và theo các quy định của\npháp luật có liên quan khác.</p>\n\n<p style=\"margin-top:6.0pt\">4. Chỉ được cung cấp và khai thác, sử dụng thông\ntin, dữ liệu đo đạc và bản đồ dưới dạng bản sao hoặc phiên bản.</p>\n\n<p style=\"margin-top:6.0pt\">5. Thông tin, dữ liệu đo đạc và bản đồ do cơ quan\nnhà nước có thẩm quyền cung cấp chỉ được sử dụng đúng mục đích khi yêu cầu cung\ncấp, không được sao lại hoặc chuyển nhượng cho tổ chức, cá nhân khác. Trường hợp\nsử dụng thông tin, dữ liệu đo đạc và bản đồ được cung cấp để thành lập các bộ dữ\nliệu thứ cấp với mục đích thương mại thì phải được sự đồng ý của cơ quan cung cấp.</p>\n\n<p style=\"margin-top:6.0pt\">5. Tổ chức, cá nhân được quyền khai thác sử dụng\nthông tin, dữ liệu đo đạc và bản đồ vào hoạt động quản lý, sản xuất kinh doanh\nvà các mục đích khác theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Thẩm quyền cung cấp\nthông tin, dữ liệu đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Sở Tài nguyên và Môi trường cung cấp, xác nhận nguồn\ngốc hợp pháp của thông tin, dữ liệu đo đạc và bản đồ theo quy định này và các\nthông tin, dữ liệu đo đạc và bản đồ do Bộ Tài nguyên và Môi trường bàn giao.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TRÁCH NHIỆM QUẢN LÝ NHÀ\nNƯỚC VỀ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b>Điều 10. Trách nhiệm của các Sở,\nBan, Ngành</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Sở Tài nguyên và Môi trường có trách nhiệm như\nsau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Thẩm định hồ sơ xin cấp Giấy phép hoạt động đo đạc\nvà bản đồ của các tổ chức có nhu cầu trên địa bàn tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">b) Quản lý chất lượng công trình, sản phẩm đo đạc\nvà bản đồ địa chính trên địa bàn tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">c) Thẩm định về sự cần thiết, phạm vi, giải pháp kỹ\nthuật công nghệ của nội dung đo đạc và bản đồ trong các chương trình, đề án, dự\nán, nhiệm vụ có sử dụng ngân sách nhà nước do các Sở, Ban, Ngành thực hiện phục\nvụ chuyên dụng trên địa bàn tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">d) Quản lý, cập nhật, cung cấp, khai thác sử dụng\nthông tin, dữ liệu đo đạc và bản đồ trên địa bàn tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">đ) Thanh tra, kiểm tra việc chấp hành quy định của\npháp luật về đo đạc và bản đồ, xử lý vi phạm pháp luật về đo đạc và bản đồ trên\nđịa bàn tỉnh theo quy định của pháp luật;</p>\n\n<p style=\"margin-top:6.0pt\">e) Thực hiện báo cáo hàng năm với Bộ Tài nguyên và\nMôi trường, Ủy ban nhân dân tỉnh về tình hình hoạt động đo đạc bản đồ trên địa\nbàn tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">g) Cập nhật hàng năm, đăng tải danh mục thông tin,\ndữ liệu đo đạc và bản đồ thuộc phạm vi quản lý trên Trang thông tin điện tử của\nSở;</p>\n\n<p style=\"margin-top:6.0pt\">h) Xây dựng và ban hành các hướng dẫn về hoạt động\nđo đạc và bản đồ trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">2. Sở Tài chính phối hợp với Sở Tài nguyên và Môi\ntrường tổ chức thẩm định theo phân cấp các dự toán về đo đạc và bản đồ sử dụng\nnguồn vốn ngân sách Nhà nước trình Ủy ban nhân dân tỉnh phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt\">3. Các Sở, Ban, Ngành khi thực hiện các dự án có hạng\nmục đo đạc và bản đồ lập phương án thi công gửi Sở Tài nguyên và Môi trường thẩm\nđịnh sự về cần thiết, phạm vi, giải pháp kỹ thuật công nghệ; phối hợp với Sở\nTài nguyên và Môi trường thẩm định chất lượng theo các quy định về quản lý chất\nlượng công trình, sản phẩm đo đạc, bản đồ và bàn giao sản phẩm bản đồ theo quy\nđịnh.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Trách nhiệm của Phòng\nTài nguyên và Môi trường các huyện, thị xã, thành phố và Ủy ban nhân dân các\nxã, phường, thị trấn</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Phòng Tài nguyên và Môi trường có trách nhiệm:</p>\n\n<p style=\"margin-top:6.0pt\">a) Theo dõi, giám sát các hoạt động đo đạc và bản đồ\ntrên địa bàn quản lý;</p>\n\n<p style=\"margin-top:6.0pt\">b) Quản lý, sử dụng và bảo vệ các công trình, sản\nphẩm đo đạc và bản đồ trên địa bàn; báo cáo hiện trạng các dấu mốc đo đạc trên\nđịa bàn về Sở Tài nguyên và Môi trường trước ngày 15 tháng 12 hàng năm;</p>\n\n<p style=\"margin-top:6.0pt\">c) Phối hợp với chủ đầu tư, đơn vị thi công đo đạc\ntrong việc triển khai thực hiện các hoạt động đo đạc và bản đồ;</p>\n\n<p style=\"margin-top:6.0pt\">d) Phối hợp với Chi nhánh Văn phòng Đăng ký đất đai\ntrong việc cập nhật, chỉnh lý hồ sơ địa chính;</p>\n\n<p style=\"margin-top:6.0pt\">đ) Thực hiện lưu trữ hồ sơ theo quy định để phục vụ\ncông tác cập nhật, chỉnh lý kịp thời, đồng bộ.</p>\n\n<p style=\"margin-top:6.0pt\">2. Ủy ban nhân dân các xã, phường, thị trấn có\ntrách nhiệm:</p>\n\n<p style=\"margin-top:6.0pt\">a) Theo dõi, giám sát các hoạt động đo đạc và bản đồ\ntrên địa bàn quản lý;</p>\n\n<p style=\"margin-top:6.0pt\">b) Quản lý, sử dụng và bảo vệ công trình xây dựng\nđo đạc trên địa bàn theo quy định;</p>\n\n<p style=\"margin-top:6.0pt\">c) Phối hợp với Chủ đầu tư, đơn vị thi công đo đạc\ntrong việc triển khai thực hiện, xác nhận hiện trạng sử dụng đất, ranh giới sử\ndụng đất, tình trạng pháp lý sử dụng đất trên địa bàn;</p>\n\n<p style=\"margin-top:6.0pt\">d) Thực hiện lưu trữ hồ sơ theo quy định để phục vụ\ncông tác cập nhật, chỉnh lý kịp thời, đồng bộ;</p>\n\n<p style=\"margin-top:6.0pt\">đ) Quản lý, bảo vệ và ngăn chặn các hành vi xâm hại\ncác công trình xây dựng đo đạc trên địa bàn xã;</p>\n\n<p style=\"margin-top:6.0pt\">e) Cập nhật các công trình xây dựng đo đạc trên địa\nbàn xã, bổ sung phần ghi chú vào sổ địa chính về dấu mốc đo đạc trên thửa đất;</p>\n\n<p style=\"margin-top:6.0pt\">g) Tuyên truyền, phổ biến các quy định về quản lý,\nbảo vệ công trình xây đo đạc để người dân tại địa phương có trách nhiệm bảo vệ\ndấu mốc đo đạc không bị xê dịch, phá hủy hoặc làm hư hỏng;</p>\n\n<p style=\"margin-top:6.0pt\">h) Thường xuyên kiểm tra, khi phát hiện thấy các dấu\nmốc đo đạc bị xâm hại hoặc có khả năng bị xâm hại thì phải báo cáo Phòng Tài\nnguyên và Môi trường cấp huyện về hiện trạng và nguyên nhân xâm hại dấu mốc đo\nđạc;</p>\n\n<p style=\"margin-top:6.0pt\">i) Đối với trường hợp phải di chuyển hoặc hủy bỏ dấu\nmốc đo đạc có trên thửa đất hoặc gắn vào công trình kiến trúc theo yêu cầu của\nchủ sử dụng đất hoặc chủ sở hữu công trình về việc xin di chuyển hoặc hủy bỏ dấu\nmốc đo đạc, Ủy ban nhân dân cấp xã có trách nhiệm báo cáo Phòng Tài nguyên và\nMôi trường cấp huyện để giải quyết. Việc di dời hoặc hủy bỏ dấu mốc đo đạc chỉ\nđược thực hiện khi có sự đồng ý của cơ quan quản lý công trình xây dựng đo đạc.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b>Điều 12. Quyền và trách nhiệm\ncủa các tổ chức và cá nhân</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Tổ chức và cá nhân thực hiện hoạt động đo đạc và\nbản đồ phải tuân theo quy định của pháp luật và Quy định này; được sử dụng các\nsản phẩm đo đạc, bản đồ và có trách nhiệm nộp phí và lệ phí khai thác, cung cấp\nthông tin dữ liệu đo đạc và bản đồ theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">2. Tổ chức và cá nhân có trách nhiệm giữ gìn, bảo vệ\ncác công trình xây dựng đo đạc theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">3. Tổ chức và cá nhân không được cản trở hoặc gây\nkhó khăn cho người có trách nhiệm thực hiện nhiệm vụ về đo đạc và bản đồ.</p>\n\n<p style=\"margin-top:6.0pt\">4. Khuyến khích các tổ chức và cá nhân tham gia\nnghiên cứu khoa học, phát triển công nghệ về đo đạc và bản đồ theo quy định của\npháp luật; nghiêm cấm các hoạt động đo đạc và bản đồ gây hại hoặc có nguy cơ\ngây hại cho quốc phòng, an ninh và trật tự, an toàn xã hội.</p>\n\n<p style=\"margin-top:6.0pt\">5. Đề xuất và kiến nghị với cơ quan quản lý về xuất\nbản đình chỉ phát hành, thu hồi các ấn phẩm bản đồ có sai sót về việc thể hiện\nchủ quyền quốc gia, địa giới hành chính, địa danh; sản phẩm bản đồ có sai sót\nnghiêm trọng về kỹ thuật hoặc có nội dung thuộc phạm vi nghiêm cấm theo quy định\ncủa Luật Xuất bản.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">CHẾ ĐỘ BÁO CÁO TRONG HOẠT\nĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b>Điều 13. Chế độ báo cáo, trách\nnhiệm lập và nộp báo cáo tình hình hoạt động đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Báo cáo trong hoạt động đo đạc và bản đồ được lập\nđịnh kỳ mỗi năm một (01) lần, tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12\nhàng năm. Ngoài việc thực hiện chế độ báo cáo định kỳ, khi có yêu cầu của cơ\nquan quản lý nhà nước về đo đạc và bản đồ, tổ chức được cấp giấy phép hoạt động\nđo đạc và bản đồ có trách nhiệm báo cáo đột xuất về tình hình hoạt động đo đạc\nvà bản đồ theo yêu cầu đó.</p>\n\n<p style=\"margin-top:6.0pt\">2. Trách nhiệm lập và nộp báo cáo trong hoạt động\nđo đạc và bản đồ được quy định như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Tổ chức được cấp giấy phép hoạt động đo đạc và bản\nđồ thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh có trách nhiệm lập báo cáo\ntheo Phụ lục số 01 ban hành kèm theo Thông tư số 46/2015/TT-BTNMT ngày\n30/10/2015 của Bộ Tài nguyên và Môi trường quy định chế độ báo cáo trong hoạt động\nđo đạc và bản đồ. Báo cáo gửi Sở Tài nguyên và Môi trường chậm nhất vào ngày 10\ntháng 01 hàng năm</p>\n\n<p style=\"margin-top:6.0pt\">b) Sở Tài nguyên và Môi trường có trách nhiệm lập\nbáo cáo theo Phụ lục số 03 ban hành kèm theo Thông tư số 46/2015/TT-BTNMT ngày\n30/10/2015 của Bộ Tài nguyên và Môi trường quy định chế độ báo cáo trong hoạt động\nđo đạc và bản đồ. Báo cáo gửi Ủy ban nhân dân tỉnh, Cục Đo đạc, Bản đồ và Thông\ntin địa lý Việt Nam trước ngày 20 tháng 01 hàng năm;</p>\n\n<p style=\"margin-top:6.0pt\">c) Ủy ban nhân dân cấp xã, Phòng Tài nguyên và Môi\ntrường các huyện, thị xã, thành phố báo cáo hiện trạng các công trình xây dựng\nđo đạc trên địa bàn theo Phụ lục số 04 ban hành kèm theo Thông tư số\n46/2015/TT-BTNMT ngày 30/10/2015 của Bộ Tài nguyên và Môi trường quy định chế độ\nbáo cáo trong hoạt động đo đạc và bản đồ. Báo cáo gửi Sở Tài nguyên và Môi trường\ntrước ngày 05 tháng 01 hàng năm.</p>\n\n<p style=\"margin-top:6.0pt\">3. Cơ quan, tổ chức lập và nộp báo cáo phải chịu\ntrách nhiệm về tính chính xác của số liệu, thông tin trong báo cáo.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_5\"><b>Chương V</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span style=\"font-size:12.0pt\">ĐIỀU KHOẢN THI HÀNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b>Điều 14. Xử lý các vi phạm\nhành chính trong hoạt động đo đạc và bản đồ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Tổ chức, cá nhân vi phạm các quy định về hoạt động\nđo đạc và bản đồ thì tùy theo tính chất, mức độ vi phạm sẽ bị xử phạt hành chính\ntheo quy định tại Nghị định số 173/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của\nChính phủ về xử phạt vi phạm hành chính trong lĩnh vực khí tượng thủy văn, đo đạc\nbản đồ; Nghị định số 84/2017/NĐ-CP ngày 18 tháng 11 năm 2017 về việc sửa đổi, bổ\nsung một số điều Nghị định số 173/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của\nChính phủ quy định về xử phạt hành chính trong lĩnh vực khí tượng thủy văn, đo\nđạc và bản đồ hoặc truy cứu trách nhiệm hình sự.</p>\n\n<p style=\"margin-top:6.0pt\">2. Cán bộ, công chức Nhà nước lợi dụng chức vụ, quyền\nhạn có hành vi vi phạm pháp luật về đo đạc và bản đồ thì tùy theo tính chất, mức\nđộ vi phạm sẽ bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b>Điều 15. Tổ chức thực hiện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Sở Tài nguyên và Môi trường có trách nhiệm giúp Ủy\nban nhân dân tỉnh hướng dẫn và tổ chức thực hiện Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\">2. Chủ tịch Ủy ban nhân dân các huyện, thị xã,\nthành phố, Thủ trưởng các Sở, Ban, Ngành có liên quan có trách nhiệm triển\nkhai, theo dõi, kiểm tra việc thực hiện các nội dung thuộc phạm vi trách nhiệm\ncủa mình.</p>\n\n<p style=\"margin-top:6.0pt\">3. Trong quá trình thực hiện, nếu có phát sinh vướng\nmắc, đề nghị các đơn vị, cá nhân có liên quan phản ánh về Sở Tài nguyên và Môi\ntrường để tổng hợp, trình Ủy ban nhân dân tỉnh xem xét điều chỉnh, sửa đổi, bổ\nsung cho phù hợp./.</p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẠC LIÊU  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 21/2018/QĐ-UBND\n\n_Bạc Liêu, ngày 17 tháng 09 năm 2018_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH VỀ QUẢN LÝ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ TRÊN ĐỊA BÀN TỈNH BẠC LIÊU\n\n**ỦY BAN NHÂN DÂN TỈNH BẠC LIÊU**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;_\n\n_Căn cứ Luật Xuất bản ngày 20 tháng 11 năm 2012;_\n\n_Căn cứ Quyết định số 21/2013/QĐ-TTg ngày 24 tháng 4 năm 2013 của Thủ tướng Chính phủ về danh mục bí mật Nhà nước độ tối mật trong lĩnh vực Tài nguyên và Môi trường;_\n\n_Căn cứ Nghị định số 173/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực khí tượng thủy văn, đo đạc và bản đồ;_\n\n_Căn cứ Nghị định số 45/2015/NĐ-CP ngày 06 tháng 5 năm 2015 của Chính phủ về hoạt động đo đạc và bản đồ;_\n\n_Căn cứ Thông tư số 25/2014/TT-BTNMT ngày 19 tháng 05 năm 2014 của Bộ Tài nguyên và Môi trường quy định về bản đồ địa chính;_\n\n_Căn cứ Thông tư số 46/2015/TT-BTNMT ngày 30 tháng 10 năm 2015 của Bộ Tài nguyên và Môi trường quy định về chế độ báo cáo trong hoạt động đo đạc và bản đồ;_\n\n_Căn cứ Thông tư số 48/2015/TT-BTNMT ngày 12 tháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, cung cấp và khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ;_\n\n_Căn cứ Thông tư số 49/2015/TT-BTNMT ngày 12 tháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, sử dụng và bảo vệ công trình xây dựng đo đạc;_\n\n_Căn cứ Thông tư số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 của Bộ Tài nguyên và Môi trường quy định về kiểm tra, thẩm định và nghiệm thu chất lượng công trình, sản phẩm đo đạc bản đồ;_\n\n_Căn cứ Thông tư số 49/2016/TT-BTNMT ngày 28 tháng 12 năm 2016 của Bộ Tài nguyên và Môi trường quy định về công tác giám sát kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai;_\n\n_Căn cứ Thông tư số 34/2017/TT-BTC ngày 21 tháng 4 năm 2017 Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy phép hoạt động đo đạc và bản đồ;_\n\n_Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường tại Tờ trình số 392/TTr-STNMT ngày 30 tháng 8 năm 2018._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy định về quản lý hoạt động đo đạc và bản đồ trên địa bàn tỉnh Bạc Liêu.\n\n**Điều 2.** Giao Sở Tài nguyên và Môi trường chịu trách nhiệm phối hợp với các Sở, Ban, Ngành có liên quan và Ủy ban nhân dân các huyện, thị xã, thành phố theo dõi, hướng dẫn, kiểm tra việc triển khai thực hiện Quyết định này.\n\n**Điều 3.** Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc, Thủ trưởng các Sở, Ban, Ngành, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và các tổ chức, cá nhân có liên quan đến hoạt động đo đạc và bản đồ chịu trách nhiệm thi hành Quyết định này.\n\nQuyết định này có hiệu lực kể từ ngày 02 tháng 10 năm 2018./.\n\n  \n**_Nơi nhận:  \n_**\\- Như Điều 3;  \n\\- Bộ Tài nguyên và Môi trường;  \n\\- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;  \n\\- TT Tỉnh ủy, HĐND tỉnh;  \n\\- CT, các PCT UBND tỉnh;  \n\\- Sở Tư pháp (tự kiểm tra);  \n\\- Các PVP UBND tỉnh;  \n\\- TT Công báo - Tin học _(đăng công báo)_;  \n\\- Lưu: VT, CH, MT (QĐ 20).\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nLê Minh Chiến**\n\n**QUY ĐỊNH**\n\nQUẢN LÝ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ TRÊN ĐỊA BÀN TỈNH BẠC LIÊU  \n_(Ban hành kèm theo Quyết định số 21/2018/QĐ-UBND ngày 17 tháng 9 năm 2018 của Ủy ban nhân dân tỉnh Bạc Liêu)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Phạm vi điều chỉnh\n\na) Quy định này quy định trách nhiệm quản lý nhà nước đối với hoạt động đo đạc và bản đồ trên địa bàn tỉnh Bạc Liêu.\n\nb) Những nội dung không nêu trong Quy định này được thực hiện theo các quy định hiện hành của Nhà nước về hoạt động đo đạc và bản đồ.\n\n2\\. Đối tượng áp dụng: Quy định này áp dụng đối với cơ quan quản lý nhà nước và các tổ chức, cá nhân có liên quan đến hoạt động đo đạc và bản đồ.\n\n**Điều 2. Áp dụng Hệ quy chiếu và Hệ tọa độ quốc gia VN-2000**\n\n1\\. Bản đồ các chuyên ngành, khi thành lập phải áp dụng Hệ tọa độ quốc gia VN-2000 theo Quyết định số 83/2000/QĐ-TTg ngày 12 tháng 7 năm 2000 của Thủ tướng Chính phủ về việc áp dụng Hệ quy chiếu và Hệ tọa độ quốc gia Việt Nam. Các thông số kỹ thuật áp dụng theo Thông tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 của Tổng cục Địa chính về việc hướng dẫn áp dụng Hệ quy chiếu và Hệ tọa độ quốc gia VN-2000.\n\n2\\. Bản đồ chuyên ngành phải thực hiện bằng công nghệ số, lý lịch bản đồ (Hệ tọa độ, tỷ lệ, thời điểm thực hiện, phương pháp thành lập, tài liệu gốc để đo vẽ) thực hiện theo các quy định hiện hành của Bộ Tài nguyên và Môi trường.\n\n3\\. Bản đồ được thành lập trước đây theo Hệ tọa độ HN-72 phải chuyển sang Hệ tọa độ quốc gia VN-2000 để sử dụng.\n\n**Chương II**\n\n**QUY ĐỊNH VỀ QUẢN LÝ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ**\n\n**Điều 3. Quản lý nhà nước về hoạt động đo đạc và bản đồ**\n\n1\\. Các tổ chức hoạt động dịch vụ đo đạc và bản đồ quy định tại Điều 10 của Nghị định số 45/2015/NĐ-CP ngày 06 tháng 5 năm 2015 của Chính phủ về hoạt động đo đạc và bản đồ phải có giấy phép còn hiệu lực pháp luật do Cục Đo đạc và bản đồ Việt Nam thuộc Bộ Tài nguyên và Môi trường cấp.\n\nTổ chức, cá nhân liên quan phải thực hiện chế độ báo cáo theo quy định tại Thông tư số 46/2015/TT-BTNMT ngày 30 tháng 10 năm 2015 của Bộ Tài nguyên và Môi trường quy định về chế độ báo cáo trong hoạt động đo đạc và bản đồ.\n\n2\\. Các sản phẩm đo đạc và bản đồ phải được kiểm tra, thẩm định và nghiệm thu theo quy định của pháp luật trước khi đưa vào sử dụng.\n\n**Điều 4. Lập, thẩm định và phê duyệt thiết kế kỹ thuật - dự toán đo đạc và bản đồ**\n\n1\\. Đối với các thiết kế kỹ thuật - dự toán thành lập hệ thống bản đồ địa chính, xây dựng cơ sở dữ liệu địa chính, thành lập bản đồ hành chính cấp huyện, Sở Tài nguyên và Môi trường có trách nhiệm thẩm định thiết kế kỹ thuật, Sở Tài chính thẩm định dự toán kinh phí trước khi trình Ủy ban nhân dân tỉnh phê duyệt.\n\n2\\. Nội dung thiết kế kỹ thuật - dự toán công trình đo đạc bản đồ địa chính thực hiện theo Quy định tại Điều 21 của Thông tư số 25/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ Tài nguyên và Môi trường quy định về bản đồ địa chính.\n\n3\\. Trường hợp trích đo địa chính, chỉnh lý bản đồ địa chính phục vụ thu hồi, bồi thường, giải phóng mặt bằng, giao đất; trích đo địa chính phục vụ quy hoạch phân lô bán đấu giá, chủ đầu tư lập phương án thi công gửi Sở Tài nguyên và Môi trường thẩm định trước khi phê duyệt phương án.\n\nPhạm vi đo đạc được xác định trong phương án thi công và phải bảo đảm các nguyên tắc:\n\n\\- Đối với khu vực đã có bản đồ địa chính, bản trích đo địa chính thửa đất, căn cứ phương án thi công đã được phê duyệt để xác định ranh giới và diện tích phần đất thu hồi trên thực địa, thực hiện chỉnh lý trên bản đồ địa chính, bản trích đo địa chính và hồ sơ địa chính.\n\n\\- Đối với khu vực chưa có bản đồ địa chính, các thửa đất bị thu hồi một phần hoặc toàn bộ thì phải đo vẽ trọn từng thửa đất, bao gồm cả phần diện tích bị thu hồi và phần diện tích còn lại của thửa đất, lập bản mô tả ranh giới, mốc giới thửa đất, phiếu xác nhận kết quả đo đạc hiện trạng thửa đất để phục vụ việc giải phóng mặt bằng, bồi thường, hỗ trợ tái định cư và cập nhật, chỉnh lý biến động hồ sơ địa chính (nếu có).\n\n4\\. Nội dung phương án thi công về đo đạc và bản đồ bao gồm:\n\na) Căn cứ để lập phương án;\n\nb) Tóm tắt mục tiêu, yêu cầu, phạm vi nhiệm vụ, khối lượng công việc;\n\nc) Tóm tắt giải pháp kỹ thuật và tổ chức thực hiện;\n\nd) Kinh phí thực hiện.\n\n5\\. Đối với các chương trình, dự án, đề án, nhiệm vụ trên địa bàn tỉnh có hạng mục đo đạc và bản đồ sử dụng ngân sách nhà nước, chủ đầu tư lập Phương án thi công về nội dung đo đạc và bản đồ gửi Sở Tài nguyên và Môi trường thẩm định kỹ thuật; Sở Tài chính thẩm định dự toán kinh phí trước khi trình cơ quan quyết định đầu tư phê duyệt.\n\n**Điều 5. Kinh phí thực hiện hoạt động đo đạc và bản đồ**\n\n1\\. Đối với các hoạt động đo đạc và bản đồ chuyên ngành, phục vụ yêu cầu quản lý của tỉnh do ngân sách nhà nước bảo đảm.\n\n2\\. Đối với các hoạt động đo đạc và bản đồ chuyên ngành, hoạt động phục vụ cho nhu cầu sản xuất, kinh doanh của tổ chức, cá nhân do tổ chức, cá nhân tự bảo đảm.\n\n**Điều 6. Kiểm tra, thẩm định và nghiệm thu chất lượng công trình, sản phẩm đo đạc và bản đồ**\n\n1\\. Các cơ quan trên địa bàn tỉnh được Ủy ban nhân dân tỉnh giao làm chủ đầu tư các nhiệm vụ có hạng mục đo đạc và bản đồ có trách nhiệm kiểm tra; phối hợp với Sở Tài nguyên và Môi trường trong việc thẩm định và nghiệm thu chất lượng công trình, sản phẩm theo quy định.\n\n2\\. Các tổ chức, cá nhân trực tiếp thực hiện công trình, sản phẩm đo đạc và bản đồ phải chịu trách nhiệm về chất lượng các hạng mục do mình thực hiện.\n\n3\\. Quy định về kiểm tra, thẩm định và nghiệm thu chất lượng công trình, sản phẩm đo đạc và bản đồ thực hiện theo Thông tư số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 và Thông tư số 49/2016/TT-BTNMT ngày 28 tháng 12 năm 2016 của Bộ Tài nguyên và Môi trường.\n\n**Điều 7. Quản lý lưu trữ thông tin, dữ liệu đo đạc và bản đồ**\n\n1\\. Sở Tài nguyên và Môi trường có trách nhiệm quản lý, lưu trữ thông tin, dữ liệu đo đạc và bản đồ về hệ thống điểm đo đạc cơ sở, bản đồ địa hình, bản đồ địa chính, bản đồ hành chính cấp huyện, các loại bản đồ chuyên đề, cơ sở dữ liệu địa lý và hệ thống thông tin địa lý phục vụ cho mục đích chuyên dụng của địa phương và các thông tin, dữ liệu đo đạc bản đồ khác do Bộ Tài nguyên và Môi trường bàn giao.\n\n2\\. Thông tin, dữ liệu về hệ thống bản đồ địa chính, cơ sở dữ liệu bản đồ địa chính, bản đồ hành chính cấp huyện, các thông tin, dữ liệu đo đạc và bản đồ phục vụ quản lý đất đai khác giao nộp cho Sở Tài nguyên và Môi trường và các cơ quan khác theo quy định của pháp luật có liên quan.\n\n3\\. Thông tin, dữ liệu đo đạc và bản đồ chuyên ngành khác thực hiện từ nguồn ngân sách địa phương, thông tin, dữ liệu đo đạc và bản đồ chuyên ngành do tổ chức, cá nhân tự bảo đảm kinh phí thực hiện, giao nộp theo quy định của pháp luật chuyên ngành; đồng thời, chủ đầu tư có trách nhiệm giao nộp cho Sở Tài nguyên và Môi trường một (01) bản sao các sản phẩm.\n\n4\\. Thông tin, dữ liệu đo đạc và bản đồ do các tổ chức, cá nhân nước ngoài trực tiếp hoặc hợp tác với tổ chức, cá nhân trong nước có triển khai thực hiện công trình trên địa bàn tỉnh Bạc Liêu, sau khi hoàn thành dự án có trách nhiệm giao nộp cho Sở Tài nguyên và Môi trường một (01) bản sao dữ liệu sản phẩm cuối cùng.\n\n5\\. Trình tự giao nộp thông tin, dữ liệu đo đạc và bản đồ thực hiện theo quy định tại Điều 6 của Thông tư số 48/2015/TT-BTNMT ngày 12 tháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, cung cấp và khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ.\n\n**Điều 8. Cung cấp, khai thác sử dụng thông tin, dữ liệu đo đạc và bản đồ**\n\n1\\. Sở Tài nguyên và Môi trường có trách nhiệm cung cấp, xác nhận nguồn gốc hợp pháp của thông tin, dữ liệu đo đạc và bản đồ trong phạm vi quản lý theo Quy định này.\n\n2\\. Thủ tục cung cấp thông tin, dữ liệu đo đạc và bản đồ thực hiện theo Điều 10 của Thông tư số 48/2015/TT-BTNMT ngày 12 tháng 11 năm 2015 của Bộ Tài nguyên và Môi trường quy định về quản lý, cung cấp và khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ.\n\n3\\. Việc quản lý, lưu trữ, cung cấp và khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ phải tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước, về sở hữu trí tuệ, về lưu trữ và theo các quy định của pháp luật có liên quan khác.\n\n4\\. Chỉ được cung cấp và khai thác, sử dụng thông tin, dữ liệu đo đạc và bản đồ dưới dạng bản sao hoặc phiên bản.\n\n5\\. Thông tin, dữ liệu đo đạc và bản đồ do cơ quan nhà nước có thẩm quyền cung cấp chỉ được sử dụng đúng mục đích khi yêu cầu cung cấp, không được sao lại hoặc chuyển nhượng cho tổ chức, cá nhân khác. Trường hợp sử dụng thông tin, dữ liệu đo đạc và bản đồ được cung cấp để thành lập các bộ dữ liệu thứ cấp với mục đích thương mại thì phải được sự đồng ý của cơ quan cung cấp.\n\n5\\. Tổ chức, cá nhân được quyền khai thác sử dụng thông tin, dữ liệu đo đạc và bản đồ vào hoạt động quản lý, sản xuất kinh doanh và các mục đích khác theo quy định của pháp luật.\n\n**Điều 9. Thẩm quyền cung cấp thông tin, dữ liệu đo đạc và bản đồ**\n\nSở Tài nguyên và Môi trường cung cấp, xác nhận nguồn gốc hợp pháp của thông tin, dữ liệu đo đạc và bản đồ theo quy định này và các thông tin, dữ liệu đo đạc và bản đồ do Bộ Tài nguyên và Môi trường bàn giao.\n\n**Chương III**\n\n**TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ**\n\n**Điều 10. Trách nhiệm của các Sở, Ban, Ngành**\n\n1\\. Sở Tài nguyên và Môi trường có trách nhiệm như sau:\n\na) Thẩm định hồ sơ xin cấp Giấy phép hoạt động đo đạc và bản đồ của các tổ chức có nhu cầu trên địa bàn tỉnh;\n\nb) Quản lý chất lượng công trình, sản phẩm đo đạc và bản đồ địa chính trên địa bàn tỉnh;\n\nc) Thẩm định về sự cần thiết, phạm vi, giải pháp kỹ thuật công nghệ của nội dung đo đạc và bản đồ trong các chương trình, đề án, dự án, nhiệm vụ có sử dụng ngân sách nhà nước do các Sở, Ban, Ngành thực hiện phục vụ chuyên dụng trên địa bàn tỉnh;\n\nd) Quản lý, cập nhật, cung cấp, khai thác sử dụng thông tin, dữ liệu đo đạc và bản đồ trên địa bàn tỉnh;\n\nđ) Thanh tra, kiểm tra việc chấp hành quy định của pháp luật về đo đạc và bản đồ, xử lý vi phạm pháp luật về đo đạc và bản đồ trên địa bàn tỉnh theo quy định của pháp luật;\n\ne) Thực hiện báo cáo hàng năm với Bộ Tài nguyên và Môi trường, Ủy ban nhân dân tỉnh về tình hình hoạt động đo đạc bản đồ trên địa bàn tỉnh;\n\ng) Cập nhật hàng năm, đăng tải danh mục thông tin, dữ liệu đo đạc và bản đồ thuộc phạm vi quản lý trên Trang thông tin điện tử của Sở;\n\nh) Xây dựng và ban hành các hướng dẫn về hoạt động đo đạc và bản đồ trên địa bàn tỉnh.\n\n2\\. Sở Tài chính phối hợp với Sở Tài nguyên và Môi trường tổ chức thẩm định theo phân cấp các dự toán về đo đạc và bản đồ sử dụng nguồn vốn ngân sách Nhà nước trình Ủy ban nhân dân tỉnh phê duyệt.\n\n3\\. Các Sở, Ban, Ngành khi thực hiện các dự án có hạng mục đo đạc và bản đồ lập phương án thi công gửi Sở Tài nguyên và Môi trường thẩm định sự về cần thiết, phạm vi, giải pháp kỹ thuật công nghệ; phối hợp với Sở Tài nguyên và Môi trường thẩm định chất lượng theo các quy định về quản lý chất lượng công trình, sản phẩm đo đạc, bản đồ và bàn giao sản phẩm bản đồ theo quy định.\n\n**Điều 11. Trách nhiệm của Phòng Tài nguyên và Môi trường các huyện, thị xã, thành phố và Ủy ban nhân dân các xã, phường, thị trấn**\n\n1\\. Phòng Tài nguyên và Môi trường có trách nhiệm:\n\na) Theo dõi, giám sát các hoạt động đo đạc và bản đồ trên địa bàn quản lý;\n\nb) Quản lý, sử dụng và bảo vệ các công trình, sản phẩm đo đạc và bản đồ trên địa bàn; báo cáo hiện trạng các dấu mốc đo đạc trên địa bàn về Sở Tài nguyên và Môi trường trước ngày 15 tháng 12 hàng năm;\n\nc) Phối hợp với chủ đầu tư, đơn vị thi công đo đạc trong việc triển khai thực hiện các hoạt động đo đạc và bản đồ;\n\nd) Phối hợp với Chi nhánh Văn phòng Đăng ký đất đai trong việc cập nhật, chỉnh lý hồ sơ địa chính;\n\nđ) Thực hiện lưu trữ hồ sơ theo quy định để phục vụ công tác cập nhật, chỉnh lý kịp thời, đồng bộ.\n\n2\\. Ủy ban nhân dân các xã, phường, thị trấn có trách nhiệm:\n\na) Theo dõi, giám sát các hoạt động đo đạc và bản đồ trên địa bàn quản lý;\n\nb) Quản lý, sử dụng và bảo vệ công trình xây dựng đo đạc trên địa bàn theo quy định;\n\nc) Phối hợp với Chủ đầu tư, đơn vị thi công đo đạc trong việc triển khai thực hiện, xác nhận hiện trạng sử dụng đất, ranh giới sử dụng đất, tình trạng pháp lý sử dụng đất trên địa bàn;\n\nd) Thực hiện lưu trữ hồ sơ theo quy định để phục vụ công tác cập nhật, chỉnh lý kịp thời, đồng bộ;\n\nđ) Quản lý, bảo vệ và ngăn chặn các hành vi xâm hại các công trình xây dựng đo đạc trên địa bàn xã;\n\ne) Cập nhật các công trình xây dựng đo đạc trên địa bàn xã, bổ sung phần ghi chú vào sổ địa chính về dấu mốc đo đạc trên thửa đất;\n\ng) Tuyên truyền, phổ biến các quy định về quản lý, bảo vệ công trình xây đo đạc để người dân tại địa phương có trách nhiệm bảo vệ dấu mốc đo đạc không bị xê dịch, phá hủy hoặc làm hư hỏng;\n\nh) Thường xuyên kiểm tra, khi phát hiện thấy các dấu mốc đo đạc bị xâm hại hoặc có khả năng bị xâm hại thì phải báo cáo Phòng Tài nguyên và Môi trường cấp huyện về hiện trạng và nguyên nhân xâm hại dấu mốc đo đạc;\n\ni) Đối với trường hợp phải di chuyển hoặc hủy bỏ dấu mốc đo đạc có trên thửa đất hoặc gắn vào công trình kiến trúc theo yêu cầu của chủ sử dụng đất hoặc chủ sở hữu công trình về việc xin di chuyển hoặc hủy bỏ dấu mốc đo đạc, Ủy ban nhân dân cấp xã có trách nhiệm báo cáo Phòng Tài nguyên và Môi trường cấp huyện để giải quyết. Việc di dời hoặc hủy bỏ dấu mốc đo đạc chỉ được thực hiện khi có sự đồng ý của cơ quan quản lý công trình xây dựng đo đạc.\n\n**Điều 12. Quyền và trách nhiệm của các tổ chức và cá nhân**\n\n1\\. Tổ chức và cá nhân thực hiện hoạt động đo đạc và bản đồ phải tuân theo quy định của pháp luật và Quy định này; được sử dụng các sản phẩm đo đạc, bản đồ và có trách nhiệm nộp phí và lệ phí khai thác, cung cấp thông tin dữ liệu đo đạc và bản đồ theo quy định.\n\n2\\. Tổ chức và cá nhân có trách nhiệm giữ gìn, bảo vệ các công trình xây dựng đo đạc theo quy định của pháp luật.\n\n3\\. Tổ chức và cá nhân không được cản trở hoặc gây khó khăn cho người có trách nhiệm thực hiện nhiệm vụ về đo đạc và bản đồ.\n\n4\\. Khuyến khích các tổ chức và cá nhân tham gia nghiên cứu khoa học, phát triển công nghệ về đo đạc và bản đồ theo quy định của pháp luật; nghiêm cấm các hoạt động đo đạc và bản đồ gây hại hoặc có nguy cơ gây hại cho quốc phòng, an ninh và trật tự, an toàn xã hội.\n\n5\\. Đề xuất và kiến nghị với cơ quan quản lý về xuất bản đình chỉ phát hành, thu hồi các ấn phẩm bản đồ có sai sót về việc thể hiện chủ quyền quốc gia, địa giới hành chính, địa danh; sản phẩm bản đồ có sai sót nghiêm trọng về kỹ thuật hoặc có nội dung thuộc phạm vi nghiêm cấm theo quy định của Luật Xuất bản.\n\n**Chương IV**\n\n**CHẾ ĐỘ BÁO CÁO TRONG HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ**\n\n**Điều 13. Chế độ báo cáo, trách nhiệm lập và nộp báo cáo tình hình hoạt động đo đạc và bản đồ**\n\n1\\. Báo cáo trong hoạt động đo đạc và bản đồ được lập định kỳ mỗi năm một (01) lần, tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 hàng năm. Ngoài việc thực hiện chế độ báo cáo định kỳ, khi có yêu cầu của cơ quan quản lý nhà nước về đo đạc và bản đồ, tổ chức được cấp giấy phép hoạt động đo đạc và bản đồ có trách nhiệm báo cáo đột xuất về tình hình hoạt động đo đạc và bản đồ theo yêu cầu đó.\n\n2\\. Trách nhiệm lập và nộp báo cáo trong hoạt động đo đạc và bản đồ được quy định như sau:\n\na) Tổ chức được cấp giấy phép hoạt động đo đạc và bản đồ thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh có trách nhiệm lập báo cáo theo Phụ lục số 01 ban hành kèm theo Thông tư số 46/2015/TT-BTNMT ngày 30/10/2015 của Bộ Tài nguyên và Môi trường quy định chế độ báo cáo trong hoạt động đo đạc và bản đồ. Báo cáo gửi Sở Tài nguyên và Môi trường chậm nhất vào ngày 10 tháng 01 hàng năm\n\nb) Sở Tài nguyên và Môi trường có trách nhiệm lập báo cáo theo Phụ lục số 03 ban hành kèm theo Thông tư số 46/2015/TT-BTNMT ngày 30/10/2015 của Bộ Tài nguyên và Môi trường quy định chế độ báo cáo trong hoạt động đo đạc và bản đồ. Báo cáo gửi Ủy ban nhân dân tỉnh, Cục Đo đạc, Bản đồ và Thông tin địa lý Việt Nam trước ngày 20 tháng 01 hàng năm;\n\nc) Ủy ban nhân dân cấp xã, Phòng Tài nguyên và Môi trường các huyện, thị xã, thành phố báo cáo hiện trạng các công trình xây dựng đo đạc trên địa bàn theo Phụ lục số 04 ban hành kèm theo Thông tư số 46/2015/TT-BTNMT ngày 30/10/2015 của Bộ Tài nguyên và Môi trường quy định chế độ báo cáo trong hoạt động đo đạc và bản đồ. Báo cáo gửi Sở Tài nguyên và Môi trường trước ngày 05 tháng 01 hàng năm.\n\n3\\. Cơ quan, tổ chức lập và nộp báo cáo phải chịu trách nhiệm về tính chính xác của số liệu, thông tin trong báo cáo.\n\n**Chương V**\n\n**ĐIỀU KHOẢN THI HÀNH**\n\n**Điều 14. Xử lý các vi phạm hành chính trong hoạt động đo đạc và bản đồ**\n\n1\\. Tổ chức, cá nhân vi phạm các quy định về hoạt động đo đạc và bản đồ thì tùy theo tính chất, mức độ vi phạm sẽ bị xử phạt hành chính theo quy định tại Nghị định số 173/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực khí tượng thủy văn, đo đạc bản đồ; Nghị định số 84/2017/NĐ-CP ngày 18 tháng 11 năm 2017 về việc sửa đổi, bổ sung một số điều Nghị định số 173/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ quy định về xử phạt hành chính trong lĩnh vực khí tượng thủy văn, đo đạc và bản đồ hoặc truy cứu trách nhiệm hình sự.\n\n2\\. Cán bộ, công chức Nhà nước lợi dụng chức vụ, quyền hạn có hành vi vi phạm pháp luật về đo đạc và bản đồ thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự.\n\n**Điều 15. Tổ chức thực hiện**\n\n1\\. Sở Tài nguyên và Môi trường có trách nhiệm giúp Ủy ban nhân dân tỉnh hướng dẫn và tổ chức thực hiện Quy định này.\n\n2\\. Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố, Thủ trưởng các Sở, Ban, Ngành có liên quan có trách nhiệm triển khai, theo dõi, kiểm tra việc thực hiện các nội dung thuộc phạm vi trách nhiệm của mình.\n\n3\\. Trong quá trình thực hiện, nếu có phát sinh vướng mắc, đề nghị các đơn vị, cá nhân có liên quan phản ánh về Sở Tài nguyên và Môi trường để tổng hợp, trình Ủy ban nhân dân tỉnh xem xét điều chỉnh, sửa đổi, bổ sung cho phù hợp./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

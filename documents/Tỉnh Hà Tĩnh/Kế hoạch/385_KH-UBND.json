@@ -1,0 +1,536 @@
+{
+  "title": "Kế hoạch 385/KH-UBND năm 2019 thực hiện Quyết định 1362/QĐ-TTg về phê duyệt kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2025, tầm nhìn 2030 do tỉnh Hà Tĩnh ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 1362/QĐ-TTg năm 2019 về phê duyệt kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2025, tầm nhìn 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "1362/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-10-11",
+      "effectiveDate": "2019-10-11",
+      "gazetteDate": "2019-10-22",
+      "gazetteNumber": "Từ số 833 đến số 834",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 52-NQ/TW năm 2019 về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư do Bộ Chinh trị ban hành",
+      "id": "52-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Bộ Chính trị",
+      "signers": [
+        "***"
+      ],
+      "issuedDate": "2019-09-27",
+      "effectiveDate": "2019-09-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 123/2018/NQ-HĐND về chính sách khuyến khích phát triển nông nghiệp, nông thôn và cơ chế xây dựng nông thôn mới, đô thị tỉnh Hà Tĩnh giai đoạn 2019-2020",
+      "id": "123/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Lê Đình Sơn"
+      ],
+      "issuedDate": "2018-12-13",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 87/2018/NQ-HĐND quy định chính sách hỗ trợ đăng ký thành lập mới hộ kinh doanh và doanh nghiệp trên địa bàn tỉnh Hà Tĩnh",
+      "id": "87/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Lê Đình Sơn"
+      ],
+      "issuedDate": "2018-07-18",
+      "effectiveDate": "2018-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 86/2018/NQ-HĐND về chính sách phát triển công nghiệp, tiểu thủ công nghiệp tỉnh Hà Tĩnh đến năm 2025 và những năm tiếp theo",
+      "id": "86/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Lê Đình Sơn"
+      ],
+      "issuedDate": "2018-07-18",
+      "effectiveDate": "2018-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 27/12/2022"
+    },
+    {
+      "title": "Nghị quyết 91/2018/NQ-HĐND về chính sách hỗ trợ khởi nghiệp đổi mới sáng tạo tỉnh Hà Tĩnh đến năm 2025 và những năm tiếp theo",
+      "id": "91/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Lê Đình Sơn"
+      ],
+      "issuedDate": "2018-07-18",
+      "effectiveDate": "2018-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2023"
+    },
+    {
+      "title": "Kế hoạch 208/KH-UBND thực hiện Nghị quyết 19-2018/NQ-CP về tiếp tục thực hiện nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2018 và những năm tiếp theo do tỉnh Hà Tĩnh ban hành",
+      "id": "208/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Đặng Quốc Khánh"
+      ],
+      "issuedDate": "2018-07-02",
+      "effectiveDate": "2018-07-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị quyết 81/2017/NQ-HĐND về quy định chính sách phát triển du lịch Hà Tĩnh đến năm 2025 và những năm tiếp theo",
+      "id": "81/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Lê Đình Sơn"
+      ],
+      "issuedDate": "2017-12-13",
+      "effectiveDate": "2017-12-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 452/QĐ-TTg năm 2017 phê duyệt Đề án đẩy mạnh xử lý, sử dụng tro, xỉ, thạch cao của các nhà máy nhiệt điện, nhà máy hóa chất, phân bón làm nguyên liệu sản xuất vật liệu xây dựng và trong công trình xây dựng do Thủ tướng Chính phủ ban hành",
+      "id": "452/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2017-04-12",
+      "effectiveDate": "2017-04-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 18/2016/NQ-HĐND về phát triển thị trường khoa học công nghệ và doanh nghiệp khoa học công nghệ tỉnh Hà Tĩnh đến năm 2020 và những năm tiếp theo",
+      "id": "18/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Lê Đình Sơn"
+      ],
+      "issuedDate": "2016-09-24",
+      "effectiveDate": "2016-10-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 35/NQ-CP năm 2016 về hỗ trợ và phát triển doanh nghiệp đến năm 2020 do Chính phủ ban hành",
+      "id": "35/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-16",
+      "effectiveDate": "2016-05-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/04/2023"
+    },
+    {
+      "title": "Quyết định 76/QĐ-TTg năm 2016 phê duyệt Chương trình hành động quốc gia về sản xuất và tiêu dùng bền vững đến năm 2020, tầm nhìn đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "76/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Hoàng Trung Hải"
+      ],
+      "issuedDate": "2016-01-11",
+      "effectiveDate": "2016-01-11",
+      "gazetteDate": "2016-01-26",
+      "gazetteNumber": "Từ số 115 đến số 116",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2068/QĐ-TTg năm 2015 phê duyệt Chiến lược phát năng lượng tái tạo của Việt Nam đến năm 2030, tầm nhìn đến năm 2050 do Thủ tướng Chính phủ ban hành",
+      "id": "2068/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2015-11-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 118/2015/NĐ-CP hướng dẫn Luật đầu tư",
+      "id": "118/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-11-12",
+      "effectiveDate": "2015-12-27",
+      "gazetteDate": "2015-12-03",
+      "gazetteNumber": "Từ số 1163 đến số 1164",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 141/2015/NQ-HĐND thông qua Đề án hỗ trợ phát triển tài sản trí tuệ tỉnh Hà Tĩnh, giai đoạn 2015 - 2020",
+      "id": "141/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Võ Kim Cự"
+      ],
+      "issuedDate": "2015-07-17",
+      "effectiveDate": "2015-07-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Chỉ thị 14/CT-TTg năm 2015 về tăng cường hiệu lực quản lý nhà nước, tập trung khắc phục yếu kém, thúc đẩy phát triển du lịch do Thủ tướng Chính phủ ban hành",
+      "id": "14/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-07-02",
+      "effectiveDate": "2015-07-02",
+      "gazetteDate": "2015-07-15",
+      "gazetteNumber": "Từ số 829 đến số 830",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 92/NQ-CP năm 2014 về giải pháp đẩy mạnh phát triển du lịch Việt Nam trong thời kỳ mới do Chính phủ ban hành",
+      "id": "92/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-12-08",
+      "effectiveDate": "2014-12-08",
+      "gazetteDate": "2014-12-19",
+      "gazetteNumber": "Từ số 1067 đến số 1068",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 63/2013/QĐ-TTg quy định về lộ trình, điều kiện và cơ cấu ngành điện để hình thành và phát triển cấp độ thị trường điện lực tại Việt Nam do Thủ tướng Chính phủ ban hành",
+      "id": "63/2013/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-08",
+      "effectiveDate": "2013-12-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 18/CT-TTg năm 2013 tăng cường công tác quản lý môi trường du lịch, bảo đảm an ninh, an toàn cho khách du lịch do Thủ tướng Chính phủ ban hành",
+      "id": "18/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Thiện Nhân"
+      ],
+      "issuedDate": "2013-09-04",
+      "effectiveDate": "2013-09-04",
+      "gazetteDate": "2013-09-18",
+      "gazetteNumber": "Từ số 571 đến số 572",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 10/CT-TTg năm 2012 về tăng cường sử dụng vật liệu xây không nung và hạn chế sản xuất, sử dụng gạch đất sét nung do Thủ tướng Chính phủ ban hành",
+      "id": "10/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-04-16",
+      "effectiveDate": "2012-04-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 63/KH-UBND năm 2020 thực hiện Quyết định 1362/QĐ-TTg về phê duyệt kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2025, tầm nhìn 2030 trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+      "id": "63/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Văn Thọ"
+      ],
+      "issuedDate": "2020-04-21",
+      "effectiveDate": "2020-04-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 27/KH-UBND về phát triển doanh nghiệp tỉnh Quảng Ninh năm 2020",
+      "id": "27/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Bùi Văn Khắng"
+      ],
+      "issuedDate": "2020-02-14",
+      "effectiveDate": "2020-02-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Công văn 367/UBND-KT năm 2020 về triển khai kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2025, tầm nhìn đến năm 2030 do thành phố Hà Nội ban hành",
+      "id": "367/UBND-KT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Doãn Toản"
+      ],
+      "issuedDate": "2020-02-05",
+      "effectiveDate": "2020-02-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 65/QĐ-UBND năm 2020 về phê duyệt Kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2025, tầm nhìn 2030 do tỉnh Quảng Ngãi ban hành",
+      "id": "65/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Trần Ngọc Căng"
+      ],
+      "issuedDate": "2020-01-14",
+      "effectiveDate": "2020-01-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 354/QĐ-UBND năm 2019 về phê duyệt Đề án phát triển doanh nghiệp tỉnh Tuyên Quang đến năm 2020, định hướng đến năm 2030",
+      "id": "354/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Thế Giang"
+      ],
+      "issuedDate": "2019-10-08",
+      "effectiveDate": "2019-10-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 3234/KH-UBND năm 2019 về thực hiện Chương trình nghị sự 2030 vì sự phát triển bền vững tỉnh Quảng Trị",
+      "id": "3234/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Nguyễn Đức Chính"
+      ],
+      "issuedDate": "2019-07-18",
+      "effectiveDate": "2019-07-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1006/QĐ-UBND năm 2018 về phê duyệt Phương án giao rừng, cho thuê rừng để bảo vệ và phát triển rừng bền vững kết hợp với kinh doanh cảnh quan du lịch, sản xuất nông lâm nghiệp dưới tán rừng trên địa bàn tỉnh Kon Tum",
+      "id": "1006/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Hữu Tháp"
+      ],
+      "issuedDate": "2018-09-24",
+      "effectiveDate": "2018-09-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 10/NQ-HĐND năm 2018 về Phương án giao rừng, cho thuê rừng để bảo vệ và phát triển rừng bền vững, kết hợp kinh doanh cảnh quan du lịch, sản xuất nông lâm nghiệp dưới tán rừng trên địa bàn tỉnh Kon Tum",
+      "id": "10/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Văn Hùng"
+      ],
+      "issuedDate": "2018-07-19",
+      "effectiveDate": "2018-07-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "385/KH-UBND",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Doanh nghiệp"
+  ],
+  "organization": "Tỉnh Hà Tĩnh",
+  "signers": [
+    "Dương Tất Thắng"
+  ],
+  "issuedDate": "2019-11-15",
+  "effectiveDate": "2019-11-15",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMQAyADAANQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH HÀ TĨNH<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>385/<span lang=\"VI\">KH-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Tĩnh</i><i><span lang=\"VI\">, ngày </span>15</i><i><span lang=\"VI\"> tháng </span>11</i><i><span lang=\"VI\"> năm </span>2019</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">THỰC HIỆN QUYẾT ĐỊNH SỐ 1362/QĐ-TTG NGÀY 11/10/2019 CỦA THỦ TƯỚNG CHÍNH\nPHỦ VỀ VIỆC PHÊ DUYỆT KẾ HOẠCH PHÁT TRIỂN BỀN VỮNG DOANH NGHIỆP KHU VỰC TƯ NHÂN\nTRÊN ĐỊA BÀN TỈNH HÀ TĨNH ĐẾN NĂM 2025, TẦM NHÌN 2030</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Quyết định số 1362/QĐ-TTg\nngày 11/10/2019 của Thủ tướng Chính phủ về phê duyệt kế hoạch phát triển bền vững\ndoanh nghiệp khu vực tư nh</span>â<span lang=\"VI\">n đến năm 2025, tầm nhìn 2030; Ủy\nban nhân dân tỉnh ban hành Kế hoạch </span>tr<span lang=\"VI\">iển khai thực hiện </span>tr<span lang=\"VI\">ên địa bàn tỉnh với những nội dung sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. MỤC ĐÍCH, YÊU CẦU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Thực hiện quán triệt, tuyên truyền\nsâu rộng quan điểm phát triển bền vững doanh nghiệp khu vực tư nhân đến các cấp,\ncác ngành, cộng đồng doanh nghiệp, cán bộ, đảng viên và nhân dân về tầm quan </span>tr<span lang=\"VI\">ọng của việc phát triển bền vững doanh nghiệp khu vực tư nhân trong\ngiai đoạn hiện nay.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Cụ thể hóa các mục tiêu, nhiệm vụ\nvà giải pháp chủ yếu trong Quyết định số 1362/QĐ-TTg ngày 11/10/2019 của Thủ tướng\nChính phủ, đảm bảo phù hợp với điều kiện thực tế của t</span>ỉ<span lang=\"VI\">nh\nđể triển khai kịp thời, khả thi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b>II. MỤC TIÊU</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1<span lang=\"VI\">. Mục tiêu tổng quát: Thúc đẩy doanh\nnghiệp khu vực tư nhân tăng trưởng chất lượng và hiệu quả, tạo nền tảng vững chắc,\nđộng lực quan trọng cho phát </span>tr<span lang=\"VI\">iển kinh tế - xã hội nhanh,\nbền vững.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Mục tiêu cụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nâng cao chất lượng, hiệu quả hoạt\nđộng của các doanh nghiệp khu vực tư nhân, phấn đấu có ít nhất 15.000 doanh\nnghiệp vào năm 2025 và 20</span>.<span lang=\"VI\">000 doanh nghiệp vào năm 2030.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Thúc đẩy đổi mới sáng tạo và tăng\ncường liên kết trong doanh nghiệp khu vực tư nhân; phấn đấu tăng tỷ trọng đ</span>ó<span lang=\"VI\">ng góp của khu vực kinh t</span>ế <span lang=\"VI\">tư nhân vào GRDP để đến\nnăm 2025 đạt khoảng 65% và đến năm 2030 đạt khoảng 70%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b>III. NHIỆM VỤ VÀ GIẢI PHÁP</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><i>1. Nhóm giải pháp 1: Tiếp tục\nđẩy mạnh cải thiện môi trường đầu tư kinh doanh nhằm đảm bảo duy trì niềm tin\nvà tăng cường đầu tư kinh doanh bền vững của doanh nghiệp khu vực tư nhân</i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các sở, ban, ngành cấp t</span>ỉ<span lang=\"VI\">nh, </span>U<span lang=\"VI\">BND huyện, thị xã, thành phố tập trung triển\nkhai quyết liệt, nghiêm túc, hiệu quả các nhiệm vụ được giao tại các Chương trình,\nK</span>ế <span lang=\"VI\">hoạch hành động và văn bản chỉ đạo thực hiện của UBND tỉnh\nvề nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, hỗ </span>tr<span lang=\"VI\">ợ phát triển doanh nghiệp<a href=\"#_ftn1\" title=\"\">1</a>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sở K</span>ế <span lang=\"VI\">hoạch\nvà Đầu tư: Chủ trì, tổng hợp đánh giá tình hình thực hiện Nghị quyết số\n35/NQ-CP ngày 16/5/2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến\nnăm 2020 và đề xuất, kiến nghị giải pháp hỗ trợ, phát triển doanh nghiệp đến\nnăm 2025, tầm nhìn 2030 trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sở Công thương:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện có hiệu quả\nQuyết định số 76/QĐ-TTg ngày 11/01/2016 của Thủ tướng Chính phủ Phê duyệt\nChương trình hành động quốc gia về sản xuất và tiêu dùng bền vững đến năm 2020,\ntầm nhìn đến năm 2030;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao hiệu quả công tác xúc tiến\nthương mại, mở rộng cơ hội và tìm kiếm thị trường tiêu thụ </span>ổ<span lang=\"VI\">n định cho sản phẩm; cung cấp thông tin về thị trường xuất, nhập khẩu để\ncác doanh nghiệp tiếp cận thuận lợi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh thực hiện Cuộc vận động\nNgười Việt Nam ưu tiên dùng hàng Việt Nam; triển khai có hiệu quả Kế hoạch số\n94/KH-UBND ngà</span>y <span lang=\"VI\">04/4/2019 của UBND tỉnh về triển khai các\nhoạt động xúc tiến thương, mại gắn với cuộc vận động </span>“<span lang=\"VI\">Người\nViệt Nam ưu tiên dùng hàng Việt Nam</span>”<span lang=\"VI\"> và Chương trình </span>“<span lang=\"VI\">Mỗi xã một sản phẩm</span>” <span lang=\"VI\">đến năm 2025.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Sở Tài nguyên và Môi trường:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, phối h</span>ợ<span lang=\"VI\">p với các sở, ngành, địa phương tiếp tục nghiên c</span>ứ<span lang=\"VI\">u,\ngóp ý Dự thảo Luật Sửa đổi, bổ sung Luật Đất đai năm 2013, báo cáo UBND t</span>ỉ<span lang=\"VI\">nh để gửi Bộ Tài nguyên và Môi trường nhằm tháo gỡ các nội dung chồng\nchéo, vư</span>ớ<span lang=\"VI\">ng mắc thực tiễn đang gặp phải.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ph</span>ố<span lang=\"VI\">i hợp rà\nsoát, đánh giá thực thi các quy định về quy chuẩn, tiêu chuẩn, quy định tuân thủ\nbảo vệ môi trường trong khu vực doanh nghiệp và đề xuất sửa đổi các quy định về\ntuân thủ pháp luật môi trường, tạo điều kiện thuận lợi cho doanh nghiệp, đồng\nthời có giải pháp nâng cao hiệu q</span>u<span lang=\"VI\">ả công tác quản lý nhà\nnước về môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) S</span>ở<span lang=\"VI\"> Xây dựng:\nNghiên cứu, xây dựng, ban hành các văn bản quy định về quản lý đầu tư các dự án\nphát triển nhà ở, qua đó, tạo hành lang pháp lý rõ ràng để khuyến khích các nhà\nđầu tư thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">f) Sở Văn hóa Thể thao và Du lịch;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục thực hiện Nghị quyết số\n92/NQ-CP ngày 08/12/2014 của Thủ tướng Chính phủ về một số giải pháp đẩy mạnh\nphát triển du lịch Việt Nam trong thời kỳ mới theo hướng tập trung tháo gỡ khó\nkhăn cho các doanh nghiệp hoạt động kinh doanh lữ hành và cơ sở lưu trú du lịch;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện Chỉ thị số\n18/CT-TTg ngày 04/9/2013 của Thủ tướng Chính phủ về tăng cường công tác quản lý\nmôi trường du lịch, bảo đảm an toàn, an ninh cho khách du lịch và Chỉ thị số\n14/CT-TTg ngày 02/7/2015 của Thủ tướng Chính phủ về việc tăng cường hiệu lực quản\nlý nhà nước, tập trung khắc phục yếu kém, thúc đẩy phát triển du lịch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thiết lập đường dây nóng trong việc\ntiếp nhận thông tin, giải quyết yêu cầu, khiếu nại, đảm bảo quyền và lợi ích\nchính đáng của tổ chức, cá nhân kinh doanh du lịch và khách du lịch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Sở Thông tin và Truyền thông:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng và t</span>ổ <span lang=\"VI\">chức thực hiện Chương trình truyền thông dành cho doanh nghiệp khu vực\ntư nhân để vừa hiểu biết, triển khai thực hiện nghiêm túc các nội dung chỉ đạo\ncủa cấp Trung ương, t</span>ỉ<span lang=\"VI\">nh vừa để các doanh nghiệp có điều\nkiện tự khẳng định mình trong cạnh tranh, hội nhập.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Trung tâm Hỗ trợ PTDN\nvà XTĐT tỉnh: Tăng cường hiệu quả tiếp cận thông tin cho các doanh nghiệp bằng\ncách trên Cổng thông tin điện tử của tỉnh, nâng cấp “Diễn đàn Doanh nghiệp hỏi\n- Cơ quan Nhà nước </span>tr<span lang=\"VI\">ả lời” đảm bảo doanh nghiệp nói chung\nvà doanh nghiệp khu vực tư nhân có th</span>ể <span lang=\"VI\">tương tác trực tiếp\n</span>tr<span lang=\"VI\">ên Diễn đàn đối với các kết quả xử lý, giải quyết, </span>tr<span lang=\"VI\">ả lời của cơ quan quản lý nhà nước; xây dựng 01 chuyên mục để đ</span>ă<span lang=\"VI\">ng tải phục vụ doanh nghiệp khai thác, nghiên cứu; nâng cấp Chuyên mục\nhỗ trợ pháp lý cho doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">h) Trung tâm Hỗ trợ phát triển doanh\nnghiệp và Xúc tiến đầu tư tỉnh:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hàng năm xây dựng kế hoạch và tổ chức\ncác l</span>ớ<span lang=\"VI\">p đào tạo, tập huấn, bồi dưỡng chu</span>y<span lang=\"VI\">ên môn, nghiệp vụ, quản trị doanh nghiệp, kh</span>ở<span lang=\"VI\">i\nnghiệp; phổ biến và tuyên truyền các quy định, cơ chế chính sách của Trung\nương, Tỉnh đến với doanh nghiệp, nhà đầu tư;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai hoạt động kết nối, hỗ trợ\ndoanh nghiệp, nhà đầu tư </span>tr<span lang=\"VI\">ong hoạt động đầu tư, sản xuất,\nkinh doanh; đầu mối hỗ trợ, tư vấn, cung cấp thông tin cho doanh nghiệp, nhà đầu\ntư về lựa chọn địa điểm đầu tư, thực hiện các thủ tục đầu tư, chính sách của T</span>ỉ<span lang=\"VI\">nh và các thông tin khác theo nhu c</span>ầ<span lang=\"VI\">u của doanh\nnghiệp; hỗ trợ, cung cấp thông tin cho các doanh nghiệp, nhà đầu tư về việc tiếp\ncận các nguồn lực đầu tư, các chương trình ứng dụng khoa học công nghệ mới vào\nhoạt động sản xuất, kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><i><span lang=\"VI\">2. Nhóm giải\npháp 2: Khuyến khích doanh nghiệp áp dụng các mô hình kinh doanh bền vững, công\nnghệ sản xuất sạch hơn, sử dụng hiệu quả tài nguyên thiên nhiên, bảo vệ môi trường</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Sở Kế hoạch và Đầu tư: Chủ trì, phối\nh</span>ợ<span lang=\"VI\">p với các sở, ngành, địa phương nghiên cứu xây dựng nội\ndung chương trình hỗ trợ, khuyến khích doanh nghiệp khu vực tư nhân áp dụng các\nmô hình kinh doanh bền vững, công nghệ sản xuất sạch hơn, sử dụng tài nguyên hiệu\nquả và bảo vệ môi trường trên địa bàn Hà </span>T<span lang=\"VI\">ĩnh giai đoạn\n2021 - 2025 tầm nhìn đến năm 2030; báo cáo UBND t</span>ỉ<span lang=\"VI\">nh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sở Tài nguyên và Môi trường: Tăng\ncường kiểm </span>tr<span lang=\"VI\">a việc thực hiện các quy định về bảo vệ môi\ntrường đối với các doanh nghiệp theo quy định của pháp luật v</span>ề <span lang=\"VI\">bảo vệ môi trường; theo dõi tổng hợp tỷ lệ khu công nghiệp, cụm công\nnghiệp có hệ thống xử lý nước thải tập trung được quan trắc tự động, kết nối trực\ntuyến với cơ quan quản lý môi trường vận hành đạt yêu cầu về môi trường; thống\nkê theo dõi tỷ lệ khu, cụm công nghiệp có hệ thống xử lý nước thải tập\ntrung,...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sở Xây dựng:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục thực hiện có hiệu quả Kế\nhoạch số 277/KH-UBND ngày 25/8/2016 của UBND tỉnh về t</span>ă<span lang=\"VI\">ng\ncường sử dụng vật liệu xây không nung và lộ tr</span>ì<span lang=\"VI\">nh giảm dần,\nsử dụng gạch đất sét nung trên địa bàn t</span>ỉ<span lang=\"VI\">nh Hà Tĩnh theo\nCh</span>ỉ <span lang=\"VI\">thị số 10/CT-TTg ngày 16/4/2010 của Thủ tướng Chính phủ;\ncó giải pháp khuyến khích sử dụng vật liệu xây không nung vào công trình xây dựng\n</span>tr<span lang=\"VI\">ên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Khuyến khích sử dụng tro xỉ của Nhà\nmáy nhiệt điện Vũng Áng 1 và Nhà máy gang thép Formosa theo hướng chỉ đạo của\nThủ tướng Chính phủ tại Quyết định số 452/QĐ-TTg ngày 12/4/2017 phê duyệt Đề án\nđẩy mạnh xử lý, sử dụng tro, xỉ, thạch cao của các nhà máy nhiệt điện, nhà máy\nhóa chất, phân bón làm nguyên liệu sản xuất vật liệu xây dựng vào trong các\ncông trình xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Sở Nông nghiệp và Phát triển nông\nthôn: Tập trung triển khai Kế hoạch cơ cấu lại nông nghiệp của t</span>ỉ<span lang=\"VI\">nh đến năm 2020 và những năm ti</span>ế<span lang=\"VI\">p theo, với trọng\ntâm là kêu gọi, khuyến khích và tạo thuận lợi phát triển doanh nghiệp khu vực\ntư nhân lĩnh vực nông nghiệp; phát triển các hình thức h</span>ợ<span lang=\"VI\">p\ntác, liên kết sản xuất, tiêu thụ nông sản theo chuỗi giá trị, kết nối với hệ thống\ntiêu thụ toàn t</span>ỉ<span lang=\"VI\">nh, cả nước; phát triển đa dạng các loại\nhình liên kết giữa các doanh nghiệp với hộ nông dân, gia trại, trang trại, t</span>ổ\n<span lang=\"VI\">h</span>ợ<span lang=\"VI\">p tác, hợp tác xã, doanh nghiệp vừa và nhỏ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Sở Văn hóa, Thể thao và Du lịch: Đề\nxuất và t</span>ổ <span lang=\"VI\">chức triển khai thực hiện các biện pháp quản lý\ndi tích gắn với bảo tồn, phát huy giá trị di sản với phát triển du lịch; phát\nhuy giá trị nghệ thuật truyền thống phục vụ phát triển du lịch đặc biệt là dân\nca ví giặm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><i><span lang=\"VI\">3. Nhóm giải\npháp 3: Thúc đẩy khởi nghiệp sáng tạo và đẩy mạnh thực hiện hiệu quả các chính\nsách hỗ trợ doanh nghiệp nhỏ và vừa</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các sở, ban, ngành cấp t</span>ỉ<span lang=\"VI\">nh, UBND huyện, thị xã, thành phố tập trung triển khai quyết liệt,\nnghiêm túc và hiệu quả các nhiệm vụ được giao tại các Nghị quyết, Quyết định của\nHĐND, UBND t</span>ỉ<span lang=\"VI\">nh về các cơ chế chính sách, đề án hỗ trợ\ndoanh nghiệp nhỏ và vừa, thúc đẩy khởi nghiệp sáng tạo<a href=\"#_ftn2\" title=\"\">2</a>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sở Kế hoạch và Đầu tư:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, tham mưu bổ sung các\ncác ngành nghề ưu đãi đầu tư trên địa bàn t</span>ỉ<span lang=\"VI\">nh trong quá\ntrình sửa đổi, bổ sung Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 c</span>ủ<span lang=\"VI\">a Chính phủ, như: Đầu tư kinh doanh chuỗi phân phối sản phẩm của doanh\nnghiệp nhỏ và vừa; đầu tư kinh doanh cơ sở ươm tạo doanh nghiệp nhỏ và vừa; đầu\ntư kinh doanh khu làm việc chung cho doanh nghiệp nhỏ và vừa kh</span>ở<span lang=\"VI\">i nghiệp sáng tạo và đầu tư kinh doanh cơ sở kỹ thuật hỗ trợ doanh nghiệp\nnhỏ và vừa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các sở, ngành có liên\nquan tham mưu UBND tỉnh Chương tr</span>ì<span lang=\"VI\">nh hỗ trợ doanh nghiệp\nnhỏ và vừa trên địa bàn Hà Tĩnh đoạn 2021 - 2025, tập trung hỗ trợ doanh nghiệp\nnhỏ và vừa khởi nghiệp sáng tạo, doanh nghiệp nhỏ và vừa tham gia cụm liên kết,\nchuỗi giá tr</span>ị<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sở Khoa học và Công nghệ: Chủ trì\nphối hợp với các đơn vị liên quan tham mưu, xây dựng hoặc xã hội hóa đ</span>ầ<span lang=\"VI\">u tư Trung tâm khởi nghiệp sáng tạo để thúc đẩy, kết nối và huy động\nnguồn lực xã hội cho hoạt động khởi nghiệp sáng tạo </span>tr<span lang=\"VI\">ên địa\nbàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><i><span lang=\"VI\">4. Nhóm giải\npháp 4: Hỗ trợ nâng cao năng suất lao động trong doanh nghiệp; phát triển nguồn\nnhân lực chất lượng cao, nâng cao năng lực quản lý, quản trị doanh nghiệp</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Sở Công thương:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh công tác đào tạo, tập huấn\nvề đề án thương mại điện tử; hỗ trợ đào tạo, tập huấn kiến thức về thương mại\nđiện tử cho các doanh nghiệp, hỗ trợ xây dựng phát triển thương mại điện tử\ntheo Nghị định số 123/2018/NQ-HĐND ngày 13/12/2018 của HĐND tỉnh về một số\nchính sách khuy</span>ế<span lang=\"VI\">n khích phát triển nông nghiệp, nông thôn\nvà cơ chế xây dựng nông thôn mới, đô thị tỉnh Hà Tĩnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng, phát triển bộ thương hiệu\ntrực tuyến cho các sản phẩm chủ lực tỉnh Hà Tĩnh; giải pháp truy xuất nguồn gốc\ncho các sản phẩm đặc trưng của Hà Tĩnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sở Lao động Thương binh và Xã hội:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đổi mới, nâng cao chất lượng công\ntác đào tạo nghề; gắn chương </span>trì<span lang=\"VI\">nh đào tạo nghề với nhu c</span>ầ<span lang=\"VI\">u thực t</span>ế <span lang=\"VI\">của doanh nghiệp. Ph</span>ổ<span lang=\"VI\"> bi</span>ế<span lang=\"VI\">n, tuyên truy</span>ền <span lang=\"VI\">hệ thống\nthông tin thị trường lao động, các hoạt động của sản giao dịch việc làm để\ndoanh nghiệp, người dân, người học nắm bắt và có cơ hội gặp nhau ở thị trường\nđào tạo, thị trường lao động. Khảo sát, đánh giá nhu c</span>ầ<span lang=\"VI\">u\nđào tạo của các doanh nghiệp </span>tr<span lang=\"VI\">ên địa bàn tỉnh; xây dựng kế\nhoạch và ph</span>ố<span lang=\"VI\">i hợp với các trường đào tạo, dạy nghề để đào\ntạo nghề cho các doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai tốt các hoạt động đào tạo,\nhỗ trợ doanh nghiệp về an toàn lao động. Phối hợp với Bảo hiểm xã hội tỉnh\ntuyên truyền, hướng dẫn các doanh nghiệp thực hiện chính sách bảo hiểm xã hội,\nbảo hiểm y tế cho người lao động; kiểm tra xử lý đối với các trường hợp vi phạm,\nđảm bảo thực hiện tốt chính sách cho người lao động.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sở Giáo dục và Đào tạo:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng phát triển hình thức liên\nkết đào tạo giữa nhà trường với các cơ sở, doanh nghiệp; giáo dục ở bậc đại học,\nc</span>ầ<span lang=\"VI\">n gắn chặt với nhu cầu xã hội thông qua các đơn đặt hàng\ncủa các cơ sở thực tế, bảo đảm cân đ</span>ố<span lang=\"VI\">i giữa các ngành, nghề;\nđẩy mạnh công tác hướng nghiệp từ bậc phổ thông đến bậc đại học.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu tham mưu xây dựng Chương\ntrình, kế hoạch thu hút các chuyên gia trong và ngoài nước, ngư</span>ờ<span lang=\"VI\">i Việt Nam ở nước ngoài tham gia vào các hoạt động, chương trình đào tạo\nvà nghiên c</span>ứ<span lang=\"VI\">u khoa học, công nghệ tại trường Đại học Hà\nTĩnh và các cơ sở giáo dục khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><i><span lang=\"VI\">5. Nhóm giải\npháp 5: Khuyến khích doanh nghiệp khu vực tư nhân ứng dụng khoa học công nghệ,\nkhai thác cơ hội của cách mạng công nghiệp 4.0</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) S</span>ở<span lang=\"VI\"> Khoa học\nvà Công nghệ:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ doanh nghiệp xây dựng, phát\ntriển thương hiệu và bảo hộ quyền sở hữu trí tuệ; tăng cường tích hợp và chia sẻ\nnguồn thông tin cơ sở về quyền sở hữu trí tuệ (SHTT), nâng cao năng lực dịch vụ\ncông cộng thông tin s</span>ở <span lang=\"VI\">hữu trí tuệ, cung cấp thông tin sở\nhữu trí tuệ chính xác, kịp thời, xây dựng cơ sở hạ tầng công cộng dịch vụ sở hữu\n</span>tr<span lang=\"VI\">í tuệ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục triển khai có hiệu quả Nghị\nquyết số 141/2015/NQ-HĐND ngày 17/07/2015 của HĐND tỉnh về việc thông qua Đề án\nhỗ trợ phát triển tài sả</span>n <span lang=\"VI\">trí tuệ tỉnh Hà Tĩnh, giai đoạn\n2015 - 2020; Nghị quyết số 18/2016/NQ-HĐND ngày 24/09/2016 của HĐND tỉnh về\nphát </span>tr<span lang=\"VI\">iển thị trường và doanh nghiệp khoa học và công nghệ\ntỉnh Hà Tĩnh đ</span>ế<span lang=\"VI\">n năm 2020 và những năm ti</span>ế<span lang=\"VI\">p theo; n</span>ắ<span lang=\"VI\">m b</span>ắ<span lang=\"VI\">t thông tin về\ncác loại công nghệ, thông tin về nhu cầu công nghệ để tạo môi trường thuận lợi\ncho cung - cầu gặp nhau;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sở Công thương: Kêu gọi, thu hút đầu\ntư, tạo điều kiện cho các nhà đầu tư thực hiện việc khảo sát, nghiên cứu đầu\ntư, các dự án điện năng lượng tái tạo (điện mặt trời, điện gió, khí sinh học,\nđiện sinh khối...) đảm bảo chặt chẽ, đúng quy định, góp phần bổ sung nguồn điện\nvà thực hiện hiệu quả chủ trương ưu tiên phát </span>tr<span lang=\"VI\">i</span>ể<span lang=\"VI\">n ngu</span>ồ<span lang=\"VI\">n năng lượng tái tạo theo Quy</span>ế<span lang=\"VI\">t định s</span>ố <span lang=\"VI\">2068/QĐ-TTg ngày 25/11/2015 của Thủ tướng\nChính phủ phê duyệt chiến lược phát triển năng lượng tái tạo của Việt Nam đến\nnăm 2030, tầm nhìn đến năm 2050. Phát triển thị trường điện c</span>ạ<span lang=\"VI\">nh tranh theo định hướng tại Quyết định số 63/2013/QĐ-TTg ngày\n08/11/2013 của Thủ tướng Chính phủ quy định lộ trình, các điều kiện và cơ cấu\nngành điện để hình thành và phát triển các cấp độ thị trường điện lực tại Việt\nNam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sở Kế hoạch và Đầu tư: Đầu mối thực\nhiện Nghị quyết số 52-NQ/TW ngày 27/9/2019 của Bộ Chính </span>tr<span lang=\"VI\">ị\nvề một số chủ trương, chính sách chủ động tham gia cuộc cách mạng c</span>ô<span lang=\"VI\">ng nghiệp lần thứ tư; tham mưu thực hiện Chiến lược quốc gia về cách mạng\ncông nghiệp 4.0 sau khi Chính phủ ban hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Sở Thông tin và Truyền thông:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng và tổ chức thực hiện\nChương trình hỗ trợ doanh nghiệp khu vực tư nhân đẩy mạnh ứng dụng công nghệ\nthông tin </span>tr<span lang=\"VI\">ong sản xuất kinh doanh dịch vụ, nâng cao chất\nlượng, hiệu quả, như: Hỗ trợ 1 số ph</span>ầ<span lang=\"VI\">n mềm trong q</span>u<span lang=\"VI\">ản trị doanh nghiệp, quản trị nguồn lực, quản lý sản phẩm...; đào tạo\nnâng cao kiến thức, kỹ năng về ứng dụng công nghệ thông tin; tham gia thương mại\nđiện tử; xúc tiến đầu tư trên mạng internet,...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, ban hành các tiêu chí\nvà xem xét việc khen thư</span>ở<span lang=\"VI\">ng các doanh nghiệp thuộc khối tư\nnhân trong ứng dụng công</span> n<span lang=\"VI\">ghệ cao, công nghệ thông minh; đồng\nthời xây dựng giải pháp kết nối chuỗi logictics trên nền internet để các doanh\nnghiệp chủ động giải bài toán tối ưu ở các doanh nghiệp cùng nhóm hoặc tương tự\nnhóm ngành với nhau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Sở Nông nghiệp và Phát </span>tr<span lang=\"VI\">iển nông thôn: Tham mưu kế hoạch triển khai ứng dụng thành tựu về khoa\nhọc công nghệ: Công nghệ sinh h</span>ọ<span lang=\"VI\">c giống, chế phẩm sinh học\nphục vụ sản xuất, xử lý môi trường; công nghệ về bảo quản, chế biến sau thu hoạch;\ncông nghệ thông tin trong nhận dạng thương hiệu, truy xuất nguồn gốc sản phẩm,\ntự động hóa một số khâu </span>tr<span lang=\"VI\">ong quá </span>tr<span lang=\"VI\">ình\nsản xuất nhằm mục đích nâng cao sức cạnh tranh của sản phẩm, thúc đẩy phân công\nlại lao động </span>tr<span lang=\"VI\">ong nông nghiệp, đưa sản xuất theo hướng\nchuyên sâu, chuyên canh, hàng hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><i><span lang=\"VI\">6. Nhóm giải\npháp 6: Cải cách hành chính, tăng cường vai trò của các tổ chức hiệp hội doanh\nnghiệp trong hỗ trợ doanh nghiệp khu vực tư nhân phát triển hiệu quả, bền vững.</span></i></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Cải cách thủ tục hành chính:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các sở, ban, ngành chủ động rà soát\ncác bộ thủ tục hành chính theo từng lĩnh vực đã ban hành để tiếp tục thực hiện\nviệc đơn giản h</span>ó<span lang=\"VI\">a thủ tục, cắt giảm thời gian thực hiện; tận\ndụng tối đa tính kế thừa liên thông kết qu</span>ả <span lang=\"VI\">giải quyết thủ\ntục hành chính giữa các cơ quan quản lý nhà nước. Đẩy mạnh triển khai ứng dụng\ncông nghệ thông tin trong việc cung cấp dịch vụ công của các cơ quan hành chính\nnhà nước, triển khai xây dựng các dịch vụ công trực tuyến mức độ 3, mức độ 4 </span>tr<span lang=\"VI\">ên Cổng thông tin điện tử của tỉnh đảm bảo minh bạch, thuận lợi, giảm\nchi phí thực hiện cho ngư</span>ờ<span lang=\"VI\">i dân và doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tăng cường vai trò của các tổ chức\nhiệp hội doanh nghiệp:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các sở, ban, ngành và địa phương chủ\nđộng thực hiện rà soát và đề xuất phương án thí điểm chuyển giao một số dịch vụ\ncông thuộc phạm vi quản lý nhà nước cho các tổ chức, hiệp hội thực hiện giai đoạn\n2021 - 2025 (số lượng dịch vụ công, lộ trình thực hiện cụ thể,...) gửi Sở Nội vụ\ntrước Quý 1 năm 2021 để tổng hợp, báo cáo UBND tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sở N</span>ộ<span lang=\"VI\">i vụ:\nTăng cường công tác quản lý đối với việc, hình thành và hoạt động của các tổ chức\nxã hội nghề nghiệp, hiệp hội ngành ngh</span>ề <span lang=\"VI\">đảm bảo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hi</span>ệ<span lang=\"VI\">p hội doanh\nnghiệp tỉnh: Tăng cường hỗ trợ đào tạo nâng cao năng lực cho doanh nghiệp hội\nviên nâng cao trách nhiệm xã hội trong cộng đ</span>ồ<span lang=\"VI\">ng doanh\nnghiệp khu vực tư nhân; Tích cực phối hợp với các cơ quan quản lý nhà nước để\nkhuyến nghị chính sách khuyến khích doanh nghiệp tư nhân tham gia th</span>ự<span lang=\"VI\">c hi</span>ệ<span lang=\"VI\">n các mục tiêu phát triển bền vững của quốc\ngia; nhân rộng các mô hình quản lý, quản trị hiệu quả, bền vững giúp giải quyết\ncác thách thức phát triển bền vững; Tích cực tuyên truyền nâng cao nhận thức,\ntôn vinh các doanh nghiệp tư nhân có đóng góp lớn về bảo vệ môi trường, trách\nnhiệm xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">IV. TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để triển khai thực hiện Kế hoạch phát\ntriển bền vững doanh nghiệp khu vực tư nhân đến năm 2030, các sở, ngành, đơn vị\nliên quan cần lồng ghép các nội dung, giải pháp phát triển bền vững doanh nghiệp\nkhu vực tư nhân với các chương trình mục tiêu quốc gia, các dự án, các chương\ntrình mục tiêu nhằm sử dụng hiệu quả các nguồn lực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Các sở, ban, ngành; UBND các huyện,\nthành ph</span>ố<span lang=\"VI\">, thị xã căn cứ nhiệm vụ được giao có trách nhiệm\ntriển khai và tổ chức thực hiện kế hoạch này. Giám đốc các sở, Thủ trưởng các\nban, ngành, Chủ tịch UBND các huyện, thành phố, thị xã trực tiếp chỉ đạo, chịu\ntrách nhiệm trước Chủ tịch </span>U<span lang=\"VI\">BND tỉnh về việc thực hiện kế\nhoạch; thường xuyên kiểm tra, giám sát và đánh giá kết quả thực hiện kế hoạch;\ncoi đây là nhiệm vụ ưu tiên hàng đầu của ngành mình, cấp mình và đơn vị mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Sở Kế hoạch và Đầu tư là cơ quan đầu\nmối theo dõi, giám sát, đôn đốc, t</span>ổ<span lang=\"VI\">ng hợp tình hình thực\nhiện Kế hoạch triển khai của </span>U<span lang=\"VI\">BND tỉnh hàng năm về tình\nhình thực hiện các mục tiêu, nhiệm vụ và giải pháp của Kế hoạch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. UBND tỉnh đề nghị các hiệp hội\ndoanh nghiệp, các doanh nghiệp trên địa bàn tích cực hợp tác, tăng cường đối\nthoại với các cấp chính quyền, tạo cơ ch</span>ế <span lang=\"VI\">thông tin hiệu\nquả, góp phần tạo lập môi trường kinh doanh thuận lợi để các doanh nghiệp sản\nxuất, kinh doanh ngày càng thành công, cùng đóng góp vào sự nghiệp xây dựng </span>v<span lang=\"VI\">à phát triển tỉnh nhà./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMQAyADAANQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:8.0pt\"><br>\n  </span></i></b><b><i><span lang=\"VI\" style=\"font-size:8.0pt\">Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Văn phòng Chính phủ</span><span style=\"font-size:8.0pt\">;</span><span lang=\"VI\" style=\"font-size:8.0pt\"><br>\n  - Bộ Kế hoạch và Đ</span><span style=\"font-size:8.0pt\">ầ</span><span lang=\"VI\" style=\"font-size:8.0pt\">u t</span><span style=\"font-size:8.0pt\">ư;</span><span lang=\"VI\" style=\"font-size:8.0pt\"><br>\n  - TTr. T</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh </span><span style=\"font-size:8.0pt\">ủ</span><span lang=\"VI\" style=\"font-size:8.0pt\">y; TTr. H</span><span style=\"font-size:8.0pt\">Đ</span><span lang=\"VI\" style=\"font-size:8.0pt\">ND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Chủ tịch, các PCT UBND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Các sở, ban, ngành cấp tỉnh;<br>\n  - UBND các huyện, thành phố, thị xã;<br>\n  - Chánh VP, các Phó VP;<br>\n  - Trun</span><span style=\"font-size:8.0pt\">g</span><span lang=\"VI\" style=\"font-size:8.0pt\"> tâm TT-CB-TH tỉnh;</span><span style=\"font-size:\n  8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Lưu:VT, KT</span><sub><span style=\"font-size:8.0pt\">1</span></sub><span style=\"font-size:8.0pt\">.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Dương Tất Thắng</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n<div>\n\n<p><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,&quot;serif&quot;\"><br clear=\"all\">\n</span></p>\n\n<div>\n\n<div>\n\n<div><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,&quot;serif&quot;\">\n\n<hr size=\"1\" width=\"33%\" align=\"left\">\n\n</span></div>\n\n</div>\n\n</div>\n\n<div id=\"ftn1\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref1\" title=\"\"><span lang=\"VI\">1</span></a><span lang=\"VI\"> - Chương trình s</span>ố <span lang=\"VI\">739-CTr/TU ngày 31/8/2017 của Tỉnh\nủy về thực hiện Nghị q</span>u<span lang=\"VI\">y</span>ế<span lang=\"VI\">t s</span>ố <span lang=\"VI\">10-NQ/TW ngày 03/6/2017 của Ban Chấp hành Trung ương Đảng kh</span>ó<span lang=\"VI\">a XII về phát triển kinh t</span>ế <span lang=\"VI\">tư nhân trở thành một\nđộng lực quan trọng của nền kinh t</span>ế <span lang=\"VI\">thị trường định hướng\nxã hội chủ nghĩa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chương trình số 219/CTr-UBND ngày\n15/7/2016 của UBND tỉnh về thực hiện Nghị quyết số 19-2016/NQ-CP và Nghị quyết\ns</span>ố <span lang=\"VI\">35/NQ-CP gắn với nâng cao Chỉ số PCI năm 2016 - 2017, định\như</span>ớ<span lang=\"VI\">ng đến năm 2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- K</span>ế <span lang=\"VI\">hoạch số\n116/KH-UBND ngày 31/3/2017 của UBND tỉnh về thực hiện Nghị quyết s</span>ố <span lang=\"VI\">19-2017/NQ-CP ngày 06/02/2017 c</span>ủ<span lang=\"VI\">a Chính phủ về tiếp\ntục thực hiện nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng\ncao năng lực cạnh tranh quốc gia năm 2017, định hướng đ</span>ế<span lang=\"VI\">n\nnăm 2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kế hoạch số 208/KH-UBND ngày\n02/7/2018 của UBND t</span>ỉ<span lang=\"VI\">nh về thực hiện Nghị quyết s</span>ố <span lang=\"VI\">19-2018/NQ-CP ngày 15/5/2018 của Ch</span>í<span lang=\"VI\">nh phủ về t</span>iế<span lang=\"VI\">p tục thực hiện nhiệm vụ, gi</span>ả<span lang=\"VI\">i pháp chủ yếu cải\nthiện môi trường k</span>i<span lang=\"VI\">nh doanh, nâng cao năng lực cạnh tranh\nquốc g</span>i<span lang=\"VI\">a năm 2018 và những năm tiếp theo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- K</span>ế <span lang=\"VI\">hoạch số\n126/KH-UBND ngày 07/5/2019 của UBND t</span>ỉ<span lang=\"VI\">nh về triển khai Nghị\nquyết s</span>ố <span lang=\"VI\">02/NQ-CP của Chính phủ về tiếp tục thực hiện những\nnhiệm vụ, giải pháp chủ yếu cải thiện môi trường k</span>i<span lang=\"VI\">nh\ndoanh, nâng cao năng lực cạnh tranh quốc gia năm 2019 và định hướng đ</span>ế<span lang=\"VI\">n năm 2021.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Văn bản số 4746/UBND-KT1 ngày\n31/7/2017 của UBND tỉnh về triển khai thực hiện Ch</span>ỉ <span lang=\"VI\">thị số\n26/CT-TTg ngày 06/6/2017 của Thủ tướng Chính phủ về tiếp tục triển khai hiệu quả\nNghị quyết số 35/NQ-CP ngày 16/5/2016 theo t</span>i<span lang=\"VI\">nh thần Chính\nphủ đồng hành cùng doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Văn bản số 2622/UBND-KT</span>1<span lang=\"VI\"> ngày 11/5/2018 của UBND tỉnh về t</span>iế<span lang=\"VI\">p tục cải thiện\nmôi trường đầu tư kinh doanh, nâng cao năng lực cạnh tranh cấp t</span>ỉ<span lang=\"VI\">nh.</span></p>\n\n</div>\n\n<div id=\"ftn2\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref2\" title=\"\"><span lang=\"VI\">2</span></a>\n<span lang=\"VI\">- Nghị quyết s</span>ố <span lang=\"VI\">87/2018/NQ-HĐND ngày\n18/7/2018 của HĐND tỉnh về Quy định một s</span>ố <span lang=\"VI\">chính sách hỗ\ntrợ thành lập m</span>ớ<span lang=\"VI\">i hộ kinh doanh và doanh nghiệp trên địa\nbàn tỉnh Hà Tĩnh;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghị quyết số 86/2018/NQ-HĐND ngà</span>y\n<span lang=\"VI\">18/7/2018 của HĐND tỉnh về một số chính sách phát triển công nghiệp,\ntiểu th</span>ủ <span lang=\"VI\">công nghiệp t</span>ỉ<span lang=\"VI\">nh Hà Tĩnh đến\nn</span>ă<span lang=\"VI\">m 2025 và những năm tiếp theo;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghị quyết s</span>ố<span lang=\"VI\">\n91/2018/NQ-HĐND ngày 18/7/2018 c</span>ủ<span lang=\"VI\">a HĐND tỉnh về một s</span>ố<span lang=\"VI\"> chính sách hỗ trợ khởi nghiệp đổi mới sáng tạo tỉnh Hà Tĩnh đến năm\n2025 và những năm ti</span>ế<span lang=\"VI\">p theo;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghị quyết s</span>ố<span lang=\"VI\">\n123/2018/NQ-HĐND ng</span>à<span lang=\"VI\">y 13/12/2018 của HĐND t</span>ỉ<span lang=\"VI\">nh về một s</span>ố <span lang=\"VI\">chính sách khuy</span>ế<span lang=\"VI\">n\nkhích ph</span>á<span lang=\"VI\">t triển nông nghiệp, nông thôn và cơ chế xây d</span>ự<span lang=\"VI\">ng nông thôn m</span>ớ<span lang=\"VI\">i, đô thị tỉnh Hà Tĩnh giai đoạn\n2019 - 2020;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghị quyết s</span>ố <span lang=\"VI\">81/2017/NQ-HĐND\nngày 13/12/2017 của HĐND tỉnh về Quy định một s</span>ố <span lang=\"VI\">chính\nsách phát triển Du lịch Hà Tĩnh đến nă</span>m<span lang=\"VI\"> 2025 và </span>n<span lang=\"VI\">hững n</span>ă<span lang=\"VI\">m tiếp theo.</span></p>\n\n</div>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH HÀ TĨNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 385/KH-UBND\n\n_Hà Tĩnh__, ngày 15_ _tháng 11_ _năm 2019_\n\n**KẾ HOẠCH**\n\nTHỰC HIỆN QUYẾT ĐỊNH SỐ 1362/QĐ-TTG NGÀY 11/10/2019 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ VIỆC PHÊ DUYỆT KẾ HOẠCH PHÁT TRIỂN BỀN VỮNG DOANH NGHIỆP KHU VỰC TƯ NHÂN TRÊN ĐỊA BÀN TỈNH HÀ TĨNH ĐẾN NĂM 2025, TẦM NHÌN 2030\n\nThực hiện Quyết định số 1362/QĐ-TTg ngày 11/10/2019 của Thủ tướng Chính phủ về phê duyệt kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2025, tầm nhìn 2030; Ủy ban nhân dân tỉnh ban hành Kế hoạch triển khai thực hiện trên địa bàn tỉnh với những nội dung sau:\n\n**I. MỤC ĐÍCH, YÊU CẦU**\n\n1\\. Thực hiện quán triệt, tuyên truyền sâu rộng quan điểm phát triển bền vững doanh nghiệp khu vực tư nhân đến các cấp, các ngành, cộng đồng doanh nghiệp, cán bộ, đảng viên và nhân dân về tầm quan trọng của việc phát triển bền vững doanh nghiệp khu vực tư nhân trong giai đoạn hiện nay.\n\n2\\. Cụ thể hóa các mục tiêu, nhiệm vụ và giải pháp chủ yếu trong Quyết định số 1362/QĐ-TTg ngày 11/10/2019 của Thủ tướng Chính phủ, đảm bảo phù hợp với điều kiện thực tế của tỉnh để triển khai kịp thời, khả thi.\n\n**II. MỤC TIÊU**\n\n1. Mục tiêu tổng quát: Thúc đẩy doanh nghiệp khu vực tư nhân tăng trưởng chất lượng và hiệu quả, tạo nền tảng vững chắc, động lực quan trọng cho phát triển kinh tế - xã hội nhanh, bền vững.\n\n2\\. Mục tiêu cụ thể:\n\na) Nâng cao chất lượng, hiệu quả hoạt động của các doanh nghiệp khu vực tư nhân, phấn đấu có ít nhất 15.000 doanh nghiệp vào năm 2025 và 20.000 doanh nghiệp vào năm 2030.\n\nb) Thúc đẩy đổi mới sáng tạo và tăng cường liên kết trong doanh nghiệp khu vực tư nhân; phấn đấu tăng tỷ trọng đóng góp của khu vực kinh tế tư nhân vào GRDP để đến năm 2025 đạt khoảng 65% và đến năm 2030 đạt khoảng 70%.\n\n**III. NHIỆM VỤ VÀ GIẢI PHÁP**\n\n**_1\\. Nhóm giải pháp 1: Tiếp tục đẩy mạnh cải thiện môi trường đầu tư kinh doanh nhằm đảm bảo duy trì niềm tin và tăng cường đầu tư kinh doanh bền vững của doanh nghiệp khu vực tư nhân_**\n\na) Các sở, ban, ngành cấp tỉnh, UBND huyện, thị xã, thành phố tập trung triển khai quyết liệt, nghiêm túc, hiệu quả các nhiệm vụ được giao tại các Chương trình, Kế hoạch hành động và văn bản chỉ đạo thực hiện của UBND tỉnh về nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, hỗ trợ phát triển doanh nghiệp[1](#_ftn1).\n\nb) Sở Kế hoạch và Đầu tư: Chủ trì, tổng hợp đánh giá tình hình thực hiện Nghị quyết số 35/NQ-CP ngày 16/5/2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến năm 2020 và đề xuất, kiến nghị giải pháp hỗ trợ, phát triển doanh nghiệp đến năm 2025, tầm nhìn 2030 trên địa bàn tỉnh.\n\nc) Sở Công thương:\n\n\\- Triển khai thực hiện có hiệu quả Quyết định số 76/QĐ-TTg ngày 11/01/2016 của Thủ tướng Chính phủ Phê duyệt Chương trình hành động quốc gia về sản xuất và tiêu dùng bền vững đến năm 2020, tầm nhìn đến năm 2030;\n\n\\- Nâng cao hiệu quả công tác xúc tiến thương mại, mở rộng cơ hội và tìm kiếm thị trường tiêu thụ ổn định cho sản phẩm; cung cấp thông tin về thị trường xuất, nhập khẩu để các doanh nghiệp tiếp cận thuận lợi.\n\n\\- Đẩy mạnh thực hiện Cuộc vận động Người Việt Nam ưu tiên dùng hàng Việt Nam; triển khai có hiệu quả Kế hoạch số 94/KH-UBND ngày 04/4/2019 của UBND tỉnh về triển khai các hoạt động xúc tiến thương, mại gắn với cuộc vận động “Người Việt Nam ưu tiên dùng hàng Việt Nam” và Chương trình “Mỗi xã một sản phẩm” đến năm 2025.\n\nd) Sở Tài nguyên và Môi trường:\n\n\\- Chủ trì, phối hợp với các sở, ngành, địa phương tiếp tục nghiên cứu, góp ý Dự thảo Luật Sửa đổi, bổ sung Luật Đất đai năm 2013, báo cáo UBND tỉnh để gửi Bộ Tài nguyên và Môi trường nhằm tháo gỡ các nội dung chồng chéo, vướng mắc thực tiễn đang gặp phải.\n\n\\- Phối hợp rà soát, đánh giá thực thi các quy định về quy chuẩn, tiêu chuẩn, quy định tuân thủ bảo vệ môi trường trong khu vực doanh nghiệp và đề xuất sửa đổi các quy định về tuân thủ pháp luật môi trường, tạo điều kiện thuận lợi cho doanh nghiệp, đồng thời có giải pháp nâng cao hiệu quả công tác quản lý nhà nước về môi trường.\n\ne) Sở Xây dựng: Nghiên cứu, xây dựng, ban hành các văn bản quy định về quản lý đầu tư các dự án phát triển nhà ở, qua đó, tạo hành lang pháp lý rõ ràng để khuyến khích các nhà đầu tư thực hiện.\n\nf) Sở Văn hóa Thể thao và Du lịch;\n\n\\- Tiếp tục thực hiện Nghị quyết số 92/NQ-CP ngày 08/12/2014 của Thủ tướng Chính phủ về một số giải pháp đẩy mạnh phát triển du lịch Việt Nam trong thời kỳ mới theo hướng tập trung tháo gỡ khó khăn cho các doanh nghiệp hoạt động kinh doanh lữ hành và cơ sở lưu trú du lịch;\n\n\\- Triển khai thực hiện Chỉ thị số 18/CT-TTg ngày 04/9/2013 của Thủ tướng Chính phủ về tăng cường công tác quản lý môi trường du lịch, bảo đảm an toàn, an ninh cho khách du lịch và Chỉ thị số 14/CT-TTg ngày 02/7/2015 của Thủ tướng Chính phủ về việc tăng cường hiệu lực quản lý nhà nước, tập trung khắc phục yếu kém, thúc đẩy phát triển du lịch.\n\n\\- Thiết lập đường dây nóng trong việc tiếp nhận thông tin, giải quyết yêu cầu, khiếu nại, đảm bảo quyền và lợi ích chính đáng của tổ chức, cá nhân kinh doanh du lịch và khách du lịch.\n\ng) Sở Thông tin và Truyền thông:\n\n\\- Xây dựng và tổ chức thực hiện Chương trình truyền thông dành cho doanh nghiệp khu vực tư nhân để vừa hiểu biết, triển khai thực hiện nghiêm túc các nội dung chỉ đạo của cấp Trung ương, tỉnh vừa để các doanh nghiệp có điều kiện tự khẳng định mình trong cạnh tranh, hội nhập.\n\n\\- Phối hợp với Trung tâm Hỗ trợ PTDN và XTĐT tỉnh: Tăng cường hiệu quả tiếp cận thông tin cho các doanh nghiệp bằng cách trên Cổng thông tin điện tử của tỉnh, nâng cấp “Diễn đàn Doanh nghiệp hỏi - Cơ quan Nhà nước trả lời” đảm bảo doanh nghiệp nói chung và doanh nghiệp khu vực tư nhân có thể tương tác trực tiếp trên Diễn đàn đối với các kết quả xử lý, giải quyết, trả lời của cơ quan quản lý nhà nước; xây dựng 01 chuyên mục để đăng tải phục vụ doanh nghiệp khai thác, nghiên cứu; nâng cấp Chuyên mục hỗ trợ pháp lý cho doanh nghiệp.\n\nh) Trung tâm Hỗ trợ phát triển doanh nghiệp và Xúc tiến đầu tư tỉnh:\n\n\\- Hàng năm xây dựng kế hoạch và tổ chức các lớp đào tạo, tập huấn, bồi dưỡng chuyên môn, nghiệp vụ, quản trị doanh nghiệp, khởi nghiệp; phổ biến và tuyên truyền các quy định, cơ chế chính sách của Trung ương, Tỉnh đến với doanh nghiệp, nhà đầu tư;\n\n\\- Triển khai hoạt động kết nối, hỗ trợ doanh nghiệp, nhà đầu tư trong hoạt động đầu tư, sản xuất, kinh doanh; đầu mối hỗ trợ, tư vấn, cung cấp thông tin cho doanh nghiệp, nhà đầu tư về lựa chọn địa điểm đầu tư, thực hiện các thủ tục đầu tư, chính sách của Tỉnh và các thông tin khác theo nhu cầu của doanh nghiệp; hỗ trợ, cung cấp thông tin cho các doanh nghiệp, nhà đầu tư về việc tiếp cận các nguồn lực đầu tư, các chương trình ứng dụng khoa học công nghệ mới vào hoạt động sản xuất, kinh doanh.\n\n**_2\\. Nhóm giải pháp 2: Khuyến khích doanh nghiệp áp dụng các mô hình kinh doanh bền vững, công nghệ sản xuất sạch hơn, sử dụng hiệu quả tài nguyên thiên nhiên, bảo vệ môi trường_**\n\na) Sở Kế hoạch và Đầu tư: Chủ trì, phối hợp với các sở, ngành, địa phương nghiên cứu xây dựng nội dung chương trình hỗ trợ, khuyến khích doanh nghiệp khu vực tư nhân áp dụng các mô hình kinh doanh bền vững, công nghệ sản xuất sạch hơn, sử dụng tài nguyên hiệu quả và bảo vệ môi trường trên địa bàn Hà Tĩnh giai đoạn 2021 - 2025 tầm nhìn đến năm 2030; báo cáo UBND tỉnh.\n\nb) Sở Tài nguyên và Môi trường: Tăng cường kiểm tra việc thực hiện các quy định về bảo vệ môi trường đối với các doanh nghiệp theo quy định của pháp luật về bảo vệ môi trường; theo dõi tổng hợp tỷ lệ khu công nghiệp, cụm công nghiệp có hệ thống xử lý nước thải tập trung được quan trắc tự động, kết nối trực tuyến với cơ quan quản lý môi trường vận hành đạt yêu cầu về môi trường; thống kê theo dõi tỷ lệ khu, cụm công nghiệp có hệ thống xử lý nước thải tập trung,...\n\nc) Sở Xây dựng:\n\n\\- Tiếp tục thực hiện có hiệu quả Kế hoạch số 277/KH-UBND ngày 25/8/2016 của UBND tỉnh về tăng cường sử dụng vật liệu xây không nung và lộ trình giảm dần, sử dụng gạch đất sét nung trên địa bàn tỉnh Hà Tĩnh theo Chỉ thị số 10/CT-TTg ngày 16/4/2010 của Thủ tướng Chính phủ; có giải pháp khuyến khích sử dụng vật liệu xây không nung vào công trình xây dựng trên địa bàn tỉnh.\n\n\\- Khuyến khích sử dụng tro xỉ của Nhà máy nhiệt điện Vũng Áng 1 và Nhà máy gang thép Formosa theo hướng chỉ đạo của Thủ tướng Chính phủ tại Quyết định số 452/QĐ-TTg ngày 12/4/2017 phê duyệt Đề án đẩy mạnh xử lý, sử dụng tro, xỉ, thạch cao của các nhà máy nhiệt điện, nhà máy hóa chất, phân bón làm nguyên liệu sản xuất vật liệu xây dựng vào trong các công trình xây dựng.\n\nd) Sở Nông nghiệp và Phát triển nông thôn: Tập trung triển khai Kế hoạch cơ cấu lại nông nghiệp của tỉnh đến năm 2020 và những năm tiếp theo, với trọng tâm là kêu gọi, khuyến khích và tạo thuận lợi phát triển doanh nghiệp khu vực tư nhân lĩnh vực nông nghiệp; phát triển các hình thức hợp tác, liên kết sản xuất, tiêu thụ nông sản theo chuỗi giá trị, kết nối với hệ thống tiêu thụ toàn tỉnh, cả nước; phát triển đa dạng các loại hình liên kết giữa các doanh nghiệp với hộ nông dân, gia trại, trang trại, tổ hợp tác, hợp tác xã, doanh nghiệp vừa và nhỏ.\n\ne) Sở Văn hóa, Thể thao và Du lịch: Đề xuất và tổ chức triển khai thực hiện các biện pháp quản lý di tích gắn với bảo tồn, phát huy giá trị di sản với phát triển du lịch; phát huy giá trị nghệ thuật truyền thống phục vụ phát triển du lịch đặc biệt là dân ca ví giặm.\n\n**_3\\. Nhóm giải pháp 3: Thúc đẩy khởi nghiệp sáng tạo và đẩy mạnh thực hiện hiệu quả các chính sách hỗ trợ doanh nghiệp nhỏ và vừa_**\n\na) Các sở, ban, ngành cấp tỉnh, UBND huyện, thị xã, thành phố tập trung triển khai quyết liệt, nghiêm túc và hiệu quả các nhiệm vụ được giao tại các Nghị quyết, Quyết định của HĐND, UBND tỉnh về các cơ chế chính sách, đề án hỗ trợ doanh nghiệp nhỏ và vừa, thúc đẩy khởi nghiệp sáng tạo[2](#_ftn2).\n\nb) Sở Kế hoạch và Đầu tư:\n\n\\- Nghiên cứu, tham mưu bổ sung các các ngành nghề ưu đãi đầu tư trên địa bàn tỉnh trong quá trình sửa đổi, bổ sung Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ, như: Đầu tư kinh doanh chuỗi phân phối sản phẩm của doanh nghiệp nhỏ và vừa; đầu tư kinh doanh cơ sở ươm tạo doanh nghiệp nhỏ và vừa; đầu tư kinh doanh khu làm việc chung cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo và đầu tư kinh doanh cơ sở kỹ thuật hỗ trợ doanh nghiệp nhỏ và vừa.\n\n\\- Phối hợp với các sở, ngành có liên quan tham mưu UBND tỉnh Chương trình hỗ trợ doanh nghiệp nhỏ và vừa trên địa bàn Hà Tĩnh đoạn 2021 - 2025, tập trung hỗ trợ doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, doanh nghiệp nhỏ và vừa tham gia cụm liên kết, chuỗi giá trị.\n\nc) Sở Khoa học và Công nghệ: Chủ trì phối hợp với các đơn vị liên quan tham mưu, xây dựng hoặc xã hội hóa đầu tư Trung tâm khởi nghiệp sáng tạo để thúc đẩy, kết nối và huy động nguồn lực xã hội cho hoạt động khởi nghiệp sáng tạo trên địa bàn tỉnh.\n\n**_4\\. Nhóm giải pháp 4: Hỗ trợ nâng cao năng suất lao động trong doanh nghiệp; phát triển nguồn nhân lực chất lượng cao, nâng cao năng lực quản lý, quản trị doanh nghiệp_**\n\na) Sở Công thương:\n\n\\- Đẩy mạnh công tác đào tạo, tập huấn về đề án thương mại điện tử; hỗ trợ đào tạo, tập huấn kiến thức về thương mại điện tử cho các doanh nghiệp, hỗ trợ xây dựng phát triển thương mại điện tử theo Nghị định số 123/2018/NQ-HĐND ngày 13/12/2018 của HĐND tỉnh về một số chính sách khuyến khích phát triển nông nghiệp, nông thôn và cơ chế xây dựng nông thôn mới, đô thị tỉnh Hà Tĩnh.\n\n\\- Xây dựng, phát triển bộ thương hiệu trực tuyến cho các sản phẩm chủ lực tỉnh Hà Tĩnh; giải pháp truy xuất nguồn gốc cho các sản phẩm đặc trưng của Hà Tĩnh.\n\nb) Sở Lao động Thương binh và Xã hội:\n\n\\- Đổi mới, nâng cao chất lượng công tác đào tạo nghề; gắn chương trình đào tạo nghề với nhu cầu thực tế của doanh nghiệp. Phổ biến, tuyên truyền hệ thống thông tin thị trường lao động, các hoạt động của sản giao dịch việc làm để doanh nghiệp, người dân, người học nắm bắt và có cơ hội gặp nhau ở thị trường đào tạo, thị trường lao động. Khảo sát, đánh giá nhu cầu đào tạo của các doanh nghiệp trên địa bàn tỉnh; xây dựng kế hoạch và phối hợp với các trường đào tạo, dạy nghề để đào tạo nghề cho các doanh nghiệp.\n\n\\- Triển khai tốt các hoạt động đào tạo, hỗ trợ doanh nghiệp về an toàn lao động. Phối hợp với Bảo hiểm xã hội tỉnh tuyên truyền, hướng dẫn các doanh nghiệp thực hiện chính sách bảo hiểm xã hội, bảo hiểm y tế cho người lao động; kiểm tra xử lý đối với các trường hợp vi phạm, đảm bảo thực hiện tốt chính sách cho người lao động.\n\nc) Sở Giáo dục và Đào tạo:\n\n\\- Xây dựng phát triển hình thức liên kết đào tạo giữa nhà trường với các cơ sở, doanh nghiệp; giáo dục ở bậc đại học, cần gắn chặt với nhu cầu xã hội thông qua các đơn đặt hàng của các cơ sở thực tế, bảo đảm cân đối giữa các ngành, nghề; đẩy mạnh công tác hướng nghiệp từ bậc phổ thông đến bậc đại học.\n\n\\- Nghiên cứu tham mưu xây dựng Chương trình, kế hoạch thu hút các chuyên gia trong và ngoài nước, người Việt Nam ở nước ngoài tham gia vào các hoạt động, chương trình đào tạo và nghiên cứu khoa học, công nghệ tại trường Đại học Hà Tĩnh và các cơ sở giáo dục khác.\n\n**_5\\. Nhóm giải pháp 5: Khuyến khích doanh nghiệp khu vực tư nhân ứng dụng khoa học công nghệ, khai thác cơ hội của cách mạng công nghiệp 4.0_**\n\na) Sở Khoa học và Công nghệ:\n\n\\- Hỗ trợ doanh nghiệp xây dựng, phát triển thương hiệu và bảo hộ quyền sở hữu trí tuệ; tăng cường tích hợp và chia sẻ nguồn thông tin cơ sở về quyền sở hữu trí tuệ (SHTT), nâng cao năng lực dịch vụ công cộng thông tin sở hữu trí tuệ, cung cấp thông tin sở hữu trí tuệ chính xác, kịp thời, xây dựng cơ sở hạ tầng công cộng dịch vụ sở hữu trí tuệ.\n\n\\- Tiếp tục triển khai có hiệu quả Nghị quyết số 141/2015/NQ-HĐND ngày 17/07/2015 của HĐND tỉnh về việc thông qua Đề án hỗ trợ phát triển tài sản trí tuệ tỉnh Hà Tĩnh, giai đoạn 2015 - 2020; Nghị quyết số 18/2016/NQ-HĐND ngày 24/09/2016 của HĐND tỉnh về phát triển thị trường và doanh nghiệp khoa học và công nghệ tỉnh Hà Tĩnh đến năm 2020 và những năm tiếp theo; nắm bắt thông tin về các loại công nghệ, thông tin về nhu cầu công nghệ để tạo môi trường thuận lợi cho cung - cầu gặp nhau;\n\nb) Sở Công thương: Kêu gọi, thu hút đầu tư, tạo điều kiện cho các nhà đầu tư thực hiện việc khảo sát, nghiên cứu đầu tư, các dự án điện năng lượng tái tạo (điện mặt trời, điện gió, khí sinh học, điện sinh khối...) đảm bảo chặt chẽ, đúng quy định, góp phần bổ sung nguồn điện và thực hiện hiệu quả chủ trương ưu tiên phát triển nguồn năng lượng tái tạo theo Quyết định số 2068/QĐ-TTg ngày 25/11/2015 của Thủ tướng Chính phủ phê duyệt chiến lược phát triển năng lượng tái tạo của Việt Nam đến năm 2030, tầm nhìn đến năm 2050. Phát triển thị trường điện cạnh tranh theo định hướng tại Quyết định số 63/2013/QĐ-TTg ngày 08/11/2013 của Thủ tướng Chính phủ quy định lộ trình, các điều kiện và cơ cấu ngành điện để hình thành và phát triển các cấp độ thị trường điện lực tại Việt Nam.\n\nc) Sở Kế hoạch và Đầu tư: Đầu mối thực hiện Nghị quyết số 52-NQ/TW ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động tham gia cuộc cách mạng công nghiệp lần thứ tư; tham mưu thực hiện Chiến lược quốc gia về cách mạng công nghiệp 4.0 sau khi Chính phủ ban hành.\n\nd) Sở Thông tin và Truyền thông:\n\n\\- Xây dựng và tổ chức thực hiện Chương trình hỗ trợ doanh nghiệp khu vực tư nhân đẩy mạnh ứng dụng công nghệ thông tin trong sản xuất kinh doanh dịch vụ, nâng cao chất lượng, hiệu quả, như: Hỗ trợ 1 số phần mềm trong quản trị doanh nghiệp, quản trị nguồn lực, quản lý sản phẩm...; đào tạo nâng cao kiến thức, kỹ năng về ứng dụng công nghệ thông tin; tham gia thương mại điện tử; xúc tiến đầu tư trên mạng internet,...\n\n\\- Nghiên cứu, ban hành các tiêu chí và xem xét việc khen thưởng các doanh nghiệp thuộc khối tư nhân trong ứng dụng công nghệ cao, công nghệ thông minh; đồng thời xây dựng giải pháp kết nối chuỗi logictics trên nền internet để các doanh nghiệp chủ động giải bài toán tối ưu ở các doanh nghiệp cùng nhóm hoặc tương tự nhóm ngành với nhau.\n\ne) Sở Nông nghiệp và Phát triển nông thôn: Tham mưu kế hoạch triển khai ứng dụng thành tựu về khoa học công nghệ: Công nghệ sinh học giống, chế phẩm sinh học phục vụ sản xuất, xử lý môi trường; công nghệ về bảo quản, chế biến sau thu hoạch; công nghệ thông tin trong nhận dạng thương hiệu, truy xuất nguồn gốc sản phẩm, tự động hóa một số khâu trong quá trình sản xuất nhằm mục đích nâng cao sức cạnh tranh của sản phẩm, thúc đẩy phân công lại lao động trong nông nghiệp, đưa sản xuất theo hướng chuyên sâu, chuyên canh, hàng hóa.\n\n**_6\\. Nhóm giải pháp 6: Cải cách hành chính, tăng cường vai trò của các tổ chức hiệp hội doanh nghiệp trong hỗ trợ doanh nghiệp khu vực tư nhân phát triển hiệu quả, bền vững._**\n\na) Cải cách thủ tục hành chính:\n\nCác sở, ban, ngành chủ động rà soát các bộ thủ tục hành chính theo từng lĩnh vực đã ban hành để tiếp tục thực hiện việc đơn giản hóa thủ tục, cắt giảm thời gian thực hiện; tận dụng tối đa tính kế thừa liên thông kết quả giải quyết thủ tục hành chính giữa các cơ quan quản lý nhà nước. Đẩy mạnh triển khai ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ công của các cơ quan hành chính nhà nước, triển khai xây dựng các dịch vụ công trực tuyến mức độ 3, mức độ 4 trên Cổng thông tin điện tử của tỉnh đảm bảo minh bạch, thuận lợi, giảm chi phí thực hiện cho người dân và doanh nghiệp.\n\nb) Tăng cường vai trò của các tổ chức hiệp hội doanh nghiệp:\n\n\\- Các sở, ban, ngành và địa phương chủ động thực hiện rà soát và đề xuất phương án thí điểm chuyển giao một số dịch vụ công thuộc phạm vi quản lý nhà nước cho các tổ chức, hiệp hội thực hiện giai đoạn 2021 - 2025 (số lượng dịch vụ công, lộ trình thực hiện cụ thể,...) gửi Sở Nội vụ trước Quý 1 năm 2021 để tổng hợp, báo cáo UBND tỉnh.\n\n\\- Sở Nội vụ: Tăng cường công tác quản lý đối với việc, hình thành và hoạt động của các tổ chức xã hội nghề nghiệp, hiệp hội ngành nghề đảm bảo đúng quy định.\n\n\\- Hiệp hội doanh nghiệp tỉnh: Tăng cường hỗ trợ đào tạo nâng cao năng lực cho doanh nghiệp hội viên nâng cao trách nhiệm xã hội trong cộng đồng doanh nghiệp khu vực tư nhân; Tích cực phối hợp với các cơ quan quản lý nhà nước để khuyến nghị chính sách khuyến khích doanh nghiệp tư nhân tham gia thực hiện các mục tiêu phát triển bền vững của quốc gia; nhân rộng các mô hình quản lý, quản trị hiệu quả, bền vững giúp giải quyết các thách thức phát triển bền vững; Tích cực tuyên truyền nâng cao nhận thức, tôn vinh các doanh nghiệp tư nhân có đóng góp lớn về bảo vệ môi trường, trách nhiệm xã hội.\n\n**IV. TỔ CHỨC THỰC HIỆN**\n\nĐể triển khai thực hiện Kế hoạch phát triển bền vững doanh nghiệp khu vực tư nhân đến năm 2030, các sở, ngành, đơn vị liên quan cần lồng ghép các nội dung, giải pháp phát triển bền vững doanh nghiệp khu vực tư nhân với các chương trình mục tiêu quốc gia, các dự án, các chương trình mục tiêu nhằm sử dụng hiệu quả các nguồn lực.\n\n1\\. Các sở, ban, ngành; UBND các huyện, thành phố, thị xã căn cứ nhiệm vụ được giao có trách nhiệm triển khai và tổ chức thực hiện kế hoạch này. Giám đốc các sở, Thủ trưởng các ban, ngành, Chủ tịch UBND các huyện, thành phố, thị xã trực tiếp chỉ đạo, chịu trách nhiệm trước Chủ tịch UBND tỉnh về việc thực hiện kế hoạch; thường xuyên kiểm tra, giám sát và đánh giá kết quả thực hiện kế hoạch; coi đây là nhiệm vụ ưu tiên hàng đầu của ngành mình, cấp mình và đơn vị mình.\n\n2\\. Sở Kế hoạch và Đầu tư là cơ quan đầu mối theo dõi, giám sát, đôn đốc, tổng hợp tình hình thực hiện Kế hoạch triển khai của UBND tỉnh hàng năm về tình hình thực hiện các mục tiêu, nhiệm vụ và giải pháp của Kế hoạch.\n\n3\\. UBND tỉnh đề nghị các hiệp hội doanh nghiệp, các doanh nghiệp trên địa bàn tích cực hợp tác, tăng cường đối thoại với các cấp chính quyền, tạo cơ chế thông tin hiệu quả, góp phần tạo lập môi trường kinh doanh thuận lợi để các doanh nghiệp sản xuất, kinh doanh ngày càng thành công, cùng đóng góp vào sự nghiệp xây dựng và phát triển tỉnh nhà./.\n\n**_Nơi nhận:  \n_**\\- Văn phòng Chính phủ;  \n\\- Bộ Kế hoạch và Đầu tư;  \n\\- TTr. Tỉnh ủy; TTr. HĐND tỉnh;  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Các sở, ban, ngành cấp tỉnh;  \n\\- UBND các huyện, thành phố, thị xã;  \n\\- Chánh VP, các Phó VP;  \n\\- Trung tâm TT-CB-TH tỉnh;  \n\\- Lưu:VT, KT1.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nDương Tất Thắng**\n\n  \n\n* * *\n\n[1](#_ftnref1) - Chương trình số 739-CTr/TU ngày 31/8/2017 của Tỉnh ủy về thực hiện Nghị quyết số 10-NQ/TW ngày 03/6/2017 của Ban Chấp hành Trung ương Đảng khóa XII về phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa.\n\n\\- Chương trình số 219/CTr-UBND ngày 15/7/2016 của UBND tỉnh về thực hiện Nghị quyết số 19-2016/NQ-CP và Nghị quyết số 35/NQ-CP gắn với nâng cao Chỉ số PCI năm 2016 - 2017, định hướng đến năm 2020.\n\n\\- Kế hoạch số 116/KH-UBND ngày 31/3/2017 của UBND tỉnh về thực hiện Nghị quyết số 19-2017/NQ-CP ngày 06/02/2017 của Chính phủ về tiếp tục thực hiện nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2017, định hướng đến năm 2020.\n\n\\- Kế hoạch số 208/KH-UBND ngày 02/7/2018 của UBND tỉnh về thực hiện Nghị quyết số 19-2018/NQ-CP ngày 15/5/2018 của Chính phủ về tiếp tục thực hiện nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2018 và những năm tiếp theo.\n\n\\- Kế hoạch số 126/KH-UBND ngày 07/5/2019 của UBND tỉnh về triển khai Nghị quyết số 02/NQ-CP của Chính phủ về tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2019 và định hướng đến năm 2021.\n\n\\- Văn bản số 4746/UBND-KT1 ngày 31/7/2017 của UBND tỉnh về triển khai thực hiện Chỉ thị số 26/CT-TTg ngày 06/6/2017 của Thủ tướng Chính phủ về tiếp tục triển khai hiệu quả Nghị quyết số 35/NQ-CP ngày 16/5/2016 theo tinh thần Chính phủ đồng hành cùng doanh nghiệp.\n\n\\- Văn bản số 2622/UBND-KT1 ngày 11/5/2018 của UBND tỉnh về tiếp tục cải thiện môi trường đầu tư kinh doanh, nâng cao năng lực cạnh tranh cấp tỉnh.\n\n[2](#_ftnref2) \\- Nghị quyết số 87/2018/NQ-HĐND ngày 18/7/2018 của HĐND tỉnh về Quy định một số chính sách hỗ trợ thành lập mới hộ kinh doanh và doanh nghiệp trên địa bàn tỉnh Hà Tĩnh;\n\n\\- Nghị quyết số 86/2018/NQ-HĐND ngày 18/7/2018 của HĐND tỉnh về một số chính sách phát triển công nghiệp, tiểu thủ công nghiệp tỉnh Hà Tĩnh đến năm 2025 và những năm tiếp theo;\n\n\\- Nghị quyết số 91/2018/NQ-HĐND ngày 18/7/2018 của HĐND tỉnh về một số chính sách hỗ trợ khởi nghiệp đổi mới sáng tạo tỉnh Hà Tĩnh đến năm 2025 và những năm tiếp theo;\n\n\\- Nghị quyết số 123/2018/NQ-HĐND ngày 13/12/2018 của HĐND tỉnh về một số chính sách khuyến khích phát triển nông nghiệp, nông thôn và cơ chế xây dựng nông thôn mới, đô thị tỉnh Hà Tĩnh giai đoạn 2019 - 2020;\n\n\\- Nghị quyết số 81/2017/NQ-HĐND ngày 13/12/2017 của HĐND tỉnh về Quy định một số chính sách phát triển Du lịch Hà Tĩnh đến năm 2025 và những năm tiếp theo.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

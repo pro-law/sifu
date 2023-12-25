@@ -1,0 +1,438 @@
+{
+  "title": "Quyết định 3396/2012/QĐ-UBND về Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn, an ninh thông tin trên Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước tỉnh Thanh Hóa",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 23/2011/TT-BTTTT quy định về quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "23/2011/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Minh Hồng"
+      ],
+      "issuedDate": "2011-08-11",
+      "effectiveDate": "2011-10-01",
+      "gazetteDate": "2011-08-26",
+      "gazetteNumber": "Từ số 465 đến số 466",
+      "status": "Hết hiệu lực: 05/12/2017"
+    },
+    {
+      "title": "Luật viễn thông năm 2009",
+      "id": "41/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-11-23",
+      "effectiveDate": "2010-07-01",
+      "gazetteDate": "2010-03-27",
+      "gazetteNumber": "Từ số 133 đến số 134",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Thông tư liên tịch 06/2008/TTLT-BTTTT-BCA về bảo đảm an toàn cơ sở hạ tầng và an ninh thông tin trong hoạt động bưu chính, viễn thông và công nghệ thông tin do Bộ Thông tin và Truyền thông - Bộ Công an ban hành",
+      "id": "06/2008/TTLT-BTTTT-BCA",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Công An, Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Văn Hưởng",
+        "Lê Nam Thắng"
+      ],
+      "issuedDate": "2008-11-28",
+      "effectiveDate": "2009-01-09",
+      "gazetteDate": "2008-12-25",
+      "gazetteNumber": "Từ số 695 đến số 696",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Pháp lệnh Bảo vệ bí mật Nhà nước năm 2000",
+      "id": "30/2000/PL-UBTVQH10",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2000-12-28",
+      "effectiveDate": "2001-04-01",
+      "gazetteDate": "2001-04-15",
+      "gazetteNumber": "Số 14",
+      "status": "Hết hiệu lực: 01/07/2020"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 35/2018/QĐ-UBND về Quy chế quản lý, vận hành, kết nối, sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của cơ quan nhà nước tỉnh Hòa Bình",
+      "id": "35/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hòa Bình",
+      "signers": [
+        "Nguyễn Văn Quang"
+      ],
+      "issuedDate": "2018-10-08",
+      "effectiveDate": "2018-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 30/2017/QĐ-UBND Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước trên địa bàn tỉnh Sóc Trăng",
+      "id": "30/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Ngô Hùng"
+      ],
+      "issuedDate": "2017-09-06",
+      "effectiveDate": "2017-09-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/09/2020"
+    },
+    {
+      "title": "Kế hoạch 152/KH-UBND năm 2015 về tuyên truyền, phố biến, nâng cao nhận thức và trách nhiệm về an toàn thông tin trên địa bàn tỉnh Thanh Hóa đến năm 2020",
+      "id": "152/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Phạm Đăng Quyền"
+      ],
+      "issuedDate": "2015-11-11",
+      "effectiveDate": "2015-11-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 16/2015/QĐ-UBND về Quy định quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin mạng diện rộng trên địa bàn tỉnh Hà Giang",
+      "id": "16/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Hà Giang",
+      "signers": [
+        "Đàm Văn Bông"
+      ],
+      "issuedDate": "2015-09-04",
+      "effectiveDate": "2015-09-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 48/2014/QĐ-UBND Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin mạng truyền số liệu chuyên dùng trong các cơ quan nhà nước tỉnh Vĩnh Phúc",
+      "id": "48/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Phùng Quang Hùng"
+      ],
+      "issuedDate": "2014-10-23",
+      "effectiveDate": "2014-11-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 30/KH-UBND năm 2014 về đảm bảo an toàn thông tin số của thành phố Hà Nội đến năm 2015",
+      "id": "30/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Thị Bích Ngọc"
+      ],
+      "issuedDate": "2014-01-24",
+      "effectiveDate": "2014-01-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 03/2014/QĐ-UBND về Quy chế quản lý, vận hành, sử dụng và đảm bảo an toàn an ninh trên mạng truyền số liệu chuyên dùng của cơ quan Đảng và Nhà nước trên địa bàn tỉnh Quảng Trị",
+      "id": "03/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Nguyễn Đức Cường"
+      ],
+      "issuedDate": "2014-01-14",
+      "effectiveDate": "2014-01-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/04/2020"
+    },
+    {
+      "title": "Quyết định 49/2013/QĐ-UBND về Quy chế bảo đảm an toàn thông tin số trong hoạt động của cơ quan nhà nước trên địa bàn tỉnh An Giang",
+      "id": "49/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Hồ Việt Hiệp"
+      ],
+      "issuedDate": "2013-12-31",
+      "effectiveDate": "2014-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 24/10/2017"
+    },
+    {
+      "title": "Quyết định 28/2013/QĐ-UBND ban hành Quy chế quản lý, vận hành và sử dụng Mạng truyền số liệu chuyên dùng trên địa bàn tỉnh Hà Nam",
+      "id": "28/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hà Nam",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2013-05-30",
+      "effectiveDate": "2013-06-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/09/2018"
+    },
+    {
+      "title": "Quyết định 13/2012/QĐ-UBND về Quy chế quản lý, vận hành và sử dụng Mạng truyền số liệu chuyên dùng của cơ quan Đảng, nhà nước trên địa bàn tỉnh Bạc Liêu",
+      "id": "13/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bạc Liêu",
+      "signers": [
+        "Vũ Văn Họa"
+      ],
+      "issuedDate": "2012-12-18",
+      "effectiveDate": "2012-12-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 23/10/2020"
+    },
+    {
+      "title": "Quyết định 20/2012/QĐ-UBND về Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên mạng truyền số liệu chuyên dùng tại cơ quan Đảng, Nhà nước trên địa bàn tỉnh Đắk Nông",
+      "id": "20/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Đắk Nông",
+      "signers": [
+        "Nguyễn Bốn"
+      ],
+      "issuedDate": "2012-11-16",
+      "effectiveDate": "2012-11-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/04/2019"
+    },
+    {
+      "title": "Quyết định 16/2012/QĐ-UBND về Quy chế quản lý, vận hành và sử dụng Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước và đoàn thể trên địa bàn tỉnh Cà Mau",
+      "id": "16/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Nguyễn Tiến Hải"
+      ],
+      "issuedDate": "2012-09-06",
+      "effectiveDate": "2012-09-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/09/2019"
+    },
+    {
+      "title": "Quyết định 484/2012/QĐ-UBND về Quy chế quản lý, vận hành, sử dụng và đảm bảo an toàn an ninh trên mạng Truyền số liệu chuyên dùng của các cơ quan Đảng và Nhà nước trên địa bàn tỉnh Hà Giang do Ủy ban nhân dân tỉnh Hà Giang ban hành",
+      "id": "484/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Hà Giang",
+      "signers": [
+        "Đàm Văn Bông"
+      ],
+      "issuedDate": "2012-03-29",
+      "effectiveDate": "2012-04-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/09/2019"
+    },
+    {
+      "title": "Quyết định 03/2012/QĐ-UBND Quy định về quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Bình Dương",
+      "id": "03/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Huỳnh Văn Nhị"
+      ],
+      "issuedDate": "2012-01-12",
+      "effectiveDate": "2012-01-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/03/2019"
+    },
+    {
+      "title": "Quyết định 70/2011/QĐ-UBND về Quy định quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên mạng truyền số liệu chuyên dùng tại cơ quan Đảng, Nhà nước và đoàn thể trên địa bàn tỉnh Đồng Nai do Ủy ban nhân dân tỉnh Đồng Nai ban hành",
+      "id": "70/2011/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Đinh Quốc Thái"
+      ],
+      "issuedDate": "2011-12-14",
+      "effectiveDate": "2011-12-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/12/2018"
+    }
+  ],
+  "id": "3396/2012/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Tỉnh Thanh Hóa",
+  "signers": [
+    "Trịnh Văn Chiến"
+  ],
+  "issuedDate": "2012-10-16",
+  "effectiveDate": "2012-10-26",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA5ADAAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH THANH HÓA<br>\n  </b><b><span lang=\"VI\">-------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>3396/2012/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Thanh Hóa</i><i><span lang=\"VI\">, ngày </span>16</i><i><span lang=\"VI\"> tháng </span>10</i><i><span lang=\"VI\"> năm </span>2012</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">VỀ\nVIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG VÀ BẢO ĐẢM AN TOÀN, AN NINH\nTHÔNG TIN TRÊN MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG CỦA CƠ QUAN ĐẢNG, NHÀ NƯỚC TỈNH\nTHANH HÓA.</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH THANH HÓA</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật T</span>ổ </i><i><span lang=\"VI\">chức Hội đồng nhân dân và </span>Ủ</i><i><span lang=\"VI\">y ban nhân dân ngày\n26 tháng 11 nám 2003;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Ban hành văn bản quy\nphạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ngày 03 tháng 12 năm\n2004;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Công nghệ thông tin\nngày 29 tháng 6 năm 2006;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Viễn thông ngày 23\ntháng 11 năm 2009;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Pháp lệnh số\n30/2000/PL-UBTVQH10 ngày 28 tháng 12 năm 2000 về bảo vệ bí mật Nhà nước;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 64/2007/NĐ-CP\nngày 10 tháng 4 năm 2007 của Chính phủ, về ứng dụng CNTT trong hoạt động của cơ\nquan Nhà nước;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư liên tịch số\n06/2008/TTLT/BTTTT-BCA ngày 28 tháng 11 năm 2008 c</span>ủ</i><i><span lang=\"VI\">a\nBộ Thông tin và Truyền thông và Bộ Công an, về b</span>ả</i><i><span lang=\"VI\">o\nđảm an toàn cơ sở hạ tầng và an ninh thông tin trong hoạt động bưu chính, viễn\nthông và công nghệ thông tin;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">C</span>ă</i><i><span lang=\"VI\">n cứ\nThông tư số 23/2011/TT-BTTTT ngày 11 tháng 8 năm 2011 của Bộ Thông tin và Truyền\nthông, quy định về việc quản lý, vận hành, s</span>ử </i><i><span lang=\"VI\">dụng\nvà bảo đảm an toàn thông tin trên mạng truyền số liệu chuyên dùng của các cơ\nquan Đảng, Nhà nước;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị của Giám đốc Sở Thông\ntin và Truyền thông tại Tờ trình số 524/TTr-STTTT ngày 17 tháng 8 năm 2012,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1</span></b></a><b><span lang=\"VI\">.</span></b><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết\nđịnh này Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn, an ninh thông\ntin trên Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước tỉnh Thanh\nHóa.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2</span></b></a><b><span lang=\"VI\">.</span></b><span lang=\"VI\"> <a name=\"dieu_2_name\">Quyết định này có hiệu\nlực thi hành sau 10 ngày kể từ ngày ký.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3</span></b></a><b><span lang=\"VI\">.</span></b><span lang=\"VI\"> <a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh,\nThủ trưởng các sở, ban, ngành cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành\nphố; Giám đốc Viễn thông Thanh Hóa; Thủ trưởng các đơn vị kết nối vào Mạng truyền\nsố liệu chuyên dùng của cơ quan Đảng, Nhà nước tỉnh Thanh Hóa; các tổ chức và\ncá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.</a></span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA5ADAAMQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i>&nbsp;</i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\">Nơi nhận:<br>\n  </span></i></b><span style=\"font-size:8.0pt\">- Bộ Thông tin và Truyền thông\n  (để B/c);<br>\n  - Cục Kiểm tra văn bản - Bộ Tư pháp (để B/c);<br>\n  - TT. Tỉnh ủy, TT. HĐND tỉnh (để B/c);<br>\n  - CT và các PCT UBND tỉnh;<br>\n  - Như điều 3 QĐ;<br>\n  - Lưu: VT, CNTT.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TM.\n  ỦY BAN NHÂN DÂN<br>\n  CHỦ TỊCH</span><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trịnh Văn Chiến</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">QUẢN LÝ, VẬN HÀNH, SỬ DỤNG VÀ BẢO ĐẢM AN TOÀN, AN NINH THÔNG TIN TRÊN MẠNG\nTRUYỀN SỐ LIỆU CHUYÊN DÙNG CỦA CƠ QUAN ĐẢNG, NHÀ NƯỚC TỈNH THANH HÓA.</span></a><span lang=\"VI\"><br>\n<i>(Ban hành kèm theo Quyết định số: </i></span><i>3396</i><i><span lang=\"VI\">/20I2/QĐ-</span>U</i><i><span lang=\"VI\">BND ngày </span>16</i><i><span lang=\"VI\">/</span>1</i><i><span lang=\"VI\">0/2012\ncủa </span>U</i><i><span lang=\"VI\">BND tỉnh Thanh </span>Hóa</i><i><span lang=\"VI\">)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"VI\">Chương </span>1.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"VI\">Điều 1. Phạm vi\nđỉều chỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quy chế này quy định về việc quản lý,\nvận hành, sử dụng và b</span>ả<span lang=\"VI\">o đảm an toàn, an ninh thông tin </span>tr<span lang=\"VI\">ên Mạng truyền s</span>ố <span lang=\"VI\">liệu chuyên dùng của cơ quan Đảng,\nNhà nước trên địa bàn tỉnh Thanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">Điều 2. Đối tượng\náp dụng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quy chế này áp dụng cho các tổ chức,\ncá nhân tham gia quản lý, vận hành, sử dụng và đảm bảo an toàn, an ninh thông\ntin </span>tr<span lang=\"VI\">ên mạng truyền số liệu chuyên dùng của các cơ quan Đảng,\nNhà nước trên địa bàn tỉnh Thanh Hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"VI\">Điều 3. Giải\nthích từ ngữ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong Quy chế này, các từ ngữ dưới\nđây được hiểu như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Mạng truyền số liệu chuyên dùng của\ncác cơ quan Đảng, Nhà nước tỉnh Thanh Hóa (sau đây viết tắt là Mạng TSLCD) là mạng\ntruyền dẫn tốc độ cao, sử dụng phương thức chuyển mạch nhãn đa giao thức trên nền\ngiao thức liên mạng (IP/MPLS) sử dụng riêng </span>tr<span lang=\"VI\">ong hoạt động\nứng dụng công nghệ thông tin của các cơ quan Đảng và Nhà nước </span>tr<span lang=\"VI\">ên địa bàn tỉnh do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) xây dựng,\nvận hành.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Mạng riêng ảo hay VPN (Virtual\nPrivate Network) là một mạng riêng s</span>ử d<span lang=\"VI\">ụng hệ thống mạng\ncông cộng (thường là Internet) để các đơn vị, cá nhân sử dụng từ xa có thể kết\nnối với các máy tính trong hệ thống LAN c</span>ủ<span lang=\"VI\">a đ</span>ơn <span lang=\"VI\">vị cần kết nối nhằm sử dụng và khai thác các tài nguyên trên máy tính\ntrong mạng LAN của đơn vị đó.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Đơn vị sử dụng Mạng TSLCD là các cơ\nquan thuộc hệ thống chính trị tại tỉnh Thanh H</span>óa <span lang=\"VI\">có điểm kết\nnối vào mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Thông tin được sử dụng, chia sẻ và\nlưu trữ trên Mạng TSLCD phải là những thông tin phục vụ cho hoạt động quản lý\nđiều hành và chuyên môn nghiệp vụ của đơn vị sử dụng Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Hệ thống thông tin là sự kết hợp của\nphần cứng, phần mềm và Mạng TSLCD được xây dựng và sử dụng để thu thập, tạo,\ntái tạo, phân phối và chia sẻ các dữ liệu, thông tin, tri thức nhằm phục vụ cho\ncác mục tiêu c</span>ủ<span lang=\"VI\">a các cơ quan Đảng, Nhà nước trên địa bàn tỉnh\nThanh H</span>óa<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">An toàn thông tin (ATTT): Bao gồm\ncác hoạt động quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông tin, nhằm bảo\nvệ, khôi phục các hệ thống, các dịch vụ và nội dung thông tin đối với các nguy\ncơ chủ quan hoặc khách quan. Việc bảo vệ thông tin, tài sản và con người trong\nhệ thống thông tin nhằm bảo đảm cho các hệ thống thực hiện đúng chức năng, phục\nvụ đúng đối tượng một cách sẵn sàng, chính xác và tin cậy. ATTT bao hàm các nội\ndung bảo vệ và bảo mật thông tin, an toàn dữ liệu, an toàn máy tính và an toàn\nmạng.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">An ninh thông tin: Là đảm bảo thông\ntin trên hệ thống thông tin được bảo mật, sẵn sàng và toàn vẹn.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">TCVN 7562: 2005: Tiêu chuẩn Việt\nNam về mã thực hành quản lý ATTT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">Chương </span>2.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUẢN LÝ VÀ VẬN\nHÀNH MẠNG TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">Điều 4. Nguyên tắc\nquản lý, vận hành và sử dụng Mạng TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Quản lý, vận hành và sử dụng Mạng\nTSLCD phải b</span>ả<span lang=\"VI\">o đ</span>ả<span lang=\"VI\">m tăng cường năng lực\nquản lý và khai thác tài nguyên mạng máy tính của cơ quan Đảng, Nhà nước; phát\nhuy tinh thần </span>tr<span lang=\"VI\">ách nhiệm, quyền hạn, nghĩa vụ và đảm bảo\nhiệu quả ứng dụng CNTT trong hoạt động của các đơn vị sử dụng Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Mạng TSLCD được quản lý, điều hành\ntập trung, thống nhất; bảo đảm an toàn, bảo mật và tính sẵn sàng cao trong quá\ntrình vận hành và sử dụng.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Mạng TSLCD phải đảm bảo hoạt động liên\ntục, thông suốt (24 giờ trong một ngày và 07 ngày </span>tr<span lang=\"VI\">ong một\ntuần) đảm bảo thông tin liên lạc.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Những thông tin chia sẻ, lưu trữ\nvà sử dụng trên hệ thống mạng TSLCD phải đảm bảo an toàn, an ninh thông tin và\ntuân thủ các quy định của Nhà nước về bưu chính, viễn thông, công nghệ thông\ntin và lưu trữ.</span></p>\n\n<p style=\"margin-top:6.0pt\">5. <span lang=\"VI\">Cước phí sử dụng Mạng TSLCD được\ntính theo khung giá của Bộ Thông tin và Truyền thông quy định và được bảo đảm từ\nnguồn ngân sách nhà nước cấp cho các đơn vị sử dụng Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">Điều 5. Danh mục\ndịch vụ cung cấp trên Mạng TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Các dịch vụ truyền số liệu và thuê\nkênh riêng sử dụng công nghệ kết nối mạng riêng ảo (VPN) gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Dịch vụ Intranet IP/MPLS VPN;</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Dịch vụ Ex</span>tr<span lang=\"VI\">anet\nIP/MPLS VPN;</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Dịch vụ Internet IP/MPLS VPN;</span></p>\n\n<p style=\"margin-top:6.0pt\">d<span lang=\"VI\">) Dịch vụ IP VPN truy nhập từ xa;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Dịch vụ VPN liên kết giữa các nhà\ncung cấp.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Dịch vụ hội nghị truyền hình.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Các dịch vụ giá </span>tr<span lang=\"VI\">ị gia tăng gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Dịch vụ truy nhập Internet;</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Dịch vụ trung tâm dữ liệu;</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Dịch vụ cho thuê chỗ trên máy chủ\nmạng;</span></p>\n\n<p style=\"margin-top:6.0pt\">d) <span lang=\"VI\">Dịch vụ máy chủ mạng;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Dịch vụ máy chủ thư điện tử;</span></p>\n\n<p style=\"margin-top:6.0pt\">e) <span lang=\"VI\">Dịch vụ thoại Vo</span>I<span lang=\"VI\">P.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Các dịch vụ khác theo hướng dẫn của\nBộ Thông tin và Truyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">Điều 6. Trách nhiệm\ncủa Sở Thông tin và Truyền thông</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Làm đầu mối quản lý toàn bộ các kết\nnối Mạng TSLCD trên địa bàn t</span>ỉ<span lang=\"VI\">nh. Chỉ đạo Viễn thông Thanh\nHóa vận hành và duy trì Mạng TSLCD </span>tr<span lang=\"VI\">ên địa bàn tỉnh theo\nquy định của Bộ Thông tin và Truyền thông và Tập đoàn Bưu chính Viễn thông Việt\nNam.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Chỉ đạo việc kết nối các mạng viễn\nthông khác trên địa bàn tỉnh phục vụ cơ quan Đảng, Nhà nước với Mạng TSLCD theo\nhướng dẫn của Bộ Thông tin và Truyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Hướng dẫn, đôn đốc các đơn vị sử dụng\nMạng TSLCD trên địa bàn tỉnh khai thác hiệu qu</span>ả <span lang=\"VI\">các dịch vụ\nđược cung cấp trên Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Tuyên truyền, phổ biến, hướng dẫn việc\nthực hiện các quy định của Nhà nước về sử dụng Mạng TSLCD cho các cơ quan Đảng,\nNhà nước trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\">5. <span lang=\"VI\">Chủ trì, phối hợp với Công an tỉnh\nthanh tra, kiểm </span>tr<span lang=\"VI\">a và xử lý các hành vi vi phạm pháp luật\ntheo th</span>ẩ<span lang=\"VI\">m quyền.</span></p>\n\n<p style=\"margin-top:6.0pt\">6. <span lang=\"VI\">Hàng năm, xây dựng kế hoạch t</span>ổ\n<span lang=\"VI\">chức tập huấn, đào tạo các kiến thức về qu</span>ả<span lang=\"VI\">n\nlý, vận hành, sử dụng và đảm bảo an toàn thông tin cho cán bộ phụ trách hoặc\nchuyên </span>tr<span lang=\"VI\">ách CNTT tại các đơn vị có kết nối vào mạng\nTSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">7. <span lang=\"VI\">Báo cáo định kỳ hàng năm, đột xuất\ncho </span>U<span lang=\"VI\">BND tỉnh, Bộ Thông tin và Truyền thông tình hình sử dụng\nMạng TSLCD trong hoạt động ứng dụng CNTT trên địa bàn t</span>ỉ<span lang=\"VI\">nh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"VI\">Điều 7. Trách nhiệm\ncủa Viễn thông Thanh H</span>óa</b></a><b><span lang=\"VI\">.</span></b></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Có trách nhiệm phối hợp với các\nđơn vị có liên quan:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Điều hành kết nối mạng đường trục với\nmạng truy cập các cấp từ cấp tỉnh tới cấp xã.</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Quản lý, </span>d<span lang=\"VI\">uy\ntrì, vận hành, khai thác, khắc phục sự cố, bảo dưỡng các thiết bị thuộc hệ thống\nMạng TSLCD đảm bảo kết nối thông suốt, liên tục </span>tr<span lang=\"VI\">ong phạm\nvi toàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Đảm bảo các yêu cầu về dung lượng,\ntốc độ, chất lượng dịch vụ mạng và an toàn, an ninh thông tin với đơn vị đ</span>ă<span lang=\"VI\">ng ký sử </span>d<span lang=\"VI\">ụng.</span></p>\n\n<p style=\"margin-top:6.0pt\">d) <span lang=\"VI\">Triển khai các giải pháp và hệ thống\nthiết bị dự phòng để bảo đảm cơ sở hạ tầng Mạng TSLCD hoạt động liên tục và an\ntoàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Phối hợp t</span>ổ <span lang=\"VI\">chức\ntập huấn, hướng dẫn sử dụng cho đ</span>ơn <span lang=\"VI\">vị sau khi </span>tr<span lang=\"VI\">iển khai lắp đặt mới vào Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Công bố các điểm đăng ký dịch vụ,\nđịa chỉ, số điện thoại nóng, hộp thư điện tử đ</span>ể <span lang=\"VI\">hỗ trợ kỹ\nthuật và giải quyết khiếu nại của các đơn vị sử dụng Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Xây dựng quy định chi tiết các nội\ndung hợp đồng mẫu và tiến hành thương thảo, ký kết hợp đồng với đơn vị sử dụng\nMạng TSLCD phục vụ công tác ứng dụng CNTT của các cơ quan Đảng và Nhà nước trên\nđịa bàn tỉnh do Viễn thông Thanh H</span>óa <span lang=\"VI\">cung cấp.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Trường hợp xảy ra sự cố đối với mạng\nđường trục hoặc các sự cố cần tổ chức ứng cứu thông tin, phải báo cáo ngay cho\nSở Thông tin và Truyền thông để nhận chỉ đạo, hỗ trợ kịp thời.</span></p>\n\n<p style=\"margin-top:6.0pt\">5. <span lang=\"VI\">Định kỳ báo cáo S</span>ở <span lang=\"VI\">Thông tin và Truyền thông (vào ngày 30/5 và 30/11 hàng n</span>ă<span lang=\"VI\">m) và báo cáo đột xuất bằng văn bản về tình hình hoạt động của mạng\nTSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b><span lang=\"VI\">Chương </span>3.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">SỬ DỤNG MẠNG\nTSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b><span lang=\"VI\">Điều 8. Sử dụng,\nchia sẻ và lưu trữ thông tin trên Mạng TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Thông tin thuộc danh mục bí mật\nnhà nước được truyền tải trên Mạng TSLCD phải tuân thủ pháp luật về bảo vệ bí mật\nnhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Việc sử dụng, chia sẻ và lưu trữ\nthông tin </span>tr<span lang=\"VI\">ên Mạng TSLCD phải tuân thủ các quy định của\npháp luật về viễn thông, công nghệ thông tin và lưu trữ.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Thông tin được sử dụng, chia sẻ và\nlưu trữ </span>tr<span lang=\"VI\">ên Mạng TSLCD phải là những thông tin phục vụ\ncho hoạt động quản lý điều hành và chuyên môn nghiệp vụ của đơn vị sử dụng Mạng\nTSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b><span lang=\"VI\">Điều 9. Trách nhiệm\ncủa đơn vị khi tham gia sử dụng Mạng TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Quản lý, khai thác và bảo vệ thiết\nbị mạng của điểm kết nối đặt tại cơ quan mình theo hợp đồng với đ</span>ơn <span lang=\"VI\">vị cung cấp dịch vụ mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Chịu trách nhiệm về nội dung,\nthông tin truyền đưa trên Mạng TSLCD theo đúng qu</span>y <span lang=\"VI\">định\npháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Không thay đổi kết nối, thông số\nthiết lập mạng của các thiết bị liên quan đến Mạng TSLCD không thuộc th</span>ẩ<span lang=\"VI\">m quyền, gây xung đột tài nguyên, ảnh hưởng đến việc vận hành hệ thống\nMạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Chịu trách nhiệm các vấn đề liên\nquan đến an toàn mạng khi kết nối Mạng TSLCD:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Xây dựng hệ thống bức tường lửa\n(fĩrewall) và phần mềm phòng chống virus, mã độc, thư rác... để bảo vệ hệ thống\nmạng nội bộ nhằm ngăn chặn các truy cập trái phép từ bên ngoài.</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Quản lý bộ tập trung người dùng mạng\nriêng ảo của cơ quan được thiết lập (nếu có).</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Quản lý các tên miền của đơn vị (nếu\ncó).</span></p>\n\n<p style=\"margin-top:6.0pt\">d) <span lang=\"VI\">Sở hữu và quản lý các chính sách kết\nnối Internet của riêng cơ quan thông qua Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Ghi lại các sự cố, lỗi xảy ra về kết\nnối Mạng TSLCD, về an toàn, bảo mật thông tin; trường hợp có sự cố nghiêm trọng\nvượt quá khả năng khắc phục của đơn vị phải báo cáo với điểm đăng ký dịch vụ gần\nnhất của Viễn thông Thanh Hóa để phối hợp khắc phục kịp thời, nhanh chóng.</span></p>\n\n<p style=\"margin-top:6.0pt\">e) <span lang=\"VI\">Quản trị và cài đặt địa chỉ IP\ntheo phân hoạch chung đã được cấp cho hệ thống mạng nội bộ của mình.</span></p>\n\n<p style=\"margin-top:6.0pt\">5. <span lang=\"VI\">Trong trường hợp có kế hoạch nâng\ncấp, bảo trì hệ thống mạng nội bộ có ảnh hưởng đến Mạng TSLCD, cần thông báo\ncho điểm đăng ký dịch vụ gần nhất của Viễn thông Thanh Hóa trước tối thiểu 05\nngày làm việc để bảo đảm phù hợp với quy hoạch tổng thể Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">6. <span lang=\"VI\">Thực hiện nghiêm các quy định về bảo\nvệ an toàn mạng và thông tin được truyền tải trên mạng TSLCD của Bộ Thông tin\n&amp; Truyền thông và Tập đoàn Bưu chính Viễn thông Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\">7. <span lang=\"VI\">Phải tuân thủ các văn b</span>ả<span lang=\"VI\">n quy phạm pháp luật, chính sách có liên quan của Nhà nước về viễn thông,\nvề quản lý và cấp phép cung cấp thông tin, thiết lập trang thông tin điện tử </span>tr<span lang=\"VI\">ên Internet, về chế độ bảo mật, an toàn, an ninh thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">8. <span lang=\"VI\">Phải trả chi phí sử dụng theo văn\nbản hướng dẫn và khung giá quy định của Bộ Thông tin và </span>tr<span lang=\"VI\">uyền\nthông. Kinh phí này do các đơn vị lập dự toán và được bố trí t</span>ừ <span lang=\"VI\">nguồn ngân sách hàng năm trên cơ sở tiết kiệm, hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\">9. <span lang=\"VI\">Cử cán bộ có chuyên môn về CNTT hoặc\nbộ phận chuyên trách về CNTT để quản trị, khai thác hiệu quả Mạng TSLCD; Hàng\nnăm bố trí kinh phí hỗ </span>tr<span lang=\"VI\">ợ cho cán bộ chuyên trách CNTT được\ntham gia các lớp bồi dưỡng, tập huấn nâng cao trình độ chuyên môn và khả năng xử\nlý các tình huống trong việc đảm bảo an toan, an ninh thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">10. <span lang=\"VI\">Báo cáo định kỳ hàng năm, đột xuất\ntình hình khai thác, sử dụng mạng TSLCD theo hướng dẫn c</span>ủ<span lang=\"VI\">a\nS</span>ở <span lang=\"VI\">Thông tin và Truyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b><span lang=\"VI\">Điều 10. Trách\nnhỉệm của cá nhân khi tham gia sử dụng Mạng TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Được khai thác các tài nguyên chia\nsẻ </span>tr<span lang=\"VI\">ên mạng để phục vụ cho công tác tại cơ quan, nhưng phải\nđảm bảo về chế độ bảo mật, an toàn, an ninh, đồng thời chịu trách nhiệm đối với\ncác thông tin cung cấp </span>tr<span lang=\"VI\">ên mạng.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Tuân thủ các quy định cụ thể về\ntruy nhập, khai thác sử dụng mạng. Không được tiết lộ mật khẩu truy cập các ứng\ndụng trên Mạng TSLCD cho cá nhân, đơn vị không có thẩm quyền.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Tuân thủ những quy định về quản lý\nvận hành và s</span>ử <span lang=\"VI\">dụng Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Khi có sự cố xảy </span>ra <span lang=\"VI\">phải thông báo ngay cho người có thẩm quyền, có </span>tr<span lang=\"VI\">ách\nnhiệm của đơn vị mình để kịp thời giải quyết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b><span lang=\"VI\">Chương </span>4.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">BẢO ĐẢM AN TOÀN,\nAN NINH MẠNG VÀ THÔNG TIN TRÊN MẠNG TSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b><span lang=\"VI\">Điều 11. Trách\nnhiệm của các đơn vị về đảm bảo an toàn, an ninh mạng và thông tin trên Mạng\nTSLCD</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Phải trang bị đầy đủ các kiến thức\ncơ bản về máy tính, mạng máy tính, bảo mật thông tin cho cán bộ, công chức,\nviên chức trước khi truy nhập và sử dụng hệ thống thông tin qua Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Có trách nhiệm phân b</span>ổ <span lang=\"VI\">nguồn lực đầu tư hợp lý để thiết lập hệ thống mạng nội bộ kết nối vào Mạng\nTSLCD theo tiêu chuẩn quy định của Nhà nước do Sở Thông tin và Truyền thông hướng\ndẫn nhằm đảm bảo an toàn, an ninh thông tin trong hoạt động ứng dụng công nghệ\nthông tin của đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Đối với cán bộ, công chức, viên chức\nnghỉ hưu, chuyển công tác hoặc chấm dứt hợp đồng thì cán bộ chuyên trách CNTT của\nđơn vị phải hủy bỏ quyền truy nhập vào hệ thống thông tin và thu hồi lại các\ntài liệu, hồ sơ, thông tin liên quan tới tài khoản bị hủy bỏ nhằm tránh tình trạng\ntruy cập trái phép vào hệ thống.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Tạo điều kiện cho cán bộ chuy</span>ê<span lang=\"VI\">n trách CNTT của đơn vị có điều kiện học tập, tiếp thu công nghệ, kiến\nthức an toàn bảo mật thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">5. <span lang=\"VI\">Phải t</span>ổ <span lang=\"VI\">chức\nquản lý các tài khoản của hệ thống thông tin qua Mạng TSLCD bao gồm: tạo mới,\nkích hoạt, sửa đ</span>ổ<span lang=\"VI\">i, vô hiệu hóa và loại bỏ các tài khoản,\nđồng thời tổ chức ki</span>ể<span lang=\"VI\">m </span>tr<span lang=\"VI\">a các tài\nkhoản của hệ thống thông tin ít nhất 01</span> l<span lang=\"VI\">ần/03 tháng.</span></p>\n\n<p style=\"margin-top:6.0pt\">6. <span lang=\"VI\">T</span>ổ <span lang=\"VI\">chức qu</span>ả<span lang=\"VI\">n lý tài khoản, phân quyền người sử dụng theo nhóm; Quy định về quyền hạn\nngười sử dụng, giới hạn về thời gian truy nhập hệ thống; N</span>ế<span lang=\"VI\">u liên tục đăng nhập sai vượt quá số lần quy định thì hệ thống tự động\nkhóa tài khoản hoặc cô lập tài khoản trong một khoảng thời gian nhất định trước\nkhi tiếp tục cho đăng nhập.</span></p>\n\n<p style=\"margin-top:6.0pt\">7. <span lang=\"VI\">Hệ thống thông tin phải ghi nhận\ncác sự kiện sau: quá </span>tr<span lang=\"VI\">ình đăng nhập, truy xuất, các thao\ntác cấu hình hệ thống; Đồng th</span>ờ<span lang=\"VI\">i ghi nhận đầy đủ các thông\ntin trong các bản ghi nhật ký để xác định những sự kiện nào đã xảy ra, nguồn gốc\nvà kết quả của sự kiện để có cơ chế bảo vệ và lưu giữ nhật ký trong một khoảng\nthời gian nhất định.</span></p>\n\n<p style=\"margin-top:6.0pt\">8. <span lang=\"VI\">Phải thiết lập, tổ chức theo dõi,\nkiểm soát tất cả các phương pháp truy nhập từ xa, truy nhập mạng không dây,\ntruy nhập có chức năng đặc quyền; t</span>ổ <span lang=\"VI\">chức sử dụng và mã\nhóa chứng thực để bảo vệ truy nhập tới hệ thống thông tin; ngăn chặn các sự cố\ngây ra do t</span>ấ<span lang=\"VI\">n công từ chối dịch vụ. Đồng thời tổ chức triển\nkhai cơ chế tự động giám sát và điều khiển các truy nhập từ xa.</span></p>\n\n<p style=\"margin-top:6.0pt\">9. <span lang=\"VI\">Đối với hệ thống thông tin cho\nphép truy nhập công cộng thì phải được bảo vệ b</span>ằ<span lang=\"VI\">ng cách\ntrang bị thiết bị chuyên dụng hoặc sử dụng tổng hợp các biện pháp kỹ thuật và\nthiết lập hệ thống dự phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\">10. <span lang=\"VI\">Trong việc sử dụng Mạng TSLCD, đ</span>ơn\n<span lang=\"VI\">vị phải quy định một số nội dung đảm bảo an toàn, an ninh thông\ntin như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Mục tiêu và phương hướng thực hiện\ncông tác đảm bảo an toàn, an ninh cho hệ thống thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Nguyên tắc phân loại và qu</span>ả<span lang=\"VI\">n lý mức độ ưu tiên đối với các tài nguyên c</span>ủ<span lang=\"VI\">a hệ\nthống thông tin (phần mềm, dữ liệu, trang thiết bị...).</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Quản lý phân quyền và quy định\ntrách nhiệm đối với từng cá nhân khi tham gia sử dụng hệ thống thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">d) <span lang=\"VI\">Quản lý và điều hành hệ thống máy\nchủ, thiết bị mạng, thiết bị bảo vệ mạng; việc lưu trữ, sao chép, truyền tải những\ntài liệu thuộc bí mật nhà nước, sử </span>d<span lang=\"VI\">ụng hộp thư điện tử,\nthiết bị tháo lắp (USB, thiết bị không dây, máy tính xách tay...).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Nguyên tắc sử dụng an toàn và hiệu\nquả đối với tất cả các cá nhân tham gia sử dụng hệ thống thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">e) <span lang=\"VI\">Báo cáo tổng hợp tình hình đảm bảo\nan toàn, an ninh thông tin và bảo mật hệ thống thông tin theo định kỳ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Nơi tiếp nhận thông tin, xử lý các\nsự cố hoặc nguy cơ mất an toàn, an ninh thông tin và bảo mật hệ thống thông\ntin.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Khi quy định về an toàn an ninh thông\ntin cho đơn vị phải tham khảo các tiêu chuẩn kỹ thuật quản lý ATTT theo quy định\nhiện hành (Tiêu chuẩn quốc gia TCVN 7562:2005...) để có sự lựa chọn áp dụng phù\nhợp cho đơn vị mình.</span></p>\n\n<p style=\"margin-top:6.0pt\">11. <span lang=\"VI\">Trách nhiệm của cán bộ chuyên\ntrách CNTT về an toàn, an ninh thông tin, bảo mật trên Mạng TSLCD:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Chịu trách nhiệm tham mưu và vận\nhành an toàn hệ thống thông tin của đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Cập nhật cấu hình chuẩn cho các\nthành phần của hệ thống khi tiến hành cài đặt, thiết lập cấu hình tối ưu cho\ncác thiết bị an toàn thông tin của hệ thống thông tin hoạt động đạt hiệu quả nhất.</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Thường xuyên sao lưu hệ thống\nthông tin và lưu trữ thông tin ở nơi an toàn. Đồng thời tổ chức kiểm tra thông\ntin sao lưu để đảm bảo tính sẵn sàng và toàn vẹn của thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">d) <span lang=\"VI\">T</span>ổ <span lang=\"VI\">chức triển\nkhai các biện pháp phòng, chống </span>l<span lang=\"VI\">ây nhiễm virus, mã độc và\nthư rác trong hệ thống thông tin; Sử dụng thiết bị, phần mềm để phát hiện, ngăn\nchặn, tiêu diệt virus, mã độc, thư rác được truyền tải bởi: Internet, tập tin\nđính kèm từ thư điện tử, thiết bị lưu trữ di động nhằm khai thác lỗ hổng của hệ\nthống thông tin. Đồng thời, cập nhật thường xuyên các phần mềm diệt virus, chống\nmã độc và thư rác sao cho phù hợp với quy trình quản lý cấu hình hệ thống thông\ntin.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Phòng tránh các rủi ro có thể xày\nra do truy cập, sử dụng trái phép; làm thay đ</span>ổ<span lang=\"VI\">i hoặc phá hủy\nhệ thống thông tin có liên quan tới hoạt động của đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\">e) <span lang=\"VI\">Tổng hợp báo cáo, đánh giá mức độ\nnghiêm </span>tr<span lang=\"VI\">ọng của các rủi ro có thể xảy ra và thực hiện các\nbiện pháp phòng chống các rủi ro.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b><span lang=\"VI\">Điều 12. Trách\nnhiệm của Sở Thông tin và Truyền thông</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Chỉ đạo, hướng dẫn các tổ chức, cá\nnhân và Viễn thông Thanh Hóa thực hiện các quy định của pháp luật về b</span>ả<span lang=\"VI\">o đảm an toàn mạng và thông tin trên Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Chủ trì, phối hợp với Công an tỉnh\nthanh tra, kiểm tra v</span>à <span lang=\"VI\">xử lý theo thẩm quyền các vi phạm\nquy định về an toàn, an ninh mạng và thông tin trên Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b><span lang=\"VI\">Điều 13. Trách\nnhiệm của Công an tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">Phối hợp với Sở Thông tin và Truyền\nthông, Viễn thông Thanh Hóa </span>tr<span lang=\"VI\">ong công tác bảo đảm an\ntoàn, an ninh thông tin trong sử dụng và khai thác Mạng TSLCD; kiểm tra và x</span>ử\n<span lang=\"VI\">lý vi phạm đối với các tổ chức, cá nhân vi phạm quy định về bảo đảm\nan ninh thông tin trong hoạt động của Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Chỉ đạo công an các đơn vị, địa\nphương phối hợp chặt chẽ với Sở Thông tin và Truyền thông, Viễn thông Thanh Hóa\nbảo đảm an toàn cơ sở hạ tầng; kiểm tra và xử lý đối với t</span>ổ <span lang=\"VI\">chức, cá nhân vi phạm quy định về bảo đảm an toàn cơ sở hạ tầng trong Mạng\nTSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Các đơn vị chuyên trách bảo vệ an\nninh quốc gia thuộc Công an tỉnh khi phát hiện các thông tin, tài liệu, dữ liệu,\nđồ vật thuộc Mạng TSLCD liên quan đến hoạt động xâm phạm an ninh quốc gia theo\nquy định tại Điều 3 Nghị định số 151/2005/NĐ-CP ngày 14/12/2005 của Chính phủ,\nvề quyền hạn, trách nhiệm của cơ quan và cán bộ chuyên trách bảo vệ an ninh quốc\ngia, phải thực hiện các quy định sau đây:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Yêu cầu tổ chức, cá nhân cung cấp\ncác thông tin, dữ liệu, số liệu, tài liệu, đồ vật liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Thực hiện theo thẩm quyền các biện\npháp thu giữ, sao chép thông tin, dữ liệu, số liệu, tài liệu, đồ vật, một phần\nhoặc toàn bộ hệ thống thiết bị liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\">c) <span lang=\"VI\">Ngăn cản việc truy nhập hệ thống\nthiết bị, mạng lưới và sử dụng dịch vụ.</span></p>\n\n<p style=\"margin-top:6.0pt\">d) <span lang=\"VI\">Hướng dẫn nghiệp vụ cho lực lượng\nbảo vệ của các t</span>ổ <span lang=\"VI\">chức quản lý, khai thác Mạng TSLCD phục\nvụ công tác ứng dụng CNTT của các cơ quan Đảng và Nhà nước trên địa bàn t</span>ỉ<span lang=\"VI\">nh.</span></p>\n\n<p style=\"margin-top:6.0pt\">đ<span lang=\"VI\">) Thực hiện các nhiệm vụ, quyền hạn\nkhác theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b><span lang=\"VI\">Điều 14. Trách\nnhiệm của Viễn thông Thanh H</span>óa</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. <span lang=\"VI\">T</span>ổ <span lang=\"VI\">chức thực\nhiện các biện pháp bảo đảm Mạng TSLCD đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật\nvề an toàn thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\">2. <span lang=\"VI\">Triển khai biện pháp bảo vệ vật lý\nmức độ cao nhất đối với các khu vực: quản </span>tr<span lang=\"VI\">ị, lưu trữ nội\ndung và lưu trữ dự phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\">3. <span lang=\"VI\">Triển khai các giải pháp, biện\npháp cần thiết để ngăn chặn việc sử dụng, lợi dụng mạng lưới, thiết bị, các\ncông cụ phần cứng, phần mềm đ</span>ể <span lang=\"VI\">cản trở, gây nhiễu, gây rối\nloạn, làm hư hỏng, hủy hoại hoạt động của Mạng TSLCD.</span></p>\n\n<p style=\"margin-top:6.0pt\">4. <span lang=\"VI\">Thường xuyên kiểm tra đánh giá về\nmức độ bảo vệ an toàn mạng và thông tin trên mạng, tiến hành những biện pháp\nphòng tránh, khắc phục kịp thời.</span></p>\n\n<p style=\"margin-top:6.0pt\">5. <span lang=\"VI\">Báo cáo ngay Sở Thông tin và Truyền\nthông để nhận chỉ đạo, hỗ trợ kịp thời </span>tr<span lang=\"VI\">ong trường hợp xảy\nra sự cố đối với mạng đường trục hoặc các sự cố cần t</span>ổ <span lang=\"VI\">chức\nứng cứu thông tin.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_5\"><b><span lang=\"VI\">Chương </span>5.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b><span lang=\"VI\">Điều 15. Trách\nnhiệm hướng dẫn, thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Thông tin và Truyền thông có </span>tr<span lang=\"VI\">ách nhiệm tuyên truyền, phổ biến, hướng dẫn và tổ chức </span>tr<span lang=\"VI\">iển khai thực hiện Quy chế này cho các cơ quan Đảng, Nhà nước trên địa\nbàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thủ trưởng các đơn vị sử dụng Mạng\nTSLCD, trong phạm vi chức năng, nhiệm vụ của mình, có trách nhiệm tổ chức triển\nkhai, sử dụng, khai thác hiệu quả và kiểm tra việc chấp hành tại đơn vị theo\nđúng nội dung quy định của Quy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b><span lang=\"VI\">Điều 16. Xử lý\nvi phạm</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các hành vi vi phạm gây ảnh hưởng đến\nan toàn Mạng TSLCD và an ninh thông tin truyền tải </span>tr<span lang=\"VI\">ên mạng\nTSLCD phải được phát hiện kịp thời và xử lý nghiêm minh theo quy định của pháp\nluật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b><span lang=\"VI\">Điều 17. Điều\nkhoản thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong quá trình thực hiện Quy chế\nnày, nếu có vướng mắc, khó khăn, các đơn vị quản lý, vận hành, sử dụng Mạng\nTSLCD và các cá nhân có liên quan phản ánh kịp thời về Sở Thông tin và Truyền\nthông để tổng hợp báo cáo </span>Ủy <span lang=\"VI\">ban nhân dân tỉnh xem xét,\nquyết định./.</span></p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH THANH HÓA  \n****\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 3396/2012/QĐ-UBND\n\n_Thanh Hóa__, ngày 16_ _tháng 10_ _năm 2012_\n\n**QUYẾT ĐỊNH**\n\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG VÀ BẢO ĐẢM AN TOÀN, AN NINH THÔNG TIN TRÊN MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG CỦA CƠ QUAN ĐẢNG, NHÀ NƯỚC TỈNH THANH HÓA.\n\n**ỦY BAN NHÂN DÂN TỈNH THANH HÓA**\n\n_Căn cứ Luật Tổ_ _chức Hội đồng nhân dân và Ủ__y ban nhân dân ngày 26 tháng 11 nám 2003;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ngày 03 tháng 12 năm 2004;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;_\n\n_Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;_\n\n_Căn cứ Pháp lệnh số 30/2000/PL-UBTVQH10 ngày 28 tháng 12 năm 2000 về bảo vệ bí mật Nhà nước;_\n\n_Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ, về ứng dụng CNTT trong hoạt động của cơ quan Nhà nước;_\n\n_Căn cứ Thông tư liên tịch số 06/2008/TTLT/BTTTT-BCA ngày 28 tháng 11 năm 2008 củ__a Bộ Thông tin và Truyền thông và Bộ Công an, về bả__o đảm an toàn cơ sở hạ tầng và an ninh thông tin trong hoạt động bưu chính, viễn thông và công nghệ thông tin;_\n\n_Că__n cứ Thông tư số 23/2011/TT-BTTTT ngày 11 tháng 8 năm 2011 của Bộ Thông tin và Truyền thông, quy định về việc quản lý, vận hành, sử_ _dụng và bảo đảm an toàn thông tin trên mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước;_\n\n_Xét đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số 524/TTr-STTTT ngày 17 tháng 8 năm 2012,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1****.** Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn, an ninh thông tin trên Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước tỉnh Thanh Hóa.\n\n**Điều 2****.** Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.\n\n**Điều 3****.** Chánh Văn phòng UBND tỉnh, Thủ trưởng các sở, ban, ngành cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố; Giám đốc Viễn thông Thanh Hóa; Thủ trưởng các đơn vị kết nối vào Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước tỉnh Thanh Hóa; các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_Nơi nhận:  \n_**\\- Bộ Thông tin và Truyền thông (để B/c);  \n\\- Cục Kiểm tra văn bản - Bộ Tư pháp (để B/c);  \n\\- TT. Tỉnh ủy, TT. HĐND tỉnh (để B/c);  \n\\- CT và các PCT UBND tỉnh;  \n\\- Như điều 3 QĐ;  \n\\- Lưu: VT, CNTT.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nTrịnh Văn Chiến**\n\n**QUY CHẾ**\n\nQUẢN LÝ, VẬN HÀNH, SỬ DỤNG VÀ BẢO ĐẢM AN TOÀN, AN NINH THÔNG TIN TRÊN MẠNG TRUYỀN SỐ LIỆU CHUYÊN DÙNG CỦA CƠ QUAN ĐẢNG, NHÀ NƯỚC TỈNH THANH HÓA._(Ban hành kèm theo Quyết định số:_ _3396__/20I2/QĐ-U__BND ngày 16__/1__0/2012 của U__BND tỉnh Thanh Hóa__)_\n\n**Chương 1.**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi đỉều chỉnh**\n\nQuy chế này quy định về việc quản lý, vận hành, sử dụng và bảo đảm an toàn, an ninh thông tin trên Mạng truyền số liệu chuyên dùng của cơ quan Đảng, Nhà nước trên địa bàn tỉnh Thanh Hóa.\n\n**Điều 2. Đối tượng áp dụng**\n\nQuy chế này áp dụng cho các tổ chức, cá nhân tham gia quản lý, vận hành, sử dụng và đảm bảo an toàn, an ninh thông tin trên mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Thanh Hóa.\n\n**Điều 3. Giải thích từ ngữ**\n\nTrong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n\n\\- Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước tỉnh Thanh Hóa (sau đây viết tắt là Mạng TSLCD) là mạng truyền dẫn tốc độ cao, sử dụng phương thức chuyển mạch nhãn đa giao thức trên nền giao thức liên mạng (IP/MPLS) sử dụng riêng trong hoạt động ứng dụng công nghệ thông tin của các cơ quan Đảng và Nhà nước trên địa bàn tỉnh do Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) xây dựng, vận hành.\n\n\\- Mạng riêng ảo hay VPN (Virtual Private Network) là một mạng riêng sử dụng hệ thống mạng công cộng (thường là Internet) để các đơn vị, cá nhân sử dụng từ xa có thể kết nối với các máy tính trong hệ thống LAN của đơn vị cần kết nối nhằm sử dụng và khai thác các tài nguyên trên máy tính trong mạng LAN của đơn vị đó.\n\n\\- Đơn vị sử dụng Mạng TSLCD là các cơ quan thuộc hệ thống chính trị tại tỉnh Thanh Hóa có điểm kết nối vào mạng TSLCD.\n\n\\- Thông tin được sử dụng, chia sẻ và lưu trữ trên Mạng TSLCD phải là những thông tin phục vụ cho hoạt động quản lý điều hành và chuyên môn nghiệp vụ của đơn vị sử dụng Mạng TSLCD.\n\n\\- Hệ thống thông tin là sự kết hợp của phần cứng, phần mềm và Mạng TSLCD được xây dựng và sử dụng để thu thập, tạo, tái tạo, phân phối và chia sẻ các dữ liệu, thông tin, tri thức nhằm phục vụ cho các mục tiêu của các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Thanh Hóa.\n\n\\- An toàn thông tin (ATTT): Bao gồm các hoạt động quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông tin, nhằm bảo vệ, khôi phục các hệ thống, các dịch vụ và nội dung thông tin đối với các nguy cơ chủ quan hoặc khách quan. Việc bảo vệ thông tin, tài sản và con người trong hệ thống thông tin nhằm bảo đảm cho các hệ thống thực hiện đúng chức năng, phục vụ đúng đối tượng một cách sẵn sàng, chính xác và tin cậy. ATTT bao hàm các nội dung bảo vệ và bảo mật thông tin, an toàn dữ liệu, an toàn máy tính và an toàn mạng.\n\n\\- An ninh thông tin: Là đảm bảo thông tin trên hệ thống thông tin được bảo mật, sẵn sàng và toàn vẹn.\n\n\\- TCVN 7562: 2005: Tiêu chuẩn Việt Nam về mã thực hành quản lý ATTT.\n\n**Chương 2.**\n\n**QUẢN LÝ VÀ VẬN HÀNH MẠNG TSLCD**\n\n**Điều 4. Nguyên tắc quản lý, vận hành và sử dụng Mạng TSLCD**\n\n1\\. Quản lý, vận hành và sử dụng Mạng TSLCD phải bảo đảm tăng cường năng lực quản lý và khai thác tài nguyên mạng máy tính của cơ quan Đảng, Nhà nước; phát huy tinh thần trách nhiệm, quyền hạn, nghĩa vụ và đảm bảo hiệu quả ứng dụng CNTT trong hoạt động của các đơn vị sử dụng Mạng TSLCD.\n\n2\\. Mạng TSLCD được quản lý, điều hành tập trung, thống nhất; bảo đảm an toàn, bảo mật và tính sẵn sàng cao trong quá trình vận hành và sử dụng.\n\n3\\. Mạng TSLCD phải đảm bảo hoạt động liên tục, thông suốt (24 giờ trong một ngày và 07 ngày trong một tuần) đảm bảo thông tin liên lạc.\n\n4\\. Những thông tin chia sẻ, lưu trữ và sử dụng trên hệ thống mạng TSLCD phải đảm bảo an toàn, an ninh thông tin và tuân thủ các quy định của Nhà nước về bưu chính, viễn thông, công nghệ thông tin và lưu trữ.\n\n5\\. Cước phí sử dụng Mạng TSLCD được tính theo khung giá của Bộ Thông tin và Truyền thông quy định và được bảo đảm từ nguồn ngân sách nhà nước cấp cho các đơn vị sử dụng Mạng TSLCD.\n\n**Điều 5. Danh mục dịch vụ cung cấp trên Mạng TSLCD**\n\n1\\. Các dịch vụ truyền số liệu và thuê kênh riêng sử dụng công nghệ kết nối mạng riêng ảo (VPN) gồm:\n\na) Dịch vụ Intranet IP/MPLS VPN;\n\nb) Dịch vụ Extranet IP/MPLS VPN;\n\nc) Dịch vụ Internet IP/MPLS VPN;\n\nd) Dịch vụ IP VPN truy nhập từ xa;\n\nđ) Dịch vụ VPN liên kết giữa các nhà cung cấp.\n\n2\\. Dịch vụ hội nghị truyền hình.\n\n3\\. Các dịch vụ giá trị gia tăng gồm:\n\na) Dịch vụ truy nhập Internet;\n\nb) Dịch vụ trung tâm dữ liệu;\n\nc) Dịch vụ cho thuê chỗ trên máy chủ mạng;\n\nd) Dịch vụ máy chủ mạng;\n\nđ) Dịch vụ máy chủ thư điện tử;\n\ne) Dịch vụ thoại VoIP.\n\n4\\. Các dịch vụ khác theo hướng dẫn của Bộ Thông tin và Truyền thông.\n\n**Điều 6. Trách nhiệm của Sở Thông tin và Truyền thông**\n\n1\\. Làm đầu mối quản lý toàn bộ các kết nối Mạng TSLCD trên địa bàn tỉnh. Chỉ đạo Viễn thông Thanh Hóa vận hành và duy trì Mạng TSLCD trên địa bàn tỉnh theo quy định của Bộ Thông tin và Truyền thông và Tập đoàn Bưu chính Viễn thông Việt Nam.\n\n2\\. Chỉ đạo việc kết nối các mạng viễn thông khác trên địa bàn tỉnh phục vụ cơ quan Đảng, Nhà nước với Mạng TSLCD theo hướng dẫn của Bộ Thông tin và Truyền thông.\n\n3\\. Hướng dẫn, đôn đốc các đơn vị sử dụng Mạng TSLCD trên địa bàn tỉnh khai thác hiệu quả các dịch vụ được cung cấp trên Mạng TSLCD.\n\n4\\. Tuyên truyền, phổ biến, hướng dẫn việc thực hiện các quy định của Nhà nước về sử dụng Mạng TSLCD cho các cơ quan Đảng, Nhà nước trên địa bàn tỉnh.\n\n5\\. Chủ trì, phối hợp với Công an tỉnh thanh tra, kiểm tra và xử lý các hành vi vi phạm pháp luật theo thẩm quyền.\n\n6\\. Hàng năm, xây dựng kế hoạch tổ chức tập huấn, đào tạo các kiến thức về quản lý, vận hành, sử dụng và đảm bảo an toàn thông tin cho cán bộ phụ trách hoặc chuyên trách CNTT tại các đơn vị có kết nối vào mạng TSLCD.\n\n7\\. Báo cáo định kỳ hàng năm, đột xuất cho UBND tỉnh, Bộ Thông tin và Truyền thông tình hình sử dụng Mạng TSLCD trong hoạt động ứng dụng CNTT trên địa bàn tỉnh.\n\n**Điều 7. Trách nhiệm của Viễn thông Thanh Hóa****.**\n\n1\\. Có trách nhiệm phối hợp với các đơn vị có liên quan:\n\na) Điều hành kết nối mạng đường trục với mạng truy cập các cấp từ cấp tỉnh tới cấp xã.\n\nb) Quản lý, duy trì, vận hành, khai thác, khắc phục sự cố, bảo dưỡng các thiết bị thuộc hệ thống Mạng TSLCD đảm bảo kết nối thông suốt, liên tục trong phạm vi toàn tỉnh.\n\nc) Đảm bảo các yêu cầu về dung lượng, tốc độ, chất lượng dịch vụ mạng và an toàn, an ninh thông tin với đơn vị đăng ký sử dụng.\n\nd) Triển khai các giải pháp và hệ thống thiết bị dự phòng để bảo đảm cơ sở hạ tầng Mạng TSLCD hoạt động liên tục và an toàn.\n\nđ) Phối hợp tổ chức tập huấn, hướng dẫn sử dụng cho đơn vị sau khi triển khai lắp đặt mới vào Mạng TSLCD.\n\n2\\. Công bố các điểm đăng ký dịch vụ, địa chỉ, số điện thoại nóng, hộp thư điện tử để hỗ trợ kỹ thuật và giải quyết khiếu nại của các đơn vị sử dụng Mạng TSLCD.\n\n3\\. Xây dựng quy định chi tiết các nội dung hợp đồng mẫu và tiến hành thương thảo, ký kết hợp đồng với đơn vị sử dụng Mạng TSLCD phục vụ công tác ứng dụng CNTT của các cơ quan Đảng và Nhà nước trên địa bàn tỉnh do Viễn thông Thanh Hóa cung cấp.\n\n4\\. Trường hợp xảy ra sự cố đối với mạng đường trục hoặc các sự cố cần tổ chức ứng cứu thông tin, phải báo cáo ngay cho Sở Thông tin và Truyền thông để nhận chỉ đạo, hỗ trợ kịp thời.\n\n5\\. Định kỳ báo cáo Sở Thông tin và Truyền thông (vào ngày 30/5 và 30/11 hàng năm) và báo cáo đột xuất bằng văn bản về tình hình hoạt động của mạng TSLCD.\n\n**Chương 3.**\n\n**SỬ DỤNG MẠNG TSLCD**\n\n**Điều 8. Sử dụng, chia sẻ và lưu trữ thông tin trên Mạng TSLCD**\n\n1\\. Thông tin thuộc danh mục bí mật nhà nước được truyền tải trên Mạng TSLCD phải tuân thủ pháp luật về bảo vệ bí mật nhà nước.\n\n2\\. Việc sử dụng, chia sẻ và lưu trữ thông tin trên Mạng TSLCD phải tuân thủ các quy định của pháp luật về viễn thông, công nghệ thông tin và lưu trữ.\n\n3\\. Thông tin được sử dụng, chia sẻ và lưu trữ trên Mạng TSLCD phải là những thông tin phục vụ cho hoạt động quản lý điều hành và chuyên môn nghiệp vụ của đơn vị sử dụng Mạng TSLCD.\n\n**Điều 9. Trách nhiệm của đơn vị khi tham gia sử dụng Mạng TSLCD**\n\n1\\. Quản lý, khai thác và bảo vệ thiết bị mạng của điểm kết nối đặt tại cơ quan mình theo hợp đồng với đơn vị cung cấp dịch vụ mạng TSLCD.\n\n2\\. Chịu trách nhiệm về nội dung, thông tin truyền đưa trên Mạng TSLCD theo đúng quy định pháp luật.\n\n3\\. Không thay đổi kết nối, thông số thiết lập mạng của các thiết bị liên quan đến Mạng TSLCD không thuộc thẩm quyền, gây xung đột tài nguyên, ảnh hưởng đến việc vận hành hệ thống Mạng TSLCD.\n\n4\\. Chịu trách nhiệm các vấn đề liên quan đến an toàn mạng khi kết nối Mạng TSLCD:\n\na) Xây dựng hệ thống bức tường lửa (fĩrewall) và phần mềm phòng chống virus, mã độc, thư rác... để bảo vệ hệ thống mạng nội bộ nhằm ngăn chặn các truy cập trái phép từ bên ngoài.\n\nb) Quản lý bộ tập trung người dùng mạng riêng ảo của cơ quan được thiết lập (nếu có).\n\nc) Quản lý các tên miền của đơn vị (nếu có).\n\nd) Sở hữu và quản lý các chính sách kết nối Internet của riêng cơ quan thông qua Mạng TSLCD.\n\nđ) Ghi lại các sự cố, lỗi xảy ra về kết nối Mạng TSLCD, về an toàn, bảo mật thông tin; trường hợp có sự cố nghiêm trọng vượt quá khả năng khắc phục của đơn vị phải báo cáo với điểm đăng ký dịch vụ gần nhất của Viễn thông Thanh Hóa để phối hợp khắc phục kịp thời, nhanh chóng.\n\ne) Quản trị và cài đặt địa chỉ IP theo phân hoạch chung đã được cấp cho hệ thống mạng nội bộ của mình.\n\n5\\. Trong trường hợp có kế hoạch nâng cấp, bảo trì hệ thống mạng nội bộ có ảnh hưởng đến Mạng TSLCD, cần thông báo cho điểm đăng ký dịch vụ gần nhất của Viễn thông Thanh Hóa trước tối thiểu 05 ngày làm việc để bảo đảm phù hợp với quy hoạch tổng thể Mạng TSLCD.\n\n6\\. Thực hiện nghiêm các quy định về bảo vệ an toàn mạng và thông tin được truyền tải trên mạng TSLCD của Bộ Thông tin & Truyền thông và Tập đoàn Bưu chính Viễn thông Việt Nam.\n\n7\\. Phải tuân thủ các văn bản quy phạm pháp luật, chính sách có liên quan của Nhà nước về viễn thông, về quản lý và cấp phép cung cấp thông tin, thiết lập trang thông tin điện tử trên Internet, về chế độ bảo mật, an toàn, an ninh thông tin.\n\n8\\. Phải trả chi phí sử dụng theo văn bản hướng dẫn và khung giá quy định của Bộ Thông tin và truyền thông. Kinh phí này do các đơn vị lập dự toán và được bố trí từ nguồn ngân sách hàng năm trên cơ sở tiết kiệm, hiệu quả.\n\n9\\. Cử cán bộ có chuyên môn về CNTT hoặc bộ phận chuyên trách về CNTT để quản trị, khai thác hiệu quả Mạng TSLCD; Hàng năm bố trí kinh phí hỗ trợ cho cán bộ chuyên trách CNTT được tham gia các lớp bồi dưỡng, tập huấn nâng cao trình độ chuyên môn và khả năng xử lý các tình huống trong việc đảm bảo an toan, an ninh thông tin.\n\n10\\. Báo cáo định kỳ hàng năm, đột xuất tình hình khai thác, sử dụng mạng TSLCD theo hướng dẫn của Sở Thông tin và Truyền thông.\n\n**Điều 10. Trách nhỉệm của cá nhân khi tham gia sử dụng Mạng TSLCD**\n\n1\\. Được khai thác các tài nguyên chia sẻ trên mạng để phục vụ cho công tác tại cơ quan, nhưng phải đảm bảo về chế độ bảo mật, an toàn, an ninh, đồng thời chịu trách nhiệm đối với các thông tin cung cấp trên mạng.\n\n2\\. Tuân thủ các quy định cụ thể về truy nhập, khai thác sử dụng mạng. Không được tiết lộ mật khẩu truy cập các ứng dụng trên Mạng TSLCD cho cá nhân, đơn vị không có thẩm quyền.\n\n3\\. Tuân thủ những quy định về quản lý vận hành và sử dụng Mạng TSLCD.\n\n4\\. Khi có sự cố xảy ra phải thông báo ngay cho người có thẩm quyền, có trách nhiệm của đơn vị mình để kịp thời giải quyết.\n\n**Chương 4.**\n\n**BẢO ĐẢM AN TOÀN, AN NINH MẠNG VÀ THÔNG TIN TRÊN MẠNG TSLCD**\n\n**Điều 11. Trách nhiệm của các đơn vị về đảm bảo an toàn, an ninh mạng và thông tin trên Mạng TSLCD**\n\n1\\. Phải trang bị đầy đủ các kiến thức cơ bản về máy tính, mạng máy tính, bảo mật thông tin cho cán bộ, công chức, viên chức trước khi truy nhập và sử dụng hệ thống thông tin qua Mạng TSLCD.\n\n2\\. Có trách nhiệm phân bổ nguồn lực đầu tư hợp lý để thiết lập hệ thống mạng nội bộ kết nối vào Mạng TSLCD theo tiêu chuẩn quy định của Nhà nước do Sở Thông tin và Truyền thông hướng dẫn nhằm đảm bảo an toàn, an ninh thông tin trong hoạt động ứng dụng công nghệ thông tin của đơn vị.\n\n3\\. Đối với cán bộ, công chức, viên chức nghỉ hưu, chuyển công tác hoặc chấm dứt hợp đồng thì cán bộ chuyên trách CNTT của đơn vị phải hủy bỏ quyền truy nhập vào hệ thống thông tin và thu hồi lại các tài liệu, hồ sơ, thông tin liên quan tới tài khoản bị hủy bỏ nhằm tránh tình trạng truy cập trái phép vào hệ thống.\n\n4\\. Tạo điều kiện cho cán bộ chuyên trách CNTT của đơn vị có điều kiện học tập, tiếp thu công nghệ, kiến thức an toàn bảo mật thông tin.\n\n5\\. Phải tổ chức quản lý các tài khoản của hệ thống thông tin qua Mạng TSLCD bao gồm: tạo mới, kích hoạt, sửa đổi, vô hiệu hóa và loại bỏ các tài khoản, đồng thời tổ chức kiểm tra các tài khoản của hệ thống thông tin ít nhất 01 lần/03 tháng.\n\n6\\. Tổ chức quản lý tài khoản, phân quyền người sử dụng theo nhóm; Quy định về quyền hạn người sử dụng, giới hạn về thời gian truy nhập hệ thống; Nếu liên tục đăng nhập sai vượt quá số lần quy định thì hệ thống tự động khóa tài khoản hoặc cô lập tài khoản trong một khoảng thời gian nhất định trước khi tiếp tục cho đăng nhập.\n\n7\\. Hệ thống thông tin phải ghi nhận các sự kiện sau: quá trình đăng nhập, truy xuất, các thao tác cấu hình hệ thống; Đồng thời ghi nhận đầy đủ các thông tin trong các bản ghi nhật ký để xác định những sự kiện nào đã xảy ra, nguồn gốc và kết quả của sự kiện để có cơ chế bảo vệ và lưu giữ nhật ký trong một khoảng thời gian nhất định.\n\n8\\. Phải thiết lập, tổ chức theo dõi, kiểm soát tất cả các phương pháp truy nhập từ xa, truy nhập mạng không dây, truy nhập có chức năng đặc quyền; tổ chức sử dụng và mã hóa chứng thực để bảo vệ truy nhập tới hệ thống thông tin; ngăn chặn các sự cố gây ra do tấn công từ chối dịch vụ. Đồng thời tổ chức triển khai cơ chế tự động giám sát và điều khiển các truy nhập từ xa.\n\n9\\. Đối với hệ thống thông tin cho phép truy nhập công cộng thì phải được bảo vệ bằng cách trang bị thiết bị chuyên dụng hoặc sử dụng tổng hợp các biện pháp kỹ thuật và thiết lập hệ thống dự phòng.\n\n10\\. Trong việc sử dụng Mạng TSLCD, đơn vị phải quy định một số nội dung đảm bảo an toàn, an ninh thông tin như sau:\n\na) Mục tiêu và phương hướng thực hiện công tác đảm bảo an toàn, an ninh cho hệ thống thông tin.\n\nb) Nguyên tắc phân loại và quản lý mức độ ưu tiên đối với các tài nguyên của hệ thống thông tin (phần mềm, dữ liệu, trang thiết bị...).\n\nc) Quản lý phân quyền và quy định trách nhiệm đối với từng cá nhân khi tham gia sử dụng hệ thống thông tin.\n\nd) Quản lý và điều hành hệ thống máy chủ, thiết bị mạng, thiết bị bảo vệ mạng; việc lưu trữ, sao chép, truyền tải những tài liệu thuộc bí mật nhà nước, sử dụng hộp thư điện tử, thiết bị tháo lắp (USB, thiết bị không dây, máy tính xách tay...).\n\nđ) Nguyên tắc sử dụng an toàn và hiệu quả đối với tất cả các cá nhân tham gia sử dụng hệ thống thông tin.\n\ne) Báo cáo tổng hợp tình hình đảm bảo an toàn, an ninh thông tin và bảo mật hệ thống thông tin theo định kỳ.\n\ng) Nơi tiếp nhận thông tin, xử lý các sự cố hoặc nguy cơ mất an toàn, an ninh thông tin và bảo mật hệ thống thông tin.\n\nKhi quy định về an toàn an ninh thông tin cho đơn vị phải tham khảo các tiêu chuẩn kỹ thuật quản lý ATTT theo quy định hiện hành (Tiêu chuẩn quốc gia TCVN 7562:2005...) để có sự lựa chọn áp dụng phù hợp cho đơn vị mình.\n\n11\\. Trách nhiệm của cán bộ chuyên trách CNTT về an toàn, an ninh thông tin, bảo mật trên Mạng TSLCD:\n\na) Chịu trách nhiệm tham mưu và vận hành an toàn hệ thống thông tin của đơn vị.\n\nb) Cập nhật cấu hình chuẩn cho các thành phần của hệ thống khi tiến hành cài đặt, thiết lập cấu hình tối ưu cho các thiết bị an toàn thông tin của hệ thống thông tin hoạt động đạt hiệu quả nhất.\n\nc) Thường xuyên sao lưu hệ thống thông tin và lưu trữ thông tin ở nơi an toàn. Đồng thời tổ chức kiểm tra thông tin sao lưu để đảm bảo tính sẵn sàng và toàn vẹn của thông tin.\n\nd) Tổ chức triển khai các biện pháp phòng, chống lây nhiễm virus, mã độc và thư rác trong hệ thống thông tin; Sử dụng thiết bị, phần mềm để phát hiện, ngăn chặn, tiêu diệt virus, mã độc, thư rác được truyền tải bởi: Internet, tập tin đính kèm từ thư điện tử, thiết bị lưu trữ di động nhằm khai thác lỗ hổng của hệ thống thông tin. Đồng thời, cập nhật thường xuyên các phần mềm diệt virus, chống mã độc và thư rác sao cho phù hợp với quy trình quản lý cấu hình hệ thống thông tin.\n\nđ) Phòng tránh các rủi ro có thể xày ra do truy cập, sử dụng trái phép; làm thay đổi hoặc phá hủy hệ thống thông tin có liên quan tới hoạt động của đơn vị.\n\ne) Tổng hợp báo cáo, đánh giá mức độ nghiêm trọng của các rủi ro có thể xảy ra và thực hiện các biện pháp phòng chống các rủi ro.\n\n**Điều 12. Trách nhiệm của Sở Thông tin và Truyền thông**\n\n1\\. Chỉ đạo, hướng dẫn các tổ chức, cá nhân và Viễn thông Thanh Hóa thực hiện các quy định của pháp luật về bảo đảm an toàn mạng và thông tin trên Mạng TSLCD.\n\n2\\. Chủ trì, phối hợp với Công an tỉnh thanh tra, kiểm tra và xử lý theo thẩm quyền các vi phạm quy định về an toàn, an ninh mạng và thông tin trên Mạng TSLCD.\n\n**Điều 13. Trách nhiệm của Công an tỉnh**\n\n1\\. Phối hợp với Sở Thông tin và Truyền thông, Viễn thông Thanh Hóa trong công tác bảo đảm an toàn, an ninh thông tin trong sử dụng và khai thác Mạng TSLCD; kiểm tra và xử lý vi phạm đối với các tổ chức, cá nhân vi phạm quy định về bảo đảm an ninh thông tin trong hoạt động của Mạng TSLCD.\n\n2\\. Chỉ đạo công an các đơn vị, địa phương phối hợp chặt chẽ với Sở Thông tin và Truyền thông, Viễn thông Thanh Hóa bảo đảm an toàn cơ sở hạ tầng; kiểm tra và xử lý đối với tổ chức, cá nhân vi phạm quy định về bảo đảm an toàn cơ sở hạ tầng trong Mạng TSLCD.\n\n3\\. Các đơn vị chuyên trách bảo vệ an ninh quốc gia thuộc Công an tỉnh khi phát hiện các thông tin, tài liệu, dữ liệu, đồ vật thuộc Mạng TSLCD liên quan đến hoạt động xâm phạm an ninh quốc gia theo quy định tại Điều 3 Nghị định số 151/2005/NĐ-CP ngày 14/12/2005 của Chính phủ, về quyền hạn, trách nhiệm của cơ quan và cán bộ chuyên trách bảo vệ an ninh quốc gia, phải thực hiện các quy định sau đây:\n\na) Yêu cầu tổ chức, cá nhân cung cấp các thông tin, dữ liệu, số liệu, tài liệu, đồ vật liên quan.\n\nb) Thực hiện theo thẩm quyền các biện pháp thu giữ, sao chép thông tin, dữ liệu, số liệu, tài liệu, đồ vật, một phần hoặc toàn bộ hệ thống thiết bị liên quan.\n\nc) Ngăn cản việc truy nhập hệ thống thiết bị, mạng lưới và sử dụng dịch vụ.\n\nd) Hướng dẫn nghiệp vụ cho lực lượng bảo vệ của các tổ chức quản lý, khai thác Mạng TSLCD phục vụ công tác ứng dụng CNTT của các cơ quan Đảng và Nhà nước trên địa bàn tỉnh.\n\nđ) Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.\n\n**Điều 14. Trách nhiệm của Viễn thông Thanh Hóa**\n\n1\\. Tổ chức thực hiện các biện pháp bảo đảm Mạng TSLCD đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin.\n\n2\\. Triển khai biện pháp bảo vệ vật lý mức độ cao nhất đối với các khu vực: quản trị, lưu trữ nội dung và lưu trữ dự phòng.\n\n3\\. Triển khai các giải pháp, biện pháp cần thiết để ngăn chặn việc sử dụng, lợi dụng mạng lưới, thiết bị, các công cụ phần cứng, phần mềm để cản trở, gây nhiễu, gây rối loạn, làm hư hỏng, hủy hoại hoạt động của Mạng TSLCD.\n\n4\\. Thường xuyên kiểm tra đánh giá về mức độ bảo vệ an toàn mạng và thông tin trên mạng, tiến hành những biện pháp phòng tránh, khắc phục kịp thời.\n\n5\\. Báo cáo ngay Sở Thông tin và Truyền thông để nhận chỉ đạo, hỗ trợ kịp thời trong trường hợp xảy ra sự cố đối với mạng đường trục hoặc các sự cố cần tổ chức ứng cứu thông tin.\n\n**Chương 5.**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 15. Trách nhiệm hướng dẫn, thi hành**\n\nSở Thông tin và Truyền thông có trách nhiệm tuyên truyền, phổ biến, hướng dẫn và tổ chức triển khai thực hiện Quy chế này cho các cơ quan Đảng, Nhà nước trên địa bàn tỉnh.\n\nThủ trưởng các đơn vị sử dụng Mạng TSLCD, trong phạm vi chức năng, nhiệm vụ của mình, có trách nhiệm tổ chức triển khai, sử dụng, khai thác hiệu quả và kiểm tra việc chấp hành tại đơn vị theo đúng nội dung quy định của Quy chế này.\n\n**Điều 16. Xử lý vi phạm**\n\nCác hành vi vi phạm gây ảnh hưởng đến an toàn Mạng TSLCD và an ninh thông tin truyền tải trên mạng TSLCD phải được phát hiện kịp thời và xử lý nghiêm minh theo quy định của pháp luật.\n\n**Điều 17. Điều khoản thi hành**\n\nTrong quá trình thực hiện Quy chế này, nếu có vướng mắc, khó khăn, các đơn vị quản lý, vận hành, sử dụng Mạng TSLCD và các cá nhân có liên quan phản ánh kịp thời về Sở Thông tin và Truyền thông để tổng hợp báo cáo Ủy ban nhân dân tỉnh xem xét, quyết định./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

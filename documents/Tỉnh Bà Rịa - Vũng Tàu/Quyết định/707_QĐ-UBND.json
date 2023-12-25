@@ -1,0 +1,858 @@
+{
+  "title": "Quyết định 707/QĐ-UBND về Kế hoạch thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh của tỉnh Bà Rịa - Vũng Tàu trong năm 2017, định hướng đến năm 2020 theo Nghị quyết 19-2017/NQ-CP",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 24/2016/TT-BCT quy định về rút ngắn thời gian tiếp cận điện năng Bộ trưởng Bộ Công Thương ban hành",
+      "id": "24/2016/TT-BCT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Công thương",
+      "signers": [
+        "Trần Tuấn Anh"
+      ],
+      "issuedDate": "2016-11-30",
+      "effectiveDate": "2017-01-16",
+      "gazetteDate": "2017-01-14",
+      "gazetteNumber": "Từ số 49 đến số 50",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3380/QĐ-UBND năm 2016 Kế hoạch hỗ trợ khởi nghiệp đổi mới sáng tạo của tỉnh Bà Rịa - Vũng Tàu giai đoạn 2016-2020",
+      "id": "3380/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Thành Long"
+      ],
+      "issuedDate": "2016-11-28",
+      "effectiveDate": "2016-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3245/QĐ-UBND năm 2016 về Chương trình đào tạo, bồi dưỡng 1000 doanh nhân của tỉnh Bà Rịa - Vũng Tàu, giai đoạn 2016-2020",
+      "id": "3245/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Thành Long"
+      ],
+      "issuedDate": "2016-11-15",
+      "effectiveDate": "2016-11-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2185/QĐ-TTg năm 2016 phê duyệt Kế hoạch tổng thể triển khai Cơ chế một cửa quốc gia và Cơ chế một cửa ASEAN giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "2185/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xuất nhập khẩu",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2016-11-14",
+      "effectiveDate": "2016-11-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 06-NQ/TW năm 2016 thực hiện có hiệu quả tiến trình hội nhập kinh tế quốc tế, giữ vững ổn định chính trị - xã hội trong bối cảnh nước ta tham gia Hiệp định thương mại tự do thế hệ mới do Ban Chấp hành Trung ương ban hành",
+      "id": "06-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2016-11-05",
+      "effectiveDate": "2016-11-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 26/2016/TT-BNNPTNT Quy định về kiểm dịch động vật, sản phẩm động vật thủy sản do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "26/2016/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Vũ Văn Tám"
+      ],
+      "issuedDate": "2016-06-30",
+      "effectiveDate": "2016-08-15",
+      "gazetteDate": "2016-07-30",
+      "gazetteNumber": "Từ số 789 đến số 790",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 09/2016/TT-BQP hướng dẫn Nghị định 112/2014/NĐ-CP về quản lý cửa khẩu biên giới đất liền do Bộ trưởng Bộ Quốc phòng ban hành",
+      "id": "09/2016/TT-BQP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xuất nhập khẩu",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Quốc phòng",
+      "signers": [
+        "Đỗ Bá Tỵ"
+      ],
+      "issuedDate": "2016-02-03",
+      "effectiveDate": "2016-03-19",
+      "gazetteDate": "2016-03-08",
+      "gazetteNumber": "Từ số 217 đến số 218",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 04/2016/NĐ-CP sửa đổi Nghị định 52/2009/NĐ-CP hướng dẫn Luật Quản lý, sử dụng tài sản nhà nước",
+      "id": "04/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2016-01-06",
+      "effectiveDate": "2016-02-20",
+      "gazetteDate": "2016-01-21",
+      "gazetteNumber": "Từ số 91 đến số 92",
+      "status": "Hết hiệu lực: 01/01/2018"
+    },
+    {
+      "title": "Bộ luật tố tụng dân sự 2015",
+      "id": "92/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thủ tục Tố tụng"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-29",
+      "gazetteNumber": "Từ số 1251 đến số 1252",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 23/2015/TT-BKHCN quy định việc nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng do Bộ trưởng Bộ Khoa học và Công nghệ ban hành",
+      "id": "23/2015/TT-BKHCN",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Bộ Khoa học và Công nghệ",
+      "signers": [
+        "Nguyễn Quân"
+      ],
+      "issuedDate": "2015-11-13",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-11-28",
+      "gazetteNumber": "Từ số 1153 đến số 1154",
+      "status": "Hết hiệu lực: 01/04/2020"
+    },
+    {
+      "title": "Thông tư 41/2015/TT-BTNMT về bảo vệ môi trường trong nhập khẩu phế liệu làm nguyên liệu sản xuất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "41/2015/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Minh Quang"
+      ],
+      "issuedDate": "2015-09-09",
+      "effectiveDate": "2015-10-27",
+      "gazetteDate": "2015-10-12",
+      "gazetteNumber": "Từ số 1041 đến số 1042",
+      "status": "Hết hiệu lực: 15/02/2020"
+    },
+    {
+      "title": "Quyết định 35/2015/QĐ-TTg sửa đổi Quyết định 02/2012/QĐ-TTg về Danh mục hàng hóa, dịch vụ thiết yếu phải đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung do Thủ tướng Chính phủ ban hành",
+      "id": "35/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-08-20",
+      "effectiveDate": "2015-10-15",
+      "gazetteDate": "2015-08-31",
+      "gazetteNumber": "Từ số 959 đến số 960",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật thú y 2015",
+      "id": "79/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-25",
+      "gazetteNumber": "Từ số 861 đến số 862",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 59/2015/NĐ-CP về quản lý dự án đầu tư xây dựng",
+      "id": "59/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-06-18",
+      "effectiveDate": "2015-08-05",
+      "gazetteDate": "2015-06-30",
+      "gazetteNumber": "Từ số 641 đến số 642",
+      "status": "Hết hiệu lực: 03/03/2021"
+    },
+    {
+      "title": "Nghị định 22/2015/NĐ-CP hướng dẫn Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản",
+      "id": "22/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-02-16",
+      "effectiveDate": "2015-04-06",
+      "gazetteDate": "2015-03-14",
+      "gazetteNumber": "Từ số 353 đến số 354",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 16/2015/NĐ-CP Quy định cơ chế tự chủ của đơn vị sự nghiệp công lập",
+      "id": "16/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-02-14",
+      "effectiveDate": "2015-04-06",
+      "gazetteDate": "2015-03-07",
+      "gazetteNumber": "Từ số 297 đến số 298",
+      "status": "Hết hiệu lực: 15/08/2021"
+    },
+    {
+      "title": "Quyết định 08/QĐ-TTg năm 2015 về Kế hoạch đơn giản hóa thủ tục hành chính trọng tâm năm 2015 do Thủ tướng Chính phủ ban hành",
+      "id": "08/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-01-06",
+      "effectiveDate": "2015-01-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Luật Doanh nghiệp 2014",
+      "id": "68/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1175 đến số 1176",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Thông tư 15/2014/TT-BTTTT Danh mục hàng hóa theo mã số HS thuộc diện quản lý chuyên ngành của Bộ Thông tin và Truyền thông",
+      "id": "15/2014/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Bắc Son"
+      ],
+      "issuedDate": "2014-11-17",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-11-30",
+      "gazetteNumber": "Từ số 1019 đến số 1020",
+      "status": "Hết hiệu lực: 28/08/2017"
+    },
+    {
+      "title": "Thông tư liên tịch 04/2014/TTLT-BKHĐT-BTC hướng dẫn trợ giúp đào tạo, bồi dưỡng nguồn nhân lực cho doanh nghiệp nhỏ và vừa do Bộ trưởng Bộ Kế hoạch và Đầu tư - Bộ Tài chính ban hành",
+      "id": "04/2014/TTLT-BKHĐT-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư, Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu",
+        "Đặng Huy Đông"
+      ],
+      "issuedDate": "2014-08-13",
+      "effectiveDate": "2014-09-26",
+      "gazetteDate": "2014-09-01",
+      "gazetteNumber": "Từ số 797 đến số 798",
+      "status": "Hết hiệu lực: 23/09/2019"
+    },
+    {
+      "title": "Luật Hải quan 2014",
+      "id": "54/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-23",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 685 đến số 686",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Phá sản 2014",
+      "id": "51/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-19",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 683 đến số 684",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 60/2014/NĐ-CP quy định về hoạt động in",
+      "id": "60/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-06-19",
+      "effectiveDate": "2014-11-01",
+      "gazetteDate": "2014-07-04",
+      "gazetteNumber": "Từ số 641 đến số 642",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật bảo vệ và kiểm dịch thực vật 2013",
+      "id": "41/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-25",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2013-12-30",
+      "gazetteNumber": "Từ số 1005 đến số 1006",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 187/2013/NĐ-CP hướng dẫn Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và hoạt động đại lý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài",
+      "id": "187/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-20",
+      "effectiveDate": "2014-02-20",
+      "gazetteDate": "2013-12-05",
+      "gazetteNumber": "Từ số 865 đến số 866",
+      "status": "Hết hiệu lực: 15/05/2018"
+    },
+    {
+      "title": "Thông tư 48/2013/TT-BNNPTNT quy định về kiểm tra, chứng nhận an toàn thực phẩm thủy sản xuất khẩu",
+      "id": "48/2013/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Nguyễn Thị Xuân Thu"
+      ],
+      "issuedDate": "2013-11-12",
+      "effectiveDate": "2013-12-26",
+      "gazetteDate": "2013-11-30",
+      "gazetteNumber": "Từ số 831 đến số 832",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 50/2010/TT-BNNPTNT sửa đổi Danh mục sản phẩm, hàng hóa nhóm 2 kèm theo Thông tư 50/2009/TT-BNNPTNT do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "50/2010/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Diệp Kỉnh Tần"
+      ],
+      "issuedDate": "2010-08-30",
+      "effectiveDate": "2010-10-14",
+      "gazetteDate": "2010-09-15",
+      "gazetteNumber": "Từ số 554 đến số 555",
+      "status": "Hết hiệu lực: 07/02/2018"
+    },
+    {
+      "title": "Quyết định 1605/QĐ-TTg năm 2010 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai đoạn 2011 - 2015 do Thủ tướng Chính phủ ban hành",
+      "id": "1605/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Thiện Nhân"
+      ],
+      "issuedDate": "2010-08-27",
+      "effectiveDate": "2010-08-27",
+      "gazetteDate": "2010-09-08",
+      "gazetteNumber": "Từ số 536 đến số 537",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn thực phẩm 2010",
+      "id": "55/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-06-17",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2010-09-25",
+      "gazetteNumber": "Từ số 564 đến số 565",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 63/2010/NĐ-CP về kiểm soát thủ tục hành chính",
+      "id": "63/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-06-08",
+      "effectiveDate": "2010-10-14",
+      "gazetteDate": "2010-06-23",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 11/2010/NĐ-CP quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ",
+      "id": "11/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-02-24",
+      "effectiveDate": "2010-04-15",
+      "gazetteDate": "2010-03-01",
+      "gazetteNumber": "Từ số 109 đến số 110",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 50/2009/TT-BNNPTNT ban hành danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn thuộc trách nhiệm quản lý của Bộ Nông nghiệp và Phát triển nông thôn do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "50/2009/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Cao Đức Phát"
+      ],
+      "issuedDate": "2009-08-18",
+      "effectiveDate": "2009-10-02",
+      "gazetteDate": "2009-09-02",
+      "gazetteNumber": "Từ số 427 đến số 428",
+      "status": "Hết hiệu lực: 07/02/2018"
+    },
+    {
+      "title": "Nghị định 56/2009/NĐ-CP về trợ giúp phát triển doanh nghiệp nhỏ và vừa",
+      "id": "56/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-06-30",
+      "effectiveDate": "2009-08-20",
+      "gazetteDate": "2009-07-14",
+      "gazetteNumber": "Từ số 341 đến số 342",
+      "status": "Hết hiệu lực: 11/03/2018"
+    },
+    {
+      "title": "Luật chất lượng sản phẩm, hàng hóa 2007",
+      "id": "05/2007/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2007-11-21",
+      "effectiveDate": "2008-07-01",
+      "gazetteDate": "2008-01-13",
+      "gazetteNumber": "Từ số 27 đến số 28",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật quản lý thuế 2006",
+      "id": "78/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-11-29",
+      "effectiveDate": "2007-07-01",
+      "gazetteDate": "2007-06-25",
+      "gazetteNumber": "Từ số 410 đến số 411",
+      "status": "Hết hiệu lực: 01/07/2020"
+    },
+    {
+      "title": "Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006",
+      "id": "68/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-08",
+      "gazetteNumber": "Từ số 9 đến số 10",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 50/2006/QĐ-TTg ban hành danh mục sản phẩm, hàng hóa phải kiểm tra về chất lượng do Thủ tướng Chính phủ ban hành",
+      "id": "50/2006/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Gia Khiêm"
+      ],
+      "issuedDate": "2006-03-07",
+      "effectiveDate": "2006-04-07",
+      "gazetteDate": "2006-03-23",
+      "gazetteNumber": "Từ số 34 đến số 35",
+      "status": "Hết hiệu lực: 05/10/2017"
+    },
+    {
+      "title": "Luật cạnh tranh 2004",
+      "id": "27/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-07-01",
+      "gazetteDate": "2005-01-01",
+      "gazetteNumber": "Số 1",
+      "status": "Hết hiệu lực: 01/07/2019"
+    },
+    {
+      "title": "Nghị định 179/2004/NĐ-CP quy định quản lý nhà nước về chất lượng sản phẩm, hàng hoá",
+      "id": "179/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-10-21",
+      "effectiveDate": "2004-11-10",
+      "gazetteDate": "2004-10-26",
+      "gazetteNumber": "Số 19",
+      "status": "Hết hiệu lực: 01/02/2009"
+    },
+    {
+      "title": "Pháp lệnh Chất lượng hàng hóa năm 1999",
+      "id": "18/1999/PL-UBTVQH10",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1999-12-24",
+      "effectiveDate": "2000-07-01",
+      "gazetteDate": "2000-02-22",
+      "gazetteNumber": "Số 7",
+      "status": "Hết hiệu lực: 01/07/2008"
+    },
+    {
+      "title": "Pháp lệnh Bộ đội biên phòng năm 1997",
+      "id": "55/1997/L-CTN",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1997-03-28",
+      "effectiveDate": "1997-04-07",
+      "gazetteDate": "1997-05-31",
+      "gazetteNumber": "Số 10",
+      "status": "Hết hiệu lực: 01/01/2022"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị quyết 19-2017/NQ-CP về tiếp tục thực hiện nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2017, định hướng đến năm 2020 do Chính phủ ban hành",
+      "id": "19-2017/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-02-06",
+      "effectiveDate": "2017-02-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 991/QĐ-UBND năm 2019 về Kế hoạch hành động thực hiện Nghị quyết 02/NQ-CP về tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2019 và những năm tiếp theo do tỉnh Quảng Nam ban hành",
+      "id": "991/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Lê Trí Thanh"
+      ],
+      "issuedDate": "2019-03-29",
+      "effectiveDate": "2019-03-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3125/QĐ-UBND về Kế hoạch thực hiện Nghị quyết 19-2018/NQ-CP về tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh trong lĩnh vực du lịch tỉnh Bình Định năm 2018 và những năm tiếp theo",
+      "id": "3125/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Nguyễn Tuấn Thanh"
+      ],
+      "issuedDate": "2018-09-13",
+      "effectiveDate": "2018-09-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2119/QĐ-UBND năm 2018 về phê duyệt Đề cương Đề án Đẩy mạnh cải cách hành chính nhằm nâng cao hiệu lực, hiệu quả quản lý của bộ máy nhà nước, góp phần cải thiện môi trường đầu tư kinh doanh trên địa bàn tỉnh Hà Tĩnh đến năm 2025",
+      "id": "2119/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Đặng Quốc Khánh"
+      ],
+      "issuedDate": "2018-07-16",
+      "effectiveDate": "2018-07-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 148/KH-UBND thực hiện Nghị quyết 19-2018/NQ-CP về tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2018 và những năm tiếp theo do tỉnh Phú Yên ban hành",
+      "id": "148/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Trần Hữu Thế"
+      ],
+      "issuedDate": "2018-07-10",
+      "effectiveDate": "2018-07-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "707/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Doanh nghiệp",
+    "Thương mại"
+  ],
+  "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+  "signers": [
+    "Nguyễn Thành Long"
+  ],
+  "issuedDate": "2017-03-27",
+  "effectiveDate": "2017-03-27",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMQAxADAAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH BÀ RỊA - VŨNG TÀU<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>707<span lang=\"VI\">/QĐ-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Bà\n  Rịa - Vũng Tàu, ngày 27 tháng 3 năm 2017</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">BAN HÀNH KẾ HOẠCH THỰC HIỆN NHỮNG NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU CẢI THIỆN\nMÔI TRƯỜNG KINH DOANH, NÂNG CAO NĂNG LỰC CẠNH TRANH CỦA TỈNH BÀ RỊA - VŨNG TÀU\nTRONG NĂM 2017, ĐỊNH HƯỚNG ĐẾN NĂM 2020 THEO NGHỊ QUYẾT SỐ 19-2017/NQ-CP NGÀY\n06/02/2017 CỦA CHÍNH PHỦ</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BÀ RỊA - VŨNG TÀU</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật tổ chức chính quyền địa\nphương ngày 19 tháng 6 năm 2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị quyết số 19-2017/NQ-CP\nngày 06 tháng 02 năm 2017 của Chính phủ về tiếp tục thực hiện những nhiệm vụ,\ngiải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh\nquốc gia năm 2017, định hướng đến năm 2020;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị của Sở Kế hoạch và Đầu\ntư (tại văn bản số 362/SKHĐT-ĐTKT ngày 13 tháng 3 năm 2017),</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành Kế hoạch thực hiện những nhiệm vụ, giải\npháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh của\ntỉnh Bà Rịa - Vũng Tàu trong năm 2017, định hướng đến năm 2020 theo Nghị quyết\nsố 19-2017/NQ-CP ngày 06 tháng 02 năm 2017 của Chính phủ.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><span lang=\"VI\"> <a name=\"dieu_2_name\">Quyết định này có hiệu lực kể từ ngày ký ban\nhành.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. <a name=\"dieu_3_name\">Chánh Văn\nphòng Ủy ban nhân dân tỉnh; Giám đốc các Sở: Tài chính, Nội vụ, Ngoại vụ, Tài\nnguyên và Môi trường, Xây dựng, Công Thương, Thông tin và Truyền thông, Y tế,\nNông nghiệp và Phát triển nông thôn, Tư pháp, Giao thông Vận tải, Giáo dục -\nĐào tạo, Khoa học Công nghệ, Lao động - Thương binh và Xã hội; Trưởng Ban Quản\nlý các Khu công nghiệp; Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh, Bộ đội biên\nphòng; Giám đốc Công an tỉnh; Cục trưởng Cục Thuế; Cục trưởng cục Hải quan;\nGiám đốc Bảo hiểm xã hội tỉnh; Giám đốc Ngân hàng nhà nước chi nhánh tỉnh Bà Rịa\n- Vũng Tàu; Giám đốc Công ty Điện lực tỉnh Bà Rịa - Vũng Tàu; Giám đốc Công ty\ncổ phần Cấp nước; Giám đốc Công ty trách nhiệm hữu hạn một thành viên Thoát nước\nvà Phát triển đô thị; Giám đốc Đài Phát thanh truyền hình Tỉnh, Tổng biên tập\nBáo Bà Rịa - Vũng Tàu; Chủ tịch Ủy ban nhân dân các huyện, thành phố và thủ trưởng\ncác cơ quan liên quan chịu trách nhiệm thi hành Quyết định này.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đề nghị Chánh án Tòa án nhân dân tỉnh,\nViện trưởng Viện Kiểm sát nhân dân tỉnh, Cục trưởng Cục Thi hành án dân sự Tỉnh,\nGiám đốc Phòng Thương mại và Công nghiệp Việt Nam chi nhánh tại Vũng Tàu, Giám\nđốc Trung tâm Xúc tiến Đầu tư tỉnh Bà Rịa - Vũng Tàu hỗ trợ, phối hợp thực hiện./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMQAxADAAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Văn phòng Chính phủ\n  (b/c);<br>\n  - Bộ Kế hoạch và Đầu tư (b/c);<br>\n  - Phòng Thương mại-Công nghiệp Việt Nam (b/c);<br>\n  - Thường trực Tỉnh ủy (để b/c);<br>\n  - Thường trực HĐND tỉnh (để b/c);<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - Như Điều 3;<br>\n  - Lưu: VT, TH<sub>8 </sub>(45b).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">KT.\n  CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Thành Long</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">THỰC HIỆN NHỮNG NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU CẢI THIỆN MÔI TRƯỜNG KINH\nDOANH, NÂNG CAO NĂNG LỰC CẠNH TRANH CỦA TỈNH BÀ RỊA - VŨNG TÀU TRONG NĂM 2017,\nĐỊNH HƯỚNG ĐẾN NĂM 2020 THEO NGHỊ QUYẾT SỐ 19-2017/NQ-CP NGÀY 06 THÁNG 02 NĂM\n2017 CỦA CHÍNH PHỦ</span></a><span lang=\"VI\"><br>\n<i>(Ban hành kèm theo Quyết định số 707/QĐ-UBND ngày 27/3/2017 của Chủ tịch\nUBND tỉnh Bà Rịa - Vũng Tàu)</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Triển khai thực hiện Nghị quyết số\n19-2017/NQ-CP ngày 06/02/2017 của Chính phủ (Nghị quyết 19-2017) về tiếp tục thực\nhiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng\ncao năng lực cạnh tranh quốc gia năm 2017, định hướng đến năm 2020;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong năm 2016, UBND tỉnh đã ban hành\nkèm theo Quyết định số 1758/QĐ-UBND ngày 29/6/2016 Kế hoạch hành động cải thiện\nmôi trường kinh doanh, nâng cao năng lực cạnh tranh của tỉnh Bà Rịa - Vũng Tàu\ntrong hai năm 2016 - 2017, định hướng đến năm 2020 và triển khai các nhiệm vụ\ntheo Nghị quyết số 19-2016/NQ-CP ngày 28/4/2016 của Chính phủ;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ các nhiệm vụ theo Nghị quyết số\n19-2017/NQ-CP và tình hình thực tế của Tỉnh, để thực hiện cải thiện môi trường\nkinh doanh - đầu tư, nâng cao năng lực cạnh tranh quốc gia, nâng cao năng lực đổi\nmới sáng tạo, tăng cường thực hiện chính phủ điện tử, UBND tỉnh Bà Rịa - Vũng\nTàu ban hành Kế hoạch hành động như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. KẾ HOẠCH TRIỂN\nKHAI THỰC HIỆN NGHỊ QUYẾT 19-2017/NQ-CP NGÀY 06/02/2017 NĂM 2017, ĐỊNH HƯỚNG\n2020:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Mục tiêu tổng quát:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Triển khai thực hiện có hiệu quả Nghị\nquyết 19-2017 về những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh\ndoanh, nâng cao năng lực cạnh tranh quốc gia; tiếp tục cải thiện Chỉ số năng lực\ncạnh tranh cấp tỉnh (PCI) của tỉnh, nhằm tạo môi trường kinh doanh - đầu tư thuận\nlợi, thu hút các nguồn lực để thực hiện mục tiêu phát triển kinh tế - xã hội của\nTỉnh giai đoạn 2016 - 2020, đồng thời đưa tỉnh Bà Rịa - Vũng Tàu trở thành điểm\nđến tin cậy đối với doanh nghiệp và các nhà đầu tư.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Mục tiêu và các chỉ tiêu chủ yếu\ncải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phấn đấu thực thực hiện đạt và vượt\ncác mục tiêu và chỉ tiêu chủ yếu theo Nghị quyết số 19-2017/NQ-CP của Chính phủ,\ncụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Đến hết năm 2017, các chỉ tiêu về\nmôi trường kinh doanh gồm: Nộp thuế và bảo hiểm xã hội không quá 168 giờ/năm\n(trong đó thuế là 119 giờ và bảo hiểm là 49 giờ); Cấp phép xây dựng và các thủ\ntục liên quan tối đa không quá 120 ngày, bao gồm: thẩm định thiết kế cơ sở, thẩm\nđịnh thiết kế kỹ thuật, cấp phép xây dựng xuống còn 63 ngày (giảm 19 ngày); thủ\ntục kết nối cấp, thoát nước xuống còn 7 ngày (giảm 7 ngày); thủ tục đăng ký sở\nhữu tài sản sau hoàn công xuống còn 20 ngày (giảm 10 ngày); tiếp cận điện năng\nkhông quá 35 ngày; đăng ký quyền sở hữu, sử dụng tài sản không quá 20 ngày;\nthông quan hàng hóa qua biên giới còn 70 giờ đối với hàng hóa xuất khẩu, 90 giờ\nđối với hàng hóa nhập khẩu; giải quyết tranh chấp hợp đồng tối đa 300 ngày; thời\ngian giải quyết phá sản doanh nghiệp còn 30 tháng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tạo lập hệ thống hỗ trợ khởi sự kinh\ndoanh, tạo môi trường đầu tư, kinh doanh thuận lợi, ổn định, tự do sáng tạo cho\ndoanh nghiệp khởi nghiệp; phấn đấu đến năm 2020 có khoảng 14.000 doanh nghiệp\nhoạt động trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đến năm 2020 thực hiện được mục\ntiêu của Chính phủ đề ra trên các nhóm chỉ tiêu về năng lực cạnh tranh và các\nchỉ số Đổi mới sáng tạo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Thực hiện Chính phủ điện tử: Phấn\nđấu đến hết năm 2017, hầu hết các dịch vụ công phổ biến, liên quan đến nhiều\nngười dân, doanh nghiệp được cung cấp ở mức độ 3; cho phép sử dụng thanh toán lệ\nphí trực tuyến, nhận hồ sơ và trả kết quả trực tuyến hoặc gửi qua mạng (dịch vụ\ncông trực tuyến mức độ 4).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Về chỉ số năng lực cạnh tranh cấp\ntỉnh: Phấn đấu Chỉ số PCI của Tỉnh nằm trong nhóm tốt cả nước. Trong năm 2017,\ntập trung cải thiện các chỉ số thành phần của năm 2016 đã bị giảm điểm và giảm\nthứ hạng so với năm 2015.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. CÁC NHIỆM VỤ\nVÀ GIẢI PHÁP CHỦ YẾU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Yêu cầu các sở, ngành, Ủy ban nhân\ndân các huyện, thành phố theo chức năng, nhiệm vụ và thẩm quyền được giao thực\nhiện các nhiệm vụ và giải pháp chủ yếu sau đây:</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Sở Kế hoạch và Đầu tư chủ trì, phối\nhợp với các Sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố và các đơn vị\nliên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện đầy đủ, nhất quán những cải\ncách quy định tại Luật doanh nghiệp và các nghị định hướng dẫn thi hành về Khởi\nsự kinh doanh và Giấy chứng nhận đăng ký doanh nghiệp. Cơ quan đăng ký kinh\ndoanh chủ trì phối hợp với cơ quan tài chính, thuế, lao động, bảo hiểm xã hội kết\nnối các thủ tục nhằm rút ngắn thời gian Khởi sự kinh doanh cho doanh nghiệp, bảo\nvệ nhà đầu tư; theo dõi, đánh giá về các ngành nghề kinh doanh có điều kiện và\nđiều kiện kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Tư pháp, các sở,\nngành liên quan xem xét, kiến nghị xây dựng Nghị định sửa đổi, bổ sung một số\nNghị định nhằm giải quyết các vướng mắc về đầu tư, kinh doanh, tạo sự liên\nthông giữa các thủ tục đầu tư với các thủ tục về đất đai, xây dựng, đấu thầu,\nmôi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu thay đổi phương thức thực\nhiện, giải quyết các thủ tục Công bố thông tin doanh nghiệp, Công bố thay đổi nội\ndung đăng ký doanh nghiệp và Thông báo mẫu con dấu sang phương thức điện tử, giải\nquyết trực tuyến trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đăng tải danh sách doanh nghiệp đã\nvà đang giải quyết thủ tục phá sản trên Cổng thông tin quốc gia về đăng ký\ndoanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường hiệu lực, hiệu quả công\ntác quản lý đấu thầu xây dựng. Đẩy mạnh triển khai thực hiện đấu thầu qua mạng\ntheo đúng lộ trình chỉ đạo của Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Tư pháp cập nhật,\nđăng tải danh sách các quản tài viên trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao năng lực phân tích chính\nsách cho khu vực tư nhân, nhất là các chính sách tác động tới hoạt động sản xuất,\nkinh doanh của doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các cơ quan triển khai\nsử dụng mã số doanh nghiệp duy nhất, sử dụng chữ ký số của doanh nghiệp trong tất\ncả các quan hệ giữa doanh nghiệp và các cơ quan quản lý nhà nước (Kế hoạch và Đầu\ntư, Thuế, Hải quan, Bảo hiểm xã hội, Tài nguyên và Môi trường, Xây dựng,...) và\ntrong các hoạt động của doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phấn đấu rút ngắn thời gian thành lập\nmới doanh nghiệp xuống còn dưới 03 ngày theo quy định của pháp luật. Phối hợp với\nTòa án nhân dân tỉnh xem xét, kiến nghị sửa đổi, bổ sung Nghị định số\n22/2015/NĐ-CP ngày 16/02/2015 của Chính phủ về quy định chi tiết thi hành một số\nđiều của Luật Phá sản nhằm cải thiện chỉ số phá sản doanh nghiệp theo đúng mục\ntiêu đã định xuống còn 24 tháng trong năm 2017 (mục tiêu năm 2017 dưới 30\ntháng).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng chương trình cải thiện PCI\nđể triển khai trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Duy trì nâng cao chất lượng hoạt động\ncủa Tổ hỗ trợ các dự án đầu tư, đường dây nóng hỗ trợ doanh nghiệp nhằm kịp thời\nxử lý, tháo gỡ các khó khăn, vướng mắc cho doanh nghiệp trong quá trình hoạt động;\nĐịnh kỳ tổ chức họp tổ hỗ trợ các dự án trên địa bàn, tổ chức đối thoại doanh\nnghiệp định kỳ hàng quý để nắm bắt xử lý kịp thời khó khăn, vướng mắc của doanh\nnghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện cơ chế đối thoại, tham vấn\ný kiến của doanh nghiệp, qua đó tạo điều kiện cho doanh nghiệp dân doanh tham\ngia góp ý kiến trong việc xây dựng, tổ chức thực hiện chính sách, chiến lược, kế\nhoạch phát triển kinh tế - xã hội của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện tốt chương trình hỗ trợ\nđào tạo về khởi nghiệp, nâng cao kỹ năng quản trị doanh nghiệp, kiến thức pháp\nluật cho doanh nghiệp theo Nghị định 56/2009/NĐ-CP của Chính phủ và Thông tư\n04/2014/TTLT-BKHĐT-BTC ngày 13/8/2014 của Bộ Kế hoạch và Đầu tư và Bộ Tài\nchính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện có hiệu quả\ncác chính sách hỗ trợ doanh nghiệp nhỏ và vừa (DNNVV), các hợp tác xã theo các\nchương trình của Trung ương và Tỉnh như: Hỗ trợ về thuế, vốn tín dụng; trợ giúp\nđào tạo, bồi dưỡng nguồn nhân lực cho các doanh nghiệp nhỏ và vừa; hỗ trợ doanh\nnghiệp hoạt động trong lĩnh vực nông nghiệp; thực hiện các chương trình xúc tiến\nthương mại, xúc tiến đầu tư, khuyến công, khoa học công nghệ, xây dựng thương\nhiệu sản phẩm của Tỉnh nhằm nâng cao năng lực cạnh tranh, khả năng tiếp cận thị\ntrường trong nước và nước ngoài.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu UBND tỉnh phê duyệt và triển\nkhai kêu gọi các dự án đầu tư theo hình thức đối tác công - tư (PPP) trên địa\nbàn tỉnh nhằm giảm áp lực ngân sách tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai, thực hiện Chương trình\nđào tạo, bồi dưỡng 1000 doanh nhân của tỉnh giai đoạn 2016 - 2020 (được ban\nhành kèm theo Quyết định số 3245/QĐ-UBND ngày 15/11/2016 của UBND tỉnh) và cam\nkết của Tỉnh với Phòng Thương mại và Công nghiệp Việt Nam tạo môi trường kinh\ndoanh thuận lợi cho doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu UBND tỉnh tổng hợp, báo\ncáo Chính phủ tình hình, kết quả thực hiện tại Phiên họp Chính phủ hàng quý, cuối\nnăm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Sở Tài chính chủ trì, phối hợp\nvới Cục Thuế tỉnh, Cục Hải quan tỉnh, Bảo hiểm xã hội, Kho bạc nhà nước, Ngân\nhàng Nhà nước chi nhánh tỉnh và các cơ quan liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Xây dựng, các Sở,\nngành liên quan tăng cường quản lý, giám sát, thanh tra, kiểm tra công tác thực\nhiện bảo hiểm trách nhiệm nghề nghiệp trong hoạt động đầu tư xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy nhanh thực hiện xác định giá trị\ntài sản nhà nước để giao cho đơn vị sự nghiệp công lập quản lý theo cơ chế giao\nvốn cho doanh nghiệp theo Nghị định số 02/2016/NĐ-CP ngày 06/01/2016 của Chính\nphủ sửa đổi, bổ sung Nghị định số 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ\nquy định chi tiết và hướng dẫn thi hành một số điều của Luật quản lý, sử dụng\ntài sản nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục đẩy mạnh cải cách thủ tục\nhành chính về thuế, hải quan, kho bạc, bảo hiểm xã hội; tăng cường trách nhiệm\nphối hợp của các cơ quan liên quan trong thực hiện thủ tục hành chính thuộc các\nlĩnh vực này. Công khai minh bạch thủ tục hành chính thuế, hải quan để người\ndân dễ tiếp cận và giám sát thực hiện; tăng cường đối thoại giữa doanh nghiệp với\ncơ quan thuế, hải quan để giải quyết kịp thời các khó khăn, vướng mắc cho doanh\nnghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Báo cáo UBND tỉnh ban hành quy định\nvà tổ chức thực hiện một số chính sách khuyến khích xã hội hóa đối với các hoạt\nđộng trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể dục thể\nthao, môi trường, giám định tư pháp trên địa bàn tỉnh; phối hợp với các đơn vị\nliên quan tham mưu UBND tỉnh rà soát, sắp xếp các đơn vị sự nghiệp công theo\nđúng quy định tại Nghị định số 16/2015/NĐ-CP ngày 14/12/2015 quy định cơ chế tự\nchủ của đơn vị sự nghiệp công lập.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Sở Công thương chủ trì, phối hợp\nvới Công ty điện lực Bà Rịa - Vũng Tàu, các Sở, ngành, Ủy ban nhân dân các huyện,\nthành phố và các cơ quan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, xem xét, kiến nghị ban\nhành Danh mục hàng hóa thuộc diện kiểm tra chuyên ngành theo Nghị định số\n187/2013/NĐ-CP ngày 20/11/2013 của Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện hiệu quả Thông tư số\n24/2016/TT-BCT ngày 30/11/2016 của Bộ Công Thương về rút ngắn thời gian tiếp cận\nđiện năng; thực hiện chuẩn hóa quy trình tiếp cận điện năng cấp quốc gia theo\nhướng “một cửa liên thông” giữa cơ quan nhà nước và điện lực trong giải quyết\ncác thủ tục “Thỏa thuận tuyến, vị trí cột/ thỏa thuận địa điểm trạm điện, vị\ntrí cột điện và hành lang lưới điện (bao gồm Giấy phép đào đường, vỉa hè)”. Phối\nhợp với Công ty Điện lực tỉnh khẩn trương thực hiện các biện pháp cần thiết nhằm\ngiảm các thủ tục, thời gian và chi phí để được cấp điện đối với các doanh nghiệp\nthuộc mọi thành phần kinh tế, bảo đảm rút thời gian tiếp cận xuống còn 30 ngày\ncho năm 2017. Thực hiện đầy đủ, kịp thời kế hoạch của Bộ Công thương, Tập đoàn\nđiện lực nhằm rút ngắn thời gian tiếp cận điện năng đối với các doanh nghiệp, dự\nán đầu tư.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, nghiên cứu, kiến nghị sửa\nđổi, bổ sung Quyết định số 35/2015/QĐ-TTg ngày 20/8/2015 của Thủ tướng Chính phủ\nvề việc ban hành Danh mục hàng hóa, dịch vụ thiết yếu phải đăng ký hợp đồng\ntheo mẫu, điều kiện giao dịch chung theo hướng bỏ một số dịch vụ ngân hàng (bao\ngồm thẻ ghi nợ nội địa; mở và sử dụng dịch vụ tài khoản thanh toán áp dụng cho\nkhách hàng cá nhân; vay vốn cá nhân nhằm mục đích tiêu dùng) ra khỏi Danh mục\nnhằm cắt giảm thủ tục hành chính không cần thiết, giảm chi phí tuân thủ thủ tục\nhành chính cho các tổ chức tín dụng và bảo đảm thống nhất về cơ quan quản lý\nnhà nước đối với việc cung ứng dịch vụ của các tổ chức tín dụng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xem xét, góp ý, kiến nghị dự thảo\nLuật Cạnh tranh (sửa đổi) trước tháng 12/2017, bảo đảm cạnh tranh bình đẳng, kiểm\nsoát có hiệu quả độc quyền, thống lĩnh trong kinh doanh. Giải quyết kịp thời\ncác khiếu nại đối với các vụ việc lạm dụng vị thế độc quyền, thống lĩnh, tập\ntrung hóa kinh tế, thỏa thuận hạn chế cạnh tranh và phát hiện kịp thời, xử lý\nnghiêm minh các vi phạm pháp luật cạnh tranh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các cơ quan liên quan\nnâng cao hiệu quả hoạt động của Ban chỉ đạo về hội nhập quốc tế, gắn việc cải\nthiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia với tiến\ntrình hội nhập kinh tế quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác kiểm tra, kiểm\nsoát thị trường, đấu tranh phòng chống buôn lậu, gian lận thương mại, hàng giả,\nhàng kém chất lượng, vi phạm sở hữu trí tuệ, nhãn hiệu hàng hóa nhằm tăng cường\nviệc tuân thủ pháp luật, tạo môi trường cạnh tranh lành mạnh, bình đẳng, góp phần\nthúc đẩy, nâng cao hiệu quả hoạt động sản xuất kinh doanh và đảm bảo lợi ích của\ncác nhà đầu tư.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai các nhiệm vụ, giải pháp\ncó liên quan trong Chương trình hành động của Chính phủ thực hiện Nghị quyết số\n06-NQ/TW ngày 05 tháng 11 năm 2016 của Ban chấp hành Trung ương Đảng Khóa XII về\ntiến trình hội nhập kinh tế, giữ vững ổn định chính trị - xã hội trong bối cảnh\nnước ta tham gia các hiệp định thương mại tự do.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4. Sở Nông nghiệp và Phát triển\nnông thôn chủ trì, phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành\nphố và các cơ quan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trước tháng 6 năm 2017 xem xét, đề\nxuất giải quyết các vướng mắc liên quan đến một số quy định tại Thông tư số\n48/2013/TT-BNNPTNT ngày 12/11/2013 của Bộ Nông nghiệp và Phát triển nông thôn về\ntỷ lệ lấy mẫu, cách thức lấy mẫu theo lô sản xuất để kiểm tra; thời gian xếp\ndoanh nghiệp trở lại Danh sách ưu tiên kể từ ngày đánh giá lại đạt yêu cầu theo\nquy định; thời gian cấp lại Giấy chứng nhận an toàn thực phẩm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, kiến nghị sửa đổi, bổ\nsung các quy định về xếp loại doanh nghiệp và sản phẩm trong quản lý, kiểm tra\nchuyên ngành đối với thủy sản nhập khẩu tại Thông tư số 26/2016/TT-BNNPTNT ngày\n30/6/2016 của Bộ Nông nghiệp và Phát triển nông thôn theo nguyên tắc quản lý rủi\nro, phân luồng ưu tiên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu và kiến nghị sửa đổi, bổ\nsung các quy định quản lý, kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập\nkhẩu tại Luật bảo vệ và kiểm dịch thực vật, Luật thú y theo hướng áp dụng\nphương thức quản lý trên cơ sở rủi ro của hàng hóa và mức độ tuân thủ pháp luật\ncủa doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, phối hợp với Sở Khoa học\nvà Công nghệ đề xuất ban hành Danh mục hàng hóa nhóm 2 phải kiểm tra chất lượng\ntrước khi thông quan thuộc trách nhiệm quản lý của Sở Nông nghiệp và Phát triển\nnông thôn kèm theo mã số HS để ban hành, sửa đổi, bổ sung hoặc thay thế Thông\ntư số 50/2009/TT-BNNPTNT ngày 18/8/2009 và Thông tư số 30/2010/TT-BNNPTNT ngày\n30/8/2010; nghiên cứu chuyển những mặt hàng có độ rủi ro thấp sang kiểm tra sau\nkhi hàng hóa đã thông quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường kiểm tra chứng nhận đủ\nđiều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm nông\nlâm thủy sản và hoạt động nuôi cá lồng bè trên địa bàn xã Long Sơn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Báo cáo, kiến nghị về trình tự thủ\ntục cho thuê môi trường rừng, chuyển mục đích sử dụng rừng để xây dựng công\ntrình phục vụ du lịch sinh thái tại các khu rừng phòng hộ, rừng đặc dụng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5. Sở Khoa học và Công nghệ, phối\nhợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn\nvị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, kiến nghị sửa đổi, bổ\nsung các quy định liên quan đến quản lý chất lượng sản phẩm, hàng hóa đối với\nhàng hóa xuất khẩu, nhập khẩu tại Luật chất lượng sản phẩm, hàng hóa, Luật tiêu\nchuẩn và quy chuẩn kỹ thuật theo hướng quản lý trên cơ sở rủi ro của hàng hóa\nvà mức độ tuân thủ pháp luật của doanh nghiệp, chuyển mạnh sang hậu kiểm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, kiến nghị xem xét bãi bỏ\nQuyết định số 50/2006/QĐ-TTg ngày 07/3/2006 của Chính phủ về việc ban hành Danh\nmục sản phẩm, hàng hóa phải kiểm tra về chất lượng do căn cứ ban hành Quyết định\nlà Pháp lệnh chất lượng hàng hóa và Nghị định số 179/2004/NĐ-CP đã hết hiệu lực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, phối hợp với Sở Y tế, Sở\nNông nghiệp và Phát triển nông thôn và các Sở, Ngành rà soát, kiến nghị bãi bỏ,\nsửa đổi các quy định chứng nhận hợp quy, quản lý chất lượng không phù hợp với\nLuật tiêu chuẩn và quy chuẩn kỹ thuật, Luật chất lượng sản phẩm, hàng hóa và Luật\nan toàn thực phẩm theo hướng bãi bỏ các thủ tục hành chính không cần thiết, giảm\nthiểu thời gian xử lý về thủ tục hành chính đối với hàng hóa nhập khẩu, xuất khẩu,\ntăng cường hậu kiểm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, sửa đổi, bổ sung Thông\ntư số 23/2015/TT-BKHCN ngày 13/11/2015 của Bộ Khoa học và Công nghệ quy định việc\nnhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng theo hướng: Phối\nhợp với Sở Công Thương và các Sở quản lý chuyên ngành xây dựng tiêu chí nhập khẩu\nmáy móc, thiết bị theo tuổi thiết bị (từ năm sản xuất đến năm nhập khẩu) của từng\nlĩnh vực cụ thể, không áp dụng hạn chế chung “không quá 10 năm” cho tất cả các\nmáy móc, thiết bị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hình thành và phát triển hệ thống đổi\nmới sáng tạo quốc gia, các trung tâm đổi mới sáng tạo và vườn ươm công nghệ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hàng quý, hàng năm có Báo cáo\nchuyên đề về tình hình, kết quả cải thiện các chỉ số, chỉ tiêu về đổi mới sáng\ntạo gửi Sở Kế hoạch và Đầu tư tổng hợp báo cáo UBND tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thường xuyên kiểm tra hoạt động áp\ndụng Hệ thống quản lý chất lượng ISO vào của các cơ quan, tổ chức thuộc hệ thống\nhành chính nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh Chương trình khoa học và\ncông nghệ hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng\nhóa; xây dựng, phát triển và quảng bá thương hiệu đối với các sản phẩm, hàng\nhóa đặc sản của tỉnh giai đoạn 2014-2020; hỗ trợ hình thành hệ thống doanh nghiệp\nkhoa học - công nghệ và thị trường công nghệ để mua bán, chuyển giao công nghệ,\nkể cả bằng sáng chế và quyền sở hữu trí tuệ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu xây dựng trung tâm đổi mới\nsáng tạo và vườn ươm công nghệ nhằm khuyến khích các cơ quan, doanh nghiệp\ntrong lĩnh vực thuộc mọi thành phần kinh tế đổi mới công nghệ, sáng tạo; ứng dụng\ntiến bộ khoa học và công nghệ vào hoạt động sản xuất kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai, thực hiện có hiệu quả Kế\nhoạch hỗ trợ khởi nghiệp đổi mới sáng tạo của tỉnh giai đoạn 2016 - 2020 theo\nQuyết định số 3380/QĐ-UBND ngày 28/11/2016 của UBND tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">6. Sở Tài nguyên và Môi trường chủ\ntrì, phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ\nquan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện liên thông, kết nối điện\ntử trong giải quyết thủ tục hành chính về cấp giấy chứng nhận quyền sử dụng đất,\ngiao đất, cho thuê đất, đăng ký đất đai, giấy chứng nhận sở hữu công trình xây\ndựng với các thủ tục xác định nghĩa vụ tài chính về đất đai. Rút ngắn thời gian\nthực hiện các thủ tục cấp giấy chứng nhận quyền sử dụng đất cho doanh nghiệp và\nngười dân. Thực hiện mô hình liên thông các thủ tục công chứng, đăng ký quyền sử\ndụng đất, tài sản gắn liền với đất và cơ quan thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, sửa đổi, bổ sung các quy định\npháp luật về đất đai theo hướng cải cách quy trình, thủ tục hành chính, rút ngắn\nthời gian cấp Giấy chứng nhận sở hữu công trình xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác thanh tra, kiểm\ntra việc chấp hành quy định về công bố công khai quỹ đất chưa sử dụng, đất chưa\ncho thuê, cho thuê lại tại các khu công nghiệp, cụm công nghiệp, quỹ đất được\nNhà nước giao, cho thuê nhưng chậm đưa vào sử dụng. Tạo thuận lợi cho các doanh\nnghiệp, nhất là doanh nghiệp vừa và nhỏ tiếp cận đất đai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, sửa đổi, bổ sung các\nquy định liên quan đến thanh tra, kiểm tra bảo vệ môi trường theo hướng áp dụng\nquản lý theo mức độ rủi ro về ô nhiễm môi trường của các cơ sở sản xuất, kinh\ndoanh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu hướng dẫn cụ thể về hồ\nsơ nhập khẩu phế liệu quy định tại Thông tư số 41/2015/TT-BTNMT ngày 09/9/2015\ncủa Bộ Tài nguyên và Môi trường đối với trường hợp cấp Giấy xác nhận đủ điều kiện\nnhập khẩu phế liệu làm nguyên liệu sản xuất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện cơ chế liên thông kiểm\ntra, xác nhận chương trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án\nvà nghiệm thu đưa chương trình vào sử dụng theo hướng thành lập đoàn công tác\nliên ngành do cơ quan quản lý nhà nước về xây dựng chủ trì, trừ các chương\ntrình phải có yêu cầu vận hành thử nghiệm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, hoàn thiện các cơ chế,\nchính sách, quy định pháp luật của Tỉnh trong lĩnh vực đất đai, môi trường,\nkhoáng sản. Tạo chuyển biến mạnh mẽ về tiếp cận đất đai và mặt bằng sản xuất\nkinh doanh đối với doanh nghiệp; quản lý, khai thác và sử dụng hiệu quả tài\nnguyên, đất đai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Tư pháp công bố\ncông khai các thủ tục hành chính liên quan gồm yêu cầu, hồ sơ, trình tự, thời\ngian, chi phí trên trang thông tin điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, hoàn thiện các quy định về\nbảo vệ môi trường, bảo đảm phát triển bền vững. Có cơ chế phù hợp khuyến khích\ncác doanh nghiệp bảo vệ môi trường, tiết kiệm tài nguyên và năng lượng trên địa\nbàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">7. Sở Tư pháp chủ trì phối hợp với\ncác Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên\nquan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức thẩm định kịp thời, có chất\nlượng các dự thảo văn bản quy phạm pháp luật; theo dõi, đôn đốc các Sở, Ngành\nsoạn thảo văn bản quy định chi tiết thi hành luật, pháp lệnh, nghị định, quyết\nđịnh của Thủ tướng Chính phủ liên quan đến đầu tư, kinh doanh. Thực hiện rà\nsoát các văn bản pháp quy do UBND tỉnh ban hành liên quan đến các chính sách tại\nđịa phương để kịp thời sửa đổi, bổ sung hoặc trình cấp có thẩm quyền sửa đổi, bổ\nsung cơ chế chính sách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Tòa án tỉnh xem xét,\nkiến nghị hoàn thiện các văn bản pháp luật có liên quan đến thực thi Bộ luật tố\ntụng dân sự 2015, đẩy nhanh việc giải quyết tranh chấp hợp đồng theo hướng đơn\ngiản hóa quy trình, nội dung hồ sơ, bãi bỏ hồ sơ, thủ tục không cần thiết, rút\nngắn thời gian, giảm chi phí giải quyết tranh chấp thương mại.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu đề xuất ban hành hoặc kiến\nnghị ban hành các quy định pháp luật về hòa giải thương mại và tạo lập cơ chế\nthúc đẩy phương thức giải quyết tranh chấp thông qua hòa giải thương mại.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thúc đẩy phát triển đội ngũ quản\ntài viên, trọng tài và luật sư, nhất là luật sư chuyên sâu về thương mại.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, hệ thống hóa các quy định\npháp luật nói chung, các quy định liên quan đến cải thiện môi trường kinh\ndoanh, nâng cao năng lực cạnh tranh quốc gia nói riêng phù hợp với nội dung các\nvăn bản quy phạm pháp luật hiện hành trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục rà soát để đơn giản hóa thủ\ntục hành chính trên tất cả lĩnh vực quản lý nhà nước theo Nghị định số\n63/2010/NĐ-CP ngày 08/6/2013 của Chính phủ, kịp thời kiến nghị loại bỏ những thủ\ntục phức tạp, gây phiền hà cho cá nhân và tổ chức.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Tài nguyên và Môi\ntrường nghiên cứu các thủ tục liên quan tới đăng ký tài sản và công bố công\nkhai các thủ tục hành chính liên quan trên trang thông tin điện tử của từng đơn\nvị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiểm tra việc công khai các thủ tục\nhành chính đã được chuẩn hóa trên Cơ sở dữ liệu quốc gia trước ngày 02/7/2017.\nHoàn thành việc chuẩn hóa bộ thủ tục hành chính theo Quyết định số 08/QĐ-TTg\nngày 06/01/2015 và niêm yết công khai, đầy đủ, kịp thời các thủ tục hành chính\nthuộc thẩm quyền giải quyết trên mạng Internet và tại trụ sở cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục thực hiện tốt công tác phổ\nbiến, hướng dẫn pháp luật và giám sát tình hình thi hành văn bản pháp luật ở địa\nphương; kiểm tra, giám sát các cơ quan đơn vị liên quan trong việc giải quyết\ncác thắc mắc, khiếu nại của doanh nghiệp. Thực hiện việc tuyên truyền, tiếp nhận,\ngiải đáp các vướng mắc, kiến nghị của người dân, doanh nghiệp về quy định hành\nchính theo đúng quy định pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">8. Sở Nội vụ chủ trì phối hợp với\ncác Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên\nquan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục đẩy mạnh thực hiện tại địa\nphương Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2011 - 2020\nvà Kế hoạch cải cách hành chính nhà nước giai đoạn 2016 - 2020; Đề án tăng cường\nnăng lực đội ngũ công chức chuyên trách cải cách hành chính; Đề án đo lường sự\nhài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà\nnước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác thanh tra, kiểm\ntra, xử lý nghiêm các hành vi nhũng nhiễu, gây khó khăn cho người dân, doanh\nnghiệp trong giải quyết thủ tục hành chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục tăng cường công tác kiểm\ntra giám sát thực hiện cải cách hành chính tại các đơn vị, nhất là cải cách thủ\ntục hành chính trong các lĩnh vực: đất đai, đầu tư, xây dựng, thuế, hải quan,\nđăng ký doanh nghiệp; Thường xuyên thực hiện thanh tra công vụ nhằm phát hiện\nvà xử lý nghiêm những cán bộ công chức có hành vi nhũng nhiễu, gây cản trở cho\ntổ chức, công dân khi thi hành công vụ; giám sát quy định về giải trình và giải\nquyết các kiến nghị của người dân và doanh nghiệp. Nghiên cứu các giải pháp đẩy\nmạnh tiếp nhận và trả kết quả giải quyết thủ tục hành chính qua mạng hoặc dịch\nvụ bưu điện công ích.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, củng cố, kiện toàn về cơ cấu\ntổ chức, chức năng nhiệm vụ của các Trung tâm xúc tiến trên địa bàn tỉnh nhằm từng\nbước nâng cao vai trò, hiệu quả của các đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Củng cố, nâng cao năng lực hoạt động\ncủa các tổ chức đại diện doanh nghiệp trên địa bàn Tỉnh để phát huy đầy đủ vai\ntrò là cầu nối giữa doanh nghiệp với nhà nước, qua đó, phát huy vai trò của các\ntổ chức đại diện doanh nghiệp trong việc góp ý xây dựng và phản biện các chính\nsách, quy định của Tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">9. Sở Giao thông Vận tải chủ trì\nphối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ\nquan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Áp dụng quản lý trên cơ sở đánh giá\nmức độ rủi ro của hàng hóa và mức độ tuân thủ pháp luật của doanh nghiệp trong\nquản lý, kiểm tra chuyên ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đơn giản hóa các thủ tục hành\nchính, đẩy mạnh kết nối trực tuyến với Cổng thông tin một cửa quốc gia trong thực\nhiện nhận và trả kết quả kiểm tra chuyên ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Công Thương, Sở Xây\ndựng rà soát, sửa đổi, bổ sung các quy định về thủ tục thỏa thuận vị trí cột hoặc\ntrạm điện và hành lang lưới điện, cấp phép thi công công trình điện trong trường\nhợp công trình điện nằm toàn bộ hoặc một phần trên đất công trình tại Nghị định\nsố 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và\nbảo vệ kết cấu hạ tầng giao thông đường bộ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tập trung thực hiện các giải pháp cải\nthiện chất lượng, nâng cao khả năng kết nối hạ tầng giao thông vận tải; nâng\ncao chất lượng cơ sở hạ tầng, chất lượng đường bộ, chất lượng hạ tầng cảng biển,\nhạ tầng hàng không. Tham mưu UBND tỉnh thực hiện Quy hoạch Khu logistics tập\ntrung Cái Mép Hạ, kiến nghị với Trung ương sớm nâng cấp Sân bay Côn Đảo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tập trung triển khai thực hiện các\nchương trình nâng cao hiệu quả hoạt động cảng biển nhóm 5 và cụm cảng Quốc tế\nCái Mép Thị Vải của Bộ Giao thông Vận tải và UBND tỉnh. Trong đó tập trung phối\nhợp với các cơ quan liên quan thực hiện các giải pháp giảm phí và các lệ phí\nhàng hải; cải thiện cơ chế, thủ tục hàng hải, hàng hóa để rút ngắn thời gian\nlàm hàng cho doanh nghiệp; phối hợp Hải quan tỉnh tháo gỡ vướng mắc xung quanh\nhoạt động các cảng; nâng cao chất lượng và rút ngắn thời gian trong việc cung cấp\ncác dịch vụ có liên quan đến hoạt động logistic hướng tới giảm chi phí các dịch\nvụ vận tải trên địa bàn xuống bằng với mức trung bình của nhóm nước ASEAN-4.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">10. Sở Xây dựng chủ trì, phối hợp\nvới các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị\nliên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục rà soát, cải cách quy\ntrình, thủ tục hành chính về cấp phép xây dựng, đẩy mạnh ứng dụng công nghệ\nthông tin, giảm thời gian thực hiện thủ tục cấp phép xây dựng (bao gồm thẩm định\nthiết kế cơ sở, thẩm định thiết kế kỹ thuật, cấp giấy phép xây dựng).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Công an tỉnh nghiên cứu\nđề xuất kết hợp thực hiện lồng ghép thủ tục thẩm duyệt thiết kế phòng cháy chữa\ncháy với thủ tục thẩm định dự án, thẩm định thiết kế xây dựng; phối hợp với Sở\nTài nguyên và Môi trường thực hiện thủ tục cấp Giấy chứng nhận sở hữu công\ntrình xây dựng. Phối hợp với Sở Tài chính thực hiện quản lý, giám sát, thanh\ntra, kiểm tra công tác thực hiện bảo hiểm trách nhiệm nghề nghiệp trong hoạt động\nđầu tư xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các Sở, ngành có liên\nquan duy trì và tăng cường các biện pháp kiểm soát chất lượng xây dựng bao gồm\ncả chất lượng các quy định pháp luật về xây dựng; kiểm soát chất lượng trước\nkhi thi công xây dựng công trình; kiểm soát chất lượng sau khi hoàn thành thi\ncông xây dựng công trình; trách nhiệm pháp lý của các chủ thể sau khi thi công;\nquản lý và cấp chứng chỉ hành nghề, chứng chỉ năng lực hoạt động xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giải quyết các vướng mắc cho doanh\nnghiệp trong thực hiện thủ tục cấp phép xây dựng theo Nghị định 59/2015/NĐ-CP\nngày 18 tháng 6 năm 2015 của Chính phủ về Quản lý dự án đầu tư xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, cải cách thủ tục hành\nchính, quy định liên quan đến sản xuất, cung cấp nước sạch, giảm thủ tục hành\nchính, thời gian thực hiện. Điện tử hóa thủ tục thực hiện thỏa thuận, đấu nối,\nkiểm tra thực địa, cấp và thoát nước với Công ty Cổ phần Cấp nước, Công ty TNHH\nMTV Thoát nước và Phát triển đô thị nhằm rút ngắn thời gian thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Công an tỉnh tổ chức\nnghiệm thu công trình xây dựng và phòng cháy, chữa cháy.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát các thủ tục hành chính, xây\ndựng quy chế phối hợp về thủ tục cấp Giấy phép xây dựng đảm bảo thời gian cấp phép\nxây dựng và các thủ tục liên quan dưới 70 ngày.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động nghiên cứu hướng dẫn công\nkhai, minh bạch các thủ tục cấp giấy phép xây dựng, bảo đảm cho doanh nghiệp, tổ\nchức, cá nhân dễ tiếp cận; tăng cường kiểm tra, xử lý vi phạm trong công tác cấp\ngiấy phép xây dựng theo các quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">11. Sở Giáo dục và Đào tạo chủ trì\nphối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ\nquan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, hoàn thiện các thủ tục, điều\nkiện thành lập, hoạt động đối với các cơ sở giáo dục và đào tạo trên địa bàn tỉnh;\nnghiên cứu, đề xuất các chính sách khuyến khích và tạo điều kiện thuận lợi để\ncác trường đại học hàng đầu quốc tế mở cơ sở đào tạo tại tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao chất lượng của các cơ sở\ngiáo dục đào tạo. Tạo điều kiện thuận lợi cung ứng dịch vụ giáo dục đào tạo\ntheo cơ chế thị trường gắn với việc kiểm soát chặt chẽ chất lượng đầu vào và đầu\nra. Đẩy mạnh ứng dụng công nghệ thông tin trong dạy và học tại các cơ sở giáo dục.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kiểm tra, giám sát nội dung các\nchương trình giáo dục đào tạo, đặc biệt là giáo dục nghề nghiệp để theo hướng\nthiết thực hơn, gần với thực tế hơn, đảm bảo các sinh viên và học viên ra trường\ncó thể làm việc ngay, giảm thời gian đào tạo lại cho doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">12. Sở Lao động - Thương binh và\nXã hội chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố\nvà các cơ quan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục rà soát, sửa đổi, bổ sung\nhoàn thiện chính sách bảo hiểm xã hội; phối hợp với Bảo hiểm xã hội tỉnh nghiên\ncứu, đánh giá thực trạng thu, chi bảo hiểm xã hội, từ đó kiến nghị sửa đổi các\nquy định nhằm đảm bảo hiệu quả chính sách và khuyến khích doanh nghiệp phát triển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đổi mới cơ chế, chính sách đào tạo\nnghề theo hướng mở rộng quyền tự chủ tuyển sinh, tự chủ tài chính, tự chủ về\nchương trình, nội dung và sản phẩm dịch vụ và cung ứng dịch vụ giáo dục, đào tạo\ntheo cơ chế thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kết nối cơ sở dữ liệu với Bảo hiểm\nxã hội tỉnh để thực hiện các giao dịch điện tử trong lĩnh vực bảo hiểm thất\nnghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Giáo dục và Đào tạo\nvà các Sở, ngành liên quan xem xét, kiến nghị hoàn thiện, góp ý Nghị định quy định\nvề kiểm định chất lượng giáo dục nghề nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Bảo hiểm xã hội lập cơ\nchế liên thông, chia sẻ thông tin về doanh nghiệp, tạo điều kiện thuận lợi cho\ndoanh nghiệp đăng ký lao động, bảo hiểm xã hội theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, hoàn thiện các thủ tục và\nđiều kiện thành lập, hoạt động đối với các tổ chức đào tạo nghề ngoài công lập;\nbãi bỏ theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền bãi bỏ các thủ tục không\ncần thiết, không hợp lý và không hợp pháp; bổ sung, sửa đổi và đơn giản hóa, giảm\nchi phí tuân thủ đối với các thủ tục, điều kiện còn lại theo hướng khuyến khích\nvà tạo thuận lợi hơn cho khu vực tư nhân và các tổ chức xã hội tham gia hoạt động\nđào tạo nghề.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu chính sách để khuyến\nkhích tổ chức, cá nhân tham gia đầu tư cho giáo dục nghề nghiệp và đào tạo nguồn\nnhân lực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">13. Sở Thông tin và Truyền thông\nchủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các\ncơ quan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát Danh mục hàng hóa thuộc\ntrách nhiệm quản lý của Sở Thông tin truyền thông ban hành kèm theo Thông tư số\n15/2014/TT-BTTTT ngày 17 tháng 11 năm 2014 của Bộ Thông tin và Truyền thông ban\nhành Danh mục hàng hóa theo mã số HS thuộc diện quản lý chuyên ngành của Sở\nThông tin và Truyền thông, xem xét, kiến nghị bãi bỏ tất cả các mã hàng không\nthuộc loại hàng hóa giao cho Sở Thông tin truyền thông quản lý tại Nghị định số\n187/2013/NĐ-CP ngày 20 tháng 11 năm 2013 của Chính phủ quy định chi tiết thi\nhành Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và các hoạt động đại\nlý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, kiến nghị sửa đổi Nghị định\nsố 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động\nin theo hướng quy định rõ danh mục đối tượng chịu sự điều chỉnh, theo đó không\náp dụng đối với hoạt động in bao bì, bề mặt sản phẩm. Bãi bỏ các quy định có\ntính chất hạn chế quyền tự do kinh doanh của doanh nghiệp (như quy định hạn chế\nhợp tác giữa các cơ sở in; cấp phép nhập khẩu các máy móc gia công sau in; quy\nđịnh về người đứng đầu cơ sở in phải có chứng chỉ cao đẳng ngành in; cấp phép đối\nvới các hợp đồng in từ nước ngoài,...).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, đề xuất các giải pháp\nthúc đẩy phát triển doanh nghiệp khởi nghiệp sáng tạo trong lĩnh vực công nghệ\nthông tin - viễn thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hàng quý, hàng năm có Báo cáo\nchuyên đề về tình hình, kết quả cải thiện các chỉ số, chỉ tiêu về Chính phủ điện\ntử gửi UBND tỉnh và Sở Kế hoạch và Đầu tư tổng hợp, báo cáo Chính phủ tại Phiên\nhọp Chính phủ thường kỳ tháng cuối quý, cuối năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường ứng dụng công nghệ thông\ntin trong công tác quản lý nhà nước. Thực hiện cung cấp dịch vụ công trực tuyến\nvà Chính phủ điện tử; triển khai xây dựng hệ thống cơ sở dữ liệu quốc gia; hỗ\ntrợ Sở Tài nguyên và Môi trường, Kế hoạch và Đầu tư xây dựng các cơ sở dữ liệu\nvề dân cư, đất đai, doanh nghiệp...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh ứng dụng công nghệ thông\ntin trong các ngành, lĩnh vực sản xuất kinh doanh và đời sống. Rà soát, cập nhập\nđầy đủ, kịp thời các thủ tục hành chính lên Cổng thông tin điện tử của Tỉnh,\ntrang thông tin điện tử CCHC và trang thông tin điện tử của các đơn vị tạo điều\nkiện cho các tổ chức, cá nhân tìm kiếm thông tin dễ dàng; bảo đảm an toàn thông\ntin mạng; mở diễn đàn tiếp nhận các ý kiến phản biện chính sách của doanh nghiệp\nvà người dân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ, tăng cường nội dung, thường\nxuyên cập nhật thông tin trên trang web của tỉnh và các Sở; UBND các huyện,\nthành phố; Các thông tin phải đầy đủ, kịp thời, rõ ràng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức thực hiện đầy đủ các nội\ndung quy định về công khai trên cơ sở dữ liệu quốc gia đối với từng lĩnh vực, từng\nngành đúng theo quy định. Xây dựng lộ trình nâng cấp độ hỗ trợ trực tuyến lên cấp\nđộ 03 tại các Sở, ngành, địa phương theo Quyết định số 1605/QĐ-TTg ngày\n9/6/2010 của Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai áp dụng chữ ký số của\ndoanh nghiệp và các cơ quan quản lý nhà nước trong các hoạt động của doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu nâng cao các chỉ số hạ tầng\nviễn thông, gồm: Số thuê bao điện thoại (di động và máy bàn) trên 100 dân, Tỷ lệ\nngười dùng internet (% dân số),..</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, hoàn thiện các cơ chế,\nchính sách quản lý nhà nước để tạo điều kiện thuận lợi thúc đẩy phát triển,\nkhuyến khích ứng dụng công nghệ thông tin trong quản lý nhà nước trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">14. Sở Y tế chủ trì phối hợp với\ncác Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên\nquan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì phối hợp với các Sở, cơ\nquan liên quan khẩn trương tổng kết, đánh giá kết quả thực hiện và đề xuất sửa\nđổi, bổ sung Luật an toàn thực phẩm, trong đó có việc đổi mới công tác kiểm tra\nchuyên ngành đối với hàng hóa là thực phẩm xuất nhập khẩu theo hướng áp dụng\nthông lệ quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, kiến nghị sửa đổi thẩm quyền\ncủa cơ quan tiếp nhận hồ sơ đăng ký và cấp giấy tiếp nhận bản công bố hợp quy\nvà giấy xác nhận công bố phù hợp quy định an toàn thực phẩm đối với các sản phẩm\nnhập khẩu và xuất khẩu theo hướng phân cấp cho các cơ quan chuyên môn ở địa\nphương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo cơ sở khám chữa bệnh kết nối\ncơ sở dữ liệu với Sở Y tế, Bộ Y tế và Bảo hiểm xã hội tỉnh, Bảo hiểm xã hội Việt\nNam để thực hiện giao dịch điện tử phục vụ quản lý nhà nước về Bảo hiểm y tế và\ngiám định, thanh toán chi phí khám chữa bệnh bảo hiểm y tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">15. Sở Ngoại vụ chủ trì phối hợp với\ncác Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên\nquan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các Sở, ngành liên\nquan hỗ trợ doanh nghiệp nâng cao năng lực hội nhập quốc tế; tăng cường tuyên\ntruyền, phổ biến thông tin về hội nhập quốc tế, nhất là các cam kết theo các Hiệp\nđịnh thương mại tự do thế hệ mới, để thống nhất nhận thức và quán triệt trong\nthực thi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao năng lực của các cơ quan\nliên quan trong việc nắm bắt các quy định của pháp luật quốc tế về đầu tư, kinh\ndoanh, chủ động tuân thủ, nâng cao khả năng hỗ trợ giải quyết tranh chấp thương\nmại quốc tế nhằm bảo vệ tối đa lợi ích chính đáng của các doanh nghiệp trong nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">16. Bộ Chỉ huy quân sự tỉnh, Công\nan tỉnh chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố\nvà các cơ quan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu đề xuất, kiến nghị Chính\nphủ xem xét quy định Bộ đội biên phòng kiểm tra, giám sát hồ sơ và hàng hóa xuất\nnhập khẩu tại Điều 12 Thông tư số 09/2016/TT-BQP, đảm bảo phù hợp với Luật hải\nquan; đồng thời nghiên cứu đề xuất việc sửa đổi Điều 9 Pháp lệnh bộ đội biên\nphòng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Xây dựng rà soát, sửa\nđổi, bổ sung các quy định pháp luật về phòng cháy, chữa cháy theo hướng cải\ncách quy trình, thủ tục hành chính về thẩm duyệt phòng cháy, chữa cháy; nghiên\ncứu đề xuất lồng ghép thẩm định phòng cháy, chữa cháy với thẩm định thiết kế\nxây dựng, bảo đảm nâng cao chất lượng thẩm định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">17. Sở Thông tin và Truyền thông,\nBáo Bà Rịa - Vũng Tàu, Đài Phát thanh truyền hình tỉnh</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chủ động phối hợp với Ban Tuyên giáo\nTỉnh ủy và các Sở, ngành, cơ quan tổ chức truyền thông, quán triệt, phổ biến\nNghị quyết sâu rộng trong các ngành, các cấp. Tăng cường theo dõi, giám sát của\ncác cơ quan truyền thông, báo chí về kết quả thực hiện Nghị quyết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">18. Cục Thuế tỉnh</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện ứng dụng công nghệ thông\ntin tối thiểu đạt 95% trong nộp tờ khai, nộp thuế, hoàn thuế đối với doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công khai cơ sở dữ liệu về hoàn thuế,\nbảo đảm 100% hồ sơ hoàn thuế được kiểm tra và 100% hồ sơ khiếu nại của người nộp\nthuế được giải quyết đúng thời gian quy định của pháp luật. Công khai, minh bạch\ncác quy định của Luật quản lý thuế, các quy trình thanh tra, giải quyết khiếu nại\nvà hoàn thuế giá trị gia tăng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cụ thể hóa chủ trương định hướng quản\nlý thuế theo mức độ rủi ro và mức độ tuân thủ pháp luật của người nộp thuế, xác\nđịnh tính hợp lệ của giao dịch kinh tế dựa trên cơ sở giao dịch tiền hàng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Kế hoạch và Đầu tư\nxem xét, kiến nghị xây dựng hệ thống cấp mã số thuế tự động cho doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện rà soát, thực hiện các giải\npháp chống chuyển giá, trốn thuế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">19. Cục Hải quan tỉnh</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ứng dụng công nghệ thông tin trong\nquản lý hàng hóa xuất khẩu, nhập khẩu, đảm bảo kết nối thông tin thống nhất giữa\ncác cơ quan quản lý chuyên ngành với Cục Hải quan và Cổng thông tin một cửa quốc\ngia. Chủ trì, đôn đốc các Sở, ngành tập trung triển khai thành công các nội\ndung có liên quan đến Sở, ngành mình thuộc Kế hoạch tổng thể triển khai Cơ chế\nmột cửa quốc gia và Cơ chế một cửa ASEAN giai đoạn 2016 - 2020 ban hành theo\nQuyết định số 2185/QĐ-TTg ngày 14/11/2016 của Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, phối hợp với các bộ, cơ\nquan liên quan nâng cao hiệu quả thực hiện các thủ tục kiểm tra chuyên ngành tại\ncác cảng nơi có lưu lượng hàng hóa xuất nhập khẩu lớn, có nhiều hàng hóa xuất\nnhập khẩu thuộc đối tượng kiểm tra chuyên ngành trước thông quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cấp, hoàn thiện cơ chế quản lý\nrủi ro, thực hiện phân luồng trước khi hàng đến cảng để giải quyết thông quan\nhoặc giải phóng hàng hóa ngay khi đến cảng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục hoàn thiện nâng cao hiệu quả\nhệ thống thông quan điện tử, phối hợp với các đơn vị triển khai thực hiện kết\nquả kết nối trao đổi thông tin thương mại và các doanh nghiệp hoạt động trong\nlĩnh vực logistics, bảo hiểm và các dịch vụ khác có liên quan. Công khai các\ntiêu chí đánh giá mức độ tuân thủ của doanh nghiệp. Sửa đổi các văn bản quy phạm\npháp luật liên quan đến thực hiện thông quan điện tử tự động, bảo đảm tính thống\nnhất trong hệ thống.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giảm tỷ lệ các lô hàng nhập khẩu phải\nkiểm tra chuyên ngành tại giai đoạn thông quan từ 30 - 35% hiện nay xuống còn\n15% đến hết năm 2017. Đổi mới căn bản phương thức quản lý, kiểm tra chuyên\nngành trên cơ sở nguyên tắc quản lý rủi ro, đánh giá mức độ tuân thủ pháp luật\ncủa từng doanh nghiệp; áp dụng chế độ doanh nghiệp ưu tiên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Áp dụng kiểm tra chuyên ngành theo\nthông lệ quốc tế; đẩy mạnh công nhận lẫn nhau theo thỏa thuận; chủ động công nhận\nchất lượng của những nhãn hiệu, nhà sản xuất nổi tiếng, những hàng hóa được sản\nxuất tại các nước, khu vực có tiêu chuẩn chất lượng cao, tiên tiến (châu Âu, Mỹ,\nNhật Bản...). Chuyển thời điểm kiểm tra chuyên ngành, kiểm tra chất lượng hàng\nhóa, hiệu suất năng lượng, an toàn thực phẩm trong giai đoạn thông quan sang kiểm\ntra sau khi hàng hóa đã được thông quan (trừ kiểm dịch đối với trường hợp mặt\nhàng nhập khẩu có nguy cơ cao theo quy định của Bộ Nông nghiệp và Phát triển\nnông thôn). Đối với nguyên liệu nhập khẩu để sản xuất phục vụ tiêu dùng trong\nnước thực hiện kiểm tra tại khâu sản xuất và trước khi đưa sản phẩm vào lưu\nthông; đối với hàng xuất khẩu được sản xuất từ nguyên liệu nhập khẩu thực hiện\ntại cơ sở sản xuất trước khi xuất hàng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Điện tử hóa thủ tục (nộp hồ sơ, trả\nkết quả...) kiểm tra chuyên ngành; kết nối chia sẻ thông tin giữa các cơ quan,\ntổ chức quản lý, kiểm tra chuyên ngành với Cổng thông tin một cửa quốc gia và\nCơ chế một cửa ASEAN để giảm thiểu giấy tờ, hướng tới Mục tiêu phi giấy tờ, rút\nngắn thời gian thực hiện các thủ tục kiểm tra chuyên ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hoàn thiện hệ thống thông quan tự động\nVNACCS/VCIS, tập trung xử lý các thủ tục hải quan còn nhiều bất cập (giám sát\nhàng hóa tại cảng biển; miễn thuế, hoàn thuế và xác nhận hàng hóa qua khu vực\ngiám sát; quản lý rủi ro và phân luồng hàng hóa; kiểm soát tại cửa khẩu; thanh\nKhoản tờ khai nhập nguyên liệu để sản xuất hàng xuất khẩu; kiểm tra sau thông\nquan; kiểm tra thực tế hàng hóa,...). Công khai tiêu chí đánh giá, có hệ thống\ncảnh báo; công khai lý do doanh nghiệp bị phân vào luồng vàng, đỏ và hàng năm\ngiảm tỷ lệ kiểm tra luồng vàng, đỏ. Công bố bảng mã cảng trên website.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện kết nối, trao đổi thông\ntin bằng phương thức điện tử về hàng hóa tại cảng nhằm giảm thiểu hồ sơ giấy tờ,\nnâng cao hiệu quả quản lý nhà nước đối với hàng hóa, container tại các cảng biển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Niêm yết các quy định về phí kiểm\ntra chuyên ngành theo hướng giảm chi phí cho doanh nghiệp và minh bạch trách\nnhiệm trả phí. Thực hiện kiểm tra đúng theo danh Mục kiểm tra chuyên ngành phục\nvụ quản lý nhà nước và kiểm tra chuyên ngành theo yêu cầu của doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">20. Ban Quản lý các Khu công nghiệp\ntỉnh</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Rà soát, đôn đốc các Công ty đầu tư hạ\ntầng khu công nghiệp đầu tư hạ tầng kỹ thuật; đẩy mạnh cải cách thủ tục hành\nchính, thu hồi các dự án chậm triển khai, tạo điều kiện cho các nhà đầu tư mới\ncó năng lực tiếp cận nguồn lực đất đai để thu hút đầu tư, nâng tỷ lệ lấp đầy tại\ncác khu công nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">21. Bảo hiểm xã hội chủ trì, phối\nhợp với Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị\nliên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, đề xuất xây dựng quy\ntrình, thủ tục thanh tra, kiểm tra bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất\nnghiệp đối với doanh nghiệp để thống nhất thực hiện. Phối hợp với Sở Lao động -\nThương binh và Xã hội, Sở Y tế thống nhất về thẩm quyền, cơ chế phối hợp giữa\ncác cơ quan thực hiện chức năng thanh tra.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, phối hợp với các Bộ, cơ\nquan liên quan tại địa phương tiếp tục rà soát, đơn giản hóa hồ sơ, quy trình\nvà thủ tục kê khai thu và chi bảo hiểm xã hội, bảo hiểm y tế; rút ngắn thời\ngian hoàn thành thủ tục nộp bảo hiểm bắt buộc đối với doanh nghiệp xuống còn\n49,5 giờ. Triển khai ứng dụng phần mềm hỗ trợ kê khai hồ sơ tham gia bảo hiểm\nxã hội, bảo hiểm y tế theo chương trình chung của quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, rút ngắn thời gian hoàn\nthành thủ tục nộp bảo hiểm bắt buộc đối với doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức nghiên cứu, triển khai áp dụng\nđại trà chữ ký số trong kê khai nộp thuế, nộp bảo hiểm xã hội, bảo hiểm y tế\nqua mạng. Áp dụng công nghệ thông tin, kết nối mạng giữa các cơ quan bảo hiểm\nxã hội của 63 tỉnh, thành phố, tạo lập cơ sở dữ liệu bảo hiểm xã hội tập trung\ncủa cả nước, tiến tới thực hiện giao dịch điện tử đối với các thủ tục kê khai,\nthu nộp và giải quyết chính sách bảo hiểm xã hội và bảo hiểm y tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công khai kịp thời các thông tin và\ndịch vụ trực tuyến lên trang thông tin điện tử của Bảo hiểm Xã hội tỉnh và Cổng\nthông tin điện tử của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">22. Ngân hàng nhà nước chi nhánh tỉnh</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện các giải pháp cải thiện\nvà minh bạch hóa thông tin tín dụng, tạo điều kiện cho doanh nghiệp, tổ chức,\ncá nhân thuộc mọi thành phần kinh tế được bình đẳng và thuận lợi trong việc tiếp\ncận vốn tín dụng theo cơ chế thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo các ngân hàng thương mại,\ncác tổ chức tín dụng phối hợp với Bảo hiểm xã hội tỉnh thực hiện thanh toán điện\ntử trong thu nộp và chi trả các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm\nthất nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện tốt các giải\npháp tiền tệ tín dụng nhằm tháo gỡ khó khăn vướng mắc, hỗ trợ thị trường tạo điều\nkiện thuận lợi cho doanh nghiệp tiếp cận tốt các nguồn vốn tín dụng của ngân\nhàng trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">23. Ủy ban nhân dân các huyện,\nthành phố chủ trì phối hợp với các Sở, ngành và các cơ quan, đơn vị liên quan:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện cải cách thủ tục hành\nchính tư pháp theo đúng tinh thần của Bộ luật tố tụng dân sự 2015, Luật phá sản\n2014; rút ngắn thời gian, nâng cao hiệu quả công tác thi hành án theo yêu cầu của\nNghị quyết; hỗ trợ hoạt động của tòa án, cơ quan thi hành án, thừa phát lại, luật\nsư; phát triển về số lượng và chất lượng quản tài viên, doanh nghiệp hành nghề\nquản lý, thanh lý tài sản tại địa phương; công khai thông tin đầy đủ, kịp thời\nvề đội ngũ luật sư, quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài\nsản trên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công khai hóa quy trình, thủ tục và\nthời gian giải quyết thủ tục hành chính theo quy định, trong đó trọng tâm là rà\nsoát các thủ tục hành chính như cấp phép xây dựng, phê duyệt quy hoạch, phê duyệt\nthủ tục về môi trường. Kiện toàn tổ chức, bộ máy và nâng cao năng lực cán bộ,\ncông chức thực hiện công tác cấp giấy phép xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn công khai, minh bạch về\nquy trình, thủ tục cấp giấy phép xây dựng, bảo đảm cho doanh nghiệp, tổ chức,\ncá nhân dễ dàng tiếp cận; tăng cường kiểm tra, xử lý vi phạm trong công tác cấp\ngiấy phép xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">24. Đề nghị Chi nhánh Phòng Thương\nmại và Công nghiệp Việt Nam, Trung tâm xúc tiến đầu tư tỉnh Bà Rịa - Vũng Tàu,\nHội Luật gia tỉnh Bà Rịa - Vũng Tàu, các hiệp hội doanh nghiệp, hiệp hội ngành\nnghề tại tỉnh:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiến hành khảo sát, đánh giá độc lập\nvề chất lượng thực hiện thủ tục hành chính, đưa ra các khuyến nghị với UBND tỉnh.\nTổ chức thu thập ý kiến phản biện chính sách, những vướng mắc, khó khăn trong\nthực hiện thủ tục hành chính của các doanh nghiệp, các nhà đầu tư để phản ánh với\ncơ quan có thẩm quyền xem xét, tháo gỡ kịp thời và công khai trên các phương tiện\nthông tin đại chúng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức thu thập ý kiến phản biện\nchính sách, những vướng mắc, khó khăn trong thực hiện thủ tục hành chính của\ncác doanh nghiệp, các nhà đầu tư để phản ánh với cơ quan có thẩm quyền xem xét,\ntháo gỡ kịp thời và công khai trên các phương tiện thông tin đại chúng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các Sở, cơ quan, các\nhiệp hội doanh nghiệp lập các chương trình hỗ trợ doanh nghiệp xây dựng chiến\nlược cạnh tranh, áp dụng khoa học công nghệ, nâng cao năng suất, xây dựng\nthương hiệu, thực hiện tốt trách nhiệm xã hội nhằm từng bước cải thiện trình độ\nkinh doanh và năng lực cạnh tranh của cộng đồng doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các Sở, cơ quan, các\nhiệp hội doanh nghiệp để hỗ trợ doanh nghiệp trong việc xây dựng và triển khai\nthực hiện chương trình phát triển bền vững, nâng cao năng lực cạnh tranh và\ntăng cường hội nhập quốc tế của các doanh nghiệp Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các Sở, ngành xây dựng\nvà triển khai chương trình nâng cao năng lực hoạt động cho các hiệp hội doanh\nnghiệp Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">25. Đề nghị Tòa án nhân dân tỉnh,\nViện Kiểm sát nhân dân tỉnh, Cục Thi hành án dân sự tỉnh</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu góp ý các văn bản hướng\ndẫn thực thi Bộ luật Tố tụng dân sự, Luật phá sản 2014 để các quy định này sớm\náp dụng trên thực tế và đạt hiệu quả cao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp Sở Tư pháp nghiên cứu áp dụng\nmô hình “hành chính tư pháp một cửa” tại các cấp tòa án; áp dụng thủ tục tố tụng\nrút gọn đối với các vụ án có giá trị nhỏ; hoàn thiện mô hình “tòa án điện tử”,\ntriển khai các mô hình tiếp nhận đơn khởi kiện, tống đạt, thông báo quá trình tố\ntụng và lịch xét xử và giải quyết phá sản trực tuyến tại tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu đề xuất xây dựng cơ chế\nhỗ trợ phát triển hoạt động của trọng tài và hòa giải thương mại, như: (i) hạn\nchế can thiệp vào nội dung giải quyết vụ án trong các phán quyết trọng tài;\n(ii) tạo điều kiện công nhận và cho thi hành các phán quyết của trọng tài nước\nngoài; (iii) công nhận quyết định hòa giải thành của các bên ngoài tòa án.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao tính chuyên nghiệp trong\nviệc giải quyết tranh chấp kinh doanh thương mại, phá sản doanh nghiệp; công\nkhai các hoạt động giải quyết vụ án của tòa án và công khai các bản án; đảm bảo\nthực hiện giải quyết tranh chấp hợp đồng tối đa 300 ngày.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Cung cấp thông tin về những doanh\nnghiệp đã và đang thực hiện thủ tục phá sản doanh nghiệp để Bộ Kế hoạch và Đầu\ntư đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. TỔ CHỨC THỰC\nHIỆN:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Các Sở, Ngành, Đơn vị, UBND các\nhuyện, thành phố:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Căn cứ vào các nhiệm vụ được giao\ntrong Kế hoạch và phụ lục chi tiết về các chỉ số theo Nghị quyết 19-2017/NQ-CP\nngày 06/02/2017 của Chính phủ, thực hiện nghiên cứu, tổ chức thực hiện và định\nkỳ hàng quý, thực hiện báo cáo tình hình thực hiện Kế hoạch này gửi về Văn\nphòng Ủy ban nhân dân tỉnh và Sở Kế hoạch và Đầu tư <b><i>trước ngày 05 của\ntháng 3, 6, 9</i></b> và trước <b><i>ngày 05 tháng 12</i></b> (báo cáo tổng kết\ncả năm).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Nghiên cứu Kế hoạch hành động triển\nkhai Nghị quyết 19/2017/NQ-CP của các Bộ Ngành trung ương thuộc ngành dọc để tổ\nchức triển khai thực hiện trên địa bàn tỉnh và tổ chức thực hiện báo cáo theo\nyêu cầu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Giao Sở Kế hoạch và Đầu tư làm đầu\nmối theo dõi, đôn đốc, tổng hợp tình hình thực hiện Kế hoạch này báo cáo định kỳ\nhàng quý cho Ủy ban nhân dân tỉnh <b>trước ngày 10 của tháng 3, 6, 9</b> và trước\n<b><i>ngày 10 tháng 12 </i></b>để báo cáo tổng kết cả năm gửi về Văn phòng\nChính phủ và Bộ Kế hoạch và Đầu tư.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Sở Thông tin và truyền thông xây dựng\nnội dung và tuyên truyền các nội dung có liên quan đến chỉ số năng lực cạnh\ntranh cấp tỉnh và các nội dung của Nghị quyết 19-2016 đến tất cả các cơ quan,\nđơn vị trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Chủ tịch UBND các huyện, thành phố\nBà Rịa, thành phố Vũng Tàu có trách nhiệm triển khai các nhiệm vụ được giao đến\ncác đơn vị trực thuộc để tổ chức thực hiện, quán triệt, nâng cao trách nhiệm của\ntừng cán bộ, công chức của đơn vị đối với nhiệm vụ cải thiện môi trường kinh\ndoanh, nâng cao năng lực cạnh tranh của Tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Sở Nội vụ tăng cường kiểm tra,\ngiám sát việc tổ chức thực hiện Kế hoạch này và các Nghị quyết của Chính phủ tạo\nsự chuyển biến mạnh mẽ trong cải cách thủ tục hành chính trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Trong quá trình triển khai thực hiện,\nnếu có khó khăn, vướng mắc đề nghị các Sở, Ngành, Đơn vị, UBND các huyện, thành\nphố phản ánh về Văn phòng UBND tỉnh, Sở Kế hoạch và Đầu tư để kịp thời tổng hợp,\nbáo cáo UBND tỉnh bổ sung, điều chỉnh kịp thời./.</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BÀ RỊA - VŨNG TÀU  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 707/QĐ-UBND\n\n_Bà Rịa - Vũng Tàu, ngày 27 tháng 3 năm 2017_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH KẾ HOẠCH THỰC HIỆN NHỮNG NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU CẢI THIỆN MÔI TRƯỜNG KINH DOANH, NÂNG CAO NĂNG LỰC CẠNH TRANH CỦA TỈNH BÀ RỊA - VŨNG TÀU TRONG NĂM 2017, ĐỊNH HƯỚNG ĐẾN NĂM 2020 THEO NGHỊ QUYẾT SỐ 19-2017/NQ-CP NGÀY 06/02/2017 CỦA CHÍNH PHỦ\n\n**CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BÀ RỊA - VŨNG TÀU**\n\n_Căn cứ Luật tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Nghị quyết số 19-2017/NQ-CP ngày 06 tháng 02 năm 2017 của Chính phủ về tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2017, định hướng đến năm 2020;_\n\n_Xét đề nghị của Sở Kế hoạch và Đầu tư (tại văn bản số 362/SKHĐT-ĐTKT ngày 13 tháng 3 năm 2017),_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành Kế hoạch thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh của tỉnh Bà Rịa - Vũng Tàu trong năm 2017, định hướng đến năm 2020 theo Nghị quyết số 19-2017/NQ-CP ngày 06 tháng 02 năm 2017 của Chính phủ.\n\n**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký ban hành.\n\n**Điều 3.**\n\n1\\. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc các Sở: Tài chính, Nội vụ, Ngoại vụ, Tài nguyên và Môi trường, Xây dựng, Công Thương, Thông tin và Truyền thông, Y tế, Nông nghiệp và Phát triển nông thôn, Tư pháp, Giao thông Vận tải, Giáo dục - Đào tạo, Khoa học Công nghệ, Lao động - Thương binh và Xã hội; Trưởng Ban Quản lý các Khu công nghiệp; Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh, Bộ đội biên phòng; Giám đốc Công an tỉnh; Cục trưởng Cục Thuế; Cục trưởng cục Hải quan; Giám đốc Bảo hiểm xã hội tỉnh; Giám đốc Ngân hàng nhà nước chi nhánh tỉnh Bà Rịa - Vũng Tàu; Giám đốc Công ty Điện lực tỉnh Bà Rịa - Vũng Tàu; Giám đốc Công ty cổ phần Cấp nước; Giám đốc Công ty trách nhiệm hữu hạn một thành viên Thoát nước và Phát triển đô thị; Giám đốc Đài Phát thanh truyền hình Tỉnh, Tổng biên tập Báo Bà Rịa - Vũng Tàu; Chủ tịch Ủy ban nhân dân các huyện, thành phố và thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này.\n\n2\\. Đề nghị Chánh án Tòa án nhân dân tỉnh, Viện trưởng Viện Kiểm sát nhân dân tỉnh, Cục trưởng Cục Thi hành án dân sự Tỉnh, Giám đốc Phòng Thương mại và Công nghiệp Việt Nam chi nhánh tại Vũng Tàu, Giám đốc Trung tâm Xúc tiến Đầu tư tỉnh Bà Rịa - Vũng Tàu hỗ trợ, phối hợp thực hiện./.\n\n**_  \nNơi nhận:  \n_**\\- Văn phòng Chính phủ (b/c);  \n\\- Bộ Kế hoạch và Đầu tư (b/c);  \n\\- Phòng Thương mại-Công nghiệp Việt Nam (b/c);  \n\\- Thường trực Tỉnh ủy (để b/c);  \n\\- Thường trực HĐND tỉnh (để b/c);  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Như Điều 3;  \n\\- Lưu: VT, TH8 (45b).\n\n**KT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Thành Long**\n\n**KẾ HOẠCH**\n\nTHỰC HIỆN NHỮNG NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU CẢI THIỆN MÔI TRƯỜNG KINH DOANH, NÂNG CAO NĂNG LỰC CẠNH TRANH CỦA TỈNH BÀ RỊA - VŨNG TÀU TRONG NĂM 2017, ĐỊNH HƯỚNG ĐẾN NĂM 2020 THEO NGHỊ QUYẾT SỐ 19-2017/NQ-CP NGÀY 06 THÁNG 02 NĂM 2017 CỦA CHÍNH PHỦ  \n_(Ban hành kèm theo Quyết định số 707/QĐ-UBND ngày 27/3/2017 của Chủ tịch UBND tỉnh Bà Rịa - Vũng Tàu)_\n\nTriển khai thực hiện Nghị quyết số 19-2017/NQ-CP ngày 06/02/2017 của Chính phủ (Nghị quyết 19-2017) về tiếp tục thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2017, định hướng đến năm 2020;\n\nTrong năm 2016, UBND tỉnh đã ban hành kèm theo Quyết định số 1758/QĐ-UBND ngày 29/6/2016 Kế hoạch hành động cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh của tỉnh Bà Rịa - Vũng Tàu trong hai năm 2016 - 2017, định hướng đến năm 2020 và triển khai các nhiệm vụ theo Nghị quyết số 19-2016/NQ-CP ngày 28/4/2016 của Chính phủ;\n\nCăn cứ các nhiệm vụ theo Nghị quyết số 19-2017/NQ-CP và tình hình thực tế của Tỉnh, để thực hiện cải thiện môi trường kinh doanh - đầu tư, nâng cao năng lực cạnh tranh quốc gia, nâng cao năng lực đổi mới sáng tạo, tăng cường thực hiện chính phủ điện tử, UBND tỉnh Bà Rịa - Vũng Tàu ban hành Kế hoạch hành động như sau:\n\n**I. KẾ HOẠCH TRIỂN KHAI THỰC HIỆN NGHỊ QUYẾT 19-2017/NQ-CP NGÀY 06/02/2017 NĂM 2017, ĐỊNH HƯỚNG 2020:**\n\n**1\\. Mục tiêu tổng quát:**\n\nTriển khai thực hiện có hiệu quả Nghị quyết 19-2017 về những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia; tiếp tục cải thiện Chỉ số năng lực cạnh tranh cấp tỉnh (PCI) của tỉnh, nhằm tạo môi trường kinh doanh - đầu tư thuận lợi, thu hút các nguồn lực để thực hiện mục tiêu phát triển kinh tế - xã hội của Tỉnh giai đoạn 2016 - 2020, đồng thời đưa tỉnh Bà Rịa - Vũng Tàu trở thành điểm đến tin cậy đối với doanh nghiệp và các nhà đầu tư.\n\n**2\\. Mục tiêu và các chỉ tiêu chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh:**\n\nPhấn đấu thực thực hiện đạt và vượt các mục tiêu và chỉ tiêu chủ yếu theo Nghị quyết số 19-2017/NQ-CP của Chính phủ, cụ thể:\n\na) Đến hết năm 2017, các chỉ tiêu về môi trường kinh doanh gồm: Nộp thuế và bảo hiểm xã hội không quá 168 giờ/năm (trong đó thuế là 119 giờ và bảo hiểm là 49 giờ); Cấp phép xây dựng và các thủ tục liên quan tối đa không quá 120 ngày, bao gồm: thẩm định thiết kế cơ sở, thẩm định thiết kế kỹ thuật, cấp phép xây dựng xuống còn 63 ngày (giảm 19 ngày); thủ tục kết nối cấp, thoát nước xuống còn 7 ngày (giảm 7 ngày); thủ tục đăng ký sở hữu tài sản sau hoàn công xuống còn 20 ngày (giảm 10 ngày); tiếp cận điện năng không quá 35 ngày; đăng ký quyền sở hữu, sử dụng tài sản không quá 20 ngày; thông quan hàng hóa qua biên giới còn 70 giờ đối với hàng hóa xuất khẩu, 90 giờ đối với hàng hóa nhập khẩu; giải quyết tranh chấp hợp đồng tối đa 300 ngày; thời gian giải quyết phá sản doanh nghiệp còn 30 tháng.\n\nTạo lập hệ thống hỗ trợ khởi sự kinh doanh, tạo môi trường đầu tư, kinh doanh thuận lợi, ổn định, tự do sáng tạo cho doanh nghiệp khởi nghiệp; phấn đấu đến năm 2020 có khoảng 14.000 doanh nghiệp hoạt động trên địa bàn tỉnh.\n\nb) Đến năm 2020 thực hiện được mục tiêu của Chính phủ đề ra trên các nhóm chỉ tiêu về năng lực cạnh tranh và các chỉ số Đổi mới sáng tạo.\n\nc) Thực hiện Chính phủ điện tử: Phấn đấu đến hết năm 2017, hầu hết các dịch vụ công phổ biến, liên quan đến nhiều người dân, doanh nghiệp được cung cấp ở mức độ 3; cho phép sử dụng thanh toán lệ phí trực tuyến, nhận hồ sơ và trả kết quả trực tuyến hoặc gửi qua mạng (dịch vụ công trực tuyến mức độ 4).\n\nd) Về chỉ số năng lực cạnh tranh cấp tỉnh: Phấn đấu Chỉ số PCI của Tỉnh nằm trong nhóm tốt cả nước. Trong năm 2017, tập trung cải thiện các chỉ số thành phần của năm 2016 đã bị giảm điểm và giảm thứ hạng so với năm 2015.\n\n**II. CÁC NHIỆM VỤ VÀ GIẢI PHÁP CHỦ YẾU**\n\nYêu cầu các sở, ngành, Ủy ban nhân dân các huyện, thành phố theo chức năng, nhiệm vụ và thẩm quyền được giao thực hiện các nhiệm vụ và giải pháp chủ yếu sau đây:\n\n**1\\. Sở Kế hoạch và Đầu tư chủ trì, phối hợp với các Sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố và các đơn vị liên quan:**\n\n\\- Thực hiện đầy đủ, nhất quán những cải cách quy định tại Luật doanh nghiệp và các nghị định hướng dẫn thi hành về Khởi sự kinh doanh và Giấy chứng nhận đăng ký doanh nghiệp. Cơ quan đăng ký kinh doanh chủ trì phối hợp với cơ quan tài chính, thuế, lao động, bảo hiểm xã hội kết nối các thủ tục nhằm rút ngắn thời gian Khởi sự kinh doanh cho doanh nghiệp, bảo vệ nhà đầu tư; theo dõi, đánh giá về các ngành nghề kinh doanh có điều kiện và điều kiện kinh doanh.\n\n\\- Phối hợp với Sở Tư pháp, các sở, ngành liên quan xem xét, kiến nghị xây dựng Nghị định sửa đổi, bổ sung một số Nghị định nhằm giải quyết các vướng mắc về đầu tư, kinh doanh, tạo sự liên thông giữa các thủ tục đầu tư với các thủ tục về đất đai, xây dựng, đấu thầu, môi trường.\n\n\\- Nghiên cứu thay đổi phương thức thực hiện, giải quyết các thủ tục Công bố thông tin doanh nghiệp, Công bố thay đổi nội dung đăng ký doanh nghiệp và Thông báo mẫu con dấu sang phương thức điện tử, giải quyết trực tuyến trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.\n\n\\- Đăng tải danh sách doanh nghiệp đã và đang giải quyết thủ tục phá sản trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.\n\n\\- Tăng cường hiệu lực, hiệu quả công tác quản lý đấu thầu xây dựng. Đẩy mạnh triển khai thực hiện đấu thầu qua mạng theo đúng lộ trình chỉ đạo của Thủ tướng Chính phủ.\n\n\\- Phối hợp với Sở Tư pháp cập nhật, đăng tải danh sách các quản tài viên trên địa bàn tỉnh.\n\n\\- Nâng cao năng lực phân tích chính sách cho khu vực tư nhân, nhất là các chính sách tác động tới hoạt động sản xuất, kinh doanh của doanh nghiệp.\n\n\\- Phối hợp với các cơ quan triển khai sử dụng mã số doanh nghiệp duy nhất, sử dụng chữ ký số của doanh nghiệp trong tất cả các quan hệ giữa doanh nghiệp và các cơ quan quản lý nhà nước (Kế hoạch và Đầu tư, Thuế, Hải quan, Bảo hiểm xã hội, Tài nguyên và Môi trường, Xây dựng,...) và trong các hoạt động của doanh nghiệp.\n\n\\- Phấn đấu rút ngắn thời gian thành lập mới doanh nghiệp xuống còn dưới 03 ngày theo quy định của pháp luật. Phối hợp với Tòa án nhân dân tỉnh xem xét, kiến nghị sửa đổi, bổ sung Nghị định số 22/2015/NĐ-CP ngày 16/02/2015 của Chính phủ về quy định chi tiết thi hành một số điều của Luật Phá sản nhằm cải thiện chỉ số phá sản doanh nghiệp theo đúng mục tiêu đã định xuống còn 24 tháng trong năm 2017 (mục tiêu năm 2017 dưới 30 tháng).\n\n\\- Xây dựng chương trình cải thiện PCI để triển khai trên địa bàn tỉnh.\n\n\\- Duy trì nâng cao chất lượng hoạt động của Tổ hỗ trợ các dự án đầu tư, đường dây nóng hỗ trợ doanh nghiệp nhằm kịp thời xử lý, tháo gỡ các khó khăn, vướng mắc cho doanh nghiệp trong quá trình hoạt động; Định kỳ tổ chức họp tổ hỗ trợ các dự án trên địa bàn, tổ chức đối thoại doanh nghiệp định kỳ hàng quý để nắm bắt xử lý kịp thời khó khăn, vướng mắc của doanh nghiệp.\n\n\\- Thực hiện cơ chế đối thoại, tham vấn ý kiến của doanh nghiệp, qua đó tạo điều kiện cho doanh nghiệp dân doanh tham gia góp ý kiến trong việc xây dựng, tổ chức thực hiện chính sách, chiến lược, kế hoạch phát triển kinh tế - xã hội của địa phương.\n\n\\- Thực hiện tốt chương trình hỗ trợ đào tạo về khởi nghiệp, nâng cao kỹ năng quản trị doanh nghiệp, kiến thức pháp luật cho doanh nghiệp theo Nghị định 56/2009/NĐ-CP của Chính phủ và Thông tư 04/2014/TTLT-BKHĐT-BTC ngày 13/8/2014 của Bộ Kế hoạch và Đầu tư và Bộ Tài chính.\n\n\\- Triển khai thực hiện có hiệu quả các chính sách hỗ trợ doanh nghiệp nhỏ và vừa (DNNVV), các hợp tác xã theo các chương trình của Trung ương và Tỉnh như: Hỗ trợ về thuế, vốn tín dụng; trợ giúp đào tạo, bồi dưỡng nguồn nhân lực cho các doanh nghiệp nhỏ và vừa; hỗ trợ doanh nghiệp hoạt động trong lĩnh vực nông nghiệp; thực hiện các chương trình xúc tiến thương mại, xúc tiến đầu tư, khuyến công, khoa học công nghệ, xây dựng thương hiệu sản phẩm của Tỉnh nhằm nâng cao năng lực cạnh tranh, khả năng tiếp cận thị trường trong nước và nước ngoài.\n\n\\- Tham mưu UBND tỉnh phê duyệt và triển khai kêu gọi các dự án đầu tư theo hình thức đối tác công - tư (PPP) trên địa bàn tỉnh nhằm giảm áp lực ngân sách tỉnh.\n\n\\- Triển khai, thực hiện Chương trình đào tạo, bồi dưỡng 1000 doanh nhân của tỉnh giai đoạn 2016 - 2020 (được ban hành kèm theo Quyết định số 3245/QĐ-UBND ngày 15/11/2016 của UBND tỉnh) và cam kết của Tỉnh với Phòng Thương mại và Công nghiệp Việt Nam tạo môi trường kinh doanh thuận lợi cho doanh nghiệp.\n\n\\- Tham mưu UBND tỉnh tổng hợp, báo cáo Chính phủ tình hình, kết quả thực hiện tại Phiên họp Chính phủ hàng quý, cuối năm.\n\n**2\\. Sở Tài chính chủ trì, phối hợp với Cục Thuế tỉnh, Cục Hải quan tỉnh, Bảo hiểm xã hội, Kho bạc nhà nước, Ngân hàng Nhà nước chi nhánh tỉnh và các cơ quan liên quan:**\n\n\\- Phối hợp với Sở Xây dựng, các Sở, ngành liên quan tăng cường quản lý, giám sát, thanh tra, kiểm tra công tác thực hiện bảo hiểm trách nhiệm nghề nghiệp trong hoạt động đầu tư xây dựng.\n\n\\- Đẩy nhanh thực hiện xác định giá trị tài sản nhà nước để giao cho đơn vị sự nghiệp công lập quản lý theo cơ chế giao vốn cho doanh nghiệp theo Nghị định số 02/2016/NĐ-CP ngày 06/01/2016 của Chính phủ sửa đổi, bổ sung Nghị định số 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật quản lý, sử dụng tài sản nhà nước.\n\n\\- Tiếp tục đẩy mạnh cải cách thủ tục hành chính về thuế, hải quan, kho bạc, bảo hiểm xã hội; tăng cường trách nhiệm phối hợp của các cơ quan liên quan trong thực hiện thủ tục hành chính thuộc các lĩnh vực này. Công khai minh bạch thủ tục hành chính thuế, hải quan để người dân dễ tiếp cận và giám sát thực hiện; tăng cường đối thoại giữa doanh nghiệp với cơ quan thuế, hải quan để giải quyết kịp thời các khó khăn, vướng mắc cho doanh nghiệp.\n\n\\- Báo cáo UBND tỉnh ban hành quy định và tổ chức thực hiện một số chính sách khuyến khích xã hội hóa đối với các hoạt động trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hóa, thể dục thể thao, môi trường, giám định tư pháp trên địa bàn tỉnh; phối hợp với các đơn vị liên quan tham mưu UBND tỉnh rà soát, sắp xếp các đơn vị sự nghiệp công theo đúng quy định tại Nghị định số 16/2015/NĐ-CP ngày 14/12/2015 quy định cơ chế tự chủ của đơn vị sự nghiệp công lập.\n\n**3\\. Sở Công thương chủ trì, phối hợp với Công ty điện lực Bà Rịa - Vũng Tàu, các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Rà soát, xem xét, kiến nghị ban hành Danh mục hàng hóa thuộc diện kiểm tra chuyên ngành theo Nghị định số 187/2013/NĐ-CP ngày 20/11/2013 của Chính phủ.\n\n\\- Thực hiện hiệu quả Thông tư số 24/2016/TT-BCT ngày 30/11/2016 của Bộ Công Thương về rút ngắn thời gian tiếp cận điện năng; thực hiện chuẩn hóa quy trình tiếp cận điện năng cấp quốc gia theo hướng “một cửa liên thông” giữa cơ quan nhà nước và điện lực trong giải quyết các thủ tục “Thỏa thuận tuyến, vị trí cột/ thỏa thuận địa điểm trạm điện, vị trí cột điện và hành lang lưới điện (bao gồm Giấy phép đào đường, vỉa hè)”. Phối hợp với Công ty Điện lực tỉnh khẩn trương thực hiện các biện pháp cần thiết nhằm giảm các thủ tục, thời gian và chi phí để được cấp điện đối với các doanh nghiệp thuộc mọi thành phần kinh tế, bảo đảm rút thời gian tiếp cận xuống còn 30 ngày cho năm 2017. Thực hiện đầy đủ, kịp thời kế hoạch của Bộ Công thương, Tập đoàn điện lực nhằm rút ngắn thời gian tiếp cận điện năng đối với các doanh nghiệp, dự án đầu tư.\n\n\\- Rà soát, nghiên cứu, kiến nghị sửa đổi, bổ sung Quyết định số 35/2015/QĐ-TTg ngày 20/8/2015 của Thủ tướng Chính phủ về việc ban hành Danh mục hàng hóa, dịch vụ thiết yếu phải đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung theo hướng bỏ một số dịch vụ ngân hàng (bao gồm thẻ ghi nợ nội địa; mở và sử dụng dịch vụ tài khoản thanh toán áp dụng cho khách hàng cá nhân; vay vốn cá nhân nhằm mục đích tiêu dùng) ra khỏi Danh mục nhằm cắt giảm thủ tục hành chính không cần thiết, giảm chi phí tuân thủ thủ tục hành chính cho các tổ chức tín dụng và bảo đảm thống nhất về cơ quan quản lý nhà nước đối với việc cung ứng dịch vụ của các tổ chức tín dụng.\n\n\\- Xem xét, góp ý, kiến nghị dự thảo Luật Cạnh tranh (sửa đổi) trước tháng 12/2017, bảo đảm cạnh tranh bình đẳng, kiểm soát có hiệu quả độc quyền, thống lĩnh trong kinh doanh. Giải quyết kịp thời các khiếu nại đối với các vụ việc lạm dụng vị thế độc quyền, thống lĩnh, tập trung hóa kinh tế, thỏa thuận hạn chế cạnh tranh và phát hiện kịp thời, xử lý nghiêm minh các vi phạm pháp luật cạnh tranh.\n\n\\- Phối hợp với các cơ quan liên quan nâng cao hiệu quả hoạt động của Ban chỉ đạo về hội nhập quốc tế, gắn việc cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia với tiến trình hội nhập kinh tế quốc tế.\n\n\\- Tăng cường công tác kiểm tra, kiểm soát thị trường, đấu tranh phòng chống buôn lậu, gian lận thương mại, hàng giả, hàng kém chất lượng, vi phạm sở hữu trí tuệ, nhãn hiệu hàng hóa nhằm tăng cường việc tuân thủ pháp luật, tạo môi trường cạnh tranh lành mạnh, bình đẳng, góp phần thúc đẩy, nâng cao hiệu quả hoạt động sản xuất kinh doanh và đảm bảo lợi ích của các nhà đầu tư.\n\n\\- Triển khai các nhiệm vụ, giải pháp có liên quan trong Chương trình hành động của Chính phủ thực hiện Nghị quyết số 06-NQ/TW ngày 05 tháng 11 năm 2016 của Ban chấp hành Trung ương Đảng Khóa XII về tiến trình hội nhập kinh tế, giữ vững ổn định chính trị - xã hội trong bối cảnh nước ta tham gia các hiệp định thương mại tự do.\n\n**4\\. Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Trước tháng 6 năm 2017 xem xét, đề xuất giải quyết các vướng mắc liên quan đến một số quy định tại Thông tư số 48/2013/TT-BNNPTNT ngày 12/11/2013 của Bộ Nông nghiệp và Phát triển nông thôn về tỷ lệ lấy mẫu, cách thức lấy mẫu theo lô sản xuất để kiểm tra; thời gian xếp doanh nghiệp trở lại Danh sách ưu tiên kể từ ngày đánh giá lại đạt yêu cầu theo quy định; thời gian cấp lại Giấy chứng nhận an toàn thực phẩm.\n\n\\- Nghiên cứu, kiến nghị sửa đổi, bổ sung các quy định về xếp loại doanh nghiệp và sản phẩm trong quản lý, kiểm tra chuyên ngành đối với thủy sản nhập khẩu tại Thông tư số 26/2016/TT-BNNPTNT ngày 30/6/2016 của Bộ Nông nghiệp và Phát triển nông thôn theo nguyên tắc quản lý rủi ro, phân luồng ưu tiên.\n\n\\- Nghiên cứu và kiến nghị sửa đổi, bổ sung các quy định quản lý, kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập khẩu tại Luật bảo vệ và kiểm dịch thực vật, Luật thú y theo hướng áp dụng phương thức quản lý trên cơ sở rủi ro của hàng hóa và mức độ tuân thủ pháp luật của doanh nghiệp.\n\n\\- Rà soát, phối hợp với Sở Khoa học và Công nghệ đề xuất ban hành Danh mục hàng hóa nhóm 2 phải kiểm tra chất lượng trước khi thông quan thuộc trách nhiệm quản lý của Sở Nông nghiệp và Phát triển nông thôn kèm theo mã số HS để ban hành, sửa đổi, bổ sung hoặc thay thế Thông tư số 50/2009/TT-BNNPTNT ngày 18/8/2009 và Thông tư số 30/2010/TT-BNNPTNT ngày 30/8/2010; nghiên cứu chuyển những mặt hàng có độ rủi ro thấp sang kiểm tra sau khi hàng hóa đã thông quan.\n\n\\- Tăng cường kiểm tra chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm nông lâm thủy sản và hoạt động nuôi cá lồng bè trên địa bàn xã Long Sơn.\n\n\\- Báo cáo, kiến nghị về trình tự thủ tục cho thuê môi trường rừng, chuyển mục đích sử dụng rừng để xây dựng công trình phục vụ du lịch sinh thái tại các khu rừng phòng hộ, rừng đặc dụng.\n\n**5\\. Sở Khoa học và Công nghệ, phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Nghiên cứu, kiến nghị sửa đổi, bổ sung các quy định liên quan đến quản lý chất lượng sản phẩm, hàng hóa đối với hàng hóa xuất khẩu, nhập khẩu tại Luật chất lượng sản phẩm, hàng hóa, Luật tiêu chuẩn và quy chuẩn kỹ thuật theo hướng quản lý trên cơ sở rủi ro của hàng hóa và mức độ tuân thủ pháp luật của doanh nghiệp, chuyển mạnh sang hậu kiểm.\n\n\\- Nghiên cứu, kiến nghị xem xét bãi bỏ Quyết định số 50/2006/QĐ-TTg ngày 07/3/2006 của Chính phủ về việc ban hành Danh mục sản phẩm, hàng hóa phải kiểm tra về chất lượng do căn cứ ban hành Quyết định là Pháp lệnh chất lượng hàng hóa và Nghị định số 179/2004/NĐ-CP đã hết hiệu lực.\n\n\\- Chủ trì, phối hợp với Sở Y tế, Sở Nông nghiệp và Phát triển nông thôn và các Sở, Ngành rà soát, kiến nghị bãi bỏ, sửa đổi các quy định chứng nhận hợp quy, quản lý chất lượng không phù hợp với Luật tiêu chuẩn và quy chuẩn kỹ thuật, Luật chất lượng sản phẩm, hàng hóa và Luật an toàn thực phẩm theo hướng bãi bỏ các thủ tục hành chính không cần thiết, giảm thiểu thời gian xử lý về thủ tục hành chính đối với hàng hóa nhập khẩu, xuất khẩu, tăng cường hậu kiểm.\n\n\\- Nghiên cứu, sửa đổi, bổ sung Thông tư số 23/2015/TT-BKHCN ngày 13/11/2015 của Bộ Khoa học và Công nghệ quy định việc nhập khẩu máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng theo hướng: Phối hợp với Sở Công Thương và các Sở quản lý chuyên ngành xây dựng tiêu chí nhập khẩu máy móc, thiết bị theo tuổi thiết bị (từ năm sản xuất đến năm nhập khẩu) của từng lĩnh vực cụ thể, không áp dụng hạn chế chung “không quá 10 năm” cho tất cả các máy móc, thiết bị.\n\n\\- Hình thành và phát triển hệ thống đổi mới sáng tạo quốc gia, các trung tâm đổi mới sáng tạo và vườn ươm công nghệ.\n\n\\- Hàng quý, hàng năm có Báo cáo chuyên đề về tình hình, kết quả cải thiện các chỉ số, chỉ tiêu về đổi mới sáng tạo gửi Sở Kế hoạch và Đầu tư tổng hợp báo cáo UBND tỉnh.\n\n\\- Thường xuyên kiểm tra hoạt động áp dụng Hệ thống quản lý chất lượng ISO vào của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước.\n\n\\- Đẩy mạnh Chương trình khoa học và công nghệ hỗ trợ doanh nghiệp nâng cao năng suất và chất lượng sản phẩm, hàng hóa; xây dựng, phát triển và quảng bá thương hiệu đối với các sản phẩm, hàng hóa đặc sản của tỉnh giai đoạn 2014-2020; hỗ trợ hình thành hệ thống doanh nghiệp khoa học - công nghệ và thị trường công nghệ để mua bán, chuyển giao công nghệ, kể cả bằng sáng chế và quyền sở hữu trí tuệ.\n\n\\- Nghiên cứu xây dựng trung tâm đổi mới sáng tạo và vườn ươm công nghệ nhằm khuyến khích các cơ quan, doanh nghiệp trong lĩnh vực thuộc mọi thành phần kinh tế đổi mới công nghệ, sáng tạo; ứng dụng tiến bộ khoa học và công nghệ vào hoạt động sản xuất kinh doanh.\n\n\\- Triển khai, thực hiện có hiệu quả Kế hoạch hỗ trợ khởi nghiệp đổi mới sáng tạo của tỉnh giai đoạn 2016 - 2020 theo Quyết định số 3380/QĐ-UBND ngày 28/11/2016 của UBND tỉnh.\n\n**6\\. Sở Tài nguyên và Môi trường chủ trì, phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Thực hiện liên thông, kết nối điện tử trong giải quyết thủ tục hành chính về cấp giấy chứng nhận quyền sử dụng đất, giao đất, cho thuê đất, đăng ký đất đai, giấy chứng nhận sở hữu công trình xây dựng với các thủ tục xác định nghĩa vụ tài chính về đất đai. Rút ngắn thời gian thực hiện các thủ tục cấp giấy chứng nhận quyền sử dụng đất cho doanh nghiệp và người dân. Thực hiện mô hình liên thông các thủ tục công chứng, đăng ký quyền sử dụng đất, tài sản gắn liền với đất và cơ quan thuế.\n\n\\- Rà soát, sửa đổi, bổ sung các quy định pháp luật về đất đai theo hướng cải cách quy trình, thủ tục hành chính, rút ngắn thời gian cấp Giấy chứng nhận sở hữu công trình xây dựng.\n\n\\- Tăng cường công tác thanh tra, kiểm tra việc chấp hành quy định về công bố công khai quỹ đất chưa sử dụng, đất chưa cho thuê, cho thuê lại tại các khu công nghiệp, cụm công nghiệp, quỹ đất được Nhà nước giao, cho thuê nhưng chậm đưa vào sử dụng. Tạo thuận lợi cho các doanh nghiệp, nhất là doanh nghiệp vừa và nhỏ tiếp cận đất đai.\n\n\\- Nghiên cứu, sửa đổi, bổ sung các quy định liên quan đến thanh tra, kiểm tra bảo vệ môi trường theo hướng áp dụng quản lý theo mức độ rủi ro về ô nhiễm môi trường của các cơ sở sản xuất, kinh doanh.\n\n\\- Nghiên cứu hướng dẫn cụ thể về hồ sơ nhập khẩu phế liệu quy định tại Thông tư số 41/2015/TT-BTNMT ngày 09/9/2015 của Bộ Tài nguyên và Môi trường đối với trường hợp cấp Giấy xác nhận đủ điều kiện nhập khẩu phế liệu làm nguyên liệu sản xuất.\n\n\\- Thực hiện cơ chế liên thông kiểm tra, xác nhận chương trình bảo vệ môi trường phục vụ giai đoạn vận hành dự án và nghiệm thu đưa chương trình vào sử dụng theo hướng thành lập đoàn công tác liên ngành do cơ quan quản lý nhà nước về xây dựng chủ trì, trừ các chương trình phải có yêu cầu vận hành thử nghiệm.\n\n\\- Rà soát, hoàn thiện các cơ chế, chính sách, quy định pháp luật của Tỉnh trong lĩnh vực đất đai, môi trường, khoáng sản. Tạo chuyển biến mạnh mẽ về tiếp cận đất đai và mặt bằng sản xuất kinh doanh đối với doanh nghiệp; quản lý, khai thác và sử dụng hiệu quả tài nguyên, đất đai.\n\n\\- Phối hợp với Sở Tư pháp công bố công khai các thủ tục hành chính liên quan gồm yêu cầu, hồ sơ, trình tự, thời gian, chi phí trên trang thông tin điện tử.\n\n\\- Rà soát, hoàn thiện các quy định về bảo vệ môi trường, bảo đảm phát triển bền vững. Có cơ chế phù hợp khuyến khích các doanh nghiệp bảo vệ môi trường, tiết kiệm tài nguyên và năng lượng trên địa bàn tỉnh.\n\n**7\\. Sở Tư pháp chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Tổ chức thẩm định kịp thời, có chất lượng các dự thảo văn bản quy phạm pháp luật; theo dõi, đôn đốc các Sở, Ngành soạn thảo văn bản quy định chi tiết thi hành luật, pháp lệnh, nghị định, quyết định của Thủ tướng Chính phủ liên quan đến đầu tư, kinh doanh. Thực hiện rà soát các văn bản pháp quy do UBND tỉnh ban hành liên quan đến các chính sách tại địa phương để kịp thời sửa đổi, bổ sung hoặc trình cấp có thẩm quyền sửa đổi, bổ sung cơ chế chính sách.\n\n\\- Phối hợp với Tòa án tỉnh xem xét, kiến nghị hoàn thiện các văn bản pháp luật có liên quan đến thực thi Bộ luật tố tụng dân sự 2015, đẩy nhanh việc giải quyết tranh chấp hợp đồng theo hướng đơn giản hóa quy trình, nội dung hồ sơ, bãi bỏ hồ sơ, thủ tục không cần thiết, rút ngắn thời gian, giảm chi phí giải quyết tranh chấp thương mại.\n\n\\- Nghiên cứu đề xuất ban hành hoặc kiến nghị ban hành các quy định pháp luật về hòa giải thương mại và tạo lập cơ chế thúc đẩy phương thức giải quyết tranh chấp thông qua hòa giải thương mại.\n\n\\- Thúc đẩy phát triển đội ngũ quản tài viên, trọng tài và luật sư, nhất là luật sư chuyên sâu về thương mại.\n\n\\- Rà soát, hệ thống hóa các quy định pháp luật nói chung, các quy định liên quan đến cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia nói riêng phù hợp với nội dung các văn bản quy phạm pháp luật hiện hành trên địa bàn tỉnh.\n\n\\- Tiếp tục rà soát để đơn giản hóa thủ tục hành chính trên tất cả lĩnh vực quản lý nhà nước theo Nghị định số 63/2010/NĐ-CP ngày 08/6/2013 của Chính phủ, kịp thời kiến nghị loại bỏ những thủ tục phức tạp, gây phiền hà cho cá nhân và tổ chức.\n\n\\- Phối hợp với Sở Tài nguyên và Môi trường nghiên cứu các thủ tục liên quan tới đăng ký tài sản và công bố công khai các thủ tục hành chính liên quan trên trang thông tin điện tử của từng đơn vị.\n\n\\- Kiểm tra việc công khai các thủ tục hành chính đã được chuẩn hóa trên Cơ sở dữ liệu quốc gia trước ngày 02/7/2017. Hoàn thành việc chuẩn hóa bộ thủ tục hành chính theo Quyết định số 08/QĐ-TTg ngày 06/01/2015 và niêm yết công khai, đầy đủ, kịp thời các thủ tục hành chính thuộc thẩm quyền giải quyết trên mạng Internet và tại trụ sở cơ quan, đơn vị.\n\n\\- Tiếp tục thực hiện tốt công tác phổ biến, hướng dẫn pháp luật và giám sát tình hình thi hành văn bản pháp luật ở địa phương; kiểm tra, giám sát các cơ quan đơn vị liên quan trong việc giải quyết các thắc mắc, khiếu nại của doanh nghiệp. Thực hiện việc tuyên truyền, tiếp nhận, giải đáp các vướng mắc, kiến nghị của người dân, doanh nghiệp về quy định hành chính theo đúng quy định pháp luật.\n\n**8\\. Sở Nội vụ chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Tiếp tục đẩy mạnh thực hiện tại địa phương Chương trình tổng thể cải cách hành chính nhà nước giai đoạn 2011 - 2020 và Kế hoạch cải cách hành chính nhà nước giai đoạn 2016 - 2020; Đề án tăng cường năng lực đội ngũ công chức chuyên trách cải cách hành chính; Đề án đo lường sự hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước.\n\n\\- Tăng cường công tác thanh tra, kiểm tra, xử lý nghiêm các hành vi nhũng nhiễu, gây khó khăn cho người dân, doanh nghiệp trong giải quyết thủ tục hành chính.\n\n\\- Tiếp tục tăng cường công tác kiểm tra giám sát thực hiện cải cách hành chính tại các đơn vị, nhất là cải cách thủ tục hành chính trong các lĩnh vực: đất đai, đầu tư, xây dựng, thuế, hải quan, đăng ký doanh nghiệp; Thường xuyên thực hiện thanh tra công vụ nhằm phát hiện và xử lý nghiêm những cán bộ công chức có hành vi nhũng nhiễu, gây cản trở cho tổ chức, công dân khi thi hành công vụ; giám sát quy định về giải trình và giải quyết các kiến nghị của người dân và doanh nghiệp. Nghiên cứu các giải pháp đẩy mạnh tiếp nhận và trả kết quả giải quyết thủ tục hành chính qua mạng hoặc dịch vụ bưu điện công ích.\n\n\\- Rà soát, củng cố, kiện toàn về cơ cấu tổ chức, chức năng nhiệm vụ của các Trung tâm xúc tiến trên địa bàn tỉnh nhằm từng bước nâng cao vai trò, hiệu quả của các đơn vị.\n\n\\- Củng cố, nâng cao năng lực hoạt động của các tổ chức đại diện doanh nghiệp trên địa bàn Tỉnh để phát huy đầy đủ vai trò là cầu nối giữa doanh nghiệp với nhà nước, qua đó, phát huy vai trò của các tổ chức đại diện doanh nghiệp trong việc góp ý xây dựng và phản biện các chính sách, quy định của Tỉnh.\n\n**9\\. Sở Giao thông Vận tải chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Áp dụng quản lý trên cơ sở đánh giá mức độ rủi ro của hàng hóa và mức độ tuân thủ pháp luật của doanh nghiệp trong quản lý, kiểm tra chuyên ngành.\n\n\\- Đơn giản hóa các thủ tục hành chính, đẩy mạnh kết nối trực tuyến với Cổng thông tin một cửa quốc gia trong thực hiện nhận và trả kết quả kiểm tra chuyên ngành.\n\n\\- Phối hợp với Sở Công Thương, Sở Xây dựng rà soát, sửa đổi, bổ sung các quy định về thủ tục thỏa thuận vị trí cột hoặc trạm điện và hành lang lưới điện, cấp phép thi công công trình điện trong trường hợp công trình điện nằm toàn bộ hoặc một phần trên đất công trình tại Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ.\n\n\\- Tập trung thực hiện các giải pháp cải thiện chất lượng, nâng cao khả năng kết nối hạ tầng giao thông vận tải; nâng cao chất lượng cơ sở hạ tầng, chất lượng đường bộ, chất lượng hạ tầng cảng biển, hạ tầng hàng không. Tham mưu UBND tỉnh thực hiện Quy hoạch Khu logistics tập trung Cái Mép Hạ, kiến nghị với Trung ương sớm nâng cấp Sân bay Côn Đảo.\n\n\\- Tập trung triển khai thực hiện các chương trình nâng cao hiệu quả hoạt động cảng biển nhóm 5 và cụm cảng Quốc tế Cái Mép Thị Vải của Bộ Giao thông Vận tải và UBND tỉnh. Trong đó tập trung phối hợp với các cơ quan liên quan thực hiện các giải pháp giảm phí và các lệ phí hàng hải; cải thiện cơ chế, thủ tục hàng hải, hàng hóa để rút ngắn thời gian làm hàng cho doanh nghiệp; phối hợp Hải quan tỉnh tháo gỡ vướng mắc xung quanh hoạt động các cảng; nâng cao chất lượng và rút ngắn thời gian trong việc cung cấp các dịch vụ có liên quan đến hoạt động logistic hướng tới giảm chi phí các dịch vụ vận tải trên địa bàn xuống bằng với mức trung bình của nhóm nước ASEAN-4.\n\n**10\\. Sở Xây dựng chủ trì, phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Tiếp tục rà soát, cải cách quy trình, thủ tục hành chính về cấp phép xây dựng, đẩy mạnh ứng dụng công nghệ thông tin, giảm thời gian thực hiện thủ tục cấp phép xây dựng (bao gồm thẩm định thiết kế cơ sở, thẩm định thiết kế kỹ thuật, cấp giấy phép xây dựng).\n\n\\- Phối hợp với Công an tỉnh nghiên cứu đề xuất kết hợp thực hiện lồng ghép thủ tục thẩm duyệt thiết kế phòng cháy chữa cháy với thủ tục thẩm định dự án, thẩm định thiết kế xây dựng; phối hợp với Sở Tài nguyên và Môi trường thực hiện thủ tục cấp Giấy chứng nhận sở hữu công trình xây dựng. Phối hợp với Sở Tài chính thực hiện quản lý, giám sát, thanh tra, kiểm tra công tác thực hiện bảo hiểm trách nhiệm nghề nghiệp trong hoạt động đầu tư xây dựng.\n\n\\- Phối hợp với các Sở, ngành có liên quan duy trì và tăng cường các biện pháp kiểm soát chất lượng xây dựng bao gồm cả chất lượng các quy định pháp luật về xây dựng; kiểm soát chất lượng trước khi thi công xây dựng công trình; kiểm soát chất lượng sau khi hoàn thành thi công xây dựng công trình; trách nhiệm pháp lý của các chủ thể sau khi thi công; quản lý và cấp chứng chỉ hành nghề, chứng chỉ năng lực hoạt động xây dựng.\n\n\\- Giải quyết các vướng mắc cho doanh nghiệp trong thực hiện thủ tục cấp phép xây dựng theo Nghị định 59/2015/NĐ-CP ngày 18 tháng 6 năm 2015 của Chính phủ về Quản lý dự án đầu tư xây dựng.\n\n\\- Rà soát, cải cách thủ tục hành chính, quy định liên quan đến sản xuất, cung cấp nước sạch, giảm thủ tục hành chính, thời gian thực hiện. Điện tử hóa thủ tục thực hiện thỏa thuận, đấu nối, kiểm tra thực địa, cấp và thoát nước với Công ty Cổ phần Cấp nước, Công ty TNHH MTV Thoát nước và Phát triển đô thị nhằm rút ngắn thời gian thực hiện.\n\n\\- Phối hợp với Công an tỉnh tổ chức nghiệm thu công trình xây dựng và phòng cháy, chữa cháy.\n\n\\- Rà soát các thủ tục hành chính, xây dựng quy chế phối hợp về thủ tục cấp Giấy phép xây dựng đảm bảo thời gian cấp phép xây dựng và các thủ tục liên quan dưới 70 ngày.\n\n\\- Chủ động nghiên cứu hướng dẫn công khai, minh bạch các thủ tục cấp giấy phép xây dựng, bảo đảm cho doanh nghiệp, tổ chức, cá nhân dễ tiếp cận; tăng cường kiểm tra, xử lý vi phạm trong công tác cấp giấy phép xây dựng theo các quy định của pháp luật.\n\n**11\\. Sở Giáo dục và Đào tạo chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Rà soát, hoàn thiện các thủ tục, điều kiện thành lập, hoạt động đối với các cơ sở giáo dục và đào tạo trên địa bàn tỉnh; nghiên cứu, đề xuất các chính sách khuyến khích và tạo điều kiện thuận lợi để các trường đại học hàng đầu quốc tế mở cơ sở đào tạo tại tỉnh.\n\n\\- Nâng cao chất lượng của các cơ sở giáo dục đào tạo. Tạo điều kiện thuận lợi cung ứng dịch vụ giáo dục đào tạo theo cơ chế thị trường gắn với việc kiểm soát chặt chẽ chất lượng đầu vào và đầu ra. Đẩy mạnh ứng dụng công nghệ thông tin trong dạy và học tại các cơ sở giáo dục.\n\n\\- Kiểm tra, giám sát nội dung các chương trình giáo dục đào tạo, đặc biệt là giáo dục nghề nghiệp để theo hướng thiết thực hơn, gần với thực tế hơn, đảm bảo các sinh viên và học viên ra trường có thể làm việc ngay, giảm thời gian đào tạo lại cho doanh nghiệp.\n\n**12\\. Sở Lao động - Thương binh và Xã hội chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Tiếp tục rà soát, sửa đổi, bổ sung hoàn thiện chính sách bảo hiểm xã hội; phối hợp với Bảo hiểm xã hội tỉnh nghiên cứu, đánh giá thực trạng thu, chi bảo hiểm xã hội, từ đó kiến nghị sửa đổi các quy định nhằm đảm bảo hiệu quả chính sách và khuyến khích doanh nghiệp phát triển.\n\n\\- Đổi mới cơ chế, chính sách đào tạo nghề theo hướng mở rộng quyền tự chủ tuyển sinh, tự chủ tài chính, tự chủ về chương trình, nội dung và sản phẩm dịch vụ và cung ứng dịch vụ giáo dục, đào tạo theo cơ chế thị trường.\n\n\\- Kết nối cơ sở dữ liệu với Bảo hiểm xã hội tỉnh để thực hiện các giao dịch điện tử trong lĩnh vực bảo hiểm thất nghiệp.\n\n\\- Phối hợp với Sở Giáo dục và Đào tạo và các Sở, ngành liên quan xem xét, kiến nghị hoàn thiện, góp ý Nghị định quy định về kiểm định chất lượng giáo dục nghề nghiệp.\n\n\\- Phối hợp với Bảo hiểm xã hội lập cơ chế liên thông, chia sẻ thông tin về doanh nghiệp, tạo điều kiện thuận lợi cho doanh nghiệp đăng ký lao động, bảo hiểm xã hội theo quy định của pháp luật.\n\n\\- Rà soát, hoàn thiện các thủ tục và điều kiện thành lập, hoạt động đối với các tổ chức đào tạo nghề ngoài công lập; bãi bỏ theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền bãi bỏ các thủ tục không cần thiết, không hợp lý và không hợp pháp; bổ sung, sửa đổi và đơn giản hóa, giảm chi phí tuân thủ đối với các thủ tục, điều kiện còn lại theo hướng khuyến khích và tạo thuận lợi hơn cho khu vực tư nhân và các tổ chức xã hội tham gia hoạt động đào tạo nghề.\n\n\\- Nghiên cứu chính sách để khuyến khích tổ chức, cá nhân tham gia đầu tư cho giáo dục nghề nghiệp và đào tạo nguồn nhân lực.\n\n**13\\. Sở Thông tin và Truyền thông chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Rà soát Danh mục hàng hóa thuộc trách nhiệm quản lý của Sở Thông tin truyền thông ban hành kèm theo Thông tư số 15/2014/TT-BTTTT ngày 17 tháng 11 năm 2014 của Bộ Thông tin và Truyền thông ban hành Danh mục hàng hóa theo mã số HS thuộc diện quản lý chuyên ngành của Sở Thông tin và Truyền thông, xem xét, kiến nghị bãi bỏ tất cả các mã hàng không thuộc loại hàng hóa giao cho Sở Thông tin truyền thông quản lý tại Nghị định số 187/2013/NĐ-CP ngày 20 tháng 11 năm 2013 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và các hoạt động đại lý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài.\n\n\\- Rà soát, kiến nghị sửa đổi Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in theo hướng quy định rõ danh mục đối tượng chịu sự điều chỉnh, theo đó không áp dụng đối với hoạt động in bao bì, bề mặt sản phẩm. Bãi bỏ các quy định có tính chất hạn chế quyền tự do kinh doanh của doanh nghiệp (như quy định hạn chế hợp tác giữa các cơ sở in; cấp phép nhập khẩu các máy móc gia công sau in; quy định về người đứng đầu cơ sở in phải có chứng chỉ cao đẳng ngành in; cấp phép đối với các hợp đồng in từ nước ngoài,...).\n\n\\- Nghiên cứu, đề xuất các giải pháp thúc đẩy phát triển doanh nghiệp khởi nghiệp sáng tạo trong lĩnh vực công nghệ thông tin - viễn thông.\n\n\\- Hàng quý, hàng năm có Báo cáo chuyên đề về tình hình, kết quả cải thiện các chỉ số, chỉ tiêu về Chính phủ điện tử gửi UBND tỉnh và Sở Kế hoạch và Đầu tư tổng hợp, báo cáo Chính phủ tại Phiên họp Chính phủ thường kỳ tháng cuối quý, cuối năm.\n\n\\- Tăng cường ứng dụng công nghệ thông tin trong công tác quản lý nhà nước. Thực hiện cung cấp dịch vụ công trực tuyến và Chính phủ điện tử; triển khai xây dựng hệ thống cơ sở dữ liệu quốc gia; hỗ trợ Sở Tài nguyên và Môi trường, Kế hoạch và Đầu tư xây dựng các cơ sở dữ liệu về dân cư, đất đai, doanh nghiệp...\n\n\\- Đẩy mạnh ứng dụng công nghệ thông tin trong các ngành, lĩnh vực sản xuất kinh doanh và đời sống. Rà soát, cập nhập đầy đủ, kịp thời các thủ tục hành chính lên Cổng thông tin điện tử của Tỉnh, trang thông tin điện tử CCHC và trang thông tin điện tử của các đơn vị tạo điều kiện cho các tổ chức, cá nhân tìm kiếm thông tin dễ dàng; bảo đảm an toàn thông tin mạng; mở diễn đàn tiếp nhận các ý kiến phản biện chính sách của doanh nghiệp và người dân.\n\n\\- Hỗ trợ, tăng cường nội dung, thường xuyên cập nhật thông tin trên trang web của tỉnh và các Sở; UBND các huyện, thành phố; Các thông tin phải đầy đủ, kịp thời, rõ ràng.\n\n\\- Tổ chức thực hiện đầy đủ các nội dung quy định về công khai trên cơ sở dữ liệu quốc gia đối với từng lĩnh vực, từng ngành đúng theo quy định. Xây dựng lộ trình nâng cấp độ hỗ trợ trực tuyến lên cấp độ 03 tại các Sở, ngành, địa phương theo Quyết định số 1605/QĐ-TTg ngày 9/6/2010 của Thủ tướng Chính phủ.\n\n\\- Triển khai áp dụng chữ ký số của doanh nghiệp và các cơ quan quản lý nhà nước trong các hoạt động của doanh nghiệp.\n\n\\- Nghiên cứu nâng cao các chỉ số hạ tầng viễn thông, gồm: Số thuê bao điện thoại (di động và máy bàn) trên 100 dân, Tỷ lệ người dùng internet (% dân số),..\n\n\\- Rà soát, hoàn thiện các cơ chế, chính sách quản lý nhà nước để tạo điều kiện thuận lợi thúc đẩy phát triển, khuyến khích ứng dụng công nghệ thông tin trong quản lý nhà nước trên địa bàn tỉnh.\n\n**14\\. Sở Y tế chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Chủ trì phối hợp với các Sở, cơ quan liên quan khẩn trương tổng kết, đánh giá kết quả thực hiện và đề xuất sửa đổi, bổ sung Luật an toàn thực phẩm, trong đó có việc đổi mới công tác kiểm tra chuyên ngành đối với hàng hóa là thực phẩm xuất nhập khẩu theo hướng áp dụng thông lệ quốc tế.\n\n\\- Rà soát, kiến nghị sửa đổi thẩm quyền của cơ quan tiếp nhận hồ sơ đăng ký và cấp giấy tiếp nhận bản công bố hợp quy và giấy xác nhận công bố phù hợp quy định an toàn thực phẩm đối với các sản phẩm nhập khẩu và xuất khẩu theo hướng phân cấp cho các cơ quan chuyên môn ở địa phương.\n\n\\- Chỉ đạo cơ sở khám chữa bệnh kết nối cơ sở dữ liệu với Sở Y tế, Bộ Y tế và Bảo hiểm xã hội tỉnh, Bảo hiểm xã hội Việt Nam để thực hiện giao dịch điện tử phục vụ quản lý nhà nước về Bảo hiểm y tế và giám định, thanh toán chi phí khám chữa bệnh bảo hiểm y tế.\n\n**15\\. Sở Ngoại vụ chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Phối hợp với các Sở, ngành liên quan hỗ trợ doanh nghiệp nâng cao năng lực hội nhập quốc tế; tăng cường tuyên truyền, phổ biến thông tin về hội nhập quốc tế, nhất là các cam kết theo các Hiệp định thương mại tự do thế hệ mới, để thống nhất nhận thức và quán triệt trong thực thi.\n\n\\- Nâng cao năng lực của các cơ quan liên quan trong việc nắm bắt các quy định của pháp luật quốc tế về đầu tư, kinh doanh, chủ động tuân thủ, nâng cao khả năng hỗ trợ giải quyết tranh chấp thương mại quốc tế nhằm bảo vệ tối đa lợi ích chính đáng của các doanh nghiệp trong nước.\n\n**16\\. Bộ Chỉ huy quân sự tỉnh, Công an tỉnh chủ trì phối hợp với các Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Nghiên cứu đề xuất, kiến nghị Chính phủ xem xét quy định Bộ đội biên phòng kiểm tra, giám sát hồ sơ và hàng hóa xuất nhập khẩu tại Điều 12 Thông tư số 09/2016/TT-BQP, đảm bảo phù hợp với Luật hải quan; đồng thời nghiên cứu đề xuất việc sửa đổi Điều 9 Pháp lệnh bộ đội biên phòng.\n\n\\- Phối hợp với Sở Xây dựng rà soát, sửa đổi, bổ sung các quy định pháp luật về phòng cháy, chữa cháy theo hướng cải cách quy trình, thủ tục hành chính về thẩm duyệt phòng cháy, chữa cháy; nghiên cứu đề xuất lồng ghép thẩm định phòng cháy, chữa cháy với thẩm định thiết kế xây dựng, bảo đảm nâng cao chất lượng thẩm định.\n\n**17\\. Sở Thông tin và Truyền thông, Báo Bà Rịa - Vũng Tàu, Đài Phát thanh truyền hình tỉnh**\n\nChủ động phối hợp với Ban Tuyên giáo Tỉnh ủy và các Sở, ngành, cơ quan tổ chức truyền thông, quán triệt, phổ biến Nghị quyết sâu rộng trong các ngành, các cấp. Tăng cường theo dõi, giám sát của các cơ quan truyền thông, báo chí về kết quả thực hiện Nghị quyết.\n\n**18\\. Cục Thuế tỉnh**\n\n\\- Thực hiện ứng dụng công nghệ thông tin tối thiểu đạt 95% trong nộp tờ khai, nộp thuế, hoàn thuế đối với doanh nghiệp.\n\n\\- Công khai cơ sở dữ liệu về hoàn thuế, bảo đảm 100% hồ sơ hoàn thuế được kiểm tra và 100% hồ sơ khiếu nại của người nộp thuế được giải quyết đúng thời gian quy định của pháp luật. Công khai, minh bạch các quy định của Luật quản lý thuế, các quy trình thanh tra, giải quyết khiếu nại và hoàn thuế giá trị gia tăng.\n\n\\- Cụ thể hóa chủ trương định hướng quản lý thuế theo mức độ rủi ro và mức độ tuân thủ pháp luật của người nộp thuế, xác định tính hợp lệ của giao dịch kinh tế dựa trên cơ sở giao dịch tiền hàng.\n\n\\- Phối hợp với Sở Kế hoạch và Đầu tư xem xét, kiến nghị xây dựng hệ thống cấp mã số thuế tự động cho doanh nghiệp.\n\n\\- Thực hiện rà soát, thực hiện các giải pháp chống chuyển giá, trốn thuế.\n\n**19\\. Cục Hải quan tỉnh**\n\n\\- Ứng dụng công nghệ thông tin trong quản lý hàng hóa xuất khẩu, nhập khẩu, đảm bảo kết nối thông tin thống nhất giữa các cơ quan quản lý chuyên ngành với Cục Hải quan và Cổng thông tin một cửa quốc gia. Chủ trì, đôn đốc các Sở, ngành tập trung triển khai thành công các nội dung có liên quan đến Sở, ngành mình thuộc Kế hoạch tổng thể triển khai Cơ chế một cửa quốc gia và Cơ chế một cửa ASEAN giai đoạn 2016 - 2020 ban hành theo Quyết định số 2185/QĐ-TTg ngày 14/11/2016 của Thủ tướng Chính phủ.\n\n\\- Chủ trì, phối hợp với các bộ, cơ quan liên quan nâng cao hiệu quả thực hiện các thủ tục kiểm tra chuyên ngành tại các cảng nơi có lưu lượng hàng hóa xuất nhập khẩu lớn, có nhiều hàng hóa xuất nhập khẩu thuộc đối tượng kiểm tra chuyên ngành trước thông quan.\n\n\\- Nâng cấp, hoàn thiện cơ chế quản lý rủi ro, thực hiện phân luồng trước khi hàng đến cảng để giải quyết thông quan hoặc giải phóng hàng hóa ngay khi đến cảng.\n\n\\- Tiếp tục hoàn thiện nâng cao hiệu quả hệ thống thông quan điện tử, phối hợp với các đơn vị triển khai thực hiện kết quả kết nối trao đổi thông tin thương mại và các doanh nghiệp hoạt động trong lĩnh vực logistics, bảo hiểm và các dịch vụ khác có liên quan. Công khai các tiêu chí đánh giá mức độ tuân thủ của doanh nghiệp. Sửa đổi các văn bản quy phạm pháp luật liên quan đến thực hiện thông quan điện tử tự động, bảo đảm tính thống nhất trong hệ thống.\n\n\\- Giảm tỷ lệ các lô hàng nhập khẩu phải kiểm tra chuyên ngành tại giai đoạn thông quan từ 30 - 35% hiện nay xuống còn 15% đến hết năm 2017. Đổi mới căn bản phương thức quản lý, kiểm tra chuyên ngành trên cơ sở nguyên tắc quản lý rủi ro, đánh giá mức độ tuân thủ pháp luật của từng doanh nghiệp; áp dụng chế độ doanh nghiệp ưu tiên.\n\n\\- Áp dụng kiểm tra chuyên ngành theo thông lệ quốc tế; đẩy mạnh công nhận lẫn nhau theo thỏa thuận; chủ động công nhận chất lượng của những nhãn hiệu, nhà sản xuất nổi tiếng, những hàng hóa được sản xuất tại các nước, khu vực có tiêu chuẩn chất lượng cao, tiên tiến (châu Âu, Mỹ, Nhật Bản...). Chuyển thời điểm kiểm tra chuyên ngành, kiểm tra chất lượng hàng hóa, hiệu suất năng lượng, an toàn thực phẩm trong giai đoạn thông quan sang kiểm tra sau khi hàng hóa đã được thông quan (trừ kiểm dịch đối với trường hợp mặt hàng nhập khẩu có nguy cơ cao theo quy định của Bộ Nông nghiệp và Phát triển nông thôn). Đối với nguyên liệu nhập khẩu để sản xuất phục vụ tiêu dùng trong nước thực hiện kiểm tra tại khâu sản xuất và trước khi đưa sản phẩm vào lưu thông; đối với hàng xuất khẩu được sản xuất từ nguyên liệu nhập khẩu thực hiện tại cơ sở sản xuất trước khi xuất hàng.\n\n\\- Điện tử hóa thủ tục (nộp hồ sơ, trả kết quả...) kiểm tra chuyên ngành; kết nối chia sẻ thông tin giữa các cơ quan, tổ chức quản lý, kiểm tra chuyên ngành với Cổng thông tin một cửa quốc gia và Cơ chế một cửa ASEAN để giảm thiểu giấy tờ, hướng tới Mục tiêu phi giấy tờ, rút ngắn thời gian thực hiện các thủ tục kiểm tra chuyên ngành.\n\n\\- Hoàn thiện hệ thống thông quan tự động VNACCS/VCIS, tập trung xử lý các thủ tục hải quan còn nhiều bất cập (giám sát hàng hóa tại cảng biển; miễn thuế, hoàn thuế và xác nhận hàng hóa qua khu vực giám sát; quản lý rủi ro và phân luồng hàng hóa; kiểm soát tại cửa khẩu; thanh Khoản tờ khai nhập nguyên liệu để sản xuất hàng xuất khẩu; kiểm tra sau thông quan; kiểm tra thực tế hàng hóa,...). Công khai tiêu chí đánh giá, có hệ thống cảnh báo; công khai lý do doanh nghiệp bị phân vào luồng vàng, đỏ và hàng năm giảm tỷ lệ kiểm tra luồng vàng, đỏ. Công bố bảng mã cảng trên website.\n\n\\- Thực hiện kết nối, trao đổi thông tin bằng phương thức điện tử về hàng hóa tại cảng nhằm giảm thiểu hồ sơ giấy tờ, nâng cao hiệu quả quản lý nhà nước đối với hàng hóa, container tại các cảng biển.\n\n\\- Niêm yết các quy định về phí kiểm tra chuyên ngành theo hướng giảm chi phí cho doanh nghiệp và minh bạch trách nhiệm trả phí. Thực hiện kiểm tra đúng theo danh Mục kiểm tra chuyên ngành phục vụ quản lý nhà nước và kiểm tra chuyên ngành theo yêu cầu của doanh nghiệp.\n\n**20\\. Ban Quản lý các Khu công nghiệp tỉnh**\n\nRà soát, đôn đốc các Công ty đầu tư hạ tầng khu công nghiệp đầu tư hạ tầng kỹ thuật; đẩy mạnh cải cách thủ tục hành chính, thu hồi các dự án chậm triển khai, tạo điều kiện cho các nhà đầu tư mới có năng lực tiếp cận nguồn lực đất đai để thu hút đầu tư, nâng tỷ lệ lấp đầy tại các khu công nghiệp.\n\n**21\\. Bảo hiểm xã hội chủ trì, phối hợp với Sở, ngành, Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị liên quan:**\n\n\\- Nghiên cứu, đề xuất xây dựng quy trình, thủ tục thanh tra, kiểm tra bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp đối với doanh nghiệp để thống nhất thực hiện. Phối hợp với Sở Lao động - Thương binh và Xã hội, Sở Y tế thống nhất về thẩm quyền, cơ chế phối hợp giữa các cơ quan thực hiện chức năng thanh tra.\n\n\\- Chủ trì, phối hợp với các Bộ, cơ quan liên quan tại địa phương tiếp tục rà soát, đơn giản hóa hồ sơ, quy trình và thủ tục kê khai thu và chi bảo hiểm xã hội, bảo hiểm y tế; rút ngắn thời gian hoàn thành thủ tục nộp bảo hiểm bắt buộc đối với doanh nghiệp xuống còn 49,5 giờ. Triển khai ứng dụng phần mềm hỗ trợ kê khai hồ sơ tham gia bảo hiểm xã hội, bảo hiểm y tế theo chương trình chung của quốc gia.\n\n\\- Rà soát, rút ngắn thời gian hoàn thành thủ tục nộp bảo hiểm bắt buộc đối với doanh nghiệp.\n\n\\- Tổ chức nghiên cứu, triển khai áp dụng đại trà chữ ký số trong kê khai nộp thuế, nộp bảo hiểm xã hội, bảo hiểm y tế qua mạng. Áp dụng công nghệ thông tin, kết nối mạng giữa các cơ quan bảo hiểm xã hội của 63 tỉnh, thành phố, tạo lập cơ sở dữ liệu bảo hiểm xã hội tập trung của cả nước, tiến tới thực hiện giao dịch điện tử đối với các thủ tục kê khai, thu nộp và giải quyết chính sách bảo hiểm xã hội và bảo hiểm y tế.\n\n\\- Công khai kịp thời các thông tin và dịch vụ trực tuyến lên trang thông tin điện tử của Bảo hiểm Xã hội tỉnh và Cổng thông tin điện tử của tỉnh.\n\n**22\\. Ngân hàng nhà nước chi nhánh tỉnh**\n\n\\- Thực hiện các giải pháp cải thiện và minh bạch hóa thông tin tín dụng, tạo điều kiện cho doanh nghiệp, tổ chức, cá nhân thuộc mọi thành phần kinh tế được bình đẳng và thuận lợi trong việc tiếp cận vốn tín dụng theo cơ chế thị trường.\n\n\\- Chỉ đạo các ngân hàng thương mại, các tổ chức tín dụng phối hợp với Bảo hiểm xã hội tỉnh thực hiện thanh toán điện tử trong thu nộp và chi trả các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.\n\n\\- Triển khai thực hiện tốt các giải pháp tiền tệ tín dụng nhằm tháo gỡ khó khăn vướng mắc, hỗ trợ thị trường tạo điều kiện thuận lợi cho doanh nghiệp tiếp cận tốt các nguồn vốn tín dụng của ngân hàng trên địa bàn tỉnh.\n\n**23\\. Ủy ban nhân dân các huyện, thành phố chủ trì phối hợp với các Sở, ngành và các cơ quan, đơn vị liên quan:**\n\n\\- Thực hiện cải cách thủ tục hành chính tư pháp theo đúng tinh thần của Bộ luật tố tụng dân sự 2015, Luật phá sản 2014; rút ngắn thời gian, nâng cao hiệu quả công tác thi hành án theo yêu cầu của Nghị quyết; hỗ trợ hoạt động của tòa án, cơ quan thi hành án, thừa phát lại, luật sư; phát triển về số lượng và chất lượng quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản tại địa phương; công khai thông tin đầy đủ, kịp thời về đội ngũ luật sư, quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản trên địa bàn.\n\n\\- Công khai hóa quy trình, thủ tục và thời gian giải quyết thủ tục hành chính theo quy định, trong đó trọng tâm là rà soát các thủ tục hành chính như cấp phép xây dựng, phê duyệt quy hoạch, phê duyệt thủ tục về môi trường. Kiện toàn tổ chức, bộ máy và nâng cao năng lực cán bộ, công chức thực hiện công tác cấp giấy phép xây dựng.\n\n\\- Hướng dẫn công khai, minh bạch về quy trình, thủ tục cấp giấy phép xây dựng, bảo đảm cho doanh nghiệp, tổ chức, cá nhân dễ dàng tiếp cận; tăng cường kiểm tra, xử lý vi phạm trong công tác cấp giấy phép xây dựng.\n\n**24\\. Đề nghị Chi nhánh Phòng Thương mại và Công nghiệp Việt Nam, Trung tâm xúc tiến đầu tư tỉnh Bà Rịa - Vũng Tàu, Hội Luật gia tỉnh Bà Rịa - Vũng Tàu, các hiệp hội doanh nghiệp, hiệp hội ngành nghề tại tỉnh:**\n\n\\- Tiến hành khảo sát, đánh giá độc lập về chất lượng thực hiện thủ tục hành chính, đưa ra các khuyến nghị với UBND tỉnh. Tổ chức thu thập ý kiến phản biện chính sách, những vướng mắc, khó khăn trong thực hiện thủ tục hành chính của các doanh nghiệp, các nhà đầu tư để phản ánh với cơ quan có thẩm quyền xem xét, tháo gỡ kịp thời và công khai trên các phương tiện thông tin đại chúng.\n\n\\- Tổ chức thu thập ý kiến phản biện chính sách, những vướng mắc, khó khăn trong thực hiện thủ tục hành chính của các doanh nghiệp, các nhà đầu tư để phản ánh với cơ quan có thẩm quyền xem xét, tháo gỡ kịp thời và công khai trên các phương tiện thông tin đại chúng.\n\n\\- Phối hợp với các Sở, cơ quan, các hiệp hội doanh nghiệp lập các chương trình hỗ trợ doanh nghiệp xây dựng chiến lược cạnh tranh, áp dụng khoa học công nghệ, nâng cao năng suất, xây dựng thương hiệu, thực hiện tốt trách nhiệm xã hội nhằm từng bước cải thiện trình độ kinh doanh và năng lực cạnh tranh của cộng đồng doanh nghiệp.\n\n\\- Phối hợp với các Sở, cơ quan, các hiệp hội doanh nghiệp để hỗ trợ doanh nghiệp trong việc xây dựng và triển khai thực hiện chương trình phát triển bền vững, nâng cao năng lực cạnh tranh và tăng cường hội nhập quốc tế của các doanh nghiệp Việt Nam.\n\n\\- Phối hợp với các Sở, ngành xây dựng và triển khai chương trình nâng cao năng lực hoạt động cho các hiệp hội doanh nghiệp Việt Nam.\n\n**25\\. Đề nghị Tòa án nhân dân tỉnh, Viện Kiểm sát nhân dân tỉnh, Cục Thi hành án dân sự tỉnh**\n\n\\- Nghiên cứu góp ý các văn bản hướng dẫn thực thi Bộ luật Tố tụng dân sự, Luật phá sản 2014 để các quy định này sớm áp dụng trên thực tế và đạt hiệu quả cao.\n\n\\- Phối hợp Sở Tư pháp nghiên cứu áp dụng mô hình “hành chính tư pháp một cửa” tại các cấp tòa án; áp dụng thủ tục tố tụng rút gọn đối với các vụ án có giá trị nhỏ; hoàn thiện mô hình “tòa án điện tử”, triển khai các mô hình tiếp nhận đơn khởi kiện, tống đạt, thông báo quá trình tố tụng và lịch xét xử và giải quyết phá sản trực tuyến tại tỉnh.\n\n\\- Nghiên cứu đề xuất xây dựng cơ chế hỗ trợ phát triển hoạt động của trọng tài và hòa giải thương mại, như: (i) hạn chế can thiệp vào nội dung giải quyết vụ án trong các phán quyết trọng tài; (ii) tạo điều kiện công nhận và cho thi hành các phán quyết của trọng tài nước ngoài; (iii) công nhận quyết định hòa giải thành của các bên ngoài tòa án.\n\n\\- Nâng cao tính chuyên nghiệp trong việc giải quyết tranh chấp kinh doanh thương mại, phá sản doanh nghiệp; công khai các hoạt động giải quyết vụ án của tòa án và công khai các bản án; đảm bảo thực hiện giải quyết tranh chấp hợp đồng tối đa 300 ngày.\n\n\\- Cung cấp thông tin về những doanh nghiệp đã và đang thực hiện thủ tục phá sản doanh nghiệp để Bộ Kế hoạch và Đầu tư đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.\n\n**III. TỔ CHỨC THỰC HIỆN:**\n\n1\\. Các Sở, Ngành, Đơn vị, UBND các huyện, thành phố:\n\na) Căn cứ vào các nhiệm vụ được giao trong Kế hoạch và phụ lục chi tiết về các chỉ số theo Nghị quyết 19-2017/NQ-CP ngày 06/02/2017 của Chính phủ, thực hiện nghiên cứu, tổ chức thực hiện và định kỳ hàng quý, thực hiện báo cáo tình hình thực hiện Kế hoạch này gửi về Văn phòng Ủy ban nhân dân tỉnh và Sở Kế hoạch và Đầu tư **_trước ngày 05 của tháng 3, 6, 9_** và trước **_ngày 05 tháng 12_** (báo cáo tổng kết cả năm).\n\nb) Nghiên cứu Kế hoạch hành động triển khai Nghị quyết 19/2017/NQ-CP của các Bộ Ngành trung ương thuộc ngành dọc để tổ chức triển khai thực hiện trên địa bàn tỉnh và tổ chức thực hiện báo cáo theo yêu cầu.\n\n2\\. Giao Sở Kế hoạch và Đầu tư làm đầu mối theo dõi, đôn đốc, tổng hợp tình hình thực hiện Kế hoạch này báo cáo định kỳ hàng quý cho Ủy ban nhân dân tỉnh **trước ngày 10 của tháng 3, 6, 9** và trước **_ngày 10 tháng 12_** để báo cáo tổng kết cả năm gửi về Văn phòng Chính phủ và Bộ Kế hoạch và Đầu tư.\n\n3\\. Sở Thông tin và truyền thông xây dựng nội dung và tuyên truyền các nội dung có liên quan đến chỉ số năng lực cạnh tranh cấp tỉnh và các nội dung của Nghị quyết 19-2016 đến tất cả các cơ quan, đơn vị trên địa bàn tỉnh.\n\n4\\. Chủ tịch UBND các huyện, thành phố Bà Rịa, thành phố Vũng Tàu có trách nhiệm triển khai các nhiệm vụ được giao đến các đơn vị trực thuộc để tổ chức thực hiện, quán triệt, nâng cao trách nhiệm của từng cán bộ, công chức của đơn vị đối với nhiệm vụ cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh của Tỉnh.\n\n5\\. Sở Nội vụ tăng cường kiểm tra, giám sát việc tổ chức thực hiện Kế hoạch này và các Nghị quyết của Chính phủ tạo sự chuyển biến mạnh mẽ trong cải cách thủ tục hành chính trên địa bàn tỉnh.\n\n6\\. Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc đề nghị các Sở, Ngành, Đơn vị, UBND các huyện, thành phố phản ánh về Văn phòng UBND tỉnh, Sở Kế hoạch và Đầu tư để kịp thời tổng hợp, báo cáo UBND tỉnh bổ sung, điều chỉnh kịp thời./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,540 @@
+{
+  "title": "Kế hoạch 14/KH-UBND năm 2018 thực hiện Nghị quyết 11-NQ/TW và 99/NQ-CP về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Sơn La ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết 19-NQ/TW năm 2017 về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của đơn vị sự nghiệp công lập do Ban Chấp hành Trung ương ban hành",
+      "id": "19-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 99/NQ-CP năm 2017 về Chương trình hành động thực hiện Nghị quyết 11-NQ/TW về Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do Chính phủ ban hành",
+      "id": "99/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-10-03",
+      "effectiveDate": "2017-10-03",
+      "gazetteDate": "2017-10-15",
+      "gazetteNumber": "Từ số 771 đến số 772",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 55/NQ-HĐND năm 2017 phê chuẩn Đề án xã hội hóa hoạt động trong lĩnh vực y tế trên địa bàn tỉnh Sơn La, giai đoạn 2017-2021",
+      "id": "55/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thể thao - Y tế",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Văn Chất"
+      ],
+      "issuedDate": "2017-07-21",
+      "effectiveDate": "2017-07-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 19/2017/QĐ-UBND quy định Bảng giá đất trên địa bàn tỉnh Sơn La áp dụng đến ngày 31/12/2019",
+      "id": "19/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2017-07-03",
+      "effectiveDate": "2017-07-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+      "id": "04/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-12",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-24",
+      "gazetteNumber": "Từ số 511 đến số 512",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 11-NQ/TW năm 2017 về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do Ban Chấp hành Trung ương ban hành",
+      "id": "11-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-06-03",
+      "effectiveDate": "2017-06-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1378/QĐ-UBND năm 2017 phê duyệt Kế hoạch thực hiện chiến lược phát triển ngành công nghiệp văn hóa đến năm 2020, tầm nhìn đến năm 2030 trên địa bàn tỉnh Sơn La",
+      "id": "1378/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Phạm Văn Thủy"
+      ],
+      "issuedDate": "2017-05-26",
+      "effectiveDate": "2017-05-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 22/CT-TTg năm 2017 về tăng cường kiểm tra, đôn đốc thực hiện cam kết, thỏa thuận quốc tế do Thủ tướng Chính phủ ban hành",
+      "id": "22/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-23",
+      "effectiveDate": "2017-05-23",
+      "gazetteDate": "2017-06-03",
+      "gazetteNumber": "Từ số 415 đến số 416",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 676/QĐ-TTg năm 2017 phê duyệt Đề án xây dựng nông thôn mới trong quá trình đô thị hóa trên địa bàn cấp huyện giai đoạn 2017-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "676/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2017-05-18",
+      "effectiveDate": "2017-05-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2186/QĐ-UBND năm 2016 Kế hoạch thực hiện chỉ tiêu bao phủ bảo hiểm y tế giai đoạn 2016-2020 của tỉnh Sơn La",
+      "id": "2186/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Phạm Văn Thủy"
+      ],
+      "issuedDate": "2016-09-13",
+      "effectiveDate": "2016-09-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1167/QĐ-TTg năm 2016 điều chỉnh giao chỉ tiêu thực hiện bảo hiểm y tế giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1167/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-06-28",
+      "effectiveDate": "2016-06-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 35/NQ-CP năm 2016 về hỗ trợ và phát triển doanh nghiệp đến năm 2020 do Chính phủ ban hành",
+      "id": "35/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-16",
+      "effectiveDate": "2016-05-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/04/2023"
+    },
+    {
+      "title": "Nghị định 16/2015/NĐ-CP Quy định cơ chế tự chủ của đơn vị sự nghiệp công lập",
+      "id": "16/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-02-14",
+      "effectiveDate": "2015-04-06",
+      "gazetteDate": "2015-03-07",
+      "gazetteNumber": "Từ số 297 đến số 298",
+      "status": "Hết hiệu lực: 15/08/2021"
+    },
+    {
+      "title": "Luật bảo vệ môi trường 2014",
+      "id": "55/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-23",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 683 đến số 684",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Nghị quyết 33-NQ/TW năm 2014 về xây dựng và phát triển văn hóa, con người Việt Nam đáp ứng yêu cầu phát triển bền vững đất nước do Ban Chấp hành Trung ương ban hành",
+      "id": "33-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2014-06-09",
+      "effectiveDate": "2014-06-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đấu thầu 2013",
+      "id": "43/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-26",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-30",
+      "gazetteNumber": "Từ số 1007 đến số 1008",
+      "status": "Còn hiệu lực đến: 31/12/2023"
+    },
+    {
+      "title": "Chỉ thị 09/CT/TW năm 2011 về tăng cường sự lãnh đạo của Đảng đối với phong trào toàn dân bảo vệ an ninh tổ quốc trong tình hình mới do Ban Bí thư ban hành",
+      "id": "09/CT/TW",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Ban Bí thư",
+      "signers": [
+        "Lê Hồng Anh"
+      ],
+      "issuedDate": "2011-12-01",
+      "effectiveDate": "2011-12-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2038/QĐ-TTg năm 2011 phê duyệt Đề án tổng thể xử lý chất thải y tế giai đoạn 2011 - 2015 và định hướng đến năm 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "2038/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Hoàng Trung Hải"
+      ],
+      "issuedDate": "2011-11-15",
+      "effectiveDate": "2011-11-15",
+      "gazetteDate": "2011-11-28",
+      "gazetteNumber": "Từ số 603 đến số 604",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Pháp lệnh ký kết và thực hiện thỏa thuận quốc tế năm 2007",
+      "id": "33/2007/PL-UBTVQH11",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2007-04-20",
+      "effectiveDate": "2007-07-01",
+      "gazetteDate": "2007-06-28",
+      "gazetteNumber": "Từ số 416 đến số 417",
+      "status": "Hết hiệu lực: 01/07/2021"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 395/QĐ-UBND năm 2018 về Kế hoạch hành động thực hiện Nghị quyết 99/NQ-CP và Chương trình hành động 93-CTHĐ/TU thực hiện Nghị quyết 11-NQ/TW về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Quảng Trị ban hành",
+      "id": "395/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Nguyễn Đức Chính"
+      ],
+      "issuedDate": "2018-02-26",
+      "effectiveDate": "2018-02-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 04/KH-UBND năm 2018 thực hiện Nghị quyết và Kế hoạch hành động về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa đến năm 2020, định hướng đến năm 2030 do tỉnh An Giang ban hành",
+      "id": "04/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Vương Bình Thạnh"
+      ],
+      "issuedDate": "2018-01-08",
+      "effectiveDate": "2018-01-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 117/KH-UBND năm 2017 về thực hiện Nghị quyết 98/NQ-CP và Chương trình hành động 16-CTr/TU thực hiện Nghị quyết 10-NQ/TW về phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Tuyên Quang ban hành",
+      "id": "117/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Phạm Minh Huấn"
+      ],
+      "issuedDate": "2017-12-21",
+      "effectiveDate": "2017-12-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 3618/KH-UBND năm 2017 về triển khai tổ chức thực hiện Nghị quyết 99/NQ-CP về Chương trình hành động thực hiện Nghị quyết 11-NQ/TW về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Hà Nam ban hành",
+      "id": "3618/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Hà Nam",
+      "signers": [
+        "Trương Minh Hiến"
+      ],
+      "issuedDate": "2017-12-14",
+      "effectiveDate": "2017-12-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 110/KH-UBND năm 2017 thực hiện Nghị quyết 99/NQ-CP, Chương trình hành động 17-CTr/TU thực hiện Nghị quyết 11-NQ/TW về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Tuyên Quang ban hành",
+      "id": "110/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Phạm Minh Huấn"
+      ],
+      "issuedDate": "2017-12-14",
+      "effectiveDate": "2017-12-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 4734/KH-UBND năm 2017 về thực hiện Nghị quyết 98/NQ-CP và Chương trình hành động 31-CTr/TU về phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Bình Thuận ban hành",
+      "id": "4734/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Ngọc Hai"
+      ],
+      "issuedDate": "2017-11-22",
+      "effectiveDate": "2017-11-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 388/QĐ-UBND năm 2017 về Kế hoạch thực hiện Nghị quyết 99/NQ-CP và Chương trình hành động 139-CTr/TU thực hiện Nghị quyết 11-NQ/TW về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Ninh Thuận ban hành",
+      "id": "388/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Ninh Thuận",
+      "signers": [
+        "Lưu Xuân Vĩnh"
+      ],
+      "issuedDate": "2017-11-21",
+      "effectiveDate": "2017-11-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 236/KH-UBND năm 2017 về thực hiện Nghị quyết 99/NQ-CP và Chương trình hành động 36-CTr/TU thực hiện Nghị quyết 11-NQ/TW về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do thành phố Hải Phòng ban hành",
+      "id": "236/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2017-11-20",
+      "effectiveDate": "2017-11-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 108/KH-UBND năm 2017 triển khai Chương trình 21-CTr/TU thực hiện Nghị quyết 11-NQ/TW về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa do tỉnh Sóc Trăng ban hành",
+      "id": "108/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Trần Văn Chuyện"
+      ],
+      "issuedDate": "2017-10-06",
+      "effectiveDate": "2017-10-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "14/KH-UBND",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Thương mại"
+  ],
+  "organization": "Tỉnh Sơn La",
+  "signers": [
+    "Cầm Ngọc Minh"
+  ],
+  "issuedDate": "2018-01-10",
+  "effectiveDate": "2018-01-10",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAyADIANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN</span> DÂN</b><b><span lang=\"VI\"><br>\n  TỈNH </span>SƠN LA</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>14<span lang=\"VI\">/</span>KH<span lang=\"VI\">-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Sơn La</i><i><span lang=\"VI\">, ngày </span>10</i><i><span lang=\"VI\"> tháng </span>01</i><i><span lang=\"VI\"> năm </span>2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">THỰC HIỆN NGHỊ QUYẾT SỐ 11-NQ/TW NGÀY 03/6/2017 CỦA HỘI NGHỊ LẦN THỨ\nNĂM BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG KHÓA XII VÀ NGHỊ QUYẾT SỐ 99/NQ-CP NGÀY\n03/10/2017 CỦA CHÍNH PHỦ VỀ HOÀN THIỆN THỂ CHẾ KINH TẾ THỊ TRƯỜNG XÃ HỘI CHỦ\nNGHĨA</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Nghị quyết số 11-NQ/TW ngày\n03 tháng 6 năm 2017 của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng\n(Khóa XII) về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ\nnghĩa; Nghị quyết số 99/NQ-CP ngày 03/10/2017 của Chính phủ về việc ban hành\nChương trình hành động của Chính phủ thực hiện Nghị quyết số 11-NQ/TW, kế hoạch\nsố 64-KH/TU ngày 24/8/2017 của Ban Chấp hành Đảng bộ tỉnh thực hiện Nghị quyết\n11-NQ/TW,</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Theo đề nghị của sở Kế hoạch và Đầu\ntư tại tờ trình số 11/TTr-SKHĐT ngày 08/01/2018,</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">UBND tỉnh ban hành Kế hoạch triển\nkhai thực hiện Nghị quyết số 11-NQ/TW, Nghị quyết số 99/NQ-CP và kế hoạch số\n64-KH/TU như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. MỤC TIÊU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Nhằm tạo sự chuyển biến về nhận thức\nvà hành động đối với các cấp, các ngành về kinh tế thị trường định hướng xã hội\nchủ nghĩa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Bám sát mục tiêu, định hướng của Tỉnh\nủy, sự quản lý của chính quyền các cấp, xây dựng phương hướng, nhiệm vụ cụ thể\ntổ chức thực hiện có hiệu quả Nghị quyết số 11-NQ/TW, Nghị quyết số 99/NQ-CP và\nkế hoạch số 64-KH/TU.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. NHIỆM VỤ VÀ GIẢI\nPHÁP CHỦ YẾU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">1. Quán triệt, thống\nnhất nhận thức về nền kinh tế thị trường định hướng xã hội chủ nghĩa</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các sở, ban, ngành của tỉnh phối hợp\nchặt chẽ với tổ chức đảng và cấp ủy tổ chức triển khai, nghiên cứu, quán triệt\ncác nội dung của Nghị quyết số 11-NQ/TW, Nghị quyết số 99/NQ-CP và kế hoạch số </span>6<span lang=\"VI\">4-KH/TU trong toàn thể đội ngũ cán bộ, công chức, viên chức, người lao\nđộng thuộc thẩm quyền quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Thông tin Truyền thông chủ trì tổ\nchức tuyên truyền nhằm nâng cao nhận thức, tạo đồng thuận xã hội, phát huy tinh\nthần trách nhiệm của người đứng đầu, nỗ lực của các ngành, các cấp, các tổ chức,\ncá nhân, doanh nghiệp đ</span>ể <span lang=\"VI\">thực hiện thắng lợi mục tiêu hoàn\nthiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Tiếp tục hoàn\nthiện thể chế về sở hữu, phát triển các thành phần kinh tế, các loại hình doanh\nnghiệp</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.1.</span></b><span lang=\"VI\"> Hoàn\nthiện thể chế về sở hữu</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">a) Các Sở, ban ngành, UBND các huyện,\nthành phố</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện nghiêm túc, đảm bảo công\nkhai minh bạch về nghĩa vụ và trách nhiệm trong thủ tục hành chính nhà nước và\ndịch vụ công; về quyền bình đẳng trong tiếp cận tài sản công của mọi chủ thể\nkinh tế trong tỉnh và đảm bảo hiệu lực thực thi, bảo vệ có hiệu quả quyền sở hữu\ntài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">b) Sở Tài nguyên và Môi trường:</span></i><span lang=\"VI\"> Chủ trì tham mưu hoàn thiện việc xây dựng cơ chế chính sách về đất đai,\ntài nguyên phù hợp với đặc thù của địa phương để huy động, phân bổ và sử dụng\nhiệu quả, khắc phục tình trạng tranh chấp, khiếu kiện, tham nhũng, lãng phí\ntrong lĩnh vực này. Công khai, minh bạch việc quản lý, sử dụng đất công; tăng\ncường giám sát, quản lý chặt chẽ, nâng cao hiệu quả sử dụng đất giao cho các cộng\nđồng và doanh nghiệp nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">c) Sở Tài chính:</span></i><span lang=\"VI\"> Chủ trì công tác quản lý và sử dụng hiệu quả tài sản công và các nguồn\nvốn nhà nước; phân biệt rõ tài sản đưa vào kinh doanh và tài sản để thực hiện\ncác chính sách xã hội; đầu tư vốn của Nhà nước vào doanh nghiệp theo cơ chế thị\ntrường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">d) Sở Khoa học công nghệ:</span></i><span lang=\"VI\"> Chủ trì thực hiện nghiêm túc, hiệu lực, hiệu quả cơ chế bảo vệ quyền sở\nhữu trí tuệ và các thiết chế giải quyết tranh chấp dân sự, tranh chấp kinh tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.2.</span></b><span lang=\"VI\"> Đổi\nmới, phát triển các thành phần kinh tế, các loại hình doanh nghiệp</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">a) Sở Kế hoạch và Đầu tư chủ trì,\nphối hợp với các sở, ngành liên quan:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát và công bố quy hoạch phát\ntriển kinh tế - xã hội t</span>ỉ<span lang=\"VI\">nh; danh mục các dự án khuyến\nkhích thu hút đầu tư để các doanh nghiệp, các tổ chức, cá nhân biết, nắm được định\nhướng đầu tư và tìm kiếm cơ hội đầu tư, đặc biệt là trong lĩnh vực nông nghiệp,\nnông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu, đề xuất các nội dung về\ncơ chế phân bổ, thẩm định, đấu thầu, thực hiện, quản lý dự án và đánh giá các dự\nán đầu tư công, nh</span>ằ<span lang=\"VI\">m nâng cao hiệu quả đầu tư công trên địa\nbàn tỉnh trong giai đoạn 2016 - 2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thu hút đầu tư có hiệu quả, trong\nđó ưu tiên các dự án đầu tư nước ngoài có chuy</span>ể<span lang=\"VI\">n giao công\nnghệ tiên tiến và quản trị hiện đại, có cơ sở nghiên cứu và phát triển công nghệ\ntại Việt Nam, có cam kết liên kết, hỗ trợ doanh nghiệp địa phương tham gia chuỗi\ngiá trị, phù hợp với định hướng của tỉnh và quy hoạch phát triển kinh tế - xã hội;\nkiên quyết không chấp thuận các dự án đầu tư không đảm bảo các điều kiện môi\ntrường và an toàn thực phẩm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu triển khai thực hiện tốt\nLuật số 04/2017/QH14 về hỗ trợ doanh nghiệp nhỏ và vừa; Nghị quyết số 35/NQ-CP\nngày 16/5/2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến năm 2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục tham mưu sắp xếp, đổi mới\nvà nâng cao hiệu quả hoạt động của các công ty lâm nghiệp thuộc tỉnh quản lý;\ntiếp tục lộ trình thoái vốn nhà nước tại các doanh nghiệp mà nhà nước không cần\nnắm giữ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao hiệu quả công tác xúc tiến\nthương mại, thu hút đầu tư, tăng cường cung cấp thông tin về thị trường trong\nnước và ngoài nước cho các doanh nghiệp; hướng dẫn, hỗ trợ các doanh nghiệp xây\ndựng thương hiệu, tìm kiếm, mở rộng và phát triển thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục rà soát các thủ tục, quy\ntrình liên quan đến các nhà đầu tư, công khai danh mục dự án kêu gọi thu hút đầu\ntư. Tham mưu đề xuất sửa đổi, bổ sung, hoàn thiện các cơ chế, chính sách, định\nhướng thu hút đầu tư. Làm tốt công tác xúc tiến thu hút đầu tư từ các nguồn vốn\nODA, FDI và các nguồn vốn khác cho đầu tư phát triển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">b) Sở Tài chính:</span></i><span lang=\"VI\"> Chủ trì phối hợp thực hiện xã hội hóa các dịch vụ công nhằm bảo đảm\nquyền bình đẳng giữa các đơn vị sự nghiệp công lập và các đơn vị ngoài công lập\ntham gia cung cấp dịch vụ công theo cơ chế thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">c) Sở Nông nghiệp và PTNT, Liên\nminh HTX phối hợp các ngành có liên quan thực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hướng dẫn, tạo mọi điều kiện tốt nhất\ncho các hợp tác xã, liên hiệp hợp tác xã tiếp cận nguồn vốn, đào tạo nguồn nhân\nlực, chuyển giao công nghệ, hỗ trợ phát triển thị trường; tham gia các hoạt động\nxúc tiến thương mại, Hội thảo, Hội chợ triển lãm, tuyên truyền quảng bá các sản\nphẩm nông sản và tìm kiếm thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh các hình thức liên kết, hỗ\ntrợ nhân rộng các mô hình tổ chức sản xuất mới; phát triển các hình thức hợp\ntác, liên kết sản xuất, chế biến, tiêu thụ nông sản theo chuỗi giá trị, đẩy mạnh\ntừ sản xuất theo hộ gia đình riêng lẻ sang mô hình sản xuất hợp tác, liên kết,\ntập t</span>ru<span lang=\"VI\">ng, quy mô lớn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">d) Sở Tư pháp chủ trì thực hiện\nnhiệm vụ</span></i><span lang=\"VI\">: Đẩy mạnh công tác hỗ trợ pháp lý cho doanh\nnghiệp, trọng tâm là các doanh nghiệp nhỏ và vừa, tư vấn pháp lý cho doanh nghiệp\nkhởi nghiệp, các doanh nghiệp tại địa bàn có điều kiện kinh tế - xã hội khó\nkhăn, đặc biệt khó khăn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">e) Sở Tài nguyên và Môi trường chủ\ntrì thực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục rà soát điều chỉnh, bổ\nsung bảng giá các loại đất trên địa bàn tỉnh Sơn La áp dụng đến 31/12/2019 ban\nhành kèm theo Quyết định số 19/2017/QĐ-UBND ngày 03/7/2017 của UBND tỉnh Sơn\nLa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công b</span>ố<span lang=\"VI\">, công\nkhai các thủ tục hành chính, bảng giá đất của UBND tỉnh; các trường hợp vi phạm\nvà tình hình xử lý vi phạm pháp luật đất đai theo quy định của Luật Đất đai và\ncác văn bản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">g) Sở Nội vụ:</span></i><span lang=\"VI\"> Chủ trì phối hợp với các Sở ngành liên quan xây dựng Đề án kiện toàn,\ns</span>ắ<span lang=\"VI\">p x</span>ế<span lang=\"VI\">p các đơn vị sự nghiệp công lập\ntrên địa bàn tỉnh Sơn La.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">h) Sở Khoa học và Công nghệ:</span></i><span lang=\"VI\"> Tăng cường bảo hộ quyền sở hữu trí tuệ</span>; <span lang=\"VI\">tổ chức\nthực hiện có hiệu quả việc xây dựng và phát triển thương hiệu cho các s</span>ản<span lang=\"VI\"> p</span>hẩ<span lang=\"VI\">m nông sản chủ lực của tỉnh để tăng giá trị và\nsức cạnh tranh của sản phẩm trên thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">3. Phát triển đồng\nbộ các yếu tố thị trường và vận hành thông suốt các loại hình thị trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.1. Sở Tài chính chủ trì phối hợp\nvới các Sở ngành, UBND các huyện, thành phố triển khai một số nhiệm vụ sau:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác kiểm tra, kiểm\nsoát giá cả thị trường và việc chấp hành các quy định của nhà nước về pháp luật\ngiá cả, đăng ký giá, kê khai giá, niêm yết và bán theo giá niêm yết, đảm bảo\ntính đúng, tính đủ, công khai, minh bạch các yếu tố hình thành giá hàng hóa, dịch\nvụ công thiết yếu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu Ủy ban nhân dân tỉnh ban\nhành các chính sách về phí, lệ phí thuộc lĩnh vực cơ quan, đơn vị quản lý theo\ncác nguyên tắc bảo đảm tính đúng, tính đủ, công khai, minh bạch; không chồng\nchéo, trùng lắp để giảm bớt gánh nặng cho người dân và doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Tài nguyên và Môi\ntrường tham mưu trình UBND tỉnh về công tác đấu giá quyền sử dụng đất; đấu thầu\ncác dự án có sử dụng đất để tăng thu cho ngân sách nhà nước. Bảo đảm minh bạch\nthông tin về thị trường quyền sử dụng đất, Thực hiện cơ chế định giá đất phù hợp\nvới thị trường để làm căn cứ tính thuế, phí, cho thuê, bồi thường thiệt hại. Tổ\nchức theo dõi, cập nhật biến động giá đất trên thị trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện bình đẳng trong tiếp cận\ncác yếu tố đầu vào của các doanh nghiệp thuộc mọi thành phần </span>k<span lang=\"VI\">inh tế. Thực hiện có hiệu quả các quy định của pháp luật về công khai,\nminh bạch trong tiếp cận các nguồn lực công, mua sắm và đầu tư công.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.2. Ngân hàng Nhà nước Việt Nam -\nChi nhánh tỉnh Sơn La</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục chỉ đạo các tổ chức tín dụng\ntriển khai toàn diện, quyết liệt, thực chất, có hiệu quả các Nghị quyết của\nChính phủ về thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường\nkinh doanh nâng cao năng lực cạnh tranh quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động nghiên cứu, đôn đốc và hướng\ndẫn các tổ chức tín dụng trên địa bàn tỉnh Sơn La thực hiện các giải pháp về tiền\ntệ, tín d</span>ụ<span lang=\"VI\">ng và hoạt động ngân hàng của NHNN Việt Nam; đảm\nbảo chất lượng tín dụng, đảm bảo an toàn hệ thống ngân hàng trên địa bàn, góp\nphần thúc đ</span>ẩ<span lang=\"VI\">y tăng trưởng kinh tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo các tổ chức tín dụng thực\nhiện có hiệu quả các chương trình tín dụng của Chính phủ, của NHNN Việt Nam g</span>ắ<span lang=\"VI\">n với thực hiện các chương trình kinh tế - xã hội trên địa bàn tỉnh Sơn\nLa. Chủ động xử lý theo thẩm quyền các khó khăn, vướng mắc, kiến nghị của tổ chức\ntín dụng và khách hàng nhằm tạo điều kiện thuận lợi cho các tổ chức t</span>í<span lang=\"VI\">n dụng mở rộng tín dụng, đảm bảo chất lượng tín dụng và an toàn hệ thống.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.3. Sở Công Thương chủ trì phối hợp\nvới các Sở ngành, UBND các huyện, thành phố triển khai một số nhiệm vụ sau:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao n</span>ă<span lang=\"VI\">ng\nlực và đổi mới công tác xúc tiến thương mại đảm bảo hiệu quả, thiết thực theo\nhướng: thu hút các nhà đầu tư để liên kết sản xuất tiêu thụ đối với một số sản\nphẩm đủ điều kiện; thúc đẩy tiêu thụ và sức mua trên thị trường; hỗ trợ các\ndoanh nghiệp tiêu thụ sản phẩm, đưa hàng hóa về nông thôn, vùng biên giới.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổng hợp, thông tin cho các thành\nphần kinh tế về các hàng rào kỹ thuật thương mại; các quy chuẩn, tiêu chuẩn kỹ\nthuật về chất lượng hàng hóa, vệ sinh an toàn thực phẩm và môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai chương trình phát triển\nthương mại điện tử và nâng cao hiệu quả quản lý các hoạt động kinh doanh thương\nmại điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường phối hợp với các ngành\nchức năng, nắm bắt tình hình, thông tin đồng thời tiến hành kiểm tra, kiểm soát\ntrên thị trường. Gắn công tác kiểm tra với công tác tuyên truyền pháp luật tới\nnhân dân, các nhà sản xuất, kinh doanh và người tiêu dùng. Đẩy mạnh công tác bảo\nvệ quyền lợi người tiêu dùng, hoạt động của các tổ chức xã hội tham gia bảo vệ\nquyền lợi người tiêu dùng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.4. Sở Tài nguyên và Môi trường</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì phối hợp với Sở Tài chính,\ncác cơ quan có liên quan, tham mưu trình UBND tỉnh phê duyệt giá đất cụ thể làm\ncơ sở xác định giá trị qu</span>ỹ <span lang=\"VI\">đất để đ</span>ấ<span lang=\"VI\">u\nthầu giao đất cho nhà đầu tư thực hiện các dự án có sử dụng đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy nhanh tiến độ cấp giấy chứng nhận\nquyền sử dụng đất, tạo điều kiện thuận lợi cho các giao dịch về đất đai; tiếp tục\nhiện đại hóa hệ thống quản lý hồ sơ địa chính, xây dựng hệ thống thông tin về đất\nđai cung cấp cho các doanh nghiệp và nhân dân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.5. Sở Khoa học và công nghệ chủ\ntrì phối hợp với các Sở ngành:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu triển khai thực hiện tốt\ncơ chế đổi mới, phát triển mạnh mẽ và đồng bộ thị trường khoa học và công nghệ;\nđẩy mạnh công tác nghiên cứu, chuyển giao công nghệ, tạo điều kiện thuận lợi\ncho các doanh nghiệp thuộc mọi thành phần kinh tế nghiên cứu phát triển và </span>ứ<span lang=\"VI\">ng dụng khoa học và công nghệ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện tốt Đề án hỗ\ntrợ phát triển doanh nghiệp khoa học và công nghệ trên địa bàn tỉnh đến năm\n2020, dự án “Nâng cao năng suất và chất lượng sản phẩm, hàng hóa của các doanh\nnghiệp vừa và nhỏ sản xuất kinh doanh các sản phẩm, hàng hóa chủ lực trên địa\nbàn tỉnh Sơn La giai đoạn 2016- 2020” và kế hoạch thực hiện Đề án ứng dụng công\nnghệ cao trên địa bàn tỉnh Sơn La đến năm 2025.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.6. Sở Xây dựng chủ trì, phối hợp\nvới các sở, ngành liên quan:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện các biện pháp\nhữu hiệu để phát triển thị trường bất động sản của tỉnh phù hợp với kinh tế thị\ntrường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường tính công khai, minh bạch\ntrong lĩnh vực giao dịch bất động sản, thực hiện các dự án đầu tư, kinh doanh;\ntăng cường công tác </span>ki<span lang=\"VI\">ểm tra, hạn ch</span>ế <span lang=\"VI\">đầu cơ và tạo cơ hội cho người có nhu cầu có thể mua, thuê bất động sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác thanh tra, kiểm\ntra và xử lý nghiêm các t</span>rư<span lang=\"VI\">ờng hợp vi phạm pháp luật kinh\ndoanh bất động sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động hướng dẫn các huyện, thành\nphố triển khai đồ án quy hoạch xây dựng vùng huyện theo Quyết định số\n676/QĐ-TTg ngày 18/5/2017 của Thủ tướng Chính phủ phê duyệt Đề án xây dựng nông\nthôn mới trong quá trình đô thị hóa trên địa bàn cấp huyện giai đoạn 2017-2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.7. Sở Lao động Thương binh và xã\nhội chủ trì phối hợp thực hiện:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đổi mới cơ chế quản lý cơ sở giáo dục\nnghề nghiệp theo Nghị định số 16/2015/NĐ-CP ngày 14/02/2015 của Chính phủ theo\nhướng tăng cường tính tự chủ và áp dụng cơ chế cạnh tranh về chất lượng giữa\ncác cơ sở đào tạo; đẩy mạnh đào tạo nghề cho lao động nông thôn, đồng thời chú\ntrọng đào tạo lại thông qua tổ chức các chương trình đào tạo ngắn hạn, tạo điều\nkiện cho người lao động tham gia bồi dưỡng và tự học để nâng cao trình độ\nchuyên môn, kỹ năng nghề nghiệp qua đó nâng cao chất lượng đội ngũ nhân lực chất\nlượng cao, gắn đào tạo nghề với kế hoạch phát triển kinh tế - xã hội chung của\ntỉnh. Tiếp tục rà soát, nghiên c</span>ứ<span lang=\"VI\">u đề xuất kiện toàn tổ chức,\nbộ máy các trường cao đẳng, trường trung cấp trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh hoạt động cho vay vốn tạo\nviệc làm, vay vốn hỗ trợ sản xuất tạo điều kiện cho người lao động có đủ nguồn\nlực đầu tư, tổ chức sản xuất tự tạo việc làm cho bản thân và thu hút thêm lao động.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác thông tin về thị\ntrường lao động, biến động về cung, cầu lao động; tư vấn giới thiệu việc làm,\ntuyển chọn lao động cung ứng cho các doanh nghiệp trong và ngoài tỉnh, tạo điều\nkiện thuận lợi cho người sử dụng lao động và người lao động trong việc tuyển dụng\nlao động và tìm kiếm việc làm phù hợp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác hướng dẫn, kiểm\ntra, giám sát các doanh nghiệp trong việc thực hiện các quy định về hợp đồng\nlao động, xây dựng nội quy lao động, công tác công đoàn, ký thỏa ước lao động tập\nthể, bảo hiểm xã hội, tiền lương, bảo hiểm thất nghiệp, kịp thời phát hiện và xử\nlý các hành vi vi phạm, nhất là các hành vi trốn đóng, nợ tiền bảo hiểm xã hội,\nbảo hiểm thất nghiệp; phát huy vai trò của tổ chức công đoàn ở doanh nghiệp, bảo\nvệ quyền và lợi ích h</span>ợ<span lang=\"VI\">p pháp của người lao động.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.8. Sở Giáo dục và Đào tạo:</span></i><span lang=\"VI\"> Phát triển, mở rộng quy mô giáo dục và đào tạo, nâng cao chất lượng tạo\nnguồn nhân lực. Nâng cao chất lượng giáo dục toàn diện; chú trọng giáo dục nhân\ncách lý tưởng, kỹ năng sống, làm việc; giữ vững chất lượng giáo dục phổ thông,\ngiáo dục mũi nhọn ở thứ hạng cao. Đẩy mạnh đổi mới căn bản, toàn diện giáo dục\nvà đào tạo đáp ứng yêu cầu về chất lượng nguồn nhân lực cho công nghiệp hóa, hiện\nđại hóa, hội nhập quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.9. Sở Y tế chủ trì tham mưu các\nnhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng kế hoạch cải tiến, nâng\ncao chất lượng khám bệnh, chữa bệnh, tăng cường công tác giao tiếp ứng xử, đáp ứng\nsự hài lòng của người bệnh; đẩy nhanh tự chủ hoàn toàn đối với các bệnh viện,\nnhất là bệnh viện hạng II trở lên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy nhanh tiến độ thực hiện bảo hiểm\ny tế toàn dân, gắn với lộ trình tính đúng, tính đủ giá dịch vụ; tham mưu UBND tỉnh\nchỉ đạo đưa chỉ tiêu bao phủ BHYT vào kế hoạch phát triển kinh tế, xã hội của\ncác huyện, thành phố; phấn đấu vượt chỉ tiêu bao phủ BHYT được giao tại theo QĐ\n1167/QĐ-TTg của Thủ tướng Chính phủ và Quyết định số 2186/QĐ-UBND ngày\n13/9/2016 của Chủ tịch Ủy ban nhân dân tỉnh; tiếp tục tham mưu UBND tỉnh có\nchính sách hỗ trợ các đối tượng khó khăn để phát triển tỷ lệ bao phủ BHYT của tỉnh\nđảm bảo gia tăng bền vững.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu trình UBND tỉnh phương án\ntổ chức đấu thầu mua thuốc tập trung cấp địa phương cho các cơ sở y tế trên địa\nbàn và tổ chức triển khai thực hiện việc đấu thầu mua thuốc tuân thủ Luật đấu\nthầu và các văn bản hướng dẫn thi hành. Chỉ đạo, hướng dẫn các cơ sở y tế tổ chức\nđấu thầu mua vật tư, hóa chất, sinh phẩm phục vụ công tác khám chữa bệnh đảm bảo\ncông khai, minh bạch, công bằng và hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường hướng dẫn và kiểm tra\ncác cơ sở kinh doanh dược trên địa bàn toàn tỉnh đảm bảo tuân thủ đúng các quy\nđịnh của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục triển khai thực hiện Nghị\nquyết số 55/NQ-HĐND ngày 21/7/2017 của HĐND tỉnh phê chuẩn Đề án xã hội hóa các\nhoạt động trong lĩnh vực y tế trên địa bàn tỉnh Sơn La, giai đoạn 2017-2021.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">3.</span>1</i><i><span lang=\"VI\">0.\nSở Văn hóa Thể thao và Du lịch:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tham mưu thực hiện có hiệu quả kế hoạch\nthực hiện Chương trình hành động thực hiện Chiến lược phát triển các ngành công\nnghiệp văn hóa Việt Nam đến năm 2020, tầm nhìn đến n</span>ă<span lang=\"VI\">m\n2030 trên địa bàn tỉnh Sơn La ban hành kèm theo Quyết định số 1378/QĐ-UBND ngày\n26/5/2017 của UBND tỉnh Sơn La.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">4. Về gắn kết\ntăng trưởng kinh tế với bảo đảm phát triển bền vững, tiến bộ công bằng xã hội,\nbảo vệ môi trường và ứng phó với biến đổi khí hậu.</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">4.</span>1</i><i><span lang=\"VI\">. Sở\nKế hoạch và Đầu tư chủ trì thực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nâng cao chất lượng thẩm định các dự\nán quy hoạch, dự án đầu tư trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mư</span>u <span lang=\"VI\">phân\nbổ các nguồn lực đầu tư phù hợp, đảm bảo yêu cầu t</span>ă<span lang=\"VI\">ng trưởng\nkinh tế nhanh, bền vững, tập trung cho các công trình, dự án trọng điểm, các địa\nphương còn nhiều khó khăn, giải quyết các vấn đề bức xúc của xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">4.2. Sở Tài nguyên và Môi trường\nchủ trì thực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức triển khai xã hội hóa công\ntác xử lý chất thải rắn khu vực nông thôn; Ưu tiên bố trí quỹ đất </span>thỏa <span lang=\"VI\">đáng và quan tâm đầu tư xây dựng các công trình xử lý rác thải, nước thải,\nhạ tầng k</span>ỹ <span lang=\"VI\">thuật về môi trường. Tiếp tục tổ chức thực hiện\ncó hiệu quả Đề án t</span>ổ<span lang=\"VI\">ng thể xử lý chất thải y tế giai đoạn\n2011-2015 và định hướng đến năm 2020 theo Quyết định số 2038/QĐ-TTg ngày\n15/11/2011 của Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức tập huấn, đào tạo nghiệp vụ\nnhằm tăng cường năng lực quản lý nhà nước về môi trường cho cấp huyện và cấp xã\ntheo Luật bảo vệ môi trường hàng năm. Tuyên truyền, nâng cao nhận thức cộng đồng\nvề bảo vệ môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện tốt kế hoạch thanh tra,\nkiểm tra về bảo vệ môi trường theo thẩm quyền, giám sát chặt chẽ các cơ sở gây\nô nhiễm môi trường nghiêm trọng, cơ sở phát sinh nhiều khí thải, chất thải độc\nhại; kiên quyết xử lý nghiêm các hành vi vi phạm pháp luật về bảo vệ môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">4.3. Sở Lao động - Thương binh và\nXã hội, Sở Văn hóa, Thể thao và Du lịch, Sở Tài chính phối hợp với các Sở ngành\nthực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai thực hiện tốt các chính\nsách an sinh xã hội và giải quyết việc làm cho người lao động.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường huy động các nguồn lực\ncho chính sách an sinh xã hội, như: Tăng chi ngân sách nhà nước về an sinh xã hội\nkết hợp với huy động đóng góp của người dân, doanh nghiệp và xã hội cho an sinh\nxã hội; khuyến khích, tạo môi trường thuận lợi để phát triển đa dạng các mô\nhình an sinh xã hội, các hoạt động từ thiện, tình nguyện dựa vào </span>sự <span lang=\"VI\">tham gia của cộng đồng (các đoàn thể địa phương, các nhóm sở thích, gia\nđình, dòng họ, cá nhân...) trong việc cung cấp các dịch vụ an sinh xã hội, thực\nhiện các hoạt động nhân đạo, giúp đỡ, chia sẻ rủi ro đối với những nhóm yếu thế,\nnhững đối tượng đặc thù.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện có hiệu quả Nghị quyết số\n33-NQ/TW ngày 09 tháng 6 năm 2014 của Ban Chấp hành Trung ương Đảng về xây dựng\nvà phát triển văn hóa, con người Việt Nam đáp ứng yêu cầu phát triển đất nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">5. Về nâng cao hiệu\nquả hội nhập kinh tế quốc tế</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">5.</span>1</i><i><span lang=\"VI\">. Sở\nNgoại vụ chủ trì thực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu triển khai thực hiện hiệu\nquả các nghị quyết của Bộ Chính trị, Nghị quyết của Ban chấp hành Trung ương Đảng,\nnghị quyết của Chính phủ, Kế hoạch của Tỉnh ủy, Kế hoạch của UBND tỉnh về hội\nnhập quốc tế; về thực hiện có hiệu quả tiến trình hội nhập kinh tế quốc tế, giữ\nv</span>ữ<span lang=\"VI\">ng ổn định chính trị </span>- <span lang=\"VI\">xã hội trong\nbối cảnh nước ta tham gia các Hiệp định thương mại tự do thế hệ mới.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham m</span>ưu <span lang=\"VI\">thực\nhiện nghiêm túc Pháp lệnh ký kết và thực hiện thỏa thuận quốc tế năm 2007 và Chỉ\nthị số 22/CT-TTg ngày 23/5/2017 của Thủ tướng Chính phủ về tăng cường kiểm tra,\nđôn đốc việc thực hiện các cam kết, thỏa thuận quốc tế; đôn đốc triển khai </span>kị<span lang=\"VI\">p thời, có hiệu quả việc thực hiện các cam kết, thỏa thuận quốc tế nh</span>ằ<span lang=\"VI\">m theo d</span>õ<span lang=\"VI\">i, đánh giá tình hình, kết quả thực hiện\nhoặc các vướng mắc trong triển khai thực hiện các thỏa thuận quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường hợp tác quốc tế với các\nnước, các cơ quan đại diện ngoại giao nước ngoài, các tổ chức quốc tế có quan hệ\nvới tỉnh; đặc biệt chú trọng mối quan hệ hữu nghị truyền thống, hợp tác toàn diện\nvới các tỉnh Bắc Lào nhằm củng cố, tăng cường quan hệ chính trị, đẩy mạnh hợp\ntác quốc phòng, an ninh, kinh tế, văn hóa - xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">5.2. Sở Công Thương chủ trì thực\nhiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nghiên cứu, xây dựng các đề án,\nchương trình, kế hoạch cụ thể nhằm thực hiện có hiệu quả chủ trương, giải pháp\nđẩy mạnh phát triển thị trường hàng hóa bao gồm cả thị trường nhập, xuất khẩu;\nthị trường trong nước và thương mại biên giới.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng kế hoạch, chương trình cụ\nthể nhằm khuyến khích Doanh nghiệp trong tỉnh tham gia chuỗi cung ứng khu vực,\nđặc biệt trong các nhóm hàng hóa có lợi thế so sánh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">6. Gắn tăng trưởng\nkinh tế với bảo đảm quốc phòng, an ninh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">6.</span>1</i><i><span lang=\"VI\">. Bộ\nChỉ huy </span>Q</i><i><span lang=\"VI\">uân sự tỉnh chủ trì thực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu điều chỉnh, bổ sung quy hoạch\nxây dựng thế trận quân sự trong khu vực phòng thủ tỉnh; Quy hoạch thao trường\nhuấn luyện của tỉnh trong thao trường huấn luyện khu vực của Quân khu 2.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu chuẩn bị và tổ chức diễn tập\nkhu vực phòng thủ t</span>ỉ<span lang=\"VI\">nh, diễn tập khu vực phòng thủ huyện\nThuận Châu, Mộc Châu, Phù Yên, Mai Sơn, Bắc Y</span>ê<span lang=\"VI\">n, Vân H</span>ồ<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Triển khai Đề án \"Bảo đảm quốc\nphòng của tỉnh Sơn La giai đoạn 2016-2020, định hướng đến năm 2030\"; Đ</span>ề<span lang=\"VI\"> án \"Tổ chức xây dựng lực lượng DQTV trên địa bàn tỉnh Sơn La giai\nđoạn 2017-2021\"; Đề án \"Bảo đảm hoạt động Quân báo-Trinh sát t</span>ỉ<span lang=\"VI\">nh Sơn La giai đoạn 2017-2021\".</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh hợp tác quốc tế trong lĩnh\nvực quốc phòng an ninh với các tỉnh Bắc Lào, tổ chức giao ban định kỳ, tham gia\nvào các hoạt động chung về quốc phòng an ninh với các t</span>ỉ<span lang=\"VI\">nh\nBắc Lào.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">6.2. Công an tỉnh chủ trì thực hiện\nnhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục cụ thể hóa các quan điểm,\nchủ trương, giải pháp bảo đảm an ninh kinh tế theo Chỉ thị số 12-CT/TW ngày\n05.01.2017 của Bộ Chính trị về tăng cường sự lãnh đạo của Đảng đối với công tác\nbảo đảm an ninh kinh tế trong điều kiện phát triển kinh tế thị trường định hướng\nxã hội chủ nghĩa và hội nhập kinh tế quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức tốt công tác nắm tình hình,\nphát hiện kịp thời những sơ hở trong quản lý, điều hành kinh tế; tham mưu với cấp\ncó thẩm quyền chỉ đạo chặt chẽ về quy trình, thủ tục, điều kiện đầu tư các dự\nán kinh tế - xã hội ở các địa bàn trọng </span>điể<span lang=\"VI\">m liên quan đến\nquốc phòng, an ninh; các tổ chức doanh nghiệp, dự án có yếu t</span>ố <span lang=\"VI\">nước ngoài; cơ chế thẩm định các dự án kinh tế có yếu tố quốc phòng, an\nninh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tập trung làm tốt công tác bảo vệ\nchính trị nội bộ, bảo vệ bí mật nhà nước trong lĩnh vực kinh tế; nhất là tại\ncác cơ quan hoạch định chính sách phát triển kinh tế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh công tác phòng ngừa, đấu\ntranh với hoạt động tuyên truyền, xuyên tạc quá trình xây dựng, hoàn thiện thể\nchế kinh tế thị trường, định hướng xã hội chủ nghĩa trên không gian mạng của\ncác thế lực thù địch: Tăng cường công tác quản lý hoạt động trên mạng viễn\nthông và Internet; kiểm tra, kiểm soát chặt chẽ các trang báo điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Định kỳ rà soát, xác định các khu vực,\nđịa bàn cần bảo vệ; danh mục bí mật nhà nước trong lĩnh vực kinh tế trên địa\nbàn toàn tỉnh; thường xuyên rà soát, hoàn thiện, bổ sung các phương án, kế hoạch\nbảo đảm an ninh, trật tự các chương trình, dự án phát triển kinh tế, xã hội\ntrên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Tiếp tục triển khai các Chỉ thị,\nNghị quyết của Đảng, Nhà nước, Bộ Công an, UBND tỉnh có liên quan đến phong\ntrào toàn dân bảo vệ an ninh tổ quốc, trọng tâm là Chỉ thị số 09-CT/TW ngày\n1/12/2011 của Ban Bí thư Trung ương Đảng về “Tăng cường sự lãnh đạo của Đảng đối\nvới phong trào toàn dân bảo vệ an ninh tổ quốc trong tình hình mới”.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường quan hệ hợp tác hữu với\nCông an 9 tỉnh Bắc Lào, đảm bảo giữ vững chủ quyền, toàn vẹn lãnh thổ, an ninh\nquốc gia và phòng, chống tội phạm qua biên giới; xây dựng tuy</span>ế<span lang=\"VI\">n biên giới Sơn La - Hủa Phăn, Sơn La </span>- <span lang=\"VI\">Luông Pha\nBăng hòa bình, hữu nghị, ổn định và phát triển toàn diện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">6.3. Sở Kế hoạch và Đầu tư chủ trì\nthực hiện nhiệm vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu thực hiện tốt việc kết hợp\nphát triển kinh tế - xã hội gắn với quốc phòng, an ninh trong khu vực phòng thủ\nvà các vị trí chiến lược; các dự án phát triển kinh tế - xã hội tại các khu vực\nphòng thủ phải bảo đảm yêu cầu về quốc phòng, an ninh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh phát triển mạnh các ngành\nkinh tế có lợi thế của tỉnh, gắn với bảo vệ vững chắc chủ quyền biên giới quốc\ngia. Huy động các nguồn lực đầu tư xây dựng hệ thống kết cấu hạ tầng, trong đó\nưu tiên xây dựng tại các xã giáp biên giới Việt Nam - Lào, căn cứ hậu phương,\nvùng ATK; phát triển hệ thống giao thông vận tải đồng bộ, nhất là các tuyến vận\ntải chiến lược phục vụ cả nhu cầu hoạt động thời bình và thời chiến.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"VI\">7. Về nâng cao\nnăng lực thực thi thể chế</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">7.1. Sở Tư pháp:</span></i><span lang=\"VI\"> Chủ trì thực hiện nhiệm vụ nâng cao chất lượng thẩm định văn bản q</span>u<span lang=\"VI\">y phạm pháp luật, tăng cường công tác kiểm tra văn bản QPPL đảm bảo\ntính minh bạch, nhất quán, ổn định trong các văn bản quy phạm pháp luật do địa\nphương ban hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">7.2. Sở Nội vụ:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì thực hiện thí điểm một số\nmô hình mới về tổ chức bộ máy và kiêm nhiệm chức danh để tinh gọn đầu mối, nâng\ncao hiệu lực, hiệu quả hoạt động, góp phần làm rõ về lý luận và thực tiễn.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Triển khai thực hiện Kế hoạch số\n76-KH/TU ngày 17/12/2017 của Tỉnh ủy Sơn La về thực hiện Nghị quyết số 18-NQ/TW\nHội nghị lần thứ sáu Ban Chấp hành Trung ương Đảng khóa XII một số vấn đề về tiếp\ntục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động\nhiệu lực, hiệu quả; Nghị quyết số 19-NQ/TW ngày 25/10/2017 của Ban Chấp hành\nTrung ương khóa XII về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao\nchất lượng và hiệu quả hoạt động của đơn vị sự nghiệp công lập. Xây dựng Đề án\nkiện toàn sắp xếp các trường cao đẳng, trung cấp, cơ sở đào tạo, dạy nghề trên\nđịa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, sắp xếp, kiện toàn một số\ntổ chức và các đầu mối bên trong của từng tổ chức theo hướng giảm đầu mối, giảm\ntối đa cấp trung gian, giảm cấp phó. Sửa đổi, bổ sung, hoàn thiện một số quy định\nliên quan đến chức năng, nhiệm vụ, tổ chức bộ máy của hệ thống chính trị để kịp\nthời khắc phục tình trạng tr</span>ù<span lang=\"VI\">ng </span>l<span lang=\"VI\">ắp,\nchồng chéo chức năng, nhiệm vụ, lĩnh vực quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sắp xếp thu gọn hợp lý các đơn vị\nhành chính cấp xã chưa đạt 50% tiêu chuẩn theo quy định về quy mô dân số, diện\ntích tự nhiên và giảm số lượng thôn, tổ dân phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1.</span></b><span lang=\"VI\"> Căn cứ\nchức năng, nhiệm vụ được phân công, Thủ trưởng các sở, ban, ngành, Chủ tịch\nUBND các huyện, thành phố chỉ đạo triển khai thực hiện những nhiệm vụ, nội dung\ncông việc trong Kế hoạch này, cụ thể hóa thành các nhiệm vụ của kế hoạch hàng\nnăm, xác định rõ mục tiêu, nhiệm vụ, đơn vị chủ trì, phối hợp, tiến độ thời\ngian, thường xuyên kiểm tra, đôn đốc việc thực hiện. Định kỳ trước ngày 10\ntháng 12 hàng năm, báo cáo tình hình, kết quả thực hiện gửi Sở Kế hoạch và Đầu\ntư để tổng hợp, báo cáo theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.</span></b><span lang=\"VI\"> Sở Kế\nhoạch và Đầu tư chủ trì, phối hợp với các sở, ban, ngành và UBND các huyện,\nthành phố tăng cường kiểm tra, đôn đốc việc triển khai thực hiện Kế hoạch này;\nđịnh kỳ trước ngày 25 tháng 12 hàng năm tổng hợp, tham mưu Ủy ban nhân dân tỉnh\nbáo cáo tình hình, kết quả thực hiện với Ban Thường vụ Tỉnh ủy, Chính phủ, các\nBộ, ngành Trung ương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3.</span></b><span lang=\"VI\"> Trong\nquá trình tổ chức thực hiện, trường hợp cần sửa đổi, bổ sung những nội dung cụ\nthể trong Kế hoạch này, các sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố\nchủ động phối hợp với Sở Kế hoạch và Đầu tư báo cáo, đề xuất </span>Ủ<span lang=\"VI\">y ban nhân dân tỉnh xem xét, quyết định./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAyADIANwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b></span><span lang=\"VI\" style=\"font-size:8.0pt\">- Văn phòng Chính phủ;\n  (b/c)</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Bộ Kế hoạch và Đầu tư; (b/c)</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Phòng TMCN Việt Nam; (b/c)</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- TT Tỉnh ủy; (b/c)</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- TT HĐND tỉnh, (b/c)</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Chủ tịch, các PCT UBND tỉnh;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- </span><span style=\"font-size:\n  8.0pt\">U</span><span lang=\"VI\" style=\"font-size:8.0pt\">B MTTQVN tỉnh và các\n  đoàn thể tỉnh;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Tòa án Nhân dân tỉnh;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Viện Kiểm soát Nhân dân tỉnh,</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Các sở, ban, ngành;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Các huyện ủy, thành ủy;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- HĐND các huyện, thành phố;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- UBND các huyện, thành phố;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Trung tâm Công báo;</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- VP UBND tỉnh (LĐ, CVCK);</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Lưu: VT, TH (V.Hải) 120 bản.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TM.\n  </span>ỦY</b><b><span lang=\"VI\"> BAN NH</span>Â</b><b><span lang=\"VI\">N DÂN</span><br>\n  </b><b><span lang=\"VI\">CHỦ TỊCH</span><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Cầm Ngọc Minh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN****TỈNH SƠN LA****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 14/KH\\-UBND\n\n_Sơn La__, ngày 10_ _tháng 01_ _năm 2018_\n\n**KẾ HOẠCH**\n\nTHỰC HIỆN NGHỊ QUYẾT SỐ 11-NQ/TW NGÀY 03/6/2017 CỦA HỘI NGHỊ LẦN THỨ NĂM BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG KHÓA XII VÀ NGHỊ QUYẾT SỐ 99/NQ-CP NGÀY 03/10/2017 CỦA CHÍNH PHỦ VỀ HOÀN THIỆN THỂ CHẾ KINH TẾ THỊ TRƯỜNG XÃ HỘI CHỦ NGHĨA\n\nThực hiện Nghị quyết số 11-NQ/TW ngày 03 tháng 6 năm 2017 của Hội nghị lần thứ năm Ban Chấp hành Trung ương Đảng (Khóa XII) về hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa; Nghị quyết số 99/NQ-CP ngày 03/10/2017 của Chính phủ về việc ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 11-NQ/TW, kế hoạch số 64-KH/TU ngày 24/8/2017 của Ban Chấp hành Đảng bộ tỉnh thực hiện Nghị quyết 11-NQ/TW,\n\nTheo đề nghị của sở Kế hoạch và Đầu tư tại tờ trình số 11/TTr-SKHĐT ngày 08/01/2018,\n\nUBND tỉnh ban hành Kế hoạch triển khai thực hiện Nghị quyết số 11-NQ/TW, Nghị quyết số 99/NQ-CP và kế hoạch số 64-KH/TU như sau:\n\n**I. MỤC TIÊU**\n\n1\\. Nhằm tạo sự chuyển biến về nhận thức và hành động đối với các cấp, các ngành về kinh tế thị trường định hướng xã hội chủ nghĩa.\n\n2\\. Bám sát mục tiêu, định hướng của Tỉnh ủy, sự quản lý của chính quyền các cấp, xây dựng phương hướng, nhiệm vụ cụ thể tổ chức thực hiện có hiệu quả Nghị quyết số 11-NQ/TW, Nghị quyết số 99/NQ-CP và kế hoạch số 64-KH/TU.\n\n**II. NHIỆM VỤ VÀ GIẢI PHÁP CHỦ YẾU**\n\n**1\\. Quán triệt, thống nhất nhận thức về nền kinh tế thị trường định hướng xã hội chủ nghĩa**\n\nCác sở, ban, ngành của tỉnh phối hợp chặt chẽ với tổ chức đảng và cấp ủy tổ chức triển khai, nghiên cứu, quán triệt các nội dung của Nghị quyết số 11-NQ/TW, Nghị quyết số 99/NQ-CP và kế hoạch số 64-KH/TU trong toàn thể đội ngũ cán bộ, công chức, viên chức, người lao động thuộc thẩm quyền quản lý.\n\nSở Thông tin Truyền thông chủ trì tổ chức tuyên truyền nhằm nâng cao nhận thức, tạo đồng thuận xã hội, phát huy tinh thần trách nhiệm của người đứng đầu, nỗ lực của các ngành, các cấp, các tổ chức, cá nhân, doanh nghiệp để thực hiện thắng lợi mục tiêu hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa.\n\n**2\\. Tiếp tục hoàn thiện thể chế về sở hữu, phát triển các thành phần kinh tế, các loại hình doanh nghiệp**\n\n**2.1.** Hoàn thiện thể chế về sở hữu\n\n_a) Các Sở, ban ngành, UBND các huyện, thành phố_\n\nThực hiện nghiêm túc, đảm bảo công khai minh bạch về nghĩa vụ và trách nhiệm trong thủ tục hành chính nhà nước và dịch vụ công; về quyền bình đẳng trong tiếp cận tài sản công của mọi chủ thể kinh tế trong tỉnh và đảm bảo hiệu lực thực thi, bảo vệ có hiệu quả quyền sở hữu tài sản.\n\n_b) Sở Tài nguyên và Môi trường:_ Chủ trì tham mưu hoàn thiện việc xây dựng cơ chế chính sách về đất đai, tài nguyên phù hợp với đặc thù của địa phương để huy động, phân bổ và sử dụng hiệu quả, khắc phục tình trạng tranh chấp, khiếu kiện, tham nhũng, lãng phí trong lĩnh vực này. Công khai, minh bạch việc quản lý, sử dụng đất công; tăng cường giám sát, quản lý chặt chẽ, nâng cao hiệu quả sử dụng đất giao cho các cộng đồng và doanh nghiệp nhà nước.\n\n_c) Sở Tài chính:_ Chủ trì công tác quản lý và sử dụng hiệu quả tài sản công và các nguồn vốn nhà nước; phân biệt rõ tài sản đưa vào kinh doanh và tài sản để thực hiện các chính sách xã hội; đầu tư vốn của Nhà nước vào doanh nghiệp theo cơ chế thị trường.\n\n_d) Sở Khoa học công nghệ:_ Chủ trì thực hiện nghiêm túc, hiệu lực, hiệu quả cơ chế bảo vệ quyền sở hữu trí tuệ và các thiết chế giải quyết tranh chấp dân sự, tranh chấp kinh tế.\n\n**2.2.** Đổi mới, phát triển các thành phần kinh tế, các loại hình doanh nghiệp\n\n_a) Sở Kế hoạch và Đầu tư chủ trì, phối hợp với các sở, ngành liên quan:_\n\n\\- Rà soát và công bố quy hoạch phát triển kinh tế - xã hội tỉnh; danh mục các dự án khuyến khích thu hút đầu tư để các doanh nghiệp, các tổ chức, cá nhân biết, nắm được định hướng đầu tư và tìm kiếm cơ hội đầu tư, đặc biệt là trong lĩnh vực nông nghiệp, nông thôn.\n\n\\- Tham mưu, đề xuất các nội dung về cơ chế phân bổ, thẩm định, đấu thầu, thực hiện, quản lý dự án và đánh giá các dự án đầu tư công, nhằm nâng cao hiệu quả đầu tư công trên địa bàn tỉnh trong giai đoạn 2016 - 2020.\n\n\\- Thu hút đầu tư có hiệu quả, trong đó ưu tiên các dự án đầu tư nước ngoài có chuyển giao công nghệ tiên tiến và quản trị hiện đại, có cơ sở nghiên cứu và phát triển công nghệ tại Việt Nam, có cam kết liên kết, hỗ trợ doanh nghiệp địa phương tham gia chuỗi giá trị, phù hợp với định hướng của tỉnh và quy hoạch phát triển kinh tế - xã hội; kiên quyết không chấp thuận các dự án đầu tư không đảm bảo các điều kiện môi trường và an toàn thực phẩm.\n\n\\- Tham mưu triển khai thực hiện tốt Luật số 04/2017/QH14 về hỗ trợ doanh nghiệp nhỏ và vừa; Nghị quyết số 35/NQ-CP ngày 16/5/2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến năm 2020.\n\n\\- Tiếp tục tham mưu sắp xếp, đổi mới và nâng cao hiệu quả hoạt động của các công ty lâm nghiệp thuộc tỉnh quản lý; tiếp tục lộ trình thoái vốn nhà nước tại các doanh nghiệp mà nhà nước không cần nắm giữ.\n\n\\- Nâng cao hiệu quả công tác xúc tiến thương mại, thu hút đầu tư, tăng cường cung cấp thông tin về thị trường trong nước và ngoài nước cho các doanh nghiệp; hướng dẫn, hỗ trợ các doanh nghiệp xây dựng thương hiệu, tìm kiếm, mở rộng và phát triển thị trường.\n\n\\- Tiếp tục rà soát các thủ tục, quy trình liên quan đến các nhà đầu tư, công khai danh mục dự án kêu gọi thu hút đầu tư. Tham mưu đề xuất sửa đổi, bổ sung, hoàn thiện các cơ chế, chính sách, định hướng thu hút đầu tư. Làm tốt công tác xúc tiến thu hút đầu tư từ các nguồn vốn ODA, FDI và các nguồn vốn khác cho đầu tư phát triển.\n\n_b) Sở Tài chính:_ Chủ trì phối hợp thực hiện xã hội hóa các dịch vụ công nhằm bảo đảm quyền bình đẳng giữa các đơn vị sự nghiệp công lập và các đơn vị ngoài công lập tham gia cung cấp dịch vụ công theo cơ chế thị trường.\n\n_c) Sở Nông nghiệp và PTNT, Liên minh HTX phối hợp các ngành có liên quan thực hiện nhiệm vụ:_\n\n\\- Hướng dẫn, tạo mọi điều kiện tốt nhất cho các hợp tác xã, liên hiệp hợp tác xã tiếp cận nguồn vốn, đào tạo nguồn nhân lực, chuyển giao công nghệ, hỗ trợ phát triển thị trường; tham gia các hoạt động xúc tiến thương mại, Hội thảo, Hội chợ triển lãm, tuyên truyền quảng bá các sản phẩm nông sản và tìm kiếm thị trường.\n\n\\- Đẩy mạnh các hình thức liên kết, hỗ trợ nhân rộng các mô hình tổ chức sản xuất mới; phát triển các hình thức hợp tác, liên kết sản xuất, chế biến, tiêu thụ nông sản theo chuỗi giá trị, đẩy mạnh từ sản xuất theo hộ gia đình riêng lẻ sang mô hình sản xuất hợp tác, liên kết, tập trung, quy mô lớn.\n\n_d) Sở Tư pháp chủ trì thực hiện nhiệm vụ_: Đẩy mạnh công tác hỗ trợ pháp lý cho doanh nghiệp, trọng tâm là các doanh nghiệp nhỏ và vừa, tư vấn pháp lý cho doanh nghiệp khởi nghiệp, các doanh nghiệp tại địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn.\n\n_e) Sở Tài nguyên và Môi trường chủ trì thực hiện nhiệm vụ:_\n\n\\- Tiếp tục rà soát điều chỉnh, bổ sung bảng giá các loại đất trên địa bàn tỉnh Sơn La áp dụng đến 31/12/2019 ban hành kèm theo Quyết định số 19/2017/QĐ-UBND ngày 03/7/2017 của UBND tỉnh Sơn La.\n\n\\- Công bố, công khai các thủ tục hành chính, bảng giá đất của UBND tỉnh; các trường hợp vi phạm và tình hình xử lý vi phạm pháp luật đất đai theo quy định của Luật Đất đai và các văn bản hướng dẫn thi hành.\n\n_g) Sở Nội vụ:_ Chủ trì phối hợp với các Sở ngành liên quan xây dựng Đề án kiện toàn, sắp xếp các đơn vị sự nghiệp công lập trên địa bàn tỉnh Sơn La.\n\n_h) Sở Khoa học và Công nghệ:_ Tăng cường bảo hộ quyền sở hữu trí tuệ; tổ chức thực hiện có hiệu quả việc xây dựng và phát triển thương hiệu cho các sản phẩm nông sản chủ lực của tỉnh để tăng giá trị và sức cạnh tranh của sản phẩm trên thị trường.\n\n**3\\. Phát triển đồng bộ các yếu tố thị trường và vận hành thông suốt các loại hình thị trường**\n\n_3.1. Sở Tài chính chủ trì phối hợp với các Sở ngành, UBND các huyện, thành phố triển khai một số nhiệm vụ sau:_\n\n\\- Tăng cường công tác kiểm tra, kiểm soát giá cả thị trường và việc chấp hành các quy định của nhà nước về pháp luật giá cả, đăng ký giá, kê khai giá, niêm yết và bán theo giá niêm yết, đảm bảo tính đúng, tính đủ, công khai, minh bạch các yếu tố hình thành giá hàng hóa, dịch vụ công thiết yếu.\n\n\\- Tham mưu Ủy ban nhân dân tỉnh ban hành các chính sách về phí, lệ phí thuộc lĩnh vực cơ quan, đơn vị quản lý theo các nguyên tắc bảo đảm tính đúng, tính đủ, công khai, minh bạch; không chồng chéo, trùng lắp để giảm bớt gánh nặng cho người dân và doanh nghiệp.\n\n\\- Phối hợp với Sở Tài nguyên và Môi trường tham mưu trình UBND tỉnh về công tác đấu giá quyền sử dụng đất; đấu thầu các dự án có sử dụng đất để tăng thu cho ngân sách nhà nước. Bảo đảm minh bạch thông tin về thị trường quyền sử dụng đất, Thực hiện cơ chế định giá đất phù hợp với thị trường để làm căn cứ tính thuế, phí, cho thuê, bồi thường thiệt hại. Tổ chức theo dõi, cập nhật biến động giá đất trên thị trường.\n\n\\- Thực hiện bình đẳng trong tiếp cận các yếu tố đầu vào của các doanh nghiệp thuộc mọi thành phần kinh tế. Thực hiện có hiệu quả các quy định của pháp luật về công khai, minh bạch trong tiếp cận các nguồn lực công, mua sắm và đầu tư công.\n\n_3.2. Ngân hàng Nhà nước Việt Nam - Chi nhánh tỉnh Sơn La_\n\n\\- Tiếp tục chỉ đạo các tổ chức tín dụng triển khai toàn diện, quyết liệt, thực chất, có hiệu quả các Nghị quyết của Chính phủ về thực hiện những nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh nâng cao năng lực cạnh tranh quốc gia.\n\n\\- Chủ động nghiên cứu, đôn đốc và hướng dẫn các tổ chức tín dụng trên địa bàn tỉnh Sơn La thực hiện các giải pháp về tiền tệ, tín dụng và hoạt động ngân hàng của NHNN Việt Nam; đảm bảo chất lượng tín dụng, đảm bảo an toàn hệ thống ngân hàng trên địa bàn, góp phần thúc đẩy tăng trưởng kinh tế.\n\n\\- Chỉ đạo các tổ chức tín dụng thực hiện có hiệu quả các chương trình tín dụng của Chính phủ, của NHNN Việt Nam gắn với thực hiện các chương trình kinh tế - xã hội trên địa bàn tỉnh Sơn La. Chủ động xử lý theo thẩm quyền các khó khăn, vướng mắc, kiến nghị của tổ chức tín dụng và khách hàng nhằm tạo điều kiện thuận lợi cho các tổ chức tín dụng mở rộng tín dụng, đảm bảo chất lượng tín dụng và an toàn hệ thống.\n\n_3.3. Sở Công Thương chủ trì phối hợp với các Sở ngành, UBND các huyện, thành phố triển khai một số nhiệm vụ sau:_\n\n\\- Nâng cao năng lực và đổi mới công tác xúc tiến thương mại đảm bảo hiệu quả, thiết thực theo hướng: thu hút các nhà đầu tư để liên kết sản xuất tiêu thụ đối với một số sản phẩm đủ điều kiện; thúc đẩy tiêu thụ và sức mua trên thị trường; hỗ trợ các doanh nghiệp tiêu thụ sản phẩm, đưa hàng hóa về nông thôn, vùng biên giới.\n\n\\- Tổng hợp, thông tin cho các thành phần kinh tế về các hàng rào kỹ thuật thương mại; các quy chuẩn, tiêu chuẩn kỹ thuật về chất lượng hàng hóa, vệ sinh an toàn thực phẩm và môi trường.\n\n\\- Triển khai chương trình phát triển thương mại điện tử và nâng cao hiệu quả quản lý các hoạt động kinh doanh thương mại điện tử.\n\n\\- Tăng cường phối hợp với các ngành chức năng, nắm bắt tình hình, thông tin đồng thời tiến hành kiểm tra, kiểm soát trên thị trường. Gắn công tác kiểm tra với công tác tuyên truyền pháp luật tới nhân dân, các nhà sản xuất, kinh doanh và người tiêu dùng. Đẩy mạnh công tác bảo vệ quyền lợi người tiêu dùng, hoạt động của các tổ chức xã hội tham gia bảo vệ quyền lợi người tiêu dùng.\n\n_3.4. Sở Tài nguyên và Môi trường_\n\n\\- Chủ trì phối hợp với Sở Tài chính, các cơ quan có liên quan, tham mưu trình UBND tỉnh phê duyệt giá đất cụ thể làm cơ sở xác định giá trị quỹ đất để đấu thầu giao đất cho nhà đầu tư thực hiện các dự án có sử dụng đất.\n\n\\- Đẩy nhanh tiến độ cấp giấy chứng nhận quyền sử dụng đất, tạo điều kiện thuận lợi cho các giao dịch về đất đai; tiếp tục hiện đại hóa hệ thống quản lý hồ sơ địa chính, xây dựng hệ thống thông tin về đất đai cung cấp cho các doanh nghiệp và nhân dân.\n\n_3.5. Sở Khoa học và công nghệ chủ trì phối hợp với các Sở ngành:_\n\n\\- Tham mưu triển khai thực hiện tốt cơ chế đổi mới, phát triển mạnh mẽ và đồng bộ thị trường khoa học và công nghệ; đẩy mạnh công tác nghiên cứu, chuyển giao công nghệ, tạo điều kiện thuận lợi cho các doanh nghiệp thuộc mọi thành phần kinh tế nghiên cứu phát triển và ứng dụng khoa học và công nghệ.\n\n\\- Triển khai thực hiện tốt Đề án hỗ trợ phát triển doanh nghiệp khoa học và công nghệ trên địa bàn tỉnh đến năm 2020, dự án “Nâng cao năng suất và chất lượng sản phẩm, hàng hóa của các doanh nghiệp vừa và nhỏ sản xuất kinh doanh các sản phẩm, hàng hóa chủ lực trên địa bàn tỉnh Sơn La giai đoạn 2016- 2020” và kế hoạch thực hiện Đề án ứng dụng công nghệ cao trên địa bàn tỉnh Sơn La đến năm 2025.\n\n_3.6. Sở Xây dựng chủ trì, phối hợp với các sở, ngành liên quan:_\n\n\\- Triển khai thực hiện các biện pháp hữu hiệu để phát triển thị trường bất động sản của tỉnh phù hợp với kinh tế thị trường.\n\n\\- Tăng cường tính công khai, minh bạch trong lĩnh vực giao dịch bất động sản, thực hiện các dự án đầu tư, kinh doanh; tăng cường công tác kiểm tra, hạn chế đầu cơ và tạo cơ hội cho người có nhu cầu có thể mua, thuê bất động sản.\n\n\\- Tăng cường công tác thanh tra, kiểm tra và xử lý nghiêm các trường hợp vi phạm pháp luật kinh doanh bất động sản.\n\n\\- Chủ động hướng dẫn các huyện, thành phố triển khai đồ án quy hoạch xây dựng vùng huyện theo Quyết định số 676/QĐ-TTg ngày 18/5/2017 của Thủ tướng Chính phủ phê duyệt Đề án xây dựng nông thôn mới trong quá trình đô thị hóa trên địa bàn cấp huyện giai đoạn 2017-2020.\n\n_3.7. Sở Lao động Thương binh và xã hội chủ trì phối hợp thực hiện:_\n\n\\- Đổi mới cơ chế quản lý cơ sở giáo dục nghề nghiệp theo Nghị định số 16/2015/NĐ-CP ngày 14/02/2015 của Chính phủ theo hướng tăng cường tính tự chủ và áp dụng cơ chế cạnh tranh về chất lượng giữa các cơ sở đào tạo; đẩy mạnh đào tạo nghề cho lao động nông thôn, đồng thời chú trọng đào tạo lại thông qua tổ chức các chương trình đào tạo ngắn hạn, tạo điều kiện cho người lao động tham gia bồi dưỡng và tự học để nâng cao trình độ chuyên môn, kỹ năng nghề nghiệp qua đó nâng cao chất lượng đội ngũ nhân lực chất lượng cao, gắn đào tạo nghề với kế hoạch phát triển kinh tế - xã hội chung của tỉnh. Tiếp tục rà soát, nghiên cứu đề xuất kiện toàn tổ chức, bộ máy các trường cao đẳng, trường trung cấp trên địa bàn tỉnh.\n\n\\- Đẩy mạnh hoạt động cho vay vốn tạo việc làm, vay vốn hỗ trợ sản xuất tạo điều kiện cho người lao động có đủ nguồn lực đầu tư, tổ chức sản xuất tự tạo việc làm cho bản thân và thu hút thêm lao động.\n\n\\- Tăng cường công tác thông tin về thị trường lao động, biến động về cung, cầu lao động; tư vấn giới thiệu việc làm, tuyển chọn lao động cung ứng cho các doanh nghiệp trong và ngoài tỉnh, tạo điều kiện thuận lợi cho người sử dụng lao động và người lao động trong việc tuyển dụng lao động và tìm kiếm việc làm phù hợp.\n\n\\- Tăng cường công tác hướng dẫn, kiểm tra, giám sát các doanh nghiệp trong việc thực hiện các quy định về hợp đồng lao động, xây dựng nội quy lao động, công tác công đoàn, ký thỏa ước lao động tập thể, bảo hiểm xã hội, tiền lương, bảo hiểm thất nghiệp, kịp thời phát hiện và xử lý các hành vi vi phạm, nhất là các hành vi trốn đóng, nợ tiền bảo hiểm xã hội, bảo hiểm thất nghiệp; phát huy vai trò của tổ chức công đoàn ở doanh nghiệp, bảo vệ quyền và lợi ích hợp pháp của người lao động.\n\n_3.8. Sở Giáo dục và Đào tạo:_ Phát triển, mở rộng quy mô giáo dục và đào tạo, nâng cao chất lượng tạo nguồn nhân lực. Nâng cao chất lượng giáo dục toàn diện; chú trọng giáo dục nhân cách lý tưởng, kỹ năng sống, làm việc; giữ vững chất lượng giáo dục phổ thông, giáo dục mũi nhọn ở thứ hạng cao. Đẩy mạnh đổi mới căn bản, toàn diện giáo dục và đào tạo đáp ứng yêu cầu về chất lượng nguồn nhân lực cho công nghiệp hóa, hiện đại hóa, hội nhập quốc tế.\n\n_3.9. Sở Y tế chủ trì tham mưu các nhiệm vụ:_\n\n\\- Xây dựng kế hoạch cải tiến, nâng cao chất lượng khám bệnh, chữa bệnh, tăng cường công tác giao tiếp ứng xử, đáp ứng sự hài lòng của người bệnh; đẩy nhanh tự chủ hoàn toàn đối với các bệnh viện, nhất là bệnh viện hạng II trở lên.\n\n\\- Đẩy nhanh tiến độ thực hiện bảo hiểm y tế toàn dân, gắn với lộ trình tính đúng, tính đủ giá dịch vụ; tham mưu UBND tỉnh chỉ đạo đưa chỉ tiêu bao phủ BHYT vào kế hoạch phát triển kinh tế, xã hội của các huyện, thành phố; phấn đấu vượt chỉ tiêu bao phủ BHYT được giao tại theo QĐ 1167/QĐ-TTg của Thủ tướng Chính phủ và Quyết định số 2186/QĐ-UBND ngày 13/9/2016 của Chủ tịch Ủy ban nhân dân tỉnh; tiếp tục tham mưu UBND tỉnh có chính sách hỗ trợ các đối tượng khó khăn để phát triển tỷ lệ bao phủ BHYT của tỉnh đảm bảo gia tăng bền vững.\n\n\\- Tham mưu trình UBND tỉnh phương án tổ chức đấu thầu mua thuốc tập trung cấp địa phương cho các cơ sở y tế trên địa bàn và tổ chức triển khai thực hiện việc đấu thầu mua thuốc tuân thủ Luật đấu thầu và các văn bản hướng dẫn thi hành. Chỉ đạo, hướng dẫn các cơ sở y tế tổ chức đấu thầu mua vật tư, hóa chất, sinh phẩm phục vụ công tác khám chữa bệnh đảm bảo công khai, minh bạch, công bằng và hiệu quả.\n\n\\- Tăng cường hướng dẫn và kiểm tra các cơ sở kinh doanh dược trên địa bàn toàn tỉnh đảm bảo tuân thủ đúng các quy định của pháp luật.\n\n\\- Tiếp tục triển khai thực hiện Nghị quyết số 55/NQ-HĐND ngày 21/7/2017 của HĐND tỉnh phê chuẩn Đề án xã hội hóa các hoạt động trong lĩnh vực y tế trên địa bàn tỉnh Sơn La, giai đoạn 2017-2021.\n\n_3.1__0\\. Sở Văn hóa Thể thao và Du lịch:_\n\nTham mưu thực hiện có hiệu quả kế hoạch thực hiện Chương trình hành động thực hiện Chiến lược phát triển các ngành công nghiệp văn hóa Việt Nam đến năm 2020, tầm nhìn đến năm 2030 trên địa bàn tỉnh Sơn La ban hành kèm theo Quyết định số 1378/QĐ-UBND ngày 26/5/2017 của UBND tỉnh Sơn La.\n\n**4\\. Về gắn kết tăng trưởng kinh tế với bảo đảm phát triển bền vững, tiến bộ công bằng xã hội, bảo vệ môi trường và ứng phó với biến đổi khí hậu.**\n\n_4.1__. Sở Kế hoạch và Đầu tư chủ trì thực hiện nhiệm vụ:_\n\n\\- Nâng cao chất lượng thẩm định các dự án quy hoạch, dự án đầu tư trên địa bàn tỉnh.\n\n\\- Tham mưu phân bổ các nguồn lực đầu tư phù hợp, đảm bảo yêu cầu tăng trưởng kinh tế nhanh, bền vững, tập trung cho các công trình, dự án trọng điểm, các địa phương còn nhiều khó khăn, giải quyết các vấn đề bức xúc của xã hội.\n\n_4.2. Sở Tài nguyên và Môi trường chủ trì thực hiện nhiệm vụ:_\n\n\\- Tổ chức triển khai xã hội hóa công tác xử lý chất thải rắn khu vực nông thôn; Ưu tiên bố trí quỹ đất thỏa đáng và quan tâm đầu tư xây dựng các công trình xử lý rác thải, nước thải, hạ tầng kỹ thuật về môi trường. Tiếp tục tổ chức thực hiện có hiệu quả Đề án tổng thể xử lý chất thải y tế giai đoạn 2011-2015 và định hướng đến năm 2020 theo Quyết định số 2038/QĐ-TTg ngày 15/11/2011 của Thủ tướng Chính phủ.\n\n\\- Tổ chức tập huấn, đào tạo nghiệp vụ nhằm tăng cường năng lực quản lý nhà nước về môi trường cho cấp huyện và cấp xã theo Luật bảo vệ môi trường hàng năm. Tuyên truyền, nâng cao nhận thức cộng đồng về bảo vệ môi trường.\n\n\\- Thực hiện tốt kế hoạch thanh tra, kiểm tra về bảo vệ môi trường theo thẩm quyền, giám sát chặt chẽ các cơ sở gây ô nhiễm môi trường nghiêm trọng, cơ sở phát sinh nhiều khí thải, chất thải độc hại; kiên quyết xử lý nghiêm các hành vi vi phạm pháp luật về bảo vệ môi trường.\n\n_4.3. Sở Lao động - Thương binh và Xã hội, Sở Văn hóa, Thể thao và Du lịch, Sở Tài chính phối hợp với các Sở ngành thực hiện nhiệm vụ:_\n\n\\- Triển khai thực hiện tốt các chính sách an sinh xã hội và giải quyết việc làm cho người lao động.\n\n\\- Tăng cường huy động các nguồn lực cho chính sách an sinh xã hội, như: Tăng chi ngân sách nhà nước về an sinh xã hội kết hợp với huy động đóng góp của người dân, doanh nghiệp và xã hội cho an sinh xã hội; khuyến khích, tạo môi trường thuận lợi để phát triển đa dạng các mô hình an sinh xã hội, các hoạt động từ thiện, tình nguyện dựa vào sự tham gia của cộng đồng (các đoàn thể địa phương, các nhóm sở thích, gia đình, dòng họ, cá nhân...) trong việc cung cấp các dịch vụ an sinh xã hội, thực hiện các hoạt động nhân đạo, giúp đỡ, chia sẻ rủi ro đối với những nhóm yếu thế, những đối tượng đặc thù.\n\n\\- Thực hiện có hiệu quả Nghị quyết số 33-NQ/TW ngày 09 tháng 6 năm 2014 của Ban Chấp hành Trung ương Đảng về xây dựng và phát triển văn hóa, con người Việt Nam đáp ứng yêu cầu phát triển đất nước.\n\n**5\\. Về nâng cao hiệu quả hội nhập kinh tế quốc tế**\n\n_5.1__. Sở Ngoại vụ chủ trì thực hiện nhiệm vụ:_\n\n\\- Tham mưu triển khai thực hiện hiệu quả các nghị quyết của Bộ Chính trị, Nghị quyết của Ban chấp hành Trung ương Đảng, nghị quyết của Chính phủ, Kế hoạch của Tỉnh ủy, Kế hoạch của UBND tỉnh về hội nhập quốc tế; về thực hiện có hiệu quả tiến trình hội nhập kinh tế quốc tế, giữ vững ổn định chính trị \\- xã hội trong bối cảnh nước ta tham gia các Hiệp định thương mại tự do thế hệ mới.\n\n\\- Tham mưu thực hiện nghiêm túc Pháp lệnh ký kết và thực hiện thỏa thuận quốc tế năm 2007 và Chỉ thị số 22/CT-TTg ngày 23/5/2017 của Thủ tướng Chính phủ về tăng cường kiểm tra, đôn đốc việc thực hiện các cam kết, thỏa thuận quốc tế; đôn đốc triển khai kịp thời, có hiệu quả việc thực hiện các cam kết, thỏa thuận quốc tế nhằm theo dõi, đánh giá tình hình, kết quả thực hiện hoặc các vướng mắc trong triển khai thực hiện các thỏa thuận quốc tế.\n\n\\- Tăng cường hợp tác quốc tế với các nước, các cơ quan đại diện ngoại giao nước ngoài, các tổ chức quốc tế có quan hệ với tỉnh; đặc biệt chú trọng mối quan hệ hữu nghị truyền thống, hợp tác toàn diện với các tỉnh Bắc Lào nhằm củng cố, tăng cường quan hệ chính trị, đẩy mạnh hợp tác quốc phòng, an ninh, kinh tế, văn hóa - xã hội.\n\n_5.2. Sở Công Thương chủ trì thực hiện nhiệm vụ:_\n\n\\- Nghiên cứu, xây dựng các đề án, chương trình, kế hoạch cụ thể nhằm thực hiện có hiệu quả chủ trương, giải pháp đẩy mạnh phát triển thị trường hàng hóa bao gồm cả thị trường nhập, xuất khẩu; thị trường trong nước và thương mại biên giới.\n\n\\- Xây dựng kế hoạch, chương trình cụ thể nhằm khuyến khích Doanh nghiệp trong tỉnh tham gia chuỗi cung ứng khu vực, đặc biệt trong các nhóm hàng hóa có lợi thế so sánh.\n\n**6\\. Gắn tăng trưởng kinh tế với bảo đảm quốc phòng, an ninh**\n\n_6.1__. Bộ Chỉ huy Q__uân sự tỉnh chủ trì thực hiện nhiệm vụ:_\n\n\\- Tham mưu điều chỉnh, bổ sung quy hoạch xây dựng thế trận quân sự trong khu vực phòng thủ tỉnh; Quy hoạch thao trường huấn luyện của tỉnh trong thao trường huấn luyện khu vực của Quân khu 2.\n\n\\- Tham mưu chuẩn bị và tổ chức diễn tập khu vực phòng thủ tỉnh, diễn tập khu vực phòng thủ huyện Thuận Châu, Mộc Châu, Phù Yên, Mai Sơn, Bắc Yên, Vân Hồ.\n\n\\- Triển khai Đề án \"Bảo đảm quốc phòng của tỉnh Sơn La giai đoạn 2016-2020, định hướng đến năm 2030\"; Đề án \"Tổ chức xây dựng lực lượng DQTV trên địa bàn tỉnh Sơn La giai đoạn 2017-2021\"; Đề án \"Bảo đảm hoạt động Quân báo-Trinh sát tỉnh Sơn La giai đoạn 2017-2021\".\n\n\\- Đẩy mạnh hợp tác quốc tế trong lĩnh vực quốc phòng an ninh với các tỉnh Bắc Lào, tổ chức giao ban định kỳ, tham gia vào các hoạt động chung về quốc phòng an ninh với các tỉnh Bắc Lào.\n\n_6.2. Công an tỉnh chủ trì thực hiện nhiệm vụ:_\n\n\\- Tiếp tục cụ thể hóa các quan điểm, chủ trương, giải pháp bảo đảm an ninh kinh tế theo Chỉ thị số 12-CT/TW ngày 05.01.2017 của Bộ Chính trị về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm an ninh kinh tế trong điều kiện phát triển kinh tế thị trường định hướng xã hội chủ nghĩa và hội nhập kinh tế quốc tế.\n\n\\- Tổ chức tốt công tác nắm tình hình, phát hiện kịp thời những sơ hở trong quản lý, điều hành kinh tế; tham mưu với cấp có thẩm quyền chỉ đạo chặt chẽ về quy trình, thủ tục, điều kiện đầu tư các dự án kinh tế - xã hội ở các địa bàn trọng điểm liên quan đến quốc phòng, an ninh; các tổ chức doanh nghiệp, dự án có yếu tố nước ngoài; cơ chế thẩm định các dự án kinh tế có yếu tố quốc phòng, an ninh.\n\n\\- Tập trung làm tốt công tác bảo vệ chính trị nội bộ, bảo vệ bí mật nhà nước trong lĩnh vực kinh tế; nhất là tại các cơ quan hoạch định chính sách phát triển kinh tế.\n\n\\- Đẩy mạnh công tác phòng ngừa, đấu tranh với hoạt động tuyên truyền, xuyên tạc quá trình xây dựng, hoàn thiện thể chế kinh tế thị trường, định hướng xã hội chủ nghĩa trên không gian mạng của các thế lực thù địch: Tăng cường công tác quản lý hoạt động trên mạng viễn thông và Internet; kiểm tra, kiểm soát chặt chẽ các trang báo điện tử.\n\n\\- Định kỳ rà soát, xác định các khu vực, địa bàn cần bảo vệ; danh mục bí mật nhà nước trong lĩnh vực kinh tế trên địa bàn toàn tỉnh; thường xuyên rà soát, hoàn thiện, bổ sung các phương án, kế hoạch bảo đảm an ninh, trật tự các chương trình, dự án phát triển kinh tế, xã hội trên địa bàn.\n\n\\- Tiếp tục triển khai các Chỉ thị, Nghị quyết của Đảng, Nhà nước, Bộ Công an, UBND tỉnh có liên quan đến phong trào toàn dân bảo vệ an ninh tổ quốc, trọng tâm là Chỉ thị số 09-CT/TW ngày 1/12/2011 của Ban Bí thư Trung ương Đảng về “Tăng cường sự lãnh đạo của Đảng đối với phong trào toàn dân bảo vệ an ninh tổ quốc trong tình hình mới”.\n\n\\- Tăng cường quan hệ hợp tác hữu với Công an 9 tỉnh Bắc Lào, đảm bảo giữ vững chủ quyền, toàn vẹn lãnh thổ, an ninh quốc gia và phòng, chống tội phạm qua biên giới; xây dựng tuyến biên giới Sơn La - Hủa Phăn, Sơn La \\- Luông Pha Băng hòa bình, hữu nghị, ổn định và phát triển toàn diện.\n\n_6.3. Sở Kế hoạch và Đầu tư chủ trì thực hiện nhiệm vụ:_\n\n\\- Tham mưu thực hiện tốt việc kết hợp phát triển kinh tế - xã hội gắn với quốc phòng, an ninh trong khu vực phòng thủ và các vị trí chiến lược; các dự án phát triển kinh tế - xã hội tại các khu vực phòng thủ phải bảo đảm yêu cầu về quốc phòng, an ninh.\n\n\\- Đẩy mạnh phát triển mạnh các ngành kinh tế có lợi thế của tỉnh, gắn với bảo vệ vững chắc chủ quyền biên giới quốc gia. Huy động các nguồn lực đầu tư xây dựng hệ thống kết cấu hạ tầng, trong đó ưu tiên xây dựng tại các xã giáp biên giới Việt Nam - Lào, căn cứ hậu phương, vùng ATK; phát triển hệ thống giao thông vận tải đồng bộ, nhất là các tuyến vận tải chiến lược phục vụ cả nhu cầu hoạt động thời bình và thời chiến.\n\n**7\\. Về nâng cao năng lực thực thi thể chế**\n\n_7.1. Sở Tư pháp:_ Chủ trì thực hiện nhiệm vụ nâng cao chất lượng thẩm định văn bản quy phạm pháp luật, tăng cường công tác kiểm tra văn bản QPPL đảm bảo tính minh bạch, nhất quán, ổn định trong các văn bản quy phạm pháp luật do địa phương ban hành.\n\n_7.2. Sở Nội vụ:_\n\n\\- Chủ trì thực hiện thí điểm một số mô hình mới về tổ chức bộ máy và kiêm nhiệm chức danh để tinh gọn đầu mối, nâng cao hiệu lực, hiệu quả hoạt động, góp phần làm rõ về lý luận và thực tiễn.\n\n\\- Triển khai thực hiện Kế hoạch số 76-KH/TU ngày 17/12/2017 của Tỉnh ủy Sơn La về thực hiện Nghị quyết số 18-NQ/TW Hội nghị lần thứ sáu Ban Chấp hành Trung ương Đảng khóa XII một số vấn đề về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả; Nghị quyết số 19-NQ/TW ngày 25/10/2017 của Ban Chấp hành Trung ương khóa XII về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của đơn vị sự nghiệp công lập. Xây dựng Đề án kiện toàn sắp xếp các trường cao đẳng, trung cấp, cơ sở đào tạo, dạy nghề trên địa bàn tỉnh.\n\n\\- Rà soát, sắp xếp, kiện toàn một số tổ chức và các đầu mối bên trong của từng tổ chức theo hướng giảm đầu mối, giảm tối đa cấp trung gian, giảm cấp phó. Sửa đổi, bổ sung, hoàn thiện một số quy định liên quan đến chức năng, nhiệm vụ, tổ chức bộ máy của hệ thống chính trị để kịp thời khắc phục tình trạng trùng lắp, chồng chéo chức năng, nhiệm vụ, lĩnh vực quản lý.\n\n\\- Sắp xếp thu gọn hợp lý các đơn vị hành chính cấp xã chưa đạt 50% tiêu chuẩn theo quy định về quy mô dân số, diện tích tự nhiên và giảm số lượng thôn, tổ dân phố.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n**1.** Căn cứ chức năng, nhiệm vụ được phân công, Thủ trưởng các sở, ban, ngành, Chủ tịch UBND các huyện, thành phố chỉ đạo triển khai thực hiện những nhiệm vụ, nội dung công việc trong Kế hoạch này, cụ thể hóa thành các nhiệm vụ của kế hoạch hàng năm, xác định rõ mục tiêu, nhiệm vụ, đơn vị chủ trì, phối hợp, tiến độ thời gian, thường xuyên kiểm tra, đôn đốc việc thực hiện. Định kỳ trước ngày 10 tháng 12 hàng năm, báo cáo tình hình, kết quả thực hiện gửi Sở Kế hoạch và Đầu tư để tổng hợp, báo cáo theo quy định.\n\n**2.** Sở Kế hoạch và Đầu tư chủ trì, phối hợp với các sở, ban, ngành và UBND các huyện, thành phố tăng cường kiểm tra, đôn đốc việc triển khai thực hiện Kế hoạch này; định kỳ trước ngày 25 tháng 12 hàng năm tổng hợp, tham mưu Ủy ban nhân dân tỉnh báo cáo tình hình, kết quả thực hiện với Ban Thường vụ Tỉnh ủy, Chính phủ, các Bộ, ngành Trung ương.\n\n**3.** Trong quá trình tổ chức thực hiện, trường hợp cần sửa đổi, bổ sung những nội dung cụ thể trong Kế hoạch này, các sở, ban, ngành, Ủy ban nhân dân các huyện, thành phố chủ động phối hợp với Sở Kế hoạch và Đầu tư báo cáo, đề xuất Ủy ban nhân dân tỉnh xem xét, quyết định./.\n\n  \n**_Nơi nhận:  \n_**\\- Văn phòng Chính phủ; (b/c)  \n\\- Bộ Kế hoạch và Đầu tư; (b/c)  \n\\- Phòng TMCN Việt Nam; (b/c)  \n\\- TT Tỉnh ủy; (b/c)  \n\\- TT HĐND tỉnh, (b/c)  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- UB MTTQVN tỉnh và các đoàn thể tỉnh;  \n\\- Tòa án Nhân dân tỉnh;  \n\\- Viện Kiểm soát Nhân dân tỉnh,  \n\\- Các sở, ban, ngành;  \n\\- Các huyện ủy, thành ủy;  \n\\- HĐND các huyện, thành phố;  \n\\- UBND các huyện, thành phố;  \n\\- Trung tâm Công báo;  \n\\- VP UBND tỉnh (LĐ, CVCK);  \n\\- Lưu: VT, TH (V.Hải) 120 bản.\n\n**TM. ỦY** **BAN NHÂ****N DÂN  \n****CHỦ TỊCH  \n  \n  \n  \n  \nCầm Ngọc Minh**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

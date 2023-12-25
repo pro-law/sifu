@@ -1,0 +1,465 @@
+{
+  "title": "Quyết định 07/2021/QĐ-UBND về ủy quyền xác định giá đất cụ thể trên địa bàn tỉnh Hà Tĩnh",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật sửa đổi 2020",
+      "id": "63/2020/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2020-06-18",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "2020-07-23",
+      "gazetteNumber": "Từ số 711 đến số 712",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 123/2017/NĐ-CP sửa đổi Nghị định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước",
+      "id": "123/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-11-14",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-11-19",
+      "gazetteNumber": "Từ số 833 đến số 834",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 33/2017/TT-BTNMT về hướng dẫn Nghị định 01/2017/NĐ-CP sửa đổi nghị định hướng dẫn Luật đất đai và sửa đổi thông tư hướng dẫn thi hành Luật đất đai do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "33/2017/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Thị Phương Hoa"
+      ],
+      "issuedDate": "2017-09-29",
+      "effectiveDate": "2017-12-05",
+      "gazetteDate": "2017-11-26",
+      "gazetteNumber": "Từ số 845 đến số 846",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 01/2017/NĐ-CP sửa đổi nghị định hướng dẫn Luật đất đai",
+      "id": "01/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-01-06",
+      "effectiveDate": "2017-03-03",
+      "gazetteDate": "2017-01-24",
+      "gazetteNumber": "Từ số 87 đến số 88",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 332/2016/TT-BTC sửa đổi Thông tư 76/2014/TT-BTC của Bộ Tài chính hướng dẫn Nghị định 45/2014/NĐ-CP quy định về thu tiền sử dụng đất",
+      "id": "332/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2016-12-26",
+      "effectiveDate": "2017-02-10",
+      "gazetteDate": "2017-02-11",
+      "gazetteNumber": "Từ số 133 đến số 134",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 333/2016/TT-BTC sửa đổi Thông tư 77/2014/TT-BTC của Bộ Tài chính hướng dẫn Nghị định 46/2014/NĐ-CP quy định về thu tiền thuê đất, thuê mặt nước",
+      "id": "333/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2016-12-26",
+      "effectiveDate": "2017-02-10",
+      "gazetteDate": "2017-02-11",
+      "gazetteNumber": "Từ số 133 đến số 134",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 135/2016/NĐ-CP sửa đổi Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước",
+      "id": "135/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-09-09",
+      "effectiveDate": "2016-11-15",
+      "gazetteDate": "2016-09-25",
+      "gazetteNumber": "Từ số 989 đến số 990",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 36/2014/TT-BTNMT quy định chi tiết phương pháp định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "36/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-06-30",
+      "effectiveDate": "2014-08-13",
+      "gazetteDate": "2014-08-19",
+      "gazetteNumber": "Từ số 773 đến số 774",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 76/2014/TT-BTC hướng dẫn Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "76/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-06-16",
+      "effectiveDate": "2014-08-01",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Từ số 675 đến số 676",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 77/2014/TT-BTC hướng dẫn Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "77/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-06-16",
+      "effectiveDate": "2014-08-01",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Từ số 675 đến số 676",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 43/2014/NĐ-CP hướng dẫn thi hành Luật Đất đai",
+      "id": "43/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-04",
+      "gazetteNumber": "Từ số 561 đến số 562",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 44/2014/NĐ-CP quy định về giá đất",
+      "id": "44/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-05",
+      "gazetteNumber": "Từ số 563 đến số 564",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất",
+      "id": "45/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-23",
+      "gazetteNumber": "Từ số 611 đến số 612",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước",
+      "id": "46/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-24",
+      "gazetteNumber": "Từ số 617 đến số 618",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 24/2022/QĐ-UBND về ủy quyền quyết định giá đất cụ thể trên địa bàn tỉnh Hà Tĩnh",
+      "id": "24/2022/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Võ Trọng Hải"
+      ],
+      "issuedDate": "2022-08-26",
+      "effectiveDate": "2022-09-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 224/QĐ-UBND năm 2023 công bố Danh mục văn bản quy phạm pháp luật của Hội đồng nhân dân tỉnh và Ủy ban nhân dân tỉnh hết hiệu lực, ngưng hiệu lực năm 2022 do tỉnh Hà Tĩnh ban hành",
+      "id": "224/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Nguyễn Hồng Lĩnh"
+      ],
+      "issuedDate": "2023-01-27",
+      "effectiveDate": "2023-01-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 58/KH-UBND về định giá đất cụ thể trên địa bàn tỉnh Bà Rịa - Vũng Tàu năm 2021",
+      "id": "58/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Văn Thọ"
+      ],
+      "issuedDate": "2021-04-06",
+      "effectiveDate": "2021-04-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 02/2020/QĐ-UBND về ủy quyền xác định giá đất cụ thể trên địa bàn tỉnh Hà Tĩnh",
+      "id": "02/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Đặng Ngọc Sơn"
+      ],
+      "issuedDate": "2020-01-21",
+      "effectiveDate": "2020-02-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 08/2019/QĐ-UBND về ủy quyền xác định giá đất cụ thể trên địa bàn tỉnh Hà Tĩnh",
+      "id": "08/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Đặng Ngọc Sơn"
+      ],
+      "issuedDate": "2019-01-28",
+      "effectiveDate": "2019-02-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 01/2018/QĐ-UBND về ủy quyền xác định giá đất cụ thể trên địa bàn tỉnh Hà Tĩnh",
+      "id": "01/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Đặng Ngọc Sơn"
+      ],
+      "issuedDate": "2018-01-08",
+      "effectiveDate": "2018-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "07/2021/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bất động sản",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Tỉnh Hà Tĩnh",
+  "signers": [
+    "Đặng Ngọc Sơn"
+  ],
+  "issuedDate": "2021-02-19",
+  "effectiveDate": "2021-03-02",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 06/09/2022",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN</b><br>\n  <b>TỈNH HÀ TĨNH<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  07/2021/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Tĩnh, ngày 19\n  tháng 02 năm 2021</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">ỦY QUYỀN XÁC ĐỊNH GIÁ ĐẤT CỤ THỂ TRÊN ĐỊA BÀN TỈNH HÀ TĨNH</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tổ chức chính\nquyền địa phương ngày 19/6/2015; Luật Sửa đổi, bổ sung một số điều của Luật Tổ\nchức Chính phủ và Luật Tổ chức chính quyền địa phương;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Ban hành văn bản\nquy phạm pháp luật ngày 26/6/2015; Luật Sửa đổi, bổ sung một số điều của Luật\nBan hành văn bản quy phạm pháp luật;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Đất đai ngày\n29/11/2013;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ các Nghị định của\nChính phủ: Số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 43/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-43-2014-nd-cp-huong-dan-thi-hanh-luat-dat-dai-230680.aspx\">43/2014/NĐ-CP</a>  ngày 15/5/2014 quy định chi tiết thi hành một số điều\ncủa Luật Đất đai, số 44/2014/NĐ- CP ngày 15/5/2014 quy định về giá đất, số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx\">45/2014/NĐ-CP</a>  ngày 15/5/2014 quy định về thu tiền sử dụng đất, số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 46/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx\">46/2014/NĐ-CP</a> \nngày 15/5/2014 quy định về thu tiền thuê đất, thuê mặt nước, số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 135/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-135-2016-nd-cp-sua-doi-quy-dinh-thu-tien-su-dung-dat-thu-tien-thue-dat-thue-mat-nuoc-321851.aspx\">135/2016/NĐ-CP</a> \nngày 09/9/2016 sửa đổi, bổ sung một số điều của các Nghị định quy định về thu\ntiền sử dụng đất, thu tiền thuê đất, thuê mặt nước, số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 01/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-01-2017-nd-cp-sua-doi-nghi-dinh-huong-dan-luat-dat-dai-337031.aspx\">01/2017/NĐ-CP</a>  ngày\n06/01/2017 sửa đổi, bổ sung một số Nghị định quy định chi tiết thi hành Luật đất\nđai, số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 123/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-123-2017-nd-cp-sua-doi-nghi-dinh-ve-thu-tien-su-dung-dat-thu-tien-thue-dat-thue-mat-nuoc-367263.aspx\">123/2017/NĐ-CP</a>  ngày 14/11/2017 sửa đổi, bổ sung một số điều của các nghị\nđịnh quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ các Thông tư của Bộ\nTài nguyên và Môi trường: Số 36/2014/TT- BTNMT ngày 30/6/2014 quy định chi tiết\nphương pháp định giá đất, xây dựng, điều chỉnh bảng giá đất, định giá đất cụ thể\nvà tư vấn xác định giá đất, số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 33/2017/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-33-2017-tt-btnmt-huong-dan-nghi-dinh-01-2017-nd-cp-luat-dat-dai-340179.aspx\">33/2017/TT-BTNMT</a>  ngày 29/9/2017 quy định chi tiết\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 01/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-01-2017-nd-cp-sua-doi-nghi-dinh-huong-dan-luat-dat-dai-337031.aspx\">01/2017/NĐ-CP</a>  ngày 06/01/2017 của Chính phủ;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ các Thông tư của Bộ\nTài chính: Số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 76/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-76-2014-tt-btc-huong-dan-45-2014-nd-c-thu-tien-su-dung-dat-237815.aspx\">76/2014/TT-BTC</a>  ngày 16/6/2014 hướng dẫn một số điều của Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx\">45/2014/NĐ-CP</a>  ngày 15/5/2014 của Chính phủ, số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 77/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-77-2014-tt-btc-huong-dan-46-2014-nd-cp-tien-thue-dat-thue-mat-nuoc-237817.aspx\">77/2014/TT-BTC</a>  ngày 16/6/2014\nhướng dẫn một số điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 46/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx\">46/2014/NĐ-CP</a>  ngày 15/5/2014 của Chính\nphủ, số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 332/2016/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-332-2016-tt-btc-sua-doi-76-2014-tt-btc-huong-dan-45-2014-nd-cp-thu-tien-su-dung-dat-338424.aspx\">332/2016/TT-BTC</a>  ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông\ntư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 76/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-76-2014-tt-btc-huong-dan-45-2014-nd-c-thu-tien-su-dung-dat-237815.aspx\">76/2014/TT-BTC</a>  ngày 16/6/2014, số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 333/2016/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-333-2016-tt-btc-sua-doi-77-2014-tt-btc-huong-dan-46-2014-nd-cp-thu-tien-thue-dat-338425.aspx\">333/2016/TT-BTC</a>  ngày 26/12/2016 sửa đổi,\nbổ sung một số điều của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 77/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-77-2014-tt-btc-huong-dan-46-2014-nd-cp-tien-thue-dat-thue-mat-nuoc-237817.aspx\">77/2014/TT-BTC</a>  ngày 16/6/2014;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Theo đề nghị của Giám đốc Sở\nTài nguyên và Môi trường tại Tờ trình số 338/TTr-STNMT ngày 27/01/2021 và Văn bản\nsố 398/STNMT-ĐGĐBT ngày 29/01/2021 (kèm Báo cáo thẩm định số 04/BC-STP ngày\n07/01/2021 của Sở Tư pháp).</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1.</b></a><b>\n</b><a name=\"dieu_1_name\">Ủy quyền cho Ủy ban nhân dân các huyện, thành phố, thị\nxã xây dựng, thẩm định, phê duyệt giá đất cụ thể đối với các trường hợp:</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Tính tiền bồi thường về đất\nkhi Nhà nước thu hồi đất thực hiện các công trình, dự án trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Tính tiền sử dụng đất khi\nNhà nước công nhận quyền sử dụng đất của hộ gia đình, cá nhân đối với phần diện\ntích đất ở vượt hạn mức; cho phép chuyển mục đích sử dụng đất từ đất nông nghiệp,\nđất phi nông nghiệp không phải là đất ở sang đất ở đối với phần diện tích vượt\nhạn mức giao đất ở cho hộ gia đình, cá nhân. Tính tiền thuê đất đối với đất\nnông nghiệp vượt hạn mức giao đất, vượt hạn mức nhận chuyển quyền sử dụng đất\nnông nghiệp của hộ gia đình, cá nhân<span style=\"color:red\">.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">3.\nTính tiền sử dụng đất đối với hộ gia đình, cá nhân khi Nhà nước giao đất có thu\ntiền sử dụng đất không thông qua hình thức đấu giá quyền sử dụng đất</span><span style=\"color:red\">.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">4.\nTính tiền thuê đất đối với hộ gia đình, cá nhân với trường hợp Nhà nước cho\nthuê đất không thông qua hình thức đấu giá quyền sử dụng đất</span><span style=\"color:red\">.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">5. Hộ\ngia đình, cá nhân đang được Nhà nước cho thuê đất trả tiền thuê đất hàng năm được\nchuyển sang thuê đất trả tiền thuê đất một lần cho cả thời gian thuê và phải xác\nđịnh lại giá đất cụ thể để tính tiền thuê đất tại thời điểm có quyết định cho\nphép chuyển sang thuê đất theo hình thức trả tiền thuê đất một lần cho cả thời\ngian thuê theo quy định của Luật đất đai</span><span style=\"color:red\">.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">6. Hộ\ngia đình, cá nhân mua tài sản được Nhà nước tiếp tục cho thuê đất trả tiền hàng\nnăm trong thời hạn sử dụng đất còn lại theo giá đất cụ thể, sử dụng đất đúng mục\nđích đã được xác định trong dự án</span><span style=\"color:red\">.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">7.\nGiá đất cụ thể làm căn cứ xác định giá khởi điểm để đấu giá quyền sử dụng đất\nkhi Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền một lần\ncho cả thời gian thuê cho hộ gia đình, cá nhân</span><span style=\"color:red\">.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b><span style=\"color:black\">Điều 2.</span></b></a><b><span style=\"color:black\"> </span></b><a name=\"dieu_2_name\"><span style=\"color:black\">Phối hợp xử lý giá đất tại các khu\nvực giáp ranh giữa các địa phương khi xây dựng giá đất cụ thể</span></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Việc\nphê duyệt giá đất cụ thể quy định tại Điều 1 nêu trên đối với các khu vực giáp\nranh giữa các huyện, thành phố, thị xã được tính từ đường địa giới hành chính\nra mỗi bên 500m trước khi phê duyệt phải gửi Dự thảo phương án giá đất của đơn\nvị mình để lấy ý kiến thống nhất bằng văn của Ủy ban nhân dân huyện, thành phố,\nthị xã tiếp giáp. Trường hợp có ý kiến lệch về giá đất lớn hơn 30% các địa\nphương không thống nhất được thì Uỷ ban nhân dân huyện, thành phố, thị xã nơi\ncó đất tổng hợp báo cáo gửi Sở Tài nguyên và Môi trường để cùng các Sở, ngành\nliên quan xem xét trình Ủy ban nhân dân tỉnh có ý kiến bằng Văn bản chỉ đạo trước\nkhi Ủy ban nhân dân huyện, thành phố, thị xã phê duyệt giá đất cụ thể.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b><span style=\"color:black\">Điều 3. Xây dựng, thẩm định, phê duyệt giá đất cụ thể đối với\ncác trường hợp còn lại</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Giá đất\ncụ thể để tính tiền khi Nhà nước giao đất, cho thuê đất, đấu giá quyền sử dụng\nđất thực hiện dự án đầu tư cho các tổ chức và các thửa đất hoặc khu đất Ủy ban\nnhân dân tỉnh giao cho Trung tâm Phát triển quỹ đất và Kỹ thuật địa chính quản\nlý thì giao Sở Tài nguyên và Môi trường chủ trì thuê đơn vị tư vấn có chức năng\ntư vấn xác định giá đất xây dựng trình Hội đồng thẩm định giá đất tỉnh thẩm định,\nỦy ban nhân dân tỉnh phê duyệt theo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b><span style=\"color:black\">Điều 4. Trách nhiệm tổ chức thực hiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Chủ tịch\nỦy ban nhân dân các huyện, thành phố, thị xã chịu trách nhiệm tổ chức thực hiện\ncác nội dung được ủy quyền theo đúng trình tự thủ tục quy định của pháp luật,\nchịu trách nhiệm trước pháp luật và Chủ tịch Ủy ban nhân dân tỉnh về quyết định\ncủa mình đối với việc xây dựng, thẩm định, phê duyệt giá đất cụ thể và việc tổ\nchức triển khai thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Giám\nđốc các Sở: Tài nguyên và Môi trường, Tư pháp, Tài chính, Xây dựng, Kế hoạch và\nĐầu tư có trách nhiệm hướng dẫn, kiểm tra, giám sát việc thực hiện của Ủy ban\nnhân dân các huyện, thành phố, thị xã đảm bảo khách quan, chính xác và đúng quy\nđịnh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Thời\ngian ủy quyền: Kể từ ngày quyết định này có hiệu lực đến hết ngày 31/12/2024.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b><span style=\"color:black\">Điều 5. Hiệu lực thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Quyết\nđịnh này có hiệu lực từ ngày 02 tháng 3 năm 2021.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">Chánh\nVăn phòng UBND tỉnh; Giám đốc các Sở: Tài nguyên và Môi trường, Tài chính, Xây\ndựng, Kế hoạch và Đầu tư, Tư pháp; Cục trưởng Cục Thuế tỉnh; Thủ trưởng các\nban, ngành, đoàn thể cấp tỉnh có liên quan; Chủ tịch UBND các huyện, thành phố,\nthị xã và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định\nnày./.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"50%\" valign=\"top\" style=\"width:50.0%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\">&nbsp;</p>\n  <p style=\"margin-top:6.0pt\"><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt;color:black\">- Như Điều 5;<br>\n  - Bộ Tài nguyên và Môi trường (để b/c);<br>\n  - Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;<br>\n  - TTr. Tỉnh ủy, TTr. HĐND tỉnh;<br>\n  - Website Chính phủ;<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - Các Ban HĐND tỉnh;<br>\n  - Báo Hà Tĩnh, Đài PTTH tỉnh;<br>\n  - Chánh, Phó VP/UB tỉnh;<br>\n  - Trung tâm TT-CB-TH tỉnh;<br>\n  - Lưu: VT, NC, NL<sub>2</sub>.</span></p>\n  </td>\n  <td width=\"50%\" valign=\"top\" style=\"width:50.0%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"color:black\">TM. ỦY BAN NHÂN DÂN<br>\n  KT. CHỦ TỊCH</span></b><span style=\"color:black\"><br>\n  <b>PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  </b><br>\n  <b>Đặng Ngọc Sơn</b></span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p><b>&nbsp;</b></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN**  \n**TỈNH HÀ TĨNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 07/2021/QĐ-UBND\n\n_Hà Tĩnh, ngày 19 tháng 02 năm 2021_\n\n**QUYẾT ĐỊNH**\n\nỦY QUYỀN XÁC ĐỊNH GIÁ ĐẤT CỤ THỂ TRÊN ĐỊA BÀN TỈNH HÀ TĨNH\n\n**ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 26/6/2015; Luật Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật;_\n\n_Căn cứ Luật Đất đai ngày 29/11/2013;_\n\n_Căn cứ các Nghị định của Chính phủ: Số [43/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-43-2014-nd-cp-huong-dan-thi-hanh-luat-dat-dai-230680.aspx \"Nghị định 43/2014/NĐ-CP\") ngày 15/5/2014 quy định chi tiết thi hành một số điều của Luật Đất đai, số 44/2014/NĐ- CP ngày 15/5/2014 quy định về giá đất, số [45/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx \"Nghị định 45/2014/NĐ-CP\") ngày 15/5/2014 quy định về thu tiền sử dụng đất, số [46/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx \"Nghị định 46/2014/NĐ-CP\") ngày 15/5/2014 quy định về thu tiền thuê đất, thuê mặt nước, số [135/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-135-2016-nd-cp-sua-doi-quy-dinh-thu-tien-su-dung-dat-thu-tien-thue-dat-thue-mat-nuoc-321851.aspx \"Nghị định 135/2016/NĐ-CP\") ngày 09/9/2016 sửa đổi, bổ sung một số điều của các Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước, số [01/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-01-2017-nd-cp-sua-doi-nghi-dinh-huong-dan-luat-dat-dai-337031.aspx \"Nghị định 01/2017/NĐ-CP\") ngày 06/01/2017 sửa đổi, bổ sung một số Nghị định quy định chi tiết thi hành Luật đất đai, số [123/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-123-2017-nd-cp-sua-doi-nghi-dinh-ve-thu-tien-su-dung-dat-thu-tien-thue-dat-thue-mat-nuoc-367263.aspx \"Nghị định 123/2017/NĐ-CP\") ngày 14/11/2017 sửa đổi, bổ sung một số điều của các nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ các Thông tư của Bộ Tài nguyên và Môi trường: Số 36/2014/TT- BTNMT ngày 30/6/2014 quy định chi tiết phương pháp định giá đất, xây dựng, điều chỉnh bảng giá đất, định giá đất cụ thể và tư vấn xác định giá đất, số [33/2017/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-33-2017-tt-btnmt-huong-dan-nghi-dinh-01-2017-nd-cp-luat-dat-dai-340179.aspx \"Thông tư 33/2017/TT-BTNMT\") ngày 29/9/2017 quy định chi tiết Nghị định số [01/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-01-2017-nd-cp-sua-doi-nghi-dinh-huong-dan-luat-dat-dai-337031.aspx \"Nghị định 01/2017/NĐ-CP\") ngày 06/01/2017 của Chính phủ;_\n\n_Căn cứ các Thông tư của Bộ Tài chính: Số [76/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-76-2014-tt-btc-huong-dan-45-2014-nd-c-thu-tien-su-dung-dat-237815.aspx \"Thông tư 76/2014/TT-BTC\") ngày 16/6/2014 hướng dẫn một số điều của Nghị định số [45/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx \"Nghị định 45/2014/NĐ-CP\") ngày 15/5/2014 của Chính phủ, số [77/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-77-2014-tt-btc-huong-dan-46-2014-nd-cp-tien-thue-dat-thue-mat-nuoc-237817.aspx \"Thông tư 77/2014/TT-BTC\") ngày 16/6/2014 hướng dẫn một số điều của Nghị định số [46/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx \"Nghị định 46/2014/NĐ-CP\") ngày 15/5/2014 của Chính phủ, số [332/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-332-2016-tt-btc-sua-doi-76-2014-tt-btc-huong-dan-45-2014-nd-cp-thu-tien-su-dung-dat-338424.aspx \"Thông tư 332/2016/TT-BTC\") ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông tư số [76/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-76-2014-tt-btc-huong-dan-45-2014-nd-c-thu-tien-su-dung-dat-237815.aspx \"Thông tư 76/2014/TT-BTC\") ngày 16/6/2014, số [333/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-333-2016-tt-btc-sua-doi-77-2014-tt-btc-huong-dan-46-2014-nd-cp-thu-tien-thue-dat-338425.aspx \"Thông tư 333/2016/TT-BTC\") ngày 26/12/2016 sửa đổi, bổ sung một số điều của Thông tư số [77/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-77-2014-tt-btc-huong-dan-46-2014-nd-cp-tien-thue-dat-thue-mat-nuoc-237817.aspx \"Thông tư 77/2014/TT-BTC\") ngày 16/6/2014;_\n\n_Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường tại Tờ trình số 338/TTr-STNMT ngày 27/01/2021 và Văn bản số 398/STNMT-ĐGĐBT ngày 29/01/2021 (kèm Báo cáo thẩm định số 04/BC-STP ngày 07/01/2021 của Sở Tư pháp)._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ủy quyền cho Ủy ban nhân dân các huyện, thành phố, thị xã xây dựng, thẩm định, phê duyệt giá đất cụ thể đối với các trường hợp:\n\n1\\. Tính tiền bồi thường về đất khi Nhà nước thu hồi đất thực hiện các công trình, dự án trên địa bàn.\n\n2\\. Tính tiền sử dụng đất khi Nhà nước công nhận quyền sử dụng đất của hộ gia đình, cá nhân đối với phần diện tích đất ở vượt hạn mức; cho phép chuyển mục đích sử dụng đất từ đất nông nghiệp, đất phi nông nghiệp không phải là đất ở sang đất ở đối với phần diện tích vượt hạn mức giao đất ở cho hộ gia đình, cá nhân. Tính tiền thuê đất đối với đất nông nghiệp vượt hạn mức giao đất, vượt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của hộ gia đình, cá nhân.\n\n3\\. Tính tiền sử dụng đất đối với hộ gia đình, cá nhân khi Nhà nước giao đất có thu tiền sử dụng đất không thông qua hình thức đấu giá quyền sử dụng đất.\n\n4\\. Tính tiền thuê đất đối với hộ gia đình, cá nhân với trường hợp Nhà nước cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất.\n\n5\\. Hộ gia đình, cá nhân đang được Nhà nước cho thuê đất trả tiền thuê đất hàng năm được chuyển sang thuê đất trả tiền thuê đất một lần cho cả thời gian thuê và phải xác định lại giá đất cụ thể để tính tiền thuê đất tại thời điểm có quyết định cho phép chuyển sang thuê đất theo hình thức trả tiền thuê đất một lần cho cả thời gian thuê theo quy định của Luật đất đai.\n\n6\\. Hộ gia đình, cá nhân mua tài sản được Nhà nước tiếp tục cho thuê đất trả tiền hàng năm trong thời hạn sử dụng đất còn lại theo giá đất cụ thể, sử dụng đất đúng mục đích đã được xác định trong dự án.\n\n7\\. Giá đất cụ thể làm căn cứ xác định giá khởi điểm để đấu giá quyền sử dụng đất khi Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền một lần cho cả thời gian thuê cho hộ gia đình, cá nhân.\n\n**Điều 2.** Phối hợp xử lý giá đất tại các khu vực giáp ranh giữa các địa phương khi xây dựng giá đất cụ thể\n\nViệc phê duyệt giá đất cụ thể quy định tại Điều 1 nêu trên đối với các khu vực giáp ranh giữa các huyện, thành phố, thị xã được tính từ đường địa giới hành chính ra mỗi bên 500m trước khi phê duyệt phải gửi Dự thảo phương án giá đất của đơn vị mình để lấy ý kiến thống nhất bằng văn của Ủy ban nhân dân huyện, thành phố, thị xã tiếp giáp. Trường hợp có ý kiến lệch về giá đất lớn hơn 30% các địa phương không thống nhất được thì Uỷ ban nhân dân huyện, thành phố, thị xã nơi có đất tổng hợp báo cáo gửi Sở Tài nguyên và Môi trường để cùng các Sở, ngành liên quan xem xét trình Ủy ban nhân dân tỉnh có ý kiến bằng Văn bản chỉ đạo trước khi Ủy ban nhân dân huyện, thành phố, thị xã phê duyệt giá đất cụ thể.\n\n**Điều 3. Xây dựng, thẩm định, phê duyệt giá đất cụ thể đối với các trường hợp còn lại**\n\nGiá đất cụ thể để tính tiền khi Nhà nước giao đất, cho thuê đất, đấu giá quyền sử dụng đất thực hiện dự án đầu tư cho các tổ chức và các thửa đất hoặc khu đất Ủy ban nhân dân tỉnh giao cho Trung tâm Phát triển quỹ đất và Kỹ thuật địa chính quản lý thì giao Sở Tài nguyên và Môi trường chủ trì thuê đơn vị tư vấn có chức năng tư vấn xác định giá đất xây dựng trình Hội đồng thẩm định giá đất tỉnh thẩm định, Ủy ban nhân dân tỉnh phê duyệt theo đúng quy định.\n\n**Điều 4. Trách nhiệm tổ chức thực hiện**\n\nChủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã chịu trách nhiệm tổ chức thực hiện các nội dung được ủy quyền theo đúng trình tự thủ tục quy định của pháp luật, chịu trách nhiệm trước pháp luật và Chủ tịch Ủy ban nhân dân tỉnh về quyết định của mình đối với việc xây dựng, thẩm định, phê duyệt giá đất cụ thể và việc tổ chức triển khai thực hiện.\n\nGiám đốc các Sở: Tài nguyên và Môi trường, Tư pháp, Tài chính, Xây dựng, Kế hoạch và Đầu tư có trách nhiệm hướng dẫn, kiểm tra, giám sát việc thực hiện của Ủy ban nhân dân các huyện, thành phố, thị xã đảm bảo khách quan, chính xác và đúng quy định.\n\nThời gian ủy quyền: Kể từ ngày quyết định này có hiệu lực đến hết ngày 31/12/2024.\n\n**Điều 5. Hiệu lực thi hành**\n\nQuyết định này có hiệu lực từ ngày 02 tháng 3 năm 2021.\n\nChánh Văn phòng UBND tỉnh; Giám đốc các Sở: Tài nguyên và Môi trường, Tài chính, Xây dựng, Kế hoạch và Đầu tư, Tư pháp; Cục trưởng Cục Thuế tỉnh; Thủ trưởng các ban, ngành, đoàn thể cấp tỉnh có liên quan; Chủ tịch UBND các huyện, thành phố, thị xã và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_Nơi nhận:  \n_**\\- Như Điều 5;  \n\\- Bộ Tài nguyên và Môi trường (để b/c);  \n\\- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;  \n\\- TTr. Tỉnh ủy, TTr. HĐND tỉnh;  \n\\- Website Chính phủ;  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Các Ban HĐND tỉnh;  \n\\- Báo Hà Tĩnh, Đài PTTH tỉnh;  \n\\- Chánh, Phó VP/UB tỉnh;  \n\\- Trung tâm TT-CB-TH tỉnh;  \n\\- Lưu: VT, NC, NL2.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH**  \n**PHÓ CHỦ TỊCH  \n  \n  \n  \n**  \n**Đặng Ngọc Sơn**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

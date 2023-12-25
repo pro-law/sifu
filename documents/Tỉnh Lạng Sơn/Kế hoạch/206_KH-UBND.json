@@ -1,0 +1,648 @@
+{
+  "title": "Kế hoạch 206/KH-UBND năm 2021 về phát triển Chính quyền số và bảo đảm an toàn thông tin mạng năm 2022 do tỉnh Lạng Sơn ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 830/QĐ-TTg năm 2021 phê duyệt Chương trình \"Bảo vệ và hỗ trợ trẻ em tương tác lành mạnh, sáng tạo trên môi trường mạng giai đoạn 2021-2025\" do Thủ tướng Chính phủ ban hành",
+      "id": "830/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-06-01",
+      "effectiveDate": "2021-06-01",
+      "gazetteDate": "2021-06-12",
+      "gazetteNumber": "Từ số 635 đến số 636",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1145/BTTTT-THH hướng dẫn, đôn đốc xây dựng kế hoạch triển khai và hoàn thành mục tiêu cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021 do Bộ Thông tin và Truyền thông ban hành",
+      "id": "1145/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2021-04-19",
+      "effectiveDate": "2021-04-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 01/2020/QĐ-UBND quy định về chế độ báo cáo định kỳ phục vụ mục tiêu quản lý trên địa bàn tỉnh Lạng Sơn",
+      "id": "01/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Phạm Ngọc Thưởng"
+      ],
+      "issuedDate": "2020-01-07",
+      "effectiveDate": "2020-01-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 17/NQ-CP năm 2019 về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng đến 2025 do Chính phủ ban hành",
+      "id": "17/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-03-07",
+      "effectiveDate": "2019-03-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 09/2019/NĐ-CP quy định về chế độ báo cáo của cơ quan hành chính nhà nước",
+      "id": "09/2019/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-01-24",
+      "effectiveDate": "2019-03-12",
+      "gazetteDate": "2019-02-10",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 43/2011/NĐ-CP Quy định về cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước",
+      "id": "43/2011/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-06-13",
+      "effectiveDate": "2011-10-01",
+      "gazetteDate": "2011-06-27",
+      "gazetteNumber": "Từ số 381 đến số 382",
+      "status": "Hết hiệu lực: 15/08/2022"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Kế hoạch 158/KH-UBND năm 2021 triển khai thí điểm Trung tâm thông tin chỉ đạo, điều hành tại Ủy ban nhân dân tỉnh Lạng Sơn",
+      "id": "158/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2021-07-16",
+      "effectiveDate": "2021-07-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1333/QĐ-UBND năm 2021 về danh mục cơ sở dữ liệu dùng chung tỉnh Lạng Sơn",
+      "id": "1333/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2021-07-06",
+      "effectiveDate": "2021-07-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 942/QĐ-TTg năm 2021 phê duyệt Chiến lược phát triển Chính phủ điện tử hướng tới Chính phủ số giai đoạn 2021-2025, định hướng đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "942/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-06-15",
+      "effectiveDate": "2021-06-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 103/KH-UBND triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 của các cơ quan nhà nước tỉnh Lạng Sơn năm 2021",
+      "id": "103/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2021-05-06",
+      "effectiveDate": "2021-05-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 392/QĐ-UBND năm 2021 phê duyệt cập nhật Kiến trúc Chính quyền điện tử tỉnh Lạng Sơn, phiên bản 2.0",
+      "id": "392/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2021-01-26",
+      "effectiveDate": "2021-01-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 21/QĐ-TTg năm 2021 về phê duyệt Đề án \"Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025\" do Thủ tướng Chính phủ ban hành",
+      "id": "21/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2021-01-06",
+      "effectiveDate": "2021-01-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 198/KH-UBND năm 2020 về ứng dụng công nghệ trong hoạt động của cơ quan nhà nước, phát triển chính quyền số và bảo đảm an toàn thông tin mạng năm 2021 do tỉnh Lạng Sơn ban hành",
+      "id": "198/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2020-12-18",
+      "effectiveDate": "2020-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 195/KH-UBND năm 2020 về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước, phát triển chính quyền số và bảo đảm an toàn thông tin mạng giai đoạn 2021-2025 do tỉnh Lạng Sơn ban hành",
+      "id": "195/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Nguyễn Long Hải"
+      ],
+      "issuedDate": "2020-12-08",
+      "effectiveDate": "2020-12-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 154/KH-UBND năm 2020 thực hiện Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước trên địa bàn tỉnh Lạng Sơn",
+      "id": "154/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Nguyễn Long Hải"
+      ],
+      "issuedDate": "2020-09-10",
+      "effectiveDate": "2020-09-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 749/QĐ-TTg năm 2020 về phê duyệt \"Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030\" do Thủ tướng Chính phủ ban hành",
+      "id": "749/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-06-03",
+      "effectiveDate": "2020-06-03",
+      "gazetteDate": "2020-06-11",
+      "gazetteNumber": "Từ số 637 đến số 638",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 50/NQ-CP năm 2020 về Chương trình hành động thực hiện Nghị quyết 52-NQ/TW về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư do Chính phủ ban hành",
+      "id": "50/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-17",
+      "effectiveDate": "2020-04-17",
+      "gazetteDate": "2020-04-29",
+      "gazetteNumber": "Từ số 567 đến số 568",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2323/QĐ-BTTTT năm 2019 về Khung Kiến trúc Chính phủ điện tử Việt Nam, phiên bản 2.0 do Bộ trưởng Bộ Thông tin và Tuyền thông ban hành",
+      "id": "2323/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2019-12-31",
+      "effectiveDate": "2019-12-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 52-NQ/TW năm 2019 về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư do Bộ Chinh trị ban hành",
+      "id": "52-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Bộ Chính trị",
+      "signers": [
+        "***"
+      ],
+      "issuedDate": "2019-09-27",
+      "effectiveDate": "2019-09-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 14/CT-TTg năm 2019 về tăng cường bảo đảm an toàn, an ninh mạng nhằm cải thiện chỉ số xếp hạng của Việt Nam do Thủ tướng Chính phủ ban hành",
+      "id": "14/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-06-07",
+      "effectiveDate": "2019-06-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 106/KH-UBND năm 2019 thực hiện Nghị quyết 17/NQ-CP về nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020 định hướng đến 2025 do tỉnh Lạng Sơn ban hành",
+      "id": "106/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Nguyễn Long Hải"
+      ],
+      "issuedDate": "2019-06-06",
+      "effectiveDate": "2019-06-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1017/QĐ-TTg năm 2018 về phê duyệt Đề án giám sát an toàn thông tin mạng đối với hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử đến năm 2020, định hướng đến năm 2025 do Thủ tướng Chính phủ ban hành",
+      "id": "1017/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vũ Đức Đam"
+      ],
+      "issuedDate": "2018-08-14",
+      "effectiveDate": "2018-08-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1622/QĐ-TTg năm 2017 về phê duyệt Đề án đẩy mạnh hoạt động của mạng lưới ứng cứu sự cố, tăng cường năng lực cho cán bộ, bộ phận chuyên trách ứng cứu sự cố an toàn thông tin mạng trên toàn quốc đến 2020, định hướng đến 2025 do Thủ tướng Chính phủ ban hành",
+      "id": "1622/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "2017-10-31",
+      "gazetteNumber": "Từ số 805 đến số 806",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 632/QĐ-TTg năm 2017 Danh mục lĩnh vực quan trọng cần ưu tiên bảo đảm an toàn thông tin mạng và hệ thống thông tin quan trọng quốc gia do Thủ tướng Chính phủ ban hành",
+      "id": "632/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-10",
+      "effectiveDate": "2017-05-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 05/2017/QĐ-TTg quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia do Thủ tướng Chính phủ ban hành",
+      "id": "05/2017/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-03-16",
+      "effectiveDate": "2017-03-16",
+      "gazetteDate": "2017-03-30",
+      "gazetteNumber": "Từ số 215 đến số 216",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 85/2016/NĐ-CP về bảo đảm an toàn hệ thống thông tin theo cấp độ",
+      "id": "85/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-01",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-08-02",
+      "gazetteNumber": "Từ số 805 đến số 806",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn thông tin mạng 2015",
+      "id": "86/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1239 đến số 1240",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 242/KH-UBND năm 2021 về phát triển Chính quyền số và bảo đảm an toàn thông tin mạng thành phố Cần Thơ năm 2022",
+      "id": "242/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Trần Việt Trường"
+      ],
+      "issuedDate": "2021-11-30",
+      "effectiveDate": "2021-11-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 279/KH-UBND năm 2021 về phát triển Chính quyền số và bảo đảm an toàn thông tin mạng tỉnh Sơn La năm 2022",
+      "id": "279/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Đặng Ngọc Hậu"
+      ],
+      "issuedDate": "2021-11-29",
+      "effectiveDate": "2021-11-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 204/KH-UBND năm 2021 về phát triển chính quyền số và bảo đảm an toàn thông tin mạng tỉnh Tuyên Quang năm 2022",
+      "id": "204/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Hoàng Việt Phương"
+      ],
+      "issuedDate": "2021-11-25",
+      "effectiveDate": "2021-11-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 2167/QĐ-UBND năm 2021 về Kế hoạch ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước, phát triển chính quyền số và bảo đảm an toàn thông tin mạng tỉnh Bình Dương giai đoạn 2021-2025",
+      "id": "2167/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Mai Hùng Dũng"
+      ],
+      "issuedDate": "2021-09-13",
+      "effectiveDate": "2021-09-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 132/KH-UBND về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước, phát triển Chính quyền số và bảo đảm an toàn thông tin mạng thành phố Hà Nội năm 2021",
+      "id": "132/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Chử Xuân Dũng"
+      ],
+      "issuedDate": "2021-05-27",
+      "effectiveDate": "2021-05-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 68/KH-UBND về ứng dụng công nghệ thông tin, phát triển Chính quyền số và bảo đảm an toàn thông tin mạng trong hoạt động cơ quan Nhà nước năm 2021 và giai đoạn 2021-2025 do tỉnh Vĩnh Phúc ban hành",
+      "id": "68/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Vũ Chí Giang"
+      ],
+      "issuedDate": "2021-03-24",
+      "effectiveDate": "2021-03-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Kế hoạch 272/KH-UBND năm 2020 về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan nhà nước, phát triển Chính quyền số và bảo đảm an toàn thông tin mạng trên địa bàn tỉnh Thanh Hóa, giai đoạn 2021-2025",
+      "id": "272/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Đỗ Minh Tuấn"
+      ],
+      "issuedDate": "2020-12-21",
+      "effectiveDate": "2020-12-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    }
+  ],
+  "id": "206/KH-UBND",
+  "legislationType": "Kế hoạch",
+  "categories": [
+    "Công nghệ thông tin"
+  ],
+  "organization": "Tỉnh Lạng Sơn",
+  "signers": [
+    "Dương Xuân Huyên"
+  ],
+  "issuedDate": "2021-10-20",
+  "effectiveDate": "2021-10-20",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Không xác định",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMQAxADIANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN\n  <br>\n  TỈNH LẠNG SƠN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 206/KH-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Lạng Sơn, ngày 20\n  tháng 10 năm 2021</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>&nbsp;</b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">PHÁT TRIỂN CHÍNH QUYỀN SỐ VÀ BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG\nNĂM 2022</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện Công văn số\n3570/BTTTT-THH ngày 16/9/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn\ncác bộ, ngành, địa phương xây dựng Kế hoạch phát triển Chính phủ số, Chính quyền\nsố và bảo đảm an toàn thông tin mạng năm 2022, UBND tỉnh Lạng Sơn xây dựng Kế\nhoạch phát triển Chính quyền số và bảo đảm an toàn thông tin mạng năm 2022 như\nsau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>Phần I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">ĐÁNH GIÁ KẾT QUẢ THỰC HIỆN\nKẾ HOẠCH NĂM 2021</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1\"><b>I. CĂN CỨ\nPHÁP LÝ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Ban Thường vụ Tỉnh ủy ban hành\nNghị quyết số 49-NQ/TU ngày 28/9/2021 về chuyển đổi số tỉnh Lạng Sơn đến năm\n2025, định hướng đến năm 2030.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">UBND tỉnh đã ban hành các\nchương trình, kế hoạch, quyết định để triển khai thực hiện nhiệm vụ xây dựng\nChính quyền điện tử, chuyển đổi số trên địa bàn tỉnh theo chỉ đạo và hướng dẫn\ncủa Bộ Thông tin và Truyền thông<a href=\"#_ftn1\" title=\"\">[1]</a>.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2\"><b>II. HẠ TẦNG\nKỸ THUẬT</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hạ tầng viễn thông của tỉnh kết\nnối thông suốt đến các huyện, thành phố và các xã, phường, thị trấn, bảo đảm thực\nhiện tốt công tác chỉ đạo, điều hành của các cơ quan Đảng, Nhà nước; cơ bản đáp\nứng nhu cầu ứng dụng sử dụng dịch vụ của người dân, doanh nghiệp. Toàn tỉnh có\n2.818 trạm BTS phát sóng di động 2G/3G/4G, 100% xã, phường, thị trấn có cáp\nquang đến và cung cấp dịch vụ Internet băng rộng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hạ tầng kỹ thuật CNTT trong các\ncơ quan nhà nước từ cấp tỉnh đến cấp xã đáp ứng yêu cầu, 100% các cơ quan, đơn\nvị kết nối internet tốc độ cao và có hệ thống mạng LAN; tỷ lệ máy tính/cán bộ,\ncông chức các cơ quan, đơn vị khối hành chính đạt 99%. Trong đó, cấp tỉnh và cấp\nhuyện đạt 100%; cấp xã đạt 97%.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">100% các cơ quan, đơn vị được\ntriển khai, kết nối vào mạng truyền số liệu chuyên dùng để ứng dụng cho hoạt động\ncủa Hệ thống hội nghị truyền hình trực tuyến.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trung tâm tích hợp dữ liệu của\ntỉnh được đầu tư nâng cấp và duy trì hoạt động ổn định, thường xuyên phục vụ quản\nlý hệ thống thư điện tử công vụ; phần mềm quản lý hồ sơ cán bộ, công chức, viên\nchức; phần mềm chuẩn hóa, tạo lập, chuyển đổi cơ sở dữ liệu (CSDL) hồ sơ thủ tục\nhành chính (TTHC); hệ thống giám sát an toàn mạng thông tin, trang thông tin điện\ntử của tỉnh, hệ thống hội nghị truyền hình trực tuyến, lưu trữ dữ liệu dịch vụ\ncông trực tuyến (DVCTT) và một cửa điện tử của tỉnh, hệ thống phần mềm lưu trữ\ntài liệu lịch sử tỉnh, hệ thống phần mềm CSDL công chứng và một số ứng dụng\ndùng chung, ứng dụng chuyên ngành khác.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_3\"><b>III. CÁC HỆ\nTHỐNG NỀN TẢNG</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Duy trì nền tảng tích hợp,\nchia sẻ dữ liệu cấp tỉnh (LGSP) và kết nối LGSP với các cơ sở dữ liệu quốc gia\nvề đăng ký doanh nghiệp, cơ sở dữ liệu quốc gia về văn bản quy phạm pháp luật,\ncơ sở dữ liệu quốc gia về bảo hiểm, Hệ thống cấp mã số đơn vị có quan hệ với\nngân sách, Hệ thống thông tin quản lý danh mục điện tử dùng chung của các cơ\nquan nhà nước phục vụ phát triển Chính phủ điện tử Việt Nam, Hệ thống của Tổng\nCông ty Bưu điện Việt Nam (VNPOST), cơ sở dữ liệu quốc gia về dân cư với Cổng dịch\nvụ công của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai Hệ thống thông tin\nbáo cáo của tỉnh kết nối với Hệ thống thông tin báo cáo Chính phủ, đảm bảo thực\nhiện chế độ báo cáo của cơ quan hành chính nhà nước theo quy định tại Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 09/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-09-2019-nd-cp-quy-dinh-ve-che-do-bao-cao-cua-co-quan-hanh-chinh-nha-nuoc-386322.aspx\">09/2019/NĐ-CP</a>  của Chính phủ và Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"01/2020/QĐ-UBND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=01/2020/QĐ-UBND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=07/01/2020&amp;eday=07/01/2020\">01/2020/QĐ-UBND</a>  ngày 07/01/2020\ncủa UBND tỉnh. Tỷ lệ báo cáo định kỳ (không bao gồm nội dung mật) được gửi nhận\nqua hệ thống đạt 100%.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai Cổng dữ liệu chuyển\nđổi số tỉnh Lạng Sơn (giai đoạn 1), là đầu mối cung cấp dữ liệu mở của cơ quan\nnhà nước phục vụ người dân và doanh nghiệp khai thác dữ liệu khi có nhu cầu,\nCSDL của cơ quan nhà nước được hình thành, chuẩn hóa, chuyển đổi, tích hợp lên\nhệ thống quản lý CSDL dùng chung để chia sẻ phục vụ cho công tác quản lý, chỉ đạo\nđiều hành, phục vụ người dân và doanh nghiệp.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai thí điểm Nền tảng\ncửa khẩu số tại cửa khẩu quốc tế Hữu Nghị và cửa khẩu Tân Thanh, Nền tảng cửa\nkhẩu số tự động hóa quy trình, giảm thời gian cho doanh nghiệp thông quan, tạo\nkênh thông tin kết nối đa chiều giữa cơ quan nhà nước và doanh nghiệp xuất nhập\nkhẩu, công khai, minh bạch trong hoạt động quản lý tại cửa khẩu, phục vụ công\ntác chỉ đạo, điều hành của các cấp lãnh đạo, cải cách hành chính phục vụ người\ndân và doanh nghiệp xuất nhập khẩu. Hiện nay đã thi công, lắp đặt hệ thống\ncamera AI tại cửa khẩu, kết nối với hệ thống camera trên quốc lộ 1A để giám sát\nmật độ, lưu lượng xe đến cửa khẩu phục vụ cho việc điều tiết, phân luồng, tránh\nùn tắc giao thông, tổ chức tập huấn 02 lớp hướng dẫn sử dụng cho các cơ quan,\nđơn vị tại khu vực cửa khẩu (vào ngày 04/10/2021), Nền tảng cửa khẩu số chính\nthức hoạt động trong tháng 10/2021. Lạng Sơn là tỉnh đầu tiên trong cả nước ứng\ndụng công nghệ số trong quản lý tổng thể và toàn diện hoạt động cửa khẩu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai hỗ trợ 100% bệnh\nviện tuyến huyện có hệ thống hội chuẩn từ xa (Telehealth-Viettel) do Tập đoàn\nViettel hỗ trợ, giúp người dân được sử dụng dịch vụ y tế chất lượng của tuyến\ntrên ngay tại cơ sở y tế tuyến dưới, góp phần giảm tải của bệnh viện tuyến\ntrên, nâng cao hiệu quả phòng, chống dịch COVID-19; triển khai Nền tảng quản lý\ntiêm chủng, kế hoạch tiêm, nhập dữ liệu, thông báo tin nhắn,...hoàn toàn thực\nhiện trên Nền tảng tiêm chủng, tỉnh Lạng Sơn luôn là một trong những tỉnh dẫn đầu\ncả nước về triển khai Nền tảng tiêm chủng, đã nhập dữ liệu được 558.6160 mũi\ntiêm, đạt 100%.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_4\"><b>IV. PHÁT TRIỂN\nDỮ LIỆU</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Từ năm 2018 đến nay, thực hiện\nviệc số hóa hồ sơ, tài liệu lưu trữ của tỉnh theo Đề án đã được phê duyệt, từng\nbước hình thành CSDL số phục vụ công tác lưu trữ lịch sử và khai thác. Tổng số\ncơ sở dữ liệu lưu trữ được số hóa đến thời điểm hiện tại, với tổng số: 15\nphông, 25.340 hồ sơ, 554.231 văn bản, 924.838 trang tài liệu số hóa.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Triển khai cơ sở dữ liệu số hóa\nhồ sơ cán bộ, công chức, viên chức (CBCCVC) tỉnh. Giai đoạn 1 triển khai cho khối\nsở, ban, ngành và UBND cấp huyện được 7.394 hồ sơ CBCCVC; giai đoạn 2 đang triển\nkhai khối cấp xã, đơn vị sự nghiệp giáo dục, y tế, theo lộ trình đến hết năm\n2021 hoàn thành 100% CBCCVC được số hóa hồ sơ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kết nối cơ sở dữ liệu quốc\ngia về dân cư với Cổng dịch vụ công của tỉnh để khai thác cơ sở dữ liệu dân cư,\ngiảm bớt thành phần hồ sơ TTHC phục vụ người dân và doanh nghiệp.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_5\"><b>V. CÁC ỨNG DỤNG,\nDỊCH VỤ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>1. Ứng dụng,\ndịch vụ CNTT phục vụ hoạt động nội bộ các cơ quan nhà nước</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hệ thống quản lý văn bản và\nđiều hành triển khai đến 100% các cơ quan hành chính nhà nước cấp tỉnh, cấp huyện\nvà cấp xã. Trong đó: cấp tỉnh có 20 đơn vị sử dụng, cấp huyện có 11 đơn vị sử dụng,\ncấp xã có 200 đơn vị sử dụng, tổng số có 15.630 người sử dụng, hệ thống cơ bản\nđáp ứng được yêu cầu xử lý công việc của CBCCVC. Tổng số văn bản điện tử trên\ntoàn tỉnh từ tháng 01/2021đến hết tháng 9/2021 là 287.752/287.752 văn bản, đạt\ntỷ lệ 100% văn bản trao đổi giữa các cơ quan dưới dạng điện tử (trừ văn bản mật).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hệ thống hội nghị truyền hình\ntrực tuyến của tỉnh có 213 điểm cầu. Trong đó: cấp xã 200 điểm cầu, cấp huyện\n11 điểm cầu, cấp tỉnh 02 điểm cầu.Hệ thống hoạt động hiệu quả, chất lượng âm\nthanh, hình ảnh cơ bản đáp ứng yêu cầu, tổ chức các cuộc họp nhanh, kịp thời,\ntiết kiệm thời gian và chi phí, trong 9 tháng đầu năm có 355 cuộc họp <i>(trong\nđó có 04 cuộc họp 4 cấp, 25 cuộc họp 3 cấp, 326 cuộc họp 2 cấp)</i>, do tình\nhình dịch bệnh COVID-19 diễn biến phức tạp nên hầu hết các cuộc họp thực hiện bằng\nhình thức trực tuyến.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Các tổ chức, cá nhân lãnh đạo\ntrong các cơ quan nhà nước từ cấp tỉnh đến cấp xã được cấp chứng thư số, chữ ký\nsố chuyên dùng Chính phủ để thực hiện ký số văn bản điện tử. Đến thời điểm hiện\ntại trên toàn tỉnh đã cấp 2.312 chữ ký số (trong đó có 734 chứng thư số tổ chức,\n1.578 chứng thư số cá nhân), trong 9 tháng đầu năm đã cấp 113 chữ ký số tổ chức,\n456 chữ ký số cá nhân. Các cơ quan, đơn vị đã ứng dụng hiệu quả chữ ký số được\ncấp, 100% văn bản điện tử gửi đi được ký số, phục vụ hiệu quả công tác chỉ đạo,\nđiều hành, tiết kiệm chi phí, tạo được môi trường làm việc hiện đại.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hệ thống thư điện tử công vụ\nđược duy trì hoạt động ổn định, 100% CBCCVC trong các cơ quan hành chính nhà nước\nđều được cấp hộp thư điện tử công vụ trong trao đổi công việc, số tài khoản thư\nđiện tử đã cấp là 31.619 tài khoản. Tỷ lệ CBCCVC sử dụng thư điện tử công vụ đạt\n65%.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>2. Ứng dụng,\ndịch vụ CNTT phục vụ người dân và doanh nghiệp</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai cung cấp 100% dịch\nvụ công đủ điều kiện lên trực tuyến mức độ 4 trên Cổng dịch vụ công của tỉnh với\n1.007 DVCTT mức độ 4 ( hoàn thành ngày 06/6/2021, trước thời hạn 7 tháng) theo\nyêu cầu của Bộ Thông tin và Truyền thông tại Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 1145/BTTTT-THH\" href=\"https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-1145-btttt-thh-2021-cung-cap-100-dich-vu-cong-du-dieu-kien-len-truc-tuyen-muc-do-4-473841.aspx\">1145/BTTTT-THH</a>  ngày\n19/4/2021, Lạng Sơn là một trong 3 tỉnh, thành phố trong cả nước hoàn thành\ncung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4. Cổng dịch vụ\ncông có 228 cơ quan, đơn vị từ cấp tỉnh đến cấp xã sử dụng, trong đó có 17 sở,\nngành; 11 huyện, thành phố; 200 xã, phường, thị trấn, cung cấp cung cấp <b>1.784\n</b>DVCTT (trong đó có <b>448 </b>DVCTT mức độ 2; <b>329 </b>DVCTT mức độ 3 và <b>1007\n</b>DVCTT mức độ 4<a href=\"#_ftn2\" title=\"\">[2]</a>). Tỷ lệ DVCTT mức độ 3, 4\ntrên tổng số TTHC đạt 75%, trong đó mức độ 3 là 18,4%; mức độ 4 là 56,5% <i>(Vượt\nchỉ tiêu 26,5% theo chỉ tiêu Nghị quyết <a class=\"text-blue\" target=\"_blank\" title=\"17/NQ-CP\" href=\"/phap-luat/tim-van-ban.aspx?keyword=17/NQ-CP&amp;match=True&amp;area=2&amp;lan=1\">17/NQ-CP</a>  đề ra là 30%)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai tích hợp Trung tâm\ngiám sát, điều hành đô thị thông minh thành phố Lạng Sơn và Trung tâm thông tin\nchỉ đạo, điều hành của UBND tỉnh thống nhất thành một hệ thống dùng chung với đầy\nđủ 10 modul chức năng<a href=\"#_ftn3\" title=\"\">[3]</a>, kết nối các nền tảng ứng\ndụng hiện có, tổng hợp, phân tích, khai thác dữ liệu theo thời gian thực phục vụ\ncông tác lãnh đạo, chỉ đạo của Chủ tịch UBND tỉnh và UBND tỉnh, dự kiến chính\nthức hoạt động vào cuối tháng 10/2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thí điểm triển khai Trợ lý ảo\n(Chatbot) để hỗ trợ cho mỗi CBCCVC xử lý công việc hàng ngày, giao tiếp bằng\nngôn ngữ tự nhiên, trợ lý ảo sẽ giúp cho CBCCVC làm việc tốt hơn, hiệu quả hơn,\nkhi cần tham mưu văn bản Trợ lý ảo sẽ hỗ trợ đưa ra các quy phạm pháp luật, văn\nbản chỉ đạo điều hành, hướng dẫn CBCCVC thực hiện; Trợ lý ảo (Chatbot) cho người\ndân và doanh nghiệp thực hiện TTHC, Trợ lý ảo hướng dẫn, hỗ trợ người dân và\ndoanh nghiệp nộp hồ sơ trực tuyến, dự kiến sẽ chính thức hoạt động từ\n01/12/2021.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cổng thông tin điện tử (TTĐT)\ncủa tỉnh tại địa chỉ http://langson.gov.vn gồm 01 Cổng chính và 126 Trang TTĐT\nthành viên (21 sở, ban, ngành; 11 UBND cấp huyện; 15 cơ quan, đơn vị khác và 79\nxã, phường, thị trấn). Cổng TTĐT cung cấp, cập nhật thông tin theo đúng quy định\ntại Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 43/2011/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-43-2011-nd-cp-cung-cap-thong-tin-va-dich-vu-cong-truc-tuyen-125408.aspx\">43/2011/NĐ-CP</a>  ngày 13/6/2011 của Chính phủ, thường xuyên cập\nnhật tin, bài, văn bản chỉ đạo điều hành <i>(hàng tháng trên 200 tin, bài và\n1000 văn bản được đăng tải trên Cổng TTĐT của tỉnh</i>)</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai bản đồ số\nCovidmaps<a href=\"#_ftn4\" title=\"\">[4]</a> tỉnh Lạng Sơn giúp người dân nắm được\nthông tin như danh sách bệnh nhân đã bị nhiễm COVID-19 và các trường hợp F1; lộ\ntrình bệnh nhân nhiễm COVID-19 đã từng đến; khu vực sinh sống và địa điểm tiếp\nxúc của bệnh nhân nhiễm COVID-19 trong vòng 14 ngày; địa điểm cách ly tập trung\ntrên địa bàn tỉnh; các chốt kiểm dịch trên địa bàn tỉnh; các khu vực phong tỏa;\nkhu vực cách ly y tế,... Bên cạnh đó, bản đồ cũng giúp các cấp ủy đảng, chính\nquyền trên địa bàn tỉnh có thêm giải pháp công nghệ số phục vụ quản lý, điều\nhành trong phòng, chống dịch bệnh COVID-19.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_6\"><b>VI. NGUỒN\nNHÂN LỰC</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Toàn tỉnh hiện có 73 CBCCVC\nchuyên trách, kiêm nhiệm trong lĩnh vực CNTT tại các cơ quan nhà nước, trong đó\ntrình độ tiến sĩ 01, thạc sĩ 04 người, trình độ đại học 64 người, trình độ cao\nđẳng 04 người. Số cán bộ chuyên trách, kiêm nhiệm về CNTT tại các cơ quan\nchuyên môn cấp tỉnh là 51 người, cấp huyện là 22 người.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_7\"><b>VII. AN TOÀN\nTHÔNG TIN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">UBND tỉnh ban hành Kế hoạch Ứng\ndụng CNTT trong hoạt động của cơ quan nhà nước, phát triển chính quyền số và bảo\nđảm an toàn thông tin mạng năm 2021<a href=\"#_ftn5\" title=\"\">[5]</a>; Quy chế đảm\nbảo an toàn, an ninh thông tin trong hoạt động ứng dụng CNTT trong các cơ quan\nquản lý nhà nước trên địa bàn tỉnh Lạng Sơn<a href=\"#_ftn6\" title=\"\">[6]</a>.\nUBND tỉnh thành lập Đội ứng cứu, xử lý sự cố an toàn thông tin mạng tỉnh Lạng\nSơn<a href=\"#_ftn7\" title=\"\">[7]</a>, trên cơ sở đó, Đội Ứng cứu, xử lý sự cố\nmáy tính đã ban hành Quy chế hoạt động của Đội ứng cứu, xử lý sự cố an toàn\nthông tin mạng, đồng thời ban hành kế hoạch hoạt động Đội ứng cứu, xử lý sự an\ntoàn thông tin mạng tỉnh Lạng Sơn năm 2021<a href=\"#_ftn8\" title=\"\">[8]</a>.\nThường xuyên chỉ đạo bảo đảm ATTT theo hướng dẫn của Bộ Thông tin và Truyền\nthông, ban hành các văn bản chỉ đạo điều hành, phổ biến, hướng dẫn, cảnh báo\ncác cơ quan về ATTT.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Triển khai đảm bảo an toàn\nthông tin theo mô hình 4 lớp (lực lượng tại chỗ, giám sát chuyên nghiệp, độc lập\nkiểm tra, kết nối với hệ thống giám sát quốc gia). 100% máy tính của CBCCVC được\ncài đặt phần mềm diệt virus<a href=\"#_ftn9\" title=\"\">[9]</a>, hàng tuần tổng hợp\nsố liệu, báo cáo về tình hình lây nhiễm mã độc gửi các cơ quan, đơn vị để nắm\ntình hình và phòng, chống mã độc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Cử cán bộ tham gia các lớp tập\nhuấn an toàn thông tin, tham gia diễn tập quốc tế ASEAN-Nhật Bản năm 2021 và\ntham gia diễn tập quốc tế ACID năm 2021 do Bộ Thông tin và Truyền thông, Cục An\ntoàn thông tin tổ chức.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_8\"><b>VIII. KINH\nPHÍ THỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kinh phí bố trí cho các nhiệm\nvụ, dự án ứng dụng CNTT của các cơ quan nhà nước năm 2021 là 60.417 triệu đồng\n(chi tiết tại Phụ lục I gửi kèm theo).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kinh phí bố trí cho các nhiệm\nvụ, dự án về an toàn thông tin mạng năm 2021 là 1.895 triệu đồng (chi tiết tại\nphụ lục II gửi kèm theo).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>Phần II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">NỘI DUNG KẾ HOẠCH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1_1\"><b>I. CĂN CỨ\nLẬP KẾ HOẠCH</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Luật Công nghệ thông tin;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Luật An toàn thông tin mạng;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Nghị quyết số 52-NQ/TW ngày\n27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động tham gia\ncuộc cách mạng công nghiệp lần thứ tư;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 85/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx\">85/2016/NĐ-CP</a> \nngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 50/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-50-nq-cp-2020-chuong-trinh-hanh-dong-thuc-hien-nghi-quyet-52-nq-tw-440366.aspx\">50/NQ-CP</a>  ngày\n17/4/2020 của Chính phủ ban hành Chương trình hành động thực hiện Nghị quyết số\n52-NQ/TW;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 05/2017/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-05-2017-qd-ttg-he-thong-phuong-an-ung-cuu-khan-cap-bao-dam-an-toan-thong-tin-mang-quoc-gia-343011.aspx\">05/2017/QĐ-TTg</a> \nngày 16/3/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng\ncứu khẩn cấp, bảo đảm an toàn thông tin mạng quốc gia;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 632/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-632-qd-ttg-2017-linh-vuc-quan-trong-uu-tien-bao-dam-an-toan-thong-tin-mang-348824.aspx\">632/QĐ-TTg</a>  ngày\n10/5/2017 của Thủ tướng Chính phủ ban hành Danh mục lĩnh vực quan trọng cần ưu\ntiên bảo đảm an toàn thông tin mạng và hệ thống thông tin quan trọng quốc gia;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1622/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1622-qd-ttg-2017-day-manh-hoat-dong-mang-luoi-ung-cuu-su-co-an-toan-thong-tin-mang-365324.aspx\">1622/QĐ-TTg</a> \nngày 25/10/2017 của Thủ tướng Chính phủ về việc đẩy mạnh hoạt động của mạng lưới\nứng cứu sự cố, tăng cường năng lực cho các cán bộ, bộ phận chuyên trách ứng cứu\nsự cố mạng trên toàn quốc đến năm 2020, định hướng đến 2025;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1017/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1017-qd-ttg-2018-giam-sat-an-toan-thong-tin-mang-he-thong-dich-vu-cong-nghe-thong-tin-390846.aspx\">1017/QĐ-TTg</a> \nngày 14/8/2018 của Thủ tướng Chính phủ phê duyệt Đề án “Giám sát an toàn thông\ntin mạng đối với hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử\nđến năm 2020, định hướng đến 2025”;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 749/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-749-qd-ttg-2020-phe-duyet-chuong-trinh-chuyen-doi-so-quoc-gia-444136.aspx\">749/QĐ-TTg</a>  ngày\n03/6/2020 của Thủ tướng Chính phủ phê duyệt Chương trình chuyển đổi số quốc gia\nđến năm 2025, định hướng năm 2030;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 942/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-942-qd-ttg-2021-chien-luoc-phat-trien-chinh-phu-dien-tu-huong-toi-chinh-phu-so-477851.aspx\">942/QĐ-TTg</a>  ngày\n15/6/2021 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển Chính phủ điện\ntử hướng tới Chính phủ số giai đoạn 2021-2025, định hướng đến năm 2030;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 21/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-21-qd-ttg-2021-de-an-dao-tao-phat-trien-nguon-nhan-luc-an-toan-thong-tin-2021-2025-461722.aspx\">21/QĐ-TTg</a>  ngày\n06/01/2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và phát triển nguồn\nnhân lực an toàn thông tin giai đoạn 2021 - 2025”;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 14/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/chi-thi-14-ct-ttg-2019-bao-dam-an-toan-an-ninh-mang-cai-thien-chi-so-xep-hang-cua-viet-nam-416078.aspx\">14/CT-TTg</a>  ngày\n07/6/2019 của Thủ tướng Chính phủ về việc tăng cường bảo đảm an toàn, an ninh mạng\nnhằm cải thiện chỉ số xếp hạng của Việt Nam;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số 2323/BTTTT-THH\nngày 31/12/2019 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Khung Kiến\ntrúc Chính phủ điện tử Việt Nam, phiên bản 2.0; Kiến trúc Chính phủ điện tử/Kiến\ntrúc Chính quyền điện tử của bộ/tỉnh;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Nghị quyết số 49-NQ/TU ngày\n28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng Sơn đến năm\n2025, định hướng đến năm 2030;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chỉ thị số 26-CT/TU ngày\n17/02/2020 của Ban Thường vụ Tỉnh ủy về tăng cường sự lãnh đạo của các cấp ủy đảng\nđối với nhiệm vụ xây dựng Chính quyền điện tử trên địa bàn tỉnh Lạng Sơn, giai\nđoạn 2020 - 2025;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chương trình hành động số\n153-CTr/TU ngày 21/7/2020 của Ban Thường vụ Tỉnh ủy thực hiện Nghị quyết số\n52-NQ/TƯ, ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ\nđộng tham gia cuộc Cách mạng công nghiệp lần thứ tư;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kế hoạch hành động số\n<a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 106/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-106-kh-ubnd-2019-thuc-hien-nghi-quyet-phat-trien-chinh-phu-dien-tu-tinh-lang-son-440087.aspx\">106/KH-UBND</a>  ngày 06/6/2019 của UBND tỉnh thực hiện Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 17/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-quyet-17-nq-cp-2019-nhiem-vu-giai-phap-trong-tam-phat-trien-chinh-phu-dien-tu-408619.aspx\">17/NQ-CP</a>  ngày\n07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển\nChính phủ điện tử giai đoạn 2019 - 2020, định hướng đến năm 2025;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số 1063/QĐ-UBND\nngày 07/6/2019 của UBND tỉnh phê duyệt Đề án xây dựng Chính quyền điện tử tỉnh\nLạng Sơn giai đoạn 2019 - 2025;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 154/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-154-kh-ubnd-2020-thuc-hien-nghi-dinh-47-2020-nd-cp-tinh-lang-son-474702.aspx\">154/KH-UBND</a>  ngày\n10/9/2020 của UBND tỉnh về triển khai thực hiện Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 47/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-47-2020-nd-cp-quan-ly-ket-noi-va-chia-se-du-lieu-so-cua-co-quan-nha-nuoc-439384.aspx\">47/2020/NĐ-CP</a>  ngày\n09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan\nnhà nước trên địa bàn tỉnh Lạng Sơn;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 195/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-195-kh-ubnd-2020-ung-dung-cong-nghe-thong-tin-trong-hoat-dong-cua-co-quan-lang-son-473971.aspx\">195/KH-UBND</a>  ngày\n08/12/2020 của UBND tỉnh về ứng dụng công nghệ thông tin trong hoạt động của cơ\nquan nhà nước, phát triển Chính quyền số và bảo đảm an toàn thông tin mạng giai\nđoạn 2021 - 2025;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Quyết định số 392/QĐ-UBND\nngày 26/01/2021 của UBND tỉnh phê duyệt cập nhật Kiến trúc Chính quyền điện tử\ntỉnh Lạng Sơn, phiên bản 2.0.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2_1\"><b>II. MỤC\nTIÊU</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>1. Mục\ntiêu chung</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Phát triển chính quyền số có\ntoàn bộ hoạt động an toàn trên môi trường số, có mô hình hoạt động được thiết kế\nlại và vận hành dựa trên dữ liệu và công nghệ số, để có khả năng cung cấp dịch\nvụ chất lượng hơn, đưa ra quyết định kịp thời hơn, ban hành chính sách tốt hơn,\nsử dụng nguồn lực tối ưu hơn, kiến tạo phát triển, dẫn dắt chuyển đổi số của tỉnh,\ngiải quyết hiệu quả những vấn đề lớn trong phát triển và quản lý kinh tế - xã hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tái cấu trúc hạ tầng CNTT, chuyển\nđổi hạ tầng CNTT thành hạ tầng số ứng dụng công nghệ điện toán đám mây phục vụ\nkết nối, quản lý các nguồn lực, dữ liệu của cơ quan nhà nước một cách an toàn,\nlinh hoạt, ổn định, hiệu quả.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tiếp tục triển khai đô thị\nthông minh tại tỉnh. Giữ vững và tiếp tục nâng cao chỉ số sẵn sàng ứng dụng\nCNTT (ICT Index) của tỉnh lên mức khá so với các tỉnh/thành trên toàn quốc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>2. Mục tiêu\ncụ thể</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>a) Ứng dụng CNTT cung cấp\ndịch vụ phục vụ người dân và doanh nghiệp</i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% TTHC đủ điều kiện theo\nquy định của pháp luật được cung cấp dưới hình thức DVCTT mức độ 4.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phấn đấu 30% hồ sơ TTHC được\nxử lý hoàn toàn trực tuyến.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tối thiểu 90% người dân,\ndoanh nghiệp hài lòng với dịch vụ của cơ quan nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>b) Thu hút sự tham gia của\nngười dân, doanh nghiệp</i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% cơ quan nhà nước tham gia\nmở dữ liệu và cung cấp dữ liệu mở phục vụ phát triển chính quyền số, kinh tế số,\nxã hội số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 30% dịch vụ công mới của cơ\nquan nhà nước có sự tham gia cung cấp của doanh nghiệp hoặc tổ chức ngoài nhà\nnước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>c) Phát triển Chính quyền\nsố phục vụ vận hành tối ưu hoạt động của bộ máy</i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% cơ quan nhà nước cung cấp\ndịch vụ 24/7, sẵn sàng phục vụ trực tuyến bất cứ khi nào người dân và doanh\nnghiệp cần; 50% công chức được gắn định danh số trong xử lý công việc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% các hoạt động chỉ đạo, điều\nhành và quản trị nội bộ của cơ quan hành chính nhà nước thực hiện trên nền tảng\nquản trị tổng thể, thống nhất.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% văn bản trao đổi giữa\ncác cơ quan nhà nước được thực hiện dưới dạng điện tử, được ký số bởi chữ ký số\nchuyên dùng, trừ văn bản mật theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 90% hồ sơ công việc tại cấp tỉnh,\n80% hồ sơ công việc tại cấp huyện và 40% hồ sơ công việc tại cấp xã được xử lý\ntrên môi trường mạng (trừ hồ sơ công việc thuộc phạm vi bí mật nhà nước).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% chế độ báo cáo, chỉ tiêu\ntổng hợp báo cáo định kỳ và báo cáo thống kê về kinh tế - xã hội phục vụ sự chỉ\nđạo, điều hành của UBND tỉnh, Chủ tịch UBND tỉnh được thực hiện trên hệ thống\nthông tin báo cáo Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% hồ sơ được tạo, lưu giữ,\nchia sẻ dữ liệu điện tử theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% cơ quan nhà nước có nền tảng\nphân tích, xử lý dữ liệu tổng hợp tập trung, có ứng dụng trí tuệ nhân tạo để tối\nưu hóa hoạt động.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 25% hoạt động kiểm tra của cơ\nquan quản lý nhà nước được thực hiện thông qua môi trường số và hệ thống thông\ntin của cơ quan quản lý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 30% các hệ thống thông tin,\ncơ sở dữ liệu của các cơ quan, đơn vị hành chính nhà nước hoạt động trên nền tảng\nđiện toán đám mây của tỉnh (Lạng Sơn Cloud).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 50% CBCCVC được tập huấn, bồi\ndưỡng, phổ cập kỹ năng số cơ bản; 25% CBCCVC được tập huấn, bồi dưỡng kỹ năng\nphân tích, khai thác dữ liệu và công nghệ số</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% cơ quan nhà nước có Trợ\nlý ảo hỗ trợ cho CBCCVC trong môi trường làm việc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>d) Bảo đảm an toàn thông\ntin</i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tối thiểu 70% hệ thống thông tin\nđược xác định cấp độ và triển khai phương án bảo đảm an toàn thông tin theo cấp\nđộ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tối thiểu 90% thiết bị đầu cuối\nđược cài đặt giải pháp bảo vệ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% người đứng đầu của các\nđơn vị, tổ chức nhà nước (trực thuộc cơ quan) được tuyên truyền, nâng cao nhận\nthức và trách nhiệm về bảo đảm an toàn thông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% CBCCVC được tuyên truyền,\nphổ biến về thói quen, trách nhiệm và kỹ năng cơ bản bảo đảm an toàn thông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% cán bộ chuyên trách hoặc\nkiêm nhiệm của các cơ quan hành chính nhà nước được đào tạo, bồi dưỡng về an\ntoàn thông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% trường tiểu học, trung học\ncơ sở, trung học phổ thông và các cơ sở bảo vệ, nuôi dưỡng trẻ em được tuyên\ntruyền, giáo dục kiến thức, kỹ năng cần thiết cho trẻ em để tham gia môi trường\nmạng an toàn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% trẻ em là nạn nhân bị\nxâm hại trên môi trường mạng được hỗ trợ, can thiệp khi có yêu cầu từ bản thân\ntrẻ em hoặc từ người thân, cộng đồng xã hội;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Duy trì và nâng cấp hệ thống\nSOC theo mô hình 4 lớp để bảo đảm an toàn, an ninh cho các hệ thống thông tin của\ntỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_3_1\"><b>III. NHIỆM\nVỤ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_2\"><b>1. Hoàn\nthiện quy chế, quy định pháp lý</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Duy trì, cập nhật Khung kiến\ntrúc chính quyền điện tử tỉnh bảo đảm phù hợp với Khung kiến trúc Chính phủ điện\ntử Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Kiện toàn tổ chức, bộ máy,\nthiết lập mạng lưới đơn vị chuyên trách và nhân sự hỗ trợ triển khai từ tỉnh đến\ncơ sở để triển khai các nhiệm vụ chuyển đổi số, xây dựng chính quyền số, kinh tế\nsố, xã hội số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_2\"><b>2. Phát\ntriển hạ tầng số</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đầu tư xây dựng cơ sở hạ tầng\nkỹ thuật cho trung tâm tích hợp dữ liệu của tỉnh theo tiêu chuẩn Tier-3.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai nền tảng điện toán\nđám mây (Lạng Sơn Cloud) sử dụng nền tảng Make in VietNam.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đầu tư trang thiết bị, hệ thống\nan toàn thông tin cho Trung tâm tích hợp dữ liệu và điện toán đám mây (Lạng Sơn\nCloud).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đầu tư trang thiết bị cơ sở hạ\ntầng và Nền tảng ứng dụng cửa khẩu số của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- 100% thôn, bản vùng sâu, vùng\nxa, vùng biên giới có hạ tầng viễn thông di động 3G, 4G và hạ tầng dịch vụ\ninternet băng rộng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>3. Phát triển\ncác nền tảng, hệ thống</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai xây dựng kho dữ liệu\ndùng chung (Data Lake) phục vụ phân tích, dự báo hỗ trợ quá trình ra quyết định\ncủa tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số quản lý\ndự án đầu tư xây dựng cơ bản.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số quản lý\ntài sản công tập trung.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số dùng\nchung các Ngành Giao thông vận tải, Tài nguyên và Môi trường, Nội vụ, Thông tin\nvà Truyền thông (bản đồ số).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số dùng\nchung ngành Giao thông vận tải, Tài nguyên và Môi trường, Nội vụ, Thông tin và\nTruyền thông (bản đồ số).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Mở rộng Cổng khai thác dữ liệu\nchuyển đổi số tỉnh Lạng Sơn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số cho hệ\nthống mạng lưới IoT quan trắc môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số hệ thống\nmạng lưới giám sát khai thác mỏ tỉnh Lạng Sơn sử dụng công nghệ số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng Nền tảng số quản lý giá\nkết nối với Cổng khai thác dữ liệu chuyển đổi số (quản lý giá vật liệu, vật tư,\ngiá đất....)</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng CSDL tài chính tích\nhợp tập trung (kế toán hành chính sự nghiệp; kế toán xã; tổng hợp quyết toán\nđơn vị hành chính sự nghiệp, xã/ phường)</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai xây dựng Nền tảng\ndanh tính số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>4. Phát triển\ndữ liệu</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện tiếp nhận, kế thừa,\nsử dụng các CSDL đã được Trung ương đầu tư, xây dựng <i>(các CSDL về dân cư, đất\nđai, đăng ký doanh nghiệp, dân số, tài chính, bảo hiểm…)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tiếp tục duy trì và phát triển\nnền tảng tích hợp, chia sẻ dữ liệu dùng chung cấp tỉnh (LGSP) và kết nối với Hệ\nthống kết nối, liên thông các hệ thống thông tin ở trung ương và địa phương\n(NGSP) để khai thác các cơ sở dữ liệu quốc gia, hệ thống thông tin có quy mô,\nphạm vi từ trung ương đến địa phương. Tiếp tục thực hiện tích hợp kết nối, chia\nsẻ các hệ thống thông tin của tỉnh với các hệ thống thông tin của các bộ, ngành\ntrung ương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tiếp tục xây dựng hệ thống quản\nlý CSDL ngành Xây dựng; hệ thống hỗ trợ thu thập, quản lý, khai thác cơ sở dữ\nliệu ngành và Trung tâm điều hành giáo dục.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đầu tư, nâng cấp cơ sở dữ liệu\nvà Nền tảng số phục vụ quản lý CBCCVC toàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>5. Phát triển\ncác ứng dụng, dịch vụ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>5.1. Phát triển các ứng dụng,\ndịch vụ phục vụ hoạt động nội bộ các cơ quan nhà nước</i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đẩy mạnh việc sử dụng các ứng\ndụng đã triển khai một cách có hiệu quả: Hệ thống quản lý văn bản và điều hành,\nHệ thống thư điện tử, Cổng thông tin điện tử, Cổng dịch vụ công và Hệ thống\nthông tin một cửa,… bảo đảm an toàn thông tin khi trao đổi văn bản trên môi trường\nmạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tiếp tục triển khai chứng thư\nsố cá nhân và cơ quan, tổ chức cho các đơn vị trực thuộc các sở, ban, ngành;\nUBND cấp huyện, cấp xã; các tổ chức chính trị xã hội. Tiếp tục triển khai tích\nhợp chữ ký số vào các hệ thống thông tin dùng chung của tỉnh (hệ thống quản lý\nvăn bản và điều hành, hệ thống thư điện tử, cổng thông tin điện tử, dịch vụ\ncông trực tuyến…) nhằm bảo đảm tính pháp lý và trao đổi văn bản, tài liệu an\ntoàn trên môi trường mạng; mở rộng triển khai ứng dụng chữ ký số trên các nền tảng\ndi động để thuận lợi cho người sử dụng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Duy trì Hệ thống thông tin\nbáo cáo kết nối với Hệ thống thông tin báo cáo Chính phủ, Trung tâm thông tin,\nchỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>5.2. Phát triển ứng dụng,\ndịch vụ phục vụ người dân và doanh nghiệp</i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai có hiệu quả các hoạt\nđộng ứng dụng CNTT gắn kết chặt chẽ với chương trình cải cách hành chính. Tiếp\ntục triển khai cung cấp DVCTT mức độ 3, 4 theo chỉ đạo của Chính phủ; tích hợp\ncổng thanh toán trực tuyến; tích hợp Cổng dịch vụ công quốc gia; tích hợp giải\npháp xác thực điện tử tập trung; từng bước số hóa các kết quả giải quyết TTHC đồng\nthời tăng cường số hóa hồ sơ của các tổ chức, công dân.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Ứng dụng CNTT hiệu quả, toàn\ndiện tại bộ phận tiếp nhận, trả kết quả thủ tục hành chính tại Trung tâm Phục vụ\nhành chính công tỉnh và Bộ phận tiếp nhận và trả kết quả cấp huyện, tăng cường\ntrao đổi, xử lý hồ sơ qua mạng; bảo đảm tính liên thông giữa các đơn vị trong\nquy trình xử lý thủ tục, tin học hóa tối đa các hoạt động trong quy trình thủ tục\nhành chính. Tiếp tục triển khai tiếp nhận hồ sơ, trả kết quả giải quyết TTHC\nqua dịch vụ bưu chính công ích.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng App Lạng Sơn Smart\nphục vụ công tác chỉ đạo, điều hành của chính quyền và kênh tương tác với người\ndân; và ngược lại người dân và doanh nghiệp tương tác với chính quyền.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>6. Bảo đảm\nan toàn thông tin</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Duy trì và nâng cấp hệ thống\nTrung tâm giám sát an toàn thông tin (SOC); mở rộng phạm vi, nâng cao chất lượng,\nmức độ giám sát và bảo vệ cho 100% hệ thống thông tin của cơ quan, đơn vị. Áp dụng\nhệ thống quản lý an toàn thông tin mạng theo tiêu chuẩn, quy chuẩn kỹ thuật\n(TCVN 11930:2017).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xác định cấp độ an toàn thông\ntin và tổ chức triển khai phương án bảo đảm an toàn hệ thống thông tin theo cấp\nđộ. Thường xuyên rà soát, cập nhật để đáp ứng yêu cầu thực tiễn và quy định về\nbảo đảm an toàn hệ thống thông tin theo cấp độ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng và triển khai kế hoạch\ndự phòng, sao lưu dữ liệu, bảo đảm hoạt động liên tục của cơ quan, tổ chức; sẵn\nsàng khôi phục hoạt động bình thường của hệ thống sau khi gặp sự cố mất an toàn\nthông tin mạng;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng và triển khai kế hoạch\ntổ chức đào tạo hoặc cử nhân sự chuyên trách/phụ trách về an toàn thông\ntin/công nghệ thông tin tham gia các khóa đào tạo về quản lý, kỹ thuật về an\ntoàn thông tin;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng và triển khai kế hoạch\ntổ chức tuyên truyền, nâng cao nhận thức và phổ biến kiến thức, kỹ năng bảo đảm\nan toàn thông tin cho các cán bộ, công chức, viên chức, người lao động và người\ndân;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 830/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-830-qd-ttg-2021-bao-ve-va-ho-tro-tre-em-tuong-tac-lanh-manh-tren-moi-truong-mang-476218.aspx\">830/QĐ-TTg</a>  ngày 01/6/2021 của Thủ tướng Chính phủ về phê duyệt Chương trình “Bảo\nvệ và hỗ trợ trẻ em tương tác lành mạnh, sáng tạo trên môi trường mạng giai đoạn\n2021 - 2025”: Tăng cường tổ chức, tham gia các hoạt động liên quan đến bảo vệ\nvà hỗ trợ trẻ em tương tác lành mạnh, sáng tạo trên môi trường mạng; nâng cao\nnhận thức và từng bước trang bị kỹ năng số cho trẻ em trên địa bàn, tổ chức các\nlớp dạy kiến thức, kỹ năng cho cha mẹ và trẻ em ngoài trường học trên địa bàn\ncó nhận thức và kỹ năng cơ bản tự bảo vệ mình trên môi trường mạng;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Giám sát, phát hiện và xử lý\nhoặc phối hợp với các cơ quan chức năng có thẩm quyền xử lý tin giả, thông tin\nvi phạm pháp luật trên không gian mạng thuộc phạm vi quản lý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>7. Phát triển\nnguồn nhân lực</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng các kế hoạch, chương\ntrình đào tạo kỹ năng số cho CBCCVC.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với các cơ quan, đơn\nvị liên quan tổ chức các lớp đào tạo, bồi dưỡng cho CBCCVC về bồi dưỡng kiến thức\nvề chuyển đổi số, bồi dưỡng quản trị mạng nội bộ và bảo mật, an toàn, an ninh\nthông tin, quản trị Cổng/Trang thông tin điện tử, kỹ năng phân tích và xử lý dữ\nliệu, kiến trúc chính quyền điện tử.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổ chức hội nghị, hội thảo về\nchuyển đổi số, xây dựng chính quyền số, kinh tế số, xã hội số, an toàn thông\ntin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_4_1\"><b>IV. GIẢI\nPHÁP</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_3\"><b>1. Đẩy mạnh\ncông tác truyền thông, nâng cao nhận thức, kỹ năng số, tăng cường tương tác với\nngười dân, doanh nghiệp</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đẩy mạnh công tác truyền\nthông về vị trí, vai trò, tầm quan trọng của chuyển đổi số, xây dựng chính quyền\nsố, kinh tế số, xã hội số trong CBCCVC và nhân dân trên địa bàn tỉnh. Thực hiện\nnhiều hình thức thông tin tuyên truyền như: Xây dựng chuyên trang, chuyên mục,\nphóng sự, tọa đàm, hội thảo, các chương trình truyền hình, các giải pháp truyền\nthông hiện đại để tuyên truyền rộng rãi về các kế hoạch, hoạt động ứng dụng và\nphát triển CNTT của tỉnh; nâng cao nhận thức, thay đổi thói quen hành vi, tạo sự\nđồng thuận của người dân, doanh nghiệp về chuyển đổi số, xây dựng chính quyền số,\nkinh tế số, xã hội số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Ứng dụng các kênh truyền\nthông đa dạng để nâng cao nhận thức, hình thành văn hóa số cho người dân, tạo\nđiều kiện tiếp cận các dịch vụ Chính phủ số; đưa nội dung đào tạo kỹ năng số\nvào chương trình giảng dạy từ cấp tiểu học; xây dựng/ứng dụng các nền tảng đào\ntạo kỹ năng số cho người dân; xây dựng/ứng dụng các nền tảng, kênh tương tác trực\ntuyến giữa cơ quan nhà nước và người dân, doanh nghiệp; phổ cập điện thoại\nthông minh đến mọi người dân.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_3\"><b>2. Phát\ntriển các mô hình kết hợp giữa các cơ quan nhà nước, doanh nghiệp</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp doanh nghiệp bưu\nchính công ích cung cấp dịch vụ công (thông qua mạng bưu chính công cộng, mạng\nxã hội, ứng dụng của doanh nghiệp); tạo điều kiện, hỗ trợ doanh nghiệp giới thiệu,\ncung cấp sản phẩm, dịch vụ số;…</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện gắn kết chặt chẽ giữa\ncải cách TTHC với phát triển Chính quyền số; rà soát các TTHC, quy trình nghiệp\nvụ trong các cơ quan nhà nước theo hướng đơn giản hóa hoặc thay đổi phù hợp để\ncó thể ứng dụng hiệu quả công nghệ số; rà soát loại bỏ một số thủ tục hành\nchính, quy trình nghiệp vụ khi ứng dụng công nghệ số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chuẩn hóa kiến thức cho cán bộ\nchuyên trách CNTT các cơ quan nhà nước theo khung chương trình bồi dưỡng về ứng\ndụng CNTT và an toàn thông tin cho cán bộ chuyên trách, kiêm nhiệm về CNTT do Bộ\nThông tin và Truyền thông hướng dẫn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tăng cường phối hợp với các Tập\nđoàn CNTT lớn đào tạo, bồi dưỡng kỹ năng nâng cao, chuyên sâu về CNTT cho cán bộ,\ncông chức, viên chức của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3_1\"><b>3. Nghiên\ncứu, hợp tác để làm chủ, ứng dụng hiệu quả các công nghệ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Triển khai nghiên cứu khoa học,\nphát triển công nghệ mới, các giải pháp tích hợp, ứng dụng, sản phẩm CNTT phục\nvụ xây dựng Chính quyền số, nền kinh tế số, xã hội số, từng bước xây dựng đô thị\nthông minh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tăng cường hợp tác, chia sẻ\nkinh nghiệm với một số tỉnh, thành phố về cơ chế, chính sách phát triển chính\nquyền số. Chủ động hợp tác với các Tập đoàn viễn thông và CNTT để triển khai hạ\ntầng kỹ thuật, ứng dụng và phát triển công nghệ hiện đại.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4_1\"><b>4. Thu hút\nnguồn lực CNTT</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Ưu tiên sử dụng nguồn vốn\nngân sách nhà nước và huy động các nguồn vốn hợp pháp khác nhằm đa dạng hóa nguồn\nlực để phát triển Chính quyền số; tăng cường thực hiện giải pháp thuê dịch vụ\ncông nghệ thông tin</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Ưu tiên bố trí đầu tư công để\nthực hiện các dự án phát triển hạ tầng, trung tâm dữ liệu, cơ sở dữ liệu, nền tảng,\ncác ứng dụng, dịch vụ của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đẩy mạnh xúc tiến đầu tư, thu\nhút đầu tư từ các doanh nghiệp để phát triển cơ sở hạ tầng CNTT và truyền\nthông.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Khuyến khích các doanh nghiệp\nđầu tư cho ứng dụng CNTT để nâng cao năng lực cạnh tranh, đổi mới phương thức\nquản lý, nâng cao năng suất và chất lượng sản phẩm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_5_1\"><b>V. KINH\nPHÍ THỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Kinh phí thực hiện từ nguồn\nngân sách nhà nước theo phân cấp nhiệm vụ chi hiện hành và các nguồn hợp pháp\nkhác. Dự kiến tổng kinh phí thực hiện Kế hoạch là: 216,3 tỷ đồng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Các cơ quan, đơn vị, địa\nphương có trách nhiệm bố trí kinh phí thực hiện các nhiệm vụ trong dự toán ngân\nsách hàng năm được cấp có thẩm quyền giao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Khuyến khích việc huy động\ncác nguồn kinh phí ngoài ngân sách theo quy định của pháp luật để triển khai thực\nhiện Kế hoạch.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_6_1\"><b>VI. DANH MỤC\nNHIỆM VỤ, DỰ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Danh mục các nhiệm vụ, dự án của\ncác cơ quan nhà nước năm 2022: chi tiết tại Phụ lục III gửi kèm theo.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_7_1\"><b>VII. TỔ CHỨC\nTHỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_4\"><b>1. Sở\nThông tin và Truyền thông</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì tổ chức, triển khai\nvà theo dõi, đôn đốc thực hiện Kế hoạch.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tham mưu tăng cường hoạt động\ncủa Ban Chỉ đạo về chuyển đổi số của tỉnh và các huyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hướng dẫn, thẩm định, giám\nsát và hỗ trợ các đơn vị triển khai đầu tư ứng dụng CNTT trên địa bàn tỉnh đảm\nbảo phù hợp với Khung kiến trúc chính quyền điện tử của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Theo dõi hướng dẫn, kiểm tra,\ntổng hợp báo cáo kết quả thực hiện Kế hoạch của các đơn vị trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với Sở Kế hoạch và Đầu\ntư, Sở Tài chính bảo đảm các dự án, nhiệm vụ phát triển chính quyền số được triển\nkhai đúng trình tự, thủ tục theo quy định của pháp luật; xây dựng dự toán kinh\nphí, cân đối và bố trí ngân sách hàng năm trình cấp có thẩm quyền xem xét, phê\nduyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với Sở Nội vụ tổ chức\nđào tạo, tập huấn về Chính quyền số, Khung kiến trúc Chính quyền điện tử/Chính\nquyền số và bảo đảm an toàn, an ninh mạng; Tổ chức bồi dưỡng kiến thức, kỹ năng\nsố, kỹ năng phân tích và xử lý dữ liệu cho cán bộ, công chức, viên chức.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_4\"><b>2. Văn\nphòng UBND tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với Sở Nội\nvụ, Sở Thông tin và Truyền thông hướng dẫn các Sở, ban, ngành, địa phương thực\nhiện chuẩn hóa, tái cấu trúc quy trình nghiệp vụ, cải cách TTHC, cải cách chế độ\nbáo cáo trong các cơ quan hành chính nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với Sở Thông tin và\nTruyền thông trong việc tổ chức kiểm tra tình hình, đôn đốc thực hiện Kế hoạch\nnày.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3_2\"><b>3. Sở Kế\nhoạch và Đầu tư:</b></a><b> </b>chủ trì, phối hợp với Sở Thông tin và Truyền\nthông, Sở Tài chính tham mưu cho UBND tỉnh bố trí kinh phí để thực hiện các nhiệm\nvụ, dự án Chính quyền số nêu tại Kế hoạch này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4_2\"><b>4. Sở Tài\nchính:</b></a><b> </b>chủ trì, phối hợp với Sở Thông tin và Truyền thông, Sở Kế\nhoạch và Đầu tư tham mưu cho UBND tỉnh bố trí kinh phí sự nghiệp thông tin và\ntruyền thông, sự nghiệp CNTT hàng năm bảo đảm thực hiện có hiệu quả Kế hoạch\nnày.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5_1\"><b>5. Sở Nội\nvụ</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với các cơ\nquan liên quan hướng dẫn các Sở, ban, ngành, địa phương thực hiện cải cách hành\nchính.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với Sở\nThông tin và Truyền thông sửa đổi, bổ sung Bộ chỉ số cải cách hành chính theo\nhướng gắn kết chặt chẽ phát triển Chính quyền số với hoạt động cải cách hành\nchính, Chính quyền số trở thành công cụ đắc lực thúc đẩy cải cách hành chính\nnhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Hằng năm, phối hợp tổ chức\ncác lớp đào tạo, bồi dưỡng nâng cao nhận thức cho cán bộ lãnh đạo, cán bộ, công\nchức, viên chức cơ quan nhà nước các cấp về Chính quyền số, Khung kiến trúc\nChính quyền điện tử/Chính quyền số và bảo đảm an toàn, an ninh mạng; Tổ chức bồi\ndưỡng kiến thức, kỹ năng số, kỹ năng phân tích và xử lý dữ liệu cho cán bộ,\ncông chức, viên chức.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6_1\"><b>6. Sở\nKhoa học và Công nghệ:</b></a><b> </b>chủ trì, phối hợp với Sở Thông tin và\nTruyền thông trong việc tiếp cận cuộc cách mạng công nghiệp lần thứ 4; nghiên cứu,\nlựa chọn, đưa vào áp dụng thử nghiệm các giải pháp mới về CNTT phục vụ công tác\nquản lý, sản xuất và đời sống. Tham mưu bố trí nguồn vốn sự nghiệp khoa học\ncông nghệ để thực hiện các đề tài, dự án phát triển Chính quyền số của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_7_1\"><b>7. Các sở,\nban, ngành và UBND các huyện, thành phố</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thủ trưởng các sở, ban,\nngành, Chủ tịch UBND các huyện, thành phố tập trung triển khai thực hiện các mục\ntiêu, nhiệm vụ cụ thể trong Kế hoạch này và Kế hoạch của đơn vị đã được ban\nhành; chịu trách nhiệm cá nhân trước Chủ tịch UBND tỉnh về kết quả phát triển\nchính quyền số và bảo đảm an toàn thông tin mạng năm 2022 của cơ quan, đơn vị,\nđịa phương mình.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp chặt chẽ với Sở\nThông tin và Truyền thông và các cơ quan liên quan trong quá trình tổ chức thực\nhiện các chương trình, dự án đảm bảo tiết kiệm, chất lượng, hiệu quả, đúng quy\nđịnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Báo cáo kết quả thực hiện Kế\nhoạch này về Sở Thông tin và Truyền thông để tổng hợp báo cáo Chủ tịch UBND tỉnh\ntheo quy định./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMQAxADIANwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Bộ Thông tin và Truyền thông (b/c);<br>\n  - Thường trực Tỉnh uỷ;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - Chủ tịch, các Phó Chủ tịch UBND tỉnh;<br>\n  - Các sở, ban, ngành tỉnh;<br>\n  - UBND các huyện, thành phố;<br>\n  - C, PCVP UBND tỉnh,<br>\n  các Phòng: KGVX, THNC, TT TT-CB;<br>\n  - Lưu: VT, KGVX (NNK).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. CHỦ TỊCH <br>\n  PHÓ CHỦ TỊCH</b><br>\n  <b><br>\n  <br>\n  <br>\n  <br>\n  Dương Xuân Huyên</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<div>\n\n<p><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,&quot;serif&quot;\"><br clear=\"all\">\n</span></p>\n\n<div>\n\n<div><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,&quot;serif&quot;\">\n\n<hr size=\"1\" width=\"33%\" align=\"left\">\n\n</span></div>\n\n</div>\n\n<div id=\"ftn1\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref1\" title=\"\">[1]</a> Kế hoạch số\n<a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 198/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-198-kh-ubnd-2020-ung-dung-cong-nghe-trong-co-quan-nha-nuoc-lang-son-473972.aspx\">198/KH-UBND</a>  ngày 18/12/2020 của UBND tỉnh về Ứng dụng công nghệ thông tin\n(CNTT) trong hoạt động của cơ quan nhà nước, phát triển Chính quyền số và bảo đảm\nan toàn thông tin mạng năm 2021; Kế hoạch <a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 103/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-103-kh-ubnd-2021-cung-cap-100-dich-vu-cong-len-truc-tuyen-muc-do-4-lang-son-473763.aspx\">103/KH-UBND</a>  ngày 06/5/2021 của UBND tỉnh\ntriển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4; Kế\nhoạch số 150/KH-UBND ngày 02/7/2021 của UBND tỉnh triển khai thí điểm chuyển đổi\nsố tổng thể và toàn diện cửa khẩu Hữu Nghị, Tân Thanh; Kế hoạch số 158/KH-UBND\nngày 16/7/2021 của UBND tỉnh triển khai thí điểm Trung tâm thông tin chỉ đạo,\nđiều hành tại UBND tỉnh; Quyết định số 392/QĐ- UBND ngày 26/01/2021 của UBND tỉnh\nphê duyệt cập nhật Kiến trúc Chính quyền điện tử tỉnh Lạng Sơn, phiên bản 2.0;\nQuyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1333/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1333-qd-ubnd-2021-ban-hanh-danh-muc-co-so-du-lieu-dung-chung-tinh-lang-son-481150.aspx\">1333/QĐ-UBND</a>  ngày 06/7/2021 của UBND tỉnh ban hành danh mục cơ sở\ndữ liệu dùng chung tỉnh Lạng Sơn; Quyết định số 2041/QĐ-UBND ngày 13/10/2021 của\nUBND tỉnh về kiện toàn và đổi tên Ban Chỉ đạo xây dựng Chính quyền điện tử tỉnh\nLạng Sơn.</p>\n\n</div>\n\n<div id=\"ftn2\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref2\" title=\"\">[2]</a> Số liệu thống\nkê tại thời điểm báo cáo.</p>\n\n</div>\n\n<div id=\"ftn3\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref3\" title=\"\">[3]</a> Theo Kế hoạch\nsố 158/KH-UBND ngày 16/7/2021 của UBND tỉnh triển khai thí điểm Trung tâm thông\ntin chỉ đạo, điều hành tại UBND tỉnh.</p>\n\n</div>\n\n<div id=\"ftn4\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref4\" title=\"\">[4]</a> Theo thống kê\ntừ ngày 24/5/2021 đến 12/10/2021, có 255.955 lượt truy cập trên bản đồ số\nCovidmaps.</p>\n\n</div>\n\n<div id=\"ftn5\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref5\" title=\"\">[5]</a> Kế hoạch số\n<a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 198/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-198-kh-ubnd-2020-ung-dung-cong-nghe-trong-co-quan-nha-nuoc-lang-son-473972.aspx\">198/KH-UBND</a>  ngày 18/12/2020 của UBND tỉnh.</p>\n\n</div>\n\n<div id=\"ftn6\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref6\" title=\"\">[6]</a> Quyết định số\n1456/QĐ-UBND ngày 03/10/2013 của UBND tỉnh.</p>\n\n</div>\n\n<div id=\"ftn7\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref7\" title=\"\">[7]</a> Quyết định số\n292/QĐ-UBND ngày 02/02/2018 của UBND tỉnh về việc kiện toàn thành viên Đội ứng\ncứu xử lý sự cố an toàn thông tin mạng tỉnh.</p>\n\n</div>\n\n<div id=\"ftn8\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref8\" title=\"\">[8]</a> Kế hoạch số\n450/KH-ĐƯCXLSC ngày 10/3/2021 của Đội Ứng cứu xử lý sự cố an toàn thông tin mạng\nvề Hoạt động Đội Ứng cứu xử lý sự cố an toàn thông tin mạng tỉnh Lạng Sơn năm\n2021.</p>\n\n</div>\n\n<div id=\"ftn9\">\n\n<p style=\"margin-top:6.0pt\"><a href=\"#_ftnref9\" title=\"\">[9]</a> Sở Thông tin\nvà Truyền thông đang thực hiện mua sắm bổ sung 2.635 license bản quyền phần mềm\ncài đặt cho máy tính để bàn của các cơ quan, đơn vị trên địa bàn tỉnh.</p>\n\n</div>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH LẠNG SƠN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 206/KH-UBND\n\n_Lạng Sơn, ngày 20 tháng 10 năm 2021_\n\n**KẾ HOẠCH**\n\nPHÁT TRIỂN CHÍNH QUYỀN SỐ VÀ BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG NĂM 2022\n\nThực hiện Công văn số 3570/BTTTT-THH ngày 16/9/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn các bộ, ngành, địa phương xây dựng Kế hoạch phát triển Chính phủ số, Chính quyền số và bảo đảm an toàn thông tin mạng năm 2022, UBND tỉnh Lạng Sơn xây dựng Kế hoạch phát triển Chính quyền số và bảo đảm an toàn thông tin mạng năm 2022 như sau:\n\n**Phần I**\n\n**ĐÁNH GIÁ KẾT QUẢ THỰC HIỆN KẾ HOẠCH NĂM 2021**\n\n**I. CĂN CỨ PHÁP LÝ**\n\nBan Thường vụ Tỉnh ủy ban hành Nghị quyết số 49-NQ/TU ngày 28/9/2021 về chuyển đổi số tỉnh Lạng Sơn đến năm 2025, định hướng đến năm 2030.\n\nUBND tỉnh đã ban hành các chương trình, kế hoạch, quyết định để triển khai thực hiện nhiệm vụ xây dựng Chính quyền điện tử, chuyển đổi số trên địa bàn tỉnh theo chỉ đạo và hướng dẫn của Bộ Thông tin và Truyền thông[\\[1\\]](#_ftn1).\n\n**II. HẠ TẦNG KỸ THUẬT**\n\nHạ tầng viễn thông của tỉnh kết nối thông suốt đến các huyện, thành phố và các xã, phường, thị trấn, bảo đảm thực hiện tốt công tác chỉ đạo, điều hành của các cơ quan Đảng, Nhà nước; cơ bản đáp ứng nhu cầu ứng dụng sử dụng dịch vụ của người dân, doanh nghiệp. Toàn tỉnh có 2.818 trạm BTS phát sóng di động 2G/3G/4G, 100% xã, phường, thị trấn có cáp quang đến và cung cấp dịch vụ Internet băng rộng.\n\nHạ tầng kỹ thuật CNTT trong các cơ quan nhà nước từ cấp tỉnh đến cấp xã đáp ứng yêu cầu, 100% các cơ quan, đơn vị kết nối internet tốc độ cao và có hệ thống mạng LAN; tỷ lệ máy tính/cán bộ, công chức các cơ quan, đơn vị khối hành chính đạt 99%. Trong đó, cấp tỉnh và cấp huyện đạt 100%; cấp xã đạt 97%.\n\n100% các cơ quan, đơn vị được triển khai, kết nối vào mạng truyền số liệu chuyên dùng để ứng dụng cho hoạt động của Hệ thống hội nghị truyền hình trực tuyến.\n\nTrung tâm tích hợp dữ liệu của tỉnh được đầu tư nâng cấp và duy trì hoạt động ổn định, thường xuyên phục vụ quản lý hệ thống thư điện tử công vụ; phần mềm quản lý hồ sơ cán bộ, công chức, viên chức; phần mềm chuẩn hóa, tạo lập, chuyển đổi cơ sở dữ liệu (CSDL) hồ sơ thủ tục hành chính (TTHC); hệ thống giám sát an toàn mạng thông tin, trang thông tin điện tử của tỉnh, hệ thống hội nghị truyền hình trực tuyến, lưu trữ dữ liệu dịch vụ công trực tuyến (DVCTT) và một cửa điện tử của tỉnh, hệ thống phần mềm lưu trữ tài liệu lịch sử tỉnh, hệ thống phần mềm CSDL công chứng và một số ứng dụng dùng chung, ứng dụng chuyên ngành khác.\n\n**III. CÁC HỆ THỐNG NỀN TẢNG**\n\n\\- Duy trì nền tảng tích hợp, chia sẻ dữ liệu cấp tỉnh (LGSP) và kết nối LGSP với các cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, cơ sở dữ liệu quốc gia về văn bản quy phạm pháp luật, cơ sở dữ liệu quốc gia về bảo hiểm, Hệ thống cấp mã số đơn vị có quan hệ với ngân sách, Hệ thống thông tin quản lý danh mục điện tử dùng chung của các cơ quan nhà nước phục vụ phát triển Chính phủ điện tử Việt Nam, Hệ thống của Tổng Công ty Bưu điện Việt Nam (VNPOST), cơ sở dữ liệu quốc gia về dân cư với Cổng dịch vụ công của tỉnh.\n\n\\- Triển khai Hệ thống thông tin báo cáo của tỉnh kết nối với Hệ thống thông tin báo cáo Chính phủ, đảm bảo thực hiện chế độ báo cáo của cơ quan hành chính nhà nước theo quy định tại Nghị định số [09/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-09-2019-nd-cp-quy-dinh-ve-che-do-bao-cao-cua-co-quan-hanh-chinh-nha-nuoc-386322.aspx \"Nghị định 09/2019/NĐ-CP\") của Chính phủ và Quyết định số [01/2020/QĐ-UBND](/phap-luat/tim-van-ban.aspx?keyword=01/2020/QĐ-UBND&match=True&area=2&lan=1&bday=07/01/2020&eday=07/01/2020 \"01/2020/QĐ-UBND\") ngày 07/01/2020 của UBND tỉnh. Tỷ lệ báo cáo định kỳ (không bao gồm nội dung mật) được gửi nhận qua hệ thống đạt 100%.\n\n\\- Triển khai Cổng dữ liệu chuyển đổi số tỉnh Lạng Sơn (giai đoạn 1), là đầu mối cung cấp dữ liệu mở của cơ quan nhà nước phục vụ người dân và doanh nghiệp khai thác dữ liệu khi có nhu cầu, CSDL của cơ quan nhà nước được hình thành, chuẩn hóa, chuyển đổi, tích hợp lên hệ thống quản lý CSDL dùng chung để chia sẻ phục vụ cho công tác quản lý, chỉ đạo điều hành, phục vụ người dân và doanh nghiệp.\n\n\\- Triển khai thí điểm Nền tảng cửa khẩu số tại cửa khẩu quốc tế Hữu Nghị và cửa khẩu Tân Thanh, Nền tảng cửa khẩu số tự động hóa quy trình, giảm thời gian cho doanh nghiệp thông quan, tạo kênh thông tin kết nối đa chiều giữa cơ quan nhà nước và doanh nghiệp xuất nhập khẩu, công khai, minh bạch trong hoạt động quản lý tại cửa khẩu, phục vụ công tác chỉ đạo, điều hành của các cấp lãnh đạo, cải cách hành chính phục vụ người dân và doanh nghiệp xuất nhập khẩu. Hiện nay đã thi công, lắp đặt hệ thống camera AI tại cửa khẩu, kết nối với hệ thống camera trên quốc lộ 1A để giám sát mật độ, lưu lượng xe đến cửa khẩu phục vụ cho việc điều tiết, phân luồng, tránh ùn tắc giao thông, tổ chức tập huấn 02 lớp hướng dẫn sử dụng cho các cơ quan, đơn vị tại khu vực cửa khẩu (vào ngày 04/10/2021), Nền tảng cửa khẩu số chính thức hoạt động trong tháng 10/2021. Lạng Sơn là tỉnh đầu tiên trong cả nước ứng dụng công nghệ số trong quản lý tổng thể và toàn diện hoạt động cửa khẩu.\n\n\\- Triển khai hỗ trợ 100% bệnh viện tuyến huyện có hệ thống hội chuẩn từ xa (Telehealth-Viettel) do Tập đoàn Viettel hỗ trợ, giúp người dân được sử dụng dịch vụ y tế chất lượng của tuyến trên ngay tại cơ sở y tế tuyến dưới, góp phần giảm tải của bệnh viện tuyến trên, nâng cao hiệu quả phòng, chống dịch COVID-19; triển khai Nền tảng quản lý tiêm chủng, kế hoạch tiêm, nhập dữ liệu, thông báo tin nhắn,...hoàn toàn thực hiện trên Nền tảng tiêm chủng, tỉnh Lạng Sơn luôn là một trong những tỉnh dẫn đầu cả nước về triển khai Nền tảng tiêm chủng, đã nhập dữ liệu được 558.6160 mũi tiêm, đạt 100%.\n\n**IV. PHÁT TRIỂN DỮ LIỆU**\n\nTừ năm 2018 đến nay, thực hiện việc số hóa hồ sơ, tài liệu lưu trữ của tỉnh theo Đề án đã được phê duyệt, từng bước hình thành CSDL số phục vụ công tác lưu trữ lịch sử và khai thác. Tổng số cơ sở dữ liệu lưu trữ được số hóa đến thời điểm hiện tại, với tổng số: 15 phông, 25.340 hồ sơ, 554.231 văn bản, 924.838 trang tài liệu số hóa.\n\nTriển khai cơ sở dữ liệu số hóa hồ sơ cán bộ, công chức, viên chức (CBCCVC) tỉnh. Giai đoạn 1 triển khai cho khối sở, ban, ngành và UBND cấp huyện được 7.394 hồ sơ CBCCVC; giai đoạn 2 đang triển khai khối cấp xã, đơn vị sự nghiệp giáo dục, y tế, theo lộ trình đến hết năm 2021 hoàn thành 100% CBCCVC được số hóa hồ sơ.\n\n\\- Kết nối cơ sở dữ liệu quốc gia về dân cư với Cổng dịch vụ công của tỉnh để khai thác cơ sở dữ liệu dân cư, giảm bớt thành phần hồ sơ TTHC phục vụ người dân và doanh nghiệp.\n\n**V. CÁC ỨNG DỤNG, DỊCH VỤ**\n\n**1\\. Ứng dụng, dịch vụ CNTT phục vụ hoạt động nội bộ các cơ quan nhà nước**\n\n\\- Hệ thống quản lý văn bản và điều hành triển khai đến 100% các cơ quan hành chính nhà nước cấp tỉnh, cấp huyện và cấp xã. Trong đó: cấp tỉnh có 20 đơn vị sử dụng, cấp huyện có 11 đơn vị sử dụng, cấp xã có 200 đơn vị sử dụng, tổng số có 15.630 người sử dụng, hệ thống cơ bản đáp ứng được yêu cầu xử lý công việc của CBCCVC. Tổng số văn bản điện tử trên toàn tỉnh từ tháng 01/2021đến hết tháng 9/2021 là 287.752/287.752 văn bản, đạt tỷ lệ 100% văn bản trao đổi giữa các cơ quan dưới dạng điện tử (trừ văn bản mật).\n\n\\- Hệ thống hội nghị truyền hình trực tuyến của tỉnh có 213 điểm cầu. Trong đó: cấp xã 200 điểm cầu, cấp huyện 11 điểm cầu, cấp tỉnh 02 điểm cầu.Hệ thống hoạt động hiệu quả, chất lượng âm thanh, hình ảnh cơ bản đáp ứng yêu cầu, tổ chức các cuộc họp nhanh, kịp thời, tiết kiệm thời gian và chi phí, trong 9 tháng đầu năm có 355 cuộc họp _(trong đó có 04 cuộc họp 4 cấp, 25 cuộc họp 3 cấp, 326 cuộc họp 2 cấp)_, do tình hình dịch bệnh COVID-19 diễn biến phức tạp nên hầu hết các cuộc họp thực hiện bằng hình thức trực tuyến.\n\n\\- Các tổ chức, cá nhân lãnh đạo trong các cơ quan nhà nước từ cấp tỉnh đến cấp xã được cấp chứng thư số, chữ ký số chuyên dùng Chính phủ để thực hiện ký số văn bản điện tử. Đến thời điểm hiện tại trên toàn tỉnh đã cấp 2.312 chữ ký số (trong đó có 734 chứng thư số tổ chức, 1.578 chứng thư số cá nhân), trong 9 tháng đầu năm đã cấp 113 chữ ký số tổ chức, 456 chữ ký số cá nhân. Các cơ quan, đơn vị đã ứng dụng hiệu quả chữ ký số được cấp, 100% văn bản điện tử gửi đi được ký số, phục vụ hiệu quả công tác chỉ đạo, điều hành, tiết kiệm chi phí, tạo được môi trường làm việc hiện đại.\n\n\\- Hệ thống thư điện tử công vụ được duy trì hoạt động ổn định, 100% CBCCVC trong các cơ quan hành chính nhà nước đều được cấp hộp thư điện tử công vụ trong trao đổi công việc, số tài khoản thư điện tử đã cấp là 31.619 tài khoản. Tỷ lệ CBCCVC sử dụng thư điện tử công vụ đạt 65%.\n\n**2\\. Ứng dụng, dịch vụ CNTT phục vụ người dân và doanh nghiệp**\n\n\\- Triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trên Cổng dịch vụ công của tỉnh với 1.007 DVCTT mức độ 4 ( hoàn thành ngày 06/6/2021, trước thời hạn 7 tháng) theo yêu cầu của Bộ Thông tin và Truyền thông tại Công văn số [1145/BTTTT-THH](https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-1145-btttt-thh-2021-cung-cap-100-dich-vu-cong-du-dieu-kien-len-truc-tuyen-muc-do-4-473841.aspx \"Công văn 1145/BTTTT-THH\") ngày 19/4/2021, Lạng Sơn là một trong 3 tỉnh, thành phố trong cả nước hoàn thành cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4. Cổng dịch vụ công có 228 cơ quan, đơn vị từ cấp tỉnh đến cấp xã sử dụng, trong đó có 17 sở, ngành; 11 huyện, thành phố; 200 xã, phường, thị trấn, cung cấp cung cấp **1.784** DVCTT (trong đó có **448** DVCTT mức độ 2; **329** DVCTT mức độ 3 và **1007** DVCTT mức độ 4[\\[2\\]](#_ftn2)). Tỷ lệ DVCTT mức độ 3, 4 trên tổng số TTHC đạt 75%, trong đó mức độ 3 là 18,4%; mức độ 4 là 56,5% _(Vượt chỉ tiêu 26,5% theo chỉ tiêu Nghị quyết [17/NQ-CP](/phap-luat/tim-van-ban.aspx?keyword=17/NQ-CP&match=True&area=2&lan=1 \"17/NQ-CP\") đề ra là 30%)_\n\n\\- Triển khai tích hợp Trung tâm giám sát, điều hành đô thị thông minh thành phố Lạng Sơn và Trung tâm thông tin chỉ đạo, điều hành của UBND tỉnh thống nhất thành một hệ thống dùng chung với đầy đủ 10 modul chức năng[\\[3\\]](#_ftn3), kết nối các nền tảng ứng dụng hiện có, tổng hợp, phân tích, khai thác dữ liệu theo thời gian thực phục vụ công tác lãnh đạo, chỉ đạo của Chủ tịch UBND tỉnh và UBND tỉnh, dự kiến chính thức hoạt động vào cuối tháng 10/2021.\n\n\\- Thí điểm triển khai Trợ lý ảo (Chatbot) để hỗ trợ cho mỗi CBCCVC xử lý công việc hàng ngày, giao tiếp bằng ngôn ngữ tự nhiên, trợ lý ảo sẽ giúp cho CBCCVC làm việc tốt hơn, hiệu quả hơn, khi cần tham mưu văn bản Trợ lý ảo sẽ hỗ trợ đưa ra các quy phạm pháp luật, văn bản chỉ đạo điều hành, hướng dẫn CBCCVC thực hiện; Trợ lý ảo (Chatbot) cho người dân và doanh nghiệp thực hiện TTHC, Trợ lý ảo hướng dẫn, hỗ trợ người dân và doanh nghiệp nộp hồ sơ trực tuyến, dự kiến sẽ chính thức hoạt động từ 01/12/2021.\n\n\\- Cổng thông tin điện tử (TTĐT) của tỉnh tại địa chỉ http://langson.gov.vn gồm 01 Cổng chính và 126 Trang TTĐT thành viên (21 sở, ban, ngành; 11 UBND cấp huyện; 15 cơ quan, đơn vị khác và 79 xã, phường, thị trấn). Cổng TTĐT cung cấp, cập nhật thông tin theo đúng quy định tại Nghị định số [43/2011/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-43-2011-nd-cp-cung-cap-thong-tin-va-dich-vu-cong-truc-tuyen-125408.aspx \"Nghị định 43/2011/NĐ-CP\") ngày 13/6/2011 của Chính phủ, thường xuyên cập nhật tin, bài, văn bản chỉ đạo điều hành _(hàng tháng trên 200 tin, bài và 1000 văn bản được đăng tải trên Cổng TTĐT của tỉnh_)\n\n\\- Triển khai bản đồ số Covidmaps[\\[4\\]](#_ftn4) tỉnh Lạng Sơn giúp người dân nắm được thông tin như danh sách bệnh nhân đã bị nhiễm COVID-19 và các trường hợp F1; lộ trình bệnh nhân nhiễm COVID-19 đã từng đến; khu vực sinh sống và địa điểm tiếp xúc của bệnh nhân nhiễm COVID-19 trong vòng 14 ngày; địa điểm cách ly tập trung trên địa bàn tỉnh; các chốt kiểm dịch trên địa bàn tỉnh; các khu vực phong tỏa; khu vực cách ly y tế,... Bên cạnh đó, bản đồ cũng giúp các cấp ủy đảng, chính quyền trên địa bàn tỉnh có thêm giải pháp công nghệ số phục vụ quản lý, điều hành trong phòng, chống dịch bệnh COVID-19.\n\n**VI. NGUỒN NHÂN LỰC**\n\nToàn tỉnh hiện có 73 CBCCVC chuyên trách, kiêm nhiệm trong lĩnh vực CNTT tại các cơ quan nhà nước, trong đó trình độ tiến sĩ 01, thạc sĩ 04 người, trình độ đại học 64 người, trình độ cao đẳng 04 người. Số cán bộ chuyên trách, kiêm nhiệm về CNTT tại các cơ quan chuyên môn cấp tỉnh là 51 người, cấp huyện là 22 người.\n\n**VII. AN TOÀN THÔNG TIN**\n\nUBND tỉnh ban hành Kế hoạch Ứng dụng CNTT trong hoạt động của cơ quan nhà nước, phát triển chính quyền số và bảo đảm an toàn thông tin mạng năm 2021[\\[5\\]](#_ftn5); Quy chế đảm bảo an toàn, an ninh thông tin trong hoạt động ứng dụng CNTT trong các cơ quan quản lý nhà nước trên địa bàn tỉnh Lạng Sơn[\\[6\\]](#_ftn6). UBND tỉnh thành lập Đội ứng cứu, xử lý sự cố an toàn thông tin mạng tỉnh Lạng Sơn[\\[7\\]](#_ftn7), trên cơ sở đó, Đội Ứng cứu, xử lý sự cố máy tính đã ban hành Quy chế hoạt động của Đội ứng cứu, xử lý sự cố an toàn thông tin mạng, đồng thời ban hành kế hoạch hoạt động Đội ứng cứu, xử lý sự an toàn thông tin mạng tỉnh Lạng Sơn năm 2021[\\[8\\]](#_ftn8). Thường xuyên chỉ đạo bảo đảm ATTT theo hướng dẫn của Bộ Thông tin và Truyền thông, ban hành các văn bản chỉ đạo điều hành, phổ biến, hướng dẫn, cảnh báo các cơ quan về ATTT.\n\nTriển khai đảm bảo an toàn thông tin theo mô hình 4 lớp (lực lượng tại chỗ, giám sát chuyên nghiệp, độc lập kiểm tra, kết nối với hệ thống giám sát quốc gia). 100% máy tính của CBCCVC được cài đặt phần mềm diệt virus[\\[9\\]](#_ftn9), hàng tuần tổng hợp số liệu, báo cáo về tình hình lây nhiễm mã độc gửi các cơ quan, đơn vị để nắm tình hình và phòng, chống mã độc.\n\nCử cán bộ tham gia các lớp tập huấn an toàn thông tin, tham gia diễn tập quốc tế ASEAN-Nhật Bản năm 2021 và tham gia diễn tập quốc tế ACID năm 2021 do Bộ Thông tin và Truyền thông, Cục An toàn thông tin tổ chức.\n\n**VIII. KINH PHÍ THỰC HIỆN**\n\n\\- Kinh phí bố trí cho các nhiệm vụ, dự án ứng dụng CNTT của các cơ quan nhà nước năm 2021 là 60.417 triệu đồng (chi tiết tại Phụ lục I gửi kèm theo).\n\n\\- Kinh phí bố trí cho các nhiệm vụ, dự án về an toàn thông tin mạng năm 2021 là 1.895 triệu đồng (chi tiết tại phụ lục II gửi kèm theo).\n\n**Phần II**\n\n**NỘI DUNG KẾ HOẠCH**\n\n**I. CĂN CỨ LẬP KẾ HOẠCH**\n\n\\- Luật Công nghệ thông tin;\n\n\\- Luật An toàn thông tin mạng;\n\n\\- Nghị quyết số 52-NQ/TW ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động tham gia cuộc cách mạng công nghiệp lần thứ tư;\n\n\\- Nghị định số [85/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-85-2016-nd-cp-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx \"Nghị định 85/2016/NĐ-CP\") ngày 01/7/2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;\n\n\\- Nghị quyết số [50/NQ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-50-nq-cp-2020-chuong-trinh-hanh-dong-thuc-hien-nghi-quyet-52-nq-tw-440366.aspx \"Nghị quyết 50/NQ-CP\") ngày 17/4/2020 của Chính phủ ban hành Chương trình hành động thực hiện Nghị quyết số 52-NQ/TW;\n\n\\- Quyết định số [05/2017/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-05-2017-qd-ttg-he-thong-phuong-an-ung-cuu-khan-cap-bao-dam-an-toan-thong-tin-mang-quoc-gia-343011.aspx \"Quyết định 05/2017/QĐ-TTg\") ngày 16/3/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp, bảo đảm an toàn thông tin mạng quốc gia;\n\n\\- Quyết định số [632/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-632-qd-ttg-2017-linh-vuc-quan-trong-uu-tien-bao-dam-an-toan-thong-tin-mang-348824.aspx \"Quyết định 632/QĐ-TTg\") ngày 10/5/2017 của Thủ tướng Chính phủ ban hành Danh mục lĩnh vực quan trọng cần ưu tiên bảo đảm an toàn thông tin mạng và hệ thống thông tin quan trọng quốc gia;\n\n\\- Quyết định số [1622/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1622-qd-ttg-2017-day-manh-hoat-dong-mang-luoi-ung-cuu-su-co-an-toan-thong-tin-mang-365324.aspx \"Quyết định 1622/QĐ-TTg\") ngày 25/10/2017 của Thủ tướng Chính phủ về việc đẩy mạnh hoạt động của mạng lưới ứng cứu sự cố, tăng cường năng lực cho các cán bộ, bộ phận chuyên trách ứng cứu sự cố mạng trên toàn quốc đến năm 2020, định hướng đến 2025;\n\n\\- Quyết định số [1017/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1017-qd-ttg-2018-giam-sat-an-toan-thong-tin-mang-he-thong-dich-vu-cong-nghe-thong-tin-390846.aspx \"Quyết định 1017/QĐ-TTg\") ngày 14/8/2018 của Thủ tướng Chính phủ phê duyệt Đề án “Giám sát an toàn thông tin mạng đối với hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử đến năm 2020, định hướng đến 2025”;\n\n\\- Quyết định số [749/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-749-qd-ttg-2020-phe-duyet-chuong-trinh-chuyen-doi-so-quoc-gia-444136.aspx \"Quyết định 749/QĐ-TTg\") ngày 03/6/2020 của Thủ tướng Chính phủ phê duyệt Chương trình chuyển đổi số quốc gia đến năm 2025, định hướng năm 2030;\n\n\\- Quyết định số [942/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-942-qd-ttg-2021-chien-luoc-phat-trien-chinh-phu-dien-tu-huong-toi-chinh-phu-so-477851.aspx \"Quyết định 942/QĐ-TTg\") ngày 15/6/2021 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển Chính phủ điện tử hướng tới Chính phủ số giai đoạn 2021-2025, định hướng đến năm 2030;\n\n\\- Quyết định số [21/QĐ-TTg](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/quyet-dinh-21-qd-ttg-2021-de-an-dao-tao-phat-trien-nguon-nhan-luc-an-toan-thong-tin-2021-2025-461722.aspx \"Quyết định 21/QĐ-TTg\") ngày 06/01/2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025”;\n\n\\- Chỉ thị số [14/CT-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/chi-thi-14-ct-ttg-2019-bao-dam-an-toan-an-ninh-mang-cai-thien-chi-so-xep-hang-cua-viet-nam-416078.aspx \"Chỉ thị 14/CT-TTg\") ngày 07/6/2019 của Thủ tướng Chính phủ về việc tăng cường bảo đảm an toàn, an ninh mạng nhằm cải thiện chỉ số xếp hạng của Việt Nam;\n\n\\- Quyết định số 2323/BTTTT-THH ngày 31/12/2019 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Khung Kiến trúc Chính phủ điện tử Việt Nam, phiên bản 2.0; Kiến trúc Chính phủ điện tử/Kiến trúc Chính quyền điện tử của bộ/tỉnh;\n\n\\- Nghị quyết số 49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng Sơn đến năm 2025, định hướng đến năm 2030;\n\n\\- Chỉ thị số 26-CT/TU ngày 17/02/2020 của Ban Thường vụ Tỉnh ủy về tăng cường sự lãnh đạo của các cấp ủy đảng đối với nhiệm vụ xây dựng Chính quyền điện tử trên địa bàn tỉnh Lạng Sơn, giai đoạn 2020 - 2025;\n\n\\- Chương trình hành động số 153-CTr/TU ngày 21/7/2020 của Ban Thường vụ Tỉnh ủy thực hiện Nghị quyết số 52-NQ/TƯ, ngày 27/9/2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư;\n\n\\- Kế hoạch hành động số [106/KH-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-106-kh-ubnd-2019-thuc-hien-nghi-quyet-phat-trien-chinh-phu-dien-tu-tinh-lang-son-440087.aspx \"Văn bản khác 106/KH-UBND\") ngày 06/6/2019 của UBND tỉnh thực hiện Nghị quyết số [17/NQ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-quyet-17-nq-cp-2019-nhiem-vu-giai-phap-trong-tam-phat-trien-chinh-phu-dien-tu-408619.aspx \"Nghị quyết 17/NQ-CP\") ngày 07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019 - 2020, định hướng đến năm 2025;\n\n\\- Quyết định số 1063/QĐ-UBND ngày 07/6/2019 của UBND tỉnh phê duyệt Đề án xây dựng Chính quyền điện tử tỉnh Lạng Sơn giai đoạn 2019 - 2025;\n\n\\- Kế hoạch số [154/KH-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-154-kh-ubnd-2020-thuc-hien-nghi-dinh-47-2020-nd-cp-tinh-lang-son-474702.aspx \"Văn bản khác 154/KH-UBND\") ngày 10/9/2020 của UBND tỉnh về triển khai thực hiện Nghị định số [47/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-47-2020-nd-cp-quan-ly-ket-noi-va-chia-se-du-lieu-so-cua-co-quan-nha-nuoc-439384.aspx \"Nghị định 47/2020/NĐ-CP\") ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước trên địa bàn tỉnh Lạng Sơn;\n\n\\- Kế hoạch số [195/KH-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-195-kh-ubnd-2020-ung-dung-cong-nghe-thong-tin-trong-hoat-dong-cua-co-quan-lang-son-473971.aspx \"Văn bản khác 195/KH-UBND\") ngày 08/12/2020 của UBND tỉnh về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước, phát triển Chính quyền số và bảo đảm an toàn thông tin mạng giai đoạn 2021 - 2025;\n\n\\- Quyết định số 392/QĐ-UBND ngày 26/01/2021 của UBND tỉnh phê duyệt cập nhật Kiến trúc Chính quyền điện tử tỉnh Lạng Sơn, phiên bản 2.0.\n\n**II. MỤC TIÊU**\n\n**1\\. Mục tiêu chung**\n\nPhát triển chính quyền số có toàn bộ hoạt động an toàn trên môi trường số, có mô hình hoạt động được thiết kế lại và vận hành dựa trên dữ liệu và công nghệ số, để có khả năng cung cấp dịch vụ chất lượng hơn, đưa ra quyết định kịp thời hơn, ban hành chính sách tốt hơn, sử dụng nguồn lực tối ưu hơn, kiến tạo phát triển, dẫn dắt chuyển đổi số của tỉnh, giải quyết hiệu quả những vấn đề lớn trong phát triển và quản lý kinh tế - xã hội.\n\nTái cấu trúc hạ tầng CNTT, chuyển đổi hạ tầng CNTT thành hạ tầng số ứng dụng công nghệ điện toán đám mây phục vụ kết nối, quản lý các nguồn lực, dữ liệu của cơ quan nhà nước một cách an toàn, linh hoạt, ổn định, hiệu quả.\n\nTiếp tục triển khai đô thị thông minh tại tỉnh. Giữ vững và tiếp tục nâng cao chỉ số sẵn sàng ứng dụng CNTT (ICT Index) của tỉnh lên mức khá so với các tỉnh/thành trên toàn quốc.\n\n**2\\. Mục tiêu cụ thể**\n\n**_a) Ứng dụng CNTT cung cấp dịch vụ phục vụ người dân và doanh nghiệp_**\n\n\\- 100% TTHC đủ điều kiện theo quy định của pháp luật được cung cấp dưới hình thức DVCTT mức độ 4.\n\n\\- Phấn đấu 30% hồ sơ TTHC được xử lý hoàn toàn trực tuyến.\n\n\\- Tối thiểu 90% người dân, doanh nghiệp hài lòng với dịch vụ của cơ quan nhà nước.\n\n**_b) Thu hút sự tham gia của người dân, doanh nghiệp_**\n\n\\- 50% cơ quan nhà nước tham gia mở dữ liệu và cung cấp dữ liệu mở phục vụ phát triển chính quyền số, kinh tế số, xã hội số.\n\n\\- 30% dịch vụ công mới của cơ quan nhà nước có sự tham gia cung cấp của doanh nghiệp hoặc tổ chức ngoài nhà nước.\n\n**_c) Phát triển Chính quyền số phục vụ vận hành tối ưu hoạt động của bộ máy_**\n\n\\- 50% cơ quan nhà nước cung cấp dịch vụ 24/7, sẵn sàng phục vụ trực tuyến bất cứ khi nào người dân và doanh nghiệp cần; 50% công chức được gắn định danh số trong xử lý công việc.\n\n\\- 50% các hoạt động chỉ đạo, điều hành và quản trị nội bộ của cơ quan hành chính nhà nước thực hiện trên nền tảng quản trị tổng thể, thống nhất.\n\n\\- 100% văn bản trao đổi giữa các cơ quan nhà nước được thực hiện dưới dạng điện tử, được ký số bởi chữ ký số chuyên dùng, trừ văn bản mật theo quy định của pháp luật.\n\n\\- 90% hồ sơ công việc tại cấp tỉnh, 80% hồ sơ công việc tại cấp huyện và 40% hồ sơ công việc tại cấp xã được xử lý trên môi trường mạng (trừ hồ sơ công việc thuộc phạm vi bí mật nhà nước).\n\n\\- 50% chế độ báo cáo, chỉ tiêu tổng hợp báo cáo định kỳ và báo cáo thống kê về kinh tế - xã hội phục vụ sự chỉ đạo, điều hành của UBND tỉnh, Chủ tịch UBND tỉnh được thực hiện trên hệ thống thông tin báo cáo Chính phủ.\n\n\\- 50% hồ sơ được tạo, lưu giữ, chia sẻ dữ liệu điện tử theo quy định.\n\n\\- 50% cơ quan nhà nước có nền tảng phân tích, xử lý dữ liệu tổng hợp tập trung, có ứng dụng trí tuệ nhân tạo để tối ưu hóa hoạt động.\n\n\\- 25% hoạt động kiểm tra của cơ quan quản lý nhà nước được thực hiện thông qua môi trường số và hệ thống thông tin của cơ quan quản lý.\n\n\\- 30% các hệ thống thông tin, cơ sở dữ liệu của các cơ quan, đơn vị hành chính nhà nước hoạt động trên nền tảng điện toán đám mây của tỉnh (Lạng Sơn Cloud).\n\n\\- 50% CBCCVC được tập huấn, bồi dưỡng, phổ cập kỹ năng số cơ bản; 25% CBCCVC được tập huấn, bồi dưỡng kỹ năng phân tích, khai thác dữ liệu và công nghệ số\n\n\\- 100% cơ quan nhà nước có Trợ lý ảo hỗ trợ cho CBCCVC trong môi trường làm việc.\n\n**_d) Bảo đảm an toàn thông tin_**\n\n\\- Tối thiểu 70% hệ thống thông tin được xác định cấp độ và triển khai phương án bảo đảm an toàn thông tin theo cấp độ.\n\n\\- Tối thiểu 90% thiết bị đầu cuối được cài đặt giải pháp bảo vệ.\n\n\\- 100% người đứng đầu của các đơn vị, tổ chức nhà nước (trực thuộc cơ quan) được tuyên truyền, nâng cao nhận thức và trách nhiệm về bảo đảm an toàn thông tin.\n\n\\- 100% CBCCVC được tuyên truyền, phổ biến về thói quen, trách nhiệm và kỹ năng cơ bản bảo đảm an toàn thông tin.\n\n\\- 100% cán bộ chuyên trách hoặc kiêm nhiệm của các cơ quan hành chính nhà nước được đào tạo, bồi dưỡng về an toàn thông tin.\n\n\\- 100% trường tiểu học, trung học cơ sở, trung học phổ thông và các cơ sở bảo vệ, nuôi dưỡng trẻ em được tuyên truyền, giáo dục kiến thức, kỹ năng cần thiết cho trẻ em để tham gia môi trường mạng an toàn.\n\n\\- 100% trẻ em là nạn nhân bị xâm hại trên môi trường mạng được hỗ trợ, can thiệp khi có yêu cầu từ bản thân trẻ em hoặc từ người thân, cộng đồng xã hội;\n\n\\- Duy trì và nâng cấp hệ thống SOC theo mô hình 4 lớp để bảo đảm an toàn, an ninh cho các hệ thống thông tin của tỉnh.\n\n**III. NHIỆM VỤ**\n\n**1\\. Hoàn thiện quy chế, quy định pháp lý**\n\n\\- Duy trì, cập nhật Khung kiến trúc chính quyền điện tử tỉnh bảo đảm phù hợp với Khung kiến trúc Chính phủ điện tử Việt Nam.\n\n\\- Kiện toàn tổ chức, bộ máy, thiết lập mạng lưới đơn vị chuyên trách và nhân sự hỗ trợ triển khai từ tỉnh đến cơ sở để triển khai các nhiệm vụ chuyển đổi số, xây dựng chính quyền số, kinh tế số, xã hội số.\n\n**2\\. Phát triển hạ tầng số**\n\n\\- Đầu tư xây dựng cơ sở hạ tầng kỹ thuật cho trung tâm tích hợp dữ liệu của tỉnh theo tiêu chuẩn Tier-3.\n\n\\- Triển khai nền tảng điện toán đám mây (Lạng Sơn Cloud) sử dụng nền tảng Make in VietNam.\n\n\\- Đầu tư trang thiết bị, hệ thống an toàn thông tin cho Trung tâm tích hợp dữ liệu và điện toán đám mây (Lạng Sơn Cloud).\n\n\\- Đầu tư trang thiết bị cơ sở hạ tầng và Nền tảng ứng dụng cửa khẩu số của tỉnh.\n\n\\- 100% thôn, bản vùng sâu, vùng xa, vùng biên giới có hạ tầng viễn thông di động 3G, 4G và hạ tầng dịch vụ internet băng rộng.\n\n**3\\. Phát triển các nền tảng, hệ thống**\n\n\\- Triển khai xây dựng kho dữ liệu dùng chung (Data Lake) phục vụ phân tích, dự báo hỗ trợ quá trình ra quyết định của tỉnh.\n\n\\- Xây dựng Nền tảng số quản lý dự án đầu tư xây dựng cơ bản.\n\n\\- Xây dựng Nền tảng số quản lý tài sản công tập trung.\n\n\\- Xây dựng Nền tảng số dùng chung các Ngành Giao thông vận tải, Tài nguyên và Môi trường, Nội vụ, Thông tin và Truyền thông (bản đồ số).\n\n\\- Xây dựng Nền tảng số dùng chung ngành Giao thông vận tải, Tài nguyên và Môi trường, Nội vụ, Thông tin và Truyền thông (bản đồ số).\n\n\\- Mở rộng Cổng khai thác dữ liệu chuyển đổi số tỉnh Lạng Sơn.\n\n\\- Xây dựng Nền tảng số cho hệ thống mạng lưới IoT quan trắc môi trường.\n\n\\- Xây dựng Nền tảng số hệ thống mạng lưới giám sát khai thác mỏ tỉnh Lạng Sơn sử dụng công nghệ số.\n\n\\- Xây dựng Nền tảng số quản lý giá kết nối với Cổng khai thác dữ liệu chuyển đổi số (quản lý giá vật liệu, vật tư, giá đất....)\n\n\\- Xây dựng CSDL tài chính tích hợp tập trung (kế toán hành chính sự nghiệp; kế toán xã; tổng hợp quyết toán đơn vị hành chính sự nghiệp, xã/ phường)\n\n\\- Triển khai xây dựng Nền tảng danh tính số.\n\n**4\\. Phát triển dữ liệu**\n\n\\- Thực hiện tiếp nhận, kế thừa, sử dụng các CSDL đã được Trung ương đầu tư, xây dựng _(các CSDL về dân cư, đất đai, đăng ký doanh nghiệp, dân số, tài chính, bảo hiểm…)_\n\n\\- Tiếp tục duy trì và phát triển nền tảng tích hợp, chia sẻ dữ liệu dùng chung cấp tỉnh (LGSP) và kết nối với Hệ thống kết nối, liên thông các hệ thống thông tin ở trung ương và địa phương (NGSP) để khai thác các cơ sở dữ liệu quốc gia, hệ thống thông tin có quy mô, phạm vi từ trung ương đến địa phương. Tiếp tục thực hiện tích hợp kết nối, chia sẻ các hệ thống thông tin của tỉnh với các hệ thống thông tin của các bộ, ngành trung ương.\n\n\\- Tiếp tục xây dựng hệ thống quản lý CSDL ngành Xây dựng; hệ thống hỗ trợ thu thập, quản lý, khai thác cơ sở dữ liệu ngành và Trung tâm điều hành giáo dục.\n\n\\- Đầu tư, nâng cấp cơ sở dữ liệu và Nền tảng số phục vụ quản lý CBCCVC toàn tỉnh.\n\n**5\\. Phát triển các ứng dụng, dịch vụ**\n\n**_5.1. Phát triển các ứng dụng, dịch vụ phục vụ hoạt động nội bộ các cơ quan nhà nước_**\n\n\\- Đẩy mạnh việc sử dụng các ứng dụng đã triển khai một cách có hiệu quả: Hệ thống quản lý văn bản và điều hành, Hệ thống thư điện tử, Cổng thông tin điện tử, Cổng dịch vụ công và Hệ thống thông tin một cửa,… bảo đảm an toàn thông tin khi trao đổi văn bản trên môi trường mạng.\n\n\\- Tiếp tục triển khai chứng thư số cá nhân và cơ quan, tổ chức cho các đơn vị trực thuộc các sở, ban, ngành; UBND cấp huyện, cấp xã; các tổ chức chính trị xã hội. Tiếp tục triển khai tích hợp chữ ký số vào các hệ thống thông tin dùng chung của tỉnh (hệ thống quản lý văn bản và điều hành, hệ thống thư điện tử, cổng thông tin điện tử, dịch vụ công trực tuyến…) nhằm bảo đảm tính pháp lý và trao đổi văn bản, tài liệu an toàn trên môi trường mạng; mở rộng triển khai ứng dụng chữ ký số trên các nền tảng di động để thuận lợi cho người sử dụng.\n\n\\- Duy trì Hệ thống thông tin báo cáo kết nối với Hệ thống thông tin báo cáo Chính phủ, Trung tâm thông tin, chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ.\n\n**_5.2. Phát triển ứng dụng, dịch vụ phục vụ người dân và doanh nghiệp_**\n\n\\- Triển khai có hiệu quả các hoạt động ứng dụng CNTT gắn kết chặt chẽ với chương trình cải cách hành chính. Tiếp tục triển khai cung cấp DVCTT mức độ 3, 4 theo chỉ đạo của Chính phủ; tích hợp cổng thanh toán trực tuyến; tích hợp Cổng dịch vụ công quốc gia; tích hợp giải pháp xác thực điện tử tập trung; từng bước số hóa các kết quả giải quyết TTHC đồng thời tăng cường số hóa hồ sơ của các tổ chức, công dân.\n\n\\- Ứng dụng CNTT hiệu quả, toàn diện tại bộ phận tiếp nhận, trả kết quả thủ tục hành chính tại Trung tâm Phục vụ hành chính công tỉnh và Bộ phận tiếp nhận và trả kết quả cấp huyện, tăng cường trao đổi, xử lý hồ sơ qua mạng; bảo đảm tính liên thông giữa các đơn vị trong quy trình xử lý thủ tục, tin học hóa tối đa các hoạt động trong quy trình thủ tục hành chính. Tiếp tục triển khai tiếp nhận hồ sơ, trả kết quả giải quyết TTHC qua dịch vụ bưu chính công ích.\n\n\\- Xây dựng App Lạng Sơn Smart phục vụ công tác chỉ đạo, điều hành của chính quyền và kênh tương tác với người dân; và ngược lại người dân và doanh nghiệp tương tác với chính quyền.\n\n**6\\. Bảo đảm an toàn thông tin**\n\n\\- Duy trì và nâng cấp hệ thống Trung tâm giám sát an toàn thông tin (SOC); mở rộng phạm vi, nâng cao chất lượng, mức độ giám sát và bảo vệ cho 100% hệ thống thông tin của cơ quan, đơn vị. Áp dụng hệ thống quản lý an toàn thông tin mạng theo tiêu chuẩn, quy chuẩn kỹ thuật (TCVN 11930:2017).\n\n\\- Xác định cấp độ an toàn thông tin và tổ chức triển khai phương án bảo đảm an toàn hệ thống thông tin theo cấp độ. Thường xuyên rà soát, cập nhật để đáp ứng yêu cầu thực tiễn và quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ.\n\n\\- Xây dựng và triển khai kế hoạch dự phòng, sao lưu dữ liệu, bảo đảm hoạt động liên tục của cơ quan, tổ chức; sẵn sàng khôi phục hoạt động bình thường của hệ thống sau khi gặp sự cố mất an toàn thông tin mạng;\n\n\\- Xây dựng và triển khai kế hoạch tổ chức đào tạo hoặc cử nhân sự chuyên trách/phụ trách về an toàn thông tin/công nghệ thông tin tham gia các khóa đào tạo về quản lý, kỹ thuật về an toàn thông tin;\n\n\\- Xây dựng và triển khai kế hoạch tổ chức tuyên truyền, nâng cao nhận thức và phổ biến kiến thức, kỹ năng bảo đảm an toàn thông tin cho các cán bộ, công chức, viên chức, người lao động và người dân;\n\n\\- Triển khai Quyết định số [830/QĐ-TTg](https://thuvienphapluat.vn/van-ban/van-hoa-xa-hoi/quyet-dinh-830-qd-ttg-2021-bao-ve-va-ho-tro-tre-em-tuong-tac-lanh-manh-tren-moi-truong-mang-476218.aspx \"Quyết định 830/QĐ-TTg\") ngày 01/6/2021 của Thủ tướng Chính phủ về phê duyệt Chương trình “Bảo vệ và hỗ trợ trẻ em tương tác lành mạnh, sáng tạo trên môi trường mạng giai đoạn 2021 - 2025”: Tăng cường tổ chức, tham gia các hoạt động liên quan đến bảo vệ và hỗ trợ trẻ em tương tác lành mạnh, sáng tạo trên môi trường mạng; nâng cao nhận thức và từng bước trang bị kỹ năng số cho trẻ em trên địa bàn, tổ chức các lớp dạy kiến thức, kỹ năng cho cha mẹ và trẻ em ngoài trường học trên địa bàn có nhận thức và kỹ năng cơ bản tự bảo vệ mình trên môi trường mạng;\n\n\\- Giám sát, phát hiện và xử lý hoặc phối hợp với các cơ quan chức năng có thẩm quyền xử lý tin giả, thông tin vi phạm pháp luật trên không gian mạng thuộc phạm vi quản lý.\n\n**7\\. Phát triển nguồn nhân lực**\n\n\\- Xây dựng các kế hoạch, chương trình đào tạo kỹ năng số cho CBCCVC.\n\n\\- Phối hợp với các cơ quan, đơn vị liên quan tổ chức các lớp đào tạo, bồi dưỡng cho CBCCVC về bồi dưỡng kiến thức về chuyển đổi số, bồi dưỡng quản trị mạng nội bộ và bảo mật, an toàn, an ninh thông tin, quản trị Cổng/Trang thông tin điện tử, kỹ năng phân tích và xử lý dữ liệu, kiến trúc chính quyền điện tử.\n\n\\- Tổ chức hội nghị, hội thảo về chuyển đổi số, xây dựng chính quyền số, kinh tế số, xã hội số, an toàn thông tin.\n\n**IV. GIẢI PHÁP**\n\n**1\\. Đẩy mạnh công tác truyền thông, nâng cao nhận thức, kỹ năng số, tăng cường tương tác với người dân, doanh nghiệp**\n\n\\- Đẩy mạnh công tác truyền thông về vị trí, vai trò, tầm quan trọng của chuyển đổi số, xây dựng chính quyền số, kinh tế số, xã hội số trong CBCCVC và nhân dân trên địa bàn tỉnh. Thực hiện nhiều hình thức thông tin tuyên truyền như: Xây dựng chuyên trang, chuyên mục, phóng sự, tọa đàm, hội thảo, các chương trình truyền hình, các giải pháp truyền thông hiện đại để tuyên truyền rộng rãi về các kế hoạch, hoạt động ứng dụng và phát triển CNTT của tỉnh; nâng cao nhận thức, thay đổi thói quen hành vi, tạo sự đồng thuận của người dân, doanh nghiệp về chuyển đổi số, xây dựng chính quyền số, kinh tế số, xã hội số.\n\n\\- Ứng dụng các kênh truyền thông đa dạng để nâng cao nhận thức, hình thành văn hóa số cho người dân, tạo điều kiện tiếp cận các dịch vụ Chính phủ số; đưa nội dung đào tạo kỹ năng số vào chương trình giảng dạy từ cấp tiểu học; xây dựng/ứng dụng các nền tảng đào tạo kỹ năng số cho người dân; xây dựng/ứng dụng các nền tảng, kênh tương tác trực tuyến giữa cơ quan nhà nước và người dân, doanh nghiệp; phổ cập điện thoại thông minh đến mọi người dân.\n\n**2\\. Phát triển các mô hình kết hợp giữa các cơ quan nhà nước, doanh nghiệp**\n\n\\- Phối hợp doanh nghiệp bưu chính công ích cung cấp dịch vụ công (thông qua mạng bưu chính công cộng, mạng xã hội, ứng dụng của doanh nghiệp); tạo điều kiện, hỗ trợ doanh nghiệp giới thiệu, cung cấp sản phẩm, dịch vụ số;…\n\n\\- Thực hiện gắn kết chặt chẽ giữa cải cách TTHC với phát triển Chính quyền số; rà soát các TTHC, quy trình nghiệp vụ trong các cơ quan nhà nước theo hướng đơn giản hóa hoặc thay đổi phù hợp để có thể ứng dụng hiệu quả công nghệ số; rà soát loại bỏ một số thủ tục hành chính, quy trình nghiệp vụ khi ứng dụng công nghệ số.\n\n\\- Chuẩn hóa kiến thức cho cán bộ chuyên trách CNTT các cơ quan nhà nước theo khung chương trình bồi dưỡng về ứng dụng CNTT và an toàn thông tin cho cán bộ chuyên trách, kiêm nhiệm về CNTT do Bộ Thông tin và Truyền thông hướng dẫn.\n\n\\- Tăng cường phối hợp với các Tập đoàn CNTT lớn đào tạo, bồi dưỡng kỹ năng nâng cao, chuyên sâu về CNTT cho cán bộ, công chức, viên chức của tỉnh.\n\n**3\\. Nghiên cứu, hợp tác để làm chủ, ứng dụng hiệu quả các công nghệ**\n\n\\- Triển khai nghiên cứu khoa học, phát triển công nghệ mới, các giải pháp tích hợp, ứng dụng, sản phẩm CNTT phục vụ xây dựng Chính quyền số, nền kinh tế số, xã hội số, từng bước xây dựng đô thị thông minh.\n\n\\- Tăng cường hợp tác, chia sẻ kinh nghiệm với một số tỉnh, thành phố về cơ chế, chính sách phát triển chính quyền số. Chủ động hợp tác với các Tập đoàn viễn thông và CNTT để triển khai hạ tầng kỹ thuật, ứng dụng và phát triển công nghệ hiện đại.\n\n**4\\. Thu hút nguồn lực CNTT**\n\n\\- Ưu tiên sử dụng nguồn vốn ngân sách nhà nước và huy động các nguồn vốn hợp pháp khác nhằm đa dạng hóa nguồn lực để phát triển Chính quyền số; tăng cường thực hiện giải pháp thuê dịch vụ công nghệ thông tin\n\n\\- Ưu tiên bố trí đầu tư công để thực hiện các dự án phát triển hạ tầng, trung tâm dữ liệu, cơ sở dữ liệu, nền tảng, các ứng dụng, dịch vụ của tỉnh.\n\n\\- Đẩy mạnh xúc tiến đầu tư, thu hút đầu tư từ các doanh nghiệp để phát triển cơ sở hạ tầng CNTT và truyền thông.\n\n\\- Khuyến khích các doanh nghiệp đầu tư cho ứng dụng CNTT để nâng cao năng lực cạnh tranh, đổi mới phương thức quản lý, nâng cao năng suất và chất lượng sản phẩm.\n\n**V. KINH PHÍ THỰC HIỆN**\n\n1\\. Kinh phí thực hiện từ nguồn ngân sách nhà nước theo phân cấp nhiệm vụ chi hiện hành và các nguồn hợp pháp khác. Dự kiến tổng kinh phí thực hiện Kế hoạch là: 216,3 tỷ đồng.\n\n2\\. Các cơ quan, đơn vị, địa phương có trách nhiệm bố trí kinh phí thực hiện các nhiệm vụ trong dự toán ngân sách hàng năm được cấp có thẩm quyền giao.\n\n3\\. Khuyến khích việc huy động các nguồn kinh phí ngoài ngân sách theo quy định của pháp luật để triển khai thực hiện Kế hoạch.\n\n**VI. DANH MỤC NHIỆM VỤ, DỰ ÁN**\n\nDanh mục các nhiệm vụ, dự án của các cơ quan nhà nước năm 2022: chi tiết tại Phụ lục III gửi kèm theo.\n\n**VII. TỔ CHỨC THỰC HIỆN**\n\n**1\\. Sở Thông tin và Truyền thông**\n\n\\- Chủ trì tổ chức, triển khai và theo dõi, đôn đốc thực hiện Kế hoạch.\n\n\\- Tham mưu tăng cường hoạt động của Ban Chỉ đạo về chuyển đổi số của tỉnh và các huyện, thành phố.\n\n\\- Hướng dẫn, thẩm định, giám sát và hỗ trợ các đơn vị triển khai đầu tư ứng dụng CNTT trên địa bàn tỉnh đảm bảo phù hợp với Khung kiến trúc chính quyền điện tử của tỉnh.\n\n\\- Theo dõi hướng dẫn, kiểm tra, tổng hợp báo cáo kết quả thực hiện Kế hoạch của các đơn vị trên địa bàn tỉnh.\n\n\\- Phối hợp với Sở Kế hoạch và Đầu tư, Sở Tài chính bảo đảm các dự án, nhiệm vụ phát triển chính quyền số được triển khai đúng trình tự, thủ tục theo quy định của pháp luật; xây dựng dự toán kinh phí, cân đối và bố trí ngân sách hàng năm trình cấp có thẩm quyền xem xét, phê duyệt.\n\n\\- Phối hợp với Sở Nội vụ tổ chức đào tạo, tập huấn về Chính quyền số, Khung kiến trúc Chính quyền điện tử/Chính quyền số và bảo đảm an toàn, an ninh mạng; Tổ chức bồi dưỡng kiến thức, kỹ năng số, kỹ năng phân tích và xử lý dữ liệu cho cán bộ, công chức, viên chức.\n\n**2\\. Văn phòng UBND tỉnh**\n\n\\- Chủ trì, phối hợp với Sở Nội vụ, Sở Thông tin và Truyền thông hướng dẫn các Sở, ban, ngành, địa phương thực hiện chuẩn hóa, tái cấu trúc quy trình nghiệp vụ, cải cách TTHC, cải cách chế độ báo cáo trong các cơ quan hành chính nhà nước.\n\n\\- Phối hợp với Sở Thông tin và Truyền thông trong việc tổ chức kiểm tra tình hình, đôn đốc thực hiện Kế hoạch này.\n\n**3\\. Sở Kế hoạch và Đầu tư:** chủ trì, phối hợp với Sở Thông tin và Truyền thông, Sở Tài chính tham mưu cho UBND tỉnh bố trí kinh phí để thực hiện các nhiệm vụ, dự án Chính quyền số nêu tại Kế hoạch này.\n\n**4\\. Sở Tài chính:** chủ trì, phối hợp với Sở Thông tin và Truyền thông, Sở Kế hoạch và Đầu tư tham mưu cho UBND tỉnh bố trí kinh phí sự nghiệp thông tin và truyền thông, sự nghiệp CNTT hàng năm bảo đảm thực hiện có hiệu quả Kế hoạch này.\n\n**5\\. Sở Nội vụ**\n\n\\- Chủ trì, phối hợp với các cơ quan liên quan hướng dẫn các Sở, ban, ngành, địa phương thực hiện cải cách hành chính.\n\n\\- Chủ trì, phối hợp với Sở Thông tin và Truyền thông sửa đổi, bổ sung Bộ chỉ số cải cách hành chính theo hướng gắn kết chặt chẽ phát triển Chính quyền số với hoạt động cải cách hành chính, Chính quyền số trở thành công cụ đắc lực thúc đẩy cải cách hành chính nhà nước.\n\n\\- Hằng năm, phối hợp tổ chức các lớp đào tạo, bồi dưỡng nâng cao nhận thức cho cán bộ lãnh đạo, cán bộ, công chức, viên chức cơ quan nhà nước các cấp về Chính quyền số, Khung kiến trúc Chính quyền điện tử/Chính quyền số và bảo đảm an toàn, an ninh mạng; Tổ chức bồi dưỡng kiến thức, kỹ năng số, kỹ năng phân tích và xử lý dữ liệu cho cán bộ, công chức, viên chức.\n\n**6\\. Sở Khoa học và Công nghệ:** chủ trì, phối hợp với Sở Thông tin và Truyền thông trong việc tiếp cận cuộc cách mạng công nghiệp lần thứ 4; nghiên cứu, lựa chọn, đưa vào áp dụng thử nghiệm các giải pháp mới về CNTT phục vụ công tác quản lý, sản xuất và đời sống. Tham mưu bố trí nguồn vốn sự nghiệp khoa học công nghệ để thực hiện các đề tài, dự án phát triển Chính quyền số của tỉnh.\n\n**7\\. Các sở, ban, ngành và UBND các huyện, thành phố**\n\n\\- Thủ trưởng các sở, ban, ngành, Chủ tịch UBND các huyện, thành phố tập trung triển khai thực hiện các mục tiêu, nhiệm vụ cụ thể trong Kế hoạch này và Kế hoạch của đơn vị đã được ban hành; chịu trách nhiệm cá nhân trước Chủ tịch UBND tỉnh về kết quả phát triển chính quyền số và bảo đảm an toàn thông tin mạng năm 2022 của cơ quan, đơn vị, địa phương mình.\n\n\\- Phối hợp chặt chẽ với Sở Thông tin và Truyền thông và các cơ quan liên quan trong quá trình tổ chức thực hiện các chương trình, dự án đảm bảo tiết kiệm, chất lượng, hiệu quả, đúng quy định.\n\n\\- Báo cáo kết quả thực hiện Kế hoạch này về Sở Thông tin và Truyền thông để tổng hợp báo cáo Chủ tịch UBND tỉnh theo quy định./.\n\n  \n**_Nơi nhận:  \n_**\\- Bộ Thông tin và Truyền thông (b/c);  \n\\- Thường trực Tỉnh uỷ;  \n\\- Thường trực HĐND tỉnh;  \n\\- Chủ tịch, các Phó Chủ tịch UBND tỉnh;  \n\\- Các sở, ban, ngành tỉnh;  \n\\- UBND các huyện, thành phố;  \n\\- C, PCVP UBND tỉnh,  \ncác Phòng: KGVX, THNC, TT TT-CB;  \n\\- Lưu: VT, KGVX (NNK).\n\n**KT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH**  \n**  \n  \n  \n  \nDương Xuân Huyên**\n\n  \n\n* * *\n\n[\\[1\\]](#_ftnref1) Kế hoạch số [198/KH-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-198-kh-ubnd-2020-ung-dung-cong-nghe-trong-co-quan-nha-nuoc-lang-son-473972.aspx \"Văn bản khác 198/KH-UBND\") ngày 18/12/2020 của UBND tỉnh về Ứng dụng công nghệ thông tin (CNTT) trong hoạt động của cơ quan nhà nước, phát triển Chính quyền số và bảo đảm an toàn thông tin mạng năm 2021; Kế hoạch [103/KH-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-103-kh-ubnd-2021-cung-cap-100-dich-vu-cong-len-truc-tuyen-muc-do-4-lang-son-473763.aspx \"Văn bản khác 103/KH-UBND\") ngày 06/5/2021 của UBND tỉnh triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4; Kế hoạch số 150/KH-UBND ngày 02/7/2021 của UBND tỉnh triển khai thí điểm chuyển đổi số tổng thể và toàn diện cửa khẩu Hữu Nghị, Tân Thanh; Kế hoạch số 158/KH-UBND ngày 16/7/2021 của UBND tỉnh triển khai thí điểm Trung tâm thông tin chỉ đạo, điều hành tại UBND tỉnh; Quyết định số 392/QĐ- UBND ngày 26/01/2021 của UBND tỉnh phê duyệt cập nhật Kiến trúc Chính quyền điện tử tỉnh Lạng Sơn, phiên bản 2.0; Quyết định số [1333/QĐ-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-1333-qd-ubnd-2021-ban-hanh-danh-muc-co-so-du-lieu-dung-chung-tinh-lang-son-481150.aspx \"Quyết định 1333/QĐ-UBND\") ngày 06/7/2021 của UBND tỉnh ban hành danh mục cơ sở dữ liệu dùng chung tỉnh Lạng Sơn; Quyết định số 2041/QĐ-UBND ngày 13/10/2021 của UBND tỉnh về kiện toàn và đổi tên Ban Chỉ đạo xây dựng Chính quyền điện tử tỉnh Lạng Sơn.\n\n[\\[2\\]](#_ftnref2) Số liệu thống kê tại thời điểm báo cáo.\n\n[\\[3\\]](#_ftnref3) Theo Kế hoạch số 158/KH-UBND ngày 16/7/2021 của UBND tỉnh triển khai thí điểm Trung tâm thông tin chỉ đạo, điều hành tại UBND tỉnh.\n\n[\\[4\\]](#_ftnref4) Theo thống kê từ ngày 24/5/2021 đến 12/10/2021, có 255.955 lượt truy cập trên bản đồ số Covidmaps.\n\n[\\[5\\]](#_ftnref5) Kế hoạch số [198/KH-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/ke-hoach-198-kh-ubnd-2020-ung-dung-cong-nghe-trong-co-quan-nha-nuoc-lang-son-473972.aspx \"Văn bản khác 198/KH-UBND\") ngày 18/12/2020 của UBND tỉnh.\n\n[\\[6\\]](#_ftnref6) Quyết định số 1456/QĐ-UBND ngày 03/10/2013 của UBND tỉnh.\n\n[\\[7\\]](#_ftnref7) Quyết định số 292/QĐ-UBND ngày 02/02/2018 của UBND tỉnh về việc kiện toàn thành viên Đội ứng cứu xử lý sự cố an toàn thông tin mạng tỉnh.\n\n[\\[8\\]](#_ftnref8) Kế hoạch số 450/KH-ĐƯCXLSC ngày 10/3/2021 của Đội Ứng cứu xử lý sự cố an toàn thông tin mạng về Hoạt động Đội Ứng cứu xử lý sự cố an toàn thông tin mạng tỉnh Lạng Sơn năm 2021.\n\n[\\[9\\]](#_ftnref9) Sở Thông tin và Truyền thông đang thực hiện mua sắm bổ sung 2.635 license bản quyền phần mềm cài đặt cho máy tính để bàn của các cơ quan, đơn vị trên địa bàn tỉnh.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,464 @@
+{
+  "title": "Quyết định 34/2013/QĐ-UBND quy định đơn giá thuê đất, mức thu sử dụng tiện ích hạ tầng và chính sách miễn, giảm tiền thuê đất Khu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 05/2012/QĐ-UBND về Quy định tỷ lệ tính tiền thuê đất, mặt nước trên địa bàn tỉnh Bến Tre do Ủy ban nhân dân tỉnh Bến Tre ban hành",
+      "id": "05/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Nguyễn Văn Hiếu"
+      ],
+      "issuedDate": "2012-02-03",
+      "effectiveDate": "2012-02-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 14/05/2013"
+    },
+    {
+      "title": "Luật Doanh nghiệp 2005",
+      "id": "60/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-22",
+      "gazetteNumber": "Từ số 37 đến số 38",
+      "status": "Hết hiệu lực: 01/07/2015"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 94/2011/TT-BTC sửa đổi Thông tư 120/2005/TT-BTC hướng dẫn Nghị định 142/2005/NĐ-CP về thu tiền thuê đất, mặt nước do Bộ Tài chính ban hành",
+      "id": "94/2011/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2011-06-29",
+      "effectiveDate": "2011-08-15",
+      "gazetteDate": "2011-07-31",
+      "gazetteNumber": "Từ số 429 đến số 430",
+      "status": "Hết hiệu lực: 01/08/2014"
+    },
+    {
+      "title": "Thông tư 84/2011/TT-BTC hướng dẫn chính sách tài chính khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn theo Nghị định 61/2010/NĐ-CP do Bộ Tài chính ban hành",
+      "id": "84/2011/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2011-06-16",
+      "effectiveDate": "2011-08-01",
+      "gazetteDate": "2011-07-08",
+      "gazetteNumber": "Từ số 397 đến số 398",
+      "status": "Hết hiệu lực: 27/04/2015"
+    },
+    {
+      "title": "Nghị định 121/2010/NĐ-CP sửa đổi Nghị định 142/2005/NĐ-CP về thu tiền thuê đất, mặt nước",
+      "id": "121/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-12-30",
+      "effectiveDate": "2011-03-01",
+      "gazetteDate": "2011-01-15",
+      "gazetteNumber": "Từ số 55 đến số 56",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Nghị định 61/2010/NĐ-CP về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn",
+      "id": "61/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-06-04",
+      "effectiveDate": "2010-07-25",
+      "gazetteDate": "2010-06-19",
+      "gazetteNumber": "Từ số 361 đến số 362",
+      "status": "Hết hiệu lực: 10/02/2014"
+    },
+    {
+      "title": "Thông tư 141/2007/TT-BTC sửa đổi Thông tư 120/2005/TT-BTC hướng dẫn thực hiện Nghị định 142/2005/NĐ-CP về thu tiền thuê đất, thuê mặt nước do Bộ Tài chính ban hành",
+      "id": "141/2007/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2007-11-30",
+      "effectiveDate": "2007-12-27",
+      "gazetteDate": "2007-12-12",
+      "gazetteNumber": "Từ số 817 đến số 818",
+      "status": "Hết hiệu lực: 01/08/2014"
+    },
+    {
+      "title": "Nghị định 108/2006/NĐ-CP Hướng dẫn Luật Đầu tư",
+      "id": "108/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2006-09-22",
+      "effectiveDate": "2006-10-25",
+      "gazetteDate": "2006-10-10",
+      "gazetteNumber": "Từ số 15 đến số 16",
+      "status": "Hết hiệu lực: 27/12/2015"
+    },
+    {
+      "title": "Thông tư 120/2005/TT-BTC hướng dẫn Nghị định 142/2005/NĐ-CP về thu tiền thuê đất, thuê mặt nước do Bộ Tài chính ban hành",
+      "id": "120/2005/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Thị Nhân"
+      ],
+      "issuedDate": "2005-12-30",
+      "effectiveDate": "2006-02-15",
+      "gazetteDate": "2006-01-31",
+      "gazetteNumber": "Từ số 47 đến số 48",
+      "status": "Hết hiệu lực: 01/08/2014"
+    },
+    {
+      "title": "Luật Đầu tư 2005",
+      "id": "59/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-26",
+      "gazetteNumber": "Từ số 41 đến số 42",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Nghị định 142/2005/NĐ-CP về thu tiền thuê đất, thuê mặt nước",
+      "id": "142/2005/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2005-11-14",
+      "effectiveDate": "2005-12-10",
+      "gazetteDate": "2005-11-25",
+      "gazetteNumber": "Từ số 25 đến số 26",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Quyết định 46/2013/QĐ-UBND sửa đổi Quyết định 34/2013/QĐ-UBND về đơn giá thuê đất, mức thu sử dụng tiện ích hạ tầng, chính sách miễn, giảm tiền thuê đất Khu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre",
+      "id": "46/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Võ Thành Hạo"
+      ],
+      "issuedDate": "2013-12-27",
+      "effectiveDate": "2014-01-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/09/2015"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 19/2015/QĐ-UBND về Quy định mức thu sử dụng tiện ích hạ tầng Khu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre",
+      "id": "19/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Cao Văn Trọng"
+      ],
+      "issuedDate": "2015-08-27",
+      "effectiveDate": "2015-09-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 590/QĐ-UBND năm 2014 quy định mức bình quân diện tích đất sản xuất của 01 hộ trên địa bàn tỉnh Bắc Kạn, giai đoạn 2014 - 2015",
+      "id": "590/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Nông Văn Chí"
+      ],
+      "issuedDate": "2014-04-14",
+      "effectiveDate": "2014-04-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 200/QĐ-UBND năm 2014 phê duyệt giảm tiền thuê đất năm 2013 và năm 2014 cho tổ chức kinh tế đang thực hiện thuê đất trên địa bàn tỉnh Lâm Đồng",
+      "id": "200/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2014-01-24",
+      "effectiveDate": "2014-01-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4201/QĐ-UBND năm 2013 về giảm tiền thuê đất năm 2011 và năm 2012 do tỉnh Thanh Hóa ban hành",
+      "id": "4201/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Nguyễn Đình Xứng"
+      ],
+      "issuedDate": "2013-11-28",
+      "effectiveDate": "2013-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1667/QĐ-UBND năm 2013 phê duyệt giảm tiền thuê đất theo Quyết định 2093/QĐ-TTg, Nghị Quyết 13/NQ-CP và 02/NQ-CP do tỉnh Yên Bái ban hành",
+      "id": "1667/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Yên Bái",
+      "signers": [
+        "Phạm Duy Cường"
+      ],
+      "issuedDate": "2013-11-07",
+      "effectiveDate": "2013-11-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2137/QĐ-UBND năm 2013 Phê duyệt hệ số điều chỉnh giá đất sát giá thị trường để xác định đơn giá thuê đất cho tổ chức thuê đất trên địa bàn huyện Đạ Huoai, tỉnh Lâm Đồng",
+      "id": "2137/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2013-10-24",
+      "effectiveDate": "2013-10-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1956/QĐ-UBND năm 2013 phê duyệt hệ số điều chỉnh giá đất sát giá thị trường để xác định đơn giá thuê đất cho tổ chức trên địa bàn huyện Lâm Hà tỉnh Lâm Đồng",
+      "id": "1956/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2013-10-01",
+      "effectiveDate": "2013-10-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1539/QĐ-UBND năm 2013 Phê duyệt hệ số điều chỉnh giá đất sát giá thị trường để xác định đơn giá thuê đất cho tổ chức đã hết thời gian ổn định đơn giá thuê đất trên địa bàn huyện Bảo Lâm tỉnh Lâm Đồng",
+      "id": "1539/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Văn Yên"
+      ],
+      "issuedDate": "2013-08-16",
+      "effectiveDate": "2013-08-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 38/2013/QĐ-UBND bổ sung Quyết định 34/2011/QĐ-UBND tỷ lệ phần trăm (%) để tính đơn giá thuê đất và khung giá thuê mặt nước trên địa bàn tỉnh Long An",
+      "id": "38/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Long An",
+      "signers": [
+        "Đỗ Hữu Lâm"
+      ],
+      "issuedDate": "2013-08-13",
+      "effectiveDate": "2013-08-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/11/2014"
+    },
+    {
+      "title": "Quyết định 52/2007/QĐ-UBND về việc hỗ trợ xây dựng khu sản xuất tập trung trên địa bàn tỉnh giai đoạn 2007-2010 do Tỉnh Vĩnh Phúc ban hành",
+      "id": "52/2007/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Nguyễn Ngọc Phi"
+      ],
+      "issuedDate": "2007-09-19",
+      "effectiveDate": "2007-09-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2011"
+    }
+  ],
+  "id": "34/2013/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Thương mại",
+    "Bất động sản"
+  ],
+  "organization": "Tỉnh Bến Tre",
+  "signers": [
+    "Võ Thành Hạo"
+  ],
+  "issuedDate": "2013-10-29",
+  "effectiveDate": "2013-11-08",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 06/09/2015",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA4ADAAMwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH BẾN TRE</b><br>\n  <b>-------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:\n  none\">Số: 34/2013/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bến Tre, ngày 29\n  tháng 10 năm 2013</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>&nbsp;</b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">VỀ VIỆC QUY ĐỊNH ĐƠN GIÁ THUÊ ĐẤT, MỨC THU SỬ DỤNG TIỆN ÍCH\nHẠ TẦNG, CHÍNH SÁCH MIỄN, GIẢM TIỀN THUÊ ĐẤT KHU SẢN XUẤT GIỐNG TẬP TRUNG HUYỆN\nBÌNH ĐẠI, TỈNH BẾN TRE</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH BẾN TRE</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tổ chức Hội đồng\nnhân dân và Uỷ ban nhân dân ngày 26 tháng 11 năm 2003;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Ban hành văn bản\nquy phạm pháp luật của Hội đồng nhân dân, Uỷ ban nhân dân ngày 03 tháng 12 năm\n2004;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Đầu tư ngày 29\ntháng 11 năm 2005;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a> \nngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 108/2006/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-108-2006-nd-cp-huong-dan-luat-dau-tu-15963.aspx\">108/2006/NĐ-CP</a> \nngày 22 tháng 9 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành\nmột số điều của Luật Đầu tư;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 121/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-121-2010-nd-cp-sua-doi-nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-116785.aspx\">121/2010/NĐ-CP</a> \nngày 30 tháng 12 năm 2010 của Chính phủ về sửa đổi, bổ sung một số điều của\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a>  ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền\nthuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx\">61/2010/NĐ-CP</a> \nngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp\nđầu tư vào nông nghiệp, nông thôn;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 84/2011/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/thong-tu-84-2011-tt-btc-huong-dan-chinh-sach-tai-chinh-khuyen-khich-doanh-nghiep-125741.aspx\">84/2011/TT-BTC</a> \nngày 16 tháng 6 năm 2011 của Bộ Tài chính hướng dẫn một số chính sách tài chính\nkhuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn theo Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx\">61/2010/NĐ-CP</a>  ngày 04 tháng 6 năm 2010 của Chính phủ;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 120/2005/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-120-2005-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-huong-dan-thuc-hien-nghi-dinh-142-2005-nd-cp-8551.aspx\">120/2005/TT-BTC</a> \nngày 30 tháng 12 năm 2005 của Bộ Tài chính hướng dẫn thực hiện Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a>  ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất,\nthuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 141/2007/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-141-2007-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-sua-doi-120-2005-tt-btc-59489.aspx\">141/2007/TT-BTC</a> \nngày 30 tháng 11 năm 2007 của Bộ Tài chính hướng dẫn sửa đổi, bổ sung Thông tư\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 120/2005/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-120-2005-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-huong-dan-thuc-hien-nghi-dinh-142-2005-nd-cp-8551.aspx\">120/2005/TT-BTC</a>  ngày 30 tháng 12 năm 2005 của Bộ Tài chính hướng dẫn thực\nhiện Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a>  ngày 14 tháng 11 năm 2005 của Chính phủ về thu\ntiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 94/2011/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-94-2011-tt-btc-sua-doi-thong-tu-120-2005-tt-btc-huong-dan-nghi-dinh-142-126720.aspx\">94/2011/TT-BTC</a> \nngày 29 tháng 6 năm 2011 của Bộ Tài chính về sửa đổi, bổ sung Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 120/2005/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-120-2005-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-huong-dan-thuc-hien-nghi-dinh-142-2005-nd-cp-8551.aspx\">120/2005/TT-BTC</a>  ngày 30 tháng 12 năm 2005 của Bộ Tài chính hướng dẫn thực hiện\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a>  ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền\nthuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Theo đề nghị của Giám đốc Sở\nTài chính tại Tờ trình số 3876/TTr-STC ngày <sub>23 tháng 10 năm 2013,</sub></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1.\nPhạm vi và đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Quyết định này quy định đơn giá\nthuê đất, mức thu sử dụng tiện ích hạ tầng và chính sách miễn, giảm tiền thuê\nđất Khu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Quyết định này áp dụng đối với\ncác tổ chức, cá nhân trong và ngoài nước hoạt động theo Luật Doanh nghiệp hoặc\ntheo Luật Đầu tư trên địa bàn tỉnh Bến Tre.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>Điều 2.\nLĩnh vực và địa bàn ưu đãi đầu tư</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Dự án đầu tư vào các ngành, nghề\nthuộc Danh mục lĩnh vực đặc biệt ưu đãi đầu tư, lĩnh vực ưu đãi đầu tư theo quy\nđịnh của Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Danh mục địa bàn ưu đãi đầu tư:\nKhu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-928145')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-928145')\" atmm=\".lqhlTootip-928145\" onmouseout=\"hideddrivetip();\"><b>Điều 3. Đơn\ngiá thuê đất</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại Quyết\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"05/2012/QĐ-UBND\" href=\"/phap-luat/tim-van-ban.aspx?keyword=05/2012/QĐ-UBND&amp;match=True&amp;area=2&amp;lan=1&amp;bday=03/02/2012&amp;eday=03/02/2012\">05/2012/QĐ-UBND</a>  ngày 03 tháng 02 năm 2012 của Uỷ ban nhân dân tỉnh Bến\nTre ban hành Quy định tỷ lệ tính tiền thuê đất, thuê mặt nước trên địa bàn tỉnh\nBến Tre.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>Điều 4. Mức\nthu sử dụng tiện ích hạ tầng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Mức thu sử dụng tiện ích hạ tầng\n2.100 đồng/m<sup>2</sup>/năm (chưa bao gồm thuế giá trị gia tăng). Trường hợp,\ntrả tiền một lần từ 30 năm trở lên sẽ được giảm bốn mươi phần trăm (40%).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Mức thu sử dụng tiện ích hạ tầng\nđược thu kể từ ngày có quyết định cho thuê đất của cơ quan nhà nước có thẩm\nquyền; trường hợp thời điểm bàn giao trên thực địa không đúng với thời điểm ghi\ntrong quyết định cho thuê đất thì thu mức thu sử dụng tiện ích hạ tầng theo\nthời điểm bàn giao đất.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>Điều 5.\nChính sách miễn, giảm tiền thuê đất</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Áp dụng theo quy định tại Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a>  ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất,\nthuê mặt nước; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 121/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-121-2010-nd-cp-sua-doi-nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-116785.aspx\">121/2010/NĐ-CP</a>  ngày 30 tháng 12 năm 2010 của Chính\nphủ về sửa đổi, bổ sung một số điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2005/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx\">142/2005/NĐ-CP</a>  ngày 14\ntháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước; Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 61/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx\">61/2010/NĐ-CP</a>  ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến\nkhích doanh nghiệp đầu tư vào nông nghiệp, nông thôn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>Điều 6.\nTrách nhiệm thực hiện</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Giám đốc Sở Tài nguyên và Môi\ntrường chủ trì, phối hợp với các cơ quan, đơn vị có liên quan tổ chức triển khai\nthực hiện Quyết định này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Chủ tịch Uỷ ban nhân dân huyện\nBình Đại có tránh nhiệm công bố giá thuê đất, mức thu sử dụng tiện ích hạ tầng\nvà chính sách miễn, giảm tiền thuê đất đối với Khu sản xuất giống tập trung\nhuyện Bình Đại và hướng dẫn cho các tổ chức, cá nhân có liên quan biết để thực\nhiện nhằm thu hút đầu tư.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Giám đốc Công ty Phát triển hạ\ntầng thực hiện quản lý và thu mức thu sử dụng tiện ích hạ tầng tại Khu sản xuất\ngiống tập trung huyện Bình Đại.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>Điều 7.\nĐiều khoản thi hành</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Chánh Văn phòng Uỷ ban nhân dân\ntỉnh; Giám đốc các Sở: Tài chính, Tài nguyên và Môi trường, Kế hoạch và Đầu tư;\nNông nghiệp và Phát triển nông thôn; Cục trưởng Cục Thuế tỉnh; Chủ tịch Uỷ ban\nnhân dân huyện Bình Đại; Giám đốc Công ty Phát triển hạ tầng; Thủ trưởng các\nsở, ngành và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định\nnày.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Quyết định này có hiệu lực sau\n10 (mười) ngày kể từ ngày ký./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA4ADAAMwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN <br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  </b><br>\n  <b>Võ Thành Hạo</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẾN TRE**  \n**\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 34/2013/QĐ-UBND\n\n_Bến Tre, ngày 29 tháng 10 năm 2013_\n\n**QUYẾT ĐỊNH**\n\nVỀ VIỆC QUY ĐỊNH ĐƠN GIÁ THUÊ ĐẤT, MỨC THU SỬ DỤNG TIỆN ÍCH HẠ TẦNG, CHÍNH SÁCH MIỄN, GIẢM TIỀN THUÊ ĐẤT KHU SẢN XUẤT GIỐNG TẬP TRUNG HUYỆN BÌNH ĐẠI, TỈNH BẾN TRE\n\n**ỦY BAN NHÂN DÂN TỈNH BẾN TRE**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân ngày 26 tháng 11 năm 2003;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Uỷ ban nhân dân ngày 03 tháng 12 năm 2004;_\n\n_Căn cứ Luật Đầu tư ngày 29 tháng 11 năm 2005;_\n\n_Căn cứ Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Nghị định số [108/2006/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-108-2006-nd-cp-huong-dan-luat-dau-tu-15963.aspx \"Nghị định 108/2006/NĐ-CP\") ngày 22 tháng 9 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư;_\n\n_Căn cứ Nghị định số [121/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-121-2010-nd-cp-sua-doi-nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-116785.aspx \"Nghị định 121/2010/NĐ-CP\") ngày 30 tháng 12 năm 2010 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Nghị định số [61/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx \"Nghị định 61/2010/NĐ-CP\") ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn;_\n\n_Căn cứ Thông tư số [84/2011/TT-BTC](https://thuvienphapluat.vn/van-ban/doanh-nghiep/thong-tu-84-2011-tt-btc-huong-dan-chinh-sach-tai-chinh-khuyen-khich-doanh-nghiep-125741.aspx \"Thông tư 84/2011/TT-BTC\") ngày 16 tháng 6 năm 2011 của Bộ Tài chính hướng dẫn một số chính sách tài chính khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn theo Nghị định số [61/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx \"Nghị định 61/2010/NĐ-CP\") ngày 04 tháng 6 năm 2010 của Chính phủ;_\n\n_Căn cứ Thông tư số [120/2005/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-120-2005-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-huong-dan-thuc-hien-nghi-dinh-142-2005-nd-cp-8551.aspx \"Thông tư 120/2005/TT-BTC\") ngày 30 tháng 12 năm 2005 của Bộ Tài chính hướng dẫn thực hiện Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư số [141/2007/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-141-2007-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-sua-doi-120-2005-tt-btc-59489.aspx \"Thông tư 141/2007/TT-BTC\") ngày 30 tháng 11 năm 2007 của Bộ Tài chính hướng dẫn sửa đổi, bổ sung Thông tư số [120/2005/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-120-2005-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-huong-dan-thuc-hien-nghi-dinh-142-2005-nd-cp-8551.aspx \"Thông tư 120/2005/TT-BTC\") ngày 30 tháng 12 năm 2005 của Bộ Tài chính hướng dẫn thực hiện Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư số [94/2011/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-94-2011-tt-btc-sua-doi-thong-tu-120-2005-tt-btc-huong-dan-nghi-dinh-142-126720.aspx \"Thông tư 94/2011/TT-BTC\") ngày 29 tháng 6 năm 2011 của Bộ Tài chính về sửa đổi, bổ sung Thông tư số [120/2005/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-120-2005-tt-btc-thu-tien-thue-dat-thue-mat-nuoc-huong-dan-thuc-hien-nghi-dinh-142-2005-nd-cp-8551.aspx \"Thông tư 120/2005/TT-BTC\") ngày 30 tháng 12 năm 2005 của Bộ Tài chính hướng dẫn thực hiện Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước;_\n\n_Theo đề nghị của Giám đốc Sở Tài chính tại Tờ trình số 3876/TTr-STC ngày 23 tháng 10 năm 2013,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1. Phạm vi và đối tượng áp dụng**\n\n1\\. Quyết định này quy định đơn giá thuê đất, mức thu sử dụng tiện ích hạ tầng và chính sách miễn, giảm tiền thuê đất Khu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre.\n\n2\\. Quyết định này áp dụng đối với các tổ chức, cá nhân trong và ngoài nước hoạt động theo Luật Doanh nghiệp hoặc theo Luật Đầu tư trên địa bàn tỉnh Bến Tre.\n\n**Điều 2. Lĩnh vực và địa bàn ưu đãi đầu tư**\n\n1\\. Dự án đầu tư vào các ngành, nghề thuộc Danh mục lĩnh vực đặc biệt ưu đãi đầu tư, lĩnh vực ưu đãi đầu tư theo quy định của Chính phủ.\n\n2\\. Danh mục địa bàn ưu đãi đầu tư: Khu sản xuất giống tập trung huyện Bình Đại, tỉnh Bến Tre.\n\n**Điều 3. Đơn giá thuê đất**\n\nThực hiện theo quy định tại Quyết định số [05/2012/QĐ-UBND](/phap-luat/tim-van-ban.aspx?keyword=05/2012/QĐ-UBND&match=True&area=2&lan=1&bday=03/02/2012&eday=03/02/2012 \"05/2012/QĐ-UBND\") ngày 03 tháng 02 năm 2012 của Uỷ ban nhân dân tỉnh Bến Tre ban hành Quy định tỷ lệ tính tiền thuê đất, thuê mặt nước trên địa bàn tỉnh Bến Tre.\n\n**Điều 4. Mức thu sử dụng tiện ích hạ tầng**\n\n1\\. Mức thu sử dụng tiện ích hạ tầng 2.100 đồng/m2/năm (chưa bao gồm thuế giá trị gia tăng). Trường hợp, trả tiền một lần từ 30 năm trở lên sẽ được giảm bốn mươi phần trăm (40%).\n\n2\\. Mức thu sử dụng tiện ích hạ tầng được thu kể từ ngày có quyết định cho thuê đất của cơ quan nhà nước có thẩm quyền; trường hợp thời điểm bàn giao trên thực địa không đúng với thời điểm ghi trong quyết định cho thuê đất thì thu mức thu sử dụng tiện ích hạ tầng theo thời điểm bàn giao đất.\n\n**Điều 5. Chính sách miễn, giảm tiền thuê đất**\n\nÁp dụng theo quy định tại Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước; Nghị định số [121/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-121-2010-nd-cp-sua-doi-nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-116785.aspx \"Nghị định 121/2010/NĐ-CP\") ngày 30 tháng 12 năm 2010 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số [142/2005/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-142-2005-nd-cp-thu-tien-thue-dat-mat-nuoc-5667.aspx \"Nghị định 142/2005/NĐ-CP\") ngày 14 tháng 11 năm 2005 của Chính phủ về thu tiền thuê đất, thuê mặt nước; Nghị định số [61/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-61-2010-nd-cp-chinh-sach-khuyen-khich-doanh-nghiep-dau-tu-106781.aspx \"Nghị định 61/2010/NĐ-CP\") ngày 04 tháng 6 năm 2010 của Chính phủ về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn.\n\n**Điều 6. Trách nhiệm thực hiện**\n\n1\\. Giám đốc Sở Tài nguyên và Môi trường chủ trì, phối hợp với các cơ quan, đơn vị có liên quan tổ chức triển khai thực hiện Quyết định này.\n\n2\\. Chủ tịch Uỷ ban nhân dân huyện Bình Đại có tránh nhiệm công bố giá thuê đất, mức thu sử dụng tiện ích hạ tầng và chính sách miễn, giảm tiền thuê đất đối với Khu sản xuất giống tập trung huyện Bình Đại và hướng dẫn cho các tổ chức, cá nhân có liên quan biết để thực hiện nhằm thu hút đầu tư.\n\n3\\. Giám đốc Công ty Phát triển hạ tầng thực hiện quản lý và thu mức thu sử dụng tiện ích hạ tầng tại Khu sản xuất giống tập trung huyện Bình Đại.\n\n**Điều 7. Điều khoản thi hành**\n\n1\\. Chánh Văn phòng Uỷ ban nhân dân tỉnh; Giám đốc các Sở: Tài chính, Tài nguyên và Môi trường, Kế hoạch và Đầu tư; Nông nghiệp và Phát triển nông thôn; Cục trưởng Cục Thuế tỉnh; Chủ tịch Uỷ ban nhân dân huyện Bình Đại; Giám đốc Công ty Phát triển hạ tầng; Thủ trưởng các sở, ngành và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\n\n2\\. Quyết định này có hiệu lực sau 10 (mười) ngày kể từ ngày ký./.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n**  \n**Võ Thành Hạo**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,468 @@
+{
+  "title": "Quyết định 08/2014/QĐ-UBND về Quy trình thẩm tra, thẩm định và phê duyệt thiết kế trong dự án đầu tư xây dựng công trình và trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Sóc Trăng",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 176/2011/TT-BTC hướng dẫn chế độ thu, nộp và quản lý sử dụng phí thẩm định dự án đầu tư xây dựng do Bộ Tài chính ban hành",
+      "id": "176/2011/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Vũ Thị Mai"
+      ],
+      "issuedDate": "2011-12-06",
+      "effectiveDate": "2012-02-01",
+      "gazetteDate": "2011-12-29",
+      "gazetteNumber": "Từ số 653 đến số 654",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 13/2013/TT-BXD quy định về thẩm tra, thẩm định và phê duyệt thiết kế xây dựng công trình do Bộ trưởng Bộ Xây dựng ban hành",
+      "id": "13/2013/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2013-08-15",
+      "effectiveDate": "2013-09-30",
+      "gazetteDate": "2013-09-18",
+      "gazetteNumber": "Từ số 571 đến số 572",
+      "status": "Hết hiệu lực: 15/08/2016"
+    },
+    {
+      "title": "Thông tư 10/2013/TT-BXD hướng dẫn quản lý chất lượng công trình xây dựng do Bộ trưởng Bộ Xây dựng ban hành",
+      "id": "10/2013/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2013-07-25",
+      "effectiveDate": "2013-09-09",
+      "gazetteDate": "2013-08-19",
+      "gazetteNumber": "Từ số 487 đến số 488",
+      "status": "Hết hiệu lực: 15/12/2016"
+    },
+    {
+      "title": "Nghị định 15/2013/NĐ-CP về quản lý chất lượng công trình xây dựng",
+      "id": "15/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-02-06",
+      "effectiveDate": "2013-04-15",
+      "gazetteDate": "2013-02-17",
+      "gazetteNumber": "Từ số 109 đến số 110",
+      "status": "Hết hiệu lực: 05/08/2015"
+    },
+    {
+      "title": "Nghị định 112/2009/NĐ-CP về quản lý chi phí đầu tư xây dựng công trình",
+      "id": "112/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-12-14",
+      "effectiveDate": "2010-02-01",
+      "gazetteDate": "2009-12-24",
+      "gazetteNumber": "Từ số 593 đến số 594",
+      "status": "Hết hiệu lực: 10/05/2015"
+    },
+    {
+      "title": "Thông tư 03/2009/TT-BXD quy định chi tiết một số nội dung Nghị định 12/2009/NĐ-CP về quản lý dự án đầu tư xây dựng công trình do Bộ Xây dựng ban hành",
+      "id": "03/2009/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Hồng Quân"
+      ],
+      "issuedDate": "2009-03-26",
+      "effectiveDate": "2009-05-11",
+      "gazetteDate": "2009-04-21",
+      "gazetteNumber": "Từ số 213 đến số 214",
+      "status": "Hết hiệu lực: 15/08/2019"
+    },
+    {
+      "title": "Nghị định 12/2009/NĐ-CP về quản lý dự án đầu tư xây dựng công trình",
+      "id": "12/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-02-12",
+      "effectiveDate": "2009-04-02",
+      "gazetteDate": "2009-02-23",
+      "gazetteNumber": "Từ số 131 đến số 132",
+      "status": "Hết hiệu lực: 05/08/2015"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Luật xây dựng 2003",
+      "id": "16/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-07-01",
+      "gazetteDate": "2004-01-02",
+      "gazetteNumber": "Số 2",
+      "status": "Hết hiệu lực: 01/01/2015"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Quyết định 25/2014/QĐ-UBND sửa đổi Quyết định 08/2014/QĐ-UBND về Quy trình thẩm tra, thẩm định và phê duyệt thiết kế trong dự án đầu tư xây dựng công trình và trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Sóc Trăng",
+      "id": "25/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Trần Thành Nghiệp"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2014-11-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/01/2017"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 02/2017/QĐ-UBND bãi bỏ văn bản quy phạm pháp luật của Ủy ban nhân dân tỉnh Sóc Trăng",
+      "id": "02/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Lê Thành Trí"
+      ],
+      "issuedDate": "2017-01-12",
+      "effectiveDate": "2017-01-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 274/QĐ-UBND năm 2018 về công bố danh mục văn bản quy phạm pháp luật hết hiệu lực, ngưng hiệu lực toàn bộ, ngưng hiệu lực một phần của Hội đồng nhân dân, Ủy ban nhân dân tỉnh Sóc Trăng năm 2017",
+      "id": "274/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Lê Thành Trí"
+      ],
+      "issuedDate": "2018-01-29",
+      "effectiveDate": "2018-01-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 2387/QĐ-UBND năm 2014 về ủy quyền thực hiện công tác thẩm tra thiết kế công trình trên địa bàn tỉnh Sơn La",
+      "id": "2387/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Bùi Đức Hải"
+      ],
+      "issuedDate": "2014-09-10",
+      "effectiveDate": "2014-09-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 66/QĐ-SXD năm 2014 về quy trình tạm thời thẩm tra thiết kế xây dựng công trình tại Sở Xây dựng tỉnh Kon Tum",
+      "id": "66/QĐ-SXD",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Đỗ Hoàng Liên Sơn"
+      ],
+      "issuedDate": "2014-06-20",
+      "effectiveDate": "2014-06-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1153/QĐ-UBND năm 2014 phê duyệt dự án đầu tư xây dựng công trình cấp điện nông thôn tỉnh Bình Phước giai đoạn 2013-2020",
+      "id": "1153/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Nguyễn Văn Trăm"
+      ],
+      "issuedDate": "2014-06-04",
+      "effectiveDate": "2014-06-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1384/QĐ-UBND năm 2014 bãi bỏ Quyết định 2958/QĐ-UBND giao Sở Nông nghiệp và Phát triển nông thôn chủ trì thẩm định  dự án đầu tư bố trí sắp xếp dân cư theo Quyết định 193/2006/QĐ-TTg do tỉnh Sơn La ban hành",
+      "id": "1384/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2014-06-03",
+      "effectiveDate": "2014-06-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 04/2014/QĐ-UBND về Quy trình thẩm tra thiết kế công trình xây dựng của cơ quan quản lý nhà nước về xây dựng thực hiện trên địa bàn tỉnh Tuyên Quang",
+      "id": "04/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Chẩu Văn Lâm"
+      ],
+      "issuedDate": "2014-05-27",
+      "effectiveDate": "2014-06-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/12/2017"
+    },
+    {
+      "title": "Quyết định 05/2014/QĐ-UBND về Quy định trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Bắc Kạn",
+      "id": "05/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Lý Thái Hải"
+      ],
+      "issuedDate": "2014-04-25",
+      "effectiveDate": "2014-05-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Công văn 1024/UBND-CN năm 2014 hướng dẫn lập dự toán và quản lý chi phí đầu tư xây dựng công trình do tỉnh Tiền Giang ban hành",
+      "id": "1024/UBND-CN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Lê Văn Nghĩa"
+      ],
+      "issuedDate": "2014-03-14",
+      "effectiveDate": "2014-03-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 14/2014/QĐ-UBND về trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Long An",
+      "id": "14/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Long An",
+      "signers": [
+        "Đỗ Hữu Lâm"
+      ],
+      "issuedDate": "2014-03-10",
+      "effectiveDate": "2014-03-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/03/2017"
+    },
+    {
+      "title": "Quyết định 1491/QĐ-UBND năm 2014 về Quy chế thực hiện dự án đầu tư xây dựng công trình Xây dựng nút giao thông khác mức tại nút Ngã Ba Huế theo hình thức Hợp đồng Xây dựng - Chuyển giao (Hợp đồng BT) do thành phố Đà Nẵng ban hành",
+      "id": "1491/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Văn Hữu Chiến"
+      ],
+      "issuedDate": "2014-03-10",
+      "effectiveDate": "2014-03-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 04/2014/QĐ-UBND quy định phối hợp quản lý Nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Hà Nam",
+      "id": "04/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Hà Nam",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2014-01-23",
+      "effectiveDate": "2014-02-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/09/2016"
+    },
+    {
+      "title": "Quyết định 23/2013/QĐ-UBND quy định phân công, phân cấp trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Cà Mau",
+      "id": "23/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Dương Tiến Dũng"
+      ],
+      "issuedDate": "2013-12-31",
+      "effectiveDate": "2014-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/02/2018"
+    },
+    {
+      "title": "Quyết định 913/QĐ-UBND năm 2007 phê duyệt dự án đầu tư xây dựng công trình: Kè chống sạt lở bờ sông Long Bình và sông Cổ Chiên khu vực thị xã Trà Vinh - huyện Châu Thành, tỉnh Trà Vinh - giai đoạn II (Dự án lập lại)",
+      "id": "913/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Trà Vinh",
+      "signers": [
+        "Nguyễn Văn Phong"
+      ],
+      "issuedDate": "2007-06-26",
+      "effectiveDate": "2007-06-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    }
+  ],
+  "id": "08/2014/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Đầu tư",
+    "Bộ máy hành chính",
+    "Xây dựng - Đô thị"
+  ],
+  "organization": "Tỉnh Sóc Trăng",
+  "signers": [
+    "Trần Thành Nghiệp"
+  ],
+  "issuedDate": "2014-05-13",
+  "effectiveDate": "2014-05-23",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 25/01/2017",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA3ADMAMAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH SÓC TRĂNG<br>\n  --------</b></p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ----------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  08/2014/QĐ-UBND</p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Sóc Trăng, ngày\n  13 tháng 05 năm 2014</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">V/V\nBAN HÀNH QUY ĐỊNH QUY TRÌNH THẨM TRA, THẨM ĐỊNH VÀ PHÊ DUYỆT THIẾT KẾ TRONG DỰ\nÁN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG\nCÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức HĐND và Ủy ban nhân dân ngày\n26/11/2003</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Xây dựng ngày 26/11/2003;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 12/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-85068.aspx\">12/2009/NĐ-CP</a>  ngày\n12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 112/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx\">112/2009/NĐ-CP</a>  ngày\n14/12/2009 của Chính phủ về quản lý chi phí đầu tư xây dựng công trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  ngày\n06/02/2013 của Chính phủ về quản lý chất lượng công trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a>  ngày 26/3/2009\ncủa Bộ Xây dựng quy định chi tiết một số nội dung của Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 12/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-85068.aspx\">12/2009/NĐ-CP</a>  ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng\ncông trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 10/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-10-2013-tt-bxd-huong-dan-nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-203415.aspx\">10/2013/TT-BXD</a>  ngày 25/7/2013\ncủa Bộ Xây dựng quy định chi tiết một số nội dung về quản lý chất lượng công\ntrình xây dựng</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  ngày 15/8/2013\ncủa Bộ Xây dựng quy định thẩm tra, thẩm định và phê duyệt thiết kế xây dựng\ncông trình;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Theo đề nghị của Giám đốc Sở Xây dựng tỉnh Sóc\nTrăng,</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này quy định Quy trình thẩm\ntra, thẩm định và phê duyệt thiết kế trong dự án đầu tư xây dựng công trình và\ntrách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh\nSóc Trăng.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a> <a name=\"dieu_2_name\">Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày\nký.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh, Thủ trưởng các Sở, Ban ngành tỉnh\nChủ tịch UBND các huyện, thị xã, thành phố, tỉnh Sóc Trăng căn cứ Quyết định\nthi hành./.</a></p>\n\n<p style=\"margin-top:6.0pt;text-align:justify\"><b>&nbsp;</b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"566\"><!--VABWAFAATABfADIAMAAyADIAMAA3ADMAMAA=-->\n <tbody><tr>\n  <td width=\"262\" valign=\"top\" style=\"width:196.35pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span style=\"font-size:8.0pt\">&nbsp;</span></p>\n  <p style=\"margin-top:6.0pt\"><b>Nơi nhận:</b><br>\n  <span style=\"font-size:8.0pt\">- Như Điều 3;<br>\n  - Bộ Xây dựng;<br>\n  - Cục KTVBQPPL (Bộ Tư pháp);<br>\n  - TT.Tỉnh ủy, TT.HĐND tỉnh;<br>\n  - CT, các PCT. UBND tỉnh;<br>\n  - Cổng TTĐT tỉnh (Sở TT&amp;TT);<br>\n  - Lưu: XD, VX, KT, TH, NC, HC.</span></p>\n  </td>\n  <td width=\"304\" valign=\"top\" style=\"width:228.0pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  </b><br>\n  <br>\n  <br>\n  <br>\n  <b>Trần Thành Nghiệp</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\">QUY\nTRÌNH THẨM TRA, THẨM ĐỊNH VÀ PHÊ DUYỆT THIẾT KẾ TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG\nCÔNG TRÌNH VÀ TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG\nTRÊN ĐỊA BÀN TỈNH SÓC TRĂNG.</a><br>\n<i>(Kèm theo Quyết định số 08/2014/QĐ-UBND ngày 13/5/2014 của Ủy ban nhân dân tỉnh\nSóc Trăng)</i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b>Chương 1.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">MỘT SỐ QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>Điều 1. Đối tượng áp dụng và\nphạm vi điều chỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đối tượng áp dụng: Các chủ đầu tư, nhà thầu\ntrong nước, nhà thầu nước ngoài, các cơ quan quản lý nhà nước về xây dựng và\ncác tổ chức, cá nhân khác có liên quan đến công tác quản lý chất lượng các công\ntrình xây dựng.</p>\n\n<p style=\"margin-top:6.0pt\">Phạm vi điều chỉnh: Quy định quy trình thẩm tra, thẩm\nđịnh và phê duyệt thiết kế trong dự án đầu tư xây dựng công trình; trách nhiệm\nquản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Sóc Trăng\ntheo quy định tại Nghị đinh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  ngày 06/02/2013 của Chính phủ về\nquản lý chất lượng công trình.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b>Điều 2. Các công trình thuộc\nđối tượng phải thẩm tra thiết kế xây dựng công trình, kiểm tra công tác nghiệm\nthu đưa công trình vào sử dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Các công trình thuộc đối tượng phải thẩm tra thiết\nkế xây dựng công trình, kiểm tra công tác nghiệm thu đưa công trình vào sử dụng\nđược quy định tại Khoản 1 Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b>Chương 2.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">QUY TRÌNH THẨM TRA, THẨM\nĐỊNH VÀ PHÊ DUYỆT THIẾT KẾ TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>Điều 3. Quy trình thẩm tra,\nthẩm định và phê duyệt thiết kế sau thiết kế cơ sở trong dự án đầu tư xây dựng\ncông trình</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-692117')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-692117')\" atmm=\".lqhlTootip-692117\" onmouseout=\"hideddrivetip();\">1. Trình tự thực hiện thẩm tra,\nthẩm định và phê duyệt thiết kế sau thiết kế cơ sở trong dự án đầu tư xây dựng\nnhư sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">a) Sau khi thiết kế cơ sở đã được phê duyệt cùng với\ndự án đầu tư xây dựng công trình, chủ đầu tư gởi hồ sơ thiết kế đến cơ quan\nchuyên môn về xây dựng cấp tỉnh để thẩm tra thiết kế, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt\">- Sở Xây dựng: Các loại nhà máy xi măng cấp II, cấp\nIII; các công trình quy định tại Điểm a, Điểm b, Điểm e Khoản 1 Điều 21 của Nghị\nđịnh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ các công trình thuộc thẩm quyền thẩm tra của cơ quan\nchuyên môn về xây dựng trực thuộc Bộ Xây dựng;</p>\n\n<p style=\"margin-top:6.0pt\">- Sở Giao thông Vận tải: Các loại công trình quy định\ntại Điểm d Khoản 1 Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ các công trình thuộc\nthẩm quyền thẩm tra của cơ quan chuyên môn về xây dựng trực thuộc Bộ Giao thông\nVận tải;</p>\n\n<p style=\"margin-top:6.0pt\">- Sở Nông nghiệp và Phát triển nông thôn: Các loại\ncông trình quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ\ncác công trình thuộc thẩm quyền thẩm tra của cơ quan chuyên môn về xây dựng trực\nthuộc Bộ Nông nghiệp và Phát triển nông thôn;</p>\n\n<p style=\"margin-top:6.0pt\">- Sở Công thương: Các loại công trình quy định tại\nĐiểm c Khoản 1 Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ các công trình nhà máy\nxi măng và các công trình thuộc, thẩm quyền thẩm tra của cơ quan chuyên môn về\nxây dựng trực thuộc Bộ Công thương.</p>\n\n<p style=\"margin-top:6.0pt\">b) Cơ quan chuyên môn về xây dựng cấp tỉnh thẩm tra\nthiết kế xây dựng công trình theo các nội dung quy định tại Điều 4 Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  và thông báo kết quả thẩm tra đến chủ đầu tư;</p>\n\n<p style=\"margin-top:6.0pt\">c) Chủ đầu tư tổ chức thẩm định thiết kế theo quy định\ntại Khoản 3 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  và dự toán xây dựng công trình\ntheo quy định tại Khoản 1 Điều 10 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 112/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx\">112/2009/NĐ-CP</a> ;</p>\n\n<p style=\"margin-top:6.0pt\">Trong quá trình thẩm định, khi cần thiết chủ đầu tư\nthuê tổ chức, cá nhân có đủ điều kiện năng lực thực hiện thẩm tra các nội dung\nphục vụ thẩm định, phê duyệt thiết kế - dự toán;</p>\n\n<p style=\"margin-top:6.0pt\">d) Căn cứ vào kết quả thẩm tra của cơ quan chuyên\nmôn về xây dựng cấp tỉnh kết quả thẩm duyệt phòng cháy chữa cháy của cơ quan có\nthẩm quyền, kết quả thẩm định của mình, chủ đầu tư tổ chức phê duyệt thiết kế -\ndự toán.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thành phần hồ sơ trình thẩm tra thiết kế thực hiện\ntheo Điều 7 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\">3. Thời gian và chi phí thẩm tra thiết kế thực hiện\ntheo Điều 8 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4. Quy trình thẩm tra, thẩm\nđịnh và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công trình\ndo Chủ tịch UBND tỉnh quyết định đầu tư</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_2\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-692118')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-692118')\" atmm=\".lqhlTootip-692118\" onmouseout=\"hideddrivetip();\">1. Trình tự thực hiện thẩm tra,\nthẩm định và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công\ntrình do Chủ tịch UBND tỉnh quyết định đầu tư như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">a) Chủ đầu tư tổ chức thẩm định thiết kế theo quy định\ntại Khoản 3 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  và dự toán xây dựng công trình\ntheo quy định tại Khoản 1 Điều10 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 112/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx\">112/2009/NĐ-CP</a> ;</p>\n\n<p style=\"margin-top:6.0pt\">b) Chủ đầu tư trình cơ quan chuyên môn về xây dựng\ncấp tỉnh quy định tại Điểm a Khoản 1 Điều 3 Quy định này để thẩm định Báo cáo\nkinh tế - kỹ thuật, bao gồm:</p>\n\n<p style=\"margin-top:6.0pt\">- Thẩm tra thiết kế theo các nội dung quy định tại\nĐiều 4 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> ;</p>\n\n<p style=\"margin-top:6.0pt\">- Thẩm định thuyết minh Báo cáo kinh tế - kỹ thuật\ntheo các nội dung quy định tại Điểm đ Khoản 1 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\">c) Cơ quan chuyên môn về xây dựng cấp tỉnh tổng hợp\ntrình Chủ tịch UBND tỉnh phê duyệt hồ sơ Báo cáo kinh tế - kỹ thuật xây dựng\ncông trình.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thành phần hồ sơ trình thẩm tra thiết kế, thẩm định\nBáo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 7 Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  và Điểm b Khoản 1 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\">3. Thời gian, chi phí thẩm tra thiết kế, lệ phí thẩm\nđịnh Báo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 8 Thông\ntư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> , Điểm d Khoản 1 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a> , Thông\ntư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 176/2011/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/thong-tu-176-2011-tt-btc-huong-dan-che-do-thu-nop-va-quan-ly-su-dung-phi-tham-133050.aspx\">176/2011/TT-BTC</a>  ngày 06/12/2011 của Bộ Tài chính hướng dẫn chế độ thu, nộp\nvà quản lý sử dụng phí thẩm định dự án đầu tư xây dựng.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b>Điều 5. Quy trình thẩm tra, thẩm\nđịnh và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công trình\ndo Chủ tịch UBND cấp huyện, thị xã, thành phố (gọi chung là cấp huyện) quyết định\nđầu tư</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_3\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-692119')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-692119')\" atmm=\".lqhlTootip-692119\" onmouseout=\"hideddrivetip();\">1. Trình tự thực hiện thẩm tra,\nthẩm định và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công\ntrình do Chủ tịch UBND huyện quyết định đầu tư như sau:</a></p>\n\n<p style=\"margin-top:6.0pt\">a) Chủ đầu tư trình cơ quan chuyên môn về xây dựng\ncấp tỉnh theo quy định tại Điểm a Khoản 1 Điều 3 Quy định này thẩm tra thiết kế\ntheo các nội dung quy định tại Điều 4 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> ;</p>\n\n<p style=\"margin-top:6.0pt\">b) Sau khi có kết quả thẩm tra thiết kế của cơ quan\nchuyên môn về xây dựng cấp tỉnh, chủ đầu tư tổ chức thẩm định thiết kế theo quy\nđịnh tại Khoản 3 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> , dự toán xây dựng công trình\ntheo quy định tại Khoản 1 Điều 10 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 112/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx\">112/2009/NĐ-CP</a>  và gửi kết quả về\nPhòng chuyên môn về xây dựng cấp huyện để thẩm định phần thuyết minh Báo cáo\nkinh tế - kỹ thuật xây dựng công trình;</p>\n\n<p style=\"margin-top:6.0pt\">c) Phòng chuyên môn về xây dựng cấp huyện thẩm định\nphần thuyết minh Báo cáo kinh tế - kỹ thuật theo các nội dung quy định tại Điểm\nđ Khoản 1 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a>  và tổng hợp cùng với kết quả thẩm\ntra thiết kế của cơ quan chuyên môn về xây dựng cấp tỉnh, kết quả thẩm định thiết\nkế - dự toán của chủ đầu tư trình Chủ tịch UBND cấp huyện phê duyệt hồ sơ Báo\ncáo kinh tế - kỹ thuật xây dựng công trình;</p>\n\n<p style=\"margin-top:6.0pt\">d) Chủ tịch UBND huyện, thị xã, thành phố căn cứ chức\nnăng, nhiệm vụ của các đơn vị trực thuộc được cơ quan có thẩm quyền quy định và\ncác quy định có liên quan để giao nhiệm vụ thẩm định thuyết minh Báo cáo kinh tế\n- kỹ thuật cho các phòng chuyên môn về xây dựng cấp huyện (Phòng Kinh tế và Hạ\ntầng, Phòng Nông nghiệp và phát triển nông thôn đối với huyện; Phòng Quản lý đô\nthị và Phòng Kinh tế đối với thị xã, thành phố).</p>\n\n<p style=\"margin-top:6.0pt\">2. Thành phần hồ sơ trình thẩm tra thiết kế, thẩm định\nBáo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 7 Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  và Điểm b Khoản 1 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\">3. Thời gian, chi phí thẩm tra thiết kế, lệ phí thẩm\nđịnh Báo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 8 Thông\ntư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a> , Điểm d Khoản 1 Điều 3 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 03/2009/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx\">03/2009/TT-BXD</a> , Thông\ntư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 176/2011/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/thong-tu-176-2011-tt-btc-huong-dan-che-do-thu-nop-va-quan-ly-su-dung-phi-tham-133050.aspx\">176/2011/TT-BTC</a> .</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-692120')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-692120')\" atmm=\".lqhlTootip-692120\" onmouseout=\"hideddrivetip();\"><b>Điều 6. Trường hợp cơ quan\nchuyên môn về xây dựng cấp tỉnh thực hiện chỉ định tổ chức tư vấn thẩm tra thiết\nkế</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Trong thời gian 5 ngày làm việc, cơ quan chuyên\nmôn về xây dựng cấp tỉnh lựa chọn tổ chức có chức năng tư vấn thẩm tra thiết kế\nđã được công bố công khai trên trang thông tin điện tử của Bộ Xây dựng và có đủ\nđiều kiện năng lực thẩm tra thiết kế phù hợp với loại và cấp công trình theo\nquy định của pháp luật để chỉ định thẩm tra một phần hoặc toàn bộ các nội dung\nthẩm tra theo quy định tại Điều 4 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  và thông báo bằng\nvăn bản đến chủ đầu tư và tổ chức tư vấn để ký hợp đồng tư vấn thẩm tra.</p>\n\n<p style=\"margin-top:6.0pt\">2. Thời gian thực hiện thẩm tra thiết kế của tổ chức\ntư vấn thẩm tra theo hợp đồng tư vấn thẩm tra giữa tổ chức tư vấn thẩm tra và\nchủ đầu tư.</p>\n\n<p style=\"margin-top:6.0pt\">3. Sau khi có kết quả thẩm tra của tổ chức tư vấn,\nchủ đầu tư báo cáo về cơ quan chuyên môn về xây dựng cấp tỉnh để các cơ quan\nnày tổng hợp và thông báo kết quả cho chủ đầu tư trong trường hợp thẩm tra thiết\nkế sau thiết kế cơ sở và trong Báo cáo kinh tế kỹ thuật do UBND cấp huyện làm\nchủ đầu tư, trình Chủ tịch UBND tỉnh phê duyệt trong trường hợp thẩm định Báo cáo\nkinh tế kỹ thuật do Chủ tịch UBND tỉnh quyết định đầu tư.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b>Chương 3.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TRÁCH NHIỆM QUẢN LÝ NHÀ\nNƯỚC VỀ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b>Điều 7. Trách nhiệm của chủ đầu\ntư</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Chủ đầu tư chịu trách nhiệm quản lý toàn diện về chất\nlượng công trình xây dựng và hiệu quả dự án từ giai đoạn khảo sát, lập dự án đầu\ntư, thiết kế kỹ thuật đến giai đoạn triển khai thi công, nghiệm thu bàn giao,\nđưa công trình vào khai thác sử dụng và bảo hành công trình theo quy định tại\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  và Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 10/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-10-2013-tt-bxd-huong-dan-nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-203415.aspx\">10/2013/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b>Điều 8. Trách nhiệm của Sử Xây\ndựng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Sở Xây dựng là cơ quan đầu mối giúp UBND cấp tỉnh\nthống nhất quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn, thực\nhiện các việc sau:</p>\n\n<p style=\"margin-top:6.0pt\">1. Trình Chủ tịch UBND tỉnh ban hành các văn bản hướng\ndẫn triển khai các văn bản quy phạm pháp luật về quản lý chất lượng công trình\nxây dựng trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\">2. Hướng dẫn UBND cấp huyện, các tổ chức và cá nhân\ntham gia xây dựng công trình thực hiện các quy định của pháp luật về quản lý chất\nlượng công trình xây dựng.</p>\n\n<p style=\"margin-top:6.0pt\">3. Kiểm tra thường xuyên, định kỳ theo kế hoạch và\nkiểm tra đột xuất công tác quản lý chất lượng của các cơ quan, tổ chức, cá nhân\ntham gia xây dựng công trình và chất lượng các công trình xây dựng trên địa\nbàn, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Hàng năm lập kế hoạch kiểm tra định kỳ công tác\nquản lý nhà nước về chất lượng công trình xây dựng chuyên ngành của các Sở quản\nlý công trình xây dựng chuyên ngành, công tác quản lý nhà nước về chất lượng\ncông trình xây dựng của UBND cấp huyện và chất lượng các công trình xây dựng\ndân dụng, công nghiệp, hạ tầng kỹ thuật đầu tư xây dựng trên địa bàn;</p>\n\n<p style=\"margin-top:6.0pt\">b) Chủ trì cùng các Sở, ngành có liên quan tổ chức\nkiểm tra chất lượng các công trình xây dựng (không phân biệt nguồn vốn và cấp\nquản lý nguồn vốn) theo yêu cầu của UBND tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">c) Kiểm tra đột xuất về công tác quản lý chất lượng\nvà chất lượng công trình xây dựng trên địa bàn tỉnh không phân biệt nguồn vốn.</p>\n\n<p style=\"margin-top:6.0pt\">Việc tổ chức kiểm tra theo kế hoạch được thực hiện\nthường xuyên và chia làm nhiều đợt trong năm, kết quả kiểm tra từng đợt phải được\nbáo cáo về UBND tỉnh.</p>\n\n<p style=\"margin-top:6.0pt\">4. Phối hợp với Sở quản lý công trình xây dựng\nchuyên ngành kiểm tra việc tuân thủ quy định về quản lý chất lượng công trình\nxây dựng chuyên ngành.</p>\n\n<p style=\"margin-top:6.0pt\">5. Thẩm tra thiết kế xây dựng công trình theo quy định\ntại các Điều 3, 4, 5 Quy định này và chịu trách nhiệm về kết quả thẩm tra này.</p>\n\n<p style=\"margin-top:6.0pt\">6. Công bố trên trang thông tin điện tử do Sở quản\nlý về thông tin năng lực của các tổ chức, cá nhân hoạt động xây dựng công trình\ntrên địa bàn theo quy định tại Khoản 1 Điều 8 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> .</p>\n\n<p style=\"margin-top:6.0pt\">7. Giúp UBND cấp tỉnh tổ chức giám định chất lượng\ncông trình xây dựng khi được yêu cầu và tổ chức giám định nguyên nhân sự cố\ntheo quy định tại Điều 39 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> ; theo dõi, tổng hợp, báo\ncáo UBND cấp tỉnh về tình hình sự cố trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\">8. Kiểm tra công tác nghiệm thu, bàn giao đưa công\ntrình vào sử dụng theo quy định tại Điều 32 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  đối với\ncông trình chuyên ngành do Sở quản lý, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Các loại nhà máy xi măng cấp II, cấp III; các\ncông trình quy định tại Điểm a, Điểm b, Điểm e Khoản 1 Điều 21 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ các công trình sau: các công trình do cơ quan chuyên môn thuộc\nBộ Xây dựng kiểm tra; các công trình cấp III, IV thuộc thẩm quyền quyết định đầu\ntư của UBND cấp huyện, các công trình cấp III, IV đầu tư xây dựng trong các khu\ncông nghiệp, khu đô thị;</p>\n\n<p style=\"margin-top:6.0pt\">b) Tham gia, phối hợp kiểm tra lần cuối công tác\nnghiệm thu các công trình xây dựng chuyên ngành do các Sở quản lý công trình\nxây dựng chuyên ngành chủ trì.</p>\n\n<p style=\"margin-top:6.0pt\">9. Báo cáo UBND cấp tỉnh định kỳ, đột xuất về việc\ntuân thủ quy định về quản lý chất lượng công trình xây dựng và tình hình chất\nlượng công trình xây dựng trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\">10. Giúp UBND tỉnh tổng hợp và báo cáo Bộ Xây dựng\nvề tình hình chất lượng công trình xây dựng trên địa bàn định kỳ 06 tháng và đột\nxuất; báo cáo danh sách các nhà thầu vi phạm quy định về quản lý chất lượng\ncông trình khi tham gia các hoạt động xây dựng trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b>Điều 9. Trách nhiệm của các Sở\nquản lý công trình xây dựng chuyên ngành</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Chủ trì, phối hợp với Sở Xây dựng kiểm tra thường\nxuyên, định kỳ theo kế hoạch và kiểm tra đột xuất công tác quản lý chất lượng của\ntổ chức, cá nhân tham gia xây dựng công trình chuyên ngành và chất lượng các\ncông trình xây dựng chuyên ngành trên địa bàn tỉnh, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Hàng năm lập kế hoạch kiểm tra định kỳ công tác\nquản lý chất lượng và chất lượng các công trình xây dựng chuyên ngành trên địa\nbàn tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">b) Chủ trì cùng các Sở, ngành có liên quan tổ chức\nkiểm tra chất lượng các công trình xây dựng chuyên ngành (không phân biệt nguồn\nvốn và cấp quản lý nguồn vốn) theo yêu cầu của UBND tỉnh;</p>\n\n<p style=\"margin-top:6.0pt\">c) Kiểm tra đột xuất về công tác quản lý chất lượng\nvà chất lượng công trình xây dựng chuyên ngành trên địa bàn tỉnh không phân biệt\nnguồn vốn.</p>\n\n<p style=\"margin-top:6.0pt\">Việc tổ chức kiểm tra theo kế hoạch được thực hiện\nthường xuyên, và chia làm nhiều đợt trong năm, kết quả kiểm tra từng đợt phải\nđược báo cáo về UBND tỉnh và gửi cho Sở Xây dựng.</p>\n\n<p style=\"margin-top:6.0pt\">2. Giúp UBND cấp tỉnh thẩm tra thiết kế xây dựng\ncông trình chuyên ngành theo các Điều 3, 4, 5 Quy định này và chịu trách nhiệm\nvề kết quả thẩm tra này.</p>\n\n<p style=\"margin-top:6.0pt\">3. Chủ trì, phối hợp với Sở Xây dựng kiểm tra công\ntác nghiệm thu, bàn giao đưa công trình vào sử dụng theo quy định tại Điều 32\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  đối với công trình chuyên ngành, cụ thể như sau:</p>\n\n<p style=\"margin-top:6.0pt\">a) Sở Giao thông Vận tải: Các loại công trình quy định\ntại Điểm d Khoản 1 Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ các công trình sau:\ncác công trình do cơ quan chuyên môn về xây dựng trực thuộc Bộ Giao thông Vận tải\nkiểm tra; các công trình cấp III, IV thuộc thẩm quyền quyết định đầu tư của\nUBND cấp huyện, các công trình cấp III, IV đầu tư xây dựng trong các khu công\nnghiệp, khu đô thị;</p>\n\n<p style=\"margin-top:6.0pt\">b) Sở Nông nghiệp và Phát triển nông thôn: Các loại\ncông trình quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ\ncác công trình sau: các công trình do cơ quan chuyên môn về xây dựng trực thuộc\nBộ Nông nghiệp và Phát triển nông thôn kiểm tra; các công trình cấp III, IV thuộc\nthẩm quyền quyết định đầu tư của UBND cấp huyện, các công trình cấp III, IV đầu\ntư xây dựng trong các khu công nghiệp, khu đô thị;</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"khoan_4\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-692121')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-692121')\" atmm=\".lqhlTootip-692121\" onmouseout=\"hideddrivetip();\">c) Sở Công thương: Các loại công\ntrình quy định tại Điểm c Khoản 1 Điều 21 Nghị định số </a><a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , trừ các\ncông trình sau: các công trình nhà máy măng, công trình do cơ quan chuyên môn về\nxây dựng trực thuộc Bộ Công thương kiểm tra; các công trình cấp III, IV thuộc\nthẩm quyền quyết định đầu tư của UBND cấp huyện, các công trình cấp III, IV đầu\ntư xây dựng trong các khu công nghiệp, khu đô thị;</p>\n\n<p style=\"margin-top:6.0pt\">d) Các Sở quản lý công trình xây dựng chuyên ngành\ncó trách nhiệm mời Sở Xây dựng tham gia kiểm tra lần cuối công tác nghiệm thu\ncác công trình xây dựng chuyên ngành theo quy định tại Điểm c Khoản 2 Điền 45\nNghị định số 15/2013/NĐ-CP</p>\n\n<p style=\"margin-top:6.0pt\">4. Phối hợp với Sở Xây dựng tổ chức giám định chất\nlượng công trình xây dựng chuyên ngành khi được yêu cầu và tổ chức giám định\nnguyên nhân sự cố đối với công trình xây dựng chuyên ngành.</p>\n\n<p style=\"margin-top:6.0pt\">5. Tổng hợp và báo cáo UBND tỉnh và Sở Xây dựng định\nkỳ 06 tháng, đột xuất về việc tuân thủ quy định về quản lý chất lượng công\ntrình xây dựng chuyên ngành và tình hình chất lượng công trình xây dựng đối với\ncác công trình xây dựng chuyên ngành trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b>Điều 10. Trách nhiệm của UBND\ncấp huyện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Hướng dẫn UBND cấp xã, các tổ chức và cá nhân\ntham gia hoạt động xây dựng trên địa bàn thực hiện các văn bản quy phạm pháp luật\nvề quản lý chất lượng công trình xây dựng.</p>\n\n<p style=\"margin-top:6.0pt\">2. Tổ chức kiểm tra định kỳ, đột xuất việc tuân thủ\nquy định về quản lý chất lượng công trình xây dựng đối với các công trình xây dựng\ndo Chủ tịch UBND cấp huyện quyết định đầu tư và cấp giấy phép xây dựng trên địa\nbàn.</p>\n\n<p style=\"margin-top:6.0pt\">Việc tổ chức kiểm tra theo kế hoạch được thực hiện\nthường xuyên, và chia làm nhiều đợt trong năm. Kết quả kiểm tra từng đợt phải\nđược gởi về UBND cấp huyện, Sở Xây dựng và Sở có quản lý công trình xây dựng\nchuyên ngành (đối với công trình xây dựng chuyên ngành).</p>\n\n<p style=\"margin-top:6.0pt\">3. Phối hợp với Sở Xây dựng, Sở quản lý công trình\nxây dựng chuyên ngành kiểm tra công trình xây dựng trên địa bàn khi được yêu cầu.\n</p>\n\n<p style=\"margin-top:6.0pt\">4. Tổ chức thực hiện kiểm tra công tác nghiệm thu,\nbàn giao đưa công trình vào sử dụng đối với các công trình xây dựng cấp III, IV\ndo Chủ tịch UBND cấp huyện quyết định đầu tư.</p>\n\n<p style=\"margin-top:6.0pt\">5. Chủ tịch UBND huyện, thị xã, thành phố căn cứ chức\nnăng, nhiệm vụ của các đơn vị trực thuộc được cơ quan có thẩm quyền quy định và\ncác quy định có liên quan để giao nhiệm vụ kiểm tra việc tuân thủ quy định về\nquản lý chất lượng, kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử\ndụng cho các Phòng chuyên môn về xây dựng cấp huyện ( Phòng Kinh tế và Hạ tầng,\nPhòng Nông nghiệp và Phát triển nông thôn đối với huyện; Phòng Quản lý đô thị\nvà Phòng Kinh tế đối với thị xã, thành phố).</p>\n\n<p style=\"margin-top:6.0pt\">6. Báo cáo sự cố và giải quyết sự cố theo quy định\ntại Điều 37, Điều 38 Nghị định số 15/2013/NĐ-CP</p>\n\n<p style=\"margin-top:6.0pt\">7. Tổng hợp và báo cáo UBND tỉnh và Sở Xây dựng định\nkỳ 06 tháng, đột xuất việc tuân thủ quy định về quản lý chất lượng công trình\nxây dựng và tình hình chất lượng công trình xây dựng trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b>Điều 11. Trách nhiệm của Ban\nQuản lý các khu công nghiệp, Ban quản lý khu đô thị</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đối với các công trình xin cấp phép xây dựng\ntrong khu công nghiệp khu đô thị thuộc đối tượng phải thẩm tra thiết kế theo\nquy định tại Điều 21 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a> , Ban Quản lý các khu công nghiệp,\nkhu đô thị có trách nhiệm gởi hồ sơ dự án đầu tư xây dựng công trình đến các cơ\nquan theo quy định tại Khoản 1 Điều 2 Quy định này để thẩm tra thiết kế và sau\nđó tổng hợp gởi đến các cơ quan có thẩm quyền cấp giấy phép xây dựng để xin cấp\ngiấy phép xây dựng theo quy định.</p>\n\n<p style=\"margin-top:6.0pt\">2. Hàng năm lập kế hoạch và danh mục dự án đầu tư\nxây dựng công trình để kiểm tra thường xuyên, định kỳ theo kế hoạch và kiểm tra\nđột xuất công tác quản lý chất lượng của tổ chức, cá nhân tham gia xây dựng\ncông trình và chất lượng các công trình xây dựng trong các khu công nghiệp, khu\nđô thị do mình quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">3. Kiểm tra công tác nghiệm thu, bàn giao đưa công\ntrình vào sử dụng theo quy định tại Điều 32 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  đối với\ncác công trình xây dựng cấp III, IV trong các khu công nghiệp, khu đô thị do\nmình quản lý.</p>\n\n<p style=\"margin-top:6.0pt\">4. Tổng hợp và báo cáo UBND tỉnh và Sở Xây dựng định\nkỳ 06 tháng, đột xuất việc tuân thủ quy định về quản lý chất lượng công trình\nxây dựng và tình hình chất lượng công trình xây dựng trong khu công nghiệp, khu\nđô thị do mình quản lý.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-692156')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-692156')\" atmm=\".lqhlTootip-692156\" onmouseout=\"hideddrivetip();\"><b>Điều 12. Quy trình kiểm tra\ncông tác nghiệm thu, bàn giao đưa công trình vào sử dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Thực hiện theo quy định tại Điều 32 Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 15/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx\">15/2013/NĐ-CP</a>  và Điều 24 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 10/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-10-2013-tt-bxd-huong-dan-nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-203415.aspx\">10/2013/TT-BXD</a> .</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b>Chương 4.</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b>Điều 13. Xử lý chuyển tiếp</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Các dự án đầu tư xây dựng công trình đã được phê\nduyệt thiết kế cơ sở trước ngày Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  có hiệu lực nhưng\nchưa triển khai thiết kế kỹ thuật (trường hợp thiết kế ba bước) hoặc thiết kế bản\nvẽ thi công (trường hợp thiết kế hai bước) - tổng dự toán thì khi triển khai chủ\nđầu tư phải tổ chức thẩm định và gởi kết quả đến Cơ quan chuyên môn về xây dựng\ncấp tỉnh để tham tra thiết kế bản vẽ thi công - tổng dự toán theo Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\">2. Đối với các công trình đã được phê duyệt trước\nngày Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 13/2013/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx\">13/2013/TT-BXD</a>  có hiệu lực nay điều chỉnh thiết kế do thay đổi\nvề địa chất công trình, tải trọng thiết kế, giải pháp kết cấu, vật liệu chính của\nkết cấu chịu lực chính, biện pháp tổ chức thi công làm ảnh hưởng tới an toàn chịu\nlực của công trình thì phải tổ chức thẩm định, thẩm tra và phê duyệt lại thiết\nkế hạng mục thay đổi hoặc toàn bộ công trình theo Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b>Điều 14. Tổ chức thực hiện</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Giám đốc Sở Xây dựng có trách nhiệm:</p>\n\n<p style=\"margin-top:6.0pt\">a) Phối hợp với các Sở, ngành và UBND các huyện, thị\nxã, thành phố tổ chức triển khai thực hiện Quy định này;</p>\n\n<p style=\"margin-top:6.0pt\">b) Tổ chức kiểm tra, hướng dẫn việc thực hiện Quy định\nnày;</p>\n\n<p style=\"margin-top:6.0pt\">c) Theo dõi, tổng hợp đề nghị của các địa phương,\nđơn vị trong quá trình thực hiện hoặc khi có quy định mới của các Bộ ngành\nTrung ương, nếu thấy cần thiết thì kiến nghị UBND tỉnh điều chỉnh, bổ sung kịp\nthời Quy định này.</p>\n\n<p style=\"margin-top:6.0pt\">2. Cơ quan chuyên môn về xây dựng cấp tỉnh và UBND\ncấp huyện có trách nhiệm niêm yết công khai Quy trình thẩm tra thiết kế và Quy\ntrình kiểm tra công tác nghiệm thu đưa công trình vào sử dụng trên trang thông\ntin điện tử và tại nơi tiếp nhận hồ sơ của cơ quan./.</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH SÓC TRĂNG  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\----------------**\n\nSố: 08/2014/QĐ-UBND\n\n_Sóc Trăng, ngày 13 tháng 05 năm 2014_\n\n**QUYẾT ĐỊNH**\n\nV/V BAN HÀNH QUY ĐỊNH QUY TRÌNH THẨM TRA, THẨM ĐỊNH VÀ PHÊ DUYỆT THIẾT KẾ TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG\n\n**ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG**\n\n_Căn cứ Luật Tổ chức HĐND và Ủy ban nhân dân ngày 26/11/2003_\n\n_Căn cứ Luật Xây dựng ngày 26/11/2003;_\n\n_Căn cứ Nghị định số [12/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-85068.aspx \"Nghị định 12/2009/NĐ-CP\") ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;_\n\n_Căn cứ Nghị định số [112/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx \"Nghị định 112/2009/NĐ-CP\") ngày 14/12/2009 của Chính phủ về quản lý chi phí đầu tư xây dựng công trình;_\n\n_Căn cứ Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") ngày 06/02/2013 của Chính phủ về quản lý chất lượng công trình;_\n\n_Căn cứ Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") ngày 26/3/2009 của Bộ Xây dựng quy định chi tiết một số nội dung của Nghị định số [12/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-85068.aspx \"Nghị định 12/2009/NĐ-CP\") ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;_\n\n_Căn cứ Thông tư số [10/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-10-2013-tt-bxd-huong-dan-nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-203415.aspx \"Thông tư 10/2013/TT-BXD\") ngày 25/7/2013 của Bộ Xây dựng quy định chi tiết một số nội dung về quản lý chất lượng công trình xây dựng_\n\n_Căn cứ Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") ngày 15/8/2013 của Bộ Xây dựng quy định thẩm tra, thẩm định và phê duyệt thiết kế xây dựng công trình;_\n\n_Theo đề nghị của Giám đốc Sở Xây dựng tỉnh Sóc Trăng,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này quy định Quy trình thẩm tra, thẩm định và phê duyệt thiết kế trong dự án đầu tư xây dựng công trình và trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Sóc Trăng.\n\n**Điều 2.** Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.\n\n**Điều 3.** Chánh Văn phòng UBND tỉnh, Thủ trưởng các Sở, Ban ngành tỉnh Chủ tịch UBND các huyện, thị xã, thành phố, tỉnh Sóc Trăng căn cứ Quyết định thi hành./.\n\n**Nơi nhận:**  \n\\- Như Điều 3;  \n\\- Bộ Xây dựng;  \n\\- Cục KTVBQPPL (Bộ Tư pháp);  \n\\- TT.Tỉnh ủy, TT.HĐND tỉnh;  \n\\- CT, các PCT. UBND tỉnh;  \n\\- Cổng TTĐT tỉnh (Sở TT&TT);  \n\\- Lưu: XD, VX, KT, TH, NC, HC.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n**  \n  \n  \n  \n**Trần Thành Nghiệp**\n\n**QUY ĐỊNH**\n\nQUY TRÌNH THẨM TRA, THẨM ĐỊNH VÀ PHÊ DUYỆT THIẾT KẾ TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG.  \n_(Kèm theo Quyết định số 08/2014/QĐ-UBND ngày 13/5/2014 của Ủy ban nhân dân tỉnh Sóc Trăng)_\n\n**Chương 1.**\n\n**MỘT SỐ QUY ĐỊNH CHUNG**\n\n**Điều 1. Đối tượng áp dụng và phạm vi điều chỉnh**\n\n1\\. Đối tượng áp dụng: Các chủ đầu tư, nhà thầu trong nước, nhà thầu nước ngoài, các cơ quan quản lý nhà nước về xây dựng và các tổ chức, cá nhân khác có liên quan đến công tác quản lý chất lượng các công trình xây dựng.\n\nPhạm vi điều chỉnh: Quy định quy trình thẩm tra, thẩm định và phê duyệt thiết kế trong dự án đầu tư xây dựng công trình; trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn tỉnh Sóc Trăng theo quy định tại Nghị đinh số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") ngày 06/02/2013 của Chính phủ về quản lý chất lượng công trình.\n\n**Điều 2. Các công trình thuộc đối tượng phải thẩm tra thiết kế xây dựng công trình, kiểm tra công tác nghiệm thu đưa công trình vào sử dụng**\n\nCác công trình thuộc đối tượng phải thẩm tra thiết kế xây dựng công trình, kiểm tra công tác nghiệm thu đưa công trình vào sử dụng được quy định tại Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") .\n\n**Chương 2.**\n\n**QUY TRÌNH THẨM TRA, THẨM ĐỊNH VÀ PHÊ DUYỆT THIẾT KẾ TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH**\n\n**Điều 3. Quy trình thẩm tra, thẩm định và phê duyệt thiết kế sau thiết kế cơ sở trong dự án đầu tư xây dựng công trình**\n\n1\\. Trình tự thực hiện thẩm tra, thẩm định và phê duyệt thiết kế sau thiết kế cơ sở trong dự án đầu tư xây dựng như sau:\n\na) Sau khi thiết kế cơ sở đã được phê duyệt cùng với dự án đầu tư xây dựng công trình, chủ đầu tư gởi hồ sơ thiết kế đến cơ quan chuyên môn về xây dựng cấp tỉnh để thẩm tra thiết kế, cụ thể như sau:\n\n\\- Sở Xây dựng: Các loại nhà máy xi măng cấp II, cấp III; các công trình quy định tại Điểm a, Điểm b, Điểm e Khoản 1 Điều 21 của Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình thuộc thẩm quyền thẩm tra của cơ quan chuyên môn về xây dựng trực thuộc Bộ Xây dựng;\n\n\\- Sở Giao thông Vận tải: Các loại công trình quy định tại Điểm d Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình thuộc thẩm quyền thẩm tra của cơ quan chuyên môn về xây dựng trực thuộc Bộ Giao thông Vận tải;\n\n\\- Sở Nông nghiệp và Phát triển nông thôn: Các loại công trình quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình thuộc thẩm quyền thẩm tra của cơ quan chuyên môn về xây dựng trực thuộc Bộ Nông nghiệp và Phát triển nông thôn;\n\n\\- Sở Công thương: Các loại công trình quy định tại Điểm c Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình nhà máy xi măng và các công trình thuộc, thẩm quyền thẩm tra của cơ quan chuyên môn về xây dựng trực thuộc Bộ Công thương.\n\nb) Cơ quan chuyên môn về xây dựng cấp tỉnh thẩm tra thiết kế xây dựng công trình theo các nội dung quy định tại Điều 4 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") và thông báo kết quả thẩm tra đến chủ đầu tư;\n\nc) Chủ đầu tư tổ chức thẩm định thiết kế theo quy định tại Khoản 3 Điều 3 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") và dự toán xây dựng công trình theo quy định tại Khoản 1 Điều 10 Nghị định số [112/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx \"Nghị định 112/2009/NĐ-CP\") ;\n\nTrong quá trình thẩm định, khi cần thiết chủ đầu tư thuê tổ chức, cá nhân có đủ điều kiện năng lực thực hiện thẩm tra các nội dung phục vụ thẩm định, phê duyệt thiết kế - dự toán;\n\nd) Căn cứ vào kết quả thẩm tra của cơ quan chuyên môn về xây dựng cấp tỉnh kết quả thẩm duyệt phòng cháy chữa cháy của cơ quan có thẩm quyền, kết quả thẩm định của mình, chủ đầu tư tổ chức phê duyệt thiết kế - dự toán.\n\n2\\. Thành phần hồ sơ trình thẩm tra thiết kế thực hiện theo Điều 7 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") .\n\n3\\. Thời gian và chi phí thẩm tra thiết kế thực hiện theo Điều 8 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") .\n\n**Điều 4. Quy trình thẩm tra, thẩm định và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công trình do Chủ tịch UBND tỉnh quyết định đầu tư**\n\n1\\. Trình tự thực hiện thẩm tra, thẩm định và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công trình do Chủ tịch UBND tỉnh quyết định đầu tư như sau:\n\na) Chủ đầu tư tổ chức thẩm định thiết kế theo quy định tại Khoản 3 Điều 3 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") và dự toán xây dựng công trình theo quy định tại Khoản 1 Điều10 Nghị định số [112/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx \"Nghị định 112/2009/NĐ-CP\") ;\n\nb) Chủ đầu tư trình cơ quan chuyên môn về xây dựng cấp tỉnh quy định tại Điểm a Khoản 1 Điều 3 Quy định này để thẩm định Báo cáo kinh tế - kỹ thuật, bao gồm:\n\n\\- Thẩm tra thiết kế theo các nội dung quy định tại Điều 4 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") ;\n\n\\- Thẩm định thuyết minh Báo cáo kinh tế - kỹ thuật theo các nội dung quy định tại Điểm đ Khoản 1 Điều 3 Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") .\n\nc) Cơ quan chuyên môn về xây dựng cấp tỉnh tổng hợp trình Chủ tịch UBND tỉnh phê duyệt hồ sơ Báo cáo kinh tế - kỹ thuật xây dựng công trình.\n\n2\\. Thành phần hồ sơ trình thẩm tra thiết kế, thẩm định Báo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 7 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") và Điểm b Khoản 1 Điều 3 Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") .\n\n3\\. Thời gian, chi phí thẩm tra thiết kế, lệ phí thẩm định Báo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 8 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") , Điểm d Khoản 1 Điều 3 Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") , Thông tư số [176/2011/TT-BTC](https://thuvienphapluat.vn/van-ban/dau-tu/thong-tu-176-2011-tt-btc-huong-dan-che-do-thu-nop-va-quan-ly-su-dung-phi-tham-133050.aspx \"Thông tư 176/2011/TT-BTC\") ngày 06/12/2011 của Bộ Tài chính hướng dẫn chế độ thu, nộp và quản lý sử dụng phí thẩm định dự án đầu tư xây dựng.\n\n**Điều 5. Quy trình thẩm tra, thẩm định và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công trình do Chủ tịch UBND cấp huyện, thị xã, thành phố (gọi chung là cấp huyện) quyết định đầu tư**\n\n1\\. Trình tự thực hiện thẩm tra, thẩm định và phê duyệt thiết kế trong Báo cáo kinh tế - kỹ thuật xây dựng công trình do Chủ tịch UBND huyện quyết định đầu tư như sau:\n\na) Chủ đầu tư trình cơ quan chuyên môn về xây dựng cấp tỉnh theo quy định tại Điểm a Khoản 1 Điều 3 Quy định này thẩm tra thiết kế theo các nội dung quy định tại Điều 4 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") ;\n\nb) Sau khi có kết quả thẩm tra thiết kế của cơ quan chuyên môn về xây dựng cấp tỉnh, chủ đầu tư tổ chức thẩm định thiết kế theo quy định tại Khoản 3 Điều 3 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") , dự toán xây dựng công trình theo quy định tại Khoản 1 Điều 10 Nghị định số [112/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-112-2009-nd-cp-quan-ly-chi-phi-dau-tu-xay-dung-cong-trinh-98799.aspx \"Nghị định 112/2009/NĐ-CP\") và gửi kết quả về Phòng chuyên môn về xây dựng cấp huyện để thẩm định phần thuyết minh Báo cáo kinh tế - kỹ thuật xây dựng công trình;\n\nc) Phòng chuyên môn về xây dựng cấp huyện thẩm định phần thuyết minh Báo cáo kinh tế - kỹ thuật theo các nội dung quy định tại Điểm đ Khoản 1 Điều 3 Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") và tổng hợp cùng với kết quả thẩm tra thiết kế của cơ quan chuyên môn về xây dựng cấp tỉnh, kết quả thẩm định thiết kế - dự toán của chủ đầu tư trình Chủ tịch UBND cấp huyện phê duyệt hồ sơ Báo cáo kinh tế - kỹ thuật xây dựng công trình;\n\nd) Chủ tịch UBND huyện, thị xã, thành phố căn cứ chức năng, nhiệm vụ của các đơn vị trực thuộc được cơ quan có thẩm quyền quy định và các quy định có liên quan để giao nhiệm vụ thẩm định thuyết minh Báo cáo kinh tế - kỹ thuật cho các phòng chuyên môn về xây dựng cấp huyện (Phòng Kinh tế và Hạ tầng, Phòng Nông nghiệp và phát triển nông thôn đối với huyện; Phòng Quản lý đô thị và Phòng Kinh tế đối với thị xã, thành phố).\n\n2\\. Thành phần hồ sơ trình thẩm tra thiết kế, thẩm định Báo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 7 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") và Điểm b Khoản 1 Điều 3 Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") .\n\n3\\. Thời gian, chi phí thẩm tra thiết kế, lệ phí thẩm định Báo cáo kinh tế - kỹ thuật xây dựng công trình thực hiện theo Điều 8 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") , Điểm d Khoản 1 Điều 3 Thông tư số [03/2009/TT-BXD](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/thong-tu-03-2009-tt-bxd-noi-dung-nghi-dinh-12-2009-nd-cp-quan-ly-du-an-dau-tu-xay-dung-cong-trinh-86794.aspx \"Thông tư 03/2009/TT-BXD\") , Thông tư số [176/2011/TT-BTC](https://thuvienphapluat.vn/van-ban/dau-tu/thong-tu-176-2011-tt-btc-huong-dan-che-do-thu-nop-va-quan-ly-su-dung-phi-tham-133050.aspx \"Thông tư 176/2011/TT-BTC\") .\n\n**Điều 6. Trường hợp cơ quan chuyên môn về xây dựng cấp tỉnh thực hiện chỉ định tổ chức tư vấn thẩm tra thiết kế**\n\n1\\. Trong thời gian 5 ngày làm việc, cơ quan chuyên môn về xây dựng cấp tỉnh lựa chọn tổ chức có chức năng tư vấn thẩm tra thiết kế đã được công bố công khai trên trang thông tin điện tử của Bộ Xây dựng và có đủ điều kiện năng lực thẩm tra thiết kế phù hợp với loại và cấp công trình theo quy định của pháp luật để chỉ định thẩm tra một phần hoặc toàn bộ các nội dung thẩm tra theo quy định tại Điều 4 Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") và thông báo bằng văn bản đến chủ đầu tư và tổ chức tư vấn để ký hợp đồng tư vấn thẩm tra.\n\n2\\. Thời gian thực hiện thẩm tra thiết kế của tổ chức tư vấn thẩm tra theo hợp đồng tư vấn thẩm tra giữa tổ chức tư vấn thẩm tra và chủ đầu tư.\n\n3\\. Sau khi có kết quả thẩm tra của tổ chức tư vấn, chủ đầu tư báo cáo về cơ quan chuyên môn về xây dựng cấp tỉnh để các cơ quan này tổng hợp và thông báo kết quả cho chủ đầu tư trong trường hợp thẩm tra thiết kế sau thiết kế cơ sở và trong Báo cáo kinh tế kỹ thuật do UBND cấp huyện làm chủ đầu tư, trình Chủ tịch UBND tỉnh phê duyệt trong trường hợp thẩm định Báo cáo kinh tế kỹ thuật do Chủ tịch UBND tỉnh quyết định đầu tư.\n\n**Chương 3.**\n\n**TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG**\n\n**Điều 7. Trách nhiệm của chủ đầu tư**\n\nChủ đầu tư chịu trách nhiệm quản lý toàn diện về chất lượng công trình xây dựng và hiệu quả dự án từ giai đoạn khảo sát, lập dự án đầu tư, thiết kế kỹ thuật đến giai đoạn triển khai thi công, nghiệm thu bàn giao, đưa công trình vào khai thác sử dụng và bảo hành công trình theo quy định tại Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") và Thông tư số [10/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-10-2013-tt-bxd-huong-dan-nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-203415.aspx \"Thông tư 10/2013/TT-BXD\") .\n\n**Điều 8. Trách nhiệm của Sử Xây dựng**\n\nSở Xây dựng là cơ quan đầu mối giúp UBND cấp tỉnh thống nhất quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn, thực hiện các việc sau:\n\n1\\. Trình Chủ tịch UBND tỉnh ban hành các văn bản hướng dẫn triển khai các văn bản quy phạm pháp luật về quản lý chất lượng công trình xây dựng trên địa bàn.\n\n2\\. Hướng dẫn UBND cấp huyện, các tổ chức và cá nhân tham gia xây dựng công trình thực hiện các quy định của pháp luật về quản lý chất lượng công trình xây dựng.\n\n3\\. Kiểm tra thường xuyên, định kỳ theo kế hoạch và kiểm tra đột xuất công tác quản lý chất lượng của các cơ quan, tổ chức, cá nhân tham gia xây dựng công trình và chất lượng các công trình xây dựng trên địa bàn, cụ thể như sau:\n\na) Hàng năm lập kế hoạch kiểm tra định kỳ công tác quản lý nhà nước về chất lượng công trình xây dựng chuyên ngành của các Sở quản lý công trình xây dựng chuyên ngành, công tác quản lý nhà nước về chất lượng công trình xây dựng của UBND cấp huyện và chất lượng các công trình xây dựng dân dụng, công nghiệp, hạ tầng kỹ thuật đầu tư xây dựng trên địa bàn;\n\nb) Chủ trì cùng các Sở, ngành có liên quan tổ chức kiểm tra chất lượng các công trình xây dựng (không phân biệt nguồn vốn và cấp quản lý nguồn vốn) theo yêu cầu của UBND tỉnh;\n\nc) Kiểm tra đột xuất về công tác quản lý chất lượng và chất lượng công trình xây dựng trên địa bàn tỉnh không phân biệt nguồn vốn.\n\nViệc tổ chức kiểm tra theo kế hoạch được thực hiện thường xuyên và chia làm nhiều đợt trong năm, kết quả kiểm tra từng đợt phải được báo cáo về UBND tỉnh.\n\n4\\. Phối hợp với Sở quản lý công trình xây dựng chuyên ngành kiểm tra việc tuân thủ quy định về quản lý chất lượng công trình xây dựng chuyên ngành.\n\n5\\. Thẩm tra thiết kế xây dựng công trình theo quy định tại các Điều 3, 4, 5 Quy định này và chịu trách nhiệm về kết quả thẩm tra này.\n\n6\\. Công bố trên trang thông tin điện tử do Sở quản lý về thông tin năng lực của các tổ chức, cá nhân hoạt động xây dựng công trình trên địa bàn theo quy định tại Khoản 1 Điều 8 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") .\n\n7\\. Giúp UBND cấp tỉnh tổ chức giám định chất lượng công trình xây dựng khi được yêu cầu và tổ chức giám định nguyên nhân sự cố theo quy định tại Điều 39 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") ; theo dõi, tổng hợp, báo cáo UBND cấp tỉnh về tình hình sự cố trên địa bàn.\n\n8\\. Kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử dụng theo quy định tại Điều 32 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") đối với công trình chuyên ngành do Sở quản lý, cụ thể như sau:\n\na) Các loại nhà máy xi măng cấp II, cấp III; các công trình quy định tại Điểm a, Điểm b, Điểm e Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình sau: các công trình do cơ quan chuyên môn thuộc Bộ Xây dựng kiểm tra; các công trình cấp III, IV thuộc thẩm quyền quyết định đầu tư của UBND cấp huyện, các công trình cấp III, IV đầu tư xây dựng trong các khu công nghiệp, khu đô thị;\n\nb) Tham gia, phối hợp kiểm tra lần cuối công tác nghiệm thu các công trình xây dựng chuyên ngành do các Sở quản lý công trình xây dựng chuyên ngành chủ trì.\n\n9\\. Báo cáo UBND cấp tỉnh định kỳ, đột xuất về việc tuân thủ quy định về quản lý chất lượng công trình xây dựng và tình hình chất lượng công trình xây dựng trên địa bàn.\n\n10\\. Giúp UBND tỉnh tổng hợp và báo cáo Bộ Xây dựng về tình hình chất lượng công trình xây dựng trên địa bàn định kỳ 06 tháng và đột xuất; báo cáo danh sách các nhà thầu vi phạm quy định về quản lý chất lượng công trình khi tham gia các hoạt động xây dựng trên địa bàn.\n\n**Điều 9. Trách nhiệm của các Sở quản lý công trình xây dựng chuyên ngành**\n\n1\\. Chủ trì, phối hợp với Sở Xây dựng kiểm tra thường xuyên, định kỳ theo kế hoạch và kiểm tra đột xuất công tác quản lý chất lượng của tổ chức, cá nhân tham gia xây dựng công trình chuyên ngành và chất lượng các công trình xây dựng chuyên ngành trên địa bàn tỉnh, cụ thể như sau:\n\na) Hàng năm lập kế hoạch kiểm tra định kỳ công tác quản lý chất lượng và chất lượng các công trình xây dựng chuyên ngành trên địa bàn tỉnh;\n\nb) Chủ trì cùng các Sở, ngành có liên quan tổ chức kiểm tra chất lượng các công trình xây dựng chuyên ngành (không phân biệt nguồn vốn và cấp quản lý nguồn vốn) theo yêu cầu của UBND tỉnh;\n\nc) Kiểm tra đột xuất về công tác quản lý chất lượng và chất lượng công trình xây dựng chuyên ngành trên địa bàn tỉnh không phân biệt nguồn vốn.\n\nViệc tổ chức kiểm tra theo kế hoạch được thực hiện thường xuyên, và chia làm nhiều đợt trong năm, kết quả kiểm tra từng đợt phải được báo cáo về UBND tỉnh và gửi cho Sở Xây dựng.\n\n2\\. Giúp UBND cấp tỉnh thẩm tra thiết kế xây dựng công trình chuyên ngành theo các Điều 3, 4, 5 Quy định này và chịu trách nhiệm về kết quả thẩm tra này.\n\n3\\. Chủ trì, phối hợp với Sở Xây dựng kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử dụng theo quy định tại Điều 32 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") đối với công trình chuyên ngành, cụ thể như sau:\n\na) Sở Giao thông Vận tải: Các loại công trình quy định tại Điểm d Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình sau: các công trình do cơ quan chuyên môn về xây dựng trực thuộc Bộ Giao thông Vận tải kiểm tra; các công trình cấp III, IV thuộc thẩm quyền quyết định đầu tư của UBND cấp huyện, các công trình cấp III, IV đầu tư xây dựng trong các khu công nghiệp, khu đô thị;\n\nb) Sở Nông nghiệp và Phát triển nông thôn: Các loại công trình quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình sau: các công trình do cơ quan chuyên môn về xây dựng trực thuộc Bộ Nông nghiệp và Phát triển nông thôn kiểm tra; các công trình cấp III, IV thuộc thẩm quyền quyết định đầu tư của UBND cấp huyện, các công trình cấp III, IV đầu tư xây dựng trong các khu công nghiệp, khu đô thị;\n\nc) Sở Công thương: Các loại công trình quy định tại Điểm c Khoản 1 Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , trừ các công trình sau: các công trình nhà máy măng, công trình do cơ quan chuyên môn về xây dựng trực thuộc Bộ Công thương kiểm tra; các công trình cấp III, IV thuộc thẩm quyền quyết định đầu tư của UBND cấp huyện, các công trình cấp III, IV đầu tư xây dựng trong các khu công nghiệp, khu đô thị;\n\nd) Các Sở quản lý công trình xây dựng chuyên ngành có trách nhiệm mời Sở Xây dựng tham gia kiểm tra lần cuối công tác nghiệm thu các công trình xây dựng chuyên ngành theo quy định tại Điểm c Khoản 2 Điền 45 Nghị định số 15/2013/NĐ-CP\n\n4\\. Phối hợp với Sở Xây dựng tổ chức giám định chất lượng công trình xây dựng chuyên ngành khi được yêu cầu và tổ chức giám định nguyên nhân sự cố đối với công trình xây dựng chuyên ngành.\n\n5\\. Tổng hợp và báo cáo UBND tỉnh và Sở Xây dựng định kỳ 06 tháng, đột xuất về việc tuân thủ quy định về quản lý chất lượng công trình xây dựng chuyên ngành và tình hình chất lượng công trình xây dựng đối với các công trình xây dựng chuyên ngành trên địa bàn.\n\n**Điều 10. Trách nhiệm của UBND cấp huyện**\n\n1\\. Hướng dẫn UBND cấp xã, các tổ chức và cá nhân tham gia hoạt động xây dựng trên địa bàn thực hiện các văn bản quy phạm pháp luật về quản lý chất lượng công trình xây dựng.\n\n2\\. Tổ chức kiểm tra định kỳ, đột xuất việc tuân thủ quy định về quản lý chất lượng công trình xây dựng đối với các công trình xây dựng do Chủ tịch UBND cấp huyện quyết định đầu tư và cấp giấy phép xây dựng trên địa bàn.\n\nViệc tổ chức kiểm tra theo kế hoạch được thực hiện thường xuyên, và chia làm nhiều đợt trong năm. Kết quả kiểm tra từng đợt phải được gởi về UBND cấp huyện, Sở Xây dựng và Sở có quản lý công trình xây dựng chuyên ngành (đối với công trình xây dựng chuyên ngành).\n\n3\\. Phối hợp với Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành kiểm tra công trình xây dựng trên địa bàn khi được yêu cầu.\n\n4\\. Tổ chức thực hiện kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử dụng đối với các công trình xây dựng cấp III, IV do Chủ tịch UBND cấp huyện quyết định đầu tư.\n\n5\\. Chủ tịch UBND huyện, thị xã, thành phố căn cứ chức năng, nhiệm vụ của các đơn vị trực thuộc được cơ quan có thẩm quyền quy định và các quy định có liên quan để giao nhiệm vụ kiểm tra việc tuân thủ quy định về quản lý chất lượng, kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử dụng cho các Phòng chuyên môn về xây dựng cấp huyện ( Phòng Kinh tế và Hạ tầng, Phòng Nông nghiệp và Phát triển nông thôn đối với huyện; Phòng Quản lý đô thị và Phòng Kinh tế đối với thị xã, thành phố).\n\n6\\. Báo cáo sự cố và giải quyết sự cố theo quy định tại Điều 37, Điều 38 Nghị định số 15/2013/NĐ-CP\n\n7\\. Tổng hợp và báo cáo UBND tỉnh và Sở Xây dựng định kỳ 06 tháng, đột xuất việc tuân thủ quy định về quản lý chất lượng công trình xây dựng và tình hình chất lượng công trình xây dựng trên địa bàn.\n\n**Điều 11. Trách nhiệm của Ban Quản lý các khu công nghiệp, Ban quản lý khu đô thị**\n\n1\\. Đối với các công trình xin cấp phép xây dựng trong khu công nghiệp khu đô thị thuộc đối tượng phải thẩm tra thiết kế theo quy định tại Điều 21 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") , Ban Quản lý các khu công nghiệp, khu đô thị có trách nhiệm gởi hồ sơ dự án đầu tư xây dựng công trình đến các cơ quan theo quy định tại Khoản 1 Điều 2 Quy định này để thẩm tra thiết kế và sau đó tổng hợp gởi đến các cơ quan có thẩm quyền cấp giấy phép xây dựng để xin cấp giấy phép xây dựng theo quy định.\n\n2\\. Hàng năm lập kế hoạch và danh mục dự án đầu tư xây dựng công trình để kiểm tra thường xuyên, định kỳ theo kế hoạch và kiểm tra đột xuất công tác quản lý chất lượng của tổ chức, cá nhân tham gia xây dựng công trình và chất lượng các công trình xây dựng trong các khu công nghiệp, khu đô thị do mình quản lý.\n\n3\\. Kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử dụng theo quy định tại Điều 32 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") đối với các công trình xây dựng cấp III, IV trong các khu công nghiệp, khu đô thị do mình quản lý.\n\n4\\. Tổng hợp và báo cáo UBND tỉnh và Sở Xây dựng định kỳ 06 tháng, đột xuất việc tuân thủ quy định về quản lý chất lượng công trình xây dựng và tình hình chất lượng công trình xây dựng trong khu công nghiệp, khu đô thị do mình quản lý.\n\n**Điều 12. Quy trình kiểm tra công tác nghiệm thu, bàn giao đưa công trình vào sử dụng**\n\nThực hiện theo quy định tại Điều 32 Nghị định số [15/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-xay-dung-170675.aspx \"Nghị định 15/2013/NĐ-CP\") và Điều 24 Thông tư số [10/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-10-2013-tt-bxd-huong-dan-nghi-dinh-15-2013-nd-cp-quan-ly-chat-luong-cong-trinh-203415.aspx \"Thông tư 10/2013/TT-BXD\") .\n\n**Chương 4.**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 13. Xử lý chuyển tiếp**\n\n1\\. Các dự án đầu tư xây dựng công trình đã được phê duyệt thiết kế cơ sở trước ngày Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") có hiệu lực nhưng chưa triển khai thiết kế kỹ thuật (trường hợp thiết kế ba bước) hoặc thiết kế bản vẽ thi công (trường hợp thiết kế hai bước) - tổng dự toán thì khi triển khai chủ đầu tư phải tổ chức thẩm định và gởi kết quả đến Cơ quan chuyên môn về xây dựng cấp tỉnh để tham tra thiết kế bản vẽ thi công - tổng dự toán theo Quy định này.\n\n2\\. Đối với các công trình đã được phê duyệt trước ngày Thông tư số [13/2013/TT-BXD](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/thong-tu-13-2013-tt-bxd-tham-tra-tham-dinh-phe-duyet-thiet-ke-xay-dung-cong-trinh-204424.aspx \"Thông tư 13/2013/TT-BXD\") có hiệu lực nay điều chỉnh thiết kế do thay đổi về địa chất công trình, tải trọng thiết kế, giải pháp kết cấu, vật liệu chính của kết cấu chịu lực chính, biện pháp tổ chức thi công làm ảnh hưởng tới an toàn chịu lực của công trình thì phải tổ chức thẩm định, thẩm tra và phê duyệt lại thiết kế hạng mục thay đổi hoặc toàn bộ công trình theo Quy định này.\n\n**Điều 14. Tổ chức thực hiện**\n\n1\\. Giám đốc Sở Xây dựng có trách nhiệm:\n\na) Phối hợp với các Sở, ngành và UBND các huyện, thị xã, thành phố tổ chức triển khai thực hiện Quy định này;\n\nb) Tổ chức kiểm tra, hướng dẫn việc thực hiện Quy định này;\n\nc) Theo dõi, tổng hợp đề nghị của các địa phương, đơn vị trong quá trình thực hiện hoặc khi có quy định mới của các Bộ ngành Trung ương, nếu thấy cần thiết thì kiến nghị UBND tỉnh điều chỉnh, bổ sung kịp thời Quy định này.\n\n2\\. Cơ quan chuyên môn về xây dựng cấp tỉnh và UBND cấp huyện có trách nhiệm niêm yết công khai Quy trình thẩm tra thiết kế và Quy trình kiểm tra công tác nghiệm thu đưa công trình vào sử dụng trên trang thông tin điện tử và tại nơi tiếp nhận hồ sơ của cơ quan./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

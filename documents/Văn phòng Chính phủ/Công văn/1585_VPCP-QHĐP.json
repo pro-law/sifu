@@ -1,0 +1,835 @@
+{
+  "title": "Công văn 1585/VPCP-QHĐP năm 2018 về giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật Quy hoạch 2017",
+      "id": "21/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-11-24",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2017-12-29",
+      "gazetteNumber": "Từ số 1061 đến số 1062",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1865/QĐ-TTg năm 2017 về giao kế hoạch thực hiện chương trình mục tiêu quốc gia giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1865/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-11-23",
+      "effectiveDate": "2017-11-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 120/NQ-CP năm 2017 về phát triển bền vững đồng bằng sông Cửu Long thích ứng với biến đổi khí hậu do Chính phủ ban hành",
+      "id": "120/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-11-17",
+      "effectiveDate": "2017-11-17",
+      "gazetteDate": "2017-11-27",
+      "gazetteNumber": "Từ số 847 đến số 848",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 9654/VPCP-KTTH năm 2017 về thanh toán vốn cho Dự án nút giao thông khác mức Ngã ba Huế, thành phố Đà Nẵng do Văn phòng Chính phủ ban hành",
+      "id": "9654/VPCP-KTTH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2017-09-12",
+      "effectiveDate": "2017-09-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 36/2017/QĐ-TTg về thành lập Khu kinh tế Thái Bình, tỉnh Thái Bình do Thủ tướng Chính phủ ban hành",
+      "id": "36/2017/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-07-29",
+      "effectiveDate": "2017-10-01",
+      "gazetteDate": "2017-08-08",
+      "gazetteNumber": "Từ số 575 đến số 576",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+      "id": "04/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-12",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-24",
+      "gazetteNumber": "Từ số 511 đến số 512",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 68/2017/NĐ-CP về quản lý, phát triển cụm công nghiệp",
+      "id": "68/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-25",
+      "effectiveDate": "2017-07-15",
+      "gazetteDate": "2017-06-04",
+      "gazetteNumber": "Từ số 417 đến số 418",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 578/QĐ-TTg về giao kế hoạch đầu tư vốn trái phiếu Chính phủ giai đoạn 2017-2020 và năm 2017 do Thủ tướng Chính phủ ban hành",
+      "id": "578/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-04-28",
+      "effectiveDate": "2017-04-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 442/QĐ-TTg Chương trình công tác năm 2017 của Ban Chỉ đạo Trung ương chương trình mục tiêu quốc gia giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "442/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2017-04-11",
+      "effectiveDate": "2017-04-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông báo 150/TB-VPCP năm 2017 kết luận của Thủ tướng Chính phủ Nguyễn Xuân Phúc tại buổi làm việc với lãnh đạo tỉnh Tuyên Quang do Văn phòng Chính phủ ban hành",
+      "id": "150/TB-VPCP",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2017-03-21",
+      "effectiveDate": "2017-03-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Thông báo 45/TB-VPCP năm 2017 kết luận của Thủ tướng Chính phủ Nguyễn Xuân Phúc tại buổi làm việc với lãnh đạo tỉnh Gia Lai do Văn phòng Chính phủ ban hành",
+      "id": "45/TB-VPCP",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2017-01-25",
+      "effectiveDate": "2017-01-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị định 161/2016/NĐ-CP Cơ chế đặc thù trong quản lý đầu tư xây dựng đối với dự án thuộc chương trình mục tiêu quốc gia giai đoạn 2016-2020",
+      "id": "161/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-12-02",
+      "effectiveDate": "2016-12-02",
+      "gazetteDate": "2016-12-12",
+      "gazetteNumber": "Từ số 1231 đến số 1232",
+      "status": "Hết hiệu lực: 19/04/2022"
+    },
+    {
+      "title": "Nghị quyết 31/2016/QH14 dừng thực hiện chủ trương đầu tư dự án điện hạt nhân Ninh Thuận do Quốc hội ban hành",
+      "id": "31/2016/QH14",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-11-22",
+      "effectiveDate": "2016-11-22",
+      "gazetteDate": "2017-01-12",
+      "gazetteNumber": "Từ số 37 đến số 38",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2220/QĐ-TTg năm 2016 Kế hoạch thực hiện Quyết định 593/QĐ-TTg về Quy chế thí điểm liên kết phát triển kinh tế - xã hội vùng đồng bằng sông Cửu Long giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "2220/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2016-11-17",
+      "effectiveDate": "2016-11-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông báo 363/TB-VPCP năm 2016 kết luận của Thủ tướng Chính phủ Nguyễn Xuân Phúc tại buổi làm việc với lãnh đạo thành phố Đà Nẵng do Văn phòng Chính phủ ban hành",
+      "id": "363/TB-VPCP",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2016-11-04",
+      "effectiveDate": "2016-11-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị định 144/2016/NĐ-CP quy định cơ chế đặc thù về đầu tư, tài chính, ngân sách và phân cấp quản lý đối với thành phố Đà Nẵng",
+      "id": "144/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-11-01",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2016-11-17",
+      "gazetteNumber": "Từ số 1181 đến số 1182",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông báo 353/TB-VPCP năm 2016 kết luận của Thủ tướng Chính phủ Nguyễn Xuân Phúc tại buổi làm việc với lãnh đạo tỉnh Thanh Hóa do Văn phòng Chính phủ ban hành",
+      "id": "353/TB-VPCP",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2016-11-01",
+      "effectiveDate": "2016-11-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Nghị quyết 89/NQ-CP phiên họp Chính phủ thường kỳ tháng 9 năm 2016",
+      "id": "89/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-10-10",
+      "effectiveDate": "2016-10-10",
+      "gazetteDate": "2016-10-27",
+      "gazetteNumber": "Từ số 1141 đến số 1142",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông báo 318/TB-VPCP năm 2016 kết luận của Thủ tướng Chính phủ Nguyễn Xuân Phúc tại buổi làm việc với lãnh đạo tỉnh Ninh Thuận do Văn phòng Chính phủ ban hành",
+      "id": "318/TB-VPCP",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2016-10-07",
+      "effectiveDate": "2016-10-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 38/2016/QĐ-TTg về chính sách bảo vệ, phát triển rừng và đầu tư hỗ trợ kết cấu hạ tầng, giao nhiệm vụ công ích đối với các công ty nông, lâm nghiệp do Thủ tướng Chính phủ ban hành",
+      "id": "38/2016/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2016-09-14",
+      "effectiveDate": "2016-11-01",
+      "gazetteDate": "2016-09-29",
+      "gazetteNumber": "Từ số 1017 đến số 1018",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1573/QĐ-TTg năm 2016 phê duyệt Đề án xây dựng nông thôn mới vùng đồng bào dân tộc thiểu số, khu vực biên giới tỉnh Điện Biên nhằm phát triển kinh tế - xã hội và đảm bảo an ninh, quốc phòng giai đoạn 2016-2020  do Thủ tướng Chính phủ ban hành",
+      "id": "1573/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2016-08-09",
+      "effectiveDate": "2016-08-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 118/2015/NĐ-CP hướng dẫn Luật đầu tư",
+      "id": "118/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-11-12",
+      "effectiveDate": "2015-12-27",
+      "gazetteDate": "2015-12-03",
+      "gazetteNumber": "Từ số 1163 đến số 1164",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị định 78/2015/NĐ-CP về đăng ký doanh nghiệp",
+      "id": "78/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-14",
+      "effectiveDate": "2015-11-01",
+      "gazetteDate": "2015-09-27",
+      "gazetteNumber": "Từ số 1009 đến số 1010",
+      "status": "Hết hiệu lực: 04/01/2021"
+    },
+    {
+      "title": "Nghị định 77/2015/NĐ-CP về kế hoạch đầu tư công trung hạn và hằng năm",
+      "id": "77/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-10",
+      "effectiveDate": "2015-11-01",
+      "gazetteDate": "2015-09-23",
+      "gazetteNumber": "Từ số 999 đến số 1000",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Quyết định 23/2015/QĐ-TTg về Quy định cơ chế Nhà nước thanh toán bằng quỹ đất cho Nhà đầu tư khi thực hiện Dự án đầu tư xây dựng theo hình thức Xây dựng - Chuyển giao do Thủ tướng Chính phủ ban hành",
+      "id": "23/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-06-26",
+      "effectiveDate": "2015-08-15",
+      "gazetteDate": "2015-07-08",
+      "gazetteNumber": "Từ số 657 đến số 658",
+      "status": "Hết hiệu lực: 01/10/2019"
+    },
+    {
+      "title": "Quyết định 715/QĐ-TTg năm 2015 phê duyệt Đề án đổi mới quy trình biên soạn số liệu tổng sản phẩm trên địa bàn tỉnh, thành phố trực thuộc Trung ương do Thủ tướng Chính phủ ban hành",
+      "id": "715/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-05-22",
+      "effectiveDate": "2015-05-22",
+      "gazetteDate": "2015-06-03",
+      "gazetteNumber": "Từ số 583 đến số 584",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 30/2015/NĐ-CP hướng dẫn Luật Đấu thầu về lựa chọn nhà đầu tư",
+      "id": "30/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-03-17",
+      "effectiveDate": "2015-05-05",
+      "gazetteDate": "2015-04-02",
+      "gazetteNumber": "Từ số 401 đến số 402",
+      "status": "Hết hiệu lực: 20/04/2020"
+    },
+    {
+      "title": "Nghị định 15/2015/NĐ-CP về đầu tư theo hình thức đối tác công tư",
+      "id": "15/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-02-14",
+      "effectiveDate": "2015-04-10",
+      "gazetteDate": "2015-03-05",
+      "gazetteNumber": "Từ số 295 đến số 296",
+      "status": "Hết hiệu lực: 19/06/2018"
+    },
+    {
+      "title": "Luật Doanh nghiệp 2014",
+      "id": "68/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1175 đến số 1176",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Luật Đầu tư 2014",
+      "id": "67/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1173 đến số 1174",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Luật Nhà ở 2014",
+      "id": "65/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-25",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1169 đến số 1170",
+      "status": "Còn hiệu lực đến: 31/12/2024"
+    },
+    {
+      "title": "Thông tư liên tịch 04/2014/TTLT-BKHĐT-BTC hướng dẫn trợ giúp đào tạo, bồi dưỡng nguồn nhân lực cho doanh nghiệp nhỏ và vừa do Bộ trưởng Bộ Kế hoạch và Đầu tư - Bộ Tài chính ban hành",
+      "id": "04/2014/TTLT-BKHĐT-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Doanh nghiệp",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư, Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu",
+        "Đặng Huy Đông"
+      ],
+      "issuedDate": "2014-08-13",
+      "effectiveDate": "2014-09-26",
+      "gazetteDate": "2014-09-01",
+      "gazetteNumber": "Từ số 797 đến số 798",
+      "status": "Hết hiệu lực: 23/09/2019"
+    },
+    {
+      "title": "Luật bảo vệ môi trường 2014",
+      "id": "55/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-23",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 683 đến số 684",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Luật Đầu tư công 2014",
+      "id": "49/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-18",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 687 đến số 688",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Nghị định 210/2013/NĐ-CP về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn",
+      "id": "210/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-12-19",
+      "effectiveDate": "2014-02-10",
+      "gazetteDate": "2014-01-02",
+      "gazetteNumber": "Từ số 5 đến số 6",
+      "status": "Hết hiệu lực: 17/04/2018"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kết luận 75-KL/TW năm 2013 tiếp tục đẩy mạnh thực hiện Nghị quyết 33-NQ/TW của Bộ Chính trị khoá IX \"Về xây dựng và phát triển thành phố Đà Nẵng trong thời kỳ công nghiệp hoá, hiện đại hoá đất nước\" do Ban Chấp hành Trung ương ban hành",
+      "id": "75-KL/TW",
+      "legislationType": "Văn bản khác",
+      "categories": [
+        "Thương mại",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Lê Hồng Anh"
+      ],
+      "issuedDate": "2013-11-12",
+      "effectiveDate": "2013-11-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1064/QĐ-TTg năm 2013 phê duyệt Quy hoạch tổng thể phát triển kinh tế - xã hội vùng Trung du và Miền núi phía Bắc đến năm 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1064/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-07-08",
+      "effectiveDate": "2013-07-08",
+      "gazetteDate": "2013-07-23",
+      "gazetteNumber": "Từ số 433 đến số 434",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 240/QĐ-TTg năm 2013 phê duyệt Quy hoạch tổng thể phát triển kinh tế - xã hội tỉnh Lai Châu đến năm 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "240/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-01-28",
+      "effectiveDate": "2013-01-28",
+      "gazetteDate": "2013-02-12",
+      "gazetteNumber": "Từ số 103 đến số 104",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1766/QĐ-TTg năm 2011 phê duyệt điều chỉnh Quy hoạch tổng thể di dân, tái định cư Dư án thủy điện Tuyên Quang trên địa bàn tỉnh Tuyên Quang do Thủ tướng Chính phủ ban hành",
+      "id": "1766/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-10-10",
+      "effectiveDate": "2011-10-10",
+      "gazetteDate": "2011-10-21",
+      "gazetteNumber": "Từ số 531 đến số 532",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 85/2009/NĐ-CP Hướng dẫn Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng",
+      "id": "85/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-10-15",
+      "effectiveDate": "2009-12-01",
+      "gazetteDate": "2009-10-27",
+      "gazetteNumber": "Từ số 489 đến số 490",
+      "status": "Hết hiệu lực: 15/08/2014"
+    },
+    {
+      "title": "Quyết định 1353/QĐ-TTg năm 2008 phê duyệt đề án “quy hoạch phát triển các khu kinh tế ven biển của Việt Nam đến năm 2020” do Thủ tướng Chính phủ ban hành",
+      "id": "1353/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-09-23",
+      "effectiveDate": "2008-10-23",
+      "gazetteDate": "2008-10-08",
+      "gazetteNumber": "Từ số 561 đến số 562",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 33-NQ/TW năm 2003 xây dựng và phát triển thành phố Đà Nẵng trong thời kỳ công nghiệp hoá, hiện đại hoá đất nước do Bộ Chính trị ban hành",
+      "id": "33-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Chính trị",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2003-10-16",
+      "effectiveDate": "2003-10-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công văn 1575/VPCP-QHĐP năm 2018 về giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "1575/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2018-02-13",
+      "effectiveDate": "2018-02-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1576/VPCP-QHĐP năm 2018 về giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "1576/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2018-02-13",
+      "effectiveDate": "2018-02-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1577/VPCP-QHĐP năm 2018 về giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "1577/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2018-02-13",
+      "effectiveDate": "2018-02-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "1585/VPCP-QHĐP",
+  "legislationType": "Công văn",
+  "categories": [
+    "Bộ máy hành chính"
+  ],
+  "organization": "Văn phòng Chính phủ",
+  "signers": [
+    "Nguyễn Văn Tùng"
+  ],
+  "issuedDate": "2018-02-13",
+  "effectiveDate": "2018-02-13",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAyADIANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:10.0pt;\">VĂN PHÒNG CHÍNH PHỦ<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:10.0pt;\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA\n  VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n  10.0pt;\">Số: </span><span style=\"font-size:10.0pt;\n \">1585</span><span lang=\"VI\" style=\"font-size:10.0pt;\n \">/VPCP-QHĐP</span><span style=\"font-size:10.0pt;\"><br>\n  </span><i><span lang=\"VI\" style=\"font-size:8.0pt;\">V/v giải\n  quyết kiến nghị của các địa phương</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\" style=\"font-size:10.0pt;\">Hà Nội, ngày </span></i><i><span style=\"font-size:10.0pt;\">13</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\"> tháng </span></i><i><span style=\"font-size:10.0pt;\">02</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\"> năm </span></i><i><span style=\"font-size:10.0pt;\">2018</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">Kính gửi:</span></b><span style=\"font-size:10.0pt;\"> </span><span lang=\"VI\" style=\"font-size:10.0pt;\">Các Bộ: Kế hoạch và Đầu tư, Tài\nchính, Công Thương, Giao thông vận tải, Xây dựng, Nông nghiệp và Phát triển\nnông thôn, Tài nguyên và Môi trường, Giáo dục và Đào tạo, Nội vụ, Lao động -\nThương binh và Xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;\">Thủ tướng Chính phủ giao Bộ Kế hoạch và Đầu tư chủ\ntrì, phối hợp với Bộ Tài chính, Bộ Công Thương, Bộ Giao thông vận tải, Bộ Xây dựng,\nBộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Giáo dục\nvà Đào tạo, Bộ Nội vụ, Bộ Lao động - Thương binh và Xã hội nghiên cứu, xử lý kiến\nnghị của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương tại Hội nghị\ntrực tuyến của Chính phủ với các địa phương tháng 12 nám 2017 (kèm theo); trường\nhợp vượt thẩm quyền, báo cáo Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;\">Văn phòng Chính phủ thông báo để các Bộ, cơ quan biết,\nthực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAyADIANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n  10.0pt;\"><br>\n  <b><i>Nơi nhận:</i></b><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt;\">- Như trên;<br>\n  - TTgCP, các PTTg CP;<br>\n  - UBND các tỉnh, thành phố trực thuộc Trung ương;<br>\n  - VPCP: BTCN, các PCN, Trợ lý TTgCP, các Vụ: CN, NN, KTTH, KGVX, TH, TKBT, Cổng\n  TTĐT;<br>\n  - Lưu: VT, QHĐP (3b).Phc </span><span style=\"font-size:8.0pt;\">8</span><span lang=\"VI\" style=\"font-size:8.0pt;\">4</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center;\n  layout-grid-mode:char\"><b><span style=\"font-size:10.0pt;\">KT.\n  BỘ TRƯỞNG, CHỦ NHIỆM<br>\n  PHÓ CHỦ NHIỆM<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Tùng</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n",
+  "mdContent": "**VĂN PHÒNG CHÍNH PHỦ  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 1585/VPCP-QHĐP  \n_V/v giải quyết kiến nghị của các địa phương_\n\n_Hà Nội, ngày_ _13_ _tháng_ _02_ _năm_ _2018_\n\n**Kính gửi:** Các Bộ: Kế hoạch và Đầu tư, Tài chính, Công Thương, Giao thông vận tải, Xây dựng, Nông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường, Giáo dục và Đào tạo, Nội vụ, Lao động - Thương binh và Xã hội.\n\nThủ tướng Chính phủ giao Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Tài chính, Bộ Công Thương, Bộ Giao thông vận tải, Bộ Xây dựng, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Tài nguyên và Môi trường, Bộ Giáo dục và Đào tạo, Bộ Nội vụ, Bộ Lao động - Thương binh và Xã hội nghiên cứu, xử lý kiến nghị của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương tại Hội nghị trực tuyến của Chính phủ với các địa phương tháng 12 nám 2017 (kèm theo); trường hợp vượt thẩm quyền, báo cáo Thủ tướng Chính phủ.\n\nVăn phòng Chính phủ thông báo để các Bộ, cơ quan biết, thực hiện.\n\n  \n**_Nơi nhận:_**  \n\\- Như trên;  \n\\- TTgCP, các PTTg CP;  \n\\- UBND các tỉnh, thành phố trực thuộc Trung ương;  \n\\- VPCP: BTCN, các PCN, Trợ lý TTgCP, các Vụ: CN, NN, KTTH, KGVX, TH, TKBT, Cổng TTĐT;  \n\\- Lưu: VT, QHĐP (3b).Phc 84\n\n**KT. BỘ TRƯỞNG, CHỦ NHIỆM  \nPHÓ CHỦ NHIỆM  \n  \n  \n  \n  \nNguyễn Văn Tùng**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

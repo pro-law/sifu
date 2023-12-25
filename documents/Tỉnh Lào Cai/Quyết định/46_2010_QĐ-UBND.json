@@ -1,0 +1,550 @@
+{
+  "title": "Quyết định 46/2010/QĐ-UBND về Quy định thực hiện đầu tư Dự án khu đô thị mới, phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai do Ủy ban nhân dân tỉnh Lào Cai ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật Hợp tác xã 2003",
+      "id": "18/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-07-01",
+      "gazetteDate": "2004-01-04",
+      "gazetteNumber": "Số 4",
+      "status": "Hết hiệu lực: 01/07/2013"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 16/2010/TT-BXD hướng dẫn Nghị định 71/2010/NĐ-CP về Luật nhà ở do Bộ Xây dựng ban hành",
+      "id": "16/2010/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Trần Nam"
+      ],
+      "issuedDate": "2010-09-01",
+      "effectiveDate": "2010-10-16",
+      "gazetteDate": "2010-10-12",
+      "gazetteNumber": "Từ số 587 đến số 588",
+      "status": "Hết hiệu lực: 15/08/2016"
+    },
+    {
+      "title": "Nghị định 71/2010/NĐ-CP hướng dẫn Luật nhà ở",
+      "id": "71/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-06-23",
+      "effectiveDate": "2010-08-08",
+      "gazetteDate": "2010-07-08",
+      "gazetteNumber": "Từ số 382 đến số 383",
+      "status": "Hết hiệu lực: 10/12/2015"
+    },
+    {
+      "title": "Nghị định 37/2010/NĐ-CP về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị",
+      "id": "37/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-04-07",
+      "effectiveDate": "2010-05-25",
+      "gazetteDate": "2010-04-21",
+      "gazetteNumber": "Từ số 167 đến số 168",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 85/2009/NĐ-CP Hướng dẫn Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng",
+      "id": "85/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-10-15",
+      "effectiveDate": "2009-12-01",
+      "gazetteDate": "2009-10-27",
+      "gazetteNumber": "Từ số 489 đến số 490",
+      "status": "Hết hiệu lực: 15/08/2014"
+    },
+    {
+      "title": "Thông tư 192/2009/TT-BTC hướng dẫn thí điểm việc nộp tiền sử dụng đất đối với dự án khu đô thị mới, dự án nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết 33/2008/NQ-CP do Bộ Tài chính ban hành",
+      "id": "192/2009/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2009-10-01",
+      "effectiveDate": "2009-11-15",
+      "gazetteDate": "2009-10-26",
+      "gazetteNumber": "Từ số 487 đến số 488",
+      "status": "Hết hiệu lực: 10/01/2021"
+    },
+    {
+      "title": "Thông tư liên tịch 30/2009/TTLT-BXD-BKH hướng dẫn Nghị quyết 33/2008/NQ-CP thực hiện thí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án khu đô thị mới, khu nhà ở, hạ tầng kỹ thuật khu công nghiệp do Bộ Xây dựng - Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "30/2009/TTLT-BXD-BKH",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Đầu tư",
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư, Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Bích Đạt",
+        "Cao Lại Quang"
+      ],
+      "issuedDate": "2009-08-27",
+      "effectiveDate": "2009-10-11",
+      "gazetteDate": "2009-09-18",
+      "gazetteNumber": "Từ số 447 đến số 448",
+      "status": "Hết hiệu lực: 15/08/2019"
+    },
+    {
+      "title": "Nghị định 69/2009/NĐ-CP bổ sung quy hoạch sử dụng đất, giá đất, thu hồi đất, bồi thường, hỗ trợ và tái định cư",
+      "id": "69/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-08-13",
+      "effectiveDate": "2009-10-01",
+      "gazetteDate": "2009-08-27",
+      "gazetteNumber": "Từ số 419 đến số 420",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Luật sửa đổi, bổ sung một số điều của các Luật liên quan đến đầu tư xây dựng cơ bản năm 2009",
+      "id": "38/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-06-19",
+      "effectiveDate": "2009-08-01",
+      "gazetteDate": "2009-08-14",
+      "gazetteNumber": "Từ số 379 đến số 380",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Thông tư 03/2009/TT-BKH hướng dẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng đất do Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "03/2009/TT-BKH",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Võ Hồng Phúc"
+      ],
+      "issuedDate": "2009-04-16",
+      "effectiveDate": "2009-05-31",
+      "gazetteDate": "2009-04-26",
+      "gazetteNumber": "Từ số 217 đến số 218",
+      "status": "Hết hiệu lực: 06/02/2017"
+    },
+    {
+      "title": "Nghị quyết số 33/2008/NQ-CP về thực hiện thí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp do Chính phủ ban hành",
+      "id": "33/2008/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-12-31",
+      "effectiveDate": "2009-02-08",
+      "gazetteDate": "2009-01-24",
+      "gazetteNumber": "Từ số 73 đến số 74",
+      "status": "Hết hiệu lực: 20/03/2019"
+    },
+    {
+      "title": "Thông tư 04/2006/TT-BXD hướng dẫn Quy chế khu đô thị mới theo Nghị định 02/2006/NĐ-CP do Bộ Xây dựng ban hành",
+      "id": "04/2006/TT-BXD",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Xây dựng",
+      "signers": [
+        "Nguyễn Hồng Quân"
+      ],
+      "issuedDate": "2006-08-18",
+      "effectiveDate": "2006-09-24",
+      "gazetteDate": "2006-09-09",
+      "gazetteNumber": "Từ số 27 đến số 28",
+      "status": "Hết hiệu lực: 05/01/2014"
+    },
+    {
+      "title": "Luật kinh doanh bất động sản 2006",
+      "id": "63/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Bất động sản"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-05",
+      "gazetteNumber": "Từ số 5 đến số 6",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Nghị định 02/2006/NĐ-CP ban hành Quy chế khu đô thị mới",
+      "id": "02/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-01-05",
+      "effectiveDate": "2006-01-30",
+      "gazetteDate": "2006-01-15",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Hết hiệu lực: 01/03/2013"
+    },
+    {
+      "title": "Luật Đầu tư 2005",
+      "id": "59/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-26",
+      "gazetteNumber": "Từ số 41 đến số 42",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Luật Nhà ở 2005",
+      "id": "56/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-16",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Hết hiệu lực: 01/07/2015"
+    },
+    {
+      "title": "Luật Đấu thầu 2005",
+      "id": "61/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-04-01",
+      "gazetteDate": "2006-02-16",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Nghị định 198/2004/NĐ-CP về việc thu tiền sử dụng đất",
+      "id": "198/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2004-12-24",
+      "gazetteDate": "2004-12-09",
+      "gazetteNumber": "Số 9",
+      "status": "Hết hiệu lực: 01/07/2014"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Luật xây dựng 2003",
+      "id": "16/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-07-01",
+      "gazetteDate": "2004-01-02",
+      "gazetteNumber": "Số 2",
+      "status": "Hết hiệu lực: 01/01/2015"
+    },
+    {
+      "title": "Luật Đất đai 2003",
+      "id": "13/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-07-01",
+      "gazetteDate": "2003-12-28",
+      "gazetteNumber": "Từ số 228 đến số 229",
+      "status": "Hết hiệu lực: 01/07/2014"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 26/2012/QĐ-UBND về Quy định quản lý đầu tư xây dựng dự án khu đô thị mới và dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai",
+      "id": "26/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Văn Vịnh"
+      ],
+      "issuedDate": "2012-06-28",
+      "effectiveDate": "2012-07-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/01/2014"
+    },
+    {
+      "title": "Quyết định 72/2013/QĐ-UBND về quản lý dự án đầu tư phát triển đô thị trên địa bàn tỉnh Lào Cai",
+      "id": "72/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Doãn Văn Hưởng"
+      ],
+      "issuedDate": "2013-12-31",
+      "effectiveDate": "2014-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/01/2016"
+    },
+    {
+      "title": "Quyết định 02/2016/QĐ-UBND Quy định về quản lý dự án đầu tư phát triển đô thị trên địa bàn tỉnh Lào Cai",
+      "id": "02/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2016-01-15",
+      "effectiveDate": "2016-01-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/11/2018"
+    },
+    {
+      "title": "Quyết định 154/QĐ-UBND năm 2017 về công bố danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Lào Cai ban hành hết hiệu lực thi hành năm 2016",
+      "id": "154/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2017-01-13",
+      "effectiveDate": "2017-01-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 467/QĐ-UBND năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân tỉnh Lào Cai kỳ 2014-2018",
+      "id": "467/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2019-02-28",
+      "effectiveDate": "2019-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 33/2018/QĐ-UBND bãi bỏ 03 Quyết định là văn bản quy phạm pháp luật do Ủy ban nhân dân tỉnh Lào Cai ban hành",
+      "id": "33/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2018-10-24",
+      "effectiveDate": "2018-11-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 321/QĐ-UBND năm 2019 công bố danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Uỷ ban nhân dân tỉnh Lào Cai ban hành hết hiệu lực thi hành năm 2018",
+      "id": "321/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2019-01-30",
+      "effectiveDate": "2019-01-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 467/QĐ-UBND năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân tỉnh Lào Cai kỳ 2014-2018",
+      "id": "467/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2019-02-28",
+      "effectiveDate": "2019-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [],
+  "id": "46/2010/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Đầu tư",
+    "Bất động sản",
+    "Xây dựng - Đô thị"
+  ],
+  "organization": "Tỉnh Lào Cai",
+  "signers": [
+    "Nguyễn Văn Vịnh"
+  ],
+  "issuedDate": "2010-12-20",
+  "effectiveDate": "2010-12-30",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 08/07/2012",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA4ADEANAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>UỶ\n  BAN NHÂN DÂN <br>\n  TỈNH LÀO CAI<br>\n  --------</b></p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ----------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  46/2010/QĐ-UBND</p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Lào\n  Cai, ngày 20 tháng 12 năm 2010</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY ĐỊNH MỘT SỐ NỘI DUNG ĐẦU TƯ CÁC DỰ ÁN KHU ĐÔ THỊ\nMỚI, DỰ ÁN PHÁT TRIỂN NHÀ Ở THƯƠNG MẠI TRÊN ĐỊA BÀN TỈNH LÀO CAI</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH LÀO CAI</span></b></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức HĐND và\nUBND ngày 26 tháng 11 năm 2003; Căn cứ Luật Xây dựng ngày 26 tháng 11 năm 2003;<br>\nCăn cứ Luật Đất đai ngày 26 tháng 11 năm 2003; Căn cứ Luật Đầu tư ngày 29 tháng\n11 năm 2005; Căn cứ Luật Nhà ở ngày 29 tháng 11 năm 2005;<br>\nCăn cứ Luật Đấu thầu ngày 29 tháng 11 năm 2005;<br>\nCăn cứ Luật Kinh doanh bất động sản ngày 29 tháng 6 năm 2006; Căn cứ Luật Quy\nhoạch đô thị ngày 17 tháng 6 năm 2009;<br>\nCăn cứ Luật sửa đổi, bổ sung một số điều của các Luật liên quan đến đầu tư xây\ndựng cơ bản ngày 19 tháng 6 năm 2009;<br>\nCăn cứ nghị định số 198/2004/NĐ-CP ngày 03/12/2004 của Chính phủ về thu tiền sử\ndụng đất;<br>\nCăn cứ Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ về việc ban\nhành quy chế khu đô thị mới;<br>\nCăn cứ Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ về thực hiện\nthí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án đầu tư\nxây dựng khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp;<br>\nCăn cứ Nghị định số 69/2009/NĐ-CP ngày 13/8/2009 của Chính phủ quy định bổ sung\nvề quy hoạch, kế hoạch sử dụng đất; thu hồi đất, bồi thường, hỗ trợ, tái định\ncư;<br>\nCăn cứ Nghị định số 85/2009/NĐ-CP ngày 15/10/2009 của Chính phủ hướng dẫn thi\nhành Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng;<br>\nCăn cứ Nghị định số 71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định chi tiết\nvà hướng dẫn thi hành Luật Nhà ở;<br>\nCăn cứ Nghị định số 37/2010/NĐ-CP ngày 07/4/2010 của Chính phủ về lập, thẩm định,\nphê duyệt và quản lý quy hoạch đô thị;<br>\nCăn cứ Thông tư số 03/2009/TT-BKH ngày 16/4/2009 của Bộ Kế hoạch và Đầu tư hướng\ndẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng đất;<br>\nCăn cứ Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực\nhiện quy chế khu đô thị mới theo Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của\nChính phủ;<br>\nCăn cứ Thông tư số 16/2010/TT-BXD ngày 01/9/2010 của Bộ Xây dựng quy định cụ thể\nvà hướng dẫn thực hiện một số nội dung của Nghị định số 71/2010/NĐ-CP ngày\n23/6/2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở;<br>\nCăn cứ Thông tư số 192/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính về việc hướng\ndẫn thí điểm nộp tiền sử dụng đất đối với dự án đầu tư xây dựng khu đô thị mới,\ndự án khu nhà ở, dự án hạ tầng kỹ thuật Khu công nghiệp tại Nghị quyết số\n33/2008/NQ-CP ngày 31/12/2008 của Chính phủ;<br>\nCăn cứ Thông tư liên tịch số 30/2009/TTLT-BXD-BKH ngày 27/8/2009 của liên Bộ\nXây dựng - Bộ Kế hoạch và Đầu tư Quy định chi tiết một số điểm tại Nghị quyết số\n33/2008/NQ-CP ngày 31/12/2008 của Chính phủ về thực hiện thí điểm một số thủ tục\nhành chính trong đầu tư xây dựng đối với dự án khu đô thị mới, dự án khu nhà ở,\ndự án hạ tầng kỹ thuật khu công nghiệp;<br>\nXét đề nghị của Giám đốc Sở Xây dựng tại Tờ trình số: 279/TTr-SXD ngày 14 tháng\n12 năm 2010 về việc trình ban hành quy định một số nội dung đầu tư các Dự án\nkhu đô thị mới, Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai,</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_1\"><b>Điều 1</b></a><b>.</b> <a name=\"dieu_1_name\">Ban hành kèm theo\nQuyết định này Quy định một số nội dung thực hiện đầu tư Dự án khu đô thị mới\nvà Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai.</a> </p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_2\"><b>Điều 2</b></a><b>.</b> <a name=\"dieu_2_name\">Sở Xây dựng chủ\ntrì phối hợp với các sở, ngành liên quan hướng dẫn, kiểm tra việc thực hiện Quyết\nđịnh này.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_3\"><b>Điều 3</b></a><b>. </b><a name=\"dieu_3_name\">Chánh Văn phòng\nUBND tỉnh, Giám đốc Sở Xây dựng, Giám đốc các sở, ban, ngành, Chủ tịch UBND các\nhuyện, thành phố Lào Cai và các tổ chức, cá nhân có liên quan chịu trách nhiệm\nthi hành Quyết định này.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Quyết định\nnày có hiệu lực thi hành sau 10 ngày kể từ ngày ký./.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"595\"><!--VABWAFAATABfADIAMAAxADcAMAA4ADEANAA=-->\n <tbody><tr>\n  <td width=\"224\" valign=\"top\" style=\"width:167.85pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"371\" valign=\"top\" style=\"width:278.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM.\n  ỦY BAN NHÂN DÂN TỈNH<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Vịnh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2_name\">MỘT SỐ NỘI DUNG THỰC HIỆN ĐẦU TƯ DỰ ÁN KHU ĐÔ THỊ MỚI, DỰ ÁN\nPHÁT TRIỂN NHÀ Ở THƯƠNG MẠI TRÊN ĐỊA BÀN TỈNH LÀO CAI</a><br>\n<i>(Ban hành kèm theo Quyết định số: 46/2010/QĐ-UBND ngày 20/12/2010 của UBND tỉnh\nLào Cai)</i></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_1_1\"><b>Điều 1. Phạm vi điều chỉnh</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Quy định này\nquy định một số nội dung thực hiện Dự án đầu tư xây dựng khu đô thị mới (Dự án khu\nđô thị mới) có quy mô từ 20ha trở lên và Dự án phát triển nhà ở thương mại trên\nđịa bàn tỉnh Lào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Những nội\ndung liên quan đến Dự án khu đô thị mới, Dự án phát triển nhà ở thương mại\nkhông nêu trong Quy định này thực hiện theo Nghị định số 02/2006/NĐ-CP ngày\n05/01/2006 của Chính phủ về việc ban hành quy chế khu đô thị mới (Nghị định số\n02/2006/NĐ-CP); Nghị định số 71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định\nchi tiết và hướng dẫn thi hành Luật Nhà ở (Nghị định số 71/2010/NĐ-CP), Thông\ntư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực hiện quy chế\nKhu đô thị mới theo Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ\n(Thông tư số 04/2006/TT-BXD); Thông tư số 16/2010/TT-BXD ngày 01/9/2010 của Bộ\nXây dựng quy định cụ thể và hướng dẫn thực hiện một số nội dung của Nghị định số\n71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định chi tiết và hướng dẫn thi\nhành Luật Nhà ở (Thông tư số 16/2010/TT- BXD) và các Văn bản pháp luật khác có\nliên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_2_1\"><b>Điều 2. Đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Các cơ quan,\ntổ chức, cá nhân có liên quan đến việc đầu tư xây dựng các Dự án khu đô thị mới,\nDự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_3_1\"><b>Điều 3. Nguyên tắc thực hiện</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Các khu đô\nthị mới, khu nhà ở thương mại phải được đầu tư, xây dựng trên cơ sở quy hoạch\nchi tiết xây dựng tỷ lệ 1/500 và tổng mặt bằng được UBND tỉnh phê duyệt, phải đảm\nbảo đồng bộ hệ thống các công trình hạ tầng kỹ thuật và hạ tầng xã hội trong phạm\nvi dự án và khu đô thị.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ đầu tư\nphải nộp tiền sử dụng đất vào ngân sách của tỉnh theo quy định sau khi đã đối\ntrừ phần chi phí đền bù giải phóng mặt bằng, tái định cư (nếu có) và tỉnh không\ncấp bù cho dự án sau khi đã được đối trừ. Chi phí đầu tư hạ tầng kỹ thuật, hạ tầng\nxã hội trong phạm vi dự án do chủ đầu tư thực hiện và không được đối trừ vào tiền\nsử dụng đất.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Giá tiền sử\ndụng đất được xác định trên cơ sở là khu đất đã được giải phóng mặt bằng (đất sạch)\nchưa có hệ thống hạ tầng kỹ thuật hoặc đã có hệ thống hạ tầng kỹ thuật..</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Nhà nước\nquản lý dự án khu đô thị mới, dự án phát triển nhà ở thương mại theo quy hoạch\nchi tiết xây dựng tỷ lệ 1/500 hoặc tổng mặt bằng được duyệt, quản lý thiết kế\ncông trình, chất lượng công trình theo quy định của Pháp luật về xây dựng và quản\nlý tiến độ thực hiện dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">CHUẨN BỊ DỰ ÁN, CHỦ ĐẦU\nTƯ DỰ ÁN, LẬP, THẨM ĐỊNH, PHÊ DUYỆT DỰ ÁN</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_4\"><b>Điều 4. Trình tự thực hiện dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Dự án khu đô\nthị mới và dự án phát triển nhà ở thương mại thực hiện theo trình tự sau đây:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Lựa chọn\nchủ đầu tư</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ đầu tư\nlập quy hoạch chi tiết xây dựng tỷ lệ 1/500 hoặc thiết kế quy hoạch tổng mặt bằng\n(đối với các dự án nhà ở thương mại thuộc đối tượng không phải quy hoạch chi tiết\ntỷ lệ 1/500) để trình UBND tỉnh phê duyệt ;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Lập hồ sơ\ndự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Chấp thuận\nđầu tư dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Thu hồi đất\nvà giao đất cho chủ đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Chủ đầu tư\ntổ chức lập, thẩm định và phê duyệt dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">7. Thực hiện\ndự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">8. Hoàn\nthành, chuyển giao.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_5\"><b>Điều 5. Kế hoạch phát triển khu đô thị mới và phát triển nhà ở\nthương mại</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Hàng năm Sở\nXây dựng chủ trì phối hợp UBND cấp huyện và các ngành có liên quan lập kế hoạch\nphát triển Dự án khu đô thị mới và Dự án phát triển nhà ở thương mại trên phạm\nvi toàn tỉnh để trình UBND tỉnh phê duyệt. Kế hoạch phát triển khu đô thị mới\nvà phát triển nhà ở thương mại được đưa vào kế hoạch phát triển kinh tế xã hội\ncủa tỉnh theo từng thời kỳ và từng năm.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Nội dung kế\nhoạch phát triển khu đô thị mới thực hiện theo quy định tại khoản 1 Điều 8 Nghị\nđịnh số 02/2006/NĐ-CP, nội dung kế hoạch phát triển nhà ở thương mại thực hiện\ntheo quy định khoản 2 Điều 74 Nghị định số 71/2010/NĐ-CP.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_6\"><b>Điều 6. Công bố danh mục các Dự án khu đô thị mới và Dự án\nphát triển nhà ở thương mại</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Căn cứ Kế\nhoạch phát triển khu đô thị mới và phát triển nhà ở thương mại đã được UBND tỉnh\nphê duyệt, Sở Xây dựng có trách nhiệm đăng tải danh mục và các thông tin trên\nWebsite của Sở Xây dựng và trên các phương tiện thông tin đại chúng khác theo\nquy định của pháp luật về đấu thầu để công khai kêu gọi các tổ chức, cá nhân\ntham gia đăng ký thực hiện đầu tư dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Thông tin\nvề dự án được công bố gồm có:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Đối với dự\nán khu đô thị mới: Tên dự án; địa điểm xây dựng dự án; diện tích đất để xây dựng\ndự án; khái quát sơ bộ hiện trạng về khu đất; các chỉ tiêu quy hoạch chủ yếu; mục\ntiêu của dự án; phương án tổng thể về bồi thường, giải phóng mặt bằng, tái định\ncư (nếu có); thời gian thực hiện; yêu cầu về quản lý vận hành và khai thác dự\nán khi xây dựng xong; các điều kiện tham gia đấu thầu để lựa chọn chủ đầu tư;\nthời gian tiếp nhận hồ sơ dự thầu..</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Đối với dự\nán phát triển nhà ở thương mại: Thực hiện theo quy định tại khoản 2 Điều 14 Nghị\nđịnh 71/2010/NĐ-CP, cụ thể như sau: Quy hoạch xây dựng đô thị, điểm dân cư nông\nthôn tỷ lệ 1/2000; địa điểm, gianh giới và diện tích khu đất; các điều kiện về\nsử dụng đất (đượ giao hoặc thuê, thời hạn thuê, quỹ đất bố trí tái định cư, bảng\ngiá đất của từng khu vực và nghĩa vụ tài chính mà chủ đầu tư phải nộp theo quy\nđịnh); yêu cầu về quy hoạch, kiến trúc, số lượng các loại nhà ở, hệ thống hạ tầng\nkỹ thuật, hạ tầng xã hội và các công trình kiến trúc khác trong phạm vi dự án;\nphương án tổng thể về bồi thường, giải phóng mặt bằng, tái định cư (nếu có); thời\ngian thực hiện dự án; yêu cầu về quản lý vận hành và khai thác dự án khi xây dựng\nxong; các điều kiện tham gia đấu thầu để lựa chọn chủ đầu tư; thời gian tiếp nhận\nhồ sơ dự thầu.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_7\"><b>Điều 7. Điều kiện để thực hiện đầu tư dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Dự án khu đô\nthị mới, dự án phát triển nhà ở thương mại chỉ được thực hiện khi đủ các điều\nkiện sau đây:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Khu đất\nxây dựng dự án đã được xác định trong quy hoạch xây dựng được cấp có thẩm quyền\nphê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Dự án thuộc\ndanh mục đã được công bố theo quy định tại Điều 6 của Quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_8\"><b>Điều 8. Chủ đầu tư dự án khu đô thị mới và chủ đầu tư dự án\nphát triển nhà ở thương mại</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1.Chủ đầu tư\ndự án khu đô thị mới:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Là doanh nghiệp\ncó đăng ký kinh doanh về đầu tư kinh doanh bất động sản và có vốn đầu tư thuộc\nsở hữu của chủ đầu tư tham gia vào dự án không nhỏ hơn 20% tổng mức đầu tư dự\nán.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ đầu tư\ndự án phát triển nhà ở thương mại:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Là doanh nghiệp\ntrong nước được thành lập và hoạt động theo quy định của Luật Doanh nghiệp;\ndoanh nghiệp có 100% vốn đầu tư nước ngoài; doanh nghiệp liên doanh với nhà đầu\ntư nước ngoài; doanh nghiệp của người Việt Nam định cư ở nước ngoài hoạt động đầu\ntư tại Việt Nam theo quy định của Luật Đầu tư; Hợp tác xã được thành lập và hoạt\nđộng theo quy định của Luật Hợp tác xã và phải có đăng ký kinh doanh bất động sản\nhoặc Giấy chứng nhận đầu tư có hoạt động đầu tư bất động sản và có đủ vốn pháp\nđịnh theo quy định của pháp luật Việt Nam, có vốn đầu tư thuộc sở hữu của mình\nđể thực hiện dự án không thấp hơn 15% tổng mức đầu tư của dự án có quy mô sử dụng\nđất dưới 20 ha, không thấp hơn 20% tổng mức đầu tư của dự án có quy mô sử dụng\nđất từ 20 ha trở lên.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_9\"><b>Điều 9. Lựa chọn chủ đầu tư Dự án khu đô thị mới và chủ đầu tư\nDự án phát triển nhà ở thương mại</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Việc lựa\nchọn chủ đầu tư Dự án khu đô thị mới và chủ đầu tư Dự án phát triển nhà ở\nthương mại phải thực hiện theo hình thức đấu thầu hoặc đấu giá quyền sử dụng đất\nđối với Dự án phát triển nhà ở thương mại;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chỉ định\nchủ đầu tư chỉ được thực hiện trong các trường hợp sau đây:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Khi dự án\nchỉ có một nhà đầu tư đăng ký sau khi hết thời hạn quy định trong nội dung công\nbố Quy định tại Điều 6 Quy định này và có đủ điều kiện theo quy định tại Điều 8\ncủa Quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Đối với dự\nán phát triển nhà ở thương mại: Nhà đầu tư có quyền sử dụng đất hợp pháp theo\nquy định của Pháp luật về đất đai, phù hợp với quy hoạch phát triển nhà ở, có đủ\nđiều kiện theo quy định tại khoản 2 Điều 8 và có văn bản đăng ký làm chủ đầu\ntư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Chủ đầu tư\nđược chỉ định thông qua việc thẩm định dự án và điều kiện, năng lực của chủ đầu\ntư theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Đối với\ncác chủ đầu tư đã và đang thực hiện Dự án khu đô thị mới hoặc Dự án phát triển\nnhà ở thương mại trên địa bàn tỉnh Lào Cai nếu không thực hiện dự án đúng tiến\nđộ hoặc quyết toán không đúng thời gian quy định (do lỗi của chủ đầu tư) sẽ\nkhông được tham gia đăng ký dự thầu các dự án mới.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_10\"><b>Điều 10. Mời thầu, trách nhiệm của bên mời thầu</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sở Xây dựng\nlà Bên mời thầu để tổ chức lựa chọn chủ đầu tư thực hiện các dự án khu đô thị mới,\ndự án phát triển nhà ở thương mại thuộc thẩm quyền quyết định cho phép đầu tư\nvà chấp thuận đầu tư của UBND tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Trách nhiệm\ncủa bên mời thầu:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Lập nội\ndung thông tin về dự án để trình UBND tỉnh phê duyệt và đăng tải thông tin về dự\nán theo quy định tại Điều 6 của Quy định này;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Lập kế hoạch\nđấu thầu trình UBND tỉnh phê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Tổ chức lập,\nthẩm định và phê duyệt hồ sơ mời thầu;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Trình UBND\ntỉnh phê duyệt kết quả lựa chọn chủ đầu tư thực hiện Dự án khu đô thị mới, Dự\nán phát triển nhà ở thương mại sau khi có kết quả đánh giá hồ sơ dự thầu, hồ sơ\nyêu cầu của Tổ chuyên gia;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">e) Thông báo\nkết quả đấu thầu và giải quyết khiếu nại (nếu có);</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_11\"><b>Điều 11. Tổ chuyên gia đấu thầu, nhiệm vụ của tổ chuyên gia đấu\nthầu</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sở Xây dựng\ntrình UBND tỉnh quyết định thành lập Tổ chuyên gia đấu thầu, thành phần gồm có\nđại diện của Sở Xây dựng, Sở Tài nguyên và Môi trường, Sở Kế hoạch và Đầu tư, Sở\nTài chính. Sở Xây dựng thỏa thuận với UBND cấp huyện nơi có dự án để cử người\ncùng tham gia tổ chuyên gia.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Nhiệm vụ của\ntổ chuyên gia đấu thầu:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Lập hồ sơ\nmời thầu, hồ sơ yêu cầu;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Tổ chức đấu\nthầu lựa chọn chủ đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Lập tiêu\nchí đánh giá hồ sơ dự thầu, hồ sơ đề xuất để Sở Xây dựng phê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Thẩm định\nhồ sơ dự thầu, hồ sơ đề xuất;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">e) Thực hiện\ncác công việc khác có liên quan đến đấu thầu, chỉ định chủ đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_12\"><b>Điều 12. Trình tự thực hiện lựa chọn chủ đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sở Xây dựng\nlập kế hoạch đấu thầu và trình UBND tỉnh phê duyệt;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Sở Xây dựng\ncông bố dự án theo quy định tại Điều 6 của quy định này;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Nhà đầu tư\nđăng ký và nộp hồ sơ tham gia đầu tư tại Sở Xây dựng;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Sở Xây dựng\nmời thầu và tổ chức đấu thầu;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Tổ chuyên\ngia đánh giá, thẩm định hồ sơ đấu thầu, thẩm định hồ sơ đề xuất</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">(Trường hợp\nchỉ định chủ đầu tư);</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Trình và\nphê duyệt kết quả trúng thầu chủ đầu tư hoặc chỉ định chủ đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">7. Sở Xây dựng\nthông báo kết quả đấu thầu;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_13\"><b>Điều 13. Hồ sơ mời thầu và hồ sơ dự thầu</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Hồ sơ mời\nthầu: Thực hiện theo điểm 2.1.6 mục II Thông tư số 04/2006/TT-BXD (đối với Dự\nán khu đô thị mới hoặc khoản 4 Điều 14 Nghị định 71/2010/NĐ-CP (đối với Dự án\nơhats triển nhà ở thương mại).</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Hồ sơ dự\nthầu bao gồm: Đơn dự thầu theo mẫu tại phụ lục số 02 của Thông tư\n04/2006/TT-BXD (đối với Dự án khu đô thị mới) hoặc phụ lục số 02 của Thông tư\n16/2010/TT-BXD (đối với dự án phát triển nhà ở thương mại), các tài liệu pháp\nlý có liên quan, các đề xuất của nhà đầu tư theo yêu cầu của hồ sơ mời thầu và\ncác đề xuất khác của nhà đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_14\"><b>Điều 14. Chấp thuận đầu tư, lập, thẩm định, phê duyệt dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Đối với Dự\nán Khu đô thị mới: Sau khi được lựa chọn làm chủ đầu tư dự án, chủ đầu tư tự tổ\nchức lập quy hoạch chi tiết 1/2000 (Đối với trường hợp chưa có quy hoạch chi tiết\n1/2000), quy hoạch chi tiết 1/500 và trình UBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Đối với Dự\nán phát triển nhà ở thương mại có quy mô dưới 2500 căn hộ: Sau khi được lựa chọn\nlàm chủ đầu tư dự án, chủ đầu tư tự tổ chức lập quy hoạch chi tiết 1/2000 (Đối\nvới trường hợp chưa có quy hoạch chi tiết 1/2000), quy hoạch chi tiết 1/500 hoặc\nthiết kế tổng mặt bằng, phương án kiến trúc công trình, giải pháp về hạ tầng kỹ\nthuật (sau đây gọi chung là bản vẽ tổng mặt bằng) của dự án đối với trường hợp\nkhông thuộc diện phải lập quy hoạch chi tiết tỷ lệ 1/500 theo quy định của pháp\nluật về quy hoạch và trình UBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Sở Xây dựng\nlà cơ quan tiếp nhận hồ sơ quy hoạch chi tiết, bản vẽ tổng mặt bằng để thẩm định\nvà trình UBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Sau khi\nquy hoạch chi tiết 1/500 hoặc bản vẽ tổng mặt bằng được UBND tỉnh phê duyệt, chủ\nđầu tư lập hồ sơ dự án và đề nghị UBND tỉnh chấp thuận đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Lập dự án:\nDự án khu đô thị mới lập theo quy định tại mục III Thông tư số 04/2006/TT-BXD,\nDự án nhà ở thương mại lập theo quy định tại Điều 6 Nghị định 71/2010/NĐ-CP.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Hồ sơ đề\nnghị chấp thuận đầu tư gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">- Tờ trình\nxin chấp thuận đầu tư của chủ đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">- Hồ sơ dự\nán: Nội dung hồ sơ Dự án khu đô thị mới thực hiện theo quy định tại Điều 14 Nghị\nđịnh 02/2006/NĐ-CP, nội dung hồ sơ Dự án phát triển nhà ở thương mại thực hiện\ntheo điểm b khoản 2 Điều 7 Nghị định 71/2010/NĐ-CP.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Thẩm định\ndự án để chấp thuận đầu tư: Chủ đầu tư gửi 06 bộ hồ sơ dự án đến cơ quan đầu mối\nlà Sở Xây dựng để thẩm định và trình UBND tỉnh phê duyệt, nội dung thẩm định Dự\nán khu đô thị mới thực hiện theo Mục 5 Thông tư số 04/2006/TT-BXD, nội dung thẩm\nđịnh Dự án phát triển nhà ở thương mại thực hiện theo quy định tại Điều 6 Nghị\nđịnh 71/2010/NĐ-CP và Thông tư 16/2010/TT-BXD. Thời gian thẩm định không quá 45\nngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Chấp thuận\nđầu tư: Căn cứ kết quả thẩm định của Sở Xây dựng, UBND tỉnh quyết định chấp thuận\nđầu tư dự án, nội dung quyết định chấp thuận đầu tư Dự án khu đô thị mới thực\nhiện theo quy định tại khoản 3 Điều 15 Nghị định số 02/2006/NĐ-CP, nội dung quyết\nđịnh chấp thuận đầu tư Dự án phát triển nhà ở thương mại thực hiện theo quy định\ncủa Nghị định số 71/2010/NĐ-CP. Thời gian phê duyệt không quá 20 ngày kể từ\nngày nhận đủ hồ sơ hợp lệ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Trường hợp dự\nán không được chấp nhận đầu tư, UBND tỉnh có văn bản thông báo cho chủ đầu tư\ntrong đó nêu rõ những lý do dự án không được chấp thuận.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Đối với\ntrường hợp chủ đầu tư Dự án nhà ở thương mại được lựa chọn thông qua đấu thầu\nthì chủ đầu tư không phải đề nghị chấp thuận đầu tư, nội dung về chấp thuận đầu\ntư được ghi trong Quyết định trúng thầu chủ đầu tư dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Việc chấp\nthuận đầu tư đối với các dự án phát triển nhà ở thương mại có quy mô từ 2500\ncăn hộ trở lên thực hiện theo quy định tại khoản 2 Điều 6 Nghị định\n71/2010/NĐ-CP và Thông tư 16/2010/TT-BXD, việc chấp thuận đầu tư đối với các Dự\nán khu đô thị mới có quy mô từ 200 ha trở lên thực hiện theo khoản 1 Điều 15\nNghị định số 02/2006/NĐ-CP và Mục V Thông tư số 04/2006/TT-BXD.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">7. Lập, thẩm\nđịnh, phê duyệt dự án đầu tư xây dựng công trình</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Sau khi dự án\nđã được chấp thuận đầu tư, chủ đầu tư phê duyệt dự án đầu tư xây dựng công\ntrình theo quy định hiện hành của Pháp luật về quản lý dự án đầu tư xây dựng\ncông trình.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ đầu tư tự\nphê duyệt dự án sau khi có ý kiến tham gia về thiết kế cơ sở của Sở Xây dựng và\nkết quả thẩm định hoặc thẩm tra phần thuyết minh của dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_15\"><b>Điều 15. Điều lệ quản lý thực hiện dự án khu đô thị mới</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ đầu tư lập\nĐiều lệ quản lý thực hiện dự án của mình theo quy định tại khoản 1 Điều 16 Nghị\ndịnh số 02/2006/NĐ-CP và gửi Sở Xây dựng thẩm định trình UBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_3\"><b>Chương III</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">THỰC HIỆN VÀ KHAI THÁC,\nCHUYỂN GIAO DỰ ÁN</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_16\"><b>Điều 16. Sử dụng đất thực hiện dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sở Tài\nnguyên và Môi trường phối hợp với UBND cấp huyện nơi có dự án và các ngành có\nliên quan thực hiện việc giao đất, cho thuê đất để thực hiện dự án theo quyết định\ncho phép đầu tư, kết quả đấu thầu Dự án khu đô thị mới hoặc Dự án phát triển\nnhà ở thương mại hoặc kết quả đấu giá quyền sử dụng đất theo quy định của Pháp\nluật về đất đai. Việc giao đất cho chủ đầu tư được thực hiện một lần hoặc nhiều\nlần tùy thuộc vào việc phân kỳ đầu tư, kế hoạch thực hiện đầu tư dự án, trừ trường\nhợp chủ đầu tư có quyền sử dụng đất hợp pháp theo quy định của Pháp luật về đất\nđai.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ đầu tư\ntrực tiếp làm việc với Sở Tài nguyên và Môi trường để thực hiện các thủ tục về\nquyền sử dụng đất và nhận bàn giao đất theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_17\"><b>Điều 17. Thực hiện dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sau khi dự\nán được phê duyệt, chủ đầu tư phải thực hiện các thủ tục về sử dụng đất, thực\nhiện giải phóng mặt bằng (nếu có), tự tổ chức thực hiện quản lý dự án đầu tư\nxây dựng công trình và quản lý chất lượng công trình theo đúng quy định hiện\nhành của tỉnh và của Pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Các cơ\nquan chuyên môn của tỉnh và Chính quyền địa phương có trách nhiệm quản lý nhà\nnước về các lĩnh vực theo chuyên ngành, lãnh thổ đối với việc thực hiện dự án của\nchủ đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_18\"><b>Điều 18. Huy động vốn</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Việc huy động\nvốn để xây dựng công trình thực hiện theo quy định tại Thông tư số\n04/2006/TT-BXD, Điều 9 Nghị định 71/2010/NĐ-CP và Điều 8 Thông tư số\n16/2010/TT- BXD.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_19\"><b>Điều 19. Hoàn thành, khai thác và chuyển giao dự án</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Thủ tục hoàn\nthành công trình:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Công trình\nxây dựng xong phải được nghiệm thu hoàn thành theo quy định về quản lý chất lượng\ncông trình xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Chủ đầu tư\ncó trách nhiệm lưu trữ hồ sơ công trình theo quy định và giao cho bên nhận công\ntrình 01 bộ hồ sơ hoàn công kèm theo bản quyết toán công trình. Riêng đối với\ncác công trình hạ tầng kỹ thuật, hạ tầng xã hội và nhà chung cư thì chủ đầu tư\nphải gửi cho Sở Xây dựng 01 bộ hồ sơ hoàn công công trình để lưu trữ, quản lý.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Chủ đầu tư\nphải hoàn thành thủ tục xác lập quyền sử dụng đất và quyền sở hữu công trình\ntheo quy định của pháp luật đối với công trình đã hoàn thành đưa vào khai thác,\nsử dụng.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Chủ đầu tư\nDự án khu đô thị mới được khai thác hoặc chuyển giao cho bên tiếp nhận quản lý\nvà khai thác các công trình hạ tầng kỹ thuật, công trình hạ tầng xã hội theo nội\ndung chấp thuận đầu tư. Đối với các công trình hạ tầng không được chuyển giao\nhoặc chưa chuyển giao thì chủ đầu tư có trách nhiệm quản lý, duy tu, bảo dưỡng,\nbảo trì và đảm bảo chất lượng vận hành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Chủ đầu tư\nkhi kinh doanh bất động sản phải thực hiện bán, chuyển nhượng, cho thuê, cho\nthuê mua bất động sản qua sàn giao dịch bất động sản theo quy định của pháp luật\nhiện hành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">THU NỘP TIỀN SỬ DỤNG ĐẤT</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_20\"><b>Điều 20. Thu nộp tiền sử dụng đất đối với trường hợp đất đã\nđược giải phóng mặt bằng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Chủ đầu tư\nđược UBND tỉnh giao đất theo hình thức đấu giá quyền sử dụng đất: Chủ đầu tư nộp\ntiền sử dụng đất theo quy định của quy chế bán đấu giá được cấp có thẩm quyền\nphê duyệt nhưng không quá 03 tháng kể từ ngày quyết định phê duyệt kết quả đấu\ngiá có hiệu lực;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Chủ đầu tư\nđược UBND tỉnh giao đất bằng hình thức định giá quyền sử dụng đất: Chủ đầu tư\nphải nộp đủ tiền sử dụng đất trong thời hạn 03 tháng kể từ ngày có quyết định\ngiao đất của UBND tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_21\"><b>Điều 21. Thu nộp tiền sử dụng đất đối với trường hợp khu đất\nchưa được giải phóng mặt bằng và chủ đầu tư được lựa chọn theo hình thức đấu thầu\nhoặc chỉ định chủ đầu tư</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ đầu tư cấp\n1 Dự án khu đô thị mới, chủ đầu tư Dự án phát triển nhà ở thương mại và các cơ\nquan liên quan thực hiện việc thu nộp tiền sử dụng đất vào ngân sách nhà nước\ntheo quy định tại Mục VIII Thông tư số 04/2006/TT-BXD, Điều 2 Thông tư số\n192/2009/TT – BTC ngày 01/10/2009 của Bộ Tài chính (Thông tư số 192/2009/TT-BTC)\nhướng dẫn thí điểm việc nộp tiền sử dụng đất đối với Dự án khu đô thị mới, Dự\nán nhà ở, Dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết số\n33/2008/NQ-CP ngày 31/12/2008 của Chính phủ, Nghị định 198/2004/NĐ-CP ngày\n03/12/2004 của Chính phủ về thu tiền sử dụng đất và các quy định sau đây:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Chủ đầu tư\nnộp tiền sử dụng đất theo giá đất tại thời điểm giao đất và tiến độ thực hiện dự\nán ghi trong Quyết định chấp thuận đầu tư;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Căn cứ tiến\nđộ thực hiện dự án ghi trong Quyết định chấp thuận đầu tư, chủ đầu tư phải đăng\nký bằng văn bản (kèm theo hồ sơ dự án đã được chấp thuận đầu tư) với Sở tài\nchính và Cục thuế tỉnh, Chi cục thuế tại địa phương nơi xây dựng dự án về thời\ngian thi công hoàn thành phần móng (đối với các hạng mục công trình là nhà ở và\ncông trình dịch vụ), phần mặt bằng và nền đường giao thông thuộc hệ thống cơ sở\nhạ tầng kỹ thuật của dự án và thời gian hoàn thành công trình.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Hội đồng định\ngiá đất của tỉnh có trách nhiệm xác định giá đất và trình UBND tỉnh mức thu tiền\nsử dụng đất theo quy định tại thời điểm có quyết định giao đất;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Cục thuế tỉnh\ncó trách nhiệm tổ chức thu tiền sử dụng đất theo giá đất được UBND tỉnh phê duyệt\nvà thực hiện như sau:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">a) Đối với Dự\nán phát triển nhà ở thương mại: Thu 70% tổng số tiền sử dụng đất phải nộp tại\nthời điểm chủ đầu tư được phép huy động vốn của khách hàng (Công trình đã thi\ncông xong phần móng) theo tiến độ thực hiện dự án mà chủ đầu tư đăng ký theo\nquy định tại khoản 2 Điều này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">b) Đối với Dự\nán khu đô thị mới: Thu 70% tổng số tiền sử dụng đất phải nộp của chủ đầu tư khi\nbắt đầu thi công kết cấu hạ tầng kỹ thuật của dự án theo tiến độ thực hiện dự\nán mà chủ đầu tư đăng ký theo quy định tại khoản 2 Điều này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Trường hợp\nkhi đã thi công xong cơ sở hạ tầng kỹ thuật của dự án mà chủ đầu tư chuyển nhượng\n&gt; 70% diện tích đất thuộc đối tượng có thu tiền sử dụng đất cho chủ đầu tư cấp\n2 thì chủ đầu tư phải nộp 100% tiền sử dụng đất cho cơ quan thuế tại địa phương\nnơi xây dựng dự án. Trường hợp chủ đầu tư trực tiếp xây dựng một số hạng mục\nnhà ở và công trình dịch vụ thì việc thu nộp tiền sử dụng đát thực hiện như đối\nvới Dự án phát triển nhà ở thương mại.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">c) Thu nốt\n30% tổng số tiền sử dụng đất còn lại của chủ đầu tư phải nộp khi công trình\nhoàn thành, bàn giao đưa vào sử dụng nhưng không quá 18 tháng kể từ ngày thu nộp\ntiền sử dụng đất lần 1 (đối với Dự án phát triển nhà ở thương mại) và không quá\n24 tháng (đối với Dự án khu đô thị mới).</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">d) Trường hợp\nchủ đầu tư hoàn thành phần móng hoặc mặt bằng và nền đường giao thông thuộc hệ\nthống cơ sở hạ tầng kỹ thuật của dự án sớm hơn thời gian đã đăng ký theo quy định\ntại khoản 2 Điều này thì phải kê khai, báo cáo với Sở tài chính và Cục thuế tỉnh,\nChi cục thuế tại địa phương nơi xây dựng dự án về thời gian thi công hoàn thành\nđể nộp tiền sử dụng đất theo quy định. Trường hợp chủ đầu tư chậm hoặc không kê\nkhai báo cáo thì phải nộp phạt theo quy định tại điểm 1.3 Điều 2 Thông tư số\n192/2009/TT-BTC.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Bên mời thầu\n(Sở Xây dựng) có trách nhiệm thông báo bằng văn bản cho Sở Tài chính và Cục thuế\ntỉnh về thời gian chủ đầu tư hoàn thành phần móng nhà ở thương mại, thời gian bắt\nđầu thi công kết cấu hạ tầng kỹ thuật của dự án để làm cơ sở thu tiền sử dụng đất\ncủa chủ đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_5\"><b>Chương V</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span style=\"font-size:12.0pt\">QUYỀN VÀ NGHĨA VỤ CỦA CHỦ\nĐẦU TƯ</span></b></a><b><span style=\"font-size:12.0pt\"> </span></b></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_22\"><b><span style=\"font-size:12.0pt\">Điều 22. Quyền và nghĩa vụ của\nchủ đầu tư</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Quyền và nghĩa\nvụ của chủ đầu tư thực hiện theo quy định tại Điều 12 Nghị định 02/2006/NĐ-CP\n(đối với dự án khu đô thị mới) và Điều 15, Điều 16 Nghị định 71/2010/NĐ-CP (đối\nvới dự án phát triển nhà ở thương mại) và nộp tiền sử dụng đất theo quy định tại\nĐiều 20, Điều 21 của Quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"chuong_6\"><b>Chương VI</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"chuong_6_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<u1:p></u1:p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_23\"><b>Điều 23. Xử lý chuyển tiếp</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Các dự án\nchưa công bố hoặc đã công bố nhưng chưa thực hiện việc lựa chọn chủ đầu tư thì\nthực hiện theo quy định này;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Các dự án\nđã lựa chọn được chủ đầu tư nhưng chưa được chấp thuận đầu tư thì các bước tiếp\ntheo phải thực hiện theo quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\"><a name=\"dieu_24\"><b>Điều 24. Tổ chức thực hiện</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">1. Sở Xây dựng:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Chủ trì phối\nhợp với Sở Tài nguyên và Môi trường, Sở Tài chính, Sở Kế hoạch và Đầu tư, UBND\ncác huyện và thành phố Lào Cai hướng dẫn và kiểm tra việc thực hiện quy định\nnày; lập kế hoạch phát triển khu đô thị mới và phát triển nhà ở; quản lý nhà nước\ntheo quy định của pháp luật đối với việc thực hiện dự án của các chủ đầu tư về\ncác lĩnh vực quy hoạch xây dựng, quản lý dự án đầu tư xây dựng công trình, quản\nlý chất lượng công trình xây dựng, thanh tra xây dựng, thị trường bất động sản;\nlưu trữ và khai thác hồ sơ hoàn công công trình; thực hiện các nhiệm vụ khác được\ngiao trong Quy định này.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">2. Sở Tài\nnguyên &amp; Môi trường:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Quản lý nhà nước\nvề sử dụng đất và bảo vệ môi trường của các dự án; Cấp Giấy chứng nhận quyền sử\ndụng đất và quyền sở hữu nhà cho tổ chức và cá nhân có yêu cầu; Hướng dẫn, kiểm\ntra, thanh tra việc sử dụng đất của các dự án;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">3. Sở Kế hoạch\n&amp; Đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Tổng hợp và\nbáo cáo HĐND, UBND kế hoạch phát triển khu đô thị mới và phát triển nhà ở; Hướng\ndẫn lập dự án; Thẩm định kế hoạch đấu thầu để lựa chọn chủ đầu tư các dự án\ntrình UBND tỉnh phê duyệt; Giám sát đầu tư các dự án.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">4. Sở Tài\nchính.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Phối hợp với\nHội đồng định giá đất của tỉnh và UBND cấp huyện xác định giá đất, thẩm tra quyết\ntoán công trình; Tổng hợp, theo dõi và kiểm tra việc thu nộp tiền sử dụng đất;\nĐề xuất chế độ chính sách khuyến khích, ưu đãi để phù hợp với điều kiện của tỉnh;</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">5. Hội đồng\nxác định giá đất tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Xác định giá\nđất đối với cho từng dự án trình UBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">6. Cục Thuế tỉnh:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Hướng dẫn việc\nthu nộp tiền sử dụng đất đối với các dự án; tổ chức thu tiền sử dụng đất theo\nquy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">7. Uỷ ban\nnhân dân các huyện và thành phố Lào Cai:</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Phối hợp với\nSở Xây dựng quản lý quy hoạch khu đô thị mới và khu phát triển nhà ở thương mại;\nthực hiện giải phóng mặt bằng và tái định cư các dự án trong địa giới do mình\nquản lý; hướng dẫn và thực hiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở\nhữu nhà ở cho cá nhân có yêu cầu.</p>\n\n<p style=\"margin-bottom:6.0pt;text-align:justify\">Trong quá\ntrình thực hiện nếu có vướng mắc, các tổ chức, cá nhân phản ánh về Sở Xây dựng\nđể tổng hợp báo cáo UBND tỉnh xem xét, sửa đổi, bổ sung cho phù hợp./.</p>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH LÀO CAI  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\----------------**\n\nSố: 46/2010/QĐ-UBND\n\n_Lào Cai, ngày 20 tháng 12 năm 2010_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH MỘT SỐ NỘI DUNG ĐẦU TƯ CÁC DỰ ÁN KHU ĐÔ THỊ MỚI, DỰ ÁN PHÁT TRIỂN NHÀ Ở THƯƠNG MẠI TRÊN ĐỊA BÀN TỈNH LÀO CAI\n\n**ỦY BAN NHÂN DÂN TỈNH LÀO CAI**\n\n_Căn cứ Luật Tổ chức HĐND và UBND ngày 26 tháng 11 năm 2003; Căn cứ Luật Xây dựng ngày 26 tháng 11 năm 2003;  \nCăn cứ Luật Đất đai ngày 26 tháng 11 năm 2003; Căn cứ Luật Đầu tư ngày 29 tháng 11 năm 2005; Căn cứ Luật Nhà ở ngày 29 tháng 11 năm 2005;  \nCăn cứ Luật Đấu thầu ngày 29 tháng 11 năm 2005;  \nCăn cứ Luật Kinh doanh bất động sản ngày 29 tháng 6 năm 2006; Căn cứ Luật Quy hoạch đô thị ngày 17 tháng 6 năm 2009;  \nCăn cứ Luật sửa đổi, bổ sung một số điều của các Luật liên quan đến đầu tư xây dựng cơ bản ngày 19 tháng 6 năm 2009;  \nCăn cứ nghị định số 198/2004/NĐ-CP ngày 03/12/2004 của Chính phủ về thu tiền sử dụng đất;  \nCăn cứ Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ về việc ban hành quy chế khu đô thị mới;  \nCăn cứ Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ về thực hiện thí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án đầu tư xây dựng khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp;  \nCăn cứ Nghị định số 69/2009/NĐ-CP ngày 13/8/2009 của Chính phủ quy định bổ sung về quy hoạch, kế hoạch sử dụng đất; thu hồi đất, bồi thường, hỗ trợ, tái định cư;  \nCăn cứ Nghị định số 85/2009/NĐ-CP ngày 15/10/2009 của Chính phủ hướng dẫn thi hành Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng;  \nCăn cứ Nghị định số 71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở;  \nCăn cứ Nghị định số 37/2010/NĐ-CP ngày 07/4/2010 của Chính phủ về lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị;  \nCăn cứ Thông tư số 03/2009/TT-BKH ngày 16/4/2009 của Bộ Kế hoạch và Đầu tư hướng dẫn lựa chọn nhà đầu tư thực hiện đầu tư dự án có sử dụng đất;  \nCăn cứ Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực hiện quy chế khu đô thị mới theo Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ;  \nCăn cứ Thông tư số 16/2010/TT-BXD ngày 01/9/2010 của Bộ Xây dựng quy định cụ thể và hướng dẫn thực hiện một số nội dung của Nghị định số 71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở;  \nCăn cứ Thông tư số 192/2009/TT-BTC ngày 01/10/2009 của Bộ Tài chính về việc hướng dẫn thí điểm nộp tiền sử dụng đất đối với dự án đầu tư xây dựng khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật Khu công nghiệp tại Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ;  \nCăn cứ Thông tư liên tịch số 30/2009/TTLT-BXD-BKH ngày 27/8/2009 của liên Bộ Xây dựng - Bộ Kế hoạch và Đầu tư Quy định chi tiết một số điểm tại Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ về thực hiện thí điểm một số thủ tục hành chính trong đầu tư xây dựng đối với dự án khu đô thị mới, dự án khu nhà ở, dự án hạ tầng kỹ thuật khu công nghiệp;  \nXét đề nghị của Giám đốc Sở Xây dựng tại Tờ trình số: 279/TTr-SXD ngày 14 tháng 12 năm 2010 về việc trình ban hành quy định một số nội dung đầu tư các Dự án khu đô thị mới, Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1****.** Ban hành kèm theo Quyết định này Quy định một số nội dung thực hiện đầu tư Dự án khu đô thị mới và Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai.\n\n**Điều 2****.** Sở Xây dựng chủ trì phối hợp với các sở, ngành liên quan hướng dẫn, kiểm tra việc thực hiện Quyết định này.\n\n**Điều 3****.** Chánh Văn phòng UBND tỉnh, Giám đốc Sở Xây dựng, Giám đốc các sở, ban, ngành, Chủ tịch UBND các huyện, thành phố Lào Cai và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\n\nQuyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký./.\n\n**TM. ỦY BAN NHÂN DÂN TỈNH  \nCHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Văn Vịnh**\n\n**QUY ĐỊNH**\n\nMỘT SỐ NỘI DUNG THỰC HIỆN ĐẦU TƯ DỰ ÁN KHU ĐÔ THỊ MỚI, DỰ ÁN PHÁT TRIỂN NHÀ Ở THƯƠNG MẠI TRÊN ĐỊA BÀN TỈNH LÀO CAI  \n_(Ban hành kèm theo Quyết định số: 46/2010/QĐ-UBND ngày 20/12/2010 của UBND tỉnh Lào Cai)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\nQuy định này quy định một số nội dung thực hiện Dự án đầu tư xây dựng khu đô thị mới (Dự án khu đô thị mới) có quy mô từ 20ha trở lên và Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai.\n\nNhững nội dung liên quan đến Dự án khu đô thị mới, Dự án phát triển nhà ở thương mại không nêu trong Quy định này thực hiện theo Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ về việc ban hành quy chế khu đô thị mới (Nghị định số 02/2006/NĐ-CP); Nghị định số 71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở (Nghị định số 71/2010/NĐ-CP), Thông tư số 04/2006/TT-BXD ngày 18/8/2006 của Bộ Xây dựng hướng dẫn thực hiện quy chế Khu đô thị mới theo Nghị định số 02/2006/NĐ-CP ngày 05/01/2006 của Chính phủ (Thông tư số 04/2006/TT-BXD); Thông tư số 16/2010/TT-BXD ngày 01/9/2010 của Bộ Xây dựng quy định cụ thể và hướng dẫn thực hiện một số nội dung của Nghị định số 71/2010/NĐ-CP ngày 23/6/2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở (Thông tư số 16/2010/TT- BXD) và các Văn bản pháp luật khác có liên quan.\n\n**Điều 2. Đối tượng áp dụng**\n\nCác cơ quan, tổ chức, cá nhân có liên quan đến việc đầu tư xây dựng các Dự án khu đô thị mới, Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai.\n\n**Điều 3. Nguyên tắc thực hiện**\n\n1\\. Các khu đô thị mới, khu nhà ở thương mại phải được đầu tư, xây dựng trên cơ sở quy hoạch chi tiết xây dựng tỷ lệ 1/500 và tổng mặt bằng được UBND tỉnh phê duyệt, phải đảm bảo đồng bộ hệ thống các công trình hạ tầng kỹ thuật và hạ tầng xã hội trong phạm vi dự án và khu đô thị.\n\n2\\. Chủ đầu tư phải nộp tiền sử dụng đất vào ngân sách của tỉnh theo quy định sau khi đã đối trừ phần chi phí đền bù giải phóng mặt bằng, tái định cư (nếu có) và tỉnh không cấp bù cho dự án sau khi đã được đối trừ. Chi phí đầu tư hạ tầng kỹ thuật, hạ tầng xã hội trong phạm vi dự án do chủ đầu tư thực hiện và không được đối trừ vào tiền sử dụng đất.\n\n3\\. Giá tiền sử dụng đất được xác định trên cơ sở là khu đất đã được giải phóng mặt bằng (đất sạch) chưa có hệ thống hạ tầng kỹ thuật hoặc đã có hệ thống hạ tầng kỹ thuật..\n\n4\\. Nhà nước quản lý dự án khu đô thị mới, dự án phát triển nhà ở thương mại theo quy hoạch chi tiết xây dựng tỷ lệ 1/500 hoặc tổng mặt bằng được duyệt, quản lý thiết kế công trình, chất lượng công trình theo quy định của Pháp luật về xây dựng và quản lý tiến độ thực hiện dự án.\n\n**Chương II**\n\n**CHUẨN BỊ DỰ ÁN, CHỦ ĐẦU TƯ DỰ ÁN, LẬP, THẨM ĐỊNH, PHÊ DUYỆT DỰ ÁN**\n\n**Điều 4. Trình tự thực hiện dự án**\n\nDự án khu đô thị mới và dự án phát triển nhà ở thương mại thực hiện theo trình tự sau đây:\n\n1\\. Lựa chọn chủ đầu tư\n\n2\\. Chủ đầu tư lập quy hoạch chi tiết xây dựng tỷ lệ 1/500 hoặc thiết kế quy hoạch tổng mặt bằng (đối với các dự án nhà ở thương mại thuộc đối tượng không phải quy hoạch chi tiết tỷ lệ 1/500) để trình UBND tỉnh phê duyệt ;\n\n3\\. Lập hồ sơ dự án;\n\n4\\. Chấp thuận đầu tư dự án;\n\n5\\. Thu hồi đất và giao đất cho chủ đầu tư;\n\n6\\. Chủ đầu tư tổ chức lập, thẩm định và phê duyệt dự án;\n\n7\\. Thực hiện dự án;\n\n8\\. Hoàn thành, chuyển giao.\n\n**Điều 5. Kế hoạch phát triển khu đô thị mới và phát triển nhà ở thương mại**\n\n1\\. Hàng năm Sở Xây dựng chủ trì phối hợp UBND cấp huyện và các ngành có liên quan lập kế hoạch phát triển Dự án khu đô thị mới và Dự án phát triển nhà ở thương mại trên phạm vi toàn tỉnh để trình UBND tỉnh phê duyệt. Kế hoạch phát triển khu đô thị mới và phát triển nhà ở thương mại được đưa vào kế hoạch phát triển kinh tế xã hội của tỉnh theo từng thời kỳ và từng năm.\n\n2\\. Nội dung kế hoạch phát triển khu đô thị mới thực hiện theo quy định tại khoản 1 Điều 8 Nghị định số 02/2006/NĐ-CP, nội dung kế hoạch phát triển nhà ở thương mại thực hiện theo quy định khoản 2 Điều 74 Nghị định số 71/2010/NĐ-CP.\n\n**Điều 6. Công bố danh mục các Dự án khu đô thị mới và Dự án phát triển nhà ở thương mại**\n\n1\\. Căn cứ Kế hoạch phát triển khu đô thị mới và phát triển nhà ở thương mại đã được UBND tỉnh phê duyệt, Sở Xây dựng có trách nhiệm đăng tải danh mục và các thông tin trên Website của Sở Xây dựng và trên các phương tiện thông tin đại chúng khác theo quy định của pháp luật về đấu thầu để công khai kêu gọi các tổ chức, cá nhân tham gia đăng ký thực hiện đầu tư dự án.\n\n2\\. Thông tin về dự án được công bố gồm có:\n\na) Đối với dự án khu đô thị mới: Tên dự án; địa điểm xây dựng dự án; diện tích đất để xây dựng dự án; khái quát sơ bộ hiện trạng về khu đất; các chỉ tiêu quy hoạch chủ yếu; mục tiêu của dự án; phương án tổng thể về bồi thường, giải phóng mặt bằng, tái định cư (nếu có); thời gian thực hiện; yêu cầu về quản lý vận hành và khai thác dự án khi xây dựng xong; các điều kiện tham gia đấu thầu để lựa chọn chủ đầu tư; thời gian tiếp nhận hồ sơ dự thầu..\n\nb) Đối với dự án phát triển nhà ở thương mại: Thực hiện theo quy định tại khoản 2 Điều 14 Nghị định 71/2010/NĐ-CP, cụ thể như sau: Quy hoạch xây dựng đô thị, điểm dân cư nông thôn tỷ lệ 1/2000; địa điểm, gianh giới và diện tích khu đất; các điều kiện về sử dụng đất (đượ giao hoặc thuê, thời hạn thuê, quỹ đất bố trí tái định cư, bảng giá đất của từng khu vực và nghĩa vụ tài chính mà chủ đầu tư phải nộp theo quy định); yêu cầu về quy hoạch, kiến trúc, số lượng các loại nhà ở, hệ thống hạ tầng kỹ thuật, hạ tầng xã hội và các công trình kiến trúc khác trong phạm vi dự án; phương án tổng thể về bồi thường, giải phóng mặt bằng, tái định cư (nếu có); thời gian thực hiện dự án; yêu cầu về quản lý vận hành và khai thác dự án khi xây dựng xong; các điều kiện tham gia đấu thầu để lựa chọn chủ đầu tư; thời gian tiếp nhận hồ sơ dự thầu.\n\n**Điều 7. Điều kiện để thực hiện đầu tư dự án**\n\nDự án khu đô thị mới, dự án phát triển nhà ở thương mại chỉ được thực hiện khi đủ các điều kiện sau đây:\n\n1\\. Khu đất xây dựng dự án đã được xác định trong quy hoạch xây dựng được cấp có thẩm quyền phê duyệt;\n\n2\\. Dự án thuộc danh mục đã được công bố theo quy định tại Điều 6 của Quy định này.\n\n**Điều 8. Chủ đầu tư dự án khu đô thị mới và chủ đầu tư dự án phát triển nhà ở thương mại**\n\n1.Chủ đầu tư dự án khu đô thị mới:\n\nLà doanh nghiệp có đăng ký kinh doanh về đầu tư kinh doanh bất động sản và có vốn đầu tư thuộc sở hữu của chủ đầu tư tham gia vào dự án không nhỏ hơn 20% tổng mức đầu tư dự án.\n\n2\\. Chủ đầu tư dự án phát triển nhà ở thương mại:\n\nLà doanh nghiệp trong nước được thành lập và hoạt động theo quy định của Luật Doanh nghiệp; doanh nghiệp có 100% vốn đầu tư nước ngoài; doanh nghiệp liên doanh với nhà đầu tư nước ngoài; doanh nghiệp của người Việt Nam định cư ở nước ngoài hoạt động đầu tư tại Việt Nam theo quy định của Luật Đầu tư; Hợp tác xã được thành lập và hoạt động theo quy định của Luật Hợp tác xã và phải có đăng ký kinh doanh bất động sản hoặc Giấy chứng nhận đầu tư có hoạt động đầu tư bất động sản và có đủ vốn pháp định theo quy định của pháp luật Việt Nam, có vốn đầu tư thuộc sở hữu của mình để thực hiện dự án không thấp hơn 15% tổng mức đầu tư của dự án có quy mô sử dụng đất dưới 20 ha, không thấp hơn 20% tổng mức đầu tư của dự án có quy mô sử dụng đất từ 20 ha trở lên.\n\n**Điều 9. Lựa chọn chủ đầu tư Dự án khu đô thị mới và chủ đầu tư Dự án phát triển nhà ở thương mại**\n\n1\\. Việc lựa chọn chủ đầu tư Dự án khu đô thị mới và chủ đầu tư Dự án phát triển nhà ở thương mại phải thực hiện theo hình thức đấu thầu hoặc đấu giá quyền sử dụng đất đối với Dự án phát triển nhà ở thương mại;\n\n2\\. Chỉ định chủ đầu tư chỉ được thực hiện trong các trường hợp sau đây:\n\na) Khi dự án chỉ có một nhà đầu tư đăng ký sau khi hết thời hạn quy định trong nội dung công bố Quy định tại Điều 6 Quy định này và có đủ điều kiện theo quy định tại Điều 8 của Quy định này.\n\nb) Đối với dự án phát triển nhà ở thương mại: Nhà đầu tư có quyền sử dụng đất hợp pháp theo quy định của Pháp luật về đất đai, phù hợp với quy hoạch phát triển nhà ở, có đủ điều kiện theo quy định tại khoản 2 Điều 8 và có văn bản đăng ký làm chủ đầu tư.\n\nc) Chủ đầu tư được chỉ định thông qua việc thẩm định dự án và điều kiện, năng lực của chủ đầu tư theo quy định.\n\n3\\. Đối với các chủ đầu tư đã và đang thực hiện Dự án khu đô thị mới hoặc Dự án phát triển nhà ở thương mại trên địa bàn tỉnh Lào Cai nếu không thực hiện dự án đúng tiến độ hoặc quyết toán không đúng thời gian quy định (do lỗi của chủ đầu tư) sẽ không được tham gia đăng ký dự thầu các dự án mới.\n\n**Điều 10. Mời thầu, trách nhiệm của bên mời thầu**\n\n1\\. Sở Xây dựng là Bên mời thầu để tổ chức lựa chọn chủ đầu tư thực hiện các dự án khu đô thị mới, dự án phát triển nhà ở thương mại thuộc thẩm quyền quyết định cho phép đầu tư và chấp thuận đầu tư của UBND tỉnh.\n\n2\\. Trách nhiệm của bên mời thầu:\n\na) Lập nội dung thông tin về dự án để trình UBND tỉnh phê duyệt và đăng tải thông tin về dự án theo quy định tại Điều 6 của Quy định này;\n\nb) Lập kế hoạch đấu thầu trình UBND tỉnh phê duyệt;\n\nc) Tổ chức lập, thẩm định và phê duyệt hồ sơ mời thầu;\n\nd) Trình UBND tỉnh phê duyệt kết quả lựa chọn chủ đầu tư thực hiện Dự án khu đô thị mới, Dự án phát triển nhà ở thương mại sau khi có kết quả đánh giá hồ sơ dự thầu, hồ sơ yêu cầu của Tổ chuyên gia;\n\ne) Thông báo kết quả đấu thầu và giải quyết khiếu nại (nếu có);\n\n**Điều 11. Tổ chuyên gia đấu thầu, nhiệm vụ của tổ chuyên gia đấu thầu**\n\n1\\. Sở Xây dựng trình UBND tỉnh quyết định thành lập Tổ chuyên gia đấu thầu, thành phần gồm có đại diện của Sở Xây dựng, Sở Tài nguyên và Môi trường, Sở Kế hoạch và Đầu tư, Sở Tài chính. Sở Xây dựng thỏa thuận với UBND cấp huyện nơi có dự án để cử người cùng tham gia tổ chuyên gia.\n\n2\\. Nhiệm vụ của tổ chuyên gia đấu thầu:\n\na) Lập hồ sơ mời thầu, hồ sơ yêu cầu;\n\nb) Tổ chức đấu thầu lựa chọn chủ đầu tư;\n\nc) Lập tiêu chí đánh giá hồ sơ dự thầu, hồ sơ đề xuất để Sở Xây dựng phê duyệt;\n\nd) Thẩm định hồ sơ dự thầu, hồ sơ đề xuất;\n\ne) Thực hiện các công việc khác có liên quan đến đấu thầu, chỉ định chủ đầu tư.\n\n**Điều 12. Trình tự thực hiện lựa chọn chủ đầu tư**\n\n1\\. Sở Xây dựng lập kế hoạch đấu thầu và trình UBND tỉnh phê duyệt;\n\n2\\. Sở Xây dựng công bố dự án theo quy định tại Điều 6 của quy định này;\n\n3\\. Nhà đầu tư đăng ký và nộp hồ sơ tham gia đầu tư tại Sở Xây dựng;\n\n4\\. Sở Xây dựng mời thầu và tổ chức đấu thầu;\n\n5\\. Tổ chuyên gia đánh giá, thẩm định hồ sơ đấu thầu, thẩm định hồ sơ đề xuất\n\n(Trường hợp chỉ định chủ đầu tư);\n\n6\\. Trình và phê duyệt kết quả trúng thầu chủ đầu tư hoặc chỉ định chủ đầu tư;\n\n7\\. Sở Xây dựng thông báo kết quả đấu thầu;\n\n**Điều 13. Hồ sơ mời thầu và hồ sơ dự thầu**\n\n1\\. Hồ sơ mời thầu: Thực hiện theo điểm 2.1.6 mục II Thông tư số 04/2006/TT-BXD (đối với Dự án khu đô thị mới hoặc khoản 4 Điều 14 Nghị định 71/2010/NĐ-CP (đối với Dự án ơhats triển nhà ở thương mại).\n\n2\\. Hồ sơ dự thầu bao gồm: Đơn dự thầu theo mẫu tại phụ lục số 02 của Thông tư 04/2006/TT-BXD (đối với Dự án khu đô thị mới) hoặc phụ lục số 02 của Thông tư 16/2010/TT-BXD (đối với dự án phát triển nhà ở thương mại), các tài liệu pháp lý có liên quan, các đề xuất của nhà đầu tư theo yêu cầu của hồ sơ mời thầu và các đề xuất khác của nhà đầu tư.\n\n**Điều 14. Chấp thuận đầu tư, lập, thẩm định, phê duyệt dự án**\n\n1\\. Đối với Dự án Khu đô thị mới: Sau khi được lựa chọn làm chủ đầu tư dự án, chủ đầu tư tự tổ chức lập quy hoạch chi tiết 1/2000 (Đối với trường hợp chưa có quy hoạch chi tiết 1/2000), quy hoạch chi tiết 1/500 và trình UBND tỉnh phê duyệt.\n\n2\\. Đối với Dự án phát triển nhà ở thương mại có quy mô dưới 2500 căn hộ: Sau khi được lựa chọn làm chủ đầu tư dự án, chủ đầu tư tự tổ chức lập quy hoạch chi tiết 1/2000 (Đối với trường hợp chưa có quy hoạch chi tiết 1/2000), quy hoạch chi tiết 1/500 hoặc thiết kế tổng mặt bằng, phương án kiến trúc công trình, giải pháp về hạ tầng kỹ thuật (sau đây gọi chung là bản vẽ tổng mặt bằng) của dự án đối với trường hợp không thuộc diện phải lập quy hoạch chi tiết tỷ lệ 1/500 theo quy định của pháp luật về quy hoạch và trình UBND tỉnh phê duyệt.\n\n3\\. Sở Xây dựng là cơ quan tiếp nhận hồ sơ quy hoạch chi tiết, bản vẽ tổng mặt bằng để thẩm định và trình UBND tỉnh phê duyệt.\n\n4\\. Sau khi quy hoạch chi tiết 1/500 hoặc bản vẽ tổng mặt bằng được UBND tỉnh phê duyệt, chủ đầu tư lập hồ sơ dự án và đề nghị UBND tỉnh chấp thuận đầu tư.\n\na) Lập dự án: Dự án khu đô thị mới lập theo quy định tại mục III Thông tư số 04/2006/TT-BXD, Dự án nhà ở thương mại lập theo quy định tại Điều 6 Nghị định 71/2010/NĐ-CP.\n\nb) Hồ sơ đề nghị chấp thuận đầu tư gồm:\n\n\\- Tờ trình xin chấp thuận đầu tư của chủ đầu tư;\n\n\\- Hồ sơ dự án: Nội dung hồ sơ Dự án khu đô thị mới thực hiện theo quy định tại Điều 14 Nghị định 02/2006/NĐ-CP, nội dung hồ sơ Dự án phát triển nhà ở thương mại thực hiện theo điểm b khoản 2 Điều 7 Nghị định 71/2010/NĐ-CP.\n\nc) Thẩm định dự án để chấp thuận đầu tư: Chủ đầu tư gửi 06 bộ hồ sơ dự án đến cơ quan đầu mối là Sở Xây dựng để thẩm định và trình UBND tỉnh phê duyệt, nội dung thẩm định Dự án khu đô thị mới thực hiện theo Mục 5 Thông tư số 04/2006/TT-BXD, nội dung thẩm định Dự án phát triển nhà ở thương mại thực hiện theo quy định tại Điều 6 Nghị định 71/2010/NĐ-CP và Thông tư 16/2010/TT-BXD. Thời gian thẩm định không quá 45 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.\n\nd) Chấp thuận đầu tư: Căn cứ kết quả thẩm định của Sở Xây dựng, UBND tỉnh quyết định chấp thuận đầu tư dự án, nội dung quyết định chấp thuận đầu tư Dự án khu đô thị mới thực hiện theo quy định tại khoản 3 Điều 15 Nghị định số 02/2006/NĐ-CP, nội dung quyết định chấp thuận đầu tư Dự án phát triển nhà ở thương mại thực hiện theo quy định của Nghị định số 71/2010/NĐ-CP. Thời gian phê duyệt không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.\n\nTrường hợp dự án không được chấp nhận đầu tư, UBND tỉnh có văn bản thông báo cho chủ đầu tư trong đó nêu rõ những lý do dự án không được chấp thuận.\n\n5\\. Đối với trường hợp chủ đầu tư Dự án nhà ở thương mại được lựa chọn thông qua đấu thầu thì chủ đầu tư không phải đề nghị chấp thuận đầu tư, nội dung về chấp thuận đầu tư được ghi trong Quyết định trúng thầu chủ đầu tư dự án.\n\n6\\. Việc chấp thuận đầu tư đối với các dự án phát triển nhà ở thương mại có quy mô từ 2500 căn hộ trở lên thực hiện theo quy định tại khoản 2 Điều 6 Nghị định 71/2010/NĐ-CP và Thông tư 16/2010/TT-BXD, việc chấp thuận đầu tư đối với các Dự án khu đô thị mới có quy mô từ 200 ha trở lên thực hiện theo khoản 1 Điều 15 Nghị định số 02/2006/NĐ-CP và Mục V Thông tư số 04/2006/TT-BXD.\n\n7\\. Lập, thẩm định, phê duyệt dự án đầu tư xây dựng công trình\n\nSau khi dự án đã được chấp thuận đầu tư, chủ đầu tư phê duyệt dự án đầu tư xây dựng công trình theo quy định hiện hành của Pháp luật về quản lý dự án đầu tư xây dựng công trình.\n\nChủ đầu tư tự phê duyệt dự án sau khi có ý kiến tham gia về thiết kế cơ sở của Sở Xây dựng và kết quả thẩm định hoặc thẩm tra phần thuyết minh của dự án.\n\n**Điều 15. Điều lệ quản lý thực hiện dự án khu đô thị mới**\n\nChủ đầu tư lập Điều lệ quản lý thực hiện dự án của mình theo quy định tại khoản 1 Điều 16 Nghị dịnh số 02/2006/NĐ-CP và gửi Sở Xây dựng thẩm định trình UBND tỉnh phê duyệt.\n\n**Chương III**\n\n**THỰC HIỆN VÀ KHAI THÁC, CHUYỂN GIAO DỰ ÁN**\n\n**Điều 16. Sử dụng đất thực hiện dự án**\n\n1\\. Sở Tài nguyên và Môi trường phối hợp với UBND cấp huyện nơi có dự án và các ngành có liên quan thực hiện việc giao đất, cho thuê đất để thực hiện dự án theo quyết định cho phép đầu tư, kết quả đấu thầu Dự án khu đô thị mới hoặc Dự án phát triển nhà ở thương mại hoặc kết quả đấu giá quyền sử dụng đất theo quy định của Pháp luật về đất đai. Việc giao đất cho chủ đầu tư được thực hiện một lần hoặc nhiều lần tùy thuộc vào việc phân kỳ đầu tư, kế hoạch thực hiện đầu tư dự án, trừ trường hợp chủ đầu tư có quyền sử dụng đất hợp pháp theo quy định của Pháp luật về đất đai.\n\n2\\. Chủ đầu tư trực tiếp làm việc với Sở Tài nguyên và Môi trường để thực hiện các thủ tục về quyền sử dụng đất và nhận bàn giao đất theo quy định.\n\n**Điều 17. Thực hiện dự án**\n\n1\\. Sau khi dự án được phê duyệt, chủ đầu tư phải thực hiện các thủ tục về sử dụng đất, thực hiện giải phóng mặt bằng (nếu có), tự tổ chức thực hiện quản lý dự án đầu tư xây dựng công trình và quản lý chất lượng công trình theo đúng quy định hiện hành của tỉnh và của Pháp luật.\n\n2\\. Các cơ quan chuyên môn của tỉnh và Chính quyền địa phương có trách nhiệm quản lý nhà nước về các lĩnh vực theo chuyên ngành, lãnh thổ đối với việc thực hiện dự án của chủ đầu tư.\n\n**Điều 18. Huy động vốn**\n\nViệc huy động vốn để xây dựng công trình thực hiện theo quy định tại Thông tư số 04/2006/TT-BXD, Điều 9 Nghị định 71/2010/NĐ-CP và Điều 8 Thông tư số 16/2010/TT- BXD.\n\n**Điều 19. Hoàn thành, khai thác và chuyển giao dự án**\n\n1\\. Thủ tục hoàn thành công trình:\n\na) Công trình xây dựng xong phải được nghiệm thu hoàn thành theo quy định về quản lý chất lượng công trình xây dựng.\n\nb) Chủ đầu tư có trách nhiệm lưu trữ hồ sơ công trình theo quy định và giao cho bên nhận công trình 01 bộ hồ sơ hoàn công kèm theo bản quyết toán công trình. Riêng đối với các công trình hạ tầng kỹ thuật, hạ tầng xã hội và nhà chung cư thì chủ đầu tư phải gửi cho Sở Xây dựng 01 bộ hồ sơ hoàn công công trình để lưu trữ, quản lý.\n\n2\\. Chủ đầu tư phải hoàn thành thủ tục xác lập quyền sử dụng đất và quyền sở hữu công trình theo quy định của pháp luật đối với công trình đã hoàn thành đưa vào khai thác, sử dụng.\n\n3\\. Chủ đầu tư Dự án khu đô thị mới được khai thác hoặc chuyển giao cho bên tiếp nhận quản lý và khai thác các công trình hạ tầng kỹ thuật, công trình hạ tầng xã hội theo nội dung chấp thuận đầu tư. Đối với các công trình hạ tầng không được chuyển giao hoặc chưa chuyển giao thì chủ đầu tư có trách nhiệm quản lý, duy tu, bảo dưỡng, bảo trì và đảm bảo chất lượng vận hành.\n\n4\\. Chủ đầu tư khi kinh doanh bất động sản phải thực hiện bán, chuyển nhượng, cho thuê, cho thuê mua bất động sản qua sàn giao dịch bất động sản theo quy định của pháp luật hiện hành.\n\n**Chương IV**\n\n**THU NỘP TIỀN SỬ DỤNG ĐẤT**\n\n**Điều 20. Thu nộp tiền sử dụng đất đối với trường hợp đất đã được giải phóng mặt bằng**\n\na) Chủ đầu tư được UBND tỉnh giao đất theo hình thức đấu giá quyền sử dụng đất: Chủ đầu tư nộp tiền sử dụng đất theo quy định của quy chế bán đấu giá được cấp có thẩm quyền phê duyệt nhưng không quá 03 tháng kể từ ngày quyết định phê duyệt kết quả đấu giá có hiệu lực;\n\nb) Chủ đầu tư được UBND tỉnh giao đất bằng hình thức định giá quyền sử dụng đất: Chủ đầu tư phải nộp đủ tiền sử dụng đất trong thời hạn 03 tháng kể từ ngày có quyết định giao đất của UBND tỉnh.\n\n**Điều 21. Thu nộp tiền sử dụng đất đối với trường hợp khu đất chưa được giải phóng mặt bằng và chủ đầu tư được lựa chọn theo hình thức đấu thầu hoặc chỉ định chủ đầu tư**\n\nChủ đầu tư cấp 1 Dự án khu đô thị mới, chủ đầu tư Dự án phát triển nhà ở thương mại và các cơ quan liên quan thực hiện việc thu nộp tiền sử dụng đất vào ngân sách nhà nước theo quy định tại Mục VIII Thông tư số 04/2006/TT-BXD, Điều 2 Thông tư số 192/2009/TT – BTC ngày 01/10/2009 của Bộ Tài chính (Thông tư số 192/2009/TT-BTC) hướng dẫn thí điểm việc nộp tiền sử dụng đất đối với Dự án khu đô thị mới, Dự án nhà ở, Dự án hạ tầng kỹ thuật khu công nghiệp tại Nghị quyết số 33/2008/NQ-CP ngày 31/12/2008 của Chính phủ, Nghị định 198/2004/NĐ-CP ngày 03/12/2004 của Chính phủ về thu tiền sử dụng đất và các quy định sau đây:\n\n1\\. Chủ đầu tư nộp tiền sử dụng đất theo giá đất tại thời điểm giao đất và tiến độ thực hiện dự án ghi trong Quyết định chấp thuận đầu tư;\n\n2\\. Căn cứ tiến độ thực hiện dự án ghi trong Quyết định chấp thuận đầu tư, chủ đầu tư phải đăng ký bằng văn bản (kèm theo hồ sơ dự án đã được chấp thuận đầu tư) với Sở tài chính và Cục thuế tỉnh, Chi cục thuế tại địa phương nơi xây dựng dự án về thời gian thi công hoàn thành phần móng (đối với các hạng mục công trình là nhà ở và công trình dịch vụ), phần mặt bằng và nền đường giao thông thuộc hệ thống cơ sở hạ tầng kỹ thuật của dự án và thời gian hoàn thành công trình.\n\n3\\. Hội đồng định giá đất của tỉnh có trách nhiệm xác định giá đất và trình UBND tỉnh mức thu tiền sử dụng đất theo quy định tại thời điểm có quyết định giao đất;\n\n4\\. Cục thuế tỉnh có trách nhiệm tổ chức thu tiền sử dụng đất theo giá đất được UBND tỉnh phê duyệt và thực hiện như sau:\n\na) Đối với Dự án phát triển nhà ở thương mại: Thu 70% tổng số tiền sử dụng đất phải nộp tại thời điểm chủ đầu tư được phép huy động vốn của khách hàng (Công trình đã thi công xong phần móng) theo tiến độ thực hiện dự án mà chủ đầu tư đăng ký theo quy định tại khoản 2 Điều này.\n\nb) Đối với Dự án khu đô thị mới: Thu 70% tổng số tiền sử dụng đất phải nộp của chủ đầu tư khi bắt đầu thi công kết cấu hạ tầng kỹ thuật của dự án theo tiến độ thực hiện dự án mà chủ đầu tư đăng ký theo quy định tại khoản 2 Điều này.\n\nTrường hợp khi đã thi công xong cơ sở hạ tầng kỹ thuật của dự án mà chủ đầu tư chuyển nhượng > 70% diện tích đất thuộc đối tượng có thu tiền sử dụng đất cho chủ đầu tư cấp 2 thì chủ đầu tư phải nộp 100% tiền sử dụng đất cho cơ quan thuế tại địa phương nơi xây dựng dự án. Trường hợp chủ đầu tư trực tiếp xây dựng một số hạng mục nhà ở và công trình dịch vụ thì việc thu nộp tiền sử dụng đát thực hiện như đối với Dự án phát triển nhà ở thương mại.\n\nc) Thu nốt 30% tổng số tiền sử dụng đất còn lại của chủ đầu tư phải nộp khi công trình hoàn thành, bàn giao đưa vào sử dụng nhưng không quá 18 tháng kể từ ngày thu nộp tiền sử dụng đất lần 1 (đối với Dự án phát triển nhà ở thương mại) và không quá 24 tháng (đối với Dự án khu đô thị mới).\n\nd) Trường hợp chủ đầu tư hoàn thành phần móng hoặc mặt bằng và nền đường giao thông thuộc hệ thống cơ sở hạ tầng kỹ thuật của dự án sớm hơn thời gian đã đăng ký theo quy định tại khoản 2 Điều này thì phải kê khai, báo cáo với Sở tài chính và Cục thuế tỉnh, Chi cục thuế tại địa phương nơi xây dựng dự án về thời gian thi công hoàn thành để nộp tiền sử dụng đất theo quy định. Trường hợp chủ đầu tư chậm hoặc không kê khai báo cáo thì phải nộp phạt theo quy định tại điểm 1.3 Điều 2 Thông tư số 192/2009/TT-BTC.\n\n5\\. Bên mời thầu (Sở Xây dựng) có trách nhiệm thông báo bằng văn bản cho Sở Tài chính và Cục thuế tỉnh về thời gian chủ đầu tư hoàn thành phần móng nhà ở thương mại, thời gian bắt đầu thi công kết cấu hạ tầng kỹ thuật của dự án để làm cơ sở thu tiền sử dụng đất của chủ đầu tư.\n\n**Chương V**\n\n**QUYỀN VÀ NGHĨA VỤ CỦA CHỦ ĐẦU TƯ**\n\n**Điều 22. Quyền và nghĩa vụ của chủ đầu tư**\n\nQuyền và nghĩa vụ của chủ đầu tư thực hiện theo quy định tại Điều 12 Nghị định 02/2006/NĐ-CP (đối với dự án khu đô thị mới) và Điều 15, Điều 16 Nghị định 71/2010/NĐ-CP (đối với dự án phát triển nhà ở thương mại) và nộp tiền sử dụng đất theo quy định tại Điều 20, Điều 21 của Quy định này.\n\n**Chương VI**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 23. Xử lý chuyển tiếp**\n\n1\\. Các dự án chưa công bố hoặc đã công bố nhưng chưa thực hiện việc lựa chọn chủ đầu tư thì thực hiện theo quy định này;\n\n2\\. Các dự án đã lựa chọn được chủ đầu tư nhưng chưa được chấp thuận đầu tư thì các bước tiếp theo phải thực hiện theo quy định này.\n\n**Điều 24. Tổ chức thực hiện**\n\n1\\. Sở Xây dựng:\n\nChủ trì phối hợp với Sở Tài nguyên và Môi trường, Sở Tài chính, Sở Kế hoạch và Đầu tư, UBND các huyện và thành phố Lào Cai hướng dẫn và kiểm tra việc thực hiện quy định này; lập kế hoạch phát triển khu đô thị mới và phát triển nhà ở; quản lý nhà nước theo quy định của pháp luật đối với việc thực hiện dự án của các chủ đầu tư về các lĩnh vực quy hoạch xây dựng, quản lý dự án đầu tư xây dựng công trình, quản lý chất lượng công trình xây dựng, thanh tra xây dựng, thị trường bất động sản; lưu trữ và khai thác hồ sơ hoàn công công trình; thực hiện các nhiệm vụ khác được giao trong Quy định này.\n\n2\\. Sở Tài nguyên & Môi trường:\n\nQuản lý nhà nước về sử dụng đất và bảo vệ môi trường của các dự án; Cấp Giấy chứng nhận quyền sử dụng đất và quyền sở hữu nhà cho tổ chức và cá nhân có yêu cầu; Hướng dẫn, kiểm tra, thanh tra việc sử dụng đất của các dự án;\n\n3\\. Sở Kế hoạch & Đầu tư.\n\nTổng hợp và báo cáo HĐND, UBND kế hoạch phát triển khu đô thị mới và phát triển nhà ở; Hướng dẫn lập dự án; Thẩm định kế hoạch đấu thầu để lựa chọn chủ đầu tư các dự án trình UBND tỉnh phê duyệt; Giám sát đầu tư các dự án.\n\n4\\. Sở Tài chính.\n\nPhối hợp với Hội đồng định giá đất của tỉnh và UBND cấp huyện xác định giá đất, thẩm tra quyết toán công trình; Tổng hợp, theo dõi và kiểm tra việc thu nộp tiền sử dụng đất; Đề xuất chế độ chính sách khuyến khích, ưu đãi để phù hợp với điều kiện của tỉnh;\n\n5\\. Hội đồng xác định giá đất tỉnh.\n\nXác định giá đất đối với cho từng dự án trình UBND tỉnh phê duyệt.\n\n6\\. Cục Thuế tỉnh:\n\nHướng dẫn việc thu nộp tiền sử dụng đất đối với các dự án; tổ chức thu tiền sử dụng đất theo quy định.\n\n7\\. Uỷ ban nhân dân các huyện và thành phố Lào Cai:\n\nPhối hợp với Sở Xây dựng quản lý quy hoạch khu đô thị mới và khu phát triển nhà ở thương mại; thực hiện giải phóng mặt bằng và tái định cư các dự án trong địa giới do mình quản lý; hướng dẫn và thực hiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở cho cá nhân có yêu cầu.\n\nTrong quá trình thực hiện nếu có vướng mắc, các tổ chức, cá nhân phản ánh về Sở Xây dựng để tổng hợp báo cáo UBND tỉnh xem xét, sửa đổi, bổ sung cho phù hợp./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

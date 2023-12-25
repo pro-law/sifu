@@ -1,0 +1,512 @@
+{
+  "title": "Nghị quyết 114/2017/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Nghị quyết 60/2016/NQ-HĐND về kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "60/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2016-12-19",
+      "effectiveDate": "2016-12-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 18/12/2017"
+    },
+    {
+      "title": "Nghị quyết 89/2017/NQ-HĐND về bổ sung danh mục dự án vào kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "89/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2017-07-20",
+      "effectiveDate": "2017-07-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 18/12/2017"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết 144/2015/NQ-HĐND nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển bằng nguồn ngân sách nhà nước giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "144/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2015-12-09",
+      "effectiveDate": "2015-12-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 77/2015/NĐ-CP về kế hoạch đầu tư công trung hạn và hằng năm",
+      "id": "77/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-10",
+      "effectiveDate": "2015-11-01",
+      "gazetteDate": "2015-09-23",
+      "gazetteNumber": "Từ số 999 đến số 1000",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Đầu tư công 2014",
+      "id": "49/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-18",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 687 đến số 688",
+      "status": "Hết hiệu lực: 01/01/2020"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [
+    {
+      "title": "Nghị quyết 519/2020/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "519/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Mai Văn Huỳnh"
+      ],
+      "issuedDate": "2020-12-23",
+      "effectiveDate": "2020-12-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 493/2020/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "493/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Lê Hồng Thắm"
+      ],
+      "issuedDate": "2020-11-11",
+      "effectiveDate": "2020-11-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 466/2020/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "466/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2020-09-09",
+      "effectiveDate": "2020-09-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 306/2020/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "306/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2020-04-03",
+      "effectiveDate": "2020-04-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 271/2019/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "271/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2019-12-06",
+      "effectiveDate": "2019-12-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 261/2019/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "261/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2019-10-21",
+      "effectiveDate": "2019-10-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 222/2019/NQ-HĐND về điều chỉnh, bổ sung kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "222/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2019-07-26",
+      "effectiveDate": "2019-08-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 178/2018/NQ-HĐND về điều chỉnh, bổ sung kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "178/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2018-12-14",
+      "effectiveDate": "2018-12-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị quyết 156/2018/NQ-HĐND điều chỉnh, bổ sung kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 trên địa bàn tỉnh Kiên Giang",
+      "id": "156/2018/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Đặng Tuyết Em"
+      ],
+      "issuedDate": "2018-07-24",
+      "effectiveDate": "2018-08-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2021"
+    }
+  ],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 190/QĐ-UBND năm 2022 công bố danh mục văn bản quy phạm pháp luật của tỉnh Kiên Giang hết hiệu lực năm 2021",
+      "id": "190/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Nguyễn Thanh Nhàn"
+      ],
+      "issuedDate": "2022-01-13",
+      "effectiveDate": "2022-01-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Nghị quyết 37/2017/NQ-HĐND về điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020; kế hoạch đầu tư công năm 2018 tỉnh Cao Bằng",
+      "id": "37/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Cao Bằng",
+      "signers": [
+        "Đàm Văn Eng"
+      ],
+      "issuedDate": "2017-12-08",
+      "effectiveDate": "2017-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 17/2017/NQ-HĐND về phê duyệt kế hoạch đầu tư công trung hạn nguồn ngân sách tỉnh Thái Bình giai đoạn 2018-2020",
+      "id": "17/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Đặng Trọng Thăng"
+      ],
+      "issuedDate": "2017-12-08",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 148/2017/NQ-HĐND về thông qua Phương án điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 do Tỉnh Đồng Tháp quản lý và phân bổ",
+      "id": "148/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Đồng Tháp",
+      "signers": [
+        "Phan Văn Thắng"
+      ],
+      "issuedDate": "2017-12-07",
+      "effectiveDate": "2017-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 16/12/2018"
+    },
+    {
+      "title": "Nghị quyết 147/2017/NQ-HĐND về thông qua phương án điều chỉnh kế hoạch đầu tư công năm 2017 do Tỉnh Đồng Tháp quản lý và phân bổ",
+      "id": "147/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Đồng Tháp",
+      "signers": [
+        "Phan Văn Thắng"
+      ],
+      "issuedDate": "2017-12-07",
+      "effectiveDate": "2017-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 31/01/2018"
+    },
+    {
+      "title": "Nghị quyết 19/NQ-HĐND năm 2017 về bổ sung danh mục chủ trương đầu tư dự án nhóm B, nhóm C trọng điểm thuộc Kế hoạch đầu tư công trung hạn 2016-2020 kèm theo Nghị quyết 12/NQ-HĐND do thành phố Cần Thơ ban hành",
+      "id": "19/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Phạm Văn Hiểu"
+      ],
+      "issuedDate": "2017-12-07",
+      "effectiveDate": "2017-12-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 20/NQ-HĐND năm 2017 về kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 thành phố Cần Thơ",
+      "id": "20/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Thành phố Cần Thơ",
+      "signers": [
+        "Phạm Văn Hiểu"
+      ],
+      "issuedDate": "2017-12-07",
+      "effectiveDate": "2017-12-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3486/2017/QĐ-UBND về phê duyệt điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016-2020 nguồn vốn ngân sách tỉnh dành cho dự án thuộc lĩnh vực giao thông dự kiến khởi công mới giai đoạn 2018-2020 do tỉnh Thanh Hóa ban hành",
+      "id": "3486/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Nguyễn Đình Xứng"
+      ],
+      "issuedDate": "2017-09-15",
+      "effectiveDate": "2017-09-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 97/2017/NQ-HĐND điều chỉnh Kế hoạch đầu tư công trung hạn 5 năm 2016-2020 tỉnh Hưng Yên",
+      "id": "97/2017/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Hưng Yên",
+      "signers": [
+        "Đỗ Xuân Tuyên"
+      ],
+      "issuedDate": "2017-07-21",
+      "effectiveDate": "2017-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 837/QĐ-UBND năm 2017 phê duyệt điều chỉnh chủ trương đầu tư dự án khởi công mới thuộc kế hoạch đầu tư công trung hạn 2016-2020 do Ủy ban nhân dân huyện Gò Quao, tỉnh Kiên Giang quản lý",
+      "id": "837/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Phạm Vũ Hồng"
+      ],
+      "issuedDate": "2017-04-07",
+      "effectiveDate": "2017-04-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "114/2017/NQ-HĐND",
+  "legislationType": "Nghị quyết",
+  "categories": [
+    "Đầu tư",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Tỉnh Kiên Giang",
+  "signers": [
+    "Đặng Tuyết Em"
+  ],
+  "issuedDate": "2017-12-08",
+  "effectiveDate": "2017-12-18",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 01/01/2021",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA1ADEAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">HỘI ĐỒNG NHÂN DÂN<br>\n  TỈNH KIÊN GIANG<br>\n  --------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">CỘNG HÒA XÃ HỘI CHỦ\n  NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Số:\n  114/2017/NQ-HĐND</span></p>\n  </td>\n  <td width=\"367\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Kiên Giang, ngày 08\n  tháng 12 năm 2017</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">NGHỊ QUYẾT</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">VỀ ĐIỀU CHỈNH KẾ\nHOẠCH ĐẦU TƯ CÔNG TRUNG HẠN GIAI ĐOẠN 2016 - 2020 TRÊN ĐỊA BÀN TỈNH KIÊN GIANG</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">HỘI ĐỒNG NHÂN DÂN\nTỈNH KIÊN GIANG<br>\nKHÓA IX, KỲ HỌP THỨ SÁU</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Căn cứ Luật tổ chức chính quyền địa phương\nngày 19 tháng 6 năm 2015;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Căn cứ Luật ban hành văn bản quy phạm pháp\nluật ngày 22 tháng 6 năm 2015;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Căn cứ Luật đầu tư công ngày 18 tháng 6 năm\n2014;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Căn cứ Luật ngân sách nhà nước ngày 25 tháng\n6 năm 2015;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 77/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-77-2015-nd-cp-ke-hoach-dau-tu-cong-trung-han-va-hang-nam-290008.aspx\">77/2015/NĐ-CP</a>  ngày 10\ntháng 9 năm 2015 của Chính phủ về kế hoạch đầu tư công trung hạn và hằng năm;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Xét Tờ trình số 260/TTr-UBND ngày 22 tháng 11\nnăm 2017 của Ủy ban nhân dân tỉnh về kế hoạch đầu tư công trung hạn giai đoạn\n2016 - 2020 trên địa bàn tỉnh Kiên Giang; Báo cáo thẩm tra số 183/BC-HĐND ngày\n28 tháng 11 năm 2017 của Ban Kinh tế - Ngân sách Hội đồng nhân dân tỉnh; ý kiến\nthảo luận của đại biểu Hội đồng nhân dân tại kỳ họp.</span></i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">QUYẾT NGHỊ:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-2517576')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2517576')\" atmm=\".lqhlTootip-2517576\" onmouseout=\"hideddrivetip();\"><b><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Điều 1. Thống\nnhất điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016 - 2020 trên địa\nbàn tỉnh Kiên Giang.</span></b></a><b><span lang=\"NL\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\"> </span></b><a name=\"dieu_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-2517576')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2517576')\" atmm=\".lqhlTootip-2517576\" onmouseout=\"hideddrivetip();\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">Nội\ndung cụ thể như sau:</span></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">1. Tổng nguồn vốn đầu tư: 24.885.468 triệu\nđồng,<b> </b>trong đó:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">a) Nguồn vốn đầu tư trong cân đối ngân\nsách địa phương: 15.543.817<b> </b>triệu đồng, gồm:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">- Vốn đầu tư trong cân đối theo tiêu\nchí, định mức quy định tại Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 144/2015/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-144-2015-nq-hdnd-dinh-muc-phan-bo-von-dau-tu-phat-trien-bang-nguon-ngan-sach-kien-giang-319456.aspx\">144/2015/NQ-HĐND</a>  ngày 09 tháng 12 năm 2015\ncủa Hội đồng nhân dân tỉnh: 5.658.817 triệu đồng.</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">(<i>Danh mục\nchi tiết kèm theo Phụ lục I)</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">- Đầu tư từ nguồn vốn xổ số kiến thiết\n: 5.800.000 triệu đồng.</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">(<i>Danh mục\nchi tiết kèm theo Phụ lục II)</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">- Đầu tư từ nguồn thu sử dụng đất : 4.085.000\ntriệu đồng.</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">(<i>Danh mục\nchi tiết kèm theo Phụ lục III)</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">b) Nguồn vốn ngân sách Trung ương hỗ\ntrợ : 7.406.651<b> </b>triệu đồng, bao gồm:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">- Vốn trong nước&nbsp; : 6.542.737 triệu\nđồng.</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">(<i>Danh mục\nchi tiết kèm theo Phụ lục IV)</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">- Vốn nước ngoài &nbsp;: 863.914 triệu đồng.</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">(<i>Danh mục\nchi tiết kèm theo Phụ lục V)</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">c) Nguồn vốn trái phiếu Chính phủ:\n1.935.000 triệu đồng.</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">(<i>Danh mục\nchi tiết kèm theo Phụ lục VI)</i></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">2. Một số g</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">iải pháp thực hiện</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">a) Nâng cao trách nhiệm công tác tham\nmưu của các ngành và địa phương; thực hiện nghiêm các quy định của pháp luật về\nđầu tư công.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">b) Sau khi kế hoạch đầu tư công trung\nhạn điều chỉnh được phê duyệt, từng sở, ban, ngành, địa phương rà soát, xem xét\nmục tiêu phát triển của từng lĩnh vực để sắp xếp thứ tự ưu tiên đầu tư, bảo đảm\ntính cấp bách, kịp thời và chuẩn bị các thủ tục đầu tư để đẩy nhanh tiến độ\nthực hiện dự án.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">c) Tăng cường sự phối hợp giữa các chủ\nđầu tư, địa phương tập trung tháo gỡ khó khăn, vướng mắc và đẩy nhanh tiến độ\ngiải phóng mặt bằng, tổ chức triển khai thi công.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">d)</span><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\"> Tập trung chỉ đạo đầu tư hoàn thành một số\ncông trình trọng điểm như: </span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Giao thông nông thôn</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> theo tiêu chí</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> xã nông thôn\nmới</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> thiết chế\nvăn hóa</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> hệ thống\nthủy lợi</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> các bệnh\nviện tuyến tỉnh</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> công trình\ngiao thông trọng điểm</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">…</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">đ)</span><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\"> Đẩy mạnh công tác triển khai các dự án đầu\ntư tạo vốn từ quỹ đất xây dựng cơ sở hạ tầng</span><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\"> vừa tự cân đối vốn cho dự án</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> vừa bổ sung\nthêm nguồn ngân sách chi đầu tư phát triển.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">e) Bố trí các nguồn vốn bảo đảm để triển khai\nthực hiện dự án, công trình đúng quy định hiện hành.</span></p>\n\n<h1 align=\"left\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\nmargin-left:0in;text-align:left;page-break-after:auto\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Điều 2. Tổ chức thực\nhiện</span></h1>\n\n<h1 align=\"left\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\nmargin-left:0in;text-align:left;page-break-after:auto\"><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;font-weight:normal\">1.\nHội đồng nhân dân giao Ủy ban nhân dân tỉnh triển khai thực hiện nghị quyết của\nHội đồng nhân dân tỉnh.</span></h1>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"NL\" style=\"font-size:\n10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">2. Th</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">ường trực Hội đồng\nnhân dân</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\"> các </span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">B</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">an Hội đồng\nnhân dân</span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">,\ncác Tổ đại biểu</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">\nvà </span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Đ</span><span lang=\"VI\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">ại biểu Hội\nđồng nhân dân tỉnh giám sát việc thực hiện </span><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">N</span><span lang=\"VI\" style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">ghị quyết này.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">3. Nghị quyết này thay thế </span><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">Nghị quyết số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 60/2016/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-quyet-60-2016-nq-hdnd-ke-hoach-dau-tu-cong-trung-han-kien-giang-2016-2020-342707.aspx\">60/2016/NQ-HĐND</a>  ngày 19 tháng 12 năm 2016 của Hội đồng nhân dân tỉnh về kế\nhoạch đầu tư công trung hạn giai đoạn 2016 - 2020 trên địa bàn tỉnh Kiên Giang\nvà Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 89/2017/NQ-HĐND\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-quyet-89-2017-nq-hdnd-bo-sung-du-an-vao-ke-hoach-dau-tu-cong-trung-han-kien-giang-362526.aspx\">89/2017/NQ-HĐND</a>  ngày 20 tháng 7 năm 2017 của Hội đồng nhân dân\ntỉnh về việc bổ sung danh mục dự án vào kế hoạch đầu tư công trung hạn giai\nđoạn 2016 - 2020 trên địa bàn tỉnh Kiên Giang.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">Nghị quyết này đã được Hội đồng nhân dân tỉnh\nKiên Giang khóa IX, Kỳ họp thứ sáu thông qua ngày 06 tháng 12 năm 2017 và có\nhiệu lực từ ngày 18 tháng 12 năm 2017./.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA1ADEAOAA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b><span style=\"font-size:\n  10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;\">&nbsp;</span></b></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"NL\" style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;color:black\">CHỦ\n  TỊCH</span></b><b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:black\"><br>\n  </span></b><span style=\"font-size:10.0pt;&quot;Arial&quot;,&quot;sans-serif&quot;;\n  color:black\"><br>\n  <br>\n  <br>\n  <br>\n  <b>Đặng Tuyết Em</b></span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">&nbsp;</span></p>\n\n<div align=\"center\">\n\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody><tr>\n  <td width=\"391\" valign=\"top\" style=\"width:293.4pt;border:solid black 1.0pt;\n  padding:0in 5.4pt 0in 5.4pt\">\n    <p style=\"margin-top: 6.0pt; margin-right: 0in; margin-bottom: 0in; margin-left: 0in;\n        margin-bottom: 20px;\">\n        <b><span style=\"color: red\"><a name=\"chuong_pl_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-2517577')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2517577')\" atmm=\".lqhlTootip-2517577\" onmouseout=\"hideddrivetip();\" href=\"/documents/download.aspx?id=8vu0FrEQeXMiYT5HVwVV2A%3d%3d&amp;part=-1\"><span style=\"font-weight: bold;color: red;padding: 10px;cursor: pointer;\">FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN</span></a></span></b></p>\n    <div class=\"divAttachFiles\"><a href=\"//files.thuvienphapluat.vn/uploads/doc2htm/00372224_files/attachfile001.doc\"><img src=\"//files.thuvienphapluat.vn/doc2htm/00372224_files/image001.gif\"></a></div>\n</td>\n </tr>\n</tbody></table>\n\n</div>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">&nbsp;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n&quot;Arial&quot;,&quot;sans-serif&quot;\">&nbsp;</span></p>\n\n",
+  "mdContent": "**HỘI ĐỒNG NHÂN DÂN  \nTỈNH KIÊN GIANG  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 114/2017/NQ-HĐND\n\n_Kiên Giang, ngày 08 tháng 12 năm 2017_\n\n**NGHỊ QUYẾT**\n\nVỀ ĐIỀU CHỈNH KẾ HOẠCH ĐẦU TƯ CÔNG TRUNG HẠN GIAI ĐOẠN 2016 - 2020 TRÊN ĐỊA BÀN TỈNH KIÊN GIANG\n\n**HỘI ĐỒNG NHÂN DÂN TỈNH KIÊN GIANG  \nKHÓA IX, KỲ HỌP THỨ SÁU**\n\n_Căn cứ Luật tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;_\n\n_Căn cứ Luật đầu tư công ngày 18 tháng 6 năm 2014;_\n\n_Căn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015;_\n\n_Căn cứ Nghị định số [77/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-77-2015-nd-cp-ke-hoach-dau-tu-cong-trung-han-va-hang-nam-290008.aspx \"Nghị định 77/2015/NĐ-CP\") ngày 10 tháng 9 năm 2015 của Chính phủ về kế hoạch đầu tư công trung hạn và hằng năm;_\n\n_Xét Tờ trình số 260/TTr-UBND ngày 22 tháng 11 năm 2017 của Ủy ban nhân dân tỉnh về kế hoạch đầu tư công trung hạn giai đoạn 2016 - 2020 trên địa bàn tỉnh Kiên Giang; Báo cáo thẩm tra số 183/BC-HĐND ngày 28 tháng 11 năm 2017 của Ban Kinh tế - Ngân sách Hội đồng nhân dân tỉnh; ý kiến thảo luận của đại biểu Hội đồng nhân dân tại kỳ họp._\n\n**QUYẾT NGHỊ:**\n\n**Điều 1. Thống nhất điều chỉnh kế hoạch đầu tư công trung hạn giai đoạn 2016 - 2020 trên địa bàn tỉnh Kiên Giang.** Nội dung cụ thể như sau:\n\n1\\. Tổng nguồn vốn đầu tư: 24.885.468 triệu đồng, trong đó:\n\na) Nguồn vốn đầu tư trong cân đối ngân sách địa phương: 15.543.817 triệu đồng, gồm:\n\n\\- Vốn đầu tư trong cân đối theo tiêu chí, định mức quy định tại Nghị quyết số [144/2015/NQ-HĐND](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-144-2015-nq-hdnd-dinh-muc-phan-bo-von-dau-tu-phat-trien-bang-nguon-ngan-sach-kien-giang-319456.aspx \"Nghị quyết 144/2015/NQ-HĐND\") ngày 09 tháng 12 năm 2015 của Hội đồng nhân dân tỉnh: 5.658.817 triệu đồng.\n\n(_Danh mục chi tiết kèm theo Phụ lục I)_\n\n\\- Đầu tư từ nguồn vốn xổ số kiến thiết : 5.800.000 triệu đồng.\n\n(_Danh mục chi tiết kèm theo Phụ lục II)_\n\n\\- Đầu tư từ nguồn thu sử dụng đất : 4.085.000 triệu đồng.\n\n(_Danh mục chi tiết kèm theo Phụ lục III)_\n\nb) Nguồn vốn ngân sách Trung ương hỗ trợ : 7.406.651 triệu đồng, bao gồm:\n\n\\- Vốn trong nước  : 6.542.737 triệu đồng.\n\n(_Danh mục chi tiết kèm theo Phụ lục IV)_\n\n\\- Vốn nước ngoài  : 863.914 triệu đồng.\n\n(_Danh mục chi tiết kèm theo Phụ lục V)_\n\nc) Nguồn vốn trái phiếu Chính phủ: 1.935.000 triệu đồng.\n\n(_Danh mục chi tiết kèm theo Phụ lục VI)_\n\n2\\. Một số giải pháp thực hiện\n\na) Nâng cao trách nhiệm công tác tham mưu của các ngành và địa phương; thực hiện nghiêm các quy định của pháp luật về đầu tư công.\n\nb) Sau khi kế hoạch đầu tư công trung hạn điều chỉnh được phê duyệt, từng sở, ban, ngành, địa phương rà soát, xem xét mục tiêu phát triển của từng lĩnh vực để sắp xếp thứ tự ưu tiên đầu tư, bảo đảm tính cấp bách, kịp thời và chuẩn bị các thủ tục đầu tư để đẩy nhanh tiến độ thực hiện dự án.\n\nc) Tăng cường sự phối hợp giữa các chủ đầu tư, địa phương tập trung tháo gỡ khó khăn, vướng mắc và đẩy nhanh tiến độ giải phóng mặt bằng, tổ chức triển khai thi công.\n\nd) Tập trung chỉ đạo đầu tư hoàn thành một số công trình trọng điểm như: Giao thông nông thôn theo tiêu chí, xã nông thôn mới, thiết chế văn hóa, hệ thống thủy lợi, các bệnh viện tuyến tỉnh, công trình giao thông trọng điểm,…\n\nđ) Đẩy mạnh công tác triển khai các dự án đầu tư tạo vốn từ quỹ đất xây dựng cơ sở hạ tầng, vừa tự cân đối vốn cho dự án, vừa bổ sung thêm nguồn ngân sách chi đầu tư phát triển.\n\ne) Bố trí các nguồn vốn bảo đảm để triển khai thực hiện dự án, công trình đúng quy định hiện hành.\n\nĐiều 2. Tổ chức thực hiện\n=========================\n\n1\\. Hội đồng nhân dân giao Ủy ban nhân dân tỉnh triển khai thực hiện nghị quyết của Hội đồng nhân dân tỉnh.\n===========================================================================================================\n\n2\\. Thường trực Hội đồng nhân dân, các Ban Hội đồng nhân dân, các Tổ đại biểu và Đại biểu Hội đồng nhân dân tỉnh giám sát việc thực hiện Nghị quyết này.\n\n3\\. Nghị quyết này thay thế Nghị quyết số [60/2016/NQ-HĐND](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-quyet-60-2016-nq-hdnd-ke-hoach-dau-tu-cong-trung-han-kien-giang-2016-2020-342707.aspx \"Nghị quyết 60/2016/NQ-HĐND\") ngày 19 tháng 12 năm 2016 của Hội đồng nhân dân tỉnh về kế hoạch đầu tư công trung hạn giai đoạn 2016 - 2020 trên địa bàn tỉnh Kiên Giang và Nghị quyết số [89/2017/NQ-HĐND](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-quyet-89-2017-nq-hdnd-bo-sung-du-an-vao-ke-hoach-dau-tu-cong-trung-han-kien-giang-362526.aspx \"Nghị quyết 89/2017/NQ-HĐND\") ngày 20 tháng 7 năm 2017 của Hội đồng nhân dân tỉnh về việc bổ sung danh mục dự án vào kế hoạch đầu tư công trung hạn giai đoạn 2016 - 2020 trên địa bàn tỉnh Kiên Giang.\n\nNghị quyết này đã được Hội đồng nhân dân tỉnh Kiên Giang khóa IX, Kỳ họp thứ sáu thông qua ngày 06 tháng 12 năm 2017 và có hiệu lực từ ngày 18 tháng 12 năm 2017./.\n\n**CHỦ TỊCH**  \n  \n  \n  \n**Đặng Tuyết Em**\n\n**[FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN](/documents/download.aspx?id=8vu0FrEQeXMiYT5HVwVV2A%3d%3d&part=-1)**\n\n[![](//files.thuvienphapluat.vn/doc2htm/00372224_files/image001.gif)](//files.thuvienphapluat.vn/uploads/doc2htm/00372224_files/attachfile001.doc)",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

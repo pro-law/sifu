@@ -1,0 +1,498 @@
+{
+  "title": "Quyết định 59/2013/QĐ-UBND về Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn Thành phố Hồ Chí Minh",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 26/2009/TT-BTTTT về việc cung cấp thông tin và đảm bảo khả năng truy cập thuận tiện đối với trang thông tin điện tử của cơ quan nhà nước do Bộ Thông tin và Truyền thông ban hành",
+      "id": "26/2009/TT-BTTTT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Lê Doãn Hợp"
+      ],
+      "issuedDate": "2009-07-31",
+      "effectiveDate": "2009-09-15",
+      "gazetteDate": "2009-08-16",
+      "gazetteNumber": "Từ số 385 đến số 386",
+      "status": "Hết hiệu lực: 01/06/2018"
+    },
+    {
+      "title": "Bộ luật Dân sự 2005",
+      "id": "33/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-06-14",
+      "effectiveDate": "2006-01-01",
+      "gazetteDate": "2005-09-01",
+      "gazetteNumber": "Từ số 1 đến số 3",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Pháp lệnh Bảo vệ bí mật Nhà nước năm 2000",
+      "id": "30/2000/PL-UBTVQH10",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2000-12-28",
+      "effectiveDate": "2001-04-01",
+      "gazetteDate": "2001-04-15",
+      "gazetteNumber": "Số 14",
+      "status": "Hết hiệu lực: 01/07/2020"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Luật lưu trữ 2011",
+      "id": "01/2011/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2011-11-11",
+      "effectiveDate": "2012-07-01",
+      "gazetteDate": "2012-02-19",
+      "gazetteNumber": "Từ số 163 đến số 164",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 07/2009/TT-BTNMT quy định chi tiết một số điều Nghị định 102/2008/NĐ-CP về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường do Bộ Tài nguyên và Môi trường ban hành",
+      "id": "07/2009/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Phạm Khôi Nguyên"
+      ],
+      "issuedDate": "2009-07-10",
+      "effectiveDate": "2009-09-01",
+      "gazetteDate": "2009-08-03",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Hết hiệu lực: 08/02/2019"
+    },
+    {
+      "title": "Nghị định 102/2008/NĐ-CP về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường",
+      "id": "102/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-09-15",
+      "effectiveDate": "2008-10-16",
+      "gazetteDate": "2008-10-01",
+      "gazetteNumber": "Từ số 551 đến số 552",
+      "status": "Hết hiệu lực: 01/08/2017"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 37/2018/QĐ-UBND về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên địa bàn thành phố Hồ Chí Minh",
+      "id": "37/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Nguyễn Thành Phong"
+      ],
+      "issuedDate": "2018-10-09",
+      "effectiveDate": "2018-10-19",
+      "gazetteDate": "2018-11-15",
+      "gazetteNumber": "Số 87",
+      "status": "Hết hiệu lực: 15/09/2023"
+    },
+    {
+      "title": "Quyết định 352/QĐ-UBND năm 2019 công bố danh mục văn bản quy phạm pháp luật hết hiệu lực, ngưng hiệu lực năm 2018 do thành phố Hồ Chí Minh ban hành",
+      "id": "352/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Huỳnh Cách Mạng"
+      ],
+      "issuedDate": "2019-01-24",
+      "effectiveDate": "2019-01-24",
+      "gazetteDate": "2019-03-15",
+      "gazetteNumber": "Số 11",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 701/QĐ-UBND năm 2019 công bố kết quả Hệ thống hóa văn bản quy phạm pháp luật kỳ 2014-2018 do thành phố Hồ Chí Minh ban hành",
+      "id": "701/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Huỳnh Cách Mạng"
+      ],
+      "issuedDate": "2019-02-27",
+      "effectiveDate": "2019-02-27",
+      "gazetteDate": "2019-04-01",
+      "gazetteNumber": "Từ số 19 đến số 20",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 38/2023/QĐ-UBND về Quy chế thu thập, quản lý, kết nối, chia sẻ, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên địa bàn Thành phố Hồ Chí Minh",
+      "id": "38/2023/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Bùi Xuân Cường"
+      ],
+      "issuedDate": "2023-09-05",
+      "effectiveDate": "2023-09-15",
+      "gazetteDate": "2023-09-15",
+      "gazetteNumber": "Từ số 218 đến số 219",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 30/2016/QĐ-UBND Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Đắk Nông",
+      "id": "30/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Đắk Nông",
+      "signers": [
+        "Trương Thanh Tùng"
+      ],
+      "issuedDate": "2016-10-05",
+      "effectiveDate": "2016-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 26/08/2019"
+    },
+    {
+      "title": "Quyết định 43/2014/QĐ-UBND Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Bình Dương",
+      "id": "43/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Trần Văn Nam"
+      ],
+      "issuedDate": "2014-12-04",
+      "effectiveDate": "2014-12-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/10/2023"
+    },
+    {
+      "title": "Quyết định 2834/QĐ-UBND năm 2014 về Kế hoạch thu thập dữ liệu về tài nguyên và môi trường tỉnh Sơn La năm 2015",
+      "id": "2834/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Bùi Đức Hải"
+      ],
+      "issuedDate": "2014-10-24",
+      "effectiveDate": "2014-10-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Quyết định 21/2014/QĐ-UBND về Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Kiên Giang",
+      "id": "21/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Kiên Giang",
+      "signers": [
+        "Lê Văn Thi"
+      ],
+      "issuedDate": "2014-07-09",
+      "effectiveDate": "2014-07-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/08/2021"
+    },
+    {
+      "title": "Quyết định 10/2014/QĐ-UBND về Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Tiền Giang",
+      "id": "10/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Lê Văn Nghĩa"
+      ],
+      "issuedDate": "2014-04-26",
+      "effectiveDate": "2014-05-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 14/02/2020"
+    },
+    {
+      "title": "Quyết định 259/QĐ-UBND năm 2014 về danh mục dữ liệu tài nguyên và môi trường tỉnh Cao Bằng",
+      "id": "259/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Cao Bằng",
+      "signers": [
+        "Đàm Văn Eng"
+      ],
+      "issuedDate": "2014-03-17",
+      "effectiveDate": "2014-03-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 01/2014/QĐ-UBND về Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu tài nguyên và môi trường tỉnh Thái Bình",
+      "id": "01/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Phạm Văn Sinh"
+      ],
+      "issuedDate": "2014-01-24",
+      "effectiveDate": "2014-02-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 16/12/2020"
+    },
+    {
+      "title": "Quyết định 02/2014/QĐ-UBND về Quy chế phối hợp quản lý nhà nước về môi trường tại khu công nghiệp trên địa bàn tỉnh Lâm Đồng",
+      "id": "02/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Nguyễn Xuân Tiến"
+      ],
+      "issuedDate": "2014-01-13",
+      "effectiveDate": "2014-01-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/09/2016"
+    },
+    {
+      "title": "Quyết định 37/2013/QĐ-UBND Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Hậu Giang",
+      "id": "37/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Hậu Giang",
+      "signers": [
+        "Trần Công Chánh"
+      ],
+      "issuedDate": "2013-12-09",
+      "effectiveDate": "2013-12-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/10/2019"
+    },
+    {
+      "title": "Quyết định 22/2013/QĐ-UBND Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Bạc Liêu",
+      "id": "22/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bạc Liêu",
+      "signers": [
+        "Lê Thanh Dũng"
+      ],
+      "issuedDate": "2013-11-13",
+      "effectiveDate": "2013-11-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/07/2019"
+    },
+    {
+      "title": "Quyết định 33/2013/QĐ-UBND về Quy chế thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Thừa Thiên Huế",
+      "id": "33/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Phan Ngọc Thọ"
+      ],
+      "issuedDate": "2013-08-31",
+      "effectiveDate": "2013-09-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 31/08/2018"
+    },
+    {
+      "title": "Quyết định 25/2013/QĐ-UBND về Quy chế thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Sóc Trăng",
+      "id": "25/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sóc Trăng",
+      "signers": [
+        "Lê Thành Trí"
+      ],
+      "issuedDate": "2013-08-08",
+      "effectiveDate": "2013-08-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 23/12/2019"
+    },
+    {
+      "title": "Quyết định 09/2013/QĐ-UBND Quy chế thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường tỉnh Cao Bằng",
+      "id": "09/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Cao Bằng",
+      "signers": [
+        "Nguyễn Hoàng Anh"
+      ],
+      "issuedDate": "2013-07-04",
+      "effectiveDate": "2013-07-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/09/2019"
+    },
+    {
+      "title": "Quyết định 12/2013/QĐ-UBND về Quy chế thu thập, quản lý, cập nhật khai thác và sử dụng dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Bình Định",
+      "id": "12/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bình Định",
+      "signers": [
+        "Lê Hữu Lộc"
+      ],
+      "issuedDate": "2013-06-20",
+      "effectiveDate": "2013-06-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/03/2020"
+    }
+  ],
+  "id": "59/2013/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính",
+    "Tài nguyên - Môi trường"
+  ],
+  "organization": "Thành phố Hồ Chí Minh",
+  "signers": [
+    "Nguyễn Hữu Tín"
+  ],
+  "issuedDate": "2013-12-20",
+  "effectiveDate": "2013-12-30",
+  "gazetteDate": "2014-01-15",
+  "gazetteNumber": "Số 5",
+  "status": "Hết hiệu lực: 19/10/2018",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMQAwADAAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  THÀNH PHỐ HỒ CHÍ MINH<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  59/2013/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Thành phố Hồ Chí\n  Minh, ngày 20 tháng 12 năm 2013</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a><b><span lang=\"VI\" style=\"font-size:12.0pt\"> </span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">BAN HÀNH QUY CHẾ THU THẬP, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG DỮ\nLIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN -THÀNH PHỐ HỒ CHÍ MINH</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức Hội đồng nhân\ndân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Ban hành văn bản quy\nphạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ngày 03 tháng 12 năm\n2004;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Lưu trữ ngày 11 tháng\n11 năm 2011;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx\">102/2008/NĐ-CP</a> \nngày 15 tháng 9 năm 2008 của Chính phủ về việc thu thập, quản lý, khai thác và\nsử dụng dữ liệu về tài nguyên và môi trường;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a>  ngày 10 tháng 7 năm 2009 của Bộ Tài nguyên và Môi trường quy định\nchi tiết một số điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx\">102/2008/NĐ-CP</a>  ngày 15 tháng 9 năm 2008 của\nChính phủ về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên\nvà môi trường;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị của Giám đốc Sở Tài\nnguyên và Môi trường Thành phố tại Tờ trình số 7028/TNMT-VPĐK ngày 23 tháng 10\nnăm 2013,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy chế thu thập,\nquản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường\ntrên địa bàn Thành phố Hồ Chí Minh.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><span lang=\"VI\"> <a name=\"dieu_2_name\">Quyết định này có hiệu lực thi hành sau 10 ngày,\nkể từ ngày ký.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a><span lang=\"VI\"> <a name=\"dieu_3_name\">Chánh Văn phòng Ủy ban nhân dân Thành phố, Giám\nđốc Sở Tài nguyên và Môi trường, Giám đốc Sở Giao thông vận tải, Giám đốc Sở\nNông nghiệp và Phát triển nông thôn, Tổng Giám đốc Tổng Công ty cấp nước Sài\nGòn TNHH Một thành viên, Thủ trưởng các sở - ban - ngành Thành phố, Chủ tịch Ủy\nban nhân dân các quận - huyện, các tổ chức, cá nhân có liên quan chịu trách nhiệm\nthi hành Quyết định này./.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMQAwADAAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span style=\"font-size:8.0pt\">&nbsp;</span></p>\n  <p style=\"margin-top:6.0pt\"><b><i>Nơi nhận:</i></b><b><i><span style=\"font-size:8.0pt\"><br>\n  </span></i></b><span style=\"font-size:8.0pt\">- Như Điều 3;<br>\n  - Bộ Tài nguyên và Môi trường;<br>\n  - Cục Kiểm tra văn bản - Bộ Tư pháp;<br>\n  - Thường trực Thành ủy;<br>\n  - Thường trực HĐND TP;<br>\n  - Thường trực UBND TP;<br>\n  - Ủy ban MTTQ Việt Nam TP;<br>\n  - VP Đoàn ĐBQH và HĐND TP;<br>\n  - Sở Tư pháp;<br>\n  - VPUB: Các PVP, các Phòng CV; TTCB;<br>\n  - Lưu:VT, (ĐTMT/Thh)</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Hữu Tín</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">THU THẬP, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG DỮ LIỆU, VỀ TÀI\nNGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN THÀNH PHỐ HỒ CHÍ MINH</span></a><span lang=\"VI\"><br>\n<i>(Ban hành kèm theo Quyết định số 59/2013/QĐ-UBND ngày 20 tháng 12 năm 2013 của\nỦy ban nhân dân Thành phố)</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"VI\">Chương 1.</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">NHỮNG QUY ĐỊNH\nCHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"VI\">Điều 1. Phạm vi\nđiều chỉnh và đối tượng áp dụng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Quy chế này quy định việc thu thập,\nquản lý, khai thác và sử dụng dữ liệu về đất đai, tài nguyên nước, địa chất và\nkhoáng sản, môi trường, khí tượng thủy văn, đo đạc và bản đồ, tài nguyên môi\ntrường biển và đảo (sau đây gọi chung là dữ liệu về tài nguyên và môi trường)\ntrên địa bàn Thành phố Hồ Chí Minh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Quy chế này áp dụng đối với cơ\nquan quản lý Nhà nước về tài nguyên và môi trường; các tổ chức, cá nhân có liên\nquan trong việc thu thập, quản lý, khai thác, sử dụng dữ liệu về tài nguyên và\nmôi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trường hợp điều ước quốc tế có quy\nđịnh khác với Quy chế này thì thực hiện theo quy định tại Khoản 2 Điều 2 Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx\">102/2008/NĐ-CP</a>  ngày 15 tháng 9 năm 2008 của Chính phủ. </span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">Điều 2. Dữ liệu\nvề tài nguyên và môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Dữ liệu về tài nguyên và môi trường\nphải là các bản chính, bản gốc các tài liệu, mẫu vật, số liệu đã được xử lý và\nlưu trữ theo quy định. Dữ liệu về tài nguyên và môi trường bao gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Dữ liệu về đất đai:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Số liệu phân hạng, đánh giá đất,\nthống kê, kiểm kê đất đai; bản đồ phân hạng đất; bản đồ thổ nhưỡng; bản đồ địa\ngiới hành chính; bản đồ hiện trạng sử dụng đất; hồ sơ cấp Giấy chứng nhận qua\ncác thời kỳ (Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở; Giấy chứng\nnhận quyền sử dụng đất; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất); số liệu điều tra về giá đất; thông tin về thửa\nđất; sổ địa chính, sổ mục kê, sổ cấp Giấy chứng nhận quyền sử dụng đất; sổ theo\ndõi biến động đất đai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Quy hoạch, kế hoạch sử dụng đất đã\nđược cấp có thẩm quyền phê duyệt;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Bản đồ địa chính dạng giấy và dạng\nfile; kết quả giao đất, cho thuê đất, thu hồi đất, chuyển mục đích sử dụng đất,\nthực hiện các quyền của người sử dụng đất; số lượng các khu đất giao quản lý\nphát triển quỹ đất; kết quả các khu đất giao đấu giá quyền sử dụng đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Dữ liệu về tài nguyên nước:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Số lượng, chất lượng nước mặt, nước\ndưới đất (bao gồm các số liệu về quan trắc tài nguyên nước);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Số liệu điều tra khảo sát địa chất\nthủy văn;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Các dữ liệu về khai thác và sử dụng\ntài nguyên nước;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Quy hoạch các lưu vực sông, quản\nlý, khai thác, bảo vệ các nguồn nước;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Kết quả cấp phép, thu hồi, gia hạn\ncác loại giấy phép, trả lại các loại giấy phép thăm dò, khai thác, sử dụng tài\nnguyên nước mặt, nước dưới đất và xả thải vào nguồn nước; dữ liệu về điều tra,\ntrám lấp giếng không sử dụng; dữ liệu về điều tra đánh giá tài nguyên nước dưới\nđất; điều tra đánh giá hiện trạng xả nước thải và khả năng tiếp nhận nước thải\ncủa nguồn nước;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Các dữ liệu về các yếu tố ảnh hưởng\nđến tài nguyên nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Dữ liệu về địa chất và khoáng sản:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thống kê trữ lượng khoáng sản;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Kết quả điều tra cơ bản địa chất về\ntài nguyên khoáng sản và các mẫu vật địa chất, khoáng sản; dữ liệu địa tầng, địa\nchất khu vực, vùng định hướng quy hoạch xây dựng;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Quy hoạch, kế hoạch điều tra cơ bản\nđịa chất về tài nguyên khoáng sản, quy hoạch về thăm dò, khai thác, chế biến và\nsử dụng khoáng sản;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Bản đồ địa chất khu vực, địa chất\ntai biến, địa chất môi trường, địa chất khoáng sản, địa chất thủy văn, địa chất\ncông trình và các bản đồ chuyên đề về địa chất và khoáng sản;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Khu vực đấu thầu hoạt động khoáng\nsản; khu vực có khoáng sản đặc biệt, độc hại; các khu vực cấm, tạm thời cấm hoạt\nđộng khoáng sản; khu vực dự trữ khoáng sản;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Báo cáo hoạt động khoáng sản; báo\ncáo quản lý Nhà nước hàng năm về hoạt động khoáng sản;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Kết quả cấp, gia hạn, thu hồi, cho\nphép, trả lại giấy phép hoạt động khoáng sản, cho phép tiếp tục thực hiện quyền\nhệ số khoáng sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Dữ liệu về môi trường:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các kết quả điều tra, khảo sát về\nmôi trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Dữ liệu, thông tin về đa dạng sinh\nhọc;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Dữ liệu, thông tin về đánh giá môi\ntrường chiến lược, đánh giá tác động môi trường, cam kết bảo vệ môi trường và đề\nán bảo vệ môi trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Kết quả về giải quyết bồi thường\nthiệt hại về môi trường đã được cơ quan Nhà nước có thẩm quyền giải quyết;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Danh sách, thông tin về các nguồn\nthải, chất thải có nguy cơ gây ô nhiễm môi trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Các khu vực bị ô nhiễm, suy thoái,\nsự cố môi trường; khu vực có nguy cơ xảy ra sự cố môi trường; danh mục các cơ sở\ngây ô nhiễm môi trường nghiêm trọng và danh mục các cơ sở gây ô nhiễm môi trường\nnghiêm trọng đã được đưa ra khỏi danh sách;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Kết quả điều tra, khảo sát về hiện\ntrạng môi trường, chất thải nguy hại, chất thải rắn thông thường, các quy hoạch\nvề bảo vệ môi trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">h) Thông tin, dữ liệu quan trắc môi\ntrường được phép trao đổi;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">i) Kết quả cấp, gia hạn, thu hồi các\nloại giấy phép về môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Dữ liệu về khí tượng thủy văn:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các tài liệu, số liệu điều tra cơ\nbản về khí tượng thủy văn, môi trường không khí và nước, biến đổi khí hậu, suy\ngiảm tầng ôzôn;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Các loại biểu đồ, bản đồ, ảnh thu\ntừ vệ tinh, các loại phim, ảnh về các đối tượng nghiên cứu khí tượng thủy văn;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Hồ sơ kỹ thuật của các công trình\nkhí tượng thủy văn;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Kết quả cấp, gia hạn, thu hồi các\nloại giấy phép về hệ thống khí tượng thủy văn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Dữ liệu về đo đạc và bản đồ gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\">a) Hệ quy chiếu Quốc gia;</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Hệ thống số liệu gốc đo đạc Quốc\ngia; hệ thống điểm đo đạc cơ sở, điểm đo đạc cơ sở chuyên dụng; mốc cao độ theo\nquy hoạch phục vụ xây dựng công trình;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Hệ thống ảnh máy bay, ảnh vệ tinh\nphục vụ đo đạc và bản đồ;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Hệ thống bản đồ địa hình, bản đồ nền,\nbản đồ địa chính cơ sở, bản đồ hành chính, bản đồ địa lý tổng hợp và các loại bản\nđồ chuyên đề khác;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Hệ thống thông tin địa lý:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Thông tin tư liệu thứ cấp được\nhình thành từ các thông tin tư liệu về đo đạc và bản đồ nêu tại các Điểm a, b,\nc, d, đ Khoản này và thông tin tư liệu tích hợp của thông tin tư liệu về đo đạc\nvà bản đồ với các loại thông tin tư liệu khác;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Hồ sơ cấp, gia hạn, thu hồi các loại\ngiấy phép về hoạt động đo đạc và bản đồ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">7. Dữ liệu tài nguyên môi trường biển\nvà đảo gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Dữ liệu về đất có mặt nước biển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Dữ liệu về địa hình đáy biển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Dữ liệu về tính chất cơ lý của nước\nbiển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Dữ liệu về tính chất biển, địa vật\nlý biển, khoáng sản biển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Dữ liệu về dầu, khí biển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Dữ liệu về sinh vật biển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Dữ liệu về chất lượng môi trường\nbiển;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">h) Dữ liệu về khí tượng, thủy văn biển;</span></p>\n\n<p style=\"margin-top:6.0pt\">i) Dữ liệu về đảo;</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">k) Dữ liệu khác liên quan đến tài\nnguyên, môi trường biển.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">8. Kết quả các cuộc thanh tra, kiểm\ntra xử lý vi phạm, giải quyết tranh chấp, khiếu nại, tố cáo về tài nguyên và\nmôi trường đã được cơ quan Nhà nước có thẩm quyền giải quyết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">9. Các tiêu chuẩn, quy chuẩn kỹ thuật,\nđịnh mức kinh tế - kỹ thuật về tài nguyên và môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">10. Kết quả của các dự án, chương\ntrình, đề tài nghiên cứu khoa học công nghệ về tài nguyên và môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">11. Dữ liệu khác liên quan đến các\nlĩnh vực quản lý Nhà nước về tài nguyên và môi trường trên địa bàn Thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"VI\">Điều 3. Cơ sở dữ\nliệu về tài nguyên và môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cơ sở dữ liệu về tài nguyên và môi\ntrường Thành phố Hồ Chí Minh (sau đây gọi là cơ sở dữ liệu tài nguyên và môi\ntrường Thành phố) là tập hợp toàn bộ các dữ liệu về tài nguyên và môi trường đã\nđược kiểm tra, đánh giá, xử lý, tích hợp, cập nhật chỉnh lý biến động thường\nxuyên và được lưu trữ một cách có hệ thống, có tổ chức dưới dạng tệp dữ liệu\nlưu trên các hệ thống tin học, các thiết bị lưu trữ, các vật mang tin như các\nloại ổ cứng máy tính, băng từ, đĩa CD, DVD và các thiết bị lưu trữ tin học khác\nhoặc văn bản, tài liệu được xây dựng, cập nhật và duy trì phục vụ quản lý Nhà\nnước và các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa học,\ngiáo dục đào tạo và nâng cao dân trí do Sở Tài nguyên và Môi trường xây dựng,\nlưu trữ, quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">Chương 2.</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">THU THẬP, QUẢN\nLÝ, CẬP NHẬT DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4_1\"><b><span lang=\"VI\">Điều 4. Trách\nnhiệm thu thập, quản lý, cập nhật dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Tài nguyên và Môi trường là cơ\nquan chuyên môn giúp Ủy ban nhân dân Thành phố quản lý việc thu thập, cập nhật,\nquản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn\nThành phố:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Chủ trì, phối hợp với các sở, ban,\nngành, Ủy ban nhân dân quận, huyện xây dựng, trình Ủy ban nhân dân Thành phố kế\nhoạch thu thập dữ liệu tài nguyên và môi trường hàng năm của Thành phố trước\nngày 15 tháng 10 của năm trước và theo dõi, đôn đốc việc thực hiện kế hoạch khi\nđược phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trình Ủy ban nhân dân Thành phố\nphê duyệt danh mục dữ liệu về tài nguyên và môi trường của Thành phố và tổ chức\ncông bố trên các phương tiện thông tin đại chúng, trên cổng thông tin điện tử của\nỦy ban nhân dân Thành phố và trang thông tin điện tử của Sở Tài nguyên và Môi\ntrường; biên tập, phát hành cơ sở dữ liệu tài nguyên và môi trường của Thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Tham mưu cho Ủy ban nhân dân Thành\nphố kiểm tra, xem xét, xử lý các đơn vị, tổ chức, cá nhân vi phạm các quy định\nvề thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và\nmôi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5_1\"><b><span lang=\"VI\">Điều 5. Lập, phê\nduyệt và thực hiện kế hoạch thu thập dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Tài nguyên và Môi trường chủ trì lập,\ntrình phê duyệt và tổ chức thực hiện kế hoạch thu thập dữ liệu tài nguyên và\nmôi trường hàng năm của Thành phố, theo quy định tại các Điều 10, 11, 12, 13,\n14, 15 của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a>  ngày 10 tháng 7 năm 2009 của Bộ Tài\nnguyên và Môi trường quy định chi tiết một số điều của Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2008/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx\">102/2008/NĐ-CP</a>  ngày 15 tháng 9 năm 2008 của Chính phủ về việc thu thập, quản\nlý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6_1\"><b><span lang=\"VI\">Điều 6. Kiểm\ntra, đánh giá, xử lý dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Nguyên tắc, nội dung kiểm tra,\nđánh giá, xử lý dữ liệu tài nguyên và môi trường thực hiện theo quy định tại\ncác Điều 17, 18, 19 của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Sở Tài nguyên và Môi trường có\ntrách nhiệm, kiểm tra, đánh giá, xử lý, chuẩn hóa, số hóa, cập nhật dữ liệu và\nchịu trách nhiệm về tính chính xác của dữ liệu tài nguyên và môi trường Thành\nphố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7_1\"><b><span lang=\"VI\">Điều 7. Kinh\nphí thu thập, xử lý, xây dựng, cập nhật cơ sở dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kinh phí thu thập, xử lý cập nhật dữ\nliệu, xây dựng cơ sở dữ liệu tài nguyên và môi trường trên địa bàn Thành phố do\nngân sách Nhà nước cấp thành phố cấp, được phân bổ từ nguồn kinh phí sự nghiệp\ntài nguyên và môi trường hàng năm và các nguồn khác theo quy định của pháp luật;\ncăn cứ định mức kinh tế-kỹ thuật về thu thập, quản lý, khai thác và sử dụng dữ\nliệu về tài nguyên và môi trường do các Bộ, ngành Trung ương ban hành, Sở Tài\nnguyên và Môi trường phối hợp với Sở Tài chính xây dựng dự toán kinh phí trình Ủy\nban nhân dân Thành phố phân bổ theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8_1\"><b><span lang=\"VI\">Điều 8. Trách\nnhiệm của các tổ chức, cá nhân trong việc giao nộp dữ liệu về tài nguyên và môi\ntrường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tổ chức, cá nhân trong quá trình\nthực hiện nhiệm vụ được giao sử dụng nguồn vốn ngân sách Nhà nước hoặc có nguồn\ngốc từ ngân sách Nhà nước để thu thập dữ liệu về tài nguyên và môi trường trên\nđịa bàn Thành phố, trong thời hạn chậm nhất 01 (một) tháng kể từ ngày hoàn\nthành nghiệm thu sản phẩm có trách nhiệm giao nộp cho Sở Tài nguyên và Môi trường\n01 (một) bộ dữ liệu theo quy định. Dữ liệu giao nộp là bản chính, bản gốc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Biên bản giao nộp dữ liệu là một\ntrong những cơ sở để xác định hoàn thành công trình, dự án hoặc nhiệm vụ được\ngiao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Các đơn vị, doanh nghiệp có lắp đặt\ntrạm quan trắc không khí, khí thải, nước tự động phải được lắp đặt thiết bị\ntruyền và nhận để truyền trực tiếp kết quả quan trắc về Sở Tài nguyên và Môi\ntrường. Đồng thời, có trách nhiệm tự bảo quản các thiết bị dùng để truyền dữ liệu,\nđảm bảo tính chính xác và chi phí truyền thông.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b><span lang=\"VI\">Chương 3.</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CUNG CẤP, KHAI\nTHÁC, SỬ DỤNG DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9_1\"><b><span lang=\"VI\">Điều 9. Quy định\nvề cung cấp dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Trách nhiệm cung cấp dữ liệu</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Sở Tài nguyên và Môi trường có\ntrách nhiệm cung cấp danh mục dữ liệu và dữ liệu đã được xử lý cho các cơ sở dữ\nliệu thành phần, cho cơ sở dữ liệu tài nguyên và môi trường của Bộ, ngành liên\nquan; cung cấp danh mục dữ liệu cho cơ sở dữ liệu tài nguyên các địa phương\ngiáp ranh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Các sở, ban, ngành, Ủy ban nhân\ndân quận, huyện có dữ liệu về tài nguyên và môi trường có trách nhiệm cung cấp\ndữ liệu cho cơ sở dữ liệu tài nguyên và môi trường Thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sở Tài nguyên và Môi trường cung cấp\ncho các tổ chức, cá nhân khai thác dữ liệu, thu phí khai thác và sử dụng dữ liệu\ntheo quy định; ký kết hợp đồng dịch vụ thu thập, tổng hợp, xử lý, lưu trữ và\nkhai thác dữ liệu về tài nguyên và môi trường theo quy định tại Điều 10 của\nThông tư số 07/2009/TT-BTNMT. Việc cung cấp, khai thác và sử dụng dữ liệu tài\nnguyên và môi trường thực hiện theo quy định tại các Điều 20, 21, 22, 23, 24,\n26, 27 của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Cung cấp, khai thác sử dụng dữ liệu\ntrên mạng chỉ được thực hiện khi điều kiện phù hợp với khả năng điều kiện công\nnghệ thông tin trực tuyến theo các quy định tại Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 26/2009/TT-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-26-2009-tt-btttt-cung-cap-thong-tin-dam-bao-kha-nang-truy-cap-thuan-tien-trang-thong-tin-dien-tu-co-quan-nha-nuoc-92364.aspx\">26/2009/TT-BTTTT</a> \nngày 31 tháng 7 năm 2009 của Bộ Thông tin và Truyền thông quy định về việc cung\ncấp thông tin và bảo đảm khả năng truy cập thuận tiện đối với trang thông tin\nđiện tử của cơ quan nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Hình thức cung cấp dữ liệu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Giao nộp trực tiếp đối với những hồ\nsơ, dữ liệu là bản chính, bản gốc. Các dữ liệu khác có thể nộp trực tiếp, gửi\nqua mạng thông tin điện tử (trừ tài liệu thuộc bí mật Nhà nước) hoặc qua đường\nbưu điện;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Dữ liệu số, đĩa CD, DVD, băng từ\nphải ghi rõ tên, nội dung dữ liệu và cơ quan cung cấp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Dữ liệu từ các trạm quan trắc\nkhông khí, khí thải, nước tự động phải được truyền nguyên dạng tín hiệu, chưa bị\nchỉnh sửa, biên tập.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Thời hạn cung cấp dữ liệu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Việc cung cấp dữ liệu về tài\nnguyên và môi trường đã được quy định cụ thể trong các văn bản quy phạm pháp luật\nvề tài nguyên và môi trường hoặc cung cấp dữ liệu theo yêu cầu của cơ quan Nhà\nnước có thẩm quyền thì thời hạn thực hiện theo quy định, yêu cầu;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sở Tài nguyên và Môi trường cung cấp\ndữ liệu cho Cơ sở dữ liệu tài nguyên và môi trường Quốc gia theo định kỳ: 06\ntháng (lấy số liệu từ ngày 01 tháng 01 đến hết ngày 30 tháng 6); một năm (lấy số\nliệu từ ngày 01 tháng 01 đến hết ngày 31 tháng 12);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Các sở, ban, ngành, Ủy ban nhân\ndân quận, huyện cung cấp danh mục và dữ liệu tài nguyên và môi trường cho Sở\nTài nguyên và Môi trường theo định kỳ một năm (lấy số liệu từ ngày 01 tháng 01\nđến hết ngày 31 tháng 12).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Yêu cầu đối với dữ liệu được cập\nnhật: Thực hiện theo quy định tại Điều 6 của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10_1\"><b><span lang=\"VI\">Điều 10. Hình\nthức, thủ tục khai thác, sử dụng dữ liệu tài nguyên và môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Việc khai thác và sử dụng dữ liệu\nvề tài nguyên và môi trường thực hiện theo các hình thức sau đây:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Khai thác và sử dụng dữ liệu thông\nqua phiếu yêu cầu hoặc văn bản yêu cầu;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Khai thác và sử dụng dữ liệu bằng\nhình thức hợp đồng giữa cơ quan quản lý dữ liệu và bên khai thác, sử dụng dữ liệu\ntheo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Việc khai thác dữ liệu dạng file\nđược quy định như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Khai thác để thực hiện việc nghiên\ncứu, xây dựng các dự án, nhiệm vụ phục vụ công tác quản lý Nhà nước trong lĩnh\nvực tài nguyên môi trường thì được cung cấp dạng file biên tập được;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Khai thác phục vụ cho các mục đích\nkhác ngoài quy định tại Điểm a, Khoản 2 Điều này được cung cấp dạng file pdf,\njpeg, gif, tiff, png, mp3, mpeg-1, mpeg-2;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Trường hợp khai thác dữ liệu dạng\nfile được quy định tại Điểm a Khoản này phải có sự đồng ý của Lãnh đạo Sở Tài\nnguyên và Môi trường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Thủ tục khai thác, sử dụng dữ liệu\ntài nguyên và môi trường thông qua Phiếu yêu cầu hoặc văn bản yêu cầu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Tổ chức, cá nhân có nhu cầu khai\nthác và sử dụng dữ liệu về tài nguyên và môi trường nộp phiếu yêu cầu hoặc gửi\nvăn bản yêu cầu cho các cơ quan quản lý dữ liệu. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Khi nhận được phiếu yêu cầu, văn bản\nyêu cầu hợp lệ của tổ chức, cá nhân, cơ quan quản lý dữ liệu thực hiện việc cung\ncấp dữ liệu cho tổ chức, cá nhân có yêu cầu khai thác và sử dụng dữ liệu. Trường\nhợp từ chối cung cấp dữ liệu thì phải có văn bản trả lời nêu rõ lý do.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Việc khai thác và sử dụng dữ liệu\nthông qua phiếu yêu cầu hoặc văn bản yêu cầu được thực hiện theo các quy định của\npháp luật chuyên ngành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Văn bản, phiếu yêu cầu cung cấp dữ\nliệu về tài nguyên, môi trường phải có các nội dung chủ yếu sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tên, địa chỉ của cơ quan, tổ chức,\ncá nhân yêu cầu cung cấp dữ liệu;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Danh mục và nội dung dữ liệu cần\ncung cấp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Mục đích sử dụng dữ liệu;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hình thức khai thác, sử dụng dữ liệu\nvà phương thức nhận kết quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Văn bản yêu cầu của cơ quan, tổ chức\nphải có chữ ký của thủ trưởng cơ quan và đóng dấu xác nhận. Phiếu yêu cầu của\ncá nhân phải ghi rõ họ tên, địa chỉ và chữ ký của người yêu cầu cung cấp dữ liệu\ntheo <a name=\"bieumau_ms_01_tt_07_2009_btnmt\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('218684','3661026')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('MẪU VĂN BẢN, PHIẾU YÊU CẦU CUNG CẤP DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG')\" onmouseout=\"hideddrivetip();\">Mẫu 01</a> kèm theo Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Trường hợp người có nhu cầu sử dụng\ndữ liệu về tài nguyên, môi trường là cá nhân nước ngoài tại Việt Nam thì văn bản\nyêu cầu phải được tổ chức, doanh nghiệp nơi người đó đang làm việc ký xác nhận,\nđóng dấu; đối với các chuyên gia, thực tập sinh là người nước ngoài đang làm việc\ncho các chương trình, dự án tại các Bộ, ngành, địa phương hoặc học tập tại các\ncơ sở đào tạo tại Việt Nam thì phải được cơ quan có thẩm quyền của Bộ, ngành, địa\nphương hoặc các cơ sở đào tạo đó ký xác nhận, đóng dấu theo <a name=\"bieumau_ms_02_tt_07_2009_btnmt\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('218684','3661027')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('MẪU PHIẾU YÊU CẦU CUNG CẤP DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG')\" onmouseout=\"hideddrivetip();\">Mẫu 02</a> kèm theo Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Những trường hợp không cung cấp dữ\nliệu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Văn bản, phiếu yêu cầu cung cấp dữ\nliệu mà nội dung không rõ ràng, cụ thể; yêu cầu khai thác, sử dụng dữ liệu thuộc\nphạm vi bí mật nhà nước không đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Văn bản yêu cầu không có chữ ký của\nngười có thẩm quyền và đóng dấu xác nhận đối với tổ chức; phiếu yêu cầu không\ncó chữ ký, tên và địa chỉ cụ thể của cá nhân yêu cầu cung cấp dữ liệu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Mục đích sử dụng dữ liệu không phù\nhợp theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Không thực hiện nghĩa vụ tài chính\ntheo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Khai thác và sử dụng dữ liệu bằng\nhình thức hợp đồng:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Việc khai thác, sử dụng dữ liệu bằng\nhình thức hợp đồng thực hiện theo quy định của Bộ luật Dân sự giữa cơ quan quản\nlý cơ sở dữ liệu và tổ chức, cá nhân có nhu cầu khai thác, sử dụng dữ liệu. Mẫu\nhợp đồng cung cấp, khai thác, sử dụng dữ liệu về tài nguyên và môi trường theo <a name=\"bieumau_ms_03_tt_07_2009_btnmt\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('218684','3661028')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('HỢP ĐỒNG CUNG CẤP, KHAI THÁC, SỬ DỤNG DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG')\" onmouseout=\"hideddrivetip();\">Mẫu 03</a> kèm theo Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11_1\"><b><span lang=\"VI\">Điều 11. Trách\nnhiệm và quyền hạn của tổ chức, cá nhân khai thác sử dụng dữ liệu về tài nguyên\nvà môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tuân thủ các nguyên tắc khai thác\nvà sử dụng dữ liệu quy định tại Điều 20 Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Không được cung cấp cho bên thứ ba\ndữ liệu đã khai thác, sử dụng, trừ trường hợp đã giao kết trong hợp đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trả chi phí khai thác, sử dụng dữ\nliệu (trừ trường hợp quy định tại Khoản 1, Điều 12 Quy chế này).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Thông báo kịp thời cho cơ quan quản\nlý dữ liệu những sai sót của dữ liệu đã cung cấp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Được khiếu nại, tố cáo theo quy định\ncủa pháp luật khi bị vi phạm quyền khai thác, sử dụng dữ liệu của mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Được bồi thường theo quy định của\npháp luật khi bên cung cấp dữ liệu cung cấp dữ liệu không chính xác gây thiệt hại\ncho mình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12_1\"><b><span lang=\"VI\">Điều 12. Kinh\nphí khai thác, sử dụng dữ liệu về tài nguyên và môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Việc khai thác và sử dụng dữ liệu\nvề tài nguyên và môi trường được thu thập bằng nguồn vốn ngân sách Nhà nước hoặc\ncó nguồn gốc từ ngân sách Nhà nước để phục vụ cho các mục đích quốc phòng và an\nninh, phục vụ yêu cầu trực tiếp của lãnh đạo Đảng và Nhà nước hoặc trong tình\ntrạng khẩn cấp thì không phải thực hiện nghĩa vụ tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tổ chức, cá nhân khai thác, sử dụng\ndữ liệu không thuộc các trường hợp quy định tại Khoản 1 Điều này phải thực hiện\nnghĩa vụ tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13_1\"><b><span lang=\"VI\">Điều 13. Thẩm\nquyền cho phép cung cấp sử dụng dữ liệu về tài nguyên và môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Việc cung cấp thông tin; tài liệu\nbí mật nhà nước thuộc danh mục dữ liệu ngành tài nguyên môi trường phải tuân\ntheo nguyên tắc, thẩm quyền, trình tự, thủ tục của Pháp lệnh bảo vệ bí mật Nhà\nnước và các văn bản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Thủ trưởng cơ quan lưu trữ dữ liệu\ncho phép cung cấp sử dụng tài liệu theo đúng quy định của Nhà nước ngoài các\ntài liệu đã quy định ở Khoản 1 Điều này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14_1\"><b><span lang=\"VI\">Điều 14. Phối\nhợp, chia sẻ dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Nguyên tắc phối hợp, chia sẻ dữ liệu\ngiữa Sở Tài nguyên và Môi trường với các sở, ban, ngành trên địa bàn Thành phố\nthực hiện theo Điều 28 của Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nội dung phối hợp, chia sẻ dữ liệu</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Trong quá trình lập kế hoạch, Sở\nTài nguyên và Môi trường gửi dự thảo kế hoạch thu thập dữ liệu tài nguyên và\nmôi trường đến các sở, ban, ngành có dữ liệu cần thu thập và Ủy ban nhân dân quận,\nhuyện đề nghị đóng góp ý kiến để bảo đảm tránh trùng lặp, chồng chéo; trong dự\nthảo kế hoạch cần nêu rõ những hoạt động, nhiệm vụ sẽ phối hợp thực hiện;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Trong quá trình thực hiện việc thu\nthập, xử lý dữ liệu, các sở, ban, ngành, Ủy ban nhân dân quận, huyện và Sở Tài nguyên\nvà Môi trường thường xuyên thông báo, trao đổi bảo đảm nhiệm vụ được thực hiện\nnhanh chóng, hiệu quả; phối hợp chặt chẽ để bảo đảm việc thu thập, xử lý dữ liệu\ntuân thủ đúng quy định, quy trình quy phạm, quy chuẩn kỹ thuật, bảo đảm chính\nxác, tin cậy, tiết kiệm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Các sở, ban, ngành, Ủy ban nhân\ndân quận, huyện quản lý dữ liệu và cơ sở dữ liệu tài nguyên và môi trường có\ntrách nhiệm áp dụng các biện pháp nghiệp vụ - kỹ thuật cần thiết để bảo mật hệ\nthống dữ liệu chung, bảo đảm sự chia sẻ dữ liệu chính xác, kịp thời, hiệu quả\ncho các tổ chức, cá nhân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Sở Tài nguyên và Môi trường cung cấp\ncho các sở, ban, ngành và Ủy ban nhân dân các quận, huyện quyền truy cập để\nkhai thác, sử dụng dữ liệu từ Cơ sở dữ liệu tài nguyên và môi trường của Thành\nphố thông qua mạng điện tử</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trách nhiệm của tổ chức, cá nhân\nđược cấp quyền truy cập:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Truy cập đúng địa chỉ, mã khóa;\nkhông được làm lộ địa chỉ, mã khóa truy cập đã được cấp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chỉ được khai thác, sử dụng dữ liệu\ntrong phạm vi được cấp, không xâm nhập trái phép Cơ sở dữ liệu về tài nguyên và\nmôi trường; sử dụng dữ liệu đúng mục đích;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Quản lý nội dung các dữ liệu đã\nkhai thác, không được cung cấp cho tổ chức, cá nhân khác trừ trường hợp đã thỏa\nthuận, được phép của cơ quan được giao quản lý Cơ sở dữ liệu về tài nguyên và\nmôi trường;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Không được thay đổi, xóa, hủy, sao\nchép, tiết lộ, hiển thị, di chuyển trái phép một phần hoặc toàn bộ dữ liệu;\nkhông được tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi,\nphá hoại Cơ sở dữ liệu về tài nguyên và môi trường; thông báo kịp thời cho cơ\nquan quản lý dữ liệu về những sai sót của dữ liệu đã cung cấp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Thực hiện đúng, đầy đủ nghĩa vụ\ntài chính;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Tuân theo các quy định của pháp luật\nvề bảo vệ bí mật nhà nước; chịu trách nhiệm về sai phạm do khai thác, sử dụng dữ\nliệu gây ra.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b><span lang=\"VI\">Chương 4.</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">LƯU TRỮ, BẢO QUẢN,\nĐẢM BẢO AN TOÀN DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15_1\"><b><span lang=\"VI\">Điều 15. Lưu\ntrữ, bảo quản dữ liệu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tất cả các dữ liệu thu thập phải\nđược kịp thời phân loại, đánh giá, xử lý về mặt vật lý, hóa học và chuẩn hóa, số\nhóa để lưu trữ, bảo quản trong các kho lưu trữ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Việc lưu trữ bảo quản dữ liệu về\ntài nguyên và môi trường, tiêu hủy tài liệu hết giá trị phải tuân theo các quy\nđịnh, pháp luật về lưu trữ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16_1\"><b><span lang=\"VI\">Điều 16. Bảo đảm\nan toàn, bảo mật dữ liệu số</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Việc bảo đảm an toàn dữ liệu số về\ntài nguyên và môi trường thực hiện theo quy định tại Điều 32 của Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Sở Tài nguyên và Môi trường có\ntrách nhiệm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Ứng dụng công nghệ thông tin để bảo\nđảm việc thu thập, xử lý, cập nhật thông tin một cách đầy đủ, tin cậy, nhanh\nchóng, chính xác; đồng thời bảo đảm việc xây dựng, lưu trữ an toàn cơ sở dữ liệu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Có các biện pháp quản lý, nghiệp vụ\nvà kỹ thuật đối với hệ thống thông tin nhằm bảo vệ, khôi phục các hệ thống, các\ndịch vụ và nội dung dữ liệu đối với nguy cơ tự nhiên hoặc do con người gây ra\nnhằm bảo đảm cho Cơ sở dữ liệu tài nguyên và môi trường Thành phố thực hiện\nđúng chức năng, phục vụ đúng đối tượng một cách sẵn sàng, chính xác và tin cậy.\nBảo đảm an toàn dữ liệu số về tài nguyên và môi trường bao gồm các nội dung bảo\nvệ và bảo mật dữ liệu, an toàn dữ liệu, an toàn máy tính và an toàn mạng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Chế độ bảo mật dữ liệu về tài\nnguyên và môi trường thực hiện theo quy định tại Điều 33 của Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 07/2009/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx\">07/2009/TT-BTNMT</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_5\"><b><span lang=\"VI\">Chương 5.</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a><b><span lang=\"VI\" style=\"font-size:12.0pt\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17_1\"><b><span lang=\"VI\">Điều 17. Xử lý\ndữ liệu về tài nguyên và môi trường đã được điều tra, thu thập trước ngày Quy\nchế này có hiệu lực thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các dữ liệu về tài nguyên và môi trường\nđã được điều tra, thu thập bằng ngân sách Nhà nước hoặc có nguồn gốc từ ngân\nsách Nhà nước trên địa bàn Thành phố trước ngày Quy chế này có hiệu lực thi\nhành được xử lý theo quy định sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đối với những dữ liệu đã được nghiệm\nthu, đánh giá thì các cơ quan, tổ chức đang quản lý dữ liệu có trách nhiệm cung\ncấp toàn bộ dữ liệu đó cho Sở Tài nguyên và Môi trường. Thời hạn cung cấp dữ liệu\nvề tài nguyên và môi trường hoàn thành chậm nhất là 06 tháng, kể từ ngày Quy chế\nnày có hiệu lực thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối với nhiệm vụ, dự án, đề án, đề\ntài, chương trình đang triển khai thực hiện bằng nguồn vốn ngân sách Nhà nước\nthì tổ chức, cá nhân phải giao nộp cho cơ quan quản lý dữ liệu theo quy định tại\nĐiều 8 của Quy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18_1\"><b><span lang=\"VI\">Điều 18. Trách\nnhiệm thực hiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Giám đốc Sở Tài nguyên và Môi trường\nchịu trách nhiệm hướng dẫn, theo dõi, kiểm tra việc thực hiện Quy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Giám đốc các sở, ban, ngành, Chủ tịch\nỦy ban nhân dân quận, huyện trong phạm vi chức năng, nhiệm vụ, quyền hạn của\nmình chịu trách nhiệm tổ chức thực hiện Quy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trong quá trình thực hiện Quy chế\nnày, nếu có vướng mắc các tổ chức, cá nhân phản ảnh kịp thời về Sở Tài nguyên\nvà Môi trường để tổng hợp, nghiên cứu, trình Ủy ban nhân dân Thành phố sửa đổi,\nbổ sung cho phù hợp./.</span></p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTHÀNH PHỐ HỒ CHÍ MINH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 59/2013/QĐ-UBND\n\n_Thành phố Hồ Chí Minh, ngày 20 tháng 12 năm 2013_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ THU THẬP, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN -THÀNH PHỐ HỒ CHÍ MINH\n\n**ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11 năm 2003;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ngày 03 tháng 12 năm 2004;_\n\n_Căn cứ Luật Lưu trữ ngày 11 tháng 11 năm 2011;_\n\n_Căn cứ Nghị định số [102/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx \"Nghị định 102/2008/NĐ-CP\") ngày 15 tháng 9 năm 2008 của Chính phủ về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường;_\n\n_Căn cứ Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") ngày 10 tháng 7 năm 2009 của Bộ Tài nguyên và Môi trường quy định chi tiết một số điều của Nghị định số [102/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx \"Nghị định 102/2008/NĐ-CP\") ngày 15 tháng 9 năm 2008 của Chính phủ về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường;_\n\n_Xét đề nghị của Giám đốc Sở Tài nguyên và Môi trường Thành phố tại Tờ trình số 7028/TNMT-VPĐK ngày 23 tháng 10 năm 2013,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn Thành phố Hồ Chí Minh.\n\n**Điều 2.** Quyết định này có hiệu lực thi hành sau 10 ngày, kể từ ngày ký.\n\n**Điều 3.** Chánh Văn phòng Ủy ban nhân dân Thành phố, Giám đốc Sở Tài nguyên và Môi trường, Giám đốc Sở Giao thông vận tải, Giám đốc Sở Nông nghiệp và Phát triển nông thôn, Tổng Giám đốc Tổng Công ty cấp nước Sài Gòn TNHH Một thành viên, Thủ trưởng các sở - ban - ngành Thành phố, Chủ tịch Ủy ban nhân dân các quận - huyện, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_Nơi nhận:_**\\- Như Điều 3;  \n\\- Bộ Tài nguyên và Môi trường;  \n\\- Cục Kiểm tra văn bản - Bộ Tư pháp;  \n\\- Thường trực Thành ủy;  \n\\- Thường trực HĐND TP;  \n\\- Thường trực UBND TP;  \n\\- Ủy ban MTTQ Việt Nam TP;  \n\\- VP Đoàn ĐBQH và HĐND TP;  \n\\- Sở Tư pháp;  \n\\- VPUB: Các PVP, các Phòng CV; TTCB;  \n\\- Lưu:VT, (ĐTMT/Thh)\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Hữu Tín**\n\n**QUY CHẾ**\n\nTHU THẬP, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG DỮ LIỆU, VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN THÀNH PHỐ HỒ CHÍ MINH  \n_(Ban hành kèm theo Quyết định số 59/2013/QĐ-UBND ngày 20 tháng 12 năm 2013 của Ủy ban nhân dân Thành phố)_\n\n**Chương 1.**\n\n**NHỮNG QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Quy chế này quy định việc thu thập, quản lý, khai thác và sử dụng dữ liệu về đất đai, tài nguyên nước, địa chất và khoáng sản, môi trường, khí tượng thủy văn, đo đạc và bản đồ, tài nguyên môi trường biển và đảo (sau đây gọi chung là dữ liệu về tài nguyên và môi trường) trên địa bàn Thành phố Hồ Chí Minh.\n\n2\\. Quy chế này áp dụng đối với cơ quan quản lý Nhà nước về tài nguyên và môi trường; các tổ chức, cá nhân có liên quan trong việc thu thập, quản lý, khai thác, sử dụng dữ liệu về tài nguyên và môi trường.\n\n3\\. Trường hợp điều ước quốc tế có quy định khác với Quy chế này thì thực hiện theo quy định tại Khoản 2 Điều 2 Nghị định số [102/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx \"Nghị định 102/2008/NĐ-CP\") ngày 15 tháng 9 năm 2008 của Chính phủ.\n\n**Điều 2. Dữ liệu về tài nguyên và môi trường**\n\nDữ liệu về tài nguyên và môi trường phải là các bản chính, bản gốc các tài liệu, mẫu vật, số liệu đã được xử lý và lưu trữ theo quy định. Dữ liệu về tài nguyên và môi trường bao gồm:\n\n1\\. Dữ liệu về đất đai:\n\na) Số liệu phân hạng, đánh giá đất, thống kê, kiểm kê đất đai; bản đồ phân hạng đất; bản đồ thổ nhưỡng; bản đồ địa giới hành chính; bản đồ hiện trạng sử dụng đất; hồ sơ cấp Giấy chứng nhận qua các thời kỳ (Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở; Giấy chứng nhận quyền sử dụng đất; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất); số liệu điều tra về giá đất; thông tin về thửa đất; sổ địa chính, sổ mục kê, sổ cấp Giấy chứng nhận quyền sử dụng đất; sổ theo dõi biến động đất đai.\n\nb) Quy hoạch, kế hoạch sử dụng đất đã được cấp có thẩm quyền phê duyệt;\n\nc) Bản đồ địa chính dạng giấy và dạng file; kết quả giao đất, cho thuê đất, thu hồi đất, chuyển mục đích sử dụng đất, thực hiện các quyền của người sử dụng đất; số lượng các khu đất giao quản lý phát triển quỹ đất; kết quả các khu đất giao đấu giá quyền sử dụng đất.\n\n2\\. Dữ liệu về tài nguyên nước:\n\na) Số lượng, chất lượng nước mặt, nước dưới đất (bao gồm các số liệu về quan trắc tài nguyên nước);\n\nb) Số liệu điều tra khảo sát địa chất thủy văn;\n\nc) Các dữ liệu về khai thác và sử dụng tài nguyên nước;\n\nd) Quy hoạch các lưu vực sông, quản lý, khai thác, bảo vệ các nguồn nước;\n\nđ) Kết quả cấp phép, thu hồi, gia hạn các loại giấy phép, trả lại các loại giấy phép thăm dò, khai thác, sử dụng tài nguyên nước mặt, nước dưới đất và xả thải vào nguồn nước; dữ liệu về điều tra, trám lấp giếng không sử dụng; dữ liệu về điều tra đánh giá tài nguyên nước dưới đất; điều tra đánh giá hiện trạng xả nước thải và khả năng tiếp nhận nước thải của nguồn nước;\n\ne) Các dữ liệu về các yếu tố ảnh hưởng đến tài nguyên nước.\n\n3\\. Dữ liệu về địa chất và khoáng sản:\n\na) Thống kê trữ lượng khoáng sản;\n\nb) Kết quả điều tra cơ bản địa chất về tài nguyên khoáng sản và các mẫu vật địa chất, khoáng sản; dữ liệu địa tầng, địa chất khu vực, vùng định hướng quy hoạch xây dựng;\n\nc) Quy hoạch, kế hoạch điều tra cơ bản địa chất về tài nguyên khoáng sản, quy hoạch về thăm dò, khai thác, chế biến và sử dụng khoáng sản;\n\nd) Bản đồ địa chất khu vực, địa chất tai biến, địa chất môi trường, địa chất khoáng sản, địa chất thủy văn, địa chất công trình và các bản đồ chuyên đề về địa chất và khoáng sản;\n\nđ) Khu vực đấu thầu hoạt động khoáng sản; khu vực có khoáng sản đặc biệt, độc hại; các khu vực cấm, tạm thời cấm hoạt động khoáng sản; khu vực dự trữ khoáng sản;\n\ne) Báo cáo hoạt động khoáng sản; báo cáo quản lý Nhà nước hàng năm về hoạt động khoáng sản;\n\ng) Kết quả cấp, gia hạn, thu hồi, cho phép, trả lại giấy phép hoạt động khoáng sản, cho phép tiếp tục thực hiện quyền hệ số khoáng sản.\n\n4\\. Dữ liệu về môi trường:\n\na) Các kết quả điều tra, khảo sát về môi trường;\n\nb) Dữ liệu, thông tin về đa dạng sinh học;\n\nc) Dữ liệu, thông tin về đánh giá môi trường chiến lược, đánh giá tác động môi trường, cam kết bảo vệ môi trường và đề án bảo vệ môi trường;\n\nd) Kết quả về giải quyết bồi thường thiệt hại về môi trường đã được cơ quan Nhà nước có thẩm quyền giải quyết;\n\nđ) Danh sách, thông tin về các nguồn thải, chất thải có nguy cơ gây ô nhiễm môi trường;\n\ne) Các khu vực bị ô nhiễm, suy thoái, sự cố môi trường; khu vực có nguy cơ xảy ra sự cố môi trường; danh mục các cơ sở gây ô nhiễm môi trường nghiêm trọng và danh mục các cơ sở gây ô nhiễm môi trường nghiêm trọng đã được đưa ra khỏi danh sách;\n\ng) Kết quả điều tra, khảo sát về hiện trạng môi trường, chất thải nguy hại, chất thải rắn thông thường, các quy hoạch về bảo vệ môi trường;\n\nh) Thông tin, dữ liệu quan trắc môi trường được phép trao đổi;\n\ni) Kết quả cấp, gia hạn, thu hồi các loại giấy phép về môi trường.\n\n5\\. Dữ liệu về khí tượng thủy văn:\n\na) Các tài liệu, số liệu điều tra cơ bản về khí tượng thủy văn, môi trường không khí và nước, biến đổi khí hậu, suy giảm tầng ôzôn;\n\nb) Các loại biểu đồ, bản đồ, ảnh thu từ vệ tinh, các loại phim, ảnh về các đối tượng nghiên cứu khí tượng thủy văn;\n\nc) Hồ sơ kỹ thuật của các công trình khí tượng thủy văn;\n\nd) Kết quả cấp, gia hạn, thu hồi các loại giấy phép về hệ thống khí tượng thủy văn.\n\n6\\. Dữ liệu về đo đạc và bản đồ gồm:\n\na) Hệ quy chiếu Quốc gia;\n\nb) Hệ thống số liệu gốc đo đạc Quốc gia; hệ thống điểm đo đạc cơ sở, điểm đo đạc cơ sở chuyên dụng; mốc cao độ theo quy hoạch phục vụ xây dựng công trình;\n\nc) Hệ thống ảnh máy bay, ảnh vệ tinh phục vụ đo đạc và bản đồ;\n\nd) Hệ thống bản đồ địa hình, bản đồ nền, bản đồ địa chính cơ sở, bản đồ hành chính, bản đồ địa lý tổng hợp và các loại bản đồ chuyên đề khác;\n\nđ) Hệ thống thông tin địa lý:\n\ne) Thông tin tư liệu thứ cấp được hình thành từ các thông tin tư liệu về đo đạc và bản đồ nêu tại các Điểm a, b, c, d, đ Khoản này và thông tin tư liệu tích hợp của thông tin tư liệu về đo đạc và bản đồ với các loại thông tin tư liệu khác;\n\ng) Hồ sơ cấp, gia hạn, thu hồi các loại giấy phép về hoạt động đo đạc và bản đồ.\n\n7\\. Dữ liệu tài nguyên môi trường biển và đảo gồm:\n\na) Dữ liệu về đất có mặt nước biển;\n\nb) Dữ liệu về địa hình đáy biển;\n\nc) Dữ liệu về tính chất cơ lý của nước biển;\n\nd) Dữ liệu về tính chất biển, địa vật lý biển, khoáng sản biển;\n\nđ) Dữ liệu về dầu, khí biển;\n\ne) Dữ liệu về sinh vật biển;\n\ng) Dữ liệu về chất lượng môi trường biển;\n\nh) Dữ liệu về khí tượng, thủy văn biển;\n\ni) Dữ liệu về đảo;\n\nk) Dữ liệu khác liên quan đến tài nguyên, môi trường biển.\n\n8\\. Kết quả các cuộc thanh tra, kiểm tra xử lý vi phạm, giải quyết tranh chấp, khiếu nại, tố cáo về tài nguyên và môi trường đã được cơ quan Nhà nước có thẩm quyền giải quyết.\n\n9\\. Các tiêu chuẩn, quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về tài nguyên và môi trường.\n\n10\\. Kết quả của các dự án, chương trình, đề tài nghiên cứu khoa học công nghệ về tài nguyên và môi trường.\n\n11\\. Dữ liệu khác liên quan đến các lĩnh vực quản lý Nhà nước về tài nguyên và môi trường trên địa bàn Thành phố.\n\n**Điều 3. Cơ sở dữ liệu về tài nguyên và môi trường**\n\nCơ sở dữ liệu về tài nguyên và môi trường Thành phố Hồ Chí Minh (sau đây gọi là cơ sở dữ liệu tài nguyên và môi trường Thành phố) là tập hợp toàn bộ các dữ liệu về tài nguyên và môi trường đã được kiểm tra, đánh giá, xử lý, tích hợp, cập nhật chỉnh lý biến động thường xuyên và được lưu trữ một cách có hệ thống, có tổ chức dưới dạng tệp dữ liệu lưu trên các hệ thống tin học, các thiết bị lưu trữ, các vật mang tin như các loại ổ cứng máy tính, băng từ, đĩa CD, DVD và các thiết bị lưu trữ tin học khác hoặc văn bản, tài liệu được xây dựng, cập nhật và duy trì phục vụ quản lý Nhà nước và các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa học, giáo dục đào tạo và nâng cao dân trí do Sở Tài nguyên và Môi trường xây dựng, lưu trữ, quản lý.\n\n**Chương 2.**\n\n**THU THẬP, QUẢN LÝ, CẬP NHẬT DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG**\n\n**Điều 4. Trách nhiệm thu thập, quản lý, cập nhật dữ liệu**\n\nSở Tài nguyên và Môi trường là cơ quan chuyên môn giúp Ủy ban nhân dân Thành phố quản lý việc thu thập, cập nhật, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường trên địa bàn Thành phố:\n\n1\\. Chủ trì, phối hợp với các sở, ban, ngành, Ủy ban nhân dân quận, huyện xây dựng, trình Ủy ban nhân dân Thành phố kế hoạch thu thập dữ liệu tài nguyên và môi trường hàng năm của Thành phố trước ngày 15 tháng 10 của năm trước và theo dõi, đôn đốc việc thực hiện kế hoạch khi được phê duyệt.\n\n2\\. Trình Ủy ban nhân dân Thành phố phê duyệt danh mục dữ liệu về tài nguyên và môi trường của Thành phố và tổ chức công bố trên các phương tiện thông tin đại chúng, trên cổng thông tin điện tử của Ủy ban nhân dân Thành phố và trang thông tin điện tử của Sở Tài nguyên và Môi trường; biên tập, phát hành cơ sở dữ liệu tài nguyên và môi trường của Thành phố.\n\n3\\. Tham mưu cho Ủy ban nhân dân Thành phố kiểm tra, xem xét, xử lý các đơn vị, tổ chức, cá nhân vi phạm các quy định về thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.\n\n**Điều 5. Lập, phê duyệt và thực hiện kế hoạch thu thập dữ liệu**\n\nSở Tài nguyên và Môi trường chủ trì lập, trình phê duyệt và tổ chức thực hiện kế hoạch thu thập dữ liệu tài nguyên và môi trường hàng năm của Thành phố, theo quy định tại các Điều 10, 11, 12, 13, 14, 15 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") ngày 10 tháng 7 năm 2009 của Bộ Tài nguyên và Môi trường quy định chi tiết một số điều của Nghị định số [102/2008/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-70477.aspx \"Nghị định 102/2008/NĐ-CP\") ngày 15 tháng 9 năm 2008 của Chính phủ về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.\n\n**Điều 6. Kiểm tra, đánh giá, xử lý dữ liệu**\n\n1\\. Nguyên tắc, nội dung kiểm tra, đánh giá, xử lý dữ liệu tài nguyên và môi trường thực hiện theo quy định tại các Điều 17, 18, 19 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n2\\. Sở Tài nguyên và Môi trường có trách nhiệm, kiểm tra, đánh giá, xử lý, chuẩn hóa, số hóa, cập nhật dữ liệu và chịu trách nhiệm về tính chính xác của dữ liệu tài nguyên và môi trường Thành phố.\n\n**Điều 7. Kinh phí thu thập, xử lý, xây dựng, cập nhật cơ sở dữ liệu**\n\nKinh phí thu thập, xử lý cập nhật dữ liệu, xây dựng cơ sở dữ liệu tài nguyên và môi trường trên địa bàn Thành phố do ngân sách Nhà nước cấp thành phố cấp, được phân bổ từ nguồn kinh phí sự nghiệp tài nguyên và môi trường hàng năm và các nguồn khác theo quy định của pháp luật; căn cứ định mức kinh tế-kỹ thuật về thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường do các Bộ, ngành Trung ương ban hành, Sở Tài nguyên và Môi trường phối hợp với Sở Tài chính xây dựng dự toán kinh phí trình Ủy ban nhân dân Thành phố phân bổ theo quy định.\n\n**Điều 8. Trách nhiệm của các tổ chức, cá nhân trong việc giao nộp dữ liệu về tài nguyên và môi trường**\n\n1\\. Tổ chức, cá nhân trong quá trình thực hiện nhiệm vụ được giao sử dụng nguồn vốn ngân sách Nhà nước hoặc có nguồn gốc từ ngân sách Nhà nước để thu thập dữ liệu về tài nguyên và môi trường trên địa bàn Thành phố, trong thời hạn chậm nhất 01 (một) tháng kể từ ngày hoàn thành nghiệm thu sản phẩm có trách nhiệm giao nộp cho Sở Tài nguyên và Môi trường 01 (một) bộ dữ liệu theo quy định. Dữ liệu giao nộp là bản chính, bản gốc.\n\n2\\. Biên bản giao nộp dữ liệu là một trong những cơ sở để xác định hoàn thành công trình, dự án hoặc nhiệm vụ được giao.\n\n3\\. Các đơn vị, doanh nghiệp có lắp đặt trạm quan trắc không khí, khí thải, nước tự động phải được lắp đặt thiết bị truyền và nhận để truyền trực tiếp kết quả quan trắc về Sở Tài nguyên và Môi trường. Đồng thời, có trách nhiệm tự bảo quản các thiết bị dùng để truyền dữ liệu, đảm bảo tính chính xác và chi phí truyền thông.\n\n**Chương 3.**\n\n**CUNG CẤP, KHAI THÁC, SỬ DỤNG DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG**\n\n**Điều 9. Quy định về cung cấp dữ liệu**\n\n1\\. Trách nhiệm cung cấp dữ liệu\n\na) Sở Tài nguyên và Môi trường có trách nhiệm cung cấp danh mục dữ liệu và dữ liệu đã được xử lý cho các cơ sở dữ liệu thành phần, cho cơ sở dữ liệu tài nguyên và môi trường của Bộ, ngành liên quan; cung cấp danh mục dữ liệu cho cơ sở dữ liệu tài nguyên các địa phương giáp ranh.\n\nb) Các sở, ban, ngành, Ủy ban nhân dân quận, huyện có dữ liệu về tài nguyên và môi trường có trách nhiệm cung cấp dữ liệu cho cơ sở dữ liệu tài nguyên và môi trường Thành phố.\n\nc) Sở Tài nguyên và Môi trường cung cấp cho các tổ chức, cá nhân khai thác dữ liệu, thu phí khai thác và sử dụng dữ liệu theo quy định; ký kết hợp đồng dịch vụ thu thập, tổng hợp, xử lý, lưu trữ và khai thác dữ liệu về tài nguyên và môi trường theo quy định tại Điều 10 của Thông tư số 07/2009/TT-BTNMT. Việc cung cấp, khai thác và sử dụng dữ liệu tài nguyên và môi trường thực hiện theo quy định tại các Điều 20, 21, 22, 23, 24, 26, 27 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\nd) Cung cấp, khai thác sử dụng dữ liệu trên mạng chỉ được thực hiện khi điều kiện phù hợp với khả năng điều kiện công nghệ thông tin trực tuyến theo các quy định tại Thông tư số [26/2009/TT-BTTTT](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-26-2009-tt-btttt-cung-cap-thong-tin-dam-bao-kha-nang-truy-cap-thuan-tien-trang-thong-tin-dien-tu-co-quan-nha-nuoc-92364.aspx \"Thông tư 26/2009/TT-BTTTT\") ngày 31 tháng 7 năm 2009 của Bộ Thông tin và Truyền thông quy định về việc cung cấp thông tin và bảo đảm khả năng truy cập thuận tiện đối với trang thông tin điện tử của cơ quan nhà nước.\n\n2\\. Hình thức cung cấp dữ liệu:\n\na) Giao nộp trực tiếp đối với những hồ sơ, dữ liệu là bản chính, bản gốc. Các dữ liệu khác có thể nộp trực tiếp, gửi qua mạng thông tin điện tử (trừ tài liệu thuộc bí mật Nhà nước) hoặc qua đường bưu điện;\n\nb) Dữ liệu số, đĩa CD, DVD, băng từ phải ghi rõ tên, nội dung dữ liệu và cơ quan cung cấp;\n\nc) Dữ liệu từ các trạm quan trắc không khí, khí thải, nước tự động phải được truyền nguyên dạng tín hiệu, chưa bị chỉnh sửa, biên tập.\n\n3\\. Thời hạn cung cấp dữ liệu:\n\na) Việc cung cấp dữ liệu về tài nguyên và môi trường đã được quy định cụ thể trong các văn bản quy phạm pháp luật về tài nguyên và môi trường hoặc cung cấp dữ liệu theo yêu cầu của cơ quan Nhà nước có thẩm quyền thì thời hạn thực hiện theo quy định, yêu cầu;\n\nb) Sở Tài nguyên và Môi trường cung cấp dữ liệu cho Cơ sở dữ liệu tài nguyên và môi trường Quốc gia theo định kỳ: 06 tháng (lấy số liệu từ ngày 01 tháng 01 đến hết ngày 30 tháng 6); một năm (lấy số liệu từ ngày 01 tháng 01 đến hết ngày 31 tháng 12);\n\nc) Các sở, ban, ngành, Ủy ban nhân dân quận, huyện cung cấp danh mục và dữ liệu tài nguyên và môi trường cho Sở Tài nguyên và Môi trường theo định kỳ một năm (lấy số liệu từ ngày 01 tháng 01 đến hết ngày 31 tháng 12).\n\n4\\. Yêu cầu đối với dữ liệu được cập nhật: Thực hiện theo quy định tại Điều 6 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n**Điều 10. Hình thức, thủ tục khai thác, sử dụng dữ liệu tài nguyên và môi trường**\n\n1\\. Việc khai thác và sử dụng dữ liệu về tài nguyên và môi trường thực hiện theo các hình thức sau đây:\n\na) Khai thác và sử dụng dữ liệu thông qua phiếu yêu cầu hoặc văn bản yêu cầu;\n\nb) Khai thác và sử dụng dữ liệu bằng hình thức hợp đồng giữa cơ quan quản lý dữ liệu và bên khai thác, sử dụng dữ liệu theo quy định của pháp luật.\n\n2\\. Việc khai thác dữ liệu dạng file được quy định như sau:\n\na) Khai thác để thực hiện việc nghiên cứu, xây dựng các dự án, nhiệm vụ phục vụ công tác quản lý Nhà nước trong lĩnh vực tài nguyên môi trường thì được cung cấp dạng file biên tập được;\n\nb) Khai thác phục vụ cho các mục đích khác ngoài quy định tại Điểm a, Khoản 2 Điều này được cung cấp dạng file pdf, jpeg, gif, tiff, png, mp3, mpeg-1, mpeg-2;\n\nc) Trường hợp khai thác dữ liệu dạng file được quy định tại Điểm a Khoản này phải có sự đồng ý của Lãnh đạo Sở Tài nguyên và Môi trường.\n\n3\\. Thủ tục khai thác, sử dụng dữ liệu tài nguyên và môi trường thông qua Phiếu yêu cầu hoặc văn bản yêu cầu:\n\na) Tổ chức, cá nhân có nhu cầu khai thác và sử dụng dữ liệu về tài nguyên và môi trường nộp phiếu yêu cầu hoặc gửi văn bản yêu cầu cho các cơ quan quản lý dữ liệu.\n\nb) Khi nhận được phiếu yêu cầu, văn bản yêu cầu hợp lệ của tổ chức, cá nhân, cơ quan quản lý dữ liệu thực hiện việc cung cấp dữ liệu cho tổ chức, cá nhân có yêu cầu khai thác và sử dụng dữ liệu. Trường hợp từ chối cung cấp dữ liệu thì phải có văn bản trả lời nêu rõ lý do.\n\nc) Việc khai thác và sử dụng dữ liệu thông qua phiếu yêu cầu hoặc văn bản yêu cầu được thực hiện theo các quy định của pháp luật chuyên ngành.\n\nd) Văn bản, phiếu yêu cầu cung cấp dữ liệu về tài nguyên, môi trường phải có các nội dung chủ yếu sau:\n\n\\- Tên, địa chỉ của cơ quan, tổ chức, cá nhân yêu cầu cung cấp dữ liệu;\n\n\\- Danh mục và nội dung dữ liệu cần cung cấp;\n\n\\- Mục đích sử dụng dữ liệu;\n\n\\- Hình thức khai thác, sử dụng dữ liệu và phương thức nhận kết quả.\n\nđ) Văn bản yêu cầu của cơ quan, tổ chức phải có chữ ký của thủ trưởng cơ quan và đóng dấu xác nhận. Phiếu yêu cầu của cá nhân phải ghi rõ họ tên, địa chỉ và chữ ký của người yêu cầu cung cấp dữ liệu theo Mẫu 01 kèm theo Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\ne) Trường hợp người có nhu cầu sử dụng dữ liệu về tài nguyên, môi trường là cá nhân nước ngoài tại Việt Nam thì văn bản yêu cầu phải được tổ chức, doanh nghiệp nơi người đó đang làm việc ký xác nhận, đóng dấu; đối với các chuyên gia, thực tập sinh là người nước ngoài đang làm việc cho các chương trình, dự án tại các Bộ, ngành, địa phương hoặc học tập tại các cơ sở đào tạo tại Việt Nam thì phải được cơ quan có thẩm quyền của Bộ, ngành, địa phương hoặc các cơ sở đào tạo đó ký xác nhận, đóng dấu theo Mẫu 02 kèm theo Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n4\\. Những trường hợp không cung cấp dữ liệu:\n\na) Văn bản, phiếu yêu cầu cung cấp dữ liệu mà nội dung không rõ ràng, cụ thể; yêu cầu khai thác, sử dụng dữ liệu thuộc phạm vi bí mật nhà nước không đúng quy định.\n\nb) Văn bản yêu cầu không có chữ ký của người có thẩm quyền và đóng dấu xác nhận đối với tổ chức; phiếu yêu cầu không có chữ ký, tên và địa chỉ cụ thể của cá nhân yêu cầu cung cấp dữ liệu.\n\nc) Mục đích sử dụng dữ liệu không phù hợp theo quy định của pháp luật.\n\nd) Không thực hiện nghĩa vụ tài chính theo quy định.\n\n5\\. Khai thác và sử dụng dữ liệu bằng hình thức hợp đồng:\n\nViệc khai thác, sử dụng dữ liệu bằng hình thức hợp đồng thực hiện theo quy định của Bộ luật Dân sự giữa cơ quan quản lý cơ sở dữ liệu và tổ chức, cá nhân có nhu cầu khai thác, sử dụng dữ liệu. Mẫu hợp đồng cung cấp, khai thác, sử dụng dữ liệu về tài nguyên và môi trường theo Mẫu 03 kèm theo Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n**Điều 11. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác sử dụng dữ liệu về tài nguyên và môi trường**\n\n1\\. Tuân thủ các nguyên tắc khai thác và sử dụng dữ liệu quy định tại Điều 20 Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n2\\. Không được cung cấp cho bên thứ ba dữ liệu đã khai thác, sử dụng, trừ trường hợp đã giao kết trong hợp đồng.\n\n3\\. Trả chi phí khai thác, sử dụng dữ liệu (trừ trường hợp quy định tại Khoản 1, Điều 12 Quy chế này).\n\n4\\. Thông báo kịp thời cho cơ quan quản lý dữ liệu những sai sót của dữ liệu đã cung cấp.\n\n5\\. Được khiếu nại, tố cáo theo quy định của pháp luật khi bị vi phạm quyền khai thác, sử dụng dữ liệu của mình.\n\n6\\. Được bồi thường theo quy định của pháp luật khi bên cung cấp dữ liệu cung cấp dữ liệu không chính xác gây thiệt hại cho mình.\n\n**Điều 12. Kinh phí khai thác, sử dụng dữ liệu về tài nguyên và môi trường**\n\n1\\. Việc khai thác và sử dụng dữ liệu về tài nguyên và môi trường được thu thập bằng nguồn vốn ngân sách Nhà nước hoặc có nguồn gốc từ ngân sách Nhà nước để phục vụ cho các mục đích quốc phòng và an ninh, phục vụ yêu cầu trực tiếp của lãnh đạo Đảng và Nhà nước hoặc trong tình trạng khẩn cấp thì không phải thực hiện nghĩa vụ tài chính.\n\n2\\. Tổ chức, cá nhân khai thác, sử dụng dữ liệu không thuộc các trường hợp quy định tại Khoản 1 Điều này phải thực hiện nghĩa vụ tài chính.\n\n**Điều 13. Thẩm quyền cho phép cung cấp sử dụng dữ liệu về tài nguyên và môi trường**\n\n1\\. Việc cung cấp thông tin; tài liệu bí mật nhà nước thuộc danh mục dữ liệu ngành tài nguyên môi trường phải tuân theo nguyên tắc, thẩm quyền, trình tự, thủ tục của Pháp lệnh bảo vệ bí mật Nhà nước và các văn bản hướng dẫn thi hành.\n\n2\\. Thủ trưởng cơ quan lưu trữ dữ liệu cho phép cung cấp sử dụng tài liệu theo đúng quy định của Nhà nước ngoài các tài liệu đã quy định ở Khoản 1 Điều này.\n\n**Điều 14. Phối hợp, chia sẻ dữ liệu**\n\n1\\. Nguyên tắc phối hợp, chia sẻ dữ liệu giữa Sở Tài nguyên và Môi trường với các sở, ban, ngành trên địa bàn Thành phố thực hiện theo Điều 28 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n2\\. Nội dung phối hợp, chia sẻ dữ liệu\n\na) Trong quá trình lập kế hoạch, Sở Tài nguyên và Môi trường gửi dự thảo kế hoạch thu thập dữ liệu tài nguyên và môi trường đến các sở, ban, ngành có dữ liệu cần thu thập và Ủy ban nhân dân quận, huyện đề nghị đóng góp ý kiến để bảo đảm tránh trùng lặp, chồng chéo; trong dự thảo kế hoạch cần nêu rõ những hoạt động, nhiệm vụ sẽ phối hợp thực hiện;\n\nb) Trong quá trình thực hiện việc thu thập, xử lý dữ liệu, các sở, ban, ngành, Ủy ban nhân dân quận, huyện và Sở Tài nguyên và Môi trường thường xuyên thông báo, trao đổi bảo đảm nhiệm vụ được thực hiện nhanh chóng, hiệu quả; phối hợp chặt chẽ để bảo đảm việc thu thập, xử lý dữ liệu tuân thủ đúng quy định, quy trình quy phạm, quy chuẩn kỹ thuật, bảo đảm chính xác, tin cậy, tiết kiệm.\n\nc) Các sở, ban, ngành, Ủy ban nhân dân quận, huyện quản lý dữ liệu và cơ sở dữ liệu tài nguyên và môi trường có trách nhiệm áp dụng các biện pháp nghiệp vụ - kỹ thuật cần thiết để bảo mật hệ thống dữ liệu chung, bảo đảm sự chia sẻ dữ liệu chính xác, kịp thời, hiệu quả cho các tổ chức, cá nhân.\n\nd) Sở Tài nguyên và Môi trường cung cấp cho các sở, ban, ngành và Ủy ban nhân dân các quận, huyện quyền truy cập để khai thác, sử dụng dữ liệu từ Cơ sở dữ liệu tài nguyên và môi trường của Thành phố thông qua mạng điện tử\n\n3\\. Trách nhiệm của tổ chức, cá nhân được cấp quyền truy cập:\n\na) Truy cập đúng địa chỉ, mã khóa; không được làm lộ địa chỉ, mã khóa truy cập đã được cấp;\n\nb) Chỉ được khai thác, sử dụng dữ liệu trong phạm vi được cấp, không xâm nhập trái phép Cơ sở dữ liệu về tài nguyên và môi trường; sử dụng dữ liệu đúng mục đích;\n\nc) Quản lý nội dung các dữ liệu đã khai thác, không được cung cấp cho tổ chức, cá nhân khác trừ trường hợp đã thỏa thuận, được phép của cơ quan được giao quản lý Cơ sở dữ liệu về tài nguyên và môi trường;\n\nd) Không được thay đổi, xóa, hủy, sao chép, tiết lộ, hiển thị, di chuyển trái phép một phần hoặc toàn bộ dữ liệu; không được tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi, phá hoại Cơ sở dữ liệu về tài nguyên và môi trường; thông báo kịp thời cho cơ quan quản lý dữ liệu về những sai sót của dữ liệu đã cung cấp;\n\nđ) Thực hiện đúng, đầy đủ nghĩa vụ tài chính;\n\ne) Tuân theo các quy định của pháp luật về bảo vệ bí mật nhà nước; chịu trách nhiệm về sai phạm do khai thác, sử dụng dữ liệu gây ra.\n\n**Chương 4.**\n\n**LƯU TRỮ, BẢO QUẢN, ĐẢM BẢO AN TOÀN DỮ LIỆU VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG**\n\n**Điều 15. Lưu trữ, bảo quản dữ liệu**\n\n1\\. Tất cả các dữ liệu thu thập phải được kịp thời phân loại, đánh giá, xử lý về mặt vật lý, hóa học và chuẩn hóa, số hóa để lưu trữ, bảo quản trong các kho lưu trữ.\n\n2\\. Việc lưu trữ bảo quản dữ liệu về tài nguyên và môi trường, tiêu hủy tài liệu hết giá trị phải tuân theo các quy định, pháp luật về lưu trữ.\n\n**Điều 16. Bảo đảm an toàn, bảo mật dữ liệu số**\n\n1\\. Việc bảo đảm an toàn dữ liệu số về tài nguyên và môi trường thực hiện theo quy định tại Điều 32 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n2\\. Sở Tài nguyên và Môi trường có trách nhiệm:\n\na) Ứng dụng công nghệ thông tin để bảo đảm việc thu thập, xử lý, cập nhật thông tin một cách đầy đủ, tin cậy, nhanh chóng, chính xác; đồng thời bảo đảm việc xây dựng, lưu trữ an toàn cơ sở dữ liệu.\n\nb) Có các biện pháp quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông tin nhằm bảo vệ, khôi phục các hệ thống, các dịch vụ và nội dung dữ liệu đối với nguy cơ tự nhiên hoặc do con người gây ra nhằm bảo đảm cho Cơ sở dữ liệu tài nguyên và môi trường Thành phố thực hiện đúng chức năng, phục vụ đúng đối tượng một cách sẵn sàng, chính xác và tin cậy. Bảo đảm an toàn dữ liệu số về tài nguyên và môi trường bao gồm các nội dung bảo vệ và bảo mật dữ liệu, an toàn dữ liệu, an toàn máy tính và an toàn mạng.\n\n3\\. Chế độ bảo mật dữ liệu về tài nguyên và môi trường thực hiện theo quy định tại Điều 33 của Thông tư số [07/2009/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-07-2009-tt-btnmt-huong-dan-nghi-dinh-102-2008-nd-cp-thu-thap-quan-ly-khai-thac-su-dung-du-lieu-tai-nguyen-moi-truong-91905.aspx \"Thông tư 07/2009/TT-BTNMT\") .\n\n**Chương 5.**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 17. Xử lý dữ liệu về tài nguyên và môi trường đã được điều tra, thu thập trước ngày Quy chế này có hiệu lực thi hành**\n\nCác dữ liệu về tài nguyên và môi trường đã được điều tra, thu thập bằng ngân sách Nhà nước hoặc có nguồn gốc từ ngân sách Nhà nước trên địa bàn Thành phố trước ngày Quy chế này có hiệu lực thi hành được xử lý theo quy định sau:\n\n1\\. Đối với những dữ liệu đã được nghiệm thu, đánh giá thì các cơ quan, tổ chức đang quản lý dữ liệu có trách nhiệm cung cấp toàn bộ dữ liệu đó cho Sở Tài nguyên và Môi trường. Thời hạn cung cấp dữ liệu về tài nguyên và môi trường hoàn thành chậm nhất là 06 tháng, kể từ ngày Quy chế này có hiệu lực thi hành.\n\n2\\. Đối với nhiệm vụ, dự án, đề án, đề tài, chương trình đang triển khai thực hiện bằng nguồn vốn ngân sách Nhà nước thì tổ chức, cá nhân phải giao nộp cho cơ quan quản lý dữ liệu theo quy định tại Điều 8 của Quy chế này.\n\n**Điều 18. Trách nhiệm thực hiện**\n\n1\\. Giám đốc Sở Tài nguyên và Môi trường chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra việc thực hiện Quy chế này.\n\n2\\. Giám đốc các sở, ban, ngành, Chủ tịch Ủy ban nhân dân quận, huyện trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình chịu trách nhiệm tổ chức thực hiện Quy chế này.\n\n3\\. Trong quá trình thực hiện Quy chế này, nếu có vướng mắc các tổ chức, cá nhân phản ảnh kịp thời về Sở Tài nguyên và Môi trường để tổng hợp, nghiên cứu, trình Ủy ban nhân dân Thành phố sửa đổi, bổ sung cho phù hợp./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,649 @@
+{
+  "title": "Chỉ thị 23/CT-UBND năm 2020 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2021 do tỉnh Thanh Hóa ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết 58-NQ/TW năm 2020 về xây dựng và phát triển tỉnh Thanh Hóa đến năm 2030, tầm nhìn đến năm 2045 do Ban Chấp hành Trung ương ban hành",
+      "id": "58-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2020-08-05",
+      "effectiveDate": "2020-08-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 31/CT-TTg năm 2020 về xây dựng Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2021 do Thủ tướng Chính phủ ban hành",
+      "id": "31/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-07-29",
+      "effectiveDate": "2020-07-29",
+      "gazetteDate": "2020-08-11",
+      "gazetteNumber": "Từ số 821 đến số 822",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 973/2020/UBTVQH14 về các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư công nguồn ngân sách nhà nước giai đoạn 2021-2025 do Ủy ban thường vụ Quốc hội ban hành",
+      "id": "973/2020/UBTVQH14",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2020-07-08",
+      "effectiveDate": "2020-07-08",
+      "gazetteDate": "2020-08-03",
+      "gazetteNumber": "Từ số 735 đến số 736",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Đầu tư theo phương thức đối tác công tư 2020",
+      "id": "64/2020/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2020-06-18",
+      "effectiveDate": "2021-01-01",
+      "gazetteDate": "2020-07-25",
+      "gazetteNumber": "Từ số 719 đến số 720",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 15/CT-UBND năm 2019 về lập kế hoạch đầu tư công trung hạn giai đoạn 2021-2025 tỉnh Thanh Hóa",
+      "id": "15/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Nguyễn Đình Xứng"
+      ],
+      "issuedDate": "2019-10-10",
+      "effectiveDate": "2019-10-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Đầu tư công 2019",
+      "id": "39/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "2019-07-19",
+      "gazetteNumber": "Từ số 565 đến số 566",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 18-NQ/TW năm 2017 về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả do Ban Chấp hành Trung ương ban hành",
+      "id": "18-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19-NQ/TW năm 2017 về tiếp tục đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng và hiệu quả hoạt động của đơn vị sự nghiệp công lập do Ban Chấp hành Trung ương ban hành",
+      "id": "19-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-10-25",
+      "effectiveDate": "2017-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 579/QĐ-TTg năm 2017 về nguyên tắc hỗ trợ có mục tiêu từ ngân sách trung ương cho ngân sách địa phương thực hiện chính sách an sinh xã hội giai đoạn 2017-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "579/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-04-28",
+      "effectiveDate": "2017-04-28",
+      "gazetteDate": "2017-05-17",
+      "gazetteNumber": "Từ số 357 đến số 358",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 07-NQ/TW năm 2016 về chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc gia an toàn, bền vững do Ban Chấp hành Trung ương Đảng ban hành",
+      "id": "07-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2016-11-18",
+      "effectiveDate": "2016-11-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 69/2017/TT-BTC hướng dẫn lập kế hoạch tài chính 05 năm và kế hoạch tài chính - ngân sách nhà nước 03 năm do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "69/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2017-07-07",
+      "effectiveDate": "2017-08-22",
+      "gazetteDate": "2017-08-02",
+      "gazetteNumber": "Từ số 555 đến số 556",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2017/NĐ-CP quy định chi tiết việc lập kế hoạch Tài chính 05 năm và kế hoạch Tài chính - ngân sách nhà nước 03 năm",
+      "id": "45/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-04-21",
+      "effectiveDate": "2017-06-05",
+      "gazetteDate": "2017-05-05",
+      "gazetteNumber": "Từ số 313 đến số 314",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Nghị quyết số 19/2020/NQ-HĐND về kế hoạch phát triển kinh tế - xã hội năm 2021 do tỉnh Thừa Thiên Huế ban hành",
+      "id": "19/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Lê Trường Lưu"
+      ],
+      "issuedDate": "2020-12-08",
+      "effectiveDate": "2020-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/12/2021"
+    },
+    {
+      "title": "Nghị quyết 18/2020/NQ-HĐND về Kế hoạch phát triển kinh tế - xã hội, quốc phòng - an ninh 5 năm 2021-2025 của tỉnh Đồng Nai",
+      "id": "18/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Nguyễn Phú Cường"
+      ],
+      "issuedDate": "2020-12-04",
+      "effectiveDate": "2020-12-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 14/CT-UBND năm 2020 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2021 do thành phố Hà Nội ban hành",
+      "id": "14/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Văn Sửu"
+      ],
+      "issuedDate": "2020-08-27",
+      "effectiveDate": "2020-08-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2110/QĐ-UBND năm 2020 quy định về trình tự đề xuất dự án thuộc Chương trình hỗ trợ ứng dụng, chuyển giao tiến bộ khoa học và công nghệ thúc đẩy phát triển kinh tế - xã hội nông thôn, miền núi, vùng dân tộc thiểu số giai đoạn 2016-2025 trên địa bàn tỉnh Thừa Thiên Huế",
+      "id": "2110/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Phan Thiên Định"
+      ],
+      "issuedDate": "2020-08-18",
+      "effectiveDate": "2020-08-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 08/CT-UBND năm 2020 về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách Nhà nước năm 2021 do tỉnh Bắc Kạn ban hành",
+      "id": "08/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Lý Thái Hải"
+      ],
+      "issuedDate": "2020-08-07",
+      "effectiveDate": "2020-08-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 09/CT-UBND năm 2020 về xây dựng kế hoạch phát triển kinh tế - xã hội năm 2021 tỉnh Quảng Ngãi",
+      "id": "09/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Nguyễn Tăng Bính"
+      ],
+      "issuedDate": "2020-08-05",
+      "effectiveDate": "2020-08-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 10/NQ-HĐND về kết quả thực hiện nhiệm vụ kế hoạch phát triển kinh tế - xã hội 6 tháng đầu năm và nhiệm vụ, giải pháp trọng tâm 6 tháng cuối năm 2020 do tỉnh Hải Dương ban hành",
+      "id": "10/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hải Dương",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2020-07-25",
+      "effectiveDate": "2020-07-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 260/NQ-HĐND về mục tiêu, nhiệm vụ và giải pháp chủ yếu phát triển kinh tế - xã hội 6 tháng cuối năm 2020 do tỉnh Bắc Ninh ban hành",
+      "id": "260/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Giáo dục",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bắc Ninh",
+      "signers": [
+        "Nguyễn Quốc Chung"
+      ],
+      "issuedDate": "2020-07-17",
+      "effectiveDate": "2020-07-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 08/CT-UBND năm 2020 về xây dựng kế hoạch phát triển kinh tế - xã hội 5 năm 2021-2025 do thành phố Hồ Chí Minh ban hành",
+      "id": "08/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Đầu tư",
+        "Thương mại"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Nguyễn Thành Phong"
+      ],
+      "issuedDate": "2020-07-16",
+      "effectiveDate": "2020-07-16",
+      "gazetteDate": "2021-02-01",
+      "gazetteNumber": "Từ số 11 đến số 12",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 284/NQ-HĐND về tiếp tục đẩy mạnh thực hiện kế hoạch phát triển kinh tế - xã hội 6 tháng cuối năm 2020 do tỉnh Hưng Yên ban hành",
+      "id": "284/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hưng Yên",
+      "signers": [
+        "Trần Quốc Toản"
+      ],
+      "issuedDate": "2020-07-10",
+      "effectiveDate": "2020-07-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 08/NQ-HĐND về nhiệm vụ phát triển kinh tế - xã hội 6 tháng cuối năm 2020 do tỉnh An Giang ban hành",
+      "id": "08/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Võ Anh Kiệt"
+      ],
+      "issuedDate": "2020-07-10",
+      "effectiveDate": "2020-07-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 113/NQ-HĐND về tiếp tục thực hiện kế hoạch phát triển kinh tế - xã hội năm 2020 do tỉnh Quảng Bình ban hành",
+      "id": "113/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Hoàng Đăng Quang"
+      ],
+      "issuedDate": "2020-07-08",
+      "effectiveDate": "2020-07-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 64/KH-UBND năm 2020 về thực hiện Quyết định 414/QĐ-TTg phê duyệt Đề án “Tăng cường ứng dụng công nghệ thông tin hỗ trợ đồng bào dân tộc thiểu số phát triển kinh tế xã hội và đảm bảo an ninh trật tự vùng đồng bào dân tộc thiểu số Việt Nam giai đoạn 2019-2025” trên địa bàn tỉnh Tuyên Quang",
+      "id": "64/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Thế Giang"
+      ],
+      "issuedDate": "2020-06-18",
+      "effectiveDate": "2020-06-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Chỉ thị 08/CT-UBND năm 2020 về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách Nhà nước năm 2021 do tỉnh Sơn La ban hành",
+      "id": "08/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Quốc Khánh"
+      ],
+      "issuedDate": "2020-06-12",
+      "effectiveDate": "2020-06-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 60/KH-UBND năm 2020 thực hiện Nghị quyết 26/NQ-CP về Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030, tầm nhìn đến năm 2045 do tỉnh Ninh Bình ban hành",
+      "id": "60/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thương mại",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Ninh Bình",
+      "signers": [
+        "Phạm Quang Ngọc"
+      ],
+      "issuedDate": "2020-06-05",
+      "effectiveDate": "2020-06-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Chỉ thị 15/CT-UBND năm 2020 về xây dựng kế hoạch phát triển kinh tế - xã hội 5 năm 2021-2025 do thành phố Hải Phòng ban hành",
+      "id": "15/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2020-06-03",
+      "effectiveDate": "2020-06-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 05/CT-UBND năm 2020 về xây dựng kế hoạch phát triển kinh tế - xã hội 5 năm 2021-2025 do tỉnh Hà Tĩnh ban hành",
+      "id": "05/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Trần Tiến Hưng"
+      ],
+      "issuedDate": "2020-05-22",
+      "effectiveDate": "2020-05-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 70/QĐ-UBND về Kế hoạch hành động thực hiện Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu chỉ đạo điều hành thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2020 do tỉnh Gia Lai ban hành",
+      "id": "70/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Võ Ngọc Thành"
+      ],
+      "issuedDate": "2020-01-17",
+      "effectiveDate": "2020-01-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 63/QĐ-UBND về Chương trình hành động thực hiện Nghị quyết về kinh tế - xã hội và dự toán ngân sách nhà nước năm 2020 do tỉnh Kon Tum ban hành",
+      "id": "63/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Văn Hòa"
+      ],
+      "issuedDate": "2020-01-17",
+      "effectiveDate": "2020-01-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19/NQ-HĐND về kết quả thực hiện nhiệm vụ phát triển kinh tế - xã hội năm 2019 và kế hoạch phát triển kinh tế - xã hội năm 2020 do tỉnh Hải Dương ban hành",
+      "id": "19/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hải Dương",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2019-12-13",
+      "effectiveDate": "2019-12-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 106/2005/QĐ-UB về phê duyệt Quy hoạch tổng thể phát triển kinh tế - xã hội huyện Ia Pa, tỉnh Gia Lai giai đoạn 2005 - 2015",
+      "id": "106/2005/QĐ-UB",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Phạm Thế Dũng"
+      ],
+      "issuedDate": "2005-08-18",
+      "effectiveDate": "2005-08-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2016"
+    }
+  ],
+  "id": "23/CT-UBND",
+  "legislationType": "Chỉ thị",
+  "categories": [
+    "Thương mại",
+    "Tài chính nhà nước",
+    "Văn hóa - Xã hội"
+  ],
+  "organization": "Tỉnh Thanh Hóa",
+  "signers": [
+    "Nguyễn Đình Xứng"
+  ],
+  "issuedDate": "2020-08-13",
+  "effectiveDate": "2020-08-13",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA4ADIAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH THANH HÓA<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 23/CT-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Thanh Hóa, ngày\n  13 tháng 8 năm 2020</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CHỈ THỊ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\"><span lang=\"VI\">VỀ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI\nVÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2021</span></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Năm 2021 là năm\ncó ý nghĩa quan trọng, năm đầu triển khai thực hiện Nghị quyết Đại hội Đảng bộ\ntỉnh lần thứ XIX, nhiệm kỳ 2020 - 2025 và kế hoạch phát triển kinh tế - xã hội\n5 năm 2021 - 2025. Bên cạnh những thuận lợi từ thế và lực được tạo ra trong\ngiai đoạn 2016 - 2020, tỉnh ta vẫn còn những khó khăn, thách thức, đặc biệt là\ntác động nặng nề của dịch Covid-19. Để vượt qua khó khăn, thách thức; đồng thời,\nthực hiện tốt Chỉ thị số 31/CT-TTg ngày 29/7/2020 của Thủ tướng Chính phủ về\nxây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm\n2021, Chủ tịch UBND tỉnh yêu cầu Giám đốc các sở, Trưởng các ban, ngành, đơn vị\ncấp tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố khẩn trương xây dựng Kế hoạch\nphát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2021, với các yêu\ncầu và nhiệm vụ chủ yếu như sau:</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1\"><b><span lang=\"VI\">I. NHIỆM VỤ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI NĂM 2021</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Kế hoạch phát triển\nkinh tế - xã hội năm 2021 phải được xây dựng trên cơ sở đánh giá đầy đủ, chính\nxác, khách quan tình hình và kết quả thực hiện kế hoạch phát triển kinh tế - xã\nhội năm 2020 và dự báo tình hình trong nước, khu vực và thế giới trong giai đoạn\ntới có tác động, ảnh hưởng đến phát triển kinh tế - xã hội của tỉnh; từ đó, xác\nđịnh mục tiêu, định hướng phát triển của kế hoạch năm 2021 phù hợp với mục tiêu\nkế hoạch phát triển kinh tế - xã hội 5 năm 2021 - 2025. Những nội dung chủ yếu\ncủa báo cáo kế hoạch phát triển kinh tế - xã hội năm 2021 gồm:</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b><span lang=\"VI\">1. Về đánh giá tình hình thực hiện kế hoạch phát triển kinh tế - xã hội\nnăm 2020</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i><span lang=\"VI\">1.1. Yêu cầu</span></i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">a) Bám sát các mục\ntiêu, chỉ tiêu, định hướng phát triển theo các nghị quyết, kết luận của Ban Chấp\nhành Trung ương Đảng, các nghị quyết của Quốc hội, Chính phủ, quyết định, chỉ\nthị của Thủ tướng Chính phủ, các nghị quyết của Ban Chấp hành Đảng bộ, HĐND các\ncấp về phát triển kinh tế - xã hội 5 năm 2016 - 2020 và năm 2020.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">b) Bảo đảm tính\nkhách quan, trung thực, sát, đúng với tình hình thực tiễn, gắn với đánh giá\nchung của giai đoạn 2016 - 2020 và có sự so sánh với kết quả thực hiện năm\n2019. Số liệu sử dụng đánh giá tình hình thực hiện kế hoạch phát triển kinh tế\n- xã hội năm 2020 sử dụng theo số liệu chưa đánh giá lại, điều chỉnh quy mô\nkinh tế.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i><span lang=\"VI\">1.2. Nội\ndung</span></i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Căn cứ tình hình\nthực hiện kế hoạch phát triển kinh tế - xã hội 6 tháng đầu năm 2020, các,\nngành, địa phương, đơn vị khẩn trương đánh giá và ước thực hiện kế hoạch phát\ntriển kinh tế - xã hội năm 2020 trên tất cả các ngành, lĩnh vực được phân công\ntheo dõi, quản lý; trong đó, bám sát các mục tiêu, chỉ tiêu, nhiệm vụ đã được\nthông qua tại các nghị quyết, kết luận của Đảng bộ và Nghị quyết của HĐND các cấp\nvề kế hoạch phát triển kinh tế - xã hội năm 2020; đánh giá đầy đủ, chính xác kết\nquả đạt được, nêu bật những thành tựu nổi bật năm 2020 và những khó khăn, hạn\nchế, nguyên nhân (khách quan, chủ quan), trong đó cần đánh giá sát, đúng tác động\ncủa thiên tai, dịch bệnh, đặc biệt là dịch Covid-19, nội dung cụ thể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">a) Tình hình thực\nhiện chủ trương, chính sách lớn của Nhà nước và của tỉnh về cơ cấu lại nền kinh\ntế, trong đó tập trung phân tích, đánh giá chất lượng tăng trưởng kinh tế; kết\nquả cơ cấu từng ngành, lĩnh vực và địa phương; khả năng cạnh tranh của một số sản\nphẩm chủ yếu, chủ lực; kết quả cơ cấu đầu tư công, khu vực công, đơn vị sự nghiệp\ncông lập; tình hình nâng cao năng suất lao động, năng lực cạnh tranh, cải thiện\nmôi trường kinh doanh, hỗ trợ và phát triển doanh nghiệp, hợp tác xã; phát triển\ncác mô hình kinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">b) Tình hình phát\ntriển các ngành, lĩnh vực kinh tế; thu - chi ngân sách nhà nước; xuất, nhập khẩu;\nhuy động vốn đầu tư phát triển trên địa bàn; đánh giá kết quả việc thực hiện\ncác giải pháp nhằm thúc đẩy giải ngân kế hoạch vốn đầu tư công năm 2020 của các\nngành, địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">c) Tình hình thực\nhiện công tác quy hoạch; phát triển đô thị, xây dựng hệ thống kết cấu hạ tầng đồng\nbộ (giao thông, thủy lợi, năng lượng, viễn thông...).</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">d) Tình hình phát\ntriển và đào tạo nguồn nhân lực; nâng cao chất lượng và sử dụng hiệu quả nguồn\nnhân lực; đổi mới giáo dục đào tạo gắn với phát triển, tăng cường tiềm lực khoa\nhọc công nghệ, đổi mới sáng tạo.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">đ) Tình hình thực\nhiện các mục tiêu về văn hóa, xã hội; công tác thông tin, truyền thông, thể dục,\nthể thao. Công tác y tế, chăm sóc sức khỏe Nhân dân, phòng, chống dịch bệnh, đặc\nbiệt là dịch Covid-19; đảm bảo vệ sinh an toàn thực phẩm. Thực hiện chính sách\nan sinh xã hội, giảm nghèo bền vững; phát triển thị trường lao động, đào tạo\nnghề, tạo việc làm; thực hiện các quyền của trẻ em, thúc đẩy bình đẳng giới và\nvì sự tiến bộ của phụ nữ; thực hiện chính sách dân tộc, tôn giáo...</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">e) Tình hình thực\nhiện quản lý, sử dụng, khai thác tài nguyên, bảo vệ môi trường và ứng phó với\nbiến đổi khí hậu; triển khai và thực hiện Chương trình nghị sự 2030 vì sự phát\ntriển bền vững; ngăn ngừa và xử lý các cơ sở gây ô nhiễm môi trường; khắc phục\nhậu quả thiên tai, hạn hán.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">g) Tình hình thực\nhiện cải cách hành chính, cải cách tư pháp; xây dựng chính quyền điện tử, cung\ncấp dịch vụ công trực tuyến; hiệu lực, hiệu quả quản lý nhà nước trên địa bàn;\nkỷ luật, kỷ cương, chất lượng đội ngũ cán bộ; sắp xếp và tinh gọn bộ máy; công\ntác phòng, chống tham nhũng, thực hành tiết kiệm, chống lãng phí...</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">h) Tình hình thực\nhiện nhiệm vụ về củng cố quốc phòng - an ninh, bảo vệ chủ quyền quốc gia; bảo đảm\nan ninh chính trị và trật tự an toàn xã hội; phòng chống cháy nổ; tai nạn giao\nthông; công tác đối ngoại và hội nhập quốc tế.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">i) Công tác chỉ đạo,\nphối hợp và tổ chức thực hiện chương trình, kế hoạch năm 2020 trong từng ngành,\nlĩnh vực và địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">k) Các sở, ban,\nngành, đơn vị cấp tỉnh, UBND các huyện, thị xã, thành phố tiến hành đánh giá, bổ\nsung các nội dung, chỉ tiêu cho phù hợp và đầy đủ với tình hình thực tế của địa\nphương, đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Về xây dựng kế hoạch phát triển kinh tế - xã hội năm 2021</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i><span lang=\"VI\">2.1. Yêu cầu</span></i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">a) Bám sát các\nnghị quyết, chủ trương, đường lối của Đảng, Quốc hội và Chính phủ, chỉ thị của\nThủ tướng Chính phủ và Nghị quyết Đại hội Đảng bộ các cấp, nhiệm kỳ 2020 - 2025.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">b) Phù hợp với\nquy hoạch có liên quan theo pháp luật về quy hoạch, dự thảo kế hoạch phát triển\nkinh tế - xã hội 5 năm 2021 - 2025 của tỉnh; phù hợp với đặc điểm, trình độ\nphát triển của từng ngành, từng địa phương; bám sát các dự báo, đánh giá tình\nhình, bối cảnh trong nước và trong tỉnh giai đoạn tới; đảm bảo sự kế thừa những\nthành quả đã đạt được, có sự đổi mới và tiếp thu, tiếp cận xu hướng phát triển\nchung của khu vực và thế giới cũng như khắc phục những hạn chế, yếu kém trong\nthực hiện các nhiệm vụ phát triển kinh tế - xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">c) Các mục tiêu,\nđịnh hướng, giải pháp phải bảo đảm tính khả thi, gắn kết với khả năng cân đối,\nhuy động và sử dụng có hiệu quả các nguồn lực; bảo đảm sự gắn kết chặt chẽ giữa\nkế hoạch phát triển kinh tế - xã hội và kế hoạch đầu tư công; lồng ghép các mục\ntiêu phát triển bền vững theo kế hoạch hành động thực hiện Chương trình nghị sự\n2030, các nội dung phòng, chống thiên tai, thích ứng với biến đổi khí hậu vào kế\nhoạch phát triển kinh tế - xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i><span lang=\"VI\">2.2. Nội\ndung</span></i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">a) Phân tích bối cảnh\nxây dựng kế hoạch phát triển kinh tế - xã hội năm 2021, bao gồm phân tích, đánh\ngiá những cơ hội, thuận lợi, thách thức, rủi ro của bối cảnh trong nước, khu vực\nvà quốc tế tác động đến việc xây dựng và thực hiện các mục tiêu phát triển kinh\ntế - xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">b) Mục tiêu tổng\nquát: tập trung tháo gỡ khó khăn, vướng mắc, tạo thuận lợi cho doanh nghiệp\nkhôi phục và phát triển sản xuất kinh doanh; tiếp tục đẩy mạnh cải cách hành\nchính, cải thiện môi trường đầu tư kinh doanh, thu hút tối đa và sử dụng có hiệu\nquả các nguồn lực cho đầu tư phát triển, tạo đột phá về hệ thống kết cấu hạ tầng.\nPhát triển mạnh mẽ 4 trung tâm kinh tế động lực, 5 trụ cột tăng trưởng, 6 hành\nlang kinh tế. Đẩy mạnh ứng dụng và chuyển giao khoa học công nghệ; khuyến khích\nxã hội hóa, nâng cao chất lượng các hoạt động văn hóa - xã hội; bảo đảm an sinh\nxã hội, nâng cao đời sống vật chất và tinh thần cho Nhân dân. Tăng cường quản\nlý tài nguyên và bảo vệ môi trường, chủ động phòng, chống thiên tai, ứng phó với\nbiến đổi khí hậu. Bảo đảm vững chắc quốc phòng - an ninh, giữ vững ổn định\nchính trị, trật tự an toàn xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">c) Mục tiêu chủ yếu:\nphấn tốc độ tăng trưởng GRDP năm 2021 của tỉnh đạt từ 9,5% trở lên. Các ngành,\nđịa phương, đơn vị căn cứ tình hình thực tế để xác định các chỉ tiêu của ngành,\nđịa phương mình, bảo đảm phù hợp với mục tiêu của tỉnh và định hướng mục tiêu\nphấn đấu các chỉ tiêu chủ yếu đối với các huyện, thị xã, thành phố theo chỉ đạo\ncủa UBND tỉnh tại các Công văn: số 1811/UBND-THKH ngày 19/02/2020; số\n4582/UBND-THKH ngày 14/4/2020; số 7679/UBND-THKH ngày 15/6/2020; số\n8345/UBND-THKH ngày 25/6/2020 và số 9026/UBND-THKH ngày 08/7/2020.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">d) Một số định hướng,\nnhiệm vụ chủ yếu</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tổ chức thực hiện\ntốt Nghị quyết số 58-NQ/TW ngày 05/8/2020 của Bộ Chính trị về xây dựng và phát\ntriển tỉnh Thanh Hóa đến năm 2030, tầm nhìn đến năm 2045. Nâng cao chất lượng\ncông tác quy hoạch và quản lý quy hoạch; triển khai thực hiện có hiệu quả Quy\nhoạch tỉnh Thanh Hóa thời kỳ 2021 - 2030, tầm nhìn đến năm 2045. Tập trung rà\nsoát, điều chỉnh, bổ sung các chương trình, đề án, kế hoạch, đảm bảo phù hợp với\nquy hoạch được duyệt, trong đó tích hợp đầy đủ các quy hoạch chuyên ngành, quy\nhoạch sử dụng đất, khắc phục những bất cập, chồng chéo giữa các quy hoạch trước\nđây.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Hoàn thiện và\ntriển khai thực hiện có hiệu quả các chương trình trọng tâm, các khâu đột theo\nNghị quyết Đại hội đảng bộ các cấp; kịp thời rà soát, điều chỉnh, bổ sung và\nban hành các cơ chế, chính sách mới, đáp ứng nhiệm vụ phát triển kinh tế - xã hội,\nđảm bảo quốc phòng, an ninh trên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Đẩy mạnh cơ cấu\nlại nền kinh tế gắn với đổi mới mô hình tăng trưởng, nâng cao năng suất, chất\nlượng, hiệu quả và sức cạnh tranh; khơi dậy nội lực, tăng cường khả năng thích ứng\nvà sức chống chịu của nền kinh tế. Tăng cường hỗ trợ pháp lý dành cho doanh\nnghiệp, nhất là doanh nghiệp nhỏ và vừa; thúc đẩy khởi nghiệp, đổi mới sáng tạo,\nhỗ trợ doanh nghiệp nhỏ và vừa tham gia hiệu quả vào cụm liên kết ngành, chuỗi\ngiá trị; hỗ trợ doanh nghiệp tái cấu trúc, nâng cao năng lực công nghệ, đổi mới\nphương thức sản xuất, kinh doanh để ứng phó linh hoạt với tác động của thiên\ntai, dịch bệnh. Thúc đẩy phát triển vùng, liên kết vùng; phát triển các vùng\nnguyên vật liệu trên địa bàn để chủ động hơn các yếu tố đầu vào phục vụ sản xuất\nkinh doanh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Xây dựng nền\nnông nghiệp phát triển toàn diện theo hướng hiện đại, bền vững, sản xuất hàng\nhóa lớn, gắn với xây dựng thương hiệu sản phẩm. Đẩy mạnh tích tụ, tập trung đất\nđai theo Nghị quyết số 13-NQ/TU của Ban Chấp hành Đảng bộ tỉnh. Chuyển đổi linh\nhoạt đất lúa kém hiệu quả sang trồng các cây có hiệu quả kinh tế cao hơn, có khả\nnăng chống chịu sâu bệnh và điều kiện thời tiết bất lợi. Đẩy mạnh phát triển\nchăn nuôi ứng dụng công nghệ cao theo chuỗi giá trị; chủ động phòng, chống dịch\nbệnh trên gia súc, gia cầm; đẩy nhanh tiến độ thực hiện các dự án chăn nuôi lớn\ntrên địa bàn. Thực hiện rà soát, điều chỉnh cơ cấu 3 loại rừng; từng bước giảm\ndần diện tích các cây lâm nghiệp hiệu quả thấp để sản xuất các loại cây lâm\nnghiệp có giá trị kinh tế cao. Phát triển các vùng nuôi trồng thủy sản phù hợp\nvới lợi thế so sánh của từng địa phương; đẩy mạnh khai thác thủy sản xa bờ gắn\nvới bảo vệ chủ quyền biển, đảo; tổ chức tốt dịch vụ hậu cần nghề cá. Tiếp tục\nxây dựng nông thôn mới toàn diện, bền vững, góp phần nâng cao chất lượng, môi\ntrường sống nông thôn.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Thường xuyên\ntheo dõi, nắm bắt tình hình, tập trung tháo gỡ khó khăn, vướng mắc, tạo thuận lợi\ncho hoạt động sản xuất kinh doanh, nhất là hoạt động của nhà máy Lọc hóa dầu\nNghi Sơn và các nhà máy trong KKT, KCN nhằm đảm bảo duy trì ổn định sản lượng,\nphát huy tối đa công suất. Tạo mọi điều kiện đẩy nhanh tiến độ thực hiện các dự\nán công nghiệp nhằm sớm đưa vào hoạt động, tạo năng lực sản xuất mới cho nền\nkinh tế. Thu hút đầu tư phát triển đồng bộ hệ thống kết cấu hạ tầng KKT Nghi\nSơn, các KCN, cụm công nghiệp; từng bước hình thành một số cụm liên kết các\nngành công nghiệp chủ lực của tỉnh. Phát triển tiểu thủ công nghiệp gắn với\nkhôi phục các nghề truyền thống và nhân cấy nghề mới có khả năng cạnh tranh và\nthị trường tiêu thụ.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tập trung phát\ntriển nhanh các ngành dịch vụ có lợi thế, có hàm lượng công nghệ và giá trị gia\ntăng cao, như: du lịch, y tế, vận tải, tài chính, ngân hàng, thương mại điện tử,\nviễn thông; khai thác thế mạnh cụm cảng nước sâu Nghi Sơn để phát triển mạnh dịch\nvụ cảng biển, vận tải biển, logistics. Tăng cường hỗ trợ kết nối cung - cầu\ntiêu thụ sản phẩm hàng hóa, tập trung khai thác thị trường nội địa. Đẩy mạnh\ntuyên truyền, hướng dẫn các doanh nghiệp tận dụng lợi thế từ các hiệp định\nthương mại tự do thế hệ mới, đặc biệt là Hiệp định CPTPP và EVFTA để mở rộng thị\ntrường xuất, nhập khẩu, đa dạng hóa đối tác, nguồn hàng. Thu hút đầu tư xây dựng\nkết cấu hạ tầng du lịch; đẩy nhanh tiến độ thực hiện các dự án du lịch quy mô lớn\ntrên địa bàn; phát triển các sản phẩm du lịch có chất lượng và thương hiệu.\nTăng cường quản lý, kiểm tra thị trường, phòng, chống buôn lậu, gian lận thương\nmại.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tạo đột phá\ntrong cải cách hành chính và cải thiện môi trường đầu tư kinh doanh; phối hợp\nchặt chẽ giữa công tác đối ngoại với xúc tiến đầu tư, thương mại và du lịch. Chủ\nđộng thu hút, hợp tác đầu tư nước ngoài có chọn lọc, ưu tiên các dự án quy mô lớn,\ncông nghệ cao, thân thiện với môi trường; chuẩn bị tốt các điều kiện cần thiết,\nnhất là hạ tầng, đất đai, nguồn nhân lực nhằm tận dụng, nắm bắt thời cơ thu hút\nnguồn lực bên ngoài, đón đầu làn sóng dịch chuyển vốn FDI sau dịch Covid-19.\nTriển khai có hiệu quả Luật Đầu tư công số 39/2019/QH14, Luật Đầu tư theo\nphương thức đối tác công tư số 66/2020/QH14 nhằm khuyến khích xã hội hóa và đầu\ntư của khu vực tư nhân vào phát triển kết cấu hạ tầng. Nâng cao hiệu quả sử dụng\nvốn đầu tư công, tập trung bố trí vốn để đẩy nhanh tiến độ thực hiện và hoàn\nthành các dự án trọng điểm, có tác động lan tỏa, thúc đẩy phát triển kinh tế -\nxã hội của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Đẩy mạnh xây dựng\nhệ thống kết cấu hạ tầng kinh tế - xã hội theo hướng đồng bộ, hiện đại; trong\nđó, tập trung đầu tư một số công trình giao thông, thủy lợi trọng điểm, có tác\nđộng lan tỏa, thúc đẩy phát triển kinh tế - xã hội của tỉnh, như: tuyến đường bộ\ncao tốc Bắc Nam và tuyến đường bộ ven biển đoạn qua tỉnh Thanh Hóa; đường nối\nthành phố Thanh Hóa với Cảng hàng không Thọ Xuân...; hệ thống thủy lợi sông\nLèn, Tiêu úng vùng III huyện Nông Cống...; đồng thời, chuẩn bị các điều kiện cần\nthiết để sớm triển khai thực hiện các dự án như: tuyến đường vành đai 3 nhánh\nĐông đoạn từ huyện Hoằng Hóa đến huyện Quảng Xương; tuyến nối thành phố Thanh\nHóa với các huyện phía Tây Thanh Hóa; Đại lộ Nam sông Mã; Đại lộ Bắc sông Mã;\ncác tuyến giao thông trục chính kết nối các KCN phía Tây - KKT Nghi Sơn; các\ntuyến giao thông trục chính Khu đô thị trung tâm - KKT Nghi Sơn. Tập trung phát\ntriển đô thị theo quy hoạch, hướng tới phát triển đô thị xanh và thông minh. Thực\nhiện tốt chính sách phát triển nhà ở và nhà ở xã hội, đáp ứng nhu cầu của người\nthu nhập thấp, nhà ở cho công nhân tại KKT Nghi Sơn và các KCN.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Nâng cao chất\nlượng và sử dụng hiệu quả nguồn nhân lực gắn với đẩy mạnh đổi mới sáng tạo, ứng\ndụng và phát triển mạnh mẽ khoa học, công nghệ; khuyến khích doanh nghiệp đổi mới\ncông nghệ, ứng dụng những thành tựu mới của Cuộc cách mạng công nghiệp lần thứ\ntư. Chú trọng đào tạo lực lượng lao động có kỹ năng, kiến thức, am hiểu công\nnghệ. Phát triển toàn diện giáo dục và đào tạo theo hướng chuẩn hóa, xã hội hóa\nvà hội nhập quốc tế; triển khai có hiệu quả chương trình, sách giáo khoa mới;\ntăng cường giáo dục đạo đức, lối sống cho học sinh, sinh viên.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tiếp tục xây dựng,\nphát huy giá trị văn hóa; tập trung nguồn lực để tu bổ, tôn tạo, phát huy giá\ntrị các di tích lịch sử văn hóa, bảo tồn và phát huy các di sản văn hóa phi vật\nthể; nâng cao chất lượng hoạt động thông tin, báo chí; quan tâm phát triển thể\nthao thành tích cao. Nâng cao chất lượng chăm sóc sức khỏe Nhân dân, đẩy mạnh\nphòng, chống dịch bệnh, tăng cường công tác đảm bảo vệ sinh ATTP. Phát triển thị\ntrường lao động, nâng cao chất lượng đào tạo nghề gắn với giải quyết việc làm;\ntừng bước khắc phục tình trạng nợ đóng bảo hiểm xã hội trong doanh nghiệp. Thực\nhiện tốt các chính sách an sinh xã hội, dân tộc, tôn giáo và giảm nghèo bền vững;\ntăng cường bảo vệ, chăm sóc trẻ em, bình đẳng giới và phòng, chống tệ nạn xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Quản lý, khai\nthác, sử dụng hiệu quả, bền vững tài nguyên thiên nhiên; tăng cường bảo vệ môi\ntrường tại các khu vực có nguy cơ cao như: KKT, các KCN, CCN, làng nghề. Nâng\ncao năng lực dự báo, cảnh báo sớm thiên tai; chủ động ứng phó với biến đổi khí\nhậu, phòng, chống và giảm nhẹ thiên tai.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tiếp tục rà\nsoát, sắp xếp lại tổ chức bộ máy; đẩy mạnh tinh giản biên chế, cơ cấu lại và\nnâng cao chất lượng đội ngũ cán bộ, công chức, viên chức; siết chặt kỷ luật, kỷ\ncương hành chính; nâng cao năng lực, hiệu quả quản lý nhà nước. Tăng cường ứng\ndụng công nghệ thông tin trong công tác chỉ đạo, điều hành; đẩy mạnh xây dựng\nChính quyền điện tử hướng tới nền kinh tế số, xã hội số. Nâng cao hiệu quả công\ntác phòng, chống tham nhũng; thực hành tiết kiệm, chống lãng phí và giải quyết\nkhiếu nại, tố cáo.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">- Củng cố quốc\nphòng - an ninh; giữ vững an ninh chính trị, trật tự an toàn xã hội; bảo đảm an\ntoàn thông tin, an ninh mạng. Chủ động đấu tranh, trấn áp các loại tội phạm; thực\nhiện đồng bộ các giải pháp bảo đảm an toàn giao thông và phòng, chống cháy nổ.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2\"><b><span lang=\"VI\">II. NHIỆM VỤ XÂY DỰNG DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2021 VÀ KẾ HOẠCH\nTÀI CHÍNH - NGÂN SÁCH 03 NĂM 2021 - 2023</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b><span lang=\"VI\">1. Về dự toán ngân sách nhà nước năm 2021</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i><span lang=\"VI\">1.1. Về dự\ntoán thu ngân sách nhà nước</span></i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Dự toán thu ngân\nsách nhà nước năm 2021 phải được xây dựng theo đúng chính sách, chế độ hiện\nhành, trên cơ sở đánh giá sát khả năng thực hiện thu ngân sách năm 2020, đặc biệt\nlưu ý đến những nhân tố tác động làm thay đổi tình hình sản xuất, kinh doanh, đầu\ntư phát triển, tăng trưởng kinh tế của từng ngành, từng lĩnh vực, từng đối tượng\nnộp thuế; tính toán cụ thể các yếu tố tăng, giảm thu do thay đổi chính sách\npháp luật về thuế. Rà soát, lập dự toán thu tích cực, sát thực tế, tổng hợp đầy\nđủ những nguồn thu mới, lớn phát sinh trên địa bàn; không dành dư địa để giao\nthu ở mức cao hơn.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Trên cơ sở đó,\nxây dựng dự toán thu nội địa năm 2021 (không bao gồm thu từ dầu thô, thu tiền sử\ndụng đất, thu cổ tức và lợi nhuận còn lại của các doanh nghiệp nhà nước, thu xổ\nsố kiến thiết) đảm bảo bình quân chung cả tỉnh tăng tối thiểu 10% so với ước thực\nhiện năm 2020 (mức tăng cụ thể tùy điều kiện, đặc điểm và phù hợp với tốc độ\ntăng trưởng kinh tế trên địa bàn của từng địa phương), dự toán thu từ hoạt động\nxuất nhập khẩu tăng tối thiểu 5% so với ước thực hiện năm 2020.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Dự toán thu tiền\nsử dụng đất, tiền thuê mặt đất, mặt nước, thu sắp xếp lại, xử lý tài sản công\n(trong đó có thu từ xử lý nhà, đất) sau khi trừ chi phí liên quan, số còn lại nộp\nvào ngân sách nhà nước theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i><span lang=\"VI\">1.2. Về dự\ntoán chi ngân sách nhà nước</span></i></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Xây dựng dự toán\nchi ngân sách nhà nước năm 2021 trên cơ sở các quy định pháp luật về chế độ,\ntiêu chuẩn, định mức chi ngân sách hiện hành; cần quán triệt yêu cầu công khai,\nminh bạch và thực hiện triệt để tiết kiệm, chống lãng phí ngay từ khâu lập dự\ntoán, chủ động sắp xếp thứ tự các nhiệm vụ chi, ưu tiên theo mức độ cấp thiết,\nquan trọng và khả năng triển khai thực hiện trong năm 2021; đồng thời, đảm bảo\nphù hợp với các mục tiêu cơ cấu lại ngân sách theo Nghị quyết số 07-NQ/TW của Bộ\nChính trị, gắn với thực hiện chủ trương sắp xếp lại tổ chức bộ máy, tinh giản\nbiên chế, đầu mối khu vực sự nghiệp công theo Nghị quyết số 18-NQ/TW và Nghị\nquyết số 19-NQ/TW của Ban Chấp hành Trung ương Đảng (khóa XII). Chỉ trình cấp\ncó thẩm quyền ban hành chính sách, đề án, dự án, nhiệm vụ mới khi thực sự cần\nthiết và cân đối được nguồn vốn để thực hiện; chủ động dự kiến đầy đủ nhu cầu\nkinh phí thực hiện các chính sách, chế độ, các chương trình, dự án, đề án đã được\ncấp có thẩm quyền phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">a) Chi đầu tư\nphát triển</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Chi đầu tư phát\ntriển nguồn ngân sách nhà nước phải phù hợp với định hướng, mục tiêu của kế hoạch\nphát triển kinh tế - xã hội 5 năm 2021 - 2025 và mục tiêu, nhiệm vụ của kế hoạch\nphát triển kinh tế - xã hội năm 2021. Kế hoạch đầu tư công năm 2021 phải phù hợp\nvới quy định của Luật Đầu tư công, Luật Ngân sách nhà nước; định hướng kế hoạch\nđầu tư công trung hạn giai đoạn 2021 - 2025 tại Chỉ thị số 15/CT-UBND ngày\n10/10/2019 của Chủ tịch UBND tỉnh; nguyên tắc, tiêu chí và định mức phân bổ vốn\nđầu tư công nguồn ngân sách nhà nước giai đoạn 2021 - 2025 tại Nghị quyết số\n973/2020/UBTVQH14 ngày 08/7/2020 của Ủy ban Thường vụ Quốc hội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Việc bố trí vốn đầu\ntư công năm 2021 phải được phân chia theo ngành, lĩnh vực theo quy định tại Nghị\nquyết số 973/2020/UBTVQH14 ngày 08/7/2020 của Ủy ban Thường vụ Quốc hội. Nguyên\ntắc bố trí vốn cho từng chương trình, dự án phải đảm bảo theo thứ tự như sau:\nưu tiên bố trí đủ vốn để thanh toán dứt điểm nợ đọng xây dựng cơ bản, thu hồi vốn\nứng trước (nếu có), bố trí cho các dự án đã hoàn thành và bàn giao đưa vào sử dụng;\nbố trí đủ vốn cho các dự án chuyển tiếp, hoàn thành trong năm 2021, các dự án bố\ntrí vốn quá thời gian quy định của giai đoạn 2016 - 2020 chuyển tiếp sang giai\nđoạn 2021 - 2025 phải tập trung bố trí vốn hoàn thành trong năm 2021; vốn đối ứng\ncho dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài; bố\ntrí vốn theo tiến độ được cấp có thẩm quyền phê duyệt cho các dự án chuyển tiếp\ntừ giai đoạn 2016 - 2020 sang giai đoạn 2021 - 2025, vốn đầu tư của Nhà nước\ntham gia thực hiện dự án theo phương thức đối tác công tư, nhiệm vụ quy hoạch\nvà vốn chuẩn bị đầu tư cho các dự án triển khai thực hiện trong giai đoạn 2021\n- 2025. Tiếp tục ưu tiên bố trí vốn cho các Chương trình MTQG, các dự án hạ tầng\ntrọng điểm, có sức lan tỏa lớn, tạo động lực phát triển kinh tế - xã hội, thu\nhút tối đa nguồn vốn khu vực tư nhân. Các dự án khởi công mới phải bảo đảm hồ\nsơ, thủ tục đầu tư theo quy định và thời gian bố trí vốn thực hiện không quá 06\nnăm đối với nhóm A, không quá 04 năm đối với nhóm B, không quá 03 năm đối với\nnhóm C.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Đối với nguồn thu\ntiền sử dụng đất, tiền thuê mặt đất, mặt nước, thu sắp xếp lại, xử lý tài sản\ncông (trong đó có thu từ xử lý nhà, đất): căn cứ dự toán thu tiền sử dụng đất,\nlập phương án phân bổ theo quy định hiện hành của pháp luật, trong đó ưu tiên bố\ntrí cho các dự án hạ tầng trọng điểm của tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Đối với nguồn thu\nxổ số kiến thiết: phân bổ toàn bộ cho chi đầu tư phát triển, trong đó ưu tiên bố\ntrí đầu tư lĩnh vực giáo dục, đào tạo và dạy nghề, y tế công lập và Chương\ntrình MTQG xây dựng nông thôn mới. Sau khi bố trí vốn đảm bảo hoàn thành các dự\nán đầu tư thuộc các lĩnh vực trên, được bố trí cho các công trình ứng phó với\nbiến đổi khí hậu và các công trình quan trọng khác thuộc đối tượng đầu tư của\nngân sách địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Đối với vốn nước\nngoài, việc bố trí kế hoạch phải phù hợp với nội dung của Hiệp định, cam kết với\nnhà tài trợ, tiến độ thực hiện và khả năng giải ngân kế hoạch vốn; ưu tiên bố\ntrí đủ vốn cho các dự án kết thúc hiệp định vay nước ngoài trong năm 2021 và\nkhông có khả năng gia hạn, dự án chuyển tiếp, hoàn thành trong năm 2021. Đối với\ncác dự án Ô, cơ quan chủ quản dự án thành phần phải rà soát, phối hợp chặt chẽ\nvới cơ quan chủ quản Trung ương để làm rõ kế hoạch, trách nhiệm bố trí vốn năm\n2021 của từng cấp theo quy định; tuyệt đối không bố trí vốn vay để thực hiện\ncác nhiệm vụ chi thường xuyên.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">b) Chi thường\nxuyên</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Dự toán chi thường\nxuyên được xây dựng theo quy định của Luật Ngân sách nhà nước và Nghị quyết của\nQuốc hội về việc kéo dài thời kỳ ổn định ngân sách nhà nước giai đoạn 2017 -\n2020 sang năm 2021. Dự toán được xây dựng chi tiết theo từng lĩnh vực chi, trên\ncơ sở chính sách, chế độ, định mức phân bổ chi thường xuyên ngân sách địa\nphương và phù hợp với phân cấp nguồn thu, nhiệm vụ chi hiện hành; trong đó cần\ntập trung nguồn lực bảo đảm các lĩnh vực chi giáo dục, đào tạo, khoa học, công\nnghệ không thấp hơn dự toán Trung ương giao. Ưu tiên bố trí đủ dự toán nhu cầu\nkinh phí thực hiện các chương trình, dự án, nhiệm vụ, chế độ chính sách đã ban\nhành.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Trong điều kiện\nngân sách còn khó khăn và thường xuyên xảy ra thiên tai, dịch bệnh, yêu cầu các\nđơn vị dự toán lập dự toán chi thường xuyên đúng tính chất nguồn kinh phí, triệt\nđể tiết kiệm, rà soát cắt giảm những khoản chi chưa thực sự cấp thiết, tinh giản\nbiên chế gắn với cơ cấu lại đội ngũ công chức, viên chức; đổi mới, sắp xếp tổ\nchức bộ máy; nâng cao chất lượng và hiệu quả hoạt động của các đơn vị sự nghiệp\ncông lập theo tinh thần Nghị quyết số 18-NQ/TW và Nghị quyết số 19-NQ/TW của\nBan Chấp hành Trung ương Đảng (khóa XII). Hạn chế mua sắm xe ô tô công và các\ntrang thiết bị đắt tiền, thắt chặt các khoản chi tổ chức hội nghị, lễ hội,\nkhánh tiết, công tác nước ngoài.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Đẩy mạnh việc đặt\nhàng, giao nhiệm vụ cho đơn vị sự nghiệp công lập cung cấp dịch vụ sự nghiệp\ncông theo khối lượng, đơn giá được phê duyệt và nghiệm thu theo kết quả thực hiện\nnhiệm vụ. Ngân sách nhà nước giảm cấp chi thường xuyên cho các đơn vị sự nghiệp\ncông lập đối với khoản chi đã được kết cấu vào giá dịch vụ; dành nguồn hỗ trợ\ncác đối tượng chính sách, thực hiện các chương trình, đề án nhằm mục tiêu phát\ntriển kinh tế - xã hội của địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">c) Chi dự phòng\nngân sách: các ngành, địa phương, đơn vị dự toán bố trí dự phòng ngân sách theo\nđúng quy định của Luật Ngân sách nhà nước để chủ động ứng phó với thiên tai, dịch\nbệnh và thực hiện các nhiệm vụ quan trọng, cấp bách phát sinh ngoài dự toán.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">d) Đối với các\nChương trình mục tiêu Trung ương bổ sung, Chương trình MTQG (gồm cả vốn đầu tư\nvà vốn sự nghiệp) và các Chương trình mục tiêu, chính sách của địa phương: căn\ncứ mục tiêu kế hoạch đã được cấp thẩm quyền phê duyệt, khả năng thực hiện\nchương trình trong năm 2021, các ngành được giao nhiệm vụ quản lý chương trình\nphải căn cứ vào nguyên tắc, tiêu chí, định mức phân bổ vốn và mục tiêu, nhiệm vụ\ncủa từng chương trình để lập dự toán chi tiết và gửi về Sở Tài chính, Sở Kế hoạch\nvà Đầu tư tổng hợp, báo cáo UBND tỉnh, trình HĐND tỉnh phân bổ cho các đơn vị\ntrong dự toán đầu năm. </span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">đ) Lập dự toán tạo\nnguồn cải cách tiền lương</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Tiếp tục cơ chế tạo\nnguồn cải cách tiền lương năm 2021 từ nguồn tiết kiệm 10% chi thường xuyên (trừ\ncác khoản tiền lương, phụ cấp theo lương, khoản có tính chất lương và các khoản\nchi cho con người theo chế độ); 50% tăng thu dự toán và 70% tăng thu thực hiện\nngân sách địa phương (không kể thu tiền sử dụng đất, thu từ hoạt động xổ số kiến\nthiết); nguồn thực hiện cải cách tiền lương các năm trước còn dư (nếu có); một\nphần nguồn thu được để lại theo chế độ quy định; nguồn dành ra do triển khai thực\nhiện Nghị quyết số 18-NQ/TW và Nghị quyết số 19-NQ/TW của Ban Chấp hành Trung\nương Đảng (khóa XII).</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Trường hợp trong\nnăm 2021, nguồn cải cách tiền lương còn dư sau khi đã đảm bảo đủ nhu cầu cải\ncách tiền lương phải huy động sẽ được dùng để thực hiện các chính sách an sinh\nxã hội theo quy định tại Quyết định số 579/QĐ-TTg ngày 28/4/2017 của Thủ tướng\nChính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">e) Các quỹ tài\nchính nhà nước ngoài ngân sách thuộc phạm vi quản lý theo quy định của Luật\nNgân sách nhà nước phải tổng hợp, báo cáo tình hình thu - chi tài chính năm\n2020 và dự kiến kế hoạch thu - chi tài chính năm 2021 và gửi về Sở Tài chính để\ntổng hợp, báo cáo theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">2. Về kế hoạch tài chính - ngân sách nhà nước 3 năm 2021 - 2023</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Các cơ quan, đơn\nvị dự toán cấp I ở cấp tỉnh và các địa phương đánh giá tình hình thực hiện kế\nhoạch tài chính - ngân sách nhà nước 03 năm 2020 - 2022, giả định tiếp tục các\nquy định tại thời kỳ ổn định ngân sách 2017 - 2020 được kéo dài sang năm 2021,\nlập kế hoạch tài chính - ngân sách nhà nước 03 năm 2021 - 2023 thuộc phạm vi quản\nlý và gửi về Sở Tài chính, Sở Kế hoạch và Đầu tư để tổng hợp, báo cáo theo quy\nđịnh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Căn cứ Nghị định\nsố 45/2017/NĐ-CP ngày 21/4/2017 của Chính phủ về quy định chi tiết việc lập kế\nhoạch tài chính 05 năm và kế hoạch tài chính ngân sách nhà nước 03 năm; Thông\ntư số 69/2017/TT-BTC ngày 07/7/2017 của Bộ Tài chính hướng dẫn lập kế hoạch tài\nchính 05 năm và kế hoạch tài chính ngân sách nhà nước 03 năm, giao Sở Tài chính\nchủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Cục Thuế tỉnh, Cục Hải quan Thanh\nHóa và các ngành, đơn vị liên quan, tổng hợp, xây dựng kế hoạch tài chính ngân\nsách nhà nước 03 năm 2021 - 2023 của tỉnh, báo cáo cấp có thẩm quyền theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_3\"><b><span lang=\"VI\">III. TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">1. Sở Kế hoạch và\nĐầu tư, Sở Tài chính, theo chức năng, nhiệm vụ được giao, khẩn trương hướng dẫn\ncác ngành, địa phương, đơn vị đánh giá tình hình thực hiện kế hoạch phát triển\nkinh tế - xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2020 và\nxây dựng kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công, dự toán\nngân sách nhà nước năm 2021, kế hoạch tài chính - ngân sách nhà nước 03 năm\n2021 - 2023; đồng thời, chủ trì tổng hợp, xây dựng kế hoạch phát triển kinh tế\n- xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2021, kế hoạch\ntài chính - ngân sách nhà nước 03 năm 2021 - 2023 của tỉnh, báo cáo UBND tỉnh,\ntrình HĐND tỉnh và báo cáo Bộ Kế hoạch và Đầu tư, Bộ Tài chính theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">2. Cục Thống kê tỉnh\ncăn cứ hướng dẫn của Tổng Cục Thống kê, khẩn trương hướng dẫn các ngành, địa\nphương chuyển đổi năm 2020 là năm gốc để tính các chỉ tiêu thống kê theo giá so\nsánh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">3. Căn cứ hướng dẫn\ncủa Sở Kế hoạch và Đầu tư, Sở Tài chính, các ngành, địa phương, đơn vị đánh giá\ntình hình thực hiện kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công,\ndự toán ngân sách nhà nước năm 2020 và xây dựng kế hoạch phát triển kinh tế -\nxã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2021, kế hoạch tài\nchính - ngân sách nhà nước 03 năm 2021 - 2023 của ngành, địa phương mình và gửi\nvề Sở Kế hoạch và Đầu tư, Sở Tài chính và trình cấp có thẩm quyền phê duyệt\ntheo quy định, đảm bảo thời gian theo yêu cầu của Bộ Kế hoạch và Đầu tư, Bộ Tài\nchính.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">Chủ tịch UBND tỉnh\nyêu cầu Giám đốc các sở, Trưởng các ban, ngành, đơn vị cấp tỉnh, Chủ tịch UBND\ncác huyện, thị xã, thành phố thực hiện tốt Chỉ thị này./.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA4ADIAMQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Văn phòng CHính phủ (để b/c);<br>\n  - Bộ Kế hoạch và Đầu tư, Bộ Tài chính (để b/c);<br>\n  - TTr Tỉnh ủy, TTr HĐND tỉnh (để b/c);<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - Các sở, ban, ngành, đơn vị cấp tỉnh;<br>\n  - Các Huyện, Thị, Thành ủy;<br>\n  - UBND các huyện, thị xã, thành phố;<br>\n  - Lưu: VT, THKH.<br>\n  (32280.2020)</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Đình Xứng</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span lang=\"VI\">&nbsp;</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH THANH HÓA  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 23/CT-UBND\n\n_Thanh Hóa, ngày 13 tháng 8 năm 2020_\n\n**CHỈ THỊ**\n\nVỀ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2021\n\nNăm 2021 là năm có ý nghĩa quan trọng, năm đầu triển khai thực hiện Nghị quyết Đại hội Đảng bộ tỉnh lần thứ XIX, nhiệm kỳ 2020 - 2025 và kế hoạch phát triển kinh tế - xã hội 5 năm 2021 - 2025. Bên cạnh những thuận lợi từ thế và lực được tạo ra trong giai đoạn 2016 - 2020, tỉnh ta vẫn còn những khó khăn, thách thức, đặc biệt là tác động nặng nề của dịch Covid-19. Để vượt qua khó khăn, thách thức; đồng thời, thực hiện tốt Chỉ thị số 31/CT-TTg ngày 29/7/2020 của Thủ tướng Chính phủ về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2021, Chủ tịch UBND tỉnh yêu cầu Giám đốc các sở, Trưởng các ban, ngành, đơn vị cấp tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố khẩn trương xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2021, với các yêu cầu và nhiệm vụ chủ yếu như sau:\n\n**I. NHIỆM VỤ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI NĂM 2021**\n\nKế hoạch phát triển kinh tế - xã hội năm 2021 phải được xây dựng trên cơ sở đánh giá đầy đủ, chính xác, khách quan tình hình và kết quả thực hiện kế hoạch phát triển kinh tế - xã hội năm 2020 và dự báo tình hình trong nước, khu vực và thế giới trong giai đoạn tới có tác động, ảnh hưởng đến phát triển kinh tế - xã hội của tỉnh; từ đó, xác định mục tiêu, định hướng phát triển của kế hoạch năm 2021 phù hợp với mục tiêu kế hoạch phát triển kinh tế - xã hội 5 năm 2021 - 2025. Những nội dung chủ yếu của báo cáo kế hoạch phát triển kinh tế - xã hội năm 2021 gồm:\n\n**1\\. Về đánh giá tình hình thực hiện kế hoạch phát triển kinh tế - xã hội năm 2020**\n\n**_1.1. Yêu cầu_**\n\na) Bám sát các mục tiêu, chỉ tiêu, định hướng phát triển theo các nghị quyết, kết luận của Ban Chấp hành Trung ương Đảng, các nghị quyết của Quốc hội, Chính phủ, quyết định, chỉ thị của Thủ tướng Chính phủ, các nghị quyết của Ban Chấp hành Đảng bộ, HĐND các cấp về phát triển kinh tế - xã hội 5 năm 2016 - 2020 và năm 2020.\n\nb) Bảo đảm tính khách quan, trung thực, sát, đúng với tình hình thực tiễn, gắn với đánh giá chung của giai đoạn 2016 - 2020 và có sự so sánh với kết quả thực hiện năm 2019. Số liệu sử dụng đánh giá tình hình thực hiện kế hoạch phát triển kinh tế - xã hội năm 2020 sử dụng theo số liệu chưa đánh giá lại, điều chỉnh quy mô kinh tế.\n\n**_1.2. Nội dung_**\n\nCăn cứ tình hình thực hiện kế hoạch phát triển kinh tế - xã hội 6 tháng đầu năm 2020, các, ngành, địa phương, đơn vị khẩn trương đánh giá và ước thực hiện kế hoạch phát triển kinh tế - xã hội năm 2020 trên tất cả các ngành, lĩnh vực được phân công theo dõi, quản lý; trong đó, bám sát các mục tiêu, chỉ tiêu, nhiệm vụ đã được thông qua tại các nghị quyết, kết luận của Đảng bộ và Nghị quyết của HĐND các cấp về kế hoạch phát triển kinh tế - xã hội năm 2020; đánh giá đầy đủ, chính xác kết quả đạt được, nêu bật những thành tựu nổi bật năm 2020 và những khó khăn, hạn chế, nguyên nhân (khách quan, chủ quan), trong đó cần đánh giá sát, đúng tác động của thiên tai, dịch bệnh, đặc biệt là dịch Covid-19, nội dung cụ thể như sau:\n\na) Tình hình thực hiện chủ trương, chính sách lớn của Nhà nước và của tỉnh về cơ cấu lại nền kinh tế, trong đó tập trung phân tích, đánh giá chất lượng tăng trưởng kinh tế; kết quả cơ cấu từng ngành, lĩnh vực và địa phương; khả năng cạnh tranh của một số sản phẩm chủ yếu, chủ lực; kết quả cơ cấu đầu tư công, khu vực công, đơn vị sự nghiệp công lập; tình hình nâng cao năng suất lao động, năng lực cạnh tranh, cải thiện môi trường kinh doanh, hỗ trợ và phát triển doanh nghiệp, hợp tác xã; phát triển các mô hình kinh doanh.\n\nb) Tình hình phát triển các ngành, lĩnh vực kinh tế; thu - chi ngân sách nhà nước; xuất, nhập khẩu; huy động vốn đầu tư phát triển trên địa bàn; đánh giá kết quả việc thực hiện các giải pháp nhằm thúc đẩy giải ngân kế hoạch vốn đầu tư công năm 2020 của các ngành, địa phương.\n\nc) Tình hình thực hiện công tác quy hoạch; phát triển đô thị, xây dựng hệ thống kết cấu hạ tầng đồng bộ (giao thông, thủy lợi, năng lượng, viễn thông...).\n\nd) Tình hình phát triển và đào tạo nguồn nhân lực; nâng cao chất lượng và sử dụng hiệu quả nguồn nhân lực; đổi mới giáo dục đào tạo gắn với phát triển, tăng cường tiềm lực khoa học công nghệ, đổi mới sáng tạo.\n\nđ) Tình hình thực hiện các mục tiêu về văn hóa, xã hội; công tác thông tin, truyền thông, thể dục, thể thao. Công tác y tế, chăm sóc sức khỏe Nhân dân, phòng, chống dịch bệnh, đặc biệt là dịch Covid-19; đảm bảo vệ sinh an toàn thực phẩm. Thực hiện chính sách an sinh xã hội, giảm nghèo bền vững; phát triển thị trường lao động, đào tạo nghề, tạo việc làm; thực hiện các quyền của trẻ em, thúc đẩy bình đẳng giới và vì sự tiến bộ của phụ nữ; thực hiện chính sách dân tộc, tôn giáo...\n\ne) Tình hình thực hiện quản lý, sử dụng, khai thác tài nguyên, bảo vệ môi trường và ứng phó với biến đổi khí hậu; triển khai và thực hiện Chương trình nghị sự 2030 vì sự phát triển bền vững; ngăn ngừa và xử lý các cơ sở gây ô nhiễm môi trường; khắc phục hậu quả thiên tai, hạn hán.\n\ng) Tình hình thực hiện cải cách hành chính, cải cách tư pháp; xây dựng chính quyền điện tử, cung cấp dịch vụ công trực tuyến; hiệu lực, hiệu quả quản lý nhà nước trên địa bàn; kỷ luật, kỷ cương, chất lượng đội ngũ cán bộ; sắp xếp và tinh gọn bộ máy; công tác phòng, chống tham nhũng, thực hành tiết kiệm, chống lãng phí...\n\nh) Tình hình thực hiện nhiệm vụ về củng cố quốc phòng - an ninh, bảo vệ chủ quyền quốc gia; bảo đảm an ninh chính trị và trật tự an toàn xã hội; phòng chống cháy nổ; tai nạn giao thông; công tác đối ngoại và hội nhập quốc tế.\n\ni) Công tác chỉ đạo, phối hợp và tổ chức thực hiện chương trình, kế hoạch năm 2020 trong từng ngành, lĩnh vực và địa phương.\n\nk) Các sở, ban, ngành, đơn vị cấp tỉnh, UBND các huyện, thị xã, thành phố tiến hành đánh giá, bổ sung các nội dung, chỉ tiêu cho phù hợp và đầy đủ với tình hình thực tế của địa phương, đơn vị.\n\n**2\\. Về xây dựng kế hoạch phát triển kinh tế - xã hội năm 2021**\n\n**_2.1. Yêu cầu_**\n\na) Bám sát các nghị quyết, chủ trương, đường lối của Đảng, Quốc hội và Chính phủ, chỉ thị của Thủ tướng Chính phủ và Nghị quyết Đại hội Đảng bộ các cấp, nhiệm kỳ 2020 - 2025.\n\nb) Phù hợp với quy hoạch có liên quan theo pháp luật về quy hoạch, dự thảo kế hoạch phát triển kinh tế - xã hội 5 năm 2021 - 2025 của tỉnh; phù hợp với đặc điểm, trình độ phát triển của từng ngành, từng địa phương; bám sát các dự báo, đánh giá tình hình, bối cảnh trong nước và trong tỉnh giai đoạn tới; đảm bảo sự kế thừa những thành quả đã đạt được, có sự đổi mới và tiếp thu, tiếp cận xu hướng phát triển chung của khu vực và thế giới cũng như khắc phục những hạn chế, yếu kém trong thực hiện các nhiệm vụ phát triển kinh tế - xã hội.\n\nc) Các mục tiêu, định hướng, giải pháp phải bảo đảm tính khả thi, gắn kết với khả năng cân đối, huy động và sử dụng có hiệu quả các nguồn lực; bảo đảm sự gắn kết chặt chẽ giữa kế hoạch phát triển kinh tế - xã hội và kế hoạch đầu tư công; lồng ghép các mục tiêu phát triển bền vững theo kế hoạch hành động thực hiện Chương trình nghị sự 2030, các nội dung phòng, chống thiên tai, thích ứng với biến đổi khí hậu vào kế hoạch phát triển kinh tế - xã hội.\n\n**_2.2. Nội dung_**\n\na) Phân tích bối cảnh xây dựng kế hoạch phát triển kinh tế - xã hội năm 2021, bao gồm phân tích, đánh giá những cơ hội, thuận lợi, thách thức, rủi ro của bối cảnh trong nước, khu vực và quốc tế tác động đến việc xây dựng và thực hiện các mục tiêu phát triển kinh tế - xã hội.\n\nb) Mục tiêu tổng quát: tập trung tháo gỡ khó khăn, vướng mắc, tạo thuận lợi cho doanh nghiệp khôi phục và phát triển sản xuất kinh doanh; tiếp tục đẩy mạnh cải cách hành chính, cải thiện môi trường đầu tư kinh doanh, thu hút tối đa và sử dụng có hiệu quả các nguồn lực cho đầu tư phát triển, tạo đột phá về hệ thống kết cấu hạ tầng. Phát triển mạnh mẽ 4 trung tâm kinh tế động lực, 5 trụ cột tăng trưởng, 6 hành lang kinh tế. Đẩy mạnh ứng dụng và chuyển giao khoa học công nghệ; khuyến khích xã hội hóa, nâng cao chất lượng các hoạt động văn hóa - xã hội; bảo đảm an sinh xã hội, nâng cao đời sống vật chất và tinh thần cho Nhân dân. Tăng cường quản lý tài nguyên và bảo vệ môi trường, chủ động phòng, chống thiên tai, ứng phó với biến đổi khí hậu. Bảo đảm vững chắc quốc phòng - an ninh, giữ vững ổn định chính trị, trật tự an toàn xã hội.\n\nc) Mục tiêu chủ yếu: phấn tốc độ tăng trưởng GRDP năm 2021 của tỉnh đạt từ 9,5% trở lên. Các ngành, địa phương, đơn vị căn cứ tình hình thực tế để xác định các chỉ tiêu của ngành, địa phương mình, bảo đảm phù hợp với mục tiêu của tỉnh và định hướng mục tiêu phấn đấu các chỉ tiêu chủ yếu đối với các huyện, thị xã, thành phố theo chỉ đạo của UBND tỉnh tại các Công văn: số 1811/UBND-THKH ngày 19/02/2020; số 4582/UBND-THKH ngày 14/4/2020; số 7679/UBND-THKH ngày 15/6/2020; số 8345/UBND-THKH ngày 25/6/2020 và số 9026/UBND-THKH ngày 08/7/2020.\n\nd) Một số định hướng, nhiệm vụ chủ yếu\n\n\\- Tổ chức thực hiện tốt Nghị quyết số 58-NQ/TW ngày 05/8/2020 của Bộ Chính trị về xây dựng và phát triển tỉnh Thanh Hóa đến năm 2030, tầm nhìn đến năm 2045. Nâng cao chất lượng công tác quy hoạch và quản lý quy hoạch; triển khai thực hiện có hiệu quả Quy hoạch tỉnh Thanh Hóa thời kỳ 2021 - 2030, tầm nhìn đến năm 2045. Tập trung rà soát, điều chỉnh, bổ sung các chương trình, đề án, kế hoạch, đảm bảo phù hợp với quy hoạch được duyệt, trong đó tích hợp đầy đủ các quy hoạch chuyên ngành, quy hoạch sử dụng đất, khắc phục những bất cập, chồng chéo giữa các quy hoạch trước đây.\n\n\\- Hoàn thiện và triển khai thực hiện có hiệu quả các chương trình trọng tâm, các khâu đột theo Nghị quyết Đại hội đảng bộ các cấp; kịp thời rà soát, điều chỉnh, bổ sung và ban hành các cơ chế, chính sách mới, đáp ứng nhiệm vụ phát triển kinh tế - xã hội, đảm bảo quốc phòng, an ninh trên địa bàn.\n\n\\- Đẩy mạnh cơ cấu lại nền kinh tế gắn với đổi mới mô hình tăng trưởng, nâng cao năng suất, chất lượng, hiệu quả và sức cạnh tranh; khơi dậy nội lực, tăng cường khả năng thích ứng và sức chống chịu của nền kinh tế. Tăng cường hỗ trợ pháp lý dành cho doanh nghiệp, nhất là doanh nghiệp nhỏ và vừa; thúc đẩy khởi nghiệp, đổi mới sáng tạo, hỗ trợ doanh nghiệp nhỏ và vừa tham gia hiệu quả vào cụm liên kết ngành, chuỗi giá trị; hỗ trợ doanh nghiệp tái cấu trúc, nâng cao năng lực công nghệ, đổi mới phương thức sản xuất, kinh doanh để ứng phó linh hoạt với tác động của thiên tai, dịch bệnh. Thúc đẩy phát triển vùng, liên kết vùng; phát triển các vùng nguyên vật liệu trên địa bàn để chủ động hơn các yếu tố đầu vào phục vụ sản xuất kinh doanh.\n\n\\- Xây dựng nền nông nghiệp phát triển toàn diện theo hướng hiện đại, bền vững, sản xuất hàng hóa lớn, gắn với xây dựng thương hiệu sản phẩm. Đẩy mạnh tích tụ, tập trung đất đai theo Nghị quyết số 13-NQ/TU của Ban Chấp hành Đảng bộ tỉnh. Chuyển đổi linh hoạt đất lúa kém hiệu quả sang trồng các cây có hiệu quả kinh tế cao hơn, có khả năng chống chịu sâu bệnh và điều kiện thời tiết bất lợi. Đẩy mạnh phát triển chăn nuôi ứng dụng công nghệ cao theo chuỗi giá trị; chủ động phòng, chống dịch bệnh trên gia súc, gia cầm; đẩy nhanh tiến độ thực hiện các dự án chăn nuôi lớn trên địa bàn. Thực hiện rà soát, điều chỉnh cơ cấu 3 loại rừng; từng bước giảm dần diện tích các cây lâm nghiệp hiệu quả thấp để sản xuất các loại cây lâm nghiệp có giá trị kinh tế cao. Phát triển các vùng nuôi trồng thủy sản phù hợp với lợi thế so sánh của từng địa phương; đẩy mạnh khai thác thủy sản xa bờ gắn với bảo vệ chủ quyền biển, đảo; tổ chức tốt dịch vụ hậu cần nghề cá. Tiếp tục xây dựng nông thôn mới toàn diện, bền vững, góp phần nâng cao chất lượng, môi trường sống nông thôn.\n\n\\- Thường xuyên theo dõi, nắm bắt tình hình, tập trung tháo gỡ khó khăn, vướng mắc, tạo thuận lợi cho hoạt động sản xuất kinh doanh, nhất là hoạt động của nhà máy Lọc hóa dầu Nghi Sơn và các nhà máy trong KKT, KCN nhằm đảm bảo duy trì ổn định sản lượng, phát huy tối đa công suất. Tạo mọi điều kiện đẩy nhanh tiến độ thực hiện các dự án công nghiệp nhằm sớm đưa vào hoạt động, tạo năng lực sản xuất mới cho nền kinh tế. Thu hút đầu tư phát triển đồng bộ hệ thống kết cấu hạ tầng KKT Nghi Sơn, các KCN, cụm công nghiệp; từng bước hình thành một số cụm liên kết các ngành công nghiệp chủ lực của tỉnh. Phát triển tiểu thủ công nghiệp gắn với khôi phục các nghề truyền thống và nhân cấy nghề mới có khả năng cạnh tranh và thị trường tiêu thụ.\n\n\\- Tập trung phát triển nhanh các ngành dịch vụ có lợi thế, có hàm lượng công nghệ và giá trị gia tăng cao, như: du lịch, y tế, vận tải, tài chính, ngân hàng, thương mại điện tử, viễn thông; khai thác thế mạnh cụm cảng nước sâu Nghi Sơn để phát triển mạnh dịch vụ cảng biển, vận tải biển, logistics. Tăng cường hỗ trợ kết nối cung - cầu tiêu thụ sản phẩm hàng hóa, tập trung khai thác thị trường nội địa. Đẩy mạnh tuyên truyền, hướng dẫn các doanh nghiệp tận dụng lợi thế từ các hiệp định thương mại tự do thế hệ mới, đặc biệt là Hiệp định CPTPP và EVFTA để mở rộng thị trường xuất, nhập khẩu, đa dạng hóa đối tác, nguồn hàng. Thu hút đầu tư xây dựng kết cấu hạ tầng du lịch; đẩy nhanh tiến độ thực hiện các dự án du lịch quy mô lớn trên địa bàn; phát triển các sản phẩm du lịch có chất lượng và thương hiệu. Tăng cường quản lý, kiểm tra thị trường, phòng, chống buôn lậu, gian lận thương mại.\n\n\\- Tạo đột phá trong cải cách hành chính và cải thiện môi trường đầu tư kinh doanh; phối hợp chặt chẽ giữa công tác đối ngoại với xúc tiến đầu tư, thương mại và du lịch. Chủ động thu hút, hợp tác đầu tư nước ngoài có chọn lọc, ưu tiên các dự án quy mô lớn, công nghệ cao, thân thiện với môi trường; chuẩn bị tốt các điều kiện cần thiết, nhất là hạ tầng, đất đai, nguồn nhân lực nhằm tận dụng, nắm bắt thời cơ thu hút nguồn lực bên ngoài, đón đầu làn sóng dịch chuyển vốn FDI sau dịch Covid-19. Triển khai có hiệu quả Luật Đầu tư công số 39/2019/QH14, Luật Đầu tư theo phương thức đối tác công tư số 66/2020/QH14 nhằm khuyến khích xã hội hóa và đầu tư của khu vực tư nhân vào phát triển kết cấu hạ tầng. Nâng cao hiệu quả sử dụng vốn đầu tư công, tập trung bố trí vốn để đẩy nhanh tiến độ thực hiện và hoàn thành các dự án trọng điểm, có tác động lan tỏa, thúc đẩy phát triển kinh tế - xã hội của tỉnh.\n\n\\- Đẩy mạnh xây dựng hệ thống kết cấu hạ tầng kinh tế - xã hội theo hướng đồng bộ, hiện đại; trong đó, tập trung đầu tư một số công trình giao thông, thủy lợi trọng điểm, có tác động lan tỏa, thúc đẩy phát triển kinh tế - xã hội của tỉnh, như: tuyến đường bộ cao tốc Bắc Nam và tuyến đường bộ ven biển đoạn qua tỉnh Thanh Hóa; đường nối thành phố Thanh Hóa với Cảng hàng không Thọ Xuân...; hệ thống thủy lợi sông Lèn, Tiêu úng vùng III huyện Nông Cống...; đồng thời, chuẩn bị các điều kiện cần thiết để sớm triển khai thực hiện các dự án như: tuyến đường vành đai 3 nhánh Đông đoạn từ huyện Hoằng Hóa đến huyện Quảng Xương; tuyến nối thành phố Thanh Hóa với các huyện phía Tây Thanh Hóa; Đại lộ Nam sông Mã; Đại lộ Bắc sông Mã; các tuyến giao thông trục chính kết nối các KCN phía Tây - KKT Nghi Sơn; các tuyến giao thông trục chính Khu đô thị trung tâm - KKT Nghi Sơn. Tập trung phát triển đô thị theo quy hoạch, hướng tới phát triển đô thị xanh và thông minh. Thực hiện tốt chính sách phát triển nhà ở và nhà ở xã hội, đáp ứng nhu cầu của người thu nhập thấp, nhà ở cho công nhân tại KKT Nghi Sơn và các KCN.\n\n\\- Nâng cao chất lượng và sử dụng hiệu quả nguồn nhân lực gắn với đẩy mạnh đổi mới sáng tạo, ứng dụng và phát triển mạnh mẽ khoa học, công nghệ; khuyến khích doanh nghiệp đổi mới công nghệ, ứng dụng những thành tựu mới của Cuộc cách mạng công nghiệp lần thứ tư. Chú trọng đào tạo lực lượng lao động có kỹ năng, kiến thức, am hiểu công nghệ. Phát triển toàn diện giáo dục và đào tạo theo hướng chuẩn hóa, xã hội hóa và hội nhập quốc tế; triển khai có hiệu quả chương trình, sách giáo khoa mới; tăng cường giáo dục đạo đức, lối sống cho học sinh, sinh viên.\n\n\\- Tiếp tục xây dựng, phát huy giá trị văn hóa; tập trung nguồn lực để tu bổ, tôn tạo, phát huy giá trị các di tích lịch sử văn hóa, bảo tồn và phát huy các di sản văn hóa phi vật thể; nâng cao chất lượng hoạt động thông tin, báo chí; quan tâm phát triển thể thao thành tích cao. Nâng cao chất lượng chăm sóc sức khỏe Nhân dân, đẩy mạnh phòng, chống dịch bệnh, tăng cường công tác đảm bảo vệ sinh ATTP. Phát triển thị trường lao động, nâng cao chất lượng đào tạo nghề gắn với giải quyết việc làm; từng bước khắc phục tình trạng nợ đóng bảo hiểm xã hội trong doanh nghiệp. Thực hiện tốt các chính sách an sinh xã hội, dân tộc, tôn giáo và giảm nghèo bền vững; tăng cường bảo vệ, chăm sóc trẻ em, bình đẳng giới và phòng, chống tệ nạn xã hội.\n\n\\- Quản lý, khai thác, sử dụng hiệu quả, bền vững tài nguyên thiên nhiên; tăng cường bảo vệ môi trường tại các khu vực có nguy cơ cao như: KKT, các KCN, CCN, làng nghề. Nâng cao năng lực dự báo, cảnh báo sớm thiên tai; chủ động ứng phó với biến đổi khí hậu, phòng, chống và giảm nhẹ thiên tai.\n\n\\- Tiếp tục rà soát, sắp xếp lại tổ chức bộ máy; đẩy mạnh tinh giản biên chế, cơ cấu lại và nâng cao chất lượng đội ngũ cán bộ, công chức, viên chức; siết chặt kỷ luật, kỷ cương hành chính; nâng cao năng lực, hiệu quả quản lý nhà nước. Tăng cường ứng dụng công nghệ thông tin trong công tác chỉ đạo, điều hành; đẩy mạnh xây dựng Chính quyền điện tử hướng tới nền kinh tế số, xã hội số. Nâng cao hiệu quả công tác phòng, chống tham nhũng; thực hành tiết kiệm, chống lãng phí và giải quyết khiếu nại, tố cáo.\n\n\\- Củng cố quốc phòng - an ninh; giữ vững an ninh chính trị, trật tự an toàn xã hội; bảo đảm an toàn thông tin, an ninh mạng. Chủ động đấu tranh, trấn áp các loại tội phạm; thực hiện đồng bộ các giải pháp bảo đảm an toàn giao thông và phòng, chống cháy nổ.\n\n**II. NHIỆM VỤ XÂY DỰNG DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2021 VÀ KẾ HOẠCH TÀI CHÍNH - NGÂN SÁCH 03 NĂM 2021 - 2023**\n\n**1\\. Về dự toán ngân sách nhà nước năm 2021**\n\n**_1.1. Về dự toán thu ngân sách nhà nước_**\n\nDự toán thu ngân sách nhà nước năm 2021 phải được xây dựng theo đúng chính sách, chế độ hiện hành, trên cơ sở đánh giá sát khả năng thực hiện thu ngân sách năm 2020, đặc biệt lưu ý đến những nhân tố tác động làm thay đổi tình hình sản xuất, kinh doanh, đầu tư phát triển, tăng trưởng kinh tế của từng ngành, từng lĩnh vực, từng đối tượng nộp thuế; tính toán cụ thể các yếu tố tăng, giảm thu do thay đổi chính sách pháp luật về thuế. Rà soát, lập dự toán thu tích cực, sát thực tế, tổng hợp đầy đủ những nguồn thu mới, lớn phát sinh trên địa bàn; không dành dư địa để giao thu ở mức cao hơn.\n\nTrên cơ sở đó, xây dựng dự toán thu nội địa năm 2021 (không bao gồm thu từ dầu thô, thu tiền sử dụng đất, thu cổ tức và lợi nhuận còn lại của các doanh nghiệp nhà nước, thu xổ số kiến thiết) đảm bảo bình quân chung cả tỉnh tăng tối thiểu 10% so với ước thực hiện năm 2020 (mức tăng cụ thể tùy điều kiện, đặc điểm và phù hợp với tốc độ tăng trưởng kinh tế trên địa bàn của từng địa phương), dự toán thu từ hoạt động xuất nhập khẩu tăng tối thiểu 5% so với ước thực hiện năm 2020.\n\nDự toán thu tiền sử dụng đất, tiền thuê mặt đất, mặt nước, thu sắp xếp lại, xử lý tài sản công (trong đó có thu từ xử lý nhà, đất) sau khi trừ chi phí liên quan, số còn lại nộp vào ngân sách nhà nước theo quy định.\n\n**_1.2. Về dự toán chi ngân sách nhà nước_**\n\nXây dựng dự toán chi ngân sách nhà nước năm 2021 trên cơ sở các quy định pháp luật về chế độ, tiêu chuẩn, định mức chi ngân sách hiện hành; cần quán triệt yêu cầu công khai, minh bạch và thực hiện triệt để tiết kiệm, chống lãng phí ngay từ khâu lập dự toán, chủ động sắp xếp thứ tự các nhiệm vụ chi, ưu tiên theo mức độ cấp thiết, quan trọng và khả năng triển khai thực hiện trong năm 2021; đồng thời, đảm bảo phù hợp với các mục tiêu cơ cấu lại ngân sách theo Nghị quyết số 07-NQ/TW của Bộ Chính trị, gắn với thực hiện chủ trương sắp xếp lại tổ chức bộ máy, tinh giản biên chế, đầu mối khu vực sự nghiệp công theo Nghị quyết số 18-NQ/TW và Nghị quyết số 19-NQ/TW của Ban Chấp hành Trung ương Đảng (khóa XII). Chỉ trình cấp có thẩm quyền ban hành chính sách, đề án, dự án, nhiệm vụ mới khi thực sự cần thiết và cân đối được nguồn vốn để thực hiện; chủ động dự kiến đầy đủ nhu cầu kinh phí thực hiện các chính sách, chế độ, các chương trình, dự án, đề án đã được cấp có thẩm quyền phê duyệt.\n\na) Chi đầu tư phát triển\n\nChi đầu tư phát triển nguồn ngân sách nhà nước phải phù hợp với định hướng, mục tiêu của kế hoạch phát triển kinh tế - xã hội 5 năm 2021 - 2025 và mục tiêu, nhiệm vụ của kế hoạch phát triển kinh tế - xã hội năm 2021. Kế hoạch đầu tư công năm 2021 phải phù hợp với quy định của Luật Đầu tư công, Luật Ngân sách nhà nước; định hướng kế hoạch đầu tư công trung hạn giai đoạn 2021 - 2025 tại Chỉ thị số 15/CT-UBND ngày 10/10/2019 của Chủ tịch UBND tỉnh; nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư công nguồn ngân sách nhà nước giai đoạn 2021 - 2025 tại Nghị quyết số 973/2020/UBTVQH14 ngày 08/7/2020 của Ủy ban Thường vụ Quốc hội.\n\nViệc bố trí vốn đầu tư công năm 2021 phải được phân chia theo ngành, lĩnh vực theo quy định tại Nghị quyết số 973/2020/UBTVQH14 ngày 08/7/2020 của Ủy ban Thường vụ Quốc hội. Nguyên tắc bố trí vốn cho từng chương trình, dự án phải đảm bảo theo thứ tự như sau: ưu tiên bố trí đủ vốn để thanh toán dứt điểm nợ đọng xây dựng cơ bản, thu hồi vốn ứng trước (nếu có), bố trí cho các dự án đã hoàn thành và bàn giao đưa vào sử dụng; bố trí đủ vốn cho các dự án chuyển tiếp, hoàn thành trong năm 2021, các dự án bố trí vốn quá thời gian quy định của giai đoạn 2016 - 2020 chuyển tiếp sang giai đoạn 2021 - 2025 phải tập trung bố trí vốn hoàn thành trong năm 2021; vốn đối ứng cho dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài; bố trí vốn theo tiến độ được cấp có thẩm quyền phê duyệt cho các dự án chuyển tiếp từ giai đoạn 2016 - 2020 sang giai đoạn 2021 - 2025, vốn đầu tư của Nhà nước tham gia thực hiện dự án theo phương thức đối tác công tư, nhiệm vụ quy hoạch và vốn chuẩn bị đầu tư cho các dự án triển khai thực hiện trong giai đoạn 2021 - 2025. Tiếp tục ưu tiên bố trí vốn cho các Chương trình MTQG, các dự án hạ tầng trọng điểm, có sức lan tỏa lớn, tạo động lực phát triển kinh tế - xã hội, thu hút tối đa nguồn vốn khu vực tư nhân. Các dự án khởi công mới phải bảo đảm hồ sơ, thủ tục đầu tư theo quy định và thời gian bố trí vốn thực hiện không quá 06 năm đối với nhóm A, không quá 04 năm đối với nhóm B, không quá 03 năm đối với nhóm C.\n\nĐối với nguồn thu tiền sử dụng đất, tiền thuê mặt đất, mặt nước, thu sắp xếp lại, xử lý tài sản công (trong đó có thu từ xử lý nhà, đất): căn cứ dự toán thu tiền sử dụng đất, lập phương án phân bổ theo quy định hiện hành của pháp luật, trong đó ưu tiên bố trí cho các dự án hạ tầng trọng điểm của tỉnh.\n\nĐối với nguồn thu xổ số kiến thiết: phân bổ toàn bộ cho chi đầu tư phát triển, trong đó ưu tiên bố trí đầu tư lĩnh vực giáo dục, đào tạo và dạy nghề, y tế công lập và Chương trình MTQG xây dựng nông thôn mới. Sau khi bố trí vốn đảm bảo hoàn thành các dự án đầu tư thuộc các lĩnh vực trên, được bố trí cho các công trình ứng phó với biến đổi khí hậu và các công trình quan trọng khác thuộc đối tượng đầu tư của ngân sách địa phương.\n\nĐối với vốn nước ngoài, việc bố trí kế hoạch phải phù hợp với nội dung của Hiệp định, cam kết với nhà tài trợ, tiến độ thực hiện và khả năng giải ngân kế hoạch vốn; ưu tiên bố trí đủ vốn cho các dự án kết thúc hiệp định vay nước ngoài trong năm 2021 và không có khả năng gia hạn, dự án chuyển tiếp, hoàn thành trong năm 2021. Đối với các dự án Ô, cơ quan chủ quản dự án thành phần phải rà soát, phối hợp chặt chẽ với cơ quan chủ quản Trung ương để làm rõ kế hoạch, trách nhiệm bố trí vốn năm 2021 của từng cấp theo quy định; tuyệt đối không bố trí vốn vay để thực hiện các nhiệm vụ chi thường xuyên.\n\nb) Chi thường xuyên\n\nDự toán chi thường xuyên được xây dựng theo quy định của Luật Ngân sách nhà nước và Nghị quyết của Quốc hội về việc kéo dài thời kỳ ổn định ngân sách nhà nước giai đoạn 2017 - 2020 sang năm 2021. Dự toán được xây dựng chi tiết theo từng lĩnh vực chi, trên cơ sở chính sách, chế độ, định mức phân bổ chi thường xuyên ngân sách địa phương và phù hợp với phân cấp nguồn thu, nhiệm vụ chi hiện hành; trong đó cần tập trung nguồn lực bảo đảm các lĩnh vực chi giáo dục, đào tạo, khoa học, công nghệ không thấp hơn dự toán Trung ương giao. Ưu tiên bố trí đủ dự toán nhu cầu kinh phí thực hiện các chương trình, dự án, nhiệm vụ, chế độ chính sách đã ban hành.\n\nTrong điều kiện ngân sách còn khó khăn và thường xuyên xảy ra thiên tai, dịch bệnh, yêu cầu các đơn vị dự toán lập dự toán chi thường xuyên đúng tính chất nguồn kinh phí, triệt để tiết kiệm, rà soát cắt giảm những khoản chi chưa thực sự cấp thiết, tinh giản biên chế gắn với cơ cấu lại đội ngũ công chức, viên chức; đổi mới, sắp xếp tổ chức bộ máy; nâng cao chất lượng và hiệu quả hoạt động của các đơn vị sự nghiệp công lập theo tinh thần Nghị quyết số 18-NQ/TW và Nghị quyết số 19-NQ/TW của Ban Chấp hành Trung ương Đảng (khóa XII). Hạn chế mua sắm xe ô tô công và các trang thiết bị đắt tiền, thắt chặt các khoản chi tổ chức hội nghị, lễ hội, khánh tiết, công tác nước ngoài.\n\nĐẩy mạnh việc đặt hàng, giao nhiệm vụ cho đơn vị sự nghiệp công lập cung cấp dịch vụ sự nghiệp công theo khối lượng, đơn giá được phê duyệt và nghiệm thu theo kết quả thực hiện nhiệm vụ. Ngân sách nhà nước giảm cấp chi thường xuyên cho các đơn vị sự nghiệp công lập đối với khoản chi đã được kết cấu vào giá dịch vụ; dành nguồn hỗ trợ các đối tượng chính sách, thực hiện các chương trình, đề án nhằm mục tiêu phát triển kinh tế - xã hội của địa phương.\n\nc) Chi dự phòng ngân sách: các ngành, địa phương, đơn vị dự toán bố trí dự phòng ngân sách theo đúng quy định của Luật Ngân sách nhà nước để chủ động ứng phó với thiên tai, dịch bệnh và thực hiện các nhiệm vụ quan trọng, cấp bách phát sinh ngoài dự toán.\n\nd) Đối với các Chương trình mục tiêu Trung ương bổ sung, Chương trình MTQG (gồm cả vốn đầu tư và vốn sự nghiệp) và các Chương trình mục tiêu, chính sách của địa phương: căn cứ mục tiêu kế hoạch đã được cấp thẩm quyền phê duyệt, khả năng thực hiện chương trình trong năm 2021, các ngành được giao nhiệm vụ quản lý chương trình phải căn cứ vào nguyên tắc, tiêu chí, định mức phân bổ vốn và mục tiêu, nhiệm vụ của từng chương trình để lập dự toán chi tiết và gửi về Sở Tài chính, Sở Kế hoạch và Đầu tư tổng hợp, báo cáo UBND tỉnh, trình HĐND tỉnh phân bổ cho các đơn vị trong dự toán đầu năm.\n\nđ) Lập dự toán tạo nguồn cải cách tiền lương\n\nTiếp tục cơ chế tạo nguồn cải cách tiền lương năm 2021 từ nguồn tiết kiệm 10% chi thường xuyên (trừ các khoản tiền lương, phụ cấp theo lương, khoản có tính chất lương và các khoản chi cho con người theo chế độ); 50% tăng thu dự toán và 70% tăng thu thực hiện ngân sách địa phương (không kể thu tiền sử dụng đất, thu từ hoạt động xổ số kiến thiết); nguồn thực hiện cải cách tiền lương các năm trước còn dư (nếu có); một phần nguồn thu được để lại theo chế độ quy định; nguồn dành ra do triển khai thực hiện Nghị quyết số 18-NQ/TW và Nghị quyết số 19-NQ/TW của Ban Chấp hành Trung ương Đảng (khóa XII).\n\nTrường hợp trong năm 2021, nguồn cải cách tiền lương còn dư sau khi đã đảm bảo đủ nhu cầu cải cách tiền lương phải huy động sẽ được dùng để thực hiện các chính sách an sinh xã hội theo quy định tại Quyết định số 579/QĐ-TTg ngày 28/4/2017 của Thủ tướng Chính phủ.\n\ne) Các quỹ tài chính nhà nước ngoài ngân sách thuộc phạm vi quản lý theo quy định của Luật Ngân sách nhà nước phải tổng hợp, báo cáo tình hình thu - chi tài chính năm 2020 và dự kiến kế hoạch thu - chi tài chính năm 2021 và gửi về Sở Tài chính để tổng hợp, báo cáo theo quy định.\n\n**2\\. Về kế hoạch tài chính - ngân sách nhà nước 3 năm 2021 - 2023**\n\nCác cơ quan, đơn vị dự toán cấp I ở cấp tỉnh và các địa phương đánh giá tình hình thực hiện kế hoạch tài chính - ngân sách nhà nước 03 năm 2020 - 2022, giả định tiếp tục các quy định tại thời kỳ ổn định ngân sách 2017 - 2020 được kéo dài sang năm 2021, lập kế hoạch tài chính - ngân sách nhà nước 03 năm 2021 - 2023 thuộc phạm vi quản lý và gửi về Sở Tài chính, Sở Kế hoạch và Đầu tư để tổng hợp, báo cáo theo quy định.\n\nCăn cứ Nghị định số 45/2017/NĐ-CP ngày 21/4/2017 của Chính phủ về quy định chi tiết việc lập kế hoạch tài chính 05 năm và kế hoạch tài chính ngân sách nhà nước 03 năm; Thông tư số 69/2017/TT-BTC ngày 07/7/2017 của Bộ Tài chính hướng dẫn lập kế hoạch tài chính 05 năm và kế hoạch tài chính ngân sách nhà nước 03 năm, giao Sở Tài chính chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Cục Thuế tỉnh, Cục Hải quan Thanh Hóa và các ngành, đơn vị liên quan, tổng hợp, xây dựng kế hoạch tài chính ngân sách nhà nước 03 năm 2021 - 2023 của tỉnh, báo cáo cấp có thẩm quyền theo quy định.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n1\\. Sở Kế hoạch và Đầu tư, Sở Tài chính, theo chức năng, nhiệm vụ được giao, khẩn trương hướng dẫn các ngành, địa phương, đơn vị đánh giá tình hình thực hiện kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2020 và xây dựng kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2021, kế hoạch tài chính - ngân sách nhà nước 03 năm 2021 - 2023; đồng thời, chủ trì tổng hợp, xây dựng kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2021, kế hoạch tài chính - ngân sách nhà nước 03 năm 2021 - 2023 của tỉnh, báo cáo UBND tỉnh, trình HĐND tỉnh và báo cáo Bộ Kế hoạch và Đầu tư, Bộ Tài chính theo quy định.\n\n2\\. Cục Thống kê tỉnh căn cứ hướng dẫn của Tổng Cục Thống kê, khẩn trương hướng dẫn các ngành, địa phương chuyển đổi năm 2020 là năm gốc để tính các chỉ tiêu thống kê theo giá so sánh.\n\n3\\. Căn cứ hướng dẫn của Sở Kế hoạch và Đầu tư, Sở Tài chính, các ngành, địa phương, đơn vị đánh giá tình hình thực hiện kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2020 và xây dựng kế hoạch phát triển kinh tế - xã hội, kế hoạch đầu tư công, dự toán ngân sách nhà nước năm 2021, kế hoạch tài chính - ngân sách nhà nước 03 năm 2021 - 2023 của ngành, địa phương mình và gửi về Sở Kế hoạch và Đầu tư, Sở Tài chính và trình cấp có thẩm quyền phê duyệt theo quy định, đảm bảo thời gian theo yêu cầu của Bộ Kế hoạch và Đầu tư, Bộ Tài chính.\n\nChủ tịch UBND tỉnh yêu cầu Giám đốc các sở, Trưởng các ban, ngành, đơn vị cấp tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố thực hiện tốt Chỉ thị này./.\n\n**_  \nNơi nhận:  \n_**\\- Văn phòng CHính phủ (để b/c);  \n\\- Bộ Kế hoạch và Đầu tư, Bộ Tài chính (để b/c);  \n\\- TTr Tỉnh ủy, TTr HĐND tỉnh (để b/c);  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Các sở, ban, ngành, đơn vị cấp tỉnh;  \n\\- Các Huyện, Thị, Thành ủy;  \n\\- UBND các huyện, thị xã, thành phố;  \n\\- Lưu: VT, THKH.  \n(32280.2020)\n\n**CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Đình Xứng**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

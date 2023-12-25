@@ -1,0 +1,491 @@
+{
+  "title": "Quyết định 5115/QĐ-UBND năm 2018 về Quy chế quản lý tài chính của Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 64/2018/TT-BTC sửa đổi Thông tư 09/2016/TT-BTC quy định về quyết toán dự án hoàn thành thuộc nguồn vốn nhà nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "64/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2018-07-30",
+      "effectiveDate": "2018-09-15",
+      "gazetteDate": "2018-09-16",
+      "gazetteNumber": "Từ số 909 đến số 910",
+      "status": "Hết hiệu lực: 10/04/2020"
+    },
+    {
+      "title": "Thông tư 52/2018/TT-BTC sửa đổi Thông tư 08/2016/TT-BTC quy định về quản lý, thanh toán vốn đầu tư sử dụng nguồn vốn ngân sách nhà nước; Thông tư 108/2016/TT-BTC sửa đổi Thông tư 08/2016/TT-BTC do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "52/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2018-05-24",
+      "effectiveDate": "2018-07-10",
+      "gazetteDate": "2018-07-14",
+      "gazetteNumber": "Từ số 775 đến số 776",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 145/2017/TT-BTC về hướng dẫn cơ chế tài chính của đơn vị sự nghiệp công lập theo Nghị định 141/2016/NĐ-CP quy định cơ chế tự chủ của đơn vị sự nghiệp công lập trong lĩnh vực sự nghiệp kinh tế và sự nghiệp khác do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "145/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Xuân Hà"
+      ],
+      "issuedDate": "2017-12-29",
+      "effectiveDate": "2018-02-14",
+      "gazetteDate": "2018-03-26",
+      "gazetteNumber": "Từ số 479 đến số 480",
+      "status": "Hết hiệu lực: 01/11/2022"
+    },
+    {
+      "title": "Nghị định 141/2016/NĐ-CP quy định cơ chế tự chủ của đơn vị sự nghiệp công lập trong lĩnh vực sự nghiệp kinh tế và sự nghiệp khác",
+      "id": "141/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-10-10",
+      "effectiveDate": "2016-12-20",
+      "gazetteDate": "2016-10-24",
+      "gazetteNumber": "Từ số 1139 đến số 1140",
+      "status": "Hết hiệu lực: 15/08/2021"
+    },
+    {
+      "title": "Thông tư 108/2016/TT-BTC sửa đổi Thông tư 08/2016/TT-BTC Quy định về quản lý, thanh toán vốn đầu tư sử dụng nguồn vốn ngân sách nhà nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "108/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2016-06-30",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-08-14",
+      "gazetteNumber": "Từ số 857 đến số 858",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 23/2016/TT-BNNPTNT hướng dẫn nội dung quản lý công trình lâm sinh do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "23/2016/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Hà Công Tuấn"
+      ],
+      "issuedDate": "2016-06-30",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2017-01-22",
+      "gazetteNumber": "Từ số 79 đến số 80",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Thông tư 09/2016/TT-BTC Quy định về quyết toán dự án hoàn thành thuộc nguồn vốn Nhà nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "09/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2016-01-18",
+      "effectiveDate": "2016-03-05",
+      "gazetteDate": "2016-02-16",
+      "gazetteNumber": "Từ số 183 đến số 184",
+      "status": "Hết hiệu lực: 10/04/2020"
+    },
+    {
+      "title": "Thông tư 08/2016/TT-BTC quy định về quản lý, thanh toán vốn đầu tư sử dụng nguồn vốn ngân sách Nhà nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "08/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2016-01-18",
+      "effectiveDate": "2016-03-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 80/2011/TT-BNNPTNT hướng dẫn phương pháp xác định tiền chi trả dịch vụ môi trường rừng do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "80/2011/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Hứa Đức Nhị"
+      ],
+      "issuedDate": "2011-11-23",
+      "effectiveDate": "2012-01-07",
+      "gazetteDate": "2011-12-18",
+      "gazetteNumber": "Từ số 625 đến số 626",
+      "status": "Hết hiệu lực: 01/01/2018"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 04/2018/TT-BTC về hướng dẫn quản lý và sử dụng tiền dịch vụ môi trường rừng do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "04/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Xuân Hà"
+      ],
+      "issuedDate": "2018-01-17",
+      "effectiveDate": "2018-03-05",
+      "gazetteDate": "2018-02-28",
+      "gazetteNumber": "Từ số 413 đến số 414",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Thông tư 22/2017/TT-BNNPTNT về hướng dẫn nội dung thực hiện chính sách chi trả dịch vụ môi trường rừng do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "22/2017/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Hà Công Tuấn"
+      ],
+      "issuedDate": "2017-11-15",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-12-22",
+      "gazetteNumber": "Từ số 1041 đến số 1042",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Thông tư 23/2017/TT-BNNPTNT quy định về trồng rừng thay thế khi chuyển mục đích sử dụng rừng sang mục đích khác do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành",
+      "id": "23/2017/TT-BNNPTNT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "signers": [
+        "Hà Công Tuấn"
+      ],
+      "issuedDate": "2017-11-15",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-12-07",
+      "gazetteNumber": "Từ số 881 đến số 882",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Nghị định 147/2016/NĐ-CP sửa đổi Nghị định 99/2010/NĐ-CP về chính sách chi trả dịch vụ môi trường rừng",
+      "id": "147/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-11-02",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2016-11-12",
+      "gazetteNumber": "Từ số 1173 đến số 1174",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 85/2012/TT-BTC hướng dẫn chế độ quản lý tài chính đối với Quỹ Bảo vệ và phát triển rừng do Bộ Tài chính ban hành",
+      "id": "85/2012/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2012-05-25",
+      "effectiveDate": "2012-07-10",
+      "gazetteDate": "2012-06-12",
+      "gazetteNumber": "Từ số 389 đến số 390",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Nghị định 99/2010/NĐ-CP về chính sách chi trả dịch vụ môi trường rừng",
+      "id": "99/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-09-24",
+      "effectiveDate": "2011-01-01",
+      "gazetteDate": "2010-10-10",
+      "gazetteNumber": "Từ số 585 đến số 586",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Nghị định 05/2008/NĐ-CP về việc quỹ bảo vệ và phát triển rừng",
+      "id": "05/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-01-14",
+      "effectiveDate": "2008-02-04",
+      "gazetteDate": "2008-01-20",
+      "gazetteNumber": "Từ số 39 đến số 40",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Nghị định 23/2006/NĐ-CP thi hành Luật Bảo vệ và phát triển rừng",
+      "id": "23/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-03-03",
+      "effectiveDate": "2006-03-25",
+      "gazetteDate": "2006-03-10",
+      "gazetteNumber": "Số 10",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Luật Bảo vệ và Phát triển rừng 2004",
+      "id": "29/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-02",
+      "gazetteNumber": "Số 2",
+      "status": "Hết hiệu lực: 01/01/2019"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 1256/QĐ-UBND năm 2019 Điều lệ về tổ chức hoạt động của Quỹ Bảo vệ và Phát triển rừng tỉnh Sơn La",
+      "id": "1256/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Lò Minh Hùng"
+      ],
+      "issuedDate": "2019-05-30",
+      "effectiveDate": "2019-05-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 16/2019/QĐ-UBND bãi bỏ Quyết định 08/2018/QĐ-UBND Điều lệ về tổ chức và hoạt động của Quỹ Bảo vệ và Phát triển rừng tỉnh Sơn La",
+      "id": "16/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Tráng Thị Xuân"
+      ],
+      "issuedDate": "2019-05-06",
+      "effectiveDate": "2019-05-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 957/QĐ-UBND năm 2019 về Điều lệ tổ chức và hoạt động của Quỹ Bảo vệ và phát triển rừng tỉnh Quảng Nam",
+      "id": "957/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Đinh Văn Thu"
+      ],
+      "issuedDate": "2019-03-27",
+      "effectiveDate": "2019-03-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 03/CT-UBND năm 2019 về tăng cường thực hiện biện pháp quản lý rừng, quản lý đất lâm nghiệp và phòng cháy chữa cháy rừng trên địa bàn tỉnh Quảng Bình",
+      "id": "03/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Lê Minh Ngân"
+      ],
+      "issuedDate": "2019-03-19",
+      "effectiveDate": "2019-03-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3812/QĐ-UBND năm 2018 quy định về mức khoán, hỗ trợ quản lý bảo vệ rừng giai đoạn 2018-2020 thuộc Chương trình mục tiêu phát triển lâm nghiệp bền vững trên địa bàn tỉnh Quảng Ninh",
+      "id": "3812/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Nguyễn Đức Long"
+      ],
+      "issuedDate": "2018-09-25",
+      "effectiveDate": "2018-09-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 767/QĐ-UBND năm 2018 điều chỉnh Quy chế về tổ chức, quản lý và hoạt động của Quỹ Bảo vệ và Phát triển rừng tỉnh Thừa Thiên Huế",
+      "id": "767/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Nguyễn Văn Cao"
+      ],
+      "issuedDate": "2018-04-10",
+      "effectiveDate": "2018-04-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 08/2018/QĐ-UBND về Điều lệ tổ chức và hoạt động của Quỹ Bảo vệ và Phát triển rừng tỉnh Sơn La",
+      "id": "08/2018/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2018-04-04",
+      "effectiveDate": "2018-04-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/05/2019"
+    }
+  ],
+  "id": "5115/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Tài chính nhà nước",
+    "Tài nguyên - Môi trường"
+  ],
+  "organization": "Tỉnh Quảng Ninh",
+  "signers": [
+    "Đặng Huy Hậu"
+  ],
+  "issuedDate": "2018-12-11",
+  "effectiveDate": "2018-12-11",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA0ADEANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH QUẢNG NINH<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số:</span>\n  5115<span lang=\"VI\">/QĐ-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Quảng\n  Ninh, ngày </span>11</i><i><span lang=\"VI\"> tháng </span>12</i><i><span lang=\"VI\"> năm 2018</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">BAN HÀNH QUY CHẾ QUẢN LÝ TÀI CHÍNH CỦA QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH\nQUẢNG NINH</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH QUẢNG NINH</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức chính quyền địa\nphương năm 2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật B</span>ả</i><i><span lang=\"VI\">o vệ và Phát triển rừng ngày 03/12/2004;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 23/2006/NĐ-CP\nngày 03/3/2006 của Chính phủ về thi hành Luật Bảo vệ và Phát triển rừng;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 05/2008/NĐ-CP\nngày 14/01/2008 về Quỹ Bảo vệ và phát triển rừng; Nghị định số 99/2010/NĐ-CP\nngày 24/9/2010 về Chính sách chi trả dịch vụ môi trường rừng; Nghị định số\n147/2016/NĐ-CP ngày 02/11/2016 s</span>ử</i><i><span lang=\"VI\">a đổi, bổ sung một\nsố điều của Nghị định số 99/2010/NĐ-CP ngày 24/9/2010 về chính sách chi trả dịch\nvụ môi trường rừng;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số 85/2012/TT-BTC\nngày 25/5/2012 của Bộ Tài chính hướng dẫn chế độ quản l</span>ý </i><i><span lang=\"VI\">tài chính đối với </span>Quỹ </i><i><span lang=\"VI\">Bảo vệ và Phát triển\nrừng;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số\n22/2017/TT-BNNPTNT ngày 15/11/2017 của Bộ Nông nghiệp và PTNT về việc hướng dẫn\nmột số nội dung thực hiện chính sách chi trả dịch vụ môi trường rừng; Thông tư\nsố 23/2017/TT-BNNPTNT ngày 15/11/2017 của Bộ Nông nghiệp và PTNT Quy định về trồng\nrừng thay thế khi chuy</span>ể</i><i><span lang=\"VI\">n mục đích sử dụng rừng sang\nmục đích khác; Thông tư s</span>ố </i><i><span lang=\"VI\">04/2018/TT- BTC ngày\n17/01/2018 của Bộ Tài chính hướn</span>g</i><i><span lang=\"VI\"> d</span>ẫ</i><i><span lang=\"VI\">n quản lý và s</span>ử </i><i><span lang=\"VI\">dụng tiền dịch vụ môi trường\nrừng;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số 1578/QĐ-UBND\nngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ Bảo vệ và Phát\ntriển rừng tỉnh Quảng Ninh; Quyết định số 3594/QĐ-UBND n</span>g</i><i><span lang=\"VI\">ày 13/9/2018 của UBND tỉnh Quảng Ninh về việc kiện toàn Hội đồng quản\nlý Qu</span>ỹ </i><i><span lang=\"VI\">Bảo vệ và Phát triển rừng tỉnh Quảng Ninh;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét đề nghị của Giám đốc S</span>ở\n</i><i><span lang=\"VI\">Nông nghiệp và Phát triển nông thôn tại Tờ trình số\n4156/TTr-SNN&amp;PTNT ngày 28 tháng 11 năm 2018,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><span lang=\"VI\"> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy chế quản lý\ntài chính của Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><span lang=\"VI\"> <a name=\"dieu_2_name\">Quyết định này có hiệu lực kể từ ngày ký.</a></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a><span lang=\"VI\"> <a name=\"dieu_3_name\">Các ông (bà): Chánh Văn phòng Ủy ban nhân dân tỉnh;\nGiám đốc các Sở: Tài chính, Nông nghiệp và PTNT, Kế hoạch và Đầu tư; Giám đốc\nKho bạc Nhà nước tỉnh; Hội đồng quản lý Quỹ, Giám đốc Quỹ, Ban Kiểm soát, Ban\nĐiều hành Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh và các tổ chức, cá nhân\ncó liên quan chịu trách nhiệm thi hành quyết định này./.</a></span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA0ADEANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Như Điều 3;<br>\n  - TT. Tỉnh ủy, HĐND tỉnh (bc);<br>\n  - Đoàn Đại biểu QH t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh (bc);<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - Cục Thuế t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Đài PT-TH tỉnh, Báo </span><span style=\"font-size:8.0pt\">Q</span><span lang=\"VI\" style=\"font-size:8.0pt\">N, TT Thông tin VP UBND tỉnh;<br>\n  - V0-3, NLN1,3, TM;<br>\n  - Lưu: VT, NLN3 </span><span style=\"font-size:8.0pt\">(10</span><span lang=\"VI\" style=\"font-size:8.0pt\">b</span><span style=\"font-size:8.0pt\">, Q</span><span lang=\"VI\" style=\"font-size:8.0pt\">Đ 02/12).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  </b><b><span lang=\"VI\">KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  </span>Đặng Huy Hậu</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">QUẢN LÝ TÀI CHÍNH CỦA QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH QUẢNG NINH</span></a><br>\n<i><span lang=\"VI\">(Ban hành kèm theo Quyết định số:</span> 5115</i><i><span lang=\"VI\">/</span>QĐ-</i><i><span lang=\"VI\">UBND ngày </span>11</i><i><span lang=\"VI\">/12/2018 của Ủy ban nhân dân tỉnh Quảng Ninh)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"VI\">Chương l</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"VI\">Điều 1. Phạm\nvi, đối tượng áp dụng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Phạm vi áp dụng: Quy chế này quy định\nchế độ quản lý tài chính đối với Qu</span>ỹ <span lang=\"VI\">Bảo vệ và Phát triển\nrừng tỉnh Quảng Ninh (sau đây viết tắt là Qu</span>ỹ <span lang=\"VI\">BVPTR tỉnh).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối tượng áp dụng: Quy chế này áp\ndụng đối với cơ quan nhà nước, tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư\nthôn trong nước tham gia, đóng góp, tài trợ hoặc nhận hỗ trợ từ Quỹ BVPTR; tổ\nchức quốc tế, tổ chức và cá nhân nước ngoài, người Việt Nam định cư ở nước\nngoài tham gia đóng góp, tài trợ cho Qu</span>ỹ<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">Điều 2. Hình thức\ntổ chức</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Theo Điều 2, Điều lệ về tổ chức hoạt\nđộng của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND\nngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ BVPTR tỉnh Quảng\nNinh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"VI\">Điều 3. Nguyên\ntắc hoạt động</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Theo khoản 2, Điều 3, Điều lệ về tổ\nchức hoạt động của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số\n1578/QĐ-UBND ngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Qu</span>ỹ\n<span lang=\"VI\">BVPTR tỉnh Quảng Ninh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">Điều 4. Nhiệm vụ\nvà quyền hạn của Quỹ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Theo Điều 5, Điều lệ về tổ chức hoạt\nđộng của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND\nngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Qu</span>ỹ <span lang=\"VI\">BVPTR tỉnh Quảng Ninh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">Chương II</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUẢN LÝ CÁC NGUỒN\nTÀI CHÍNH QUỸ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">Mục I. QUẢN LÝ TÀI\nCHÍNH QUỸ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">Điều 5. Nguồn tài\nchính của Quỹ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Nguồn tài chính hình thành Quỹ\nBVPTR tỉnh được quy định tại Điều 6, Điều lệ về tổ chức hoạt động của Quỹ BVPTR\ntỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND ngày 24/6/2013 của\nUBND tỉnh Quảng Ninh về việc thành lập Quỹ BVPTR tỉnh Quảng Ninh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nguồn tài chính Quỹ BVPTR tỉnh được\nquy định tại khoản 2, Điều 2, Thông tư 85/2012/TT-BTC ngày 25/5/2012 của Bộ Tài\nchính, hướng dẫn chế độ quản lý tài chính đối với Quỹ BVPTR.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">Điều 6. Cơ chế\ntài chính Quỹ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quỹ thực hiện cơ chế tài chính đối với\nđơn vị sự nghiệp công lập được quy định tại Nghị định số 141/2016/NĐ-CP ngày\n10/10/2016 của Chính phủ quy định cơ ch</span>ế <span lang=\"VI\">tự chủ của đơn vị\nsự nghiệp công lập trong lĩnh vực sự nghiệp kinh tế và sự nghiệp khác và Thông\ntư số 145/2017/TT-BTC ngày 29/12/2017 hướng dẫn cơ chế tài chính của đơn vị sự\nnghiệp công lập theo Nghị định số 141/2016/NĐ-CP. Nguồn tài chính thực hiện c</span>ơ<span lang=\"VI\"> ch</span>ế <span lang=\"VI\">tự chủ là nguồn kinh phí chi hoạt động của Qu</span>ỹ<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">Mục II. CHI TRẢ DỊCH\nVỤ MÔI TRƯỜNG RỪNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"VI\">Điều 7. Xác định\nsố tiền thực thu trong năm</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Số tiền thực thu trong năm bằng số tiền\nbên sử dụng dịch vụ môi trường rừng (sau đây viết tắt là DVMTR) từ ngày 01/01 đến\n31/12 (bao gồm tiền DVMTR phải trả và tiền lãi chậm trả nếu có) cộng với lãi tiền\ngửi phát sinh từ số tiền DVMTR thu được.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b><span lang=\"VI\">Điều 8. Xác định\nkinh phí quản lý</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. S</span>ố<span lang=\"VI\"> kinh phí\nquản lý được trích bằng số tiền thực thu trong năm nhân với mức trích.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Mức trích: Tối đa bằng 10% tổng số\ntiền DVMTR thực thu trong năm. Mức trích do UBND tỉnh phê duyệt trong Quyết định\nphê duyệt kế hoạch thu chi hàng năm của Quỹ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Thời gian trích: Để đảm kinh phí\nchi cho hoạt động của bộ máy Quỹ, kinh phí quản lý được tạm trích từng quý\ntrong năm. Đ</span>ế<span lang=\"VI\">n 31/12, sau khi xác định số tiền thực thu\ntrong năm, tính số chính thức được trích đảm bảo không vượt quá số kinh phí quản\nlý đã được phê duyệt trong kế hoạch thu chi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b><span lang=\"VI\">Điều 9. Kinh phí\ndự phòng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Kinh phí dự phòng bằng số tiền thực\nthu trong năm nhân với mức trích.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Mức trích: Tối đa b</span>ằ<span lang=\"VI\">ng 5% t</span>ổ<span lang=\"VI\">ng s</span>ố <span lang=\"VI\">tiền dịch vụ\nmôi trường rừng thực thu trong năm đ</span>ể <span lang=\"VI\">dự phòng, hỗ trợ cho\nhộ gia đình, cá nhân, cộng đồng dân cư thôn được giao, khoán bảo vệ rừng ổn định\nlâu dài trong trường hợp có thiên tai, khô hạn và mức chi trả tiền dịch vụ môi\ntrường rừng trên cùng một diện tích thấp hơn mức chi trả của năm trước liền kề.\nMức trích do Ủy ban nhân dân tỉnh quyết định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Thời gian trích: Khi phát sinh nhu\ncầu sử dụng trong năm. Đến ngày 31/12 s</span>ố<span lang=\"VI\"> đã trích chưa sử\ndụng hết chuy</span>ể<span lang=\"VI\">n trả cho bên cung ứng DVMTR.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Kinh phí dự phòng được dùng đ</span>ể\n<span lang=\"VI\">hỗ trợ cho hộ gia đình, cá nhân, cộng đồng dân cư được giao,\nkhoán bảo vệ rừng ổn định lâu dài trong trường hợp có thiên tai, khô hạn hoặc mức\nchi trả trên cùng đơn vị diện tích cung ứng DVMTR trên địa bàn tỉnh thấp hơn\nnăm trước liền kề.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b><span lang=\"VI\">Điều 10. Xác định\nsố tiền chi trả cho bên cung ứng DVMTR</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Thẩm quyền xác định: Giám đốc Quỹ\nxác định số tiền chi trả cho b</span>ê<span lang=\"VI\">n cung ứng DVMTR (Khoản 1,\nĐiều 6, Thông tư 80/2011/TT-BNNPTNT ngày 23/11/2011 về việc hướng dẫn phương\npháp xác định tiền chi trả dịch vụ môi trường rừng).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Thời gian xác định: Hàng năm, trên\ncơ sở số tiền thực thu trong năm và diện tích rừng cung ứng DVMTR.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b><span lang=\"VI\">Điều 11. Lập và\nphê duyệt kế hoạch thu, chi</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Hàng năm Quỹ BVPTR tỉnh lập kế hoạch\nthu, chi tiền DVMTR vào </span>Quý <span lang=\"VI\">IV trình </span>Ủ<span lang=\"VI\">y ban nhân dân tỉnh phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nội dung, trình tự lập kế hoạch\nthu chi</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Rà soát, xác định diện tích cung ứng\ndịch vụ môi trường rừng, lập danh sách bên cung ứng dịch vụ môi trường rừng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Tổng hợp k</span>ế <span lang=\"VI\">hoạch\nnộp tiền dịch vụ môi trường rừng của các bên sử dụng dịch vụ môi trường rừng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Thông báo kế hoạch thu, chi cho chủ\nrừng là tổ chức, Ủy ban nhân dân huyện, xã; gửi quyết định của Ủy ban nhân dân\ntỉnh phê duyệt kế hoạch thu, chi cho Quỹ Bảo vệ và Phát triển rừng Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b><span lang=\"VI\">Điều 12. Tạm ứng,\nthanh toán và báo cáo quyết toán</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tạm ứng tiền dịch vụ môi trường rừng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ kế hoạch thu, chi do Ủy ban\nnhân dân tỉnh quyết định, Qu</span>ỹ <span lang=\"VI\">BVPTR tỉnh tạm ứng tiền dịch\nvụ môi trường rừng cho bên cung ứng dịch vụ môi trường rừng hoặc chuyên cho các\nđơn vị, tổ chức được giao hỗ trợ Quỹ BVPTR t</span>ỉ<span lang=\"VI\">nh thực hiện\nnhiệm vụ chi trả tạm ứng cho các chủ rừng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Thanh toán tiền dịch vụ môi trường\nrừng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Căn cứ số tiền thực thu trong năm,\nkết qu</span>ả <span lang=\"VI\">xác định diện tích rừng được chi trả dịch vụ môi\ntrường rừng, Qu</span>ỹ<span lang=\"VI\"> BVPTR tỉnh, đơn vị, tổ chức được giao hỗ\ntrợ chi trả thực hiện thanh toán tiền cho bên cung ứng dịch vụ môi trường rừng\ntrước ngày 30 tháng 4 năm sau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Sau khi hoàn thành việc thanh\ntoán, đơn vị, tổ chức được giao hỗ trợ chi trả lập báo cáo t</span>ổ<span lang=\"VI\">ng h</span>ợ<span lang=\"VI\">p theo Phụ lục số 01</span>, <span lang=\"VI\">02\nban hành kèm theo Thông tư số 04/2018/TT-BTC ngày 17/01/2018, gửi Quỹ BVPTR tỉnh\nkèm theo chứng từ trước ngày 10 tháng 5 năm sau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Căn cứ s</span>ố <span lang=\"VI\">kinh\nphí quản lý được sử dụng, nội dung chi, mức chi được Ủy ban nhân dân tỉnh phê\nduyệt và chứng từ chi hợp pháp, Quỹ BVPTR tỉnh thanh toán tiền chi phí quản lý\ncho các đơn vị, tổ chức được giao hỗ trợ chi trả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Báo cáo quyết toán</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thời gian nộp báo cáo quyết toán</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quỹ Bảo vệ và Phát triển rừng khóa sổ\nkế toán vào ngày 31 tháng 12 hàng năm. Báo cáo quyết toán kinh phí chi trả dịch\nvụ môi trường rừng được lập theo Phụ lục s</span>ố <span lang=\"VI\">03 ban hành\nkèm theo Thông tư số 04/2018/TT-BTC ngày 17/01/2018, nộp về Sở Nông nghiệp và\nPTNT trước ngày 31 tháng 5 năm sau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chủ rừng là tổ chức có thực hiện\nkhoán bảo vệ rừng lập báo c</span>á<span lang=\"VI\">o quyết toán kinh phí chi trả\ndịch vụ môi trường r</span>ừn<span lang=\"VI\">g theo Phụ lục số 04 ban hành kèm\ntheo Thông tư số 04/2018/TT-BTC ngày 17/01/2018, nộp cơ quan quản lý trực tiếp\nvà Qu</span>ỹ <span lang=\"VI\">Bảo vệ và phát triển rừng tỉnh trước ngày 31 tháng\n5 năm sau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ủy ban nhân dân cấp xã và tổ chức\nchính trị - xã hội khóa sổ kế toán, lập và nộp báo cáo theo quy định về quản lý\ntài chính đối với từng loại hình tổ chức.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Thẩm định, xét duyệt quyết toán</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Nông nghiệp và Phát triển nông\nthôn thẩm định, xét duyệt báo cáo quyết toán kinh phí chi trả dịch vụ môi trường\nrừng của Quỹ Bảo vệ và Phát triển rừng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thời gian thẩm định, xét duyệt quyết\ntoán toán kinh phí chi trả dịch vụ môi trường rừng: Thực hiện theo quy định hiện\nhành về chế độ tài chính đối với từng loại hình tổ chức.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">Mục III. TRỒNG RỪNG\nTHAY THẾ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b><span lang=\"VI\">Điều 13. Quản lý\nvà sử dụng tiền trồng rừng thay thế</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tiền trồng rừng thay thế do các chủ\nđầu tư dự án có chuyển đổi mục đích sử dụng rừng sang mục đích khác nộp vào tài\nkhoản tiền gửi của Qu</span>ỹ <span lang=\"VI\">Bảo vệ và Phát triển rừng mở tại\nKho bạc Nhà nước sử dụng đ</span>ể <span lang=\"VI\">trồng rừng đặc dụng, rừng\nphòng hộ theo quy định tại Điều 4, Th</span>ô<span lang=\"VI\">ng tư số\n23/2017/TT-BNNPTNT ngày 15/11/2017.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trồng rừng phòng hộ, đặc dụng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quỹ BVPTR tỉnh tham mưu UBND tỉnh\ngiao nhiệm vụ, phân bổ kinh phí cho UBND các huyện, thị xã, thành phố, Ban quản\nlý rừng hoặc đơn vị, tổ chức có chức năng đ</span>ể <span lang=\"VI\">trồng rừng\nthay thế trên diện tích quy hoạch r</span>ừ<span lang=\"VI\">ng phòng hộ, rừng đặc\ndụng đối với nguồn kinh phí do chủ đầu tư dự án nộp vào Qu</span>ỹ <span lang=\"VI\">BVPTR tỉnh hoặc nguồn kinh phí trồng rừng thay thế tại Quỹ Bảo vệ và\nPhát triển r</span>ừ<span lang=\"VI\">ng Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">UBND các huyện, thị xã, thành phố,\nBan Quản lý rừng hoặc đơn vị, tổ chức được giao nhiệm vụ trồng rừng tiến hành lập,\ntrình phê duyệt thiết kế, dự toán và tổ chức thực hiện trồng rừng thay thế theo\nThông tư số 23/2016/TT- BNNPTNT ngày 30/6/2016 của Bộ Nông nghiệp và Phát triển\nnông thôn hướng dẫn một số nội dung quản lý công trình lâm sinh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b><span lang=\"VI\">Điều 14. Phân bổ\nvốn, thanh toán, quyết toán</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Phân bổ vốn: Qu</span>ỹ <span lang=\"VI\">thực hiện phân b</span>ổ <span lang=\"VI\">vốn theo năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Phân bổ vốn năm đầu: Căn cứ để phân\nbổ vốn bao gồm: Quyết định của UBND tỉnh giao nhiệm vụ cho đơn vị thực hiện trồng\nrừng; Quyết định phê duyệt thiết k</span>ế<span lang=\"VI\">, dự toán của Sở Nông\nnghiệp và PTNT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Phân bổ vốn các năm tiếp theo:\nTheo biên bản nghiệm thu khối lượng công việc hoàn thành được cơ quan có th</span>ẩ<span lang=\"VI\">m qu</span>y<span lang=\"VI\">ền xác nhận.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tạm ứng, thanh toán, quyết toán</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thực hiện tạm ứng, thanh toán qua\nKho bạc Nhà nước theo quy định tại Điều 7, Điều 8, Điều 9 Mục 2 Chương </span>II<span lang=\"VI\">, Thông tư số 08/2016/TT-BTC ngày 18/01/2016 của Bộ Tài chính quy định\nquản lý, thanh toán vốn đầu tư sử dụng nguồn vốn ngân sách nhà nước; Khoản 2,\nKhoản 3 Điều 1 Thông tư số 108/TT- BTC ngày 30/6/2016 của Bộ Tài chính sửa đổi,\nbổ sung một số điều của Thông tư số 08/2016/TT-BTC ngày 18/01/2016; Khoản 3,\nKhoản 4, Khoản 5 Điều 1 Thông tư số 52/2018/TT-BTC ngày 24/5/2018 của Bộ Tài\nchính về việc sửa đổi, bổ sung một số điều của Thông tư số 08/2016/TT-BTC ngày\n18/01/2016 của Bộ Tài chính quy định về quản lý, thanh toán vốn đầu tư sử dụng\nnguồn vốn ngân sách nhà nước, Thông t</span>ư <span lang=\"VI\">số 108/TT-BTC ngày\n30/6/2016 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số\n08/2016/TT-BTC ngày 18/01/2016 của Bộ Tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Quyết toán: Thực hiện theo Thông\ntư số 09/2016/TT-BTC ngày 18/01/2016, quy định về quyết toán dự án hoàn thành\nthuộc nguồn vốn nhà nước, Thông tư số 64/2018/TT-BTC ngày 30/7/2018 sửa đổi, bổ\nsung một số điều Thông tư số 09/2016/TT-BTC ngày 18/01/2016.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b><span lang=\"VI\">Điều 15. Quản\nlý, sử dụng rừng trồng thay thế sau đầu tư</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quản lý, sử dụng rừng trồng thay thế sau\nđầu tư thực hiện theo quy định tại kho</span>ả<span lang=\"VI\">n 2, Điều 5, Thông\ntư số 23/2017/TT-BNNPTNT ngày 15/11/2017.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b><span lang=\"VI\">Chương III</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUẢN LÝ TÀI\nCHÍNH ĐỐI VỚI CÔNG TÁC ĐIỀU HÀNH QUỸ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b><span lang=\"VI\">Điều 16. Nguồn\nkinh phí hoạt động của bộ máy điều hành Quỹ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Kinh phí quản lý được trích tối đa\n10% tổng số tiền dịch vụ môi trường rừng thực thu trong năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phí ủy thác theo hợp đồng ủy thác\nliên quan đ</span>ế<span lang=\"VI\">n bảo vệ và phát triển rừng;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Lãi tiền gửi kinh phí hoạt động bộ\nmáy Quỹ;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Nguồn tài chính hợp pháp khác theo\nquy định của pháp luật;</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b><span lang=\"VI\">Điều 17. Chi hoạt\nđộng bộ máy Quỹ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện theo quy định tại Điều 4,\nkhoản 2, điểm b của Thông tư 85/2012/TT-BTC ngày 25/5/2012 của Bộ Tài chính về\nHướng dẫn chế độ quản lý tài chính đối với Quỹ Bảo vệ và phát triển rừng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Chi hoạt động thường xuyên</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chi quản lý:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi phụ cấp kiêm nhiệm cho thành\nviên Hội đồng quản lý Quỹ, Ban Kiểm soát Quỹ, Bộ máy điều hành Qu</span>ỹ<span lang=\"VI\">;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi về cước phí bưu điện và truyền\ntin;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi xăng dầu, điện, nước;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi công tác phí, hội nghị;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi sửa chữa thường xuyên tài sản cố\nđịnh;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi văn phòng phẩm;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi khác;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chi hoạt động nghiệp vụ:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi thẩm định chương trình, dự án;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi phí dịch vụ thanh toán;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi phí dịch vụ ủy thác;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi thông tin, tuyên truyền, quảng\nbá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi thanh tra, kiểm tra, giám sát,\nnghiệm thu, đánh giá rừng;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi phí kiểm toán;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Chi hoạt động không thường xuyên</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi bồi dưỡng, tập huấn chuyên môn\nnghiệp vụ, hội nghị;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ hoạt động k</span>ỹ <span lang=\"VI\">thuật theo dõi chất lượng dịch vụ môi trường rừng; hỗ trợ các hoạt động\nliên quan đến chi trả dịch vụ môi trường rừng cấp huyện, xã; Chi cho các tổ chức\nđược ủy quyền thu các khoản đóng góp b</span>ắ<span lang=\"VI\">t buộc cho Quỹ;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi mua sắm tài sản dùng cho công\ntác chuyên môn;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi phí học tập kinh nghiệm;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi khen thưởng: Thực hiện theo quy\nđịnh của Nhà nước</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Mức chi phụ cấp kiêm nhiệm đối với\nthành viên Hội đồng quản lý Quỹ, Bộ máy điều hành, Ban kiểm soát Qu</span>ỹ <span lang=\"VI\">do Giám đốc Quỹ căn cứ vào nhiệm vụ được giao của từng thành viên và khả\nnăng tài chính của Qu</span>ỹ<span lang=\"VI\"> đ</span>ể <span lang=\"VI\">xây dựng mức\nchi cho phù hợp, nhưng không quá 30% mức lương, phụ cấp lương của mỗi thành\nviên làm việc kiêm nhiệm, trình Chủ tịch Hội đồng quản lý Quỹ quyết định phê\nduyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Nội dung chi, mức chi hoạt động\nnghiệp vụ, chi quản lý thực hiện theo quy định hiện hành. Trường hợp pháp luật chưa\ncó quy định nội dung chi, mức chi, Giám đ</span>ố<span lang=\"VI\">c Qu</span>ỹ <span lang=\"VI\">Bảo vệ và Phát triển rừng căn cứ khả năng tài chính xây dựng nội dung\nchi, mức chi cho phù hợp trình Chủ tịch Hội đồng Quản lý Qu</span>ỹ <span lang=\"VI\">xem xét quyết định việc chi tiêu và chịu trách nhiệm trước pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Chế độ quản lý chi tiêu nội bộ của\nbộ máy Qu</span>ỹ</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ nguồn kinh phí hoạt động của bộ\nmáy, Quỹ xây dựng quy chế chi tiêu nội bộ trình Chủ tịch Hội đ</span>ồ<span lang=\"VI\">ng quản lý Quỹ phê duyệt ban hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18\"><b><span lang=\"VI\">Điều 18. Lập và\nphê duyệt kế hoạch tài chính của bộ máy Quỹ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ nguồn kinh phí hoạt động của bộ\nmáy Qu</span>ỹ <span lang=\"VI\">tại Điều 16 Quy chế này, Quỹ BVPTR tỉnh lập kế hoạch\ntài chính hoạt động bộ máy Qu</span>ỹ <span lang=\"VI\">vào Quý IV hàng năm, trình\nSở Nông nghiệp và Phát triển nông thôn thẩm định, phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4\"><b><span lang=\"VI\">Chương IV</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CHẾ ĐỘ\nKẾ TOÁN, QUYẾT TOÁN TÀI CHÍNH QUỸ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_19\"><b><span lang=\"VI\">Điều 19. Chế độ\nkế toán</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Quỹ thực hiện chế độ kế toán theo\nquy định pháp luật về kế toán và hướng dẫn của Bộ Tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Bộ phận kế toán Quỹ BVPTR tỉnh phải\nmở sổ kế toán ghi chép, theo dõi, hạch toán kế toán các khoản thu, chi của Quỹ;\nbảo đảm mọi khoản thu, chi của Quỹ phải có chứng từ hợp pháp, hợp lệ; cuối năm\ntổ chức lập báo cáo quyết toán tài chính theo quy định hiện hành của Nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_20\"><b><span lang=\"VI\">Điều 20. Chế độ\nbáo cáo, công khai thông tin, quyết toán</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Năm tài chính của Quỹ bắt đầu từ\nngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Quỹ thực hiện công bố, công khai kết\nquả hoạt động, tài sản, vốn, công nợ của Quỹ hàng năm theo quy định của Nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Kết thúc năm tài chính, Quỹ BVPTR </span>tỉnh\n<span lang=\"VI\">có trách nhiệm lập báo cáo quyết toán gửi Sở Nông nghiệp và Phát\ntriển nông thôn đ</span>ể <span lang=\"VI\">tổ chức thẩm định, xét du</span>y<span lang=\"VI\">ệt báo cáo quyết toán của Quỹ, báo cáo S</span>ở <span lang=\"VI\">tài\nchính xem xét, tổng hợp trình UBND tỉnh phê duyệt theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_21\"><b><span lang=\"VI\">Điều 21. Chế độ\ntrách nhiệm</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hội đồng quản lý</span>, <span lang=\"VI\">Ban kiểm soát, Giám đốc Quỹ chịu trách nhiệm trước pháp luật, trước các\ncơ quan quản lý Nhà nước về quản lý an toàn vốn và tài sản của Quỹ, đảm bảo việc\nsử dụng vốn đúng mục đích, tiết kiệm, có hiệu qu</span>ả <span lang=\"VI\">và chấp\nhành các chế độ quản lý tài chính, kế toán, ki</span>ể<span lang=\"VI\">m toán.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_22\"><b><span lang=\"VI\">Điều 22. Thanh\ntra, kiểm tra</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Giám đốc Quỹ có trách nhiệm tổ chức\nviệc thực hiện thu, chi tài chính của Quỹ theo đúng các quy định pháp luật và\nQuy chế này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Qu</span>ỹ <span lang=\"VI\">chịu sự\nkiểm tra, giám sát hoạt động của Ban Kiểm soát Quỹ; chịu sự kiểm tra tài chính\ncủa S</span>ở <span lang=\"VI\">Nông nghiệp và PTNT, S</span>ở<span lang=\"VI\"> Tài\nchính g</span>ồ<span lang=\"VI\">m: kiểm tra báo cáo kế toán và báo cáo quyết toán\nđịnh kỳ hoặc đột xuất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Quỹ chịu sự thanh tra, kiểm tra\nchuy</span>ê<span lang=\"VI\">n đề theo từng yêu cầu của công tác quản lý tài\nchính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_4_1\"><b><span lang=\"VI\">Chương IV</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_23\"><b><span lang=\"VI\">Điều 23. Điều\nkhoản thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Quỹ có trách nhiệm trước pháp luật\nvề việc sử dụng có hiệu quả, bảo đảm an toàn và phát triển vốn của Nhà nước, vốn\nhuy động của tổ chức, cá nhân khác trong quá trình hoạt động theo mục tiêu hoạt\nđộng của Quỹ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trường hợp các văn b</span>ả<span lang=\"VI\">n quy phạm pháp luật được dẫn chiếu để áp dụng trong Quy chế này được sửa\nđổi, bổ sung hoặc thay thế bằng các văn bản quy phạm pháp luật mới thì các nội\ndung được dẫn chiếu áp dụng theo các văn bản quy phạm pháp luật mới đó.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trong quá trình thực hiện phát\nsinh vướng mắc, Quỹ có trách nhiệm phản ánh, báo cáo Hội đồng Quản lý Quỹ để kịp\nthời giải quyết hoặc trình UBND tỉnh quyết định sửa đổi, bổ sung qu</span>y <span lang=\"VI\">chế này cho phù hợp./.</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH QUẢNG NINH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 5115/QĐ-UBND\n\n_Quảng Ninh, ngày 11_ _tháng 12_ _năm 2018_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ QUẢN LÝ TÀI CHÍNH CỦA QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH QUẢNG NINH\n\n**ỦY BAN NHÂN DÂN TỈNH QUẢNG NINH**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương năm 2015;_\n\n_Căn cứ Luật Bả__o vệ và Phát triển rừng ngày 03/12/2004;_\n\n_Căn cứ Nghị định số 23/2006/NĐ-CP ngày 03/3/2006 của Chính phủ về thi hành Luật Bảo vệ và Phát triển rừng;_\n\n_Căn cứ Nghị định số 05/2008/NĐ-CP ngày 14/01/2008 về Quỹ Bảo vệ và phát triển rừng; Nghị định số 99/2010/NĐ-CP ngày 24/9/2010 về Chính sách chi trả dịch vụ môi trường rừng; Nghị định số 147/2016/NĐ-CP ngày 02/11/2016 sử__a đổi, bổ sung một số điều của Nghị định số 99/2010/NĐ-CP ngày 24/9/2010 về chính sách chi trả dịch vụ môi trường rừng;_\n\n_Căn cứ Thông tư số 85/2012/TT-BTC ngày 25/5/2012 của Bộ Tài chính hướng dẫn chế độ quản lý_ _tài chính đối với Quỹ_ _Bảo vệ và Phát triển rừng;_\n\n_Căn cứ Thông tư số 22/2017/TT-BNNPTNT ngày 15/11/2017 của Bộ Nông nghiệp và PTNT về việc hướng dẫn một số nội dung thực hiện chính sách chi trả dịch vụ môi trường rừng; Thông tư số 23/2017/TT-BNNPTNT ngày 15/11/2017 của Bộ Nông nghiệp và PTNT Quy định về trồng rừng thay thế khi chuyể__n mục đích sử dụng rừng sang mục đích khác; Thông tư số_ _04/2018/TT- BTC ngày 17/01/2018 của Bộ Tài chính hướng_ _dẫ__n quản lý và sử_ _dụng tiền dịch vụ môi trường rừng;_\n\n_Căn cứ Quyết định số 1578/QĐ-UBND ngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh; Quyết định số 3594/QĐ-UBND ng__ày 13/9/2018 của UBND tỉnh Quảng Ninh về việc kiện toàn Hội đồng quản lý Quỹ_ _Bảo vệ và Phát triển rừng tỉnh Quảng Ninh;_\n\n_Xét đề nghị của Giám đốc Sở_ _Nông nghiệp và Phát triển nông thôn tại Tờ trình số 4156/TTr-SNN&PTNT ngày 28 tháng 11 năm 2018,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế quản lý tài chính của Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh.\n\n**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký.\n\n**Điều 3.** Các ông (bà): Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc các Sở: Tài chính, Nông nghiệp và PTNT, Kế hoạch và Đầu tư; Giám đốc Kho bạc Nhà nước tỉnh; Hội đồng quản lý Quỹ, Giám đốc Quỹ, Ban Kiểm soát, Ban Điều hành Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Như Điều 3;  \n\\- TT. Tỉnh ủy, HĐND tỉnh (bc);  \n\\- Đoàn Đại biểu QH tỉnh (bc);  \n\\- CT, các PCT UBND tỉnh;  \n\\- Cục Thuế tỉnh;  \n\\- Đài PT-TH tỉnh, Báo QN, TT Thông tin VP UBND tỉnh;  \n\\- V0-3, NLN1,3, TM;  \n\\- Lưu: VT, NLN3 (10b, QĐ 02/12).\n\n**TM. ỦY BAN NHÂN DÂN  \n****KT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nĐặng Huy Hậu**\n\n**QUY CHẾ**\n\nQUẢN LÝ TÀI CHÍNH CỦA QUỸ BẢO VỆ VÀ PHÁT TRIỂN RỪNG TỈNH QUẢNG NINH  \n_(Ban hành kèm theo Quyết định số: 5115__/QĐ-__UBND ngày 11__/12/2018 của Ủy ban nhân dân tỉnh Quảng Ninh)_\n\n**Chương l**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi, đối tượng áp dụng**\n\n1\\. Phạm vi áp dụng: Quy chế này quy định chế độ quản lý tài chính đối với Quỹ Bảo vệ và Phát triển rừng tỉnh Quảng Ninh (sau đây viết tắt là Quỹ BVPTR tỉnh).\n\n2\\. Đối tượng áp dụng: Quy chế này áp dụng đối với cơ quan nhà nước, tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư thôn trong nước tham gia, đóng góp, tài trợ hoặc nhận hỗ trợ từ Quỹ BVPTR; tổ chức quốc tế, tổ chức và cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài tham gia đóng góp, tài trợ cho Quỹ.\n\n**Điều 2. Hình thức tổ chức**\n\nTheo Điều 2, Điều lệ về tổ chức hoạt động của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND ngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ BVPTR tỉnh Quảng Ninh.\n\n**Điều 3. Nguyên tắc hoạt động**\n\nTheo khoản 2, Điều 3, Điều lệ về tổ chức hoạt động của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND ngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ BVPTR tỉnh Quảng Ninh.\n\n**Điều 4. Nhiệm vụ và quyền hạn của Quỹ**\n\nTheo Điều 5, Điều lệ về tổ chức hoạt động của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND ngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ BVPTR tỉnh Quảng Ninh.\n\n**Chương II**\n\n**QUẢN LÝ CÁC NGUỒN TÀI CHÍNH QUỸ**\n\n**Mục I. QUẢN LÝ TÀI CHÍNH QUỸ**\n\n**Điều 5. Nguồn tài chính của Quỹ**\n\n1\\. Nguồn tài chính hình thành Quỹ BVPTR tỉnh được quy định tại Điều 6, Điều lệ về tổ chức hoạt động của Quỹ BVPTR tỉnh Quảng Ninh ban hành kèm theo Quyết định số 1578/QĐ-UBND ngày 24/6/2013 của UBND tỉnh Quảng Ninh về việc thành lập Quỹ BVPTR tỉnh Quảng Ninh.\n\n2\\. Nguồn tài chính Quỹ BVPTR tỉnh được quy định tại khoản 2, Điều 2, Thông tư 85/2012/TT-BTC ngày 25/5/2012 của Bộ Tài chính, hướng dẫn chế độ quản lý tài chính đối với Quỹ BVPTR.\n\n**Điều 6. Cơ chế tài chính Quỹ**\n\nQuỹ thực hiện cơ chế tài chính đối với đơn vị sự nghiệp công lập được quy định tại Nghị định số 141/2016/NĐ-CP ngày 10/10/2016 của Chính phủ quy định cơ chế tự chủ của đơn vị sự nghiệp công lập trong lĩnh vực sự nghiệp kinh tế và sự nghiệp khác và Thông tư số 145/2017/TT-BTC ngày 29/12/2017 hướng dẫn cơ chế tài chính của đơn vị sự nghiệp công lập theo Nghị định số 141/2016/NĐ-CP. Nguồn tài chính thực hiện cơ chế tự chủ là nguồn kinh phí chi hoạt động của Quỹ.\n\n**Mục II. CHI TRẢ DỊCH VỤ MÔI TRƯỜNG RỪNG**\n\n**Điều 7. Xác định số tiền thực thu trong năm**\n\nSố tiền thực thu trong năm bằng số tiền bên sử dụng dịch vụ môi trường rừng (sau đây viết tắt là DVMTR) từ ngày 01/01 đến 31/12 (bao gồm tiền DVMTR phải trả và tiền lãi chậm trả nếu có) cộng với lãi tiền gửi phát sinh từ số tiền DVMTR thu được.\n\n**Điều 8. Xác định kinh phí quản lý**\n\n1\\. Số kinh phí quản lý được trích bằng số tiền thực thu trong năm nhân với mức trích.\n\n2\\. Mức trích: Tối đa bằng 10% tổng số tiền DVMTR thực thu trong năm. Mức trích do UBND tỉnh phê duyệt trong Quyết định phê duyệt kế hoạch thu chi hàng năm của Quỹ.\n\n3\\. Thời gian trích: Để đảm kinh phí chi cho hoạt động của bộ máy Quỹ, kinh phí quản lý được tạm trích từng quý trong năm. Đến 31/12, sau khi xác định số tiền thực thu trong năm, tính số chính thức được trích đảm bảo không vượt quá số kinh phí quản lý đã được phê duyệt trong kế hoạch thu chi.\n\n**Điều 9. Kinh phí dự phòng**\n\n1\\. Kinh phí dự phòng bằng số tiền thực thu trong năm nhân với mức trích.\n\n2\\. Mức trích: Tối đa bằng 5% tổng số tiền dịch vụ môi trường rừng thực thu trong năm để dự phòng, hỗ trợ cho hộ gia đình, cá nhân, cộng đồng dân cư thôn được giao, khoán bảo vệ rừng ổn định lâu dài trong trường hợp có thiên tai, khô hạn và mức chi trả tiền dịch vụ môi trường rừng trên cùng một diện tích thấp hơn mức chi trả của năm trước liền kề. Mức trích do Ủy ban nhân dân tỉnh quyết định.\n\n3\\. Thời gian trích: Khi phát sinh nhu cầu sử dụng trong năm. Đến ngày 31/12 số đã trích chưa sử dụng hết chuyển trả cho bên cung ứng DVMTR.\n\n4\\. Kinh phí dự phòng được dùng để hỗ trợ cho hộ gia đình, cá nhân, cộng đồng dân cư được giao, khoán bảo vệ rừng ổn định lâu dài trong trường hợp có thiên tai, khô hạn hoặc mức chi trả trên cùng đơn vị diện tích cung ứng DVMTR trên địa bàn tỉnh thấp hơn năm trước liền kề.\n\n**Điều 10. Xác định số tiền chi trả cho bên cung ứng DVMTR**\n\n1\\. Thẩm quyền xác định: Giám đốc Quỹ xác định số tiền chi trả cho bên cung ứng DVMTR (Khoản 1, Điều 6, Thông tư 80/2011/TT-BNNPTNT ngày 23/11/2011 về việc hướng dẫn phương pháp xác định tiền chi trả dịch vụ môi trường rừng).\n\n2\\. Thời gian xác định: Hàng năm, trên cơ sở số tiền thực thu trong năm và diện tích rừng cung ứng DVMTR.\n\n**Điều 11. Lập và phê duyệt kế hoạch thu, chi**\n\n1\\. Hàng năm Quỹ BVPTR tỉnh lập kế hoạch thu, chi tiền DVMTR vào Quý IV trình Ủy ban nhân dân tỉnh phê duyệt.\n\n2\\. Nội dung, trình tự lập kế hoạch thu chi\n\na) Rà soát, xác định diện tích cung ứng dịch vụ môi trường rừng, lập danh sách bên cung ứng dịch vụ môi trường rừng.\n\nb) Tổng hợp kế hoạch nộp tiền dịch vụ môi trường rừng của các bên sử dụng dịch vụ môi trường rừng.\n\nc) Thông báo kế hoạch thu, chi cho chủ rừng là tổ chức, Ủy ban nhân dân huyện, xã; gửi quyết định của Ủy ban nhân dân tỉnh phê duyệt kế hoạch thu, chi cho Quỹ Bảo vệ và Phát triển rừng Việt Nam.\n\n**Điều 12. Tạm ứng, thanh toán và báo cáo quyết toán**\n\n1\\. Tạm ứng tiền dịch vụ môi trường rừng\n\nCăn cứ kế hoạch thu, chi do Ủy ban nhân dân tỉnh quyết định, Quỹ BVPTR tỉnh tạm ứng tiền dịch vụ môi trường rừng cho bên cung ứng dịch vụ môi trường rừng hoặc chuyên cho các đơn vị, tổ chức được giao hỗ trợ Quỹ BVPTR tỉnh thực hiện nhiệm vụ chi trả tạm ứng cho các chủ rừng.\n\n2\\. Thanh toán tiền dịch vụ môi trường rừng\n\na) Căn cứ số tiền thực thu trong năm, kết quả xác định diện tích rừng được chi trả dịch vụ môi trường rừng, Quỹ BVPTR tỉnh, đơn vị, tổ chức được giao hỗ trợ chi trả thực hiện thanh toán tiền cho bên cung ứng dịch vụ môi trường rừng trước ngày 30 tháng 4 năm sau.\n\nb) Sau khi hoàn thành việc thanh toán, đơn vị, tổ chức được giao hỗ trợ chi trả lập báo cáo tổng hợp theo Phụ lục số 01, 02 ban hành kèm theo Thông tư số 04/2018/TT-BTC ngày 17/01/2018, gửi Quỹ BVPTR tỉnh kèm theo chứng từ trước ngày 10 tháng 5 năm sau.\n\nc) Căn cứ số kinh phí quản lý được sử dụng, nội dung chi, mức chi được Ủy ban nhân dân tỉnh phê duyệt và chứng từ chi hợp pháp, Quỹ BVPTR tỉnh thanh toán tiền chi phí quản lý cho các đơn vị, tổ chức được giao hỗ trợ chi trả.\n\n3\\. Báo cáo quyết toán\n\na) Thời gian nộp báo cáo quyết toán\n\nQuỹ Bảo vệ và Phát triển rừng khóa sổ kế toán vào ngày 31 tháng 12 hàng năm. Báo cáo quyết toán kinh phí chi trả dịch vụ môi trường rừng được lập theo Phụ lục số 03 ban hành kèm theo Thông tư số 04/2018/TT-BTC ngày 17/01/2018, nộp về Sở Nông nghiệp và PTNT trước ngày 31 tháng 5 năm sau.\n\nChủ rừng là tổ chức có thực hiện khoán bảo vệ rừng lập báo cáo quyết toán kinh phí chi trả dịch vụ môi trường rừng theo Phụ lục số 04 ban hành kèm theo Thông tư số 04/2018/TT-BTC ngày 17/01/2018, nộp cơ quan quản lý trực tiếp và Quỹ Bảo vệ và phát triển rừng tỉnh trước ngày 31 tháng 5 năm sau.\n\nỦy ban nhân dân cấp xã và tổ chức chính trị - xã hội khóa sổ kế toán, lập và nộp báo cáo theo quy định về quản lý tài chính đối với từng loại hình tổ chức.\n\nb) Thẩm định, xét duyệt quyết toán\n\nSở Nông nghiệp và Phát triển nông thôn thẩm định, xét duyệt báo cáo quyết toán kinh phí chi trả dịch vụ môi trường rừng của Quỹ Bảo vệ và Phát triển rừng.\n\nThời gian thẩm định, xét duyệt quyết toán toán kinh phí chi trả dịch vụ môi trường rừng: Thực hiện theo quy định hiện hành về chế độ tài chính đối với từng loại hình tổ chức.\n\n**Mục III. TRỒNG RỪNG THAY THẾ**\n\n**Điều 13. Quản lý và sử dụng tiền trồng rừng thay thế**\n\n1\\. Tiền trồng rừng thay thế do các chủ đầu tư dự án có chuyển đổi mục đích sử dụng rừng sang mục đích khác nộp vào tài khoản tiền gửi của Quỹ Bảo vệ và Phát triển rừng mở tại Kho bạc Nhà nước sử dụng để trồng rừng đặc dụng, rừng phòng hộ theo quy định tại Điều 4, Thông tư số 23/2017/TT-BNNPTNT ngày 15/11/2017.\n\n2\\. Trồng rừng phòng hộ, đặc dụng\n\nQuỹ BVPTR tỉnh tham mưu UBND tỉnh giao nhiệm vụ, phân bổ kinh phí cho UBND các huyện, thị xã, thành phố, Ban quản lý rừng hoặc đơn vị, tổ chức có chức năng để trồng rừng thay thế trên diện tích quy hoạch rừng phòng hộ, rừng đặc dụng đối với nguồn kinh phí do chủ đầu tư dự án nộp vào Quỹ BVPTR tỉnh hoặc nguồn kinh phí trồng rừng thay thế tại Quỹ Bảo vệ và Phát triển rừng Việt Nam.\n\nUBND các huyện, thị xã, thành phố, Ban Quản lý rừng hoặc đơn vị, tổ chức được giao nhiệm vụ trồng rừng tiến hành lập, trình phê duyệt thiết kế, dự toán và tổ chức thực hiện trồng rừng thay thế theo Thông tư số 23/2016/TT- BNNPTNT ngày 30/6/2016 của Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn một số nội dung quản lý công trình lâm sinh.\n\n**Điều 14. Phân bổ vốn, thanh toán, quyết toán**\n\n1\\. Phân bổ vốn: Quỹ thực hiện phân bổ vốn theo năm.\n\na) Phân bổ vốn năm đầu: Căn cứ để phân bổ vốn bao gồm: Quyết định của UBND tỉnh giao nhiệm vụ cho đơn vị thực hiện trồng rừng; Quyết định phê duyệt thiết kế, dự toán của Sở Nông nghiệp và PTNT.\n\nb) Phân bổ vốn các năm tiếp theo: Theo biên bản nghiệm thu khối lượng công việc hoàn thành được cơ quan có thẩm quyền xác nhận.\n\n2\\. Tạm ứng, thanh toán, quyết toán\n\na) Thực hiện tạm ứng, thanh toán qua Kho bạc Nhà nước theo quy định tại Điều 7, Điều 8, Điều 9 Mục 2 Chương II, Thông tư số 08/2016/TT-BTC ngày 18/01/2016 của Bộ Tài chính quy định quản lý, thanh toán vốn đầu tư sử dụng nguồn vốn ngân sách nhà nước; Khoản 2, Khoản 3 Điều 1 Thông tư số 108/TT- BTC ngày 30/6/2016 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 08/2016/TT-BTC ngày 18/01/2016; Khoản 3, Khoản 4, Khoản 5 Điều 1 Thông tư số 52/2018/TT-BTC ngày 24/5/2018 của Bộ Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư số 08/2016/TT-BTC ngày 18/01/2016 của Bộ Tài chính quy định về quản lý, thanh toán vốn đầu tư sử dụng nguồn vốn ngân sách nhà nước, Thông tư số 108/TT-BTC ngày 30/6/2016 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 08/2016/TT-BTC ngày 18/01/2016 của Bộ Tài chính.\n\nb) Quyết toán: Thực hiện theo Thông tư số 09/2016/TT-BTC ngày 18/01/2016, quy định về quyết toán dự án hoàn thành thuộc nguồn vốn nhà nước, Thông tư số 64/2018/TT-BTC ngày 30/7/2018 sửa đổi, bổ sung một số điều Thông tư số 09/2016/TT-BTC ngày 18/01/2016.\n\n**Điều 15. Quản lý, sử dụng rừng trồng thay thế sau đầu tư**\n\nQuản lý, sử dụng rừng trồng thay thế sau đầu tư thực hiện theo quy định tại khoản 2, Điều 5, Thông tư số 23/2017/TT-BNNPTNT ngày 15/11/2017.\n\n**Chương III**\n\n**QUẢN LÝ TÀI CHÍNH ĐỐI VỚI CÔNG TÁC ĐIỀU HÀNH QUỸ**\n\n**Điều 16. Nguồn kinh phí hoạt động của bộ máy điều hành Quỹ**\n\n1\\. Kinh phí quản lý được trích tối đa 10% tổng số tiền dịch vụ môi trường rừng thực thu trong năm.\n\n2\\. Phí ủy thác theo hợp đồng ủy thác liên quan đến bảo vệ và phát triển rừng;\n\n3\\. Lãi tiền gửi kinh phí hoạt động bộ máy Quỹ;\n\n4\\. Nguồn tài chính hợp pháp khác theo quy định của pháp luật;\n\n**Điều 17. Chi hoạt động bộ máy Quỹ**\n\nThực hiện theo quy định tại Điều 4, khoản 2, điểm b của Thông tư 85/2012/TT-BTC ngày 25/5/2012 của Bộ Tài chính về Hướng dẫn chế độ quản lý tài chính đối với Quỹ Bảo vệ và phát triển rừng.\n\n1\\. Chi hoạt động thường xuyên\n\na) Chi quản lý:\n\n\\- Chi phụ cấp kiêm nhiệm cho thành viên Hội đồng quản lý Quỹ, Ban Kiểm soát Quỹ, Bộ máy điều hành Quỹ;\n\n\\- Chi về cước phí bưu điện và truyền tin;\n\n\\- Chi xăng dầu, điện, nước;\n\n\\- Chi công tác phí, hội nghị;\n\n\\- Chi sửa chữa thường xuyên tài sản cố định;\n\n\\- Chi văn phòng phẩm;\n\n\\- Chi khác;\n\nb) Chi hoạt động nghiệp vụ:\n\n\\- Chi thẩm định chương trình, dự án;\n\n\\- Chi phí dịch vụ thanh toán;\n\n\\- Chi phí dịch vụ ủy thác;\n\n\\- Chi thông tin, tuyên truyền, quảng bá;\n\n\\- Chi thanh tra, kiểm tra, giám sát, nghiệm thu, đánh giá rừng;\n\n\\- Chi phí kiểm toán;\n\n2\\. Chi hoạt động không thường xuyên\n\n\\- Chi bồi dưỡng, tập huấn chuyên môn nghiệp vụ, hội nghị;\n\n\\- Hỗ trợ hoạt động kỹ thuật theo dõi chất lượng dịch vụ môi trường rừng; hỗ trợ các hoạt động liên quan đến chi trả dịch vụ môi trường rừng cấp huyện, xã; Chi cho các tổ chức được ủy quyền thu các khoản đóng góp bắt buộc cho Quỹ;\n\n\\- Chi mua sắm tài sản dùng cho công tác chuyên môn;\n\n\\- Chi phí học tập kinh nghiệm;\n\n\\- Chi khen thưởng: Thực hiện theo quy định của Nhà nước\n\n3\\. Mức chi phụ cấp kiêm nhiệm đối với thành viên Hội đồng quản lý Quỹ, Bộ máy điều hành, Ban kiểm soát Quỹ do Giám đốc Quỹ căn cứ vào nhiệm vụ được giao của từng thành viên và khả năng tài chính của Quỹ để xây dựng mức chi cho phù hợp, nhưng không quá 30% mức lương, phụ cấp lương của mỗi thành viên làm việc kiêm nhiệm, trình Chủ tịch Hội đồng quản lý Quỹ quyết định phê duyệt.\n\n4\\. Nội dung chi, mức chi hoạt động nghiệp vụ, chi quản lý thực hiện theo quy định hiện hành. Trường hợp pháp luật chưa có quy định nội dung chi, mức chi, Giám đốc Quỹ Bảo vệ và Phát triển rừng căn cứ khả năng tài chính xây dựng nội dung chi, mức chi cho phù hợp trình Chủ tịch Hội đồng Quản lý Quỹ xem xét quyết định việc chi tiêu và chịu trách nhiệm trước pháp luật.\n\n5\\. Chế độ quản lý chi tiêu nội bộ của bộ máy Quỹ\n\nCăn cứ nguồn kinh phí hoạt động của bộ máy, Quỹ xây dựng quy chế chi tiêu nội bộ trình Chủ tịch Hội đồng quản lý Quỹ phê duyệt ban hành.\n\n**Điều 18. Lập và phê duyệt kế hoạch tài chính của bộ máy Quỹ**\n\nCăn cứ nguồn kinh phí hoạt động của bộ máy Quỹ tại Điều 16 Quy chế này, Quỹ BVPTR tỉnh lập kế hoạch tài chính hoạt động bộ máy Quỹ vào Quý IV hàng năm, trình Sở Nông nghiệp và Phát triển nông thôn thẩm định, phê duyệt.\n\n**Chương IV**\n\n**QUY ĐỊNH CHẾ ĐỘ KẾ TOÁN, QUYẾT TOÁN TÀI CHÍNH QUỸ**\n\n**Điều 19. Chế độ kế toán**\n\n1\\. Quỹ thực hiện chế độ kế toán theo quy định pháp luật về kế toán và hướng dẫn của Bộ Tài chính.\n\n2\\. Bộ phận kế toán Quỹ BVPTR tỉnh phải mở sổ kế toán ghi chép, theo dõi, hạch toán kế toán các khoản thu, chi của Quỹ; bảo đảm mọi khoản thu, chi của Quỹ phải có chứng từ hợp pháp, hợp lệ; cuối năm tổ chức lập báo cáo quyết toán tài chính theo quy định hiện hành của Nhà nước.\n\n**Điều 20. Chế độ báo cáo, công khai thông tin, quyết toán**\n\n1\\. Năm tài chính của Quỹ bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch.\n\n2\\. Quỹ thực hiện công bố, công khai kết quả hoạt động, tài sản, vốn, công nợ của Quỹ hàng năm theo quy định của Nhà nước.\n\n3\\. Kết thúc năm tài chính, Quỹ BVPTR tỉnh có trách nhiệm lập báo cáo quyết toán gửi Sở Nông nghiệp và Phát triển nông thôn để tổ chức thẩm định, xét duyệt báo cáo quyết toán của Quỹ, báo cáo Sở tài chính xem xét, tổng hợp trình UBND tỉnh phê duyệt theo quy định.\n\n**Điều 21. Chế độ trách nhiệm**\n\nHội đồng quản lý, Ban kiểm soát, Giám đốc Quỹ chịu trách nhiệm trước pháp luật, trước các cơ quan quản lý Nhà nước về quản lý an toàn vốn và tài sản của Quỹ, đảm bảo việc sử dụng vốn đúng mục đích, tiết kiệm, có hiệu quả và chấp hành các chế độ quản lý tài chính, kế toán, kiểm toán.\n\n**Điều 22. Thanh tra, kiểm tra**\n\n1\\. Giám đốc Quỹ có trách nhiệm tổ chức việc thực hiện thu, chi tài chính của Quỹ theo đúng các quy định pháp luật và Quy chế này.\n\n2\\. Quỹ chịu sự kiểm tra, giám sát hoạt động của Ban Kiểm soát Quỹ; chịu sự kiểm tra tài chính của Sở Nông nghiệp và PTNT, Sở Tài chính gồm: kiểm tra báo cáo kế toán và báo cáo quyết toán định kỳ hoặc đột xuất.\n\n3\\. Quỹ chịu sự thanh tra, kiểm tra chuyên đề theo từng yêu cầu của công tác quản lý tài chính.\n\n**Chương IV**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 23. Điều khoản thi hành**\n\n1\\. Quỹ có trách nhiệm trước pháp luật về việc sử dụng có hiệu quả, bảo đảm an toàn và phát triển vốn của Nhà nước, vốn huy động của tổ chức, cá nhân khác trong quá trình hoạt động theo mục tiêu hoạt động của Quỹ.\n\n2\\. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu để áp dụng trong Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản quy phạm pháp luật mới thì các nội dung được dẫn chiếu áp dụng theo các văn bản quy phạm pháp luật mới đó.\n\n3\\. Trong quá trình thực hiện phát sinh vướng mắc, Quỹ có trách nhiệm phản ánh, báo cáo Hội đồng Quản lý Quỹ để kịp thời giải quyết hoặc trình UBND tỉnh quyết định sửa đổi, bổ sung quy chế này cho phù hợp./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
