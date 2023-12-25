@@ -61,27 +61,22 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-store-
 
+      - name: Cache .cookies.json
+        uses: actions/cache@v3
+        with:
+          path: /home/runner/work/sifu/sifu/.cookies.json
+          key: ${{ runner.os }}-cookies-${{ hashFiles('**/.cookies.json') }}
+          restore-keys: |
+            ${{ runner.os }}-cookies-
+
       - name: Install dependencies
         run: pnpm install
-
-      - name: Download .cookies.json
-        uses: actions/download-artifact@v3
-        continue-on-error: true
-        with:
-          name: tvpl-cookies
 
       - name: Run
         run: |
           echo CRAWLEE_PURGE_ON_START=${{ env.CRAWLEE_PURGE_ON_START }}
           CRAWLEE_PURGE_ON_START=${{ env.CRAWLEE_PURGE_ON_START }} pnpm start:ci
         continue-on-error: true
-
-      - name: Upload .cookies.json
-        uses: actions/upload-artifact@v3
-        with:
-          name: tvpl-cookies
-          path: .cookies.json
-          retention-days: 30
 
       - name: Should amend if the last commit message is the same
         id: should-amend
