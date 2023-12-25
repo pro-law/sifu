@@ -23,9 +23,7 @@ async function verifySignedIn({ page, log }: { page: Page; log: Log }) {
     return
   }
 
-  log.info('Signing in...')
-
-  await sleep(1000)
+  await sleep(100)
 
   await signIn({ page, log })
 
@@ -41,13 +39,13 @@ async function checkIsSignedIn({ page, log }: { page: Page; log: Log }) {
     )
   }, config)
 
-  log.info(`Is signed in: ${isSignedIn}`)
+  log.debug(`Is signed in: ${isSignedIn}`)
 
   return isSignedIn
 }
 
 async function signIn({ page, log }: { page: Page; log: Log }) {
-  log.info('Signing in...')
+  log.debug('Signing in...')
 
   // If there is a warning '#logoutfrom', close it
   const logoutForm = await page.$('#logoutfrom', { strict: true })
@@ -63,7 +61,7 @@ async function signIn({ page, log }: { page: Page; log: Log }) {
   }
 
   if (await page.$('#TB_closeWindowButton')) {
-    log.info('Closing popup...')
+    log.debug('Closing popup...')
     try {
       await page.click('#TB_closeWindowButton', { force: true, timeout: 3000 })
     } catch {}
@@ -95,7 +93,7 @@ async function saveCookies({ page, log }: { page: Page; log: Log }) {
 
   await writeFile(COOKIES_FILE_PATH, JSON.stringify(cookies, null, 2), 'utf8')
 
-  log.info(`Cookies saved to ${COOKIES_FILE_PATH}`)
+  log.debug(`Cookies saved to ${COOKIES_FILE_PATH}`)
 }
 
 async function loadCookies({ page, log }: { page: Page; log: Log }) {
@@ -104,8 +102,10 @@ async function loadCookies({ page, log }: { page: Page; log: Log }) {
 
     await page.context().addCookies(cookies)
 
-    log.info(`Cookies loaded from ${COOKIES_FILE_PATH}`)
-  } catch {}
+    log.debug(`Cookies loaded from ${COOKIES_FILE_PATH}`)
+  } catch (err) {
+    log.exception(err as any, `Failed to load cookies from ${COOKIES_FILE_PATH}`)
+  }
 }
 
 async function clearCookies({ page, log }: { page: Page; log: Log }) {
@@ -113,7 +113,7 @@ async function clearCookies({ page, log }: { page: Page; log: Log }) {
 
   await writeFile(COOKIES_FILE_PATH, '', 'utf8')
 
-  log.info(`Cookies cleared`)
+  log.info(`Cookies cleared from ${COOKIES_FILE_PATH}`)
 }
 
 export { verifySignedIn, clearCookies }

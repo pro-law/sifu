@@ -17,21 +17,14 @@ tvplRouter.addDefaultHandler(async ({ enqueueLinks, log }) => {
   await enqueueLinks({
     // urls: ['https://thuvienphapluat.vn/page/tim-van-ban.aspx'],
     urls: [
-      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=Hi%E1%BA%BFn%20ph%C3%A1p', // Hien phap
+      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=Hi%E1%BA%BFn%20ph%C3%A1p', // Hien phap
       'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=luat', // Luat
-      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh', // Nghi dinh
-      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=th%C3%B4ng%20t%C6%B0', // Thong tu
-      // https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=nghi%20quyet',
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh', // Nghi dinh
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=th%C3%B4ng%20t%C6%B0', // Thong tu
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=nghi%20quyet', // Nghi quyet
     ],
     label: 'list',
   })
-  // await enqueueLinks({
-  //   urls: [
-  //     // 'https://thuvienphapluat.vn/en/van-ban/Doanh-nghiep/Luat-Dau-tu-so-61-2020-QH14-321051.aspx',
-  //     'https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Hien-phap-nam-2013-215627.aspx',
-  //   ],
-  //   label: 'detail',
-  // })
 })
 
 tvplRouter.addHandler('list', async ({ request, enqueueLinks, log }) => {
