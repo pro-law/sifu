@@ -7,5 +7,6 @@ dist
 node_modules
 apify_storage
 crawlee_storage
+ci-storage/key_value_stores/defaultSDK_SESSION_POOL_STATE.json
 storage
 .cookies.json
