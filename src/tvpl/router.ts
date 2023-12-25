@@ -205,14 +205,9 @@ tvplRouter.addHandler(
         state: 'attached',
       })
       await page.click('#ctl00_Content_ctl00_divNoiDung', { force: true })
-    } catch(error) {
+    } catch (error) {
       log.warning(`Cannot click tab "Nội dung". Trying to refresh page...`)
       await page.reload()
-      await page.waitForSelector('#ctl00_Content_ctl00_divNoiDung', {
-        timeout: 10000,
-        state: 'attached',
-      })
-      await page.click('#ctl00_Content_ctl00_divNoiDung', { force: true })
     }
 
     await page.waitForSelector('#divContentDoc', {
@@ -280,9 +275,9 @@ tvplRouter.addHandler(
     await saveDocument(doc)
 
     log.info(
-      `✅ [#${request.retryCount}][${numeral(Date.now() - start).format(
-        '00:00',
-      )}] ${title}`,
+      `✅ [#${request.retryCount}][${numeral(
+        (Date.now() - start) / 1000,
+      ).format('00:00')}] ${title}`,
     )
   },
 )
