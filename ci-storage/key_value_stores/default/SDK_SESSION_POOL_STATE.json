@@ -1,0 +1,3008 @@
+{
+  "usableSessionsCount": 22,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_yibf5zzl3B",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "2wzl4uvlg40xg5ivkbfqpk5r",
+            "expires": "2023-12-25T07:49:11.569Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.569Z",
+            "lastAccessed": "2023-12-25T06:59:11.569Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:06.041Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.569Z",
+            "lastAccessed": "2023-12-25T06:59:11.569Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:07.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.570Z",
+            "lastAccessed": "2023-12-25T06:59:11.570Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.369290804.1703487548",
+            "expires": "2025-01-28T06:59:08.229Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.572Z",
+            "lastAccessed": "2023-12-25T06:59:11.572Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487548.1.0.1703487548.60.0.0",
+            "expires": "2025-01-28T06:59:08.241Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.573Z",
+            "lastAccessed": "2023-12-25T06:59:11.573Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:08.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.573Z",
+            "lastAccessed": "2023-12-25T06:59:11.573Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.369290804.1703487548.1703487550.1703487550.1",
+            "expires": "2025-01-28T06:59:10.220Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.574Z",
+            "lastAccessed": "2023-12-25T06:59:11.574Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:11.569Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.574Z",
+            "lastAccessed": "2023-12-25T06:59:11.574Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487550.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.574Z",
+            "lastAccessed": "2023-12-25T06:59:11.574Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.575Z",
+            "lastAccessed": "2023-12-25T06:59:11.575Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487550",
+            "expires": "2023-12-25T07:29:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.576Z",
+            "lastAccessed": "2023-12-25T06:59:11.576Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:10.505Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.576Z",
+            "lastAccessed": "2023-12-25T06:59:11.576Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:02.891Z",
+      "createdAt": "2023-12-25T06:59:02.891Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Xc1114w9aN",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:02.894Z",
+      "createdAt": "2023-12-25T06:59:02.894Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ViZcJZwbLy",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "kuly0sg5u512ukwpznb1cgep",
+            "expires": "2023-12-25T07:49:11.210Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.211Z",
+            "lastAccessed": "2023-12-25T06:59:11.211Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:05.933Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.213Z",
+            "lastAccessed": "2023-12-25T06:59:11.213Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:07.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.214Z",
+            "lastAccessed": "2023-12-25T06:59:11.214Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.53286409.1703487548",
+            "expires": "2025-01-28T06:59:08.118Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.216Z",
+            "lastAccessed": "2023-12-25T06:59:11.216Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487548.1.0.1703487548.60.0.0",
+            "expires": "2025-01-28T06:59:08.128Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.217Z",
+            "lastAccessed": "2023-12-25T06:59:11.217Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:08.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.218Z",
+            "lastAccessed": "2023-12-25T06:59:11.218Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.53286409.1703487548.1703487550.1703487550.1",
+            "expires": "2025-01-28T06:59:09.856Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.219Z",
+            "lastAccessed": "2023-12-25T06:59:11.219Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:11.210Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.220Z",
+            "lastAccessed": "2023-12-25T06:59:11.220Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487550.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:09.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.220Z",
+            "lastAccessed": "2023-12-25T06:59:11.220Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:09.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.224Z",
+            "lastAccessed": "2023-12-25T06:59:11.224Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487550",
+            "expires": "2023-12-25T07:29:09.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.226Z",
+            "lastAccessed": "2023-12-25T06:59:11.226Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:09.939Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:11.227Z",
+            "lastAccessed": "2023-12-25T06:59:11.227Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:02.914Z",
+      "createdAt": "2023-12-25T06:59:02.914Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_HVXKKwEclu",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "vtjkit3yrbeidhugkv1josh3",
+            "expires": "2023-12-25T07:49:18.904Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.904Z",
+            "lastAccessed": "2023-12-25T06:59:18.904Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:12.592Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.904Z",
+            "lastAccessed": "2023-12-25T06:59:18.904Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:15.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.905Z",
+            "lastAccessed": "2023-12-25T06:59:18.905Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:15.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.906Z",
+            "lastAccessed": "2023-12-25T06:59:18.906Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487555.1.0.1703487555.60.0.0",
+            "expires": "2025-01-28T06:59:15.442Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.907Z",
+            "lastAccessed": "2023-12-25T06:59:18.907Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.905714793.1703487555",
+            "expires": "2025-01-28T06:59:15.442Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.907Z",
+            "lastAccessed": "2023-12-25T06:59:18.907Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.905714793.1703487555.1703487558.1703487558.1",
+            "expires": "2025-01-28T06:59:17.623Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.909Z",
+            "lastAccessed": "2023-12-25T06:59:18.909Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:18.904Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.914Z",
+            "lastAccessed": "2023-12-25T06:59:18.914Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487558.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:17.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.915Z",
+            "lastAccessed": "2023-12-25T06:59:18.915Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:17.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.915Z",
+            "lastAccessed": "2023-12-25T06:59:18.915Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487558",
+            "expires": "2023-12-25T07:29:17.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.916Z",
+            "lastAccessed": "2023-12-25T06:59:18.916Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:17.727Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:18.916Z",
+            "lastAccessed": "2023-12-25T06:59:18.916Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:11.503Z",
+      "createdAt": "2023-12-25T06:59:11.503Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_PvYwfZeMoG",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "z1k4yfjjtp4vygjnbvoporls",
+            "expires": "2023-12-25T07:49:19.918Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.918Z",
+            "lastAccessed": "2023-12-25T06:59:19.918Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:13.234Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.919Z",
+            "lastAccessed": "2023-12-25T06:59:19.919Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1906048636.1703487556",
+            "expires": "2025-01-28T06:59:16.207Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.919Z",
+            "lastAccessed": "2023-12-25T06:59:19.919Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487556.1.0.1703487556.60.0.0",
+            "expires": "2025-01-28T06:59:16.218Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.920Z",
+            "lastAccessed": "2023-12-25T06:59:19.920Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:16.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.921Z",
+            "lastAccessed": "2023-12-25T06:59:19.921Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:16.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.922Z",
+            "lastAccessed": "2023-12-25T06:59:19.922Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1906048636.1703487556.1703487559.1703487559.1",
+            "expires": "2025-01-28T06:59:18.853Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.924Z",
+            "lastAccessed": "2023-12-25T06:59:19.924Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:19.918Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.924Z",
+            "lastAccessed": "2023-12-25T06:59:19.924Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487559.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.925Z",
+            "lastAccessed": "2023-12-25T06:59:19.925Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.925Z",
+            "lastAccessed": "2023-12-25T06:59:19.925Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487559",
+            "expires": "2023-12-25T07:29:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.926Z",
+            "lastAccessed": "2023-12-25T06:59:19.926Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:18.882Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:19.926Z",
+            "lastAccessed": "2023-12-25T06:59:19.926Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:11.687Z",
+      "createdAt": "2023-12-25T06:59:11.687Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_mZri8pe2gQ",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "zegxsixfuoagvjcmt5znvr4h",
+            "expires": "2023-12-25T07:49:53.355Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.355Z",
+            "lastAccessed": "2023-12-25T06:59:53.355Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:24.871Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.358Z",
+            "lastAccessed": "2023-12-25T06:59:53.358Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1901645940.1703487567.1703487567.1703487567.1",
+            "expires": "2025-01-28T06:59:26.525Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.359Z",
+            "lastAccessed": "2023-12-25T06:59:53.359Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:53.355Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.360Z",
+            "lastAccessed": "2023-12-25T06:59:53.360Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487567.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:26.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.361Z",
+            "lastAccessed": "2023-12-25T06:59:53.361Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:26.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.362Z",
+            "lastAccessed": "2023-12-25T06:59:53.362Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487567",
+            "expires": "2023-12-25T07:29:26.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.363Z",
+            "lastAccessed": "2023-12-25T06:59:53.363Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.126198295.1703487567",
+            "expires": "2025-01-28T06:59:26.564Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.364Z",
+            "lastAccessed": "2023-12-25T06:59:53.364Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487566.1.0.1703487566.60.0.0",
+            "expires": "2025-01-28T06:59:26.573Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.365Z",
+            "lastAccessed": "2023-12-25T06:59:53.365Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:36.192Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.368Z",
+            "lastAccessed": "2023-12-25T06:59:53.368Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:50.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.371Z",
+            "lastAccessed": "2023-12-25T06:59:53.371Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:51.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:53.372Z",
+            "lastAccessed": "2023-12-25T06:59:53.372Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:12.926Z",
+      "createdAt": "2023-12-25T06:59:12.926Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_yCIqYmXOrF",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "0ykf5tvdl1c4v10iyf2tzpeb",
+            "expires": "2023-12-25T07:49:30.938Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.940Z",
+            "lastAccessed": "2023-12-25T06:59:30.940Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:24.088Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.941Z",
+            "lastAccessed": "2023-12-25T06:59:30.941Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:27.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.942Z",
+            "lastAccessed": "2023-12-25T06:59:30.942Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:28.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.949Z",
+            "lastAccessed": "2023-12-25T06:59:30.949Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487568.1.0.1703487568.60.0.0",
+            "expires": "2025-01-28T06:59:28.127Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.950Z",
+            "lastAccessed": "2023-12-25T06:59:30.950Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1618096163.1703487568",
+            "expires": "2025-01-28T06:59:28.129Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.953Z",
+            "lastAccessed": "2023-12-25T06:59:30.953Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1618096163.1703487568.1703487570.1703487570.1",
+            "expires": "2025-01-28T06:59:30.303Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.961Z",
+            "lastAccessed": "2023-12-25T06:59:30.961Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:30.938Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.963Z",
+            "lastAccessed": "2023-12-25T06:59:30.963Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487570.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.977Z",
+            "lastAccessed": "2023-12-25T06:59:30.977Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.978Z",
+            "lastAccessed": "2023-12-25T06:59:30.978Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487570",
+            "expires": "2023-12-25T07:29:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.981Z",
+            "lastAccessed": "2023-12-25T06:59:30.981Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:30.467Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:30.986Z",
+            "lastAccessed": "2023-12-25T06:59:30.986Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:22.933Z",
+      "createdAt": "2023-12-25T06:59:22.933Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mGOHmNNYGe",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "dz2t4mzaiuijsv4ehm5y4p2g",
+            "expires": "2023-12-25T07:49:31.374Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.375Z",
+            "lastAccessed": "2023-12-25T06:59:31.375Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:25.187Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.376Z",
+            "lastAccessed": "2023-12-25T06:59:31.376Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1322926026.1703487567",
+            "expires": "2025-01-28T06:59:27.414Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.377Z",
+            "lastAccessed": "2023-12-25T06:59:31.377Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487567.1.0.1703487567.60.0.0",
+            "expires": "2025-01-28T06:59:27.425Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.378Z",
+            "lastAccessed": "2023-12-25T06:59:31.378Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:27.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.379Z",
+            "lastAccessed": "2023-12-25T06:59:31.379Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:27.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.381Z",
+            "lastAccessed": "2023-12-25T06:59:31.381Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1322926026.1703487567.1703487570.1703487570.1",
+            "expires": "2025-01-28T06:59:30.040Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.385Z",
+            "lastAccessed": "2023-12-25T06:59:31.385Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:31.374Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.387Z",
+            "lastAccessed": "2023-12-25T06:59:31.387Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487570.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.388Z",
+            "lastAccessed": "2023-12-25T06:59:31.388Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.389Z",
+            "lastAccessed": "2023-12-25T06:59:31.389Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487570",
+            "expires": "2023-12-25T07:29:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.390Z",
+            "lastAccessed": "2023-12-25T06:59:31.390Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:30.065Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:31.390Z",
+            "lastAccessed": "2023-12-25T06:59:31.390Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:24.014Z",
+      "createdAt": "2023-12-25T06:59:24.014Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_A7m9DbBcQs",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "joxhaimjp2f2smbruu1wmced",
+            "expires": "2023-12-25T07:49:33.932Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.932Z",
+            "lastAccessed": "2023-12-25T06:59:33.932Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:27.080Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.933Z",
+            "lastAccessed": "2023-12-25T06:59:33.933Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1001295452.1703487570",
+            "expires": "2025-01-28T06:59:30.343Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.936Z",
+            "lastAccessed": "2023-12-25T06:59:33.936Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487570.1.0.1703487570.60.0.0",
+            "expires": "2025-01-28T06:59:30.363Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.937Z",
+            "lastAccessed": "2023-12-25T06:59:33.937Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:30.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.938Z",
+            "lastAccessed": "2023-12-25T06:59:33.938Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:31.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.942Z",
+            "lastAccessed": "2023-12-25T06:59:33.942Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1001295452.1703487570.1703487573.1703487573.1",
+            "expires": "2025-01-28T06:59:33.324Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.945Z",
+            "lastAccessed": "2023-12-25T06:59:33.945Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:33.932Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.946Z",
+            "lastAccessed": "2023-12-25T06:59:33.946Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487573.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:33.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.947Z",
+            "lastAccessed": "2023-12-25T06:59:33.947Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:33.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.949Z",
+            "lastAccessed": "2023-12-25T06:59:33.949Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487573",
+            "expires": "2023-12-25T07:29:33.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.950Z",
+            "lastAccessed": "2023-12-25T06:59:33.950Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:33.392Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:33.955Z",
+            "lastAccessed": "2023-12-25T06:59:33.955Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:24.987Z",
+      "createdAt": "2023-12-25T06:59:24.987Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_ghFVxYkx2p",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "rfimhfpqeqhg1v0hqubkoad0",
+            "expires": "2023-12-25T07:49:39.931Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.931Z",
+            "lastAccessed": "2023-12-25T06:59:39.931Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:34.144Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.935Z",
+            "lastAccessed": "2023-12-25T06:59:39.935Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1646455554.1703487576",
+            "expires": "2025-01-28T06:59:36.410Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.936Z",
+            "lastAccessed": "2023-12-25T06:59:39.936Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487576.1.0.1703487576.60.0.0",
+            "expires": "2025-01-28T06:59:36.431Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.940Z",
+            "lastAccessed": "2023-12-25T06:59:39.940Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:36.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.946Z",
+            "lastAccessed": "2023-12-25T06:59:39.946Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:36.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.965Z",
+            "lastAccessed": "2023-12-25T06:59:39.965Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:39.077Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.966Z",
+            "lastAccessed": "2023-12-25T06:59:39.966Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1646455554.1703487576.1703487579.1703487579.1",
+            "expires": "2025-01-28T06:59:39.210Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.967Z",
+            "lastAccessed": "2023-12-25T06:59:39.967Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:39.931Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.968Z",
+            "lastAccessed": "2023-12-25T06:59:39.968Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487579.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:39.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.969Z",
+            "lastAccessed": "2023-12-25T06:59:39.969Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:39.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.970Z",
+            "lastAccessed": "2023-12-25T06:59:39.970Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487579",
+            "expires": "2023-12-25T07:29:39.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:39.971Z",
+            "lastAccessed": "2023-12-25T06:59:39.971Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:32.935Z",
+      "createdAt": "2023-12-25T06:59:32.935Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_yUBnEPWniE",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "w5zjaps0kl1k11arqmo05kr2",
+            "expires": "2023-12-25T07:49:47.007Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.008Z",
+            "lastAccessed": "2023-12-25T06:59:47.008Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:41.852Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.014Z",
+            "lastAccessed": "2023-12-25T06:59:47.014Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.2137123930.1703487583",
+            "expires": "2025-01-28T06:59:43.462Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.016Z",
+            "lastAccessed": "2023-12-25T06:59:47.016Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487583.1.0.1703487583.60.0.0",
+            "expires": "2025-01-28T06:59:43.476Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.017Z",
+            "lastAccessed": "2023-12-25T06:59:47.017Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:43.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.018Z",
+            "lastAccessed": "2023-12-25T06:59:47.018Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:44.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.021Z",
+            "lastAccessed": "2023-12-25T06:59:47.021Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.2137123930.1703487583.1703487586.1703487586.1",
+            "expires": "2025-01-28T06:59:46.254Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.030Z",
+            "lastAccessed": "2023-12-25T06:59:47.030Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:47.007Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.032Z",
+            "lastAccessed": "2023-12-25T06:59:47.032Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487586.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:46.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.033Z",
+            "lastAccessed": "2023-12-25T06:59:47.033Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:46.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.035Z",
+            "lastAccessed": "2023-12-25T06:59:47.035Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487586",
+            "expires": "2023-12-25T07:29:46.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.035Z",
+            "lastAccessed": "2023-12-25T06:59:47.035Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:46.451Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:47.036Z",
+            "lastAccessed": "2023-12-25T06:59:47.036Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:39.787Z",
+      "createdAt": "2023-12-25T06:59:39.787Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_cmsmoTDDmR",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "1ggrktdcxs4vsuffsbw1ywx1",
+            "expires": "2023-12-25T07:49:50.393Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.393Z",
+            "lastAccessed": "2023-12-25T06:59:50.393Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:43.838Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.400Z",
+            "lastAccessed": "2023-12-25T06:59:50.400Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:46.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.401Z",
+            "lastAccessed": "2023-12-25T06:59:50.401Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1597664667.1703487587",
+            "expires": "2025-01-28T06:59:46.848Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.404Z",
+            "lastAccessed": "2023-12-25T06:59:50.404Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487586.1.0.1703487586.60.0.0",
+            "expires": "2025-01-28T06:59:46.911Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.405Z",
+            "lastAccessed": "2023-12-25T06:59:50.405Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:47.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.406Z",
+            "lastAccessed": "2023-12-25T06:59:50.406Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1597664667.1703487587.1703487590.1703487590.1",
+            "expires": "2025-01-28T06:59:49.576Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.427Z",
+            "lastAccessed": "2023-12-25T06:59:50.427Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:50.393Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.428Z",
+            "lastAccessed": "2023-12-25T06:59:50.428Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487590.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:49.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.429Z",
+            "lastAccessed": "2023-12-25T06:59:50.429Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:49.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.439Z",
+            "lastAccessed": "2023-12-25T06:59:50.439Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487590",
+            "expires": "2023-12-25T07:29:49.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.440Z",
+            "lastAccessed": "2023-12-25T06:59:50.440Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:49.790Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:50.441Z",
+            "lastAccessed": "2023-12-25T06:59:50.441Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:42.808Z",
+      "createdAt": "2023-12-25T06:59:42.808Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_qqOIsVkcaa",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "o1mso4jqv3ycsagjd5exndnf",
+            "expires": "2023-12-25T07:49:51.476Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.476Z",
+            "lastAccessed": "2023-12-25T06:59:51.476Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:45.895Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.479Z",
+            "lastAccessed": "2023-12-25T06:59:51.479Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.42311156.1703487588",
+            "expires": "2025-01-28T06:59:47.611Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.480Z",
+            "lastAccessed": "2023-12-25T06:59:51.480Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487587.1.0.1703487587.60.0.0",
+            "expires": "2025-01-28T06:59:47.634Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.482Z",
+            "lastAccessed": "2023-12-25T06:59:51.482Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:47.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.485Z",
+            "lastAccessed": "2023-12-25T06:59:51.485Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:48.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.493Z",
+            "lastAccessed": "2023-12-25T06:59:51.493Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.42311156.1703487588.1703487590.1703487590.1",
+            "expires": "2025-01-28T06:59:50.182Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.504Z",
+            "lastAccessed": "2023-12-25T06:59:51.504Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:51.476Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.506Z",
+            "lastAccessed": "2023-12-25T06:59:51.506Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487590.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:50.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.510Z",
+            "lastAccessed": "2023-12-25T06:59:51.510Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:50.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.523Z",
+            "lastAccessed": "2023-12-25T06:59:51.523Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487590",
+            "expires": "2023-12-25T07:29:50.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.525Z",
+            "lastAccessed": "2023-12-25T06:59:51.525Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:50.462Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:51.529Z",
+            "lastAccessed": "2023-12-25T06:59:51.529Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:43.545Z",
+      "createdAt": "2023-12-25T06:59:43.545Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_NvflyknA9A",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "rwucvx1ndvwjmr5ptuo1ddnn",
+            "expires": "2023-12-25T07:49:55.954Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:55.954Z",
+            "lastAccessed": "2023-12-25T06:59:55.954Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:50.614Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:55.955Z",
+            "lastAccessed": "2023-12-25T06:59:55.955Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.2091905661.1703487592",
+            "expires": "2025-01-28T06:59:52.151Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:55.957Z",
+            "lastAccessed": "2023-12-25T06:59:55.957Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487592.1.0.1703487592.60.0.0",
+            "expires": "2025-01-28T06:59:52.181Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:55.958Z",
+            "lastAccessed": "2023-12-25T06:59:55.958Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T06:59:52.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.014Z",
+            "lastAccessed": "2023-12-25T06:59:56.014Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T06:59:52.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.016Z",
+            "lastAccessed": "2023-12-25T06:59:56.016Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.2091905661.1703487592.1703487595.1703487595.1",
+            "expires": "2025-01-28T06:59:54.887Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.018Z",
+            "lastAccessed": "2023-12-25T06:59:56.018Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:49:55.954Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.019Z",
+            "lastAccessed": "2023-12-25T06:59:56.019Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487595.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T18:59:54.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.020Z",
+            "lastAccessed": "2023-12-25T06:59:56.020Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:09:54.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.021Z",
+            "lastAccessed": "2023-12-25T06:59:56.021Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487595",
+            "expires": "2023-12-25T07:29:54.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.022Z",
+            "lastAccessed": "2023-12-25T06:59:56.022Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T06:59:54.961Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T06:59:56.023Z",
+            "lastAccessed": "2023-12-25T06:59:56.023Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:48.153Z",
+      "createdAt": "2023-12-25T06:59:48.153Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_tYyMexFnlS",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "5rdk0q3fuoybl3a5acuyi2av",
+            "expires": "2023-12-25T07:50:03.275Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.275Z",
+            "lastAccessed": "2023-12-25T07:00:03.275Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T06:59:57.200Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.281Z",
+            "lastAccessed": "2023-12-25T07:00:03.281Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.246028120.1703487600",
+            "expires": "2025-01-28T06:59:59.861Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.282Z",
+            "lastAccessed": "2023-12-25T07:00:03.282Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487599.1.0.1703487599.60.0.0",
+            "expires": "2025-01-28T06:59:59.874Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.283Z",
+            "lastAccessed": "2023-12-25T07:00:03.283Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:00.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.284Z",
+            "lastAccessed": "2023-12-25T07:00:03.284Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:00.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.287Z",
+            "lastAccessed": "2023-12-25T07:00:03.287Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.246028120.1703487600.1703487603.1703487603.1",
+            "expires": "2025-01-28T07:00:02.564Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.307Z",
+            "lastAccessed": "2023-12-25T07:00:03.307Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:03.275Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.308Z",
+            "lastAccessed": "2023-12-25T07:00:03.308Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487603.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:02.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.309Z",
+            "lastAccessed": "2023-12-25T07:00:03.309Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:02.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.310Z",
+            "lastAccessed": "2023-12-25T07:00:03.310Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487603",
+            "expires": "2023-12-25T07:30:02.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.335Z",
+            "lastAccessed": "2023-12-25T07:00:03.335Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:02.840Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:03.340Z",
+            "lastAccessed": "2023-12-25T07:00:03.340Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:49:55.838Z",
+      "createdAt": "2023-12-25T06:59:55.838Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_agREe7Mmfc",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "oh3ijpxjxnnrkg1rblzej1he",
+            "expires": "2023-12-25T07:50:07.775Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.775Z",
+            "lastAccessed": "2023-12-25T07:00:07.775Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:04.891Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.777Z",
+            "lastAccessed": "2023-12-25T07:00:07.777Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1759431442.1703487606",
+            "expires": "2025-01-28T07:00:06.038Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.779Z",
+            "lastAccessed": "2023-12-25T07:00:07.779Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487606.1.0.1703487606.60.0.0",
+            "expires": "2025-01-28T07:00:06.050Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.780Z",
+            "lastAccessed": "2023-12-25T07:00:07.780Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1759431442.1703487606.1703487606.1703487606.1",
+            "expires": "2025-01-28T07:00:06.081Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.781Z",
+            "lastAccessed": "2023-12-25T07:00:07.781Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:07.775Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.782Z",
+            "lastAccessed": "2023-12-25T07:00:07.782Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487606.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:06.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.783Z",
+            "lastAccessed": "2023-12-25T07:00:07.783Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:06.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.784Z",
+            "lastAccessed": "2023-12-25T07:00:07.784Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487606",
+            "expires": "2023-12-25T07:30:06.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.785Z",
+            "lastAccessed": "2023-12-25T07:00:07.785Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:06.185Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.786Z",
+            "lastAccessed": "2023-12-25T07:00:07.786Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:06.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.787Z",
+            "lastAccessed": "2023-12-25T07:00:07.787Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:06.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:07.789Z",
+            "lastAccessed": "2023-12-25T07:00:07.789Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:03.611Z",
+      "createdAt": "2023-12-25T07:00:03.611Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_YUBoTH3pBH",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "dimykt51oqcle34l21rfilfl",
+            "expires": "2023-12-25T07:50:12.667Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.667Z",
+            "lastAccessed": "2023-12-25T07:00:12.667Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:05.764Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.668Z",
+            "lastAccessed": "2023-12-25T07:00:12.668Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1598853916.1703487608.1703487608.1703487608.1",
+            "expires": "2025-01-28T07:00:08.496Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.670Z",
+            "lastAccessed": "2023-12-25T07:00:12.670Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:12.667Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.670Z",
+            "lastAccessed": "2023-12-25T07:00:12.670Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487608.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:08.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.671Z",
+            "lastAccessed": "2023-12-25T07:00:12.671Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:08.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.672Z",
+            "lastAccessed": "2023-12-25T07:00:12.672Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487608",
+            "expires": "2023-12-25T07:30:08.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.674Z",
+            "lastAccessed": "2023-12-25T07:00:12.674Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1449006395.1703487609",
+            "expires": "2025-01-28T07:00:08.562Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.675Z",
+            "lastAccessed": "2023-12-25T07:00:12.675Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487608.1.0.1703487608.60.0.0",
+            "expires": "2025-01-28T07:00:08.573Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.676Z",
+            "lastAccessed": "2023-12-25T07:00:12.676Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:09.405Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.677Z",
+            "lastAccessed": "2023-12-25T07:00:12.677Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:09.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.680Z",
+            "lastAccessed": "2023-12-25T07:00:12.680Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:12.681Z",
+            "lastAccessed": "2023-12-25T07:00:12.681Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:04.885Z",
+      "createdAt": "2023-12-25T07:00:04.885Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_nryefrkHgp",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "rdwurd3lxgmrham0tmau0cwf",
+            "expires": "2023-12-25T07:50:09.762Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.762Z",
+            "lastAccessed": "2023-12-25T07:00:09.762Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:07.354Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.763Z",
+            "lastAccessed": "2023-12-25T07:00:09.763Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.818783611.1703487608.1703487608.1703487608.1",
+            "expires": "2025-01-28T07:00:07.561Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.765Z",
+            "lastAccessed": "2023-12-25T07:00:09.765Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:09.762Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.766Z",
+            "lastAccessed": "2023-12-25T07:00:09.766Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487608.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:07.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.767Z",
+            "lastAccessed": "2023-12-25T07:00:09.767Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:07.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.768Z",
+            "lastAccessed": "2023-12-25T07:00:09.768Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487608",
+            "expires": "2023-12-25T07:30:07.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.769Z",
+            "lastAccessed": "2023-12-25T07:00:09.769Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1049610567.1703487608",
+            "expires": "2025-01-28T07:00:07.622Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.770Z",
+            "lastAccessed": "2023-12-25T07:00:09.770Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487607.1.0.1703487607.60.0.0",
+            "expires": "2025-01-28T07:00:07.636Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.771Z",
+            "lastAccessed": "2023-12-25T07:00:09.771Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:07.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.772Z",
+            "lastAccessed": "2023-12-25T07:00:09.772Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:07.903Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.773Z",
+            "lastAccessed": "2023-12-25T07:00:09.773Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:08.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:09.775Z",
+            "lastAccessed": "2023-12-25T07:00:09.775Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:05.140Z",
+      "createdAt": "2023-12-25T07:00:05.140Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 1
+    },
+    {
+      "id": "session_Gg7q2Tvsng",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "juvg1uxl4q4gso44kgdojclc",
+            "expires": "2023-12-25T07:50:14.496Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.497Z",
+            "lastAccessed": "2023-12-25T07:00:14.497Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:09.269Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.498Z",
+            "lastAccessed": "2023-12-25T07:00:14.498Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1036399527.1703487610.1703487610.1703487610.1",
+            "expires": "2025-01-28T07:00:10.469Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.502Z",
+            "lastAccessed": "2023-12-25T07:00:14.502Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:14.496Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.503Z",
+            "lastAccessed": "2023-12-25T07:00:14.503Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487610.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.504Z",
+            "lastAccessed": "2023-12-25T07:00:14.504Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.506Z",
+            "lastAccessed": "2023-12-25T07:00:14.506Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487610",
+            "expires": "2023-12-25T07:30:10.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.506Z",
+            "lastAccessed": "2023-12-25T07:00:14.506Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1637545098.1703487611",
+            "expires": "2025-01-28T07:00:10.587Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.507Z",
+            "lastAccessed": "2023-12-25T07:00:14.507Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487610.1.0.1703487610.60.0.0",
+            "expires": "2025-01-28T07:00:10.657Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.507Z",
+            "lastAccessed": "2023-12-25T07:00:14.507Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:11.037Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.508Z",
+            "lastAccessed": "2023-12-25T07:00:14.508Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:11.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.509Z",
+            "lastAccessed": "2023-12-25T07:00:14.509Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:11.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:14.510Z",
+            "lastAccessed": "2023-12-25T07:00:14.510Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:07.980Z",
+      "createdAt": "2023-12-25T07:00:07.980Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Z96d9GPrjR",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "n1w03z5kyjtl5q351mwjcxhl",
+            "expires": "2023-12-25T07:50:16.524Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.524Z",
+            "lastAccessed": "2023-12-25T07:00:16.524Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:12.574Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.525Z",
+            "lastAccessed": "2023-12-25T07:00:16.525Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.1626595074.1703487614.1703487614.1703487614.1",
+            "expires": "2025-01-28T07:00:13.711Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.527Z",
+            "lastAccessed": "2023-12-25T07:00:16.527Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:16.524Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.529Z",
+            "lastAccessed": "2023-12-25T07:00:16.529Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487614.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:13.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.530Z",
+            "lastAccessed": "2023-12-25T07:00:16.530Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:13.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.530Z",
+            "lastAccessed": "2023-12-25T07:00:16.530Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487614",
+            "expires": "2023-12-25T07:30:13.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.531Z",
+            "lastAccessed": "2023-12-25T07:00:16.531Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.2088111135.1703487614",
+            "expires": "2025-01-28T07:00:13.822Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.531Z",
+            "lastAccessed": "2023-12-25T07:00:16.531Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487613.1.0.1703487613.60.0.0",
+            "expires": "2025-01-28T07:00:13.880Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.532Z",
+            "lastAccessed": "2023-12-25T07:00:16.532Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:14.239Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.537Z",
+            "lastAccessed": "2023-12-25T07:00:16.537Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:14.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.538Z",
+            "lastAccessed": "2023-12-25T07:00:16.538Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:14.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:16.540Z",
+            "lastAccessed": "2023-12-25T07:00:16.540Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:11.521Z",
+      "createdAt": "2023-12-25T07:00:11.521Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_EUMLVz5kCP",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "d3l0dmg3hp5oj1junm2tb3of",
+            "expires": "2023-12-25T07:50:19.133Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.133Z",
+            "lastAccessed": "2023-12-25T07:00:19.133Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:15.350Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.134Z",
+            "lastAccessed": "2023-12-25T07:00:19.134Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.570398236.1703487617.1703487617.1703487617.1",
+            "expires": "2025-01-28T07:00:16.637Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.136Z",
+            "lastAccessed": "2023-12-25T07:00:19.136Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:19.133Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.137Z",
+            "lastAccessed": "2023-12-25T07:00:19.137Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487617.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:16.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.138Z",
+            "lastAccessed": "2023-12-25T07:00:19.138Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:16.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.138Z",
+            "lastAccessed": "2023-12-25T07:00:19.138Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487617",
+            "expires": "2023-12-25T07:30:16.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.139Z",
+            "lastAccessed": "2023-12-25T07:00:19.139Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.332681431.1703487617",
+            "expires": "2025-01-28T07:00:16.684Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.140Z",
+            "lastAccessed": "2023-12-25T07:00:19.140Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487616.1.0.1703487616.60.0.0",
+            "expires": "2025-01-28T07:00:16.693Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.141Z",
+            "lastAccessed": "2023-12-25T07:00:19.141Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:16.819Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.142Z",
+            "lastAccessed": "2023-12-25T07:00:19.142Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:16.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.143Z",
+            "lastAccessed": "2023-12-25T07:00:19.143Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:17.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:19.145Z",
+            "lastAccessed": "2023-12-25T07:00:19.145Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:13.961Z",
+      "createdAt": "2023-12-25T07:00:13.961Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_K1loHM2Jpm",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "ASP.NET_SessionId",
+            "value": "z0x12bqmdab1cd1hzamgmb4e",
+            "expires": "2023-12-25T07:50:20.512Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.512Z",
+            "lastAccessed": "2023-12-25T07:00:20.512Z"
+          },
+          {
+            "key": "Culture",
+            "value": "vi",
+            "expires": "2024-12-25T07:00:17.089Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.512Z",
+            "lastAccessed": "2023-12-25T07:00:20.512Z"
+          },
+          {
+            "key": "__utma",
+            "value": "173276988.274633607.1703487618.1703487618.1703487618.1",
+            "expires": "2025-01-28T07:00:18.448Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.513Z",
+            "lastAccessed": "2023-12-25T07:00:20.513Z"
+          },
+          {
+            "key": "__utmc",
+            "value": "173276988",
+            "expires": "2023-12-25T07:50:20.512Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.514Z",
+            "lastAccessed": "2023-12-25T07:00:20.514Z"
+          },
+          {
+            "key": "__utmz",
+            "value": "173276988.1703487618.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+            "expires": "2024-06-24T19:00:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.514Z",
+            "lastAccessed": "2023-12-25T07:00:20.514Z"
+          },
+          {
+            "key": "__utmt",
+            "value": "1",
+            "expires": "2023-12-25T07:10:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.515Z",
+            "lastAccessed": "2023-12-25T07:00:20.515Z"
+          },
+          {
+            "key": "__utmb",
+            "value": "173276988.2.9.1703487618",
+            "expires": "2023-12-25T07:30:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.516Z",
+            "lastAccessed": "2023-12-25T07:00:20.516Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.299625788.1703487619",
+            "expires": "2025-01-28T07:00:18.531Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.516Z",
+            "lastAccessed": "2023-12-25T07:00:20.516Z"
+          },
+          {
+            "key": "_ga_PGVTRDMJGD",
+            "value": "GS1.1.1703487618.1.0.1703487618.60.0.0",
+            "expires": "2025-01-28T07:00:18.558Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.517Z",
+            "lastAccessed": "2023-12-25T07:00:20.517Z"
+          },
+          {
+            "key": "G_ENABLED_IDPS",
+            "value": "google",
+            "expires": "2025-01-28T07:00:18.716Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.517Z",
+            "lastAccessed": "2023-12-25T07:00:20.517Z"
+          },
+          {
+            "key": "memberga",
+            "value": "Anonymous[20.55.14.226]",
+            "expires": "2023-12-26T07:00:18.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.518Z",
+            "lastAccessed": "2023-12-25T07:00:20.518Z"
+          },
+          {
+            "key": "ruirophaply-covi19",
+            "value": "25",
+            "expires": "2023-12-26T07:00:19.000Z",
+            "domain": "thuvienphapluat.vn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-25T07:00:20.519Z",
+            "lastAccessed": "2023-12-25T07:00:20.519Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-25T07:50:15.710Z",
+      "createdAt": "2023-12-25T07:00:15.710Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

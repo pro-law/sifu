@@ -1,28 +1,28 @@
 {
-  "requestsFinished": 54,
+  "requestsFinished": 67,
   "requestsFailed": 0,
   "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 18,
-  "requestMinDurationMillis": 4472,
-  "requestMaxDurationMillis": 18587,
+  "requestsFinishedPerMinute": 16,
+  "requestMinDurationMillis": 4337,
+  "requestMaxDurationMillis": 51914,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 632522,
+  "requestTotalFinishedDurationMillis": 825692,
   "crawlerStartedAt": "2023-12-25T06:41:29.167Z",
-  "crawlerFinishedAt": "2023-12-25T06:44:26.344Z",
-  "statsPersistedAt": "2023-12-25T06:44:26.344Z",
-  "crawlerRuntimeMillis": 177267,
-  "crawlerLastStartTimestamp": 1703486489077,
+  "crawlerFinishedAt": "2023-12-25T07:00:20.680Z",
+  "statsPersistedAt": "2023-12-25T07:00:20.680Z",
+  "crawlerRuntimeMillis": 255109,
+  "crawlerLastStartTimestamp": 1703487365571,
   "requestRetryHistogram": [
-    54
+    67
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 11713,
-  "requestTotalDurationMillis": 632522,
-  "requestsTotal": 54,
+  "requestAvgFinishedDurationMillis": 12324,
+  "requestTotalDurationMillis": 825692,
+  "requestsTotal": 67,
   "requestsWithStatusCode": {
-    "200": 58
+    "200": 21
   },
   "errors": {},
   "retryErrors": {
@@ -30,24 +30,15 @@
       "missing error code": {
         "Error": {
           "page.evaluate: Execution context was destroyed, most likely because of a navigation": {
-            "count": 3
+            "count": 7
           }
         }
       }
     },
-    "/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+playwright@3.6.2_playwright@1.40.1/node_modules/@crawlee/src/internals/utils/playwright-utils.ts:216:17": {
+    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:93:16": {
       "missing error code": {
         "Error": {
-          "page.goto: net::ERR_TIMED_OUT at _": {
-            "count": 3
-          }
-        }
-      }
-    },
-    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:215:18": {
-      "missing error code": {
-        "Error": {
-          "page.click: Element is outside of the viewport": {
+          "page.waitForSelector: Timeout 10000ms exceeded.": {
             "count": 1
           }
         }

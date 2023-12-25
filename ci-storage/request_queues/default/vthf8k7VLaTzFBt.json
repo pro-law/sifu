@@ -1,9 +1,9 @@
 {
 	"id": "vthf8k7VLaTzFBt",
-	"json": "{\"id\":\"vthf8k7VLaTzFBt\",\"url\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false}}}",
+	"json": "{\"id\":\"vthf8k7VLaTzFBt\",\"url\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.evaluate: Execution context was destroyed, most likely because of a navigation\\n    at checkIsSignedIn (/home/runner/work/sifu/sifu/src/tvpl/verify-signed-in.ts:39:33)\\n    at verifySignedIn (/home/runner/work/sifu/sifu/src/tvpl/verify-signed-in.ts:31:39)\\n    at <anonymous> (/home/runner/work/sifu/sifu/src/tvpl/router.ts:54:5)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":5}}}",
 	"method": "GET",
-	"orderNo": 1703486509029,
-	"retryCount": 0,
+	"orderNo": 1703487603476,
+	"retryCount": 1,
 	"uniqueKey": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx",
 	"url": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Chi-thi-14-CT-BCT-2023-dam-bao-cung-cap-dien-dip-Le-Tet-su-kien-chinh-tri-lon-590969.aspx"
 }
