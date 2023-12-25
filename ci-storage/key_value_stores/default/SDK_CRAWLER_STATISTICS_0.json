@@ -1,5 +1,5 @@
 {
-  "requestsFinished": 67,
+  "requestsFinished": 81,
   "requestsFailed": 0,
   "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
@@ -7,42 +7,23 @@
   "requestMinDurationMillis": 4337,
   "requestMaxDurationMillis": 51914,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 825692,
+  "requestTotalFinishedDurationMillis": 990922,
   "crawlerStartedAt": "2023-12-25T06:41:29.167Z",
-  "crawlerFinishedAt": "2023-12-25T07:00:20.680Z",
-  "statsPersistedAt": "2023-12-25T07:00:20.680Z",
-  "crawlerRuntimeMillis": 255109,
-  "crawlerLastStartTimestamp": 1703487365571,
+  "crawlerFinishedAt": "2023-12-25T07:07:24.700Z",
+  "statsPersistedAt": "2023-12-25T07:07:24.700Z",
+  "crawlerRuntimeMillis": 308531,
+  "crawlerLastStartTimestamp": 1703487736169,
   "requestRetryHistogram": [
-    67
+    81
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 12324,
-  "requestTotalDurationMillis": 825692,
-  "requestsTotal": 67,
+  "requestAvgFinishedDurationMillis": 12234,
+  "requestTotalDurationMillis": 990922,
+  "requestsTotal": 81,
   "requestsWithStatusCode": {
-    "200": 21
+    "200": 14
   },
   "errors": {},
-  "retryErrors": {
-    "/home/runner/work/sifu/sifu/src/tvpl/verify-signed-in.ts:39:33": {
-      "missing error code": {
-        "Error": {
-          "page.evaluate: Execution context was destroyed, most likely because of a navigation": {
-            "count": 7
-          }
-        }
-      }
-    },
-    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:93:16": {
-      "missing error code": {
-        "Error": {
-          "page.waitForSelector: Timeout 10000ms exceeded.": {
-            "count": 1
-          }
-        }
-      }
-    }
-  }
+  "retryErrors": {}
 }
