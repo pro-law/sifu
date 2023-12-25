@@ -53,7 +53,7 @@ tvplRouter.addHandler(
 
     await verifySignedIn({ page, log })
 
-    const title = await page.title()
+    let title = await page.title()
 
     if (
       title === 'THƯ VIỆN PHÁP LUẬT - Captcha' ||
@@ -84,7 +84,9 @@ tvplRouter.addHandler(
       await sleep(1000)
     }
 
-    log.info(`${title} (${request.retryCount})`)
+    title = await page.title()
+
+    log.info(`👀 [#${request.retryCount}] ${title}`)
 
     // Extract document properties from the table in tab "Lược đồ"
     await page.click('#ctl00_Content_ctl00_spLuocDo', { force: true })
@@ -197,7 +199,21 @@ tvplRouter.addHandler(
     )
 
     // Get document content from the tab "Nội dung"
-    await page.click('#ctl00_Content_ctl00_divNoiDung', { force: true })
+    try {
+      await page.waitForSelector('#ctl00_Content_ctl00_divNoiDung', {
+        timeout: 10000,
+        state: 'attached',
+      })
+      await page.click('#ctl00_Content_ctl00_divNoiDung', { force: true })
+    } catch(error) {
+      log.warning(`Cannot click tab "Nội dung". Trying to refresh page...`)
+      await page.reload()
+      await page.waitForSelector('#ctl00_Content_ctl00_divNoiDung', {
+        timeout: 10000,
+        state: 'attached',
+      })
+      await page.click('#ctl00_Content_ctl00_divNoiDung', { force: true })
+    }
 
     await page.waitForSelector('#divContentDoc', {
       timeout: 10000,
@@ -264,9 +280,9 @@ tvplRouter.addHandler(
     await saveDocument(doc)
 
     log.info(
-      `✅ ${title} in ${numeral(Date.now() - start).format(
+      `✅ [#${request.retryCount}][${numeral(Date.now() - start).format(
         '00:00',
-      )} (#${request.retryCount})`,
+      )}] ${title}`,
     )
   },
 )
