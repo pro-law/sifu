@@ -1,28 +1,28 @@
 {
-  "requestsFinished": 101,
+  "requestsFinished": 54,
   "requestsFailed": 0,
   "requestsRetries": 0,
   "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 16,
-  "requestMinDurationMillis": 4535,
-  "requestMaxDurationMillis": 16529,
+  "requestsFinishedPerMinute": 18,
+  "requestMinDurationMillis": 4472,
+  "requestMaxDurationMillis": 18587,
   "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 907801,
-  "crawlerStartedAt": "2023-12-25T06:19:46.771Z",
-  "crawlerFinishedAt": "2023-12-25T06:26:11.098Z",
-  "statsPersistedAt": "2023-12-25T06:26:11.098Z",
-  "crawlerRuntimeMillis": 384464,
-  "crawlerLastStartTimestamp": 1703485186634,
+  "requestTotalFinishedDurationMillis": 632522,
+  "crawlerStartedAt": "2023-12-25T06:41:29.167Z",
+  "crawlerFinishedAt": "2023-12-25T06:44:26.344Z",
+  "statsPersistedAt": "2023-12-25T06:44:26.344Z",
+  "crawlerRuntimeMillis": 177267,
+  "crawlerLastStartTimestamp": 1703486489077,
   "requestRetryHistogram": [
-    101
+    54
   ],
   "statsId": 0,
   "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": 8988,
-  "requestTotalDurationMillis": 907801,
-  "requestsTotal": 101,
+  "requestAvgFinishedDurationMillis": 11713,
+  "requestTotalDurationMillis": 632522,
+  "requestsTotal": 54,
   "requestsWithStatusCode": {
-    "200": 127
+    "200": 58
   },
   "errors": {},
   "retryErrors": {
@@ -30,43 +30,7 @@
       "missing error code": {
         "Error": {
           "page.evaluate: Execution context was destroyed, most likely because of a navigation": {
-            "count": 1
-          }
-        }
-      }
-    },
-    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:91:16": {
-      "missing error code": {
-        "Error": {
-          "page.waitForSelector: Timeout 10000ms exceeded.": {
-            "count": 1
-          }
-        }
-      }
-    },
-    "/home/runner/work/sifu/sifu/node_modules/.pnpm/@crawlee+core@3.6.2/node_modules/@crawlee/src/crawlers/crawler_utils.ts:13:11": {
-      "missing error code": {
-        "Error": {
-          "Navigation timed out after 60 seconds.": {
-            "count": 5
-          }
-        }
-      }
-    },
-    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:200:16": {
-      "missing error code": {
-        "Error": {
-          "page.click: Element is outside of the viewport": {
-            "count": 24
-          }
-        }
-      }
-    },
-    "<anonymous>": {
-      "missing error code": {
-        "Error": {
-          "Navigation timed out after 60 seconds.": {
-            "count": 1
+            "count": 3
           }
         }
       }
@@ -75,7 +39,16 @@
       "missing error code": {
         "Error": {
           "page.goto: net::ERR_TIMED_OUT at _": {
-            "count": 4
+            "count": 3
+          }
+        }
+      }
+    },
+    "/home/runner/work/sifu/sifu/src/tvpl/router.ts:215:18": {
+      "missing error code": {
+        "Error": {
+          "page.click: Element is outside of the viewport": {
+            "count": 1
           }
         }
       }
