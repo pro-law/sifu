@@ -1,9 +1,9 @@
 {
 	"id": "asGDlJ5usZ7Buxy",
-	"json": "{\"id\":\"asGDlJ5usZ7Buxy\",\"url\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at <anonymous> (/home/runner/work/sifu/sifu/src/tvpl/router.ts:58:30)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-12-24T22:37:33.850Z\"}",
+	"json": "{\"id\":\"asGDlJ5usZ7Buxy\",\"url\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false}}}",
 	"method": "GET",
-	"orderNo": null,
-	"retryCount": 1,
+	"orderNo": 1703485382890,
+	"retryCount": 0,
 	"uniqueKey": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx",
 	"url": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-04-2022-ND-CP-sua-doi-Nghi-dinh-xu-phat-vi-pham-hanh-chinh-linh-vuc-dat-dai-488081.aspx"
 }

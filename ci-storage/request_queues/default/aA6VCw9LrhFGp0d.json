@@ -1,9 +1,9 @@
 {
 	"id": "aA6VCw9LrhFGp0d",
-	"json": "{\"id\":\"aA6VCw9LrhFGp0d\",\"url\":\"https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.click: Element is outside of the viewport\\nCall log:\\n  - waiting for locator('#ctl00_Content_ctl00_divNoiDung')\\n  -   locator resolved to <div id=\\\"ctl00_Content_ctl00_divNoiDung\\\">…</div>\\n  - attempting click action\\n  -   waiting for element to be visible, enabled and stable\\n  -     forcing action\\n  -   element is visible, enabled and stable\\n  -   scrolling into view if needed\\n  -   done scrolling\\n\\n    at <anonymous> (/home/runner/work/sifu/sifu/src/tvpl/router.ts:208:16)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":5}}}",
+	"json": "{\"id\":\"aA6VCw9LrhFGp0d\",\"url\":\"https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false}}}",
 	"method": "GET",
-	"orderNo": 1703447711545,
-	"retryCount": 1,
+	"orderNo": 1703485273673,
+	"retryCount": 0,
 	"uniqueKey": "https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx",
 	"url": "https://thuvienphapluat.vn/cong-van/Doanh-nghiep/Cong-van-3494-BKHDT-HTX-2022-lay-y-kien-Du-thao-2-Du-an-Luat-Hop-tac-xa-515164.aspx"
 }
