@@ -345,16 +345,18 @@ async function getRelatedDocuments({
 
   const originalTitle = await page.title()
 
+  if (documents.length) {
+    log.info(
+      `🔗 Found ${documents.length} ${selector} documents of ${originalTitle}`,
+    )
+  }
+
   // Convert properties to object with English keys
   return documents.map((document) => {
     if (document.url) {
       enqueueLinks?.({
         urls: [document.url],
         label: 'detail',
-      })
-      log?.info(`🔗 Enqueued ${document.title}`, {
-        original: originalTitle,
-        url: document.url,
       })
     }
 

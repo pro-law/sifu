@@ -61,15 +61,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-store-
 
-      - name: Cache crawlee storage
-        uses: actions/cache@v3
+      - name: Restore crawlee storage
+        uses: actions/cache/restore@v3
         with:
           path: |
             /home/runner/work/sifu/sifu/.cookies.json
             /home/runner/work/sifu/sifu/storage
-          key: ${{ runner.os }}-storage-${{ hashFiles('**/.cookies.json') }}
+          key: ${{ runner.os }}-storage
           restore-keys: |
-            ${{ runner.os }}-storage-
+            ${{ runner.os }}-storage
 
       - name: Install dependencies
         run: pnpm install
@@ -99,10 +99,18 @@ jobs:
           force: ${{ env.SHOULD_AMEND == 'true' }}
           amend: ${{ env.SHOULD_AMEND == 'true' }}
 
+      - name: Save crawlee storage
+        uses: actions/cache/save@v3
+        with:
+          key: ${{ runner.os }}-storage
+          path: |
+            /home/runner/work/sifu/sifu/.cookies.json
+            /home/runner/work/sifu/sifu/storage
+
       - name: Dispatch trigger
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
           repository: ${{ github.repository }}
           event-type: TVPL_CRAWLER_RUN
-          client-payload: '{}'
+          client-payload: '{ "MAX_REQUESTS_PER_CRAWL": ${{ env.MAX_REQUESTS_PER_CRAWL }}, "MAX_CONCURRENCY": ${{ env.MAX_CONCURRENCY }} }'
