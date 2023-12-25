@@ -1,4 +1,4 @@
-name: CI Runner
+name: TVPL Crawler
 
 on:
   workflow_dispatch:
@@ -10,19 +10,19 @@ on:
       MAX_REQUESTS_PER_CRAWL:
         type: number
         description: 'Max requests per crawl'
-        default: 100
+        default: 50
       MAX_CONCURRENCY:
         type: number
         description: 'Max concurrency'
         default: 5
   repository_dispatch:
-    types: [run-ci]
+    types: [TVPL_CRAWLER_RUN]
 
 env:
   CI_RUNNER: true
   CRAWLEE_STORAGE_DIR: 'ci-storage'
   CRAWLEE_PURGE_ON_START: ${{ (github.event.inputs.CRAWLEE_PURGE_ON_START) && '1' || '0' }}
-  MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || 100 }}
+  MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || 50 }}
   MAX_CONCURRENCY: ${{ github.event.inputs.MAX_CONCURRENCY || 5 }}
   TVPL_USERNAME: ${{ secrets.TVPL_USERNAME }}
   TVPL_PASSWORD: ${{ secrets.TVPL_PASSWORD }}
@@ -64,9 +64,22 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Download a single artifact
+        uses: actions/download-artifact@v3
+        continue-on-error: true
+        with:
+          name: tvpl-cookies
+
       - name: Run
         run: pnpm run start:ci
         continue-on-error: true
+
+      - name: 'Upload cookies'
+        uses: actions/upload-artifact@v3
+        with:
+          name: tvpl-cookies
+          path: cookies.json
+          retention-days: 30
 
       - name: Should amend if the last commit message is the same
         id: should-amend
@@ -92,5 +105,5 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           repository: ${{ github.repository }}
-          event-type: run-ci
+          event-type: TVPL_CRAWLER_RUN
           client-payload: '{}'
