@@ -132,71 +132,84 @@ tvplRouter.addHandler(
     )
 
     // Get all related documents
-    const guidedDocuments = await getRelatedDocuments(
+    const guidedDocuments = await getRelatedDocuments({
       page,
-      '#guidedDocument',
+      selector: '#guidedDocument',
       enqueueLinks,
-    )
-    const consolidatingDocuments = await getRelatedDocuments(
+      log,
+    })
+    const consolidatingDocuments = await getRelatedDocuments({
       page,
-      '#DuocHopNhatDocument',
+      selector: '#DuocHopNhatDocument',
       enqueueLinks,
-    )
-    const amendedDocuments = await getRelatedDocuments(
+      log,
+    })
+    const amendedDocuments = await getRelatedDocuments({
       page,
-      '#amendedDocument',
+      selector: '#amendedDocument',
       enqueueLinks,
-    )
-    const rectifiedDocuments = await getRelatedDocuments(
+      log,
+    })
+    const rectifiedDocuments = await getRelatedDocuments({
       page,
-      '#correctedDocument',
+      selector: '#correctedDocument',
       enqueueLinks,
-    )
-    const supersededDocuments = await getRelatedDocuments(
+      log,
+    })
+    const supersededDocuments = await getRelatedDocuments({
       page,
-      '#replacedDocument',
+      selector: '#replacedDocument',
       enqueueLinks,
-    )
-    const referredDocuments = await getRelatedDocuments(
+      log,
+    })
+    const referredDocuments = await getRelatedDocuments({
       page,
-      '#referentialDocument',
+      selector: '#referentialDocument',
       enqueueLinks,
-    )
-    const influentialDocuments = await getRelatedDocuments(
+      log,
+    })
+    const influentialDocuments = await getRelatedDocuments({
       page,
-      '#basisDocument',
+      selector: '#basisDocument',
       enqueueLinks,
-    )
-    const guidingDocuments = await getRelatedDocuments(
+      log,
+    })
+    const guidingDocuments = await getRelatedDocuments({
       page,
-      '#guideDocument',
+      selector: '#guideDocument',
       enqueueLinks,
-    )
-    const consolidatedDocuments = await getRelatedDocuments(
+      log,
+    })
+    const consolidatedDocuments = await getRelatedDocuments({
       page,
-      '#HopNhatDocument',
+      selector: '#HopNhatDocument',
       enqueueLinks,
-    )
-    const amendingDocuments = await getRelatedDocuments(
+      log,
+    })
+    const amendingDocuments = await getRelatedDocuments({
       page,
-      '#amendDocument',
+      selector: '#amendDocument',
       enqueueLinks,
-    )
-    const rectifyingDocuments = await getRelatedDocuments(
+      log,
+    })
+    const rectifyingDocuments = await getRelatedDocuments({
       page,
-      '#correctingDocument',
+      selector: '#correctingDocument',
       enqueueLinks,
-    )
-    const supersedingDocuments = await getRelatedDocuments(
+      log,
+    })
+    const supersedingDocuments = await getRelatedDocuments({
       page,
-      '#replaceDocument',
+      selector: '#replaceDocument',
       enqueueLinks,
-    )
-    const relevantDocuments = await getRelatedDocuments(
+      log,
+    })
+    const relevantDocuments = await getRelatedDocuments({
       page,
-      '#contentConnection',
+      selector: '#contentConnection',
       enqueueLinks,
-    )
+      log,
+    })
 
     // Get document content from the tab "Nội dung"
     try {
@@ -282,11 +295,17 @@ tvplRouter.addHandler(
   },
 )
 
-async function getRelatedDocuments(
-  page: Page,
-  selector: string,
-  enqueueLinks: CrawlingContext['enqueueLinks'],
-) {
+async function getRelatedDocuments({
+  page,
+  selector,
+  enqueueLinks,
+  log,
+}: {
+  page: Page
+  selector: string
+  enqueueLinks: CrawlingContext['enqueueLinks']
+  log: CrawlingContext['log']
+}) {
   const documents = await page.$$eval(`${selector} div.dgc`, (els) => {
     const documents = els.map((el) => {
       // First child
@@ -324,12 +343,18 @@ async function getRelatedDocuments(
     return documents
   })
 
+  const originalTitle = await page.title()
+
   // Convert properties to object with English keys
   return documents.map((document) => {
     if (document.url) {
       enqueueLinks?.({
         urls: [document.url],
         label: 'detail',
+      })
+      log?.info(`🔗 Enqueued ${document.title}`, {
+        original: originalTitle,
+        url: document.url,
       })
     }
 
