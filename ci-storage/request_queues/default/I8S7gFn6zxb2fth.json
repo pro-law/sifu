@@ -1,9 +1,0 @@
-{
-	"id": "I8S7gFn6zxb2fth",
-	"json": "{\"id\":\"I8S7gFn6zxb2fth\",\"url\":\"https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Chi-thi-25-CT-UBND-2023-cao-diem-tan-cong-tran-ap-toi-pham-Tet-Nguyen-dan-Giap-Thin-Vinh-Phuc-591450.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Chi-thi-25-CT-UBND-2023-cao-diem-tan-cong-tran-ap-toi-pham-Tet-Nguyen-dan-Giap-Thin-Vinh-Phuc-591450.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Chi-thi-25-CT-UBND-2023-cao-diem-tan-cong-tran-ap-toi-pham-Tet-Nguyen-dan-Giap-Thin-Vinh-Phuc-591450.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.waitForSelector: Timeout 10000ms exceeded.\\nCall log:\\n  - waiting for locator('#viewingDocument')\\n\\n    at <anonymous> (/home/runner/work/sifu/sifu/src/tvpl/router.ts:93:16)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":5}}}",
-	"method": "GET",
-	"orderNo": 1703487611400,
-	"retryCount": 1,
-	"uniqueKey": "https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Chi-thi-25-CT-UBND-2023-cao-diem-tan-cong-tran-ap-toi-pham-Tet-Nguyen-dan-Giap-Thin-Vinh-Phuc-591450.aspx",
-	"url": "https://thuvienphapluat.vn/van-ban/Van-hoa-Xa-hoi/Chi-thi-25-CT-UBND-2023-cao-diem-tan-cong-tran-ap-toi-pham-Tet-Nguyen-dan-Giap-Thin-Vinh-Phuc-591450.aspx"
-}

@@ -20,7 +20,7 @@ on:
 
 env:
   CI_RUNNER: true
-  CRAWLEE_STORAGE_DIR: 'ci-storage'
+  CRAWLEE_STORAGE_DIR: 'storage'
   CRAWLEE_PURGE_ON_START: ${{ (github.event.inputs.CRAWLEE_PURGE_ON_START == 'true') && '1' || '0' }}
   MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || 50 }}
   MAX_CONCURRENCY: ${{ github.event.inputs.MAX_CONCURRENCY || 5 }}
@@ -61,13 +61,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-store-
 
-      - name: Cache .cookies.json
+      - name: Cache crawlee storage
         uses: actions/cache@v3
         with:
-          path: /home/runner/work/sifu/sifu/.cookies.json
-          key: ${{ runner.os }}-cookies-${{ hashFiles('**/.cookies.json') }}
+          path: |
+            /home/runner/work/sifu/sifu/.cookies.json
+            /home/runner/work/sifu/sifu/storage
+          key: ${{ runner.os }}-storage-${{ hashFiles('**/.cookies.json') }}
           restore-keys: |
-            ${{ runner.os }}-cookies-
+            ${{ runner.os }}-storage-
 
       - name: Install dependencies
         run: pnpm install

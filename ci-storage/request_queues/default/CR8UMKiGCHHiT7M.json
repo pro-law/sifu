@@ -1,9 +1,0 @@
-{
-	"id": "CR8UMKiGCHHiT7M",
-	"json": "{\"id\":\"CR8UMKiGCHHiT7M\",\"url\":\"https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-24-2023-TT-BYT-quan-ly-nhiem-vu-khoa-hoc-va-cong-nghe-thuoc-Bo-Y-te-592286.aspx\",\"loadedUrl\":\"https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-24-2023-TT-BYT-quan-ly-nhiem-vu-khoa-hoc-va-cong-nghe-thuoc-Bo-Y-te-592286.aspx\",\"uniqueKey\":\"https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-24-2023-TT-BYT-quan-ly-nhiem-vu-khoa-hoc-va-cong-nghe-thuoc-Bo-Y-te-592286.aspx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.evaluate: Execution context was destroyed, most likely because of a navigation\\n    at checkIsSignedIn (/home/runner/work/sifu/sifu/src/tvpl/verify-signed-in.ts:39:33)\\n    at verifySignedIn (/home/runner/work/sifu/sifu/src/tvpl/verify-signed-in.ts:31:39)\\n    at <anonymous> (/home/runner/work/sifu/sifu/src/tvpl/router.ts:54:5)\\n    at wrap (/home/runner/work/sifu/sifu/node_modules/.pnpm/@apify+timeout@0.3.0/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"skipNavigation\":false,\"state\":5}}}",
-	"method": "GET",
-	"orderNo": 1703487588105,
-	"retryCount": 1,
-	"uniqueKey": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-24-2023-TT-BYT-quan-ly-nhiem-vu-khoa-hoc-va-cong-nghe-thuoc-Bo-Y-te-592286.aspx",
-	"url": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-24-2023-TT-BYT-quan-ly-nhiem-vu-khoa-hoc-va-cong-nghe-thuoc-Bo-Y-te-592286.aspx"
-}
