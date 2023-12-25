@@ -22,8 +22,8 @@ env:
   CI_RUNNER: true
   CRAWLEE_STORAGE_DIR: 'storage'
   CRAWLEE_PURGE_ON_START: ${{ (github.event.inputs.CRAWLEE_PURGE_ON_START == 'true') && '1' || '0' }}
-  MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || 50 }}
-  MAX_CONCURRENCY: ${{ github.event.inputs.MAX_CONCURRENCY || 5 }}
+  MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || github.event.client_payload.MAX_REQUESTS_PER_CRAWL || 50 }}
+  MAX_CONCURRENCY: ${{ github.event.inputs.MAX_CONCURRENCY || github.event.client_payload.MAX_CONCURRENCY || 5 }}
   TVPL_USERNAME: ${{ secrets.TVPL_USERNAME }}
   TVPL_PASSWORD: ${{ secrets.TVPL_PASSWORD }}
   TVPL_MEMBER_GA: ${{ secrets.TVPL_MEMBER_GA }}
@@ -67,7 +67,7 @@ jobs:
           path: |
             /home/runner/work/sifu/sifu/.cookies.json
             /home/runner/work/sifu/sifu/storage
-          key: ${{ runner.os }}-storage
+          key: ${{ runner.os }}-storage-${{ hashFiles('**/.last-crawl') }}
           restore-keys: |
             ${{ runner.os }}-storage
 
@@ -91,6 +91,11 @@ jobs:
             echo "SHOULD_AMEND=false" >> $GITHUB_ENV
           fi
 
+      - name: Dump current time to .last-crawl
+        run: |
+          echo $(date +%s) > .last-crawl
+          cat .last-crawl
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
@@ -102,13 +107,13 @@ jobs:
       - name: Save crawlee storage
         uses: actions/cache/save@v3
         with:
-          key: ${{ runner.os }}-storage
+          key: ${{ runner.os }}-storage-${{ hashFiles('**/.last-crawl') }}
           path: |
             /home/runner/work/sifu/sifu/.cookies.json
             /home/runner/work/sifu/sifu/storage
 
       - name: Dispatch trigger
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.GH_TOKEN }}
           repository: ${{ github.repository }}
