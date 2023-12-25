@@ -4,7 +4,7 @@ import { startUrls, tvplRouter } from './router'
 const crawler = new PlaywrightCrawler({
   headless: true,
   requestHandler: tvplRouter,
-  maxConcurrency: 5,
+  maxConcurrency: +(process.env.MAX_CONCURRENCY || 1),
   // sameDomainDelaySecs: 2,
   launchContext: {
     useIncognitoPages: true,
@@ -20,7 +20,7 @@ const crawler = new PlaywrightCrawler({
 
 async function crawlTVPL() {
   await crawler.run(startUrls)
-  console.log('FINISHED!')
+  console.log('Finished crawling TVPL. Exiting...')
   process.exit(0)
 }
 

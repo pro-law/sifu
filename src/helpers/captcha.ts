@@ -14,7 +14,7 @@ async function solveCaptcha(base64: string) {
         content: [
           {
             type: 'text',
-            text: 'what are the digits in this image? only response the digits',
+            text: 'what are the digits in this image? Only response the digits and nothing else.',
           },
           {
             type: 'image_url',
@@ -26,8 +26,8 @@ async function solveCaptcha(base64: string) {
       },
     ],
   })
-  console.log(response.choices[0])
-  return response.choices[0].message.content
+  const captcha = response.choices[0].message.content?.replace(/\D/g, '')
+  return captcha
 }
 
 export { solveCaptcha }

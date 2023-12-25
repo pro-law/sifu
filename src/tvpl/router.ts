@@ -1,11 +1,11 @@
 import { CrawlingContext, createPlaywrightRouter, sleep } from 'crawlee'
-import { clearCookies, verifySignedIn } from './verify-signed-in'
+import { verifySignedIn } from './verify-signed-in'
 import { Page } from 'playwright'
 import { Document, RelatedDocument } from './types'
-import { fileURLToPath } from 'url'
 import path from 'path'
 import { mkdirSync, writeFileSync } from 'fs'
 import Turndown from 'turndown'
+import numeral from 'numeral'
 import { solveCaptcha } from '../helpers/captcha'
 
 const startUrls = ['https://thuvienphapluat.vn']
@@ -17,11 +17,14 @@ tvplRouter.addDefaultHandler(async ({ enqueueLinks, log }) => {
   await enqueueLinks({
     // urls: ['https://thuvienphapluat.vn/page/tim-van-ban.aspx'],
     urls: [
-      // 'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=Hi%E1%BA%BFn%20ph%C3%A1p', // Hien phap
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=Hi%E1%BA%BFn%20ph%C3%A1p', // Hien phap
       'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=luat', // Luat
       'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh', // Nghi dinh
       'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=th%C3%B4ng%20t%C6%B0', // Thong tu
       'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=nghi%20quyet', // Nghi quyet
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=chi%20thi&match=True&area=0', // Chi thi
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=sac%20lenh', // Sac lenh
+      'https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=phap%20lenh&area=0', // Phap lenh
     ],
     label: 'list',
   })
@@ -46,6 +49,8 @@ tvplRouter.addHandler('list', async ({ request, enqueueLinks, log }) => {
 tvplRouter.addHandler(
   'detail',
   async ({ request, page, log, enqueueLinks }) => {
+    const start = Date.now()
+
     await verifySignedIn({ page, log })
 
     const title = await page.title()
@@ -55,12 +60,6 @@ tvplRouter.addHandler(
       title === 'THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam' ||
       request.loadedUrl?.includes('checkvb.aspx')
     ) {
-      // session?.retire()
-      // await sleep(50000000)
-
-      // await clearCookies({ page, log })
-
-      // throw new Error('Captcha detected')
       log.warning('Captcha detected')
       const buffer = await page.screenshot({
         clip: {
@@ -81,7 +80,7 @@ tvplRouter.addHandler(
       }
 
       await page.fill('#ctl00_Content_txtSecCode', solved)
-      await page.click('#ctl00_Content_CheckButton', { force: true })
+      await page.press('#ctl00_Content_txtSecCode', 'Enter')
       await sleep(1000)
     }
 
@@ -263,6 +262,12 @@ tvplRouter.addHandler(
     }
 
     await saveDocument(doc)
+
+    log.info(
+      `✅ ${title} in ${numeral(Date.now() - start).format(
+        '00:00',
+      )} (#${request.retryCount})`,
+    )
   },
 )
 

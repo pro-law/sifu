@@ -11,6 +11,10 @@ on:
         type: number
         description: 'Max requests per crawl'
         default: 100
+      MAX_CONCURRENCY:
+        type: number
+        description: 'Max concurrency'
+        default: 5
   repository_dispatch:
     types: [run-ci]
 
@@ -19,6 +23,7 @@ env:
   CRAWLEE_STORAGE_DIR: 'ci-storage'
   CRAWLEE_PURGE_ON_START: ${{ (github.event.inputs.CRAWLEE_PURGE_ON_START) && '1' || '0' }}
   MAX_REQUESTS_PER_CRAWL: ${{ github.event.inputs.MAX_REQUESTS_PER_CRAWL || 100 }}
+  MAX_CONCURRENCY: ${{ github.event.inputs.MAX_CONCURRENCY || 5 }}
   TVPL_USERNAME: ${{ secrets.TVPL_USERNAME }}
   TVPL_PASSWORD: ${{ secrets.TVPL_PASSWORD }}
   TVPL_MEMBER_GA: ${{ secrets.TVPL_MEMBER_GA }}

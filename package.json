@@ -18,6 +18,7 @@
   "dependencies": {
     "crawlee": "3.6.2",
     "dotenv": "^16.3.1",
+    "numeral": "^2.0.6",
     "openai": "^4.24.1",
     "playwright": "*",
     "turndown": "^7.1.2"
@@ -25,6 +26,7 @@
   "devDependencies": {
     "@apify/tsconfig": "0.1.0",
     "@types/node": "18",
+    "@types/numeral": "^2.0.5",
     "@types/turndown": "^5.0.4",
     "prettier": "3.1.1",
     "tsx": "4.7.0",

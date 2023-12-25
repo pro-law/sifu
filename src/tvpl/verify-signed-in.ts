@@ -27,6 +27,10 @@ async function verifySignedIn({ page, log }: { page: Page; log: Log }) {
 
   await signIn({ page, log })
 
+  // Check if signed in
+  const isSignedInAfterSignIn = await checkIsSignedIn({ page, log })
+  log.info(`Is signed in: ${isSignedInAfterSignIn}`)
+
   // Save session
   await saveCookies({ page, log })
 }
