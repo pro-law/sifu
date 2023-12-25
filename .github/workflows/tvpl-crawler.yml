@@ -80,14 +80,16 @@ jobs:
           CRAWLEE_PURGE_ON_START=${{ env.CRAWLEE_PURGE_ON_START }} pnpm start:ci
         continue-on-error: true
 
-      - name: Should amend if the last commit message is the same and less than 20 files changed
+      - name: Should amend if the last commit message is the same
         id: should-amend
         run: |
-          git diff --name-only HEAD^ HEAD | wc -l
-          git log -1 --pretty=%B
-          git log -1 --pretty=%B | grep -q 'chore(documents): update documents [skip ci]'
-          echo "CHANGED_FILES=$(git diff --name-only HEAD^ HEAD | wc -l)" >> $GITHUB_ENV
-          echo "SHOULD_AMEND=$(git log -1 --pretty=%B | grep -q 'chore(documents): update documents [skip ci]' && [[ $CHANGED_FILES -lt 20 ]] && echo 'true' || echo 'false')" >> $GITHUB_ENV
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=format:%s)
+          echo "Last commit message: $LAST_COMMIT_MESSAGE"
+          if [[ $LAST_COMMIT_MESSAGE == "chore(documents): update documents [skip ci]" ]]; then
+            echo "SHOULD_AMEND=true" >> $GITHUB_ENV
+          else
+            echo "SHOULD_AMEND=false" >> $GITHUB_ENV
+          fi
 
       - name: Dump current time to .last-crawl
         run: |
