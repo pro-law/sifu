@@ -1,0 +1,919 @@
+{
+  "title": "Nghị định 88/1998/NĐ-CP về chức năng, quyền hạn và tổ chức bộ máy của Ngân hàng Nhà nước Việt Nam",
+  "notes": "",
+  "guidedDocuments": [
+    {
+      "title": "Luật Ngân hàng Nhà nước 1997",
+      "id": "06/1997/QH10",
+      "legislationType": "Luật",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1997-12-12",
+      "effectiveDate": "1998-10-01",
+      "gazetteDate": "1998-02-10",
+      "gazetteNumber": "Số 4",
+      "status": "Hết hiệu lực: 01/01/2011"
+    }
+  ],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Nghị định 20-CP năm 1995 về tổ chức bộ máy Ngân hàng Nhà nước Việt Nam",
+      "id": "20-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Võ Văn Kiệt"
+      ],
+      "issuedDate": "1995-03-01",
+      "effectiveDate": "1995-03-01",
+      "gazetteDate": "1995-05-15",
+      "gazetteNumber": "Số 9",
+      "status": "Hết hiệu lực: 17/11/1998"
+    },
+    {
+      "title": "Quyết định 196/QĐ-NH9 năm 1995 về Quy chế tổ chức và hoạt động của Vụ Quản lý các Tổ chức tín dụng Nhân dân do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "196/QĐ-NH9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Cao Sĩ Kiêm"
+      ],
+      "issuedDate": "1995-07-11",
+      "effectiveDate": "1995-07-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/11/1998"
+    },
+    {
+      "title": "Quyết định 323/QĐ-NH9 năm 1995 về Quy chế tổ chức và hoạt động của Viện khoa học Ngân hàng do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "323/QĐ-NH9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Cao Sĩ Kiêm"
+      ],
+      "issuedDate": "1995-11-21",
+      "effectiveDate": "1995-11-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/11/1998"
+    },
+    {
+      "title": "Quyết định 322/QĐ-NH9 sửa đổi Quy chế tổ chức và hoạt động của Trung tâm Đào tạo và Nghiên cứu khoa học Ngân hàng kèm theo Quyết định 104/QĐ-NH9 năm 1993 do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "322/QĐ-NH9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Cao Sĩ Kiêm"
+      ],
+      "issuedDate": "1995-11-21",
+      "effectiveDate": "1995-11-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/11/1998"
+    },
+    {
+      "title": "Quyết định 228/QĐ-NH9 năm 1995 bổ sung nhiệm vụ của Vụ quản lý các Tổ chức tín dụng nhân dân do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "228/QĐ-NH9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Cao Sĩ Kiêm"
+      ],
+      "issuedDate": "1995-08-26",
+      "effectiveDate": "1995-08-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/11/1998"
+    },
+    {
+      "title": "Quyết định 141/QĐ-NH9 năm 1995 ban hành Quy chế tổ chức và hoạt động của Vụ Thông tin kinh tế nghiệp vụ Ngân hàng do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "141/QĐ-NH9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Cao Sĩ Kiêm"
+      ],
+      "issuedDate": "1995-05-22",
+      "effectiveDate": "1995-05-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/11/1998"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết số 01/1997/NQ-QH10 về việc xác nhận tư cách đại biểu của các Đại biểu Quốc hội khoá X do Quốc hội ban hành",
+      "id": "01/1997/NQ-QH10",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1997-09-22",
+      "effectiveDate": "1997-10-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Luật Tổ chức Chính phủ 1992",
+      "id": "1/L-CTN",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "1992-09-30",
+      "effectiveDate": "1992-10-02",
+      "gazetteDate": "1992-11-30",
+      "gazetteNumber": "Số 22",
+      "status": "Hết hiệu lực: 07/01/2002"
+    }
+  ],
+  "guidingDocuments": [
+    {
+      "title": "Quyết định 412/1999/QĐ-NHNN9 về ban hành Quy chế tổ chức và hoạt động của Vụ Pháp chế do Ngân hàng Nhà nước ban hành",
+      "id": "412/1999/QĐ-NHNN9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "1999-11-17",
+      "effectiveDate": "1999-12-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/10/2004"
+    },
+    {
+      "title": "Quyết định 128/1999/QĐ-NHNN9 về Quy chế tổ chức và hoạt động của Vụ Tổ chức cán bộ và đào tạo do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "128/1999/QĐ-NHNN9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "1999-04-10",
+      "effectiveDate": "1999-04-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/10/2004"
+    },
+    {
+      "title": "Quyết định 38/1999/QĐ-NHNN9 ban hành quy chế tổ chức và hoạt động của Sở Giao dịch thuộc Ngân hàng Nhà nước do Ngân hàng Nhà nước ban hành",
+      "id": "38/1999/QĐ-NHNN9",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thúy"
+      ],
+      "issuedDate": "1999-01-21",
+      "effectiveDate": "1999-02-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/10/2004"
+    }
+  ],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Nghị định 52/2003/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+      "id": "52/2003/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2003-05-19",
+      "effectiveDate": "2003-07-01",
+      "gazetteDate": "2003-06-16",
+      "gazetteNumber": "Số 55",
+      "status": "Hết hiệu lực: 23/09/2008"
+    },
+    {
+      "title": "Nghị định 96/2008/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng nhà nước Việt Nam",
+      "id": "96/2008/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2008-08-26",
+      "effectiveDate": "2008-09-23",
+      "gazetteDate": "2008-09-08",
+      "gazetteNumber": "Từ số 505 đến số 506",
+      "status": "Hết hiệu lực: 26/12/2013"
+    },
+    {
+      "title": "Nghị định 156/2013/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+      "id": "156/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-11",
+      "effectiveDate": "2013-12-26",
+      "gazetteDate": "2013-11-27",
+      "gazetteNumber": "Từ số 821 đến số 822",
+      "status": "Hết hiệu lực: 17/02/2017"
+    },
+    {
+      "title": "Nghị định 16/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+      "id": "16/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-02-17",
+      "effectiveDate": "2017-02-17",
+      "gazetteDate": "2017-02-27",
+      "gazetteNumber": "Từ số 157 đến số 158",
+      "status": "Hết hiệu lực: 01/01/2023"
+    },
+    {
+      "title": "Nghị định 102/2022/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+      "id": "102/2022/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-12-12",
+      "effectiveDate": "2023-01-01",
+      "gazetteDate": "2022-12-25",
+      "gazetteNumber": "Từ số 949 đến số 950",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 30/2007/QĐ-NHNN sửa đổi Quy chế Tổ chức và hoạt động của Vụ Kế toán - Tài chính kèm theo Quyết định 01/2006/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "30/2007/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2007-06-29",
+      "effectiveDate": "2007-08-07",
+      "gazetteDate": "2007-07-23",
+      "gazetteNumber": "Từ số 492 đến số 493",
+      "status": "Hết hiệu lực: 07/10/2008"
+    },
+    {
+      "title": "Quyết định 25/2007/QĐ-NHNN sửa đổi Quy chế tổ chức và hoạt động của Vụ Tổ chức cán bộ kèm theo Quyết định 1133/2004/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "25/2007/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2007-06-18",
+      "effectiveDate": "2007-07-16",
+      "gazetteDate": "2007-07-01",
+      "gazetteNumber": "Từ số 428 đến số 429",
+      "status": "Hết hiệu lực: 06/10/2008"
+    },
+    {
+      "title": "Quyết định 57/2006/QĐ-NHNN ban hành Quy chế tiêu huỷ tiền in hỏng,giấy in tiền hỏng tại các Nhà máy in tiền do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "57/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-12-15",
+      "effectiveDate": "2006-12-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/02/2014"
+    },
+    {
+      "title": "Quyết định 55/2006/QĐ-NHNN bổ sung Điểm 2 Phục lục số 3 Quy định về hệ thống mã Ngân hàng dùng trong giao dịch thanh toán qua Ngân hàng Nhà nước kèm theo Quyết định 02/2006/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước",
+      "id": "55/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-12-05",
+      "effectiveDate": "2007-01-21",
+      "gazetteDate": "2007-01-06",
+      "gazetteNumber": "Từ số 11 đến số 12",
+      "status": "Hết hiệu lực: 01/04/2008"
+    },
+    {
+      "title": "Chỉ thị 04/2006/CT-NHNN về tăng cường công tác bảo mật thông tin trong hệ thống Ngân hàng Nhà nước do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "04/2006/CT-NHNN",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-11-16",
+      "effectiveDate": "2006-12-15",
+      "gazetteDate": "2006-11-30",
+      "gazetteNumber": "Từ số 32 đến số 33",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 54/2006/QĐ-NHNN sửa đổi Quy chế tổ chức và hoạt động của Thời báo Ngân hàng kèm theo Quyết định 1049/2004/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "54/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-10-31",
+      "effectiveDate": "2006-11-27",
+      "gazetteDate": "2006-11-12",
+      "gazetteNumber": "Từ số 13 đến số 14",
+      "status": "Hết hiệu lực: 31/12/2008"
+    },
+    {
+      "title": "Thông tư 08/2006/TT-NHNN hướng dẫn hoạt động cho thuê tài chính hợp vốn của các công ty cho thuê tài chính theo Nghị định 16/2001/NĐ-CP và Nghị định 65/2005/NĐ-CP do Ngân hàng Nhà nước ban hành",
+      "id": "08/2006/TT-NHNN",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-10-12",
+      "effectiveDate": "2006-11-08",
+      "gazetteDate": "2006-10-24",
+      "gazetteNumber": "Từ số 45 đến số 46",
+      "status": "Hết hiệu lực: 15/12/2011"
+    },
+    {
+      "title": "Quyết định 50/2006/QĐ-NHNN bổ sung, thay thế biểu thu thập thông tin và Phụ lục phân loại dư nợ trong Quy chế hoạt động Thông tin Tín dụng kèm theo Quyết định 1117/2004/QĐ-NHNN và Quyết định 1003/2005/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "50/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Trần Minh Tuấn"
+      ],
+      "issuedDate": "2006-10-02",
+      "effectiveDate": "2006-10-31",
+      "gazetteDate": "2006-10-16",
+      "gazetteNumber": "Từ số 27 đến số 28",
+      "status": "Hết hiệu lực: 01/07/2008"
+    },
+    {
+      "title": "Quyết định 49/2006/QĐ-NHNN ban hành Quy chế quản lý tài chính của Ngân hàng Nhà nước do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "49/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-09-29",
+      "effectiveDate": "2006-11-02",
+      "gazetteDate": "2006-10-18",
+      "gazetteNumber": "Từ số 35 đến số 36",
+      "status": "Hết hiệu lực: 25/09/2009"
+    },
+    {
+      "title": "Quyết định 48/2006/QĐ-NHNN sửa đổi Điểm 5 Phụ lục 3 về hệ thống mã ngân hàng dùng trong giao dịch thanh toán qua Ngân hàng Nhà nước kèm theo Quyết định 02/2006/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "48/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-09-29",
+      "effectiveDate": "2006-11-01",
+      "gazetteDate": "2006-10-12",
+      "gazetteNumber": "Từ số 17 đến số 18",
+      "status": "Hết hiệu lực: 01/04/2008"
+    },
+    {
+      "title": "Quyết định 46/2006/QĐ-NHNN sửa đổi Quy chế tổ chức và hoạt động của Trung tâm Thông tin tín dụng kèm theo Quyết định 508/2004/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "46/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-09-15",
+      "effectiveDate": "2006-10-15",
+      "gazetteDate": "2006-09-30",
+      "gazetteNumber": "Từ số 65 đến số 66",
+      "status": "Hết hiệu lực: 15/01/2009"
+    },
+    {
+      "title": "Quyết định 45/2006/QĐ-NHNN về tổ chức và hoạt động của Hội đồng quản trị, ban kiểm soát, bộ máy điều hành Quỹ tín dụng nhân dân do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "45/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Trần Minh Tuấn"
+      ],
+      "issuedDate": "2006-09-11",
+      "effectiveDate": "2006-10-11",
+      "gazetteDate": "2006-09-26",
+      "gazetteNumber": "Từ số 57 đến số 58",
+      "status": "Hết hiệu lực: 09/08/2019"
+    },
+    {
+      "title": "Quyết định 43/2006/QĐ-NHNN bổ sung Điểm 5 Phụ lục 3 về hệ thống mã ngân hàng dùng trong giao dịch thanh toán qua Ngân hàng Nhà nước kèm theo Quyết định 02/2006/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "43/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-08-29",
+      "effectiveDate": "2006-09-28",
+      "gazetteDate": "2006-09-11",
+      "gazetteNumber": "Từ số 29 đến số 30",
+      "status": "Hết hiệu lực: 01/04/2008"
+    },
+    {
+      "title": "Quyết định 42/2006/QĐ-NHNN sửa đổi Quy chế lưu ký giấy tờ có giá tại Ngân hàng Nhà nước kèm theo Quyết định 1022/2004/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "42/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Phùng Khắc Kế"
+      ],
+      "issuedDate": "2006-08-28",
+      "effectiveDate": "2006-09-26",
+      "gazetteDate": "2006-09-11",
+      "gazetteNumber": "Từ số 29 đến số 30",
+      "status": "Hết hiệu lực: 01/06/2016"
+    },
+    {
+      "title": "Quyết định 40/2006/QĐ-NHNN ban hành Quy chế Thi đua-Khen thưởng ngành Ngân hàng do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "40/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-08-17",
+      "effectiveDate": "2006-09-17",
+      "gazetteDate": "2006-09-02",
+      "gazetteNumber": "Từ số 15 đến số 16",
+      "status": "Hết hiệu lực: 25/01/2012"
+    },
+    {
+      "title": "Quyết định 41/2006/QĐ-NHNN về Quy chế hoạt động của lực lượng bảo vệ trong Hệ thống Ngân hàng Nhà nước do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "41/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-08-17",
+      "effectiveDate": "2006-09-17",
+      "gazetteDate": "2006-09-02",
+      "gazetteNumber": "Từ số 15 đến số 16",
+      "status": "Hết hiệu lực: 15/02/2021"
+    },
+    {
+      "title": "Quyết định 1031/QĐ-TTg năm 2006 về việc bổ nhiệm ông Nguyễn Thanh Chuân, giữ chức Uỷ viên Hội đồng quản lý kiêm Trưởng ban Kiểm soát Ngân hàng Phát triển Việt Nam do Thủ tướng Chính phủ ban hành",
+      "id": "1031/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2006-08-03",
+      "effectiveDate": "2006-08-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 36/2006/QĐ-NHNN về Quy chế kiểm tra, kiểm soát nội bộ của tổ chức tín dụng do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "36/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Đặng Thanh Bình"
+      ],
+      "issuedDate": "2006-08-01",
+      "effectiveDate": "2006-08-23",
+      "gazetteDate": "2006-08-08",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 12/02/2012"
+    },
+    {
+      "title": "Quyết định 37/2006/QĐ-NHNN về Quy chế kiểm toán nội bộ của tổ chức tín dụng do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "37/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Đặng Thanh Bình"
+      ],
+      "issuedDate": "2006-08-01",
+      "effectiveDate": "2006-08-23",
+      "gazetteDate": "2006-08-08",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 12/02/2012"
+    },
+    {
+      "title": "Quyết định 35/2006/QĐ-NHNN về các nguyên tắc quản lý rủi ro trong hoạt động ngân hàng điện tử do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "35/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Đặng Thanh Bình"
+      ],
+      "issuedDate": "2006-07-31",
+      "effectiveDate": "2006-08-20",
+      "gazetteDate": "2006-08-05",
+      "gazetteNumber": "Số 2",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 33/2006/QĐ-NHNN sửa đổi Điều 13 Quy chế Thanh toán điện tử liên ngân hàng theo Quyết định 309/2002/QĐ-NHNN do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "33/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-07-28",
+      "effectiveDate": "2006-08-16",
+      "gazetteDate": "2006-08-01",
+      "gazetteNumber": "Số 1",
+      "status": "Hết hiệu lực: 01/01/2011"
+    },
+    {
+      "title": "Quyết định 34/2006/QĐ-NHNN sửa đổi Khoản 1 Điều 1 Quyết định 1014/2005/QĐ-NHNN về việc sửa đổi Quy trình kỹ thuật nghiệp vụ chuyển tiền điện tử trong hệ thống Ngân hàng Nhà nước theo Quyết định 134/2000/QĐ-NHNN2 do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "34/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-07-28",
+      "effectiveDate": "2006-08-16",
+      "gazetteDate": "2006-08-01",
+      "gazetteNumber": "Số 1",
+      "status": "Hết hiệu lực: 01/01/2011"
+    },
+    {
+      "title": "Quyết định 32/2006/QĐ-NHNN về kế toán trên máy vi tính đối với Ngân hàng Nhà nước, các tổ chức tín dụng do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "32/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Vũ Thị Liên"
+      ],
+      "issuedDate": "2006-07-19",
+      "effectiveDate": "2006-08-13",
+      "gazetteDate": "2006-07-29",
+      "gazetteNumber": "Số 28",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 31/2006/QĐ-NHNN Quy định tiêu chuẩn của thành viên Hội đồng quản trị,thành viên Ban kiểm soát và người điều hành Quỹ tín dụng nhân dân Việt Nam do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "31/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Trần Minh Tuấn"
+      ],
+      "issuedDate": "2006-07-18",
+      "effectiveDate": "2006-08-14",
+      "gazetteDate": "2006-07-30",
+      "gazetteNumber": "Từ số 29 đến số 30",
+      "status": "Hết hiệu lực: 09/08/2019"
+    },
+    {
+      "title": "Quyết định 30/2006/QĐ-NHNN ban hành Quy chế cung ứng và sử dụng séc do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "30/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Đồng Tiến"
+      ],
+      "issuedDate": "2006-07-11",
+      "effectiveDate": "2006-08-06",
+      "gazetteDate": "2006-07-22",
+      "gazetteNumber": "Từ số 19 đến số 20",
+      "status": "Hết hiệu lực: 12/01/2016"
+    },
+    {
+      "title": "Quyết định 29/2006/QĐ-NHNN sửa đổi, bổ sung, hủy bỏ một số tài khoản trong Hệ thống tài khoản kế toán các Tổ chức tín dụng theo Quyết định 479/2004/QĐ-NHNN và Quyết định 807/2005/QĐ-NHNN do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "29/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Vũ Thị Liên"
+      ],
+      "issuedDate": "2006-07-10",
+      "effectiveDate": "2006-09-01",
+      "gazetteDate": "2006-07-22",
+      "gazetteNumber": "Từ số 19 đến số 20",
+      "status": "Hết hiệu lực: 01/06/2014"
+    },
+    {
+      "title": "Quyết định 28/2006/QĐ-NHNN về Quy chế Đào tạo, bồi dưỡng cán bộ, công chức, viên chức Ngân hàng Nhà nước do Thống đốc Ngân hàng nhà nước ban hành",
+      "id": "28/2006/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2006-06-30",
+      "effectiveDate": "2006-07-26",
+      "gazetteDate": "2006-07-11",
+      "gazetteNumber": "Số 8",
+      "status": "Hết hiệu lực: 27/06/2012"
+    },
+    {
+      "title": "Quyết định 112/2006/QĐ-TTg phê duyệt Đề án phát triển ngành Ngân hàng Việt Nam đến năm 2010 và định hướng đến năm 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "112/2006/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-05-24",
+      "effectiveDate": "2006-06-16",
+      "gazetteDate": "2006-06-01",
+      "gazetteNumber": "Từ số 1 đến số 2",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1002/2005/QĐ-NHNN thành lập trung tâm thông tin phòng, chống rửa tiền trực thuộc Ngân hàng Nhà nước do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "1002/2005/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2005-07-08",
+      "effectiveDate": "2005-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 04/09/2013"
+    },
+    {
+      "title": "Quyết định 826/2005/QĐ-NHNN sửa đổi Điều 5 Quy chế tổ chức và hoạt động của Tạp chí Ngân hàng do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành",
+      "id": "826/2005/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Lê Đức Thuý"
+      ],
+      "issuedDate": "2005-06-06",
+      "effectiveDate": "2005-07-03",
+      "gazetteDate": "2005-06-18",
+      "gazetteNumber": "Số 22",
+      "status": "Hết hiệu lực: 04/02/2009"
+    },
+    {
+      "title": "Quyết định 1402/2003/QĐ-NHNN ban hành Mức thu dịch vụ Thông tin ứng dụng do Thống đốc Ngân hàng Nhà nước ban hành",
+      "id": "1402/2003/QĐ-NHNN",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Nguyễn Thị Kim Phụng"
+      ],
+      "issuedDate": "2003-10-29",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-11-04",
+      "gazetteNumber": "Số 178",
+      "status": "Hết hiệu lực: 01/01/2006"
+    },
+    {
+      "title": "Thông báo số 1034/1999/TB-NHNN10 về Danh mục các văn bản đã bị huỷ bỏ, thay thế trong ngành Ngân hàng do Ngân hàng Nhà nước ban hành",
+      "id": "1034/1999/TB-NHNN10",
+      "legislationType": "Thông báo",
+      "categories": [
+        "Tiền tệ - Ngân hàng"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Trần Minh Tuấn"
+      ],
+      "issuedDate": "1999-10-27",
+      "effectiveDate": "1999-10-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 06/1999/CT-NHNN15 thực hiện Quyết định số 188/1999/QĐ-TTg quy định chế độ tuần làm việc 40 giờ trong 5 ngày (nghỉ ngày Thứ bảy và Chủ nhật) đối với cán bộ, công chức và người lao động trong các cơ quan, đơn vị hành chính, sự nghiệp, tổ chức chính trị, tổ chức chính trị-xã hội và các doanh nghiệp trong ngành Ngân hàng do Ngân hàng Nhà nước ban hành",
+      "id": "06/1999/CT-NHNN15",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Ngân hàng Nhà nước",
+      "signers": [
+        "Trần Minh Tuấn"
+      ],
+      "issuedDate": "1999-09-27",
+      "effectiveDate": "1999-09-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "88/1998/NĐ-CP",
+  "legislationType": "Nghị định",
+  "categories": [
+    "Tiền tệ - Ngân hàng"
+  ],
+  "organization": "Chính phủ",
+  "signers": [
+    "Phan Văn Khải"
+  ],
+  "issuedDate": "1998-11-02",
+  "effectiveDate": "1998-11-17",
+  "gazetteDate": "1998-12-20",
+  "gazetteNumber": "Số 35",
+  "status": "Hết hiệu lực: 01/07/2003",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"4\" cellpadding=\"0\">\n <tbody><tr>\n  <td width=\"30%\" valign=\"top\" style=\"width:30.94%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CHÍNH\n  PHỦ<br>\n  ********</b></p>\n  </td>\n  <td width=\"66%\" valign=\"top\" style=\"width:66.44%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG\n  HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ********</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"30%\" valign=\"top\" style=\"width:30.94%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  88/1998/NĐ-CP</p>\n  </td>\n  <td width=\"66%\" valign=\"top\" style=\"width:66.44%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Hà\n  nội, ngày 02 tháng 11 năm 1998</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>&nbsp;</b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">NGHỊ ĐỊNH</span></b></a><b><span style=\"font-size:12.0pt\"> </span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">CỦA CHÍNH PHỦ SỐ 88/1998/NĐ-CP NGÀY 02 THÁNG 11 NĂM 1998 VỀ\nCHỨC NĂNG, QUYỀN HẠN VÀ TỔ CHỨC BỘ MÁY CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">CHÍNH PHỦ</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức Chính phủ\nngày 30 tháng 9 năm 1992;</i><br>\n<i>Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 01/1997/QH10 ngày 12 tháng 12 năm\n1997;</i><br>\n<i>Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam và Bộ trưởng, Trưởng\nBan Tổ chức - Cán bộ Chính phủ,</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">NGHỊ ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b>\nNgân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước) là cơ quan\ncủa Chính phủ có chức năng quản lý Nhà nước về tiền tệ, hoạt động ngân hàng và\nlà Ngân hàng Trung ương của nước Cộng hoà xã hội chủ nghĩa Việt Nam.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b>\nNgân hàng Nhà nước có những nhiệm vụ và quyền hạn quy định tại Điều 5 Luật Ngân\nhàng Nhà nước Việt Nam số 01/1997/QH10 ngày 12 tháng 12 năm 1997.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b>\nCơ cấu tổ chức bộ máy của Ngân hàng Nhà nước gồm có:</a></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Các đơn vị giúp Thống đốc\nNgân hàng Nhà nước thực hiện chức năng quản lý Nhà nước và chức năng của Ngân\nhàng Trung ương:</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ chính sách tiền tệ,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Chiến lược phát triển Ngân\nhàng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Quan hệ quốc tế,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Quản lý ngoại hối,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Các Ngân hàng và Tổ chức tín dụng\nphi ngân hàng (gọi tắt là Vụ Các Ngân hàng),</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Các Tổ chức tín dụng hợp tác,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Tổng kiểm soát,</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"cumtu_3\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-763827')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-763827')\" atmm=\".lqhlTootip-763827\" onmouseout=\"hideddrivetip();\">Vụ Pháp chế</a>,\n</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Tín dụng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Kế toán - Tài chính,</p>\n\n<p style=\"margin-bottom:6.0pt\">Vụ Nghiệp vụ phát hành và kho quỹ,</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"cumtu_1\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-763828')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-763828')\" atmm=\".lqhlTootip-763828\" onmouseout=\"hideddrivetip();\">Vụ Tổ chức -\ncán bộ và đào tạo</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">Thanh tra Ngân hàng,</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"cumtu_2\" class=\"clsBookmark\" onclick=\"LS_Tip_Type_Bookmark('.lqhlTip-763829')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-763829')\" atmm=\".lqhlTootip-763829\" onmouseout=\"hideddrivetip();\">Sở Giao dịch</a>,</p>\n\n<p style=\"margin-bottom:6.0pt\">Cục Công nghệ tin học Ngân hàng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Văn phòng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Cục Quản trị.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Các Chi nhánh Ngân hàng Nhà\nnước tỉnh, thành phố trực thuộc Trung ương.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Văn phòng đại diện ở trong nước\nvà ở nước ngoài:</p>\n\n<p style=\"margin-bottom:6.0pt\">Văn phòng đại diện Ngân hàng Nhà\nnước tại thành phố Hồ Chí Minh,</p>\n\n<p style=\"margin-bottom:6.0pt\">Các Văn phòng đại diện Ngân hàng\nNhà nước ở nước ngoài được thành lập theo quyết định của Thủ tướng Chính phủ.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Các đơn vị sự nghiệp:</p>\n\n<p style=\"margin-bottom:6.0pt\">Học viện Ngân hàng, </p>\n\n<p style=\"margin-bottom:6.0pt\">Thời báo Ngân hàng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Tạp chí Ngân hàng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Trung tâm thông tin tín dụng,</p>\n\n<p style=\"margin-bottom:6.0pt\">Trung tâm Tuyên truyền - Báo\nchí,</p>\n\n<p style=\"margin-bottom:6.0pt\">Ban Quản lý các dự án tín dụng\nquốc tế.</p>\n\n<p style=\"margin-bottom:6.0pt\">Thống đốc Ngân hàng Nhà nước quy\nđịnh nhiệm vụ, quyền hạn cụ thể của các đơn vị nêu tại các khoản 1, 2, 3, 4 của\nĐiều này.</p>\n\n<p style=\"margin-bottom:6.0pt\">5. Các doanh nghiệp trực thuộc\nNgân hàng Nhà nước cung cấp sản phẩm chuyên dùng phục vụ hoạt động ngân hàng được\nthành lập theo các quy định hiện hành.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\"><b>Điều 4.</b>\nNghị định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký.</a></p>\n\n<p style=\"margin-bottom:6.0pt\">Bãi bỏ Nghị định số 20/CP ngày\n01 tháng 3 năm 1995 của Chính phủ về tổ chức bộ máy Ngân hàng Nhà nước Việt Nam\nvà những quy định trong các văn bản khác của Chính phủ trái với Nghị định này.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_5\"><b>Điều 5.</b>\nBộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ\ntịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi\nhành Nghị định này.</a></p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA4ADAAMQA=-->\n <tbody><tr>\n  <td width=\"283\" valign=\"top\" style=\"width:211.95pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n  </td>\n  <td width=\"286\" valign=\"top\" style=\"width:214.15pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>Phan\n  Văn Khải</b></p>\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">(Đã\n  ký)</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n",
+  "mdContent": "**CHÍNH PHỦ  \n\\*\\*\\*\\*\\*\\*\\*\\***\n\n**CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\*\\*\\*\\*\\*\\*\\*\\***\n\nSố: 88/1998/NĐ-CP\n\n_Hà nội, ngày 02 tháng 11 năm 1998_\n\n**NGHỊ ĐỊNH**\n\nCỦA CHÍNH PHỦ SỐ 88/1998/NĐ-CP NGÀY 02 THÁNG 11 NĂM 1998 VỀ CHỨC NĂNG, QUYỀN HẠN VÀ TỔ CHỨC BỘ MÁY CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\n\n**CHÍNH PHỦ**\n\n_Căn cứ Luật Tổ chức Chính phủ ngày 30 tháng 9 năm 1992;_  \n_Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 01/1997/QH10 ngày 12 tháng 12 năm 1997;_  \n_Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam và Bộ trưởng, Trưởng Ban Tổ chức - Cán bộ Chính phủ,_\n\n**NGHỊ ĐỊNH:**\n\n**Điều 1.** Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước) là cơ quan của Chính phủ có chức năng quản lý Nhà nước về tiền tệ, hoạt động ngân hàng và là Ngân hàng Trung ương của nước Cộng hoà xã hội chủ nghĩa Việt Nam.\n\n**Điều 2.** Ngân hàng Nhà nước có những nhiệm vụ và quyền hạn quy định tại Điều 5 Luật Ngân hàng Nhà nước Việt Nam số 01/1997/QH10 ngày 12 tháng 12 năm 1997.\n\n**Điều 3.** Cơ cấu tổ chức bộ máy của Ngân hàng Nhà nước gồm có:\n\n1\\. Các đơn vị giúp Thống đốc Ngân hàng Nhà nước thực hiện chức năng quản lý Nhà nước và chức năng của Ngân hàng Trung ương:\n\nVụ chính sách tiền tệ,\n\nVụ Chiến lược phát triển Ngân hàng,\n\nVụ Quan hệ quốc tế,\n\nVụ Quản lý ngoại hối,\n\nVụ Các Ngân hàng và Tổ chức tín dụng phi ngân hàng (gọi tắt là Vụ Các Ngân hàng),\n\nVụ Các Tổ chức tín dụng hợp tác,\n\nVụ Tổng kiểm soát,\n\nVụ Pháp chế,\n\nVụ Tín dụng,\n\nVụ Kế toán - Tài chính,\n\nVụ Nghiệp vụ phát hành và kho quỹ,\n\nVụ Tổ chức - cán bộ và đào tạo,\n\nThanh tra Ngân hàng,\n\nSở Giao dịch,\n\nCục Công nghệ tin học Ngân hàng,\n\nVăn phòng,\n\nCục Quản trị.\n\n2\\. Các Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố trực thuộc Trung ương.\n\n3\\. Văn phòng đại diện ở trong nước và ở nước ngoài:\n\nVăn phòng đại diện Ngân hàng Nhà nước tại thành phố Hồ Chí Minh,\n\nCác Văn phòng đại diện Ngân hàng Nhà nước ở nước ngoài được thành lập theo quyết định của Thủ tướng Chính phủ.\n\n4\\. Các đơn vị sự nghiệp:\n\nHọc viện Ngân hàng,\n\nThời báo Ngân hàng,\n\nTạp chí Ngân hàng,\n\nTrung tâm thông tin tín dụng,\n\nTrung tâm Tuyên truyền - Báo chí,\n\nBan Quản lý các dự án tín dụng quốc tế.\n\nThống đốc Ngân hàng Nhà nước quy định nhiệm vụ, quyền hạn cụ thể của các đơn vị nêu tại các khoản 1, 2, 3, 4 của Điều này.\n\n5\\. Các doanh nghiệp trực thuộc Ngân hàng Nhà nước cung cấp sản phẩm chuyên dùng phục vụ hoạt động ngân hàng được thành lập theo các quy định hiện hành.\n\n**Điều 4.** Nghị định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký.\n\nBãi bỏ Nghị định số 20/CP ngày 01 tháng 3 năm 1995 của Chính phủ về tổ chức bộ máy Ngân hàng Nhà nước Việt Nam và những quy định trong các văn bản khác của Chính phủ trái với Nghị định này.\n\n**Điều 5.** Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.\n\n**Phan Văn Khải**\n\n(Đã ký)",
+  "htmlContentEn": "\n\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody><tr style=\"mso-yfti-irow:0;mso-yfti-firstrow:yes\">\n  <td width=\"237\" valign=\"top\" style=\"width:178.1pt;border:none;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:0in;text-align:center;\n  mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none;\n  vertical-align:baseline\"><b style=\"mso-bidi-font-weight:normal\">THE\n  GOVERNMENT<br>\n  -------<o:p></o:p></b></p>\n  </td>\n  <td width=\"353\" valign=\"top\" style=\"width:264.7pt;border:none;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:0in;text-align:center;\n  mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none;\n  vertical-align:baseline\"><b style=\"mso-bidi-font-weight:normal\">SOCIALIST\n  REPUBLIC OF VIET NAM<br>\n  Independence - Freedom – Happiness<br>\n  ----------<o:p></o:p></b></p>\n  </td>\n </tr>\n <tr style=\"mso-yfti-irow:1;mso-yfti-lastrow:yes\">\n  <td width=\"237\" valign=\"top\" style=\"width:178.1pt;border:none;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:0in;text-align:center;\n  mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none;\n  vertical-align:baseline\">No. 88/1998/ND-CP</p>\n  </td>\n  <td width=\"353\" valign=\"top\" style=\"width:264.7pt;border:none;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:0in;text-align:right;\n  mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none;\n  vertical-align:baseline\"><i style=\"mso-bidi-font-style:normal\">Hanoi,\n  November 02, 1998<o:p></o:p></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><o:p>&nbsp;</o:p></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"0\"></a><b style=\"mso-bidi-font-weight:normal\"><span style=\"font-size:12.0pt;mso-bidi-font-size:\n10.0pt\">DECREE <o:p></o:p></span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">ON THE FUNCTIONS,\nPOWERS AND ORGANIZATIONAL STRUCTURE OF THE STATE BANK OF VIETNAM</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b style=\"mso-bidi-font-weight:normal\"><span style=\"font-size:12.0pt;mso-bidi-font-size:\n10.0pt\">THE GOVERNMENT<o:p></o:p></span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i style=\"mso-bidi-font-style:normal\">Pursuant\nto the Law on Organization of the Government of September 30, 1992;<br>\nPursuant to the Law on the State Bank of Vietnam No.01/1997/QH10 of December\n12, 1997;<br>\nAt the proposal of the Governor of the State Bank of Vietnam and the\nMinister-Head of the Government Commission for Organization and Personnel,<o:p></o:p></i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b style=\"mso-bidi-font-weight:normal\"><span style=\"font-size:12.0pt;mso-bidi-font-size:\n10.0pt\">DECREES:<o:p></o:p></span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><b style=\"mso-bidi-font-weight:normal\">Article 1</b>.-\nThe State Bank of Vietnam (hereafter referred to as the State Bank for short)\nis a Government agency performing the function of State management over\ncurrency and banking activities and is the Central Bank of the Socialist\nRepublic of Vietnam.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b style=\"mso-bidi-font-weight:normal\">Article 2</b>.-\nThe State Bank shall have the tasks and powers stipulated in Article 5 of the\nLaw on the State Bank of Vietnam No.01/1997/QH10 of December 12, 1997.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b style=\"mso-bidi-font-weight:normal\">Article 3</b>.-\nThe organizational structure of the State Bank is composed of:</p>\n\n<p style=\"margin-bottom:6.0pt\">1. The units assisting the State Bank Governor\nin performing the State management function and the Central Bank's function:</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Monetary Policy Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Banking Development Strategy Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The International Relations Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Foreign Exchange Management Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Department for Banks and Non-Bank Credit\nInstitutions (referred to as the Department for Banks),</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Department for Credit Cooperatives,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The General Control Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Legal Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Credit Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Accountancy-Finance Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Department for Issuance, Storage and Fund\nOperations,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Department for Organization, Personnel and\nTraining,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Banking Inspectorate,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Exchange Board,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Banking Information Technology Department,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Office,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Administration Department.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. The State Bank's branches in the provinces\nand centrally-run cities.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Representative offices at home and abroad:</p>\n\n<p style=\"margin-bottom:6.0pt\">- The State Bank representative office in Ho Chi\nMinh City,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The State Bank's representative offices in\nforeign countries which are set up under the Prime Minister's decisions.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. The non-business units:</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Banking Academy,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Banking Times,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Banking Review,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Credit Information Center,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Propaganda and Press Center,</p>\n\n<p style=\"margin-bottom:6.0pt\">- The Management Board for International Credit\nProjects.</p>\n\n<p style=\"margin-bottom:6.0pt\">The State Bank Governor shall define the\nspecific tasks and powers of the units specified in Clauses 1, 2, 3 and 4 of\nthis Article.</p>\n\n<p style=\"margin-bottom:6.0pt\">5. The enterprises attached to the State Bank\nwhich supply special-use products in service of banking activities shall be\nestablished under the current regulations.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b style=\"mso-bidi-font-weight:normal\">Article 4</b>.-\nThis Decree takes effect 15 days after its signing.</p>\n\n<p style=\"margin-bottom:6.0pt\">To abrogate Decree No.20-CP of March 1st, 1995\nof the Government on the organizational structure of the State Bank of Vietnam\nand stipulations in other documents of the Government which are contrary to\nthis Decree.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b style=\"mso-bidi-font-weight:normal\">Article 5</b>.-\nThe ministers, the heads of the ministerial-level agencies, the heads of the\nagencies attached to the Government and the presidents of the People's\nCommittees of the provinces and centrally-run cities shall have to implement\nthis Decree.</p>\n\n<p style=\"margin-bottom:6.0pt\"><o:p>&nbsp;</o:p></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody><tr style=\"mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes\">\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;margin-left:\n  0in;mso-layout-grid-align:none;punctuation-wrap:simple;text-autospace:none;\n  vertical-align:baseline\"><o:p>&nbsp;</o:p></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\n  margin-left:0in;text-align:center;mso-layout-grid-align:none;punctuation-wrap:\n  simple;text-autospace:none;vertical-align:baseline\"><b>THE GOVERNMENT<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Phan Van Khai</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p><o:p>&nbsp;</o:p></p>\n\n",
+  "mdContentEn": "**THE GOVERNMENT  \n\\-------**\n\n**SOCIALIST REPUBLIC OF VIET NAM  \nIndependence - Freedom – Happiness  \n\\----------**\n\nNo. 88/1998/ND-CP\n\n_Hanoi, November 02, 1998_\n\n**DECREE**\n\nON THE FUNCTIONS, POWERS AND ORGANIZATIONAL STRUCTURE OF THE STATE BANK OF VIETNAM\n\n**THE GOVERNMENT**\n\n_Pursuant to the Law on Organization of the Government of September 30, 1992;  \nPursuant to the Law on the State Bank of Vietnam No.01/1997/QH10 of December 12, 1997;  \nAt the proposal of the Governor of the State Bank of Vietnam and the Minister-Head of the Government Commission for Organization and Personnel,_\n\n**DECREES:**\n\n**Article 1**.- The State Bank of Vietnam (hereafter referred to as the State Bank for short) is a Government agency performing the function of State management over currency and banking activities and is the Central Bank of the Socialist Republic of Vietnam.\n\n**Article 2**.- The State Bank shall have the tasks and powers stipulated in Article 5 of the Law on the State Bank of Vietnam No.01/1997/QH10 of December 12, 1997.\n\n**Article 3**.- The organizational structure of the State Bank is composed of:\n\n1\\. The units assisting the State Bank Governor in performing the State management function and the Central Bank's function:\n\n\\- The Monetary Policy Department,\n\n\\- The Banking Development Strategy Department,\n\n\\- The International Relations Department,\n\n\\- The Foreign Exchange Management Department,\n\n\\- The Department for Banks and Non-Bank Credit Institutions (referred to as the Department for Banks),\n\n\\- The Department for Credit Cooperatives,\n\n\\- The General Control Department,\n\n\\- The Legal Department,\n\n\\- The Credit Department,\n\n\\- The Accountancy-Finance Department,\n\n\\- The Department for Issuance, Storage and Fund Operations,\n\n\\- The Department for Organization, Personnel and Training,\n\n\\- The Banking Inspectorate,\n\n\\- The Exchange Board,\n\n\\- The Banking Information Technology Department,\n\n\\- The Office,\n\n\\- The Administration Department.\n\n2\\. The State Bank's branches in the provinces and centrally-run cities.\n\n3\\. Representative offices at home and abroad:\n\n\\- The State Bank representative office in Ho Chi Minh City,\n\n\\- The State Bank's representative offices in foreign countries which are set up under the Prime Minister's decisions.\n\n4\\. The non-business units:\n\n\\- The Banking Academy,\n\n\\- The Banking Times,\n\n\\- The Banking Review,\n\n\\- The Credit Information Center,\n\n\\- The Propaganda and Press Center,\n\n\\- The Management Board for International Credit Projects.\n\nThe State Bank Governor shall define the specific tasks and powers of the units specified in Clauses 1, 2, 3 and 4 of this Article.\n\n5\\. The enterprises attached to the State Bank which supply special-use products in service of banking activities shall be established under the current regulations.\n\n**Article 4**.- This Decree takes effect 15 days after its signing.\n\nTo abrogate Decree No.20-CP of March 1st, 1995 of the Government on the organizational structure of the State Bank of Vietnam and stipulations in other documents of the Government which are contrary to this Decree.\n\n**Article 5**.- The ministers, the heads of the ministerial-level agencies, the heads of the agencies attached to the Government and the presidents of the People's Committees of the provinces and centrally-run cities shall have to implement this Decree.\n\n**THE GOVERNMENT  \n  \n  \n  \n  \nPhan Van Khai**"
+}
