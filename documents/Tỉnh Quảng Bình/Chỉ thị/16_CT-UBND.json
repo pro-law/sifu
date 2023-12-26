@@ -1,5 +1,5 @@
 {
-  "title": "Chỉ thị 16/CT-UBND năm 2021 về tăng cường công tác lập hồ sơ đưa người vi phạm pháp luật vào trường giáo dưỡng, cơ sở giáo dục và cơ sở cai nghiện bắt buộc do tỉnh Quảng Bình ban hành",
+  "title": "Chỉ thị 16/CT-UBND năm 2016 về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 do tỉnh Quảng Bình ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -8,21 +8,235 @@
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Luật xử lý vi phạm hành chính 2012",
-      "id": "15/2012/QH13",
+      "title": "Chỉ thị 21/CT-TTg năm 2016 về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 do Thủ tướng Chính phủ ban hành",
+      "id": "21/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-06-02",
+      "effectiveDate": "2016-06-02",
+      "gazetteDate": "2016-06-12",
+      "gazetteNumber": "Từ số 381 đến số 382",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 35/NQ-CP năm 2016 về hỗ trợ và phát triển doanh nghiệp đến năm 2020 do Chính phủ ban hành",
+      "id": "35/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-16",
+      "effectiveDate": "2016-05-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/04/2023"
+    },
+    {
+      "title": "Chỉ thị 13/CT-TTg năm 2016 về tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm do Thủ tướng Chính phủ ban hành",
+      "id": "13/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-09",
+      "effectiveDate": "2016-05-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 772/QĐ-TTg năm 2016 hỗ trợ khẩn cấp cho người dân tại tỉnh: Hà Tĩnh, Quảng Bình, Quảng Trị và Thừa Thiên Huế bị ảnh hưởng do hiện tượng hải sản chết bất thường do Thủ tướng Chính phủ ban hành",
+      "id": "772/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-09",
+      "effectiveDate": "2016-05-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19/2016/NQ-CP về nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia hai năm 2016-2017, định hướng đến năm 2020 do Chính phủ ban hành",
+      "id": "19/2016/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-04-28",
+      "effectiveDate": "2016-04-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 46/2015/QĐ-UBND ban hành nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển bằng nguồn ngân sách nhà nước tỉnh Quảng Bình giai đoạn 2016 - 2020",
+      "id": "46/2015/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Nguyễn Hữu Hoài"
+      ],
+      "issuedDate": "2015-12-30",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 40/2015/QĐ-TTg về nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển nguồn ngân sách nhà nước giai đoạn 2016 - 2020 do Thủ tướng Chính phủ ban hành",
+      "id": "40/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-14",
+      "effectiveDate": "2015-09-14",
+      "gazetteDate": "2015-09-26",
+      "gazetteNumber": "Từ số 1005 đến số 1006",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 77/2015/NĐ-CP về kế hoạch đầu tư công trung hạn và hằng năm",
+      "id": "77/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-10",
+      "effectiveDate": "2015-11-01",
+      "gazetteDate": "2015-09-23",
+      "gazetteNumber": "Từ số 999 đến số 1000",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
       "legislationType": "Luật",
       "categories": [
-        "Vi phạm hành chính"
+        "Tài chính nhà nước"
       ],
       "organization": "Quốc hội",
       "signers": [
         "Nguyễn Sinh Hùng"
       ],
-      "issuedDate": "2012-06-20",
-      "effectiveDate": "2013-07-01",
-      "gazetteDate": "2012-08-06",
-      "gazetteNumber": "Từ số 479 đến số 480",
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
       "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 39-NQ/TW năm 2015 tinh giản biên chế và cơ cấu lại đội ngũ cán bộ, công chức, viên chức do Ban Chấp hành Trung ương ban hành",
+      "id": "39-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2015-04-17",
+      "effectiveDate": "2015-04-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 16/2015/NĐ-CP Quy định cơ chế tự chủ của đơn vị sự nghiệp công lập",
+      "id": "16/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-02-14",
+      "effectiveDate": "2015-04-06",
+      "gazetteDate": "2015-03-07",
+      "gazetteNumber": "Từ số 297 đến số 298",
+      "status": "Hết hiệu lực: 15/08/2021"
+    },
+    {
+      "title": "Luật Đầu tư công 2014",
+      "id": "49/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-18",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 687 đến số 688",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật Quản lý nợ công 2009",
+      "id": "29/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-06-17",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-08-07",
+      "gazetteNumber": "Từ số 371 đến số 372",
+      "status": "Hết hiệu lực: 01/07/2018"
     }
   ],
   "influentialDocuments": [],
@@ -33,126 +247,115 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Quyết định 162/QĐ-UBND năm 2023 phê duyệt Đề án “Tăng cường công tác cai nghiện ma túy tập trung tại Cơ sở cai nghiện ma túy tỉnh Vĩnh Phúc giai đoạn 2023-2030”",
-      "id": "162/QĐ-UBND",
-      "legislationType": "Quyết định",
+      "title": "Chỉ thị 15/CT-UBND năm 2016 về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 do tỉnh Thái Bình ban hành",
+      "id": "15/CT-UBND",
+      "legislationType": "Chỉ thị",
       "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
         "Văn hóa - Xã hội"
       ],
-      "organization": "Tỉnh Vĩnh Phúc",
+      "organization": "Tỉnh Thái Bình",
       "signers": [
-        "Vũ Việt Văn"
+        "Nguyễn Hồng Diên"
       ],
-      "issuedDate": "2023-01-19",
-      "effectiveDate": "2023-01-19",
+      "issuedDate": "2016-06-24",
+      "effectiveDate": "2016-06-24",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Quyết định 09/2022/QĐ-UBND bãi bỏ Quyết định 05/2019/QĐ-UBND về Quy chế phối hợp phối hợp lập hồ sơ người nghiện ma túy đề nghị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc trên địa bàn tỉnh An Giang",
-      "id": "09/2022/QĐ-UBND",
-      "legislationType": "Quyết định",
+      "title": "Chỉ thị 11/CT-UBND năm 2016 về xây dựng Kế hoạch phát triển kinh tế-xã hội và Dự toán ngân sách nhà nước năm 2017 do tỉnh Phú Yên ban hành",
+      "id": "11/CT-UBND",
+      "legislationType": "Chỉ thị",
       "categories": [
-        "Vi phạm hành chính",
+        "Tài chính nhà nước",
         "Văn hóa - Xã hội"
       ],
-      "organization": "Tỉnh An Giang",
+      "organization": "Tỉnh Phú Yên",
       "signers": [
-        "Lê Văn Phước"
+        "Hoàng Văn Trà"
       ],
-      "issuedDate": "2022-03-21",
-      "effectiveDate": "2022-04-07",
+      "issuedDate": "2016-06-22",
+      "effectiveDate": "2016-06-22",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Kế hoạch 05/KH-UBND về thực hiện Quy chế phối hợp lập, kiểm tra hồ sơ, xem xét, quyết định áp dụng biện pháp xử lý hành chính đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc trên địa bàn tỉnh Nghệ An năm 2020",
-      "id": "05/KH-UBND",
-      "legislationType": "Kế hoạch",
+      "title": "Chỉ thị 10/CT-UBND năm 2016 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 do tỉnh Phú Thọ ban hành",
+      "id": "10/CT-UBND",
+      "legislationType": "Chỉ thị",
       "categories": [
-        "Vi phạm hành chính"
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
       ],
-      "organization": "Tỉnh Nghệ An",
+      "organization": "Tỉnh Phú Thọ",
       "signers": [
-        "Lê Hồng Vinh"
+        "Bùi Minh Châu"
       ],
-      "issuedDate": "2020-01-07",
-      "effectiveDate": "2020-01-07",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Quyết định 26/2018/QĐ-UBND về Quy chế phối hợp trong việc lập hồ sơ đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc trên địa bàn tỉnh Ninh Thuận",
-      "id": "26/2018/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Vi phạm hành chính"
-      ],
-      "organization": "Tỉnh Ninh Thuận",
-      "signers": [
-        "Lê Văn Bình"
-      ],
-      "issuedDate": "2018-03-28",
-      "effectiveDate": "2018-04-08",
+      "issuedDate": "2016-06-22",
+      "effectiveDate": "2016-06-22",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Quyết định 13/2018/QĐ-UBND về quy chế phối hợp lập, kiểm tra hồ sơ, xem xét, quyết định áp dụng biện pháp xử lý hành chính đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc trên địa bàn tỉnh Nghệ An",
-      "id": "13/2018/QĐ-UBND",
-      "legislationType": "Quyết định",
+      "title": "Chỉ thị 10/CT-UBND năm 2016 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách Nhà nước năm 2017 do tỉnh Sơn La ban hành",
+      "id": "10/CT-UBND",
+      "legislationType": "Chỉ thị",
       "categories": [
-        "Bộ máy hành chính",
-        "Vi phạm hành chính"
+        "Thương mại",
+        "Tài chính nhà nước"
       ],
-      "organization": "Tỉnh Nghệ An",
+      "organization": "Tỉnh Sơn La",
       "signers": [
-        "Lê Xuân Đại"
+        "Cầm Ngọc Minh"
       ],
-      "issuedDate": "2018-03-19",
-      "effectiveDate": "2018-04-10",
+      "issuedDate": "2016-05-12",
+      "effectiveDate": "2016-05-12",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 6084/UBND-VX năm 2017 thực hiện Chỉ thị 35/CT-TTg về tăng cường công tác lập hồ sơ và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan, Lưu trữ lịch sử do Thành phố Hồ Chí Minh ban hành",
-      "id": "6084/UBND-VX",
-      "legislationType": "Công văn",
+      "title": "Nghị quyết 117/2015/NQ-HĐND về Kế hoạch phát triển kinh tế - xã hội tỉnh Tiền Giang 5 năm 2016-2020",
+      "id": "117/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
       "categories": [
-        "Bộ máy hành chính"
+        "Thương mại",
+        "Văn hóa - Xã hội"
       ],
-      "organization": "Thành phố Hồ Chí Minh",
+      "organization": "Tỉnh Tiền Giang",
       "signers": [
-        "Nguyễn Thị Thu"
+        "Nguyễn Văn Danh"
       ],
-      "issuedDate": "2017-10-04",
-      "effectiveDate": "2017-10-04",
+      "issuedDate": "2015-12-11",
+      "effectiveDate": "2015-12-21",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
+      "status": "Hết hiệu lực: 01/01/2021"
     }
   ],
   "id": "16/CT-UBND",
   "legislationType": "Chỉ thị",
   "categories": [
-    "Vi phạm hành chính"
+    "Thương mại",
+    "Tài chính nhà nước"
   ],
   "organization": "Tỉnh Quảng Bình",
   "signers": [
-    "Hồ An Phong"
+    "Nguyễn Hữu Hoài"
   ],
-  "issuedDate": "2021-11-01",
-  "effectiveDate": "2021-11-01",
+  "issuedDate": "2016-06-24",
+  "effectiveDate": "2016-06-24",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMQAyADEAMAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH QUẢNG BÌNH</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>16<span lang=\"VI\">/CT-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Quảng Bình</i><i><span lang=\"VI\">, ngày </span>01</i><i><span lang=\"VI\"> tháng </span>11</i><i><span lang=\"VI\"> năm </span>2021</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">VỀ\nVIỆC TĂNG CƯỜNG CÔNG TÁC LẬP HỒ SƠ ĐƯA NGƯỜI VI PHẠM PHÁP LUẬT VÀO TRƯỜNG GIÁO\nDƯỠNG, CƠ SỞ GIÁO DỤC VÀ CƠ SỞ CAI NGHIỆN BẮT BUỘC</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong những năm qua, tình hình an\nninh, trật tự (ANTT) trên địa bàn tỉnh Quảng Bình cơ bản ổn định, phạm pháp\nhình sự có chiều hướng giảm, các loại tội phạm rất nghiêm trọng, đặc biệt\nnghiêm trọng như giết người, cướp, cướp giật, cưỡng đoạt tài sản đã được kiềm\nchế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tuy nhiên, tình hình vi phạm pháp luật\ntrong lứa tuổi thanh, thiếu niên vẫn tiềm ẩn nhiều yếu tố phức tạp, bởi ảnh\nhưởng lối sống hưởng thụ, đua đòi của một bộ phận thanh thiếu niên dẫn đến các\nhành vi lệch chuẩn về đạo đức, lối sống, vi phạm pháp luật như trộm cắp vặt,\ngây rối trật tự công cộng, cố ý gây thương tích, đánh bạc, sử dụng trái phép\nchất ma túy... Từ năm 2014 đến tháng 6 năm 2021, Cơ quan Công an đã phát hiện,\nxử lý hành chính 5.123 vụ, liên quan 9.265 đối tượng vi phạm pháp luật về ANTT\n(trong đó có 5.975 đối tượng trong lứa tuổi thanh, thiếu niên, chiếm 64,5%\ntrong tổng số đối tượng vi phạm). Tình hình đó đòi hỏi phải tăng cường công tác\nđấu tranh, phòng ngừa tội phạm, vi phạm pháp luật trong lứa tuổi thanh thiếu\nniên. Một trong các biện pháp phòng ngừa có hiệu quả đó là đưa người vi phạm\npháp luật có đủ điều kiện theo quy định của pháp luật vào Trường giáo dưỡng, Cơ\nsở giáo dục và Cơ sở cai nghiện bắt buộc nh</span>ằ<span lang=\"VI\">m tạm thời\ncách ly khỏi môi trường xã hội một thời gian nhất định để giáo dục, giúp đỡ họ\nsửa chữa sai lầm, học tập, phát triển lành </span>mạ<span lang=\"VI\">nh; đồng thời\ngóp phần làm trong sạch địa bàn, phòng ngừa tội phạm, vi phạm pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Từ khi Luật Xử lý vi phạm hành chính\nnăm 2012 có hiệu lực (01/01/2014) đến nay, trên địa bàn tỉnh đã lập 14 hồ sơ\nđưa người vi phạm pháp luật vào Trường giáo dưỡng, 03 hồ sơ đưa vào Cơ sở giáo\ndục và 26 hồ sơ đưa vào Cơ sở cai nghiện bắt buộc. Công tác lập hồ sơ xử lý\nhành chính đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt\nbuộc hiệu quả chưa cao, chưa phản ánh đúng tình hình vi phạm hành chính trong\nlĩnh vực ANTT trên địa bàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để góp phần thực hiện có hiệu quả\ncông tác phòng ngừa xã hội, giảm thiểu nguyên nhân, điều kiện của tội phạm, kéo\ngiảm tình hình tội phạm và vi phạm pháp luật trên địa bàn, trong thời gian tới\ncần thực hiện tốt công tác xử lý hành chính đưa người vi phạm pháp luật vào\nTrường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc, Chủ tịch Ủy ban\nnhân dân (UBND) tỉnh yêu cầu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1.</span></b><span lang=\"VI\"> Công\nan tỉnh chủ trì, phối hợp với các sở, ngành, địa phương có liên quan tổ chức\ntriển khai thực hiện tốt công tác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở\ngiáo dục và Cơ sở cai nghiện bắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chỉ đạo Công an cấp huyện hướng dẫn\nCông an các xã, phường, thị trấn phối hợp với các ngành chức năng giúp UBND\ncùng cấp lập hồ sơ đề nghị áp dụng biện pháp xử lý hành chính đưa vào Trường\ngiáo dưỡng và Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc. Xem xét đề nghị Tòa\nán nhân dân cùng cấp ra quyết định áp dụng biện pháp xử lý hành chính và tổ\nchức thi hành quyết định an toàn, đúng quy định của pháp luật. Tập hợp những\nkhó khăn vướng mắc, bất cập trong quá trình thực hiện để kiến nghị, đề xuất bổ\nsung, sửa đổi nhằm hoàn thiện, thống nhất các quy định của pháp luật trong công\ntác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt\nbuộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chỉ đạo Công an cấp xã thực hiện\nnghiêm túc chỉ đạo, hướng dẫn của Công an cấp trên trong việc thi hành quyết\nđịnh áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục bắt buộc và Cơ\nsở cai nghiện bắt buộc; bắt giữ đối tượng có quyết định đưa vào Trường giáo\ndưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc bỏ trốn; quản lý đối tượng\ntạm hoãn, tạm đình chỉ chấp hành biện pháp đưa vào Trường giáo dưỡng, Cơ sở\ngiáo dục và Cơ sở cai nghiện bắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tăng cường rà soát, lập hồ sơ đưa đối\ntượng vi phạm pháp luật vào diện quản lý, giáo dục tại xã, phường, thị trấn,\nlàm cơ sở thực tiễn để áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo\ndục và Cơ sở cai nghiện bắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.</span></b><span lang=\"VI\"> Sở Tư\npháp hướng dẫn Phòng Tư pháp cấp huyện trong việc kiểm tra tính pháp lý hồ sơ\nđề nghị áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở\ncai nghiện bắt buộc. Phối hợp với Công an tỉnh rà soát, tổng hợp những khó khăn\nvướng mắc trong trong công tác lập hồ sơ để báo cáo UBND tỉnh kiến nghị với\nQuốc hội, Chính phủ, các bộ, ngành Trung ương sửa đổi, bổ sung phù hợp, đảm bảo\ntính thống nhất giữa Luật Xử lý hành chính với các văn bản hướng dẫn thực hiện\ncông tác này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3.</span></b><span lang=\"VI\"> Sở Lao\nđộng - Thương binh và Xã hội phối hợp với Công an tỉnh, Sở Tài chính tham mưu\nUBND tỉnh hỗ trợ kinh phí phục vụ công tác lập hồ sơ đề nghị áp dụng biện pháp\nxử lý hành chính đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện\nbắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4.</span></b><span lang=\"VI\"> Đề\nnghị Viện Kiểm sát nhân dân, Tòa án nhân dân</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Viện Kiểm sát nhân dân tỉnh chỉ đạo\nViện Kiểm sát nhân dân cấp huyện thực hiện công tác kiểm sát hồ sơ, tham gia\ncác cuộc họp, xem xét, quyết định áp dụng biện pháp xử lý hành chính đưa vào\nTrường giáo dưỡng, Cơ sở giáo dục và</span> C<span lang=\"VI\">ơ sở cai nghiện bắt\nbuộc đảm bảo đúng quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tòa án nhân dân tỉnh chỉ đạo Tòa án\nnhân dân cấp huyện đảm bảo tiến độ trong việc xem xét, quyết định áp dụng biện\npháp xử lý hành chính; phối hợp với các cơ quan chức năng có liên quan trong\nviệc xử lý các vướng mắc về hồ sơ, thủ tục xem xét, quyết định đưa vào Trường\ngiáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5.</span></b><span lang=\"VI\"> Đề\nnghị Mặt trận Tổ quốc các cấp và các tổ chức chính trị - xã hội tăng cường hoạt\nđộng giám sát đối với công tác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo\ndục và Cơ sở cai nghiện bắt buộc; vận động Nhân dân, các cơ quan, doanh nghiệp\ntạo điều kiện cho những người chấp hành xong biện pháp xử lý hành chính khi về\nđịa phương tiếp tục học tập văn hóa, học nghề, tạo việc làm, sớm hòa nhập cộng\nđồng và phòng ngừa tái phạm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">6.</span></b><span lang=\"VI\"> UBND\ncác huyện, thị xã, thành phố xây dựng kế hoạch, bố trí kinh phí phục vụ công\ntác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt\nbuộc đối với các xã, phường, thị trấn; chỉ đạo Công an, Tư pháp, UBND các xã,\nphường, thị trấn phối hợp trong việc lập và kiểm tra hồ sơ, thi hành quyết định\náp dụng biện pháp đưa vào Trường giáo dư</span>ỡ<span lang=\"VI\">ng, Cơ sở giáo\ndục và Cơ sở cai nghiện bắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Yêu cầu Thủ trưởng các sở, ban, ngành\ncó liên quan; Chủ tịch UBND cấp huyện, cấp xã chỉ đạo triển khai, thực hiện\nnghiêm túc Chỉ thị này. Giao Công an tỉnh theo dõi, tổng hợp định kỳ 6 tháng,\ncuối năm báo cáo k</span>ế<span lang=\"VI\">t quả thực hiện cho UBND tỉnh./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMQAyADEAMAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Văn phòng Chính phủ;<br>\n  - Bộ Công an;<br>\n  - Ban Thường vụ Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - Đoàn Đại biểu Quốc hội </span><span style=\"font-size:8.0pt\">tỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Ủy ban MTTQVN </span><span style=\"font-size:8.0pt\">tỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Các Văn phòng: Tỉnh ủy,</span><span style=\"font-size:8.0pt\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">Đoàn ĐBQH và HĐND tỉnh, UBND\n  tỉnh;<br>\n  - Các sở, ban, ngành, đoàn thể cấp </span><span style=\"font-size:8.0pt\">tỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - UBND các huyện, thị xã, thành phố;<br>\n  - Lưu: VT, NCVX</span><span style=\"font-size:8.0pt\">.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Hồ An Phong</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p><b>&nbsp;</b></p>\n\n</div>\n\n",
-  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH QUẢNG BÌNH****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 16/CT-UBND\n\n_Quảng Bình__, ngày 01_ _tháng 11_ _năm 2021_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TĂNG CƯỜNG CÔNG TÁC LẬP HỒ SƠ ĐƯA NGƯỜI VI PHẠM PHÁP LUẬT VÀO TRƯỜNG GIÁO DƯỠNG, CƠ SỞ GIÁO DỤC VÀ CƠ SỞ CAI NGHIỆN BẮT BUỘC\n\nTrong những năm qua, tình hình an ninh, trật tự (ANTT) trên địa bàn tỉnh Quảng Bình cơ bản ổn định, phạm pháp hình sự có chiều hướng giảm, các loại tội phạm rất nghiêm trọng, đặc biệt nghiêm trọng như giết người, cướp, cướp giật, cưỡng đoạt tài sản đã được kiềm chế.\n\nTuy nhiên, tình hình vi phạm pháp luật trong lứa tuổi thanh, thiếu niên vẫn tiềm ẩn nhiều yếu tố phức tạp, bởi ảnh hưởng lối sống hưởng thụ, đua đòi của một bộ phận thanh thiếu niên dẫn đến các hành vi lệch chuẩn về đạo đức, lối sống, vi phạm pháp luật như trộm cắp vặt, gây rối trật tự công cộng, cố ý gây thương tích, đánh bạc, sử dụng trái phép chất ma túy... Từ năm 2014 đến tháng 6 năm 2021, Cơ quan Công an đã phát hiện, xử lý hành chính 5.123 vụ, liên quan 9.265 đối tượng vi phạm pháp luật về ANTT (trong đó có 5.975 đối tượng trong lứa tuổi thanh, thiếu niên, chiếm 64,5% trong tổng số đối tượng vi phạm). Tình hình đó đòi hỏi phải tăng cường công tác đấu tranh, phòng ngừa tội phạm, vi phạm pháp luật trong lứa tuổi thanh thiếu niên. Một trong các biện pháp phòng ngừa có hiệu quả đó là đưa người vi phạm pháp luật có đủ điều kiện theo quy định của pháp luật vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc nhằm tạm thời cách ly khỏi môi trường xã hội một thời gian nhất định để giáo dục, giúp đỡ họ sửa chữa sai lầm, học tập, phát triển lành mạnh; đồng thời góp phần làm trong sạch địa bàn, phòng ngừa tội phạm, vi phạm pháp luật.\n\nTừ khi Luật Xử lý vi phạm hành chính năm 2012 có hiệu lực (01/01/2014) đến nay, trên địa bàn tỉnh đã lập 14 hồ sơ đưa người vi phạm pháp luật vào Trường giáo dưỡng, 03 hồ sơ đưa vào Cơ sở giáo dục và 26 hồ sơ đưa vào Cơ sở cai nghiện bắt buộc. Công tác lập hồ sơ xử lý hành chính đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc hiệu quả chưa cao, chưa phản ánh đúng tình hình vi phạm hành chính trong lĩnh vực ANTT trên địa bàn.\n\nĐể góp phần thực hiện có hiệu quả công tác phòng ngừa xã hội, giảm thiểu nguyên nhân, điều kiện của tội phạm, kéo giảm tình hình tội phạm và vi phạm pháp luật trên địa bàn, trong thời gian tới cần thực hiện tốt công tác xử lý hành chính đưa người vi phạm pháp luật vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc, Chủ tịch Ủy ban nhân dân (UBND) tỉnh yêu cầu:\n\n**1.** Công an tỉnh chủ trì, phối hợp với các sở, ngành, địa phương có liên quan tổ chức triển khai thực hiện tốt công tác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\nChỉ đạo Công an cấp huyện hướng dẫn Công an các xã, phường, thị trấn phối hợp với các ngành chức năng giúp UBND cùng cấp lập hồ sơ đề nghị áp dụng biện pháp xử lý hành chính đưa vào Trường giáo dưỡng và Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc. Xem xét đề nghị Tòa án nhân dân cùng cấp ra quyết định áp dụng biện pháp xử lý hành chính và tổ chức thi hành quyết định an toàn, đúng quy định của pháp luật. Tập hợp những khó khăn vướng mắc, bất cập trong quá trình thực hiện để kiến nghị, đề xuất bổ sung, sửa đổi nhằm hoàn thiện, thống nhất các quy định của pháp luật trong công tác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\nChỉ đạo Công an cấp xã thực hiện nghiêm túc chỉ đạo, hướng dẫn của Công an cấp trên trong việc thi hành quyết định áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục bắt buộc và Cơ sở cai nghiện bắt buộc; bắt giữ đối tượng có quyết định đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc bỏ trốn; quản lý đối tượng tạm hoãn, tạm đình chỉ chấp hành biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\nTăng cường rà soát, lập hồ sơ đưa đối tượng vi phạm pháp luật vào diện quản lý, giáo dục tại xã, phường, thị trấn, làm cơ sở thực tiễn để áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\n**2.** Sở Tư pháp hướng dẫn Phòng Tư pháp cấp huyện trong việc kiểm tra tính pháp lý hồ sơ đề nghị áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc. Phối hợp với Công an tỉnh rà soát, tổng hợp những khó khăn vướng mắc trong trong công tác lập hồ sơ để báo cáo UBND tỉnh kiến nghị với Quốc hội, Chính phủ, các bộ, ngành Trung ương sửa đổi, bổ sung phù hợp, đảm bảo tính thống nhất giữa Luật Xử lý hành chính với các văn bản hướng dẫn thực hiện công tác này.\n\n**3.** Sở Lao động - Thương binh và Xã hội phối hợp với Công an tỉnh, Sở Tài chính tham mưu UBND tỉnh hỗ trợ kinh phí phục vụ công tác lập hồ sơ đề nghị áp dụng biện pháp xử lý hành chính đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\n**4.** Đề nghị Viện Kiểm sát nhân dân, Tòa án nhân dân\n\nViện Kiểm sát nhân dân tỉnh chỉ đạo Viện Kiểm sát nhân dân cấp huyện thực hiện công tác kiểm sát hồ sơ, tham gia các cuộc họp, xem xét, quyết định áp dụng biện pháp xử lý hành chính đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc đảm bảo đúng quy định của pháp luật.\n\nTòa án nhân dân tỉnh chỉ đạo Tòa án nhân dân cấp huyện đảm bảo tiến độ trong việc xem xét, quyết định áp dụng biện pháp xử lý hành chính; phối hợp với các cơ quan chức năng có liên quan trong việc xử lý các vướng mắc về hồ sơ, thủ tục xem xét, quyết định đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\n**5.** Đề nghị Mặt trận Tổ quốc các cấp và các tổ chức chính trị - xã hội tăng cường hoạt động giám sát đối với công tác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc; vận động Nhân dân, các cơ quan, doanh nghiệp tạo điều kiện cho những người chấp hành xong biện pháp xử lý hành chính khi về địa phương tiếp tục học tập văn hóa, học nghề, tạo việc làm, sớm hòa nhập cộng đồng và phòng ngừa tái phạm.\n\n**6.** UBND các huyện, thị xã, thành phố xây dựng kế hoạch, bố trí kinh phí phục vụ công tác lập hồ sơ đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc đối với các xã, phường, thị trấn; chỉ đạo Công an, Tư pháp, UBND các xã, phường, thị trấn phối hợp trong việc lập và kiểm tra hồ sơ, thi hành quyết định áp dụng biện pháp đưa vào Trường giáo dưỡng, Cơ sở giáo dục và Cơ sở cai nghiện bắt buộc.\n\nYêu cầu Thủ trưởng các sở, ban, ngành có liên quan; Chủ tịch UBND cấp huyện, cấp xã chỉ đạo triển khai, thực hiện nghiêm túc Chỉ thị này. Giao Công an tỉnh theo dõi, tổng hợp định kỳ 6 tháng, cuối năm báo cáo kết quả thực hiện cho UBND tỉnh./.\n\n**_  \nNơi nhận:  \n_**\\- Văn phòng Chính phủ;  \n\\- Bộ Công an;  \n\\- Ban Thường vụ Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Đoàn Đại biểu Quốc hội tỉnh;  \n\\- Ủy ban MTTQVN tỉnh;  \n\\- Các Văn phòng: Tỉnh ủy,  \nĐoàn ĐBQH và HĐND tỉnh, UBND tỉnh;  \n\\- Các sở, ban, ngành, đoàn thể cấp tỉnh;  \n\\- UBND các huyện, thị xã, thành phố;  \n\\- Lưu: VT, NCVX.\n\n**KT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nHồ An Phong**",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA2ADIAMwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>UỶ BAN NHÂN\n  DÂN<br>\n  TỈNH QUẢNG BÌNH<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số: 16/CT-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Quảng Bình,\n  ngày 24 tháng 6 năm 2016</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">CHỈ THỊ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">VỀ VIỆC XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ\nTOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2017</a></p>\n\n<p style=\"margin-bottom:6.0pt\">Năm 2017 là năm có ý nghĩa rất quan trọng trong\nviệc đẩy mạnh thực hiện Quy hoạch tổng thể phát triển kinh tế - xã hội của tỉnh\nđến năm 2020 và Kế hoạch phát triển kinh tế - xã hội 5 năm 2016 - 2020. Bên cạnh\nnhững thuận lợi, vẫn còn không ít khó khăn, thách thức lớn, đặc biệt là tình\nhình hải sản chết bất thường ảnh hưởng lớn đến sản xuất và đời sống nhân dân.</p>\n\n<p style=\"margin-bottom:6.0pt\">Thực hiện Chỉ thị số 21/CT-TTg ngày 02/6/2016 của\nThủ tướng Chính phủ về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán\nngân sách nhà nước năm 2017, UBND tỉnh yêu cầu Giám đốc các sở, Thủ trưởng các\nban, ngành, đơn vị, Chủ tịch UBND các huyện, thị xã, thành phố tập trung chỉ đạo\nxây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm\n2017 với các yêu cầu, nhiệm vụ và nội dung chủ yếu sau:</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_1\"><b>I. YÊU CẦU</b></a></p>\n\n<p style=\"margin-bottom:6.0pt\">1<span lang=\"VI\">. Kế hoạch phát triển kinh tế -\nxã hội và dự toán ngân sách nhà nước năm 201</span>7 <span lang=\"VI\">phải được\nxây dựng đồng bộ, hệ thống, có sự phối hợp chặt chẽ giữa </span>các cấp,<span lang=\"VI\"> các ngành, các cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\">2. Đ<span lang=\"VI\">ánh giá </span>sát đúng<span lang=\"VI\"> tình hình thực hiện <span style=\"background:white\">Kế hoạch</span> phát triển kinh tế - xã hội và dự toán\nngân sách nhà nước 6 tháng đầu năm và ước thực hiện cả năm 201</span>6. Phân\ntích, đánh giá rõ việc thực hiện các mục tiêu tăng trưởng kinh tế, tái cơ cấu\nkinh tế, cải thiện môi trường đầu tư kinh doanh, các lĩnh vực khoa học, giáo dục,\nđào tạo, an sinh xã hội và phúc lợi xã hội, tài nguyên và môi trường, quốc\nphòng, an ninh,... <span lang=\"VI\">trong đó làm rõ các kết quả</span>, <span lang=\"VI\">các tồn tại, hạn chế</span> và <span lang=\"VI\">phân tích các nguyên nhân\nkhách quan và chủ quan</span>.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\">Đối với ảnh hưởng\ncủa hải sản chết bất thường, các sở, ngành và địa phương liên quan tập trung\nđánh giá, thống kê thiệt hại cụ thể; phân tích rõ những tác động trước mắt,\ncũng như lâu dài đối với sản xuất, đời sống của nhân dân; đề xuất những giải\npháp cụ thể.</p>\n\n<p style=\"margin-bottom:6.0pt\">3<span lang=\"VI\">. </span>X<span lang=\"VI\">ây dựng Kế\nhoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 201</span>7\nphải bám sát vào các mục tiêu, nhiệm vụ <span lang=\"VI\" style=\"background:white\">Kế\nhoạch</span><span lang=\"VI\"> phát triển kinh tế - xã hội 5 năm 2016 - 2020 và <span style=\"background:white\">Kế hoạch</span> đầu tư công trung hạn 5 năm 2016 </span>-<span lang=\"VI\"> 2020</span>, <span lang=\"VI\">bảo đảm tính khả thi</span> và <span lang=\"VI\">hiệu quả sử dụng các nguồn lực.</span></p>\n\n<p style=\"margin-bottom:6.0pt\">4<span lang=\"VI\">. Bảo đảm tính công khai, minh bạch,\ncông bằng, hiệu quả và tăng cường trách nhiệm giải <span style=\"background:\nwhite\">trình</span> trong xây dựng </span>K<span lang=\"VI\">ế hoạch và phân bổ các\nnguồn lực.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. MỤC TIÊU,\nNHIỆM VỤ CHỦ YẾU</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">1. Mục tiêu tổng\nquát</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Tiếp tục </span>bảo đảm <span lang=\"VI\">ổn định kinh tế vĩ mô, </span>thúc đẩy <span lang=\"ES-MX\">tăng trưởng\nkinh tế</span><span lang=\"VI\">. Đẩy mạnh tái cơ cấu các ngành kinh tế gắn với\nchuyển đổi mô hình tăng trưởng theo hướng chất lượng, hiệu quả, nâng cao năng lực\ncạnh tranh của nền kinh tế. </span><span lang=\"ES-MX\">Thực hiện tốt công tác an\nsinh xã hội</span><span lang=\"VI\"> và chăm lo </span><span lang=\"ES-MX\">đời sống\nnhân dân</span><span lang=\"VI\">. Phát triển văn hóa, giáo dục, nâng cao chất lượng\nnguồn nhân lực. Ứng phó hiệu quả với biến đổi khí hậu, chủ động phòng chống\nthiên tai, khắc phục hậu quả, tăng cường hiệu lực, hiệu quả quản lý tài nguyên\nvà bảo vệ môi trường. </span><span lang=\"ES-MX\">Giữ vững an ninh chính trị và trật\ntự, an toàn xã hội. Đẩy mạnh cải cách hành chính; thực hành tiết kiệm; phòng,\nchống tham nhũng, lãng phí.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Định hướng,\nnhiệm vụ phát triển kinh tế - xã hội năm 201</span></b></a><b><span lang=\"ES-MX\">7</span></b></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"ES-MX\">2.1.\nTrong điều kiện khó khăn hiện nay, p</span><span lang=\"VI\">hấn đấu đạt tốc độ\ntăng trưởng kinh tế (G</span><span lang=\"ES-MX\">R</span><span lang=\"VI\">DP) </span><span lang=\"ES-MX\">cao hơn ước thực hiện năm 2016</span><span lang=\"VI\">. Các địa phương\ncăn cứ số liệu tăng trưởng kinh tế 6 tháng đầu năm 2016, dự báo tình hình và điều\nkiện thực tế ở địa phương để xác định chỉ tiêu tăng trưởng kinh tế năm 2017 cho\nphù hợp.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Xây\ndựng và triển khai thực hiện tốt các giải pháp nhằm khắc phục hậu quả, phát triển\nsản xuất kinh doanh, ổn định đời sống nhân dân sau khi Chính phủ công bố nguyên\nnhân chính thức về hải sản chết. Tiếp tục đ</span><span lang=\"PT-BR\">ẩy nhanh t</span><span lang=\"IT\">riển khai thực hiện hỗ trợ ngư dân, doanh nghiệp khắc phục hậu quả </span><span lang=\"VI\">của việc hải sản chết theo </span><span lang=\"IT\">chính sách </span><span lang=\"VI\">của Trung ương và tỉnh</span>; <span lang=\"IT\">chủ động rà soát các khoản\nnợ vay bị thiệt hại, kịp thời thực hiện cơ cấu lại thời hạn trả nợ, giữ nguyên\nnhóm nợ, xem xét miễn, giảm lãi vay, cho vay mới giúp khách hàng khắc phục khó\nkhăn, ổn định đời sống theo Quyết định 772/QĐ-TTg của Thủ tướng Chính Phủ. </span><span lang=\"ES-BO\" style=\"background:white\">Triển khai kịp thời, đồng bộ các giải pháp </span><span lang=\"VI\" style=\"background:white\">thu hút khách du lịch, khôi phục </span><span style=\"background:white\">t</span><span lang=\"VI\" style=\"background:white\">hương\nhiệu du lịch </span><span lang=\"ES-BO\" style=\"background:white\">Quảng Bình</span><span lang=\"VI\" style=\"background:white\">.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"IT\">2.2</span><span lang=\"VI\">. Thực hiện\ntái cơ cấu nông nghiệp theo hướng tổ chức lại sản xuất, tăng cường áp dụng tiến\nbộ khoa học kỹ thuật trong nông nghiệp, tạo ra các vùng sản xuất lớn, các chuỗi\ncung ứng sản phẩm an toàn từ sản xuất đến chế biến và tiêu thụ nông sản, thực\nphẩm. </span><span lang=\"ES-MX\">Khuyến khích</span><span lang=\"VI\">, </span><span lang=\"ES-MX\">hỗ trợ doanh nghiệp đầu tư vào lĩnh vực nông nghiệp, nông thôn. Phát\ntriển chăn nuôi theo hướng tập trung, quy mô lớn, tăng tổng đàn một cách hiệu\nquả, bền vững.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"ES-MX\">Đẩy mạnh tốc độ tăng trưởng\nngành công nghiệp. Tập trung phát triển ngành công nghiệp hỗ trợ, các ngành\ncông nghiệp chế biến, gắn với các lợi thế về phát triển nguồn nguyên liệu nông\nsản, thủy sản. Tạo mọi điều kiện thuận lợi, tháo gỡ khó khăn cho các doanh nghiệp\ncông nghiệp để đẩy mạnh sản xuất kinh doanh, nhất là về tín dụng, thị trường\ntiêu thụ.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"ES-MX\">Phát triển các ngành dịch vụ có\nlợi thế, đặc biệt là du lịch. </span><span lang=\"ES-BO\" style=\"background:white\">Tiếp\ntục triển khai các giải pháp </span><span lang=\"ES-MX\" style=\"background:white\">để\nthu hút khách, kéo dài thời gian lưu trú của khách, </span><span lang=\"ES-MX\">đa\ndạng hóa các sản phẩm du lịch</span><span lang=\"ES-BO\" style=\"background:white\">:\nDu lịch văn hóa, tâm linh, du lịch </span><span lang=\"ES-MX\" style=\"background:\nwhite\">sinh thái, </span><span lang=\"ES-BO\" style=\"background:white\">trải nghiệm</span><span lang=\"ES-MX\" style=\"background:white\">, mạo hiểm</span><span lang=\"ES-BO\" style=\"background:white\">… để du khách có nhiều lựa chọn</span><span lang=\"ES-MX\">, nâng cao chất lượng dịch vụ du lịch, tăng cường công tác kêu gọi đầu\ntư, </span><span lang=\"ES-BO\" style=\"background:white\">các hoạt động xúc tiến quảng\nbá du lịch của tỉnh. </span><span lang=\"ES-MX\">Tích cực tìm kiếm, mở rộng thị trường\nđể đẩy mạnh xuất khẩu, nhất là các mặt hàng có lợi thế của tỉnh, giá trị gia\ntăng cao. Đa dạng hóa thị trường xuất khẩu, khai thác tốt thị trường nội địa. Tổ\nchức thực hiện tốt Chiến lược biển Việt Nam đến năm 2020, phát huy mọi tiềm\nnăng từ biển.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"ES-MX\">2.3.\nTập trung thực hiện các giải pháp có căn cứ khoa học và thực tiễn để ứng phó với\nbiến đổi khí hậu. Bảo vệ, phát triển và sử dụng hiệu quả, bền vững diện tích rừng\nhiện có và quỹ đất được quy hoạch cho phát triển lâm nghiệp. Tăng cường quản lý\nkhai thác, sử dụng tài nguyên, khoáng sản. Quản lý chặt chẽ, sử dụng tiết kiệm,\nhiệu quả nguồn nước trong các hồ chứa. Chấn chỉnh việc quản lý, khai thác cát,\nsỏi lòng sông. Kiểm soát chặt chẽ các nguồn gây ô nhiễm môi trường, nhất là tại\ncác làng nghề, khu, cụm công nghiệp, các lưu vực sông, vùng ven biển, cơ sở sản\nxuất có nguy cơ gây ô nhiễm nặng. Đẩy mạnh các giải pháp hữu hiệu giảm thiểu ô\nnhiễm và bảo vệ môi trường, cảnh quan ở khu vực nông thôn, các khu đô thị lớn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"ES-MX\">2.4. Tổ chức thực hiện các giải\npháp cải thiện môi trường đầu tư kinh doanh đã đề ra tại Nghị quyết số\n19/2016/NQ-CP ngày 28 tháng 4 năm 2016 của Chính phủ, với mục tiêu là tạo ra điều\nkiện thuận lợi nhất cho đầu tư kinh doanh, giảm tối đa các chi phí khởi nghiệp,\ntạo điều kiện để giảm chi phí đầu vào, khuyến khích đổi mới công nghệ, nâng cao\nkhả năng cạnh tranh của doanh nghiệp. Triển khai thực hiện Nghị quyết số</span><a href=\"http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=35/NQ-CP&amp;area=2&amp;type=0&amp;match=False&amp;vc=True&amp;lan=1\"><span lang=\"ES-MX\" style=\"color:windowtext;text-decoration:none\"> 35/NQ-CP</span></a><span lang=\"ES-MX\"> ngày 16 tháng 5 năm 2016 của Chính phủ về hỗ trợ và phát triển\ndoanh nghiệp đến năm 2020, trong đó tập trung hỗ trợ phát triển doanh nghiệp nhỏ\nvà vừa, doanh nghiệp khởi nghiệp</span><span lang=\"VI\">. Phấn đấu cải thiện thứ hạng\nchỉ số năng lực cạnh tranh cấp tỉnh (PCI) lên mức khá của toàn quốc (thứ 20 -\n30/63 tỉnh, thành phố).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Đẩy mạnh cải cách thủ tục hành\nchính, nâng cao hiệu lực, hiệu quả quản lý nhà nước, đặc biệt là trong các lĩnh\nvực: </span>T<span lang=\"VI\">huế, hải quan, kho bạc nhà nước, bảo hiểm xã hội\ntheo hướng tạo thuận lợi ở mức cao nhất cho người dân và doanh nghiệp. Điều\nhành chính sách tiền tệ chủ động, linh hoạt, điều hành lãi suất, tỷ giá <span style=\"background:white\">phù hợp</span> theo quy định của </span>n<span lang=\"VI\">gân hàng </span>n<span lang=\"VI\">hà nước. </span><span lang=\"ES-MX\">Tập\ntrung xử lý nợ xấu, bảo đảm an toàn hệ thống, thúc đẩy tín dụng cho nền kinh tế.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"ES-MX\">2.5. Khuyến khích mọi tổ chức,\ncá nhân nghiên cứu, sáng tạo, ứng dụng khoa học công nghệ, sáng kiến nâng cao\nnăng suất lao động trong các lĩnh vực kinh tế, xã hội, quản lý nhà nước, đáp ứng\nyêu cầu phát triển. </span><span lang=\"VI\">Nâng cao chất lượng nguồn nhân lực,\nphát triển giáo dục đào tạo.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.6.\nPhát triển hệ thống an sinh xã hội. Triển khai hiệu quả Chương trình </span>m<span lang=\"VI\">ục tiêu quốc gia </span>g<span lang=\"VI\">iảm nghèo bền vững. Thực hiện\ncác chính sách giải quyết việc làm gắn với phát triển thị trường lao động, tăng\ncường công tác quản lý xuất khẩu lao động. Thực hiện đầy đủ các chính sách trợ\ngiúp xã hội, ưu đãi người có công.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.7.\nChú trọng công tác bảo vệ, chăm sóc và nâng cao sức kh</span>ỏe<span lang=\"VI\">\nnhân dân. Củng cố và nâng cao hiệu quả mạng lưới y tế cơ sở, y tế dự phòng, chủ\nđộng phòng, chống dịch bệnh, không để các dịch bệnh lớn xảy ra. Tiếp tục triển\nkhai các giải pháp nâng cao chất lượng dịch vụ khám, chữa bệnh. Tăng cường\ntrách nhiệm và nâng cao hiệu quả quản lý nhà nước về an toàn thực phẩm theo\nđúng Chỉ thị số</span><a href=\"http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&amp;area=2&amp;type=0&amp;match=False&amp;vc=True&amp;lan=1\"><span lang=\"VI\" style=\"color:windowtext;text-decoration:none\"> 13/CT-TTg</span></a><span lang=\"VI\"> ngày 09 tháng 5 năm 2016 của Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.8.\nXây dựng môi trường văn hóa lành mạnh, bảo tồn và phát huy các di sản văn hóa\ntruyền thống. Thực hiện tốt chính sách dân tộc và tôn giáo; bình đẳng giới,\nnâng cao vị thế của phụ nữ. Chú trọng công tác chăm sóc, giáo dục và bảo vệ trẻ\nem, bảo đảm việc thực hiện các quyền của trẻ em; đẩy mạnh thực hiện Chiến lược\nphát triển thanh niên. Phát triển phong trào thể dục, thể thao, nâng cao thể chất\nngười dân.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.9.\nĐẩy mạnh cải cách hành chính, xây dựng nền hành chính hiện đại, chuyên nghiệp.\nTăng cường ứng dụng công nghệ thông tin trong quản lý, điều hành. Công khai,\nminh bạch hoạt động của các cơ quan hành chính nhà nước. Tạo chuyển biến mạnh mẽ\ntrong việc nâng cao hiệu lực, hiệu quả quản lý nhà nước, quản lý xã hội. Duy\ntrì chỉ số </span><span lang=\"SV\">hiệu quả quản trị và hành chính công cấp tỉnh\n(PAPI); cải thiện chỉ số </span><span lang=\"VI\">cạnh tranh cấp tỉnh (</span><span lang=\"SV\">PCI</span><span lang=\"VI\">).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">2.10. Thực hiện quyết liệt các giải\npháp phòng chống tham nhũng, thực hành tiết kiệm chống lãng phí. Nâng cao hiệu\nquả công tác thanh tra, giải quyết khiếu nại, tố cáo, không để các vụ việc tồn\nđọng, kéo dài. Xử lý nghiêm các hành vi tiêu cực, nhũng nhiễu, vi phạm pháp luật\ntrong hoạt động công vụ.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">2.11. Kết hợp phát triển kinh tế\nvà bảo đảm quốc phòng, an ninh và trật tự an toàn xã hội. Nắm chắc tình hình để\nchủ động giải quyết mọi tình huống phát sinh. Tăng cường các biện pháp bảo đảm\ntrật tự, an toàn giao thông, giảm thiểu tai nạn giao thông.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.12.\nTăng cường công tác thông tin tuyên truyền theo hướng công khai, minh bạch, kịp\nthời và hiệu quả. Cơ quan nhà nước các cấp có trách nhiệm chủ động cung cấp\nthông tin, nhất là tình hình kinh tế - xã hội, các cơ chế, chính sách mới cho\ncơ quan thông tấn, báo chí. Thường xuyên tiếp xúc, đối thoại trực tiếp với cộng\nđồng doanh nghiệp và dân cư.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">3. Nhiệm vụ\nxây dựng dự toán ngân sách nhà nước năm 2017</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">3.1. Đối với dự toán thu ngân sách\nnhà nước năm 2017</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Dự\ntoán thu ngân sách nhà nước năm 2017 phải được xây dựng tích cực, trên cơ sở\nquy định pháp luật về thu ngân sách, khả năng thực hiện năm 2016, </span>t<span lang=\"VI\">ăng cường hơn nữa công tác quản lý thu, chống thất thu, rà soát thu hồi\nnợ đọng thuế. Phấn đấu dự toán thu nội địa (không kể thu tiền sử dụng đất, thu\nxổ số kiến thiết) tăng tối thiểu 13% - 15% (loại trừ các yếu tố tăng, giảm thu\ndo thay đổi chính sách); thu từ hoạt động xuất nhập khẩu tăng bình quân tối thiểu\n5% - 7% so với đánh giá ước thực hiện năm 2016. Mức tăng thu cụ thể tùy theo điều\nkiện, đặc điểm và phù hợp với tốc độ tăng trưởng kinh tế trên địa bàn của từng\nđịa phương.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Các\nsở, ngành, đơn vị, địa phương phải dự toán toàn bộ các khoản thu từ thuế, phí,\nlệ phí và các khoản thu khác trên địa bàn theo quy định tại Điều 7 Luật Ngân\nsách nhà nước năm 2015 và các quy định khác của pháp luật.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">3.2. Đối với dự toán chi ngân sách\nnhà nước năm 2017</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Thực\nhiện triệt để tiết kiệm, chống lãng phí ngay từ khâu xác định nhiệm vụ, chủ động\nsắp xếp thứ tự các nhiệm vụ chi ưu tiên theo mức độ quan trọng, cấp thiết và khả\nnăng triển khai trong năm 2017. Chỉ trình cấp có thẩm quyền ban hành chính sách\nmới khi cân đối được nguồn; chủ động dự kiến đầy đủ nhu cầu kinh phí thực hiện\ncác chính sách, chế độ, nhiệm vụ mới đã được cấp có thẩm quyền quyết định.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Khi\nxây dựng dự toán và bố trí ngân sách nhà nước năm 2017, các sở, ban, ngành và\ncác địa phương cần chú ý các nội dung sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">a</span>) <span lang=\"VI\">Chi đầu tư\nphát triển</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Việc bố trí vốn kế hoạch chi đầu\ntư phát triển nguồn ngân sách nhà n<span style=\"background:white\">ướ</span>c phải\nthực hiện đúng quy định của Luật Đầu tư công, các nghị định của Chính phủ,\ntrong đó chỉ bố trí vốn cho các chương trình, dự án đã đưa vào </span><span style=\"background:white\">K</span><span lang=\"VI\" style=\"background:white\">ế hoạch</span><span lang=\"VI\"> <span style=\"background:white\">đầu tư</span> công trung hạn 5 năm 2016\n- 2020 được HĐND các cấp thông qua; ưu tiên bố trí vốn hỗ trợ đầu tư theo hình\nthức đối tác công tư (PPP); đối ứng cho các dự án ODA; thanh toán nợ đọng xây dựng\ncơ bản và hoàn vốn đã ứng trước; bố trí vốn cho những công trình dự kiến hoàn\nthành năm 2017, các công trình chuyển tiếp; số vốn còn lại mới bố trí cho các dự\nán khởi công mới. Các dự án khởi công mới chỉ được bố trí vốn khi có đầy đủ thủ\ntục đầu tư theo quy định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">+ Đối với chi vốn đầu tư trong cân\nđối ngân sách địa phương: </span>T<span lang=\"VI\">hực hiện theo đúng quy định của\nLuật Đầu tư công và Quyết định số 46/2015/QĐ-UBND ngày 30/12/2015 của UBND tỉnh\nvề các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển nguồn\nngân sách nhà nước giai đoạn 2016 - 2020.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">+ Đối với dự toán có mục tiêu kinh\nphí sự nghiệp, căn cứ vào chế độ, chính sách hiện hành để đảm bảo nguồn thực hiện\ntrong năm 2017.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">+ Đối với chi từ nguồn thu sử dụng\nđất: Dự toán thu tiền sử dụng đất trên địa bàn năm 2017 bảo đảm phù hợp với việc\ntriển khai thực hiện quy hoạch, kế hoạch sử dụng đất, kế hoạch đấu giá quyền sử\ndụng đất, đồng thời lập phương án bố trí chi đầu tư phát triển từ nguồn thu tiền\nsử dụng đất theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">+ Đối với chi từ nguồn thu hoạt động\nxổ số kiến thiết: Từ năm 2017, theo quy định của Luật </span>N<span lang=\"VI\">gân\nsách nhà nước năm 2015, nguồn thu này được tính trong dự toán thu cân đối ngân\nsách địa phương, sử dụng toàn bộ cho chi đầu tư phát triển, trong đó ưu tiên bố\ntrí đầu tư lĩnh vực giáo dục - đào tạo, y tế, </span>C<span lang=\"VI\">hương trình\n</span>m<span lang=\"VI\">ục tiêu quốc gia nông thôn mới, công trình ứng phó với biến\nđổi khí hậu và các công trình phúc lợi xã hội khác theo quy định của cấp có thẩm\nquyền.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">+ Xây dựng kế hoạch huy động và trả\nnợ (cả gốc và lãi) cho đầu tư phát triển theo đúng quy định của Luật Ngân sách\nnhà nước năm 2015.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">b</span>) <span lang=\"VI\">Chi thường\nxuyên</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Xây dựng dự toán chi thường xuyên\ncác lĩnh vực theo đúng chính sách, chế độ, trong phạm vi dự toán chi ngân sách\nnhà nước theo định mức phân bổ dự toán chi thường xuyên ngân sách </span>nhà <span lang=\"VI\">nước năm 2017.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Dự toán chi thường xuyên phải đảm\nbảo tri</span>ệ<span lang=\"VI\">t để tiết kiệm, gắn với việc tinh giản biên chế, sắp\nxếp lại bộ máy hành chính giai đoạn 2016 - 2020 theo Nghị quyết số 39-NQ/TW của\nBộ Chính trị, giảm tối đa kinh phí tổ chức hội nghị, hội thảo, khánh tiết, hạn\nchế bố trí kinh phí đi nghiên cứu, khảo sát nước ngoài, mua sắm ô tô và trang\nthiết bị đắt tiền.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Tiếp tục đẩy mạnh việc triển khai\ncơ chế tự chủ đối với các đơn vị sự nghiệp công lập, thực hiện tính giá dịch vụ\nsự nghiệp công theo Nghị định số 16/2015/NĐ-CP ngày 14 tháng 02 năm 2015 của\nChính phủ; giảm dần mức hỗ trợ từ ngân sách nhà nước để có nguồn tăng chi đầu\ntư, chi hỗ trợ trực tiếp cho người có công với cách mạng, người nghèo và các đối\ntượng chính sách để được tiếp cận và thụ hưởng các dịch vụ sự nghiệp công cơ bản\nthiết yếu.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">3.3. Đối với các chương trình mục\ntiêu quốc gia, chương trình mục tiêu</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">Dự toán chi chương trình </span>m<span lang=\"VI\">ục tiêu quốc gia, chương trình </span>m<span lang=\"VI\">ục tiêu năm 2017,\nbố trí căn cứ Quyết định của Thủ tướng Chính phủ phê duyệt từng chương trình\nMTQG, Quyết định số </span><a href=\"http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=40/2015/QĐ-TTg&amp;area=2&amp;type=0&amp;match=False&amp;vc=True&amp;lan=1\"><span lang=\"VI\" style=\"color:windowtext;text-decoration:none\">40/2015/QĐ-TTg</span></a><span lang=\"VI\"> ngày 14 tháng 9 năm 2015 của Thủ tướng Chính phủ về các nguyên tắc,\ntiêu chí và định mức phân bổ vốn đầu tư phát triển nguồn ngân sách nhà nước\ngiai đoạn 2016 - 2020, khả năng cân đối ngân sách nhà nước năm 2017.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">3.4. Đối với các chương trình, dự\nán sử dụng vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi của các nhà\ntài trợ nước ngoài</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Thực\nhiện lập dự toán ngân sách nhà nước năm 2017 theo đúng trình tự, quy định của\nLuật </span>N<span lang=\"VI\">gân sách nhà nước năm 2015, Luật </span>Đ<span lang=\"VI\">ầu tư công, Luật </span>Q<span lang=\"VI\">uản lý nợ công và các văn bản hướng\ndẫn thi hành. Rà soát chặt chẽ kế hoạch sử dụng vốn ODA và vốn vay ưu đãi của\ncác nhà tài trợ nước ngoài. Bố trí dự toán chi ngân sách nhà nước từ nguồn vốn\nODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài cho các dự án bảo đảm theo\ntiến độ đã ký kết với nhà tài trợ, khả năng đáp ứng nguồn vốn đối ứng, tiến độ\ngiải phóng mặt bằng, năng lực của chủ đầu tư quản lý chương trình, dự án sử dụng\nvốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">3.5. Ngân sách </span>T<span lang=\"VI\">rung ương và ngân sách địa phương các cấp bố trí dự phòng ngân sách\ntheo đúng quy định của Luật </span>N<span lang=\"VI\">gân sách nhà nước năm 2015 để\nchủ động ứng phó với thiên tai, lũ lụt, dịch bệnh và thực hiện những nhiệm vụ\nquan trọng, cấp bách phát sinh ngoài dự toán</span>.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">4. Cùng với việc\nxây dựng dự toán ngân sách nhà nước năm 2017, các sở, ngành, địa phương, các\nđơn vị</span></b></a><span lang=\"VI\"> sử dụng ngân sách nhà nước chủ động đánh\ngiá kết quả đạt được, tồn tại hạn chế trong quản lý điều hành thu, chi ngân\nsách năm 2016; phân tích nguyên nhân và đề ra các giải pháp khắc phục. Tập\ntrung chỉ đạo, <span style=\"background:white\">tổ chức</span> thực hiện công tác\n<span style=\"background:white\">quyết</span> toán và <span style=\"background:\nwhite\">kiểm tra</span>, xét duyệt và thẩm tra <span style=\"background:white\">quyết</span>\ntoán ngân sách năm 2015 theo đúng quy định của Luật Ngân sách nhà nước; đánh\ngiá tình hình quyết toán vốn dự án đầu tư hoàn thành. Thực hiện công khai quyết\ntoán ngân sách nhà nước năm 2014. Tiến hành thanh tra, kiểm tra, giám sát việc\nquản lý và sử dụng vốn đầu tư phát triển; xử lý, giải <span style=\"background:\nwhite\">quyết</span> ngay từ khâu xây dựng dự toán những tồn tại, sai phạm trong\nbố trí dự toán chi ngân sách chưa phù hợp với tình hình thực tế triển khai thực\nhiện và </span>n<span lang=\"VI\">ghị quyết của Đảng, Quốc hội, Chính phủ, Hội đồng\nnhân dân đã được cơ quan thanh tra, kiểm toán phát hiện và kiến nghị theo đúng\nquy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><a name=\"dieu_5\"><b><span lang=\"VI\">5. Xây dựng Kế hoạch đầu tư công năm 2017</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">Xây\ndựng </span>K<span lang=\"VI\">ế hoạch đầu tư công năm 2017 theo đúng quy định của\nLuật </span>Đ<span lang=\"VI\">ầu tư công, Nghị định số </span><a href=\"http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=77/2015/NĐ-CP&amp;area=2&amp;type=0&amp;match=False&amp;vc=True&amp;lan=1\"><span lang=\"VI\" style=\"color:windowtext;text-decoration:none\">77/2015/NĐ-CP</span></a><span lang=\"VI\"> ngày 10 tháng 9 năm 2015 của Chính phủ về kế hoạch đầu tư công trung hạn\nvà hằng năm, các văn bản hướng dẫn thi hành luật, trong đó lưu ý:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">1.\nĐối với kế hoạch đầu tư nguồn ngân sách nhà nước thực hiện theo quy định tại Điểm\na Khoản 3.2 Mục 3 nêu trên.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.\nĐối với nguồn thu để lại cho đầu tư chưa đưa vào cân đối ngân sách nhà nước: </span>T<span lang=\"VI\">ính toán xác định đủ các khoản thu theo quy định của Luật </span>Đ<span lang=\"VI\">ầu tư công, trong đó các sở, ban, ngành, đơn vị, các địa phương lưu ý\nviệc sử dụng nguồn thu từ bán tài sản, kể cả thu tiền sử dụng đất gắn với tài sản\ntrên đất để đầu tư, phải lập kế hoạch chi từ nguồn thu này.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. TỔ CHỨC THỰC\nHIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\">1. Giao Sở Kế hoạch và Đầu tư, Sở\nTài chính căn cứ những quy định trong Chỉ thị này; các văn bản hướng dẫn của Bộ\nKế hoạch và Đầu tư, Bộ Tài chính hướng dẫn cụ thể về nội dung và tiến độ xây dựng\n</span>K<span lang=\"VI\">ế hoạch phát triển kinh tế - xã hội và dự toán ngân sách\nnhà nước năm 2017 phù hợp với quy định của Luật </span>Đ<span lang=\"VI\">ầu tư\ncông và Luật </span>N<span lang=\"VI\">gân sách nhà nước năm 2015.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">2.\nCác </span>s<span lang=\"VI\">ở, ngành, đơn vị và Ủy ban nhân dân các huyện, thị\nxã, thành phố hướng dẫn và chỉ đạo các cơ quan, đơn vị xây dựng kế hoạch phát\ntriển kinh tế - xã hội và dự toán ngân sách nhà nước cấp mình theo đúng quy định\ntại Chỉ thị này và hướng dẫn của Sở Kế hoạch và Đầu tư, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:ideograph-other\"><span lang=\"VI\">3.\nGiám đốc các </span>s<span lang=\"VI\">ở, ban, ngành, đơn vị cấp tỉnh, Chủ tịch Ủy\nban nhân dân các huyện, thị xã, thành phố, Thủ trưởng các cơ quan, đơn vị, tổ\nchức khác sử dụng ngân sách nhà nước có trách nhiệm tổ chức thực hiện Chỉ thị\nnày./</span>.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAA2ADIAMwA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt;text-align:justify\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"DE\">CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  </span></b><b><span lang=\"PL\"><br>\n  </span></b><b><span lang=\"NL\">Nguyễn Hữu Hoài</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n\n</div>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH QUẢNG BÌNH  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 16/CT-UBND\n\n_Quảng Bình, ngày 24 tháng 6 năm 2016_\n\n**CHỈ THỊ**\n\nVỀ VIỆC XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2017\n\nNăm 2017 là năm có ý nghĩa rất quan trọng trong việc đẩy mạnh thực hiện Quy hoạch tổng thể phát triển kinh tế - xã hội của tỉnh đến năm 2020 và Kế hoạch phát triển kinh tế - xã hội 5 năm 2016 - 2020. Bên cạnh những thuận lợi, vẫn còn không ít khó khăn, thách thức lớn, đặc biệt là tình hình hải sản chết bất thường ảnh hưởng lớn đến sản xuất và đời sống nhân dân.\n\nThực hiện Chỉ thị số 21/CT-TTg ngày 02/6/2016 của Thủ tướng Chính phủ về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017, UBND tỉnh yêu cầu Giám đốc các sở, Thủ trưởng các ban, ngành, đơn vị, Chủ tịch UBND các huyện, thị xã, thành phố tập trung chỉ đạo xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 với các yêu cầu, nhiệm vụ và nội dung chủ yếu sau:\n\n**I. YÊU CẦU**\n\n1. Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 phải được xây dựng đồng bộ, hệ thống, có sự phối hợp chặt chẽ giữa các cấp, các ngành, các cơ quan, đơn vị.\n\n2\\. Đánh giá sát đúng tình hình thực hiện Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước 6 tháng đầu năm và ước thực hiện cả năm 2016\\. Phân tích, đánh giá rõ việc thực hiện các mục tiêu tăng trưởng kinh tế, tái cơ cấu kinh tế, cải thiện môi trường đầu tư kinh doanh, các lĩnh vực khoa học, giáo dục, đào tạo, an sinh xã hội và phúc lợi xã hội, tài nguyên và môi trường, quốc phòng, an ninh,... trong đó làm rõ các kết quả, các tồn tại, hạn chế và phân tích các nguyên nhân khách quan và chủ quan.\n\nĐối với ảnh hưởng của hải sản chết bất thường, các sở, ngành và địa phương liên quan tập trung đánh giá, thống kê thiệt hại cụ thể; phân tích rõ những tác động trước mắt, cũng như lâu dài đối với sản xuất, đời sống của nhân dân; đề xuất những giải pháp cụ thể.\n\n3. Xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 phải bám sát vào các mục tiêu, nhiệm vụ Kế hoạch phát triển kinh tế - xã hội 5 năm 2016 - 2020 và Kế hoạch đầu tư công trung hạn 5 năm 2016 \\- 2020, bảo đảm tính khả thi và hiệu quả sử dụng các nguồn lực.\n\n4. Bảo đảm tính công khai, minh bạch, công bằng, hiệu quả và tăng cường trách nhiệm giải trình trong xây dựng Kế hoạch và phân bổ các nguồn lực.\n\n**II. MỤC TIÊU, NHIỆM VỤ CHỦ YẾU**\n\n**1\\. Mục tiêu tổng quát**\n\nTiếp tục bảo đảm ổn định kinh tế vĩ mô, thúc đẩy tăng trưởng kinh tế. Đẩy mạnh tái cơ cấu các ngành kinh tế gắn với chuyển đổi mô hình tăng trưởng theo hướng chất lượng, hiệu quả, nâng cao năng lực cạnh tranh của nền kinh tế. Thực hiện tốt công tác an sinh xã hội và chăm lo đời sống nhân dân. Phát triển văn hóa, giáo dục, nâng cao chất lượng nguồn nhân lực. Ứng phó hiệu quả với biến đổi khí hậu, chủ động phòng chống thiên tai, khắc phục hậu quả, tăng cường hiệu lực, hiệu quả quản lý tài nguyên và bảo vệ môi trường. Giữ vững an ninh chính trị và trật tự, an toàn xã hội. Đẩy mạnh cải cách hành chính; thực hành tiết kiệm; phòng, chống tham nhũng, lãng phí.\n\n**2\\. Định hướng, nhiệm vụ phát triển kinh tế - xã hội năm 201****7**\n\n2.1. Trong điều kiện khó khăn hiện nay, phấn đấu đạt tốc độ tăng trưởng kinh tế (GRDP) cao hơn ước thực hiện năm 2016. Các địa phương căn cứ số liệu tăng trưởng kinh tế 6 tháng đầu năm 2016, dự báo tình hình và điều kiện thực tế ở địa phương để xác định chỉ tiêu tăng trưởng kinh tế năm 2017 cho phù hợp.\n\nXây dựng và triển khai thực hiện tốt các giải pháp nhằm khắc phục hậu quả, phát triển sản xuất kinh doanh, ổn định đời sống nhân dân sau khi Chính phủ công bố nguyên nhân chính thức về hải sản chết. Tiếp tục đẩy nhanh triển khai thực hiện hỗ trợ ngư dân, doanh nghiệp khắc phục hậu quả của việc hải sản chết theo chính sách của Trung ương và tỉnh; chủ động rà soát các khoản nợ vay bị thiệt hại, kịp thời thực hiện cơ cấu lại thời hạn trả nợ, giữ nguyên nhóm nợ, xem xét miễn, giảm lãi vay, cho vay mới giúp khách hàng khắc phục khó khăn, ổn định đời sống theo Quyết định 772/QĐ-TTg của Thủ tướng Chính Phủ. Triển khai kịp thời, đồng bộ các giải pháp thu hút khách du lịch, khôi phục thương hiệu du lịch Quảng Bình.\n\n2.2. Thực hiện tái cơ cấu nông nghiệp theo hướng tổ chức lại sản xuất, tăng cường áp dụng tiến bộ khoa học kỹ thuật trong nông nghiệp, tạo ra các vùng sản xuất lớn, các chuỗi cung ứng sản phẩm an toàn từ sản xuất đến chế biến và tiêu thụ nông sản, thực phẩm. Khuyến khích, hỗ trợ doanh nghiệp đầu tư vào lĩnh vực nông nghiệp, nông thôn. Phát triển chăn nuôi theo hướng tập trung, quy mô lớn, tăng tổng đàn một cách hiệu quả, bền vững.\n\nĐẩy mạnh tốc độ tăng trưởng ngành công nghiệp. Tập trung phát triển ngành công nghiệp hỗ trợ, các ngành công nghiệp chế biến, gắn với các lợi thế về phát triển nguồn nguyên liệu nông sản, thủy sản. Tạo mọi điều kiện thuận lợi, tháo gỡ khó khăn cho các doanh nghiệp công nghiệp để đẩy mạnh sản xuất kinh doanh, nhất là về tín dụng, thị trường tiêu thụ.\n\nPhát triển các ngành dịch vụ có lợi thế, đặc biệt là du lịch. Tiếp tục triển khai các giải pháp để thu hút khách, kéo dài thời gian lưu trú của khách, đa dạng hóa các sản phẩm du lịch: Du lịch văn hóa, tâm linh, du lịch sinh thái, trải nghiệm, mạo hiểm… để du khách có nhiều lựa chọn, nâng cao chất lượng dịch vụ du lịch, tăng cường công tác kêu gọi đầu tư, các hoạt động xúc tiến quảng bá du lịch của tỉnh. Tích cực tìm kiếm, mở rộng thị trường để đẩy mạnh xuất khẩu, nhất là các mặt hàng có lợi thế của tỉnh, giá trị gia tăng cao. Đa dạng hóa thị trường xuất khẩu, khai thác tốt thị trường nội địa. Tổ chức thực hiện tốt Chiến lược biển Việt Nam đến năm 2020, phát huy mọi tiềm năng từ biển.\n\n2.3. Tập trung thực hiện các giải pháp có căn cứ khoa học và thực tiễn để ứng phó với biến đổi khí hậu. Bảo vệ, phát triển và sử dụng hiệu quả, bền vững diện tích rừng hiện có và quỹ đất được quy hoạch cho phát triển lâm nghiệp. Tăng cường quản lý khai thác, sử dụng tài nguyên, khoáng sản. Quản lý chặt chẽ, sử dụng tiết kiệm, hiệu quả nguồn nước trong các hồ chứa. Chấn chỉnh việc quản lý, khai thác cát, sỏi lòng sông. Kiểm soát chặt chẽ các nguồn gây ô nhiễm môi trường, nhất là tại các làng nghề, khu, cụm công nghiệp, các lưu vực sông, vùng ven biển, cơ sở sản xuất có nguy cơ gây ô nhiễm nặng. Đẩy mạnh các giải pháp hữu hiệu giảm thiểu ô nhiễm và bảo vệ môi trường, cảnh quan ở khu vực nông thôn, các khu đô thị lớn.\n\n2.4. Tổ chức thực hiện các giải pháp cải thiện môi trường đầu tư kinh doanh đã đề ra tại Nghị quyết số 19/2016/NQ-CP ngày 28 tháng 4 năm 2016 của Chính phủ, với mục tiêu là tạo ra điều kiện thuận lợi nhất cho đầu tư kinh doanh, giảm tối đa các chi phí khởi nghiệp, tạo điều kiện để giảm chi phí đầu vào, khuyến khích đổi mới công nghệ, nâng cao khả năng cạnh tranh của doanh nghiệp. Triển khai thực hiện Nghị quyết số [35/NQ-CP](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=35/NQ-CP&area=2&type=0&match=False&vc=True&lan=1) ngày 16 tháng 5 năm 2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến năm 2020, trong đó tập trung hỗ trợ phát triển doanh nghiệp nhỏ và vừa, doanh nghiệp khởi nghiệp. Phấn đấu cải thiện thứ hạng chỉ số năng lực cạnh tranh cấp tỉnh (PCI) lên mức khá của toàn quốc (thứ 20 - 30/63 tỉnh, thành phố).\n\nĐẩy mạnh cải cách thủ tục hành chính, nâng cao hiệu lực, hiệu quả quản lý nhà nước, đặc biệt là trong các lĩnh vực: Thuế, hải quan, kho bạc nhà nước, bảo hiểm xã hội theo hướng tạo thuận lợi ở mức cao nhất cho người dân và doanh nghiệp. Điều hành chính sách tiền tệ chủ động, linh hoạt, điều hành lãi suất, tỷ giá phù hợp theo quy định của ngân hàng nhà nước. Tập trung xử lý nợ xấu, bảo đảm an toàn hệ thống, thúc đẩy tín dụng cho nền kinh tế.\n\n2.5. Khuyến khích mọi tổ chức, cá nhân nghiên cứu, sáng tạo, ứng dụng khoa học công nghệ, sáng kiến nâng cao năng suất lao động trong các lĩnh vực kinh tế, xã hội, quản lý nhà nước, đáp ứng yêu cầu phát triển. Nâng cao chất lượng nguồn nhân lực, phát triển giáo dục đào tạo.\n\n2.6. Phát triển hệ thống an sinh xã hội. Triển khai hiệu quả Chương trình mục tiêu quốc gia giảm nghèo bền vững. Thực hiện các chính sách giải quyết việc làm gắn với phát triển thị trường lao động, tăng cường công tác quản lý xuất khẩu lao động. Thực hiện đầy đủ các chính sách trợ giúp xã hội, ưu đãi người có công.\n\n2.7. Chú trọng công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân. Củng cố và nâng cao hiệu quả mạng lưới y tế cơ sở, y tế dự phòng, chủ động phòng, chống dịch bệnh, không để các dịch bệnh lớn xảy ra. Tiếp tục triển khai các giải pháp nâng cao chất lượng dịch vụ khám, chữa bệnh. Tăng cường trách nhiệm và nâng cao hiệu quả quản lý nhà nước về an toàn thực phẩm theo đúng Chỉ thị số [13/CT-TTg](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=13/CT-TTg&area=2&type=0&match=False&vc=True&lan=1) ngày 09 tháng 5 năm 2016 của Thủ tướng Chính phủ.\n\n2.8. Xây dựng môi trường văn hóa lành mạnh, bảo tồn và phát huy các di sản văn hóa truyền thống. Thực hiện tốt chính sách dân tộc và tôn giáo; bình đẳng giới, nâng cao vị thế của phụ nữ. Chú trọng công tác chăm sóc, giáo dục và bảo vệ trẻ em, bảo đảm việc thực hiện các quyền của trẻ em; đẩy mạnh thực hiện Chiến lược phát triển thanh niên. Phát triển phong trào thể dục, thể thao, nâng cao thể chất người dân.\n\n2.9. Đẩy mạnh cải cách hành chính, xây dựng nền hành chính hiện đại, chuyên nghiệp. Tăng cường ứng dụng công nghệ thông tin trong quản lý, điều hành. Công khai, minh bạch hoạt động của các cơ quan hành chính nhà nước. Tạo chuyển biến mạnh mẽ trong việc nâng cao hiệu lực, hiệu quả quản lý nhà nước, quản lý xã hội. Duy trì chỉ số hiệu quả quản trị và hành chính công cấp tỉnh (PAPI); cải thiện chỉ số cạnh tranh cấp tỉnh (PCI).\n\n2.10. Thực hiện quyết liệt các giải pháp phòng chống tham nhũng, thực hành tiết kiệm chống lãng phí. Nâng cao hiệu quả công tác thanh tra, giải quyết khiếu nại, tố cáo, không để các vụ việc tồn đọng, kéo dài. Xử lý nghiêm các hành vi tiêu cực, nhũng nhiễu, vi phạm pháp luật trong hoạt động công vụ.\n\n2.11. Kết hợp phát triển kinh tế và bảo đảm quốc phòng, an ninh và trật tự an toàn xã hội. Nắm chắc tình hình để chủ động giải quyết mọi tình huống phát sinh. Tăng cường các biện pháp bảo đảm trật tự, an toàn giao thông, giảm thiểu tai nạn giao thông.\n\n2.12. Tăng cường công tác thông tin tuyên truyền theo hướng công khai, minh bạch, kịp thời và hiệu quả. Cơ quan nhà nước các cấp có trách nhiệm chủ động cung cấp thông tin, nhất là tình hình kinh tế - xã hội, các cơ chế, chính sách mới cho cơ quan thông tấn, báo chí. Thường xuyên tiếp xúc, đối thoại trực tiếp với cộng đồng doanh nghiệp và dân cư.\n\n**3\\. Nhiệm vụ xây dựng dự toán ngân sách nhà nước năm 2017**\n\n3.1. Đối với dự toán thu ngân sách nhà nước năm 2017\n\nDự toán thu ngân sách nhà nước năm 2017 phải được xây dựng tích cực, trên cơ sở quy định pháp luật về thu ngân sách, khả năng thực hiện năm 2016, tăng cường hơn nữa công tác quản lý thu, chống thất thu, rà soát thu hồi nợ đọng thuế. Phấn đấu dự toán thu nội địa (không kể thu tiền sử dụng đất, thu xổ số kiến thiết) tăng tối thiểu 13% - 15% (loại trừ các yếu tố tăng, giảm thu do thay đổi chính sách); thu từ hoạt động xuất nhập khẩu tăng bình quân tối thiểu 5% - 7% so với đánh giá ước thực hiện năm 2016. Mức tăng thu cụ thể tùy theo điều kiện, đặc điểm và phù hợp với tốc độ tăng trưởng kinh tế trên địa bàn của từng địa phương.\n\nCác sở, ngành, đơn vị, địa phương phải dự toán toàn bộ các khoản thu từ thuế, phí, lệ phí và các khoản thu khác trên địa bàn theo quy định tại Điều 7 Luật Ngân sách nhà nước năm 2015 và các quy định khác của pháp luật.\n\n3.2. Đối với dự toán chi ngân sách nhà nước năm 2017\n\nThực hiện triệt để tiết kiệm, chống lãng phí ngay từ khâu xác định nhiệm vụ, chủ động sắp xếp thứ tự các nhiệm vụ chi ưu tiên theo mức độ quan trọng, cấp thiết và khả năng triển khai trong năm 2017. Chỉ trình cấp có thẩm quyền ban hành chính sách mới khi cân đối được nguồn; chủ động dự kiến đầy đủ nhu cầu kinh phí thực hiện các chính sách, chế độ, nhiệm vụ mới đã được cấp có thẩm quyền quyết định.\n\nKhi xây dựng dự toán và bố trí ngân sách nhà nước năm 2017, các sở, ban, ngành và các địa phương cần chú ý các nội dung sau:\n\na) Chi đầu tư phát triển\n\nViệc bố trí vốn kế hoạch chi đầu tư phát triển nguồn ngân sách nhà nước phải thực hiện đúng quy định của Luật Đầu tư công, các nghị định của Chính phủ, trong đó chỉ bố trí vốn cho các chương trình, dự án đã đưa vào Kế hoạch đầu tư công trung hạn 5 năm 2016 - 2020 được HĐND các cấp thông qua; ưu tiên bố trí vốn hỗ trợ đầu tư theo hình thức đối tác công tư (PPP); đối ứng cho các dự án ODA; thanh toán nợ đọng xây dựng cơ bản và hoàn vốn đã ứng trước; bố trí vốn cho những công trình dự kiến hoàn thành năm 2017, các công trình chuyển tiếp; số vốn còn lại mới bố trí cho các dự án khởi công mới. Các dự án khởi công mới chỉ được bố trí vốn khi có đầy đủ thủ tục đầu tư theo quy định.\n\n\\+ Đối với chi vốn đầu tư trong cân đối ngân sách địa phương: Thực hiện theo đúng quy định của Luật Đầu tư công và Quyết định số 46/2015/QĐ-UBND ngày 30/12/2015 của UBND tỉnh về các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển nguồn ngân sách nhà nước giai đoạn 2016 - 2020.\n\n\\+ Đối với dự toán có mục tiêu kinh phí sự nghiệp, căn cứ vào chế độ, chính sách hiện hành để đảm bảo nguồn thực hiện trong năm 2017.\n\n\\+ Đối với chi từ nguồn thu sử dụng đất: Dự toán thu tiền sử dụng đất trên địa bàn năm 2017 bảo đảm phù hợp với việc triển khai thực hiện quy hoạch, kế hoạch sử dụng đất, kế hoạch đấu giá quyền sử dụng đất, đồng thời lập phương án bố trí chi đầu tư phát triển từ nguồn thu tiền sử dụng đất theo quy định của pháp luật.\n\n\\+ Đối với chi từ nguồn thu hoạt động xổ số kiến thiết: Từ năm 2017, theo quy định của Luật Ngân sách nhà nước năm 2015, nguồn thu này được tính trong dự toán thu cân đối ngân sách địa phương, sử dụng toàn bộ cho chi đầu tư phát triển, trong đó ưu tiên bố trí đầu tư lĩnh vực giáo dục - đào tạo, y tế, Chương trình mục tiêu quốc gia nông thôn mới, công trình ứng phó với biến đổi khí hậu và các công trình phúc lợi xã hội khác theo quy định của cấp có thẩm quyền.\n\n\\+ Xây dựng kế hoạch huy động và trả nợ (cả gốc và lãi) cho đầu tư phát triển theo đúng quy định của Luật Ngân sách nhà nước năm 2015.\n\nb) Chi thường xuyên\n\nXây dựng dự toán chi thường xuyên các lĩnh vực theo đúng chính sách, chế độ, trong phạm vi dự toán chi ngân sách nhà nước theo định mức phân bổ dự toán chi thường xuyên ngân sách nhà nước năm 2017.\n\nDự toán chi thường xuyên phải đảm bảo triệt để tiết kiệm, gắn với việc tinh giản biên chế, sắp xếp lại bộ máy hành chính giai đoạn 2016 - 2020 theo Nghị quyết số 39-NQ/TW của Bộ Chính trị, giảm tối đa kinh phí tổ chức hội nghị, hội thảo, khánh tiết, hạn chế bố trí kinh phí đi nghiên cứu, khảo sát nước ngoài, mua sắm ô tô và trang thiết bị đắt tiền.\n\nTiếp tục đẩy mạnh việc triển khai cơ chế tự chủ đối với các đơn vị sự nghiệp công lập, thực hiện tính giá dịch vụ sự nghiệp công theo Nghị định số 16/2015/NĐ-CP ngày 14 tháng 02 năm 2015 của Chính phủ; giảm dần mức hỗ trợ từ ngân sách nhà nước để có nguồn tăng chi đầu tư, chi hỗ trợ trực tiếp cho người có công với cách mạng, người nghèo và các đối tượng chính sách để được tiếp cận và thụ hưởng các dịch vụ sự nghiệp công cơ bản thiết yếu.\n\n3.3. Đối với các chương trình mục tiêu quốc gia, chương trình mục tiêu\n\nDự toán chi chương trình mục tiêu quốc gia, chương trình mục tiêu năm 2017, bố trí căn cứ Quyết định của Thủ tướng Chính phủ phê duyệt từng chương trình MTQG, Quyết định số [40/2015/QĐ-TTg](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=40/2015/QĐ-TTg&area=2&type=0&match=False&vc=True&lan=1) ngày 14 tháng 9 năm 2015 của Thủ tướng Chính phủ về các nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển nguồn ngân sách nhà nước giai đoạn 2016 - 2020, khả năng cân đối ngân sách nhà nước năm 2017.\n\n3.4. Đối với các chương trình, dự án sử dụng vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi của các nhà tài trợ nước ngoài\n\nThực hiện lập dự toán ngân sách nhà nước năm 2017 theo đúng trình tự, quy định của Luật Ngân sách nhà nước năm 2015, Luật Đầu tư công, Luật Quản lý nợ công và các văn bản hướng dẫn thi hành. Rà soát chặt chẽ kế hoạch sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài. Bố trí dự toán chi ngân sách nhà nước từ nguồn vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài cho các dự án bảo đảm theo tiến độ đã ký kết với nhà tài trợ, khả năng đáp ứng nguồn vốn đối ứng, tiến độ giải phóng mặt bằng, năng lực của chủ đầu tư quản lý chương trình, dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài.\n\n3.5. Ngân sách Trung ương và ngân sách địa phương các cấp bố trí dự phòng ngân sách theo đúng quy định của Luật Ngân sách nhà nước năm 2015 để chủ động ứng phó với thiên tai, lũ lụt, dịch bệnh và thực hiện những nhiệm vụ quan trọng, cấp bách phát sinh ngoài dự toán.\n\n**4\\. Cùng với việc xây dựng dự toán ngân sách nhà nước năm 2017, các sở, ngành, địa phương, các đơn vị** sử dụng ngân sách nhà nước chủ động đánh giá kết quả đạt được, tồn tại hạn chế trong quản lý điều hành thu, chi ngân sách năm 2016; phân tích nguyên nhân và đề ra các giải pháp khắc phục. Tập trung chỉ đạo, tổ chức thực hiện công tác quyết toán và kiểm tra, xét duyệt và thẩm tra quyết toán ngân sách năm 2015 theo đúng quy định của Luật Ngân sách nhà nước; đánh giá tình hình quyết toán vốn dự án đầu tư hoàn thành. Thực hiện công khai quyết toán ngân sách nhà nước năm 2014. Tiến hành thanh tra, kiểm tra, giám sát việc quản lý và sử dụng vốn đầu tư phát triển; xử lý, giải quyết ngay từ khâu xây dựng dự toán những tồn tại, sai phạm trong bố trí dự toán chi ngân sách chưa phù hợp với tình hình thực tế triển khai thực hiện và nghị quyết của Đảng, Quốc hội, Chính phủ, Hội đồng nhân dân đã được cơ quan thanh tra, kiểm toán phát hiện và kiến nghị theo đúng quy định của pháp luật.\n\n**5\\. Xây dựng Kế hoạch đầu tư công năm 2017**\n\nXây dựng Kế hoạch đầu tư công năm 2017 theo đúng quy định của Luật Đầu tư công, Nghị định số [77/2015/NĐ-CP](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=77/2015/NĐ-CP&area=2&type=0&match=False&vc=True&lan=1) ngày 10 tháng 9 năm 2015 của Chính phủ về kế hoạch đầu tư công trung hạn và hằng năm, các văn bản hướng dẫn thi hành luật, trong đó lưu ý:\n\n1\\. Đối với kế hoạch đầu tư nguồn ngân sách nhà nước thực hiện theo quy định tại Điểm a Khoản 3.2 Mục 3 nêu trên.\n\n2\\. Đối với nguồn thu để lại cho đầu tư chưa đưa vào cân đối ngân sách nhà nước: Tính toán xác định đủ các khoản thu theo quy định của Luật Đầu tư công, trong đó các sở, ban, ngành, đơn vị, các địa phương lưu ý việc sử dụng nguồn thu từ bán tài sản, kể cả thu tiền sử dụng đất gắn với tài sản trên đất để đầu tư, phải lập kế hoạch chi từ nguồn thu này.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n1\\. Giao Sở Kế hoạch và Đầu tư, Sở Tài chính căn cứ những quy định trong Chỉ thị này; các văn bản hướng dẫn của Bộ Kế hoạch và Đầu tư, Bộ Tài chính hướng dẫn cụ thể về nội dung và tiến độ xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2017 phù hợp với quy định của Luật Đầu tư công và Luật Ngân sách nhà nước năm 2015.\n\n2\\. Các sở, ngành, đơn vị và Ủy ban nhân dân các huyện, thị xã, thành phố hướng dẫn và chỉ đạo các cơ quan, đơn vị xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước cấp mình theo đúng quy định tại Chỉ thị này và hướng dẫn của Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n3\\. Giám đốc các sở, ban, ngành, đơn vị cấp tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố, Thủ trưởng các cơ quan, đơn vị, tổ chức khác sử dụng ngân sách nhà nước có trách nhiệm tổ chức thực hiện Chỉ thị này./.\n\n**CHỦ TỊCH  \n  \n  \n  \n****Nguyễn Hữu Hoài**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
