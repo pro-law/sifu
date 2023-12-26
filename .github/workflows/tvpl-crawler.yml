@@ -80,17 +80,6 @@ jobs:
           CRAWLEE_PURGE_ON_START=${{ env.CRAWLEE_PURGE_ON_START }} pnpm start:ci
         continue-on-error: true
 
-      - name: Should amend if the last commit message is the same
-        id: should-amend
-        run: |
-          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=format:%s)
-          echo "Last commit message: $LAST_COMMIT_MESSAGE"
-          if [[ $LAST_COMMIT_MESSAGE == "chore(documents): update documents [skip ci]" ]]; then
-            echo "SHOULD_AMEND=true" >> $GITHUB_ENV
-          else
-            echo "SHOULD_AMEND=false" >> $GITHUB_ENV
-          fi
-
       - name: Dump current time to .last-crawl
         run: |
           echo $(date +%s) > .last-crawl
@@ -101,8 +90,6 @@ jobs:
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           message: 'chore(documents): update documents [skip ci]'
-          force: ${{ env.SHOULD_AMEND == 'true' }}
-          amend: ${{ env.SHOULD_AMEND == 'true' }}
 
       - name: Save crawlee storage
         uses: actions/cache/save@v3
