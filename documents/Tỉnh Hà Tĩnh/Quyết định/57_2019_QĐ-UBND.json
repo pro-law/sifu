@@ -1,0 +1,519 @@
+{
+  "title": "Quyết định 57/2019/QĐ-UBND quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất và đấu giá quyền khai thác khoáng sản trên địa bàn tỉnh Hà Tĩnh",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 48/2017/TT-BTC quy định chế độ Tài chính trong hoạt động đấu giá tài sản do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "48/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2017-05-15",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2017-07-12",
+      "gazetteNumber": "Từ số 487 đến số 488",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 45/2017/TT-BTC quy định khung thù lao dịch vụ đấu giá tài sản theo quy định tại Luật đấu giá tài sản do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "45/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trần Văn Hiếu"
+      ],
+      "issuedDate": "2017-05-12",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2017-07-12",
+      "gazetteNumber": "Từ số 487 đến số 488",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Đầu tư 2014",
+      "id": "67/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1173 đến số 1174",
+      "status": "Hết hiệu lực: 01/01/2021"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 123/2017/NĐ-CP sửa đổi Nghị định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước",
+      "id": "123/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-11-14",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-11-19",
+      "gazetteNumber": "Từ số 833 đến số 834",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý, sử dụng tài sản công 2017",
+      "id": "15/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-21",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-26",
+      "gazetteNumber": "Từ số 519 đến số 520",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 62/2017/NĐ-CP hướng dẫn Luật đấu giá tài sản",
+      "id": "62/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-05-16",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2017-05-31",
+      "gazetteNumber": "Từ số 389 đến số 390",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 158/2016/NĐ-CP hướng dẫn Luật khoáng sản",
+      "id": "158/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-11-29",
+      "effectiveDate": "2017-01-15",
+      "gazetteDate": "2016-12-03",
+      "gazetteNumber": "Từ số 1221 đến số 1222",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đấu giá tài sản 2016",
+      "id": "01/2016/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-11-17",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "2016-12-26",
+      "gazetteNumber": "Từ số 1257 đến số 1258",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 14/2015/TTLT-BTNMT-BTP Quy định việc tổ chức thực hiện đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất do Bộ Tài nguyên và Môi trường - Bộ Tư pháp ban hành",
+      "id": "14/2015/TTLT-BTNMT-BTP",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường, Bộ Tư pháp",
+      "signers": [
+        "Trần Hồng Hà",
+        "Nguyễn Thúy Hiền"
+      ],
+      "issuedDate": "2015-04-04",
+      "effectiveDate": "2015-05-20",
+      "gazetteDate": "2015-05-31",
+      "gazetteNumber": "Từ số 579 đến số 580",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 54/2014/TTLT-BTNMT-BTC hướng dẫn Nghị định 22/2012/NĐ-CP về đấu giá quyền khai thác khoáng sản do Bộ trưởng Bộ Tài nguyên và Môi trường - Bộ Tài chính ban hành",
+      "id": "54/2014/TTLT-BTNMT-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính, Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Trần Hồng Hà",
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-09-09",
+      "effectiveDate": "2014-10-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 22/2012/NĐ-CP quy định về đấu giá quyền khai thác khoáng sản",
+      "id": "22/2012/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2012-03-26",
+      "effectiveDate": "2012-05-15",
+      "gazetteDate": "2012-04-06",
+      "gazetteNumber": "Từ số 299 đến số 300",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật khoáng sản 2010",
+      "id": "60/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-17",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2011-04-02",
+      "gazetteNumber": "Từ số 167 đến số 168",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 1244/QĐ-UBND năm 2023 về phê duyệt Phương án quản lý, sử dụng, phát triển bền vững diện tích đất giao khoán trên địa bàn tỉnh Đồng Nai",
+      "id": "1244/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Võ Văn Phi"
+      ],
+      "issuedDate": "2023-05-30",
+      "effectiveDate": "2023-05-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 673/QĐ-UBND về phê duyệt Phương án đấu giá quyền khai thác khoáng sản trên địa bàn tỉnh Quảng Bình năm 2020",
+      "id": "673/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Quảng Bình",
+      "signers": [
+        "Trần Tiến Dũng"
+      ],
+      "issuedDate": "2020-03-10",
+      "effectiveDate": "2020-03-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4513/QĐ-UBND năm 2019 quy định chi tiết về khoản thu đóng góp từ khai thác khoáng sản để đầu tư hạ tầng giao thông và khắc phục môi trường trên địa bàn tỉnh Lào Cai",
+      "id": "4513/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Giao thông - Vận tải",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2019-12-31",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 70/2019/QĐ-UBND thực hiện Nghị quyết 13/2019/NQ-HĐND về tỷ lệ phân cấp nguồn thu từ đấu giá quyền sử dụng đất, giao đất có thu tiền sử dụng đất trên địa bàn xã cho ngân sách xã để thực hiện nhiệm vụ xây dựng nông thôn mới năm 2020 do tỉnh Long An ban hành",
+      "id": "70/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Long An",
+      "signers": [
+        "Trần Văn Cần"
+      ],
+      "issuedDate": "2019-12-30",
+      "effectiveDate": "2020-01-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 50/2019/QĐ-UBND về Quy chế đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Quảng Trị",
+      "id": "50/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Quảng Trị",
+      "signers": [
+        "Nguyễn Đức Chính"
+      ],
+      "issuedDate": "2019-12-20",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 42/2019/QĐ-UBND quy định về cơ quan xác định, phê duyệt giá khởi điểm đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc thuê đất trên địa bàn tỉnh Nghệ An và ủy quyền quyết định tăng hệ số điều chỉnh giá đất trong xác định giá khởi điểm",
+      "id": "42/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hoàng Nghĩa Hiếu"
+      ],
+      "issuedDate": "2019-12-19",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Quyết định 37/2019/QĐ-UBND bãi bỏ Điểm a và Điểm c Khoản 1 Điều 6 của Quy định về tổ chức thực hiện đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Gia Lai kèm theo Quyết định 11/2018/QĐ-UBND",
+      "id": "37/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Võ Ngọc Thành"
+      ],
+      "issuedDate": "2019-11-12",
+      "effectiveDate": "2019-11-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/09/2021"
+    },
+    {
+      "title": "Quyết định 38/2019/QĐ-UBND quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Ninh Bình",
+      "id": "38/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Ninh Bình",
+      "signers": [
+        "Nguyễn Ngọc Thạch"
+      ],
+      "issuedDate": "2019-10-18",
+      "effectiveDate": "2019-10-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 19/2019/QĐ-UBND quy định về thẩm quyền phê duyệt giá khởi điểm đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn thành phố Hà Nội",
+      "id": "19/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Ngô Văn Quý"
+      ],
+      "issuedDate": "2019-10-15",
+      "effectiveDate": "2019-10-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 35/2019/QĐ-UBND quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Nam Định",
+      "id": "35/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Nam Định",
+      "signers": [
+        "Ngô Gia Tự"
+      ],
+      "issuedDate": "2019-10-10",
+      "effectiveDate": "2019-10-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 12/2019/QĐ-UBND sửa đổi Quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Phú Thọ kèm theo Quyết định 02/2019/QĐ-UBND",
+      "id": "12/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Phú Thọ",
+      "signers": [
+        "Bùi Văn Quang"
+      ],
+      "issuedDate": "2019-09-05",
+      "effectiveDate": "2019-09-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/09/2023"
+    },
+    {
+      "title": "Nghị quyết 06/2019/NQ-HĐND về bổ sung quy hoạch thăm dò, khai thác và sử dụng khoáng sản trên địa bàn tỉnh Bình Phước đến năm 2020, định hướng đến năm 2030 theo Nghị quyết 23/2014/NQ-HĐND",
+      "id": "06/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Trần Tuệ Hiền"
+      ],
+      "issuedDate": "2019-07-05",
+      "effectiveDate": "2019-07-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 11/12/2019"
+    }
+  ],
+  "id": "57/2019/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bất động sản"
+  ],
+  "organization": "Tỉnh Hà Tĩnh",
+  "signers": [
+    "Đặng Ngọc Sơn"
+  ],
+  "issuedDate": "2019-10-18",
+  "effectiveDate": "2019-10-29",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMQAxADAANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN<br>\n  TỈNH HÀ TĨNH<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số:\n  57/2019/QĐ-UBND </span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Hà\n  Tĩnh, ngày 18 tháng 10 năm 2019</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">BAN HÀNH QUY ĐỊNH VỀ ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT ĐỂ GIAO ĐẤT CÓ THU TIỀN\nSỬ DỤNG ĐẤT HOẶC CHO THUÊ ĐẤT VÀ ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN TRÊN ĐỊA\nBÀN TỈNH HÀ TĨNH</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức Chính quyền địa\nphương ngày 19/6/2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật B</span></i><i><span lang=\"EN-US\">a</span></i><i><span lang=\"VI\">n hành văn bản quy phạm pháp luật ngày\n22/6/2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Đấu giá tài sản ngày\n17/11/2016;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Đất đai ngày\n29/11/2013;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Khoáng sản ngày\n17/11/2010;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Quản lý; sử dụng tài sản\ncông ngày 21/6/2017;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ các Nghị định của Chính phủ:\nsố 62/2017/NĐ-CP ngày 16/5/2017 quy định chi tiết một số điều và biện pháp thi\nhành Luật Đấu giá tài sản; số 123/2017/NĐ-CP ngày 14/11/2017 sửa đổi, bổ sung một\nsố điều của các Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất,\nthuê mặt nước; số 22/2012/NĐ-CP ngày 26/3/2012 quy định về đấu giá quyền khai\nthác khoáng sản; số 158/2016/NĐ-CP ngày 29/11/2016 quy định chi tiết thi hành một\nsố điều của Luật Khoáng sản;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ các Thông tư liên tịch: số\n14/2015/</span></i><i><span lang=\"EN-US\">T</span></i><i><span lang=\"VI\">TLT-BTNMT-BTP\nngày 04/4/2015 của Bộ trưởng Bộ Tài nguyên và Môi trường và Bộ trưởng Bộ Tư\npháp quy định việc tổ chức thực hiện đấu giá quyền sử dụng đất để giao đất có\nthu tiền sử dụng đất hoặc cho thuê đất số 54/2014/TTLT-BTNMT-BTC ngày 09/9/2014\ncủa Bộ trưởng Bộ Tài nguyên và Môi trường Bộ trưởng Bộ Tài chính quy định chi\ntiết một số điều của Nghị định số 22/2012/NĐ-CP ngày 26/3/2012 quy định về đấu\ngiá quyền khai thác khoáng sản;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ các Thông tư c</span></i><i><span lang=\"EN-US\">ủ</span></i><i><span lang=\"VI\">a Bộ trưởng Bộ Tài chính: số 45/2017/TT-BTC\nngày 12/5/2017 quy định khung thù lao dịch vụ đấu giá tài sản theo quy định tại\nLuật đấu giá tài sản; số 48/2017/TT-BTC ngày 15/5/2017 quy định chế độ tài\nchính trong hoạt động đấu giá tài sản;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Theo đề nghị của Giám đốc Sở Tư\npháp tại Tờ trình số 397/TTr-STP ngày 09/8/2019, Báo cáo thẩm định số\n395/BC-STP ngày 08/8/2019 Văn bản số 561/STP-HC&amp;BTTP ngày 04/9/2019 và Văn\nbản số 620/STP-HC&amp;BTTP ngày 24/9/2019.</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy định về đấu giá quyền sử\ndụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất và đấu giá quyền\nkhai thác khoáng sản trên địa bàn tỉnh Hà Tĩnh.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a> <a name=\"dieu_2_name\">Quyết định này có hiệu lực kể từ ngày 29 tháng 10 năm 2019.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Chánh Văn phòng ĐĐBQH, HĐND và UBND tỉnh; Giám đốc các Sở,\nThủ trưởng các ban, ngành cấp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thành\nphố, thị xã và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết\nđịnh này./.</a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMQAxADAANwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Như Điều 3 ;<br>\n  - Bộ Tư pháp (để b/c);<br>\n  - Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;<br>\n  - TTr. Tỉnh ủy, HĐND tỉnh;<br>\n  - Đoàn Đại biểu Quốc hội tỉnh;<br>\n  - Chủ tịch, các PCT UBND tỉnh;<br>\n  - Chánh, các Phó VP;<br>\n  - Trung tâm TT-CB-TH tỉnh;<br>\n  - Lưu: VT, NC, NL<sub>2</sub>.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">TM.\n  ỦY BAN NHÂN DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Đặng Ngọc Sơn</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\"><span lang=\"VI\">VỀ ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT ĐỂ GIAO ĐẤT CÓ THU TIỀN SỬ DỤNG ĐẤT HOẶC\nCHO THUÊ ĐẤT VÀ ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN TRÊN ĐỊA BÀN TỈNH HÀ TĨNH</span></a><span lang=\"VI\"><br>\n<i>(Ban hành kèm theo Quyết định số 57/2019/QĐ-UBND ngày 18 tháng 10 năm 2019 của\nỦy ban nhân dân tỉnh Hà Tĩnh)</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"VI\">Chương I</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"VI\">Điều 1. Phạm vi\nđiều chỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quy định này quy định một số nội dung\nvề việc đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho\nthuê đất theo khoản 1 Điều 118 của Luật Đất đai năm 2013 (gọi chung là đấu giá\nquyền sử dụng đất) và đấu giá quyền khai thác khoáng sản trên địa bàn tỉnh Hà\nTĩnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"VI\">Điều 2. Đối tượng\náp dụng</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các cơ quan quản lý nhà nước trong\ncông tác đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản; đơn vị\ntổ chức thực hiện việc đấu giá tài sản; tổ chức đấu giá tài sản; các tổ chức,\ncá nhân tham gia đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản;\ncác tổ chức, cá nhân khác có liên quan đến đấu giá quyền sử dụng đất, đấu giá\nquyền khai thác khoáng sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"VI\">Điều 3. Nguyên\ntắc đấu giá quyền sử dụng đất, quyền khai thác khoáng sản</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tuân thủ quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đảo đảm tính độc lập, trung thực,\ncông khai, minh bạch, công bằng, khách quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Bảo vệ quyền, lợi ích hợp pháp của\nngười có tài sản đấu giá, người tham gia đấu giá, người trúng đấu giá, người\nmua được tài sản đấu giá, tổ chức đấu giá tài sản, đấu giá viên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Cuộc đấu giá phải do đấu giá viên\nđiều hành, trừ trường hợp cuộc đấu giá do Hội đồng đấu giá tài sản thực hiện</span><span lang=\"EN-US\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">Chương II</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CỤ THỂ</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">Mục 1. ĐẤU GIÁ QUYỀN\nSỬ DỤNG ĐẤT</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">Điều 4. Điều kiện\nđể tổ chức thực hiện đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đã có kế hoạch sử dụng đất hàng\nnăm của cấp huyện được cơ quan nhà nước có thẩm quyền phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đất đã được giải phóng mặt bằng, đất\ncó tài sản gắn liền với đất mà tài sản thuộc sở hữu nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Có phương án đấu giá quyền sử dụng\nđất được cơ quan nhà nước có thẩm quyền phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"VI\">Điều 5. Đối tượng\nđược tham gia và không được tham gia đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đối tượng được tham gia đấu giá là\ncá nhân, tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất\ntheo quy định tại Điều 55 và Điểm a, c, d, đ, e Khoản 1 Điều 56 Luật Đất đai\nnăm 2013.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối tượng được tham gia đấu giá\nquyền sử dụng đất để thực hiện dự án đầu tư phải đảm bảo các điều kiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Có ngành nghề kinh doanh phù hợp với\nmục đích sử dụng đất;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Có năng lực tài chính để bảo đảm\nviệc sử dụng đất theo tiến độ của dự án đầu tư:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Có vốn thuộc sở hữu của mình để thực\nhiện dự án không thấp hơn 20% tổng mức đầu tư đối với dự án có quy mô sử dụng đất\ndưới 20 ha; không thấp hơn 15% tổng mức đầu tư đối với dự án có quy mô sử dụng\nđất từ 20 ha trở lên;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Có khả năng huy động vốn để thực hiện\ndự án từ các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức,\ncá nhân khác;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Không vi phạm quy định của pháp luật\nvề đất đai đối với trường hợp đang sử dụng đất do Nhà nước giao đất, cho thuê đất\nđể thực hiện dự án đầu tư khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Các trường hợp không được đăng ký\ntham gia đấu giá: Thực hiện theo quy định tại Khoản 4 Điều 38 Luật Đấu giá tài\nsản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"VI\">Điều 6. Lựa chọn\ntổ chức đấu giá tài sản</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Sau khi có quyết định của cơ quan\ncó thẩm quyền về việc đấu giá quyền sử dụng đất, đơn vị tổ chức thực hiện việc\nđấu giá quyền sử dụng đất thông báo công khai trên trang thông tin điện tử của\nmình về việc lựa chọn tổ chức đấu giá tài sản. Nội dung thông báo theo quy định\ntại khoản 2 Điều 56 Luật Đấu giá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đơn vị tổ chức thực hiện việc đấu\ngiá quyền sử dụng đất căn cứ hồ sơ tham gia tổ chức đấu giá của tổ chức đấu giá\ntài sản, các tiêu chí quy định tại khoản 4 Điều 56 Luật Đấu giá tài sản để lựa\nchọn tổ chức đấu giá tài sản và chịu trách nhiệm về việc lựa chọn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trường hợp hết thời gian mời tham\ngia đấu giá mà chỉ có một tổ chức đấu giá tài sản đăng ký tham gia thì đơn vị tổ\nchức thực hiện việc đấu giá quyền sử dụng đất lựa chọn tổ chức đấu giá đã đăng\nký tham gia (nếu tổ chức đó đủ điều kiện theo quy định của pháp luật).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Việc ký kết và thực hiện hợp đồng\ndịch vụ đấu giá quyền sử dụng đất được thực hiện theo quy định tại Điều 33 Luật\nĐấu giá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"VI\">Điều 7. Lập và phê\nduyệt phương án đấu giá, quyết định đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Căn cứ kế hoạch sử dụng đất hàng\nnăm của cấp huyện đã được phê duyệt và đề xuất của các đơn vị về việc đấu giá\nquỹ đất hiện có, các đơn vị đang được giao quản lý quỹ đất, đơn vị được giao tổ\nchức thực hiện việc đấu giá quyền sử dụng đất lập phương án đấu giá và dự thảo\nquyết định đấu giá quyền sử dụng đất, gửi cơ quan Tài nguyên và Môi trường cùng\ncấp để thẩm định, trình Ủy ban nhân dân cùng cấp phê duyệt</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nội dung của phương án đấu giá và\nquyết định đấu giá quyền sử dụng đất thực hiện theo Điều 6, Điều 7 và Điều 8\nThông tư liên tịch số 14/2015/TTLT-BTNMT-BTP ngày 04/4/2015 của Bộ trưởng Bộ\nTài nguyên và Môi trường và Bộ trưởng Bộ Tư pháp quy định việc tổ chức thực hiện\nđấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_8\"><b><span lang=\"VI\">Điều 8. Xác định\ngiá khởi điểm đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đơn vị tổ chức thực hiện việc đấu giá\nquyền sử dụng đất có trách nhiệm gửi hồ sơ đề nghị xác định giá khởi điểm theo\nquy định. Việc xác định giá khởi điểm đấu giá quyền sử dụng đất được quy định tại\nKhoản 2 Điều 2, Khoản 1 Điều 3 Nghị định số 123/2017/NĐ-CP ngày 14/11/2017 sửa\nđổi, bổ sung một số điều của các Nghị định quy định về thu tiền sử dụng đất,\nthu tiền thuê đất, thuê mặt nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_9\"><b><span lang=\"VI\">Điều 9. Phê duyệt\nkết quả đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Trong thời hạn 03 ngày làm việc kể\ntừ ngày kết thúc cuộc đấu giá, tổ chức đấu giá tài sản chuy</span><span lang=\"EN-US\">ể</span><span lang=\"VI\">n kết quả đấu giá tài sản, biên bản đấu giá, danh\nsách người trúng đấu giá cho đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng\nđất</span><span lang=\"EN-US\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trong thời hạn không quá 05 ngày\nlàm việc kể từ ngày nhận bàn giao đủ hồ sơ và Biên bản đấu giá quyền sử dụng đất,\nđơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất lập hồ sơ chuyển cơ\nquan Tài nguyên và Môi trường để trình Ủy ban nhân dân đã ban hành quyết định đấu\ngiá quyền sử dụng đất xem xét, phê duyệt kết quả đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_10\"><b><span lang=\"VI\">Điều 10. Bước\ngiá, cách thức trả giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Bước giá là mức chênh lệch tối thiểu\ncủa lần trả giá sau so với lần trả giá trước liền kề. Bước giá do người có tài\nsản đấu giá quyết định hoặc do đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng\nđất quyết định (nếu có ủy quyền), tùy theo điều kiện cụ thể nhưng không thấp\nhơn 3% (ba phần trăm) giá kh</span><span lang=\"EN-US\">ở</span><span lang=\"VI\">i đi</span><span lang=\"EN-US\">ể</span><span lang=\"VI\">m của tài sản đấu giá và thông báo bằng văn bản\ncho tổ chức đấu giá tài sản đối với từng cuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Cách thức trả giá: cá nhân, tổ chức\ntham gia đấu giá trả giá bằng số nguyên lần bước giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_11\"><b><span lang=\"VI\">Điều 11. Giám\nsát thực hiện cuộc đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đơn vị tổ chức thực hiện việc đấu\ngiá quyền sử dụng đất có trách nhiệm cử hoặc đề nghị cử đại diện tham dự, giám\nsát việc thực hiện cuộc đấu giá quyền sử dụng đất. Các thành viên giám sát bao\ngồm đại diện cơ quan Tài nguyên Môi trường, Tài chính, Tư pháp cùng cấp, chính\nquyền địa phương n</span><span lang=\"EN-US\">ơ</span><span lang=\"VI\">i có đất đấu\ngiá và đại diện các cơ quan khác có liên quan. Các thành viên giám sát có trách\nnhiệm giám sát việc thực hiện cuộc đấu giá, nắm bắt tình hình, báo cáo đề xuất\ncơ quan có thẩm quyền về các giải pháp đảm bảo an ninh trật tự và xử lý các\nhành vi vi phạm pháp luật liên quan đến cuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trong trường hợp xét thấy cần thiết\nđể đảm bảo tính công khai, minh bạch của cuộc đấu giá, đơn vị tổ chức thực hiện\ncuộc đấu giá đề xuất Ủy ban nhân dân cấp có thẩm quyền quyết định việc lắp đặt\ncamera tại địa điểm diễn ra cuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_12\"><b><span lang=\"VI\">Điều 12. Đăng ký\ntham gia đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Cá nhân, tổ chức đăng ký tham gia\nđấu giá quyền sử dụng đất thông qua việc nộp hồ sơ hợp lệ và tiền đặt trước cho\ntổ chức đấu giá tài sản theo thời hạn đã được niêm yết, thông báo công khai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tổ chức đấu giá tài sản bán hồ sơ\ntham gia đấu giá, tiếp nhận hồ sơ tham gia đấu giá trong giờ hành chính, liên tục\nkể từ ngày niêm yết việc đấu giá quyền sử dụng, đất cho đến trước ngày mở cuộc\nđấu giá 02 ngày.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_13\"><b><span lang=\"VI\">Điều 13. Tiền đặt\ntrước và xử lý tiền đặt trước</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đơn vị tổ chức thực hiện đấu giá\nquyền sử dụng đất thống nhất với tổ chức đấu giá tài sản về khoản tiền đặt trước,\nđảm bảo không dưới 5% và không quá 20% giá khởi điểm của lô (thửa) đất đấu giá.\nKhi gửi tiền đặt trước vào tài khoản thanh toán riêng của tổ chức đấu giá tài sản\ntại Ngân hàng, trên chứng từ nộp tiền không ghi số lô (thửa) đất đăng ký tham\ngia đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để tránh lộ thông tin của người tham\ngia đấu giá, tiền đặt trước cho mỗi lô (thửa) đất có thể xác định bằng nhau.\nTrường hợp trong một khu quy hoạch đấu giá đất có nhiều thửa đất với vị trí\nkhác nhau, diện tích, giá khởi điểm chênh lệch lớn mà việc áp dụng mức tiền đặt\ntrước cho các lô (thửa) đất bằng nhau không phù hợp, thì căn cứ theo từng\nphương án đấu giá cụ thể, cơ quan được giao tổ chức việc đấu giá quyền sử dụng\nđất thống nhất với tổ chức đấu giá tài sản phân nhóm các thửa đất có giá trị\ntheo giá khởi điểm bằng nhau để quy định cùng mức tiền đặt trước, đảm bảo không\ndưới 5% và không quá 20% giá khởi điểm của lô (thửa) đất đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tổ chức đấu giá tài sản chỉ được\nthu tiền đặt trước của người tham gia đấu giá trong thời hạn 03 ngày làm việc\ntrước ngày mở cuộc đấu giá, trừ trường hợp tổ chức đấu giá tài sản và người\ntham gia đấu giá có thỏa thuận khác nhưng phải trước ngày mở cuộc đấu giá. Tổ\nchức đấu giá tài sản có trách nhiệm trả lại khoản tiền đặt trước và thanh toán\ntiền lãi (nếu có) trong trường hợp người tham gia đấu giá không trúng đấu giá\ntrong thời hạn 03 ngày làm việc kể từ ngày kết thúc cuộc đấu giá hoặc trong thời\nhạn khác do các bên thỏa thuận, trừ trường hợp quy định tại Khoản 3 Điều này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trường hợp trúng đấu giá thì khoản\ntiền đặt trước và tiền lãi (nếu có) được chuyển thành tiền đặt cọc để bảo đảm\nthực hiện nghĩa vụ nộp tiền trúng đấu giá sau khi được cơ quan có thẩm quyền\nphê duyệt. Việc xử lý tiền đặt cọc thực hiện theo quy định của pháp luật v</span><span lang=\"EN-US\">ề </span><span lang=\"VI\">dân sự và quy định khác của pháp luật có liên\nquan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Xử lý tiền đặt trước: Thực hiện\ntheo quy định tại Khoản 6 Điều 39 Luật Đấu giá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_14\"><b><span lang=\"VI\">Điều 14. Hình thức\nđấu giá và phương thức đấu giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đơn vị tổ chức thực hiện việc đấu\ngiá quyền sử dụng đất thỏa thuận với tổ chức đấu giá tài sản lựa chọn một trong\ncác hình thức sau đây đ</span><span lang=\"EN-US\">ể </span><span lang=\"VI\">tiến hành\ncuộc đấu giá:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Đấu giá trực tiếp bằng lời nói tại\ncuộc đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đấu giá bằng bỏ phiếu trực tiếp tại\ncuộc đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Đấu giá bằng bỏ phiếu gián tiếp;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Đấu giá trực tuyến;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Tùy theo tình hình cụ thể có thể\náp dụng đấu giá kết hợp 2 hình thức: bỏ phiếu gián tiếp và đấu giá trực tiếp tại\ncuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Vòng 1: Bỏ phiếu gián tiếp để lựa chọn\nsố tổ chức, cá nhân có từ 03 mức giá cao nhất trở lên để tham gia đấu giá vòng\ntiếp theo. Trường hợp chỉ có 02 tổ chức, cá nhân đủ điều kiện tham gia đấu giá\nthì vẫn tiếp tục đấu giá vòng tiếp theo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Vòng tiếp theo: đấu giá trực tiếp tại\ncuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Khuyến khích lựa chọn hình thức: kết\nhợp đấu giá bằng bỏ phiếu gián tiếp và đấu giá trực tiếp tại cuộc đấu giá; đấu\ngiá trực tuyến.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hình thức đấu giá phải được quy định\ntrong Quy chế cuộc đấu giá và công bố công khai cho người tham gia đấu giá biết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Phương thức đấu giá: Phương thức\ntrả giá lên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_15\"><b><span lang=\"VI\">Điều 15. Nội quy\ntrong phòng đấu giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Đối với người tham gia đấu giá và\ntham dự cuộc đấu giá:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chỉ những người sau đây được phép\nvào phòng đấu giá: Các thành viên phụ trách cuộc đấu giá, tổ giúp việc, khách\nđược mời tham dự cuộc đấu giá; những người đã nộp đơn và đủ điều kiện tham gia\nđấu giá; phóng viên, báo chí, truyền hình khi đến tác nghiệp phải xuất trình thẻ\ntheo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Người tham gia đấu giá phải có mặt\ntại phòng tổ chức cuộc đấu giá đúng thời gian quy định theo thông báo của tổ chức\nđấu giá tài sản. Trước khi vào phòng đấu giá; người tham gia đấu giá phải xuất\ntrình chứng minh nhân dân, hộ chiếu hoặc căn cước công dân, giấy ủy quyền (nếu\ncó) và ngồi đúng vị trí sắp xếp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Sau khi công bố giá, những người\ntham gia đấu giá đến chậm không được vào phòng đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Người tham gia đấu giá không được\ntrao đổi với cá nhân khác, không gây ồn ào, không đi lại lộn xộn, không tự ý ra\nkhỏi phòng đấu giá nếu không có sự đồng ý của đấu giá viên; không được sử dụng\nđiện thoại và các phương tiện thông tin liên lạc khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Đối với đấu giá viên:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Điều hành cuộc đấu giá theo đúng\ntrình tự, thủ tục pháp luật quy định;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Giữ thái độ lịch sự, tôn trọng đối\nvới người tham gia đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Giải thích và hướng dẫn các yêu cầu\ncủa người tham gia đấu giá tận tình, nhanh gọn và đúng quy định của pháp luật,\nkhông được gây phiền hà, sách nhiễu đối với người tham gia đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Không được thực hiện các hành vi:\nlợi dụng danh nghĩa đấu giá viên để trục lợi; thông đồng, móc nối với người có\ntài sản đấu giá, người tham gia đấu giá, tổ chức thẩm định giá và cá nhân, tổ\nchức khác để làm sai lệch thông tin tài sản đấu giá, dìm giá, làm sai lệch hồ\nsơ đấu giá hoặc kết quả đấu giá; hạn chế cá nhân, tổ chức tham gia đấu giá\nkhông đúng quy định của pháp luật; vi phạm Quy tắc đạo đức nghề nghiệp đấu giá\nviên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_16\"><b><span lang=\"VI\">Điều 16. Quyền\nvà nghĩa vụ của đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Quyền của đơn vị tổ chức thực hiện\nviệc đấu giá quyền sử dụng đất:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thực hiện, yêu cầu thực hiện các\nthỏa thuận trong hợp đồng dịch vụ đấu giá quyền sử dụng đất (nếu có);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chủ trì, phối hợp với các đơn vị\ncó liên quan tổ chức giám sát cuộc đấu giá quyền sử dụng đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nghĩa vụ của đơn vị tổ chức thực\nhiện việc đấu giá quyền sử dụng đất:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Phối hợp với tổ chức đấu giá tài sản\ntổ chức cho người tham gia đấu giá xem hiện trạng lô (thửa) đất đấu giá và giải\nđáp các thắc mắc có liên quan;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Phối hợp với tổ chức đấu giá tài sản\nthực hiện cuộc đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Thực hiện các thỏa thuận trong hợp\nđồng dịch vụ đấu giá quyền sử dụng đất;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Lập hồ sơ gửi cơ quan tài nguyên\nvà môi trường để trình Ủy ban nhân dân cấp có thẩm quyền quyết định công nhận\nhoặc hủy kết quả đấu giá quyền sử dụng đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_17\"><b><span lang=\"VI\">Điều 17. Quyền\nvà nghĩa vụ của tổ chức đấu giá tài sản</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Quyền của tổ chức đấu giá tài sản:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Được cung cấp đầy đủ, chính xác\nthông tin, giấy tờ liên quan đến lô (thửa) đất đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Phát hành, tiếp nhận, quản lý hồ\nsơ đăng ký tham gia đấu giá quyền sử dụng đất;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Yêu cầu thực hiện các thỏa thuận\ntrong hợp đồng dịch vụ đấu giá quyền sử dụng đất (nếu có).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nghĩa vụ của tổ chức đấu giá tài sản:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Ban hành Quy chế đấu giá cho từng\ncuộc đấu giá quyền sử dụng đất phù hợp với Quy định này và các văn bản pháp luật\ncó liên quan;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Niêm yết, thông báo công khai việc\nđấu giá quyền sử dụng đất theo quy định của pháp luật;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Niêm yết Nội quy trong phòng đấu\ngiá quy định tại Điều 15 Quy định này tại nơi tổ chức cuộc đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Chủ trì, phối hợp với đơn vị tổ chức\nthực hiện việc đấu giá quyền sử dụng đất tổ chức cho người tham gia đấu giá xem\nhiện trạng lô (thửa) đất đấu giá và giải đáp các thắc mắc có liên quan;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Thu, nộp, quản lý và sử dụng tiền\nmua hồ sơ và tiền đặt trước của người tham gia đấu giá quyền sử dụng đất theo\nquy định của Luật đấu giá tài sản, Thông tư số 48/2017/TT-BTC và Quy định này;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Thực hiện cuộc đấu giá quyền sử dụng\nđất theo quy định tại Quy định này và các quy định pháp luật về đấu giá tài sản\ncó liên quan; chịu trách nhiệm về kết quả cuộc đấu giá quyền sử dụng đất;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">h) Bồi thường thiệt hại do lỗi của đấu\ngiá viên và các nhân viên khác của tổ chức mình gây ra trong quá trình thực hiện\ncuộc đấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">i) Thực hiện các yêu cầu của cá nhân,\ntổ chức giám sát cuộc đấu giá quyền sử dụng đất theo quy định của pháp luật đấu\ngiá tài sản và các nghĩa vụ theo hợp đồng dịch vụ đấu giá tài sản đã ký kết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_18\"><b><span lang=\"VI\">Điều 18. Quyền\nvà nghĩa vụ của người trúng đấu giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Quyền của người trúng đấu giá:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Được công nhận kết quả trúng đấu\ngiá và làm các thủ tục để nhận đất, xác lập quyền sử dụng đất theo quy định;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Được hưởng các quyền của người sử\ndụng đất theo quy định của Luật Đất đai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Nghĩa vụ của người trúng đấu giá:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Nộp đầy đủ, đúng th</span><span lang=\"EN-US\">ờ</span><span lang=\"VI\">i hạn số tiền trúng đấu giá quyền sử dụng đất\ntheo quyết định công nhận kết quả đấu giá quyền sử dụng đất và thông báo nộp tiền\nsử dụng đất, tiền thuê đất của cơ quan thuế;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Liên hệ với cơ quan có thẩm quyền\nđể ký hợp đồng thuê đất đối với đất thuê;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Nộp lệ phí trước bạ theo quy định\ntrước khi được cấp Giấy chứng nhận quyền sử dụng đất</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">Mục 2. ĐẤU GIÁ QUYỀN\nKHAI THÁC KHOÁNG SẢN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_19\"><b><span lang=\"VI\">Điều 19. Thông\nbáo về điều kiện, hồ sơ tham gia đấu giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sau khi kế hoạch đấu giá quyền khai\nthác khoáng sản hàng năm đã được Ủy ban nhân dân tỉnh phê duyệt, Sở Tài nguyên\nvà Môi trường căn cứ Luật Đấu giá tài sản, Luật Khoáng sản và các văn bản hướng\ndẫn thi hành, có văn bản thông báo về điều kiện tham gia cuộc đấu giá, hồ sơ\ntham gia đấu giá gửi cho tổ chức đấu giá tài sản để lựa chọn tổ chức, cá nhân đủ\nđiều kiện tham gia cuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_20\"><b><span lang=\"VI\">Điều 20. Lựa chọn\ntổ chức đấu giá quyền khai thác khoáng sản</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Sở Tài nguyên và Môi trường thực\nhiện việc lựa chọn tổ chức đấu giá tài sản tương tự theo Điều 6 Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Trong trường hợp không lựa chọn được\ntổ chức đấu giá tài sản, Ủy ban nhân dân tỉnh quyết định thành lập Hội đồng đấu\ngiá để tổ chức đấu giá quyền khai thác khoáng sản theo quy định của Luật Đấu\ngiá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_21\"><b><span lang=\"VI\">Điều 21. Hình thức\nđấu giá và phương thức đấu giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Hình thức đấu giá: Khuyến khích lựa\nchọn các hình thức sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Kết hợp hình thức bỏ phiếu gián tiếp\nvà đấu giá trực tiếp tại cuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Đấu giá trực tuyến</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phương thức đấu giá: Trả giá lên</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_22\"><b><span lang=\"VI\">Điều 22. Nộp hồ\nsơ tham gia đấu giá quyền khai thác khoáng sản</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tổ chức, cá nhân nộp hồ sơ tham\ngia đấu giá và tiền đặt trước cho tổ chức đấu giá tài sản theo thời hạn đã được\nniêm yết, thông báo công khai. Hồ sơ tham gia đấu giá quyền khai thác khoáng sản\nthực hiện theo Điều 19 Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Tổ chức đấu giá tài sản bán hồ sơ\ntham gia đấu giá, tiếp nhận hồ sơ tham gia đấu giá trong giờ hành chính, liên tục\nkể từ ngày niêm yết việc đấu giá tài sản cho đến trước ngày mở cuộc đấu giá 02\nngày.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Các trường hợp không được tham gia\nđấu giá: Thực hiện theo quy định tại Khoản 4 Điều 38 Luật Đấu giá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_23\"><b><span lang=\"VI\">Điều 23. Giá khởi\nđiểm, bước giá và tiền đặt trước</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Tài nguyên và Môi trường chủ trì,\nphối hợp với các sở, ngành liên quan xác định giá khởi điểm, bước giá, tiền đặt\ntrước trình Ủy ban nhân dân tỉnh quyết định cho mỗi cuộc đấu giá và thông báo bằng\nvăn bản cho tổ chức đấu giá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_24\"><b><span lang=\"VI\">Điều 24. Trình tự\nđấu giá theo hình thức kết hợp bỏ phiếu gián tiếp và đấu giá trực tiếp tại cuộc\nđấu giá.</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Vòng 1: bỏ phiếu gián tiếp</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Ngay sau khi thông báo thông tin đấu\ngiá trên phương tiện thông tin đại chúng, tổ chức đấu giá tài sản tiến hành\nniêm phong hòm phiếu. Hòm phiếu được dùng để đựng toàn bộ hồ sơ tham gia đấu\ngiá và được đặt tại nơi nhận hồ sơ tham gia đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Khi mua hồ sơ tham gia đấu giá,\nngười tham gia đấu giá được nhận phiếu trả giá, hướng dẫn về cách ghi phiếu, thời\nhạn nộp hồ sơ, buổi mở niêm phong hòm phiếu và đấu giá vòng tiếp theo; được tổ\nchức đấu giá tài sản giới thiệu từng tài sản đấu giá, nhắc lại giá khởi điểm\ntrong trường hợp công khai giá khởi điểm, trả lời câu hỏi của người tham gia đấu\ngiá và các nội dung khác theo Quy chế cuộc đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Phiếu trả giá của người tham gia đấu\ngiá phải được bọc bằng chất liệu bảo mật, có chữ ký của người trả giá tại các\nmép của phong bì đựng phiếu, trường hợp tổ chức tham gia đấu giá thì phải có chữ\nký của người đại diện và đóng dấu của tổ chức.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Sau khi hoàn thiện hồ sơ tham gia\nđấu giá, tổ chức, cá nhân tham gia đấu giá bỏ phiếu trả giá cùng toàn bộ hồ sơ\nvào 01 túi đựng hồ sơ. Túi đựng hồ sơ phải được thực hiện như quy định tại Điểm\nc Khoản 1 Điều này. Hồ sơ được gửi qua đường bưu chính hoặc được nộp trực tiếp\nvà được tổ chức đấu giá tài sản bỏ vào hòm phiếu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Hết thời hạn nộp hồ sơ tham gia đấu\ngiá, tổ chức đấu giá tiến hành niêm phong miệng hòm phiếu. Giấy niêm phong hòm\nphiếu phải có chữ ký của đại diện Lãnh đạo Sở Tài nguyên và Môi trường, Sở Tư\npháp, tổ chức đấu giá tài sản và đóng dấu của các cơ quan, tổ chức này; việc\nniêm phong hòm phiếu phải được lập thành biên bản với sự tham gia của đại diện\ncác cơ quan, tổ chức nêu trên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Mở hòm phiếu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đấu giá viên điều hành cuộc đấu giá\ngiới thiệu bản thân, người giúp việc; đọc Quy chế cuộc đấu giá, nội quy phòng đấu\ngiá; giới thiệu toàn bộ thông tin c</span><span lang=\"EN-US\">ó </span><span lang=\"VI\">liên quan đến mỏ khoáng sản đấu giá; nhắc lại giá khởi điểm và bước\ngiá; giải đáp thắc mắc của người tham gia đấu giá (nếu có).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đấu giá viên mời các thành viên đã\nthực hiện việc niêm phong miệng hòm phiếu, đại diện tổ chức, cá nhân tham gia đấu\ngiá kiểm tra sự nguyên vẹn của niêm phong hòm phiếu. Nếu niêm phong đảm bảo\ntheo quy định thì tiến hành mở niêm phong, kiểm tra, lựa chọn trực tiếp hồ sơ của\ncác tổ chức, cá nhân tham gia đấu giá và tổng hợp các mức giá đã trả (hồ sơ nào\nđủ điều kiện được tham gia cuộc đấu giá mới mở phiếu trả giá). Việc kiểm tra, lựa\nchọn hồ sơ và tổng hợp giá đã trả phải có sự giám sát của các thành viên giám\nsát như quy định tại Khoản 1 Đi</span><span lang=\"EN-US\">ề</span><span lang=\"VI\">u\n11 Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đấu giá viên công bố những hồ sơ đủ\nvà không đủ điều kiện tham gia đấu giá; lựa chọn số tổ chức, cá nhân có từ 03 mức\ngiá cao nhất trở lên để tham gia đấu giá vòng tiếp theo. Trường hợp chỉ có 02 tổ\nchức, cá nhân đủ điều kiện tham gia đấu giá thì vẫn tiếp tục đấu giá vòng tiếp\ntheo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Vòng tiếp theo: đấu giá trực tiếp\ntại cuộc đấu giá</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đấu giá viên tiếp tục điều hành các\nbước còn lại của cuộc đấu giá theo quy định tại Điều 41 hoặc Điều 42 Luật Đấu\ngiá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Cuộc đấu giá quyền khai thác\nkhoáng sản chỉ được tiến hành khi có ít nhất 02 tổ chức, cá nhân đủ điều kiện\ntham gia đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Quy định về cách thức trả giá,\ngiám sát cuộc đấu giá, nội quy trong phòng đấu giá được áp dụng tương tự như\nKhoản 2 Điều 10, Điều 11 và Điều 15 Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Trong trường hợp thành lập Hội đồng\nđấu giá để tổ chức đấu giá thì trình tự đấu giá thực hiện như quy định tại Điều\nnày.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_25\"><b><span lang=\"VI\">Điều 25. Phê duyệt\nkết quả trúng đấu giá</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong thời hạn 03 ngày làm việc kể từ\nngày kết thúc cuộc đấu giá, tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản\nchuyển 01 bộ hồ sơ của các tổ chức, cá nhân tham gia đấu giá, kết quả đấu giá\ntài sản, biên bản đấu giá, danh sách người trúng đấu giá cho Sở Tài nguyên và\nMôi trường để trình Ủy ban nhân dân tỉnh phê duyệt kết quả đấu giá tài sản,\nhoàn thiện các thủ tục liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_26\"><b><span lang=\"VI\">Điều 26. Các quy\nđịnh khác</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Các nội dung khác áp dụng theo quy định\ncủa Luật Đấu giá tài sản, Luật Khoáng sản, Nghị định số 22/2012/NĐ-CP ngày\n26/3/2012 quy định về đấu giá quyền khai thác khoáng sản, Nghị định số\n158/2016/NĐ-CP ngày 29/11/2016 quy định chi tiết thi hành một số điều của Luật\nKhoáng sản và các văn bản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_3\"><b><span lang=\"VI\">Chương III</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_27\"><b><span lang=\"VI\">Điều 27. Xử lý\nvi phạm</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tổ chức đấu giá tài sản, đấu giá\nviên, người tham gia đấu giá, người trúng đấu giá, cá nhân, tổ chức khác có\nliên quan có hành vi vi phạm các quy định của pháp luật trong hoạt động đấu giá\ntài sản thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm\nhành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi\nthường theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Người đứng đầu các sở, ngành cấp tỉnh\ntại Chương III Quy định này, Chủ tịch Ủy ban nhân dân cấp huyện nếu không thực\nhiện hết các trách nhiệm tại Quy định này phải chịu trách nhiệm trước Chủ tịch Ủy\nban nhân dân tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Xử lý vi phạm đối với cán bộ, công\nchức, viên chức</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cán bộ, công chức, viên chức có liên\nquan không thực hiện trách nhiệm được giao hoặc lợi dụng chức vụ, quyền hạn cố\ný làm trái Quy định này và các quy định khác của pháp luật về đấu giá; có hành\nvi làm lộ bí mật, tiếp tay, môi giới cho người tham gia đấu giá và các bên liên\nquan hoặc làm cho cuộc đấu giá không thành; vi phạm các quy định về quản lý sử\ndụng đất đai, khoáng sản, đầu tư và xây dựng, thì tùy theo mức độ, tính chất vi\nphạm sẽ bị xử lý kỷ luật, hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại\nthì phải bồi thường theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_28\"><b><span lang=\"VI\">Điều 28. Trách\nnhiệm của Sở Tư pháp</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sở Tư pháp chủ trì, phối hợp với Sở\nTài chính, Sở Tài nguyên và Môi trường và các ngành liên quan hướng dẫn, kiểm\ntra việc thực hiện Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_29\"><b><span lang=\"VI\">Điều 29. Trách nhiệm\ncủa Sở Tài nguyên và Môi trường</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Tổ chức thẩm định phương án đấu\ngiá quyền sử dụng đất, quyết định đấu giá quyền sử dụng đất; chuyển hồ sơ xác định\ngiá khởi điểm tới Sở Tài chính đề nghị xác định giá khởi điểm đấu giá quyền sử\ndụng đất (đối với các trường hợp thuộc thẩm quyền quyết định đấu giá của Ủy ban\nnhân dân tỉnh); chủ trì, phối hợp với các cơ quan liên quan xác định giá khởi\nđiểm, bước giá, tiền đặt trước trong đấu giá quyền khai thác khoáng sản trình Ủy\nban nhân dân tỉnh phê duyệt</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Căn cứ biên bản, hồ sơ trúng đấu\ngiá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản của tổ chức đấu giá\ntài sản chuyển giao để lập hồ sơ trình Ủy ban nhân dân tỉnh phê duyệt kết quả\ntrúng đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Thực hiện các nhiệm vụ khác được\ngiao tại Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_30\"><b><span lang=\"VI\">Điều 30. Trách\nnhiệm của Sở Tài chính</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Là cơ quan thường trực của Hội đồng\nthẩm định giá đất tỉnh, có trách nhiệm phối hợp thẩm định phương án giá đất cụ\nthể theo đúng trình tự, thủ tục và thời gian quy định của Hội đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Cử người đại diện tham gia giám\nsát tại cuộc đấu giá theo quy định tại Điều 11 Quy định này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Hướng dẫn, kiểm tra Ủy ban nhân\ndân cấp huyện, đơn vị, tổ chức có liên quan quản lý, sử dụng tiền thu được từ đấu\ngiá quyền sử dụng đất theo đúng quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Tham mưu cho Ủy ban nhân dân tỉnh\nhuy động và bố trí nguồn vốn từ Quỹ phát triển đất để thực hiện công tác bồi\nthường giải phóng mặt bằng, đầu tư xây dựng hạ tầng kỹ thuật đối với quỹ đất thực\nhiện đấu giá quyền sử dụng đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_31\"><b><span lang=\"VI\">Điều 31. Trách\nnhiệm của Sở Kế hoạch và Đầu tư</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Hướng dẫn, hỗ trợ nhà đầu tư thực\nhiện đăng ký đầu tư theo Luật Đầu tư sau khi trúng đấu giá quyền sử dụng đất</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phối hợp với Sở Tài chính xây dựng\nkế hoạch vốn hàng năm từ nguồn quỹ phát triển đất để cho vay, ứng trước phục vụ\ngiải phóng mặt bằng, đầu tư hạ tầng trước khi đấu giá quyền sử dụng đất hoặc\ncho thuê đất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_32\"><b><span lang=\"VI\">Điều 32. Trách\nnhiệm của Cục Thuế tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Hướng dẫn người trúng đấu giá kê\nkhai và nộp tiền trúng đấu giá quyền sử dụng đất tiền thuê đất, quyền khai thác\nkhoáng sản theo kết quả trúng đấu giá được cấp có thẩm quyền phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Kiểm tra, đôn đốc và xử phạt\nnghiêm đối với những người trúng đấu giá nộp tiền sử dụng đất, nộp tiền trúng đấu\ngiá quyền khai thác khoáng sản chậm so với thời gian quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_33\"><b><span lang=\"VI\">Điều 33. Trách\nnhiệm của Công an tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chỉ đạo các phòng nghiệp vụ có liên\nquan, Công an các huyện, thành phố thị xã làm tốt công tác phòng ngừa, phát hiện,\nđấu tranh, ngăn chặn và xử lý nghiêm các hành vi v</span><span lang=\"EN-US\">i </span><span lang=\"VI\">phạm pháp luật gây rối trật tự trong hoạt động đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_34\"><b><span lang=\"VI\">Điều 34. Trách\nnhiệm của Ủy ban nhân dân cấp huyện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Lập kế hoạch sử dụng đất hàng năm\ntrình cơ quan có thẩm quyền thẩm định, phê duyệt theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phê duyệt phương án đấu giá và\ncông nhận kết quả trúng đấu giá đối với các trường hợp thuộc thẩm quyền quyết định\nđấu giá của Ủy ban nhân dân cấp huyện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Lựa chọn và ký kết hợp đồng dịch vụ\nđấu giá quyền sử dụng đất với tổ chức đấu giá tài sản theo quy định; không lựa\nchọn tổ chức đấu giá tài sản đã có hành vi vi phạm điểm a, b, c, d khoản 2 Điều\n9 Luật đấu giá tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Chỉ đạo Ủy ban nhân dân cấp xã:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Phối hợp với tổ chức đấu giá tài sản\nniêm yết việc đấu giá tại địa điểm tổ chức cuộc đấu giá và tại trụ sở Ủy ban\nnhân dân cấp xã nơi có tài sản đấu giá; thông báo công khai trên phương tiện\nthông tin đại chúng của xã, phường; thị trấn về việc đấu giá quyền sử dụng đất\nđối với khu đất, lô (th</span><span lang=\"EN-US\">ử</span><span lang=\"VI\">a) đất được\nđấu giá;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Phối hợp với cơ quan nhà nước có\nthẩm quyền thực hiện việc đo đạc, xác định vị trí, kích thước, diện tích, mốc\ngiới của khu đất, lô (thửa) đất trên địa bàn xã, phường, thị trấn được đấu giá;\ntổ chức thực hiện công tác bồi thường giải phóng mặt bằng; thực hiện việc bàn\ngiao đất trên thực địa, lập hồ sơ cấp giấy chứng nhận quyền sử dụng đất cho người\ntrúng đấu giá theo quy định của pháp luật về đất đai;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phối hợp trong quá trình lập quy hoạch,\nxác định mốc giới, vị trí, công tác bồi thường giải phóng mặt bằng khu mỏ đấu\ngiá quyền khai thác khoáng sản</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Thực hiện nghiêm các quy định pháp\nluật khi ký chứng thực các văn bản ủy quyền để tham gia đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_35\"><b><span lang=\"VI\">Điều 35. Trách\nnhiệm của Trung tâm Phát triển quỹ đất tỉnh</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Lập phương án đấu giá quyền sử dụng\nđất, Quyết định đấu giá trình cơ quan có thẩm quyền thẩm định và phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phối hợp với các cơ quan, đơn vị có\nliên quan bàn giao đất trên thực địa cho tổ chức, cá nhân trúng đấu giá.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Phối hợp cơ quan thuế đôn đốc người\ntrúng đấu giá quyền sử dụng đất nộp tiền sử dụng đất, tiền thuê đất theo tiến độ\nnộp tiền sử dụng đất đã được phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_36\"><b><span lang=\"VI\">Điều 36. Trách\nnhiệm của Tổ chức đấu giá tài sản</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Bán hồ sơ tham gia đấu giá, tiếp\nnhận hồ sơ đề nghị tham gia đấu giá; thu tiền đặt trước; xây dựng Quy chế cuộc\nđấu giá, nội quy đấu giá; thông báo danh sách đối tượng được tham gia đấu giá,\nthời gian, địa điểm tổ chức đấu giá; niêm yết thông báo đấu giá; hoàn trả tiền\nđặt trước sau khi kết thúc đấu giá theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Phối hợp với Sở Tài nguyên và Môi\ntrường trong việc cho cá nhân, tổ chức có nhu cầu tham gia đấu giá xem thực địa,\ntham khảo tài liệu địa chất liên quan khi đấu giá quyền khai thác khoáng sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong quá trình triển khai tổ chức thực\nhiện Quy định này, nếu có khó khăn, vướng mắc cần sửa đổi, bổ sung, các tổ chức,\ncá nhân phản ánh về Sở Tư pháp để tổng hợp và báo cáo Ủy ban nhân dân tỉnh xem\nxét, quyết định./.</span></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH HÀ TĨNH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 57/2019/QĐ-UBND\n\n_Hà Tĩnh, ngày 18 tháng 10 năm 2019_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY ĐỊNH VỀ ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT ĐỂ GIAO ĐẤT CÓ THU TIỀN SỬ DỤNG ĐẤT HOẶC CHO THUÊ ĐẤT VÀ ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN TRÊN ĐỊA BÀN TỈNH HÀ TĨNH\n\n**ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH**\n\n_Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19/6/2015;_\n\n_Căn cứ Luật B__a__n hành văn bản quy phạm pháp luật ngày 22/6/2015;_\n\n_Căn cứ Luật Đấu giá tài sản ngày 17/11/2016;_\n\n_Căn cứ Luật Đất đai ngày 29/11/2013;_\n\n_Căn cứ Luật Khoáng sản ngày 17/11/2010;_\n\n_Căn cứ Luật Quản lý; sử dụng tài sản công ngày 21/6/2017;_\n\n_Căn cứ các Nghị định của Chính phủ: số 62/2017/NĐ-CP ngày 16/5/2017 quy định chi tiết một số điều và biện pháp thi hành Luật Đấu giá tài sản; số 123/2017/NĐ-CP ngày 14/11/2017 sửa đổi, bổ sung một số điều của các Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước; số 22/2012/NĐ-CP ngày 26/3/2012 quy định về đấu giá quyền khai thác khoáng sản; số 158/2016/NĐ-CP ngày 29/11/2016 quy định chi tiết thi hành một số điều của Luật Khoáng sản;_\n\n_Căn cứ các Thông tư liên tịch: số 14/2015/__T__TLT-BTNMT-BTP ngày 04/4/2015 của Bộ trưởng Bộ Tài nguyên và Môi trường và Bộ trưởng Bộ Tư pháp quy định việc tổ chức thực hiện đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất số 54/2014/TTLT-BTNMT-BTC ngày 09/9/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường Bộ trưởng Bộ Tài chính quy định chi tiết một số điều của Nghị định số 22/2012/NĐ-CP ngày 26/3/2012 quy định về đấu giá quyền khai thác khoáng sản;_\n\n_Căn cứ các Thông tư c__ủ__a Bộ trưởng Bộ Tài chính: số 45/2017/TT-BTC ngày 12/5/2017 quy định khung thù lao dịch vụ đấu giá tài sản theo quy định tại Luật đấu giá tài sản; số 48/2017/TT-BTC ngày 15/5/2017 quy định chế độ tài chính trong hoạt động đấu giá tài sản;_\n\n_Theo đề nghị của Giám đốc Sở Tư pháp tại Tờ trình số 397/TTr-STP ngày 09/8/2019, Báo cáo thẩm định số 395/BC-STP ngày 08/8/2019 Văn bản số 561/STP-HC&BTTP ngày 04/9/2019 và Văn bản số 620/STP-HC&BTTP ngày 24/9/2019._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy định về đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất và đấu giá quyền khai thác khoáng sản trên địa bàn tỉnh Hà Tĩnh.\n\n**Điều 2.** Quyết định này có hiệu lực kể từ ngày 29 tháng 10 năm 2019.\n\n**Điều 3.** Chánh Văn phòng ĐĐBQH, HĐND và UBND tỉnh; Giám đốc các Sở, Thủ trưởng các ban, ngành cấp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Như Điều 3 ;  \n\\- Bộ Tư pháp (để b/c);  \n\\- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;  \n\\- TTr. Tỉnh ủy, HĐND tỉnh;  \n\\- Đoàn Đại biểu Quốc hội tỉnh;  \n\\- Chủ tịch, các PCT UBND tỉnh;  \n\\- Chánh, các Phó VP;  \n\\- Trung tâm TT-CB-TH tỉnh;  \n\\- Lưu: VT, NC, NL2.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nĐặng Ngọc Sơn**\n\n**QUY ĐỊNH**\n\nVỀ ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT ĐỂ GIAO ĐẤT CÓ THU TIỀN SỬ DỤNG ĐẤT HOẶC CHO THUÊ ĐẤT VÀ ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN TRÊN ĐỊA BÀN TỈNH HÀ TĨNH  \n_(Ban hành kèm theo Quyết định số 57/2019/QĐ-UBND ngày 18 tháng 10 năm 2019 của Ủy ban nhân dân tỉnh Hà Tĩnh)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\nQuy định này quy định một số nội dung về việc đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất theo khoản 1 Điều 118 của Luật Đất đai năm 2013 (gọi chung là đấu giá quyền sử dụng đất) và đấu giá quyền khai thác khoáng sản trên địa bàn tỉnh Hà Tĩnh.\n\n**Điều 2. Đối tượng áp dụng**\n\nCác cơ quan quản lý nhà nước trong công tác đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản; đơn vị tổ chức thực hiện việc đấu giá tài sản; tổ chức đấu giá tài sản; các tổ chức, cá nhân tham gia đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản; các tổ chức, cá nhân khác có liên quan đến đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản.\n\n**Điều 3. Nguyên tắc đấu giá quyền sử dụng đất, quyền khai thác khoáng sản**\n\n1\\. Tuân thủ quy định của pháp luật.\n\n2\\. Đảo đảm tính độc lập, trung thực, công khai, minh bạch, công bằng, khách quan.\n\n3\\. Bảo vệ quyền, lợi ích hợp pháp của người có tài sản đấu giá, người tham gia đấu giá, người trúng đấu giá, người mua được tài sản đấu giá, tổ chức đấu giá tài sản, đấu giá viên.\n\n4\\. Cuộc đấu giá phải do đấu giá viên điều hành, trừ trường hợp cuộc đấu giá do Hội đồng đấu giá tài sản thực hiện.\n\n**Chương II**\n\n**QUY ĐỊNH CỤ THỂ**\n\n**Mục 1. ĐẤU GIÁ QUYỀN SỬ DỤNG ĐẤT**\n\n**Điều 4. Điều kiện để tổ chức thực hiện đấu giá quyền sử dụng đất**\n\n1\\. Đã có kế hoạch sử dụng đất hàng năm của cấp huyện được cơ quan nhà nước có thẩm quyền phê duyệt.\n\n2\\. Đất đã được giải phóng mặt bằng, đất có tài sản gắn liền với đất mà tài sản thuộc sở hữu nhà nước.\n\n3\\. Có phương án đấu giá quyền sử dụng đất được cơ quan nhà nước có thẩm quyền phê duyệt.\n\n**Điều 5. Đối tượng được tham gia và không được tham gia đấu giá quyền sử dụng đất**\n\n1\\. Đối tượng được tham gia đấu giá là cá nhân, tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định tại Điều 55 và Điểm a, c, d, đ, e Khoản 1 Điều 56 Luật Đất đai năm 2013.\n\n2\\. Đối tượng được tham gia đấu giá quyền sử dụng đất để thực hiện dự án đầu tư phải đảm bảo các điều kiện:\n\na) Có ngành nghề kinh doanh phù hợp với mục đích sử dụng đất;\n\nb) Có năng lực tài chính để bảo đảm việc sử dụng đất theo tiến độ của dự án đầu tư:\n\n\\- Có vốn thuộc sở hữu của mình để thực hiện dự án không thấp hơn 20% tổng mức đầu tư đối với dự án có quy mô sử dụng đất dưới 20 ha; không thấp hơn 15% tổng mức đầu tư đối với dự án có quy mô sử dụng đất từ 20 ha trở lên;\n\n\\- Có khả năng huy động vốn để thực hiện dự án từ các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức, cá nhân khác;\n\nc) Không vi phạm quy định của pháp luật về đất đai đối với trường hợp đang sử dụng đất do Nhà nước giao đất, cho thuê đất để thực hiện dự án đầu tư khác.\n\n3\\. Các trường hợp không được đăng ký tham gia đấu giá: Thực hiện theo quy định tại Khoản 4 Điều 38 Luật Đấu giá tài sản.\n\n**Điều 6. Lựa chọn tổ chức đấu giá tài sản**\n\n1\\. Sau khi có quyết định của cơ quan có thẩm quyền về việc đấu giá quyền sử dụng đất, đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất thông báo công khai trên trang thông tin điện tử của mình về việc lựa chọn tổ chức đấu giá tài sản. Nội dung thông báo theo quy định tại khoản 2 Điều 56 Luật Đấu giá tài sản.\n\n2\\. Đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất căn cứ hồ sơ tham gia tổ chức đấu giá của tổ chức đấu giá tài sản, các tiêu chí quy định tại khoản 4 Điều 56 Luật Đấu giá tài sản để lựa chọn tổ chức đấu giá tài sản và chịu trách nhiệm về việc lựa chọn.\n\n3\\. Trường hợp hết thời gian mời tham gia đấu giá mà chỉ có một tổ chức đấu giá tài sản đăng ký tham gia thì đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất lựa chọn tổ chức đấu giá đã đăng ký tham gia (nếu tổ chức đó đủ điều kiện theo quy định của pháp luật).\n\n4\\. Việc ký kết và thực hiện hợp đồng dịch vụ đấu giá quyền sử dụng đất được thực hiện theo quy định tại Điều 33 Luật Đấu giá tài sản.\n\n**Điều 7. Lập và phê duyệt phương án đấu giá, quyết định đấu giá quyền sử dụng đất**\n\n1\\. Căn cứ kế hoạch sử dụng đất hàng năm của cấp huyện đã được phê duyệt và đề xuất của các đơn vị về việc đấu giá quỹ đất hiện có, các đơn vị đang được giao quản lý quỹ đất, đơn vị được giao tổ chức thực hiện việc đấu giá quyền sử dụng đất lập phương án đấu giá và dự thảo quyết định đấu giá quyền sử dụng đất, gửi cơ quan Tài nguyên và Môi trường cùng cấp để thẩm định, trình Ủy ban nhân dân cùng cấp phê duyệt\n\n2\\. Nội dung của phương án đấu giá và quyết định đấu giá quyền sử dụng đất thực hiện theo Điều 6, Điều 7 và Điều 8 Thông tư liên tịch số 14/2015/TTLT-BTNMT-BTP ngày 04/4/2015 của Bộ trưởng Bộ Tài nguyên và Môi trường và Bộ trưởng Bộ Tư pháp quy định việc tổ chức thực hiện đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất.\n\n**Điều 8. Xác định giá khởi điểm đấu giá quyền sử dụng đất**\n\nĐơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất có trách nhiệm gửi hồ sơ đề nghị xác định giá khởi điểm theo quy định. Việc xác định giá khởi điểm đấu giá quyền sử dụng đất được quy định tại Khoản 2 Điều 2, Khoản 1 Điều 3 Nghị định số 123/2017/NĐ-CP ngày 14/11/2017 sửa đổi, bổ sung một số điều của các Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước.\n\n**Điều 9. Phê duyệt kết quả đấu giá quyền sử dụng đất**\n\n1\\. Trong thời hạn 03 ngày làm việc kể từ ngày kết thúc cuộc đấu giá, tổ chức đấu giá tài sản chuyển kết quả đấu giá tài sản, biên bản đấu giá, danh sách người trúng đấu giá cho đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất.\n\n2\\. Trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận bàn giao đủ hồ sơ và Biên bản đấu giá quyền sử dụng đất, đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất lập hồ sơ chuyển cơ quan Tài nguyên và Môi trường để trình Ủy ban nhân dân đã ban hành quyết định đấu giá quyền sử dụng đất xem xét, phê duyệt kết quả đấu giá.\n\n**Điều 10. Bước giá, cách thức trả giá**\n\n1\\. Bước giá là mức chênh lệch tối thiểu của lần trả giá sau so với lần trả giá trước liền kề. Bước giá do người có tài sản đấu giá quyết định hoặc do đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất quyết định (nếu có ủy quyền), tùy theo điều kiện cụ thể nhưng không thấp hơn 3% (ba phần trăm) giá khởi điểm của tài sản đấu giá và thông báo bằng văn bản cho tổ chức đấu giá tài sản đối với từng cuộc đấu giá.\n\n2\\. Cách thức trả giá: cá nhân, tổ chức tham gia đấu giá trả giá bằng số nguyên lần bước giá.\n\n**Điều 11. Giám sát thực hiện cuộc đấu giá quyền sử dụng đất**\n\n1\\. Đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất có trách nhiệm cử hoặc đề nghị cử đại diện tham dự, giám sát việc thực hiện cuộc đấu giá quyền sử dụng đất. Các thành viên giám sát bao gồm đại diện cơ quan Tài nguyên Môi trường, Tài chính, Tư pháp cùng cấp, chính quyền địa phương nơi có đất đấu giá và đại diện các cơ quan khác có liên quan. Các thành viên giám sát có trách nhiệm giám sát việc thực hiện cuộc đấu giá, nắm bắt tình hình, báo cáo đề xuất cơ quan có thẩm quyền về các giải pháp đảm bảo an ninh trật tự và xử lý các hành vi vi phạm pháp luật liên quan đến cuộc đấu giá.\n\n2\\. Trong trường hợp xét thấy cần thiết để đảm bảo tính công khai, minh bạch của cuộc đấu giá, đơn vị tổ chức thực hiện cuộc đấu giá đề xuất Ủy ban nhân dân cấp có thẩm quyền quyết định việc lắp đặt camera tại địa điểm diễn ra cuộc đấu giá.\n\n**Điều 12. Đăng ký tham gia đấu giá quyền sử dụng đất**\n\n1\\. Cá nhân, tổ chức đăng ký tham gia đấu giá quyền sử dụng đất thông qua việc nộp hồ sơ hợp lệ và tiền đặt trước cho tổ chức đấu giá tài sản theo thời hạn đã được niêm yết, thông báo công khai.\n\n2\\. Tổ chức đấu giá tài sản bán hồ sơ tham gia đấu giá, tiếp nhận hồ sơ tham gia đấu giá trong giờ hành chính, liên tục kể từ ngày niêm yết việc đấu giá quyền sử dụng, đất cho đến trước ngày mở cuộc đấu giá 02 ngày.\n\n**Điều 13. Tiền đặt trước và xử lý tiền đặt trước**\n\n1\\. Đơn vị tổ chức thực hiện đấu giá quyền sử dụng đất thống nhất với tổ chức đấu giá tài sản về khoản tiền đặt trước, đảm bảo không dưới 5% và không quá 20% giá khởi điểm của lô (thửa) đất đấu giá. Khi gửi tiền đặt trước vào tài khoản thanh toán riêng của tổ chức đấu giá tài sản tại Ngân hàng, trên chứng từ nộp tiền không ghi số lô (thửa) đất đăng ký tham gia đấu giá.\n\nĐể tránh lộ thông tin của người tham gia đấu giá, tiền đặt trước cho mỗi lô (thửa) đất có thể xác định bằng nhau. Trường hợp trong một khu quy hoạch đấu giá đất có nhiều thửa đất với vị trí khác nhau, diện tích, giá khởi điểm chênh lệch lớn mà việc áp dụng mức tiền đặt trước cho các lô (thửa) đất bằng nhau không phù hợp, thì căn cứ theo từng phương án đấu giá cụ thể, cơ quan được giao tổ chức việc đấu giá quyền sử dụng đất thống nhất với tổ chức đấu giá tài sản phân nhóm các thửa đất có giá trị theo giá khởi điểm bằng nhau để quy định cùng mức tiền đặt trước, đảm bảo không dưới 5% và không quá 20% giá khởi điểm của lô (thửa) đất đấu giá.\n\n2\\. Tổ chức đấu giá tài sản chỉ được thu tiền đặt trước của người tham gia đấu giá trong thời hạn 03 ngày làm việc trước ngày mở cuộc đấu giá, trừ trường hợp tổ chức đấu giá tài sản và người tham gia đấu giá có thỏa thuận khác nhưng phải trước ngày mở cuộc đấu giá. Tổ chức đấu giá tài sản có trách nhiệm trả lại khoản tiền đặt trước và thanh toán tiền lãi (nếu có) trong trường hợp người tham gia đấu giá không trúng đấu giá trong thời hạn 03 ngày làm việc kể từ ngày kết thúc cuộc đấu giá hoặc trong thời hạn khác do các bên thỏa thuận, trừ trường hợp quy định tại Khoản 3 Điều này.\n\n3\\. Trường hợp trúng đấu giá thì khoản tiền đặt trước và tiền lãi (nếu có) được chuyển thành tiền đặt cọc để bảo đảm thực hiện nghĩa vụ nộp tiền trúng đấu giá sau khi được cơ quan có thẩm quyền phê duyệt. Việc xử lý tiền đặt cọc thực hiện theo quy định của pháp luật về dân sự và quy định khác của pháp luật có liên quan.\n\n4\\. Xử lý tiền đặt trước: Thực hiện theo quy định tại Khoản 6 Điều 39 Luật Đấu giá tài sản.\n\n**Điều 14. Hình thức đấu giá và phương thức đấu giá**\n\n1\\. Đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất thỏa thuận với tổ chức đấu giá tài sản lựa chọn một trong các hình thức sau đây để tiến hành cuộc đấu giá:\n\na) Đấu giá trực tiếp bằng lời nói tại cuộc đấu giá;\n\nb) Đấu giá bằng bỏ phiếu trực tiếp tại cuộc đấu giá;\n\nc) Đấu giá bằng bỏ phiếu gián tiếp;\n\nd) Đấu giá trực tuyến;\n\ne) Tùy theo tình hình cụ thể có thể áp dụng đấu giá kết hợp 2 hình thức: bỏ phiếu gián tiếp và đấu giá trực tiếp tại cuộc đấu giá.\n\nVòng 1: Bỏ phiếu gián tiếp để lựa chọn số tổ chức, cá nhân có từ 03 mức giá cao nhất trở lên để tham gia đấu giá vòng tiếp theo. Trường hợp chỉ có 02 tổ chức, cá nhân đủ điều kiện tham gia đấu giá thì vẫn tiếp tục đấu giá vòng tiếp theo.\n\nVòng tiếp theo: đấu giá trực tiếp tại cuộc đấu giá.\n\n2\\. Khuyến khích lựa chọn hình thức: kết hợp đấu giá bằng bỏ phiếu gián tiếp và đấu giá trực tiếp tại cuộc đấu giá; đấu giá trực tuyến.\n\nHình thức đấu giá phải được quy định trong Quy chế cuộc đấu giá và công bố công khai cho người tham gia đấu giá biết.\n\n3\\. Phương thức đấu giá: Phương thức trả giá lên.\n\n**Điều 15. Nội quy trong phòng đấu giá**\n\n1\\. Đối với người tham gia đấu giá và tham dự cuộc đấu giá:\n\na) Chỉ những người sau đây được phép vào phòng đấu giá: Các thành viên phụ trách cuộc đấu giá, tổ giúp việc, khách được mời tham dự cuộc đấu giá; những người đã nộp đơn và đủ điều kiện tham gia đấu giá; phóng viên, báo chí, truyền hình khi đến tác nghiệp phải xuất trình thẻ theo quy định.\n\nb) Người tham gia đấu giá phải có mặt tại phòng tổ chức cuộc đấu giá đúng thời gian quy định theo thông báo của tổ chức đấu giá tài sản. Trước khi vào phòng đấu giá; người tham gia đấu giá phải xuất trình chứng minh nhân dân, hộ chiếu hoặc căn cước công dân, giấy ủy quyền (nếu có) và ngồi đúng vị trí sắp xếp.\n\nc) Sau khi công bố giá, những người tham gia đấu giá đến chậm không được vào phòng đấu giá.\n\nd) Người tham gia đấu giá không được trao đổi với cá nhân khác, không gây ồn ào, không đi lại lộn xộn, không tự ý ra khỏi phòng đấu giá nếu không có sự đồng ý của đấu giá viên; không được sử dụng điện thoại và các phương tiện thông tin liên lạc khác.\n\n2\\. Đối với đấu giá viên:\n\na) Điều hành cuộc đấu giá theo đúng trình tự, thủ tục pháp luật quy định;\n\nb) Giữ thái độ lịch sự, tôn trọng đối với người tham gia đấu giá;\n\nc) Giải thích và hướng dẫn các yêu cầu của người tham gia đấu giá tận tình, nhanh gọn và đúng quy định của pháp luật, không được gây phiền hà, sách nhiễu đối với người tham gia đấu giá;\n\nd) Không được thực hiện các hành vi: lợi dụng danh nghĩa đấu giá viên để trục lợi; thông đồng, móc nối với người có tài sản đấu giá, người tham gia đấu giá, tổ chức thẩm định giá và cá nhân, tổ chức khác để làm sai lệch thông tin tài sản đấu giá, dìm giá, làm sai lệch hồ sơ đấu giá hoặc kết quả đấu giá; hạn chế cá nhân, tổ chức tham gia đấu giá không đúng quy định của pháp luật; vi phạm Quy tắc đạo đức nghề nghiệp đấu giá viên.\n\n**Điều 16. Quyền và nghĩa vụ của đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất**\n\n1\\. Quyền của đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất:\n\na) Thực hiện, yêu cầu thực hiện các thỏa thuận trong hợp đồng dịch vụ đấu giá quyền sử dụng đất (nếu có);\n\nb) Chủ trì, phối hợp với các đơn vị có liên quan tổ chức giám sát cuộc đấu giá quyền sử dụng đất.\n\n2\\. Nghĩa vụ của đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất:\n\na) Phối hợp với tổ chức đấu giá tài sản tổ chức cho người tham gia đấu giá xem hiện trạng lô (thửa) đất đấu giá và giải đáp các thắc mắc có liên quan;\n\nb) Phối hợp với tổ chức đấu giá tài sản thực hiện cuộc đấu giá;\n\nc) Thực hiện các thỏa thuận trong hợp đồng dịch vụ đấu giá quyền sử dụng đất;\n\nd) Lập hồ sơ gửi cơ quan tài nguyên và môi trường để trình Ủy ban nhân dân cấp có thẩm quyền quyết định công nhận hoặc hủy kết quả đấu giá quyền sử dụng đất.\n\n**Điều 17. Quyền và nghĩa vụ của tổ chức đấu giá tài sản**\n\n1\\. Quyền của tổ chức đấu giá tài sản:\n\na) Được cung cấp đầy đủ, chính xác thông tin, giấy tờ liên quan đến lô (thửa) đất đấu giá;\n\nb) Phát hành, tiếp nhận, quản lý hồ sơ đăng ký tham gia đấu giá quyền sử dụng đất;\n\nc) Yêu cầu thực hiện các thỏa thuận trong hợp đồng dịch vụ đấu giá quyền sử dụng đất (nếu có).\n\n2\\. Nghĩa vụ của tổ chức đấu giá tài sản:\n\na) Ban hành Quy chế đấu giá cho từng cuộc đấu giá quyền sử dụng đất phù hợp với Quy định này và các văn bản pháp luật có liên quan;\n\nb) Niêm yết, thông báo công khai việc đấu giá quyền sử dụng đất theo quy định của pháp luật;\n\nc) Niêm yết Nội quy trong phòng đấu giá quy định tại Điều 15 Quy định này tại nơi tổ chức cuộc đấu giá;\n\nd) Chủ trì, phối hợp với đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất tổ chức cho người tham gia đấu giá xem hiện trạng lô (thửa) đất đấu giá và giải đáp các thắc mắc có liên quan;\n\nđ) Thu, nộp, quản lý và sử dụng tiền mua hồ sơ và tiền đặt trước của người tham gia đấu giá quyền sử dụng đất theo quy định của Luật đấu giá tài sản, Thông tư số 48/2017/TT-BTC và Quy định này;\n\ng) Thực hiện cuộc đấu giá quyền sử dụng đất theo quy định tại Quy định này và các quy định pháp luật về đấu giá tài sản có liên quan; chịu trách nhiệm về kết quả cuộc đấu giá quyền sử dụng đất;\n\nh) Bồi thường thiệt hại do lỗi của đấu giá viên và các nhân viên khác của tổ chức mình gây ra trong quá trình thực hiện cuộc đấu giá;\n\ni) Thực hiện các yêu cầu của cá nhân, tổ chức giám sát cuộc đấu giá quyền sử dụng đất theo quy định của pháp luật đấu giá tài sản và các nghĩa vụ theo hợp đồng dịch vụ đấu giá tài sản đã ký kết.\n\n**Điều 18. Quyền và nghĩa vụ của người trúng đấu giá**\n\n1\\. Quyền của người trúng đấu giá:\n\na) Được công nhận kết quả trúng đấu giá và làm các thủ tục để nhận đất, xác lập quyền sử dụng đất theo quy định;\n\nb) Được hưởng các quyền của người sử dụng đất theo quy định của Luật Đất đai.\n\n2\\. Nghĩa vụ của người trúng đấu giá:\n\na) Nộp đầy đủ, đúng thời hạn số tiền trúng đấu giá quyền sử dụng đất theo quyết định công nhận kết quả đấu giá quyền sử dụng đất và thông báo nộp tiền sử dụng đất, tiền thuê đất của cơ quan thuế;\n\nb) Liên hệ với cơ quan có thẩm quyền để ký hợp đồng thuê đất đối với đất thuê;\n\nc) Nộp lệ phí trước bạ theo quy định trước khi được cấp Giấy chứng nhận quyền sử dụng đất\n\n**Mục 2. ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN**\n\n**Điều 19. Thông báo về điều kiện, hồ sơ tham gia đấu giá**\n\nSau khi kế hoạch đấu giá quyền khai thác khoáng sản hàng năm đã được Ủy ban nhân dân tỉnh phê duyệt, Sở Tài nguyên và Môi trường căn cứ Luật Đấu giá tài sản, Luật Khoáng sản và các văn bản hướng dẫn thi hành, có văn bản thông báo về điều kiện tham gia cuộc đấu giá, hồ sơ tham gia đấu giá gửi cho tổ chức đấu giá tài sản để lựa chọn tổ chức, cá nhân đủ điều kiện tham gia cuộc đấu giá.\n\n**Điều 20. Lựa chọn tổ chức đấu giá quyền khai thác khoáng sản**\n\n1\\. Sở Tài nguyên và Môi trường thực hiện việc lựa chọn tổ chức đấu giá tài sản tương tự theo Điều 6 Quy định này.\n\n2\\. Trong trường hợp không lựa chọn được tổ chức đấu giá tài sản, Ủy ban nhân dân tỉnh quyết định thành lập Hội đồng đấu giá để tổ chức đấu giá quyền khai thác khoáng sản theo quy định của Luật Đấu giá tài sản.\n\n**Điều 21. Hình thức đấu giá và phương thức đấu giá**\n\n1\\. Hình thức đấu giá: Khuyến khích lựa chọn các hình thức sau:\n\na) Kết hợp hình thức bỏ phiếu gián tiếp và đấu giá trực tiếp tại cuộc đấu giá.\n\nb) Đấu giá trực tuyến\n\n2\\. Phương thức đấu giá: Trả giá lên\n\n**Điều 22. Nộp hồ sơ tham gia đấu giá quyền khai thác khoáng sản**\n\n1\\. Tổ chức, cá nhân nộp hồ sơ tham gia đấu giá và tiền đặt trước cho tổ chức đấu giá tài sản theo thời hạn đã được niêm yết, thông báo công khai. Hồ sơ tham gia đấu giá quyền khai thác khoáng sản thực hiện theo Điều 19 Quy định này.\n\n2\\. Tổ chức đấu giá tài sản bán hồ sơ tham gia đấu giá, tiếp nhận hồ sơ tham gia đấu giá trong giờ hành chính, liên tục kể từ ngày niêm yết việc đấu giá tài sản cho đến trước ngày mở cuộc đấu giá 02 ngày.\n\n3\\. Các trường hợp không được tham gia đấu giá: Thực hiện theo quy định tại Khoản 4 Điều 38 Luật Đấu giá tài sản.\n\n**Điều 23. Giá khởi điểm, bước giá và tiền đặt trước**\n\nSở Tài nguyên và Môi trường chủ trì, phối hợp với các sở, ngành liên quan xác định giá khởi điểm, bước giá, tiền đặt trước trình Ủy ban nhân dân tỉnh quyết định cho mỗi cuộc đấu giá và thông báo bằng văn bản cho tổ chức đấu giá tài sản.\n\n**Điều 24. Trình tự đấu giá theo hình thức kết hợp bỏ phiếu gián tiếp và đấu giá trực tiếp tại cuộc đấu giá.**\n\n1\\. Vòng 1: bỏ phiếu gián tiếp\n\na) Ngay sau khi thông báo thông tin đấu giá trên phương tiện thông tin đại chúng, tổ chức đấu giá tài sản tiến hành niêm phong hòm phiếu. Hòm phiếu được dùng để đựng toàn bộ hồ sơ tham gia đấu giá và được đặt tại nơi nhận hồ sơ tham gia đấu giá.\n\nb) Khi mua hồ sơ tham gia đấu giá, người tham gia đấu giá được nhận phiếu trả giá, hướng dẫn về cách ghi phiếu, thời hạn nộp hồ sơ, buổi mở niêm phong hòm phiếu và đấu giá vòng tiếp theo; được tổ chức đấu giá tài sản giới thiệu từng tài sản đấu giá, nhắc lại giá khởi điểm trong trường hợp công khai giá khởi điểm, trả lời câu hỏi của người tham gia đấu giá và các nội dung khác theo Quy chế cuộc đấu giá.\n\nc) Phiếu trả giá của người tham gia đấu giá phải được bọc bằng chất liệu bảo mật, có chữ ký của người trả giá tại các mép của phong bì đựng phiếu, trường hợp tổ chức tham gia đấu giá thì phải có chữ ký của người đại diện và đóng dấu của tổ chức.\n\nd) Sau khi hoàn thiện hồ sơ tham gia đấu giá, tổ chức, cá nhân tham gia đấu giá bỏ phiếu trả giá cùng toàn bộ hồ sơ vào 01 túi đựng hồ sơ. Túi đựng hồ sơ phải được thực hiện như quy định tại Điểm c Khoản 1 Điều này. Hồ sơ được gửi qua đường bưu chính hoặc được nộp trực tiếp và được tổ chức đấu giá tài sản bỏ vào hòm phiếu.\n\ne) Hết thời hạn nộp hồ sơ tham gia đấu giá, tổ chức đấu giá tiến hành niêm phong miệng hòm phiếu. Giấy niêm phong hòm phiếu phải có chữ ký của đại diện Lãnh đạo Sở Tài nguyên và Môi trường, Sở Tư pháp, tổ chức đấu giá tài sản và đóng dấu của các cơ quan, tổ chức này; việc niêm phong hòm phiếu phải được lập thành biên bản với sự tham gia của đại diện các cơ quan, tổ chức nêu trên.\n\ng) Mở hòm phiếu:\n\n\\- Đấu giá viên điều hành cuộc đấu giá giới thiệu bản thân, người giúp việc; đọc Quy chế cuộc đấu giá, nội quy phòng đấu giá; giới thiệu toàn bộ thông tin có liên quan đến mỏ khoáng sản đấu giá; nhắc lại giá khởi điểm và bước giá; giải đáp thắc mắc của người tham gia đấu giá (nếu có).\n\n\\- Đấu giá viên mời các thành viên đã thực hiện việc niêm phong miệng hòm phiếu, đại diện tổ chức, cá nhân tham gia đấu giá kiểm tra sự nguyên vẹn của niêm phong hòm phiếu. Nếu niêm phong đảm bảo theo quy định thì tiến hành mở niêm phong, kiểm tra, lựa chọn trực tiếp hồ sơ của các tổ chức, cá nhân tham gia đấu giá và tổng hợp các mức giá đã trả (hồ sơ nào đủ điều kiện được tham gia cuộc đấu giá mới mở phiếu trả giá). Việc kiểm tra, lựa chọn hồ sơ và tổng hợp giá đã trả phải có sự giám sát của các thành viên giám sát như quy định tại Khoản 1 Điều 11 Quy định này.\n\n\\- Đấu giá viên công bố những hồ sơ đủ và không đủ điều kiện tham gia đấu giá; lựa chọn số tổ chức, cá nhân có từ 03 mức giá cao nhất trở lên để tham gia đấu giá vòng tiếp theo. Trường hợp chỉ có 02 tổ chức, cá nhân đủ điều kiện tham gia đấu giá thì vẫn tiếp tục đấu giá vòng tiếp theo.\n\n2\\. Vòng tiếp theo: đấu giá trực tiếp tại cuộc đấu giá\n\nĐấu giá viên tiếp tục điều hành các bước còn lại của cuộc đấu giá theo quy định tại Điều 41 hoặc Điều 42 Luật Đấu giá tài sản.\n\n3\\. Cuộc đấu giá quyền khai thác khoáng sản chỉ được tiến hành khi có ít nhất 02 tổ chức, cá nhân đủ điều kiện tham gia đấu giá.\n\n4\\. Quy định về cách thức trả giá, giám sát cuộc đấu giá, nội quy trong phòng đấu giá được áp dụng tương tự như Khoản 2 Điều 10, Điều 11 và Điều 15 Quy định này.\n\n5\\. Trong trường hợp thành lập Hội đồng đấu giá để tổ chức đấu giá thì trình tự đấu giá thực hiện như quy định tại Điều này.\n\n**Điều 25. Phê duyệt kết quả trúng đấu giá**\n\nTrong thời hạn 03 ngày làm việc kể từ ngày kết thúc cuộc đấu giá, tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản chuyển 01 bộ hồ sơ của các tổ chức, cá nhân tham gia đấu giá, kết quả đấu giá tài sản, biên bản đấu giá, danh sách người trúng đấu giá cho Sở Tài nguyên và Môi trường để trình Ủy ban nhân dân tỉnh phê duyệt kết quả đấu giá tài sản, hoàn thiện các thủ tục liên quan.\n\n**Điều 26. Các quy định khác**\n\nCác nội dung khác áp dụng theo quy định của Luật Đấu giá tài sản, Luật Khoáng sản, Nghị định số 22/2012/NĐ-CP ngày 26/3/2012 quy định về đấu giá quyền khai thác khoáng sản, Nghị định số 158/2016/NĐ-CP ngày 29/11/2016 quy định chi tiết thi hành một số điều của Luật Khoáng sản và các văn bản hướng dẫn thi hành.\n\n**Chương III**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 27. Xử lý vi phạm**\n\n1\\. Tổ chức đấu giá tài sản, đấu giá viên, người tham gia đấu giá, người trúng đấu giá, cá nhân, tổ chức khác có liên quan có hành vi vi phạm các quy định của pháp luật trong hoạt động đấu giá tài sản thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.\n\n2\\. Người đứng đầu các sở, ngành cấp tỉnh tại Chương III Quy định này, Chủ tịch Ủy ban nhân dân cấp huyện nếu không thực hiện hết các trách nhiệm tại Quy định này phải chịu trách nhiệm trước Chủ tịch Ủy ban nhân dân tỉnh.\n\n3\\. Xử lý vi phạm đối với cán bộ, công chức, viên chức\n\nCán bộ, công chức, viên chức có liên quan không thực hiện trách nhiệm được giao hoặc lợi dụng chức vụ, quyền hạn cố ý làm trái Quy định này và các quy định khác của pháp luật về đấu giá; có hành vi làm lộ bí mật, tiếp tay, môi giới cho người tham gia đấu giá và các bên liên quan hoặc làm cho cuộc đấu giá không thành; vi phạm các quy định về quản lý sử dụng đất đai, khoáng sản, đầu tư và xây dựng, thì tùy theo mức độ, tính chất vi phạm sẽ bị xử lý kỷ luật, hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.\n\n**Điều 28. Trách nhiệm của Sở Tư pháp**\n\nSở Tư pháp chủ trì, phối hợp với Sở Tài chính, Sở Tài nguyên và Môi trường và các ngành liên quan hướng dẫn, kiểm tra việc thực hiện Quy định này.\n\n**Điều 29. Trách nhiệm của Sở Tài nguyên và Môi trường**\n\n1\\. Tổ chức thẩm định phương án đấu giá quyền sử dụng đất, quyết định đấu giá quyền sử dụng đất; chuyển hồ sơ xác định giá khởi điểm tới Sở Tài chính đề nghị xác định giá khởi điểm đấu giá quyền sử dụng đất (đối với các trường hợp thuộc thẩm quyền quyết định đấu giá của Ủy ban nhân dân tỉnh); chủ trì, phối hợp với các cơ quan liên quan xác định giá khởi điểm, bước giá, tiền đặt trước trong đấu giá quyền khai thác khoáng sản trình Ủy ban nhân dân tỉnh phê duyệt\n\n2\\. Căn cứ biên bản, hồ sơ trúng đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản của tổ chức đấu giá tài sản chuyển giao để lập hồ sơ trình Ủy ban nhân dân tỉnh phê duyệt kết quả trúng đấu giá.\n\n3\\. Thực hiện các nhiệm vụ khác được giao tại Quy định này.\n\n**Điều 30. Trách nhiệm của Sở Tài chính**\n\n1\\. Là cơ quan thường trực của Hội đồng thẩm định giá đất tỉnh, có trách nhiệm phối hợp thẩm định phương án giá đất cụ thể theo đúng trình tự, thủ tục và thời gian quy định của Hội đồng.\n\n2\\. Cử người đại diện tham gia giám sát tại cuộc đấu giá theo quy định tại Điều 11 Quy định này.\n\n3\\. Hướng dẫn, kiểm tra Ủy ban nhân dân cấp huyện, đơn vị, tổ chức có liên quan quản lý, sử dụng tiền thu được từ đấu giá quyền sử dụng đất theo đúng quy định của pháp luật.\n\n4\\. Tham mưu cho Ủy ban nhân dân tỉnh huy động và bố trí nguồn vốn từ Quỹ phát triển đất để thực hiện công tác bồi thường giải phóng mặt bằng, đầu tư xây dựng hạ tầng kỹ thuật đối với quỹ đất thực hiện đấu giá quyền sử dụng đất.\n\n**Điều 31. Trách nhiệm của Sở Kế hoạch và Đầu tư**\n\n1\\. Hướng dẫn, hỗ trợ nhà đầu tư thực hiện đăng ký đầu tư theo Luật Đầu tư sau khi trúng đấu giá quyền sử dụng đất\n\n2\\. Phối hợp với Sở Tài chính xây dựng kế hoạch vốn hàng năm từ nguồn quỹ phát triển đất để cho vay, ứng trước phục vụ giải phóng mặt bằng, đầu tư hạ tầng trước khi đấu giá quyền sử dụng đất hoặc cho thuê đất.\n\n**Điều 32. Trách nhiệm của Cục Thuế tỉnh**\n\n1\\. Hướng dẫn người trúng đấu giá kê khai và nộp tiền trúng đấu giá quyền sử dụng đất tiền thuê đất, quyền khai thác khoáng sản theo kết quả trúng đấu giá được cấp có thẩm quyền phê duyệt.\n\n2\\. Kiểm tra, đôn đốc và xử phạt nghiêm đối với những người trúng đấu giá nộp tiền sử dụng đất, nộp tiền trúng đấu giá quyền khai thác khoáng sản chậm so với thời gian quy định.\n\n**Điều 33. Trách nhiệm của Công an tỉnh**\n\nChỉ đạo các phòng nghiệp vụ có liên quan, Công an các huyện, thành phố thị xã làm tốt công tác phòng ngừa, phát hiện, đấu tranh, ngăn chặn và xử lý nghiêm các hành vi vi phạm pháp luật gây rối trật tự trong hoạt động đấu giá.\n\n**Điều 34. Trách nhiệm của Ủy ban nhân dân cấp huyện**\n\n1\\. Lập kế hoạch sử dụng đất hàng năm trình cơ quan có thẩm quyền thẩm định, phê duyệt theo quy định.\n\n2\\. Phê duyệt phương án đấu giá và công nhận kết quả trúng đấu giá đối với các trường hợp thuộc thẩm quyền quyết định đấu giá của Ủy ban nhân dân cấp huyện.\n\n3\\. Lựa chọn và ký kết hợp đồng dịch vụ đấu giá quyền sử dụng đất với tổ chức đấu giá tài sản theo quy định; không lựa chọn tổ chức đấu giá tài sản đã có hành vi vi phạm điểm a, b, c, d khoản 2 Điều 9 Luật đấu giá tài sản.\n\n4\\. Chỉ đạo Ủy ban nhân dân cấp xã:\n\na) Phối hợp với tổ chức đấu giá tài sản niêm yết việc đấu giá tại địa điểm tổ chức cuộc đấu giá và tại trụ sở Ủy ban nhân dân cấp xã nơi có tài sản đấu giá; thông báo công khai trên phương tiện thông tin đại chúng của xã, phường; thị trấn về việc đấu giá quyền sử dụng đất đối với khu đất, lô (thửa) đất được đấu giá;\n\nb) Phối hợp với cơ quan nhà nước có thẩm quyền thực hiện việc đo đạc, xác định vị trí, kích thước, diện tích, mốc giới của khu đất, lô (thửa) đất trên địa bàn xã, phường, thị trấn được đấu giá; tổ chức thực hiện công tác bồi thường giải phóng mặt bằng; thực hiện việc bàn giao đất trên thực địa, lập hồ sơ cấp giấy chứng nhận quyền sử dụng đất cho người trúng đấu giá theo quy định của pháp luật về đất đai;\n\nPhối hợp trong quá trình lập quy hoạch, xác định mốc giới, vị trí, công tác bồi thường giải phóng mặt bằng khu mỏ đấu giá quyền khai thác khoáng sản\n\nc) Thực hiện nghiêm các quy định pháp luật khi ký chứng thực các văn bản ủy quyền để tham gia đấu giá.\n\n**Điều 35. Trách nhiệm của Trung tâm Phát triển quỹ đất tỉnh**\n\n1\\. Lập phương án đấu giá quyền sử dụng đất, Quyết định đấu giá trình cơ quan có thẩm quyền thẩm định và phê duyệt.\n\n2\\. Phối hợp với các cơ quan, đơn vị có liên quan bàn giao đất trên thực địa cho tổ chức, cá nhân trúng đấu giá.\n\n3\\. Phối hợp cơ quan thuế đôn đốc người trúng đấu giá quyền sử dụng đất nộp tiền sử dụng đất, tiền thuê đất theo tiến độ nộp tiền sử dụng đất đã được phê duyệt.\n\n**Điều 36. Trách nhiệm của Tổ chức đấu giá tài sản**\n\n1\\. Bán hồ sơ tham gia đấu giá, tiếp nhận hồ sơ đề nghị tham gia đấu giá; thu tiền đặt trước; xây dựng Quy chế cuộc đấu giá, nội quy đấu giá; thông báo danh sách đối tượng được tham gia đấu giá, thời gian, địa điểm tổ chức đấu giá; niêm yết thông báo đấu giá; hoàn trả tiền đặt trước sau khi kết thúc đấu giá theo quy định.\n\n2\\. Phối hợp với Sở Tài nguyên và Môi trường trong việc cho cá nhân, tổ chức có nhu cầu tham gia đấu giá xem thực địa, tham khảo tài liệu địa chất liên quan khi đấu giá quyền khai thác khoáng sản.\n\nTrong quá trình triển khai tổ chức thực hiện Quy định này, nếu có khó khăn, vướng mắc cần sửa đổi, bổ sung, các tổ chức, cá nhân phản ánh về Sở Tư pháp để tổng hợp và báo cáo Ủy ban nhân dân tỉnh xem xét, quyết định./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
