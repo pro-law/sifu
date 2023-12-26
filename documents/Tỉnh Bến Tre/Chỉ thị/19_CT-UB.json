@@ -1,13 +1,101 @@
 {
-  "title": "Chỉ thị 19/CT-UB năm 1997 thực hiện một số biện pháp để thu hút nguồn vốn của dự án “Tài chính nông\nthôn” phục vụ cho các mục tiêu phát triển kinh tế – xã hội tỉnh Bến Tre",
+  "title": "Chỉ thị 19/CT-UB năm 1993 về thực hiện chế độ kế toán và thống kê đối với hoạt động sản xuất kinh doanh ngoài Quốc doanh do Tỉnh Bến Tre ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
   "supersededDocuments": [],
-  "referredDocuments": [],
-  "influentialDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 66-HĐBT năm 1992 về cá nhân và nhóm kinh doanh có vốn thấp hơn vốn pháp định quy định trong Nghị định 221-HĐBT năm 1991 do Hội đồng Bộ trưởng ban hành",
+      "id": "66-HĐBT",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Hội đồng Bộ trưởng",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "1992-03-02",
+      "effectiveDate": "1992-03-02",
+      "gazetteDate": "1992-03-15",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 18/02/2000"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Luật Công ty 1990",
+      "id": "47-LCT/HĐNN8",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Võ Chí Công"
+      ],
+      "issuedDate": "1990-12-21",
+      "effectiveDate": "1991-04-15",
+      "gazetteDate": "1991-02-28",
+      "gazetteNumber": "Số 4",
+      "status": "Hết hiệu lực: 01/01/2000"
+    },
+    {
+      "title": "Luật Doanh nghiệp tư nhân 1990",
+      "id": "48-LCT/HĐNN8",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Võ Chí Công"
+      ],
+      "issuedDate": "1990-12-21",
+      "effectiveDate": "1991-04-15",
+      "gazetteDate": "1991-02-28",
+      "gazetteNumber": "Số 4",
+      "status": "Hết hiệu lực: 01/01/2000"
+    },
+    {
+      "title": "Quyết định 598-TC/CĐKT năm 1990 về Chế độ kế toán sản xuất, kinh doanh ngoài quốc doanh do Bộ trưởng Bộ tài chính ban hành",
+      "id": "598-TC/CĐKT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Hồ Tế"
+      ],
+      "issuedDate": "1990-12-08",
+      "effectiveDate": "1991-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/1996"
+    },
+    {
+      "title": "Pháp lệnh Kế toán và thống kê năm 1988 do Chủ tịch Hội đồng nhà nước ban hành",
+      "id": "6-LCT/HĐNN8",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Hội đồng Nhà nước",
+      "signers": [
+        "Võ Chí Công"
+      ],
+      "issuedDate": "1988-05-20",
+      "effectiveDate": "1988-10-01",
+      "gazetteDate": "1988-09-15",
+      "gazetteNumber": "Số 17",
+      "status": "Hết hiệu lực: 01/01/2004"
+    }
+  ],
   "guidingDocuments": [],
   "consolidatedDocuments": [],
   "amendingDocuments": [],
@@ -48,24 +136,43 @@
       "status": "Còn hiệu lực"
     }
   ],
-  "relevantDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Chỉ thị 21/CT-UB năm 1990 thực hiện chế độ ghi chép hạch toán và báo cáo kế toán, thống kê đối với các cơ sở sản xuất kinh doanh thương nghiệp dịch vụ ngoài quốc doanh do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành",
+      "id": "21/CT-UB",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Doanh nghiệp",
+        "Kế toán - Kiểm toán"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Vương Hữu Nhơn"
+      ],
+      "issuedDate": "1990-04-23",
+      "effectiveDate": "1990-04-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 07/07/2009"
+    }
+  ],
   "id": "19/CT-UB",
   "legislationType": "Chỉ thị",
   "categories": [
-    "Tiền tệ - Ngân hàng",
-    "Văn hóa - Xã hội"
+    "Thương mại",
+    "Kế toán - Kiểm toán"
   ],
   "organization": "Tỉnh Bến Tre",
   "signers": [
-    "Trần Văn Cồn"
+    "Trần Văn Nghĩa"
   ],
-  "issuedDate": "1997-11-11",
-  "effectiveDate": "1997-11-11",
+  "issuedDate": "1993-08-20",
+  "effectiveDate": "1993-08-20",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Hết hiệu lực: 09/07/2013",
-  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADQAMAA2ADIAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">UỶ BAN NHÂN DÂN<br>\n  TỈNH BẾN TRE<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span style=\"font-size:10.0pt;\">Số: 19/CT-UB</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span style=\"font-size:10.0pt;\">Bến Tre, ngày 11 tháng 11 năm 1997</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span style=\"font-size:10.0pt;\">“V/V THỰC HIỆN MỘT SỐ BIỆN PHÁP ĐỂ\nTHU HÚT NGUỒN VỐN CỦA DỰ ÁN “TÀI CHÍNH NÔNG THÔN”PHỤC VỤ CHO CÁC MỤC TIÊU PHÁT\nTRIỂN KINH TẾ – XÃ HỘI TỈNH BẾN TRE”</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Trên cơ sở Hiệp định Tín dụng phát triển cho Dự án “Tài\nchính nông thôn” đã được Ngân hàng thế giới (WB) công bố có hiệu lực ngày\n17/01/1997. Chính phủ đã giao cho Ngân hàng Nhà nước Việt Nam sử dụng khoản tín\ndụng nói trên để thực hiện bán buôn đối với các định chế tài chính (bao gồm các\nNgân hàng thương mai quốc doanh, các Ngân hàng thương mại cổ phần và các định\nchế tài chính khác) để các định chế tài chính thực hiện cho vay trực tiếp theo\ncác mục tiêu của Dự án “Tài chính nông thôn” là cho vay vốn để phát triển kinh\ntế nông nghiệp, nông thôn với các đối tượng vay là các doanh nghiệp vừa và nhỏ,\nhợp tác xã, hộ sản xuất, cá thể và nông dân nghèo hoạt động sản xuất kinh doanh\ntrên địa bàn nông thôn. Đặc điểm của nguồn vốn này là ổn định với thời gian vay\ncó thể tới 10 năm và chủ yếu được dành cho phát triển kinh tế nông nghiệp, nông\nthôn là những hướng đầu tư đang được Đảng, Nhà nước hết sức quan tâm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Từ tính chất, đặc điểm của nguồn vốn và mục tiêu của Dự án\n“Tài chính nông thôn” cho thấy việc tranh thủ thêm nguồn vốn này để phục vụ cho\ncác mục tiêu phát triển kinh tế xã hội địa phương là cần thiết và phù hợp. Một\nmặt vừa bổ sung vốn tín dụng tại chỗ, nhất là vốn tín dụng trung và dài hạn cho\nđịa phương; mặt khác tăng cường khả năng tiếp cận của các doanh nghiệp, hợp tác\nxã, hộ sản xuất, dân nghèo nông thôn với các nguồn tín dụng quốc tế chính thức,\ntăng cường kỷ năng lập dự án vay vốn, góp phần thúc đẩy nhanh tiến trình phát\ntriển kinh tế nông thôn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Để các thành phần kinh tế tiếp cận, sử dụng được nguồn vốn\ntrên và tạo điều kiện cho ngành Ngân hàng triển khai nhanh, có hiệu quả Dự án “Tài\nchính nông thôn”; để nguồn vốn này kịp thời chuyển tới các doanh nghiệp, hợp\ntác xã, nông dân trên địa bàn tỉnh, phục vụ cho các mục tiêu phát triển kinh tế\n– xã hội địa phương, Uỷ ban nhân dân tỉnh yêu cầu các cấp, các ngành khẩn\ntrương thực hiện tốt một số công việc sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">1- Đối với các ngành và Uỷ ban nhân dân các cấp:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Nhu cầu về vốn để phục vụ cho việc chuyển dịch cơ cấu kinh\ntế, tăng trưởng kinh tế của địa phương là một nhu cầu có thực, đặt biệt là\ntrong lĩnh vực nông nghiệp, nông thôn. Song vừa qua các cấp, các ngành còn lúng\ntúng trong việc xác định phương hướng đầu tư, lĩnh vực, ngành, nghề đầu tư cụ\nthể, tạo tiền đề cho các thành phần kinh tế xây dựng những phương án đầu tư khả\nthi; khả năng xây dựng các dự án khả thi còn yếu. Do đó để tiếp cận và vay được\nvốn Dự án “Tài chính nông thôn” phải có bước tổ chức thật chu đáo, cụ thể:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">- Sở Kế hoạch và Đầu tư tham mưu cho Uỷ ban nhân dân tỉnh và\nphối hợp, các sở, ngành, Uỷ ban nhân dân huyện, thị xã hướng dẫn xây dựng thông\nqua cấp có thẩm quyền phê duyệt và công bố các dự án danh mục các lĩnh vực,\nngành, nghề phù hợp với mục tiêu của dự án “Tài chính nông thôn” và mục tiêu\nphát triển kinh tế xã hội địa phương (xác định cho rõ địa chỉ, ngành, nghề cần\ntập trung đầu tư và ưu tiên đầu tư trước) để các thành phần kinh tế có cơ sở\nchọn lựa và xây dựng phương án đầu tư khả thi. Có biện pháp, hình thức tổ chức\nphù hợp trong việc phổ biến kiến thức, kỹ thuật xây dựng phương án đầu tư đến\ncác thành phần kinh tế, nhằm nâng cao năng lực xây dựng phương án sản xuất,\nkinh doanh khả thi.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">- UBND huyện, thị, các ngành có biện pháp thật cụ thể trong\nphạm vi chức năng của mình công bố và tiếp tục xây dựng các dự án tổng thể,\nđồng thời tác động, khuyến khích, tạo đều kiện thuận lợi giúp các thành phần\nkinh tế trong việc hình thành các phương án sản xuất kinh doanh khả thi, các\ntiểu dự án trong lĩnh vực nông nghiệp, nông thôn, có chú trọng đối với các\ndoanh nghiệp Nhà nước.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">- Sở Khoa học công nghê và Môi trường có trách nhiệm thẩm\nđịnh và hướng dẫn chọn lựa công nghệ ứng dụng phù hợp đối với các phương án sản\nxuất, kinh doanh của các phương án sản xuất kinh doanh khả thi, các tiểu dự án\ntrong lĩnh vực nông nghiệp, nông thôn, có chú trọng đối với các doanh nghiệp\nNhà nước.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">- Sở Khoa học công nghệ và Môi trường có trách nhiệm thẩm\nđịnh và hướng dẫn chọn lựa công nghệ ứng dụng phù hợp đối với các phương án sản\nxuất, kinh doanh của các thành phần kinh tế, chú trọng vấn đề bảo vệ môi\ntrường, tài nguyên thiên nhiên và cân bằng sinh thái.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">2- Đề nghị Mặt trận Tổ quốc và các đoàn thể cùng phối hợp\ntuyên truyền vận động nhân dân và các thành phần kinh tế xây dựng các phương án\nsản xuất để tiếp cận vốn vay NH nói chung và vốn từ dự án này và chăm lo sản\nxuất có hiệu quả, sử dụng vốn đúng mục đích và trả nợ vay đúng hạn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">3- Đối với ngành Ngân hàng tại tỉnh:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">- Đối vời Ngân hàng Nhà nước tỉnh:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Tham mưu cho Uỷ ban nhân dân tỉnh tổ chức hội nghị triển\nkhai nội dung của Dự án “Tài chính nông thôn” đến các cấp, các ngành; phối hợp\nvới cơ quan thông tin đại chúng của tỉnh, bản tin của ngành để tuyên truyền\nrộng rãi về những nội dung, mục tiêu và lợi ích của Dự án “Tài chính nông thôn”\nđể các doanh nghiệp, hợp tác xã, hộ sản xuất, cá nhân trong tỉnh tích cực và\nchủ động tham gia dự án; cùng các Ngân hàng thương mại trên địa bàn đảm bảo\nthực hiện thông suốt trách nhiệm của ngân hàng; theo dõi tổng hợp tình hình về\ntiến độ, kết quả của việc triển khai thực hiện dự án, những khó khăn vướng mắc,\nbáo cáo Uỷ ban nhân dân tỉnh theo định kỳ hàng tháng và đề xuất biện pháp tháo\ngỡ khó khăn, ách tắc đối với tỉnh và NHTW để kịp thời xử lý .</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">- Đối với các Ngân hàng thương mại:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Các Ngân hàng thương mại cần tích cực, chủ động cùng các\nthành phần kinh tế hoàn thành nhiều tiểu Dự án khả thi, phù hợp với các mục\ntiêu và thủ tục Dự án “Tài chính nông thôn”, để thu hút nguồn vốn này nhằm đa\ndạng hóa về nguồn vốn để mở rộng cho vay, tăng trưởng tín dụng hoàn thành tốt\nnhiệm vụ kinh doanh và đặc biệt là nhiệm vụ chính trị, góp phần phát triển kinh\ntế nông thôn. Do đó cần có biện pháp thật cụ thể trong giải thích, tiếp cận, hướng\ndẫn khách hàng về nội dung, mục đích yêu cầu và điều kiện để được vay vốn trong\nkhuôn khổ Dự án “Tài chính nông thôn”, đặc biệt chú trọng trong khâu hướng dẫn\nxây dựng dự án, thẩm định dự án vay vốn, vừa đảm bảo tính chặt chẽ quy trình\nnghiệp vụ cho vay, vừa thu hút được nhiều dự án cho vay; báo cáo kịp thời về\ntiến độ, kết quả, những vướng mắc, đề xuất qua đầu mối Ngân hàng Nhà nước tỉnh.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Việc tạo lập các dự án đầu tư để tranh thủ các nguồn vốn\nnhằm phát triển nhanh kinh tế tỉnh nhà là yêu cầu trước mắt và lâu dài. Do đó\nđề nghị các ngành, các cấp thường xuyên quan tâm đề xuất và thực hiện một cách\nchủ động, sát thực tế yêu cầu sản xuất.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">Trên đây là một số công việc cần tập trung thực hiện để thu\nhút nguồn vốn của dự án “Tài chính nông thôn” phục vụ cho mục tiêu phát triển\nkinh tế – xã hội địa phương. Uỷ ban nhân dân tỉnh yêu cầu các cấp, các ngành tổ\nchức thực hiện nghiêm túc và đạt kết quả./.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADQAMAA2ADIAOAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:\n  10.0pt;\">&nbsp;</span></i></b></p>\n  <p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n \">&nbsp;</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">TM. UỶ BAN NHÂN DÂN TỈNH<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Văn Cồn</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n",
-  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH BẾN TRE  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 19/CT-UB\n\n_Bến Tre, ngày 11 tháng 11 năm 1997_\n\n**CHỈ THỊ**\n\n“V/V THỰC HIỆN MỘT SỐ BIỆN PHÁP ĐỂ THU HÚT NGUỒN VỐN CỦA DỰ ÁN “TÀI CHÍNH NÔNG THÔN”PHỤC VỤ CHO CÁC MỤC TIÊU PHÁT TRIỂN KINH TẾ – XÃ HỘI TỈNH BẾN TRE”\n\nTrên cơ sở Hiệp định Tín dụng phát triển cho Dự án “Tài chính nông thôn” đã được Ngân hàng thế giới (WB) công bố có hiệu lực ngày 17/01/1997. Chính phủ đã giao cho Ngân hàng Nhà nước Việt Nam sử dụng khoản tín dụng nói trên để thực hiện bán buôn đối với các định chế tài chính (bao gồm các Ngân hàng thương mai quốc doanh, các Ngân hàng thương mại cổ phần và các định chế tài chính khác) để các định chế tài chính thực hiện cho vay trực tiếp theo các mục tiêu của Dự án “Tài chính nông thôn” là cho vay vốn để phát triển kinh tế nông nghiệp, nông thôn với các đối tượng vay là các doanh nghiệp vừa và nhỏ, hợp tác xã, hộ sản xuất, cá thể và nông dân nghèo hoạt động sản xuất kinh doanh trên địa bàn nông thôn. Đặc điểm của nguồn vốn này là ổn định với thời gian vay có thể tới 10 năm và chủ yếu được dành cho phát triển kinh tế nông nghiệp, nông thôn là những hướng đầu tư đang được Đảng, Nhà nước hết sức quan tâm.\n\nTừ tính chất, đặc điểm của nguồn vốn và mục tiêu của Dự án “Tài chính nông thôn” cho thấy việc tranh thủ thêm nguồn vốn này để phục vụ cho các mục tiêu phát triển kinh tế xã hội địa phương là cần thiết và phù hợp. Một mặt vừa bổ sung vốn tín dụng tại chỗ, nhất là vốn tín dụng trung và dài hạn cho địa phương; mặt khác tăng cường khả năng tiếp cận của các doanh nghiệp, hợp tác xã, hộ sản xuất, dân nghèo nông thôn với các nguồn tín dụng quốc tế chính thức, tăng cường kỷ năng lập dự án vay vốn, góp phần thúc đẩy nhanh tiến trình phát triển kinh tế nông thôn.\n\nĐể các thành phần kinh tế tiếp cận, sử dụng được nguồn vốn trên và tạo điều kiện cho ngành Ngân hàng triển khai nhanh, có hiệu quả Dự án “Tài chính nông thôn”; để nguồn vốn này kịp thời chuyển tới các doanh nghiệp, hợp tác xã, nông dân trên địa bàn tỉnh, phục vụ cho các mục tiêu phát triển kinh tế – xã hội địa phương, Uỷ ban nhân dân tỉnh yêu cầu các cấp, các ngành khẩn trương thực hiện tốt một số công việc sau:\n\n1- Đối với các ngành và Uỷ ban nhân dân các cấp:\n\nNhu cầu về vốn để phục vụ cho việc chuyển dịch cơ cấu kinh tế, tăng trưởng kinh tế của địa phương là một nhu cầu có thực, đặt biệt là trong lĩnh vực nông nghiệp, nông thôn. Song vừa qua các cấp, các ngành còn lúng túng trong việc xác định phương hướng đầu tư, lĩnh vực, ngành, nghề đầu tư cụ thể, tạo tiền đề cho các thành phần kinh tế xây dựng những phương án đầu tư khả thi; khả năng xây dựng các dự án khả thi còn yếu. Do đó để tiếp cận và vay được vốn Dự án “Tài chính nông thôn” phải có bước tổ chức thật chu đáo, cụ thể:\n\n\\- Sở Kế hoạch và Đầu tư tham mưu cho Uỷ ban nhân dân tỉnh và phối hợp, các sở, ngành, Uỷ ban nhân dân huyện, thị xã hướng dẫn xây dựng thông qua cấp có thẩm quyền phê duyệt và công bố các dự án danh mục các lĩnh vực, ngành, nghề phù hợp với mục tiêu của dự án “Tài chính nông thôn” và mục tiêu phát triển kinh tế xã hội địa phương (xác định cho rõ địa chỉ, ngành, nghề cần tập trung đầu tư và ưu tiên đầu tư trước) để các thành phần kinh tế có cơ sở chọn lựa và xây dựng phương án đầu tư khả thi. Có biện pháp, hình thức tổ chức phù hợp trong việc phổ biến kiến thức, kỹ thuật xây dựng phương án đầu tư đến các thành phần kinh tế, nhằm nâng cao năng lực xây dựng phương án sản xuất, kinh doanh khả thi.\n\n\\- UBND huyện, thị, các ngành có biện pháp thật cụ thể trong phạm vi chức năng của mình công bố và tiếp tục xây dựng các dự án tổng thể, đồng thời tác động, khuyến khích, tạo đều kiện thuận lợi giúp các thành phần kinh tế trong việc hình thành các phương án sản xuất kinh doanh khả thi, các tiểu dự án trong lĩnh vực nông nghiệp, nông thôn, có chú trọng đối với các doanh nghiệp Nhà nước.\n\n\\- Sở Khoa học công nghê và Môi trường có trách nhiệm thẩm định và hướng dẫn chọn lựa công nghệ ứng dụng phù hợp đối với các phương án sản xuất, kinh doanh của các phương án sản xuất kinh doanh khả thi, các tiểu dự án trong lĩnh vực nông nghiệp, nông thôn, có chú trọng đối với các doanh nghiệp Nhà nước.\n\n\\- Sở Khoa học công nghệ và Môi trường có trách nhiệm thẩm định và hướng dẫn chọn lựa công nghệ ứng dụng phù hợp đối với các phương án sản xuất, kinh doanh của các thành phần kinh tế, chú trọng vấn đề bảo vệ môi trường, tài nguyên thiên nhiên và cân bằng sinh thái.\n\n2- Đề nghị Mặt trận Tổ quốc và các đoàn thể cùng phối hợp tuyên truyền vận động nhân dân và các thành phần kinh tế xây dựng các phương án sản xuất để tiếp cận vốn vay NH nói chung và vốn từ dự án này và chăm lo sản xuất có hiệu quả, sử dụng vốn đúng mục đích và trả nợ vay đúng hạn.\n\n3- Đối với ngành Ngân hàng tại tỉnh:\n\n\\- Đối vời Ngân hàng Nhà nước tỉnh:\n\nTham mưu cho Uỷ ban nhân dân tỉnh tổ chức hội nghị triển khai nội dung của Dự án “Tài chính nông thôn” đến các cấp, các ngành; phối hợp với cơ quan thông tin đại chúng của tỉnh, bản tin của ngành để tuyên truyền rộng rãi về những nội dung, mục tiêu và lợi ích của Dự án “Tài chính nông thôn” để các doanh nghiệp, hợp tác xã, hộ sản xuất, cá nhân trong tỉnh tích cực và chủ động tham gia dự án; cùng các Ngân hàng thương mại trên địa bàn đảm bảo thực hiện thông suốt trách nhiệm của ngân hàng; theo dõi tổng hợp tình hình về tiến độ, kết quả của việc triển khai thực hiện dự án, những khó khăn vướng mắc, báo cáo Uỷ ban nhân dân tỉnh theo định kỳ hàng tháng và đề xuất biện pháp tháo gỡ khó khăn, ách tắc đối với tỉnh và NHTW để kịp thời xử lý .\n\n\\- Đối với các Ngân hàng thương mại:\n\nCác Ngân hàng thương mại cần tích cực, chủ động cùng các thành phần kinh tế hoàn thành nhiều tiểu Dự án khả thi, phù hợp với các mục tiêu và thủ tục Dự án “Tài chính nông thôn”, để thu hút nguồn vốn này nhằm đa dạng hóa về nguồn vốn để mở rộng cho vay, tăng trưởng tín dụng hoàn thành tốt nhiệm vụ kinh doanh và đặc biệt là nhiệm vụ chính trị, góp phần phát triển kinh tế nông thôn. Do đó cần có biện pháp thật cụ thể trong giải thích, tiếp cận, hướng dẫn khách hàng về nội dung, mục đích yêu cầu và điều kiện để được vay vốn trong khuôn khổ Dự án “Tài chính nông thôn”, đặc biệt chú trọng trong khâu hướng dẫn xây dựng dự án, thẩm định dự án vay vốn, vừa đảm bảo tính chặt chẽ quy trình nghiệp vụ cho vay, vừa thu hút được nhiều dự án cho vay; báo cáo kịp thời về tiến độ, kết quả, những vướng mắc, đề xuất qua đầu mối Ngân hàng Nhà nước tỉnh.\n\nViệc tạo lập các dự án đầu tư để tranh thủ các nguồn vốn nhằm phát triển nhanh kinh tế tỉnh nhà là yêu cầu trước mắt và lâu dài. Do đó đề nghị các ngành, các cấp thường xuyên quan tâm đề xuất và thực hiện một cách chủ động, sát thực tế yêu cầu sản xuất.\n\nTrên đây là một số công việc cần tập trung thực hiện để thu hút nguồn vốn của dự án “Tài chính nông thôn” phục vụ cho mục tiêu phát triển kinh tế – xã hội địa phương. Uỷ ban nhân dân tỉnh yêu cầu các cấp, các ngành tổ chức thực hiện nghiêm túc và đạt kết quả./.\n\n**TM. UỶ BAN NHÂN DÂN TỈNH  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nTrần Văn Cồn**",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADQAMAA2ADIANQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>UỶ BAN NHÂN DÂN<br>\n  TỈNH BẾN TRE<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 19/CT-UB</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bến Tre, ngày 20\n  tháng 8 năm 1993</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">VỀ VIỆC THỰC HIỆN\nCHẾ ĐỘ KẾ TOÁN VÀ THỐNG KÊ ĐỐI VỚI HOẠT ĐỘNG SẢN XUẤT KINH DOANH NGOÀI QD</p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Pháp lệnh Kế toán và thống kê được\ncông bố ngày 10/5/1988 của Hội đồng Nhà nước và Quyết định số 598/TC-CĐKT quy\nđịnh về chế độ kế toán sản xuất kinh doanh ngoài quốc doanh ngày 08/12/1990 của\nBộ Tài chính.</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Công ty và Luật doanh nghiệp tư\nnhân được Quốc hội thông qua ngày 21/12/1990.</i></p>\n\n<p style=\"margin-bottom:6.0pt\">Để góp phần tăng cường quản lý kinh tế, tài\nchính của các cấp các ngành, thực hiện việc kiểm kê, kiểm soát của Nhà nước đối\nvới hoạt động sản xuất kinh doanh của các thành phần kinh tế, đặc biệt đối với\nkinh tế ngoài quốc doanh. Uỷ ban nhân dân tỉnh Chỉ thị:</p>\n\n<p style=\"margin-bottom:6.0pt\">1. Các đối tượng có đăng ký hoạt động sản xuất\nkinh doanh bao gồm: doanh nghiệp tư nhân, Công ty trách nhiệm hữu hạn, và cá\nnhân, nhóm kinh doanh theo Nghị định số 66/HĐBT (trừ doanh nghiệp Nhà nước thực\nhiện điều lệ tổ chức kế toán Nhà nước), khi đi vào hoạt động đều phải thực hiện\nchế độ báo cáo kế toán, thống kê theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">Số liệu, tài liệu kế toán thống kê là tài liệu\ncó giá trị pháp lý để đánh giá kết quả sản xuất kinh doanh và nghĩa vụ của đơn\nvị đối với Nhà nước.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Cơ quan thuế chịu trách nhiệm phối hợp với\ncác ngành liên quan như tài chính, thống kê triển khai chế độ kế toán thống kê,\nhướng dẫn ghi chép sổ sách kế toán, báo cáo thống kê theo quy định và tiến hành\nkiểm tra việc thực hiện chế độ báo cáo kế toán theo sự phân cấp quản lý hiện\nhành.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Mọi trường hợp vi phạm Pháp lệnh Kế toán và\nthống kê như: không thực hiện đầy đủ chế độ báo cáo, không sử dụng hoá đơn bán\nhàng, chứng từ kê khai, khai mang nhằm mục đích trốn thuế, không chấp hành sự\nkiểm tra, giám sát của cơ quan chức năng…đều bị xử phạt theo pháp lệnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">Cục trưởng Cục Thuế, Giám đốc Sở Tài chính - Vật\ngiá, Cục trưởng Cục Thống kê, Chủ tịch UBND các huyện, thị, các doanh nghiệp\nsản xuất kinh doanh (ngoại trừ doanh nghiệp nhà nước) và các ngành có liên quan\nnghiêm túc thực hiện Chỉ thị này./.</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADQAMAA2ADIANQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i>&nbsp;</i></b></p>\n  <p style=\"margin-top:6.0pt\">&nbsp;</p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. UỶ BAN NHÂN\n  DÂN TỈNH<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Văn Nghĩa</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p>&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH BẾN TRE  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 19/CT-UB\n\n_Bến Tre, ngày 20 tháng 8 năm 1993_\n\n**CHỈ THỊ**\n\nVỀ VIỆC THỰC HIỆN CHẾ ĐỘ KẾ TOÁN VÀ THỐNG KÊ ĐỐI VỚI HOẠT ĐỘNG SẢN XUẤT KINH DOANH NGOÀI QD\n\n_Căn cứ Pháp lệnh Kế toán và thống kê được công bố ngày 10/5/1988 của Hội đồng Nhà nước và Quyết định số 598/TC-CĐKT quy định về chế độ kế toán sản xuất kinh doanh ngoài quốc doanh ngày 08/12/1990 của Bộ Tài chính._\n\n_Căn cứ Luật Công ty và Luật doanh nghiệp tư nhân được Quốc hội thông qua ngày 21/12/1990._\n\nĐể góp phần tăng cường quản lý kinh tế, tài chính của các cấp các ngành, thực hiện việc kiểm kê, kiểm soát của Nhà nước đối với hoạt động sản xuất kinh doanh của các thành phần kinh tế, đặc biệt đối với kinh tế ngoài quốc doanh. Uỷ ban nhân dân tỉnh Chỉ thị:\n\n1\\. Các đối tượng có đăng ký hoạt động sản xuất kinh doanh bao gồm: doanh nghiệp tư nhân, Công ty trách nhiệm hữu hạn, và cá nhân, nhóm kinh doanh theo Nghị định số 66/HĐBT (trừ doanh nghiệp Nhà nước thực hiện điều lệ tổ chức kế toán Nhà nước), khi đi vào hoạt động đều phải thực hiện chế độ báo cáo kế toán, thống kê theo quy định.\n\nSố liệu, tài liệu kế toán thống kê là tài liệu có giá trị pháp lý để đánh giá kết quả sản xuất kinh doanh và nghĩa vụ của đơn vị đối với Nhà nước.\n\n2\\. Cơ quan thuế chịu trách nhiệm phối hợp với các ngành liên quan như tài chính, thống kê triển khai chế độ kế toán thống kê, hướng dẫn ghi chép sổ sách kế toán, báo cáo thống kê theo quy định và tiến hành kiểm tra việc thực hiện chế độ báo cáo kế toán theo sự phân cấp quản lý hiện hành.\n\n3\\. Mọi trường hợp vi phạm Pháp lệnh Kế toán và thống kê như: không thực hiện đầy đủ chế độ báo cáo, không sử dụng hoá đơn bán hàng, chứng từ kê khai, khai mang nhằm mục đích trốn thuế, không chấp hành sự kiểm tra, giám sát của cơ quan chức năng…đều bị xử phạt theo pháp lệnh.\n\nCục trưởng Cục Thuế, Giám đốc Sở Tài chính - Vật giá, Cục trưởng Cục Thống kê, Chủ tịch UBND các huyện, thị, các doanh nghiệp sản xuất kinh doanh (ngoại trừ doanh nghiệp nhà nước) và các ngành có liên quan nghiêm túc thực hiện Chỉ thị này./.\n\n**TM. UỶ BAN NHÂN DÂN TỈNH  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nTrần Văn Nghĩa**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
