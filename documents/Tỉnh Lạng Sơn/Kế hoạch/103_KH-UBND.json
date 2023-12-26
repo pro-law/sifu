@@ -1,5 +1,5 @@
 {
-  "title": "Kế hoạch 103/KH-UBND triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 của các cơ quan nhà nước tỉnh Lạng Sơn năm 2021",
+  "title": "Kế hoạch 103/KH-UBND triển khai thực hiện một số nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022 do tỉnh Lạng Sơn ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -8,26 +8,132 @@
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Công văn 1145/BTTTT-THH hướng dẫn, đôn đốc xây dựng kế hoạch triển khai và hoàn thành mục tiêu cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021 do Bộ Thông tin và Truyền thông ban hành",
-      "id": "1145/BTTTT-THH",
+      "title": "Kế hoạch 57/KH-UBND năm 2022 thực hiện Đề án “Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030” do tỉnh Lạng Sơn ban hành",
+      "id": "57/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Lạng Sơn",
+      "signers": [
+        "Dương Xuân Huyên"
+      ],
+      "issuedDate": "2022-03-18",
+      "effectiveDate": "2022-03-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Công văn 797/BTTTT-THH hướng dẫn nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022 do Bộ Thông tin và Truyền thông ban hành",
+      "id": "797/BTTTT-THH",
       "legislationType": "Công văn",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
       "organization": "Bộ Thông tin và Truyền thông",
       "signers": [
-        "Nguyễn Mạnh Hùng"
+        "Nguyễn Huy Dũng"
       ],
-      "issuedDate": "2021-04-19",
-      "effectiveDate": "2021-04-19",
+      "issuedDate": "2022-03-06",
+      "effectiveDate": "2022-03-06",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Nghị định 45/2020/NĐ-CP về thực hiện thủ tục hành chính trên môi trường điện tử",
-      "id": "45/2020/NĐ-CP",
+      "title": "Công văn 781/BTTTT-QLDN năm 2022 về thúc đẩy chuyển đổi số, thanh toán không dùng tiền mặt trong các trường học, cơ sở giáo dục và bệnh viện, cơ sở y tế do Bộ Thông tin và Truyền thông ban hành",
+      "id": "781/BTTTT-QLDN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Tiền tệ - Ngân hàng",
+        "Giáo dục",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Huy Dũng"
+      ],
+      "issuedDate": "2022-03-04",
+      "effectiveDate": "2022-03-04",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 639/BTTTT-THH năm 2022 về tăng cường hiệu quả quản lý, ứng dụng công nghệ thông tin, chuyển đổi số sử dụng ngân sách nhà nước do Bộ Thông tin và Truyền thông ban hành",
+      "id": "639/BTTTT-THH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Huy Dũng"
+      ],
+      "issuedDate": "2022-02-28",
+      "effectiveDate": "2022-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 350/QĐ-BTTTT phê duyệt Kế hoạch hỗ trợ đưa hộ sản xuất nông nghiệp lên sàn thương mại điện tử, thúc đẩy phát triển kinh tế số nông nghiệp, nông thôn năm 2022 do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "350/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2022-02-24",
+      "effectiveDate": "2022-02-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 186/QĐ-BTTTT năm 2022 phê duyệt Chương trình thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, phát triển chính phủ số, kinh tế số, xã hội số do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "186/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2022-02-11",
+      "effectiveDate": "2022-02-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1034/QĐ-BTTTT năm 2021 phê duyệt Kế hoạch hỗ trợ đưa hộ sản xuất nông nghiệp lên sàn thương mại điện tử, thúc đẩy phát triển kinh tế số nông nghiệp, nông thôn do Bộ trưởng Bộ Thông tin và Truyền thông ban hành",
+      "id": "1034/QĐ-BTTTT",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Thông tin và Truyền thông",
+      "signers": [
+        "Phạm Anh Tuấn"
+      ],
+      "issuedDate": "2021-07-21",
+      "effectiveDate": "2021-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước",
+      "id": "47/2020/NĐ-CP",
       "legislationType": "Nghị định",
       "categories": [
         "Công nghệ thông tin",
@@ -37,26 +143,25 @@
       "signers": [
         "Nguyễn Xuân Phúc"
       ],
-      "issuedDate": "2020-04-08",
-      "effectiveDate": "2020-05-22",
+      "issuedDate": "2020-04-09",
+      "effectiveDate": "2020-05-25",
       "gazetteDate": "2020-04-20",
       "gazetteNumber": "Từ số 387 đến số 388",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Nghị quyết 17/NQ-CP năm 2019 về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng đến 2025 do Chính phủ ban hành",
-      "id": "17/NQ-CP",
-      "legislationType": "Nghị quyết",
+      "title": "Chỉ thị 14/CT-TTg năm 2019 về tăng cường bảo đảm an toàn, an ninh mạng nhằm cải thiện chỉ số xếp hạng của Việt Nam do Thủ tướng Chính phủ ban hành",
+      "id": "14/CT-TTg",
+      "legislationType": "Chỉ thị",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
-      "organization": "Chính phủ",
+      "organization": "Thủ tướng Chính phủ",
       "signers": [
         "Nguyễn Xuân Phúc"
       ],
-      "issuedDate": "2019-03-07",
-      "effectiveDate": "2019-03-07",
+      "issuedDate": "2019-06-07",
+      "effectiveDate": "2019-06-07",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -70,198 +175,139 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Kế hoạch 279/KH-UBND triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021 trên địa bàn tỉnh Yên Bái",
-      "id": "279/KH-UBND",
+      "title": "Kế hoạch 120/KH-UBND triển khai thực hiện chuyển đổi số xã/phường/thị trấn trên địa bàn tỉnh Yên Bái năm 2022",
+      "id": "120/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
       "organization": "Tỉnh Yên Bái",
       "signers": [
         "Trần Huy Tuấn"
       ],
-      "issuedDate": "2021-12-27",
-      "effectiveDate": "2021-12-27",
+      "issuedDate": "2022-06-01",
+      "effectiveDate": "2022-06-01",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Kế hoạch 123/KH-UBND triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 năm 2021 trên địa bàn tỉnh Sóc Trăng",
-      "id": "123/KH-UBND",
+      "title": "Kế hoạch 83/KH-UBND năm 2022 thực hiện Chương trình thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, phát triển Chính quyền số, kinh tế số, xã hội số trên địa bàn tỉnh Tuyên Quang",
+      "id": "83/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
+        "Thương mại",
         "Công nghệ thông tin",
         "Bộ máy hành chính"
       ],
-      "organization": "Tỉnh Sóc Trăng",
+      "organization": "Tỉnh Tuyên Quang",
       "signers": [
-        "Huỳnh Thị Diễm Ngọc"
+        "Hoàng Việt Phương"
       ],
-      "issuedDate": "2021-08-09",
-      "effectiveDate": "2021-08-09",
+      "issuedDate": "2022-05-19",
+      "effectiveDate": "2022-05-19",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Kế hoạch 111/KH-UBND triển khai cung cấp 100% thủ tục hành chính đủ điều kiện lên dịch vụ công trực tuyến mức độ 4 của các cơ quan nhà nước trên địa bàn tỉnh Hưng Yên năm 2021",
-      "id": "111/KH-UBND",
+      "title": "Kế hoạch 1282/KH-UBND năm 2022 thực hiện Nghị quyết 10-NQ/TU về chuyển đổi số đến năm 2025, định hướng đến năm 2030 do tỉnh Bình Thuận ban hành",
+      "id": "1282/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
-      "organization": "Tỉnh Hưng Yên",
+      "organization": "Tỉnh Bình Thuận",
       "signers": [
-        "Nguyễn Duy Hưng"
+        "Lê Tuấn Phong"
       ],
-      "issuedDate": "2021-07-23",
-      "effectiveDate": "2021-07-23",
+      "issuedDate": "2022-05-04",
+      "effectiveDate": "2022-05-04",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Kế hoạch 120/KH-UBND triển khai cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trên địa bàn tỉnh Hậu Giang năm 2021",
-      "id": "120/KH-UBND",
+      "title": "Kế hoạch 698/KH-UBND năm 2022 về chuyển đổi số giai đoạn đến năm 2025 để thực hiện Nghị quyết 07-NQ/TU do tỉnh Quảng Bình ban hành",
+      "id": "698/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
-      "organization": "Tỉnh Hậu Giang",
+      "organization": "Tỉnh Quảng Bình",
       "signers": [
-        "Hồ Thu Ánh"
+        "Trần Thắng"
       ],
-      "issuedDate": "2021-06-18",
-      "effectiveDate": "2021-06-18",
+      "issuedDate": "2022-04-28",
+      "effectiveDate": "2022-04-28",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Kế hoạch 2714/KH-UBND về cung cấp dịch vụ công trực tuyến lên mức độ 4 của các cơ quan Nhà nước trên địa bàn tỉnh Quảng Nam năm 2021",
-      "id": "2714/KH-UBND",
+      "title": "Kế hoạch 92/KH-UBND về chuyển đổi số tỉnh Lạng Sơn năm 2022",
+      "id": "92/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
-      "organization": "Tỉnh Quảng Nam",
+      "organization": "Tỉnh Lạng Sơn",
       "signers": [
-        "Lê Trí Thanh"
+        "Dương Xuân Huyên"
       ],
-      "issuedDate": "2021-05-11",
-      "effectiveDate": "2021-05-11",
+      "issuedDate": "2022-04-25",
+      "effectiveDate": "2022-04-25",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Kế hoạch 1449/KH-UBND về tích hợp, cung cấp các dịch vụ công trực tuyến mức độ 3, mức độ 4 của tỉnh Kon Tum trên Cổng dịch vụ công quốc gia năm 2021 và đảm bảo cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trên Cổng dịch vụ công của tỉnh Kon Tum",
-      "id": "1449/KH-UBND",
+      "title": "Kế hoạch 76/KH-UBND triển khai các nhiệm vụ chuyển đổi số trên địa bàn thành phố Đà Nẵng, năm 2022",
+      "id": "76/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
-      "organization": "Tỉnh Kon Tum",
+      "organization": "Thành phố Đà Nẵng",
       "signers": [
-        "Lê Ngọc Tuấn"
+        "Trần Phước Sơn"
       ],
-      "issuedDate": "2021-05-07",
-      "effectiveDate": "2021-05-07",
+      "issuedDate": "2022-04-13",
+      "effectiveDate": "2022-04-13",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Kế hoạch 62/KH-UBND triển khai cung cấp 100% dịch vụ công đủ điều kiện ở mức độ 4 và tích hợp 100% dịch vụ công trực tuyến mức độ 3, mức độ 4 đáp ứng yêu cầu với Cổng dịch vụ công quốc gia năm 2021 do tỉnh Ninh Bình ban hành",
-      "id": "62/KH-UBND",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Ninh Bình",
-      "signers": [
-        "Tống Quang Thìn"
-      ],
-      "issuedDate": "2021-05-05",
-      "effectiveDate": "2021-05-05",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Kế hoạch 1426/KH-UBND năm 2021 triển khai xây dựng 100% thủ tục hành chính đủ điều kiện lên dịch vụ công trực tuyến mức độ 4 của các cơ quan nhà nước tỉnh Hải Dương",
-      "id": "1426/KH-UBND",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Hải Dương",
-      "signers": [
-        "Nguyễn Dương Thái"
-      ],
-      "issuedDate": "2021-04-26",
-      "effectiveDate": "2021-04-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Quyết định 402/QĐ-UBND năm 2021 công bố Danh mục dịch vụ công trực tuyến mức độ 4 của các cơ quan Nhà nước tỉnh Thái Nguyên",
-      "id": "402/QĐ-UBND",
+      "title": "Quyết định 565/QĐ-UBND về Kế hoạch chuyển đổi số tỉnh Yên Bái năm 2022",
+      "id": "565/QĐ-UBND",
       "legislationType": "Quyết định",
       "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Thái Nguyên",
-      "signers": [
-        "Lê Quang Tiến"
-      ],
-      "issuedDate": "2021-02-19",
-      "effectiveDate": "2021-02-19",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 854/QĐ-UBND năm 2020 phê duyệt Danh mục dịch vụ công trực tuyến mức độ 4 thuộc thẩm quyền của Ủy ban nhân dân cấp huyện thực hiện trên địa bàn tỉnh Kon Tum",
-      "id": "854/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Công nghệ thông tin",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Kon Tum",
-      "signers": [
-        "Y Ngọc"
-      ],
-      "issuedDate": "2020-12-25",
-      "effectiveDate": "2020-12-25",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 3232/QĐ-UBND phê duyệt Danh mục dịch vụ công trực tuyến thực hiện mức độ 4 trên Cổng dịch vụ công tỉnh Yên Bái năm 2020 thuộc thẩm quyền giải quyết của các sở, ban ngành; Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã tỉnh Yên Bái",
-      "id": "3232/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính"
+        "Công nghệ thông tin"
       ],
       "organization": "Tỉnh Yên Bái",
       "signers": [
-        "Nguyễn Chiến Thắng"
+        "Trần Huy Tuấn"
       ],
-      "issuedDate": "2020-12-17",
-      "effectiveDate": "2020-12-17",
+      "issuedDate": "2022-04-08",
+      "effectiveDate": "2022-04-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 284/QĐ-UBND năm 2022 về Chương trình hành động thực hiện Nghị Quyết 03-NQ/TU về chuyển đổi số thành phố Hải Phòng đến năm 2025, định hướng đến năm 2030",
+      "id": "284/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2022-01-24",
+      "effectiveDate": "2022-01-24",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -270,20 +316,19 @@
   "id": "103/KH-UBND",
   "legislationType": "Kế hoạch",
   "categories": [
-    "Công nghệ thông tin",
-    "Bộ máy hành chính"
+    "Công nghệ thông tin"
   ],
   "organization": "Tỉnh Lạng Sơn",
   "signers": [
     "Dương Xuân Huyên"
   ],
-  "issuedDate": "2021-05-06",
-  "effectiveDate": "2021-05-06",
+  "issuedDate": "2022-04-28",
+  "effectiveDate": "2022-04-28",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Không xác định",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH LẠNG SƠN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 103/KH-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Lạng Sơn, ngày 06\n  tháng 5 năm 2021</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\">TRIỂN\nKHAI CUNG CẤP 100% DỊCH VỤ CÔNG ĐỦ ĐIỀU KIỆN LÊN TRỰC TUYẾN MỨC ĐỘ 4 CỦA CÁC CƠ\nQUAN NHÀ NƯỚC TỈNH LẠNG SƠN NĂM 2021</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện Nghị quyết số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 17/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-quyet-17-nq-cp-2019-nhiem-vu-giai-phap-trong-tam-phat-trien-chinh-phu-dien-tu-408619.aspx\">17/NQ-CP</a>  ngày 07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm\nphát triển Chính phủ điện tử giai đoạn 2019 - 2020, định hướng đến 2025; Công\nvăn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 1145/BTTTT-THH\" href=\"https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-1145-btttt-thh-2021-cung-cap-100-dich-vu-cong-du-dieu-kien-len-truc-tuyen-muc-do-4-473841.aspx\">1145/BTTTT-THH</a>  ngày 19/4/2021 của Bộ Thông tin và Truyền thông về việc\nhướng dẫn, đôn đốc xây dựng kế hoạch triển khai và hoàn thành mục tiêu cung cấp\n100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021; UBND\ntỉnh ban hành Kế hoạch triển khai thực hiện như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>I. MỤC ĐÍCH, YÊU CẦU</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. Mục đích</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Đẩy mạnh cung cấp dịch vụ công\ntrực tuyến (DVCTT) trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử\ncủa tỉnh, đảm bảo mục tiêu cung cấp 100% dịch vụ công đủ điều kiện lên trực\ntuyến mức độ 4 trong năm 2021 nhằm tạo điều kiện thuận lợi cho tổ chức, người\ndân và doanh nghiệp thực hiện giải quyết thủ tục hành chính (TTHC) khi có nhu\ncầu, tiết kiệm thời gian, chi phí, giúp cho hoạt động của cơ quan nhà nước được\ncông khai, minh bạch , góp phần phát triển kinh tế - xã hội của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. Yêu cầu</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Các cơ quan, đơn vị rà soát\n100% các thủ tục, nhóm TTHC đủ điều kiện nâng lên DVCTT mức độ 4 thuộc thẩm\nquyền giải quyết của cơ quan, đơn vị mình để nâng cao chất lượng, hiệu quả hoạt\nđộng công tác cải cách TTHC, cải thiện môi trường kinh doanh, nâng cao năng lực\ncạnh tranh cấp tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Các DVCTT mức độ 4 được triển\nkhai phải đảm bảo không trùng lặp với các DVCTT mức độ 4 do các cơ quan trung\nương đã triển khai theo ngành dọc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Việc rà soát, triển khai DVCTT\nmức độ 4 phải lấy ý kiến các cơ quan, đơn vị có liên quan, tạo được sự đồng\nthuận, thống nhất trong triển khai thực hiện.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>II. NỘI DUNG</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. Nội dung thực hiện</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.1. Thực hiện rà soát, tổng\nhợp số lượng TTHC thuộc thẩm quyền giải quyết đang triển khai DVCTT mức độ 2,\nmức độ 3, mức độ 4 trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử\ncủa tỉnh <i>(đề nghị các cơ quan, đơn vị thống kê theo mẫu Phụ lục I kèm theo).</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.2. Rà soát và báo cáo chi\ntiết tên TTHC đang triển khai DVCTT mức độ 2, mức độ 3, mức độ 4 theo từng lĩnh\nvực trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh <i>(thống\nkê theo mẫu Phụ lục II kèm theo).</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.3. Cung cấp danh sách các\ndịch vụ công đủ điều kiện lên trực tuyến mức độ 4 để triển khai cung cấp trên\nCổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh <i>(thống kê\ntheo mẫu Phụ lục III kèm theo).</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.4. Cung cấp danh sách các\ndịch vụ công không đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021, giải\nthích rõ nguyên nhân tại sao không đủ điều kiện <i>(thống kê theo mẫu Phụ lục\nIV kèm theo)</i>.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.5. Thực hiện số hóa hồ sơ,\ngiấy tờ, kết quả giải quyết TTHC phục vụ kết nối, chia sẻ dữ liệu trong giải\nquyết TTHC trên môi trường điện tử theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx\">45/2020/NĐ-CP</a>  ngày 08/4/2020\ncủa Chính phủ về thực hiện TTHC trên môi trường điện tử; thiết lập kho dữ liệu\nlưu trữ hồ sơ điện tử tập trung.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.6. Kết nối Cổng DVCTT của\ntỉnh với Cổng Dịch vụ công Quốc gia thông qua Nền tảng tích hợp, chia sẻ dữ\nliệu của tỉnh (LGSP) đáp ứng chức năng đăng nhập một lần SSO và tích hợp đồng\nbộ trạng thái xử lý của tất c ả các hồ sơ TTHC.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1.7. Thực hiện tuyên truyền,\nquảng bá đến người dân và doanh nghiệp để tham gia sử dụng DVCTT do các cơ quan\nhành chính của tỉnh cung cấp.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. Thời gian thực hiện</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Các cơ quan, đơn vị triển khai\nthực hiện rà soát và cung cấp danh sách DVCTT theo mẫu phụ lục kèm Kế hoạch\nnày, gửi Sở Thông tin và Truyền thông để tổng hợp, cài đặt trên Cổng dịch vụ\ncông của tỉnh (đồng gửi Trung tâm Phục vụ hành chính công tỉnh) <b>trước ngày\n28/5/2021</b>.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>III. TỔ CHỨC THỰC HIỆN</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. Sở Thông tin và Truyền\nthông</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với Văn\nphòng UBND tỉnh và các cơ quan, đơn vị có liên quan triển khai cung cấp DVCTT\nmức độ 4 trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổng hợp, đề xuất danh mục\ndịch vụ công đủ điều kiện lên trực tuyến mức độ 4 của các cơ quan, đơn vị trình\nUBND tỉnh phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chỉ đạo Viễn thông Lạng Sơn\nthực hiện cấu hình, cập nhật thông tin, quy trình điện tử đối với các TTHC cung\ncấp DVCTT mức độ 4 trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử\ncủa tỉnh; nâng cấp, hiệu chỉnh Cổng dịch vụ công và Hệ thống thông tin một cửa\nđiện tử của tỉnh đảm bảo đáp ứng các quy định về chức năng, tính năng kỹ thuật\ntheo hướng dẫn của Văn phòng Chính phủ và Bộ thông tin và Truyền thông.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với các cơ\nquan liên quan thực hiện nhiệm vụ tại điểm 1.5, 1.6, 1.7 Mục II của Kế hoạch\nnày.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với Văn phòng UBND\ntỉnh theo dõi, đôn đốc, kiểm tra và nắm bắt kịp thời những vấn đề phát sinh\ntrong quá trình triển khai thực hiện, kịp thời báo cáo UBND tỉnh xem xét, giải\nquyết.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. Văn phòng UBND tỉnh</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chịu trách nhiệm hướng dẫn,\ntheo dõi, đôn đốc các cơ quan, đơn vị trong việc thực hiện xây dựng quy trình\nnội bộ giải quyết TTHC, đảm bảo các quy trình giải quyết TTHC được chuẩn hóa để\nđảm bảo điều kiện triển khai, cung cấp DVCTT mức độ 4.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với Sở Thông tin và Truyền\nthông thực hiện việc theo dõi, đôn đốc các cơ quan, đơn vị trong việc triển\nkhai các nội dung, nhiệm vụ được UBND giao tại Kế hoạch này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>3. Các sở, ban, ngành; UBND\ncác huyện, thành phố</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện rà soát và báo cáo\ntheo các nội dung yêu cầu của Kế hoạch này đối với toàn bộ TTHC thuộc thẩm\nquyền giải quyết của cơ quan, đơn vị. Đối với TTHC thuộc thẩm quyền giải quyết\ncủa UBND cấp huyện, cấp xã khi rà soát cần trao đổi, lấy ý kiến của các cơ quan\nchuyên môn ở cấp huyện, cấp xã trước khi gửi Sở Thông tin và Truyền thông.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ động rà soát, xây dựng\nquy trình nội bộ giải quyết TTHC theo cơ chế một cửa, một cửa liên thông thuộc\nphạm vi quản lý của cơ quan, đơn vị, trình Chủ tịch UBND tỉnh phê duyệt để làm\ncơ sở xây dựng quy trình điện tử trên Cổng dịch vụ công và Hệ thống thông tin\nmột cửa điện tử của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện tuyên truyền, hướng\ndẫn người dân và doanh nghiệp tham gia sử dụng DVCTT do các cơ quan hành chính\ncủa tỉnh cung cấp trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử\ncủa tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổ chức thực hiện các nội\ndung quy định tại điểm 1.1, 1.2, 1.3, 1.4 Mục II của Kế hoạch này bảo đảm chất\nlượng, đúng tiến độ.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">UBND tỉnh yêu cầu các sở, ban, ngành,\nUBND các huyện, thành phố nghiêm túc triển khai thực hiện./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>&nbsp;</i></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA5ADEAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Bộ Thông tin và Truyền thông;<br>\n  - Thường trực Tỉnh ủy;<br>\n  - Lãnh đạo HĐND tỉnh;<br>\n  - Chủ tịch, các Phó Chủ tịch UBND tỉnh;<br>\n  - Các sở, ban, ngành;<br>\n  - UBND các huyện, thành phố;<br>\n  - CVP, các PCVP UBND tỉnh,<br>\n  các phòng CV, TTTHCB, TTPVHCC;<br>\n  <sup>- Lưu: VT, KGVX </sup>(HTHT)<sup>.</sup></span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. CHỦ TỊCH <br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Dương Xuân Huyên</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\">&nbsp;</p>\n\n<p><b>&nbsp;</b></p>\n\n</div>\n\n",
-  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH LẠNG SƠN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 103/KH-UBND\n\n_Lạng Sơn, ngày 06 tháng 5 năm 2021_\n\n**KẾ HOẠCH**\n\nTRIỂN KHAI CUNG CẤP 100% DỊCH VỤ CÔNG ĐỦ ĐIỀU KIỆN LÊN TRỰC TUYẾN MỨC ĐỘ 4 CỦA CÁC CƠ QUAN NHÀ NƯỚC TỈNH LẠNG SƠN NĂM 2021\n\nThực hiện Nghị quyết số [17/NQ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-quyet-17-nq-cp-2019-nhiem-vu-giai-phap-trong-tam-phat-trien-chinh-phu-dien-tu-408619.aspx \"Nghị quyết 17/NQ-CP\") ngày 07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn 2019 - 2020, định hướng đến 2025; Công văn số [1145/BTTTT-THH](https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-1145-btttt-thh-2021-cung-cap-100-dich-vu-cong-du-dieu-kien-len-truc-tuyen-muc-do-4-473841.aspx \"Công văn 1145/BTTTT-THH\") ngày 19/4/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn, đôn đốc xây dựng kế hoạch triển khai và hoàn thành mục tiêu cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021; UBND tỉnh ban hành Kế hoạch triển khai thực hiện như sau:\n\n**I. MỤC ĐÍCH, YÊU CẦU**\n\n**1\\. Mục đích**\n\nĐẩy mạnh cung cấp dịch vụ công trực tuyến (DVCTT) trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh, đảm bảo mục tiêu cung cấp 100% dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021 nhằm tạo điều kiện thuận lợi cho tổ chức, người dân và doanh nghiệp thực hiện giải quyết thủ tục hành chính (TTHC) khi có nhu cầu, tiết kiệm thời gian, chi phí, giúp cho hoạt động của cơ quan nhà nước được công khai, minh bạch , góp phần phát triển kinh tế - xã hội của tỉnh.\n\n**2\\. Yêu cầu**\n\nCác cơ quan, đơn vị rà soát 100% các thủ tục, nhóm TTHC đủ điều kiện nâng lên DVCTT mức độ 4 thuộc thẩm quyền giải quyết của cơ quan, đơn vị mình để nâng cao chất lượng, hiệu quả hoạt động công tác cải cách TTHC, cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh cấp tỉnh.\n\nCác DVCTT mức độ 4 được triển khai phải đảm bảo không trùng lặp với các DVCTT mức độ 4 do các cơ quan trung ương đã triển khai theo ngành dọc.\n\nViệc rà soát, triển khai DVCTT mức độ 4 phải lấy ý kiến các cơ quan, đơn vị có liên quan, tạo được sự đồng thuận, thống nhất trong triển khai thực hiện.\n\n**II. NỘI DUNG**\n\n**1\\. Nội dung thực hiện**\n\n1.1. Thực hiện rà soát, tổng hợp số lượng TTHC thuộc thẩm quyền giải quyết đang triển khai DVCTT mức độ 2, mức độ 3, mức độ 4 trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh _(đề nghị các cơ quan, đơn vị thống kê theo mẫu Phụ lục I kèm theo)._\n\n1.2. Rà soát và báo cáo chi tiết tên TTHC đang triển khai DVCTT mức độ 2, mức độ 3, mức độ 4 theo từng lĩnh vực trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh _(thống kê theo mẫu Phụ lục II kèm theo)._\n\n1.3. Cung cấp danh sách các dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 để triển khai cung cấp trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh _(thống kê theo mẫu Phụ lục III kèm theo)._\n\n1.4. Cung cấp danh sách các dịch vụ công không đủ điều kiện lên trực tuyến mức độ 4 trong năm 2021, giải thích rõ nguyên nhân tại sao không đủ điều kiện _(thống kê theo mẫu Phụ lục IV kèm theo)_.\n\n1.5. Thực hiện số hóa hồ sơ, giấy tờ, kết quả giải quyết TTHC phục vụ kết nối, chia sẻ dữ liệu trong giải quyết TTHC trên môi trường điện tử theo Nghị định số [45/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-45-2020-nd-cp-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx \"Nghị định 45/2020/NĐ-CP\") ngày 08/4/2020 của Chính phủ về thực hiện TTHC trên môi trường điện tử; thiết lập kho dữ liệu lưu trữ hồ sơ điện tử tập trung.\n\n1.6. Kết nối Cổng DVCTT của tỉnh với Cổng Dịch vụ công Quốc gia thông qua Nền tảng tích hợp, chia sẻ dữ liệu của tỉnh (LGSP) đáp ứng chức năng đăng nhập một lần SSO và tích hợp đồng bộ trạng thái xử lý của tất c ả các hồ sơ TTHC.\n\n1.7. Thực hiện tuyên truyền, quảng bá đến người dân và doanh nghiệp để tham gia sử dụng DVCTT do các cơ quan hành chính của tỉnh cung cấp.\n\n**2\\. Thời gian thực hiện**\n\nCác cơ quan, đơn vị triển khai thực hiện rà soát và cung cấp danh sách DVCTT theo mẫu phụ lục kèm Kế hoạch này, gửi Sở Thông tin và Truyền thông để tổng hợp, cài đặt trên Cổng dịch vụ công của tỉnh (đồng gửi Trung tâm Phục vụ hành chính công tỉnh) **trước ngày 28/5/2021**.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n**1\\. Sở Thông tin và Truyền thông**\n\n\\- Chủ trì, phối hợp với Văn phòng UBND tỉnh và các cơ quan, đơn vị có liên quan triển khai cung cấp DVCTT mức độ 4 trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh.\n\n\\- Tổng hợp, đề xuất danh mục dịch vụ công đủ điều kiện lên trực tuyến mức độ 4 của các cơ quan, đơn vị trình UBND tỉnh phê duyệt.\n\n\\- Chỉ đạo Viễn thông Lạng Sơn thực hiện cấu hình, cập nhật thông tin, quy trình điện tử đối với các TTHC cung cấp DVCTT mức độ 4 trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh; nâng cấp, hiệu chỉnh Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh đảm bảo đáp ứng các quy định về chức năng, tính năng kỹ thuật theo hướng dẫn của Văn phòng Chính phủ và Bộ thông tin và Truyền thông.\n\n\\- Chủ trì, phối hợp với các cơ quan liên quan thực hiện nhiệm vụ tại điểm 1.5, 1.6, 1.7 Mục II của Kế hoạch này.\n\n\\- Phối hợp với Văn phòng UBND tỉnh theo dõi, đôn đốc, kiểm tra và nắm bắt kịp thời những vấn đề phát sinh trong quá trình triển khai thực hiện, kịp thời báo cáo UBND tỉnh xem xét, giải quyết.\n\n**2\\. Văn phòng UBND tỉnh**\n\n\\- Chịu trách nhiệm hướng dẫn, theo dõi, đôn đốc các cơ quan, đơn vị trong việc thực hiện xây dựng quy trình nội bộ giải quyết TTHC, đảm bảo các quy trình giải quyết TTHC được chuẩn hóa để đảm bảo điều kiện triển khai, cung cấp DVCTT mức độ 4.\n\n\\- Phối hợp với Sở Thông tin và Truyền thông thực hiện việc theo dõi, đôn đốc các cơ quan, đơn vị trong việc triển khai các nội dung, nhiệm vụ được UBND giao tại Kế hoạch này.\n\n**3\\. Các sở, ban, ngành; UBND các huyện, thành phố**\n\n\\- Thực hiện rà soát và báo cáo theo các nội dung yêu cầu của Kế hoạch này đối với toàn bộ TTHC thuộc thẩm quyền giải quyết của cơ quan, đơn vị. Đối với TTHC thuộc thẩm quyền giải quyết của UBND cấp huyện, cấp xã khi rà soát cần trao đổi, lấy ý kiến của các cơ quan chuyên môn ở cấp huyện, cấp xã trước khi gửi Sở Thông tin và Truyền thông.\n\n\\- Chủ động rà soát, xây dựng quy trình nội bộ giải quyết TTHC theo cơ chế một cửa, một cửa liên thông thuộc phạm vi quản lý của cơ quan, đơn vị, trình Chủ tịch UBND tỉnh phê duyệt để làm cơ sở xây dựng quy trình điện tử trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh.\n\n\\- Thực hiện tuyên truyền, hướng dẫn người dân và doanh nghiệp tham gia sử dụng DVCTT do các cơ quan hành chính của tỉnh cung cấp trên Cổng dịch vụ công và Hệ thống thông tin một cửa điện tử của tỉnh.\n\n\\- Tổ chức thực hiện các nội dung quy định tại điểm 1.1, 1.2, 1.3, 1.4 Mục II của Kế hoạch này bảo đảm chất lượng, đúng tiến độ.\n\nUBND tỉnh yêu cầu các sở, ban, ngành, UBND các huyện, thành phố nghiêm túc triển khai thực hiện./.\n\n**_  \nNơi nhận:  \n_**\\- Bộ Thông tin và Truyền thông;  \n\\- Thường trực Tỉnh ủy;  \n\\- Lãnh đạo HĐND tỉnh;  \n\\- Chủ tịch, các Phó Chủ tịch UBND tỉnh;  \n\\- Các sở, ban, ngành;  \n\\- UBND các huyện, thành phố;  \n\\- CVP, các PCVP UBND tỉnh,  \ncác phòng CV, TTTHCB, TTPVHCC;  \n\\- Lưu: VT, KGVX (HTHT).\n\n**KT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nDương Xuân Huyên**",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA2ADEAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH LẠNG SƠN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 103/KH-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Lạng Sơn, ngày 28\n  tháng 4 năm 2022</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>&nbsp;</b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">KẾ HOẠCH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">TRIỂN KHAI THỰC HIỆN MỘT SỐ NHIỆM VỤ QUAN TRỌNG THÚC ĐẨY\nTRIỂN KHAI CHUYỂN ĐỔI SỐ NĂM 2022</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện Công văn số\n<a class=\"text-blue\" target=\"_blank\" title=\"Công văn 797/BTTTT-THH\" href=\"https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-797-btttt-thh-2022-huong-dan-nhiem-vu-quan-trong-thuc-day-chuyen-doi-so-505825.aspx\">797/BTTTT-THH</a>  ngày 06/3/2022 của Bộ Thông tin và Truyền thông về việc hướng dẫn\nmột số nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022; UBND tỉnh\nban hành Kế hoạch triển khai thực hiện một số nhiệm vụ quan trọng thúc đẩy triển\nkhai chuyển đổi số năm 2022 như sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_1\"><b>I. MỤC\nĐÍCH, YÊU CẦU</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. Mục đích</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đẩy mạnh chuyển đổi số theo\nhướng lấy người dân làm trung tâm, toàn dân và toàn diện.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổ chức triển khai thực hiện\ncó hiệu quả, chất lượng và hoàn thành tốt các nhiệm vụ quan trọng thúc đẩy triển\nkhai chuyển đổi số năm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Nâng cao vai trò, trách nhiệm\ncủa các sở, ban, ngành, UBND các huyện, thành phố và các cơ quan, đơn vị có\nliên quan trong thực hiện nhiệm vụ được giao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. Yêu cầu</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xác định cụ thể mục tiêu, nhiệm\nvụ, giải pháp và trách nhiệm của các cơ quan, đơn vị có liên quan trong việc thực\nhiện chuyển đổi số; gắn nhiệm vụ chuyển đổi số với thực hiện Nghị quyết Đại hội\nĐảng các cấp và quá trình thực hiện kế hoạch phát triển kinh tế - xã hội của\nngành, lĩnh vực, địa phương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Việc triển khai thực hiện các\nmục tiêu, nhiệm vụ, giải pháp đảm bảo tính khoa học, đồng bộ, hiệu quả; thực hiện\nnghiêm túc chế độ báo cáo, việc kiểm tra, giám sát, đánh giá tiến độ, chất lượng\nđối với việc thực hiện các nhiệm vụ của Kế hoạch.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_2\"><b>II. NỘI\nDUNG THỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. </b>Tiếp tục triển khai\nthực hiện hiệu quả Nghị quyết số 49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh\nủy về chuyển đổi số tỉnh Lạng Sơn đến năm 2025, định hướng đến năm 2030; Kế hoạch\nsố 226/KH-UBND ngày 18/11/2021 của UBND tỉnh về thực hiện Nghị quyết số\n49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng\nSơn đến năm 2025, định hướng đến năm 2030.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện:\ncác sở, ban, ngành, UBND các huyện, thành phố và các cơ quan, đơn vị liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. </b>Các sở, ban, ngành và\nUBND các huyện, thành phố, các cơ quan, báo chí, truyền thông tích cực phổ biến,\ntuyên truyền, quán triệt nội dung tăng cường quản lý đầu tư, bảo đảm hiệu quả\nkhi ứng dụng công nghệ thông tin, phát triển chính phủ số, chuyển đổi số sử dụng\nngân sách nhà nước theo hướng dẫn tại Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 639/BTTTT-THH\" href=\"https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-639-btttt-thh-2022-quan-ly-cong-nghe-thong-tin-su-dung-ngan-sach-nha-nuoc-505564.aspx\">639/BTTTT-THH</a>  ngày 28/02/2022\ncủa Bộ Thông tin và Truyền thông.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện:\ncác sở, ban, ngành; UBND các huyện, thành phố; Đài Phát thanh và Truyền hình tỉnh,\nBáo Lạng Sơn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>3. </b>Phổ biến, quán triệt\nhai nguyên tắc bảo đảm an toàn, an ninh mạng (hệ thống chưa kết luận bảo đảm an\ntoàn, an ninh mạng chưa đưa vào sử dụng; hệ thống thử nghiệm, có dữ liệu thật\nthì phải tuân thủ đầy đủ quy định như hệ thống chính thức).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan thực hiện: các sở,\nban, ngành và UBND các huyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>4. </b>Tiếp tục chỉ đạo thúc\nđẩy chuyển đổi số, phát triển kinh tế số nông nghiệp, nông thôn trên địa bàn tỉnh\ntheo hướng dẫn tại Quyết định số 1034/QĐ- BTTTT ngày 21/7/2021 và Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 350/QĐ-BTTTT\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-350-qd-btttt-2022-ho-tro-ho-san-xuat-nong-nghiep-len-san-thuong-mai-dien-tu-505946.aspx\">350/QĐ-BTTTT</a>  ngày 24/02/2022 của Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt\nkế hoạch hỗ trợ đưa hộ sản xuất nông nghiệp lên sàn thương mại điện tử, thúc đẩy\nphát triển kinh tế số nông nghiệp, nông thôn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì; Sở Công Thương, Sở Nông nghiệp và Phát triển\nnông thôn và UBND các huyện, thành phố và các đơn vị, doanh nghiệp liên quan phối\nhợp thực hiện.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>5. </b>Tiếp tục duy trì thực\nhiện kết nối, chia sẻ dữ liệu giữa các cơ quan nhà nước thông qua Nền tảng tích\nhợp, chia sẻ dữ liệu quốc gia (NDXP); bảo đảm việc kết nối, chia sẻ dữ liệu được\nthực hiện thông suốt, tránh đầu tư chồng chéo, lãng phí, tuân thủ đúng quy định\ncủa Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 47/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-47-2020-nd-cp-quan-ly-ket-noi-va-chia-se-du-lieu-so-cua-co-quan-nha-nuoc-439384.aspx\">47/2020/NĐ-CP</a>  ngày 09/4/2020 của Chính phủ về quản lý, kết nối\nvà chia sẻ dữ liệu số của cơ quan nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông và các đơn vị liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>6. </b>Tiếp tục duy trì kết\nnối Cổng thông tin điện tử, Cổng Dịch vụ công trực tuyến và Hệ thống một cửa điện\ntử với Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ Chính phủ\nsố để đánh giá, đo lường, công bố trực tuyến, mức độ, chất lượng cung cấp thông\ntin và dịch vụ công trực tuyến.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông và các đơn vị liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>7. </b>Các sở, ban, ngành và\nUBND các huyện, thành phố chỉ đạo Ban biên tập Cổng/Trang thông tin điện tử thường\nxuyên cập nhật, giới thiệu trên Cổng/Trang thông tin điện tử của cơ quan, đơn vị,\nđịa phương mình các mô hình, cách làm hay, hiệu quả; các thiết kế điển hình,\nthông dụng về công nghệ thông tin, chuyển đổi số được Bộ Thông tin và Truyền\nthông giới thiệu, cập nhật tại địa chỉ: https://t63.mic.gov.vn/ để trao đổi, học\nhỏi, tham khảo, áp dụng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: thường\nxuyên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện:\ncác sở, ban, ngành; UBND các huyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>8. </b>Triển khai Nền tảng\nđiện toán đám mây (Lạng Sơn Cloud) để phục vụ công cuộc chuyển đổi số, xây dựng\nchính quyền số, phát triển kinh tế số, xã hội số của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý I\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các\nhuyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>9. </b>Ban hành Kế hoạch\nthúc đẩy người dân, doanh nghiệp sử dụng dịch vụ công trực tuyến mức độ 3, 4\ntrong đó đặc biệt chú trọng tới việc rà soát, tham mưu cho cấp có thẩm quyền\nban hành chính sách giảm lệ phí nếu thực hiện thủ tục hành chính theo hình thức\ntrực tuyến; giao chỉ tiêu về tỷ lệ dịch vụ công trực tuyến phát sinh hồ sơ và tỷ\nlệ hồ sơ giải quyết trực tuyến đến từng sở, ban, ngành, UBND các huyện, thành\nphố trên địa bàn; huy động sự tham gia của các tổ chức chính trị - xã hội, doanh\nnghiệp và cộng đồng trong việc phổ biến, hướng dẫn sử dụng dịch vụ công trực\ntuyến.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý II\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp với Văn phòng UBND tỉnh, các sở,\nban, ngành, UBND các huyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>10. </b>Ban hành Kế hoạch hỗ\ntrợ, thúc đẩy chuyển đổi số, thanh toán không dùng tiền mặt trong các trường học,\ncơ sở giáo dục và bệnh viện, cơ sở y tế tại địa phương theo hướng dẫn tại Công\nvăn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 781/BTTTT-QLDN\" href=\"https://thuvienphapluat.vn/cong-van/tien-te-ngan-hang/cong-van-781-btttt-qldn-2022-thuc-day-chuyen-doi-so-thanh-toan-khong-dung-tien-mat-505680.aspx\">781/BTTTT-QLDN</a>  ngày 04/3/2022 của Bộ Thông tin và Truyền thông, trong đó\nchú trọng các chỉ tiêu: số trường học, cơ sở giáo dục thực hiện chuyển đổi số,\náp dụng thanh toán không dùng tiền mặt; tỷ lệ số tiền thanh toán không dùng tiền\nmặt trong các trường học, cơ sở giáo dục; số bệnh viện, cơ sở y tế thực hiện\nchuyển đổi số, áp dụng thanh toán không dùng tiền mặt; tỷ lệ số tiền thanh toán\nkhông dùng tiền mặt trong các bệnh viện, cơ sở y tế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý II\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, Sở Giáo dục và Đào tạo, Sở Y tế, UBND các\nhuyện, thành phố và các đơn vị liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>11. </b>Tiếp tục kiện toàn Tổ\ncông nghệ số cộng đồng (gồm trưởng thôn/bản, khối phố là Tổ trưởng, Bí thư Chi\nđoàn là Tổ phó, đoàn viên thanh niên là thành viên và cá nhân khác tham gia hoạt\nđộng cộng đồng, có kỹ năng sử dụng nền tảng số) để triển khai đưa các nền tảng\nsố, công nghệ số, kỹ năng số đến người dân nhằm thúc đẩy chuyển đổi số, phát\ntriển kinh tế số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý II\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông, UBND các huyện, thành phố và các tổ chức chính trị -\nxã hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>12. </b>Triển khai Kế hoạch\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Văn bản khác 57/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/ke-hoach-57-kh-ubnd-2022-nang-cao-nhan-thuc-phat-trien-nhan-luc-chuyen-doi-so-lang-son-509403.aspx\">57/KH-UBND</a>  ngày 18/3/2022 của UBND tỉnh thực hiện Đề án “Nâng cao nhận thức,\nphổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm\n2025, định hướng đến năm 2030”.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: từ quý\nII năm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các\nhuyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>13. </b>Ban hành Kế hoạch\nthúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số,\nphát triển chính phủ số, kinh tế số và xã hội số thuộc ngành, lĩnh vực và địa\nbàn theo hướng dẫn tại Quyết định số 186/QĐ- BTTTT ngày 11/02/2022 của Bộ trưởng\nBộ Thông tin và Truyền thông phê duyệt Chương trình thúc đẩy phát triển và sử dụng\ncác nền tảng số quốc gia phục vụ chuyển đổi số, phát triển kinh tế số và xã hội\nsố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý II năm\n2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các\nhuyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>14. </b>Nâng cao năng lực,\nchất lượng dịch vụ và mở rộng kết nối, giám sát, kiểm soát truy cập tập trung Mạng\ntruyền số liệu chuyên dùng ổn định, thông suốt, kết nối từ tỉnh đến cấp xã để\nphục vụ chính quyền số.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý III\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông và UBND các huyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>15. </b>Thực hiện đo lường,\nđánh giá, công bố xếp hạng mức độ phát triển chính quyền điện tử, chính quyền số,\nchuyển đổi số đối với các sở, ban, ngành và UBND các huyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý IV\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp các sở, ban, ngành và UBND các huyện,\nthành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>16. </b>Duy trì, cập nhật\nKhung kiến trúc Chính quyền điện tử tỉnh (hiện nay đã cập nhật phiên bản 2.0)<a name=\"_ftnref1\"></a><a href=\"#_ftn1\">[1]</a> bảo đảm phù hợp với Khung kiến\ntrúc Chính phủ điện tử Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý IV\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp các sở, ban, ngành và UBND các huyện,\nthành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>17. </b>Tổ chức triển khai đầy\nđủ bốn giải pháp bảo đảm an toàn thông tin mạng, cụ thể là phần mềm nội bộ do\nđơn vị chuyên nghiệp phát triển, tuân thủ phát triển theo quy trình Khung phát\ntriển phần mềm an toàn (DevSecOps); hệ thống thông tin triển khai đầy đủ phương\nán bảo đảm an toàn thông tin mạng theo cấp độ; hệ thống thông tin được kiểm\ntra, đánh giá an toàn thông tin mạng trước khi đưa vào sử dụng, khi nâng cấp,\nthay đổi, định kỳ theo quy định; hệ thống thông tin được quản lý, vận hành theo\nmô hình 4 lớp theo Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 14/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/chi-thi-14-ct-ttg-2019-bao-dam-an-toan-an-ninh-mang-cai-thien-chi-so-xep-hang-cua-viet-nam-416078.aspx\">14/CT-TTg</a>  ngày 07/6/2019 của Thủ tướng Chính phủ\nvề việc tăng cường bảo đảm an toàn an ninh mạng nhằm cải thiện chỉ số xếp hạng\ncủa Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thời gian thực hiện: quý IV\nnăm 2022.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Cơ quan, đơn vị thực hiện: Sở\nThông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các\nhuyện, thành phố.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"muc_3\"><b>III. TỔ CHỨC\nTHỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. Sở Thông tin và Truyền\nthông</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Theo dõi, tổng hợp tình hình\ntriển khai của các sở, ban, ngành và UBND các huyện, thành phố; chủ động nắm bắt\nnhững khó khăn, vướng mắc và phối hợp với các sở, ban, ngành, UBND các huyện,\nthành phố đề xuất phương án giải quyết, báo cáo UBND tỉnh xem xét, quyết định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Định kỳ báo cáo kết quả thực\nhiện Kế hoạch theo quy định hoặc báo cáo đột xuất khi có yêu cầu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. Các sở, ban, ngành, UBND\ncác huyện, thành phố</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Chủ động nghiên cứu, tổ chức thực\nhiện tốt các nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022\ntrên địa bàn tỉnh tại Kế hoạch này và thực hiện báo cáo định kỳ hàng quý về kết\nquả thực hiện nhiệm vụ tại Kế hoạch này (lồng ghép trong báo cáo kết quả thực\nhiện Kế hoạch số 226/KH- UBND ngày 18/11/2021 về thực hiện Nghị quyết số\n49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng\nSơn đến năm 2025, định hướng đến năm 2030) về Sở Thông tin và Truyền thông để tổng\nhợp báo cáo Bộ Thông tin và Truyền thông, UBND tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">UBND tỉnh yêu cầu các sở, ban,\nngành, UBND các huyện, thành phố nghiêm túc triển khai thực hiện./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA2ADEAMQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Bộ Thông tin và Truyền thông (B/C);<br>\n  - Thường trực Tỉnh ủy (B/C); <br>\n  - Thường trực HĐND tỉnh (B/C);<br>\n  - Chủ tịch, các Phó Chủ tịch UBND tỉnh;<br>\n  - Các sở, ban, ngành;<br>\n  - UBND các huyện, thành phố;<br>\n  - Các tổ chức chính trị - xã hội;<br>\n  - Cổng thông tin điện tử tỉnh;<br>\n  - C, PCVP UBND tỉnh; các phòng CV, ĐV;<br>\n  - Lưu: VT, KGVX (HTHT).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Dương Xuân Huyên</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b>&nbsp;</b></p>\n\n</div>\n\n<div>\n\n<p><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,serif\"><br clear=\"all\">\n</span></p>\n\n<div>\n\n<div><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,serif\">\n\n<hr size=\"1\" width=\"33%\" align=\"left\">\n\n</span></div>\n\n</div>\n\n<div id=\"ftn1\">\n\n<p><a name=\"_ftn1\"></a><a href=\"#_ftnref1\">[1]</a> Quyết định số 79/QĐ-UBND\nngày 11/01/2022 của UBND tỉnh Lạng Sơn Phê duyệt cập nhật Kiến trúc Chính quyền\nđiện tử tỉnh Lạng Sơn, phiên bản 2.0 (năm 2021);</p>\n\n</div>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH LẠNG SƠN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 103/KH-UBND\n\n_Lạng Sơn, ngày 28 tháng 4 năm 2022_\n\n**KẾ HOẠCH**\n\nTRIỂN KHAI THỰC HIỆN MỘT SỐ NHIỆM VỤ QUAN TRỌNG THÚC ĐẨY TRIỂN KHAI CHUYỂN ĐỔI SỐ NĂM 2022\n\nThực hiện Công văn số [797/BTTTT-THH](https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-797-btttt-thh-2022-huong-dan-nhiem-vu-quan-trong-thuc-day-chuyen-doi-so-505825.aspx \"Công văn 797/BTTTT-THH\") ngày 06/3/2022 của Bộ Thông tin và Truyền thông về việc hướng dẫn một số nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022; UBND tỉnh ban hành Kế hoạch triển khai thực hiện một số nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022 như sau:\n\n**I. MỤC ĐÍCH, YÊU CẦU**\n\n**1\\. Mục đích**\n\n\\- Đẩy mạnh chuyển đổi số theo hướng lấy người dân làm trung tâm, toàn dân và toàn diện.\n\n\\- Tổ chức triển khai thực hiện có hiệu quả, chất lượng và hoàn thành tốt các nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022.\n\n\\- Nâng cao vai trò, trách nhiệm của các sở, ban, ngành, UBND các huyện, thành phố và các cơ quan, đơn vị có liên quan trong thực hiện nhiệm vụ được giao.\n\n**2\\. Yêu cầu**\n\n\\- Xác định cụ thể mục tiêu, nhiệm vụ, giải pháp và trách nhiệm của các cơ quan, đơn vị có liên quan trong việc thực hiện chuyển đổi số; gắn nhiệm vụ chuyển đổi số với thực hiện Nghị quyết Đại hội Đảng các cấp và quá trình thực hiện kế hoạch phát triển kinh tế - xã hội của ngành, lĩnh vực, địa phương.\n\n\\- Việc triển khai thực hiện các mục tiêu, nhiệm vụ, giải pháp đảm bảo tính khoa học, đồng bộ, hiệu quả; thực hiện nghiêm túc chế độ báo cáo, việc kiểm tra, giám sát, đánh giá tiến độ, chất lượng đối với việc thực hiện các nhiệm vụ của Kế hoạch.\n\n**II. NỘI DUNG THỰC HIỆN**\n\n**1\\.** Tiếp tục triển khai thực hiện hiệu quả Nghị quyết số 49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng Sơn đến năm 2025, định hướng đến năm 2030; Kế hoạch số 226/KH-UBND ngày 18/11/2021 của UBND tỉnh về thực hiện Nghị quyết số 49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng Sơn đến năm 2025, định hướng đến năm 2030.\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan, đơn vị thực hiện: các sở, ban, ngành, UBND các huyện, thành phố và các cơ quan, đơn vị liên quan.\n\n**2\\.** Các sở, ban, ngành và UBND các huyện, thành phố, các cơ quan, báo chí, truyền thông tích cực phổ biến, tuyên truyền, quán triệt nội dung tăng cường quản lý đầu tư, bảo đảm hiệu quả khi ứng dụng công nghệ thông tin, phát triển chính phủ số, chuyển đổi số sử dụng ngân sách nhà nước theo hướng dẫn tại Công văn số [639/BTTTT-THH](https://thuvienphapluat.vn/cong-van/cong-nghe-thong-tin/cong-van-639-btttt-thh-2022-quan-ly-cong-nghe-thong-tin-su-dung-ngan-sach-nha-nuoc-505564.aspx \"Công văn 639/BTTTT-THH\") ngày 28/02/2022 của Bộ Thông tin và Truyền thông.\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan, đơn vị thực hiện: các sở, ban, ngành; UBND các huyện, thành phố; Đài Phát thanh và Truyền hình tỉnh, Báo Lạng Sơn.\n\n**3\\.** Phổ biến, quán triệt hai nguyên tắc bảo đảm an toàn, an ninh mạng (hệ thống chưa kết luận bảo đảm an toàn, an ninh mạng chưa đưa vào sử dụng; hệ thống thử nghiệm, có dữ liệu thật thì phải tuân thủ đầy đủ quy định như hệ thống chính thức).\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan thực hiện: các sở, ban, ngành và UBND các huyện, thành phố.\n\n**4\\.** Tiếp tục chỉ đạo thúc đẩy chuyển đổi số, phát triển kinh tế số nông nghiệp, nông thôn trên địa bàn tỉnh theo hướng dẫn tại Quyết định số 1034/QĐ- BTTTT ngày 21/7/2021 và Quyết định số [350/QĐ-BTTTT](https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-350-qd-btttt-2022-ho-tro-ho-san-xuat-nong-nghiep-len-san-thuong-mai-dien-tu-505946.aspx \"Quyết định 350/QĐ-BTTTT\") ngày 24/02/2022 của Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt kế hoạch hỗ trợ đưa hộ sản xuất nông nghiệp lên sàn thương mại điện tử, thúc đẩy phát triển kinh tế số nông nghiệp, nông thôn.\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì; Sở Công Thương, Sở Nông nghiệp và Phát triển nông thôn và UBND các huyện, thành phố và các đơn vị, doanh nghiệp liên quan phối hợp thực hiện.\n\n**5\\.** Tiếp tục duy trì thực hiện kết nối, chia sẻ dữ liệu giữa các cơ quan nhà nước thông qua Nền tảng tích hợp, chia sẻ dữ liệu quốc gia (NDXP); bảo đảm việc kết nối, chia sẻ dữ liệu được thực hiện thông suốt, tránh đầu tư chồng chéo, lãng phí, tuân thủ đúng quy định của Nghị định số [47/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-47-2020-nd-cp-quan-ly-ket-noi-va-chia-se-du-lieu-so-cua-co-quan-nha-nuoc-439384.aspx \"Nghị định 47/2020/NĐ-CP\") ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông và các đơn vị liên quan.\n\n**6\\.** Tiếp tục duy trì kết nối Cổng thông tin điện tử, Cổng Dịch vụ công trực tuyến và Hệ thống một cửa điện tử với Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ Chính phủ số để đánh giá, đo lường, công bố trực tuyến, mức độ, chất lượng cung cấp thông tin và dịch vụ công trực tuyến.\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông và các đơn vị liên quan.\n\n**7\\.** Các sở, ban, ngành và UBND các huyện, thành phố chỉ đạo Ban biên tập Cổng/Trang thông tin điện tử thường xuyên cập nhật, giới thiệu trên Cổng/Trang thông tin điện tử của cơ quan, đơn vị, địa phương mình các mô hình, cách làm hay, hiệu quả; các thiết kế điển hình, thông dụng về công nghệ thông tin, chuyển đổi số được Bộ Thông tin và Truyền thông giới thiệu, cập nhật tại địa chỉ: https://t63.mic.gov.vn/ để trao đổi, học hỏi, tham khảo, áp dụng.\n\n\\- Thời gian thực hiện: thường xuyên.\n\n\\- Cơ quan, đơn vị thực hiện: các sở, ban, ngành; UBND các huyện, thành phố.\n\n**8\\.** Triển khai Nền tảng điện toán đám mây (Lạng Sơn Cloud) để phục vụ công cuộc chuyển đổi số, xây dựng chính quyền số, phát triển kinh tế số, xã hội số của tỉnh.\n\n\\- Thời gian thực hiện: quý I năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các huyện, thành phố.\n\n**9\\.** Ban hành Kế hoạch thúc đẩy người dân, doanh nghiệp sử dụng dịch vụ công trực tuyến mức độ 3, 4 trong đó đặc biệt chú trọng tới việc rà soát, tham mưu cho cấp có thẩm quyền ban hành chính sách giảm lệ phí nếu thực hiện thủ tục hành chính theo hình thức trực tuyến; giao chỉ tiêu về tỷ lệ dịch vụ công trực tuyến phát sinh hồ sơ và tỷ lệ hồ sơ giải quyết trực tuyến đến từng sở, ban, ngành, UBND các huyện, thành phố trên địa bàn; huy động sự tham gia của các tổ chức chính trị - xã hội, doanh nghiệp và cộng đồng trong việc phổ biến, hướng dẫn sử dụng dịch vụ công trực tuyến.\n\n\\- Thời gian thực hiện: quý II năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp với Văn phòng UBND tỉnh, các sở, ban, ngành, UBND các huyện, thành phố.\n\n**10\\.** Ban hành Kế hoạch hỗ trợ, thúc đẩy chuyển đổi số, thanh toán không dùng tiền mặt trong các trường học, cơ sở giáo dục và bệnh viện, cơ sở y tế tại địa phương theo hướng dẫn tại Công văn số [781/BTTTT-QLDN](https://thuvienphapluat.vn/cong-van/tien-te-ngan-hang/cong-van-781-btttt-qldn-2022-thuc-day-chuyen-doi-so-thanh-toan-khong-dung-tien-mat-505680.aspx \"Công văn 781/BTTTT-QLDN\") ngày 04/3/2022 của Bộ Thông tin và Truyền thông, trong đó chú trọng các chỉ tiêu: số trường học, cơ sở giáo dục thực hiện chuyển đổi số, áp dụng thanh toán không dùng tiền mặt; tỷ lệ số tiền thanh toán không dùng tiền mặt trong các trường học, cơ sở giáo dục; số bệnh viện, cơ sở y tế thực hiện chuyển đổi số, áp dụng thanh toán không dùng tiền mặt; tỷ lệ số tiền thanh toán không dùng tiền mặt trong các bệnh viện, cơ sở y tế.\n\n\\- Thời gian thực hiện: quý II năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, Sở Giáo dục và Đào tạo, Sở Y tế, UBND các huyện, thành phố và các đơn vị liên quan.\n\n**11\\.** Tiếp tục kiện toàn Tổ công nghệ số cộng đồng (gồm trưởng thôn/bản, khối phố là Tổ trưởng, Bí thư Chi đoàn là Tổ phó, đoàn viên thanh niên là thành viên và cá nhân khác tham gia hoạt động cộng đồng, có kỹ năng sử dụng nền tảng số) để triển khai đưa các nền tảng số, công nghệ số, kỹ năng số đến người dân nhằm thúc đẩy chuyển đổi số, phát triển kinh tế số.\n\n\\- Thời gian thực hiện: quý II năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông, UBND các huyện, thành phố và các tổ chức chính trị - xã hội.\n\n**12\\.** Triển khai Kế hoạch số [57/KH-UBND](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/ke-hoach-57-kh-ubnd-2022-nang-cao-nhan-thuc-phat-trien-nhan-luc-chuyen-doi-so-lang-son-509403.aspx \"Văn bản khác 57/KH-UBND\") ngày 18/3/2022 của UBND tỉnh thực hiện Đề án “Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030”.\n\n\\- Thời gian thực hiện: từ quý II năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các huyện, thành phố.\n\n**13\\.** Ban hành Kế hoạch thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, phát triển chính phủ số, kinh tế số và xã hội số thuộc ngành, lĩnh vực và địa bàn theo hướng dẫn tại Quyết định số 186/QĐ- BTTTT ngày 11/02/2022 của Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Chương trình thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, phát triển kinh tế số và xã hội số.\n\n\\- Thời gian thực hiện: quý II năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các huyện, thành phố.\n\n**14\\.** Nâng cao năng lực, chất lượng dịch vụ và mở rộng kết nối, giám sát, kiểm soát truy cập tập trung Mạng truyền số liệu chuyên dùng ổn định, thông suốt, kết nối từ tỉnh đến cấp xã để phục vụ chính quyền số.\n\n\\- Thời gian thực hiện: quý III năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông và UBND các huyện, thành phố.\n\n**15\\.** Thực hiện đo lường, đánh giá, công bố xếp hạng mức độ phát triển chính quyền điện tử, chính quyền số, chuyển đổi số đối với các sở, ban, ngành và UBND các huyện, thành phố.\n\n\\- Thời gian thực hiện: quý IV năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp các sở, ban, ngành và UBND các huyện, thành phố.\n\n**16\\.** Duy trì, cập nhật Khung kiến trúc Chính quyền điện tử tỉnh (hiện nay đã cập nhật phiên bản 2.0)[\\[1\\]](#_ftn1) bảo đảm phù hợp với Khung kiến trúc Chính phủ điện tử Việt Nam.\n\n\\- Thời gian thực hiện: quý IV năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp các sở, ban, ngành và UBND các huyện, thành phố.\n\n**17\\.** Tổ chức triển khai đầy đủ bốn giải pháp bảo đảm an toàn thông tin mạng, cụ thể là phần mềm nội bộ do đơn vị chuyên nghiệp phát triển, tuân thủ phát triển theo quy trình Khung phát triển phần mềm an toàn (DevSecOps); hệ thống thông tin triển khai đầy đủ phương án bảo đảm an toàn thông tin mạng theo cấp độ; hệ thống thông tin được kiểm tra, đánh giá an toàn thông tin mạng trước khi đưa vào sử dụng, khi nâng cấp, thay đổi, định kỳ theo quy định; hệ thống thông tin được quản lý, vận hành theo mô hình 4 lớp theo Chỉ thị số [14/CT-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/chi-thi-14-ct-ttg-2019-bao-dam-an-toan-an-ninh-mang-cai-thien-chi-so-xep-hang-cua-viet-nam-416078.aspx \"Chỉ thị 14/CT-TTg\") ngày 07/6/2019 của Thủ tướng Chính phủ về việc tăng cường bảo đảm an toàn an ninh mạng nhằm cải thiện chỉ số xếp hạng của Việt Nam.\n\n\\- Thời gian thực hiện: quý IV năm 2022.\n\n\\- Cơ quan, đơn vị thực hiện: Sở Thông tin và Truyền thông chủ trì, phối hợp với các sở, ban, ngành và UBND các huyện, thành phố.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n**1\\. Sở Thông tin và Truyền thông**\n\n\\- Theo dõi, tổng hợp tình hình triển khai của các sở, ban, ngành và UBND các huyện, thành phố; chủ động nắm bắt những khó khăn, vướng mắc và phối hợp với các sở, ban, ngành, UBND các huyện, thành phố đề xuất phương án giải quyết, báo cáo UBND tỉnh xem xét, quyết định.\n\n\\- Định kỳ báo cáo kết quả thực hiện Kế hoạch theo quy định hoặc báo cáo đột xuất khi có yêu cầu.\n\n**2\\. Các sở, ban, ngành, UBND các huyện, thành phố**\n\nChủ động nghiên cứu, tổ chức thực hiện tốt các nhiệm vụ quan trọng thúc đẩy triển khai chuyển đổi số năm 2022 trên địa bàn tỉnh tại Kế hoạch này và thực hiện báo cáo định kỳ hàng quý về kết quả thực hiện nhiệm vụ tại Kế hoạch này (lồng ghép trong báo cáo kết quả thực hiện Kế hoạch số 226/KH- UBND ngày 18/11/2021 về thực hiện Nghị quyết số 49-NQ/TU ngày 28/9/2021 của Ban Thường vụ Tỉnh ủy về chuyển đổi số tỉnh Lạng Sơn đến năm 2025, định hướng đến năm 2030) về Sở Thông tin và Truyền thông để tổng hợp báo cáo Bộ Thông tin và Truyền thông, UBND tỉnh.\n\nUBND tỉnh yêu cầu các sở, ban, ngành, UBND các huyện, thành phố nghiêm túc triển khai thực hiện./.\n\n**_  \nNơi nhận:  \n_**\\- Bộ Thông tin và Truyền thông (B/C);  \n\\- Thường trực Tỉnh ủy (B/C);  \n\\- Thường trực HĐND tỉnh (B/C);  \n\\- Chủ tịch, các Phó Chủ tịch UBND tỉnh;  \n\\- Các sở, ban, ngành;  \n\\- UBND các huyện, thành phố;  \n\\- Các tổ chức chính trị - xã hội;  \n\\- Cổng thông tin điện tử tỉnh;  \n\\- C, PCVP UBND tỉnh; các phòng CV, ĐV;  \n\\- Lưu: VT, KGVX (HTHT).\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nDương Xuân Huyên**\n\n  \n\n* * *\n\n[\\[1\\]](#_ftnref1) Quyết định số 79/QĐ-UBND ngày 11/01/2022 của UBND tỉnh Lạng Sơn Phê duyệt cập nhật Kiến trúc Chính quyền điện tử tỉnh Lạng Sơn, phiên bản 2.0 (năm 2021);",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
