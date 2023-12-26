@@ -1,0 +1,514 @@
+{
+  "title": "Quyết định 735/QĐ-UBND năm 2017 Quy chế phối hợp trong quản lý, khai thác, sử dụng quỹ đất công đô thị trên địa bàn tỉnh Lào Cai",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 135/2016/NĐ-CP sửa đổi Nghị định quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước",
+      "id": "135/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-09-09",
+      "effectiveDate": "2016-11-15",
+      "gazetteDate": "2016-09-25",
+      "gazetteNumber": "Từ số 989 đến số 990",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 88/2016/TTLT/BTC-BTNMT Quy định về hồ sơ và trình tự, thủ tục tiếp nhận, luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai của người sử dụng đất do Bộ trưởng Bộ Tài chính - Bộ Tài nguyên và Môi trường ban hành",
+      "id": "88/2016/TTLT/BTC-BTNMT",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính, Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Hữu Chí",
+        "Nguyễn Thị Phương Hoa"
+      ],
+      "issuedDate": "2016-06-22",
+      "effectiveDate": "2016-08-08",
+      "gazetteDate": "2016-07-25",
+      "gazetteNumber": "Từ số 765 đến số 766",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 76/2014/TT-BTC hướng dẫn Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "76/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-06-16",
+      "effectiveDate": "2014-08-01",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Từ số 675 đến số 676",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 77/2014/TT-BTC hướng dẫn Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "77/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2014-06-16",
+      "effectiveDate": "2014-08-01",
+      "gazetteDate": "2014-07-15",
+      "gazetteNumber": "Từ số 675 đến số 676",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 30/2014/TT-BTNMT quy định về hồ sơ giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "30/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-06-02",
+      "effectiveDate": "2014-07-17",
+      "gazetteDate": "2014-07-27",
+      "gazetteNumber": "Từ số 713 đến số 714",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 23/2014/TT-BTNMT về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "23/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-05-19",
+      "effectiveDate": "2014-07-05",
+      "gazetteDate": "2014-07-04",
+      "gazetteNumber": "Từ số 643 đến số 644",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 24/2014/TT-BTNMT về hồ sơ địa chính do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "24/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2014-05-19",
+      "effectiveDate": "2014-07-05",
+      "gazetteDate": "2014-07-05",
+      "gazetteNumber": "Từ số 645 đến số 646",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 43/2014/NĐ-CP hướng dẫn thi hành Luật Đất đai",
+      "id": "43/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-04",
+      "gazetteNumber": "Từ số 561 đến số 562",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 44/2014/NĐ-CP quy định về giá đất",
+      "id": "44/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-05",
+      "gazetteNumber": "Từ số 563 đến số 564",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất",
+      "id": "45/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-23",
+      "gazetteNumber": "Từ số 611 đến số 612",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước",
+      "id": "46/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-24",
+      "gazetteNumber": "Từ số 617 đến số 618",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 47/2014/NĐ-CP về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất",
+      "id": "47/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-05",
+      "gazetteNumber": "Từ số 563 đến số 564",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 09/2012/TT-BTC sửa đổi Thông tư 245/2009/TT-BTC quy định thực hiện Nghị định 52/2009/NĐ-CP hướng dẫn Luật Quản lý, sử dụng tài sản nhà nước do Bộ Tài chính ban hành",
+      "id": "09/2012/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2012-01-19",
+      "effectiveDate": "2012-03-15",
+      "gazetteDate": "2012-02-16",
+      "gazetteNumber": "Từ số 161 đến số 162",
+      "status": "Hết hiệu lực: 01/01/2018"
+    },
+    {
+      "title": "Thông tư 245/2009/TT-BTC hướng dẫn Nghị định 52/2009/NĐ-CP về hướng dẫn Luật quản lý, sử dụng tài sản nhà nước do Bộ Tài chính ban hành",
+      "id": "245/2009/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Hữu Chí"
+      ],
+      "issuedDate": "2009-12-31",
+      "effectiveDate": "2010-02-14",
+      "gazetteDate": "2010-02-01",
+      "gazetteNumber": "Từ số 61 đến số 62",
+      "status": "Hết hiệu lực: 01/01/2018"
+    },
+    {
+      "title": "Nghị định 52/2009/NĐ-CP Hướng dẫn Luật quản lý, sử dụng tài sản nhà nước",
+      "id": "52/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-06-03",
+      "effectiveDate": "2009-07-20",
+      "gazetteDate": "2009-06-15",
+      "gazetteNumber": "Từ số 295 đến số 296",
+      "status": "Hết hiệu lực: 01/01/2018"
+    },
+    {
+      "title": "Luật quản lý, sử dụng tài sản nhà nước 2008",
+      "id": "09/2008/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2008-06-03",
+      "effectiveDate": "2009-01-01",
+      "gazetteDate": "2008-09-11",
+      "gazetteNumber": "Từ số 509 đến số 510",
+      "status": "Hết hiệu lực: 01/01/2018"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 95/KH-UBND triển khai rà soát và chuyển giao quản lý, khai thác, sử dụng quỹ đất công đô thị năm 2020 do tỉnh Lào Cai ban hành",
+      "id": "95/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Trịnh Xuân Trường"
+      ],
+      "issuedDate": "2020-03-20",
+      "effectiveDate": "2020-03-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 2976/QĐ-UBND năm 2018 về phê duyệt phương án quản lý và khai thác sử dụng quỹ đất công trên địa bàn tỉnh Đồng Nai",
+      "id": "2976/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Đồng Nai",
+      "signers": [
+        "Võ Văn Chánh"
+      ],
+      "issuedDate": "2018-08-24",
+      "effectiveDate": "2018-08-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 692/QĐ-UBND năm 2018 về phê duyệt Đề án tăng cường quản lý, sử dụng quỹ đất công trên địa bàn tỉnh Bình Dương đến năm 2020",
+      "id": "692/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Mai Hùng Dũng"
+      ],
+      "issuedDate": "2018-03-19",
+      "effectiveDate": "2018-03-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 25/QĐ-UBND năm 2018 phê duyệt danh mục dự án áp dụng cơ chế khai thác quỹ đất để tạo vốn trên địa bàn tỉnh Trà Vinh",
+      "id": "25/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Trà Vinh",
+      "signers": [
+        "Nguyễn Trung Hoàng"
+      ],
+      "issuedDate": "2018-01-08",
+      "effectiveDate": "2018-01-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 09/2017/QĐ-UBND Quy chế quản lý, khai thác và sử dụng quỹ đất công trên địa bàn tỉnh Trà Vinh",
+      "id": "09/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Trà Vinh",
+      "signers": [
+        "Trần Anh Dũng"
+      ],
+      "issuedDate": "2017-06-16",
+      "effectiveDate": "2017-06-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 02/07/2020"
+    },
+    {
+      "title": "Quyết định 03/2017/QĐ-UBND sửa đổi Điều lệ tổ chức, hoạt động và Quy chế quản lý, sử dụng Quỹ phát triển đất tỉnh Tây Ninh kèm theo Quyết định 28/2012/QĐ-UBND",
+      "id": "03/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Tây Ninh",
+      "signers": [
+        "***"
+      ],
+      "issuedDate": "2017-01-16",
+      "effectiveDate": "2017-01-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3404/QĐ-UBND năm 2016 về sử dụng chênh lệch thu, chi bổ sung nguồn vốn cho Quỹ Phát triển đất do tỉnh Hà Tĩnh ban hành",
+      "id": "3404/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Tĩnh",
+      "signers": [
+        "Đặng Quốc Khánh"
+      ],
+      "issuedDate": "2016-11-28",
+      "effectiveDate": "2016-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 37/2016/QĐ-UBND Quy định về quản lý và sử dụng quỹ đất do Nhà nước quản lý trên địa bàn tỉnh Bình Dương",
+      "id": "37/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Tỉnh Bình Dương",
+      "signers": [
+        "Trần Thanh Liêm"
+      ],
+      "issuedDate": "2016-09-30",
+      "effectiveDate": "2016-10-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 217/UB-QĐ năm 1994 quy định tạm thời về quản lý, sử dụng đất đô thị, ven đô thị, huyện lỵ, thị trấn, đầu mối giao thông, đường giao thông chính, khu thương mại, du lịch, khu công nghiệp trên địa bàn tỉnh Tuyên Quang",
+      "id": "217/UB-QĐ",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Trần Trung Nhật"
+      ],
+      "issuedDate": "1994-04-23",
+      "effectiveDate": "1994-04-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 09/01/2007"
+    }
+  ],
+  "id": "735/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Bất động sản"
+  ],
+  "organization": "Tỉnh Lào Cai",
+  "signers": [
+    "Đặng Xuân Phong"
+  ],
+  "issuedDate": "2017-03-08",
+  "effectiveDate": "2017-03-08",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA2ADAANQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>UỶ BAN NHÂN\n  DÂN <br>\n  TỈNH LÀO CAI<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số: 735/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Lào Cai, ngày\n  08 tháng 3 năm 2017</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY CHẾ PHỐI HỢP TRONG QUẢN LÝ, KHAI THÁC, SỬ DỤNG QUỸ\nĐẤT CÔNG ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH LÀO CAI</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH LÀO CAI</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương\nngày 19/6/2015; </i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Quản lý, sử dụng tài sản Nhà nước\nngày 03/6/2008; </i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Đất đai ngày 29/11/2013;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 52/2009/NĐ-CP ngày\n03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của\nLuật quản lý, sử dụng tài sản Nhà nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 43/2014/NĐ-CP ngày\n15/5/2014 của Chính phủ quy định chi tiết thi hành một số điều Luật Đất đai;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 44/2014/NĐ-CP ngày\n15/5/2014 của Chính phủ quy định về giá đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 45/2014/NĐ-CP ngày\n15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 46/2014/NĐ-CP ngày\n15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 47/2014/NĐ-CP ngày\n15/5/2014 của Chính phủ quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước\nthu hồi đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số 135/2016/NĐ-CP ngày\n09/9/2016 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về thu\ntiền sử dụng đất, thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 245/2009/TT-BTC ngày\n31/12/2009 của Bộ Tài chính quy định thực hiện một số nội dung của Nghị định số\n52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn thi\nhành một số điều của Luật Quản lý, sử dụng tài sản Nhà nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 09/2012/TT-BTC ngày\n19/01/2012 của Bộ Tài chính quy định sửa đổi, bổ sung Thông tư số\n245/2009/TT-BTC ngày 31/12/2009 quy định thực hiện một số nội dung của Nghị định\nsố 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn\nthi hành một số điều của Luật Quản lý, sử dụng tài sản Nhà nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 23/2014/TT-BTNMT ngày\n19/5/2014 của Bộ Tài nguyên và Môi trường quy định về Giấy chứng nhận quyền sử\ndụng đất, quyền sử hữu nhà ở và tài sản khác gắn liền với đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 24/2014/TT-BTNMT ngày\n19/5/2014 của Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 30/2014/TT-BTNMT ngày 02/6/2014\ncủa Bộ Tài nguyên và Môi trường quy định về hồ sơ giao đất, cho thuê đất, chuyển\nmục đích sử dụng đất, thu hồi đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 76/2014/TT-BTC ngày\n16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 45/2014/NĐ-CP\nngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 77/2014/TT-BTC ngày\n16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 46/2014/NĐ-CP\nngày 15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư liên tịch\n88/2016/TTLT-BTC-BTNMT ngày 22/6/2016 của Bộ Tài chính và Bộ Tài nguyên và Môi\ntrường quy định về hồ sơ và trình tự, thủ tục tiếp nhận, luân chuyển hồ sơ xác\nđịnh nghĩa vụ tài chính về đất đai của người sử dụng đất;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Theo đề nghị của Giám đốc Sở Tài chính tại Tờ\ntrình số 100/TTr-STC ngày 17 tháng 02 năm 2017.</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1.</b></a><b>\n</b><a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy chế phối hợp\ntrong quản lý, khai thác, sử dụng quỹ đất công đô thị trên địa bàn tỉnh Lào\nCai.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>Điều 2.</b></a><b>\n</b><a name=\"dieu_2_name\">Chánh Văn phòng UBND tỉnh; Giám đốc các Sở, ngành:\nTài nguyên và Môi trường, Tài chính, Xây dựng, Kế hoạch và Đầu tư, Cục Thuế tỉnh,\nTư pháp, Kho bạc Nhà nước tỉnh; Thủ trưởng các Sở, ban, ngành có liên quan; Chủ\ntịch UBND các huyện, thành phố; các cơ quan, đơn vị và các tổ chức, cá nhân có\nliên quan chịu trách nhiệm thi hành Quyết định này.</a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Quyết định này thay thế Quyết\nđịnh số 926/QĐ-UBND ngày 18/4/2013 của UBND tỉnh ban hành quy định tạm thời về\nquản lý, khai thác, sử dụng quỹ đất công đô thị trên địa bàn tỉnh Lào Cai và có\nhiệu lực kể từ ngày ký./.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA2ADAANQA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM. UỶ BAN\n  NHÂN DÂN TỈNH<br>\n  CHỦ TỊCH</b><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  <b>Đặng Xuân Phong</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"loai_2_name\">PHỐI HỢP TRONG QUẢN LÝ, KHAI THÁC, SỬ DỤNG QUỸ ĐẤT\nCÔNG ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH LÀO CAI</a> <br>\n<i>(Ban hành kèm theo Quyết định số: 735/QĐ-UBND ngày 08/3/2017 của Uỷ ban nhân\ndân tỉnh Lào Cai)</i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>Chương\nI</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>Điều\n1. Phạm vi điều chỉnh và đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Phạm vi điều chỉnh: Quy\nchế này quy định về trách nhiệm và sự phối hợp của các cơ quan, đơn vị trong\ncông tác quản lý, khai thác và sử dụng quỹ đất công đô thị trên địa bàn tỉnh\nLào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Đối tượng áp dụng: Các Sở,\nngành: Tài chính, Xây dựng, Tài nguyên và Môi trường, Sở Kế hoạch và Đầu tư, Cục\nthuế, UBND các huyện, thành phố (sau đây gọi là UBND cấp huyện), Trung tâm Tư vấn\nvà Dịch vụ tài chính, các tổ chức có chức năng bán đấu giá chuyên nghiệp, UBND\ncác xã, phường, thị trấn (sau đây gọi là UBND cấp xã), các nhà đầu tư; các cơ\nquan, đơn vị, tổ chức, cá nhân có liên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>Điều\n2. Quỹ đất công đô thị</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Là quỹ đất được xác định nằm\ntrên địa bàn các xã, phường thuộc thành phố Lào Cai; thị trấn, thị tứ (đang quy\nhoạch đô thị) ở các huyện; Quỹ đất giáp ranh với khu vực thị trấn, các xã giáp\nranh với khu vực cửa khẩu, lối mở, khu kinh tế, khu công nghiệp... có giá trị\ncao, có thể khai thác, sử dụng tại các huyện, thành phố trên địa bàn tỉnh Lào\nCai hình thành quỹ đất công đô thị, bao gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Quỹ đất mà nhà nước đã có\nQuyết định thu hồi, bồi thường giải phóng mặt bằng hoàn chỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Quỹ đất ở, đất tái định\ncư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Quỹ đất thương mại dịch vụ,\nđất công cộng có chức năng kinh doanh dịch vụ thương mại (kể cả các lô đất đã\nthông báo giới thiệu cho các tổ chức, cá nhân để lập dự án đầu tư nhưng quá hạn,\nchưa thực hiện) được tạo ra từ các dự án đô thị và các dự án có tạo ra quỹ đất\nnhưng chưa giao, chưa cho thuê.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">4. Quỹ đất dự phòng, chưa có\nchủ trương quy hoạch.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">5. Quỹ đất thu hồi từ các tổ\nchức, cá nhân do vi phạm pháp luật đất đai đã được giải phóng mặt bằng (nếu\ncó).</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">6. Quỹ đất chưa sử dụng có khả\nnăng khai thác, sử dụng được tạo ra từ các dự án san tạo mặt bằng, điểm đổ đất\nthừa từ các công trình...</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">7. Quỹ đất được thu hồi theo\nLuật Quản lý, sử dụng tài sản Nhà nước.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">8. Một số quỹ đất khác theo\nchỉ đạo của UBND tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>Điều 3.\nNội dung và nguyên tắc quản lý</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Các nội dung công việc về\nrà soát, chuyển giao, quản lý và khai thác sử dụng quỹ đất công đô thị:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Rà soát hiện trạng, lập hồ\nsơ địa chính để quản lý quỹ đất công đô thị trên địa bàn.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Bảo vệ, quản lý chặt chẽ\nhiện trạng quỹ đất theo quy hoạch.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Lập kế hoạch khai thác và\nsử dụng quỹ đất công đô thị phục vụ các mục tiêu phát triển kinh tế - xã hội.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) Tổ chức kiểm tra, phát hiện,\nngăn chặn và xử lý các trường hợp vi phạm trong quản lý, sử dụng quỹ đất công\nđô thị.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">đ) Chuyển giao quỹ đất công\nđô thị cho các nhà đầu tư, các tổ chức, cá nhân.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Nguyên tắc quản lý:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Tuân thủ quy định của Luật\nĐất đai, Luật Xây dựng, Luật Quản lý, sử dụng tài sản nhà nước và các quy định\npháp luật khác có liên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Quỹ đất công đô thị phải\nđược quản lý chặt chẽ, khai thác sử dụng có hiệu quả, phát huy được tiềm năng,\nlợi thế của các loại quỹ đất công đô thị, tăng thu cho ngân sách nhà nước, phục\nvụ cho nhiệm vụ phát triển kinh tế - xã hội trên địa bàn tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Thống nhất đầu mối quản\nlý, tránh chồng chéo giữa các cơ quan, đơn vị trong quá trình quản lý.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>Điều 4.\nĐơn vị được giao quản lý quỹ đất công đô thị</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Sở Tài chính (Trung tâm\nTư vấn và Dịch vụ tài chính) là đơn vị được giao quản lý (về số liệu và giá trị)\nquỹ đất công đô thị trên địa bàn tỉnh theo quy định của Luật Đất đai, Luật Quản\nlý, sử dụng tài sản Nhà nước, bao gồm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Toàn bộ quỹ đất công đô\nthị trên địa bàn thành phố Lào Cai và quỹ đất giáp ranh với khu vực cửa khẩu, lối\nmở trên địa bàn các huyện được quy định tại điều</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2 quy định này; Quỹ đất do\ncác nhà đầu tư thực hiện các dự án tạo quỹ đất chuyển giao về tỉnh theo dự án\nđược phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Quỹ đất được tạo ra từ\ncác dự án do các cơ quan cấp tỉnh làm chủ đầu tư sử dụng 100% nguồn vốn có nguồn\ngốc từ Ngân sách tỉnh và các nguồn vốn vay tín dụng khác.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Quỹ đất được tạo ra từ\ncác dự án do cấp huyện làm chủ đầu tư nhưng được đầu tư toàn bộ hoặc một phần từ\nngân sách tỉnh. Đối với các dự án được đầu tư bằng nguồn ngân sách tỉnh và ngân\nsách cấp huyện, việc xác định quỹ đất bàn giao cho Sở Tài chính và các huyện,\nthành phố quản lý căn cứ vào tỷ lệ nguồn vốn ngân sách tỉnh và vốn ngân sách\ncác huyện, thành phố bố trí cho dự án trong tổng mức đầu tư của dự án được duyệt\n(nội dụng này giao cho Sở Tài chính chủ trì, phối hợp với UBND các huyện, thành\nphố, các sở ngành liên quan tham mưu đề xuất đối với từng dự án báo cáo UBND tỉnh\nxem xét quyết định).</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. UBND các huyện, thành phố\nquản lý quỹ đất công đô thị được tạo ra từ các dự án được đầu tư toàn bộ từ\nngân sách huyện, thành phố.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Quỹ đất công đô thị bàn\ngiao cho Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) quản lý là toàn bộ\nquỹ đất do Sở Tài nguyên và Môi trường rà soát, tổng hợp và các chủ đầu tư dự\nán có tạo ra quỹ đất bàn giao, đã đầy đủ hồ sơ, được thể hiện rõ vị trí, ranh\ngiới, diện tích, hiện trạng sử dụng, tình trạng quản lý trên sơ đồ, bản đồ.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>Chương\nII</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">CÁC QUY ĐỊNH CỤ\nTHỂ</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>Điều 5.\nRà soát, lập và quản lý hồ sơ địa chính</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Công tác rà soát và lập hồ\nsơ địa chính:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Sở Tài nguyên Môi trường:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với Sở\nTài chính, Sở Xây dựng, các cơ quan, đơn vị liên quan và UBND cấp huyện rà\nsoát, tổng hợp toàn bộ quỹ đất công đô thị trên địa bàn.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với các\ncơ quan, đơn vị liên quan hoàn thiện về hồ sơ, thủ tục pháp lý của từng thửa đất\ntheo quy định, xác định rõ vị trí, ranh giới, diện tích, hiện trạng sử dụng đất,\nnguồn gốc lô đất để bàn giao cho Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài\nchính).</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Chỉ đạo việc thực hiện đo\nđạc địa chính, xác định ranh giới, diện tích các lô đất trong quỹ đất công đô\nthị.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Cập nhật dữ liệu quỹ đất\ncông đô thị đã rà soát lên bản đồ quỹ đất công đô thị của tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Sở Xây dựng:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Phối hợp với Sở Tài nguyên\nvà Môi trường rà soát toàn bộ quỹ đất công đô thị trên địa bàn.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Cung cấp cho Sở Tài nguyên\nvà Môi trường, Sở Tài chính các loại tài liệu liên quan của từng dự án có tạo\nra quỹ đất công đô thị (bao gồm bản vẽ quy hoạch chi tiết dạng số và giấy,\nthông báo cấp chứng chỉ quy hoạch, giới thiệu địa điểm đất để lập dự án và các\nloại hồ sơ, tài liệu khác có liên quan của từng dự án có tạo ra quỹ đất công đô\nthị); phối hợp với các cơ quan, đơn vị hoàn thiện hồ sơ địa chính từng thửa đất.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Sở Kế hoạch và Đầu tư:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Thực hiện rà soát tiến độ\ntriển khai thực hiện tất cả các dự án đầu tư xây dựng trên địa bàn tỉnh để phát\nhiện những dự án chậm tiến độ, các dự án không đưa đất vào sử dụng hoặc sử dụng\nđất không đúng mục đích, không hiệu quả, tổng hợp báo cáo UBND tỉnh xem xét quyết\nđịnh và gửi Sở Tài chính, Tài nguyên và Môi trường tổng hợp theo dõi.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Phối hợp với các ngành bàn\ngiao các dự án đã thu hồi Giấy chứng nhận đầu tư cho Sở Tài chính (Trung tâm Tư\nvấn và Dịch vụ tài chính) quản lý và tổng hợp vào quỹ đất công đô thị của tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Cung cấp cho Sở Tài chính,\nSở Tài nguyên và Môi trường về quyết định chủ trương đầu tư, chấp thuận đầu tư,\nquyết định phê duyệt dự án, giấy chứng nhận đầu tư và các loại tài liệu liên\nquan của từng dự án có tạo ra quỹ đất công đô thị.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) UBND cấp huyện:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Phối hợp với Sở Tài nguyên\nvà Môi trường, Sở Tài chính rà soát toàn bộ quỹ đất công đô thị trên địa bàn.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Chỉ đạo các phòng, ban\nchuyên môn, UBND cấp xã rà soát quỹ đất, cung cấp thông tin, tài liệu của từng\nthửa đất trên địa bàn, phối hợp với các cơ quan, đơn vị liên quan hoàn thiện hồ\nsơ địa chính từng thửa đất theo quy định, giải quyết những vướng mắc về hiện trạng\nsử dụng đất, ranh giới, nguồn gốc sử dụng đất khi có kế hoạch đưa vào khai\nthác.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Phối hợp với Sở Tài nguyên\nvà Môi trường bàn giao số liệu và hồ sơ quỹ đất công đô thị cho Sở Tài chính\n(Trung tâm Tư vấn và Dịch vụ Tài chính).</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">e) Sở Tài chính (Trung tâm\nTư vấn và Dịch vụ tài chính):</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Tiếp nhận toàn bộ số liệu\nvà hồ sơ, hiện trạng quỹ đất công đô thị do Sở Tài nguyên và Môi trường, các chủ\nđầu tư dự án có tạo ra quỹ đất bàn giao.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Chủ động và thường xuyên\nkiểm tra, rà soát các lô đất không sử dụng hoặc sử dụng không đúng mục đích,\nkhông hiệu quả, đề xuất với cấp có thẩm quyền xem xét thu hồi và đưa vào quỹ đất\ncông đô thị của tỉnh theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">- Quản lý, lưu trữ hồ sơ, mở\nsổ theo dõi và thực hiện công tác chỉnh lý số liệu quỹ đất khi có sự biến động,\nthay đổi.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">f) Các chủ đầu tư dự án:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Tổng hợp, báo cáo quỹ đất được\ntạo ra sau khi hoàn thành dự án gửi Sở Tài chính, Sở Tài nguyên và Môi trường tổng\nhợp báo cáo UBND tỉnh; tổ chức bàn giao quỹ đất công đô thị và hồ sơ liên quan\ncho Sở Tài chính quản lý theo chỉ đạo của UBND tỉnh (đối với quỹ đất phải bàn\ngiao cho tỉnh quản lý).</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Hồ sơ pháp lý và phương\nthức bàn giao hồ sơ quỹ đất công đô thị:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Hồ sơ pháp lý bàn giao gồm:\nBản đồ quy hoạch liên quan đến quỹ đất được cấp thẩm quyền phê duyệt (bản phô\ntô và bản mềm); bản sao các Quyết định phê duyệt quy hoạch, quyết định phê duyệt\ndự án đầu tư, các giấy tờ pháp lý liên quan đến thửa đất; sơ đồ, bản đồ hiện trạng\ntừng thửa.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Căn cứ vào kết quả rà\nsoát của các sở, ngành, UBND các huyện, thành phố; các dự án có tạo ra quỹ đất\nhoàn thành; các đơn vị sẽ tiến hành kiểm tra trên thực địa và bàn giao hồ sơ, số\nliệu quỹ đất trên cơ sở mốc giới đã được xác định theo quy hoạch và hiện trạng\nsử dụng, đồng thời bàn giao trên sơ đồ, bản đồ và thực địa.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Việc bàn giao hồ sơ và thực\nđịa các quỹ đất công đô thị được thực hiện khi có đủ các bên liên quan gồm: Sở\nTài chính, Sở Xây dựng, Sở Tài nguyên và Môi trường, Sở Kế hoạch và Đầu tư;\nUBND cấp huyện, UBND cấp xã, chủ đầu tư và các tổ chức, cá nhân liên quan, đồng\nthời phải được lập thành biên bản giao nhận, có ký xác nhận đầy đủ của các bên\nliên quan.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>Điều 6.\nCông tác bảo vệ quỹ đất theo quy hoạch</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Sở Tài chính (Trung tâm\nTư vấn và Dịch vụ tài chính):</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Thực hiện quản lý về số\nliệu và hồ sơ pháp lý toàn bộ quỹ đất công đô thị được bàn giao.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Phối hợp với UBND cấp huyện,\ncác cơ quan chuyên môn cấp huyện và UBND cấp xã thường xuyên kiểm tra thực địa,\nquản lý chặt chẽ quỹ đất công đô thị đã được bàn giao quản lý.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. UBND cấp huyện:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Chỉ đạo các phòng chuyên\nmôn, UBND cấp xã thực hiện công tác quản lý nhà nước và bảo vệ các quỹ đất công\nđô thị trong phạm vi địa giới hành chính, phát hiện, ngăn chặn, xử lý kịp thời\nviệc lấn, chiếm quỹ đất công đô thị.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. UBND cấp xã:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Trực tiếp thực hiện quản\nlý, bảo vệ, đảm bảo hiện trạng quỹ đất công đô thị trên địa bàn quản lý, tuyệt\nđối không để xảy ra tình trạng lấn, chiếm.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Chủ trì và phối hợp các\ncơ quan, đơn vị liên quan thực hiện việc kiểm tra thực địa, phát hiện và kịp thời\nxử lý những trường hợp vi phạm đến quỹ đất công đô thị trên địa bàn quản lý;\nbáo cáo kịp thời và đề xuất biện pháp xử lý đối với các trường hợp vượt thẩm\nquyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>Điều 7.\nKhai thác và sử dụng quỹ đất công đô thị</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Sở Tài chính (Trung tâm\nTư vấn và Dịch vụ tài chính):</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Chủ trì, phối hợp với các\ncơ quan, đơn vị liên quan tham mưu cho UBND tỉnh ban hành kế hoạch khai thác, sử\ndụng quỹ đất công đô thị hợp lý, hiệu quả. </p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Xây dựng phương án khai\nthác, sử dụng trình cấp có thẩm quyền phê duyệt và tổ chức triển khai thực hiện\ntheo phương án được phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Tham mưu cho UBND tỉnh về\nchủ trương đấu giá quyền sử dụng đất, quyền thuê đất, bố trí quỹ đất tái định\ncư cho các hộ di chuyển giải phóng mặt bằng vào quỹ đất công đô thị đang quản\nlý.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">d) Chỉ đạo việc lựa chọn và\nký hợp đồng với các tổ chức có chức năng đấu giá chuyên nghiệp để bán đấu giá\nquyền sử dụng đất, quyền thuê đất đối với quỹ đất công đô thị tỉnh theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">đ) Phối hợp với Tổ chức bán\nđấu giá chuyên nghiệp hoàn thiện hồ sơ về đấu giá quyền sử dụng đất, quyền thuê\nđất gửi Sở Tài nguyên và Môi trường, phòng Tài nguyên và Môi trường làm căn cứ\ncấp giấy chứng nhận quyền sử dụng đất đối với các trường hợp trúng đấu giá theo\nthẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Sở Xây dựng:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Chủ trì, phối hợp với các\nSở, ngành liên quan, UBND cấp huyện tham mưu với UBND tỉnh quyết định việc điều\nchỉnh quy hoạch, xác định các chỉ tiêu, thông số kỹ thuật theo quy hoạch được\nduyệt đảm bảo đúng quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Phối hợp với các cơ quan,\nđơn vị liên quan tham mưu, đề xuất việc khai thác, sử dụng quỹ đất đúng quy hoạch.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Quản lý cấp phép xây dựng\ntheo quy hoạch.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Sở Tài nguyên và Môi trường:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Chủ trì, phối hợp với các\ncơ quan, đơn vị liên quan xác định giá đất cụ thể trình Hội đồng thẩm định giá\nđất tỉnh thẩm định trước khi trình UBND tỉnh phê duyệt làm cơ sở cho việc đấu\ngiá quyền sử dụng đất, quyền thuê đất; trình UBND tỉnh cho phép chuyển mục đích\nsử dụng đất, điều chỉnh, bổ sung quy hoạch, kế hoạch sử dụng đất theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Tiếp nhận hồ sơ và chủ\ntrì, phối hợp với các đơn vị có liên quan hoàn thiện hồ sơ đề nghị cấp giấy chứng\nnhận quyền sử dụng đất đối với các thửa đất đã có quyết định phê duyệt kết quả\ntrúng đấu giá theo thẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Phối hợp với các cơ quan,\nđơn vị liên quan tham mưu, đề xuất việc khai thác, sử dụng quỹ đất.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">4. UBND cấp huyện:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Phối hợp với các cơ quan,\nđơn vị liên quan tham mưu, đề xuất việc khai thác, sử dụng quỹ đất.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Phối hợp với Sở Tài chính\n(Trung tâm Tư vấn và Dịch vụ tài chính) và các cơ quan có liên quan bàn giao đất\ncho các tổ chức, cá nhân trúng đấu giá quyền sử dụng đất hoặc trúng đấu giá\nthuê đất.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Chỉ đạo việc tiếp nhận,\ngiải quyết hồ sơ đề nghị cấp giấy chứng nhận quyền sử dụng đất đối với các thửa\nđất đã có quyết định phê duyệt kết quả trúng đấu giá theo thẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">5. Cục thuế:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Ban hành thông báo và đôn\nđốc các tổ chức, cá nhân trúng đấu giá quyền sử dụng đất, quyền thuê đất thực\nhiện nghĩa vụ tài chính, tiền chậm nộp (nếu có) vào ngân sách Nhà nước theo quy\nđịnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Thực hiện theo dõi thời\ngian ổn định đơn giá thuê đất, thời hạn nộp tiền thuê đất của các tổ chức, cá\nnhân được thuê đất theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">6. Các Tổ chức bán đấu giá:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Thực hiện theo chức năng,\nnhiệm vụ được quy định tại Quy chế đấu giá quyền sử dụng đất để giao đất có thu\ntiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Lào Cai theo quy định hiện\nhành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_8\"><b>Điều 8.\nNguyên tắc sử dụng đất tái định cư nằm trong quỹ đất công đô thị để bố trí tái\nđịnh cư cho các hộ di chuyển giải phóng mặt bằng</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">a) Nguyên tắc chung: Quỹ đất\ntái định cư nằm trong quỹ đất công đô thị chỉ bố trí tái định cư cho các dự án\nđầu tư từ nguồn vốn ngân sách nhà nước hoặc các dự án đầu tư với mục đích công\ncộng, xã hội (làm đường, trường học, bệnh viện, công trình văn hóa, thể\nthao...). Các dự án khác, chủ đầu tư phải tự đảm bảo quỹ đất tái định cư.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">b) Các dự án đầu tư từ nguồn\nvốn ngân sách nhà nước hoặc các dự án đầu tư với mục đích công cộng, xã hội có\ntạo ra quỹ đất nhưng không đủ đáp ứng nhu cầu tái định cư thì chủ đầu tư lập\ndanh mục, báo cáo UBND cấp huyện. UBND cấp huyện rà soát theo quy định, tổng hợp,\nđề xuất, báo cáo UBND tỉnh xem xét quyết định (qua Sở Tài chính).</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">c) Trước khi bố trí, sắp xếp\ntái định cư cho các công trình, dự án trên địa bàn thành phố Lào Cai, UBND\nthành phố Lào Cai gửi hồ sơ có liên quan về Sở Tài chính để chủ trì, phối hợp với\nSở Tài nguyên và Môi trường thẩm định về điều kiện, đối tượng bố trí tái định\ncư và thống nhất vị trí, số lượng thửa đất, giá các thửa đất bố trí tái định\ncư, báo cáo UBND tỉnh xem xét quyết định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_9\"><b>Điều 9.\nChuyển giao quỹ đất cho các nhà đầu tư, tổ chức, cá nhân trúng đấu giá</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Sở Tài chính (Trung tâm\nTư vấn &amp; Dịch vụ tài chính) có trách nhiệm: Phối hợp với Tổ chức bán đấu\ngiá chuyên nghiệp hoàn thiện hồ sơ đề nghị cấp giấy chứng nhận quyền sử dụng đất,\nquyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người trúng đấu giá và\nnộp tại Sở Tài nguyên và Môi trường đối với trường hợp thuộc thẩm quyền giải\nquyết của UBND tỉnh, tại Phòng Tài nguyên và Môi trường cấp huyện đối với trường\nhợp thuộc thẩm quyền giải quyết của UBND cấp huyện; phối hợp với các cơ quan\nliên quan bàn giao đất cho các tổ chức, cá nhân trúng đấu giá đối với quỹ đất\ndo Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) trực tiếp quản lý và\nkhai thác.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Sở Tài nguyên và Môi trường\ncó trách nhiệm:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Trình UBND tỉnh cấp Giấy chứng\nnhận quyền sử dụng đất cho người trúng đấu giá đối với trường hợp thuộc thẩm\nquyền giải quyết của UBND tỉnh; ký hợp đồng cho thuê đất đối với trường hợp\nthuê đất; chủ trì, phối hợp với Sở Tài chính và các cơ quan liên quan bàn giao\nđất tại thực địa và trao giấy chứng nhận cho người trúng đấu giá; chỉ đạo cập\nnhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. UBND cấp huyện:</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Cấp giấy chứng nhận cho người\ntrúng đấu giá đối với trường hợp thuộc thẩm quyền giải quyết của UBND cấp huyện;\nký hợp đồng cho thuê đất đối với trường hợp thuê đất; phối hợp với Sở Tài chính\nvà các cơ quan liên quan bàn giao đất tại thực địa và trao giấy chứng nhận cho\nngười trúng đấu giá (đối với quỹ đất công đô thị do Sở Tài chính quản lý); chỉ\nđạo cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định của\npháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">4. UBND cấp xã</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Phối hợp với Sở Tài chính\n(Trung tâm Tư vấn và Dịch vụ tài chính) và các cơ quan liên quan bàn giao đất tại\nthực địa cho người trúng đấu giá (đối với quỹ đất công đô thị do Sở Tài chính\nquản lý); thực hiện việc cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa\nchính theo quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"chuong_3\"><b>Chương\nIII</b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_10\"><b>Điều\n10. Xử lý vi phạm trong quản lý quỹ đất công đô thị</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Các trường hợp vi phạm\ntrong quản lý, khai thác quỹ đất công đô thị được xử lý theo quy định hiện\nhành.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Các Sở, ngành liên quan,\nUBND cấp huyện, cấp xã báo cáo những trường hợp vi phạm và kết quả xử lý vi phạm\nvề Sở Tài chính để tổng hợp báo cáo UBND tỉnh theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"dieu_11\"><b>Điều\n11. Chế độ báo cáo</b></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">1. Sở Tài nguyên Môi trường:\nHàng tháng (ngày 26 hàng tháng) chủ trì, phối hợp với Sở Tài chính tổng hợp báo\ncáo kết quả rà soát, chuyển giao quản lý và đề xuất giải quyết những vướng mắc\nliên quan đến quỹ đất công trên địa bàn toàn tỉnh.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">2. Sở Tài chính: Hàng tháng\n(ngày 26 hàng tháng) chủ trì, phối hợp với các đơn vị liên quan thực hiện tổng\nhợp báo cáo UBND tỉnh kết quả thu tiền sử dụng đất, tiền thuê đất; đồng thời đề\nxuất giải pháp thu tiền sử dụng đất, tiền thuê đất đảm bảo hoàn thành chỉ tiêu\nkế hoạch giao.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">3. Cục Thuế tỉnh: Hàng tháng\nbáo cáo kết quả thu tiền từ giao đất, cho thuê đất đối với các tổ chức, cá nhân\ntrên địa bàn tỉnh, đề xuất giải pháp thu tiền sử dụng đất, tiền thuê đất đảm bảo\nhoàn thành chỉ tiêu kế hoạch giao.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">4. Đối với UBND các huyện,\nthành phố: Hàng tháng (ngày 22 hàng tháng) tổng hợp báo cáo kết quả thực hiện\nvà đề xuất giải quyết những khó khăn, vướng mắc liên quan đến quỹ đất công đô\nthị trên địa bàn gửi Sở Tài nguyên và Môi trường, Sở Tài chính tổng hợp báo cáo\nUBND tỉnh theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\">Trong quá trình triển khai\nthực hiện Quy chế này, nếu có vướng mắc, phát sinh đề nghị các cơ quan, đơn vị\nkịp thời phản ánh về Sở Tài chính để tổng hợp, báo cáo UBND tỉnh xem xét sửa đổi,\nbổ sung cho phù hợp./.</p>\n\n</div>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH LÀO CAI  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 735/QĐ-UBND\n\n_Lào Cai, ngày 08 tháng 3 năm 2017_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ PHỐI HỢP TRONG QUẢN LÝ, KHAI THÁC, SỬ DỤNG QUỸ ĐẤT CÔNG ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH LÀO CAI\n\n**ỦY BAN NHÂN DÂN TỈNH LÀO CAI**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;_\n\n_Căn cứ Luật Quản lý, sử dụng tài sản Nhà nước ngày 03/6/2008;_\n\n_Căn cứ Luật Đất đai ngày 29/11/2013;_\n\n_Căn cứ Nghị định số 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật quản lý, sử dụng tài sản Nhà nước;_\n\n_Căn cứ Nghị định số 43/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định chi tiết thi hành một số điều Luật Đất đai;_\n\n_Căn cứ Nghị định số 44/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về giá đất;_\n\n_Căn cứ Nghị định số 45/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất;_\n\n_Căn cứ Nghị định số 46/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Nghị định số 47/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất;_\n\n_Căn cứ Nghị định số 135/2016/NĐ-CP ngày 09/9/2016 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư số 245/2009/TT-BTC ngày 31/12/2009 của Bộ Tài chính quy định thực hiện một số nội dung của Nghị định số 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản lý, sử dụng tài sản Nhà nước;_\n\n_Căn cứ Thông tư số 09/2012/TT-BTC ngày 19/01/2012 của Bộ Tài chính quy định sửa đổi, bổ sung Thông tư số 245/2009/TT-BTC ngày 31/12/2009 quy định thực hiện một số nội dung của Nghị định số 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản lý, sử dụng tài sản Nhà nước;_\n\n_Căn cứ Thông tư số 23/2014/TT-BTNMT ngày 19/5/2014 của Bộ Tài nguyên và Môi trường quy định về Giấy chứng nhận quyền sử dụng đất, quyền sử hữu nhà ở và tài sản khác gắn liền với đất;_\n\n_Căn cứ Thông tư số 24/2014/TT-BTNMT ngày 19/5/2014 của Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính;_\n\n_Căn cứ Thông tư số 30/2014/TT-BTNMT ngày 02/6/2014 của Bộ Tài nguyên và Môi trường quy định về hồ sơ giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất;_\n\n_Căn cứ Thông tư số 76/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 45/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền sử dụng đất;_\n\n_Căn cứ Thông tư số 77/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính hướng dẫn một số điều của Nghị định số 46/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư liên tịch 88/2016/TTLT-BTC-BTNMT ngày 22/6/2016 của Bộ Tài chính và Bộ Tài nguyên và Môi trường quy định về hồ sơ và trình tự, thủ tục tiếp nhận, luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai của người sử dụng đất;_\n\n_Theo đề nghị của Giám đốc Sở Tài chính tại Tờ trình số 100/TTr-STC ngày 17 tháng 02 năm 2017._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế phối hợp trong quản lý, khai thác, sử dụng quỹ đất công đô thị trên địa bàn tỉnh Lào Cai.\n\n**Điều 2.** Chánh Văn phòng UBND tỉnh; Giám đốc các Sở, ngành: Tài nguyên và Môi trường, Tài chính, Xây dựng, Kế hoạch và Đầu tư, Cục Thuế tỉnh, Tư pháp, Kho bạc Nhà nước tỉnh; Thủ trưởng các Sở, ban, ngành có liên quan; Chủ tịch UBND các huyện, thành phố; các cơ quan, đơn vị và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\n\nQuyết định này thay thế Quyết định số 926/QĐ-UBND ngày 18/4/2013 của UBND tỉnh ban hành quy định tạm thời về quản lý, khai thác, sử dụng quỹ đất công đô thị trên địa bàn tỉnh Lào Cai và có hiệu lực kể từ ngày ký./.\n\n**TM. UỶ BAN NHÂN DÂN TỈNH  \nCHỦ TỊCH**  \n  \n  \n  \n  \n**Đặng Xuân Phong**\n\n**QUY CHẾ**\n\nPHỐI HỢP TRONG QUẢN LÝ, KHAI THÁC, SỬ DỤNG QUỸ ĐẤT CÔNG ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH LÀO CAI  \n_(Ban hành kèm theo Quyết định số: 735/QĐ-UBND ngày 08/3/2017 của Uỷ ban nhân dân tỉnh Lào Cai)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Phạm vi điều chỉnh: Quy chế này quy định về trách nhiệm và sự phối hợp của các cơ quan, đơn vị trong công tác quản lý, khai thác và sử dụng quỹ đất công đô thị trên địa bàn tỉnh Lào Cai.\n\n2\\. Đối tượng áp dụng: Các Sở, ngành: Tài chính, Xây dựng, Tài nguyên và Môi trường, Sở Kế hoạch và Đầu tư, Cục thuế, UBND các huyện, thành phố (sau đây gọi là UBND cấp huyện), Trung tâm Tư vấn và Dịch vụ tài chính, các tổ chức có chức năng bán đấu giá chuyên nghiệp, UBND các xã, phường, thị trấn (sau đây gọi là UBND cấp xã), các nhà đầu tư; các cơ quan, đơn vị, tổ chức, cá nhân có liên quan.\n\n**Điều 2. Quỹ đất công đô thị**\n\nLà quỹ đất được xác định nằm trên địa bàn các xã, phường thuộc thành phố Lào Cai; thị trấn, thị tứ (đang quy hoạch đô thị) ở các huyện; Quỹ đất giáp ranh với khu vực thị trấn, các xã giáp ranh với khu vực cửa khẩu, lối mở, khu kinh tế, khu công nghiệp... có giá trị cao, có thể khai thác, sử dụng tại các huyện, thành phố trên địa bàn tỉnh Lào Cai hình thành quỹ đất công đô thị, bao gồm:\n\n1\\. Quỹ đất mà nhà nước đã có Quyết định thu hồi, bồi thường giải phóng mặt bằng hoàn chỉnh.\n\n2\\. Quỹ đất ở, đất tái định cư.\n\n3\\. Quỹ đất thương mại dịch vụ, đất công cộng có chức năng kinh doanh dịch vụ thương mại (kể cả các lô đất đã thông báo giới thiệu cho các tổ chức, cá nhân để lập dự án đầu tư nhưng quá hạn, chưa thực hiện) được tạo ra từ các dự án đô thị và các dự án có tạo ra quỹ đất nhưng chưa giao, chưa cho thuê.\n\n4\\. Quỹ đất dự phòng, chưa có chủ trương quy hoạch.\n\n5\\. Quỹ đất thu hồi từ các tổ chức, cá nhân do vi phạm pháp luật đất đai đã được giải phóng mặt bằng (nếu có).\n\n6\\. Quỹ đất chưa sử dụng có khả năng khai thác, sử dụng được tạo ra từ các dự án san tạo mặt bằng, điểm đổ đất thừa từ các công trình...\n\n7\\. Quỹ đất được thu hồi theo Luật Quản lý, sử dụng tài sản Nhà nước.\n\n8\\. Một số quỹ đất khác theo chỉ đạo của UBND tỉnh.\n\n**Điều 3. Nội dung và nguyên tắc quản lý**\n\n1\\. Các nội dung công việc về rà soát, chuyển giao, quản lý và khai thác sử dụng quỹ đất công đô thị:\n\na) Rà soát hiện trạng, lập hồ sơ địa chính để quản lý quỹ đất công đô thị trên địa bàn.\n\nb) Bảo vệ, quản lý chặt chẽ hiện trạng quỹ đất theo quy hoạch.\n\nc) Lập kế hoạch khai thác và sử dụng quỹ đất công đô thị phục vụ các mục tiêu phát triển kinh tế - xã hội.\n\nd) Tổ chức kiểm tra, phát hiện, ngăn chặn và xử lý các trường hợp vi phạm trong quản lý, sử dụng quỹ đất công đô thị.\n\nđ) Chuyển giao quỹ đất công đô thị cho các nhà đầu tư, các tổ chức, cá nhân.\n\n2\\. Nguyên tắc quản lý:\n\na) Tuân thủ quy định của Luật Đất đai, Luật Xây dựng, Luật Quản lý, sử dụng tài sản nhà nước và các quy định pháp luật khác có liên quan.\n\nb) Quỹ đất công đô thị phải được quản lý chặt chẽ, khai thác sử dụng có hiệu quả, phát huy được tiềm năng, lợi thế của các loại quỹ đất công đô thị, tăng thu cho ngân sách nhà nước, phục vụ cho nhiệm vụ phát triển kinh tế - xã hội trên địa bàn tỉnh.\n\nc) Thống nhất đầu mối quản lý, tránh chồng chéo giữa các cơ quan, đơn vị trong quá trình quản lý.\n\n**Điều 4. Đơn vị được giao quản lý quỹ đất công đô thị**\n\n1\\. Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) là đơn vị được giao quản lý (về số liệu và giá trị) quỹ đất công đô thị trên địa bàn tỉnh theo quy định của Luật Đất đai, Luật Quản lý, sử dụng tài sản Nhà nước, bao gồm:\n\na) Toàn bộ quỹ đất công đô thị trên địa bàn thành phố Lào Cai và quỹ đất giáp ranh với khu vực cửa khẩu, lối mở trên địa bàn các huyện được quy định tại điều\n\n2 quy định này; Quỹ đất do các nhà đầu tư thực hiện các dự án tạo quỹ đất chuyển giao về tỉnh theo dự án được phê duyệt.\n\nb) Quỹ đất được tạo ra từ các dự án do các cơ quan cấp tỉnh làm chủ đầu tư sử dụng 100% nguồn vốn có nguồn gốc từ Ngân sách tỉnh và các nguồn vốn vay tín dụng khác.\n\nc) Quỹ đất được tạo ra từ các dự án do cấp huyện làm chủ đầu tư nhưng được đầu tư toàn bộ hoặc một phần từ ngân sách tỉnh. Đối với các dự án được đầu tư bằng nguồn ngân sách tỉnh và ngân sách cấp huyện, việc xác định quỹ đất bàn giao cho Sở Tài chính và các huyện, thành phố quản lý căn cứ vào tỷ lệ nguồn vốn ngân sách tỉnh và vốn ngân sách các huyện, thành phố bố trí cho dự án trong tổng mức đầu tư của dự án được duyệt (nội dụng này giao cho Sở Tài chính chủ trì, phối hợp với UBND các huyện, thành phố, các sở ngành liên quan tham mưu đề xuất đối với từng dự án báo cáo UBND tỉnh xem xét quyết định).\n\n2\\. UBND các huyện, thành phố quản lý quỹ đất công đô thị được tạo ra từ các dự án được đầu tư toàn bộ từ ngân sách huyện, thành phố.\n\n3\\. Quỹ đất công đô thị bàn giao cho Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) quản lý là toàn bộ quỹ đất do Sở Tài nguyên và Môi trường rà soát, tổng hợp và các chủ đầu tư dự án có tạo ra quỹ đất bàn giao, đã đầy đủ hồ sơ, được thể hiện rõ vị trí, ranh giới, diện tích, hiện trạng sử dụng, tình trạng quản lý trên sơ đồ, bản đồ.\n\n**Chương II**\n\n**CÁC QUY ĐỊNH CỤ THỂ**\n\n**Điều 5. Rà soát, lập và quản lý hồ sơ địa chính**\n\n1\\. Công tác rà soát và lập hồ sơ địa chính:\n\na) Sở Tài nguyên Môi trường:\n\n\\- Chủ trì, phối hợp với Sở Tài chính, Sở Xây dựng, các cơ quan, đơn vị liên quan và UBND cấp huyện rà soát, tổng hợp toàn bộ quỹ đất công đô thị trên địa bàn.\n\n\\- Chủ trì, phối hợp với các cơ quan, đơn vị liên quan hoàn thiện về hồ sơ, thủ tục pháp lý của từng thửa đất theo quy định, xác định rõ vị trí, ranh giới, diện tích, hiện trạng sử dụng đất, nguồn gốc lô đất để bàn giao cho Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính).\n\n\\- Chỉ đạo việc thực hiện đo đạc địa chính, xác định ranh giới, diện tích các lô đất trong quỹ đất công đô thị.\n\n\\- Cập nhật dữ liệu quỹ đất công đô thị đã rà soát lên bản đồ quỹ đất công đô thị của tỉnh.\n\nb) Sở Xây dựng:\n\n\\- Phối hợp với Sở Tài nguyên và Môi trường rà soát toàn bộ quỹ đất công đô thị trên địa bàn.\n\n\\- Cung cấp cho Sở Tài nguyên và Môi trường, Sở Tài chính các loại tài liệu liên quan của từng dự án có tạo ra quỹ đất công đô thị (bao gồm bản vẽ quy hoạch chi tiết dạng số và giấy, thông báo cấp chứng chỉ quy hoạch, giới thiệu địa điểm đất để lập dự án và các loại hồ sơ, tài liệu khác có liên quan của từng dự án có tạo ra quỹ đất công đô thị); phối hợp với các cơ quan, đơn vị hoàn thiện hồ sơ địa chính từng thửa đất.\n\nc) Sở Kế hoạch và Đầu tư:\n\n\\- Thực hiện rà soát tiến độ triển khai thực hiện tất cả các dự án đầu tư xây dựng trên địa bàn tỉnh để phát hiện những dự án chậm tiến độ, các dự án không đưa đất vào sử dụng hoặc sử dụng đất không đúng mục đích, không hiệu quả, tổng hợp báo cáo UBND tỉnh xem xét quyết định và gửi Sở Tài chính, Tài nguyên và Môi trường tổng hợp theo dõi.\n\n\\- Phối hợp với các ngành bàn giao các dự án đã thu hồi Giấy chứng nhận đầu tư cho Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) quản lý và tổng hợp vào quỹ đất công đô thị của tỉnh.\n\n\\- Cung cấp cho Sở Tài chính, Sở Tài nguyên và Môi trường về quyết định chủ trương đầu tư, chấp thuận đầu tư, quyết định phê duyệt dự án, giấy chứng nhận đầu tư và các loại tài liệu liên quan của từng dự án có tạo ra quỹ đất công đô thị.\n\nd) UBND cấp huyện:\n\n\\- Phối hợp với Sở Tài nguyên và Môi trường, Sở Tài chính rà soát toàn bộ quỹ đất công đô thị trên địa bàn.\n\n\\- Chỉ đạo các phòng, ban chuyên môn, UBND cấp xã rà soát quỹ đất, cung cấp thông tin, tài liệu của từng thửa đất trên địa bàn, phối hợp với các cơ quan, đơn vị liên quan hoàn thiện hồ sơ địa chính từng thửa đất theo quy định, giải quyết những vướng mắc về hiện trạng sử dụng đất, ranh giới, nguồn gốc sử dụng đất khi có kế hoạch đưa vào khai thác.\n\n\\- Phối hợp với Sở Tài nguyên và Môi trường bàn giao số liệu và hồ sơ quỹ đất công đô thị cho Sở Tài chính (Trung tâm Tư vấn và Dịch vụ Tài chính).\n\ne) Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính):\n\n\\- Tiếp nhận toàn bộ số liệu và hồ sơ, hiện trạng quỹ đất công đô thị do Sở Tài nguyên và Môi trường, các chủ đầu tư dự án có tạo ra quỹ đất bàn giao.\n\n\\- Chủ động và thường xuyên kiểm tra, rà soát các lô đất không sử dụng hoặc sử dụng không đúng mục đích, không hiệu quả, đề xuất với cấp có thẩm quyền xem xét thu hồi và đưa vào quỹ đất công đô thị của tỉnh theo quy định.\n\n\\- Quản lý, lưu trữ hồ sơ, mở sổ theo dõi và thực hiện công tác chỉnh lý số liệu quỹ đất khi có sự biến động, thay đổi.\n\nf) Các chủ đầu tư dự án:\n\nTổng hợp, báo cáo quỹ đất được tạo ra sau khi hoàn thành dự án gửi Sở Tài chính, Sở Tài nguyên và Môi trường tổng hợp báo cáo UBND tỉnh; tổ chức bàn giao quỹ đất công đô thị và hồ sơ liên quan cho Sở Tài chính quản lý theo chỉ đạo của UBND tỉnh (đối với quỹ đất phải bàn giao cho tỉnh quản lý).\n\n2\\. Hồ sơ pháp lý và phương thức bàn giao hồ sơ quỹ đất công đô thị:\n\na) Hồ sơ pháp lý bàn giao gồm: Bản đồ quy hoạch liên quan đến quỹ đất được cấp thẩm quyền phê duyệt (bản phô tô và bản mềm); bản sao các Quyết định phê duyệt quy hoạch, quyết định phê duyệt dự án đầu tư, các giấy tờ pháp lý liên quan đến thửa đất; sơ đồ, bản đồ hiện trạng từng thửa.\n\nb) Căn cứ vào kết quả rà soát của các sở, ngành, UBND các huyện, thành phố; các dự án có tạo ra quỹ đất hoàn thành; các đơn vị sẽ tiến hành kiểm tra trên thực địa và bàn giao hồ sơ, số liệu quỹ đất trên cơ sở mốc giới đã được xác định theo quy hoạch và hiện trạng sử dụng, đồng thời bàn giao trên sơ đồ, bản đồ và thực địa.\n\nc) Việc bàn giao hồ sơ và thực địa các quỹ đất công đô thị được thực hiện khi có đủ các bên liên quan gồm: Sở Tài chính, Sở Xây dựng, Sở Tài nguyên và Môi trường, Sở Kế hoạch và Đầu tư; UBND cấp huyện, UBND cấp xã, chủ đầu tư và các tổ chức, cá nhân liên quan, đồng thời phải được lập thành biên bản giao nhận, có ký xác nhận đầy đủ của các bên liên quan.\n\n**Điều 6. Công tác bảo vệ quỹ đất theo quy hoạch**\n\n1\\. Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính):\n\na) Thực hiện quản lý về số liệu và hồ sơ pháp lý toàn bộ quỹ đất công đô thị được bàn giao.\n\nb) Phối hợp với UBND cấp huyện, các cơ quan chuyên môn cấp huyện và UBND cấp xã thường xuyên kiểm tra thực địa, quản lý chặt chẽ quỹ đất công đô thị đã được bàn giao quản lý.\n\n2\\. UBND cấp huyện:\n\nChỉ đạo các phòng chuyên môn, UBND cấp xã thực hiện công tác quản lý nhà nước và bảo vệ các quỹ đất công đô thị trong phạm vi địa giới hành chính, phát hiện, ngăn chặn, xử lý kịp thời việc lấn, chiếm quỹ đất công đô thị.\n\n3\\. UBND cấp xã:\n\na) Trực tiếp thực hiện quản lý, bảo vệ, đảm bảo hiện trạng quỹ đất công đô thị trên địa bàn quản lý, tuyệt đối không để xảy ra tình trạng lấn, chiếm.\n\nb) Chủ trì và phối hợp các cơ quan, đơn vị liên quan thực hiện việc kiểm tra thực địa, phát hiện và kịp thời xử lý những trường hợp vi phạm đến quỹ đất công đô thị trên địa bàn quản lý; báo cáo kịp thời và đề xuất biện pháp xử lý đối với các trường hợp vượt thẩm quyền.\n\n**Điều 7. Khai thác và sử dụng quỹ đất công đô thị**\n\n1\\. Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính):\n\na) Chủ trì, phối hợp với các cơ quan, đơn vị liên quan tham mưu cho UBND tỉnh ban hành kế hoạch khai thác, sử dụng quỹ đất công đô thị hợp lý, hiệu quả.\n\nb) Xây dựng phương án khai thác, sử dụng trình cấp có thẩm quyền phê duyệt và tổ chức triển khai thực hiện theo phương án được phê duyệt.\n\nc) Tham mưu cho UBND tỉnh về chủ trương đấu giá quyền sử dụng đất, quyền thuê đất, bố trí quỹ đất tái định cư cho các hộ di chuyển giải phóng mặt bằng vào quỹ đất công đô thị đang quản lý.\n\nd) Chỉ đạo việc lựa chọn và ký hợp đồng với các tổ chức có chức năng đấu giá chuyên nghiệp để bán đấu giá quyền sử dụng đất, quyền thuê đất đối với quỹ đất công đô thị tỉnh theo quy định.\n\nđ) Phối hợp với Tổ chức bán đấu giá chuyên nghiệp hoàn thiện hồ sơ về đấu giá quyền sử dụng đất, quyền thuê đất gửi Sở Tài nguyên và Môi trường, phòng Tài nguyên và Môi trường làm căn cứ cấp giấy chứng nhận quyền sử dụng đất đối với các trường hợp trúng đấu giá theo thẩm quyền.\n\n2\\. Sở Xây dựng:\n\na) Chủ trì, phối hợp với các Sở, ngành liên quan, UBND cấp huyện tham mưu với UBND tỉnh quyết định việc điều chỉnh quy hoạch, xác định các chỉ tiêu, thông số kỹ thuật theo quy hoạch được duyệt đảm bảo đúng quy định.\n\nb) Phối hợp với các cơ quan, đơn vị liên quan tham mưu, đề xuất việc khai thác, sử dụng quỹ đất đúng quy hoạch.\n\nc) Quản lý cấp phép xây dựng theo quy hoạch.\n\n3\\. Sở Tài nguyên và Môi trường:\n\na) Chủ trì, phối hợp với các cơ quan, đơn vị liên quan xác định giá đất cụ thể trình Hội đồng thẩm định giá đất tỉnh thẩm định trước khi trình UBND tỉnh phê duyệt làm cơ sở cho việc đấu giá quyền sử dụng đất, quyền thuê đất; trình UBND tỉnh cho phép chuyển mục đích sử dụng đất, điều chỉnh, bổ sung quy hoạch, kế hoạch sử dụng đất theo quy định.\n\nb) Tiếp nhận hồ sơ và chủ trì, phối hợp với các đơn vị có liên quan hoàn thiện hồ sơ đề nghị cấp giấy chứng nhận quyền sử dụng đất đối với các thửa đất đã có quyết định phê duyệt kết quả trúng đấu giá theo thẩm quyền.\n\nc) Phối hợp với các cơ quan, đơn vị liên quan tham mưu, đề xuất việc khai thác, sử dụng quỹ đất.\n\n4\\. UBND cấp huyện:\n\na) Phối hợp với các cơ quan, đơn vị liên quan tham mưu, đề xuất việc khai thác, sử dụng quỹ đất.\n\nb) Phối hợp với Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) và các cơ quan có liên quan bàn giao đất cho các tổ chức, cá nhân trúng đấu giá quyền sử dụng đất hoặc trúng đấu giá thuê đất.\n\nc) Chỉ đạo việc tiếp nhận, giải quyết hồ sơ đề nghị cấp giấy chứng nhận quyền sử dụng đất đối với các thửa đất đã có quyết định phê duyệt kết quả trúng đấu giá theo thẩm quyền.\n\n5\\. Cục thuế:\n\na) Ban hành thông báo và đôn đốc các tổ chức, cá nhân trúng đấu giá quyền sử dụng đất, quyền thuê đất thực hiện nghĩa vụ tài chính, tiền chậm nộp (nếu có) vào ngân sách Nhà nước theo quy định.\n\nb) Thực hiện theo dõi thời gian ổn định đơn giá thuê đất, thời hạn nộp tiền thuê đất của các tổ chức, cá nhân được thuê đất theo quy định.\n\n6\\. Các Tổ chức bán đấu giá:\n\nThực hiện theo chức năng, nhiệm vụ được quy định tại Quy chế đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Lào Cai theo quy định hiện hành.\n\n**Điều 8. Nguyên tắc sử dụng đất tái định cư nằm trong quỹ đất công đô thị để bố trí tái định cư cho các hộ di chuyển giải phóng mặt bằng**\n\na) Nguyên tắc chung: Quỹ đất tái định cư nằm trong quỹ đất công đô thị chỉ bố trí tái định cư cho các dự án đầu tư từ nguồn vốn ngân sách nhà nước hoặc các dự án đầu tư với mục đích công cộng, xã hội (làm đường, trường học, bệnh viện, công trình văn hóa, thể thao...). Các dự án khác, chủ đầu tư phải tự đảm bảo quỹ đất tái định cư.\n\nb) Các dự án đầu tư từ nguồn vốn ngân sách nhà nước hoặc các dự án đầu tư với mục đích công cộng, xã hội có tạo ra quỹ đất nhưng không đủ đáp ứng nhu cầu tái định cư thì chủ đầu tư lập danh mục, báo cáo UBND cấp huyện. UBND cấp huyện rà soát theo quy định, tổng hợp, đề xuất, báo cáo UBND tỉnh xem xét quyết định (qua Sở Tài chính).\n\nc) Trước khi bố trí, sắp xếp tái định cư cho các công trình, dự án trên địa bàn thành phố Lào Cai, UBND thành phố Lào Cai gửi hồ sơ có liên quan về Sở Tài chính để chủ trì, phối hợp với Sở Tài nguyên và Môi trường thẩm định về điều kiện, đối tượng bố trí tái định cư và thống nhất vị trí, số lượng thửa đất, giá các thửa đất bố trí tái định cư, báo cáo UBND tỉnh xem xét quyết định.\n\n**Điều 9. Chuyển giao quỹ đất cho các nhà đầu tư, tổ chức, cá nhân trúng đấu giá**\n\n1\\. Sở Tài chính (Trung tâm Tư vấn & Dịch vụ tài chính) có trách nhiệm: Phối hợp với Tổ chức bán đấu giá chuyên nghiệp hoàn thiện hồ sơ đề nghị cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người trúng đấu giá và nộp tại Sở Tài nguyên và Môi trường đối với trường hợp thuộc thẩm quyền giải quyết của UBND tỉnh, tại Phòng Tài nguyên và Môi trường cấp huyện đối với trường hợp thuộc thẩm quyền giải quyết của UBND cấp huyện; phối hợp với các cơ quan liên quan bàn giao đất cho các tổ chức, cá nhân trúng đấu giá đối với quỹ đất do Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) trực tiếp quản lý và khai thác.\n\n2\\. Sở Tài nguyên và Môi trường có trách nhiệm:\n\nTrình UBND tỉnh cấp Giấy chứng nhận quyền sử dụng đất cho người trúng đấu giá đối với trường hợp thuộc thẩm quyền giải quyết của UBND tỉnh; ký hợp đồng cho thuê đất đối với trường hợp thuê đất; chủ trì, phối hợp với Sở Tài chính và các cơ quan liên quan bàn giao đất tại thực địa và trao giấy chứng nhận cho người trúng đấu giá; chỉ đạo cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định của pháp luật.\n\n3\\. UBND cấp huyện:\n\nCấp giấy chứng nhận cho người trúng đấu giá đối với trường hợp thuộc thẩm quyền giải quyết của UBND cấp huyện; ký hợp đồng cho thuê đất đối với trường hợp thuê đất; phối hợp với Sở Tài chính và các cơ quan liên quan bàn giao đất tại thực địa và trao giấy chứng nhận cho người trúng đấu giá (đối với quỹ đất công đô thị do Sở Tài chính quản lý); chỉ đạo cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định của pháp luật.\n\n4\\. UBND cấp xã\n\nPhối hợp với Sở Tài chính (Trung tâm Tư vấn và Dịch vụ tài chính) và các cơ quan liên quan bàn giao đất tại thực địa cho người trúng đấu giá (đối với quỹ đất công đô thị do Sở Tài chính quản lý); thực hiện việc cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính theo quy định của pháp luật.\n\n**Chương III**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 10. Xử lý vi phạm trong quản lý quỹ đất công đô thị**\n\n1\\. Các trường hợp vi phạm trong quản lý, khai thác quỹ đất công đô thị được xử lý theo quy định hiện hành.\n\n2\\. Các Sở, ngành liên quan, UBND cấp huyện, cấp xã báo cáo những trường hợp vi phạm và kết quả xử lý vi phạm về Sở Tài chính để tổng hợp báo cáo UBND tỉnh theo quy định.\n\n**Điều 11. Chế độ báo cáo**\n\n1\\. Sở Tài nguyên Môi trường: Hàng tháng (ngày 26 hàng tháng) chủ trì, phối hợp với Sở Tài chính tổng hợp báo cáo kết quả rà soát, chuyển giao quản lý và đề xuất giải quyết những vướng mắc liên quan đến quỹ đất công trên địa bàn toàn tỉnh.\n\n2\\. Sở Tài chính: Hàng tháng (ngày 26 hàng tháng) chủ trì, phối hợp với các đơn vị liên quan thực hiện tổng hợp báo cáo UBND tỉnh kết quả thu tiền sử dụng đất, tiền thuê đất; đồng thời đề xuất giải pháp thu tiền sử dụng đất, tiền thuê đất đảm bảo hoàn thành chỉ tiêu kế hoạch giao.\n\n3\\. Cục Thuế tỉnh: Hàng tháng báo cáo kết quả thu tiền từ giao đất, cho thuê đất đối với các tổ chức, cá nhân trên địa bàn tỉnh, đề xuất giải pháp thu tiền sử dụng đất, tiền thuê đất đảm bảo hoàn thành chỉ tiêu kế hoạch giao.\n\n4\\. Đối với UBND các huyện, thành phố: Hàng tháng (ngày 22 hàng tháng) tổng hợp báo cáo kết quả thực hiện và đề xuất giải quyết những khó khăn, vướng mắc liên quan đến quỹ đất công đô thị trên địa bàn gửi Sở Tài nguyên và Môi trường, Sở Tài chính tổng hợp báo cáo UBND tỉnh theo quy định.\n\nTrong quá trình triển khai thực hiện Quy chế này, nếu có vướng mắc, phát sinh đề nghị các cơ quan, đơn vị kịp thời phản ánh về Sở Tài chính để tổng hợp, báo cáo UBND tỉnh xem xét sửa đổi, bổ sung cho phù hợp./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
