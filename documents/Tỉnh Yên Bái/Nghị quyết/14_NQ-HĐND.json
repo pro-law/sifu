@@ -1,28 +1,101 @@
 {
-  "title": "Nghị quyết 14/NQ-HĐND thống nhất sửa đổi hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái",
+  "title": "Nghị quyết 14/NQ-HĐND năm 2019 về chương trình phát triển nhà ở tỉnh Yên Bái đến năm 2020 và định hướng đến năm 2030",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
   "supersededDocuments": [],
-  "referredDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 33/2015/QĐ-TTg về chính sách hỗ trợ nhà ở đối với hộ nghèo theo chuẩn nghèo giai đoạn 2011 - 2015 (Chương trình hỗ trợ hộ nghèo về nhà ở theo Quyết định 167/2008/QĐ-TTg giai đoạn 2) do Thủ tướng Chính phủ ban hành",
+      "id": "33/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-08-10",
+      "effectiveDate": "2015-10-01",
+      "gazetteDate": "2015-08-24",
+      "gazetteNumber": "Từ số 943 đến số 944",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 22/2013/QĐ-TTg hỗ trợ người có công với cách mạng về nhà ở do Thủ tướng Chính phủ ban hành",
+      "id": "22/2013/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-04-26",
+      "effectiveDate": "2013-06-15",
+      "gazetteDate": "2013-05-11",
+      "gazetteNumber": "Từ số 255 đến số 256",
+      "status": "Hết hiệu lực: 21/12/2023"
+    }
+  ],
   "influentialDocuments": [
     {
-      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
-      "id": "47/2019/QH14",
-      "legislationType": "Luật",
+      "title": "Quyết định 322/QĐ-TTg năm 2018 về phê duyệt điều chỉnh Quy hoạch tổng thể phát triển kinh tế - xã hội tỉnh Yên Bái đến năm 2020, tầm nhìn đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "322/QĐ-TTg",
+      "legislationType": "Quyết định",
       "categories": [
-        "Bộ máy hành chính"
+        "Thương mại",
+        "Văn hóa - Xã hội"
       ],
-      "organization": "Quốc hội",
+      "organization": "Thủ tướng Chính phủ",
       "signers": [
-        "Nguyễn Thị Kim Ngân"
+        "Nguyễn Xuân Phúc"
       ],
-      "issuedDate": "2019-11-22",
-      "effectiveDate": "2020-07-01",
-      "gazetteDate": "2019-12-26",
-      "gazetteNumber": "Từ số 995 đến số 996",
+      "issuedDate": "2018-03-21",
+      "effectiveDate": "2018-03-21",
+      "gazetteDate": "2018-03-26",
+      "gazetteNumber": "Từ số 481 đến số 482",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 99/2015/NĐ-CP hướng dẫn Luật Nhà ở",
+      "id": "99/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-20",
+      "effectiveDate": "2015-12-10",
+      "gazetteDate": "2015-11-11",
+      "gazetteNumber": "Từ số 1113 đến số 1114",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 100/2015/NĐ-CP về phát triển và quản lý nhà ở xã hội",
+      "id": "100/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-20",
+      "effectiveDate": "2015-12-10",
+      "gazetteDate": "2015-11-22",
+      "gazetteNumber": "Từ số 1135 đến số 1136",
       "status": "Còn hiệu lực"
     },
     {
@@ -43,129 +116,37 @@
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Thông tư 36/2014/TT-BTNMT quy định chi tiết phương pháp định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
-      "id": "36/2014/TT-BTNMT",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Tài nguyên và Môi trường",
-      "signers": [
-        "Nguyễn Mạnh Hiển"
-      ],
-      "issuedDate": "2014-06-30",
-      "effectiveDate": "2014-08-13",
-      "gazetteDate": "2014-08-19",
-      "gazetteNumber": "Từ số 773 đến số 774",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Thông tư 76/2014/TT-BTC hướng dẫn Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất do Bộ trưởng Bộ Tài chính ban hành",
-      "id": "76/2014/TT-BTC",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Bộ Tài chính",
-      "signers": [
-        "Nguyễn Hữu Chí"
-      ],
-      "issuedDate": "2014-06-16",
-      "effectiveDate": "2014-08-01",
-      "gazetteDate": "2014-07-15",
-      "gazetteNumber": "Từ số 675 đến số 676",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Thông tư 77/2014/TT-BTC hướng dẫn Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước do Bộ trưởng Bộ Tài chính ban hành",
-      "id": "77/2014/TT-BTC",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Thuế - Phí - Lệ Phí",
-        "Bất động sản",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Bộ Tài chính",
-      "signers": [
-        "Nguyễn Hữu Chí"
-      ],
-      "issuedDate": "2014-06-16",
-      "effectiveDate": "2014-08-01",
-      "gazetteDate": "2014-07-15",
-      "gazetteNumber": "Từ số 675 đến số 676",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị định 44/2014/NĐ-CP quy định về giá đất",
-      "id": "44/2014/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2014-05-15",
-      "effectiveDate": "2014-07-01",
-      "gazetteDate": "2014-06-05",
-      "gazetteNumber": "Từ số 563 đến số 564",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất",
-      "id": "45/2014/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2014-05-15",
-      "effectiveDate": "2014-07-01",
-      "gazetteDate": "2014-06-23",
-      "gazetteNumber": "Từ số 611 đến số 612",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị định 46/2014/NĐ-CP về thu tiền thuê đất, thuê mặt nước",
-      "id": "46/2014/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước",
-        "Tài nguyên - Môi trường"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2014-05-15",
-      "effectiveDate": "2014-07-01",
-      "gazetteDate": "2014-06-24",
-      "gazetteNumber": "Từ số 617 đến số 618",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Luật đất đai 2013",
-      "id": "45/2013/QH13",
+      "title": "Luật Nhà ở 2014",
+      "id": "65/2014/QH13",
       "legislationType": "Luật",
       "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
+        "Bất động sản"
       ],
       "organization": "Quốc hội",
       "signers": [
         "Nguyễn Sinh Hùng"
       ],
-      "issuedDate": "2013-11-29",
-      "effectiveDate": "2014-07-01",
-      "gazetteDate": "2013-12-31",
-      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "issuedDate": "2014-11-25",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1169 đến số 1170",
+      "status": "Còn hiệu lực đến: 31/12/2024"
+    },
+    {
+      "title": "Quyết định 2127/QĐ-TTg năm 2011 phê duyệt Chiến lược phát triển nhà ở quốc gia đến năm 2020 và tầm nhìn đến năm 2030 do Thủ tướng Chính phủ ban hành",
+      "id": "2127/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2011-11-30",
+      "effectiveDate": "2011-11-30",
+      "gazetteDate": "2011-12-14",
+      "gazetteNumber": "Từ số 621 đến số 622",
       "status": "Còn hiệu lực"
     }
   ],
@@ -176,55 +157,52 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Quyết định 14/2022/QĐ-UBND quy định về bổ sung hệ số điều chỉnh giá đất trên địa bàn tỉnh Quảng Ninh năm 2022",
-      "id": "14/2022/QĐ-UBND",
-      "legislationType": "Quyết định",
+      "title": "Nghị quyết 08/2019/NQ-HĐND thông qua Chương trình phát triển nhà ở tỉnh Đắk Nông đến năm 2030",
+      "id": "08/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
       "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
+        "Bất động sản"
       ],
-      "organization": "Tỉnh Quảng Ninh",
+      "organization": "Tỉnh Đắk Nông",
       "signers": [
-        "Phạm Văn Thành"
+        "Lê Diễn"
       ],
-      "issuedDate": "2022-04-19",
-      "effectiveDate": "2022-04-30",
+      "issuedDate": "2019-07-19",
+      "effectiveDate": "2019-07-29",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Quyết định 71/2021/QĐ-UBND sửa đổi, bổ sung Điều 1 Quyết định 02/2021/QĐ-UBND quy định hệ số điều chỉnh giá đất năm 2021 trên địa bàn tỉnh Hòa Bình",
-      "id": "71/2021/QĐ-UBND",
-      "legislationType": "Quyết định",
+      "title": "Nghị quyết 12/2019/NQ-HĐND sửa đổi Nghị quyết 09/2012/NQ-HĐND về Chương trình phát triển nhà ở tỉnh Kon Tum giai đoạn 2012-2020 và định hướng đến năm 2030",
+      "id": "12/2019/NQ-HĐND",
+      "legislationType": "Nghị quyết",
       "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
+        "Bất động sản"
       ],
-      "organization": "Tỉnh Hòa Bình",
+      "organization": "Tỉnh Kon Tum",
       "signers": [
-        "Bùi Văn Khánh"
+        "Nguyễn Văn Hùng"
       ],
-      "issuedDate": "2021-11-09",
-      "effectiveDate": "2021-11-20",
+      "issuedDate": "2019-07-18",
+      "effectiveDate": "2019-07-28",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
+      "status": "Hết hiệu lực: 22/12/2022"
     },
     {
-      "title": "Quyết định 11/2021/QĐ-UBND sửa đổi, bổ sung nội dung tại Điều 3 Quyết định 24/2020/QĐ-UBND quy định hệ số điều chỉnh giá đất năm 2021 trên địa bàn tỉnh Khánh Hòa",
-      "id": "11/2021/QĐ-UBND",
+      "title": "Quyết định 478/QĐ-UBND năm 2019 về phê duyệt Chương trình phát triển nhà ở tỉnh Hà Tĩnh đến năm 2030",
+      "id": "478/QĐ-UBND",
       "legislationType": "Quyết định",
       "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
+        "Bất động sản"
       ],
-      "organization": "Tỉnh Khánh Hòa",
+      "organization": "Tỉnh Hà Tĩnh",
       "signers": [
-        "Lê Hữu Hoàng"
+        "Đặng Quốc Khánh"
       ],
-      "issuedDate": "2021-09-14",
-      "effectiveDate": "2021-09-27",
+      "issuedDate": "2019-02-13",
+      "effectiveDate": "2019-02-13",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -233,20 +211,19 @@
   "id": "14/NQ-HĐND",
   "legislationType": "Nghị quyết",
   "categories": [
-    "Bất động sản",
-    "Tài chính nhà nước"
+    "Bất động sản"
   ],
   "organization": "Tỉnh Yên Bái",
   "signers": [
-    "Tạ Văn Long"
+    "Phạm Thị Thanh Trà"
   ],
-  "issuedDate": "2023-04-12",
-  "effectiveDate": "2023-04-12",
+  "issuedDate": "2019-06-21",
+  "effectiveDate": "2019-06-21",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA3ADIAMAA=-->\n <tbody><tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>HỘI ĐỒNG NHÂN\n  DÂN<br>\n  TỈNH YÊN BÁI<br>\n  -------</b></p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 14/NQ-HĐND</p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Yên Bái, ngày 12\n  tháng 4 năm 2023</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">NGHỊ QUYẾT</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">THỐNG NHẤT SỬA ĐỔI,\nBỔ SUNG HỆ SỐ ĐIỀU CHỈNH GIÁ ĐẤT NĂM 2023 TRÊN ĐỊA BÀN TỈNH YÊN BÁI</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">HỘI ĐỒNG NHÂN DÂN TỈNH YÊN BÁI<br>\nKHÓA XIX - KỲ HỌP THỨ 11</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương ngày\n19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính\nphủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 44/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-44-2014-nd-cp-quy-dinh-ve-gia-dat-230632.aspx\">44/2014/NĐ-CP</a>  ngày 15 tháng\n5 năm 2014 của Chính phủ quy định về giá đất;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx\">45/2014/NĐ-CP</a>  ngày 15 tháng\n5 năm 2014 của Chính phủ quy định về thu tiền sử dụng đất;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 46/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx\">46/2014/NĐ-CP</a>  ngày 15 tháng\n5 năm 2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 76/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-76-2014-tt-btc-huong-dan-45-2014-nd-c-thu-tien-su-dung-dat-237815.aspx\">76/2014/TT-BTC</a>  ngày 16 tháng\n6 năm 2014 của Bộ trưởng Bộ Tài chính hướng dẫn một số Điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx\">45/2014/NĐ-CP</a> \nngày 15 tháng 5 năm 2014 của Chính phủ quy định về thu tiền sử dụng đất;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 77/2014/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-77-2014-tt-btc-huong-dan-46-2014-nd-cp-tien-thue-dat-thue-mat-nuoc-237817.aspx\">77/2014/TT-BTC</a>  ngày 16 tháng\n6 năm 2014 của Bộ trưởng Bộ Tài chính hướng dẫn một số Điều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 46/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx\">46/2014/NĐ-CP</a> \nngày 15 tháng 5 năm 2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt\nnước;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 36/2014/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-36-2014-tt-btnmt-phuong-phap-dinh-gia-dat-xay-dung-dieu-chinh-bang-gia-dat-242349.aspx\">36/2014/TT-BTNMT</a>  ngày 30\ntháng 6 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết\nphương pháp định giá đất; định giá đất cụ thể và tư vấn xác định giá đất;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Xét Tờ trình số 21/TTr-UBND ngày 08 tháng 4 năm\n2023 của Ủy ban nhân dân tỉnh Yên Bái về việc xin ý kiến về việc sửa đổi, bổ\nsung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái; Báo cáo thẩm\ntra số 40/BC-KTNS ngày 11 tháng 4 năm 2023 của Ban Kinh tế - Ngân sách; ý kiến\nthảo luận của đại biểu Hội đồng nhân dân tỉnh tại kỳ họp.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT NGHỊ:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b>Điều 1.</b> Thống nhất với nội dung sửa đổi, bổ\nsung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái theo nội dung\nTờ trình số 21/TTr-UBND ngày 08 tháng 04 năm 2023 của Ủy ban nhân dân tỉnh Yên\nBái xin ý kiến về việc sửa đổi, bổ sung hệ số điều chỉnh giá đất năm 2023 trên\nđịa bàn tỉnh Yên Bái</p>\n\n<p style=\"margin-top:6.0pt\"><b>Điều 2.</b> Tổ chức thực hiện</p>\n\n<p style=\"margin-top:6.0pt\">1. Giao Ủy ban nhân dân tỉnh ban hành quyết định\nsửa đổi, bổ sung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái\ntheo thẩm quyền và tổ chức triển khai thực hiện theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">2. Giao Thường trực Hội đồng nhân dân tỉnh, các ban\ncủa Hội đồng nhân dân tỉnh, các tổ đại biểu và đại biểu Hội đồng nhân dân tỉnh\ngiám sát việc thực hiện Nghị quyết này.</p>\n\n<p style=\"margin-top:6.0pt\">Nghị quyết này đã được Hội đồng nhân dân tỉnh Yên\nBái khóa XIX - Kỳ họp thứ 11 thông qua ngày 12 tháng 4 năm 2023./.</p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMAA3ADIAMAA=-->\n <tbody><tr>\n  <td width=\"50%\" valign=\"top\" style=\"width:50.0%;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Ủy ban Thường vụ Quốc hội;<br>\n  - Chính phủ;<br>\n  - Bộ Tài chính;<br>\n  - Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - Ủy ban nhân dân tỉnh;<br>\n  - Ủy ban MTTQ Việt Nam tỉnh;<br>\n  - Đoàn đại biểu Quốc hội tỉnh;<br>\n  - Các cơ quan, ban, ngành, đoàn thể cấp tỉnh;<br>\n  - Các ban của HĐND tỉnh;<br>\n  - Các đại biểu HĐND tỉnh;<br>\n  - TT. HĐND các huyện, thị xã, thành phố;<br>\n  - UBND các huyện, thị xã, thành phố;<br>\n  - Văn phòng Tỉnh ủy;<br>\n  - Văn phòng Đoàn ĐBQH và HĐND tỉnh;<br>\n  - Văn phòng UBND tỉnh;<br>\n  - Lưu: VT.</span></p>\n  </td>\n  <td width=\"50%\" valign=\"top\" style=\"width:50.0%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Tạ Văn Long</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n</div>\n\n",
-  "mdContent": "**HỘI ĐỒNG NHÂN DÂN  \nTỈNH YÊN BÁI  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 14/NQ-HĐND\n\n_Yên Bái, ngày 12 tháng 4 năm 2023_\n\n**NGHỊ QUYẾT**\n\nTHỐNG NHẤT SỬA ĐỔI, BỔ SUNG HỆ SỐ ĐIỀU CHỈNH GIÁ ĐẤT NĂM 2023 TRÊN ĐỊA BÀN TỈNH YÊN BÁI\n\n**HỘI ĐỒNG NHÂN DÂN TỈNH YÊN BÁI  \nKHÓA XIX - KỲ HỌP THỨ 11**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;_\n\n_Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;_\n\n_Căn cứ Nghị định số [44/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-44-2014-nd-cp-quy-dinh-ve-gia-dat-230632.aspx \"Nghị định 44/2014/NĐ-CP\") ngày 15 tháng 5 năm 2014 của Chính phủ quy định về giá đất;_\n\n_Căn cứ Nghị định số [45/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx \"Nghị định 45/2014/NĐ-CP\") ngày 15 tháng 5 năm 2014 của Chính phủ quy định về thu tiền sử dụng đất;_\n\n_Căn cứ Nghị định số [46/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx \"Nghị định 46/2014/NĐ-CP\") ngày 15 tháng 5 năm 2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư số [76/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-76-2014-tt-btc-huong-dan-45-2014-nd-c-thu-tien-su-dung-dat-237815.aspx \"Thông tư 76/2014/TT-BTC\") ngày 16 tháng 6 năm 2014 của Bộ trưởng Bộ Tài chính hướng dẫn một số Điều của Nghị định số [45/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx \"Nghị định 45/2014/NĐ-CP\") ngày 15 tháng 5 năm 2014 của Chính phủ quy định về thu tiền sử dụng đất;_\n\n_Căn cứ Thông tư số [77/2014/TT-BTC](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/thong-tu-77-2014-tt-btc-huong-dan-46-2014-nd-cp-tien-thue-dat-thue-mat-nuoc-237817.aspx \"Thông tư 77/2014/TT-BTC\") ngày 16 tháng 6 năm 2014 của Bộ trưởng Bộ Tài chính hướng dẫn một số Điều của Nghị định số [46/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-46-2014-nd-cp-thu-tien-thue-dat-thue-mat-nuoc-234575.aspx \"Nghị định 46/2014/NĐ-CP\") ngày 15 tháng 5 năm 2014 của Chính phủ quy định về thu tiền thuê đất, thuê mặt nước;_\n\n_Căn cứ Thông tư số [36/2014/TT-BTNMT](https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-36-2014-tt-btnmt-phuong-phap-dinh-gia-dat-xay-dung-dieu-chinh-bang-gia-dat-242349.aspx \"Thông tư 36/2014/TT-BTNMT\") ngày 30 tháng 6 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết phương pháp định giá đất; định giá đất cụ thể và tư vấn xác định giá đất;_\n\n_Xét Tờ trình số 21/TTr-UBND ngày 08 tháng 4 năm 2023 của Ủy ban nhân dân tỉnh Yên Bái về việc xin ý kiến về việc sửa đổi, bổ sung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái; Báo cáo thẩm tra số 40/BC-KTNS ngày 11 tháng 4 năm 2023 của Ban Kinh tế - Ngân sách; ý kiến thảo luận của đại biểu Hội đồng nhân dân tỉnh tại kỳ họp._\n\n**QUYẾT NGHỊ:**\n\n**Điều 1.** Thống nhất với nội dung sửa đổi, bổ sung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái theo nội dung Tờ trình số 21/TTr-UBND ngày 08 tháng 04 năm 2023 của Ủy ban nhân dân tỉnh Yên Bái xin ý kiến về việc sửa đổi, bổ sung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái\n\n**Điều 2.** Tổ chức thực hiện\n\n1\\. Giao Ủy ban nhân dân tỉnh ban hành quyết định sửa đổi, bổ sung hệ số điều chỉnh giá đất năm 2023 trên địa bàn tỉnh Yên Bái theo thẩm quyền và tổ chức triển khai thực hiện theo quy định của pháp luật.\n\n2\\. Giao Thường trực Hội đồng nhân dân tỉnh, các ban của Hội đồng nhân dân tỉnh, các tổ đại biểu và đại biểu Hội đồng nhân dân tỉnh giám sát việc thực hiện Nghị quyết này.\n\nNghị quyết này đã được Hội đồng nhân dân tỉnh Yên Bái khóa XIX - Kỳ họp thứ 11 thông qua ngày 12 tháng 4 năm 2023./.\n\n**_  \nNơi nhận:  \n_**\\- Ủy ban Thường vụ Quốc hội;  \n\\- Chính phủ;  \n\\- Bộ Tài chính;  \n\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- Ủy ban nhân dân tỉnh;  \n\\- Ủy ban MTTQ Việt Nam tỉnh;  \n\\- Đoàn đại biểu Quốc hội tỉnh;  \n\\- Các cơ quan, ban, ngành, đoàn thể cấp tỉnh;  \n\\- Các ban của HĐND tỉnh;  \n\\- Các đại biểu HĐND tỉnh;  \n\\- TT. HĐND các huyện, thị xã, thành phố;  \n\\- UBND các huyện, thị xã, thành phố;  \n\\- Văn phòng Tỉnh ủy;  \n\\- Văn phòng Đoàn ĐBQH và HĐND tỉnh;  \n\\- Văn phòng UBND tỉnh;  \n\\- Lưu: VT.\n\n**CHỦ TỊCH  \n  \n  \n  \n  \nTạ Văn Long**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA5ADAANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">HỘI\n  Đ</span>Ồ</b><b><span lang=\"VI\">NG NHÂN DÂN</span><br>\n  </b><b><span lang=\"VI\">TỈNH YÊN BÁI</span><br>\n  ----------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>14<span lang=\"VI\">/NQ-HĐND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Yên</span>\n  B</i><i><span lang=\"VI\">ái, ngày </span>21 </i><i><span lang=\"VI\">tháng 6 năm\n  2019</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">NGHỊ QUYẾT</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">VỀ CHƯƠNG TRÌNH PHÁT TRIỂN NHÀ Ở TỈNH YÊN BÁI ĐẾN NĂM 2020 VÀ ĐỊNH HƯỚNG\nĐẾN NĂM 2030</span></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">HỘI ĐỒNG NHÂN DÂN TỈNH YÊN BÁI<br>\nKHÓA XVIII, KỲ HỌP THỨ 13</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật tổ chức chính quyền địa\nphương ngày 19 tháng 6 năm 2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật nhà ở ngày 25 tháng 11\nnăm 2014;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 99/2015/NĐ-CP\nngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành\nLuật nhà </span>ở</i><i><span lang=\"VI\">;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 100/2015/NĐ-CP\nngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết về phát triển và quản\nlý nhà ở xã hội;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định số 2127/QĐ-TTg\nngày 30 tháng 11 năm 2011 của Thủ tướng Chính phủ về việc phê duyệt Chiến lược\nphát triển nhà ở Quốc gia đến năm 2020, t</span>ầ</i><i><span lang=\"VI\">m nhìn đến\nnăm 2030;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Quyết định 322/QĐ-TTg ngày\n21 tháng 3 năm 2018 của Thủ tướng Chính phủ về việc phê duyệt điều chỉnh quy hoạch\ntổng thể phát triển kinh tế - xã hội tỉnh Yên Bái đến năm 2020, tầm nhìn đến\nnăm 2030;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Xét Tờ trình s</span>ố</i><i><span lang=\"VI\"> 70/TTr-UBND ngày 29 tháng 5 năm 2019 c</span>ủ</i><i><span lang=\"VI\">a\nUBND tỉnh về việc thông qua Chương trình phát triển nhà ở tỉnh Yên Bái đến năm\n2020 và định hướng đến n</span>ă</i><i><span lang=\"VI\">m 2030; Báo cáo thẩm tra của\nBan Kinh tế - Ngân sách và ý kiến thảo luận của các đại biểu Hội đồng nhân dân\ntại kỳ họp.</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT NGHỊ:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">Điều 1.</span></b></a><b><span lang=\"VI\"> </span></b><a name=\"dieu_1_name\"><span lang=\"VI\">Thông qua Chương trình\nphát triển nhà ở tỉnh Yên Bái đến năm 2020 và định hướng đến năm 2030, với những\nnội dung chính như sau:</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">1. Quan điểm phát\ntriển nhà ở</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phát triển nhà </span>ở <span lang=\"VI\">là nội dung quan trọng </span>tr<span lang=\"VI\">ong chính sách phát triển\nkinh t</span>ế<span lang=\"VI\"> - xã hội của tỉnh; phù hợp với chủ trương đường lối\ncủa Đảng, chính sách của Nhà nước và Quy hoạch tổng thể phát triển k</span>i<span lang=\"VI\">nh tế - xã hội tỉnh Yên Bái đến năm 2020, tầm nhìn đến năm 2030; chương\ntrình phát triển đô thị, quy hoạch nông thôn mới và các quy hoạch liên quan\ntrong từng giai đoạn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phát </span>tri<span lang=\"VI\">ển nhà\nở là nhiệm vụ của các cấp ủy, chính quyền, cộng đồng xã hội và người dân trên địa\nbàn tỉnh. Thực hiện lồng ghép nguồn vốn các chương trình mục tiêu của trung\nương, nguồn vốn ngân sách địa phương để phát triển và hỗ trợ về nhà ở cho các đối\ntượng được thụ hưởng chính sách về nhà ở xã hội, người có công v</span>ớ<span lang=\"VI\">i cách mạng, hộ nghèo, hộ cận nghèo và đồng bào các dân tộc thiểu số.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phát triển nhà ở k</span>ế<span lang=\"VI\">t hợp giữa xây mới với cải tạo, giữa hiện đại với giữ gìn truyền thống\ncủa các dân tộc tại địa phương. Đa dạng h</span>óa <span lang=\"VI\">sản phẩm nhà ở\nđể phù h</span>ợ<span lang=\"VI\">p với bản sắc v</span>ă<span lang=\"VI\">n hóa từng\nkhu vực, từng vùng trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phát triển nhà </span>ở <span lang=\"VI\">phải đảm bảo đáp ứng được các điều kiện về chất lượng xây dựng, kiến\ntrúc, cảnh quan, môi trường, an toàn, tiện nghi, đủ khả năng ứng phó với thiên\ntai, biến đổi khí hậu, tiết kiệm các nguồn lực (đặc biệt là tài nguyên đất\nđai).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện chính sách xã hội hóa về\nnhà ở thông qua cơ chế hỗ trợ của Nhà nước để người dân tạo lập chỗ ở; đảm bảo\nhài hòa lợi ích của nhà nước, chủ đầu tư và người dân trong phát triển nhà ở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">2. Định hướng phát\ntriển nhà ở</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tại vùng trung tâm thành phố Yên\nBái và các huyện Trấn Yên, Văn Yên: Phát triển nhà ở theo hướng hình thành các\nkhu dân cư tập trung tại các tuyến đường kết nối với đường cao tốc Nội Bài -\nLào Cai, các tuyến Quốc lộ 32C, 37 và đường tỉnh 163. Riêng tại thành phố Yên\nBái, ưu tiên phát triển nhà ở theo các dự án được quy hoạch đồng bộ về hạ tầng\nkỹ thuật, hạ tầng xã hội để tạo điểm nhấn trong không gian đô thị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tại vùng phía Đông (huyện Yên Bình\nvà Lục Yên): Phát triển nhà ở theo hướng hình thành các khu dân cư tập trung\ntrên các tuyến đường kết nối với Quốc lộ 70, đường tỉnh 170; ưu tiên các vị trí\ngần với địa điểm phát triển du lịch sinh thái. Các khu vực khác, phát triển nhà\nở phù hợp với điều kiện hạ tầng sẵn có, cảnh quan môi trường và phong tục tập\nquán.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tại vùng phía Tây (thị xã Nghĩa Lộ\nvà các huyện Văn Chấn, Mù Cang Chải, Trạm Tấu): Phát triển nhà ở theo hướng\nhình thành các khu dân cư tập trung tại các vị trí thuận lợi để kết nối với tuyến\nQuốc lộ 32, 37 và các tuyến giao thông hiện có. Kết hợp hài hòa phát triển nhà ở\nriêng lẻ với hình thành các điểm dân cư quy mô vừa và nhỏ. Một số khu vực xem\nxét phát triển nhà ở theo hướng bảo tồn văn hóa, kiến trúc nhà ở truyền thống của\nđồng bào các dân tộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">3. Mục tiêu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a) Giai đoạn 2018-2020</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Diện tích nhà ở bình quân toàn tỉnh đến\nnăm 2020 đạt 21,4 m<sup>2</sup>/người (trong đó: tại khu vực đô thị là 28 m<sup>2</sup>/người;\ntại khu vực nông thôn là 19,5 m<sup>2</sup>/người). Diện tích nhà </span>ở <span lang=\"VI\">tối thiểu 10 m<sup>2</sup> sàn/người.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng diện tích nhà ở tăng thêm\n1.625.621 m<sup>2</sup> sàn, </span>tr<span lang=\"VI\">ong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở thương mại: 5.000 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở xã hội: 162.598 m<sup>2</sup>\nsàn, trong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở công nhân: 5.000 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở theo chương trình mục tiêu:\n152.080 m<sup>2</sup> sàn, trong đó: Nhà ở cho người có công theo Quyết định số\n22/2013/QĐ-TTg ngày 26/4/2013 của Thủ tướng Chính phủ: 32.880 m<sup>2</sup>\nsàn; Nhà ở cho người có công theo chương trình khác: 12.200 m<sup>2</sup> sàn;\nNhà ở cho hộ nghèo, cận nghèo theo Quyết định 33/2015/QĐ-TTg ngày 10/8/2015 của\nThủ tướng Chính phủ: 111.480 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho học sinh các trường nội trú,\nbán trú: 5.518 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở công vụ cho giáo viên: 2.744\nm<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở của hộ gia đình: 1.455.279 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đến năm 2020: Tỷ lệ nhà ở kiên cố đạt\n47%, tỷ lệ nhà </span>ở <span lang=\"VI\">bán kiên cố 38%, tỷ lệ nhà ở thiếu kiên cố\n10%, tỷ lệ nhà ở đơn sơ 5%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b) Giai đoạn 2021-2025</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Diện tích nhà ở bình quân toàn tỉnh đến\nnăm 2025 đạt 24,6 m<sup>2</sup>/người (trong đó: tại khu vực đô thị là 30,3 m<sup>2</sup>/người;\ntại khu vực nông thôn là 22,2 m<sup>2</sup>/người). Diện tích nhà ở t</span>ố<span lang=\"VI\">i thiểu 10 m<sup>2</sup> sàn/người.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng diện tích nhà ở tăng thêm\n4.774.750 m<sup>2</sup> sàn, trong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở thương mại: 120.000 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở xã hội: 70.992 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho công nhân, người lao động\ncác khu công nghiệp: 7.500 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho học sinh các trường dân tộc\nnội trú, bán trú: 3.492 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở xã hội cho các đối tượng thu\nnhập thấp: 14.000 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho hộ nghèo, hộ cận nghèo\ntheo chương trình mục tiêu: 46.000 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở công vụ: 3.220 m<sup>2</sup>\nsàn (bao gồm 2.500 m<sup>2</sup> sàn nhà ở công vụ cho giáo viên và 720 m<sup>2</sup>\nsàn nhà ở công vụ cho cán bộ chủ chốt thuộc diện điều động, luân chuyển công\ntác).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở của hộ gia đình: 4.580.538 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đ</span>ế<span lang=\"VI\">n năm 2025:\nTỷ lệ nhà ở kiên cố đạt 55%, tỷ lệ nhà ở bán kiên cố 37%, tỷ lệ nhà ở thiếu\nkiên cố 6%, tỷ lệ nhà ở đơn sơ 2%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c) Giai đoạn 2026-2030</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Diện tích nhà ở bình quân toàn tỉnh\nnăm 2030 đạt 28,3 m<sup>2</sup>/người (trong đó: tại khu vực đô thị là 33,1 m<sup>2</sup>/người;\ntại khu vực nông thôn là 25,7 m<sup>2</sup>/người). Diện tích nhà ở tối thiểu\n12 m<sup>2</sup> sàn/người.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng diện tích nhà ở tăng thêm\n5.919.239 m<sup>2</sup> sàn, trong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà </span>ở <span lang=\"VI\">thương mại:\n172.500 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở xã hội: 131.070 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho công nhân, người </span>l<span lang=\"VI\">ao động các khu công nghiệp: 7.500 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho học sinh các trường dân tộc\nnội trú, bán trú: 4.570 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở xã hội cho các đối tượng thu nhập\nthấp: 35.000 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở cho hộ nghèo, cận nghèo theo\nchương trình mục tiêu: 84.000 m<sup>2</sup> sàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nhà ở công vụ: 2.300 m<sup>2</sup>\nsàn (bao gồm 1.250 m<sup>2</sup> sàn nhà ở công vụ cho giáo viên và 1.050 m<sup>2</sup>\nsàn nhà </span>ở <span lang=\"VI\">công vụ cho cán bộ chủ chốt thuộc diện điều động,\nluân chuyển công tác).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Nhà ở của hộ gia đình: 5.613.369 m<sup>2</sup>\nsàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đến năm 2030: Tỷ lệ nhà ở ki</span>ê<span lang=\"VI\">n cố đạt 60%, tỷ lệ nhà ở bán kiên cố 35%, tỷ lệ nhà ở thiếu kiên cố\n4%, tỷ lệ nhà ở đơn sơ 1%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">4. Nguồn vốn, cơ cấu\nnguồn vốn</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a) Giai đoạn 2018-2020:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng nguồn vốn dự kiến là 6.447 tỷ đồng,\nbao gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn ngân sách Trung ương (hỗ\ntrợ nhà ở cho hộ gia đình người có công với cách mạng theo Quyết định số\n22/2013/QĐ-TTg ngày 26/4/2013 của Thủ tướng Chính phủ): 41,5 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn ngân sách tỉnh (xây dựng\nnhà ở cho học sinh các trường dân tộc nội trú, bán trú và nhà ở công vụ giáo\nviên): 27,5 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn vay, vốn hỗ trợ ngoài\nngân sách (hỗ trợ cho các hộ gia đình người có công với cách mạng chưa được hỗ\ntrợ theo Quyết định số 22/2013/QĐ-TTg ngày 26/4/2013 của Thủ tướng Chính phủ;\ncho hộ nghèo, hộ cận nghèo vay từ nguồn vốn vay của Ngân hàng Chính sách xã hội\ntheo Đề án thực hiện Quyết định 33/2015/QĐ-TTg ngày 10/8/2015 của Thủ tướng\nChính phủ): 93,4 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn xã hội hóa của các tổ chức,\ndoanh nghiệp, người dân: 6.284,6 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b) Giai đoạn 2021-2025</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng nguồn vốn dự kiến là 19.738 tỷ đồng,\nbao gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn ngân sách tỉnh (hỗ trợ\ncho 1.150 hộ nghèo có nhà ở thuộc diện đ</span>ơ<span lang=\"VI\">n sơ; xây dựng\nnhà </span>ở <span lang=\"VI\">công vụ cho cán bộ chủ chốt thuộc diện điều động,\nluân chuyển công tác): 14,3 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn vay, vốn hỗ trợ ngoài\nngân sách (huy động ủng hộ của các tổ chức, cá nhân cho hộ nghèo, hộ cận nghèo\ncó nhà ở thuộc diện đơn sơ): 27,3 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn xã hội hóa của các tổ chức,\ndoanh nghiệp, người dân: 19.696,4 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c) Giai đo</span>ạ</b><b><span lang=\"VI\">n 2026-2030</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng nguồn vốn dự kiến là 24.610 tỷ đồng,\nbao gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn ngân sách tỉnh (hỗ trợ\ncho hộ nghèo có nhà ở thuộc diện đ</span>ơ<span lang=\"VI\">n sơ; xây dựng nhà ở\ncông vụ cho giáo viên, cán bộ chủ chốt thuộc diện điều động, luân chuyển công\ntác): 11,8 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn vay, vốn hỗ trợ ngoài\nngân sách (huy động ủng hộ của các tổ chức, cá nhân cho hộ nghèo, hộ cận nghèo\ncó nhà ở thuộc diện đơn sơ): 50 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguồn vốn xã hội hóa của các tổ chức,\ndoanh nghiệp, người dân: 24.548,2 tỷ đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_5\"><b><span lang=\"VI\">5. Nhu cầu về đất\nđể phát triển nhà ở</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a) Giai đoạn 2018-2020</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng quỹ đất phát triển nh</span>à <span lang=\"VI\">ở khoảng 243,4 ha, trong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở thương mại:\n239,7 ha (trong đó: Dự án có sản phẩm nhà </span>ở <span lang=\"VI\">5,3 ha; Dự án\nchuyển quyền sử d</span>ụ<span lang=\"VI\">ng đất cho người dân tự xây dựng 40 ha;\nQuỹ đất dự kiến phát triển nhà ở 194,4 ha).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà </span>ở <span lang=\"VI\">xã hội theo dự án: 3,1 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở cho học\nsinh dân tộc nội trú, bán trú: 0,3 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở công vụ\ncho giáo viên: 0,3 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b) Giai đoạn 2021-2025</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng quỹ đất phát triển nhà ở khoảng\n751,4 ha, trong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở thương mại:\n745,6 ha (trong đó: Dự án có sản ph</span>ẩ<span lang=\"VI\">m nhà ở 30 ha; Dự án\nchuyển quyền sử dụng đất cho người dân tự xây dựng 90 ha; Quỹ đất dự kiến phát\ntriển nhà ở 625,6 ha).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở xã hội\ntheo dự án: 5,4 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở cho học\nsinh dân tộc, bán trú: 0,2 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở công vụ\ncán bộ chủ chốt thuộc diện điều động, luân chuyển công tác: 0,3 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c) Giai đoạn 2026-2030</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tổng quỹ đất phát triển nhà ở khoảng\n826,8 ha, trong đó:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát </span>tr<span lang=\"VI\">iển nhà ở thư</span>ơn<span lang=\"VI\">g mại: 812,5 ha (trong đó: Dự án có\nsản phẩm nhà ở 43,8 ha; Dự án chuyển quyền sử dụng đất cho người dân tự xây dựng\n118,7 ha; Quỹ đất dự kiến phát triển nhà ở 650 ha).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở xã hội\ntheo dự án: 13,8 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở cho học\nsinh các trường dân tộc nội trú, bán trú: 0,2 h</span>a<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quỹ đất phát triển nhà ở công vụ\ncho cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác 0,3 ha.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_6\"><b><span lang=\"VI\">6. Giải pháp thực\nhiện</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a) Về </span>cơ </b><b><span lang=\"VI\">chế chính sách</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện triệt để nguyên tắc chấp\nthuận đầu tư phát triển dự án nhà ở khi hạ t</span>ầ<span lang=\"VI\">ng kỹ thuật\nvà hạ t</span>ầ<span lang=\"VI\">ng xã hội có th</span>ể<span lang=\"VI\"> đ</span>ả<span lang=\"VI\">m bảo đáp ứng. Tiếp tục thực hiện có hiệu quả chính sách đầu tư dự án\nphát triển hạ tầng kỹ thuật và hạ t</span>ầ<span lang=\"VI\">ng xã hội </span>gắn kết\n<span lang=\"VI\">dự án nhà ở với hình thức hợp tác công tư (PPP).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ban hành chính sách ưu đãi, hỗ trợ\ncác doanh nghiệp sản xuất, kinh doanh trong lĩnh vực nhà </span>ở <span lang=\"VI\">sử dụng vật liệu, thiết bị tiết kiệm năng lượng và thân thiện với môi\ntrường.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b) Huy động, sử dụng có hiệu quả\ncác nguồn v</span>ố</b><b><span lang=\"VI\">n</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tận dụng tối đa các nguồn vốn hỗ trợ\ntừ Trung ư</span>ơn<span lang=\"VI\">g, vốn ngân sách tỉnh, vốn vay, vốn huy động h</span>ợ<span lang=\"VI\">p pháp từ các tổ chức, doanh nghiệp và người dân để đầu tư xây dựng nhà\n</span>ở <span lang=\"VI\">(trong đó, vốn ngân sách nhà nước hỗ trợ xây dựng nhà ở\ncho các đối tượng: người có công, người nghèo, các đối tượng chính sách, học\nsinh và giáo viên các trường dân tộc nội trú, bán trú; cán bộ ch</span>ủ <span lang=\"VI\">chốt thuộc diện điều động, luân chuyển công tác).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Công khai minh bạch thông tin về\ndanh mục, quy mô dự án, lựa chọn chủ đầu tư để thu hút các nguồn vốn đầu tư\ntrong và ngoài nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Huy động vốn từ các tổ chức tài\nchính - tín dụng cho việc đầu tư xây dựng các dự án nhà </span>ở<span lang=\"VI\">;\nhỗ trợ các đối tượng được hưởng chính sách về nhà </span>ở <span lang=\"VI\">xã hội\nđược vay vốn với lãi suất ưu đãi.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng phư</span>ơ<span lang=\"VI\">ng\nán hỗ trợ lãi suất vay vốn để xây mới, cải tạo và sửa chữa nhà ở cho những đối tượng\nđược hưởng chính sách nhà ở xã hội tại các khu vực chưa thể thực hiện các dự án\nnhà ở xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c) B</span>ố </b><b><span lang=\"VI\">trí\nquỹ đất cho phát triển nhà </span>ở</b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí quỹ đất cho việc phát triển\nnhà </span>ở <span lang=\"VI\">đảm bảo phù hợp với quy hoạch, kế hoạch sử dụng đất,\nquy hoạch xây dựng chung và quy hoạch phân khu đã được phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện rà soát, sắp xếp, bố trí\nlại quỹ nhà, đất không phù hợp với quy hoạch để chuyển đổi mục đích sử dụng phù\nhợp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố </span>tr<span lang=\"VI\">í quỹ đất\nđể phát triển nhà ở tại các khu vực đô thị đảm bảo chư</span>ơ<span lang=\"VI\">ng\ntrình đề ra, trong đó đáp ứng một phần nhu cầu về nhà ở xã hội.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xác định rõ vị </span>tr<span lang=\"VI\">í quỹ đất để thanh toán cho các dự án nhà ở xã hội đ</span>ầ<span lang=\"VI\">u tư theo hình thức đối tác công tư (PPP) làm c</span>ă<span lang=\"VI\">n\ncứ để mời gọi đầu tư.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">d) Giải pháp phát triển nhà ở cho\nđồng bào các dân tộc thiểu số</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiến hành rà soát hiện trạng sử dụng\nđất </span>ở <span lang=\"VI\">của đồng bào dân tộc thiểu số trên địa bàn tỉnh. Quy\nhoạch quỹ đất tái định cư gần với quỹ đất canh tác sản xuất.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kêu gọi các doanh nghiệp, tổ chức\nvà cá nhân hỗ trợ đồng bào các dân tộc thiểu số chỉnh trang, cải tạo hoặc xây dựng\nmới nhà ở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Quy hoạch một s</span>ố <span lang=\"VI\">điểm dân cư theo hướng bảo tồn kiến trúc nhà </span>ở <span lang=\"VI\">truyền\nthống gắn với du lịch văn hóa.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">đ) Phát triển nhà ở ứng phó v</span>ớ</b><b><span lang=\"VI\">i thiên ta</span>i</b><b><span lang=\"VI\">, biến đổi khí hậu</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng và công bố một số thiết kế\nmẫu nhà ở ứng phó với biến đổi khí hậu, phòng chống thiên tai phù hợp với phong\ntục tập quán của đồng bào các dân tộc trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Lập kế hoạch di dời nhà ở ven sông,\nsuối có nguy cơ sạt lở, lũ ống, lũ quét cao và công bố công khai. Đồng thời,\ntuyên truyền người dân thực hiện di dời, tránh các tác động xấu do mưa lũ và\ncác nguy cơ khác do tình trạng bi</span>ế<span lang=\"VI\">n đổi khí hậu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng quy hoạch và chủ động bố\ntrí quỹ đất dự phòng để thực hiện di dời người dân tại những vùng nguy hiểm khi\nxảy ra thiên tai. Công bố công khai để người dân biết và phối hợp thực hiện di\ndời để đảm bảo an toàn về tính mạng và tài sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">e) Phát triển nhà ở xã hội</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đầu tư xây dựng nhà ở xã hội cho\ncông nhân:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hoàn thiện các cơ chế chính sách của\ntỉnh phù hợp với quy định của pháp luật, nhằm khuyến khích các doanh nghiệp sử\ndụng nhiều lao động tự đầu tư xây dựng nhà ở xã hội cho công nhân, người lao động.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Cho phép các doanh nghiệp tự đầu tư\nxây d</span>ự<span lang=\"VI\">ng nhà ở xã hội cho công nhân, người lao động. Khuyến\nkhích các hộ gia đình gần khu công nghiệp xây dựng nhà trọ cho thuê nh</span>ằ<span lang=\"VI\">m giảm bớt áp lực cho doanh nghiệp và địa phương trong việc phát tri</span>ể<span lang=\"VI\">n nhà ở xã hội cho công nhân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đầu tư xây dựng nhà ở xã hội theo dự\nán bố trí cho các đối tượng đư</span>ợ<span lang=\"VI\">c hưởng chính sách v</span>ề\n<span lang=\"VI\">nhà ở xã hội tại khu vực các đô thị:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng cơ chế, quy định cụ thể\ntrách nhiệm của chủ đầu tư các dự án nhà ở thương mại khu đô t</span>h<span lang=\"VI\">ị trong việc bố </span>tr<span lang=\"VI\">í quỹ đất 20% để thực hiện đầu\ntư xây dựng nhà ở xã hội phù hợp với quy định của Luật nhà ở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tỉnh hỗ trợ một phần kinh phí đầu tư\nhạ tầng, giải phóng mặt bằng hoặc cho phép sử dụng một phần diện tích sàn nhà ở\nđể bán, cho thuê, thuê mua theo giá kinh doanh thương mại.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đầu tư xây d</span>ự<span lang=\"VI\">ng\nký </span>tú<span lang=\"VI\">c xá cho học </span>s<span lang=\"VI\">inh các trường dân\ntộc nội trú, bán trú; bố trí quỹ đất xây dựng ký túc xá đồng bộ với nhà lớp học,\nnhà sinh hoạt bán trú. Ưu tiên đầu tư xây dựng các khu ký túc xá cho học sinh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">g) Giải pháp về kiến trúc, quy hoạch:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng quy chế quản lý quy hoạch,\nkiến trúc làm cơ s</span>ở <span lang=\"VI\">để các cơ quan quản lý nhà nước và chính\nquyền địa phương quản lý quy hoạch và đầu tư xây dựng theo đơn vị hành chính.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với nhà </span>ở <span lang=\"VI\">khu\nvực nông thôn: kết h</span>ợ<span lang=\"VI\">p giữa quy hoạch phát triển nhà ở\ntheo khu dân cư tập trung tại những khu vực có điều kiện thuận lợi với phát triển\nnh</span>à <span lang=\"VI\">ở riêng lẻ; kết hợp giữa hoàn thiện cơ s</span>ở <span lang=\"VI\">hạ tầng theo quy hoạch nông thôn mới với xây mới và cải tạo nhà ở.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Rà soát, đi</span>ề<span lang=\"VI\">u\nchỉnh quy hoạch xây dựng, bổ sung quỹ đất xây d</span>ự<span lang=\"VI\">ng nhà ở x</span>ã\n<span lang=\"VI\">hội, nhà </span>ở <span lang=\"VI\">thương mại cho phù hợp với nhu cầu\nphát triển nhà tại từng khu vực.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác quản lý trật tự\nxây dựng và cấp phép xây dựng về nhà </span>ở<span lang=\"VI\">.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">Điều 2.</span></b></a><b><span lang=\"VI\"> </span></b><a name=\"dieu_2_name\"><span lang=\"VI\">Giao Ủy ban nhân dân tỉnh\ntổ chức triển khai thực hiện Nghị quyết theo quy định của pháp luật.</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">Điều 3.</span></b></a><b><span lang=\"VI\"> </span></b><a name=\"dieu_3_name\"><span lang=\"VI\">Giao Thường trực Hội đồng\nnhân dân, các Ban Hội đồng nhân dân, các Tổ đại biểu và đại biểu Hội đồng nhân\ndân tỉnh giám sát việc thực hiện Nghị quyết này.</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nghị quyết này đã được Hội đồng nhân</span>\ndân <span lang=\"VI\">tỉnh Yên Bái kh</span>óa <span lang=\"VI\">XVIII, kỳ họp thứ 13\nthông qua ngày 21 tháng 6 năm 2019./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA5ADAANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- </span><span style=\"font-size:8.0pt\">Ủ</span><span lang=\"VI\" style=\"font-size:8.0pt\">y ban\n  thường vụ Qu</span><span style=\"font-size:8.0pt\">ố</span><span lang=\"VI\" style=\"font-size:8.0pt\">c hội;<br>\n  - Chính phủ;<br>\n  - Bộ Xây dựng;<br>\n  - Thường trực T</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh </span><span style=\"font-size:8.0pt\">ủy</span><span lang=\"VI\" style=\"font-size:8.0pt\">;<br>\n  - Thường trực HĐND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Đoàn đại biểu Quốc hội t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Ủy ban nhân dân t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Ủy ban MTTQ Việt Nam t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Các cơ quan, ban, ngành, đoàn thể cấp tỉnh;<br>\n  - Các đại biểu HĐND tỉnh;<br>\n  - </span><span style=\"font-size:8.0pt\">T</span><span lang=\"VI\" style=\"font-size:8.0pt\">T. HĐND, UBND các huyện, thị xã, thành phố;<br>\n  - VP Đoàn ĐBQH, HĐND &amp; UBND tỉnh;<br>\n  - Lưu: VT, KTNS.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Phạm Thị Thanh Trà</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n",
+  "mdContent": "**HỘI ĐỒ****NG NHÂN DÂN  \n****TỈNH YÊN BÁI  \n\\----------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 14/NQ-HĐND\n\n_Yên B__ái, ngày 21_ _tháng 6 năm 2019_\n\n**NGHỊ QUYẾT**\n\nVỀ CHƯƠNG TRÌNH PHÁT TRIỂN NHÀ Ở TỈNH YÊN BÁI ĐẾN NĂM 2020 VÀ ĐỊNH HƯỚNG ĐẾN NĂM 2030\n\n**HỘI ĐỒNG NHÂN DÂN TỈNH YÊN BÁI  \nKHÓA XVIII, KỲ HỌP THỨ 13**\n\n_Căn cứ Luật tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật nhà ở ngày 25 tháng 11 năm 2014;_\n\n_Căn cứ Nghị định số 99/2015/NĐ-CP ngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật nhà ở__;_\n\n_Căn cứ Nghị định số 100/2015/NĐ-CP ngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết về phát triển và quản lý nhà ở xã hội;_\n\n_Căn cứ Quyết định số 2127/QĐ-TTg ngày 30 tháng 11 năm 2011 của Thủ tướng Chính phủ về việc phê duyệt Chiến lược phát triển nhà ở Quốc gia đến năm 2020, tầ__m nhìn đến năm 2030;_\n\n_Căn cứ Quyết định 322/QĐ-TTg ngày 21 tháng 3 năm 2018 của Thủ tướng Chính phủ về việc phê duyệt điều chỉnh quy hoạch tổng thể phát triển kinh tế - xã hội tỉnh Yên Bái đến năm 2020, tầm nhìn đến năm 2030;_\n\n_Xét Tờ trình số_ _70/TTr-UBND ngày 29 tháng 5 năm 2019 củ__a UBND tỉnh về việc thông qua Chương trình phát triển nhà ở tỉnh Yên Bái đến năm 2020 và định hướng đến nă__m 2030; Báo cáo thẩm tra của Ban Kinh tế - Ngân sách và ý kiến thảo luận của các đại biểu Hội đồng nhân dân tại kỳ họp._\n\n**QUYẾT NGHỊ:**\n\n**Điều 1.** Thông qua Chương trình phát triển nhà ở tỉnh Yên Bái đến năm 2020 và định hướng đến năm 2030, với những nội dung chính như sau:\n\n**1\\. Quan điểm phát triển nhà ở**\n\n\\- Phát triển nhà ở là nội dung quan trọng trong chính sách phát triển kinh tế - xã hội của tỉnh; phù hợp với chủ trương đường lối của Đảng, chính sách của Nhà nước và Quy hoạch tổng thể phát triển kinh tế - xã hội tỉnh Yên Bái đến năm 2020, tầm nhìn đến năm 2030; chương trình phát triển đô thị, quy hoạch nông thôn mới và các quy hoạch liên quan trong từng giai đoạn.\n\n\\- Phát triển nhà ở là nhiệm vụ của các cấp ủy, chính quyền, cộng đồng xã hội và người dân trên địa bàn tỉnh. Thực hiện lồng ghép nguồn vốn các chương trình mục tiêu của trung ương, nguồn vốn ngân sách địa phương để phát triển và hỗ trợ về nhà ở cho các đối tượng được thụ hưởng chính sách về nhà ở xã hội, người có công với cách mạng, hộ nghèo, hộ cận nghèo và đồng bào các dân tộc thiểu số.\n\n\\- Phát triển nhà ở kết hợp giữa xây mới với cải tạo, giữa hiện đại với giữ gìn truyền thống của các dân tộc tại địa phương. Đa dạng hóa sản phẩm nhà ở để phù hợp với bản sắc văn hóa từng khu vực, từng vùng trên địa bàn tỉnh.\n\n\\- Phát triển nhà ở phải đảm bảo đáp ứng được các điều kiện về chất lượng xây dựng, kiến trúc, cảnh quan, môi trường, an toàn, tiện nghi, đủ khả năng ứng phó với thiên tai, biến đổi khí hậu, tiết kiệm các nguồn lực (đặc biệt là tài nguyên đất đai).\n\n\\- Thực hiện chính sách xã hội hóa về nhà ở thông qua cơ chế hỗ trợ của Nhà nước để người dân tạo lập chỗ ở; đảm bảo hài hòa lợi ích của nhà nước, chủ đầu tư và người dân trong phát triển nhà ở.\n\n**2\\. Định hướng phát triển nhà ở**\n\n\\- Tại vùng trung tâm thành phố Yên Bái và các huyện Trấn Yên, Văn Yên: Phát triển nhà ở theo hướng hình thành các khu dân cư tập trung tại các tuyến đường kết nối với đường cao tốc Nội Bài - Lào Cai, các tuyến Quốc lộ 32C, 37 và đường tỉnh 163. Riêng tại thành phố Yên Bái, ưu tiên phát triển nhà ở theo các dự án được quy hoạch đồng bộ về hạ tầng kỹ thuật, hạ tầng xã hội để tạo điểm nhấn trong không gian đô thị.\n\n\\- Tại vùng phía Đông (huyện Yên Bình và Lục Yên): Phát triển nhà ở theo hướng hình thành các khu dân cư tập trung trên các tuyến đường kết nối với Quốc lộ 70, đường tỉnh 170; ưu tiên các vị trí gần với địa điểm phát triển du lịch sinh thái. Các khu vực khác, phát triển nhà ở phù hợp với điều kiện hạ tầng sẵn có, cảnh quan môi trường và phong tục tập quán.\n\n\\- Tại vùng phía Tây (thị xã Nghĩa Lộ và các huyện Văn Chấn, Mù Cang Chải, Trạm Tấu): Phát triển nhà ở theo hướng hình thành các khu dân cư tập trung tại các vị trí thuận lợi để kết nối với tuyến Quốc lộ 32, 37 và các tuyến giao thông hiện có. Kết hợp hài hòa phát triển nhà ở riêng lẻ với hình thành các điểm dân cư quy mô vừa và nhỏ. Một số khu vực xem xét phát triển nhà ở theo hướng bảo tồn văn hóa, kiến trúc nhà ở truyền thống của đồng bào các dân tộc.\n\n**3\\. Mục tiêu**\n\n**a) Giai đoạn 2018-2020**\n\nDiện tích nhà ở bình quân toàn tỉnh đến năm 2020 đạt 21,4 m2/người (trong đó: tại khu vực đô thị là 28 m2/người; tại khu vực nông thôn là 19,5 m2/người). Diện tích nhà ở tối thiểu 10 m2 sàn/người.\n\nTổng diện tích nhà ở tăng thêm 1.625.621 m2 sàn, trong đó:\n\n\\- Nhà ở thương mại: 5.000 m2 sàn.\n\n\\- Nhà ở xã hội: 162.598 m2 sàn, trong đó:\n\n\\+ Nhà ở công nhân: 5.000 m2 sàn.\n\n\\+ Nhà ở theo chương trình mục tiêu: 152.080 m2 sàn, trong đó: Nhà ở cho người có công theo Quyết định số 22/2013/QĐ-TTg ngày 26/4/2013 của Thủ tướng Chính phủ: 32.880 m2 sàn; Nhà ở cho người có công theo chương trình khác: 12.200 m2 sàn; Nhà ở cho hộ nghèo, cận nghèo theo Quyết định 33/2015/QĐ-TTg ngày 10/8/2015 của Thủ tướng Chính phủ: 111.480 m2 sàn.\n\n\\+ Nhà ở cho học sinh các trường nội trú, bán trú: 5.518 m2 sàn.\n\n\\- Nhà ở công vụ cho giáo viên: 2.744 m2 sàn.\n\n\\- Nhà ở của hộ gia đình: 1.455.279 m2 sàn.\n\nĐến năm 2020: Tỷ lệ nhà ở kiên cố đạt 47%, tỷ lệ nhà ở bán kiên cố 38%, tỷ lệ nhà ở thiếu kiên cố 10%, tỷ lệ nhà ở đơn sơ 5%.\n\n**b) Giai đoạn 2021-2025**\n\nDiện tích nhà ở bình quân toàn tỉnh đến năm 2025 đạt 24,6 m2/người (trong đó: tại khu vực đô thị là 30,3 m2/người; tại khu vực nông thôn là 22,2 m2/người). Diện tích nhà ở tối thiểu 10 m2 sàn/người.\n\nTổng diện tích nhà ở tăng thêm 4.774.750 m2 sàn, trong đó:\n\n\\- Nhà ở thương mại: 120.000 m2 sàn.\n\n\\- Nhà ở xã hội: 70.992 m2 sàn.\n\n\\+ Nhà ở cho công nhân, người lao động các khu công nghiệp: 7.500 m2 sàn.\n\n\\+ Nhà ở cho học sinh các trường dân tộc nội trú, bán trú: 3.492 m2 sàn.\n\n\\+ Nhà ở xã hội cho các đối tượng thu nhập thấp: 14.000 m2 sàn.\n\n\\+ Nhà ở cho hộ nghèo, hộ cận nghèo theo chương trình mục tiêu: 46.000 m2 sàn.\n\n\\- Nhà ở công vụ: 3.220 m2 sàn (bao gồm 2.500 m2 sàn nhà ở công vụ cho giáo viên và 720 m2 sàn nhà ở công vụ cho cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác).\n\n\\- Nhà ở của hộ gia đình: 4.580.538 m2 sàn.\n\n\\- Đến năm 2025: Tỷ lệ nhà ở kiên cố đạt 55%, tỷ lệ nhà ở bán kiên cố 37%, tỷ lệ nhà ở thiếu kiên cố 6%, tỷ lệ nhà ở đơn sơ 2%.\n\n**c) Giai đoạn 2026-2030**\n\nDiện tích nhà ở bình quân toàn tỉnh năm 2030 đạt 28,3 m2/người (trong đó: tại khu vực đô thị là 33,1 m2/người; tại khu vực nông thôn là 25,7 m2/người). Diện tích nhà ở tối thiểu 12 m2 sàn/người.\n\nTổng diện tích nhà ở tăng thêm 5.919.239 m2 sàn, trong đó:\n\n\\- Nhà ở thương mại: 172.500 m2 sàn.\n\n\\- Nhà ở xã hội: 131.070 m2 sàn.\n\n\\+ Nhà ở cho công nhân, người lao động các khu công nghiệp: 7.500 m2 sàn.\n\n\\+ Nhà ở cho học sinh các trường dân tộc nội trú, bán trú: 4.570 m2 sàn.\n\n\\+ Nhà ở xã hội cho các đối tượng thu nhập thấp: 35.000 m2 sàn.\n\n\\+ Nhà ở cho hộ nghèo, cận nghèo theo chương trình mục tiêu: 84.000 m2 sàn.\n\n\\- Nhà ở công vụ: 2.300 m2 sàn (bao gồm 1.250 m2 sàn nhà ở công vụ cho giáo viên và 1.050 m2 sàn nhà ở công vụ cho cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác).\n\n\\+ Nhà ở của hộ gia đình: 5.613.369 m2 sàn.\n\nĐến năm 2030: Tỷ lệ nhà ở kiên cố đạt 60%, tỷ lệ nhà ở bán kiên cố 35%, tỷ lệ nhà ở thiếu kiên cố 4%, tỷ lệ nhà ở đơn sơ 1%.\n\n**4\\. Nguồn vốn, cơ cấu nguồn vốn**\n\n**a) Giai đoạn 2018-2020:**\n\nTổng nguồn vốn dự kiến là 6.447 tỷ đồng, bao gồm:\n\n\\- Nguồn vốn ngân sách Trung ương (hỗ trợ nhà ở cho hộ gia đình người có công với cách mạng theo Quyết định số 22/2013/QĐ-TTg ngày 26/4/2013 của Thủ tướng Chính phủ): 41,5 tỷ đồng.\n\n\\- Nguồn vốn ngân sách tỉnh (xây dựng nhà ở cho học sinh các trường dân tộc nội trú, bán trú và nhà ở công vụ giáo viên): 27,5 tỷ đồng.\n\n\\- Nguồn vốn vay, vốn hỗ trợ ngoài ngân sách (hỗ trợ cho các hộ gia đình người có công với cách mạng chưa được hỗ trợ theo Quyết định số 22/2013/QĐ-TTg ngày 26/4/2013 của Thủ tướng Chính phủ; cho hộ nghèo, hộ cận nghèo vay từ nguồn vốn vay của Ngân hàng Chính sách xã hội theo Đề án thực hiện Quyết định 33/2015/QĐ-TTg ngày 10/8/2015 của Thủ tướng Chính phủ): 93,4 tỷ đồng.\n\n\\- Nguồn vốn xã hội hóa của các tổ chức, doanh nghiệp, người dân: 6.284,6 tỷ đồng.\n\n**b) Giai đoạn 2021-2025**\n\nTổng nguồn vốn dự kiến là 19.738 tỷ đồng, bao gồm:\n\n\\- Nguồn vốn ngân sách tỉnh (hỗ trợ cho 1.150 hộ nghèo có nhà ở thuộc diện đơn sơ; xây dựng nhà ở công vụ cho cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác): 14,3 tỷ đồng.\n\n\\- Nguồn vốn vay, vốn hỗ trợ ngoài ngân sách (huy động ủng hộ của các tổ chức, cá nhân cho hộ nghèo, hộ cận nghèo có nhà ở thuộc diện đơn sơ): 27,3 tỷ đồng.\n\n\\- Nguồn vốn xã hội hóa của các tổ chức, doanh nghiệp, người dân: 19.696,4 tỷ đồng.\n\n**c) Giai đoạ****n 2026-2030**\n\nTổng nguồn vốn dự kiến là 24.610 tỷ đồng, bao gồm:\n\n\\- Nguồn vốn ngân sách tỉnh (hỗ trợ cho hộ nghèo có nhà ở thuộc diện đơn sơ; xây dựng nhà ở công vụ cho giáo viên, cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác): 11,8 tỷ đồng.\n\n\\- Nguồn vốn vay, vốn hỗ trợ ngoài ngân sách (huy động ủng hộ của các tổ chức, cá nhân cho hộ nghèo, hộ cận nghèo có nhà ở thuộc diện đơn sơ): 50 tỷ đồng.\n\n\\- Nguồn vốn xã hội hóa của các tổ chức, doanh nghiệp, người dân: 24.548,2 tỷ đồng.\n\n**5\\. Nhu cầu về đất để phát triển nhà ở**\n\n**a) Giai đoạn 2018-2020**\n\nTổng quỹ đất phát triển nhà ở khoảng 243,4 ha, trong đó:\n\n\\- Quỹ đất phát triển nhà ở thương mại: 239,7 ha (trong đó: Dự án có sản phẩm nhà ở 5,3 ha; Dự án chuyển quyền sử dụng đất cho người dân tự xây dựng 40 ha; Quỹ đất dự kiến phát triển nhà ở 194,4 ha).\n\n\\- Quỹ đất phát triển nhà ở xã hội theo dự án: 3,1 ha.\n\n\\- Quỹ đất phát triển nhà ở cho học sinh dân tộc nội trú, bán trú: 0,3 ha.\n\n\\- Quỹ đất phát triển nhà ở công vụ cho giáo viên: 0,3 ha.\n\n**b) Giai đoạn 2021-2025**\n\nTổng quỹ đất phát triển nhà ở khoảng 751,4 ha, trong đó:\n\n\\- Quỹ đất phát triển nhà ở thương mại: 745,6 ha (trong đó: Dự án có sản phẩm nhà ở 30 ha; Dự án chuyển quyền sử dụng đất cho người dân tự xây dựng 90 ha; Quỹ đất dự kiến phát triển nhà ở 625,6 ha).\n\n\\- Quỹ đất phát triển nhà ở xã hội theo dự án: 5,4 ha.\n\n\\- Quỹ đất phát triển nhà ở cho học sinh dân tộc, bán trú: 0,2 ha.\n\n\\- Quỹ đất phát triển nhà ở công vụ cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác: 0,3 ha.\n\n**c) Giai đoạn 2026-2030**\n\nTổng quỹ đất phát triển nhà ở khoảng 826,8 ha, trong đó:\n\n\\- Quỹ đất phát triển nhà ở thương mại: 812,5 ha (trong đó: Dự án có sản phẩm nhà ở 43,8 ha; Dự án chuyển quyền sử dụng đất cho người dân tự xây dựng 118,7 ha; Quỹ đất dự kiến phát triển nhà ở 650 ha).\n\n\\- Quỹ đất phát triển nhà ở xã hội theo dự án: 13,8 ha.\n\n\\- Quỹ đất phát triển nhà ở cho học sinh các trường dân tộc nội trú, bán trú: 0,2 ha.\n\n\\- Quỹ đất phát triển nhà ở công vụ cho cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác 0,3 ha.\n\n**6\\. Giải pháp thực hiện**\n\n**a) Về cơ** **chế chính sách**\n\n\\- Thực hiện triệt để nguyên tắc chấp thuận đầu tư phát triển dự án nhà ở khi hạ tầng kỹ thuật và hạ tầng xã hội có thể đảm bảo đáp ứng. Tiếp tục thực hiện có hiệu quả chính sách đầu tư dự án phát triển hạ tầng kỹ thuật và hạ tầng xã hội gắn kết dự án nhà ở với hình thức hợp tác công tư (PPP).\n\n\\- Ban hành chính sách ưu đãi, hỗ trợ các doanh nghiệp sản xuất, kinh doanh trong lĩnh vực nhà ở sử dụng vật liệu, thiết bị tiết kiệm năng lượng và thân thiện với môi trường.\n\n**b) Huy động, sử dụng có hiệu quả các nguồn vố****n**\n\n\\- Tận dụng tối đa các nguồn vốn hỗ trợ từ Trung ương, vốn ngân sách tỉnh, vốn vay, vốn huy động hợp pháp từ các tổ chức, doanh nghiệp và người dân để đầu tư xây dựng nhà ở (trong đó, vốn ngân sách nhà nước hỗ trợ xây dựng nhà ở cho các đối tượng: người có công, người nghèo, các đối tượng chính sách, học sinh và giáo viên các trường dân tộc nội trú, bán trú; cán bộ chủ chốt thuộc diện điều động, luân chuyển công tác).\n\n\\- Công khai minh bạch thông tin về danh mục, quy mô dự án, lựa chọn chủ đầu tư để thu hút các nguồn vốn đầu tư trong và ngoài nước.\n\n\\- Huy động vốn từ các tổ chức tài chính - tín dụng cho việc đầu tư xây dựng các dự án nhà ở; hỗ trợ các đối tượng được hưởng chính sách về nhà ở xã hội được vay vốn với lãi suất ưu đãi.\n\n\\- Xây dựng phương án hỗ trợ lãi suất vay vốn để xây mới, cải tạo và sửa chữa nhà ở cho những đối tượng được hưởng chính sách nhà ở xã hội tại các khu vực chưa thể thực hiện các dự án nhà ở xã hội.\n\n**c) Bố** **trí quỹ đất cho phát triển nhà ở**\n\n\\- Bố trí quỹ đất cho việc phát triển nhà ở đảm bảo phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng chung và quy hoạch phân khu đã được phê duyệt.\n\n\\- Thực hiện rà soát, sắp xếp, bố trí lại quỹ nhà, đất không phù hợp với quy hoạch để chuyển đổi mục đích sử dụng phù hợp.\n\n\\- Bố trí quỹ đất để phát triển nhà ở tại các khu vực đô thị đảm bảo chương trình đề ra, trong đó đáp ứng một phần nhu cầu về nhà ở xã hội.\n\n\\- Xác định rõ vị trí quỹ đất để thanh toán cho các dự án nhà ở xã hội đầu tư theo hình thức đối tác công tư (PPP) làm căn cứ để mời gọi đầu tư.\n\n**d) Giải pháp phát triển nhà ở cho đồng bào các dân tộc thiểu số**\n\n\\- Tiến hành rà soát hiện trạng sử dụng đất ở của đồng bào dân tộc thiểu số trên địa bàn tỉnh. Quy hoạch quỹ đất tái định cư gần với quỹ đất canh tác sản xuất.\n\n\\- Kêu gọi các doanh nghiệp, tổ chức và cá nhân hỗ trợ đồng bào các dân tộc thiểu số chỉnh trang, cải tạo hoặc xây dựng mới nhà ở.\n\n\\- Quy hoạch một số điểm dân cư theo hướng bảo tồn kiến trúc nhà ở truyền thống gắn với du lịch văn hóa.\n\n**đ) Phát triển nhà ở ứng phó vớ****i thiên tai****, biến đổi khí hậu**\n\n\\- Xây dựng và công bố một số thiết kế mẫu nhà ở ứng phó với biến đổi khí hậu, phòng chống thiên tai phù hợp với phong tục tập quán của đồng bào các dân tộc trên địa bàn tỉnh.\n\n\\- Lập kế hoạch di dời nhà ở ven sông, suối có nguy cơ sạt lở, lũ ống, lũ quét cao và công bố công khai. Đồng thời, tuyên truyền người dân thực hiện di dời, tránh các tác động xấu do mưa lũ và các nguy cơ khác do tình trạng biến đổi khí hậu.\n\n\\- Xây dựng quy hoạch và chủ động bố trí quỹ đất dự phòng để thực hiện di dời người dân tại những vùng nguy hiểm khi xảy ra thiên tai. Công bố công khai để người dân biết và phối hợp thực hiện di dời để đảm bảo an toàn về tính mạng và tài sản.\n\n**e) Phát triển nhà ở xã hội**\n\n\\- Đầu tư xây dựng nhà ở xã hội cho công nhân:\n\nHoàn thiện các cơ chế chính sách của tỉnh phù hợp với quy định của pháp luật, nhằm khuyến khích các doanh nghiệp sử dụng nhiều lao động tự đầu tư xây dựng nhà ở xã hội cho công nhân, người lao động.\n\nCho phép các doanh nghiệp tự đầu tư xây dựng nhà ở xã hội cho công nhân, người lao động. Khuyến khích các hộ gia đình gần khu công nghiệp xây dựng nhà trọ cho thuê nhằm giảm bớt áp lực cho doanh nghiệp và địa phương trong việc phát triển nhà ở xã hội cho công nhân.\n\n\\- Đầu tư xây dựng nhà ở xã hội theo dự án bố trí cho các đối tượng được hưởng chính sách về nhà ở xã hội tại khu vực các đô thị:\n\nXây dựng cơ chế, quy định cụ thể trách nhiệm của chủ đầu tư các dự án nhà ở thương mại khu đô thị trong việc bố trí quỹ đất 20% để thực hiện đầu tư xây dựng nhà ở xã hội phù hợp với quy định của Luật nhà ở.\n\nTỉnh hỗ trợ một phần kinh phí đầu tư hạ tầng, giải phóng mặt bằng hoặc cho phép sử dụng một phần diện tích sàn nhà ở để bán, cho thuê, thuê mua theo giá kinh doanh thương mại.\n\n\\- Đầu tư xây dựng ký túc xá cho học sinh các trường dân tộc nội trú, bán trú; bố trí quỹ đất xây dựng ký túc xá đồng bộ với nhà lớp học, nhà sinh hoạt bán trú. Ưu tiên đầu tư xây dựng các khu ký túc xá cho học sinh.\n\n**g) Giải pháp về kiến trúc, quy hoạch:**\n\n\\- Xây dựng quy chế quản lý quy hoạch, kiến trúc làm cơ sở để các cơ quan quản lý nhà nước và chính quyền địa phương quản lý quy hoạch và đầu tư xây dựng theo đơn vị hành chính.\n\n\\- Đối với nhà ở khu vực nông thôn: kết hợp giữa quy hoạch phát triển nhà ở theo khu dân cư tập trung tại những khu vực có điều kiện thuận lợi với phát triển nhà ở riêng lẻ; kết hợp giữa hoàn thiện cơ sở hạ tầng theo quy hoạch nông thôn mới với xây mới và cải tạo nhà ở.\n\n\\- Rà soát, điều chỉnh quy hoạch xây dựng, bổ sung quỹ đất xây dựng nhà ở xã hội, nhà ở thương mại cho phù hợp với nhu cầu phát triển nhà tại từng khu vực.\n\n\\- Tăng cường công tác quản lý trật tự xây dựng và cấp phép xây dựng về nhà ở.\n\n**Điều 2.** Giao Ủy ban nhân dân tỉnh tổ chức triển khai thực hiện Nghị quyết theo quy định của pháp luật.\n\n**Điều 3.** Giao Thường trực Hội đồng nhân dân, các Ban Hội đồng nhân dân, các Tổ đại biểu và đại biểu Hội đồng nhân dân tỉnh giám sát việc thực hiện Nghị quyết này.\n\nNghị quyết này đã được Hội đồng nhân dân tỉnh Yên Bái khóa XVIII, kỳ họp thứ 13 thông qua ngày 21 tháng 6 năm 2019./.\n\n**_  \nNơi nhận:  \n_**\\- Ủy ban thường vụ Quốc hội;  \n\\- Chính phủ;  \n\\- Bộ Xây dựng;  \n\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- Đoàn đại biểu Quốc hội tỉnh;  \n\\- Ủy ban nhân dân tỉnh;  \n\\- Ủy ban MTTQ Việt Nam tỉnh;  \n\\- Các cơ quan, ban, ngành, đoàn thể cấp tỉnh;  \n\\- Các đại biểu HĐND tỉnh;  \n\\- TT. HĐND, UBND các huyện, thị xã, thành phố;  \n\\- VP Đoàn ĐBQH, HĐND & UBND tỉnh;  \n\\- Lưu: VT, KTNS.\n\n**CHỦ TỊCH  \n  \n  \n  \n  \nPhạm Thị Thanh Trà**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
