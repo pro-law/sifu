@@ -1,0 +1,573 @@
+{
+  "title": "Quyết định 2282/QĐ-UBND năm 2023 phê duyệt Đề cương \"Đề án xây dựng nông thôn mới Thành phố Hà Nội giai đoạn 2021-2025\"",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Quyết định 4969/QĐ-UBND năm 2022 về giao chỉ tiêu Kế hoạch phát triển kinh tế - xã hội và dự toán thu, chi ngân sách năm 2023 của thành phố Hà Nội",
+      "id": "4969/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Trần Sỹ Thanh"
+      ],
+      "issuedDate": "2022-12-10",
+      "effectiveDate": "2022-12-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 15-NQ/TW năm 2022 về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030, tầm nhìn đến năm 2045 do Ban Chấp hành Trung ương ban hành",
+      "id": "15-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2022-05-05",
+      "effectiveDate": "2022-05-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết số 26-NQ/TW về nông nghiệp, nông dân, nông thôn do Ban Chấp hành Trung ương ban hành",
+      "id": "26-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nông Đức Mạnh"
+      ],
+      "issuedDate": "2008-08-05",
+      "effectiveDate": "2008-08-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị quyết 26/NQ-CP năm 2023 Chương trình hành động thực hiện Nghị quyết 19-NQ/TW về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045 do Chính phủ ban hành",
+      "id": "26/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Trần Lưu Quang"
+      ],
+      "issuedDate": "2023-02-27",
+      "effectiveDate": "2023-02-27",
+      "gazetteDate": "2023-03-09",
+      "gazetteNumber": "Từ số 579 đến số 580",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 922/QĐ-TTg năm 2022 phê duyệt Chương trình phát triển du lịch nông thôn trong xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "922/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-02",
+      "effectiveDate": "2022-08-02",
+      "gazetteDate": "2022-08-09",
+      "gazetteNumber": "Từ số 657 đến số 658",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 923/QĐ-TTg năm 2022 phê duyệt Chương trình khoa học và công nghệ phục vụ xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "923/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-02",
+      "effectiveDate": "2022-08-02",
+      "gazetteDate": "2022-08-14",
+      "gazetteNumber": "Từ số 665 đến số 666",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 924/QĐ-TTg năm 2022 phê duyệt Chương trình chuyển đổi số trong xây dựng nông thôn mới, hướng tới nông thôn mới thông minh giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "924/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-02",
+      "effectiveDate": "2022-08-02",
+      "gazetteDate": "2022-08-14",
+      "gazetteNumber": "Từ số 665 đến số 666",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 925/QĐ-TTg năm 2022 phê duyệt Chương trình tăng cường bảo vệ môi trường, an toàn thực phẩm và cấp nước sạch nông thôn trong xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "925/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-02",
+      "effectiveDate": "2022-08-02",
+      "gazetteDate": "2022-08-14",
+      "gazetteNumber": "Từ số 665 đến số 666",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 926/QĐ-TTg năm 2022 phê duyệt Chương trình nâng cao chất lượng, hiệu quả thực hiện tiêu chí an ninh, trật tự trong xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "926/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-02",
+      "effectiveDate": "2022-08-02",
+      "gazetteDate": "2022-08-15",
+      "gazetteNumber": "Từ số 667 đến số 668",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 18/2022/QĐ-TTg Quy định điều kiện, trình tự, thủ tục, hồ sơ xét, công nhận, công bố và thu hồi quyết định công nhận địa phương đạt chuẩn nông thôn mới, đạt chuẩn nông thôn mới nâng cao, đạt chuẩn nông thôn mới kiểu mẫu và hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "18/2022/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-02",
+      "effectiveDate": "2022-08-02",
+      "gazetteDate": "2022-08-14",
+      "gazetteNumber": "Từ số 663 đến số 664",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 919/QĐ-TTg năm 2022 phê duyệt Chương trình mỗi xã một sản phẩm giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "919/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-01",
+      "effectiveDate": "2022-08-01",
+      "gazetteDate": "2022-08-12",
+      "gazetteNumber": "Từ số 661 đến số 662",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19-NQ/TW năm 2022 về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045 do Ban Chấp hành Trung ương ban hành",
+      "id": "19-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2022-06-16",
+      "effectiveDate": "2022-06-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 587/QĐ-TTg năm 2022 về Kế hoạch tổ chức thực hiện Phong trào thi đua \"Cả nước chung sức xây dựng nông thôn mới\" giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "587/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-05-18",
+      "effectiveDate": "2022-05-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 27/2022/NĐ-CP quy định về cơ chế quản lý, tổ chức thực hiện các chương trình mục tiêu quốc gia",
+      "id": "27/2022/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-04-19",
+      "effectiveDate": "2022-04-19",
+      "gazetteDate": "2022-04-30",
+      "gazetteNumber": "Từ số 325 đến số 326",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 07/2022/QĐ-TTg quy định về nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung ương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "07/2022/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-03-25",
+      "effectiveDate": "2022-05-10",
+      "gazetteDate": "2022-04-04",
+      "gazetteNumber": "Từ số 285 đến số 286",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 318/QĐ-TTg năm 2022 Bộ tiêu chí quốc gia về xã nông thôn mới và Bộ tiêu chí quốc gia về xã nông thôn mới nâng cao giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "318/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-03-08",
+      "effectiveDate": "2022-03-08",
+      "gazetteDate": "2022-03-20",
+      "gazetteNumber": "Từ số 273 đến số 274",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 319/QĐ-TTg năm 2022 quy định về xã nông thôn mới kiểu mẫu giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "319/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-03-08",
+      "effectiveDate": "2022-03-08",
+      "gazetteDate": "2022-03-20",
+      "gazetteNumber": "Từ số 273 đến số 274",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 320/QĐ-TTg năm 2022 Bộ tiêu chí quốc gia về huyện nông thôn mới; quy định thị xã, thành phố trực thuộc cấp tỉnh hoàn thành nhiệm vụ xây dựng nông thôn mới và Bộ tiêu chí quốc gia về huyện nông thôn mới nâng cao giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "320/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-03-08",
+      "effectiveDate": "2022-03-08",
+      "gazetteDate": "2022-03-20",
+      "gazetteNumber": "Từ số 273 đến số 274",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 321/QĐ-TTg năm 2022 quy định về tỉnh, thành phố trực thuộc trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "321/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-03-08",
+      "effectiveDate": "2022-03-08",
+      "gazetteDate": "2022-03-20",
+      "gazetteNumber": "Từ số 273 đến số 274",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 263/QĐ-TTg năm 2022 phê duyệt Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "263/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-02-22",
+      "effectiveDate": "2022-02-22",
+      "gazetteDate": "2022-03-10",
+      "gazetteNumber": "Từ số 265 đến số 266",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 150/QĐ-TTg năm 2022 phê duyệt Chiến lược phát triển nông nghiệp và nông thôn bền vững giai đoạn 2021-2030, tầm nhìn đến năm 2050 do Thủ tướng Chính phủ ban hành",
+      "id": "150/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Lê Văn Thành"
+      ],
+      "issuedDate": "2022-01-28",
+      "effectiveDate": "2022-01-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1945/QĐ-TTg năm 2021 về Thành lập Ban Chỉ đạo Trung ương các chương trình mục tiêu quốc gia giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "1945/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Minh Chính"
+      ],
+      "issuedDate": "2021-11-18",
+      "effectiveDate": "2021-11-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 227/KH-UBND năm 2021 thực hiện Chương trình 04-CTr/TU về “Đẩy mạnh thực hiện hiệu quả Chương trình mục tiêu quốc gia Xây dựng nông thôn mới gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025” do thành phố Hà Nội ban hành",
+      "id": "227/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Mạnh Quyền"
+      ],
+      "issuedDate": "2021-10-11",
+      "effectiveDate": "2021-10-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 1689/QĐ-TTg năm 2021 về Kế hoạch triển khai Nghị quyết 25/2021/QH15 phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "1689/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2021-10-11",
+      "effectiveDate": "2021-10-11",
+      "gazetteDate": "2021-10-23",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 25/2021/QH15 phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025 do Quốc hội ban hành",
+      "id": "25/2021/QH15",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2021-07-28",
+      "effectiveDate": "2021-09-11",
+      "gazetteDate": "2021-08-23",
+      "gazetteNumber": "Từ số 723 đến số 724",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 255/QĐ-TTg năm 2021 phê duyệt Kế hoạch cơ cấu lại ngành nông nghiệp giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành",
+      "id": "255/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2021-02-25",
+      "effectiveDate": "2021-02-25",
+      "gazetteDate": "2021-03-08",
+      "gazetteNumber": "Từ số 433 đến số 434",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 1246/QĐ-UBND năm 2023 phê duyệt Đề án Phát triển du lịch nông thôn gắn với xây dựng nông thôn mới tại Hải Phòng đến năm 2030",
+      "id": "1246/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Lê Khắc Nam"
+      ],
+      "issuedDate": "2023-05-11",
+      "effectiveDate": "2023-05-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 150/QĐ-UBND năm 2023 phê duyệt Đề án xây dựng huyện Sơn Dương, tỉnh Tuyên Quang đạt chuẩn nông thôn mới, giai đoạn 2023-2025",
+      "id": "150/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Tuyên Quang",
+      "signers": [
+        "Nguyễn Thế Giang"
+      ],
+      "issuedDate": "2023-04-24",
+      "effectiveDate": "2023-04-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 239/QĐ-UBND năm 2023 về Đề án đầu tư phát triển đồng bộ, hiện đại kết cấu hạ tầng thủy lợi, đê điều phục vụ phát triển kinh tế nông nghiệp và Chương trình mục tiêu quốc gia xây dựng nông thôn mới đến năm 2025, trên địa bàn tỉnh Quảng Ngãi",
+      "id": "239/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Đặng Văn Minh"
+      ],
+      "issuedDate": "2023-04-05",
+      "effectiveDate": "2023-04-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "2282/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Thương mại",
+    "Văn hóa - Xã hội"
+  ],
+  "organization": "Thành phố Hà Nội",
+  "signers": [
+    "Nguyễn Mạnh Quyền"
+  ],
+  "issuedDate": "2023-04-18",
+  "effectiveDate": "2023-04-18",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAyADEAMgA=-->\n <tbody><tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN\n  <br>\n  THÀNH PHỐ HÀ NỘI<br>\n  -------</b></p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 2282/QĐ-UBND</p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 18\n  tháng 4 năm 2023</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">VỀ\nVIỆC PHÊ DUYỆT ĐỀ CƯƠNG “ĐỀ ÁN XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI GIAI ĐOẠN\n2021 - 2025”</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức Chính quyền địa phương ngày\n19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật\nTổ chức Chính quyền địa phương ngày 22/11/2019;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị quyết số 25/2021/QH15 ngày 28/7/2021\ncủa Quốc hội về việc phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia\nxây dựng nông thôn mới giai đoạn 2021-2025;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 263/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-263-qd-ttg-2022-chuong-trinh-muc-tieu-quoc-gia-xay-dung-nong-thon-moi-505023.aspx\">263/QĐ-TTg</a>  ngày 22/02/2022\ncủa Thủ tướng Chính phủ về phê duyệt Chương trình mục tiêu Quốc gia xây dựng\nnông thôn mới giai đoạn 2021-2025;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 321/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx\">321/QĐ-TTg</a>  ngày 08/3/2022 của\nThủ tướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc Trung ương hoàn\nthành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Chương trình số 04-CTr/TU ngày 17/3/2021\ncủa Thành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng\nNTM gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng\ncao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Kế hoạch 227/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/ke-hoach-227-kh-ubnd-2021-thuc-hien-chuong-trinh-04-ctr-tu-thanh-pho-ha-noi-491138.aspx\">227/KH-UBND</a>  ngày 11/10/2021 của\nUBND Thành phố về việc thực hiện Chương trình số 04-CTr/TU ngày 17/3/2021 của\nThành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM\ngắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao\nđời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025”.</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Theo đề nghị của Sở Nông nghiệp và Phát triển\nnông thôn Hà Nội tại Tờ trình số 124/TTr-SNN ngày 04/4/2023.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b> Phê duyệt Đề cương\n“Đề án xây dựng nông thôn mới thành phố Hà Nội giai đoạn 2021 - 2025” <i>(Đề\ncương Đề án kèm theo)</i></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b> Thời gian và nguồn\nkinh phí thực hiện:</a></p>\n\n<p style=\"margin-top:6.0pt\">- Thời gian thực hiện Đề án: Trong năm 2023.</p>\n\n<p style=\"margin-top:6.0pt\">- Kinh phí thực hiện: Dự toán kinh phí thực hiện được\nxác định trên cơ sở Đề cương Đề án được UBND Thành phố phê duyệt và các chế độ,\ntiêu chuẩn định mức chi theo quy định hiện hành của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">- Nguồn kinh phí thực hiện: Nguồn kinh phí thực hiện\nđược đảm bảo từ nguồn ngân sách của Thành phố đã được giao cho Sở Nông nghiệp\nvà Phát triển nông thôn tại Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 4969/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-4969-qd-ubnd-2022-giao-chi-tieu-ke-hoach-phat-trien-kinh-te-xa-hoi-ha-noi-2023-549550.aspx\">4969/QĐ-UBND</a>  ngày 10/12/2022 của UBND\nthành phố Hà Nội về việc giao chỉ tiêu kế hoạch kinh tế xã hội và dự toán thu,\nchi ngân sách năm 2023 của thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b> Giao Sở Nông nghiệp\nvà Phát triển nông thôn chủ trì, phối hợp với các Sở, ngành, đơn vị liên quan\ntriển khai xây dựng Đề án xây dựng nông thôn mới thành phố Hà Nội giai đoạn\n2021 - 2025 theo Đề cương đã được phê duyệt, báo cáo UBND Thành phố theo quy định.</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b>Điều 4.</b> Quyết định có hiệu\nlực từ ngày ký. Chánh Văn phòng UBND Thành phố; Giám đốc các Sở: Nông nghiệp và\nPhát triển nông thôn - Chánh Văn phòng Điều phối nông thôn mới Thành phố, Tài\nchính và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định\nnày./.</a></p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\"><!--VABWAFAATABfADIAMAAyADMAMQAyADEAMgA=-->\n <tbody><tr>\n  <td width=\"50%\" valign=\"top\" style=\"width:50.0%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như Điều 2;<br>\n  - Thường trực Thành ủy;<br>\n  - Chủ tịch UBND Thành phố; <i>(để báo cáo)<br>\n  </i>- Các PCTUBND Thành phố;<br>\n  - VP: Thành ủy, Đoàn ĐBQH&amp;HĐND TP:<br>\n  - Văn phòng Điều phối NTM Thành phố;<br>\n  - CVP, PCVP N.M.Quân, KTN, TU;<br>\n  - Lưu VT, KTN.</span></p>\n  </td>\n  <td width=\"50%\" valign=\"top\" style=\"width:50.0%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Mạnh Quyền</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">ĐỀ CƯƠNG</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_2_name\">“ĐỀ\nÁN XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI GIAI ĐOẠN 2021 - 2025”</a><br>\n<i>(Ban hành kèm theo Quyết định số 2282/QĐ-UBND ngày 18 tháng 4 năm 2023 của\nUBND thành phố Hà Nội)</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_1\"><b>PHẦN\nMỞ ĐẦU</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_1\"><b>I. TÍNH CẤP THIẾT XÂY DỰNG ĐỀ\nÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Thực hiện Nghị quyết số 26-NQ/TW ngày 05/8/2008 của\nBan Chấp hành Trung ương và Chương trình mục tiêu quốc gia (MTQG) xây dựng nông\nthôn mới giai đoạn 2010-2020, thành phố Hà Nội đã đạt được nhiều kết quả tích cực\nvà toàn diện trên lĩnh vực nông nghiệp, nông dân, nông thôn, là một trong các địa\nphương đi đầu của cả nước về thành tích xây dựng nông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\">Sau hơn 10 năm triển khai, diện mạo nông thôn Hà Nội\nkhởi sắc rõ rệt, kết cấu hạ tầng kinh tế - xã hội nông thôn được đầu tư, nâng cấp\nđồng bộ; kinh tế nông thôn phát triển, chuyển dịch tích cực; phong trào văn\nhóa, văn nghệ, thể dục, thể thao sôi nổi, an ninh trật tự thôn xóm được giữ vững;\nmôi trường nông thôn có nhiều chuyển biến tích cực; hệ thống chính trị ở cơ sở\nđược xây dựng, củng cố vững mạnh; đời sống vật chất và tinh thần của người dân\nnông thôn không ngừng nâng cao, nhiều vùng nông thôn trở thành những <i>“miền\nquê đáng sống”...</i> Tính đến hết năm 2021, Thành phố đã có 15/18 huyện, thị\nxã được Thủ tướng Chính phủ quyết định công nhận đạt chuẩn/hoàn thành nhiệm vụ\nxây dựng NTM<a href=\"#_ftn1\" title=\"\">1</a>, có 382/382 xã (chiếm 100%) đã đạt\nchuẩn NTM. trong đó có 48 xã đạt chuẩn NTM nâng cao và 05 xã đạt chuẩn NTM kiểu\nmẫu. Tổng nguồn vốn đã huy động đầu tư cho khu vực nông thôn giai đoạn\n2010-2020 là 96.928 tỷ đồng, trong đó vốn ngân sách Nhà nước là 80.043 tỷ đồng,\nvốn ngoài ngân sách là 16.885 tỷ đồng). Thu nhập bình quân đầu người khu vực\nnông thôn tăng từ 13 triệu đồng/người năm 2010 lên 55 triệu đồng/người năm\n2020. Tỷ lệ hộ nghèo khu vực nông thôn giảm từ 1 1,25% năm 201 1 xuống còn dưới\n0,37% cuối năm 2020. Tỷ lệ người dân tham gia bảo hiểm y tế đạt 90,1%...</p>\n\n<p style=\"margin-top:6.0pt\">Mặc dù vậy, quá trình 10 năm triển khai Chương\ntrình MTQG xây dựng nông thôn mới trên địa bàn Thành phố cùng bộc lộ nhiều tồn\ntại, hạn chế và chưa thực sự bền vững. Nhiều công trình cơ sở hạ tầng sau 10\nnăm đầu tư xây dựng đang có dấu hiệu xuống cấp; môi trường nông thôn chưa được\ncải thiện rõ rệt, việc thu gom, xử lý rác thải tại một số xã chưa được thực hiện,\nchưa xây dựng, hình thành được các khu dân cư sáng, xanh, sạch, đẹp tiêu biểu;\nphát triển kinh tế nông thôn chưa tương xứng với tiềm năng lợi thế của thành phố,\nthu nhập của người dân nông thôn chưa có nhiều đột phá; công tác xã hội hóa huy\nđộng nguồn lực cộng đồng cho xây dựng NTM lâu dài cũng đặt ra nhiều thách thức...</p>\n\n<p style=\"margin-top:6.0pt\">Bước sang giai đoạn mới, tình hình thiên tai, dịch\nbệnh, thị trường, biến đổi khí hậu tiếp tục có nhiều diễn biến phức tạp; quá\ntrình công nghiệp hóa, hiện đại hóa, đô thị hóa và hội nhập quốc tế diễn ra với\ntốc độ nhanh cùng với sự phát triển mạnh mẽ của khoa học - công nghệ... Bối cảnh\nđó tạo ra nhiều cơ hội đồng thời cũng đặt ra nhiều thách thức lớn đối với tiến\ntrình phát triển kinh tế - xã hội và phát triển nông nghiệp, nông thôn, trên cả\nnước cũng như từng địa phương. Trước tình hình đó, để tiếp tục triển khai hiệu\nquả Chương trình MTQG xây dựng nông thôn mới, Thành ủy Hà Nội đã ban hành\nChương trình số 04-CTr/TU ngày 17/3/2021 về đẩy mạnh thực hiện hiệu quả Chương\ntrình MTQG xây dựng nông thôn mới gắn với cơ cấu lại ngành nông nghiệp và phát\ntriển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân\ngiai đoạn 2021-2025, với mục tiêu phấn đấu đến năm 2025, thành phố Hà Nội hoàn\nthành nhiệm vụ xây dựng nông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 321/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx\">321/QĐ-TTg</a>  ngày 08/3/2022 của\nThủ tướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc Trung ương hoàn\nthành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025, quy định tỉnh, thành\nphố trực thuộc trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn\n2021 - 2025 đảm bảo được 8 yêu cầu, trong đó có nhiệm vụ <i>“Có Đề án xây dựng\nnông thôn mới toàn tỉnh, thành phố giai đoạn 2021 - 2025 được Hội đồng nhân dân\ntỉnh, thành phố trực thuộc trung ương thông qua”.</i></p>\n\n<p style=\"margin-top:6.0pt\">Do đó, việc xây dựng <b>“Đề án xây dựng nông thôn mới\nthành phố Hà Nội giai đoạn 2021-2025”</b> trong năm 2023 là phù hợp và là một\nyêu cầu cần thiết để cụ thể hóa các mục tiêu, nhiệm vụ, giải pháp và tổ chức thực\nhiện Chương trình MTQG xây dựng nông thôn mới trên địa bàn Thành phố để nông\nthôn Thủ đô phát triển bền vững theo hướng công nghiệp hóa, hiện đại hóa, đáp ứng\nyêu cầu xây dựng Thủ đô ngày càng văn minh, hiện đại, rút ngắn dần khoảng cách\nchênh lệnh về đời sống vật chất và tinh thần giữa nhân dân khu vực đô thị và\nnhân dân khu vực nông thôn, góp phần thực hiện thắng lợi chủ trương của Đảng và\nNhà nước về xây dựng nông thôn mới và Nghị quyết số 15-NQ/TW ngày 05/5/2022 của\nBộ Chính trị về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030, tầm\nnhìn đến năm 2045.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_1\"><b>II. CĂN CỨ PHÁP LÝ XÂY DỰNG ĐỀ\nÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Căn cứ các văn bản của Trung ương</b></p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số 19-NQ/TW ngày 16/6/2022 của Hội nghị\nlần thứ 5 Ban Chấp hành Trung ương Đảng khóa XIII về nông nghiệp, nông dân,\nnông thôn đến năm 2030, tầm nhìn đến năm 2045;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số 25/2021/QH15 ngày 28/7/2021 của Quốc\nhội về việc phê duyệt chủ trương đầu tư Chương trình MTQG xây dựng nông thôn mới\ngiai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1689/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/quyet-dinh-1689-qd-ttg-2021-ke-hoach-trien-khai-nghi-quyet-25-2021-qh15-491074.aspx\">1689/QĐ-TTg</a>  ngày 11/10/2021 của Thủ\ntướng Chính phủ về Kế hoạch triển khai Nghị quyết số 25/2021/QH15 ngày\n28/7/2021 của Quốc hội;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 263/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-263-qd-ttg-2022-chuong-trinh-muc-tieu-quoc-gia-xay-dung-nong-thon-moi-505023.aspx\">263/QĐ-TTg</a>  ngày 22/2/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình MTQG xây dựng nông thôn mới giai đoạn\n2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 255/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-255-qd-ttg-2021-ke-hoach-co-cau-lai-nganh-nong-nghiep-giai-doan-2021-2025-465941.aspx\">255/QĐ-TTg</a>  ngày 25/02/2021 của Thủ\ntướng Chính phủ về việc phê duyệt Kế hoạch cơ cấu lại ngành nông nghiệp giai đoạn\n2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 150/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-150-qd-ttg-2022-chien-luoc-phat-trien-nong-nghiep-va-nong-thon-ben-vung-502104.aspx\">150/QĐ-TTg</a>  ngày 28/01/2022 của Thủ\ntướng Chính phủ phê duyệt Chiến lược phát triển nông nghiệp và nông thôn bền vững\ngiai đoạn 2021- 2030, tầm nhìn đến năm 2050;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1945/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-1945-qd-ttg-2021-thanh-lap-ban-chi-dao-cac-chuong-trinh-muc-tieu-quoc-gia-495061.aspx\">1945/QĐ-TTg</a>  ngày 18/11/2021 của Thủ\ntướng Chính phủ về việc thành lập Ban Chỉ đạo Trung ương các chương trình MTQG\ngiai đoạn 2021- 2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 27/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-27-2022-nd-cp-co-che-quan-ly-thuc-hien-cac-chuong-trinh-muc-tieu-quoc-gia-510809.aspx\">27/2022/NĐ-CP</a>  ngày 19/4/2022 của\nChính phủ quy định quy chế quản lý, tổ chức thực hiện các chương trình MTQG;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số 07/QĐ-TTg ngày 25/3/2022 của Thủ tướng\nChính phủ quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung\nương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình MTQG\nxây dựng nông thôn mới giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 318/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-318-qd-ttg-2022-bo-tieu-chi-quoc-gia-ve-xa-nong-thon-moi-2021-2025-505886.aspx\">318/QĐ-TTg</a>  ngày 8/3/2022 của Thủ tướng\nChính phủ ban hành Bộ tiêu chí quốc gia về xã nông thôn mới và Bộ tiêu chí quốc\ngia về xã nông thôn mới nâng cao giai đoạn 2021 -2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 319/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-319-qd-ttg-2022-xa-nong-thon-moi-kieu-mau-2021-2025-505882.aspx\">319/QĐ-TTg</a>  ngày 8/3/2022 của Thủ tướng\nChính phủ về việc quy định xã NTM kiểu mẫu giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 320/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-320-qd-ttg-2022-bo-tieu-chi-quoc-gia-ve-huyen-nong-thon-moi-2021-2025-505885.aspx\">320/QĐ-TTg</a>  ngày 8/3/2022 của Thủ tướng\nChính phủ ban hành Bộ tiêu chí quốc gia về huyện nông thôn mới; quy định thị\nxã, thành phố trực thuộc cấp tỉnh hoàn thành nhiệm vụ xây dựng nông thôn mới và\nBộ tiêu chí quốc gia về huyện nông thôn mới nâng cao giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 321/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx\">321/QĐ-TTg</a>  ngày 8/3/2022 của Thủ tướng\nChính phủ về việc quy định tỉnh, thành phố trực thuộc trung ương hoàn thành nhiệm\nvụ xây dựng nông thôn mới giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 587/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-587-qd-ttg-2022-phong-trao-thi-dua-ca-nuoc-chung-suc-xay-dung-nong-thon-moi-513638.aspx\">587/QĐ-TTg</a>  ngày 18/5/2022 của Thủ\ntướng Chính phủ về việc ban hành Kế hoạch tổ chức thực hiện Phong trào thi đua\n“Cả nước chung sức xây dựng nông thôn mới” giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 919/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-919-qd-ttg-2022-phe-duyet-chuong-trinh-moi-xa-mot-san-pham-2021-2025-524355.aspx\">919/QĐ-TTg</a>  ngày 01/8/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình mỗi xã một sản phẩm giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 922/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-922-qd-ttg-2022-phe-duyet-chuong-trinh-phat-trien-du-lich-nong-thon-2021-2025-524360.aspx\">922/QĐ-TTg</a>  ngày 02/8/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình phát triển du lịch nông thôn trong xây dựng\nnông thôn mới giai đoạn 2021 -2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 923/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-923-qd-ttg-2022-chuong-trinh-khoa-hoc-phuc-vu-xay-dung-nong-thon-moi-2021-2025-524410.aspx\">923/QĐ-TTg</a>  ngày 02/8/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình khoa học và công nghệ phục vụ xây dựng\nnông thôn mới giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 924/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-924-qd-ttg-2022-chuong-trinh-chuyen-doi-so-xay-dung-nong-thon-moi-2021-2025-524411.aspx\">924/QĐ-TTg</a>  ngày 02/8/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình chuyển đổi số trong xây dựng nông thôn mới,\nhướng tới nông thôn mới thông minh giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 925/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-925-qd-ttg-2022-chuong-trinh-bao-ve-moi-truong-cap-nuoc-sach-nong-thon-524441.aspx\">925/QĐ-TTg</a>  ngày 02/8/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình tăng cường bảo vệ môi trường, an toàn thực\nphẩm và cấp nước sạch nông thôn trong xây dựng nông thôn mới giai đoạn\n2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 926/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-926-qd-ttg-2022-chuong-trinh-nang-cao-an-ninh-trong-xay-dung-nong-thon-moi-524470.aspx\">926/QĐ-TTg</a>  ngày 02/8/2022 của Thủ\ntướng Chính phủ phê duyệt Chương trình nâng cao chất lượng, hiệu quả thực hiện\ntiêu chí an ninh, trật tự trong xây dựng nông thôn mới giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 18/2022/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-18-2022-qd-ttg-dieu-kien-trinh-tu-cong-nhan-dia-phuong-dat-chuan-nong-thon-moi-524423.aspx\">18/2022/QĐ-TTg</a>  ngày 02/8/2022 của\nThủ tướng Chính phủ ban hành Quy định điều kiện, trình tự, thủ tục, hồ sơ xét,\ncông nhận, công bố và thu hồi quyết định công nhận địa phương đạt chuẩn nông\nthôn mới, đạt chuẩn nông thôn mới nâng cao, đạt chuẩn nông thôn mới kiểu mẫu và\nhoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025.</p>\n\n<p style=\"margin-top:6.0pt\">- Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 26/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/nghi-quyet-26-nq-cp-2023-thuc-hien-nghi-quyet-19-nq-tw-nong-nghiep-nong-dan-den-2030-556818.aspx\">26/NQ-CP</a>  ngày 27/02/2023 của Chính\nphủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số\n19-NQ/TW ngày 16/6/2022 của Ban Chấp hành Trung ương về nông nghiệp, nông dân,\nnông thôn đến năm 2030, tầm nhìn đến năm 2045;</p>\n\n<p style=\"margin-top:6.0pt\">- Hướng dẫn số 90/HD-MTTW-BTT ngày 20/09/2022 của\nBan Thường trực Ủy ban Trung ương MTTQ Việt Nam về việc lấy ý kiến sự hài lòng\ncủa người dân về kết quả xây dựng nông thôn mới giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Căn cứ các văn bản hướng dẫn của các bộ, ngành\nTrung ương.</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Văn bản của Thành ủy, UBND thành phố Hà Nội</b></p>\n\n<p style=\"margin-top:6.0pt\">- Chương trình số 04-CTr/TU ngày 17/3/2021 của\nThành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM\ngắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao\nđời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025;</p>\n\n<p style=\"margin-top:6.0pt\">- Chương trình hành động số 24-CTr/TU ngày 3/02/2023\ncủa Thành ủy Hà Nội về “Thực hiện Nghị quyết số 19-NQ/TW ngày 16/6/2022 của Ban\nChấp hành Trung ương về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn\nđến năm 2045”;</p>\n\n<p style=\"margin-top:6.0pt\">- Kế hoạch số <a class=\"text-blue\" target=\"_blank\" title=\"Kế hoạch 227/KH-UBND\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/ke-hoach-227-kh-ubnd-2021-thuc-hien-chuong-trinh-04-ctr-tu-thanh-pho-ha-noi-491138.aspx\">227/KH-UBND</a>  ngày 11/10/2021 của UBND\nThành phố về việc thực hiện Chương trình số 04-CTr/TU ngày 17/3/2021 của Thành ủy\nHà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM gắn với\ncơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống\nvật chất, tinh thần của nông dân giai đoạn 2021-2025”.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3_1\"><b>III. PHẠM VI, ĐỐI TƯỢNG CỦA ĐỀ\nÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Phạm vi</b></p>\n\n<p style=\"margin-top:6.0pt\">Phạm vi của Đề án: Trên toàn bộ khu vực nông thôn của\nthành phố Hà Nội</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Đối tượng triển khai Đề án</b></p>\n\n<p style=\"margin-top:6.0pt\">a) Đối tượng thụ hưởng: Là người dân, cộng đồng dân\ncư, hợp tác xã, doanh nghiệp và các tổ chức kinh tế - xã hội trên địa bàn nông\nthôn.</p>\n\n<p style=\"margin-top:6.0pt\">b) Đối tượng thực hiện: Hệ thống chính trị từ Thành\nphố đến cơ sở và toàn xã hội, trong đó, chủ thể thực hiện chính là người dân\ntrên địa bàn nông thôn.</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2\"><b>PHẦN\nTHỨ NHẤT</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_2_name\"><b>ĐÁNH GIÁ KẾT QUẢ XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI\nGIAI ĐOẠN 2010-2022</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_2\"><b>I. KHÁI QUÁT ĐIỀU KIỆN TỰ\nNHIÊN, KINH TẾ - XÃ HỘI</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Điều kiện tự nhiên</b></p>\n\n<p style=\"margin-top:6.0pt\">Giới thiệu một số thông tin chung nổi bật về thành\nphố Hà Nội (vị trí địa lý, diện tích, dân số, số đơn vị hành chính); khái quát\nđặc điểm địa hình, khí hậu, tài nguyên đất, nước, rừng, khoáng sản, du lịch và\nnhân văn... (giới thiệu ngắn gọn, làm nổi bật những đặc trưng tiêu biểu về điều\nkiện tự nhiên của Thành phố, nhấn mạnh những tiềm năng, lợi thế và khó khăn, hạn\nchế của các yếu tố tự nhiên tới phát triển nông nghiệp, nông dân, nông thôn của\nThành phố trong giai đoạn tới).</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Đặc điểm kinh tế</b></p>\n\n<p style=\"margin-top:6.0pt\">Giới thiệu các kết quả chính về tăng trưởng, chuyển\ndịch cơ cấu kinh tế giai đoạn 2010-2020; vai trò, vị trí của Thủ đô Hà Nội\ntrong phát triển kinh tế vùng và cả nước; tình hình phát triển các khu vực kinh\ntế (công nghiệp, nông nghiệp, dịch vụ), thu - chi ngân sách, xuất - nhập khẩu...\n(có so sánh với vùng và cả nước; tập trung đánh giá những nội dung liên quan đến\nphát triển kinh tế nông nghiệp, nông dân, nông thôn).</p>\n\n<p style=\"margin-top:6.0pt\"><b>3. Đặc điểm xã hội</b></p>\n\n<p style=\"margin-top:6.0pt\">Giới thiệu chung về đặc điểm dân cư, dân tộc; tình\nhình lao động, việc làm, chuyển dịch cơ cấu lao động; kết quả tăng thu nhập, giảm\nnghèo, thực hiện an sinh xã hội; hoạt động văn hóa - xã hội, y tế, giáo dục, an\nninh, quốc phòng...</p>\n\n<p style=\"margin-top:6.0pt\"><b>4. Đánh giá chung</b></p>\n\n<p style=\"margin-top:6.0pt\">Đánh giá chung những khó khăn, thuận lợi, tiềm năng\nphát triển kinh tế - xã hội nói chung và phát triển nông nghiệp, nông thôn nói\nriêng nhờ các lợi thế so sánh về vị trí địa kinh tế, nền tảng hạ tầng kinh tế -\nxã hội, tài nguyên thiên nhiên...</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_2\"><b>II. KẾT QUẢ XÂY DỰNG NÔNG THÔN\nMỚI GIAI ĐOẠN 2010-2020</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1_1\"><b>1. Khái quát chung khu vực\nnông thôn thành phố Hà Nội</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Số xã, thôn, hộ gia đình, nhân khẩu nông thôn theo\ncác huyện, thị xã; những thay đổi về đơn vị hành chính và dân số nông thôn\ntrong quá trình đô thị hóa, công nghiệp hóa diễn ra mạnh mẽ trong 10 năm vừa\nqua; đánh giá tính đa dạng về đặc điểm nông thôn của thủ đô Hà Nội trên các\nkhía cạnh về phạm vi, địa bàn, kinh tế, đặc trưng văn hóa, du lịch...</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2_1\"><b>2. Kết quả xây dựng nông thôn\nmới giai đoạn 2010-2020</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>2.1. Công tác chỉ đạo, triển khai</b></p>\n\n<p style=\"margin-top:6.0pt\">Tóm lược quá trình xây dựng nông thôn mới trên địa\nbàn Thành phố giai đoạn 2010-2020; kết quả xây dựng bộ máy chỉ đạo, quản lý;\nban hành các cơ chế, chính sách đặc thù; công tác tổ chức thực hiện; các hoạt động\ntuyên truyền, vận động, đào tạo, tập huấn nâng cao năng lực; công tác duy trì\nvà nâng chất các kết quả đạt được...</p>\n\n<p style=\"margin-top:6.0pt\"><b>2.2. Tổng hợp kết quả xây dựng nông thôn mới các\ncấp</b></p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả về số lượng, tỷ lệ xã đạt chuẩn nông thôn\nmới; số tiêu chí bình quân/xã;</p>\n\n<p style=\"margin-top:6.0pt\">- Số đơn vị cấp huyện đạt chuẩn/hoàn thành nhiệm vụ\nxây dựng nông thôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả xây dựng nông thôn mới nâng cao, kiểu mẫu.</p>\n\n<p style=\"margin-top:6.0pt\"><b>2.3. Kết quả huy động và sử dụng nguồn lực</b></p>\n\n<p style=\"margin-top:6.0pt\">- Tổng vốn huy động cho xây dựng NTM từ năm 2010 đến\nnăm 2020;</p>\n\n<p style=\"margin-top:6.0pt\">- Những giải pháp huy động nguồn lực cho xây dựng\nNTM và đánh giá những thuận lợi, khó khăn trong quá trình huy động nguồn lực đầu\ntư cho xây dựng nông thôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả phân bổ nguồn lực cho các nội dung xây dựng\nnông thôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">- Công tác xử lý nợ xây dựng cơ bản trong xây dựng\nnông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\"><b>2.4. Sự hài lòng của người dân nông thôn đối với\nxây dựng nông thôn mới</b></p>\n\n<p style=\"margin-top:6.0pt\">Thông qua kết quả nghiên cứu, khảo sát trong quá\ntrình xây dựng Đề án, có số liệu phân tích, đánh giá mức độ hài lòng của người\ndân nông thôn về quá trình tổ chức, chỉ đạo triển khai xây dựng nông thôn mới;\nvề phát huy vai trò tham gia của cộng đồng dân cư nông thôn; về kết quả thực hiện\ncác nội dung xây dựng nông thôn mới. Tổng hợp những vấn đề/ý kiến đề xuất của\nngười dân.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3_1\"><b>3. Tình hình chỉ đạo, triển\nkhai thực hiện Chương trình MTQG xây dựng nông thôn mới giai đoạn 2021-2025 và\nkết quả thực hiện đến hết năm 2022</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>3.1. Công tác chỉ đạo, ban hành các văn bản</b></p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả thành lập, kiện toàn bộ máy chỉ đạo, điều\nhành.</p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả ban hành các văn bản triển khai thực hiện\nChương trình.</p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả thực hiện công tác tuyên truyền, vận động,\ntập huấn.</p>\n\n<p style=\"margin-top:6.0pt\">- Kết quả thực hiện các chương trình chuyên đề.</p>\n\n<p style=\"margin-top:6.0pt\"><b>3.2. Kết quả thực hiện các nội dung thành phần của\nChương trình</b></p>\n\n<p style=\"margin-top:6.0pt\">- Quy hoạch.</p>\n\n<p style=\"margin-top:6.0pt\">- Hạ tầng kinh tế - xã hội.</p>\n\n<p style=\"margin-top:6.0pt\">- Tổ chức sản xuất, giam nghèo và phát triển kinh tế\nnông thôn.</p>\n\n<p style=\"margin-top:6.0pt\">- Y tế, Văn hóa, Giáo dục.</p>\n\n<p style=\"margin-top:6.0pt\">- Bảo vệ môi trường, xây dựng cảnh quan nông thôn.</p>\n\n<p style=\"margin-top:6.0pt\">- Hành chính công, chuyển đổi số, tiếp cận pháp luật,\nbình đẳng giới.</p>\n\n<p style=\"margin-top:6.0pt\">- Phát huy vai trò của Mặt trận Tổ quốc và các tổ\nchức chính trị - xã hội.</p>\n\n<p style=\"margin-top:6.0pt\">- An ninh trật tự.</p>\n\n<p style=\"margin-top:6.0pt\">- Giám sát, đánh giá.</p>\n\n<p style=\"margin-top:6.0pt\"><b>3.3. Kết quả đạt chuẩn nông thôn mới ở các cấp</b></p>\n\n<p style=\"margin-top:6.0pt\">- Số lượng, tỷ lệ xã đạt chuẩn nông thôn mới, nông\nthôn mới nâng cao, nông thôn mới kiểu mẫu.</p>\n\n<p style=\"margin-top:6.0pt\">- Số lượng, tỷ lệ huyện đạt chuẩn nông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\"><b>3.4. Thực trạng xây dựng nông thôn mới cấp xã, cấp\nhuyện so với các bộ tiêu chí quốc gia về nông thôn mới giai đoạn 2021-2025</b></p>\n\n<p style=\"margin-top:6.0pt\">- Thực trạng 382 xã so với Bộ tiêu chí quốc gia về\nnông thôn mới giai đoạn 2021 - 2025.</p>\n\n<p style=\"margin-top:6.0pt\">- Thực trạng các xã nông thôn mới nâng cao so với Bộ\ntiêu chí quốc gia về nông thôn mới nâng cao giai đoạn 2021-2025.</p>\n\n<p style=\"margin-top:6.0pt\">- Thực trạng 17 huyện và thị xã Sơn Tây so với Bộ\ntiêu chí quốc gia về huyện nông thôn mới, thị xã hoàn thành nhiệm vụ xây dựng\nnông thôn mới giai đoạn 2021-2025.</p>\n\n<p style=\"margin-top:6.0pt\">- Thực trạng các huyện phấn đấu đạt chuẩn nông thôn\nmới nâng cao so với Bộ tiêu chí quốc gia về huyện nông thôn mới nâng cao giai\nđoạn 2021-2025.</p>\n\n<p style=\"margin-top:6.0pt\"><b>3.5. Thực trạng chung thành phố Hà Nội so với\nquy định tỉnh, thành phố trực thuộc Trung ương hoàn thành nhiệm vụ xây dựng\nnông thôn mới giai đoạn 2021-2025</b></p>\n\n<p style=\"margin-top:6.0pt\">So sánh hiện trạng xây dựng nông thôn mới của thành\nphố Hà Nội với 08 quy định tại Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 321/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx\">321/QĐ-TTg</a>  ngày 08/3/2022 của Thủ\ntướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc Trung ương hoàn thành\nnhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025, theo đó:</p>\n\n<p style=\"margin-top:6.0pt\">(1) Có 100% số huyện đạt chuẩn nông thôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">(2) Có 100% số thị xã, thành phố hoàn thành nhiệm vụ\nxây dựng nông thôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">(3) Có ít nhất 20% số huyện đạt chuẩn nông thôn mới\nnâng cao;</p>\n\n<p style=\"margin-top:6.0pt\">(4) Có ít nhất 40% số xã đạt chuẩn nông thôn mới\nnâng cao;</p>\n\n<p style=\"margin-top:6.0pt\">(5) Có Đề án xây dựng nông thôn mới giai đoạn\n2021-2025 được Hội đồng nhân dân thành phố thông qua;</p>\n\n<p style=\"margin-top:6.0pt\">(6) Có ít nhất 70% số km đường huyện, đường tỉnh,\nquốc lộ trên địa bàn được trồng cây xanh dọc tuyến đường;</p>\n\n<p style=\"margin-top:6.0pt\">(7) Đất cây xanh sử dụng công cộng trên địa bàn tối\nthiểu là 4 m<sup>2</sup>/người;</p>\n\n<p style=\"margin-top:6.0pt\">(8) Chỉ số hài lòng của người dân, tổ chức đối với\nsự phục vụ của cơ quan hành chính nhà nước thuộc tỉnh, thành phố trực thuộc\ntrung ương quản lý đạt từ 90% trở lên.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3_2\"><b>III. ĐÁNH GIÁ CHUNG NHỮNG\nTHÀNH TỰU VÀ HẠN CHẾ TRONG XÂY DỰNG NÔNG THÔN MỚI</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Thành tựu nổi bật và nguyên nhân</b></p>\n\n<p style=\"margin-top:6.0pt\">1.1. Thành tựu nổi bật</p>\n\n<p style=\"margin-top:6.0pt\">1.2. Nguyên nhân của thành tựu</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Tồn tại, hạn chế và nguyên nhân</b></p>\n\n<p style=\"margin-top:6.0pt\">2.1. Tồn tại, hạn chế</p>\n\n<p style=\"margin-top:6.0pt\">2.2. Nguyên nhân của tồn tại, hạn chế</p>\n\n<p style=\"margin-top:6.0pt\"><b>3. Bài học kinh nghiệm</b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3\"><b>PHẦN\nTHỨ HAI</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_3_name\"><b>PHÂN TÍCH CÁC YẾU TỐ TÁC ĐỘNG TỚI QUÁ TRÌNH THỰC HIỆN\nCHƯƠNG TRÌNH ĐẾN NĂM 2025</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_3\"><b>I. ẢNH HƯỞNG CỦA BỐI CẢNH QUỐC\nTẾ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">- Mô tả thực trạng bối cảnh quốc tế hiện nay (hội\nnhập, dịch bệnh, phát triển công nghệ....);</p>\n\n<p style=\"margin-top:6.0pt\">- Phân tích thực trạng và năng lực đáp ứng của\nthành phố Hà Nội trong các bối cảnh mới;</p>\n\n<p style=\"margin-top:6.0pt\">- Đánh giá cơ hội, thách thức đối với thành phố Hà\nNội trong xây dựng nông thôn mới nói riêng và phát triển nông nghiệp, nông\nthôn, nông dân nói chung.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_3\"><b>II. TÁC ĐỘNG CỦA CÁC YẾU TỐ NỘI\nTẠI</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Yếu tố phát triển kinh tế, xã hội</b></p>\n\n<p style=\"margin-top:6.0pt\">- Những thành tựu trong phát triển kinh tế, xã hội\ncủa thành phố Hà Nội trong giai đoạn vừa qua;</p>\n\n<p style=\"margin-top:6.0pt\">- Những tồn tại hạn chế;</p>\n\n<p style=\"margin-top:6.0pt\">- Quan điểm, định hướng phát triển kinh tế xã hội\ngiai đoạn tới.</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Yếu tố nguồn lực xây dựng nông thôn mới</b></p>\n\n<p style=\"margin-top:6.0pt\">- Chính sách huy động và sử dụng nguồn lực trong\nxây dựng nông thôn mới</p>\n\n<p style=\"margin-top:6.0pt\">- Công tác triển khai thực hiện huy động và sử dụng\nnguồn lực</p>\n\n<p style=\"margin-top:6.0pt\"><b>3. Tác động của phát triển khoa học, công nghệ</b></p>\n\n<p style=\"margin-top:6.0pt\">- Thành tựu nổi bật trong phát triển khoa học, công\nnghệ của thành phố Hà Nội trong giai đoạn vừa qua: công tác nghiên cứu, chuyển\ngiao, phát triển mô hình ứng dụng khoa học kỹ thuật, ứng dụng công nghệ cao...\ngóp phần nâng cao năng suất và giá trị sản phẩm;</p>\n\n<p style=\"margin-top:6.0pt\">- Thành tựu nổi bật của khoa học và công nghệ trong\nChương trình MTQG xây dựng Nông thôn mới giai đoạn vừa qua: chuyển đổi cơ cấu\ncây trồng, vật nuôi; áp dụng các quy trình sản xuất tiên tiến, thân thiện với\nmôi trường (VietGAP, Global GAP...); công tác bảo quản và chế biến sản phẩm; phát\ntriển chuỗi giá trị..</p>\n\n<p style=\"margin-top:6.0pt\">- Những tồn tại, khó khăn và thách thức.</p>\n\n<p style=\"margin-top:6.0pt\"><b>4. Tác động của thiên tai, dịch bệnh, biến đổi\nkhí hậu</b></p>\n\n<p style=\"margin-top:6.0pt\">- Tác động và yêu cầu trong phòng chống thiên tai</p>\n\n<p style=\"margin-top:6.0pt\">- Tác động và yêu cầu trong công tác phòng chống dịch\nbệnh trên người cũng như trên các loại cây trồng, vật nuôi</p>\n\n<p style=\"margin-top:6.0pt\">- Tác động và yêu cầu thích ứng với biến đổi khí hậu</p>\n\n<p style=\"margin-top:6.0pt\"><b>5. Tác động của quá trình đô thị hóa đến xây dựng\nnông thôn mới</b></p>\n\n<p style=\"margin-top:6.0pt\">- Thành tựu nổi bật quả quá trình phát triển kinh tế,\nđô thị hóa của thành phố Hà Nội thời gian qua;</p>\n\n<p style=\"margin-top:6.0pt\">- Ảnh hưởng, tác động của quá trình đô thị hóa đến\nphát triển nông nghiệp nông thôn;</p>\n\n<p style=\"margin-top:6.0pt\">- Những vấn đề cần giải quyết trong xây dựng nông\nthôn mới nhằm đáp ứng với quá trình đô thị hóa của thành phố Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">6. Phân tích điểm mạnh, điểm yếu, cơ hội, thách thức\nđối với quá trình xây dựng nông thôn mới đến năm 2025</p>\n\n<p style=\"margin-top:6.0pt\">Phân tích những điểm mạnh, điểm yếu, cơ hội cũng\nnhư những thách thức đối với quá trình xây dựng nông thôn mới trên địa bàn\nThành phố trong giai đoạn tới.</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4\"><b>PHẦN\nTHỨ BA</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_4_name\"><b>QUAN ĐIỂM, MỤC TIÊU, NỘI DUNG, NHIỆM VỤ, GIẢI PHÁP THỰC\nHIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI\nGIAI ĐOẠN 2021-2025</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_4\"><b>I. QUAN ĐIỂM</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Xây dựng nông thôn mới là nhiệm vụ quan trọng,\ncó ý nghĩa chiến lược trong sự nghiệp xây dựng Thủ đô Hà Nội văn minh, hiện đại.\nVì vậy, xây dựng nông thôn mới cần được sự tập trung lãnh đạo, chỉ đạo và tổ chức\nthực hiện của các cấp ủy Đảng, chính quyền, đoàn thể các cấp bảo đảm hoàn thành\ncác mục tiêu của đề án đề ra.</p>\n\n<p style=\"margin-top:6.0pt\">2. Xây dựng nông thôn mới phải tuân thủ theo quy hoạch\ntổng thể phát triển kinh tế xã hội Thủ đô, quy hoạch chung Thủ đô đến năm 2030,\ntầm nhìn 2050 và các quy hoạch ngành, quy hoạch kinh tế xã hội các huyện, thị\nxã.</p>\n\n<p style=\"margin-top:6.0pt\">3. Xây dựng nông thôn mới vừa đáp ứng yêu cầu công\nnghiệp hoá, hiện đại hoá, vừa bảo tồn phát huy giá trị văn hóa truyền thống, giữ\ngìn bản sắc dân tộc, góp phần xây dựng Thủ đô phát triển bền vững có môi trường\nxanh, sạch, đẹp.</p>\n\n<p style=\"margin-top:6.0pt\">4. Xây dựng nông thôn mới trên tinh thần phát huy nội\nlực của cộng đồng, ý chí tự chủ, tự lực, tự cường của nhân dân là chính, kết hợp\nvới sự hỗ trợ của nhà nước và phù hợp với điều kiện từng cơ sở.</p>\n\n<p style=\"margin-top:6.0pt\">5. Xây dựng nông thôn mới cần triển khai đồng bộ,\ntoàn diện trên toàn Thành phố có sự tập trung ưu tiên cho điểm. Đồng thời triển\nkhai xây dựng cơ sở hạ tầng thiết yếu và phát triển Kinh tế xã hội, phấn đấu đến\nnăm 2015 cơ bản các xã trong Thành phố đạt các tiêu chí về xây dựng cơ sở hạ tầng\nkinh tế, văn hóa và xã hội.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_4\"><b>II. MỤC TIÊU</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Mục tiêu chung</b></p>\n\n<p style=\"margin-top:6.0pt\">Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng\nnông thôn mới theo hướng phát triển đô thị với mục tiêu tổng quát là: “Xây dựng\nnông thôn mới cần thực hiện thực chất hơn, thiết thực hơn, hiệu quả và bền vững\nhơn gắn liền với quá trình đô thị hóa, có điểm đầu nhưng không có điểm kết\nthúc, nông thôn mới phồn vinh, văn minh và hiện đại; xây dựng kết cấu hạ tầng\nkinh tế - xã hội nông thôn đồng bộ, phù hợp theo tiêu chí đô thị; kinh tế nông\nthôn phát triển mạnh mẽ và bền vững, trình độ sản xuất tiên tiến, hiện đại và\nchuyên nghiệp, sản phẩm có sức cạnh tranh cao, sản xuất nông nghiệp gắn với\nphát triển thương mại, dịch vụ, du lịch và chủ động ứng phó với biến đổi khí hậu;\nxã hội nông thôn dân chủ, bình đẳng, ổn định, giàu bản sắc văn hóa, nông dân\ngiàu có; môi trường, cảnh quan, không gian nông thôn sáng, xanh, sạch, đẹp, văn\nminh; hệ thống chính trị ở nông thôn được tăng cường; quốc phòng và an ninh, trật\ntự an toàn xã hội được giữ vững trên địa bàn Thủ đô”</p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Mục tiêu cụ thể đến hết năm 2025</b></p>\n\n<p style=\"margin-top:6.0pt\">- Thành phố Hà Nội hoàn thành nhiệm vụ xây dựng\nnông thôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">- Có 100% số huyện trên địa bàn đạt chuẩn nông thôn\nmới giai đoạn 2021- 2025; 20% số huyện đạt chuẩn nông thôn mới nâng cao; 40% số\nxã đạt chuẩn nông thôn mới nâng cao; 20% số xã đạt chuẩn nông thôn mới kiểu mẫu.</p>\n\n<p style=\"margin-top:6.0pt\">- Có ít nhất 2.000 sản phẩm OCOP được Thành phố\nđánh giá, phân hạng;</p>\n\n<p style=\"margin-top:6.0pt\">- Thu nhập của nông dân khu vực nông thôn đạt 80\ntriệu đồng/người/năm; tỷ lệ lao động có việc làm thường xuyên đạt trên 95%; tỷ\nlệ lao động qua đào tạo đạt từ 75-80%; tỷ lệ lao động có bằng cấp, chứng chỉ đạt\ntừ 55-60%; cơ bản không còn hộ nghèo theo tiêu chuẩn của Thành phố; tỷ lệ người\ndân tham gia bảo hiểm y tế ở các huyện, thị xã đạt trên 95%.</p>\n\n<p style=\"margin-top:6.0pt\">- Tỷ lệ thôn, làng được công nhận và giữ danh hiệu\nThôn, Làng văn hóa đạt 65%; tỷ lệ Gia đình được công nhận giữ vững danh hiệu\nGia đình văn hóa đạt từ 86-88%. Tỷ lệ trường công lập đạt chuẩn quốc giá từ\n80-85%. Duy trì 100% xã đạt chuẩn quốc gia về y tế. 100% số thôn có nhà văn hóa\n- khu thể thao thôn.</p>\n\n<p style=\"margin-top:6.0pt\">- Tỷ lệ xã có điểm phục vụ bưu chính có người phục\nvụ đạt 100%; tỷ lệ thôn được phủ sóng 3G/4G/5G hoặc internet băng rộng đạt\n100%.</p>\n\n<p style=\"margin-top:6.0pt\">- Tỷ lệ hộ dân được cung cấp nước sạch đạt 100%</p>\n\n<p style=\"margin-top:6.0pt\">- Tỷ lệ thu gom và xử lý chất thải rắn sinh hoạt\nnông thôn đảm bảo theo quy định đạt 100%; tỷ lệ chất thải nguy hại được xử lý đạt\n100%; tỷ lệ chất thải y tế được xử lý đạt tiêu chuẩn môi trường đạt 100%; tỷ lệ\ncụm công nghiệp, cụm công nghiệp làng nghề có trạm xử lý nước thải đạt 100%.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3_4\"><b>III. NỘI DUNG, NHIỆM VỤ TRỌNG\nTÂM</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Tập trung lãnh đạo, chỉ đạo quyết liệt, ưu\ntiên nguồn lực hỗ trợ các xã, huyện đạt mục tiêu của Thành phố theo Chương\ntrình số 04-CTr/TU của Thành ủy.</b></p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Nhóm nhiệm vụ thực hiện các nội dung xây dựng\nnông thôn mới</b></p>\n\n<p style=\"margin-top:6.0pt\">2.1. Nâng cao hiệu quả quản lý và thực hiện xây dựng\nnông thôn mới theo quy hoạch nhằm nâng cao đời sống kinh tế - xã hội nông thôn\ngắn với quá trình đô thị hoá;</p>\n\n<p style=\"margin-top:6.0pt\">2.2. Xây dựng kết cấu hạ tầng kinh tế - xã hội nông\nthôn theo hướng phát triển đô thị;</p>\n\n<p style=\"margin-top:6.0pt\">2.3. Tiếp tục thực hiện có hiệu quả cơ cấu lại\nngành nông nghiệp, phát triển kinh tế nông thôn; triển khai mạnh mẽ Chương\ntrình Mỗi xã một sản phẩm (OCOP) nhằm nâng cao giá trị gia tăng, phù hợp với\nquá trình chuyển đổi số, thích ứng với biến đổi khí hậu; phát triển mạnh ngành\nnghề nông thôn; phát triển du lịch nông thôn; nâng cao hiệu quả hoạt động của\ncác HTX; hỗ trợ các doanh nghiệp khởi nghiệp ở nông thôn; nâng cao chất lượng\nđào tạo nghề cho lao động nông thôn... góp phần nâng cao thu nhập người dân\ntheo hướng bền vững;</p>\n\n<p style=\"margin-top:6.0pt\">2.4. Nâng cao chất lượng giáo dục, y tế và chăm sóc\nsức khỏe người dân nông thôn;</p>\n\n<p style=\"margin-top:6.0pt\">2.5. Nâng cao chất lượng đời sống văn hóa của người\ndân nông thôn; bảo tồn và phát huy các giá trị văn hóa truyền thống theo hướng\nbền vững gắn với phát triển du lịch nông thôn;</p>\n\n<p style=\"margin-top:6.0pt\">2.6. Nâng cao chất lượng môi trường; xây dựng cảnh\nquan nông thôn sáng - xanh - sạch - đẹp, an toàn; giữ gìn và khôi phục cảnh\nquan truyền thống;</p>\n\n<p style=\"margin-top:6.0pt\">2.7. Đẩy mạnh và nâng cao chất lượng các dịch vụ\nhành chính công; nâng cao chất lượng hoạt động của chính quyền cơ sở; thúc đẩy\nquá trình chuyển đổi số trong nông thôn mới, tăng cường ứng dụng công nghệ\nthông tin, công nghệ số, xây dựng nông thôn mới thông minh; bảo đảm và tăng cường\nkhả năng tiếp cận pháp luật cho người dân; tăng cường giải pháp nhằm đảm bảo\nbình đẳng giới và phòng chống bạo lực trên cơ sở giới;</p>\n\n<p style=\"margin-top:6.0pt\">2.8. Đẩy mạnh và nâng cao chất lượng các dịch vụ\nhành chính công; nâng cao chất lượng hoạt động của chính quyền cơ sở; thúc đẩy\nquá trình chuyển đổi số trong nông thôn mới, tăng cường ứng dụng công nghệ\nthông tin, công nghệ số, xây dựng nông thôn mới thông minh; bảo đảm và tăng cường\nkhả năng tiếp cận pháp luật cho người dân; tăng cường giải pháp nhằm đảm bảo\nbình đẳng giới và phòng chống bạo lực trên cơ sở giới;</p>\n\n<p style=\"margin-top:6.0pt\">2.9. Nâng cao chất lượng, phát huy vai trò của Mặt\ntrận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội trong xây dựng nông\nthôn mới;</p>\n\n<p style=\"margin-top:6.0pt\">2.10. Giữ vững quốc phòng, an ninh và trật tự xã hội\nnông thôn</p>\n\n<p style=\"margin-top:6.0pt\">2.11. Tổ chức thực hiện hiệu quả các chương trình\nchuyên đề</p>\n\n<p style=\"margin-top:6.0pt\"><b>3. Chương trình trọng điểm</b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4_4\"><b>IV. NHU CẦU NGUỒN LỰC TRIỂN\nKHAI ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b>1. Ngân sách Trung ương</b></p>\n\n<p style=\"margin-top:6.0pt\"><b>2. Ngân sách địa phương</b></p>\n\n<p style=\"margin-top:6.0pt\"><i>a) Nguồn ngân sách</i></p>\n\n<p style=\"margin-top:6.0pt\">b) Nguyên tắc quản lý, sử dụng nguồn vốn thực hiện\nChương trình</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_5_4\"><b>V. HIỆU QUẢ THỰC HIỆN ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Hiệu quả về kinh tế</p>\n\n<p style=\"margin-top:6.0pt\">2. Hiệu quả về xã hội</p>\n\n<p style=\"margin-top:6.0pt\">3. Hiệu quả về môi trường</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_6_4\"><b>VI. GIẢI PHÁP THỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Giải pháp tăng cường sự lãnh đạo của Đảng, nâng\ncao hiệu quả quản lý nhà nước và phát huy vai trò của các tổ chức chính trị -\nxã hội trong xây dựng nông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\">2. Giải pháp tăng cường công tác tuyên truyền, vận\nđộng, giáo dục nâng cao nhận thức về xây dựng nông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\">3. Giải pháp về quy hoạch và tổ chức triển khai quy\nhoạch.</p>\n\n<p style=\"margin-top:6.0pt\">4. Giải pháp phát triển hạ tầng nông nghiệp nông\nthôn, hạ tầng thương mại.</p>\n\n<p style=\"margin-top:6.0pt\">5. Giải pháp phát triển cơ giới hóa nông nghiệp,\ncông nghiệp chế biến, công nghiệp hỗ trợ và dịch vụ logictis.</p>\n\n<p style=\"margin-top:6.0pt\">6. Giải pháp phát triển sản xuất nâng cao thu nhập\ncho người dân..</p>\n\n<p style=\"margin-top:6.0pt\">7. Giải pháp phát triển du lịch nông thôn, du lịch\nlàng nghề gắn với xây dựng nông thôn mới.</p>\n\n<p style=\"margin-top:6.0pt\">8. Giải pháp nâng cấp cơ sở vật chất ngành giáo dục\ngắn với nâng cao chất lượng giáo dục đào tạo và nguồn nhân lực ở nông thôn.</p>\n\n<p style=\"margin-top:6.0pt\">9. Giải pháp tăng cường năng lực hệ thống y tế tuyến\nhuyện, xã, nhất là khu vực nông thôn miền núi, biên giới hải đảo, đảm bảo chủ động\nứng phó với mọi mình huống của thiên tai, dịch bệnh; nâng cao chất lượng chăm\nsóc và bảo vệ sức khỏe nhân dân.</p>\n\n<p style=\"margin-top:6.0pt\">10. Giải pháp bảo tồn, phát huy giá trị văn hóa các\ndân tộc, phát triển văn hóa, con người, xây dựng nền văn hóa giàu bản sắc.</p>\n\n<p style=\"margin-top:6.0pt\">11. Giải pháp nâng cao chất lượng bảo vệ môi trường;\nxây dựng cảnh quan nông thôn sáng - xanh - sạch - đẹp và an toàn; giữ gìn và\nkhôi phục cảnh quan truyền thông của nông thôn Việt Nam.</p>\n\n<p style=\"margin-top:6.0pt\">12. Giải pháp thực hiện chuyển đổi số trong xây dựng\nnông thôn mới nâng cao, nông thôn mới kiểu mẫu.</p>\n\n<p style=\"margin-top:6.0pt\">13. Giải pháp về huy động và sử dụng nguồn lực.</p>\n\n<p style=\"margin-top:6.0pt\">14. Giải pháp tổ chức bộ máy và giám sát.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_7_4\"><b>VII. TỔ CHỨC TRIỂN KHAI</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. UBND Thành phố</p>\n\n<p style=\"margin-top:6.0pt\">2. Các Sở, ngành là thành viên Ban Chỉ đạo Chương\ntrình MTQG Thành phố;</p>\n\n<p style=\"margin-top:6.0pt\">3. Phân công nhiệm vụ các Sở, ban, ngành của Thành\nphố:</p>\n\n<p style=\"margin-top:6.0pt\">4. Trách nhiệm của UBND các huyện, thị xã</p>\n\n<p style=\"margin-top:6.0pt\">5. Mặt trận Tổ quốc và các tổ chức chính trị - xã hội\nThành phố</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_5\"><b>PHẦN\nTHỨ TƯ</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"chuong_5_name\"><b>KẾT LUẬN VÀ KIẾN NGHỊ</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_5\"><b>I. KẾT LUẬN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_5\"><b>II. KIẾN NGHỊ</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Kiến nghị Trung ương</p>\n\n<p style=\"margin-top:6.0pt\">2. Kiến nghị Thành Ủy và HĐND Thành phố</p>\n\n<p style=\"margin-top:6.0pt\"><b> </b></p>\n\n<div>\n\n<p><span style=\"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"><br clear=\"all\">\n</span></p>\n\n<div>\n\n<div><span style=\"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\">\n\n<hr size=\"1\" width=\"33%\" align=\"left\">\n\n</span></div>\n\n</div>\n\n<div id=\"ftn1\">\n\n<p><a href=\"#_ftnref1\" title=\"\">1</a> Gồm các huyện Đan Phượng, Đông Anh, Thanh\nTrì. Hoài Đức, Gia Lâm, Quốc Oai, Thường Tín, Thạch Thất, Thanh Oai, Phúc Thọ,\nSóc Sơn, Phú Xuyên, Chương Mỹ, Mê Linh và thị xã Sơn Tây (03 huyện chưa đạt chuẩn\nNTM gồm: Ba Vì, Mỹ Đức và Ứng Hòa, dự kiến trình Trung ương công nhận năm\n2023).</p>\n\n</div>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTHÀNH PHỐ HÀ NỘI  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 2282/QĐ-UBND\n\n_Hà Nội, ngày 18 tháng 4 năm 2023_\n\n**QUYẾT ĐỊNH**\n\nVỀ VIỆC PHÊ DUYỆT ĐỀ CƯƠNG “ĐỀ ÁN XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI GIAI ĐOẠN 2021 - 2025”\n\n**ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI**\n\n_Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22/11/2019;_\n\n_Căn cứ Nghị quyết số 25/2021/QH15 ngày 28/7/2021 của Quốc hội về việc phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2021-2025;_\n\n_Căn cứ Quyết định số [263/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-263-qd-ttg-2022-chuong-trinh-muc-tieu-quoc-gia-xay-dung-nong-thon-moi-505023.aspx \"Quyết định 263/QĐ-TTg\") ngày 22/02/2022 của Thủ tướng Chính phủ về phê duyệt Chương trình mục tiêu Quốc gia xây dựng nông thôn mới giai đoạn 2021-2025;_\n\n_Căn cứ Quyết định số [321/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx \"Quyết định 321/QĐ-TTg\") ngày 08/3/2022 của Thủ tướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc Trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025;_\n\n_Căn cứ Chương trình số 04-CTr/TU ngày 17/3/2021 của Thành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025;_\n\n_Căn cứ Kế hoạch số [227/KH-UBND](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/ke-hoach-227-kh-ubnd-2021-thuc-hien-chuong-trinh-04-ctr-tu-thanh-pho-ha-noi-491138.aspx \"Kế hoạch 227/KH-UBND\") ngày 11/10/2021 của UBND Thành phố về việc thực hiện Chương trình số 04-CTr/TU ngày 17/3/2021 của Thành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025”._\n\n_Theo đề nghị của Sở Nông nghiệp và Phát triển nông thôn Hà Nội tại Tờ trình số 124/TTr-SNN ngày 04/4/2023._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Phê duyệt Đề cương “Đề án xây dựng nông thôn mới thành phố Hà Nội giai đoạn 2021 - 2025” _(Đề cương Đề án kèm theo)_\n\n**Điều 2.** Thời gian và nguồn kinh phí thực hiện:\n\n\\- Thời gian thực hiện Đề án: Trong năm 2023.\n\n\\- Kinh phí thực hiện: Dự toán kinh phí thực hiện được xác định trên cơ sở Đề cương Đề án được UBND Thành phố phê duyệt và các chế độ, tiêu chuẩn định mức chi theo quy định hiện hành của pháp luật.\n\n\\- Nguồn kinh phí thực hiện: Nguồn kinh phí thực hiện được đảm bảo từ nguồn ngân sách của Thành phố đã được giao cho Sở Nông nghiệp và Phát triển nông thôn tại Quyết định số [4969/QĐ-UBND](https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-4969-qd-ubnd-2022-giao-chi-tieu-ke-hoach-phat-trien-kinh-te-xa-hoi-ha-noi-2023-549550.aspx \"Quyết định 4969/QĐ-UBND\") ngày 10/12/2022 của UBND thành phố Hà Nội về việc giao chỉ tiêu kế hoạch kinh tế xã hội và dự toán thu, chi ngân sách năm 2023 của thành phố Hà Nội.\n\n**Điều 3.** Giao Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với các Sở, ngành, đơn vị liên quan triển khai xây dựng Đề án xây dựng nông thôn mới thành phố Hà Nội giai đoạn 2021 - 2025 theo Đề cương đã được phê duyệt, báo cáo UBND Thành phố theo quy định.\n\n**Điều 4.** Quyết định có hiệu lực từ ngày ký. Chánh Văn phòng UBND Thành phố; Giám đốc các Sở: Nông nghiệp và Phát triển nông thôn - Chánh Văn phòng Điều phối nông thôn mới Thành phố, Tài chính và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Như Điều 2;  \n\\- Thường trực Thành ủy;  \n\\- Chủ tịch UBND Thành phố; _(để báo cáo)  \n_\\- Các PCTUBND Thành phố;  \n\\- VP: Thành ủy, Đoàn ĐBQH&HĐND TP:  \n\\- Văn phòng Điều phối NTM Thành phố;  \n\\- CVP, PCVP N.M.Quân, KTN, TU;  \n\\- Lưu VT, KTN.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Mạnh Quyền**\n\n**ĐỀ CƯƠNG**\n\n“ĐỀ ÁN XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI GIAI ĐOẠN 2021 - 2025”  \n_(Ban hành kèm theo Quyết định số 2282/QĐ-UBND ngày 18 tháng 4 năm 2023 của UBND thành phố Hà Nội)_\n\n**PHẦN MỞ ĐẦU**\n\n**I. TÍNH CẤP THIẾT XÂY DỰNG ĐỀ ÁN**\n\nThực hiện Nghị quyết số 26-NQ/TW ngày 05/8/2008 của Ban Chấp hành Trung ương và Chương trình mục tiêu quốc gia (MTQG) xây dựng nông thôn mới giai đoạn 2010-2020, thành phố Hà Nội đã đạt được nhiều kết quả tích cực và toàn diện trên lĩnh vực nông nghiệp, nông dân, nông thôn, là một trong các địa phương đi đầu của cả nước về thành tích xây dựng nông thôn mới.\n\nSau hơn 10 năm triển khai, diện mạo nông thôn Hà Nội khởi sắc rõ rệt, kết cấu hạ tầng kinh tế - xã hội nông thôn được đầu tư, nâng cấp đồng bộ; kinh tế nông thôn phát triển, chuyển dịch tích cực; phong trào văn hóa, văn nghệ, thể dục, thể thao sôi nổi, an ninh trật tự thôn xóm được giữ vững; môi trường nông thôn có nhiều chuyển biến tích cực; hệ thống chính trị ở cơ sở được xây dựng, củng cố vững mạnh; đời sống vật chất và tinh thần của người dân nông thôn không ngừng nâng cao, nhiều vùng nông thôn trở thành những _“miền quê đáng sống”..._ Tính đến hết năm 2021, Thành phố đã có 15/18 huyện, thị xã được Thủ tướng Chính phủ quyết định công nhận đạt chuẩn/hoàn thành nhiệm vụ xây dựng NTM[1](#_ftn1), có 382/382 xã (chiếm 100%) đã đạt chuẩn NTM. trong đó có 48 xã đạt chuẩn NTM nâng cao và 05 xã đạt chuẩn NTM kiểu mẫu. Tổng nguồn vốn đã huy động đầu tư cho khu vực nông thôn giai đoạn 2010-2020 là 96.928 tỷ đồng, trong đó vốn ngân sách Nhà nước là 80.043 tỷ đồng, vốn ngoài ngân sách là 16.885 tỷ đồng). Thu nhập bình quân đầu người khu vực nông thôn tăng từ 13 triệu đồng/người năm 2010 lên 55 triệu đồng/người năm 2020. Tỷ lệ hộ nghèo khu vực nông thôn giảm từ 1 1,25% năm 201 1 xuống còn dưới 0,37% cuối năm 2020. Tỷ lệ người dân tham gia bảo hiểm y tế đạt 90,1%...\n\nMặc dù vậy, quá trình 10 năm triển khai Chương trình MTQG xây dựng nông thôn mới trên địa bàn Thành phố cùng bộc lộ nhiều tồn tại, hạn chế và chưa thực sự bền vững. Nhiều công trình cơ sở hạ tầng sau 10 năm đầu tư xây dựng đang có dấu hiệu xuống cấp; môi trường nông thôn chưa được cải thiện rõ rệt, việc thu gom, xử lý rác thải tại một số xã chưa được thực hiện, chưa xây dựng, hình thành được các khu dân cư sáng, xanh, sạch, đẹp tiêu biểu; phát triển kinh tế nông thôn chưa tương xứng với tiềm năng lợi thế của thành phố, thu nhập của người dân nông thôn chưa có nhiều đột phá; công tác xã hội hóa huy động nguồn lực cộng đồng cho xây dựng NTM lâu dài cũng đặt ra nhiều thách thức...\n\nBước sang giai đoạn mới, tình hình thiên tai, dịch bệnh, thị trường, biến đổi khí hậu tiếp tục có nhiều diễn biến phức tạp; quá trình công nghiệp hóa, hiện đại hóa, đô thị hóa và hội nhập quốc tế diễn ra với tốc độ nhanh cùng với sự phát triển mạnh mẽ của khoa học - công nghệ... Bối cảnh đó tạo ra nhiều cơ hội đồng thời cũng đặt ra nhiều thách thức lớn đối với tiến trình phát triển kinh tế - xã hội và phát triển nông nghiệp, nông thôn, trên cả nước cũng như từng địa phương. Trước tình hình đó, để tiếp tục triển khai hiệu quả Chương trình MTQG xây dựng nông thôn mới, Thành ủy Hà Nội đã ban hành Chương trình số 04-CTr/TU ngày 17/3/2021 về đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng nông thôn mới gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025, với mục tiêu phấn đấu đến năm 2025, thành phố Hà Nội hoàn thành nhiệm vụ xây dựng nông thôn mới.\n\nCăn cứ Quyết định số [321/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx \"Quyết định 321/QĐ-TTg\") ngày 08/3/2022 của Thủ tướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc Trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025, quy định tỉnh, thành phố trực thuộc trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021 - 2025 đảm bảo được 8 yêu cầu, trong đó có nhiệm vụ _“Có Đề án xây dựng nông thôn mới toàn tỉnh, thành phố giai đoạn 2021 - 2025 được Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương thông qua”._\n\nDo đó, việc xây dựng **“Đề án xây dựng nông thôn mới thành phố Hà Nội giai đoạn 2021-2025”** trong năm 2023 là phù hợp và là một yêu cầu cần thiết để cụ thể hóa các mục tiêu, nhiệm vụ, giải pháp và tổ chức thực hiện Chương trình MTQG xây dựng nông thôn mới trên địa bàn Thành phố để nông thôn Thủ đô phát triển bền vững theo hướng công nghiệp hóa, hiện đại hóa, đáp ứng yêu cầu xây dựng Thủ đô ngày càng văn minh, hiện đại, rút ngắn dần khoảng cách chênh lệnh về đời sống vật chất và tinh thần giữa nhân dân khu vực đô thị và nhân dân khu vực nông thôn, góp phần thực hiện thắng lợi chủ trương của Đảng và Nhà nước về xây dựng nông thôn mới và Nghị quyết số 15-NQ/TW ngày 05/5/2022 của Bộ Chính trị về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030, tầm nhìn đến năm 2045.\n\n**II. CĂN CỨ PHÁP LÝ XÂY DỰNG ĐỀ ÁN**\n\n**1\\. Căn cứ các văn bản của Trung ương**\n\n\\- Nghị quyết số 19-NQ/TW ngày 16/6/2022 của Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng khóa XIII về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045;\n\n\\- Nghị quyết số 25/2021/QH15 ngày 28/7/2021 của Quốc hội về việc phê duyệt chủ trương đầu tư Chương trình MTQG xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [1689/QĐ-TTg](https://thuvienphapluat.vn/van-ban/dau-tu/quyet-dinh-1689-qd-ttg-2021-ke-hoach-trien-khai-nghi-quyet-25-2021-qh15-491074.aspx \"Quyết định 1689/QĐ-TTg\") ngày 11/10/2021 của Thủ tướng Chính phủ về Kế hoạch triển khai Nghị quyết số 25/2021/QH15 ngày 28/7/2021 của Quốc hội;\n\n\\- Quyết định số [263/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-263-qd-ttg-2022-chuong-trinh-muc-tieu-quoc-gia-xay-dung-nong-thon-moi-505023.aspx \"Quyết định 263/QĐ-TTg\") ngày 22/2/2022 của Thủ tướng Chính phủ phê duyệt Chương trình MTQG xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [255/QĐ-TTg](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-255-qd-ttg-2021-ke-hoach-co-cau-lai-nganh-nong-nghiep-giai-doan-2021-2025-465941.aspx \"Quyết định 255/QĐ-TTg\") ngày 25/02/2021 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch cơ cấu lại ngành nông nghiệp giai đoạn 2021-2025;\n\n\\- Quyết định số [150/QĐ-TTg](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/quyet-dinh-150-qd-ttg-2022-chien-luoc-phat-trien-nong-nghiep-va-nong-thon-ben-vung-502104.aspx \"Quyết định 150/QĐ-TTg\") ngày 28/01/2022 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển nông nghiệp và nông thôn bền vững giai đoạn 2021- 2030, tầm nhìn đến năm 2050;\n\n\\- Quyết định số [1945/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-1945-qd-ttg-2021-thanh-lap-ban-chi-dao-cac-chuong-trinh-muc-tieu-quoc-gia-495061.aspx \"Quyết định 1945/QĐ-TTg\") ngày 18/11/2021 của Thủ tướng Chính phủ về việc thành lập Ban Chỉ đạo Trung ương các chương trình MTQG giai đoạn 2021- 2025;\n\n\\- Nghị định số [27/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-27-2022-nd-cp-co-che-quan-ly-thuc-hien-cac-chuong-trinh-muc-tieu-quoc-gia-510809.aspx \"Nghị định 27/2022/NĐ-CP\") ngày 19/4/2022 của Chính phủ quy định quy chế quản lý, tổ chức thực hiện các chương trình MTQG;\n\n\\- Quyết định số 07/QĐ-TTg ngày 25/3/2022 của Thủ tướng Chính phủ quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung ương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình MTQG xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [318/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-318-qd-ttg-2022-bo-tieu-chi-quoc-gia-ve-xa-nong-thon-moi-2021-2025-505886.aspx \"Quyết định 318/QĐ-TTg\") ngày 8/3/2022 của Thủ tướng Chính phủ ban hành Bộ tiêu chí quốc gia về xã nông thôn mới và Bộ tiêu chí quốc gia về xã nông thôn mới nâng cao giai đoạn 2021 -2025;\n\n\\- Quyết định số [319/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-319-qd-ttg-2022-xa-nong-thon-moi-kieu-mau-2021-2025-505882.aspx \"Quyết định 319/QĐ-TTg\") ngày 8/3/2022 của Thủ tướng Chính phủ về việc quy định xã NTM kiểu mẫu giai đoạn 2021-2025;\n\n\\- Quyết định số [320/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-320-qd-ttg-2022-bo-tieu-chi-quoc-gia-ve-huyen-nong-thon-moi-2021-2025-505885.aspx \"Quyết định 320/QĐ-TTg\") ngày 8/3/2022 của Thủ tướng Chính phủ ban hành Bộ tiêu chí quốc gia về huyện nông thôn mới; quy định thị xã, thành phố trực thuộc cấp tỉnh hoàn thành nhiệm vụ xây dựng nông thôn mới và Bộ tiêu chí quốc gia về huyện nông thôn mới nâng cao giai đoạn 2021-2025;\n\n\\- Quyết định số [321/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx \"Quyết định 321/QĐ-TTg\") ngày 8/3/2022 của Thủ tướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [587/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-587-qd-ttg-2022-phong-trao-thi-dua-ca-nuoc-chung-suc-xay-dung-nong-thon-moi-513638.aspx \"Quyết định 587/QĐ-TTg\") ngày 18/5/2022 của Thủ tướng Chính phủ về việc ban hành Kế hoạch tổ chức thực hiện Phong trào thi đua “Cả nước chung sức xây dựng nông thôn mới” giai đoạn 2021-2025;\n\n\\- Quyết định số [919/QĐ-TTg](https://thuvienphapluat.vn/van-ban/thuong-mai/quyet-dinh-919-qd-ttg-2022-phe-duyet-chuong-trinh-moi-xa-mot-san-pham-2021-2025-524355.aspx \"Quyết định 919/QĐ-TTg\") ngày 01/8/2022 của Thủ tướng Chính phủ phê duyệt Chương trình mỗi xã một sản phẩm giai đoạn 2021-2025;\n\n\\- Quyết định số [922/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-922-qd-ttg-2022-phe-duyet-chuong-trinh-phat-trien-du-lich-nong-thon-2021-2025-524360.aspx \"Quyết định 922/QĐ-TTg\") ngày 02/8/2022 của Thủ tướng Chính phủ phê duyệt Chương trình phát triển du lịch nông thôn trong xây dựng nông thôn mới giai đoạn 2021 -2025;\n\n\\- Quyết định số [923/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-923-qd-ttg-2022-chuong-trinh-khoa-hoc-phuc-vu-xay-dung-nong-thon-moi-2021-2025-524410.aspx \"Quyết định 923/QĐ-TTg\") ngày 02/8/2022 của Thủ tướng Chính phủ phê duyệt Chương trình khoa học và công nghệ phục vụ xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [924/QĐ-TTg](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-924-qd-ttg-2022-chuong-trinh-chuyen-doi-so-xay-dung-nong-thon-moi-2021-2025-524411.aspx \"Quyết định 924/QĐ-TTg\") ngày 02/8/2022 của Thủ tướng Chính phủ phê duyệt Chương trình chuyển đổi số trong xây dựng nông thôn mới, hướng tới nông thôn mới thông minh giai đoạn 2021-2025;\n\n\\- Quyết định số [925/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-925-qd-ttg-2022-chuong-trinh-bao-ve-moi-truong-cap-nuoc-sach-nong-thon-524441.aspx \"Quyết định 925/QĐ-TTg\") ngày 02/8/2022 của Thủ tướng Chính phủ phê duyệt Chương trình tăng cường bảo vệ môi trường, an toàn thực phẩm và cấp nước sạch nông thôn trong xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [926/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-926-qd-ttg-2022-chuong-trinh-nang-cao-an-ninh-trong-xay-dung-nong-thon-moi-524470.aspx \"Quyết định 926/QĐ-TTg\") ngày 02/8/2022 của Thủ tướng Chính phủ phê duyệt Chương trình nâng cao chất lượng, hiệu quả thực hiện tiêu chí an ninh, trật tự trong xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Quyết định số [18/2022/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-18-2022-qd-ttg-dieu-kien-trinh-tu-cong-nhan-dia-phuong-dat-chuan-nong-thon-moi-524423.aspx \"Quyết định 18/2022/QĐ-TTg\") ngày 02/8/2022 của Thủ tướng Chính phủ ban hành Quy định điều kiện, trình tự, thủ tục, hồ sơ xét, công nhận, công bố và thu hồi quyết định công nhận địa phương đạt chuẩn nông thôn mới, đạt chuẩn nông thôn mới nâng cao, đạt chuẩn nông thôn mới kiểu mẫu và hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025.\n\n\\- Nghị quyết số [26/NQ-CP](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/nghi-quyet-26-nq-cp-2023-thuc-hien-nghi-quyet-19-nq-tw-nong-nghiep-nong-dan-den-2030-556818.aspx \"Nghị quyết 26/NQ-CP\") ngày 27/02/2023 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 19-NQ/TW ngày 16/6/2022 của Ban Chấp hành Trung ương về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045;\n\n\\- Hướng dẫn số 90/HD-MTTW-BTT ngày 20/09/2022 của Ban Thường trực Ủy ban Trung ương MTTQ Việt Nam về việc lấy ý kiến sự hài lòng của người dân về kết quả xây dựng nông thôn mới giai đoạn 2021-2025;\n\n\\- Căn cứ các văn bản hướng dẫn của các bộ, ngành Trung ương.\n\n**2\\. Văn bản của Thành ủy, UBND thành phố Hà Nội**\n\n\\- Chương trình số 04-CTr/TU ngày 17/3/2021 của Thành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025;\n\n\\- Chương trình hành động số 24-CTr/TU ngày 3/02/2023 của Thành ủy Hà Nội về “Thực hiện Nghị quyết số 19-NQ/TW ngày 16/6/2022 của Ban Chấp hành Trung ương về nông nghiệp, nông dân, nông thôn đến năm 2030, tầm nhìn đến năm 2045”;\n\n\\- Kế hoạch số [227/KH-UBND](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/ke-hoach-227-kh-ubnd-2021-thuc-hien-chuong-trinh-04-ctr-tu-thanh-pho-ha-noi-491138.aspx \"Kế hoạch 227/KH-UBND\") ngày 11/10/2021 của UBND Thành phố về việc thực hiện Chương trình số 04-CTr/TU ngày 17/3/2021 của Thành ủy Hà Nội về “Đẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng NTM gắn với cơ cấu lại ngành nông nghiệp và phát triển kinh tế nông thôn, nâng cao đời sống vật chất, tinh thần của nông dân giai đoạn 2021-2025”.\n\n**III. PHẠM VI, ĐỐI TƯỢNG CỦA ĐỀ ÁN**\n\n**1\\. Phạm vi**\n\nPhạm vi của Đề án: Trên toàn bộ khu vực nông thôn của thành phố Hà Nội\n\n**2\\. Đối tượng triển khai Đề án**\n\na) Đối tượng thụ hưởng: Là người dân, cộng đồng dân cư, hợp tác xã, doanh nghiệp và các tổ chức kinh tế - xã hội trên địa bàn nông thôn.\n\nb) Đối tượng thực hiện: Hệ thống chính trị từ Thành phố đến cơ sở và toàn xã hội, trong đó, chủ thể thực hiện chính là người dân trên địa bàn nông thôn.\n\n**PHẦN THỨ NHẤT**\n\n**ĐÁNH GIÁ KẾT QUẢ XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI GIAI ĐOẠN 2010-2022**\n\n**I. KHÁI QUÁT ĐIỀU KIỆN TỰ NHIÊN, KINH TẾ - XÃ HỘI**\n\n**1\\. Điều kiện tự nhiên**\n\nGiới thiệu một số thông tin chung nổi bật về thành phố Hà Nội (vị trí địa lý, diện tích, dân số, số đơn vị hành chính); khái quát đặc điểm địa hình, khí hậu, tài nguyên đất, nước, rừng, khoáng sản, du lịch và nhân văn... (giới thiệu ngắn gọn, làm nổi bật những đặc trưng tiêu biểu về điều kiện tự nhiên của Thành phố, nhấn mạnh những tiềm năng, lợi thế và khó khăn, hạn chế của các yếu tố tự nhiên tới phát triển nông nghiệp, nông dân, nông thôn của Thành phố trong giai đoạn tới).\n\n**2\\. Đặc điểm kinh tế**\n\nGiới thiệu các kết quả chính về tăng trưởng, chuyển dịch cơ cấu kinh tế giai đoạn 2010-2020; vai trò, vị trí của Thủ đô Hà Nội trong phát triển kinh tế vùng và cả nước; tình hình phát triển các khu vực kinh tế (công nghiệp, nông nghiệp, dịch vụ), thu - chi ngân sách, xuất - nhập khẩu... (có so sánh với vùng và cả nước; tập trung đánh giá những nội dung liên quan đến phát triển kinh tế nông nghiệp, nông dân, nông thôn).\n\n**3\\. Đặc điểm xã hội**\n\nGiới thiệu chung về đặc điểm dân cư, dân tộc; tình hình lao động, việc làm, chuyển dịch cơ cấu lao động; kết quả tăng thu nhập, giảm nghèo, thực hiện an sinh xã hội; hoạt động văn hóa - xã hội, y tế, giáo dục, an ninh, quốc phòng...\n\n**4\\. Đánh giá chung**\n\nĐánh giá chung những khó khăn, thuận lợi, tiềm năng phát triển kinh tế - xã hội nói chung và phát triển nông nghiệp, nông thôn nói riêng nhờ các lợi thế so sánh về vị trí địa kinh tế, nền tảng hạ tầng kinh tế - xã hội, tài nguyên thiên nhiên...\n\n**II. KẾT QUẢ XÂY DỰNG NÔNG THÔN MỚI GIAI ĐOẠN 2010-2020**\n\n**1\\. Khái quát chung khu vực nông thôn thành phố Hà Nội**\n\nSố xã, thôn, hộ gia đình, nhân khẩu nông thôn theo các huyện, thị xã; những thay đổi về đơn vị hành chính và dân số nông thôn trong quá trình đô thị hóa, công nghiệp hóa diễn ra mạnh mẽ trong 10 năm vừa qua; đánh giá tính đa dạng về đặc điểm nông thôn của thủ đô Hà Nội trên các khía cạnh về phạm vi, địa bàn, kinh tế, đặc trưng văn hóa, du lịch...\n\n**2\\. Kết quả xây dựng nông thôn mới giai đoạn 2010-2020**\n\n**2.1. Công tác chỉ đạo, triển khai**\n\nTóm lược quá trình xây dựng nông thôn mới trên địa bàn Thành phố giai đoạn 2010-2020; kết quả xây dựng bộ máy chỉ đạo, quản lý; ban hành các cơ chế, chính sách đặc thù; công tác tổ chức thực hiện; các hoạt động tuyên truyền, vận động, đào tạo, tập huấn nâng cao năng lực; công tác duy trì và nâng chất các kết quả đạt được...\n\n**2.2. Tổng hợp kết quả xây dựng nông thôn mới các cấp**\n\n\\- Kết quả về số lượng, tỷ lệ xã đạt chuẩn nông thôn mới; số tiêu chí bình quân/xã;\n\n\\- Số đơn vị cấp huyện đạt chuẩn/hoàn thành nhiệm vụ xây dựng nông thôn mới;\n\n\\- Kết quả xây dựng nông thôn mới nâng cao, kiểu mẫu.\n\n**2.3. Kết quả huy động và sử dụng nguồn lực**\n\n\\- Tổng vốn huy động cho xây dựng NTM từ năm 2010 đến năm 2020;\n\n\\- Những giải pháp huy động nguồn lực cho xây dựng NTM và đánh giá những thuận lợi, khó khăn trong quá trình huy động nguồn lực đầu tư cho xây dựng nông thôn mới;\n\n\\- Kết quả phân bổ nguồn lực cho các nội dung xây dựng nông thôn mới;\n\n\\- Công tác xử lý nợ xây dựng cơ bản trong xây dựng nông thôn mới.\n\n**2.4. Sự hài lòng của người dân nông thôn đối với xây dựng nông thôn mới**\n\nThông qua kết quả nghiên cứu, khảo sát trong quá trình xây dựng Đề án, có số liệu phân tích, đánh giá mức độ hài lòng của người dân nông thôn về quá trình tổ chức, chỉ đạo triển khai xây dựng nông thôn mới; về phát huy vai trò tham gia của cộng đồng dân cư nông thôn; về kết quả thực hiện các nội dung xây dựng nông thôn mới. Tổng hợp những vấn đề/ý kiến đề xuất của người dân.\n\n**3\\. Tình hình chỉ đạo, triển khai thực hiện Chương trình MTQG xây dựng nông thôn mới giai đoạn 2021-2025 và kết quả thực hiện đến hết năm 2022**\n\n**3.1. Công tác chỉ đạo, ban hành các văn bản**\n\n\\- Kết quả thành lập, kiện toàn bộ máy chỉ đạo, điều hành.\n\n\\- Kết quả ban hành các văn bản triển khai thực hiện Chương trình.\n\n\\- Kết quả thực hiện công tác tuyên truyền, vận động, tập huấn.\n\n\\- Kết quả thực hiện các chương trình chuyên đề.\n\n**3.2. Kết quả thực hiện các nội dung thành phần của Chương trình**\n\n\\- Quy hoạch.\n\n\\- Hạ tầng kinh tế - xã hội.\n\n\\- Tổ chức sản xuất, giam nghèo và phát triển kinh tế nông thôn.\n\n\\- Y tế, Văn hóa, Giáo dục.\n\n\\- Bảo vệ môi trường, xây dựng cảnh quan nông thôn.\n\n\\- Hành chính công, chuyển đổi số, tiếp cận pháp luật, bình đẳng giới.\n\n\\- Phát huy vai trò của Mặt trận Tổ quốc và các tổ chức chính trị - xã hội.\n\n\\- An ninh trật tự.\n\n\\- Giám sát, đánh giá.\n\n**3.3. Kết quả đạt chuẩn nông thôn mới ở các cấp**\n\n\\- Số lượng, tỷ lệ xã đạt chuẩn nông thôn mới, nông thôn mới nâng cao, nông thôn mới kiểu mẫu.\n\n\\- Số lượng, tỷ lệ huyện đạt chuẩn nông thôn mới.\n\n**3.4. Thực trạng xây dựng nông thôn mới cấp xã, cấp huyện so với các bộ tiêu chí quốc gia về nông thôn mới giai đoạn 2021-2025**\n\n\\- Thực trạng 382 xã so với Bộ tiêu chí quốc gia về nông thôn mới giai đoạn 2021 - 2025.\n\n\\- Thực trạng các xã nông thôn mới nâng cao so với Bộ tiêu chí quốc gia về nông thôn mới nâng cao giai đoạn 2021-2025.\n\n\\- Thực trạng 17 huyện và thị xã Sơn Tây so với Bộ tiêu chí quốc gia về huyện nông thôn mới, thị xã hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025.\n\n\\- Thực trạng các huyện phấn đấu đạt chuẩn nông thôn mới nâng cao so với Bộ tiêu chí quốc gia về huyện nông thôn mới nâng cao giai đoạn 2021-2025.\n\n**3.5. Thực trạng chung thành phố Hà Nội so với quy định tỉnh, thành phố trực thuộc Trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025**\n\nSo sánh hiện trạng xây dựng nông thôn mới của thành phố Hà Nội với 08 quy định tại Quyết định số [321/QĐ-TTg](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/quyet-dinh-321-qd-ttg-2022-tinh-hoan-thanh-nhiem-vu-xay-dung-nong-thon-moi-2021-2025-505884.aspx \"Quyết định 321/QĐ-TTg\") ngày 08/3/2022 của Thủ tướng Chính phủ về việc quy định tỉnh, thành phố trực thuộc Trung ương hoàn thành nhiệm vụ xây dựng nông thôn mới giai đoạn 2021-2025, theo đó:\n\n(1) Có 100% số huyện đạt chuẩn nông thôn mới;\n\n(2) Có 100% số thị xã, thành phố hoàn thành nhiệm vụ xây dựng nông thôn mới;\n\n(3) Có ít nhất 20% số huyện đạt chuẩn nông thôn mới nâng cao;\n\n(4) Có ít nhất 40% số xã đạt chuẩn nông thôn mới nâng cao;\n\n(5) Có Đề án xây dựng nông thôn mới giai đoạn 2021-2025 được Hội đồng nhân dân thành phố thông qua;\n\n(6) Có ít nhất 70% số km đường huyện, đường tỉnh, quốc lộ trên địa bàn được trồng cây xanh dọc tuyến đường;\n\n(7) Đất cây xanh sử dụng công cộng trên địa bàn tối thiểu là 4 m2/người;\n\n(8) Chỉ số hài lòng của người dân, tổ chức đối với sự phục vụ của cơ quan hành chính nhà nước thuộc tỉnh, thành phố trực thuộc trung ương quản lý đạt từ 90% trở lên.\n\n**III. ĐÁNH GIÁ CHUNG NHỮNG THÀNH TỰU VÀ HẠN CHẾ TRONG XÂY DỰNG NÔNG THÔN MỚI**\n\n**1\\. Thành tựu nổi bật và nguyên nhân**\n\n1.1. Thành tựu nổi bật\n\n1.2. Nguyên nhân của thành tựu\n\n**2\\. Tồn tại, hạn chế và nguyên nhân**\n\n2.1. Tồn tại, hạn chế\n\n2.2. Nguyên nhân của tồn tại, hạn chế\n\n**3\\. Bài học kinh nghiệm**\n\n**PHẦN THỨ HAI**\n\n**PHÂN TÍCH CÁC YẾU TỐ TÁC ĐỘNG TỚI QUÁ TRÌNH THỰC HIỆN CHƯƠNG TRÌNH ĐẾN NĂM 2025**\n\n**I. ẢNH HƯỞNG CỦA BỐI CẢNH QUỐC TẾ**\n\n\\- Mô tả thực trạng bối cảnh quốc tế hiện nay (hội nhập, dịch bệnh, phát triển công nghệ....);\n\n\\- Phân tích thực trạng và năng lực đáp ứng của thành phố Hà Nội trong các bối cảnh mới;\n\n\\- Đánh giá cơ hội, thách thức đối với thành phố Hà Nội trong xây dựng nông thôn mới nói riêng và phát triển nông nghiệp, nông thôn, nông dân nói chung.\n\n**II. TÁC ĐỘNG CỦA CÁC YẾU TỐ NỘI TẠI**\n\n**1\\. Yếu tố phát triển kinh tế, xã hội**\n\n\\- Những thành tựu trong phát triển kinh tế, xã hội của thành phố Hà Nội trong giai đoạn vừa qua;\n\n\\- Những tồn tại hạn chế;\n\n\\- Quan điểm, định hướng phát triển kinh tế xã hội giai đoạn tới.\n\n**2\\. Yếu tố nguồn lực xây dựng nông thôn mới**\n\n\\- Chính sách huy động và sử dụng nguồn lực trong xây dựng nông thôn mới\n\n\\- Công tác triển khai thực hiện huy động và sử dụng nguồn lực\n\n**3\\. Tác động của phát triển khoa học, công nghệ**\n\n\\- Thành tựu nổi bật trong phát triển khoa học, công nghệ của thành phố Hà Nội trong giai đoạn vừa qua: công tác nghiên cứu, chuyển giao, phát triển mô hình ứng dụng khoa học kỹ thuật, ứng dụng công nghệ cao... góp phần nâng cao năng suất và giá trị sản phẩm;\n\n\\- Thành tựu nổi bật của khoa học và công nghệ trong Chương trình MTQG xây dựng Nông thôn mới giai đoạn vừa qua: chuyển đổi cơ cấu cây trồng, vật nuôi; áp dụng các quy trình sản xuất tiên tiến, thân thiện với môi trường (VietGAP, Global GAP...); công tác bảo quản và chế biến sản phẩm; phát triển chuỗi giá trị..\n\n\\- Những tồn tại, khó khăn và thách thức.\n\n**4\\. Tác động của thiên tai, dịch bệnh, biến đổi khí hậu**\n\n\\- Tác động và yêu cầu trong phòng chống thiên tai\n\n\\- Tác động và yêu cầu trong công tác phòng chống dịch bệnh trên người cũng như trên các loại cây trồng, vật nuôi\n\n\\- Tác động và yêu cầu thích ứng với biến đổi khí hậu\n\n**5\\. Tác động của quá trình đô thị hóa đến xây dựng nông thôn mới**\n\n\\- Thành tựu nổi bật quả quá trình phát triển kinh tế, đô thị hóa của thành phố Hà Nội thời gian qua;\n\n\\- Ảnh hưởng, tác động của quá trình đô thị hóa đến phát triển nông nghiệp nông thôn;\n\n\\- Những vấn đề cần giải quyết trong xây dựng nông thôn mới nhằm đáp ứng với quá trình đô thị hóa của thành phố Hà Nội.\n\n6\\. Phân tích điểm mạnh, điểm yếu, cơ hội, thách thức đối với quá trình xây dựng nông thôn mới đến năm 2025\n\nPhân tích những điểm mạnh, điểm yếu, cơ hội cũng như những thách thức đối với quá trình xây dựng nông thôn mới trên địa bàn Thành phố trong giai đoạn tới.\n\n**PHẦN THỨ BA**\n\n**QUAN ĐIỂM, MỤC TIÊU, NỘI DUNG, NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA XÂY DỰNG NÔNG THÔN MỚI THÀNH PHỐ HÀ NỘI GIAI ĐOẠN 2021-2025**\n\n**I. QUAN ĐIỂM**\n\n1\\. Xây dựng nông thôn mới là nhiệm vụ quan trọng, có ý nghĩa chiến lược trong sự nghiệp xây dựng Thủ đô Hà Nội văn minh, hiện đại. Vì vậy, xây dựng nông thôn mới cần được sự tập trung lãnh đạo, chỉ đạo và tổ chức thực hiện của các cấp ủy Đảng, chính quyền, đoàn thể các cấp bảo đảm hoàn thành các mục tiêu của đề án đề ra.\n\n2\\. Xây dựng nông thôn mới phải tuân thủ theo quy hoạch tổng thể phát triển kinh tế xã hội Thủ đô, quy hoạch chung Thủ đô đến năm 2030, tầm nhìn 2050 và các quy hoạch ngành, quy hoạch kinh tế xã hội các huyện, thị xã.\n\n3\\. Xây dựng nông thôn mới vừa đáp ứng yêu cầu công nghiệp hoá, hiện đại hoá, vừa bảo tồn phát huy giá trị văn hóa truyền thống, giữ gìn bản sắc dân tộc, góp phần xây dựng Thủ đô phát triển bền vững có môi trường xanh, sạch, đẹp.\n\n4\\. Xây dựng nông thôn mới trên tinh thần phát huy nội lực của cộng đồng, ý chí tự chủ, tự lực, tự cường của nhân dân là chính, kết hợp với sự hỗ trợ của nhà nước và phù hợp với điều kiện từng cơ sở.\n\n5\\. Xây dựng nông thôn mới cần triển khai đồng bộ, toàn diện trên toàn Thành phố có sự tập trung ưu tiên cho điểm. Đồng thời triển khai xây dựng cơ sở hạ tầng thiết yếu và phát triển Kinh tế xã hội, phấn đấu đến năm 2015 cơ bản các xã trong Thành phố đạt các tiêu chí về xây dựng cơ sở hạ tầng kinh tế, văn hóa và xã hội.\n\n**II. MỤC TIÊU**\n\n**1\\. Mục tiêu chung**\n\nĐẩy mạnh thực hiện hiệu quả Chương trình MTQG xây dựng nông thôn mới theo hướng phát triển đô thị với mục tiêu tổng quát là: “Xây dựng nông thôn mới cần thực hiện thực chất hơn, thiết thực hơn, hiệu quả và bền vững hơn gắn liền với quá trình đô thị hóa, có điểm đầu nhưng không có điểm kết thúc, nông thôn mới phồn vinh, văn minh và hiện đại; xây dựng kết cấu hạ tầng kinh tế - xã hội nông thôn đồng bộ, phù hợp theo tiêu chí đô thị; kinh tế nông thôn phát triển mạnh mẽ và bền vững, trình độ sản xuất tiên tiến, hiện đại và chuyên nghiệp, sản phẩm có sức cạnh tranh cao, sản xuất nông nghiệp gắn với phát triển thương mại, dịch vụ, du lịch và chủ động ứng phó với biến đổi khí hậu; xã hội nông thôn dân chủ, bình đẳng, ổn định, giàu bản sắc văn hóa, nông dân giàu có; môi trường, cảnh quan, không gian nông thôn sáng, xanh, sạch, đẹp, văn minh; hệ thống chính trị ở nông thôn được tăng cường; quốc phòng và an ninh, trật tự an toàn xã hội được giữ vững trên địa bàn Thủ đô”\n\n**2\\. Mục tiêu cụ thể đến hết năm 2025**\n\n\\- Thành phố Hà Nội hoàn thành nhiệm vụ xây dựng nông thôn mới;\n\n\\- Có 100% số huyện trên địa bàn đạt chuẩn nông thôn mới giai đoạn 2021- 2025; 20% số huyện đạt chuẩn nông thôn mới nâng cao; 40% số xã đạt chuẩn nông thôn mới nâng cao; 20% số xã đạt chuẩn nông thôn mới kiểu mẫu.\n\n\\- Có ít nhất 2.000 sản phẩm OCOP được Thành phố đánh giá, phân hạng;\n\n\\- Thu nhập của nông dân khu vực nông thôn đạt 80 triệu đồng/người/năm; tỷ lệ lao động có việc làm thường xuyên đạt trên 95%; tỷ lệ lao động qua đào tạo đạt từ 75-80%; tỷ lệ lao động có bằng cấp, chứng chỉ đạt từ 55-60%; cơ bản không còn hộ nghèo theo tiêu chuẩn của Thành phố; tỷ lệ người dân tham gia bảo hiểm y tế ở các huyện, thị xã đạt trên 95%.\n\n\\- Tỷ lệ thôn, làng được công nhận và giữ danh hiệu Thôn, Làng văn hóa đạt 65%; tỷ lệ Gia đình được công nhận giữ vững danh hiệu Gia đình văn hóa đạt từ 86-88%. Tỷ lệ trường công lập đạt chuẩn quốc giá từ 80-85%. Duy trì 100% xã đạt chuẩn quốc gia về y tế. 100% số thôn có nhà văn hóa - khu thể thao thôn.\n\n\\- Tỷ lệ xã có điểm phục vụ bưu chính có người phục vụ đạt 100%; tỷ lệ thôn được phủ sóng 3G/4G/5G hoặc internet băng rộng đạt 100%.\n\n\\- Tỷ lệ hộ dân được cung cấp nước sạch đạt 100%\n\n\\- Tỷ lệ thu gom và xử lý chất thải rắn sinh hoạt nông thôn đảm bảo theo quy định đạt 100%; tỷ lệ chất thải nguy hại được xử lý đạt 100%; tỷ lệ chất thải y tế được xử lý đạt tiêu chuẩn môi trường đạt 100%; tỷ lệ cụm công nghiệp, cụm công nghiệp làng nghề có trạm xử lý nước thải đạt 100%.\n\n**III. NỘI DUNG, NHIỆM VỤ TRỌNG TÂM**\n\n**1\\. Tập trung lãnh đạo, chỉ đạo quyết liệt, ưu tiên nguồn lực hỗ trợ các xã, huyện đạt mục tiêu của Thành phố theo Chương trình số 04-CTr/TU của Thành ủy.**\n\n**2\\. Nhóm nhiệm vụ thực hiện các nội dung xây dựng nông thôn mới**\n\n2.1. Nâng cao hiệu quả quản lý và thực hiện xây dựng nông thôn mới theo quy hoạch nhằm nâng cao đời sống kinh tế - xã hội nông thôn gắn với quá trình đô thị hoá;\n\n2.2. Xây dựng kết cấu hạ tầng kinh tế - xã hội nông thôn theo hướng phát triển đô thị;\n\n2.3. Tiếp tục thực hiện có hiệu quả cơ cấu lại ngành nông nghiệp, phát triển kinh tế nông thôn; triển khai mạnh mẽ Chương trình Mỗi xã một sản phẩm (OCOP) nhằm nâng cao giá trị gia tăng, phù hợp với quá trình chuyển đổi số, thích ứng với biến đổi khí hậu; phát triển mạnh ngành nghề nông thôn; phát triển du lịch nông thôn; nâng cao hiệu quả hoạt động của các HTX; hỗ trợ các doanh nghiệp khởi nghiệp ở nông thôn; nâng cao chất lượng đào tạo nghề cho lao động nông thôn... góp phần nâng cao thu nhập người dân theo hướng bền vững;\n\n2.4. Nâng cao chất lượng giáo dục, y tế và chăm sóc sức khỏe người dân nông thôn;\n\n2.5. Nâng cao chất lượng đời sống văn hóa của người dân nông thôn; bảo tồn và phát huy các giá trị văn hóa truyền thống theo hướng bền vững gắn với phát triển du lịch nông thôn;\n\n2.6. Nâng cao chất lượng môi trường; xây dựng cảnh quan nông thôn sáng - xanh - sạch - đẹp, an toàn; giữ gìn và khôi phục cảnh quan truyền thống;\n\n2.7. Đẩy mạnh và nâng cao chất lượng các dịch vụ hành chính công; nâng cao chất lượng hoạt động của chính quyền cơ sở; thúc đẩy quá trình chuyển đổi số trong nông thôn mới, tăng cường ứng dụng công nghệ thông tin, công nghệ số, xây dựng nông thôn mới thông minh; bảo đảm và tăng cường khả năng tiếp cận pháp luật cho người dân; tăng cường giải pháp nhằm đảm bảo bình đẳng giới và phòng chống bạo lực trên cơ sở giới;\n\n2.8. Đẩy mạnh và nâng cao chất lượng các dịch vụ hành chính công; nâng cao chất lượng hoạt động của chính quyền cơ sở; thúc đẩy quá trình chuyển đổi số trong nông thôn mới, tăng cường ứng dụng công nghệ thông tin, công nghệ số, xây dựng nông thôn mới thông minh; bảo đảm và tăng cường khả năng tiếp cận pháp luật cho người dân; tăng cường giải pháp nhằm đảm bảo bình đẳng giới và phòng chống bạo lực trên cơ sở giới;\n\n2.9. Nâng cao chất lượng, phát huy vai trò của Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội trong xây dựng nông thôn mới;\n\n2.10. Giữ vững quốc phòng, an ninh và trật tự xã hội nông thôn\n\n2.11. Tổ chức thực hiện hiệu quả các chương trình chuyên đề\n\n**3\\. Chương trình trọng điểm**\n\n**IV. NHU CẦU NGUỒN LỰC TRIỂN KHAI ĐỀ ÁN**\n\n**1\\. Ngân sách Trung ương**\n\n**2\\. Ngân sách địa phương**\n\n_a) Nguồn ngân sách_\n\nb) Nguyên tắc quản lý, sử dụng nguồn vốn thực hiện Chương trình\n\n**V. HIỆU QUẢ THỰC HIỆN ĐỀ ÁN**\n\n1\\. Hiệu quả về kinh tế\n\n2\\. Hiệu quả về xã hội\n\n3\\. Hiệu quả về môi trường\n\n**VI. GIẢI PHÁP THỰC HIỆN**\n\n1\\. Giải pháp tăng cường sự lãnh đạo của Đảng, nâng cao hiệu quả quản lý nhà nước và phát huy vai trò của các tổ chức chính trị - xã hội trong xây dựng nông thôn mới.\n\n2\\. Giải pháp tăng cường công tác tuyên truyền, vận động, giáo dục nâng cao nhận thức về xây dựng nông thôn mới.\n\n3\\. Giải pháp về quy hoạch và tổ chức triển khai quy hoạch.\n\n4\\. Giải pháp phát triển hạ tầng nông nghiệp nông thôn, hạ tầng thương mại.\n\n5\\. Giải pháp phát triển cơ giới hóa nông nghiệp, công nghiệp chế biến, công nghiệp hỗ trợ và dịch vụ logictis.\n\n6\\. Giải pháp phát triển sản xuất nâng cao thu nhập cho người dân..\n\n7\\. Giải pháp phát triển du lịch nông thôn, du lịch làng nghề gắn với xây dựng nông thôn mới.\n\n8\\. Giải pháp nâng cấp cơ sở vật chất ngành giáo dục gắn với nâng cao chất lượng giáo dục đào tạo và nguồn nhân lực ở nông thôn.\n\n9\\. Giải pháp tăng cường năng lực hệ thống y tế tuyến huyện, xã, nhất là khu vực nông thôn miền núi, biên giới hải đảo, đảm bảo chủ động ứng phó với mọi mình huống của thiên tai, dịch bệnh; nâng cao chất lượng chăm sóc và bảo vệ sức khỏe nhân dân.\n\n10\\. Giải pháp bảo tồn, phát huy giá trị văn hóa các dân tộc, phát triển văn hóa, con người, xây dựng nền văn hóa giàu bản sắc.\n\n11\\. Giải pháp nâng cao chất lượng bảo vệ môi trường; xây dựng cảnh quan nông thôn sáng - xanh - sạch - đẹp và an toàn; giữ gìn và khôi phục cảnh quan truyền thông của nông thôn Việt Nam.\n\n12\\. Giải pháp thực hiện chuyển đổi số trong xây dựng nông thôn mới nâng cao, nông thôn mới kiểu mẫu.\n\n13\\. Giải pháp về huy động và sử dụng nguồn lực.\n\n14\\. Giải pháp tổ chức bộ máy và giám sát.\n\n**VII. TỔ CHỨC TRIỂN KHAI**\n\n1\\. UBND Thành phố\n\n2\\. Các Sở, ngành là thành viên Ban Chỉ đạo Chương trình MTQG Thành phố;\n\n3\\. Phân công nhiệm vụ các Sở, ban, ngành của Thành phố:\n\n4\\. Trách nhiệm của UBND các huyện, thị xã\n\n5\\. Mặt trận Tổ quốc và các tổ chức chính trị - xã hội Thành phố\n\n**PHẦN THỨ TƯ**\n\n**KẾT LUẬN VÀ KIẾN NGHỊ**\n\n**I. KẾT LUẬN**\n\n**II. KIẾN NGHỊ**\n\n1\\. Kiến nghị Trung ương\n\n2\\. Kiến nghị Thành Ủy và HĐND Thành phố\n\n  \n\n* * *\n\n[1](#_ftnref1) Gồm các huyện Đan Phượng, Đông Anh, Thanh Trì. Hoài Đức, Gia Lâm, Quốc Oai, Thường Tín, Thạch Thất, Thanh Oai, Phúc Thọ, Sóc Sơn, Phú Xuyên, Chương Mỹ, Mê Linh và thị xã Sơn Tây (03 huyện chưa đạt chuẩn NTM gồm: Ba Vì, Mỹ Đức và Ứng Hòa, dự kiến trình Trung ương công nhận năm 2023).",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

@@ -1,0 +1,480 @@
+{
+  "title": "Quyết định 20/2020/QĐ-UBND về Quy chế thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Bình Thuận",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Thông tư 32/2018/TT-BTNMT về thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ lưu trữ, bảo quản, công bố, cung cấp và sử dụng do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "32/2018/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Trần Quý Kiên"
+      ],
+      "issuedDate": "2018-12-26",
+      "effectiveDate": "2019-02-08",
+      "gazetteDate": "2019-01-29",
+      "gazetteNumber": "Từ số 105 đến số 106",
+      "status": "Hết hiệu lực: 15/04/2022"
+    },
+    {
+      "title": "Nghị định 73/2017/NĐ-CP về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường",
+      "id": "73/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-06-14",
+      "effectiveDate": "2017-08-01",
+      "gazetteDate": "2017-06-28",
+      "gazetteNumber": "Từ số 469 đến số 470",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tiếp cận thông tin 2016",
+      "id": "104/2016/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2016-04-06",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2016-05-19",
+      "gazetteNumber": "Từ số 341 đến số 342",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn thông tin mạng 2015",
+      "id": "86/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-19",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-12-28",
+      "gazetteNumber": "Từ số 1239 đến số 1240",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật lưu trữ 2011",
+      "id": "01/2011/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2011-11-11",
+      "effectiveDate": "2012-07-01",
+      "gazetteDate": "2012-02-19",
+      "gazetteNumber": "Từ số 163 đến số 164",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Sở hữu trí tuệ sửa đổi 2009",
+      "id": "36/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-06-19",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-08-12",
+      "gazetteNumber": "Từ số 377 đến số 378",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Sở hữu trí tuệ 2005",
+      "id": "50/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Sở hữu trí tuệ",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-07-01",
+      "gazetteDate": "2006-02-18",
+      "gazetteNumber": "Từ số 33 đến số 34",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 3705/KH-UBND năm 2021 triển khai Đề án “Hoàn thiện cơ sở dữ liệu tài nguyên và môi trường kết nối liên thông với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương phục vụ chuyển đổi số tài nguyên và môi trường giai đoạn 2021-2025, định hướng đến năm 2030 trên địa bàn tỉnh Bến Tre”",
+      "id": "3705/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Trần Ngọc Tam"
+      ],
+      "issuedDate": "2021-07-01",
+      "effectiveDate": "2021-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 11/2021/QĐ-UBND về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường; khai thác và sử dụng Cơ sở dữ liệu tài nguyên và môi trường trên địa bàn thành phố Đà Nẵng",
+      "id": "11/2021/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Đà Nẵng",
+      "signers": [
+        "Lê Trung Chinh"
+      ],
+      "issuedDate": "2021-06-04",
+      "effectiveDate": "2021-06-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 38/KH-UBND năm 2021 thực hiện Đề án “Hoàn thiện cơ sở dữ liệu tài nguyên và môi trường kết nối liên thông với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương\" trên địa bàn thành phố Hải Phòng",
+      "id": "38/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Lê Anh Quân"
+      ],
+      "issuedDate": "2021-02-26",
+      "effectiveDate": "2021-02-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 54/2020/QĐ-UBND về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Thừa Thiên Huế",
+      "id": "54/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Phan Thiên Định"
+      ],
+      "issuedDate": "2020-11-07",
+      "effectiveDate": "2020-11-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2800/QĐ-UBND năm 2020 về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Khánh Hòa",
+      "id": "2800/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Khánh Hòa",
+      "signers": [
+        "Lê Hữu Hoàng"
+      ],
+      "issuedDate": "2020-10-16",
+      "effectiveDate": "2020-10-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 14/2020/QĐ-UBND về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Bắc Kạn",
+      "id": "14/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Lý Thái Hải"
+      ],
+      "issuedDate": "2020-09-17",
+      "effectiveDate": "2020-09-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3090/QĐ-UBND năm 2020 công bố danh mục thông tin, dữ liệu tài nguyên và môi trường trên địa bàn Thành phố Hồ Chí Minh",
+      "id": "3090/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Võ Văn Hoan"
+      ],
+      "issuedDate": "2020-08-25",
+      "effectiveDate": "2020-08-25",
+      "gazetteDate": "2020-10-01",
+      "gazetteNumber": "Từ số 200 đến số 201",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2607/QĐ-UBND năm 2020 công bố Danh mục thông tin, dữ liệu tài nguyên và môi trường trên địa bàn thành phố Hồ Chí Minh",
+      "id": "2607/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Võ Văn Hoan"
+      ],
+      "issuedDate": "2020-07-24",
+      "effectiveDate": "2020-07-24",
+      "gazetteDate": "2020-09-01",
+      "gazetteNumber": "Từ số 176 đến số 177",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 08/2020/NQ-HĐND quy định về mức chi thiết lập Cụm thông tin cơ sở tại Cửa khẩu Quốc tế Bình Hiệp do tỉnh Long An ban hành",
+      "id": "08/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Tỉnh Long An",
+      "signers": [
+        "Phạm Văn Rạnh"
+      ],
+      "issuedDate": "2020-07-09",
+      "effectiveDate": "2020-07-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Kế hoạch 243/KH-UBND năm 2020 về triển khai cập nhật, kết nối cơ sở dữ liệu và phần mềm dùng chung của tỉnh trên nền tảng LGSP; tích hợp, chia sẻ với các cơ sở dữ liệu và hệ thống thông tin quốc gia NGSP do tỉnh Bắc Kạn ban hành",
+      "id": "243/KH-UBND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Lý Thái Hải"
+      ],
+      "issuedDate": "2020-05-11",
+      "effectiveDate": "2020-05-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Quyết định 313/QĐ-UBND năm 2020 về Chương trình hành động thực hiện Kế hoạch 79-KH/TU thực hiện Kết luận 56-KL/TW về tiếp tục thực hiện Nghị quyết về chủ động ứng phó với biến đổi khí hậu, tăng cường quản lý tài nguyên và bảo vệ môi trường do tỉnh Bắc Giang ban hành",
+      "id": "313/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Lại Thanh Sơn"
+      ],
+      "issuedDate": "2020-04-17",
+      "effectiveDate": "2020-04-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 04/2020/QĐ-UBND về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường; khai thác và sử dụng cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Lâm Đồng",
+      "id": "04/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Đoàn Văn Việt"
+      ],
+      "issuedDate": "2020-02-18",
+      "effectiveDate": "2020-03-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 05/2020/QĐ-UBND về Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu; khai thác và sử dụng cơ sở dữ liệu trong lĩnh vực tài nguyên và môi trường trên địa bàn tỉnh Đắk Lắk",
+      "id": "05/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Đắk Lắk",
+      "signers": [
+        "Phạm Ngọc Nghị"
+      ],
+      "issuedDate": "2020-01-20",
+      "effectiveDate": "2020-01-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 37/2019/QĐ-UBND về Quy chế khai thác và sử dụng Cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Bà Rịa - Vũng Tàu",
+      "id": "37/2019/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Lê Tuấn Quốc"
+      ],
+      "issuedDate": "2019-12-20",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "20/2020/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Tài nguyên - Môi trường"
+  ],
+  "organization": "Tỉnh Bình Thuận",
+  "signers": [
+    "Nguyễn Ngọc Hai"
+  ],
+  "issuedDate": "2020-06-22",
+  "effectiveDate": "2020-07-01",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA3ADEAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH BÌNH THUẬN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số:\n  20/2020/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bình Thuận, ngày\n  22 tháng 6 năm 2020</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">BAN HÀNH QUY CHẾ THU THẬP, QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG\nTHÔNG TIN, DỮ LIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH BÌNH THUẬN</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tổ chức chính\nquyền địa phương ngày 19 tháng 6 năm 2015; </i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Ban hành văn bản\nquy phạm pháp luật ngày 22 tháng 6 năm 2015;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Lưu trữ ngày 11\ntháng 11 năm 2011;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Sở hữu trí tuệ\nngày 29 tháng 11 năm 2005; Luật sửa đổi, bổ sung một số điều của Luật sở hữu\ntrí tuệ ngày 19 tháng 6 năm 2009;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Công nghệ thông\ntin ngày 29 tháng 6 năm 2006;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật An toàn thông\ntin mạng ngày 19 tháng 11 năm 2015; </i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tiếp cận thông\ntin ngày 06 tháng 4 năm 2016;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai\nthác và sử dụng thông tin, dữ liệu tài nguyên và môi trường;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Thông tư số\n32/2018/TT-BTNMT ngày 26 tháng 12 năm 2018 của Bộ trưởng Bộ Tài nguyên và Môi\ntrường quy định thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ\nlưu trữ, bảo quản, công bố, cung cấp và sử dụng;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Theo đề nghị của Giám đốc Sở\nTài nguyên và Môi trường tại Tờ trình số 266/TTr-STNMT ngày 28 tháng 5 năm\n2020.</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>Điều 1.</b></a><b>\n</b><a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này Quy chế thu thập, quản\nlý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi\ntrường trên địa bàn tỉnh.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>Điều 2.</b></a><b>\n</b><a name=\"dieu_2_name\">Quyết định này có hiệu lực thi hành kể từ ngày 01\ntháng 7 năm 2020 và thay thế Quyết định số 37/2013/QĐ-UBND ngày 20 tháng 8 năm\n2013 của Ủy ban nhân dân tỉnh về việc ban hành Quy chế thu thập, quản lý, khai\nthác, sử dụng dữ liệu về tài nguyên và môi trường áp dụng trên địa bàn tỉnh.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>Điều 3.</b></a><b>\n</b><a name=\"dieu_3_name\">Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc các Sở:\nTài nguyên và Môi trường, Nội vụ, Tài chính, Xây dựng, Nông nghiệp và Phát triển\nNông thôn, Giao thông Vận tải, Văn hóa Thể thao và Du lịch, Kế hoạch và Đầu tư,\nCông thương, Khoa học và Công nghệ, Thông tin và Truyền thông; Trưởng Ban Quản\nlý các Khu Công nghiệp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành\nphố và Thủ trưởng các cơ quan, đơn vị, cá nhân có liên quan chịu trách nhiệm\nthi hành Quyết định này./.</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i>&nbsp;</i></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA3ADEAOAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Bộ Tài nguyên và Môi trường (để báo\n  cáo);&nbsp; <br>\n  - Cục kiểm tra văn bản - Bộ Tư pháp<br>\n  - Chủ tịch, các PCT và Ủy viên UBND tỉnh;<br>\n  - Như Điều 5;<br>\n  - Trung tâm Thông tin;<br>\n  - Lưu: VT, TH, KT. Đức</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Ngọc Hai</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_2_name\">QUY CHẾ THU THẬP, QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ\nLIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH</a><br>\n<i>(Ban hành kèm theo Quyết định số 20/2020/QĐ-UBND ngày 22 tháng 6 năm 2020 của\nỦy ban nhân dân tỉnh Bình Thuận)</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_1\"><b>Chương I</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1_1\"><b>Điều 1.\nPhạm vi điều chỉnh và đối tượng áp dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Quy chế này quy định việc\nthu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài\nnguyên và môi trường trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Quy chế này áp dụng đối với\ncơ quan nhà nước, tổ chức, cá nhân có liên quan đến hoạt động thu thập, quản\nlý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi\ntrường trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2_1\"><b>Điều 2.\nCơ sở dữ liệu tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Thông tin, dữ liệu, cơ sở dữ\nliệu tài nguyên và môi trường (sau đây gọi tắt là dữ liệu tài nguyên và môi trường)\nlà tập hợp thông tin, dữ liệu tài nguyên và môi trường đã được kiểm tra, đánh\ngiá và tổ chức quản lý, lưu trữ một cách có hệ thống, được xây dựng, cập nhật\nvà duy trì phục vụ quản lý nhà nước và các hoạt động kinh tế - xã hội, quốc\nphòng, an ninh, nghiên cứu khoa học, giáo dục đào tạo và nâng cao dân trí.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Dữ liệu tài nguyên và môi trường\ntỉnh là cơ sở dữ liệu tích hợp, tập hợp từ thông tin, dữ liệu về tài nguyên và\nmôi trường thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh do Sở Tài nguyên và\nMôi trường xây dựng, lưu trữ, quản lý. Thông tin, dữ liệu tài nguyên và môi trường\nlà các thông tin, dữ liệu được quy định tại Điều 4 Nghị định số 73/2017/NĐ-CP\nngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng\nthông tin, dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3_1\"><b>Điều 3.\nCác hành vi nghiêm cấm</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Chiếm đoạt, làm hỏng, cố ý\nlàm mất dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Làm giả, sửa chữa, làm sai lệch\nnội dung dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Truy cập, mua bán, chuyển\ngiao, hủy trái phép dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Sử dụng dữ liệu tài nguyên\nvà môi trường vào mục đích trái pháp luật, xâm phạm lợi ích nhà nước, quyền và\nlợi ích hợp pháp của cơ quan, tổ chức, cá nhân.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Lợi dụng việc cung cấp cơ sở\ndữ liệu để sách nhiễu, trục lợi, phát tán các dữ liệu trái với quy định của\npháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">6. Các hành vi bị nghiêm cấm\nkhác theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>Điều 4.\nKinh phí khai thác và sử dụng dữ liệu tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Kinh phí thu thập, xử lý; tổ\nchức quản lý thông tin, dữ liệu ngành tài nguyên và môi trường; xây dựng, cập\nnhật, vận hành dữ liệu về tài nguyên và môi trường do nhà nước quản lý được\nngân sách nhà nước đảm bảo theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Kinh phí khai thác và sử dụng\ndữ liệu tài nguyên và môi trường thực hiện theo quy định pháp luật về phí và lệ\nphí.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_2\"><b>Chương II</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt\">THU THẬP THÔNG TIN, DỮ\nLIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>Điều 5.\nTrách nhiệm của các cơ quan, tổ chức, cá nhân trong việc thu thập, quản lý và sử\ndụng dữ liệu tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Sở Tài nguyên và Môi trường:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Sở Tài nguyên và Môi trường là\ncơ quan chủ trì, có trách nhiệm giúp Ủy ban nhân dân tỉnh thu thập, cập nhật,\nquản lý, khai thác, chia sẻ và sử dụng dữ liệu tài nguyên và môi trường của địa\nphương, có nhiệm vụ:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Hàng năm, Sở Tài nguyên và\nMôi trường chủ trì, phối hợp với các sở, ban, ngành, UBND các huyện, thị xã,\nthành phố lập và trình Ủy ban nhân dân tỉnh kế hoạch thu thập dữ liệu tài\nnguyên và môi trường của tỉnh theo quy định; tổ chức triển khai, theo dõi, đôn\nđốc việc thực hiện kế hoạch sau khi được phê duyệt;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Chỉ đạo Trung tâm Công nghệ\nThông tin trực thuộc Sở Tài nguyên và Môi trường tiếp nhận, xử lý dữ liệu tài\nnguyên và môi trường; tổ chức, quản lý dữ liệu tài nguyên và môi trường trên\nmôi trường điện tử; xây dựng, vận hành cơ sở dữ liệu, cổng thông tin tài nguyên\nvà môi trường phục vụ lưu trữ, trao đổi, chia sẻ dữ liệu tài nguyên và môi trường\ngiữa các cơ sở dữ liệu trong tỉnh, các tỉnh, thành phố và các bộ, ngành;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Ứng dụng công nghệ thông\ntin, tổ chức tích hợp thông tin, dữ liệu và các ứng dụng nhằm phục vụ các cơ\nquan, tổ chức, cá nhân khai thác hiệu quả, gia tăng giá trị của dữ liệu tài\nnguyên và môi trường;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Lưu trữ, bảo quản, cung cấp\ndữ liệu tài nguyên và môi trường tại Trung tâm Công nghệ Thông tin trực thuộc Sở\nTài nguyên và Môi trường;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Cung cấp dữ liệu dữ liệu tài\nnguyên và môi trường cho các tổ chức, cá nhân theo quy định; ký kết hợp đồng với\ntổ chức, cá nhân về thu thập, tổng hợp, xử lý, lưu trữ và khai thác dữ liệu về\ntài nguyên và môi trường; thu phí khai thác và sử dụng dữ liệu tài nguyên và\nmôi trường địa phương theo quy định;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Tham mưu cho Ủy ban nhân dân\ntỉnh kiểm tra, xem xét, xử lý các đơn vị, tổ chức, cá nhân vi phạm các quy định\nvề thu thập, quản lý, khai thác, chia sẻ và sử dụng dữ liệu về tài nguyên và\nmôi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Sở Thông tin và Truyền\nthông:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Sở Thông tin và Truyền thông có\ntrách nhiệm hướng dẫn, giám sát, hỗ trợ áp dụng các tiêu chuẩn, quy chuẩn kỹ\nthuật ứng dụng công nghệ thông tin, việc kết nối, chia sẻ thông tin, dữ liệu và\nbảo đảm an toàn hệ thống thông tin, cơ sở dữ liệu liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. UBND các huyện, thị xã,\nthành phố:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Có trách nhiệm phối hợp với Sở\nTài nguyên và Môi trường trong việc lập và tổ chức thực hiện kế hoạch thu thập\ndữ liệu về tài nguyên và môi trường hàng năm của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Chỉ đạo phòng Tài nguyên và Môi\ntrường thu thập, phân loại, đánh giá, xử lý dữ liệu tài nguyên và môi trường\ntrên địa bàn huyện, thị xã, thành phố; cung cấp dữ liệu tài nguyên và môi trường\ncho Sở Tài nguyên và Môi trường theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Các sở, ban, ngành:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hàng năm, theo chức năng, nhiệm\nvụ của mình xác định, lập danh mục dữ liệu tài nguyên và môi trường cần thu thập,\ncập nhật, đề xuất kế hoạch thu thập gửi về Sở Tài nguyên và Môi trường trước\nngày 15 tháng 12 hàng năm để tổng hợp, lập dự thảo kế hoạch thu thập dữ liệu về\ntài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Phối hợp với Sở Tài nguyên và\nMôi trường thực hiện kế hoạch thu thập dữ liệu tài nguyên và môi trường trong\nlĩnh vực phụ trách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Tổ chức, cá nhân:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tổ chức, cá nhân trong quá\ntrình thực hiện nhiệm vụ liên quan đến lĩnh vực tài nguyên và môi trường có sử\ndụng nguồn vốn ngân sách sự nghiệp môi trường, sự nghiệp kinh tế, sự nghiệp\nkhoa học và công nghệ (hoặc có nguồn gốc từ ngân sách nhà nước) và các tổ chức,\ndoanh nghiệp khác (thuộc diện phải nộp dữ liệu về tài nguyên và môi trường theo\nquy định của Nhà nước) trên địa bàn tỉnh có trách nhiệm giao nộp dữ liệu tài\nnguyên và môi trường theo Điều 6 Quy chế này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>Điều 6. Thu\nthập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo\nquản, công bố, cung cấp và sử dụng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại Điều\n10, Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về việc\nthu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_7\"><b>Điều 7.\nGiao nộp dữ liệu về tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Các tổ chức, cá nhân thực hiện\nnhiệm vụ tại Khoản 5 Điều 5 của Quy chế này trong thời hạn 03 tháng kể từ ngày\nhoàn thành nghiệm thu sản phẩm có trách nhiệm giao nộp cho Sở Tài nguyên và Môi\ntrường 01 bộ dữ liệu dạng giấy (bản chính, bản gốc) và một bộ dữ liệu dạng số\nlưu trên đĩa CD, DVD.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Các tổ chức, doanh nghiệp\ntrên địa bàn tỉnh Bình Thuận thuộc diện phải lắp đặt thiết bị quan trắc môi trường\ntự động, liên tục theo quy định của Bộ Tài nguyên và Môi trường thực hiện việc\ntruyền kết quả quan trắc môi trường tự động, liên tục trực tiếp về Sở Tài\nnguyên và Môi trường. Đồng thời có trách nhiệm tự bảo quản, bảo dưỡng, duy trì\nvà vận hành thiết bị để đảm bảo tính chính xác của dữ liệu môi trường được quan\ntrắc và truyền về Sở Tài nguyên và Môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Dữ liệu tài nguyên và môi\ntrường khi giao nhận phải được lập thành biên bản và lưu vào hồ sơ theo quy định.\nBiên bản giao nộp hoặc Giấy xác nhận giao nộp dữ liệu cho Sở Tài nguyên và Môi\ntrường là một trong những cơ sở để xác định hoàn thành công trình, dự án hoặc\nnhiệm vụ được giao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_8\"><b>Điều 8. Kiểm\ntra, đánh giá, xử lý, cập nhật dữ liệu</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Dữ liệu tài nguyên và môi\ntrường sau khi thu thập phải được phân loại, tổng hợp, đánh giá và xử lý. Việc\nkiểm tra, đánh giá, xử lý thông tin, dữ liệu tuân thủ theo các quy định, quy phạm,\nquy chuẩn kỹ thuật chuyên ngành đã được cơ quan nhà nước có thẩm quyền ban\nhành, phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Sở Tài nguyên và Môi trường\ncó trách nhiệm kiểm tra, đánh giá, xử lý dữ liệu và chịu trách nhiệm về tính\nchính xác của dữ liệu tài nguyên và môi trường tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Phòng Tài nguyên và Môi trường\ncấp huyện có trách nhiệm kiểm tra, đánh giá, xử lý dữ liệu tài nguyên và môi\ntrường cấp huyện và chịu trách nhiệm về tính chính xác của dữ liệu tài nguyên\nvà môi trường cấp huyện.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_9\"><b>Điều 9. Bảo\nquản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Lưu trữ dữ liệu:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Dữ liệu thu thập được phải\nđược kịp thời phân loại, đánh giá, xử lý về mặt vật lý, hóa học và chuẩn hóa, số\nhóa để lưu trữ, bảo quản trong các kho lưu trữ;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Việc lưu trữ, bảo quản dữ liệu\ntài nguyên và môi trường, tiêu hủy tài liệu hết giá trị phải tuân theo các quy\nđịnh của pháp luật về lưu trữ, các quy định, quy trình, quy phạm và quy chuẩn kỹ\nthuật chuyên ngành;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Trung tâm Công nghệ thông\ntin trực thuộc Sở Tài nguyên và Môi trường có trách nhiệm lưu trữ dữ liệu tài\nnguyên và môi trường của Cơ sở dữ liệu tài nguyên và môi trường tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Bảo đảm an toàn, bảo mật dữ\nliệu số:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Cơ quan chủ quản cơ sở dữ liệu\ntài nguyên và môi trường chịu trách nhiệm bảo đảm an toàn và bảo mật thông tin,\ncó các biện pháp tổ chức, quản lý vận hành, nghiệp vụ và kỹ thuật nhằm bảo đảm\nan toàn, bảo mật dữ liệu, an toàn máy tính và an ninh mạng;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Dữ liệu tài nguyên và môi\ntrường phải được phân loại theo cấp độ an toàn hệ thống thông tin, đáp ứng yêu\ncầu theo tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của pháp luật về an toàn\nthông tin mạng;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Đơn vị chuyên trách về công\nnghệ thông tin thuộc cơ quan chủ quản làm nhiệm vụ bảo đảm an toàn cơ sở dữ liệu,\nthực hiện kiểm tra, đánh giá an toàn thông tin, quản lý rủi ro và các biện pháp\nphù hợp để bảo đảm an toàn thông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_3\"><b>Chương\nIII</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt\">CUNG CẤP, KHAI THÁC,\nCHIA SẺ VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_10\"><b>Điều 10.\nThiết lập và hướng dẫn vận hành hệ thống cơ sở dữ liệu</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Sở Tài nguyên và Môi trường chịu\ntrách nhiệm thiết lập hệ thống dữ liệu tài nguyên và môi trường cấp tỉnh, hướng\ndẫn cho các đơn vị có liên quan vận hành, cập nhật thông tin cho hệ thống.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Thiết lập hệ thống cơ sở dữ\nliệu theo đúng mô hình triển khai đã được phê duyệt, hướng dẫn các đơn vị có\nliên quan đưa hệ thống vào vận hành khai thác:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Thiết lập hạ tầng bao gồm hệ\nthống máy chủ, đường truyền, hệ thống cơ sở dữ liệu theo đúng mô hình triển\nkhai đã được các cấp có thẩm quyền phê duyệt, phù hợp với Khung Kiến trúc Chính\nphủ điện tử Việt Nam và Kiến trúc Chính quyền điện tử cấp tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Phối hợp với các đơn vị liên\nquan, tổ chức đào tạo, triển khai hướng dẫn sử dụng hệ thống cho các đơn vị có\nliên quan đến vận hành khai thác hệ thống cơ sở dữ liệu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Thiết lập cơ sở dữ liệu ban\nđầu cho hệ thống dữ liệu tài nguyên và môi trường cấp tỉnh:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tổ chức kiểm tra các cơ sở dữ\nliệu theo đơn vị hành chính cấp xã do các đơn vị tư vấn thi công xây dựng. Yêu\ncầu các đơn vị làm nhiệm vụ xây dựng, tích hợp cơ sở dữ liệu theo đơn vị hành\nchính cấp xã phải có trách nhiệm kiểm tra, rà soát lại toàn bộ thông tin đã được\nphát hiện, chỉnh sửa và cập nhật vào cơ sở dữ liệu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Ngay sau khi cập nhật vào cơ sở\ndữ liệu, phải tổ chức đưa hệ thống vào vận hành, đảm bảo các biến động tiếp\ntheo được thực hiện trực tiếp trên hệ thống cơ sở dữ liệu thông qua hệ thống phần\nmềm ứng dụng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_11\"><b>Điều 11.\nXây dựng, vận hành và cập nhật thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và\nmôi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Sở Tài nguyên và Môi trường\nlà cơ quan chuyên môn giúp Ủy ban nhân dân tỉnh trong việc chủ trì, phối hợp,\nhướng dẫn các sở, ban, ngành, UBND các huyện, thị xã, thành phố và các tổ chức,\ncá nhân có liên quan trong việc giao nộp và thu thập cơ sở dữ liệu; xây dựng, vận\nhành và cập nhật dữ liệu tài nguyên và môi trường của tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Sở Tài nguyên và Môi trường\ncó trách nhiệm:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">a) Xây dựng các quy trình nghiệp\nvụ, kiểm soát để vận hành, duy trì dữ liệu tài nguyên và môi trường tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">b) Xây dựng kế hoạch, bố trí\nkinh phí bảo đảm thường xuyên, liên tục, định kỳ cập nhật nội dung dữ liệu tài\nnguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">c) Xây dựng và thực hiện các giải\npháp đồng bộ bảo đảm cơ sở dữ liệu có hiệu suất vận hành và sẵn sàng đáp ứng\ncao.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">d) Xây dựng và thực hiện các giải\npháp về sao lưu, dự phòng bảo đảm tính nguyên vẹn, an toàn của cơ sở dữ liệu.\nTrong trường hợp dữ liệu tài nguyên và môi trường hư hỏng, bị phá hủy do các\nhành vi trái phép phải có cơ chế bảo đảm phục hồi được cơ sở dữ liệu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">đ) Giao Văn phòng Đăng ký đất\nđai tỉnh trực thuộc Sở Tài nguyên và Môi trường có trách nhiệm cập nhật cơ sở dữ\nliệu địa chính, cơ sở dữ liệu thống kê kiểm kê đất đai.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">e) Giao Trung tâm Công nghệ\nthông tin trực thuộc Sở Tài nguyên và Môi trường có trách nhiệm thu thập, thu\nnhận dữ liệu tài nguyên và môi trường; xây dựng, tích hợp, kết nối, liên thông,\nquản lý, cập nhật dữ liệu tài nguyên và môi trường phục vụ khai thác, cung cấp\ncơ sở dữ liệu cho các tổ chức, cá nhân có nhu cầu.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">g) Giao Trung tâm Công nghệ\nthông tin trực thuộc Sở Tài nguyên và Môi trường cung cấp thông tin, dữ liệu,\ncơ sở dữ liệu cho các tổ chức, cá nhân có nhu cầu khai thác và sử dụng đúng mục\nđích.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_12\"><b>Điều 12. Bảo\nđảm an toàn và bảo mật thông tin</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Sở Tài nguyên và Môi trường\ntổ chức vận hành hệ thống đảm bảo an toàn và bảo mật thông tin, có các biện\npháp tổ chức, quản lý vận hành, nghiệp vụ và kỹ thuật nhằm bảo đảm an toàn, bảo\nmật dữ liệu an toàn máy tính và an ninh mạng; Tổ chức phân công nhiệm vụ bảo đảm\nan toàn cơ sở dữ liệu, thực hiện kiểm tra, đánh giá an toàn thông tin, quản lý\nrủi ro và các biện pháp phù hợp để bảo đảm an toàn thông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Các cơ quan, tổ chức, cá\nnhân được phép sử dụng hệ thống dữ liệu tài nguyên và môi trường có trách nhiệm\nvận hành hệ thống theo đúng quy định, đảm bảo an ninh an toàn cơ sở dữ liệu và\ntính bảo mật của hệ thống.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Dữ liệu tài nguyên và môi\ntrường tỉnh phải được phân loại theo cấp độ an toàn hệ thống thông tin, đáp ứng\nyêu cầu theo tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của pháp luật về an\ntoàn thông tin mạng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_13\"><b>Điều 13.\nKhai thác và sử dụng dữ liệu tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Hình thức khai thác, sử dụng\nthông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường thực hiện theo quy định\ntại Điều 16 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về\nthu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi\ntrường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_14\"><b>Điều 14.\nKhai thác và sử dụng dữ liệu tài nguyên và môi trường qua trang thông tin hoặc\ncổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại Điều\n17 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập,\nquản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_15\"><b>Điều 15.\nKhai thác và sử dụng dữ liệu tài nguyên và môi trường qua văn bản, phiếu yêu cầu\ncung cấp thông tin, dữ liệu</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại Điều\n18 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập,\nquản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_16\"><b>Điều 16.\nKhai thác và sử dụng dữ liệu tài nguyên và môi trường bằng hình thức hợp đồng</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại Điều\n19 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập,\nquản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_17\"><b>Điều 17.\nTrách nhiệm của tổ chức, cá nhân trong việc khai thác và sử dụng dữ liệu tài\nnguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định theo Điều\n20 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập,\nquản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_18\"><b>Điều 18.\nCông bố danh mục thông tin, dữ liệu tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Danh mục thông tin, dữ liệu\ntài nguyên và môi trường được công bố trên Cổng thông tin điện tử của tỉnh và\ntrang thông tin điện tử của Sở Tài nguyên và Môi trường nhằm phục vụ cho yêu cầu\nphát triển kinh tế - xã hội của tỉnh. Việc công bố danh mục dữ liệu tài nguyên\nvà môi trường phải tuân thủ theo các quy định về bảo vệ bí mật nhà nước trong\nlĩnh vực tài nguyên và môi trường và theo quy định của pháp luật về tiếp cận\nthông tin.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Sở Tài nguyên và Môi trường\nxây dựng danh mục dữ liệu tài nguyên và môi trường trình Ủy ban nhân dân tỉnh\ncông bố theo quy định tại Khoản 2 Điều 15 Nghị định số 73/2017/NĐ-CP ngày 14\ntháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông\ntin, dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_19\"><b>Điều 19.\nPhối hợp, chia sẻ thông tin, dữ liệu về tài nguyên và môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại các\nĐiều 21, Điều 22 và Điều 23 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017\ncủa Chính phủ về việc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu\nvề tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_20\"><b>Điều 20.\nQuyền sở hữu trí tuệ, bảo hộ sở hữu trí tuệ với thông tin, dữ liệu tài nguyên\nvà môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Thực hiện theo quy định tại Điều\n29, Điều 30 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về\nviệc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"chuong_4\"><b>Chương IV</b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"chuong_4_name\"><b><span style=\"font-size:12.0pt\">TỔ CHỨC THỰC HIỆN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_21\"><b>Điều 21.\nTrách nhiệm của Sở Tài nguyên và Môi trường</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Sở Tài nguyên và Môi trường là\ncơ quan chủ trì, có trách nhiệm giúp Ủy ban nhân dân Tỉnh khai thác và sử dụng\ndữ liệu tài nguyên và môi trường, cụ thể:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Hướng dẫn triển khai việc thực\nhiện Quy chế thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở\ndữ liệu tài nguyên và môi trường trên địa bàn tỉnh.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Giao nhiệm vụ cung cấp dữ liệu\ntài nguyên và môi trường cho Trung tâm Công nghệ thông tin nhằm cung cấp cho\ncác tổ chức, cá nhân theo quy định; ký kết hợp đồng với tổ chức, cá nhân về thu\nthập, tổng hợp, xử lý, lưu trữ, khai thác và sử dụng dữ liệu tài nguyên và môi\ntrường; thu chi phí khai thác và sử dụng dữ liệu tài nguyên và môi trường địa\nphương theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">3. Tham mưu cho Ủy ban nhân dân\ntỉnh kiểm tra, xem xét, xử lý các đơn vị, tổ chức, cá nhân vi phạm các quy định\nvề thu thập, quản lý, khai thác, chia sẻ và sử dụng dữ liệu về tài nguyên và\nmôi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">4. Chủ trì, phối hợp với Sở\nThông tin và Truyền thông thiết lập hạ tầng công nghệ thông tin, hệ thống dữ liệu\ntheo đúng mô hình triển khai được phê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">5. Định kỳ hàng năm gửi báo cáo\nvề công tác khai thác và sử dụng dữ liệu tài nguyên và môi trường cho Bộ Tài\nnguyên và Môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_22\"><b>Điều 22.\nTrách nhiệm của Sở Thông tin và Truyền thông</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Phối hợp với Sở Tài nguyên\nvà Môi trường đảm bảo hạ tầng công nghệ thông tin để hỗ trợ quản lý, duy trì,\nlưu trữ dữ liệu tài nguyên và môi trường hoạt động liên tục, hiệu quả.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Chủ trì, phối hợp với Sở Tài\nnguyên và Môi trường tăng cường công tác quản lý nhà nước về công nghệ thông\ntin, đảm bảo tính đồng bộ, thống nhất, phát huy hiệu quả dữ liệu tài nguyên và\nmôi trường phục vụ cho các ngành, các lĩnh vực.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_23\"><b>Điều 23.\nTrách nhiệm của Sở Tài chính</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trên cơ sở dự toán hàng năm của\nngành tài nguyên và môi trường và của sở, ngành, đơn vị, Sở Tài chính tổng hợp,\ntham mưu Ủy ban nhân dân tỉnh cân đối, bố trí kinh phí sự nghiệp hàng năm phục\nvụ hoạt động của hệ thống dữ liệu tài nguyên và môi trường trên môi trường điện\ntử phù hợp khả năng ngân sách địa phương theo quy định của Luật Ngân sách nhà\nnước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_24\"><b>Điều 24.\nTrách nhiệm của các sở, ngành, UBND các huyện, thị xã, thành phố và các tổ chức,\ncá nhân khác có liên quan</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">1. Các sở, ngành, UBND các huyện,\nthị xã, thành phố trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có\ntrách nhiệm tổ chức thực hiện Quy chế này.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2. Các tổ chức, cá nhân có dữ\nliệu tài nguyên và môi trường có trách nhiệm cung cấp dữ liệu cho Sở Tài nguyên\nvà Môi trường để tích hợp vào cơ sở dữ liệu tài nguyên và môi trường cấp tỉnh\nnhằm thống nhất trong khai thác và sử dụng cơ sở dữ liệu tài nguyên và môi trường.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong quá trình thực hiện, nếu phát\nsinh khó khăn vướng mắc, các cơ quan, đơn vị, tổ chức, cá nhân phản ánh kịp thời\nvề Sở Tài nguyên và Môi trường để tổng hợp báo cáo Ủy ban nhân dân tỉnh xem\nxét, quyết định./.</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b>&nbsp;</b></p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BÌNH THUẬN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 20/2020/QĐ-UBND\n\n_Bình Thuận, ngày 22 tháng 6 năm 2020_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ THU THẬP, QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH\n\n**ỦY BAN NHÂN DÂN TỈNH BÌNH THUẬN**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;_\n\n_Căn cứ Luật Lưu trữ ngày 11 tháng 11 năm 2011;_\n\n_Căn cứ Luật Sở hữu trí tuệ ngày 29 tháng 11 năm 2005; Luật sửa đổi, bổ sung một số điều của Luật sở hữu trí tuệ ngày 19 tháng 6 năm 2009;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;_\n\n_Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;_\n\n_Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016;_\n\n_Căn cứ Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường;_\n\n_Căn cứ Thông tư số 32/2018/TT-BTNMT ngày 26 tháng 12 năm 2018 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ lưu trữ, bảo quản, công bố, cung cấp và sử dụng;_\n\n_Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường tại Tờ trình số 266/TTr-STNMT ngày 28 tháng 5 năm 2020._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh.\n\n**Điều 2.** Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2020 và thay thế Quyết định số 37/2013/QĐ-UBND ngày 20 tháng 8 năm 2013 của Ủy ban nhân dân tỉnh về việc ban hành Quy chế thu thập, quản lý, khai thác, sử dụng dữ liệu về tài nguyên và môi trường áp dụng trên địa bàn tỉnh.\n\n**Điều 3.** Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc các Sở: Tài nguyên và Môi trường, Nội vụ, Tài chính, Xây dựng, Nông nghiệp và Phát triển Nông thôn, Giao thông Vận tải, Văn hóa Thể thao và Du lịch, Kế hoạch và Đầu tư, Công thương, Khoa học và Công nghệ, Thông tin và Truyền thông; Trưởng Ban Quản lý các Khu Công nghiệp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và Thủ trưởng các cơ quan, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_  \nNơi nhận:  \n_**\\- Bộ Tài nguyên và Môi trường (để báo cáo);   \n\\- Cục kiểm tra văn bản - Bộ Tư pháp  \n\\- Chủ tịch, các PCT và Ủy viên UBND tỉnh;  \n\\- Như Điều 5;  \n\\- Trung tâm Thông tin;  \n\\- Lưu: VT, TH, KT. Đức\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Ngọc Hai**\n\n**QUY CHẾ**\n\nQUY CHẾ THU THẬP, QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN TỈNH  \n_(Ban hành kèm theo Quyết định số 20/2020/QĐ-UBND ngày 22 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh Bình Thuận)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng**\n\n1\\. Quy chế này quy định việc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh.\n\n2\\. Quy chế này áp dụng đối với cơ quan nhà nước, tổ chức, cá nhân có liên quan đến hoạt động thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh.\n\n**Điều 2. Cơ sở dữ liệu tài nguyên và môi trường**\n\n1\\. Thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường (sau đây gọi tắt là dữ liệu tài nguyên và môi trường) là tập hợp thông tin, dữ liệu tài nguyên và môi trường đã được kiểm tra, đánh giá và tổ chức quản lý, lưu trữ một cách có hệ thống, được xây dựng, cập nhật và duy trì phục vụ quản lý nhà nước và các hoạt động kinh tế - xã hội, quốc phòng, an ninh, nghiên cứu khoa học, giáo dục đào tạo và nâng cao dân trí.\n\n2\\. Dữ liệu tài nguyên và môi trường tỉnh là cơ sở dữ liệu tích hợp, tập hợp từ thông tin, dữ liệu về tài nguyên và môi trường thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh do Sở Tài nguyên và Môi trường xây dựng, lưu trữ, quản lý. Thông tin, dữ liệu tài nguyên và môi trường là các thông tin, dữ liệu được quy định tại Điều 4 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 3. Các hành vi nghiêm cấm**\n\n1\\. Chiếm đoạt, làm hỏng, cố ý làm mất dữ liệu tài nguyên và môi trường.\n\n2\\. Làm giả, sửa chữa, làm sai lệch nội dung dữ liệu tài nguyên và môi trường.\n\n3\\. Truy cập, mua bán, chuyển giao, hủy trái phép dữ liệu tài nguyên và môi trường.\n\n4\\. Sử dụng dữ liệu tài nguyên và môi trường vào mục đích trái pháp luật, xâm phạm lợi ích nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n\n5\\. Lợi dụng việc cung cấp cơ sở dữ liệu để sách nhiễu, trục lợi, phát tán các dữ liệu trái với quy định của pháp luật.\n\n6\\. Các hành vi bị nghiêm cấm khác theo quy định của pháp luật.\n\n**Điều 4. Kinh phí khai thác và sử dụng dữ liệu tài nguyên và môi trường**\n\n1\\. Kinh phí thu thập, xử lý; tổ chức quản lý thông tin, dữ liệu ngành tài nguyên và môi trường; xây dựng, cập nhật, vận hành dữ liệu về tài nguyên và môi trường do nhà nước quản lý được ngân sách nhà nước đảm bảo theo quy định của pháp luật.\n\n2\\. Kinh phí khai thác và sử dụng dữ liệu tài nguyên và môi trường thực hiện theo quy định pháp luật về phí và lệ phí.\n\n**Chương II**\n\n**THU THẬP THÔNG TIN, DỮ LIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG**\n\n**Điều 5. Trách nhiệm của các cơ quan, tổ chức, cá nhân trong việc thu thập, quản lý và sử dụng dữ liệu tài nguyên và môi trường**\n\n1\\. Sở Tài nguyên và Môi trường:\n\nSở Tài nguyên và Môi trường là cơ quan chủ trì, có trách nhiệm giúp Ủy ban nhân dân tỉnh thu thập, cập nhật, quản lý, khai thác, chia sẻ và sử dụng dữ liệu tài nguyên và môi trường của địa phương, có nhiệm vụ:\n\na) Hàng năm, Sở Tài nguyên và Môi trường chủ trì, phối hợp với các sở, ban, ngành, UBND các huyện, thị xã, thành phố lập và trình Ủy ban nhân dân tỉnh kế hoạch thu thập dữ liệu tài nguyên và môi trường của tỉnh theo quy định; tổ chức triển khai, theo dõi, đôn đốc việc thực hiện kế hoạch sau khi được phê duyệt;\n\nb) Chỉ đạo Trung tâm Công nghệ Thông tin trực thuộc Sở Tài nguyên và Môi trường tiếp nhận, xử lý dữ liệu tài nguyên và môi trường; tổ chức, quản lý dữ liệu tài nguyên và môi trường trên môi trường điện tử; xây dựng, vận hành cơ sở dữ liệu, cổng thông tin tài nguyên và môi trường phục vụ lưu trữ, trao đổi, chia sẻ dữ liệu tài nguyên và môi trường giữa các cơ sở dữ liệu trong tỉnh, các tỉnh, thành phố và các bộ, ngành;\n\nc) Ứng dụng công nghệ thông tin, tổ chức tích hợp thông tin, dữ liệu và các ứng dụng nhằm phục vụ các cơ quan, tổ chức, cá nhân khai thác hiệu quả, gia tăng giá trị của dữ liệu tài nguyên và môi trường;\n\nd) Lưu trữ, bảo quản, cung cấp dữ liệu tài nguyên và môi trường tại Trung tâm Công nghệ Thông tin trực thuộc Sở Tài nguyên và Môi trường;\n\nđ) Cung cấp dữ liệu dữ liệu tài nguyên và môi trường cho các tổ chức, cá nhân theo quy định; ký kết hợp đồng với tổ chức, cá nhân về thu thập, tổng hợp, xử lý, lưu trữ và khai thác dữ liệu về tài nguyên và môi trường; thu phí khai thác và sử dụng dữ liệu tài nguyên và môi trường địa phương theo quy định;\n\ne) Tham mưu cho Ủy ban nhân dân tỉnh kiểm tra, xem xét, xử lý các đơn vị, tổ chức, cá nhân vi phạm các quy định về thu thập, quản lý, khai thác, chia sẻ và sử dụng dữ liệu về tài nguyên và môi trường.\n\n2\\. Sở Thông tin và Truyền thông:\n\nSở Thông tin và Truyền thông có trách nhiệm hướng dẫn, giám sát, hỗ trợ áp dụng các tiêu chuẩn, quy chuẩn kỹ thuật ứng dụng công nghệ thông tin, việc kết nối, chia sẻ thông tin, dữ liệu và bảo đảm an toàn hệ thống thông tin, cơ sở dữ liệu liên quan.\n\n3\\. UBND các huyện, thị xã, thành phố:\n\nCó trách nhiệm phối hợp với Sở Tài nguyên và Môi trường trong việc lập và tổ chức thực hiện kế hoạch thu thập dữ liệu về tài nguyên và môi trường hàng năm của tỉnh.\n\nChỉ đạo phòng Tài nguyên và Môi trường thu thập, phân loại, đánh giá, xử lý dữ liệu tài nguyên và môi trường trên địa bàn huyện, thị xã, thành phố; cung cấp dữ liệu tài nguyên và môi trường cho Sở Tài nguyên và Môi trường theo quy định.\n\n4\\. Các sở, ban, ngành:\n\nHàng năm, theo chức năng, nhiệm vụ của mình xác định, lập danh mục dữ liệu tài nguyên và môi trường cần thu thập, cập nhật, đề xuất kế hoạch thu thập gửi về Sở Tài nguyên và Môi trường trước ngày 15 tháng 12 hàng năm để tổng hợp, lập dự thảo kế hoạch thu thập dữ liệu về tài nguyên và môi trường.\n\nPhối hợp với Sở Tài nguyên và Môi trường thực hiện kế hoạch thu thập dữ liệu tài nguyên và môi trường trong lĩnh vực phụ trách.\n\n5\\. Tổ chức, cá nhân:\n\nTổ chức, cá nhân trong quá trình thực hiện nhiệm vụ liên quan đến lĩnh vực tài nguyên và môi trường có sử dụng nguồn vốn ngân sách sự nghiệp môi trường, sự nghiệp kinh tế, sự nghiệp khoa học và công nghệ (hoặc có nguồn gốc từ ngân sách nhà nước) và các tổ chức, doanh nghiệp khác (thuộc diện phải nộp dữ liệu về tài nguyên và môi trường theo quy định của Nhà nước) trên địa bàn tỉnh có trách nhiệm giao nộp dữ liệu tài nguyên và môi trường theo Điều 6 Quy chế này.\n\n**Điều 6. Thu thập thông tin, dữ liệu tài nguyên và môi trường phục vụ công tác lưu trữ, bảo quản, công bố, cung cấp và sử dụng**\n\nThực hiện theo quy định tại Điều 10, Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.\n\n**Điều 7. Giao nộp dữ liệu về tài nguyên và môi trường**\n\n1\\. Các tổ chức, cá nhân thực hiện nhiệm vụ tại Khoản 5 Điều 5 của Quy chế này trong thời hạn 03 tháng kể từ ngày hoàn thành nghiệm thu sản phẩm có trách nhiệm giao nộp cho Sở Tài nguyên và Môi trường 01 bộ dữ liệu dạng giấy (bản chính, bản gốc) và một bộ dữ liệu dạng số lưu trên đĩa CD, DVD.\n\n2\\. Các tổ chức, doanh nghiệp trên địa bàn tỉnh Bình Thuận thuộc diện phải lắp đặt thiết bị quan trắc môi trường tự động, liên tục theo quy định của Bộ Tài nguyên và Môi trường thực hiện việc truyền kết quả quan trắc môi trường tự động, liên tục trực tiếp về Sở Tài nguyên và Môi trường. Đồng thời có trách nhiệm tự bảo quản, bảo dưỡng, duy trì và vận hành thiết bị để đảm bảo tính chính xác của dữ liệu môi trường được quan trắc và truyền về Sở Tài nguyên và Môi trường.\n\n3\\. Dữ liệu tài nguyên và môi trường khi giao nhận phải được lập thành biên bản và lưu vào hồ sơ theo quy định. Biên bản giao nộp hoặc Giấy xác nhận giao nộp dữ liệu cho Sở Tài nguyên và Môi trường là một trong những cơ sở để xác định hoàn thành công trình, dự án hoặc nhiệm vụ được giao.\n\n**Điều 8. Kiểm tra, đánh giá, xử lý, cập nhật dữ liệu**\n\n1\\. Dữ liệu tài nguyên và môi trường sau khi thu thập phải được phân loại, tổng hợp, đánh giá và xử lý. Việc kiểm tra, đánh giá, xử lý thông tin, dữ liệu tuân thủ theo các quy định, quy phạm, quy chuẩn kỹ thuật chuyên ngành đã được cơ quan nhà nước có thẩm quyền ban hành, phê duyệt.\n\n2\\. Sở Tài nguyên và Môi trường có trách nhiệm kiểm tra, đánh giá, xử lý dữ liệu và chịu trách nhiệm về tính chính xác của dữ liệu tài nguyên và môi trường tỉnh.\n\n3\\. Phòng Tài nguyên và Môi trường cấp huyện có trách nhiệm kiểm tra, đánh giá, xử lý dữ liệu tài nguyên và môi trường cấp huyện và chịu trách nhiệm về tính chính xác của dữ liệu tài nguyên và môi trường cấp huyện.\n\n**Điều 9. Bảo quản, lưu trữ và tu bổ thông tin, dữ liệu tài nguyên và môi trường**\n\n1\\. Lưu trữ dữ liệu:\n\na) Dữ liệu thu thập được phải được kịp thời phân loại, đánh giá, xử lý về mặt vật lý, hóa học và chuẩn hóa, số hóa để lưu trữ, bảo quản trong các kho lưu trữ;\n\nb) Việc lưu trữ, bảo quản dữ liệu tài nguyên và môi trường, tiêu hủy tài liệu hết giá trị phải tuân theo các quy định của pháp luật về lưu trữ, các quy định, quy trình, quy phạm và quy chuẩn kỹ thuật chuyên ngành;\n\nc) Trung tâm Công nghệ thông tin trực thuộc Sở Tài nguyên và Môi trường có trách nhiệm lưu trữ dữ liệu tài nguyên và môi trường của Cơ sở dữ liệu tài nguyên và môi trường tỉnh.\n\n2\\. Bảo đảm an toàn, bảo mật dữ liệu số:\n\na) Cơ quan chủ quản cơ sở dữ liệu tài nguyên và môi trường chịu trách nhiệm bảo đảm an toàn và bảo mật thông tin, có các biện pháp tổ chức, quản lý vận hành, nghiệp vụ và kỹ thuật nhằm bảo đảm an toàn, bảo mật dữ liệu, an toàn máy tính và an ninh mạng;\n\nb) Dữ liệu tài nguyên và môi trường phải được phân loại theo cấp độ an toàn hệ thống thông tin, đáp ứng yêu cầu theo tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của pháp luật về an toàn thông tin mạng;\n\nc) Đơn vị chuyên trách về công nghệ thông tin thuộc cơ quan chủ quản làm nhiệm vụ bảo đảm an toàn cơ sở dữ liệu, thực hiện kiểm tra, đánh giá an toàn thông tin, quản lý rủi ro và các biện pháp phù hợp để bảo đảm an toàn thông tin.\n\n**Chương III**\n\n**CUNG CẤP, KHAI THÁC, CHIA SẺ VÀ SỬ DỤNG THÔNG TIN, DỮ LIỆU, CƠ SỞ DỮ LIỆU TÀI NGUYÊN VÀ MÔI TRƯỜNG**\n\n**Điều 10. Thiết lập và hướng dẫn vận hành hệ thống cơ sở dữ liệu**\n\nSở Tài nguyên và Môi trường chịu trách nhiệm thiết lập hệ thống dữ liệu tài nguyên và môi trường cấp tỉnh, hướng dẫn cho các đơn vị có liên quan vận hành, cập nhật thông tin cho hệ thống.\n\n1\\. Thiết lập hệ thống cơ sở dữ liệu theo đúng mô hình triển khai đã được phê duyệt, hướng dẫn các đơn vị có liên quan đưa hệ thống vào vận hành khai thác:\n\na) Thiết lập hạ tầng bao gồm hệ thống máy chủ, đường truyền, hệ thống cơ sở dữ liệu theo đúng mô hình triển khai đã được các cấp có thẩm quyền phê duyệt, phù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam và Kiến trúc Chính quyền điện tử cấp tỉnh.\n\nb) Phối hợp với các đơn vị liên quan, tổ chức đào tạo, triển khai hướng dẫn sử dụng hệ thống cho các đơn vị có liên quan đến vận hành khai thác hệ thống cơ sở dữ liệu.\n\n2\\. Thiết lập cơ sở dữ liệu ban đầu cho hệ thống dữ liệu tài nguyên và môi trường cấp tỉnh:\n\nTổ chức kiểm tra các cơ sở dữ liệu theo đơn vị hành chính cấp xã do các đơn vị tư vấn thi công xây dựng. Yêu cầu các đơn vị làm nhiệm vụ xây dựng, tích hợp cơ sở dữ liệu theo đơn vị hành chính cấp xã phải có trách nhiệm kiểm tra, rà soát lại toàn bộ thông tin đã được phát hiện, chỉnh sửa và cập nhật vào cơ sở dữ liệu.\n\nNgay sau khi cập nhật vào cơ sở dữ liệu, phải tổ chức đưa hệ thống vào vận hành, đảm bảo các biến động tiếp theo được thực hiện trực tiếp trên hệ thống cơ sở dữ liệu thông qua hệ thống phần mềm ứng dụng.\n\n**Điều 11. Xây dựng, vận hành và cập nhật thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường**\n\n1\\. Sở Tài nguyên và Môi trường là cơ quan chuyên môn giúp Ủy ban nhân dân tỉnh trong việc chủ trì, phối hợp, hướng dẫn các sở, ban, ngành, UBND các huyện, thị xã, thành phố và các tổ chức, cá nhân có liên quan trong việc giao nộp và thu thập cơ sở dữ liệu; xây dựng, vận hành và cập nhật dữ liệu tài nguyên và môi trường của tỉnh.\n\n2\\. Sở Tài nguyên và Môi trường có trách nhiệm:\n\na) Xây dựng các quy trình nghiệp vụ, kiểm soát để vận hành, duy trì dữ liệu tài nguyên và môi trường tỉnh.\n\nb) Xây dựng kế hoạch, bố trí kinh phí bảo đảm thường xuyên, liên tục, định kỳ cập nhật nội dung dữ liệu tài nguyên và môi trường.\n\nc) Xây dựng và thực hiện các giải pháp đồng bộ bảo đảm cơ sở dữ liệu có hiệu suất vận hành và sẵn sàng đáp ứng cao.\n\nd) Xây dựng và thực hiện các giải pháp về sao lưu, dự phòng bảo đảm tính nguyên vẹn, an toàn của cơ sở dữ liệu. Trong trường hợp dữ liệu tài nguyên và môi trường hư hỏng, bị phá hủy do các hành vi trái phép phải có cơ chế bảo đảm phục hồi được cơ sở dữ liệu.\n\nđ) Giao Văn phòng Đăng ký đất đai tỉnh trực thuộc Sở Tài nguyên và Môi trường có trách nhiệm cập nhật cơ sở dữ liệu địa chính, cơ sở dữ liệu thống kê kiểm kê đất đai.\n\ne) Giao Trung tâm Công nghệ thông tin trực thuộc Sở Tài nguyên và Môi trường có trách nhiệm thu thập, thu nhận dữ liệu tài nguyên và môi trường; xây dựng, tích hợp, kết nối, liên thông, quản lý, cập nhật dữ liệu tài nguyên và môi trường phục vụ khai thác, cung cấp cơ sở dữ liệu cho các tổ chức, cá nhân có nhu cầu.\n\ng) Giao Trung tâm Công nghệ thông tin trực thuộc Sở Tài nguyên và Môi trường cung cấp thông tin, dữ liệu, cơ sở dữ liệu cho các tổ chức, cá nhân có nhu cầu khai thác và sử dụng đúng mục đích.\n\n**Điều 12. Bảo đảm an toàn và bảo mật thông tin**\n\n1\\. Sở Tài nguyên và Môi trường tổ chức vận hành hệ thống đảm bảo an toàn và bảo mật thông tin, có các biện pháp tổ chức, quản lý vận hành, nghiệp vụ và kỹ thuật nhằm bảo đảm an toàn, bảo mật dữ liệu an toàn máy tính và an ninh mạng; Tổ chức phân công nhiệm vụ bảo đảm an toàn cơ sở dữ liệu, thực hiện kiểm tra, đánh giá an toàn thông tin, quản lý rủi ro và các biện pháp phù hợp để bảo đảm an toàn thông tin.\n\n2\\. Các cơ quan, tổ chức, cá nhân được phép sử dụng hệ thống dữ liệu tài nguyên và môi trường có trách nhiệm vận hành hệ thống theo đúng quy định, đảm bảo an ninh an toàn cơ sở dữ liệu và tính bảo mật của hệ thống.\n\n3\\. Dữ liệu tài nguyên và môi trường tỉnh phải được phân loại theo cấp độ an toàn hệ thống thông tin, đáp ứng yêu cầu theo tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của pháp luật về an toàn thông tin mạng.\n\n**Điều 13. Khai thác và sử dụng dữ liệu tài nguyên và môi trường**\n\nHình thức khai thác, sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường thực hiện theo quy định tại Điều 16 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 14. Khai thác và sử dụng dữ liệu tài nguyên và môi trường qua trang thông tin hoặc cổng thông tin điện tử của cơ quan cung cấp thông tin, dữ liệu**\n\nThực hiện theo quy định tại Điều 17 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 15. Khai thác và sử dụng dữ liệu tài nguyên và môi trường qua văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu**\n\nThực hiện theo quy định tại Điều 18 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 16. Khai thác và sử dụng dữ liệu tài nguyên và môi trường bằng hình thức hợp đồng**\n\nThực hiện theo quy định tại Điều 19 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 17. Trách nhiệm của tổ chức, cá nhân trong việc khai thác và sử dụng dữ liệu tài nguyên và môi trường**\n\nThực hiện theo quy định theo Điều 20 Nghị định số 73/2017/NĐ- CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 18. Công bố danh mục thông tin, dữ liệu tài nguyên và môi trường**\n\n1\\. Danh mục thông tin, dữ liệu tài nguyên và môi trường được công bố trên Cổng thông tin điện tử của tỉnh và trang thông tin điện tử của Sở Tài nguyên và Môi trường nhằm phục vụ cho yêu cầu phát triển kinh tế - xã hội của tỉnh. Việc công bố danh mục dữ liệu tài nguyên và môi trường phải tuân thủ theo các quy định về bảo vệ bí mật nhà nước trong lĩnh vực tài nguyên và môi trường và theo quy định của pháp luật về tiếp cận thông tin.\n\n2\\. Sở Tài nguyên và Môi trường xây dựng danh mục dữ liệu tài nguyên và môi trường trình Ủy ban nhân dân tỉnh công bố theo quy định tại Khoản 2 Điều 15 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường.\n\n**Điều 19. Phối hợp, chia sẻ thông tin, dữ liệu về tài nguyên và môi trường**\n\nThực hiện theo quy định tại các Điều 21, Điều 22 và Điều 23 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về việc thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu về tài nguyên và môi trường.\n\n**Điều 20. Quyền sở hữu trí tuệ, bảo hộ sở hữu trí tuệ với thông tin, dữ liệu tài nguyên và môi trường**\n\nThực hiện theo quy định tại Điều 29, Điều 30 Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường.\n\n**Chương IV**\n\n**TỔ CHỨC THỰC HIỆN**\n\n**Điều 21. Trách nhiệm của Sở Tài nguyên và Môi trường**\n\nSở Tài nguyên và Môi trường là cơ quan chủ trì, có trách nhiệm giúp Ủy ban nhân dân Tỉnh khai thác và sử dụng dữ liệu tài nguyên và môi trường, cụ thể:\n\n1\\. Hướng dẫn triển khai việc thực hiện Quy chế thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu, cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh.\n\n2\\. Giao nhiệm vụ cung cấp dữ liệu tài nguyên và môi trường cho Trung tâm Công nghệ thông tin nhằm cung cấp cho các tổ chức, cá nhân theo quy định; ký kết hợp đồng với tổ chức, cá nhân về thu thập, tổng hợp, xử lý, lưu trữ, khai thác và sử dụng dữ liệu tài nguyên và môi trường; thu chi phí khai thác và sử dụng dữ liệu tài nguyên và môi trường địa phương theo quy định.\n\n3\\. Tham mưu cho Ủy ban nhân dân tỉnh kiểm tra, xem xét, xử lý các đơn vị, tổ chức, cá nhân vi phạm các quy định về thu thập, quản lý, khai thác, chia sẻ và sử dụng dữ liệu về tài nguyên và môi trường.\n\n4\\. Chủ trì, phối hợp với Sở Thông tin và Truyền thông thiết lập hạ tầng công nghệ thông tin, hệ thống dữ liệu theo đúng mô hình triển khai được phê duyệt.\n\n5\\. Định kỳ hàng năm gửi báo cáo về công tác khai thác và sử dụng dữ liệu tài nguyên và môi trường cho Bộ Tài nguyên và Môi trường.\n\n**Điều 22. Trách nhiệm của Sở Thông tin và Truyền thông**\n\n1\\. Phối hợp với Sở Tài nguyên và Môi trường đảm bảo hạ tầng công nghệ thông tin để hỗ trợ quản lý, duy trì, lưu trữ dữ liệu tài nguyên và môi trường hoạt động liên tục, hiệu quả.\n\n2\\. Chủ trì, phối hợp với Sở Tài nguyên và Môi trường tăng cường công tác quản lý nhà nước về công nghệ thông tin, đảm bảo tính đồng bộ, thống nhất, phát huy hiệu quả dữ liệu tài nguyên và môi trường phục vụ cho các ngành, các lĩnh vực.\n\n**Điều 23. Trách nhiệm của Sở Tài chính**\n\nTrên cơ sở dự toán hàng năm của ngành tài nguyên và môi trường và của sở, ngành, đơn vị, Sở Tài chính tổng hợp, tham mưu Ủy ban nhân dân tỉnh cân đối, bố trí kinh phí sự nghiệp hàng năm phục vụ hoạt động của hệ thống dữ liệu tài nguyên và môi trường trên môi trường điện tử phù hợp khả năng ngân sách địa phương theo quy định của Luật Ngân sách nhà nước.\n\n**Điều 24. Trách nhiệm của các sở, ngành, UBND các huyện, thị xã, thành phố và các tổ chức, cá nhân khác có liên quan**\n\n1\\. Các sở, ngành, UBND các huyện, thị xã, thành phố trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện Quy chế này.\n\n2\\. Các tổ chức, cá nhân có dữ liệu tài nguyên và môi trường có trách nhiệm cung cấp dữ liệu cho Sở Tài nguyên và Môi trường để tích hợp vào cơ sở dữ liệu tài nguyên và môi trường cấp tỉnh nhằm thống nhất trong khai thác và sử dụng cơ sở dữ liệu tài nguyên và môi trường.\n\nTrong quá trình thực hiện, nếu phát sinh khó khăn vướng mắc, các cơ quan, đơn vị, tổ chức, cá nhân phản ánh kịp thời về Sở Tài nguyên và Môi trường để tổng hợp báo cáo Ủy ban nhân dân tỉnh xem xét, quyết định./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
