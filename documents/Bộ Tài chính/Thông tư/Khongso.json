@@ -1,210 +1,13 @@
 {
-  "title": "Dự thảo Thông tư quy định Bảng giá tính lệ phí trước bạ đối với tài sản khác không phải là nhà đất do Bộ trưởng Bộ Tài chính",
+  "title": "Dự thảo Thông tư sửa đổi Thông tư 338/2016/TT-BTC quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác xây dựng văn bản quy phạm pháp luật và hoàn thiện hệ thống pháp luật do Bộ trưởng Bộ Tài chính ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
   "supersededDocuments": [],
-  "referredDocuments": [
-    {
-      "title": "Thông tư 142/2015/TT-BTC quy định về Cơ sở dữ liệu quốc gia về giá do Bộ trưởng Bộ Tài chính ban hành",
-      "id": "142/2015/TT-BTC",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Thương mại",
-        "Công nghệ thông tin"
-      ],
-      "organization": "Bộ Tài chính",
-      "signers": [
-        "Trần Văn Hiếu"
-      ],
-      "issuedDate": "2015-09-04",
-      "effectiveDate": "2015-10-20",
-      "gazetteDate": "2015-12-16",
-      "gazetteNumber": "Từ số 1193 đến số 1194",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Luật Hải quan 2014",
-      "id": "54/2014/QH13",
-      "legislationType": "Luật",
-      "categories": [
-        "Thương mại",
-        "Xuất nhập khẩu"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Sinh Hùng"
-      ],
-      "issuedDate": "2014-06-23",
-      "effectiveDate": "2015-01-01",
-      "gazetteDate": "2014-07-17",
-      "gazetteNumber": "Từ số 685 đến số 686",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị định 102/2009/NĐ-CP về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước",
-      "id": "102/2009/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Đầu tư",
-        "Công nghệ thông tin",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2009-11-06",
-      "effectiveDate": "2010-01-01",
-      "gazetteDate": "2009-11-22",
-      "gazetteNumber": "Từ số 529 đến số 530",
-      "status": "Hết hiệu lực: 01/01/2020"
-    }
-  ],
-  "influentialDocuments": [
-    {
-      "title": "Nghị định 140/2016/NĐ-CP về lệ phí trước bạ",
-      "id": "140/2016/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Thuế - Phí - Lệ Phí"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Xuân Phúc"
-      ],
-      "issuedDate": "2016-10-10",
-      "effectiveDate": "2017-01-01",
-      "gazetteDate": "2016-10-27",
-      "gazetteNumber": "Từ số 1141 đến số 1142",
-      "status": "Hết hiệu lực: 01/03/2022"
-    },
-    {
-      "title": "Luật phí và lệ phí 2015",
-      "id": "97/2015/QH13",
-      "legislationType": "Luật",
-      "categories": [
-        "Thuế - Phí - Lệ Phí"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Sinh Hùng"
-      ],
-      "issuedDate": "2015-11-25",
-      "effectiveDate": "2017-01-01",
-      "gazetteDate": "2015-12-30",
-      "gazetteNumber": "Từ số 1261 đến số 1262",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị định 215/2013/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính",
-      "id": "215/2013/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Bộ máy hành chính",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2013-12-23",
-      "effectiveDate": "2014-02-15",
-      "gazetteDate": "2014-01-05",
-      "gazetteNumber": "Từ số 23 đến số 24",
-      "status": "Hết hiệu lực: 26/07/2017"
-    },
-    {
-      "title": "Nghị định 177/2013/NĐ-CP hướng dẫn Luật giá",
-      "id": "177/2013/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Thương mại"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2013-11-14",
-      "effectiveDate": "2014-01-01",
-      "gazetteDate": "2013-12-03",
-      "gazetteNumber": "Từ số 855 đến số 856",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Luật quản lý thuế sửa đổi 2012",
-      "id": "21/2012/QH13",
-      "legislationType": "Luật",
-      "categories": [
-        "Thuế - Phí - Lệ Phí",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Sinh Hùng"
-      ],
-      "issuedDate": "2012-11-20",
-      "effectiveDate": "2013-07-01",
-      "gazetteDate": "2012-12-24",
-      "gazetteNumber": "Từ số 765 đến số 766",
-      "status": "Hết hiệu lực: 01/07/2020"
-    },
-    {
-      "title": "Luật giá 2012",
-      "id": "11/2012/QH13",
-      "legislationType": "Luật",
-      "categories": [
-        "Thương mại"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Sinh Hùng"
-      ],
-      "issuedDate": "2012-06-20",
-      "effectiveDate": "2013-01-01",
-      "gazetteDate": "2012-08-05",
-      "gazetteNumber": "Từ số 475 đến số 476",
-      "status": "Còn hiệu lực đến: 30/06/2024"
-    },
-    {
-      "title": "Luật quản lý thuế 2006",
-      "id": "78/2006/QH11",
-      "legislationType": "Luật",
-      "categories": [
-        "Thuế - Phí - Lệ Phí"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Phú Trọng"
-      ],
-      "issuedDate": "2006-11-29",
-      "effectiveDate": "2007-07-01",
-      "gazetteDate": "2007-06-25",
-      "gazetteNumber": "Từ số 410 đến số 411",
-      "status": "Hết hiệu lực: 01/07/2020"
-    },
-    {
-      "title": "Luật Giao dịch điện tử 2005",
-      "id": "51/2005/QH11",
-      "legislationType": "Luật",
-      "categories": [
-        "Thương mại",
-        "Công nghệ thông tin",
-        "Quyền dân sự"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Văn An"
-      ],
-      "issuedDate": "2005-11-29",
-      "effectiveDate": "2006-03-01",
-      "gazetteDate": "2005-12-27",
-      "gazetteNumber": "Từ số 31 đến số 32",
-      "status": "Còn hiệu lực đến: 30/06/2024"
-    }
-  ],
+  "referredDocuments": [],
+  "influentialDocuments": [],
   "guidingDocuments": [],
   "consolidatedDocuments": [],
   "amendingDocuments": [],
@@ -212,71 +15,56 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Thông tư 304/2016/TT-BTC Bảng giá tính lệ phí trước bạ đối với ô tô, xe máy do Bộ trưởng Bộ Tài chính ban hành",
-      "id": "304/2016/TT-BTC",
+      "title": "Thông tư 115/2021/TT-BTC sửa đổi Thông tư 85/2018/TT-BTC hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách Nhà nước cho công tác phòng ngừa, giải quyết tranh chấp đầu tư quốc tế do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "115/2021/TT-BTC",
       "legislationType": "Thông tư",
       "categories": [
-        "Thuế - Phí - Lệ Phí",
-        "Giao thông - Vận tải"
+        "Đầu tư",
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Võ Thành Hưng"
+      ],
+      "issuedDate": "2021-12-21",
+      "effectiveDate": "2022-02-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 64/2021/TT-BTC hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước phục vụ hoạt động hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "64/2021/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
       ],
       "organization": "Bộ Tài chính",
       "signers": [
         "Đỗ Hoàng Anh Tuấn"
       ],
-      "issuedDate": "2016-11-15",
-      "effectiveDate": "2017-01-01",
-      "gazetteDate": "2017-01-19",
-      "gazetteNumber": "Từ số 67 đến số 68",
-      "status": "Hết hiệu lực: 10/04/2019"
-    },
-    {
-      "title": "Công văn 6328/VPCP-KTTH năm 2016 dự thảo Nghị định về lệ phí trước bạ do Văn phòng Chính phủ ban hành",
-      "id": "6328/VPCP-KTTH",
-      "legislationType": "Công văn",
-      "categories": [
-        "Thuế - Phí - Lệ Phí"
-      ],
-      "organization": "Văn phòng Chính phủ",
-      "signers": [
-        "Nguyễn Sỹ Hiệp"
-      ],
-      "issuedDate": "2016-07-29",
-      "effectiveDate": "2016-07-29",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "issuedDate": "2021-07-29",
+      "effectiveDate": "2021-10-01",
+      "gazetteDate": "2021-08-26",
+      "gazetteNumber": "Từ số 725 đến số 726",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn số 927/TCT-CS về việc giá tính lệ phí trước bạ đất do Tổng cục Thuế ban hành",
-      "id": "927/TCT-CS",
+      "title": "Công văn 6290/BTC-HCSN năm 2019 về hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước để triển khai Đề án giám sát an toàn thông tin mạng đối với hệ thống, dịch vụ công nghệ thông tin phục vụ Chính phủ điện tử đến năm 2020, định hướng đến năm 2025 do Bộ Tài chính ban hành",
+      "id": "6290/BTC-HCSN",
       "legislationType": "Công văn",
       "categories": [
-        "Thuế - Phí - Lệ Phí",
-        "Bất động sản"
+        "Công nghệ thông tin",
+        "Tài chính nhà nước"
       ],
-      "organization": "Tổng cục Thuế",
+      "organization": "Bộ Tài chính",
       "signers": [
-        "Phạm Duy Khương"
+        "Trần Văn Hiếu"
       ],
-      "issuedDate": "2008-02-28",
-      "effectiveDate": "2008-02-28",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn số 1609/TCT-TS của Tổng Cục thuế về việc xác định giá tính lệ phí trước bạ xe máy bán ra sau khi mua qua đấu giá",
-      "id": "1609/TCT-TS",
-      "legislationType": "Công văn",
-      "categories": [
-        "Thuế - Phí - Lệ Phí"
-      ],
-      "organization": "Tổng cục Thuế",
-      "signers": [
-        "Phạm Duy Khương"
-      ],
-      "issuedDate": "2006-05-05",
-      "effectiveDate": "2006-05-05",
+      "issuedDate": "2019-06-04",
+      "effectiveDate": "2019-06-04",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -285,19 +73,20 @@
   "id": "Khongso",
   "legislationType": "Thông tư",
   "categories": [
-    "Thuế - Phí - Lệ Phí"
+    "Bộ máy hành chính",
+    "Tài chính nhà nước"
   ],
   "organization": "Bộ Tài chính",
   "signers": [
     "***"
   ],
-  "issuedDate": "2016-11-14",
+  "issuedDate": "2022-03-07",
   "effectiveDate": "Dữ liệu đang cập nhật",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Chưa xác định",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAxADIANQA=-->\n <tbody><tr>\n  <td width=\"216\" valign=\"top\" style=\"width:161.95pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"VI\">BỘ TÀI CHÍNH</span><br>\n  --------</b></p>\n  </td>\n  <td width=\"352\" valign=\"top\" style=\"width:264.15pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"216\" valign=\"top\" style=\"width:161.95pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"VI\">Số:\n  </span>    <span lang=\"VI\">/2016/TT-BTC</span></p>\n  </td>\n  <td width=\"352\" valign=\"top\" style=\"width:264.15pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i><span lang=\"VI\">Hà\n  Nội, ngày</span>    </i><i><span lang=\"VI\"> tháng</span>   \n  </i><i><span lang=\"VI\"> năm 2016</span></i></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"216\" valign=\"top\" style=\"width:161.95pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><i><span style=\"color:red\">DỰ THẢO</span></i></b></p>\n  </td>\n  <td width=\"352\" valign=\"top\" style=\"width:264.15pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i><span lang=\"VI\"> </span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\"> </span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">THÔNG TƯ</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><span lang=\"VI\">QUY\nĐỊNH BẢNG GIÁ TÍNH LPTB ĐỐI VỚI CÁC TÀI SẢN KHÁC KHÔNG PHẢI LÀ NHÀ ĐẤT</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Quản lý thuế số 78/2006/QH11\nngày 29/11/2006 của Quốc hội; Luật sửa đổi, bổ sung một số điều của Luật Quản\nlý thuế số 21/2012/QH13 ngày 20/11/2012 của Quốc hội và các văn bản hướng dẫn\nthi hành Luật Quản lý thuế; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày\n29/11/2005;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Phí và Lệ phí số\n97/2015/QH13 ngày 25/11/2015;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật giá số 11/2015/QH13\nngày 20/6/2012;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số Nghị định số\n140/NĐ-CP ngày 10/10/2016 hướng dẫn về lệ phí trước bạ;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 177/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-177-2013-nd-cp-huong-dan-luat-gia-213650.aspx\">177/2013/NĐ-CP</a>  ngày 14/11/2013 quy định chi tiết và hướng dẫn thi hành một số\nđiều của Luật giá;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 215/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-215-2013-nd-cp-chuc-nang-quyen-han-co-cau-to-chuc-bo-tai-chinh-217183.aspx\">215/2013/NĐ-CP</a>  ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ,\nquyền hạn và cơ cấu tổ chức của Bộ Tài chính;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Theo đề nghị của Tổng cục\ntrưởng Tổng cục Thuế;</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i><span lang=\"VI\">Bộ trưởng Bộ Tài chính quy định\nBảng giá tính LPTB đối với các tài sản khác không phải là nhà đất như sau:</span></i></p>\n\n<p style=\"margin-bottom:6.0pt\"><b><span lang=\"VI\">Chương I</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUY ĐỊNH CHUNG</span></b></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 1. Phạm vi điều chỉnh</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Thông tư này quy\nđịnh về Bảng giá tính lệ phí trước bạ đối với các tài sản được quy định tại\nkhoản 6, khoản 7, khoản 8 Điều 2 Nghị định số 140/NĐ-CP ngày\n10/10/2016 của Chính phủ về lệ phí trước bạ.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 2. Đối tượng áp dụng</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Thông tư này áp\ndụng đối với:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Cơ quan thực\nhiện chức năng xây dựng, điều chỉnh và ban hành Bảng giá tính lệ phí trước bạ\nđối với các tài sản quy định tại khoản 6, khoản 7, khoản 8 Điều 2 Nghị định số 140/NĐ-CP ngày\n10/10/2016 của Chính phủ về lệ phí trước bạ.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2. Tổ chức, cá\nnhân khác là người nộp lệ phí trước bạ.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 3. Giải thích từ ngữ</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Xe mô tô hai\nbánh, xe mô tô ba bánh, xe gắn máy, các loại xe tương tự và các vỏ, tổng thành\nkhung, tổng thành máy là các loại xe được quy định tại khoản 6, khoản 8 Điều 2\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 140/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-140-2016-nd-cp-le-phi-truoc-ba-325345.aspx\">140/2016/NĐ-CP</a>  ngày 10/10/2016 (sau đây gọi chung là xe máy).</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Xe ô tô, rơ\nmoóc hoặc sơ mi rơ moóc được kéo bởi ô tô, các loại xe tương tự và các vỏ, tổng\nthành khung, tổng thành máy các loại xe được quy định tại khoản 7, khoản 8 Điều\n2 Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 140/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-140-2016-nd-cp-le-phi-truoc-ba-325345.aspx\">140/2016/NĐ-CP</a>  ngày 10/10/2016 (sau đây gọi chung là ôtô).</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Giá bán lẻ ô\ntô, xe máy là giá bán theo thông báo giá của nhà sản xuất lắp ráp ô tô, xe máy,\nđại lý độc quyền phân phối (đã bao gồm thuế).</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Giá theo trị\ngiá hải quan là trị giá hải quan theo quy định của Luật hải quan.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Chương II</span></strong></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><strong><span lang=\"VI\" style=\"font-size:12.0pt;font-family:Arial\">BẢNG GIÁ TÍNH LỆ PHÍ TRƯỚC\nBẠ</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 4.</span></strong><span lang=\"VI\"> <strong><span style=\"font-family:Arial\">Phương pháp xây dựng bảng giá tính lệ phí trước bạ</span></strong></span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Bảng giá tính\nlệ phí trước bạ được xây dựng theo quy định tại điểm a khoản 2 Điều 6 Nghị định\nsố 140/NĐ-CP ngày 10/10/2016 về lệ phí trước bạ để làm căn cứ\ntính lệ phí trước bạ.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Đối với loại ô\ntô, xe máy cùng chủng loại nhưng có năm sản xuất trước thời điểm ban hành Bảng\ngiá thì nguyên tắc tính giá được căn cứ vào giá loại phương tiện tại\nthời điểm Bảng giá ban hành và áp dụng trừ lùi theo tỷ\nlệ: 5%/2 năm. Cho đến hết 10 năm sản xuất thì dừng tỷ lệ (là 75% giá LPTB so\nvới giá hiện tại.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Ví dụ: giá xe mới\ntheo Bảng giá LPTB toàn quốc (từ 1/1/2017) là 1 tỷ thì xe mới cùng loại sản\nxuất năm 2011 là 850 tr (=1tỷ -1 tỷ x15%).</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2. Bảng giá tính\nlệ phí trước bạ được xây dựng dựa trên chỉ tiêu nhãn hiệu, tên thương mại hoặc\nsố loại, nước sản xuất, thể tích làm việc, công thức bánh xe, trọng tải (đối\nvới xe tải), số chỗ ngồi của loại phương tiện trên Giấy chứng nhận chất lượng\nan toàn kỹ thuật và bảo vệ môi trường/Giấy chứng nhận kiểu loại do cơ quan đăng\nkiểm cấp theo danh mục cấu trúc quy định tại Thông tư này.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">3. Khi có thay\nđổi giá bán lẻ hoặc thông báo giá bán lẻ dòng xe ô tô, xe máy cơ sở sản xuất\nkinh doanh ô tô, xe máy, đại lý phân phối độc quyền cung cấp thông tin về giá\nbán lẻ các dòng xe ô tô, xe máy theo danh mục cấu trúc (mẫu số 01/DMCT-LPTB)\nban hành kèm theo thông tư này để Bộ Tài chính (Tổng cục Thuế) xây dựng, cập\nnhật Bảng giá.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 5. Bảng</span></strong><b><span lang=\"VI\"> <strong><span style=\"font-family:Arial\">giá tính LPTB</span></strong></span></b></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Bộ Tài chính ban\nhành kèm theo Thông tư này các Phụ lục Bảng giá tính lệ phí trước bạ, gồm:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Bảng giá tính\nlệ phí trước bạ đối với xe ô tô (Phụ lục I);</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2. Bảng giá tính\nlệ phí trước bạ đối với xe máy (Phụ lục II);</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 6. Nguyên tắc điều chỉnh, cập nhật, bổ sung Bảng\ngiá tính</span></strong><b><span lang=\"VI\"> <strong><span style=\"font-family:\nArial\">lệ phí trước bạ</span></strong></span></b></p>\n\n<p style=\"margin: 0in -0.05pt 6pt 0in; background: transparent;\"><span lang=\"VI\">Căn cứ thông báo giá của cơ sở sản xuất\nkinh doanh ô tô, xe máy cung cấp thông tin về giá bán lẻ các dòng xe ô tô, xe\nmáy, giá hoá đơn hợp pháp theo khai báo của người nộp thuế, trị giá tính thuế\nnhập khẩu theo quy định của Luật hải quan và các loại thuế tại khâu nhập khẩu.</span></p>\n\n<p style=\"margin: 0in -0.05pt 6pt 0in; background: transparent;\"><span lang=\"VI\">Tổng cục Thuế chủ trì, phối hợp với Tổng\ncục Hải quan (đối với ô tô, xe máy nhập khẩu) để báo cáo Bộ Tài chính xây dựng\ngiá tính LPTB  theo quy định tại điểm a khoản 2 Điều 6 Nghị định số 140/NĐ-CP ngày\n10/10/2016.</span></p>\n\n<p style=\"margin: 0in -0.05pt 6pt 0in; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 7:</span></strong><span lang=\"VI\"> <strong><span style=\"font-family:Arial\">Điều chỉnh, cập nhật, bổ sung\nBảng giá tính</span></strong><b> <strong><span style=\"font-family:Arial\">lệ\nphí trước bạ</span></strong></b></span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Trường hợp\nphát sinh ô tô, xe máy mà tại thời điểm nộp tờ khai lệ phí trước bạ\nchưa có trong Bảng giá tính lệ phí trước bạ do Bộ Tài chính ban hành thì Cục\nThuế thực hiện áp dụng giá tính lệ phí trước bạ theo quy định tại điểm a\nkhoản 2 Điều 6 Nghị định số 140/NĐ-CP ngày 10/10/2016 để\nlàm căn cứ tính lệ phí trước bạ trong thời hạn một (01) ngày\nlàm việc kể từ ngày nộp hồ sơ khai lệ phí trước bạ.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Trong thời hạn ba\nngày (03) ngày làm việc kể từ thời điểm tài sản được đăng ký trước bạ, Cục\nthuế báo cáo Bộ Tài chính (Tổng cục Thuế) để tập hợp ban\nhành giá tính lệ phí trước bạ bổ sung.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2. Hàng quý,\nTổng cục Thuế có trách nhiệm cập nhật giá các loại ô tô, xe máy phát sinh mới\nvào hệ thống cơ sở dữ liệu để trình Bộ Tài chính ban hành bảng giá.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Trường hợp giá\nchuyển nhượng ô tô, xe máy thực tế trên thị trường có biến động tăng\nhoặc giảm 20% trở lên so với giá tính lệ phí trước bạ tại Bảng giá tính lệ phí\ntrước bạ thì Tổng cục Thuế báo cáo Bộ Tài chính ban hành giá tính lệ\nphí trước bạ bổ sung đảm bảo giá tính lệ phí trước bạ sát với giá chuyển nhượng\ntài sản thực tế trên thị trường.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Chương III</span></strong></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><strong><span lang=\"VI\" style=\"font-size:12.0pt;font-family:Arial\">CƠ SỞ DỮ LIỆU VỀ BẢNG GIÁ\nTÍNH LỆ PHÍ TRƯỚC BẠ</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 8. Cơ sở dữ liệu về giá tính lệ phí trước bạ</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Cơ sở dữ liệu\nvề giá tính lệ phí trước bạ là một cấu phần nằm trong cơ sở dữ liệu quốc gia về\ngiá.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2. Cơ sở dữ liệu\nvề giá tính lệ phí trước bạ gồm có:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">a) Bảng giá tính\nlệ phí trước bạ do Bộ Tài chính ban hành;</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">b) Các thông tin\ntập hợp từ các nguồn liên quan đến xây dựng bảng giá tính LPTB ô tô, xe máy\ntheo qui định tại Điều 9 Thông tư này.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 9. Nguồn thông tin phục vụ xây dựng cơ sở dữ\nliệu về giá tính lệ phí trước bạ</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Bảng giá tính\nlệ phí trước bạ ban hành kèm theo Thông tư quy định bảng giá tính lệ phí trước\nbạ đối với các tài sản khác không phải là nhà, đất; các văn bản sửa đổi, bổ\nsung (nếu có);</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2.  Các\nnguồn thông tin khác có liên quan theo qui định tại Điều 5 Thông tư\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 142/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx\">142/2015/TT-BTC</a>  ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc\ngia về giá.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 10. Khai thác và sử dụng Cơ sở dữ liệu về giá\ntính lệ phí trước bạ</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">1. Các hình thức\nkhai thác và sử dụng Cơ sở dữ liệu về giá tính lệ phí trước bạ:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Qua mạng\ninternet.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Qua Cổng thông\ntin điện tử do cơ quan quản lý Cơ sở dữ liệu quốc gia về giá quy định.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">2. Đối tượng khai\nthác và sử dụng Cơ sở dữ liệu về giá tính lệ phí trước bạ:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">-  Cơ quan\ncó chức năng xây dựng, điều chỉnh, thẩm định bảng giá tính lệ phí trước bạ;</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Tổ chức, cá\nnhân khác (theo qui định tại Khoản 2, điều 10, Thông tư <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 142/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx\">142/2015/TT-BTC</a>  ngày\n04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá).</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Chương IV</span></strong></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><strong><span lang=\"VI\" style=\"font-size:12.0pt;font-family:Arial\">TỔ CHỨC THỰC HIỆN VÀ HIỆU\nLỰC THI HÀNH</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 11. Tổ chức thực hiện</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">1. Trách nhiệm của Tổng cục Thuế</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Bộ Tài chính giao\nTổng cục Thuế làm đầu mối phối hợp với các đơn vị liên quan có trách nhiệm\nxây dựng, quản lý và vận hành Cơ sở dữ liệu về giá tính lệ phí trước bạ theo\nqui định tại Điều 8, 9, 10 Thông tư này và các qui định tại Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 142/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx\">142/2015/TT-BTC</a>  ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc\ngia về giá.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Việc thực hiện\nxây dựng cơ sở dữ liệu bằng hình thức tin học hóa phải tuân thủ các qui định về\nquản lý đầu tư ứng dụng CNTT ban hành kèm theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-102-2009-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-nha-nuoc-97114.aspx\">102/2009/NĐ-CP</a>  và\ncác văn bản hướng dẫn thi hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Kinh phí xây dựng\nvà quản lý cơ sở dữ liệu về giá tính lệ phí trước bạ thực hiện theo các qui\nđịnh tại Điều 12, Thông tư <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 142/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx\">142/2015/TT-BTC</a>  ngày 04/09/2015 của Bộ Tài chính qui\nđịnh về Cơ sở dữ liệu quốc gia về giá.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">2.</span></strong><b><span lang=\"VI\"> <strong><span style=\"font-family:Arial\">Trách nhiệm của các đơn vị liên quan</span></strong></span></b></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Cục Quản lý\ngiá, Cục Tin học và thống kê Tài chính-Bộ Tài chính và các đơn vị có liên quan\ncó trách nhiệm thực hiện các qui định tại Thông tư <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 142/2015/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx\">142/2015/TT-BTC</a>  ngày 04/09/2015\ncủa Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá đối với Cơ sở dữ\nliệu giá tính lệ phí trước bạ.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Tổng cục Hải\nquan có trách nhiệm phối hợp với Tổng cục Thuế xác định trị giá tính thuế hải\nquan theo quy định của Luật hải quan và các khoản thuế khâu nhập khẩu, xây dựng\ncơ sở dữ liệu phục vụ cho công tác kết nối giữa Tổng cục Thuế và Tổng cục Hải\nquan đảm bảo Bảng giá tính lệ phí trước bạ điều chỉnh, bổ sung được kịp thời,\nnhanh chóng đúng quy định.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">- Cơ sở sản xuất\nkinh doanh ô tô, xe máy và các đại lý phân phối khi điều chỉnh giá bán lẻ hoặc\nphát sinh ô tô, xe máy mới có trách nhiệm gửi thông báo về  Bộ Tài chính\n(Tổng cục Thuế) bằng văn bản hoặc theo phương thức điện tử trên Cổng thông tin\nđiện tử của Tổng cục Thuế trong vòng ba (03) ngày kể từ thời điểm phát sinh.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><strong><span lang=\"VI\" style=\"font-family:Arial\">Điều 12. Hiệu lực thi hành</span></strong></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Thông tư này có\nhiệu lực thi hành sau 45 ngày kể từ ngày ký.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Bảng giá tính lệ\nphí trước bạ do Bộ Tài chính ban hành chính thức theo qui định tại Thông tư này\nđược áp dụng cho các tài sản khai lệ phí trước bạ từ ngày 01/01/2017.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span lang=\"VI\">Trong quá trình\nthực hiện, nếu có vướng mắc, đề nghị Ủy ban nhân dân các tỉnh phản\nánh kịp thời về Bộ Tài chính để được nghiên cứu giải quyết kịp thời./.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"VI\"> </span></p>\n\n<p><b><span lang=\"VI\"> </span></b></p>\n\n</div>\n\n",
-  "mdContent": "**BỘ TÀI CHÍNH  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: /2016/TT-BTC\n\n_Hà Nội, ngày_ _tháng_ _năm 2016_\n\n**_DỰ THẢO_**\n\n**THÔNG TƯ**\n\nQUY ĐỊNH BẢNG GIÁ TÍNH LPTB ĐỐI VỚI CÁC TÀI SẢN KHÁC KHÔNG PHẢI LÀ NHÀ ĐẤT\n\n_Căn cứ Luật Quản lý thuế số 78/2006/QH11 ngày 29/11/2006 của Quốc hội; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế số 21/2012/QH13 ngày 20/11/2012 của Quốc hội và các văn bản hướng dẫn thi hành Luật Quản lý thuế; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005;_\n\n_Căn cứ Luật Phí và Lệ phí số 97/2015/QH13 ngày 25/11/2015;_\n\n_Căn cứ Luật giá số 11/2015/QH13 ngày 20/6/2012;_\n\n_Căn cứ Nghị định số Nghị định số 140/NĐ-CP ngày 10/10/2016 hướng dẫn về lệ phí trước bạ;_\n\n_Căn cứ Nghị định số [177/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-177-2013-nd-cp-huong-dan-luat-gia-213650.aspx \"Nghị định 177/2013/NĐ-CP\") ngày 14/11/2013 quy định chi tiết và hướng dẫn thi hành một số điều của Luật giá;_\n\n_Căn cứ Nghị định số [215/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-215-2013-nd-cp-chuc-nang-quyen-han-co-cau-to-chuc-bo-tai-chinh-217183.aspx \"Nghị định 215/2013/NĐ-CP\") ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;_\n\n_Theo đề nghị của Tổng cục trưởng Tổng cục Thuế;_\n\n_Bộ trưởng Bộ Tài chính quy định Bảng giá tính LPTB đối với các tài sản khác không phải là nhà đất như sau:_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh**\n\nThông tư này quy định về Bảng giá tính lệ phí trước bạ đối với các tài sản được quy định tại khoản 6, khoản 7, khoản 8 Điều 2 Nghị định số 140/NĐ-CP ngày 10/10/2016 của Chính phủ về lệ phí trước bạ.\n\n**Điều 2. Đối tượng áp dụng**\n\nThông tư này áp dụng đối với:\n\n1\\. Cơ quan thực hiện chức năng xây dựng, điều chỉnh và ban hành Bảng giá tính lệ phí trước bạ đối với các tài sản quy định tại khoản 6, khoản 7, khoản 8 Điều 2 Nghị định số 140/NĐ-CP ngày 10/10/2016 của Chính phủ về lệ phí trước bạ.\n\n2\\. Tổ chức, cá nhân khác là người nộp lệ phí trước bạ.\n\n**Điều 3. Giải thích từ ngữ**\n\n\\- Xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, các loại xe tương tự và các vỏ, tổng thành khung, tổng thành máy là các loại xe được quy định tại khoản 6, khoản 8 Điều 2 Nghị định số [140/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-140-2016-nd-cp-le-phi-truoc-ba-325345.aspx \"Nghị định 140/2016/NĐ-CP\") ngày 10/10/2016 (sau đây gọi chung là xe máy).\n\n\\- Xe ô tô, rơ moóc hoặc sơ mi rơ moóc được kéo bởi ô tô, các loại xe tương tự và các vỏ, tổng thành khung, tổng thành máy các loại xe được quy định tại khoản 7, khoản 8 Điều 2 Nghị định số [140/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/thue-phi-le-phi/nghi-dinh-140-2016-nd-cp-le-phi-truoc-ba-325345.aspx \"Nghị định 140/2016/NĐ-CP\") ngày 10/10/2016 (sau đây gọi chung là ôtô).\n\n\\- Giá bán lẻ ô tô, xe máy là giá bán theo thông báo giá của nhà sản xuất lắp ráp ô tô, xe máy, đại lý độc quyền phân phối (đã bao gồm thuế).\n\n\\- Giá theo trị giá hải quan là trị giá hải quan theo quy định của Luật hải quan.\n\n**Chương II**\n\n**BẢNG GIÁ TÍNH LỆ PHÍ TRƯỚC BẠ**\n\n**Điều 4.** **Phương pháp xây dựng bảng giá tính lệ phí trước bạ**\n\n1\\. Bảng giá tính lệ phí trước bạ được xây dựng theo quy định tại điểm a khoản 2 Điều 6 Nghị định số 140/NĐ-CP ngày 10/10/2016 về lệ phí trước bạ để làm căn cứ tính lệ phí trước bạ.\n\nĐối với loại ô tô, xe máy cùng chủng loại nhưng có năm sản xuất trước thời điểm ban hành Bảng giá thì nguyên tắc tính giá được căn cứ vào giá loại phương tiện tại thời điểm Bảng giá ban hành và áp dụng trừ lùi theo tỷ lệ: 5%/2 năm. Cho đến hết 10 năm sản xuất thì dừng tỷ lệ (là 75% giá LPTB so với giá hiện tại.\n\nVí dụ: giá xe mới theo Bảng giá LPTB toàn quốc (từ 1/1/2017) là 1 tỷ thì xe mới cùng loại sản xuất năm 2011 là 850 tr (=1tỷ -1 tỷ x15%).\n\n2\\. Bảng giá tính lệ phí trước bạ được xây dựng dựa trên chỉ tiêu nhãn hiệu, tên thương mại hoặc số loại, nước sản xuất, thể tích làm việc, công thức bánh xe, trọng tải (đối với xe tải), số chỗ ngồi của loại phương tiện trên Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường/Giấy chứng nhận kiểu loại do cơ quan đăng kiểm cấp theo danh mục cấu trúc quy định tại Thông tư này.\n\n3\\. Khi có thay đổi giá bán lẻ hoặc thông báo giá bán lẻ dòng xe ô tô, xe máy cơ sở sản xuất kinh doanh ô tô, xe máy, đại lý phân phối độc quyền cung cấp thông tin về giá bán lẻ các dòng xe ô tô, xe máy theo danh mục cấu trúc (mẫu số 01/DMCT-LPTB) ban hành kèm theo thông tư này để Bộ Tài chính (Tổng cục Thuế) xây dựng, cập nhật Bảng giá.\n\n**Điều 5. Bảng** ****giá tính LPTB****\n\nBộ Tài chính ban hành kèm theo Thông tư này các Phụ lục Bảng giá tính lệ phí trước bạ, gồm:\n\n1\\. Bảng giá tính lệ phí trước bạ đối với xe ô tô (Phụ lục I);\n\n2\\. Bảng giá tính lệ phí trước bạ đối với xe máy (Phụ lục II);\n\n**Điều 6. Nguyên tắc điều chỉnh, cập nhật, bổ sung Bảng giá tính** ****lệ phí trước bạ****\n\nCăn cứ thông báo giá của cơ sở sản xuất kinh doanh ô tô, xe máy cung cấp thông tin về giá bán lẻ các dòng xe ô tô, xe máy, giá hoá đơn hợp pháp theo khai báo của người nộp thuế, trị giá tính thuế nhập khẩu theo quy định của Luật hải quan và các loại thuế tại khâu nhập khẩu.\n\nTổng cục Thuế chủ trì, phối hợp với Tổng cục Hải quan (đối với ô tô, xe máy nhập khẩu) để báo cáo Bộ Tài chính xây dựng giá tính LPTB theo quy định tại điểm a khoản 2 Điều 6 Nghị định số 140/NĐ-CP ngày 10/10/2016.\n\n**Điều 7:** **Điều chỉnh, cập nhật, bổ sung Bảng giá tính** ****lệ phí trước bạ****\n\n1\\. Trường hợp phát sinh ô tô, xe máy mà tại thời điểm nộp tờ khai lệ phí trước bạ chưa có trong Bảng giá tính lệ phí trước bạ do Bộ Tài chính ban hành thì Cục Thuế thực hiện áp dụng giá tính lệ phí trước bạ theo quy định tại điểm a khoản 2 Điều 6 Nghị định số 140/NĐ-CP ngày 10/10/2016 để làm căn cứ tính lệ phí trước bạ trong thời hạn một (01) ngày làm việc kể từ ngày nộp hồ sơ khai lệ phí trước bạ.\n\nTrong thời hạn ba ngày (03) ngày làm việc kể từ thời điểm tài sản được đăng ký trước bạ, Cục thuế báo cáo Bộ Tài chính (Tổng cục Thuế) để tập hợp ban hành giá tính lệ phí trước bạ bổ sung.\n\n2\\. Hàng quý, Tổng cục Thuế có trách nhiệm cập nhật giá các loại ô tô, xe máy phát sinh mới vào hệ thống cơ sở dữ liệu để trình Bộ Tài chính ban hành bảng giá.\n\nTrường hợp giá chuyển nhượng ô tô, xe máy thực tế trên thị trường có biến động tăng hoặc giảm 20% trở lên so với giá tính lệ phí trước bạ tại Bảng giá tính lệ phí trước bạ thì Tổng cục Thuế báo cáo Bộ Tài chính ban hành giá tính lệ phí trước bạ bổ sung đảm bảo giá tính lệ phí trước bạ sát với giá chuyển nhượng tài sản thực tế trên thị trường.\n\n**Chương III**\n\n**CƠ SỞ DỮ LIỆU VỀ BẢNG GIÁ TÍNH LỆ PHÍ TRƯỚC BẠ**\n\n**Điều 8. Cơ sở dữ liệu về giá tính lệ phí trước bạ**\n\n1\\. Cơ sở dữ liệu về giá tính lệ phí trước bạ là một cấu phần nằm trong cơ sở dữ liệu quốc gia về giá.\n\n2\\. Cơ sở dữ liệu về giá tính lệ phí trước bạ gồm có:\n\na) Bảng giá tính lệ phí trước bạ do Bộ Tài chính ban hành;\n\nb) Các thông tin tập hợp từ các nguồn liên quan đến xây dựng bảng giá tính LPTB ô tô, xe máy theo qui định tại Điều 9 Thông tư này.\n\n**Điều 9. Nguồn thông tin phục vụ xây dựng cơ sở dữ liệu về giá tính lệ phí trước bạ**\n\n1\\. Bảng giá tính lệ phí trước bạ ban hành kèm theo Thông tư quy định bảng giá tính lệ phí trước bạ đối với các tài sản khác không phải là nhà, đất; các văn bản sửa đổi, bổ sung (nếu có);\n\n2\\. Các nguồn thông tin khác có liên quan theo qui định tại Điều 5 Thông tư [142/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx \"Thông tư 142/2015/TT-BTC\") ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá.\n\n**Điều 10. Khai thác và sử dụng Cơ sở dữ liệu về giá tính lệ phí trước bạ**\n\n1\\. Các hình thức khai thác và sử dụng Cơ sở dữ liệu về giá tính lệ phí trước bạ:\n\n\\- Qua mạng internet.\n\n\\- Qua Cổng thông tin điện tử do cơ quan quản lý Cơ sở dữ liệu quốc gia về giá quy định.\n\n2\\. Đối tượng khai thác và sử dụng Cơ sở dữ liệu về giá tính lệ phí trước bạ:\n\n\\- Cơ quan có chức năng xây dựng, điều chỉnh, thẩm định bảng giá tính lệ phí trước bạ;\n\n\\- Tổ chức, cá nhân khác (theo qui định tại Khoản 2, điều 10, Thông tư [142/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx \"Thông tư 142/2015/TT-BTC\") ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá).\n\n**Chương IV**\n\n**TỔ CHỨC THỰC HIỆN VÀ HIỆU LỰC THI HÀNH**\n\n**Điều 11. Tổ chức thực hiện**\n\n**1\\. Trách nhiệm của Tổng cục Thuế**\n\nBộ Tài chính giao Tổng cục Thuế làm đầu mối phối hợp với các đơn vị liên quan có trách nhiệm xây dựng, quản lý và vận hành Cơ sở dữ liệu về giá tính lệ phí trước bạ theo qui định tại Điều 8, 9, 10 Thông tư này và các qui định tại Thông tư số [142/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx \"Thông tư 142/2015/TT-BTC\") ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá.\n\nViệc thực hiện xây dựng cơ sở dữ liệu bằng hình thức tin học hóa phải tuân thủ các qui định về quản lý đầu tư ứng dụng CNTT ban hành kèm theo Nghị định số [102/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-102-2009-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-nha-nuoc-97114.aspx \"Nghị định 102/2009/NĐ-CP\") và các văn bản hướng dẫn thi hành.\n\nKinh phí xây dựng và quản lý cơ sở dữ liệu về giá tính lệ phí trước bạ thực hiện theo các qui định tại Điều 12, Thông tư [142/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx \"Thông tư 142/2015/TT-BTC\") ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá.\n\n**2.** ****Trách nhiệm của các đơn vị liên quan****\n\n\\- Cục Quản lý giá, Cục Tin học và thống kê Tài chính-Bộ Tài chính và các đơn vị có liên quan có trách nhiệm thực hiện các qui định tại Thông tư [142/2015/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-142-2015-tt-btc-co-so-du-lieu-quoc-gia-ve-gia-294572.aspx \"Thông tư 142/2015/TT-BTC\") ngày 04/09/2015 của Bộ Tài chính qui định về Cơ sở dữ liệu quốc gia về giá đối với Cơ sở dữ liệu giá tính lệ phí trước bạ.\n\n\\- Tổng cục Hải quan có trách nhiệm phối hợp với Tổng cục Thuế xác định trị giá tính thuế hải quan theo quy định của Luật hải quan và các khoản thuế khâu nhập khẩu, xây dựng cơ sở dữ liệu phục vụ cho công tác kết nối giữa Tổng cục Thuế và Tổng cục Hải quan đảm bảo Bảng giá tính lệ phí trước bạ điều chỉnh, bổ sung được kịp thời, nhanh chóng đúng quy định.\n\n\\- Cơ sở sản xuất kinh doanh ô tô, xe máy và các đại lý phân phối khi điều chỉnh giá bán lẻ hoặc phát sinh ô tô, xe máy mới có trách nhiệm gửi thông báo về Bộ Tài chính (Tổng cục Thuế) bằng văn bản hoặc theo phương thức điện tử trên Cổng thông tin điện tử của Tổng cục Thuế trong vòng ba (03) ngày kể từ thời điểm phát sinh.\n\n**Điều 12. Hiệu lực thi hành**\n\nThông tư này có hiệu lực thi hành sau 45 ngày kể từ ngày ký.\n\nBảng giá tính lệ phí trước bạ do Bộ Tài chính ban hành chính thức theo qui định tại Thông tư này được áp dụng cho các tài sản khai lệ phí trước bạ từ ngày 01/01/2017.\n\nTrong quá trình thực hiện, nếu có vướng mắc, đề nghị Ủy ban nhân dân các tỉnh phản ánh kịp thời về Bộ Tài chính để được nghiên cứu giải quyết kịp thời./.",
+  "htmlContent": "<span style=\"font-size: 12px; text-transform: uppercase\">Dự thảo Thông tư sửa đổi Thông tư 338/2016/TT-BTC quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác xây dựng văn bản quy phạm pháp luật và hoàn thiện hệ thống pháp luật do Bộ trưởng Bộ Tài chính ban hành</span>",
+  "mdContent": "Dự thảo Thông tư sửa đổi Thông tư 338/2016/TT-BTC quy định lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác xây dựng văn bản quy phạm pháp luật và hoàn thiện hệ thống pháp luật do Bộ trưởng Bộ Tài chính ban hành",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
