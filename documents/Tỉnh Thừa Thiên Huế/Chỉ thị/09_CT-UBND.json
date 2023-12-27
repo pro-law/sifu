@@ -1,5 +1,5 @@
 {
-  "title": "Chỉ thị 09/CT-UBND năm 2010 tăng cường công tác quản lý quy hoạch, trật tự xây dựng, đất đai và môi trường trên địa bàn khu kinh tế Chân Mây – Lăng Cô do tỉnh Thừa Thiên Huế ban hành",
+  "title": "Chỉ thị 09/CT-UBND năm 2020 về tăng cường giải pháp điều hành chi chặt chẽ, phù hợp với khả năng thu ngân sách địa phương do tỉnh Thừa Thiên Huế ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -8,22 +8,112 @@
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Nghị định 12/2009/NĐ-CP về quản lý dự án đầu tư xây dựng công trình",
-      "id": "12/2009/NĐ-CP",
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 188/2014/TT-BTC hướng dẫn Nghị định 84/2014/NĐ-CP hướng dẫn Luật Thực hành tiết kiệm, chống lãng phí do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "188/2014/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2014-12-10",
+      "effectiveDate": "2015-01-25",
+      "gazetteDate": "2015-01-12",
+      "gazetteNumber": "Từ số 47 đến số 48",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 84/2014/NĐ-CP hướng dẫn Luật Thực hành tiết kiệm, chống lãng phí",
+      "id": "84/2014/NĐ-CP",
       "legislationType": "Nghị định",
       "categories": [
-        "Đầu tư",
-        "Xây dựng - Đô thị"
+        "Bộ máy hành chính",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
       ],
       "organization": "Chính phủ",
       "signers": [
         "Nguyễn Tấn Dũng"
       ],
-      "issuedDate": "2009-02-12",
-      "effectiveDate": "2009-04-02",
-      "gazetteDate": "2009-02-23",
-      "gazetteNumber": "Từ số 131 đến số 132",
-      "status": "Hết hiệu lực: 05/08/2015"
+      "issuedDate": "2014-09-08",
+      "effectiveDate": "2014-11-01",
+      "gazetteDate": "2014-09-22",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 38-CT/TW năm 2014 tăng cường quản lý các đoàn đi công tác nước ngoài do Ban Chấp hành Trung ương ban hành",
+      "id": "38-CT/TW",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Lê Hồng Anh"
+      ],
+      "issuedDate": "2014-07-21",
+      "effectiveDate": "2014-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật thực hành tiết kiệm, chống lãng phí 2013",
+      "id": "44/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-26",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-30",
+      "gazetteNumber": "Từ số 1009 đến số 1010",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư liên tịch 111/2009/TTLT/BTC-BCT thực hiện tiết kiệm điện trong các cơ quan nhà nước, đơn vị sự nghiệp công lập do Bộ Tài chính - Bộ Công thương ban hành",
+      "id": "111/2009/TTLT/BTC-BCT",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính, Bộ Công thương",
+      "signers": [
+        "Đỗ Hữu Hào",
+        "Phạm Sỹ Danh"
+      ],
+      "issuedDate": "2009-06-01",
+      "effectiveDate": "2009-07-16",
+      "gazetteDate": "2009-06-20",
+      "gazetteNumber": "Từ số 301 đến số 302",
+      "status": "Còn hiệu lực"
     }
   ],
   "influentialDocuments": [],
@@ -31,114 +121,145 @@
   "consolidatedDocuments": [],
   "amendingDocuments": [],
   "rectifyingDocuments": [],
-  "supersedingDocuments": [
-    {
-      "title": "Quyết định 1427/QĐ-UBND năm 2012 công bố danh mục văn bản quy phạm pháp luật đến ngày 31 tháng 12 năm 2010 hết hiệu lực pháp luật do tỉnh Thừa Thiên Huế ban hành",
-      "id": "1427/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Thừa Thiên Huế",
-      "signers": [
-        "Ngô Hòa"
-      ],
-      "issuedDate": "2012-08-11",
-      "effectiveDate": "2012-08-11",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 1282/QĐ-UBND năm 2014 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân tỉnh Thừa Thiên Huế đến hết ngày 31/12/2013",
-      "id": "1282/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Thừa Thiên Huế",
-      "signers": [
-        "Lê Trường Lưu"
-      ],
-      "issuedDate": "2014-06-26",
-      "effectiveDate": "2014-06-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    }
-  ],
+  "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Chỉ thị 01/2013/CT-UBND về tăng cường quản lý quy hoạch đô thị trên địa bàn tỉnh Bình Thuận",
-      "id": "01/2013/CT-UBND",
-      "legislationType": "Chỉ thị",
+      "title": "Quyết định 3188/QĐ-UBND năm 2021 về chủ trương, biện pháp quản lý và điều hành ngân sách địa phương năm 2022 do tỉnh Phú Thọ ban hành",
+      "id": "3188/QĐ-UBND",
+      "legislationType": "Quyết định",
       "categories": [
-        "Bộ máy hành chính",
-        "Xây dựng - Đô thị"
+        "Tài chính nhà nước"
       ],
-      "organization": "Tỉnh Bình Thuận",
+      "organization": "Tỉnh Phú Thọ",
       "signers": [
-        "Lê Tiến Phương"
+        "Bùi Văn Quang"
       ],
-      "issuedDate": "2013-05-09",
-      "effectiveDate": "2013-05-19",
+      "issuedDate": "2021-12-09",
+      "effectiveDate": "2022-01-01",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Chỉ thị 24/2012/CT-UBND về công tác lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị trên địa bàn thành phố Hồ Chí Minh",
-      "id": "24/2012/CT-UBND",
-      "legislationType": "Chỉ thị",
+      "title": "Nghị quyết 256/NQ-HĐND thu hồi số tăng thu từ ngân sách huyện Mộc Châu về ngân sách tỉnh Sơn La năm 2021",
+      "id": "256/NQ-HĐND",
+      "legislationType": "Nghị quyết",
       "categories": [
-        "Xây dựng - Đô thị"
+        "Tài chính nhà nước"
       ],
-      "organization": "Thành phố Hồ Chí Minh",
+      "organization": "Tỉnh Sơn La",
       "signers": [
-        "Nguyễn Hữu Tín"
+        "Nguyễn Thái Hưng"
       ],
-      "issuedDate": "2012-11-03",
-      "effectiveDate": "2012-11-10",
-      "gazetteDate": "2012-12-15",
-      "gazetteNumber": "Số 55",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Chỉ thị 10/CT-UBND năm 2012 tăng cường công tác quản lý, kiểm tra, giám sát thực hiện quy hoạch sân golf theo Quyết định 1946/QĐ-TTg do Ủy ban nhân dân tỉnh Quảng Ninh ban hành",
-      "id": "10/CT-UBND",
-      "legislationType": "Chỉ thị",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Tỉnh Quảng Ninh",
-      "signers": [
-        "Nguyễn Văn Đọc"
-      ],
-      "issuedDate": "2012-06-20",
-      "effectiveDate": "2012-06-20",
+      "issuedDate": "2021-01-18",
+      "effectiveDate": "2021-01-18",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 01/2020/NQ-HĐND về giao thẩm quyền cho Ủy ban nhân dân tỉnh quyết định chủ trương đầu tư dự án nhóm B, nhóm C sử dụng vốn ngân sách địa phương, bao gồm cả vốn bổ sung có mục tiêu từ ngân sách cấp trên, các nguồn vốn hợp pháp do cấp tỉnh quản lý thuộc thẩm quyền của Hội đồng nhân dân tỉnh Bến Tre",
+      "id": "01/2020/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Huỳnh Quang Triệu"
+      ],
+      "issuedDate": "2020-04-23",
+      "effectiveDate": "2020-05-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 104/NQ-HĐND năm 2019 về phê chuẩn dự toán thu ngân sách nhà nước trên điạ bàn, thu, chi ngân sách địa phương năm 2020 do tỉnh Bà Rịa - Vũng Tàu ban hành",
+      "id": "104/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bà Rịa - Vũng Tàu",
+      "signers": [
+        "Nguyễn Hồng Lĩnh"
+      ],
+      "issuedDate": "2019-12-13",
+      "effectiveDate": "2020-12-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 25/NQ-HĐND năm 2019 về phê chuẩn quyết toán thu ngân sách nhà nước trên địa bàn tỉnh Hà Giang, quyết toán thu, chi ngân sách địa phương năm 2018",
+      "id": "25/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Hà Giang",
+      "signers": [
+        "Thào Hồng Sơn"
+      ],
+      "issuedDate": "2019-12-11",
+      "effectiveDate": "2019-12-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 39/NQ-HĐND năm 2019 về dự toán thu ngân sách nhà nước trên địa bàn; thu, chi ngân sách địa phương; phương án phân bổ ngân sách tỉnh Đắk Nông năm 2020",
+      "id": "39/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Đắk Nông",
+      "signers": [
+        "Lê Diễn"
+      ],
+      "issuedDate": "2019-12-11",
+      "effectiveDate": "2019-12-11",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 128/2003/QĐ-UB năm 2003 về Quy chế quản lý và điều hành ngân sách do tỉnh Gia Lai ban hành",
+      "id": "128/2003/QĐ-UB",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Gia Lai",
+      "signers": [
+        "Nguyễn Vỹ Hà"
+      ],
+      "issuedDate": "2003-12-29",
+      "effectiveDate": "2003-12-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 10/03/2018"
     }
   ],
   "id": "09/CT-UBND",
   "legislationType": "Chỉ thị",
   "categories": [
-    "Bất động sản",
-    "Xây dựng - Đô thị",
-    "Tài nguyên - Môi trường"
+    "Tài chính nhà nước"
   ],
   "organization": "Tỉnh Thừa Thiên Huế",
   "signers": [
-    "Nguyễn Ngọc Thiện"
+    "Phan Ngọc Thọ"
   ],
-  "issuedDate": "2010-03-24",
-  "effectiveDate": "2010-03-24",
+  "issuedDate": "2020-04-10",
+  "effectiveDate": "2020-04-10",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
-  "status": "Hết hiệu lực: 23/12/2010",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADEAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN</b><br>\n  <b>TỈNH THỪA THIÊN HUẾ</b><br>\n  <b>-------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 09/CT-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Huế, ngày 24\n  tháng 3 năm 2010</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\">VỀ\nVIỆC TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ QUY HOẠCH, TRẬT TỰ XÂY DỰNG, ĐẤT ĐAI VÀ MÔI\nTRƯỜNG TRÊN ĐỊA BÀN KHU KINH TẾ CHÂN MÂY – LĂNG CÔ</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Kể từ khi thành lập đến nay\n(2006), được sự quan tâm chỉ đạo điều hành của Tỉnh ủy, HĐND tỉnh, UBND tỉnh và\ncác cơ quan chức năng, địa phương liên quan của tỉnh, cùng với sự hỗ trợ của\nngân sách Trung ương, diện mạo Khu kinh tế Chân Mây – Lăng Cô đã có những thay\nđổi đáng kể. Nhiều công trình cơ sở hạ tầng quan trọng của khu kinh tế đã và\nđang được tập trung xây dựng theo quy hoạch đã được phê duyệt. Kết cấu hạ tầng\ngiao thông đã kết nối đồng bộ với các phân khu chức năng, bước đầu đáp ứng vai\ntrò động lực phát triển và thu hút đầu tư vào khu kinh tế, đồng thời góp phần\nthúc đẩy phát triển kinh tế - xã hội địa phương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tuy nhiên, trong thời gian gần\nđây, trên địa bàn Khu kinh tế Chân Mây – Lăng Cô đang xảy ra nhiều trường hợp\nkhai thác đất cát trái phép, lấn chiếm đất công và mặt nước đầm Lập An, xây nhà\ntrái phép, không tuân thủ quy hoạch; xả rác thải bừa bãi... đã gây tác động\ntiêu cực đến cảnh quan môi trường, trật tự quy hoạch xây dựng, cũng như ảnh\nhưởng đến tiến độ xây dựng của một số dự án đầu tư tại Khu kinh tế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Để kịp thời khắc phục tình\ntrạng trên, chấn chỉnh lại công tác quản lý quy hoạch, xây dựng, đất đai và môi\ntrường tại Khu kinh tế Chân Mây – Lăng Cô, Chủ tịch UBND tỉnh yêu cầu Thủ\ntrưởng các sở, ban, ngành cấp tỉnh, Trưởng ban quản lý Khu kinh tế Chân Mây -\nLăng Cô, Chủ tịch UBND huyện Phú Lộc, Chủ tịch UBND các xã: Lộc Thủy, Lộc Tiến,\nLộc Vĩnh và thị trấn Lăng Cô thực hiện tốt một số nhiệm vụ sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1.</b> Chủ tịch UBND huyện\nPhú Lộc chỉ đạo các cơ quan chức năng liên quan của Huyện và Chủ tịch UBND các\nxã, thị trấn liên quan tăng cường kiểm tra, xử lý kịp thời, nghiêm minh các\ntrường hợp sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng mới nhà ở và các\ncông trình khác không có giấy phép xây dựng trong khu vực đã có quy hoạch chi\ntiết xây dựng;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đã được bố trí đất ở tại các\nkhu tái định cư nhưng vẫn tiếp tục xây dựng nhà ở trái phép dọc các trục đường\nđã và đang xây dựng trên địa bàn Khu kinh tế;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Xây dựng nhà trái phép, vi\nphạm hành lang an toàn của Quốc lộ 1A;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2.</b> Nghiêm cấm việc\nchuyển nhượng đất đai ở các khu vực chưa có quy hoạch chi tiết xây dựng được\nphê duyệt.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>3.</b> Giao trách nhiệm cho\nUBND huyện Phú Lộc:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với Ban\nQuản lý Khu kinh tế Chân Mây – Lăng Cô tham mưu UBND tỉnh quyết định quy mô\ncông trình được phép xây dựng tạm, cải tạo chỉnh trang nhà ở trong khu vực đã\nphê duyệt quy hoạch chi tiết, hoặc trong khu vực được UBND tỉnh cho phép xây\ndựng tạm, cải tạo chỉnh trang nhà ở; hoàn thành và báo cáo UBND tỉnh trước ngày\n10 tháng 4 năm 2010.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chỉ đạo bộ phận quản lý đô\nthị, xây dựng và chính quyền các xã, thị trấn liên quan tăng cường công tác\ntuyên truyền, hướng dẫn, giải quyết kịp thời các thủ tục về cấp giấy phép xây\ndựng nhà ở riêng lẽ cho các hộ dân phù hợp với quy hoạch chi tiết xây dựng đã\nđược phê duyệt hoặc xây dựng tạm nhà ở theo quy định của Nghị định\n12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng\ncông trình;</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thường xuyên kiểm tra, xử lý\ncác trường hợp vi phạm trật tự xây dựng, lấn chiếm đất công, mặt nước đầm Lập\nAn, khai thác đất, cát trái phép trên địa bàn Khu kinh tế. Trường hợp cố tình\nvi phạm hoặc tiếp tục vi phạm khi đã có thông báo đình chỉ, ngừng thi công của\ncấp có thẩm quyền thì cương quyết tổ chức cưỡng chế theo quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>4.</b> UBND các xã: Lộc\nThủy, Lộc Tiến, Lộc Vĩnh và thị trấn Lăng Cô phối hợp chặt chẽ với Ban Quản lý\nKhu kinh tế, các cơ quan liên quan của huyện Phú Lộc kiểm tra, phát hiện các\ntrường hợp vi phạm về môi trường thuộc phạm vi địa bàn quản lý; xử lý các\ntrường hợp xả rác thải, nước thải và các hoạt động khác gây ô nhiễm môi trường\ncủa các hộ dân, hộ kinh doanh cá thể.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>5.</b> Giao trách nhiệm cho\nBan Quản lý Khu kinh tế Chân Mây – Lăng Cô chủ trì, phối hợp với UBND huyện Phú\nLộc và UBND các xã, thị trấn liên quan:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Công bố công khai các quy\nhoạch đã được phê duyệt, cung cấp thông tin quy hoạch, cắm mốc giới quy hoạch,\ncác thủ tục về cấp giấy phép xây dựng; tham gia ý kiến về thiết kế cơ sở trên\ntrang thông tin điện tử của cơ quan và của Tỉnh; giải quyết kịp thời, nhanh\nchóng các thủ tục về cấp giấy phép xây dựng công trình thuộc dự án của các tổ\nchức, nhà đầu tư.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Căn cứ vào các quy hoạch đã\nđược phê duyệt để tham mưu UBND tỉnh công bố công khai các khu vực, vị trí được\nphép cải tạo, chỉnh trang hoặc xây dựng tạm nhà ở; hoàn thành trước ngày 10 tháng\n4 năm 2010; hoặc tham mưu trình UBND tỉnh ban hành Quy chế quản lý quy hoạch, kiến\ntrúc.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thường xuyên kiểm tra, phát\nhiện những trường hợp vi phạm và kiến nghị biện pháp xử lý kịp thời.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>6.</b> Ban Quản lý Khu kinh\ntế Chân Mây – Lăng Cô và UBND huyện Phú Lộc phối hợp yêu cầu các chủ đầu tư dự\nán trên địa bàn Khu kinh tế thường xuyên kiểm tra, giám sát các đơn vị thi\ncông, các đơn vị sản xuất khai thác và cung ứng vật liệu xây dựng phải tuân thủ\nđúng quy hoạch và quy định của Nhà nước về khai thác mỏ khoáng sản làm vật liệu\nxây dựng.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trường hợp các đơn vị thi công\ntrên địa bàn khai thác trái phép, yêu cầu đình chỉ thi công và cấm tham gia đấu\nthầu các dự án đầu tư xây dựng trên địa bàn Khu kinh tế Chân Mây – Lăng Cô.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>7.</b> Ban Quản lý Khu kinh\ntế Chân Mây – Lăng Cô, UBND huyện Phú Lộc và UBND các xã, thị trấn liên quan tổ\nchức phổ biến sâu rộng, quán triệt các nội dung của Chỉ thị này đến tận các tổ\nchức, các chủ đầu tư, các đơn vị thi công, nhà đầu tư, các hộ dân trên địa bàn\nKhu kinh tế.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Ủy ban Nhân dân tỉnh yêu cầu\nThủ trưởng các sở, ban, ngành cấp tỉnh; Trưởng ban quản lý Khu kinh tế Chân Mây\n- Lăng Cô, Chủ tịch UBND huyện Phú Lộc, Chủ tịch UBND các xã: Lộc Thủy, Lộc\nTiến, Lộc Vĩnh và thị trấn Lăng Cô có kế hoạch tổ chức triển khai thực hiện\nnghiêm túc Chỉ thị này. Trong quá trình thực hiện nếu có vướng mắc cần phản ánh\nkịp thời để UBND tỉnh xem xét, xử lý.<sub>/</sub>.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADEAOAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i>&nbsp;</i></b></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  </b><br>\n  <b>Nguyễn Ngọc Thiện</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">&nbsp;</p>\n\n</div>\n\n",
-  "mdContent": "**ỦY BAN NHÂN DÂN**  \n**TỈNH THỪA THIÊN HUẾ**  \n**\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 09/CT-UBND\n\n_Huế, ngày 24 tháng 3 năm 2010_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ QUY HOẠCH, TRẬT TỰ XÂY DỰNG, ĐẤT ĐAI VÀ MÔI TRƯỜNG TRÊN ĐỊA BÀN KHU KINH TẾ CHÂN MÂY – LĂNG CÔ\n\nKể từ khi thành lập đến nay (2006), được sự quan tâm chỉ đạo điều hành của Tỉnh ủy, HĐND tỉnh, UBND tỉnh và các cơ quan chức năng, địa phương liên quan của tỉnh, cùng với sự hỗ trợ của ngân sách Trung ương, diện mạo Khu kinh tế Chân Mây – Lăng Cô đã có những thay đổi đáng kể. Nhiều công trình cơ sở hạ tầng quan trọng của khu kinh tế đã và đang được tập trung xây dựng theo quy hoạch đã được phê duyệt. Kết cấu hạ tầng giao thông đã kết nối đồng bộ với các phân khu chức năng, bước đầu đáp ứng vai trò động lực phát triển và thu hút đầu tư vào khu kinh tế, đồng thời góp phần thúc đẩy phát triển kinh tế - xã hội địa phương.\n\nTuy nhiên, trong thời gian gần đây, trên địa bàn Khu kinh tế Chân Mây – Lăng Cô đang xảy ra nhiều trường hợp khai thác đất cát trái phép, lấn chiếm đất công và mặt nước đầm Lập An, xây nhà trái phép, không tuân thủ quy hoạch; xả rác thải bừa bãi... đã gây tác động tiêu cực đến cảnh quan môi trường, trật tự quy hoạch xây dựng, cũng như ảnh hưởng đến tiến độ xây dựng của một số dự án đầu tư tại Khu kinh tế.\n\nĐể kịp thời khắc phục tình trạng trên, chấn chỉnh lại công tác quản lý quy hoạch, xây dựng, đất đai và môi trường tại Khu kinh tế Chân Mây – Lăng Cô, Chủ tịch UBND tỉnh yêu cầu Thủ trưởng các sở, ban, ngành cấp tỉnh, Trưởng ban quản lý Khu kinh tế Chân Mây - Lăng Cô, Chủ tịch UBND huyện Phú Lộc, Chủ tịch UBND các xã: Lộc Thủy, Lộc Tiến, Lộc Vĩnh và thị trấn Lăng Cô thực hiện tốt một số nhiệm vụ sau:\n\n**1.** Chủ tịch UBND huyện Phú Lộc chỉ đạo các cơ quan chức năng liên quan của Huyện và Chủ tịch UBND các xã, thị trấn liên quan tăng cường kiểm tra, xử lý kịp thời, nghiêm minh các trường hợp sau:\n\n\\- Xây dựng mới nhà ở và các công trình khác không có giấy phép xây dựng trong khu vực đã có quy hoạch chi tiết xây dựng;\n\n\\- Đã được bố trí đất ở tại các khu tái định cư nhưng vẫn tiếp tục xây dựng nhà ở trái phép dọc các trục đường đã và đang xây dựng trên địa bàn Khu kinh tế;\n\n\\- Xây dựng nhà trái phép, vi phạm hành lang an toàn của Quốc lộ 1A;\n\n**2.** Nghiêm cấm việc chuyển nhượng đất đai ở các khu vực chưa có quy hoạch chi tiết xây dựng được phê duyệt.\n\n**3.** Giao trách nhiệm cho UBND huyện Phú Lộc:\n\n\\- Chủ trì, phối hợp với Ban Quản lý Khu kinh tế Chân Mây – Lăng Cô tham mưu UBND tỉnh quyết định quy mô công trình được phép xây dựng tạm, cải tạo chỉnh trang nhà ở trong khu vực đã phê duyệt quy hoạch chi tiết, hoặc trong khu vực được UBND tỉnh cho phép xây dựng tạm, cải tạo chỉnh trang nhà ở; hoàn thành và báo cáo UBND tỉnh trước ngày 10 tháng 4 năm 2010.\n\n\\- Chỉ đạo bộ phận quản lý đô thị, xây dựng và chính quyền các xã, thị trấn liên quan tăng cường công tác tuyên truyền, hướng dẫn, giải quyết kịp thời các thủ tục về cấp giấy phép xây dựng nhà ở riêng lẽ cho các hộ dân phù hợp với quy hoạch chi tiết xây dựng đã được phê duyệt hoặc xây dựng tạm nhà ở theo quy định của Nghị định 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;\n\n\\- Thường xuyên kiểm tra, xử lý các trường hợp vi phạm trật tự xây dựng, lấn chiếm đất công, mặt nước đầm Lập An, khai thác đất, cát trái phép trên địa bàn Khu kinh tế. Trường hợp cố tình vi phạm hoặc tiếp tục vi phạm khi đã có thông báo đình chỉ, ngừng thi công của cấp có thẩm quyền thì cương quyết tổ chức cưỡng chế theo quy định của pháp luật.\n\n**4.** UBND các xã: Lộc Thủy, Lộc Tiến, Lộc Vĩnh và thị trấn Lăng Cô phối hợp chặt chẽ với Ban Quản lý Khu kinh tế, các cơ quan liên quan của huyện Phú Lộc kiểm tra, phát hiện các trường hợp vi phạm về môi trường thuộc phạm vi địa bàn quản lý; xử lý các trường hợp xả rác thải, nước thải và các hoạt động khác gây ô nhiễm môi trường của các hộ dân, hộ kinh doanh cá thể.\n\n**5.** Giao trách nhiệm cho Ban Quản lý Khu kinh tế Chân Mây – Lăng Cô chủ trì, phối hợp với UBND huyện Phú Lộc và UBND các xã, thị trấn liên quan:\n\n\\- Công bố công khai các quy hoạch đã được phê duyệt, cung cấp thông tin quy hoạch, cắm mốc giới quy hoạch, các thủ tục về cấp giấy phép xây dựng; tham gia ý kiến về thiết kế cơ sở trên trang thông tin điện tử của cơ quan và của Tỉnh; giải quyết kịp thời, nhanh chóng các thủ tục về cấp giấy phép xây dựng công trình thuộc dự án của các tổ chức, nhà đầu tư.\n\n\\- Căn cứ vào các quy hoạch đã được phê duyệt để tham mưu UBND tỉnh công bố công khai các khu vực, vị trí được phép cải tạo, chỉnh trang hoặc xây dựng tạm nhà ở; hoàn thành trước ngày 10 tháng 4 năm 2010; hoặc tham mưu trình UBND tỉnh ban hành Quy chế quản lý quy hoạch, kiến trúc.\n\n\\- Thường xuyên kiểm tra, phát hiện những trường hợp vi phạm và kiến nghị biện pháp xử lý kịp thời.\n\n**6.** Ban Quản lý Khu kinh tế Chân Mây – Lăng Cô và UBND huyện Phú Lộc phối hợp yêu cầu các chủ đầu tư dự án trên địa bàn Khu kinh tế thường xuyên kiểm tra, giám sát các đơn vị thi công, các đơn vị sản xuất khai thác và cung ứng vật liệu xây dựng phải tuân thủ đúng quy hoạch và quy định của Nhà nước về khai thác mỏ khoáng sản làm vật liệu xây dựng.\n\nTrường hợp các đơn vị thi công trên địa bàn khai thác trái phép, yêu cầu đình chỉ thi công và cấm tham gia đấu thầu các dự án đầu tư xây dựng trên địa bàn Khu kinh tế Chân Mây – Lăng Cô.\n\n**7.** Ban Quản lý Khu kinh tế Chân Mây – Lăng Cô, UBND huyện Phú Lộc và UBND các xã, thị trấn liên quan tổ chức phổ biến sâu rộng, quán triệt các nội dung của Chỉ thị này đến tận các tổ chức, các chủ đầu tư, các đơn vị thi công, nhà đầu tư, các hộ dân trên địa bàn Khu kinh tế.\n\nỦy ban Nhân dân tỉnh yêu cầu Thủ trưởng các sở, ban, ngành cấp tỉnh; Trưởng ban quản lý Khu kinh tế Chân Mây - Lăng Cô, Chủ tịch UBND huyện Phú Lộc, Chủ tịch UBND các xã: Lộc Thủy, Lộc Tiến, Lộc Vĩnh và thị trấn Lăng Cô có kế hoạch tổ chức triển khai thực hiện nghiêm túc Chỉ thị này. Trong quá trình thực hiện nếu có vướng mắc cần phản ánh kịp thời để UBND tỉnh xem xét, xử lý./.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n**  \n**Nguyễn Ngọc Thiện**",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA1ADEANQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"bookmark0\"><b><span lang=\"VI\">ỦY BAN NHÂN DÂN<br>\n  TỈNH THỪA THIÊN HUẾ<br>\n  -------</span></b></a></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top: 6pt; text-align: center; background: transparent;\"><b><span lang=\"VI\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top: 6pt; text-align: center; background: transparent;\"><span lang=\"VI\">Số: </span>09/CT-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top: 6pt; text-align: right; background: transparent;\"><i>Thừa\n  Thiên Huế</i><i><span lang=\"VI\">, ngày </span>10</i><i><span lang=\"VI\"> tháng </span>4</i><i><span lang=\"VI\"> năm </span>2020</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">VỀ VIỆC TĂNG CƯỜNG\nCÁC GIẢI PHÁP ĐIỀU HÀNH CHI CHẶT CHẼ, PHÙ HỢP VỚI KHẢ NĂNG THU NGÂN SÁCH ĐỊA\nPHƯƠNG</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tình hình dịch bệnh Covid-19 diễn\nbiến phức tạp, khó lường; tại địa bàn tỉnh Thừa Thiên Huế, ảnh hưởng của dịch\nCovid-19 đã tác động đến nhiều mặt của đời sống kinh tế, xã hội. Nhiều doanh\nnghiệp, nhất là doanh nghiệp nhỏ và vừa phải thu hẹp sản xuất kinh doanh hoặc\ntạm ngừng hoạt động. Hoạt động du lịch gặp khó khăn do tình trạng hủy tour, hủy\nphòng, các dịch vụ ăn uống, lưu trú, vận chuyển giảm sút; sức mua tại các siêu\nthị và chợ trung tâm cũng bị ảnh hưởng; đi</span>ề<span lang=\"VI\">u này d</span>ẫ<span lang=\"VI\">n đ</span>ế<span lang=\"VI\">n khả năng ngân sách địa phương sẽ hụt thu\nlớn, nguy cơ mất cân đối ngân sách nhà nước tỉnh nói chung và các huyện, thị xã\nvà thành ph</span>ố<span lang=\"VI\"> Hu</span>ế<span lang=\"VI\"> nói riêng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để tăng cường các biện pháp điều hành\nchi chặt chẽ, phù h</span>ợ<span lang=\"VI\">p với khả năng thu ngân sách địa\nphương, UBND tỉnh yêu cầu Thủ trưởng các S</span>ở<span lang=\"VI\">, ban, ngành\ncấp tỉnh, Chủ tịch UBND các huyện, thị xã và thành ph</span>ố<span lang=\"VI\"> Hu</span>ế\n<span lang=\"VI\">(gọi là các huyện) thực hiện ngay các giải pháp sau đây:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. UBND các huyện chủ động rà soát\nnguồn thu ngân sách, xây dựng phương án điều hành chi ngân sách theo phương\nchâm “Thu giảm, chi giảm”. Xây dựng chi tiết kịch bản điều hành thu, chi ngân\nsách trong trường hợp dịch bệnh Covid-19 kết thúc trong tháng 6/2020 hoặc muộn\nhơn trong tháng 9/2020; trong đó xác định cụ thể các nhiệm vụ cần ưu tiên đ</span>ả<span lang=\"VI\">m bảo kinh phí theo dự toán đầu năm, các nhiệm vụ c</span>ầ<span lang=\"VI\">n sắp xếp cắt giảm để phù hợp với khả năng thu ngân sách địa phương.\nTrong trường hợp ngân sách huyện, xã hụt thu lớn, UBND các huyện báo cáo HĐND\nhuyện chủ động sớm điều chỉnh dự toán theo quy định tại Điều 52 và Điều 59 của\nLuật Ngân sách nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ tiến độ thu NSNN tỉnh, Sở Tài\nchính báo cáo UBND tỉnh phương án điều chỉnh dự toán ngân sách địa phương nói\nchung và ngân sách tỉnh nói riêng trong tháng 4/2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. UBND các cấp thực hiện quản lý chi\nchặt chẽ, tiết kiệm trong phạm vi dự toán được giao, ch</span>ủ <span lang=\"VI\">động\nsử dụng dự phòng ngân sách để chi phòng, chống dịch bệnh, khắc phục hậu quả\nthiên tai; không bổ sung ngoài dự toán đầu năm, trừ một số trường hợp đặc biệt\ncấp bách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trước mắt, Sở Tài chính chỉ tham mưu </span>U<span lang=\"VI\">BND tỉnh điều hành, sử dụng dự phòng ngân sách trong phạm vi 50%, tạm\ngiữ lại 50%; UBND cấp huyện điều hành, sử dụng 40% dự phòng ngân sách và tạm\ngiữ lại 60% để chủ động xử lý khi nguồn thu ngân sách giảm lớn hoặc chi phòng,\nch</span>ố<span lang=\"VI\">ng dịch bệnh, khắc phục hậu quả thiên tai.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">UBND các huyện ưu tiên sử dụng nguồn\ntăng thu thực hiện so với dự toán năm 2019 còn lại (sau khi đã trừ ngu</span>ồ<span lang=\"VI\">n kinh phí huy động thực hiện cải cách tiền lương theo quy định) để bù\nhụt thu (nếu có), chi cho công tác phòng chống thiên tai, dịch bệnh và chi thực\nhiện chính sách an sinh xã hội...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Trên cơ sở ý kiến của Thường trực\nHĐND tỉnh tại Công văn số 43/HĐND-KTNS ngày 09/4/2020, thực hiện tiết kiệm thêm\n10% dự toán chi thường xuyên 8 tháng cuối năm 2020 của các đơn vị sử dụng ngân\nsách (trừ ngành y tế) cấp tỉnh và các huyện, không bao gồm các khoản: Chi tiền\nlương, phụ cấp theo lương, chi cho con người theo ch</span>ế <span lang=\"VI\">độ;\nchi thực hiện các chính sách an sinh xã hội và các khoản chi đặc thù khác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Giao Sở Tài chính chủ trì, phối hợp\nvới các cơ quan, đơn vị, địa phương báo cáo UBND tỉnh quyết định mức tiết kiệm\ncụ thể cho từng đơn vị dự toán cấp </span>I <span lang=\"VI\">và UBND huyện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đối với chi đầu tư phát triển từ\nnguồn vốn xây dựng cơ bản tập trung, giao Sở Kế hoạch và Đầu tư rà soát tiến độ\nthực hiện và giải ngân để có phương án cắt giảm các công trình, dự án chưa thực\nsự cấp bách với tổng mức tối thiểu là 120 tỷ đồng (bao gồm cả ngân sách huyện),\nbáo cáo UBND t</span>ỉ<span lang=\"VI\">nh trước ngày 20/4/2020.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Điều hành, quản lý chi NSNN tiết\nkiệm, đúng quy định, chống lãng phí.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các đơn vị sử dụng ngân sách phải\nđiều hành, quản lý chi ngân sách trong phạm vi dự toán được giao, đúng định\nmức, chế độ quy định; triệt để tiết kiệm, nâng cao hiệu quả sử dụng ngân sách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Từ đây đến cuối năm, không đề xuất bổ\nsung kinh phí các đề án, chương trình, dự án hoặc chế độ, chính sách mới, nâng\nđịnh mức làm tăng chi ngân sách (trừ chế độ, chính sách trong phòng, chống dịch\nbệnh).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kiểm soát chặt chẽ, đúng quy định,\nhạn chế việc ứng trước dự toán NSNN, giảm chi chuyển nguồn sang năm sau, việc\nbố trí lại các nhiệm vụ chi ngân sách năm trước và cho phép chi chuyển nguồn\nthường xuyên phải thật sự cấp thiết và theo đúng quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Các Sở, ban, ngành chủ động sắp\nxếp, b</span>ố <span lang=\"VI\">trí trong phạm vi dự toán được giao để xử lý các\nnhiệm vụ đột xuất phát sinh trong năm. Sở Tài chính tham mưu UBND tỉnh quản lý\nchặt chẽ các nhiệm vụ chi phát sinh mới và chỉ xem xét bổ sung chi thường xuyên\ncho các đơn vị có nhu cầu chi thật cấp thiết nhằm thực hiện các nhiệm vụ đột xu</span>ấ<span lang=\"VI\">t được tỉnh giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Thực hiện tiết kiệm các khoản chi\nthường xuyên, chi cho bộ máy quản lý nhà nước, chi hoạt động của đơn vị sự\nnghiệp công lập:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5.1 Thực hiện các yêu cầu về tiết\nkiệm, ch</span>ố<span lang=\"VI\">ng lãng phí theo Luật thực hành tiết kiệm, chống\nlãn</span>g <span lang=\"VI\">phí; Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của\nChính phủ quy định chi tiết một số Điều của Luật Thực hành tiết kiệm, chống\nlãng phí; Thông tư số 188/2014/TT-BTC ngày 10/12/2014 của Bộ Tài chính hướng\ndẫn một số Điều của Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của Chính phủ và\nChương trình thực hành, tiết kiệm chống lãng phí năm 2020 của UBND tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5.2 Về thực hiện tiết kiệm triệt để\ncác khoản chi thường xuyên:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chủ động rà soát, sắp xếp để cắt\ngiảm hoặc lùi th</span>ờ<span lang=\"VI\">i gian thực hiện các nhiệm vụ chi chưa\nthực sự cần thiết, cấp bách, các khoản chi mua sắm trang thiết bị để </span>d<span lang=\"VI\">ành nguồn ưu tiên thực hiện các nhiệm vụ cần thiết, cấp bách.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Mua sắm tài sản công phục vụ hoạt\nđộng thường xuyên của cơ quan Nhà nước, đơn vị sự nghiệp công lập từ ngu</span>ồ<span lang=\"VI\">n NSNN phải g</span>ắ<span lang=\"VI\">n với nhu c</span>ầ<span lang=\"VI\">u\nthực sự c</span>ầ<span lang=\"VI\">n thiết, đảm bảo tiêu chuẩn, định mức sử dụng\ntài sản theo quy định của Nhà nước. Trường hợp rà soát lại mà Thủ trưởng các\nđơn vị nhận thấy có thể trì hoãn việc mua sắm thì h</span>ủy <span lang=\"VI\">dự\ntoán và b</span>ố <span lang=\"VI\">trí vào ngu</span>ồ<span lang=\"VI\">n ngân sách\nnăm sau.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Đi công tác trong và ngoài nước:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện rà soát để dừng các đoàn đi\ncông tác nước ngoài không thực sự cần thiết theo đúng tinh thần Chỉ thị số\n38-CT/TW ngày 21/7/2014 của Bộ Chính trị về tăng cường quản lý các đoàn đi công\ntác nước ngoài; tạm hoãn các chuy</span>ế<span lang=\"VI\">n đi công tác nước ngoài\ntrong thời </span>đ<span lang=\"VI\">i</span>ể<span lang=\"VI\">m hiện nay.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Rà soát việc tổ chức các đoàn công\ntác trong nước theo tinh thần triệt để tiết kiệm, không k</span>ế<span lang=\"VI\">t\nh</span>ợ<span lang=\"VI\">p đi công tác với tham quan, du lịch. Rà soát kỹ các\nchương trình kiểm tra, thanh tra, các đoàn công tác từ cấp </span>tr<span lang=\"VI\">ên xu</span>ố<span lang=\"VI\">ng c</span>ấ<span lang=\"VI\">p dưới, bảo đảm\ngọn nhẹ, hiệu quả; không tổ chức đón tiếp gây tốn kém chi phí đối với c</span>ấ<span lang=\"VI\">p dưới và các cơ quan có liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Chi phí v</span>ă<span lang=\"VI\">n\nphòng phẩm: Triệt để tiết kiệm trong sử dụng văn phòng phẩm, thực hiện quy chế\nvề công tác văn thư, trao đổi văn bản điện tử trong nội bộ cơ quan và giữa các\ncơ quan với nhau để hạn chế in, sao chụp giấy tờ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">đ) Chi phí xăng, dầu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng quy chế sử dụng xe chặt chẽ,\ncó sự kiểm tra, giám sát của các bộ phận có liên quan. Không sử dụng xe ô tô\ncông đưa đón cán bộ không có tiêu chuẩn từ nơi ở tới nơi làm việc và ngược lại,\nkhông sử dụng xe ô tô công vào việc riêng; đẩy nhanh việc thực hiện khoán xe ô\ntô công phục vụ công tác.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Chi phí sử dụng điện: Thực hiện\ntiết kiệm điện theo Thông tư liên tịch số 111/2009/TTLT-BTC-BCT ngày 01/6/2009\ncủa liên Bộ Tài chính - Bộ Công Thương hướng dẫn thực hiện tiết kiệm điện trong\ncác cơ quan nhà nước, đơn vị sự nghiệp công lập.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">f) Chi khánh tiết, hội nghị, hội\nthảo, lễ hội, lễ kỷ niệm, động thổ, khởi công, khánh thành công trình, dự án:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện nghiêm quy định về chế độ\nđón tiếp khách nước ngoài, chế độ chi tổ chức các hội nghị, hội thảo quốc tế và\nchế độ chi tiếp khách trong nước; hạn chế tình trạng phô trương, hình thức,\ntiếp khách gây lãng phí NSNN. Giảm tối đa các khoản chi khánh tiết, hội nghị,\nhội thảo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện lồng ghép các nội dung,\ncông việc cần xử lý; chuẩn bị kỹ, đầy đủ đúng yêu cầu, nội dung cuộc họp, tùy\ntheo tính chất, nội dung, mục đích, yêu cầu của cuộc họp, người triệu tập cuộc\nhọp phải cân nhắc kỹ và quyết định thành phần, số lượng đại biểu tham dự cho\nphù h</span>ợ<span lang=\"VI\">p, bảo đảm tiết kiệm và hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hạn chế tối đa việc tổ chức họp tập\ntrung; tăng cường s</span>ử <span lang=\"VI\">dụng hình thức họp trực tuyến trong chỉ\nđạo điều hành và xử lý các công việc liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">6. Tổ chức thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Thủ trưởng các cơ quan, đơn vị cấp\ntỉnh, Chủ tịch UBND các huyện, thị xã và thành phố Huế căn cứ chức năng, nhiệm\nvụ và những nội dung của Chỉ thị này khẩn trương triển khai thực hiện và kiểm\ntra việc thực hiện ở các đơn vị trực thuộc để đảm bảo hoàn thành nhiệm vụ quản\nlý, đi</span>ề<span lang=\"VI\">u hành ngân sách năm 2020; báo cáo về Sở Tài chính\nphương án tiết kiệm chi trước ngày 10/4/2020; kiểm điểm trách nhiệm, xử lý\nnghiêm, kịp thời theo quy định của pháp luật liên quan đ</span>ố<span lang=\"VI\">i\nvới các trường hợp tổ chức, cá nhân thuộc thẩm quyền quản lý có hành vi vi phạm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Giao Sở Tài chính tổ chức theo\ndõi, đôn đốc, kiểm tra tình hình và kết quả triển khai các nội dung tại Chỉ thị\nnày. Trong quá trình thực hiện, n</span>ế<span lang=\"VI\">u có phát sinh khó khăn,\nvướng m</span>ắ<span lang=\"VI\">c, các cơ quan, đơn vị, địa phương báo cáo Sở Tài\nchính đ</span>ể <span lang=\"VI\">tổng hợp báo cáo UBND tỉnh xem xét xử lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Chỉ thị này, yêu cầu Thủ\ntrưởng các Sở, ban, ngành, các đơn vị liên quan và Chủ tịch Ủy ban nhân dân các\nhuyện, thị xã và thành phố Hu</span>ế <span lang=\"VI\">khẩn trương triển khai thực\nhiện./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA1ADEANQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top: 6pt; background: transparent;\"><b><i><span lang=\"VI\" style=\"font-size:8.0pt\"><br>\n  </span></i></b><b><i><span lang=\"VI\">Nơi nhận:</span></i></b><b><i><span lang=\"VI\" style=\"font-size:8.0pt\"><br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- TT Tỉnh ủy;<br>\n  - TT HĐND tỉnh;<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - Các S</span><span style=\"font-size:8.0pt\">ở</span><span lang=\"VI\" style=\"font-size:8.0pt\">, ban, ngành, đoàn thể cấp t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Kho bạc Nhà nước t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Cục Thuế t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - Công an tỉnh;<br>\n  - HĐND, </span><span style=\"font-size:8.0pt\">U</span><span lang=\"VI\" style=\"font-size:8.0pt\">BND các huyện, thị xã, Tp. Huế;<br>\n  - Cổng TTĐT t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  - VP: CVP, PCVP;<br>\n  - Lưu: VT, TC.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top: 6pt; text-align: center; background: transparent;\"><b>TM.\n  ỦY BAN NHÂN DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Phan Ngọc Thọ</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH THỪA THIÊN HUẾ  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 09/CT-UBND\n\n_Thừa Thiên Huế__, ngày 10_ _tháng 4_ _năm 2020_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TĂNG CƯỜNG CÁC GIẢI PHÁP ĐIỀU HÀNH CHI CHẶT CHẼ, PHÙ HỢP VỚI KHẢ NĂNG THU NGÂN SÁCH ĐỊA PHƯƠNG\n\nTình hình dịch bệnh Covid-19 diễn biến phức tạp, khó lường; tại địa bàn tỉnh Thừa Thiên Huế, ảnh hưởng của dịch Covid-19 đã tác động đến nhiều mặt của đời sống kinh tế, xã hội. Nhiều doanh nghiệp, nhất là doanh nghiệp nhỏ và vừa phải thu hẹp sản xuất kinh doanh hoặc tạm ngừng hoạt động. Hoạt động du lịch gặp khó khăn do tình trạng hủy tour, hủy phòng, các dịch vụ ăn uống, lưu trú, vận chuyển giảm sút; sức mua tại các siêu thị và chợ trung tâm cũng bị ảnh hưởng; điều này dẫn đến khả năng ngân sách địa phương sẽ hụt thu lớn, nguy cơ mất cân đối ngân sách nhà nước tỉnh nói chung và các huyện, thị xã và thành phố Huế nói riêng.\n\nĐể tăng cường các biện pháp điều hành chi chặt chẽ, phù hợp với khả năng thu ngân sách địa phương, UBND tỉnh yêu cầu Thủ trưởng các Sở, ban, ngành cấp tỉnh, Chủ tịch UBND các huyện, thị xã và thành phố Huế (gọi là các huyện) thực hiện ngay các giải pháp sau đây:\n\n1\\. UBND các huyện chủ động rà soát nguồn thu ngân sách, xây dựng phương án điều hành chi ngân sách theo phương châm “Thu giảm, chi giảm”. Xây dựng chi tiết kịch bản điều hành thu, chi ngân sách trong trường hợp dịch bệnh Covid-19 kết thúc trong tháng 6/2020 hoặc muộn hơn trong tháng 9/2020; trong đó xác định cụ thể các nhiệm vụ cần ưu tiên đảm bảo kinh phí theo dự toán đầu năm, các nhiệm vụ cần sắp xếp cắt giảm để phù hợp với khả năng thu ngân sách địa phương. Trong trường hợp ngân sách huyện, xã hụt thu lớn, UBND các huyện báo cáo HĐND huyện chủ động sớm điều chỉnh dự toán theo quy định tại Điều 52 và Điều 59 của Luật Ngân sách nhà nước.\n\nCăn cứ tiến độ thu NSNN tỉnh, Sở Tài chính báo cáo UBND tỉnh phương án điều chỉnh dự toán ngân sách địa phương nói chung và ngân sách tỉnh nói riêng trong tháng 4/2020.\n\n2\\. UBND các cấp thực hiện quản lý chi chặt chẽ, tiết kiệm trong phạm vi dự toán được giao, chủ động sử dụng dự phòng ngân sách để chi phòng, chống dịch bệnh, khắc phục hậu quả thiên tai; không bổ sung ngoài dự toán đầu năm, trừ một số trường hợp đặc biệt cấp bách.\n\nTrước mắt, Sở Tài chính chỉ tham mưu UBND tỉnh điều hành, sử dụng dự phòng ngân sách trong phạm vi 50%, tạm giữ lại 50%; UBND cấp huyện điều hành, sử dụng 40% dự phòng ngân sách và tạm giữ lại 60% để chủ động xử lý khi nguồn thu ngân sách giảm lớn hoặc chi phòng, chống dịch bệnh, khắc phục hậu quả thiên tai.\n\nUBND các huyện ưu tiên sử dụng nguồn tăng thu thực hiện so với dự toán năm 2019 còn lại (sau khi đã trừ nguồn kinh phí huy động thực hiện cải cách tiền lương theo quy định) để bù hụt thu (nếu có), chi cho công tác phòng chống thiên tai, dịch bệnh và chi thực hiện chính sách an sinh xã hội...\n\n3\\. Trên cơ sở ý kiến của Thường trực HĐND tỉnh tại Công văn số 43/HĐND-KTNS ngày 09/4/2020, thực hiện tiết kiệm thêm 10% dự toán chi thường xuyên 8 tháng cuối năm 2020 của các đơn vị sử dụng ngân sách (trừ ngành y tế) cấp tỉnh và các huyện, không bao gồm các khoản: Chi tiền lương, phụ cấp theo lương, chi cho con người theo chế độ; chi thực hiện các chính sách an sinh xã hội và các khoản chi đặc thù khác.\n\nGiao Sở Tài chính chủ trì, phối hợp với các cơ quan, đơn vị, địa phương báo cáo UBND tỉnh quyết định mức tiết kiệm cụ thể cho từng đơn vị dự toán cấp I và UBND huyện.\n\nĐối với chi đầu tư phát triển từ nguồn vốn xây dựng cơ bản tập trung, giao Sở Kế hoạch và Đầu tư rà soát tiến độ thực hiện và giải ngân để có phương án cắt giảm các công trình, dự án chưa thực sự cấp bách với tổng mức tối thiểu là 120 tỷ đồng (bao gồm cả ngân sách huyện), báo cáo UBND tỉnh trước ngày 20/4/2020.\n\n4\\. Điều hành, quản lý chi NSNN tiết kiệm, đúng quy định, chống lãng phí.\n\na) Các đơn vị sử dụng ngân sách phải điều hành, quản lý chi ngân sách trong phạm vi dự toán được giao, đúng định mức, chế độ quy định; triệt để tiết kiệm, nâng cao hiệu quả sử dụng ngân sách.\n\nTừ đây đến cuối năm, không đề xuất bổ sung kinh phí các đề án, chương trình, dự án hoặc chế độ, chính sách mới, nâng định mức làm tăng chi ngân sách (trừ chế độ, chính sách trong phòng, chống dịch bệnh).\n\nKiểm soát chặt chẽ, đúng quy định, hạn chế việc ứng trước dự toán NSNN, giảm chi chuyển nguồn sang năm sau, việc bố trí lại các nhiệm vụ chi ngân sách năm trước và cho phép chi chuyển nguồn thường xuyên phải thật sự cấp thiết và theo đúng quy định của pháp luật.\n\nb) Các Sở, ban, ngành chủ động sắp xếp, bố trí trong phạm vi dự toán được giao để xử lý các nhiệm vụ đột xuất phát sinh trong năm. Sở Tài chính tham mưu UBND tỉnh quản lý chặt chẽ các nhiệm vụ chi phát sinh mới và chỉ xem xét bổ sung chi thường xuyên cho các đơn vị có nhu cầu chi thật cấp thiết nhằm thực hiện các nhiệm vụ đột xuất được tỉnh giao.\n\n5\\. Thực hiện tiết kiệm các khoản chi thường xuyên, chi cho bộ máy quản lý nhà nước, chi hoạt động của đơn vị sự nghiệp công lập:\n\n5.1 Thực hiện các yêu cầu về tiết kiệm, chống lãng phí theo Luật thực hành tiết kiệm, chống lãng phí; Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của Chính phủ quy định chi tiết một số Điều của Luật Thực hành tiết kiệm, chống lãng phí; Thông tư số 188/2014/TT-BTC ngày 10/12/2014 của Bộ Tài chính hướng dẫn một số Điều của Nghị định số 84/2014/NĐ-CP ngày 08/9/2014 của Chính phủ và Chương trình thực hành, tiết kiệm chống lãng phí năm 2020 của UBND tỉnh.\n\n5.2 Về thực hiện tiết kiệm triệt để các khoản chi thường xuyên:\n\na) Chủ động rà soát, sắp xếp để cắt giảm hoặc lùi thời gian thực hiện các nhiệm vụ chi chưa thực sự cần thiết, cấp bách, các khoản chi mua sắm trang thiết bị để dành nguồn ưu tiên thực hiện các nhiệm vụ cần thiết, cấp bách.\n\nb) Mua sắm tài sản công phục vụ hoạt động thường xuyên của cơ quan Nhà nước, đơn vị sự nghiệp công lập từ nguồn NSNN phải gắn với nhu cầu thực sự cần thiết, đảm bảo tiêu chuẩn, định mức sử dụng tài sản theo quy định của Nhà nước. Trường hợp rà soát lại mà Thủ trưởng các đơn vị nhận thấy có thể trì hoãn việc mua sắm thì hủy dự toán và bố trí vào nguồn ngân sách năm sau.\n\nc) Đi công tác trong và ngoài nước:\n\nThực hiện rà soát để dừng các đoàn đi công tác nước ngoài không thực sự cần thiết theo đúng tinh thần Chỉ thị số 38-CT/TW ngày 21/7/2014 của Bộ Chính trị về tăng cường quản lý các đoàn đi công tác nước ngoài; tạm hoãn các chuyến đi công tác nước ngoài trong thời điểm hiện nay.\n\nRà soát việc tổ chức các đoàn công tác trong nước theo tinh thần triệt để tiết kiệm, không kết hợp đi công tác với tham quan, du lịch. Rà soát kỹ các chương trình kiểm tra, thanh tra, các đoàn công tác từ cấp trên xuống cấp dưới, bảo đảm gọn nhẹ, hiệu quả; không tổ chức đón tiếp gây tốn kém chi phí đối với cấp dưới và các cơ quan có liên quan.\n\nd) Chi phí văn phòng phẩm: Triệt để tiết kiệm trong sử dụng văn phòng phẩm, thực hiện quy chế về công tác văn thư, trao đổi văn bản điện tử trong nội bộ cơ quan và giữa các cơ quan với nhau để hạn chế in, sao chụp giấy tờ.\n\nđ) Chi phí xăng, dầu:\n\nXây dựng quy chế sử dụng xe chặt chẽ, có sự kiểm tra, giám sát của các bộ phận có liên quan. Không sử dụng xe ô tô công đưa đón cán bộ không có tiêu chuẩn từ nơi ở tới nơi làm việc và ngược lại, không sử dụng xe ô tô công vào việc riêng; đẩy nhanh việc thực hiện khoán xe ô tô công phục vụ công tác.\n\ne) Chi phí sử dụng điện: Thực hiện tiết kiệm điện theo Thông tư liên tịch số 111/2009/TTLT-BTC-BCT ngày 01/6/2009 của liên Bộ Tài chính - Bộ Công Thương hướng dẫn thực hiện tiết kiệm điện trong các cơ quan nhà nước, đơn vị sự nghiệp công lập.\n\nf) Chi khánh tiết, hội nghị, hội thảo, lễ hội, lễ kỷ niệm, động thổ, khởi công, khánh thành công trình, dự án:\n\n\\- Thực hiện nghiêm quy định về chế độ đón tiếp khách nước ngoài, chế độ chi tổ chức các hội nghị, hội thảo quốc tế và chế độ chi tiếp khách trong nước; hạn chế tình trạng phô trương, hình thức, tiếp khách gây lãng phí NSNN. Giảm tối đa các khoản chi khánh tiết, hội nghị, hội thảo.\n\n\\- Thực hiện lồng ghép các nội dung, công việc cần xử lý; chuẩn bị kỹ, đầy đủ đúng yêu cầu, nội dung cuộc họp, tùy theo tính chất, nội dung, mục đích, yêu cầu của cuộc họp, người triệu tập cuộc họp phải cân nhắc kỹ và quyết định thành phần, số lượng đại biểu tham dự cho phù hợp, bảo đảm tiết kiệm và hiệu quả.\n\n\\- Hạn chế tối đa việc tổ chức họp tập trung; tăng cường sử dụng hình thức họp trực tuyến trong chỉ đạo điều hành và xử lý các công việc liên quan.\n\n6\\. Tổ chức thực hiện:\n\na) Thủ trưởng các cơ quan, đơn vị cấp tỉnh, Chủ tịch UBND các huyện, thị xã và thành phố Huế căn cứ chức năng, nhiệm vụ và những nội dung của Chỉ thị này khẩn trương triển khai thực hiện và kiểm tra việc thực hiện ở các đơn vị trực thuộc để đảm bảo hoàn thành nhiệm vụ quản lý, điều hành ngân sách năm 2020; báo cáo về Sở Tài chính phương án tiết kiệm chi trước ngày 10/4/2020; kiểm điểm trách nhiệm, xử lý nghiêm, kịp thời theo quy định của pháp luật liên quan đối với các trường hợp tổ chức, cá nhân thuộc thẩm quyền quản lý có hành vi vi phạm.\n\nb) Giao Sở Tài chính tổ chức theo dõi, đôn đốc, kiểm tra tình hình và kết quả triển khai các nội dung tại Chỉ thị này. Trong quá trình thực hiện, nếu có phát sinh khó khăn, vướng mắc, các cơ quan, đơn vị, địa phương báo cáo Sở Tài chính để tổng hợp báo cáo UBND tỉnh xem xét xử lý.\n\nCăn cứ Chỉ thị này, yêu cầu Thủ trưởng các Sở, ban, ngành, các đơn vị liên quan và Chủ tịch Ủy ban nhân dân các huyện, thị xã và thành phố Huế khẩn trương triển khai thực hiện./.\n\n**_Nơi nhận:_**\\- TT Tỉnh ủy;  \n\\- TT HĐND tỉnh;  \n\\- CT, các PCT UBND tỉnh;  \n\\- Các Sở, ban, ngành, đoàn thể cấp tỉnh;  \n\\- Kho bạc Nhà nước tỉnh;  \n\\- Cục Thuế tỉnh;  \n\\- Công an tỉnh;  \n\\- HĐND, UBND các huyện, thị xã, Tp. Huế;  \n\\- Cổng TTĐT tỉnh;  \n\\- VP: CVP, PCVP;  \n\\- Lưu: VT, TC.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nPhan Ngọc Thọ**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }

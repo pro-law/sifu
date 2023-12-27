@@ -1,67 +1,83 @@
 {
-  "title": "Công văn 3900/TCT-CS về chính sách thu tiền sử dụng đất do Tổng cục Thuế ban hành",
+  "title": "Công văn 3900/TCT-CS năm 2020 về xác định sản phẩm vàng thỏi khi tính thuế tài nguyên do Tổng cục Thuế ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
   "supersededDocuments": [],
-  "referredDocuments": [
+  "referredDocuments": [],
+  "influentialDocuments": [
     {
-      "title": "Nghị định 198/2004/NĐ-CP về việc thu tiền sử dụng đất",
-      "id": "198/2004/NĐ-CP",
-      "legislationType": "Nghị định",
+      "title": "Thông tư 152/2015/TT-BTC hướng dẫn về thuế tài nguyên do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "152/2015/TT-BTC",
+      "legislationType": "Thông tư",
       "categories": [
         "Thuế - Phí - Lệ Phí",
-        "Bất động sản"
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2015-10-02",
+      "effectiveDate": "2015-11-20",
+      "gazetteDate": "2015-10-26",
+      "gazetteNumber": "Từ số 1063 đến số 1064",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 12/2015/NĐ-CP hướng dẫn Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế",
+      "id": "12/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
       ],
       "organization": "Chính phủ",
       "signers": [
-        "Phan Văn Khải"
+        "Nguyễn Tấn Dũng"
       ],
-      "issuedDate": "2004-12-03",
-      "effectiveDate": "2004-12-24",
-      "gazetteDate": "2004-12-09",
-      "gazetteNumber": "Số 9",
-      "status": "Hết hiệu lực: 01/07/2014"
-    }
-  ],
-  "influentialDocuments": [
+      "issuedDate": "2015-02-12",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2015-02-26",
+      "gazetteNumber": "Từ số 277 đến số 278",
+      "status": "Còn hiệu lực"
+    },
     {
-      "title": "Nghị định 44/2008/NĐ-CP sửa đổi Nghị định 198/2004/NĐ-CP về thu tiền sử dụng đất",
-      "id": "44/2008/NĐ-CP",
+      "title": "Nghị định 50/2010/NĐ-CP hướng dẫn Luật Thuế tài nguyên 2009",
+      "id": "50/2010/NĐ-CP",
       "legislationType": "Nghị định",
       "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước",
+        "Thuế - Phí - Lệ Phí",
         "Tài nguyên - Môi trường"
       ],
       "organization": "Chính phủ",
       "signers": [
         "Nguyễn Tấn Dũng"
       ],
-      "issuedDate": "2008-04-09",
-      "effectiveDate": "2008-05-05",
-      "gazetteDate": "2008-04-20",
-      "gazetteNumber": "Từ số 237 đến số 238",
-      "status": "Hết hiệu lực: 01/07/2014"
+      "issuedDate": "2010-05-14",
+      "effectiveDate": "2010-07-01",
+      "gazetteDate": "2010-05-29",
+      "gazetteNumber": "Từ số 252 đến số 253",
+      "status": "Còn hiệu lực"
     },
     {
-      "title": "Nghị định 108/2006/NĐ-CP Hướng dẫn Luật Đầu tư",
-      "id": "108/2006/NĐ-CP",
-      "legislationType": "Nghị định",
+      "title": "Luật thuế tài nguyên năm 2009",
+      "id": "45/2009/QH12",
+      "legislationType": "Luật",
       "categories": [
-        "Đầu tư"
+        "Thuế - Phí - Lệ Phí",
+        "Tài nguyên - Môi trường"
       ],
-      "organization": "Chính phủ",
+      "organization": "Quốc hội",
       "signers": [
-        "Nguyễn Tấn Dũng"
+        "Nguyễn Phú Trọng"
       ],
-      "issuedDate": "2006-09-22",
-      "effectiveDate": "2006-10-25",
-      "gazetteDate": "2006-10-10",
-      "gazetteNumber": "Từ số 15 đến số 16",
-      "status": "Hết hiệu lực: 27/12/2015"
+      "issuedDate": "2009-11-25",
+      "effectiveDate": "2010-07-01",
+      "gazetteDate": "2010-03-27",
+      "gazetteNumber": "Từ số 133 đến số 134",
+      "status": "Còn hiệu lực"
     }
   ],
   "guidingDocuments": [],
@@ -71,127 +87,54 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Công văn 221/TCT-CS năm 2014 về chính sách thu tiền sử dụng đất do Tổng cục Thuế ban hành",
-      "id": "221/TCT-CS",
+      "title": "Công văn 3791/TCT-CS năm 2020 về căn cứ tính thuế tài nguyên do Tổng cục Thuế ban hành",
+      "id": "3791/TCT-CS",
       "legislationType": "Công văn",
       "categories": [
         "Thuế - Phí - Lệ Phí",
-        "Bất động sản"
+        "Tài nguyên - Môi trường"
       ],
       "organization": "Tổng cục Thuế",
       "signers": [
-        "Ngô Văn Độ"
+        "Lưu Đức Huy"
       ],
-      "issuedDate": "2014-01-17",
-      "effectiveDate": "2014-01-17",
+      "issuedDate": "2020-09-11",
+      "effectiveDate": "2020-09-11",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 3919/TCT-CS về chính sách thu tiền sử dụng đất do Tổng cục Thuế ban hành",
-      "id": "3919/TCT-CS",
+      "title": "Công văn 2725/TCT-CS năm 2019 về chính sách thuế giá trị gia tăng đối với sản phẩm xuất khẩu được chế biến từ tài nguyên khoáng sản do Tổng cục Thuế ban hành",
+      "id": "2725/TCT-CS",
       "legislationType": "Công văn",
       "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
+        "Thuế - Phí - Lệ Phí"
       ],
       "organization": "Tổng cục Thuế",
       "signers": [
-        "Cao Anh Tuấn"
+        "Lưu Đức Huy"
       ],
-      "issuedDate": "2012-11-07",
-      "effectiveDate": "2012-11-07",
+      "issuedDate": "2019-07-08",
+      "effectiveDate": "2019-07-08",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 1890/TCT-CS về chính sách thu tiền sử dụng đất do Tổng cục Thuế ban hành",
-      "id": "1890/TCT-CS",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Tổng cục Thuế",
-      "signers": [
-        "Cao Anh Tuấn"
-      ],
-      "issuedDate": "2012-06-04",
-      "effectiveDate": "2012-06-04",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 1933/TCT-CS về chính sách thu tiền sử dụng đất do Tổng cục Thuế ban hành",
-      "id": "1933/TCT-CS",
+      "title": "Công văn 2554/TCT-CS năm 2019 về kê khai thuế tài nguyên trong khai thác đá làm vật liệu xây dựng thông thường do Tổng cục Thuế ban hành",
+      "id": "2554/TCT-CS",
       "legislationType": "Công văn",
       "categories": [
         "Thuế - Phí - Lệ Phí",
-        "Bất động sản"
+        "Tài nguyên - Môi trường"
       ],
       "organization": "Tổng cục Thuế",
       "signers": [
-        "Cao Anh Tuấn"
+        "Hoàng Thị Hà Giang"
       ],
-      "issuedDate": "2011-06-08",
-      "effectiveDate": "2011-06-08",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 1804/TCT-CS về chính sách thu tiền sử dụng đất do Tổng cục Thuế ban hành",
-      "id": "1804/TCT-CS",
-      "legislationType": "Công văn",
-      "categories": [
-        "Thuế - Phí - Lệ Phí",
-        "Bất động sản"
-      ],
-      "organization": "Tổng cục Thuế",
-      "signers": [
-        "Cao Anh Tuấn"
-      ],
-      "issuedDate": "2011-05-26",
-      "effectiveDate": "2011-05-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 1738/TCT-TS về thu tiền sử dụng đất do Tổng cục Thuế ban hành",
-      "id": "1738/TCT-TS",
-      "legislationType": "Công văn",
-      "categories": [
-        "Thuế - Phí - Lệ Phí",
-        "Bất động sản"
-      ],
-      "organization": "Tổng cục Thuế",
-      "signers": [
-        "Phạm Duy Khương"
-      ],
-      "issuedDate": "2007-05-08",
-      "effectiveDate": "2007-05-08",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 1068/TCT-TS năm 2007 về chính sách thu tiền sử dụng đất đối với đất xây dựng công trình công cộng có mục đích kinh doanh do Tổng cục Thuế ban hành",
-      "id": "1068/TCT-TS",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tổng cục Thuế",
-      "signers": [
-        "Phạm Duy Khương"
-      ],
-      "issuedDate": "2007-03-20",
-      "effectiveDate": "2007-03-20",
+      "issuedDate": "2019-06-24",
+      "effectiveDate": "2019-06-24",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -201,19 +144,19 @@
   "legislationType": "Công văn",
   "categories": [
     "Thuế - Phí - Lệ Phí",
-    "Bất động sản"
+    "Tài nguyên - Môi trường"
   ],
   "organization": "Tổng cục Thuế",
   "signers": [
-    "Cao Anh Tuấn"
+    "Đặng Ngọc Minh"
   ],
-  "issuedDate": "2012-11-07",
-  "effectiveDate": "2012-11-07",
+  "issuedDate": "2020-09-17",
+  "effectiveDate": "2020-09-17",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMAAzADAANQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">BỘ TÀI CHÍNH<b><br>\n  TỔNG CỤC THUẾ<br>\n  --------</b></p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ----------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\">Số: 3900/TCT-CS<br>\n  <i><span style=\"font-size:8.0pt\">V/v: Chính sách thu tiền sử dụng đất</span></i></p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 07\n  tháng 11 năm 2012</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Kính gửi: </b>Cục\nThuế tỉnh Cà Mau</p>\n\n<p style=\"margin-top:6.0pt\">Trả lời công văn số 480/CT-THNVDT ngày 21/5/2012 của\nCục Thuế tỉnh Cà Mau về chính sách thu tiền sử dụng đất, Tổng cục Thuế có ý kiến\nnhư sau:</p>\n\n<p style=\"margin-top:6.0pt\">+ Tại <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-995893')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-995893')\" atmm=\".lqhlTootip-995893\" onmouseout=\"hideddrivetip();\">điểm c khoản 3 Điều 1 Nghị định\nsố 44/2008/NĐ-CP</a> ngày 09/4/2008 của Chính phủ về sửa đổi, bổ sung một số Điều\ncủa Nghị định số 198/2004/NĐ-CP ngày 03/12/2004 của Chính phủ về thu tiền sử dụng\nđất quy định:</p>\n\n<p style=\"margin-top:6.0pt\">“Điều 1. Sửa đổi, bổ sung một số điều của Nghị định\nsố 198/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính phủ về thu tiền sử dụng đất\nnhư sau:</p>\n\n<p style=\"margin-top:6.0pt\">3. Sửa đổi, bổ sung khoản 1 Điều 13 như sau:</p>\n\n<p style=\"margin-top:6.0pt\">….</p>\n\n<p style=\"margin-top:6.0pt\">c) Được giảm 20% tiền sử dụng đất phải nộp ngân\nsách nhà nước trong các trường hợp sau đây:</p>\n\n<p style=\"margin-top:6.0pt\">- Dự án thuộc lĩnh vực ưu đãi đầu tư không thuộc\ncác địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc không thuộc các địa bàn\ncó điều kiện kinh tế - xã hội đặc biệt khó khăn.</p>\n\n<p style=\"margin-top:6.0pt\">- Dự án đầu tư tại địa bàn có điều kiện kinh tế -\nxã hội khó khăn.”</p>\n\n<p style=\"margin-top:6.0pt\">+ Tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1413486')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1413486')\" atmm=\".lqhlTootip-1413486\" onmouseout=\"hideddrivetip();\">Điểm 53 Phụ lục II Danh mục địa\nbàn ưu đãi đầu tư ban hành kèm theo Nghị định số 108/2006/NĐ-CP </a>ngày\n22/9/2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của\nLuật Đầu tư thì Thành phố Cà Mau thuộc địa bàn có điều kiện - kinh tế xã hội\nkhó khăn.</p>\n\n<p style=\"margin-top:6.0pt\">Căn cứ theo quy định trên, trường hợp nếu Công ty\nTNHH Tài Lộc được Ủy ban nhân dân tỉnh giao đất kể từ sau ngày 05/5/2008 (ngày\nNghị định số 44/2008/NĐ-CP của Chính phủ có hiệu lực thi hành) để thực hiện dự\nán đầu tư Khu đô thị mới tại ấp Bà Điều, xã Lý Văn Lâm thành phố Cà Mau thì được\ngiảm 20% tiền sử dụng đất theo quy định tại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-995895')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-995895')\" atmm=\".lqhlTootip-995895\" onmouseout=\"hideddrivetip();\">khoản 3 Điều 1 Nghị\nđịnh số 44/2008/NĐ-CP </a>của Chính phủ nêu trên.</p>\n\n<p style=\"margin-top:6.0pt\">Tổng cục Thuế trả lời để Cục Thuế tỉnh Cà Mau được\nbiết./.</p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMAAzADAANQA=-->\n <tbody><tr>\n  <td width=\"296\" valign=\"top\" style=\"width:222.25pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:8.0pt\">&nbsp;</span></i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như trên;<br>\n  - Vụ PC-TCT;<br>\n  - Lưu: VT, CS (2b).</span></p>\n  </td>\n  <td width=\"296\" valign=\"top\" style=\"width:222.3pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. TỔNG CỤC\n  TRƯỞNG<br>\n  PHÓ TỔNG CỤC TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Cao Anh Tuấn</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b>&nbsp;</b></p>\n\n</div>\n\n",
-  "mdContent": "BỘ TÀI CHÍNH**  \nTỔNG CỤC THUẾ  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\----------------**\n\nSố: 3900/TCT-CS  \n_V/v: Chính sách thu tiền sử dụng đất_\n\n_Hà Nội, ngày 07 tháng 11 năm 2012_\n\n**Kính gửi:** Cục Thuế tỉnh Cà Mau\n\nTrả lời công văn số 480/CT-THNVDT ngày 21/5/2012 của Cục Thuế tỉnh Cà Mau về chính sách thu tiền sử dụng đất, Tổng cục Thuế có ý kiến như sau:\n\n\\+ Tại điểm c khoản 3 Điều 1 Nghị định số 44/2008/NĐ-CP ngày 09/4/2008 của Chính phủ về sửa đổi, bổ sung một số Điều của Nghị định số 198/2004/NĐ-CP ngày 03/12/2004 của Chính phủ về thu tiền sử dụng đất quy định:\n\n“Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 198/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính phủ về thu tiền sử dụng đất như sau:\n\n3\\. Sửa đổi, bổ sung khoản 1 Điều 13 như sau:\n\n….\n\nc) Được giảm 20% tiền sử dụng đất phải nộp ngân sách nhà nước trong các trường hợp sau đây:\n\n\\- Dự án thuộc lĩnh vực ưu đãi đầu tư không thuộc các địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc không thuộc các địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.\n\n\\- Dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn.”\n\n\\+ Tại Điểm 53 Phụ lục II Danh mục địa bàn ưu đãi đầu tư ban hành kèm theo Nghị định số 108/2006/NĐ-CP ngày 22/9/2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư thì Thành phố Cà Mau thuộc địa bàn có điều kiện - kinh tế xã hội khó khăn.\n\nCăn cứ theo quy định trên, trường hợp nếu Công ty TNHH Tài Lộc được Ủy ban nhân dân tỉnh giao đất kể từ sau ngày 05/5/2008 (ngày Nghị định số 44/2008/NĐ-CP của Chính phủ có hiệu lực thi hành) để thực hiện dự án đầu tư Khu đô thị mới tại ấp Bà Điều, xã Lý Văn Lâm thành phố Cà Mau thì được giảm 20% tiền sử dụng đất theo quy định tại khoản 3 Điều 1 Nghị định số 44/2008/NĐ-CP của Chính phủ nêu trên.\n\nTổng cục Thuế trả lời để Cục Thuế tỉnh Cà Mau được biết./.\n\n**_Nơi nhận:  \n_**\\- Như trên;  \n\\- Vụ PC-TCT;  \n\\- Lưu: VT, CS (2b).\n\n**KT. TỔNG CỤC TRƯỞNG  \nPHÓ TỔNG CỤC TRƯỞNG  \n  \n  \n  \n  \nCao Anh Tuấn**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADAANAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">BỘ TÀI CHÍNH<b><br>\n  TỔNG CỤC THUẾ<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\">Số: 3900/TCT-CS<br>\n  <i><span style=\"font-size:8.0pt\">V/v thuế tài nguyên.</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Hà Nội, ngày\n  17 tháng 9 năm 2020</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\"> </span></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center;text-autospace:\nnone\"><b><span lang=\"VI\">Kính gửi:</span></b><span lang=\"VI\"> Cục Thuế tỉnh Quảng\nNam.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">Trả lời Công\nvăn số 3482/CT-TKT1 ngày 23/4/2020 của Cục thuế tỉnh Quảng Nam về xác định sản\nphẩm vàng thỏi khi tính thuế tài nguyên; Tổng cục Thuế có ý kiến như sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">Tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230417')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230417')\" atmm=\".lqhlTootip-3230417\" onmouseout=\"hideddrivetip();\">khoản 3 Điều 5 Luật Thuế tài nguyên</a> quy định:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">“<span style=\"background:white\">3. Đối với <u>tài nguyên khai thác không bán mà đưa\nvào sản xuất sản phẩm khác nếu không trực tiếp xác định được số lượng</u>, trọng\nlượng hoặc khối lượng thực tế khai thác thì sản lượng tài nguyên tính thuế được\nxác định căn cứ vào sản lượng sản phẩm sản xuất trong kỳ tính thuế và định mức\nsử dụng tài nguyên tính trên một đơn vị sản phẩm.”</span></span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tại <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230418')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230418')\" atmm=\".lqhlTootip-3230418\" onmouseout=\"hideddrivetip();\">khoản 4 Điều 6 Luật Thuế tài nguyên</a> quy định:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\" style=\"background:white\">“4. <u>Ủy ban nhân dân cấp tỉnh quy định cụ thể giá\ntính thuế đối với tài nguyên chưa xác định được giá bán </u>đơn vị sản phẩm tài\nnguyên, trừ dầu thô, khí thiên nhiên, khí than và nước thiên nhiên dùng cho sản\nxuất thủy điện.”</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tại <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230419')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230419')\" atmm=\".lqhlTootip-3230419\" onmouseout=\"hideddrivetip();\">khoản 4, Điều 4 Nghị định số 50/2010/NĐ-CP</a> ngày 14/5/2010 của\nChính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tài\nnguyên<i> (đã được sửa đổi, bổ sung tại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230420')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230420')\" atmm=\".lqhlTootip-3230420\" onmouseout=\"hideddrivetip();\">khoản 4, Điều 4 Nghị định\nsố 12/2015/NĐ-CP</a> ngày 12/2/2015 của Chính phủ), </i>quy định:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><a name=\"cumtu_4_4\"><i><span lang=\"VI\">“4. Ủy ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế tài nguyên\nkhai thác quy định tại Khoản 2, Điểm b Khoản 3 Điều này.</span></i></a></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">Trường hợp\ntài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra\n(tiêu thụ trong nước hoặc xuất khẩu) thì giá tính thuế tài nguyên khai thác được\nxác định căn cứ vào trị giá hải quan của sản phẩm đã qua sản xuất, chế biến xuất\nkhẩu hoặc giá bán sản phẩm đã qua sản xuất, chế biến <u>trừ thuế xuất khẩu (nếu\ncó) và các chi phí có liên quan từ khâu sản xuất, chế biến đến khâu xuất khẩu\nhoặc từ khâu sản xuất, chế biến đến khâu bán tại thị trường trong nước…</u>.”</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tại <a name=\"dc_5\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230422')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230422')\" atmm=\".lqhlTootip-3230422\" onmouseout=\"hideddrivetip();\">khoản 3, Điều 5 Thông tư số 152/2015/TT-BTC</a> ngày 02/10/2015 của\nBộ Tài chính hướng dẫn về thuế tài nguyên quy định:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">“3. Đối với\ntài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra\n(tiêu thụ trong nước hoặc xuất khẩu) thì sản lượng tài nguyên tính thuế được\nxác định như sau:</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">Đối với tài\nnguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra (tiêu\nthụ trong nước hoặc xuất khẩu) thì sản lượng tài nguyên tính thuế là sản lượng\ntài nguyên khai thác được xác định bằng cách quy đổi từ sản lượng sản phẩm sản\nxuất trong kỳ để bán ra theo định mức sử dụng tài nguyên tính trên một đơn vị sản\nphẩm. Định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm do NNT kê khai\ncăn cứ dự án được cấp có thẩm quyền phê duyệt, tiêu chuẩn công nghệ thiết kế để\nsản xuất sản phẩm đang ứng dụng, trong đó:</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">- Trường hợp\nsản phẩm bán ra là sản phẩm tài nguyên thì căn cứ định mức sử dụng tài nguyên\ntính trên một đơn vị sản phẩm tài nguyên sản xuất bán ra.</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">- Trường hợp\nsản phẩm bán ra là sản phẩm công nghiệp thì căn định mức sử dụng tài nguyên\ntính trên một đơn vị sản phẩm công nghiệp sản xuất bán ra.</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">Việc xác định\nsản phẩm bán ra sau quá trình chế biến là sản phẩm công nghiệp hay không phải sản\nphẩm công nghiệp do Bộ quản lý nhà nước chuyên ngành thực hiện theo\nthẩm quyền.”</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">- Tại <a name=\"dc_6\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230423')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230423')\" atmm=\".lqhlTootip-3230423\" onmouseout=\"hideddrivetip();\">điểm b, điểm c, khoản 3, Điều 6 Thông tư số 152/2015/TT-BTC</a>\nngày 02/10/2015 của Bộ Tài chính hướng dẫn về thuế tài nguyên quy định:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">“3. Đối với\ntài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán\nra (bán trong nước hoặc xuất khẩu)</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">…b) Trường\nhợp bán ra sản phẩm công nghiệp thì giá tính thuế tài nguyên là giá bán sản phẩm\ncông nghiệp trừ đi chi phí chế biến phát sinh của công đoạn chế biến từ sản phẩm\ntài nguyên thành sản phẩm công nghiệp nhưng không thấp hơn giá tính thuế do Uỷ\nban nhân dân cấp tỉnh quy định.</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><u><span lang=\"VI\">Chi phí\nchế biến phát sinh của công đoạn chế biến từ sản phẩm tài nguyên thành sản phẩm\ncông nghiệp được trừ khi xác định giá tính thuế căn cứ công nghệ chế biến của\ndoanh nghiệp theo Dự án đã được phê duyệt nhưng không bao gồm chi phí khai\nthác, sàng, tuyển, làm giàu hàm lượng.</span></u></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\">c) Trường hợp\ngiá tính thuế mà NNT xác định thấp hơn giá tính thuế tại Bảng giá do UBND cấp tỉnh\nquy định thì áp dụng giá tính thuế do UBND cấp tỉnh quy định; Trường hợp tại Bảng\ngiá của UBND cấp tỉnh quy định chưa có giá đối với loại sản phẩm này thì cơ\nquan thuế phối hợp với cơ quan chức năng thực hiện kiểm tra, ấn định theo pháp\nluật về quản lý thuế.</span></i></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">Căn cứ quy định\nnêu trên, trường hợp cơ sở sản xuất kinh doanh khai thác tài nguyên, toàn bộ sản\nlượng tài nguyên khai thác đưa vào sản xuất, chế biến thành sản phẩm và được Bộ\nquản lý chuyên ngành xác nhận đã thành sản phẩm khác sản phẩm công nghiệp, mới\nbán ra thì xác định sản lượng tài nguyên và giá thuế tài nguyên khai thác trên\ncơ sở sau:</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">- Sản lượng\ntài nguyên khai thác để tính thuế tài nguyên được quy đổi từ sản lượng sản phẩm\nsản xuất trong kỳ tính thuế, theo định mức sử dụng tài nguyên tính trên một đơn\nvị sản phẩm được quy định <a name=\"dc_7\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230424')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230424')\" atmm=\".lqhlTootip-3230424\" onmouseout=\"hideddrivetip();\">khoản 1, khoản 3 Điều 5 Luật Thuế tài\nnguyên</a> và hướng dẫn tại <a name=\"dc_8\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230425')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230425')\" atmm=\".lqhlTootip-3230425\" onmouseout=\"hideddrivetip();\">khoản 3, Điều 5 Thông tư số\n152/2015/TT-BTC</a>.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">- Giá tính thuế\ntài nguyên là giá bán sản phẩm công nghiệp, trừ đi chi phí chế biến phát sinh của\ncông đoạn chế biến từ sản phẩm tài nguyên thành sản phẩm công nghiệp (không bao\ngồm chi phí khai thác, sàng, tuyển, làm giàu hàm lượng ở khâu khai thác, chế biến\nthu sản phẩm tài nguyên) theo quy định tại <a name=\"dc_9\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230426')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230426')\" atmm=\".lqhlTootip-3230426\" onmouseout=\"hideddrivetip();\">khoản 4, Điều 4 Nghị\nđịnh số 50/2010/NĐ-CP</a> và hướng dẫn tại <a name=\"dc_10\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230427')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230427')\" atmm=\".lqhlTootip-3230427\" onmouseout=\"hideddrivetip();\">điểm b, khoản 3, Điều\n6 Thông tư số 152/2015/TT-BTC</a> nêu trên;</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">Trường hợp giá\ntính thuế đơn vị khai thác xác định thấp hơn giá tính thuế tại Bảng giá do UBND\ncấp tỉnh quy định thì áp dụng giá tính thuế do UBND cấp tỉnh quy định theo quy\nđịnh <a name=\"dc_11\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230428')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230428')\" atmm=\".lqhlTootip-3230428\" onmouseout=\"hideddrivetip();\">khoản 4 Điều 6 Luật Thuế tài nguyên</a> và hướng dẫn tại <a name=\"dc_12\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3230429')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3230429')\" atmm=\".lqhlTootip-3230429\" onmouseout=\"hideddrivetip();\">điểm c, khoản 3, Điều 6 Thông tư số 152/2015/TT-BTC</a> nêu trên.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">Ngày\n27/4/2020, Bộ Công thương có Công văn số 2949/BTC-CN trả lời Công văn số\n314-20/PSGC ngày 07/4/2020 của Công ty TNHH Vàng Phước Sơn; Đề nghị Cục Thuế tỉnh\nQuảng Nam xem xét hồ sơ của Cty TNHH Vàng Phước Sơn và giải quyết cụ thể đúng\nquy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><span lang=\"VI\">Tổng cục Thuế\nthông báo để Cục Thuế được biết./.</span></p>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\"> </span></i></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADAANAA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b><i><span style=\"font-size:8.0pt\"> </span></i></b></p>\n  <p style=\"margin-bottom:6.0pt\"><b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như trên;<br>\n  - Vụ PC-BTC, CST;<br>\n  - Vụ PC-TCT;<br>\n  - Lưu: VT, CS (3b).</span></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TL. TỔNG CỤC\n  TRƯỞNG<br>\n  PHÓ TỔNG CỤC TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Đặng Ngọc Minh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt;text-autospace:none\"><i><span lang=\"VI\"> </span></i></p>\n\n",
+  "mdContent": "BỘ TÀI CHÍNH**  \nTỔNG CỤC THUẾ  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 3900/TCT-CS  \n_V/v thuế tài nguyên._\n\n_Hà Nội, ngày 17 tháng 9 năm 2020_\n\n**Kính gửi:** Cục Thuế tỉnh Quảng Nam.\n\nTrả lời Công văn số 3482/CT-TKT1 ngày 23/4/2020 của Cục thuế tỉnh Quảng Nam về xác định sản phẩm vàng thỏi khi tính thuế tài nguyên; Tổng cục Thuế có ý kiến như sau:\n\nTại khoản 3 Điều 5 Luật Thuế tài nguyên quy định:\n\n_“3\\. Đối với tài nguyên khai thác không bán mà đưa vào sản xuất sản phẩm khác nếu không trực tiếp xác định được số lượng, trọng lượng hoặc khối lượng thực tế khai thác thì sản lượng tài nguyên tính thuế được xác định căn cứ vào sản lượng sản phẩm sản xuất trong kỳ tính thuế và định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm.”_\n\n\\- Tại khoản 4 Điều 6 Luật Thuế tài nguyên quy định:\n\n_“4. Ủy ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế đối với tài nguyên chưa xác định được giá bán đơn vị sản phẩm tài nguyên, trừ dầu thô, khí thiên nhiên, khí than và nước thiên nhiên dùng cho sản xuất thủy điện.”_\n\n\\- Tại khoản 4, Điều 4 Nghị định số 50/2010/NĐ-CP ngày 14/5/2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tài nguyên _(đã được sửa đổi, bổ sung tại khoản 4, Điều 4 Nghị định số 12/2015/NĐ-CP ngày 12/2/2015 của Chính phủ),_ quy định:\n\n_“4. Ủy ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế tài nguyên khai thác quy định tại Khoản 2, Điểm b Khoản 3 Điều này._\n\n_Trường hợp tài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra (tiêu thụ trong nước hoặc xuất khẩu) thì giá tính thuế tài nguyên khai thác được xác định căn cứ vào trị giá hải quan của sản phẩm đã qua sản xuất, chế biến xuất khẩu hoặc giá bán sản phẩm đã qua sản xuất, chế biến trừ thuế xuất khẩu (nếu có) và các chi phí có liên quan từ khâu sản xuất, chế biến đến khâu xuất khẩu hoặc từ khâu sản xuất, chế biến đến khâu bán tại thị trường trong nước….”_\n\n\\- Tại khoản 3, Điều 5 Thông tư số 152/2015/TT-BTC ngày 02/10/2015 của Bộ Tài chính hướng dẫn về thuế tài nguyên quy định:\n\n_“3. Đối với tài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra (tiêu thụ trong nước hoặc xuất khẩu) thì sản lượng tài nguyên tính thuế được xác định như sau:_\n\n_Đối với tài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra (tiêu thụ trong nước hoặc xuất khẩu) thì sản lượng tài nguyên tính thuế là sản lượng tài nguyên khai thác được xác định bằng cách quy đổi từ sản lượng sản phẩm sản xuất trong kỳ để bán ra theo định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm. Định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm do NNT kê khai căn cứ dự án được cấp có thẩm quyền phê duyệt, tiêu chuẩn công nghệ thiết kế để sản xuất sản phẩm đang ứng dụng, trong đó:_\n\n_\\- Trường hợp sản phẩm bán ra là sản phẩm tài nguyên thì căn cứ định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm tài nguyên sản xuất bán ra._\n\n_\\- Trường hợp sản phẩm bán ra là sản phẩm công nghiệp thì căn định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm công nghiệp sản xuất bán ra._\n\n_Việc xác định sản phẩm bán ra sau quá trình chế biến là sản phẩm công nghiệp hay không phải sản phẩm công nghiệp do Bộ quản lý nhà nước chuyên ngành thực hiện theo thẩm quyền.”_\n\n\\- Tại điểm b, điểm c, khoản 3, Điều 6 Thông tư số 152/2015/TT-BTC ngày 02/10/2015 của Bộ Tài chính hướng dẫn về thuế tài nguyên quy định:\n\n_“3. Đối với tài nguyên khai thác không bán ra mà phải qua sản xuất, chế biến mới bán ra (bán trong nước hoặc xuất khẩu)_\n\n_…b) Trường hợp bán ra sản phẩm công nghiệp thì giá tính thuế tài nguyên là giá bán sản phẩm công nghiệp trừ đi chi phí chế biến phát sinh của công đoạn chế biến từ sản phẩm tài nguyên thành sản phẩm công nghiệp nhưng không thấp hơn giá tính thuế do Uỷ ban nhân dân cấp tỉnh quy định._\n\n_Chi phí chế biến phát sinh của công đoạn chế biến từ sản phẩm tài nguyên thành sản phẩm công nghiệp được trừ khi xác định giá tính thuế căn cứ công nghệ chế biến của doanh nghiệp theo Dự án đã được phê duyệt nhưng không bao gồm chi phí khai thác, sàng, tuyển, làm giàu hàm lượng._\n\n_c) Trường hợp giá tính thuế mà NNT xác định thấp hơn giá tính thuế tại Bảng giá do UBND cấp tỉnh quy định thì áp dụng giá tính thuế do UBND cấp tỉnh quy định; Trường hợp tại Bảng giá của UBND cấp tỉnh quy định chưa có giá đối với loại sản phẩm này thì cơ quan thuế phối hợp với cơ quan chức năng thực hiện kiểm tra, ấn định theo pháp luật về quản lý thuế._\n\nCăn cứ quy định nêu trên, trường hợp cơ sở sản xuất kinh doanh khai thác tài nguyên, toàn bộ sản lượng tài nguyên khai thác đưa vào sản xuất, chế biến thành sản phẩm và được Bộ quản lý chuyên ngành xác nhận đã thành sản phẩm khác sản phẩm công nghiệp, mới bán ra thì xác định sản lượng tài nguyên và giá thuế tài nguyên khai thác trên cơ sở sau:\n\n\\- Sản lượng tài nguyên khai thác để tính thuế tài nguyên được quy đổi từ sản lượng sản phẩm sản xuất trong kỳ tính thuế, theo định mức sử dụng tài nguyên tính trên một đơn vị sản phẩm được quy định khoản 1, khoản 3 Điều 5 Luật Thuế tài nguyên và hướng dẫn tại khoản 3, Điều 5 Thông tư số 152/2015/TT-BTC.\n\n\\- Giá tính thuế tài nguyên là giá bán sản phẩm công nghiệp, trừ đi chi phí chế biến phát sinh của công đoạn chế biến từ sản phẩm tài nguyên thành sản phẩm công nghiệp (không bao gồm chi phí khai thác, sàng, tuyển, làm giàu hàm lượng ở khâu khai thác, chế biến thu sản phẩm tài nguyên) theo quy định tại khoản 4, Điều 4 Nghị định số 50/2010/NĐ-CP và hướng dẫn tại điểm b, khoản 3, Điều 6 Thông tư số 152/2015/TT-BTC nêu trên;\n\nTrường hợp giá tính thuế đơn vị khai thác xác định thấp hơn giá tính thuế tại Bảng giá do UBND cấp tỉnh quy định thì áp dụng giá tính thuế do UBND cấp tỉnh quy định theo quy định khoản 4 Điều 6 Luật Thuế tài nguyên và hướng dẫn tại điểm c, khoản 3, Điều 6 Thông tư số 152/2015/TT-BTC nêu trên.\n\nNgày 27/4/2020, Bộ Công thương có Công văn số 2949/BTC-CN trả lời Công văn số 314-20/PSGC ngày 07/4/2020 của Công ty TNHH Vàng Phước Sơn; Đề nghị Cục Thuế tỉnh Quảng Nam xem xét hồ sơ của Cty TNHH Vàng Phước Sơn và giải quyết cụ thể đúng quy định của pháp luật.\n\nTổng cục Thuế thông báo để Cục Thuế được biết./.\n\n**_Nơi nhận:  \n_**\\- Như trên;  \n\\- Vụ PC-BTC, CST;  \n\\- Vụ PC-TCT;  \n\\- Lưu: VT, CS (3b).\n\n**TL. TỔNG CỤC TRƯỞNG  \nPHÓ TỔNG CỤC TRƯỞNG  \n  \n  \n  \n  \nĐặng Ngọc Minh**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
