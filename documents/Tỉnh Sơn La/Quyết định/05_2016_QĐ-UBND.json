@@ -1,0 +1,356 @@
+{
+  "title": "Quyết định 05/2016/QĐ-UBND Quy chế quản lý, vận hành sử dụng phần mềm quản lý văn bản và điều hành trong các cơ quan nhà nước trên địa bàn tỉnh Sơn La",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 31/2014/QĐ-UBND về Quy chế quản lý, sử dụng phần mềm quản lý văn bản và hồ sơ công việc trong các cơ quan hành chính nhà nước tỉnh Sơn La",
+      "id": "31/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2014-11-13",
+      "effectiveDate": "2014-11-23",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 17/03/2016"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 01/2013/NĐ-CP hướng dẫn Luật lưu trữ",
+      "id": "01/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-01-03",
+      "effectiveDate": "2013-03-01",
+      "gazetteDate": "2013-01-16",
+      "gazetteNumber": "Từ số 21 đến số 22",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 07/2012/TT-BNV hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào Lưu trữ cơ quan do Bộ trưởng Bộ Nội vụ ban hành",
+      "id": "07/2012/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Văn Tất Thu"
+      ],
+      "issuedDate": "2012-11-22",
+      "effectiveDate": "2013-01-07",
+      "gazetteDate": "2013-01-12",
+      "gazetteNumber": "Từ số 15 đến số 16",
+      "status": "Hết hiệu lực: 15/06/2020"
+    },
+    {
+      "title": "Luật lưu trữ 2011",
+      "id": "01/2011/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2011-11-11",
+      "effectiveDate": "2012-07-01",
+      "gazetteDate": "2012-02-19",
+      "gazetteNumber": "Từ số 163 đến số 164",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 01/2011/TT-BNV hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính do Bộ Nội vụ ban hành",
+      "id": "01/2011/TT-BNV",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ",
+      "signers": [
+        "Trần Văn Tuấn"
+      ],
+      "issuedDate": "2011-01-19",
+      "effectiveDate": "2011-03-05",
+      "gazetteDate": "2011-02-11",
+      "gazetteNumber": "Từ số 93 đến số 94",
+      "status": "Hết hiệu lực: 15/06/2020"
+    },
+    {
+      "title": "Thông tư liên tịch 55/2005/TTLT-BNV-VPCP hướng dẫn thể thức và kỹ thuật trình bày văn bản do Bộ Nội Vụ - Văn Phòng Chính Phủ ban hành",
+      "id": "55/2005/TTLT-BNV-VPCP",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Lĩnh vực khác"
+      ],
+      "organization": "Bộ Nội vụ, Văn phòng Chính phủ",
+      "signers": [
+        "Đặng Quốc Tiến",
+        "Nguyễn Văn Lâm"
+      ],
+      "issuedDate": "2005-05-06",
+      "effectiveDate": "2005-06-05",
+      "gazetteDate": "2005-05-21",
+      "gazetteNumber": "Số 16",
+      "status": "Hết hiệu lực: 01/03/2012"
+    },
+    {
+      "title": "Quyết định 72/2002/QĐ-TTg thống nhất dùng bộ mã các ký tự chữ Việt theo tiêu chuẩn TCVN 6909:2001 trong trao đổi thông tin điện tử giữa các tổ chức của Đảng và Nhà nước do Thủ tướng Chính phủ ban hành",
+      "id": "72/2002/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Gia Khiêm"
+      ],
+      "issuedDate": "2002-06-10",
+      "effectiveDate": "2002-06-10",
+      "gazetteDate": "2002-07-15",
+      "gazetteNumber": "Số 33",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Giao dịch điện tử 2005",
+      "id": "51/2005/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Thương mại",
+        "Công nghệ thông tin",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2005-11-29",
+      "effectiveDate": "2006-03-01",
+      "gazetteDate": "2005-12-27",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 50/2020/QĐ-UBND về Quy chế quản lý, khai thác, sử dụng Hệ thống quản lý văn bản và điều hành tỉnh Sơn La",
+      "id": "50/2020/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Quốc Khánh"
+      ],
+      "issuedDate": "2020-12-31",
+      "effectiveDate": "2021-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 108/QĐ-UBND năm 2022 công bố danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân tỉnh Sơn La ban hành hết hiệu lực đến hết ngày 31/12/2021",
+      "id": "108/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Hoàng Quốc Khánh"
+      ],
+      "issuedDate": "2022-01-18",
+      "effectiveDate": "2022-01-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 1139/QĐ-UBND năm 2016 phê duyệt chủ trương, đề cương và dự toán chi tiết “Triển khai kết nối, liên thông phần mềm quản lý văn bản tất cả các sở, ngành, đơn vị cấp huyện, cấp xã gắn với ứng dụng chữ ký số” do Chủ tịch ủy ban nhân dân tỉnh Quảng Ngãi ban hành",
+      "id": "1139/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Quảng Ngãi",
+      "signers": [
+        "Lê Quang Thích"
+      ],
+      "issuedDate": "2016-06-27",
+      "effectiveDate": "2016-06-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 620/QĐ-UBND năm 2016 Quy chế phối hợp trong việc cung cấp văn bản quy phạm pháp luật để cập nhật vào Cơ sở dữ liệu quốc gia về pháp luật do tỉnh Sơn La ban hành",
+      "id": "620/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2016-03-21",
+      "effectiveDate": "2016-03-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 257/QĐ-UBND năm 2016 công bố Danh mục văn bản quy phạm pháp luật do Hội đồng nhân dân và Ủy ban nhân dân tỉnh Sơn La ban hành đã hết hiệu lực đến ngày 31 tháng 12 năm 2015",
+      "id": "257/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Cầm Ngọc Minh"
+      ],
+      "issuedDate": "2016-02-01",
+      "effectiveDate": "2016-02-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 07/2014/QĐ-UBND về Quy chế quản lý, sử dụng hệ thống thư điện tử trong hoạt động của cơ quan nhà nước tỉnh Sơn La",
+      "id": "07/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Phạm Văn Thủy"
+      ],
+      "issuedDate": "2014-06-05",
+      "effectiveDate": "2014-06-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "05/2016/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Công nghệ thông tin",
+    "Bộ máy hành chính"
+  ],
+  "organization": "Tỉnh Sơn La",
+  "signers": [
+    "Cầm Ngọc Minh"
+  ],
+  "issuedDate": "2016-03-07",
+  "effectiveDate": "2016-03-17",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 15/01/2021",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMAA0ADEAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>ỦY BAN NHÂN\n  DÂN<br>\n  TỈNH SƠN LA<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  05/2016/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Sơn La, ngày\n  07 tháng 3 năm 2016</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH SỬ DỤNG PHẦN MỀM QUẢN LÝ\nVĂN BẢN VÀ ĐIỀU HÀNH TRONG CÁC CƠ QUAN NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH SƠN LA</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH SƠN LA</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức chính quyền địa phương\nngày 19 tháng 6 năm 2015;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Ban hành văn bản quy phạm pháp luật\ncủa HĐND và UBND ngày 03 tháng 12 năm 2004;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Giao dịch điện tử ngày 29 tháng\n11 năm 2005;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Công nghệ thông tin ngày 29 tháng\n6 năm 2006;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Nghị định số&nbsp;64/2007/NĐ-CP ngày\n10 tháng 4 năm 2007 của Chính phủ&nbsp;về&nbsp;ứng dụng Công nghệ thông tin\ntrong hoạt động&nbsp;của&nbsp;cơ quan Nhà nước;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Theo đề nghị của Văn phòng UBND tỉnh tại Tờ\ntrình số&nbsp;18/TTr-VPUB&nbsp;ngày 07 tháng 3 năm 2016,</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_1\"><b><span lang=\"VI\" style=\"color:black\">Điều 1.</span></b></a><span lang=\"VI\" style=\"color:black\">&nbsp;<a name=\"dieu_1_name\">Ban hành kèm theo Quyết định\nnày Quy chế quản lý, vận hành sử dụng phần mềm quản lý văn bản và điều hành\ntrong các cơ quan nhà nước trên địa bàn tỉnh Sơn La.</a></span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_2\"><b><span lang=\"VI\" style=\"color:black\">Điều 2.</span></b></a><span lang=\"VI\" style=\"color:black\">&nbsp;<a name=\"dieu_2_name\">Quyết định này thay thế Quyết định\nsố </a><a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 31/2014/QĐ-UBND\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-31-2014-qd-ubnd-quan-ly-su-dung-phan-mem-quan-ly-van-ban-ho-so-cong-viec-co-quan-hanh-chinh-son-la-259737.aspx\">31/2014/QĐ-UBND</a>  ngày 13 tháng 11 năm 2014 của UBND tỉnh về việc Ban hành Quy\nchế quản lý, sử dụng phần mềm quản lý văn bản và hồ sơ công việc trong các cơ\nquan hành chính nhà nước tỉnh Sơn La.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_3\"><b><span lang=\"VI\" style=\"color:black\">Điều 3.</span></b></a><span lang=\"VI\" style=\"color:black\">&nbsp;<a name=\"dieu_3_name\">Chánh Văn phòng UBND tỉnh; Giám\nđốc Sở Thông tin và Truyền thông; Thủ trưởng các sở, ban, ngành cấp tỉnh, UBND\ncác huyện, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi\nhành Quyết định này và có hiệu lực thi hành sau 10 ngày./.</a></span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADYAMAA0ADEAMQA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b><i><span style=\"font-size:8.0pt;color:black\">&nbsp;</span></i></b></p>\n  <p style=\"margin-bottom:6.0pt\"><b><i><span style=\"color:black\">Nơi nhận:<br>\n  </span></i></b><span style=\"font-size:8.0pt;color:black\">- Văn phòng Chính phủ;<br>\n  - Bộ Thông tin và Truyền thông;<br>\n  - Cục kiểm soát TTHC (Bộ Tư pháp);<br>\n  - Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - UBMTTQ Việt Nam tỉnh;<br>\n  - Đoàn Đại biểu Quốc hội tỉnh;<br>\n  - Sở Tư pháp;<br>\n  - Trung tâm Công báo tỉnh;<br>\n  - Như Điều 3;<br>\n  - Lưu: VT, KGVX, 80 bản.</span></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"color:black\">TM. ỦY BAN NHÂN DÂN<br>\n  CHỦ TỊCH<br>\n  </span></b><span style=\"color:black\"><br>\n  <b><br>\n  <br>\n  <br>\n  Cầm Ngọc Minh</b></span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt;color:black\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><a name=\"loai_2_name\"><span style=\"color:black\">QUẢN LÝ, VẬN HÀNH VÀ SỬ DỤNG PHẦN\nMỀM QUẢN LÝ VĂN BẢN VÀ ĐIỀU HÀNH TRONG CÁC CƠ QUAN NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH\nSƠN LA</span></a><span style=\"color:black\"><br>\n<i>(Ban hành kèm theo Quyết định số 05/2016/QĐ-UBND ngày 07 tháng 3 năm 2016 của\nUBND tỉnh Sơn La)</i></span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"chuong_1\"><b><span style=\"color:black\">Chương I</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><a name=\"chuong_1_name\"><b><span style=\"font-size:12.0pt;color:black\">QUY ĐỊNH\nCHUNG</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_1_1\"><b><span style=\"color:black\">Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1.\nQuy chế này quy định về quản lý, vận hành và sử dụng phần mềm quản lý văn bản\nvà điều hành trong các cơ quan nhà nước trên địa bàn tỉnh Sơn La (sau đây gọi\nchung là cơ quan, đơn vị).</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2.\nQuy chế này được áp dụng đối với cán bộ, công chức, viên chức, người lao động\n(sau đây gọi tắt là cán bộ, công chức) tham gia quản lý, khai thác và sử dụng\nphần mềm quản lý văn bản và điều hành tại các cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_2_1\"><b><span style=\"color:black\">Điều 2. Giải thích từ ngữ</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1.&nbsp;Phần\nmềm quản lý văn bản và điều hành&nbsp;là phần mềm tin học hoá các quy trình hoạt\nđộng tác nghiệp, các hình thức gửi, nhận, lưu trữ, tìm kiếm văn bản, xử lý\nthông tin, giải quyết công việc trong các cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2.&nbsp;Văn\nbản điện tử&nbsp;là văn bản được thể hiện dưới dạng thông điệp dữ liệu.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3.&nbsp;Thông\nđiệp dữ liệu&nbsp;là thông tin được tạo ra, được gửi đi, được nhận và được lưu\ntrữ bằng phương tiện điện tử.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">4.&nbsp;Tài\nkhoản&nbsp;là tên (user name) và mật khẩu (password) đăng nhập được cấp cho mỗi\ncán bộ, công chức để truy cập và sử dụng hệ thống phần mềm quản lý văn bản và\nđiều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_4\"><b><span style=\"color:black\">Điều 3. Định dạng của văn bản điện tử được trao đổi trên phần\nmềm Quản lý văn bản và điều hành</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1. Thể\nthức và kỹ thuật trình bày văn bản điện tử.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">a) Thể\nthức và kỹ thuật trình bày văn bản thực hiện theo quy định tại Thông tư số&nbsp;</span>01/2011/TT-BNV\n<span style=\"color:black\">ngày 19 tháng 01 năm 2011 của Bộ Nội vụ hướng dẫn thể\nthức và kỹ thuật trình bày văn bản hành chính, Thông tư&nbsp;số </span>55/2005/TTLT-BNV-VPCP&nbsp;<span style=\"color:black\">ngày 06 tháng 5 năm 2005 của Bộ Nội vụ và Văn phòng Chính\nphủ hướng dẫn thể thức và kỹ thuật trình bày văn bản và các văn bản quy phạm\npháp luật khác có liên quan.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">b) Ký\ntự thể hiện trong văn bản điện tử thực hiện theo Quyết định số&nbsp;</span>72/2002/QĐ-TTg\n<span style=\"color:black\">ngày 10 tháng 6 năm 2002 của Thủ tướng Chính phủ về\nviệc thống nhất dùng phông chữ Unicode, Bộ mã các ký tự chữ Việt theo tiêu chuẩn&nbsp;</span>TCVN\n6909:2001<span style=\"color:#0E70C3\">&nbsp;</span><span style=\"color:black\">(Bộ\nmã Unicode) trong trao đổi thông tin điện tử giữa các tổ chức của Đảng và Nhà\nnước.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">c)\nNgôn ngữ sử dụng trong phần mềm quản lý văn bản và điều hành bằng ngôn ngữ tiếng\nViệt có dấu.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2. Định\ndạng tệp dữ liệu của văn bản điện tử</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Văn bản\nđiện tử bao gồm văn bản điện tử có thể chỉnh sửa và văn bản điện tử không thể\nchỉnh sửa, có định dạng tệp dữ liệu được quy định như sau:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">a)\nVăn bản điện tử có thể chỉnh sửa sử dụng định dạng tệp dữ liệu theo tiêu chuẩn\nkỹ thuật .txt, .odt, .rtf, .doc, .xls, .ppt, docx, xlsx, pptx hoặc các định dạng\ntương tự khác theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">b)\nVăn bản điện tử không thể chỉnh sửa là văn bản dạng ảnh quét, được số hóa từ\nvăn bản gốc <i>(có chữ ký của Thủ trưởng cơ quan và dấu của cơ quan, đơn vị)</i>\nsử dụng định dạng tệp dữ liệu theo tiêu chuẩn kỹ thuật (.pdf) hoặc các định dạng\ntương tự khác theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">c)\nVăn bản điện tử được nén từ nhiều hoặc một tệp văn bản nhằm giảm thiểu dung lượng.\nSử dụng định dạng nén dữ liệu theo tiêu chuẩn kỹ thuật (.zip) hoặc các định dạng\ntương tự khác theo quy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3.\nDung lượng các văn bản điện tử được sử dụng để đính kèm trên phần mềm quản lý\nvăn bản và điều hành không quá </span>25MB.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_5\"><b><span style=\"color:black\">Điều 4. Chuẩn trao đổi thông tin</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Tất cả\nthông tin trao đổi qua phần mềm quản lý văn bản và điều hành của tỉnh phải đảm\nbảo tuân thủ theo các yêu cầu, tiêu chuẩn về ứng dụng CNTT&nbsp;trong các cơ\nquan nhà nước được Chính phủ, cơ quan quản lý chuyên ngành ban hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_6\"><b><span style=\"color:black\">Điều 5. Giá trị pháp lý của văn bản điện tử</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Giá\ntrị pháp lý của văn bản điện tử trên phần mềm quản lý văn bản và điều hành thực\nhiện theo Điều 35 của Nghị định số&nbsp;</span>64/2007/NĐ-CP&nbsp;<span style=\"color:black\">ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ\nthông tin trong hoạt động của cơ quan nhà nước cụ thể:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">a)\nVăn bản điện tử phù hợp với pháp luật về giao dịch điện tử có giá trị pháp lý\ntương đương với bản giấy trong giao dịch giữa các cơ quan nhà nước.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">b)\nVăn bản điện tử gửi đến cơ quan nhà nước không nhất thiết phải sử dụng chữ ký\nđiện tử nếu văn bản đó có thông tin về người gửi, bảo đảm tính xác thực về nguồn\ngốc và sự toàn vẹn của văn bản.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_7\"><b><span style=\"color:black\">Điều 6. Cách thức trao đổi văn bản trên phần mềm quản lý\nvăn bản và điều hành</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1.\nTrao đổi hoàn toàn dưới dạng điện tử</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">a)\nTrong phạm vi nội bộ các cơ quan, đơn vị</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Văn bản\nchỉ đạo, điều hành; lịch công tác; các chương trình, kế hoạch; giấy mời họp nội\nbộ; tài liệu phục vụ họp; văn bản để biết, để báo cáo, xin ý kiến; thông báo\nchung của cơ quan, đơn vị; các tài liệu cần trao đổi trong quá trình xử lý công\nviệc.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">b) Giữa\ncác cơ quan, đơn vị</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Văn bản\ntham gia ý kiến, góp ý; văn bản để biết, để báo cáo; lịch công tác; giấy mời họp,\ntài liệu phục vụ họp.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">Ngoài các loại văn bản trên,\nUBND tỉnh sẽ ban hành bổ sung danh mục các loại văn bản được trao đổi hoàn toàn\ndưới dạng điện tử theo từng giai đoạn, áp dụng cho các cơ quan, đơn vị sử dụng\nphần mềm quản lý văn bản và điều hành trong tỉnh.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2.\nTrao đổi dưới dạng hỗn hợp (gửi cả văn bản giấy và văn bản điện tử)</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Các\nloại văn bản không thuộc quy định tại Khoản 1 Điều này, khi phát hành văn bản bắt\nbuộc phải gửi kèm văn bản điện tử qua phần mềm quản lý văn bản và điều hành\ntương ứng nội dung văn bản giấy.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_8\"><b><span style=\"color:black\">Điều 7. Quy định bắt buộc trong việc sử dụng phần mềm quản\nlý văn bản và điều hành</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1.\nVăn bản, hồ sơ có tính mật, tối mật và tuyệt mật thuộc Danh mục bí mật nhà nước,\ncác đơn thư khiếu nại, tố cáo, các thông tin nhạy cảm <i>(những thông tin liên\nquan đến lĩnh vực dân tộc, tôn giáo, đối ngoại chưa có kết luận của cơ quan có\nthẩm quyền)</i> hoặc những tài liệu mang tính chất đồi trụy không được cập nhật,\nlưu trữ và xử lý trên phần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2. Phần\nmềm quản lý văn bản và điều hành phải được thống nhất triển khai cho các cơ\nquan, đơn vị trên địa bàn tỉnh. Riêng đối với các cơ quan, đơn vị có đủ điều kiện\nđể cài đặt, quản lý, vận hành phần mềm quản lý văn bản và điều hành có thể cài\nđặt phân tán nhưng phải tự chịu trách nhiệm về an toàn dữ liệu và liên thông với\ntrục liên thông với phần mềm quản lý văn bản điều hành của Chính phủ đã triển\nkhai.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_9\"><b><span style=\"color:black\">Điều 8. Lưu trữ văn bản điện tử</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Việc\nlưu trữ văn bản điện tử phải đảm bảo theo Điều 7 và Điều 8 tại Nghị định&nbsp;số\n</span>01/2013/NĐ-CP <span style=\"color:black\">ngày 03 tháng 01 năm 2013 của\nChính phủ về việc quy định chi tiết thi hành một số điều của Luật Lưu trữ và\ncác văn bản quy phạm pháp luật khác có liên quan.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_10\"><b><span style=\"color:black\">Điều 9. Quy định sử dụng chữ ký số</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1. Phần\nmềm quản lý văn bản và điều hành được tích hợp chứng thư số và chữ ký số chuyên\ndùng của tổ chức, cá nhân để xác định tính pháp lý của các văn bản điện tử trao\nđổi giữa các cơ quan, đơn vị. Văn bản điện tử đã được ký số phải được tiếp nhận\nvà xử lý đúng quy trình để đảm bảo tính kịp thời, an toàn, bảo mật, tin cậy và\nxác thực.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2. Chữ\nký số và chứng thư số chuyên dùng sử dụng trong phần mềm quản lý văn bản và điều\nhành do Ban Cơ yếu Chính phủ cung cấp.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3. Sở\nThông tin và Truyền thông tham mưu lộ trình chữ ký số và chứng thư số chuyên\ndùng sử dụng trong phần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_11\"><b><span style=\"color:black\">Điều 10. Trường hợp phần mềm quản lý văn bản và điều hành gặp\nsự cố kỹ thuật</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Trong\ntrường hợp xảy ra sự cố kỹ thuật dẫn tới phần mềm quản lý văn bản và điều hành\ntạm ngừng hoạt động hoặc không bảo đảm tính an toàn của văn bản điện tử thì cán\nbộ được phân công phụ trách quản trị mạng, quản trị phần mềm quản lý văn bản và\nđiều hành trong cơ quan, đơn vị có trách nhiệm:</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1. Phối\nhợp với đơn vị cung cấp dịch vụ hoặc người quản trị phần mềm quản lý văn bản của\ncơ quan đơn vị <i>(Trong trường hợp cài đặt phần mềm tại cơ quan, đơn vị)</i> để\ncó thông báo ngay cho Thủ trưởng và người sử dụng trong cơ quan, đơn vị biết về\nsự cố, thời gian tạm dừng, thời gian bắt đầu sử dụng lại, các biện pháp tạm thời\nđược áp dụng trong thời gian tạm dừng, các biện pháp cập nhật văn bản vào phần\nmềm quản lý văn bản và điều hành khi bắt đầu sử dụng lại.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2. Tiến\nhành các biện pháp cần thiết trong khả năng nhằm nhanh chóng khắc phục, giải\nquyết sự cố, phục hồi phần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3.\nThông báo ngay cho đơn vị cung cấp dịch vụ phần mềm quản lý văn bản<i> </i>và\nVăn phòng UBND tỉnh để được hướng dẫn, khắc phục khi cần thiết.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"chuong_2\"><b><span style=\"color:black\">Chương II</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><a name=\"chuong_2_name\"><b><span style=\"font-size:12.0pt;color:black\">TRÁCH NHIỆM\nVÀ QUYỀN HẠN CỦA CƠ QUAN, ĐƠN VỊ TRIỂN KHAI, SỬ DỤNG PHẦN MỀM QUẢN LÝ VĂN BẢN\nVÀ ĐIỀU HÀNH</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_12\"><b><span style=\"color:black\">Điều 11. Trách nhiệm của các cơ quan, đơn vị trong việc sử\ndụng phần mềm quản lý văn bản và điều hành</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1. Sử\ndụng phần mềm quản lý văn bản và điều hành để chỉ đạo, điều hành, xử lý công việc\nhàng ngày của cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2.\nBan hành quy chế sử dụng phần mềm quản lý văn bản và điều hành trong nội bộ cơ\nquan, đơn vị để chỉ đạo, điều hành, xử lý văn bản hàng ngày. Tổ chức thực hiện\nđúng Quy chế này và các quy định khác có liên quan.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3. Quản\nlý và sử dụng chứng thư số, chữ ký số chuyên dùng tích hợp trên phần mềm quản\nlý văn bản và điều hành theo đúng quy định.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">4.\nCác cơ quan, đơn vị cài đặt phần mềm quản lý văn bản và điều hành theo hình thức\nphân tán có trách nhiệm tuân thủ theo hướng dẫn nghiệp vụ của Sở Thông tin và\nTruyền thông về việc vận hành và sử dụng phần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_13\"><b><span style=\"color:black\">Điều 12. Trách nhiệm của các cán bộ, công chức tham gia sử\ndụng phần mềm quản lý văn bản và điều hành</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1.\nTrách nhiệm của cán bộ, công chức</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">a)\nThường xuyên sử dụng phần mềm quản lý văn bản và điều hành theo tài khoản đã được\ncấp để giải quyết công việc được giao; xử lý đúng theo quy trình được cơ quan,\nđơn vị quy định, chịu trách nhiệm về thông tin trao đổi trên phần mềm qua tài\nkhoản sử dụng của cá nhân.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">b) Cán\nbộ, công chức có trách nhiệm bảo mật tài khoản được cấp, thay đổi mật khẩu đăng\nnhập, không để lộ hoặc cung cấp tài khoản cho người khác biết.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2.\nTrách nhiệm của văn thư cơ quan, đơn vị</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Sử dụng\nphần mềm quản lý văn bản và điều hành để tiếp nhận, số hóa, khai báo các thông\nsố văn bản đến nhận được từ các nguồn; số hóa, khai báo các thông số văn bản đi\ndo cơ quan, đơn vị ban hành, thực hiện ký số (nếu có) các văn bản chuyển cho\ncác cơ quan, đơn vị liên quan; phát hành văn bản theo chỉ đạo của thủ trưởng cơ\nquan, đơn vị. Thực hiện đăng ký văn bản đến bằng cơ sở dữ liệu văn bản đến trên\nmáy tính và đăng ký văn bản đi bằng cơ sở dữ liệu văn bản đi trên máy tính theo\nquy định tại Khoản 2, Điều 5 và Khoản 2 Điều 9 Thông tư số&nbsp;</span><a href=\"http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=07/2012/TT-BNV&amp;area=2&amp;type=0&amp;match=False&amp;vc=True&amp;lan=1\" target=\"_blank\"><span style=\"color:windowtext;text-decoration:none\">07/2012/TT-BNV</span></a><span style=\"color:black\">&nbsp;ngày 22 tháng 11 năm 2012 của Bộ Nội vụ hướng dẫn quản\nlý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3.\nTrách nhiệm của đơn vị quản trị mạng, quản trị phần mềm</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">a) Đề\nxuất với Thủ trưởng cơ quan, đơn vị việc cấp phát, thu hồi, sửa đổi, bổ sung\ntài khoản và phân quyền sử dụng phần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">b) Tạo\nlập, quản lý tài khoản người sử dụng; quản trị hệ thống danh mục trong phần mềm\nquản lý văn bản và điều hành, trực tiếp sửa đổi, bổ sung khi có sự thay đổi về\ncơ cấu tổ chức trong nội bộ cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">c) Hỗ\ntrợ, hướng dẫn cán bộ, công chức trong cơ quan, đơn vị sử dụng, vận hành phần mềm\nquản lý văn bản và điều hành; phối hợp với Đơn vị cung cấp dịch vụ phần mềm quản\nlý văn bản và Văn phòng UBND tỉnh khắc phục sự cố (nếu có) và cập nhật, nâng cấp\nphần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">d) Tham\nmưu Lãnh đạo cơ quan, đơn vị thực hiện chế độ báo cáo UBND tỉnh <i>(thông qua Sở\nThông tin và Truyền thông)</i> định kỳ, đột xuất về việc sử dụng phần mềm quản\nlý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_14\"><b>Điều 13.\nTrách nhiệm của cơ quan quản lý, vận hành phần mềm quản lý văn bản và điều hành</b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">1. Đơn vị cung cấp dịch vụ phần\nmềm quản lý văn bản có trách nhiệm</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">- Tổ chức đào tạo, hướng dẫn\ncác quy định và các tiêu chuẩn kỹ thuật liên quan đến triển khai sử dụng phần mềm\nquản lý văn bản và điều hành, đồng thời hỗ trợ các cơ quan, đơn vị khai thác, sử\ndụng phần mềm đúng quy trình, mục đích và có hiệu quả.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">- Đảm bảo vận hành phần mềm quản\nlý văn bản và điều hành thông suốt trên mạng diện rộng của tỉnh, mạng Internet\ntrên nền mạng Truyền số liệu chuyên dùng phục vụ các cơ quan Nhà nước.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">- Đảm bảo hạ tầng kỹ thuật cho\nphần mềm quản lý văn bản và điều hành; kịp thời phát hiện, xử lý, khắc phục sự\ncố, duy trì hệ thống vận hành thông suốt, liên tục; đảm bảo an toàn, bảo mật\nthông tin theo chế độ quy định; thực hiện chế độ lưu trữ dự phòng dữ liệu hệ thống;\nthông báo bằng văn bản cho các cơ quan, đơn vị, cá nhân sử dụng phần mềm trước\nkhi tiến hành bảo trì, bảo dưỡng và nâng cấp, cập nhật phiên bản mới trên phần\nmềm quản lý văn bản và điều hành.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">2. Sở Thông tin và Truyền thông\ncó trách nhiệm</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">- Tham mưu, trình UBND tỉnh chỉ\nđạo, tổ chức thực hiện theo yêu cầu của Chính phủ, Bộ Thông tin và Truyền thông\nvề quản lý, sử dụng phần mềm quản lý văn bản và điều hành để tăng cường sử dụng\nvăn bản điện tử trên địa bàn tỉnh.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">- Xây dựng kế hoạch đầu tư, nâng\ncấp hạ tầng kỹ thuật phục vụ công tác triển khai, nhân rộng phần mềm quản lý\nvăn bản và điều hành cho các cơ quan, đơn vị trên địa bàn tỉnh.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\">- Tổ chức theo dõi, thanh tra,\nkiểm tra, đôn đốc các cơ quan, đơn vị sử dụng và quản lý hoạt động của phần mềm\nquản lý văn bản và điều hành theo quy định của Quy chế này; xử lý hoặc đề xuất\ncơ quan có thẩm quyền xử lý các vi phạm theo quy định của pháp luật.</p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"chuong_3\"><b><span style=\"color:black\">Chương III</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom: 6pt; text-align: center; background: transparent;\"><a name=\"chuong_3_name\"><b><span style=\"font-size:12.0pt;color:black\">ĐIỀU KHOẢN\nTHI HÀNH</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_15\"><b><span style=\"color:black\">Điều 14. Khen thưởng và xử lý vi phạm</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1.\nTrên cơ sở kết quả thanh tra, kiểm tra và tổng hợp báo cáo, Sở Thông tin và\nTruyền thông tham mưu UBND tỉnh hình thức khen thưởng đối với những cơ quan,\nđơn vị và cá nhân ứng dụng có hiệu quả phần mềm quản lý văn bản và điều hành.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2. Việc\nsử dụng phần mềm quản lý văn bản và điều hành tại các cơ quan, đơn vị là tiêu\nchí đánh giá khi bình xét các hình thức thi đua, khen thưởng cấp tỉnh hàng năm.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3.\nCác hành vi vi phạm quy định của Quy chế này, tùy theo mức độ vi phạm sẽ bị xử\nlý theo các quy định của pháp luật.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><a name=\"dieu_16\"><b><span style=\"color:black\">Điều 15. Tổ chức thực hiện</span></b></a></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">1. Sở\nThông tin và Truyền thông chủ trì tổ chức triển khai, hướng dẫn thực hiện Quy\nchế này; theo dõi, kiểm tra định kỳ báo cáo UBND tỉnh tình hình triển khai của\ncác cơ quan, đơn vị.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">2. Sở\nTài chính tham mưu, trình UBND tỉnh phê duyệt kinh phí hàng năm cho việc thuê dịch\nvụ phần mềm quản lý văn bản và kinh phí nâng cấp, mở rộng phần mềm quản lý văn\nbản và điều hành trong các cơ quan, đơn vị trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">3. Sở\nNội vụ tham mưu, trình UBND tỉnh đưa việc sử dụng phần mềm quản lý văn bản và\nđiều hành vào tiêu chí thi đua hàng năm và lồng ghép vào chỉ tiêu đánh giá cải\ncách hành chính, cải cách chế độ công vụ, công chức tại các cơ quan, đơn vị\ntrên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">4. Thủ\ntrưởng các cơ quan, đơn vị chị trách nhiệm trước UBND tỉnh về việc tổ chức triển\nkhai thực hiện Quy chế này trong phạm vi quản lý của mình<b>.</b></span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">Trong\nquá trình thực hiện, nếu gặp vướng mắc, phát sinh các cơ quan, đơn vị phản ánh\nvề Sở Thông tin và Truyền thông để tổng hợp, báo cáo UBND tỉnh xem xét, quyết định./.</span></p>\n\n<p style=\"margin-bottom: 6pt; background: transparent;\"><span style=\"color:black\">&nbsp;</span></p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p><b>&nbsp;</b></p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH SƠN LA  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 05/2016/QĐ-UBND\n\n_Sơn La, ngày 07 tháng 3 năm 2016_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH SỬ DỤNG PHẦN MỀM QUẢN LÝ VĂN BẢN VÀ ĐIỀU HÀNH TRONG CÁC CƠ QUAN NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH SƠN LA\n\n**ỦY BAN NHÂN DÂN TỈNH SƠN LA**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật Ban hành văn bản quy phạm pháp luật của HĐND và UBND ngày 03 tháng 12 năm 2004;_\n\n_Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;_\n\n_Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;_\n\n_Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước;_\n\n_Theo đề nghị của Văn phòng UBND tỉnh tại Tờ trình số 18/TTr-VPUB ngày 07 tháng 3 năm 2016,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành sử dụng phần mềm quản lý văn bản và điều hành trong các cơ quan nhà nước trên địa bàn tỉnh Sơn La.\n\n**Điều 2.** Quyết định này thay thế Quyết định số [31/2014/QĐ-UBND](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/quyet-dinh-31-2014-qd-ubnd-quan-ly-su-dung-phan-mem-quan-ly-van-ban-ho-so-cong-viec-co-quan-hanh-chinh-son-la-259737.aspx \"Quyết định 31/2014/QĐ-UBND\") ngày 13 tháng 11 năm 2014 của UBND tỉnh về việc Ban hành Quy chế quản lý, sử dụng phần mềm quản lý văn bản và hồ sơ công việc trong các cơ quan hành chính nhà nước tỉnh Sơn La.\n\n**Điều 3.** Chánh Văn phòng UBND tỉnh; Giám đốc Sở Thông tin và Truyền thông; Thủ trưởng các sở, ban, ngành cấp tỉnh, UBND các huyện, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này và có hiệu lực thi hành sau 10 ngày./.\n\n**_Nơi nhận:  \n_**\\- Văn phòng Chính phủ;  \n\\- Bộ Thông tin và Truyền thông;  \n\\- Cục kiểm soát TTHC (Bộ Tư pháp);  \n\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- CT, các PCT UBND tỉnh;  \n\\- UBMTTQ Việt Nam tỉnh;  \n\\- Đoàn Đại biểu Quốc hội tỉnh;  \n\\- Sở Tư pháp;  \n\\- Trung tâm Công báo tỉnh;  \n\\- Như Điều 3;  \n\\- Lưu: VT, KGVX, 80 bản.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n**  \n**  \n  \n  \nCầm Ngọc Minh**\n\n**QUY CHẾ**\n\nQUẢN LÝ, VẬN HÀNH VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ VĂN BẢN VÀ ĐIỀU HÀNH TRONG CÁC CƠ QUAN NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH SƠN LA  \n_(Ban hành kèm theo Quyết định số 05/2016/QĐ-UBND ngày 07 tháng 3 năm 2016 của UBND tỉnh Sơn La)_\n\n**Chương I**\n\n**QUY ĐỊNH CHUNG**\n\n**Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng**\n\n1\\. Quy chế này quy định về quản lý, vận hành và sử dụng phần mềm quản lý văn bản và điều hành trong các cơ quan nhà nước trên địa bàn tỉnh Sơn La (sau đây gọi chung là cơ quan, đơn vị).\n\n2\\. Quy chế này được áp dụng đối với cán bộ, công chức, viên chức, người lao động (sau đây gọi tắt là cán bộ, công chức) tham gia quản lý, khai thác và sử dụng phần mềm quản lý văn bản và điều hành tại các cơ quan, đơn vị.\n\n**Điều 2. Giải thích từ ngữ**\n\n1. Phần mềm quản lý văn bản và điều hành là phần mềm tin học hoá các quy trình hoạt động tác nghiệp, các hình thức gửi, nhận, lưu trữ, tìm kiếm văn bản, xử lý thông tin, giải quyết công việc trong các cơ quan, đơn vị.\n\n2. Văn bản điện tử là văn bản được thể hiện dưới dạng thông điệp dữ liệu.\n\n3. Thông điệp dữ liệu là thông tin được tạo ra, được gửi đi, được nhận và được lưu trữ bằng phương tiện điện tử.\n\n4. Tài khoản là tên (user name) và mật khẩu (password) đăng nhập được cấp cho mỗi cán bộ, công chức để truy cập và sử dụng hệ thống phần mềm quản lý văn bản và điều hành.\n\n**Điều 3. Định dạng của văn bản điện tử được trao đổi trên phần mềm Quản lý văn bản và điều hành**\n\n1\\. Thể thức và kỹ thuật trình bày văn bản điện tử.\n\na) Thể thức và kỹ thuật trình bày văn bản thực hiện theo quy định tại Thông tư số 01/2011/TT-BNV ngày 19 tháng 01 năm 2011 của Bộ Nội vụ hướng dẫn thể thức và kỹ thuật trình bày văn bản hành chính, Thông tư số 55/2005/TTLT-BNV-VPCP ngày 06 tháng 5 năm 2005 của Bộ Nội vụ và Văn phòng Chính phủ hướng dẫn thể thức và kỹ thuật trình bày văn bản và các văn bản quy phạm pháp luật khác có liên quan.\n\nb) Ký tự thể hiện trong văn bản điện tử thực hiện theo Quyết định số 72/2002/QĐ-TTg ngày 10 tháng 6 năm 2002 của Thủ tướng Chính phủ về việc thống nhất dùng phông chữ Unicode, Bộ mã các ký tự chữ Việt theo tiêu chuẩn TCVN 6909:2001 (Bộ mã Unicode) trong trao đổi thông tin điện tử giữa các tổ chức của Đảng và Nhà nước.\n\nc) Ngôn ngữ sử dụng trong phần mềm quản lý văn bản và điều hành bằng ngôn ngữ tiếng Việt có dấu.\n\n2\\. Định dạng tệp dữ liệu của văn bản điện tử\n\nVăn bản điện tử bao gồm văn bản điện tử có thể chỉnh sửa và văn bản điện tử không thể chỉnh sửa, có định dạng tệp dữ liệu được quy định như sau:\n\na) Văn bản điện tử có thể chỉnh sửa sử dụng định dạng tệp dữ liệu theo tiêu chuẩn kỹ thuật .txt, .odt, .rtf, .doc, .xls, .ppt, docx, xlsx, pptx hoặc các định dạng tương tự khác theo quy định của pháp luật.\n\nb) Văn bản điện tử không thể chỉnh sửa là văn bản dạng ảnh quét, được số hóa từ văn bản gốc _(có chữ ký của Thủ trưởng cơ quan và dấu của cơ quan, đơn vị)_ sử dụng định dạng tệp dữ liệu theo tiêu chuẩn kỹ thuật (.pdf) hoặc các định dạng tương tự khác theo quy định của pháp luật.\n\nc) Văn bản điện tử được nén từ nhiều hoặc một tệp văn bản nhằm giảm thiểu dung lượng. Sử dụng định dạng nén dữ liệu theo tiêu chuẩn kỹ thuật (.zip) hoặc các định dạng tương tự khác theo quy định của pháp luật.\n\n3\\. Dung lượng các văn bản điện tử được sử dụng để đính kèm trên phần mềm quản lý văn bản và điều hành không quá 25MB.\n\n**Điều 4. Chuẩn trao đổi thông tin**\n\nTất cả thông tin trao đổi qua phần mềm quản lý văn bản và điều hành của tỉnh phải đảm bảo tuân thủ theo các yêu cầu, tiêu chuẩn về ứng dụng CNTT trong các cơ quan nhà nước được Chính phủ, cơ quan quản lý chuyên ngành ban hành.\n\n**Điều 5. Giá trị pháp lý của văn bản điện tử**\n\nGiá trị pháp lý của văn bản điện tử trên phần mềm quản lý văn bản và điều hành thực hiện theo Điều 35 của Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước cụ thể:\n\na) Văn bản điện tử phù hợp với pháp luật về giao dịch điện tử có giá trị pháp lý tương đương với bản giấy trong giao dịch giữa các cơ quan nhà nước.\n\nb) Văn bản điện tử gửi đến cơ quan nhà nước không nhất thiết phải sử dụng chữ ký điện tử nếu văn bản đó có thông tin về người gửi, bảo đảm tính xác thực về nguồn gốc và sự toàn vẹn của văn bản.\n\n**Điều 6. Cách thức trao đổi văn bản trên phần mềm quản lý văn bản và điều hành**\n\n1\\. Trao đổi hoàn toàn dưới dạng điện tử\n\na) Trong phạm vi nội bộ các cơ quan, đơn vị\n\nVăn bản chỉ đạo, điều hành; lịch công tác; các chương trình, kế hoạch; giấy mời họp nội bộ; tài liệu phục vụ họp; văn bản để biết, để báo cáo, xin ý kiến; thông báo chung của cơ quan, đơn vị; các tài liệu cần trao đổi trong quá trình xử lý công việc.\n\nb) Giữa các cơ quan, đơn vị\n\nVăn bản tham gia ý kiến, góp ý; văn bản để biết, để báo cáo; lịch công tác; giấy mời họp, tài liệu phục vụ họp.\n\nNgoài các loại văn bản trên, UBND tỉnh sẽ ban hành bổ sung danh mục các loại văn bản được trao đổi hoàn toàn dưới dạng điện tử theo từng giai đoạn, áp dụng cho các cơ quan, đơn vị sử dụng phần mềm quản lý văn bản và điều hành trong tỉnh.\n\n2\\. Trao đổi dưới dạng hỗn hợp (gửi cả văn bản giấy và văn bản điện tử)\n\nCác loại văn bản không thuộc quy định tại Khoản 1 Điều này, khi phát hành văn bản bắt buộc phải gửi kèm văn bản điện tử qua phần mềm quản lý văn bản và điều hành tương ứng nội dung văn bản giấy.\n\n**Điều 7. Quy định bắt buộc trong việc sử dụng phần mềm quản lý văn bản và điều hành**\n\n1\\. Văn bản, hồ sơ có tính mật, tối mật và tuyệt mật thuộc Danh mục bí mật nhà nước, các đơn thư khiếu nại, tố cáo, các thông tin nhạy cảm _(những thông tin liên quan đến lĩnh vực dân tộc, tôn giáo, đối ngoại chưa có kết luận của cơ quan có thẩm quyền)_ hoặc những tài liệu mang tính chất đồi trụy không được cập nhật, lưu trữ và xử lý trên phần mềm quản lý văn bản và điều hành.\n\n2\\. Phần mềm quản lý văn bản và điều hành phải được thống nhất triển khai cho các cơ quan, đơn vị trên địa bàn tỉnh. Riêng đối với các cơ quan, đơn vị có đủ điều kiện để cài đặt, quản lý, vận hành phần mềm quản lý văn bản và điều hành có thể cài đặt phân tán nhưng phải tự chịu trách nhiệm về an toàn dữ liệu và liên thông với trục liên thông với phần mềm quản lý văn bản điều hành của Chính phủ đã triển khai.\n\n**Điều 8. Lưu trữ văn bản điện tử**\n\nViệc lưu trữ văn bản điện tử phải đảm bảo theo Điều 7 và Điều 8 tại Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật Lưu trữ và các văn bản quy phạm pháp luật khác có liên quan.\n\n**Điều 9. Quy định sử dụng chữ ký số**\n\n1\\. Phần mềm quản lý văn bản và điều hành được tích hợp chứng thư số và chữ ký số chuyên dùng của tổ chức, cá nhân để xác định tính pháp lý của các văn bản điện tử trao đổi giữa các cơ quan, đơn vị. Văn bản điện tử đã được ký số phải được tiếp nhận và xử lý đúng quy trình để đảm bảo tính kịp thời, an toàn, bảo mật, tin cậy và xác thực.\n\n2\\. Chữ ký số và chứng thư số chuyên dùng sử dụng trong phần mềm quản lý văn bản và điều hành do Ban Cơ yếu Chính phủ cung cấp.\n\n3\\. Sở Thông tin và Truyền thông tham mưu lộ trình chữ ký số và chứng thư số chuyên dùng sử dụng trong phần mềm quản lý văn bản và điều hành.\n\n**Điều 10. Trường hợp phần mềm quản lý văn bản và điều hành gặp sự cố kỹ thuật**\n\nTrong trường hợp xảy ra sự cố kỹ thuật dẫn tới phần mềm quản lý văn bản và điều hành tạm ngừng hoạt động hoặc không bảo đảm tính an toàn của văn bản điện tử thì cán bộ được phân công phụ trách quản trị mạng, quản trị phần mềm quản lý văn bản và điều hành trong cơ quan, đơn vị có trách nhiệm:\n\n1\\. Phối hợp với đơn vị cung cấp dịch vụ hoặc người quản trị phần mềm quản lý văn bản của cơ quan đơn vị _(Trong trường hợp cài đặt phần mềm tại cơ quan, đơn vị)_ để có thông báo ngay cho Thủ trưởng và người sử dụng trong cơ quan, đơn vị biết về sự cố, thời gian tạm dừng, thời gian bắt đầu sử dụng lại, các biện pháp tạm thời được áp dụng trong thời gian tạm dừng, các biện pháp cập nhật văn bản vào phần mềm quản lý văn bản và điều hành khi bắt đầu sử dụng lại.\n\n2\\. Tiến hành các biện pháp cần thiết trong khả năng nhằm nhanh chóng khắc phục, giải quyết sự cố, phục hồi phần mềm quản lý văn bản và điều hành.\n\n3\\. Thông báo ngay cho đơn vị cung cấp dịch vụ phần mềm quản lý văn bản và Văn phòng UBND tỉnh để được hướng dẫn, khắc phục khi cần thiết.\n\n**Chương II**\n\n**TRÁCH NHIỆM VÀ QUYỀN HẠN CỦA CƠ QUAN, ĐƠN VỊ TRIỂN KHAI, SỬ DỤNG PHẦN MỀM QUẢN LÝ VĂN BẢN VÀ ĐIỀU HÀNH**\n\n**Điều 11. Trách nhiệm của các cơ quan, đơn vị trong việc sử dụng phần mềm quản lý văn bản và điều hành**\n\n1\\. Sử dụng phần mềm quản lý văn bản và điều hành để chỉ đạo, điều hành, xử lý công việc hàng ngày của cơ quan, đơn vị.\n\n2\\. Ban hành quy chế sử dụng phần mềm quản lý văn bản và điều hành trong nội bộ cơ quan, đơn vị để chỉ đạo, điều hành, xử lý văn bản hàng ngày. Tổ chức thực hiện đúng Quy chế này và các quy định khác có liên quan.\n\n3\\. Quản lý và sử dụng chứng thư số, chữ ký số chuyên dùng tích hợp trên phần mềm quản lý văn bản và điều hành theo đúng quy định.\n\n4\\. Các cơ quan, đơn vị cài đặt phần mềm quản lý văn bản và điều hành theo hình thức phân tán có trách nhiệm tuân thủ theo hướng dẫn nghiệp vụ của Sở Thông tin và Truyền thông về việc vận hành và sử dụng phần mềm quản lý văn bản và điều hành.\n\n**Điều 12. Trách nhiệm của các cán bộ, công chức tham gia sử dụng phần mềm quản lý văn bản và điều hành**\n\n1\\. Trách nhiệm của cán bộ, công chức\n\na) Thường xuyên sử dụng phần mềm quản lý văn bản và điều hành theo tài khoản đã được cấp để giải quyết công việc được giao; xử lý đúng theo quy trình được cơ quan, đơn vị quy định, chịu trách nhiệm về thông tin trao đổi trên phần mềm qua tài khoản sử dụng của cá nhân.\n\nb) Cán bộ, công chức có trách nhiệm bảo mật tài khoản được cấp, thay đổi mật khẩu đăng nhập, không để lộ hoặc cung cấp tài khoản cho người khác biết.\n\n2\\. Trách nhiệm của văn thư cơ quan, đơn vị\n\nSử dụng phần mềm quản lý văn bản và điều hành để tiếp nhận, số hóa, khai báo các thông số văn bản đến nhận được từ các nguồn; số hóa, khai báo các thông số văn bản đi do cơ quan, đơn vị ban hành, thực hiện ký số (nếu có) các văn bản chuyển cho các cơ quan, đơn vị liên quan; phát hành văn bản theo chỉ đạo của thủ trưởng cơ quan, đơn vị. Thực hiện đăng ký văn bản đến bằng cơ sở dữ liệu văn bản đến trên máy tính và đăng ký văn bản đi bằng cơ sở dữ liệu văn bản đi trên máy tính theo quy định tại Khoản 2, Điều 5 và Khoản 2 Điều 9 Thông tư số [07/2012/TT-BNV](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=07/2012/TT-BNV&area=2&type=0&match=False&vc=True&lan=1) ngày 22 tháng 11 năm 2012 của Bộ Nội vụ hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ, tài liệu vào lưu trữ cơ quan.\n\n3\\. Trách nhiệm của đơn vị quản trị mạng, quản trị phần mềm\n\na) Đề xuất với Thủ trưởng cơ quan, đơn vị việc cấp phát, thu hồi, sửa đổi, bổ sung tài khoản và phân quyền sử dụng phần mềm quản lý văn bản và điều hành.\n\nb) Tạo lập, quản lý tài khoản người sử dụng; quản trị hệ thống danh mục trong phần mềm quản lý văn bản và điều hành, trực tiếp sửa đổi, bổ sung khi có sự thay đổi về cơ cấu tổ chức trong nội bộ cơ quan, đơn vị.\n\nc) Hỗ trợ, hướng dẫn cán bộ, công chức trong cơ quan, đơn vị sử dụng, vận hành phần mềm quản lý văn bản và điều hành; phối hợp với Đơn vị cung cấp dịch vụ phần mềm quản lý văn bản và Văn phòng UBND tỉnh khắc phục sự cố (nếu có) và cập nhật, nâng cấp phần mềm quản lý văn bản và điều hành.\n\nd) Tham mưu Lãnh đạo cơ quan, đơn vị thực hiện chế độ báo cáo UBND tỉnh _(thông qua Sở Thông tin và Truyền thông)_ định kỳ, đột xuất về việc sử dụng phần mềm quản lý văn bản và điều hành.\n\n**Điều 13. Trách nhiệm của cơ quan quản lý, vận hành phần mềm quản lý văn bản và điều hành**\n\n1\\. Đơn vị cung cấp dịch vụ phần mềm quản lý văn bản có trách nhiệm\n\n\\- Tổ chức đào tạo, hướng dẫn các quy định và các tiêu chuẩn kỹ thuật liên quan đến triển khai sử dụng phần mềm quản lý văn bản và điều hành, đồng thời hỗ trợ các cơ quan, đơn vị khai thác, sử dụng phần mềm đúng quy trình, mục đích và có hiệu quả.\n\n\\- Đảm bảo vận hành phần mềm quản lý văn bản và điều hành thông suốt trên mạng diện rộng của tỉnh, mạng Internet trên nền mạng Truyền số liệu chuyên dùng phục vụ các cơ quan Nhà nước.\n\n\\- Đảm bảo hạ tầng kỹ thuật cho phần mềm quản lý văn bản và điều hành; kịp thời phát hiện, xử lý, khắc phục sự cố, duy trì hệ thống vận hành thông suốt, liên tục; đảm bảo an toàn, bảo mật thông tin theo chế độ quy định; thực hiện chế độ lưu trữ dự phòng dữ liệu hệ thống; thông báo bằng văn bản cho các cơ quan, đơn vị, cá nhân sử dụng phần mềm trước khi tiến hành bảo trì, bảo dưỡng và nâng cấp, cập nhật phiên bản mới trên phần mềm quản lý văn bản và điều hành.\n\n2\\. Sở Thông tin và Truyền thông có trách nhiệm\n\n\\- Tham mưu, trình UBND tỉnh chỉ đạo, tổ chức thực hiện theo yêu cầu của Chính phủ, Bộ Thông tin và Truyền thông về quản lý, sử dụng phần mềm quản lý văn bản và điều hành để tăng cường sử dụng văn bản điện tử trên địa bàn tỉnh.\n\n\\- Xây dựng kế hoạch đầu tư, nâng cấp hạ tầng kỹ thuật phục vụ công tác triển khai, nhân rộng phần mềm quản lý văn bản và điều hành cho các cơ quan, đơn vị trên địa bàn tỉnh.\n\n\\- Tổ chức theo dõi, thanh tra, kiểm tra, đôn đốc các cơ quan, đơn vị sử dụng và quản lý hoạt động của phần mềm quản lý văn bản và điều hành theo quy định của Quy chế này; xử lý hoặc đề xuất cơ quan có thẩm quyền xử lý các vi phạm theo quy định của pháp luật.\n\n**Chương III**\n\n**ĐIỀU KHOẢN THI HÀNH**\n\n**Điều 14. Khen thưởng và xử lý vi phạm**\n\n1\\. Trên cơ sở kết quả thanh tra, kiểm tra và tổng hợp báo cáo, Sở Thông tin và Truyền thông tham mưu UBND tỉnh hình thức khen thưởng đối với những cơ quan, đơn vị và cá nhân ứng dụng có hiệu quả phần mềm quản lý văn bản và điều hành.\n\n2\\. Việc sử dụng phần mềm quản lý văn bản và điều hành tại các cơ quan, đơn vị là tiêu chí đánh giá khi bình xét các hình thức thi đua, khen thưởng cấp tỉnh hàng năm.\n\n3\\. Các hành vi vi phạm quy định của Quy chế này, tùy theo mức độ vi phạm sẽ bị xử lý theo các quy định của pháp luật.\n\n**Điều 15. Tổ chức thực hiện**\n\n1\\. Sở Thông tin và Truyền thông chủ trì tổ chức triển khai, hướng dẫn thực hiện Quy chế này; theo dõi, kiểm tra định kỳ báo cáo UBND tỉnh tình hình triển khai của các cơ quan, đơn vị.\n\n2\\. Sở Tài chính tham mưu, trình UBND tỉnh phê duyệt kinh phí hàng năm cho việc thuê dịch vụ phần mềm quản lý văn bản và kinh phí nâng cấp, mở rộng phần mềm quản lý văn bản và điều hành trong các cơ quan, đơn vị trên địa bàn tỉnh.\n\n3\\. Sở Nội vụ tham mưu, trình UBND tỉnh đưa việc sử dụng phần mềm quản lý văn bản và điều hành vào tiêu chí thi đua hàng năm và lồng ghép vào chỉ tiêu đánh giá cải cách hành chính, cải cách chế độ công vụ, công chức tại các cơ quan, đơn vị trên địa bàn tỉnh.\n\n4\\. Thủ trưởng các cơ quan, đơn vị chị trách nhiệm trước UBND tỉnh về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình**.**\n\nTrong quá trình thực hiện, nếu gặp vướng mắc, phát sinh các cơ quan, đơn vị phản ánh về Sở Thông tin và Truyền thông để tổng hợp, báo cáo UBND tỉnh xem xét, quyết định./.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}

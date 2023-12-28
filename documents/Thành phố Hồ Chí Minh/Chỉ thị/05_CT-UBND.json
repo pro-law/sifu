@@ -1,0 +1,578 @@
+{
+  "title": "Chỉ thị 05/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Thông tư 71/2017/TT-BTC hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2018 và kế hoạch tài chính – ngân sách nhà nước 03 năm 2018-2020 do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "71/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2017-07-13",
+      "effectiveDate": "2017-08-25",
+      "gazetteDate": "2017-08-04",
+      "gazetteNumber": "Từ số 563 đến số 564",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 69/2017/TT-BTC hướng dẫn lập kế hoạch tài chính 05 năm và kế hoạch tài chính - ngân sách nhà nước 03 năm do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "69/2017/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2017-07-07",
+      "effectiveDate": "2017-08-22",
+      "gazetteDate": "2017-08-02",
+      "gazetteNumber": "Từ số 555 đến số 556",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 51/NQ-CP năm 2017 chương trình hành động thực hiện Nghị quyết 07-NQ/TW về Chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để đảm bảo nền tài chính quốc gia an toàn, bền vững do Chính phủ ban hành",
+      "id": "51/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-06-19",
+      "effectiveDate": "2017-06-19",
+      "gazetteDate": "2017-06-28",
+      "gazetteNumber": "Từ số 469 đến số 470",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 26/CT-TTg năm 2017 về tiếp tục triển khai hiệu quả Nghị quyết số 35/NQ-CP ngày 16 tháng 5 năm 2016 theo tinh thần Chính phủ đồng hành cùng doanh nghiệp do Thủ tướng Chính phủ ban hành",
+      "id": "26/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-06-06",
+      "effectiveDate": "2017-06-06",
+      "gazetteDate": "2017-06-16",
+      "gazetteNumber": "Từ số 445 đến số 446",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 10-NQ/TW năm 2017 về phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa do Ban Chấp hành Trung ương ban hành",
+      "id": "10-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-06-03",
+      "effectiveDate": "2017-06-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2017/NĐ-CP quy định chi tiết việc lập kế hoạch Tài chính 05 năm và kế hoạch Tài chính - ngân sách nhà nước 03 năm",
+      "id": "45/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-04-21",
+      "effectiveDate": "2017-06-05",
+      "gazetteDate": "2017-05-05",
+      "gazetteNumber": "Từ số 313 đến số 314",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 31/2017/NĐ-CP Quy chế lập, thẩm tra, quyết định kế hoạch tài chính 05 năm địa phương, kế hoạch đầu tư công trung hạn 05 năm địa phương, kế hoạch tài chính - ngân sách nhà nước 03 năm địa phương, dự toán và phân bổ ngân sách địa phương, phê chuẩn quyết toán ngân sách địa phương hằng năm",
+      "id": "31/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-03-23",
+      "effectiveDate": "2017-05-10",
+      "gazetteDate": "2017-04-07",
+      "gazetteNumber": "Từ số 241 đến số 242",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 19-2017/NQ-CP về tiếp tục thực hiện nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia năm 2017, định hướng đến năm 2020 do Chính phủ ban hành",
+      "id": "19-2017/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-02-06",
+      "effectiveDate": "2017-02-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 08-NQ/TW năm 2017 về phát triển du lịch trở thành ngành kinh tế mũi nhọn do Ban Chấp hành Trung ương ban hành",
+      "id": "08-NQ/TW",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại"
+      ],
+      "organization": "Ban Chấp hành Trung ương",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2017-01-16",
+      "effectiveDate": "2017-01-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 77/2015/NĐ-CP về kế hoạch đầu tư công trung hạn và hằng năm",
+      "id": "77/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-10",
+      "effectiveDate": "2015-11-01",
+      "gazetteDate": "2015-09-23",
+      "gazetteNumber": "Từ số 999 đến số 1000",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật Đầu tư công 2014",
+      "id": "49/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-18",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 687 đến số 688",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 117/2013/NĐ-CP sửa đổi Nghị định 130/2005/NĐ-CP quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với cơ quan nhà nước",
+      "id": "117/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-10-07",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-10-21",
+      "gazetteNumber": "Từ số 669 đến số 670",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý nợ công 2009",
+      "id": "29/2009/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2009-06-17",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-08-07",
+      "gazetteNumber": "Từ số 371 đến số 372",
+      "status": "Hết hiệu lực: 01/07/2018"
+    },
+    {
+      "title": "Nghị định 130/2005/NĐ-CP quy định chế độ tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với các cơ quan nhà nước",
+      "id": "130/2005/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2005-10-17",
+      "effectiveDate": "2005-11-08",
+      "gazetteDate": "2005-10-24",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Chỉ thị 14/CT-UBND năm 2017 về xây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách nhà nước và Kế hoạch đầu tư công năm 2018 do thành phố Hà Nội ban hành",
+      "id": "14/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Nguyễn Đức Chung"
+      ],
+      "issuedDate": "2017-08-10",
+      "effectiveDate": "2017-08-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 21/2017/QĐ-UBND về hướng dẫn Thông tư 342/2016/TT-BTC hướng dẫn Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước do tỉnh Bắc Ninh ban hành",
+      "id": "21/2017/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bắc Ninh",
+      "signers": [
+        "Nguyễn Tử Quỳnh"
+      ],
+      "issuedDate": "2017-08-09",
+      "effectiveDate": "2017-08-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 05/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do tỉnh Lâm Đồng ban hành",
+      "id": "05/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lâm Đồng",
+      "signers": [
+        "Đoàn Văn Việt"
+      ],
+      "issuedDate": "2017-08-02",
+      "effectiveDate": "2017-08-02",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3410/QĐ-UBND năm 2017 phê duyệt Kế hoạch phát triển cơ sở hạ tầng (đường, điện, nước thải, nhà ở xã hội) trong khu kinh tế, khu công nghiệp theo hướng đồng bộ, hiện đại đáp ứng yêu cầu phát triển công nghiệp, công nghiệp công nghệ cao và bảo vệ môi trường giai đoạn 2017-2020 do Ủy ban nhân dân tỉnh Nghệ An ban hành",
+      "id": "3410/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xây dựng - Đô thị",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Lê Ngọc Hoa"
+      ],
+      "issuedDate": "2017-07-28",
+      "effectiveDate": "2017-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 21/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do tỉnh Thái Bình ban hành",
+      "id": "21/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Nguyễn Hồng Diên"
+      ],
+      "issuedDate": "2017-07-28",
+      "effectiveDate": "2017-07-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 06/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do tỉnh Bắc Kạn ban hành",
+      "id": "06/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bắc Kạn",
+      "signers": [
+        "Lý Thái Hải"
+      ],
+      "issuedDate": "2017-07-24",
+      "effectiveDate": "2017-07-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 14/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do tỉnh Thanh Hóa ban hành",
+      "id": "14/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thanh Hóa",
+      "signers": [
+        "Nguyễn Đình Xứng"
+      ],
+      "issuedDate": "2017-07-24",
+      "effectiveDate": "2017-07-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 08/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do tỉnh Tiền Giang ban hành",
+      "id": "08/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Tiền Giang",
+      "signers": [
+        "Lê Văn Nghĩa"
+      ],
+      "issuedDate": "2017-07-21",
+      "effectiveDate": "2017-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 14/CT-UBND năm 2017 về xây dựng kế hoạch phát triển kinh tế-xã hội và dự toán ngân sách nhà nước năm 2018 trên địa bàn tỉnh Phú Yên",
+      "id": "14/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Phú Yên",
+      "signers": [
+        "Hoàng Văn Trà"
+      ],
+      "issuedDate": "2017-07-18",
+      "effectiveDate": "2017-07-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 05/CT-UBND năm 2017 xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do tỉnh Kon Tum ban hành",
+      "id": "05/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Văn Hòa"
+      ],
+      "issuedDate": "2017-07-17",
+      "effectiveDate": "2017-07-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 21/CT-UBND năm 2017 về xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 do thành phố Hải Phòng ban hành",
+      "id": "21/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thành phố Hải Phòng",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2017-07-17",
+      "effectiveDate": "2017-07-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 13/2016/NQ-HĐND Kế hoạch phát triển kinh tế - xã hội 5 năm 2016-2020 do Hội đồng nhân dân tỉnh Hải Dương ban hành",
+      "id": "13/2016/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Hải Dương",
+      "signers": [
+        "Nguyễn Mạnh Hiển"
+      ],
+      "issuedDate": "2016-10-05",
+      "effectiveDate": "2016-10-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 11/2015/NQ-HĐND về kế hoạch phát triển kinh tế - xã hội năm 2016 do tỉnh Yên Bái ban hành",
+      "id": "11/2015/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Yên Bái",
+      "signers": [
+        "Dương Văn Thống"
+      ],
+      "issuedDate": "2015-12-15",
+      "effectiveDate": "2015-12-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị quyết 20/2007/NQ-HĐND về dự toán ngân sách tỉnh Vĩnh Phúc năm 2008",
+      "id": "20/2007/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Vĩnh Phúc",
+      "signers": [
+        "Trịnh Đình Dũng"
+      ],
+      "issuedDate": "2007-12-19",
+      "effectiveDate": "2007-12-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không còn phù hợp"
+    }
+  ],
+  "id": "05/CT-UBND",
+  "legislationType": "Chỉ thị",
+  "categories": [
+    "Thương mại",
+    "Tài chính nhà nước",
+    "Văn hóa - Xã hội"
+  ],
+  "organization": "Thành phố Hồ Chí Minh",
+  "signers": [
+    "Nguyễn Thành Phong"
+  ],
+  "issuedDate": "2017-07-27",
+  "effectiveDate": "2017-07-27",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA4ADEAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">ỦY\n  BAN NHÂN DÂN<br>\n  THÀNH PHỐ HỒ CHÍ MINH<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr style=\"height:2.65pt\">\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:2.65pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>05<span lang=\"VI\">/</span>CT<span lang=\"VI\">-UBND</span></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt;\n  height:2.65pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Thành\n  phố Hồ Chí Minh, ngày </span>27</i><i><span lang=\"VI\"> tháng 7 năm 2017</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CHỈ THỊ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\"><span lang=\"VI\">VỀ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH\nNHÀ NƯỚC NĂM 2018</span></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Để kế hoạch phát triển kinh tế - xã hội\nvà dự toán ngân sách nhà nước năm 2018 đảm bảo tính khả thi và sát thực, góp phần\nthực hiện thắng lợi các mục tiêu, nhiệm vụ, các chỉ tiêu của kế hoạch phát triển\nkinh tế - xã hội 5 năm 2016 - 2020, Chủ tịch Ủy ban nhân dân thành phố chỉ thị\ncác sở, ban, ngành, Ủy ban nhân dân các quận, huyện và doanh nghiệp nhà nước tập\ntrung xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước\nnăm 2018, với các nội dung chủ yếu sau: </span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_1\"><b><span lang=\"VI\">A. MỤC TIÊU,\nNHIỆM VỤ CHỦ YẾU CỦA KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH\nNHÀ NƯỚC NĂM 2018</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. Mục tiêu tổng\nquát:</span></b></a><b><span lang=\"VI\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nâng cao chất lượng tăng trưởng và\nnăng lực cạnh tranh của kinh tế thành phố gắn với tái cấu trúc kinh tế theo chiều\nsâu, chất lượng, hiệu quả; bảo đảm môi trường đầu tư kinh doanh thuận lợi, bình\nđẳng, khuyến khích khởi nghiệp, phát triển doanh nghiệp. Phát triển hệ thống kết\ncấu hạ tầng đồng bộ gắn với chỉnh trang đô thị, kiềm chế và giảm ùn tắc giao\nthông, tai nạn giao thông, giảm ngập nước, giảm ô nhiễm môi trường, chủ động ứng\nphó với biến đổi khí hậu. Bảo đảm an sinh xã hội và phúc lợi xã hội, chăm lo đời\nsống nhân dân. Cải cách mạnh mẽ thủ tục hành chính, đẩy nhanh quá trình xây dựng\nchính quyền điện tử, đô thị thông minh. Giữ vững ổn định chính trị, trật tự an\ntoàn xã hội, mở rộng và nâng cao hiệu quả hoạt động đối ngoại và hội nhập quốc\ntế. </span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. Nhiệm vụ phát\ntriển kinh tế - xã hội thành phố năm 2018</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. </span></b><span lang=\"VI\">Triển\nkhai hiệu quả các chính sách của Trung ương góp phần ổn định các cân đối vĩ mô\nvà kiểm soát lạm phát</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện các chính sách tiền tệ, tài\nkhóa của Trung ương. Tăng cường công tác phối hợp giữa các ngành, các cấp trong\nhoạt động kiểm tra, kiểm soát thị trường tín dụng, tập trung vốn vào lĩnh vực sản\nxuất kinh doanh, nhất là các lĩnh vực ưu tiên như doanh nghiệp ứng dụng công\nnghệ cao, doanh nghiệp nhỏ và vừa, công nghiệp hỗ trợ, phục vụ hoạt động xuất\nkhẩu, nông nghiệp. Kiểm soát tốc độ tăng chỉ số giá tiêu dùng hợp lý, bảo đảm\ncung cầu hàng hóa thiết yếu phục vụ đời sống dân sinh. Triển khai hiệu quả\nChương trình nâng cao chất lượng tăng trưởng, năng lực cạnh tranh của kinh tế\nthành phố; phấn đấu, tốc độ tăng trưởng tổng sản phẩm nội địa (GRDP) tăng 8 -\n8,5%; giải quyết hài hòa mối quan hệ giữa tăng trưởng và ổn định kinh tế vĩ mô,\nbảo đảm an sinh xã hội. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.</span></b><span lang=\"VI\"> Tiếp tục\nthực hiện các giải pháp cải thiện môi trường đầu tư kinh doanh nâng cao năng lực\ncạnh tranh quốc gia theo Nghị quyết số 19-2017/NQ-CP của Chính phủ, nhất là các\nchỉ số về chi phí không chính thức, cạnh tranh bình đẳng, thiết chế pháp lý,\ntính năng động; triển khai Chỉ thị số 26/CT-TTg năm 2017 về tiếp tục triển khai\nhiệu quả Nghị quyết số 35/NQ-CP theo tinh thần chính quyền thành phố đồng hành\ncùng doanh nghiệp. Cơ cấu lại, nâng cao hiệu quả sản xuất của doanh nghiệp nhà\nnước, thực hiện cổ phần hóa, thoái vốn nhà nước theo kế hoạch được cấp có thẩm\nquyền phê duyệt. Tổ chức kết nối giữa doanh nghiệp trong nước và doanh nghiệp\ncó vốn đầu tư nước ngoài, đặc biệt là các doanh nghiệp đứng đầu các chuỗi giá\ntrị, các doanh nghiệp công nghiệp hỗ trợ, doanh nghiệp nhỏ và vừa. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Triển khai các Chương trình hành động\ncủa Thành ủy, Kế hoạch của Thành phố về Nghị quyết số 10-NQ/TW của Ban chấp\nhành Trung ương Đảng khóa XII về phát triển kinh tế tư nhân trở thành một động\nlực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa; trong đó\nhỗ trợ khởi nghiệp các lĩnh vực thành phố đang khuyến khích phát triển góp phần\nxây dựng lợi thế cạnh tranh đặc trưng của thành phố. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3.</span></b><span lang=\"VI\"> Thúc đẩy\ntăng trưởng các ngành, lĩnh vực gắn với phát triển thị trường trong nước, đẩy mạnh\nxuất khẩu, kiểm soát nhập khẩu phù hợp, phấn đấu cân bằng thương mại bền vững </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phát triển 9 nhóm ngành dịch vụ chủ yếu\ncó tiềm năng và là thế mạnh của thành phố, phấn đấu trở thành trung tâm dịch vụ\ntầm cỡ khu vực Đông Nam Á. Khuyến khích đầu tư, phát triển mạnh các dịch vụ y tế,\ngiáo dục, văn hóa, nghệ thuật, thể thao,... Triển khai Nghị quyết 08-NQ/TW ngày\n16 tháng 01 năm 2017 của Bộ Chính trị về phát triển du lịch trở thành ngành\nkinh tế mũi nhọn; đề xuất các giải pháp khẩn trương hoàn thành Chiến lược và\nquy hoạch ngành du lịch thành phố; khuyến khích các thành phần kinh tế đầu tư\nphát triển du lịch để thu hút mạnh khách du lịch quốc tế đến Thành phố. Thúc đẩy\nphát triển mạnh mẽ thị trường chứng khoán, thị trường chứng khoán phái sinh để\ntạo kênh dẫn vốn quan trọng cho nền kinh tế. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đẩy mạnh chuyển dịch cơ cấu ngành\ncông nghiệp theo hướng tăng tỷ trọng các ngành chế biến, chế tạo và giảm tỷ trọng\ngia công, lắp ráp. Phát triển 4 ngành công nghiệp trọng yếu có hàm lượng khoa học\ncông nghệ cao, có lợi thế cạnh tranh, công nghiệp sạch, thân thiện môi trường,\nnăng suất lao động cao, giá trị gia tăng lớn, công nghiệp phục vụ nông nghiệp,\nnông thôn.Thực hiện hiệu quả Đề án phát triển công nghiệp hỗ trợ đến năm 2020 từng\nbước giảm nhập khẩu, nâng cao tỷ lệ nội địa hóa các sản phẩm gia công, lắp ráp;\nnâng cao hiệu quả hoạt động của Trung tâm phát triển công nghiệp hỗ trợ thành\nphố, Quỹ bảo lãnh tín dụng, Quỹ phát triển khoa học và công nghệ. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phát huy kết quả thực hiện Chương\ntrình nông thôn mới, nâng cao chất lượng các tiêu chí đã đạt được. Nghiên cứu, ứng\ndụng công nghệ sinh học để sản xuất giống cây, giống con chất lượng và năng suất\ncao, từng bước hình thành trung tâm giống cây, giống con của khu vực. Tiếp tục\ntổ chức nghiên cứu, bổ sung, hoàn thiện cơ chế, chính sách khuyến khích đầu tư\nvề vốn với sự tham gia của tất cả các thành phần kinh tế trong quá trình tái cơ\ncấu ngành nông nghiệp, nông thôn. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Mở rộng mạng lưới phân phối bán buôn\nvà bán lẻ, hỗ trợ doanh nghiệp tiêu thụ sản phẩm. Đổi mới cách thức tổ chức các\nchương trình xúc tiến thương mại theo hướng chú trọng vào khâu tổ chức và cung\ncấp thông tin thị trường Tập trung phát triển, khai thác thị trường truyền thống\nvà thị trường tiềm năng cho các sản phẩm có sức cạnh tranh cao, hoặc các nhóm sản\nphẩm có tỷ trọng kim ngạch xuất khẩu lớn, ưu tiên nhập khẩu máy móc, thiết bị,\nvật tư đầu vào được tạo ra từ công nghệ cao, hàng hóa trong nước chưa sản xuất\nđược; kiểm soát hiệu quả việc nhập khẩu hàng hóa không thiết yếu, hàng hóa\ntrong nước đã sản xuất được.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4.</span></b><span lang=\"VI\"> Hoàn\nthiện và nâng cấp kết cấu hạ tầng đồng bộ, phát triển đô thị bền vững, bảo vệ\nmôi trường và ứng phó với biến đổi khí hậu </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hoàn thiện quy hoạch không gian kiến\ntrúc đô thị, không gian ngầm, bảo đảm quy hoạch không gian quy hoạch đô thị và\nnông thôn hài hòa gắn kết với nhau, có tầm nhìn và và đổi mới cách làm quy hoạch.\nHuy động mọi nguồn lực xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại và\ncác công trình thực hiện chương trình đột phá, triển khai các chính sách khuyến\nkhích mạnh mẽ các thành phần kinh tế tham gia đầu tư, chú ý khai thác nguồn vốn\ntừ mặt bằng, nhà xưởng, quyền sử dụng đất để có thêm nguồn lực xây dựng kết cấu\nhạ tầng đô thị; kêu gọi và tập trung thực hiện các dự án đầu tư theo phương thức\nhợp tác công - tư (PPP) tạo bước đột phá trong huy động vốn đầu tư phát triển kết\ncấu hạ tầng đô thị. Đẩy nhanh tiến độ thực hiện, giải ngân các dự án, công\ntrình; hoàn thành các dự án trọng điểm ảnh hưởng đến đời sống dân sinh. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Chương trình chỉnh trang và\nphát triển đô thị giai đoạn 2016 - 2020; tập trung di dời và tổ chức lại cuộc sống\ncủa người dân đang sống trên và ven kênh, rạch; tạo cơ chế đột phá về quy hoạch,\nđất đai, tài chính hỗ trợ nhà đầu tư xây dựng mới, thay thế chung cư cũ hư hỏng,\nxuống cấp. Xây dựng, nâng cấp các khu dân cư hiện hữu gắn với chỉnh trang đô thị;\nxây dựng, phát triển các khu đô thị mới đồng bộ, văn minh, hiện đại. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Chương trình giảm ùn tắc\ngiao thông, giảm tai nạn giao thông giai đoạn 2016 - 2020; chủ động phối hợp\ncác bộ ngành Trung ương và các địa phương liên quan tập trung đầu tư xây dựng hệ\nthống giao thông cửa ngõ, có lộ trình và giải pháp khả thi kiểm soát phương tiện\ngiao thông cá nhân gắn với phát triển giao thông công cộng sức chở lớn; phát\ntriển các loại hình xe buýt nhanh, ô tô điện; huy động mọi nguồn lực phát triển\nnhanh đường sắt đô thị. Rà soát, tổ chức lại giao thông khoa học, hợp lý tại\ncác khu vực có nguy cơ xảy ra ùn tắc giao thông (khu vực sân bay Tân Sơn Nhất,\ncảng Cát Lái,...). </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Chương trình giảm ô nhiễm\nmôi trường giai đoạn 2016 - 2020; triển khai hiệu quả Nghị quyết Trung ương 7\n(khóa XI) về chủ động ứng phó với biến đổi khí hậu, tăng cường quản lý tài\nnguyên và bảo vệ môi trường; Nghị quyết của Chính phủ về một số vấn đề cấp bách\ntrong lĩnh vực bảo vệ môi trường; Chiến lược bảo vệ môi trường, Chiến lược phát\ntriển bền vững, Chiến lược tăng trưởng xanh... Xã hội hóa hoạt động bảo vệ môi\ntrường, thúc đẩy phát triển, sử dụng năng lượng mới, năng lượng sạch, năng lượng\ntái tạo. Nhân rộng mô hình phân loại rác tại nguồn, phối hợp các địa phương kiểm\nsoát chặt chẽ các nguồn xả trực tiếp ra sông Sài Gòn. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Chương trình giảm ngập nước\ngiai đoạn 2016 - 2020; tập trung xóa, kéo giảm các điểm ngập nước hiện hữu; kiểm\nsoát, ngăn chặn không để phát sinh điểm ngập mới trên địa bàn. Nghiên cứu và đề\nra các giải pháp nâng cao khả năng phòng tránh nhằm giảm thiểu tác động xấu của\nbiến đổi khí hậu, mực nước biển dâng; ứng cứu kịp thời và khắc phục hậu quả xấu\ndo thiên tai gây ra.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5.</span></b><span lang=\"VI\"> Phát\ntriển khoa học - công nghệ, giáo dục - đào tạo, y tế, văn hóa, bảo đảm an sinh\nxã hội </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bổ sung chính sách hỗ trợ để doanh\nnghiệp trở thành chủ thể chính của thị trường khoa học - công nghệ, tích cực đầu\ntư cho hoạt động nghiên cứu, phát triển phần mềm, nâng cao năng lực quản trị sản\nxuất - kinh doanh, nâng tỷ trọng các yếu tố năng suất tổng hợp (TFP) đóng góp\nvào tăng trưởng kinh tế. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Nâng cao chất lượng giáo dục và đào tạo\ncủa các bậc học; nâng cao đồng đều chất lượng giáo dục nội thành và ngoại\nthành, giáo dục hướng nghiệp và dạy nghề phổ thông. Đổi mới cơ chế quản lý giáo\ndục, phát triển đội ngũ giáo viên và cán bộ quản lý, đảm bảo cung cấp đầy đủ\ngiáo viên các cấp học, ngành học (nhất là giáo viên mầm non và tiểu học); nâng\ncao chất lượng đội ngũ giáo viên và cơ sở vật chất của nhà trường; củng cố và mở\nrộng mạng lưới trường lớp, đáp ứng nhu cầu học tập của nhân dân; thực hiện xã hội\nhóa giáo dục, huy động các nguồn lực phát triển giáo dục. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Chương trình nâng cao chất\nlượng nguồn nhân lực giai đoạn 2016 - 2020. Từng bước nâng cao tỷ lệ lao động\nđã qua đào tạo, đáp ứng nguồn nhân lực chất lượng cao cho các ngành, lĩnh vực trọng\nyếu của Thành phố. Đẩy mạnh phát triển thị trường lao động, đa dạng hóa các\nkênh giới thiệu và giải quyết việc làm, chú trọng tạo việc làm ổn định, cải thiện\nmôi trường và điều kiện lao động, tăng thu nhập và nâng cao mức sống cho người\nlao động, bảo đảm an sinh xã hội và phúc lợi xã hội; tăng cường kiểm tra, giám\nsát thực hiện chính sách lao động, an toàn lao động và đóng bảo hiểm xã hội, điều\ntiết quan hệ cung cầu lao động.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chú trọng năng lực khám chữa bệnh tuyến\ncơ sở, phát triển mô hình khoa vệ sinh, phòng khám vệ tinh, mô hình bác sỹ gia\nđình, qua đó giảm quá tải tại các bệnh viện tuyến thành phố. Tiếp tục đầu tư\nphát triển hệ thống y tế chuyên sâu; đầu tư trang thiết bị, cơ sở vật chất các\nbệnh viện chuyên khoa, đa khoa. Tăng tính tự chủ cho các cơ sở y tế về đầu tư\ntrang thiết bị, đấu thầu thuốc. Khuyến khích xã hội hóa, kêu gọi đầu tư các bệnh\nviện, các cơ sở y tế bằng nhiều nguồn vào các cụm y tế cửa ngõ theo quy hoạch\nđược duyệt. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xã hội hóa, huy động nguồn lực của xã\nhội đầu tư vào các lĩnh vực văn hóa - xã hội. Tăng cường quản lý các lễ hội, hoạt\nđộng văn hóa, thông tin, thể thao; hạn chế tối đa việc sử dụng ngân sách nhà nước\nđể tổ chức lễ hội. Tích cực đấu tranh ngăn chặn các tệ nạn xã hội, nhất là ma\ntúy, mại dâm. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đa dạng hóa các nguồn lực và phương\nán thực hiện chương trình giảm nghèo bền vững theo hướng phát huy nội lực, kết\nhợp sự trợ giúp của cộng đồng quốc tế, nhằm tăng khả năng tiếp cận của người\nnghèo đối với các dịch vụ xã hội cơ bản (giáo dục - đào tạo, y tế, việc làm, bảo\nhiểm xã hội, nhà ở, điều kiện sống, thông tin). Từng bước thu hẹp khoảng cách\ngiàu nghèo. Thực hiện chương trình bình ổn thị trường góp phần bảo đảm an sinh\nxã hội trên địa bàn. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">6.</span></b><span lang=\"VI\"> Thực\nhiện đồng bộ, hiệu quả Chương trình cải cách hành chính giai đoạn 2016 - 2020,\ntổ chức thực hiện cung cấp dịch vụ công trực tuyến mức độ 3, 4. Kiện toàn và\nnâng cao chất lượng hoạt động các cơ quan chuyên trách về phòng, chống tham\nnhũng. Thanh tra, kiểm tra, kiểm toán, điều tra để phòng ngừa, phát hiện, xử lý\ncác hành vi tham nhũng. Giải quyết khiếu nại, tố cáo, bảo đảm ổn định chính trị,\nxã hội. Xử lý kịp thời, nghiêm minh các trường hợp vi phạm để củng cố lòng tin\ncủa nhân dân đối với Đảng và Nhà nước. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">7.</span></b><span lang=\"VI\"> Tập trung\nthực hiện nhiệm vụ tăng cường quốc phòng, bảo đảm giữ vững ổn định chính trị và\ntrật tự an toàn xã hội. Có các phương án tác chiến cụ thể ứng phó kịp thời các\ntình huống xảy ra, không để bị động, bất ngờ. Kết hợp chặt chẽ giữa chính quyền\nđịa phương với lực lượng công an trong công tác đấu tranh phòng, chống tội phạm,\nngăn chặn kịp thời mọi hoạt động chống phá, bảo đảm ổn định an ninh chính trị,\nchú trọng địa bàn chiến lược, trọng điểm; bảo vệ an toàn các mục tiêu, công\ntrình trọng điểm, các sự kiện quan trọng của thành phố và đất nước. Phòng chống\ncháy nổ và bảo đảm trật tự an toàn giao thông. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">8.</span></b><span lang=\"VI\"> Chủ động\nvà mở rộng ngoại giao đa phương, tăng cường kết nối giao lưu quốc tế trên các\nlĩnh vực để quảng bá hình ảnh thành phố, thúc đẩy tăng trưởng xuất khẩu, thu\nhút các nguồn vốn đầu tư nước ngoài, các dự án sử dụng công nghệ cao, hiện đại\nphục vụ phát triển bền vững. Tham gia chủ động tích cực vào các diễn đàn đa\nphương; chuẩn bị tốt các điều kiện tổ chức và tham gia thành công các sự kiện,\nhoạt động đối ngoại của thành phố và đất nước. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">9.</span></b><span lang=\"VI\"> Thực\nhiện tốt công tác bảo đảm an ninh, an toàn thông tin mạng. Xử lý nghiêm các vi\nphạm, các trường hợp đưa tin không đúng sự thật. Thông tin, tuyên truyền, tiếp\nxúc đối thoại các cơ chế, chính sách gắn liền với cuộc sống của nhân dân và hoạt\nđộng của doanh nghiệp, tạo sự đồng thuận xã hội trong thực hiện các nhiệm vụ,\ngiải pháp phát triển kinh tế - xã hội, tạo động lực phấn khởi trong sản xuất,\nkinh doanh, đồng hành cùng chính quyền thành phố quyết tâm thực hiện mục tiêu\ntăng trưởng của năm 2018.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b><span lang=\"VI\">III. Nhiệm vụ xây\ndựng dự toán ngân sách Thành phố năm 2018 và kế hoạch tài chính - ngân sách nhà\nnước 3 năm 2018 - 2020:</span></b></a><b><span lang=\"VI\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Năm 2018 là năm bản lề, có ý nghĩa\nquan trọng trong việc đẩy mạnh thực hiện và hoàn thành các mục tiêu kế hoạch\nphát triển kinh tế - văn hóa - xã hội thành phố giai đoạn 2016 - 2020; là năm\nthứ hai của thời kỳ ổn định ngân sách giai đoạn 2017 - 2020 và năm đầu tiên xây\ndựng kế hoạch tài chính - ngân sách nhà nước 3 năm theo quy định của Luật Ngân\nsách Nhà nước năm 2015. Việc xây dựng dự toán ngân sách năm 2018, kế hoạch tài\nchính - ngân sách nhà nước 03 năm phải dựa trên cơ sở đánh giá tình hình, kết\nquả thực hiện Kế hoạch năm 2017 và bám sát các mục tiêu của Kế hoạch phát triển\nkinh tế - xã hội 5 năm 2016 - 2020; đảm bảo đúng chế độ, chính sách của Nhà nước\nvà trên tinh thần tiết kiệm, chống lãng phí; cân đối nguồn lực để đáp ứng nhu cầu\nđầu tư phát triển trên địa bàn và đảm bảo công khai, minh bạch, công bằng, hiệu\nquả, đúng quy định pháp luật hiện hành. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Đối với dự toán thu ngân sách\nnhà nước năm 2018 </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a)</span></b><span lang=\"VI\"> Dự\ntoán thu ngân sách nhà nước năm 2018 phải được xây dựng tích cực, sát thực tế\nphát sinh<a name=\"_ftnref1\"></a><a href=\"#_ftn1\" title=\"\">1</a> để tính đúng,\ntính đủ nguồn thu bao g</span>ồ<span lang=\"VI\">m toàn bộ các khoản thu từ thuế,\nphí, lệ phí và các khoản thu khác trên địa bàn trên cơ sở quy định pháp luật về\nthu ngân sách và khả năng thực hiện thu ngân sách năm 2017; bám sát Nghị quyết\nsố 51/NQ-CP ngày 19 tháng 6 năm 2017 của Chính phủ<a name=\"_ftnref2\"></a><a href=\"#_ftn2\" title=\"\">2</a> theo hướng tăng tỷ trọng thu nội địa, bảo đảm tỷ\ntrọng hợp lý giữa thuế gián thu và thuế trực thu, khai thác tốt nguồn thu từ\ntài sản, tài nguyên, bảo vệ môi trường; tăng tỷ trọng thu từ thuế và phí trong\ntổng thu ngân sách nhà nước; tăng cường khai thác nguồn lực tài chính từ tài sản\ncông; nâng cao hiệu lực, hiệu quả công tác quản lý thu, thanh tra, kiểm tra, chống\nthất thu thuế. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán nguồn thu từ nhà, đất trên\nđịa bàn năm 2018 sát thực tế, trên cơ sở kế hoạch sử dụng đất; kế hoạch đấu giá\nquyền sử dụng đất, giao đất theo quy định tại Luật Đất đai năm 2013; Nguồn thu\ntừ tiền sử dụng đất được lập bố trí chi đầu tư phát triển theo quy định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng dự toán nguồn thu xổ số kiến\nthiết năm 2018 trong dự toán thu cân đối ngân sách địa phương; nguồn thu này được\nsử dụng toàn bộ cho chi đầu tư phát triển, trong đó ưu tiên bố trí cho chi đầu\ntư lĩnh vực giáo dục - đào tạo, y tế, chương trình mục tiêu nông thôn mới, công\ntrình ứng phó biến đổi khí hậu và công trình phúc lợi xã hội khác theo quy định.\n</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b) </span></b><span lang=\"VI\">Căn cứ\nđiều kiện, đặc điểm và tốc độ tăng trưởng kinh tế trên địa bàn để xây dựng dự\ntoán thu 2018 phù hợp với tình hình thực tế; dự toán thu nội địa (không kể thu\ndầu thô, thu tiền sử dụng đất, thu cổ tức và lợi nhuận còn lại của các doanh\nnghiệp nhà nước, thu xổ số kiến thiết) <b>tăng</b> <b>bình quân tối thiểu 12% </b>so\nvới đánh giá ước thực hiện năm 2017; Dự toán thu từ hoạt động xuất nhập khẩu <b>tăng\nbình quân tối thiểu 5%</b> so với đánh giá ước thực hiện năm 2017.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Đối với dự toán chi ngân sách địa\nphương năm 2018 </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a)</span></b><span lang=\"VI\"> Căn cứ\nvào nguồn thu ngân sách địa phương được hưởng theo phân cấp, trên cơ sở mục\ntiêu của kế hoạch phát triển kinh tế xã hội 5 năm giai đoạn 2016­ 2020 và mục\ntiêu, nhiệm vụ phát triển kinh tế xã hội năm 2018; thực tế thực hiện thu, chi\nnăm 2016, ước thực hiện năm 2017, xây dựng dự toán chi ngân sách thành phố chi\ntiết từng lĩnh vực theo quy định của Luật Ngân sách nhà nước năm 2015, bảo đảm\nưu tiên bố trí các dự án, nhiệm vụ đã cam kết thực hiện, các chế độ, chính sách\nđã ban hành. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b)</span></b><span lang=\"VI\"> Dự\ntoán chi ngân sách địa phương năm 2018 được xây dựng trên cơ sở triệt để tiết\nkiệm, chống lãng phí ngay từ khâu xác định nhiệm vụ, chủ động sắp xếp thứ tự\ncác nhiệm vụ chi ưu tiên theo mức độ quan trọng, cấp thiết và khả năng triển\nkhai trong năm 2018. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c)</span></b><span lang=\"VI\"> Tiếp tục\nđánh giá, rà soát các chế độ, chính sách, định mức hiện hành của từng ngành, từng\nlĩnh vực để có cơ sở tham mưu đề xuất sửa đổi, bổ sung các chế độ, định mức cho\nphù hợp. Chỉ trình cấp có thẩm quyền ban hành chính sách mới khi cân đối được\nnguồn; chủ động dự kiến đầy đủ nhu cầu kinh phí thực hiện các chính sách, chế độ,\nnhiệm vụ mới đã được cấp có thẩm quyền quyết định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">d)</span></b><span lang=\"VI\"> Các sở\nngành, quận - huyện báo cáo tình hình thu chi tài chính năm 2017 và dự kiến kế\nhoạch thu - chi tài chính năm 2018 của các quỹ tài chính nhà nước ngoài ngân\nsách thuộc phạm vi quản lý khi xây dựng dự toán ngân sách nhà nước năm 2018. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">đ)</span></b><span lang=\"VI\"> Về định\nhướng chi đầu tư phát triển </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi đầu tư phát triển nguồn ngân\nsách Thành phố năm 2018 phải phục vụ mục tiêu, nhiệm vụ kế hoạch phát triển\nkinh tế - xã hội năm 2018 và giai đoạn 5 năm 2016 - 2020 của Thành phố; đảm bảo\nthực hiện theo lộ trình 7 chương trình đột phá đã được Nghị quyết Đại hội Đảng\nbộ Thành phố lần thứ X thông qua; phù hợp với Kế hoạch đầu tư công trung hạn 5\nnăm 2016 - 2020 và khả năng cân đối của ngân sách Thành phố. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trong điều kiện nguồn vốn ngân sách\nthành phố còn hạn hẹp, cân đối thu chi còn nhiều khó khăn, việc bố trí kế hoạch\nđầu tư xây dựng năm 2018 phải tuân thủ nghiêm các quy định hiện hành của nhà nước\nvề quản lý đầu tư công<a name=\"_ftnref3\"></a><a href=\"#_ftn3\" title=\"\">3</a>, đảm\nbảo các dự án đầu tư được giao kế hoạch đều phù hợp với quy hoạch và có đầy đủ\nthủ tục theo quy định; đối với các dự án dự kiến bố trí vốn đầu tư công giai đoạn\n2016 - 2020 thấp hơn so với quyết định đầu tư phê duyệt, các Sở ngành, quận huyện\ncần rà soát, phê duyệt quyết định đầu tư điều chỉnh tổng mức đầu tư, xác định\nđiểm dừng kỹ thuật hợp lý hoặc bổ sung nguồn vốn hợp pháp khác để hoàn thành dự\nán. Ưu tiên bố trí vốn đầu tư lĩnh vực giáo dục - đào tạo, y tế, chương trình mục\ntiêu nông thôn mới, công trình ứng phó biến đổi khí hậu và công trình phúc lợi\nxã hội khác theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với nguồn vốn đầu tư từ thu sắp\nxếp lại, xử lý nhà, đất thuộc sở hữu nhà nước: Từ ngày 01 tháng 01 năm 2017,\ntoàn bộ số thu sắp xếp lại, xử lý nhà, đất thuộc sở hữu nhà nước (sau khi trừ\nchi phí) phát sinh đều phải được nộp vào ngân sách nhà nước theo quy định của\nLuật Ngân sách nhà nước năm 2015. Các cơ quan, đơn vị lập dự toán thu, chi ngân\nsách nhà nước năm 2018 từ nguồn thu này gửi Sở Kế hoạch và Đầu tư, Sở Tài chính\nđể tổng hợp dự toán ngân sách nhà nước trình cấp có thẩm quyền quyết định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng kế hoạch huy động và trả nợ\n(cả gốc và lãi) cho đầu tư phát triển theo đúng quy định của Luật Ngân sách nhà\nnước, Luật Quản lý nợ công và các Nghị định có liên quan; thực hiện đánh giá đầy\nđủ tác động của nợ ngân sách địa phương, nhu cầu huy động vốn cho chi đầu tư\nphát triển trong trung hạn; bảo đảm số dư nợ huy động (bao gồm cả số dự kiến\ntrong năm) không vượt quá hạn mức theo quy định. Tăng cường các giải pháp huy động\nvốn từ các thành phần kinh tế trong và ngoài nước để đầu tư xây dựng cơ sở hạ tầng\nthành phố, các dự án có thể thu hồi vốn trực tiếp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Việc bố trí vốn kế hoạch chi đầu tư\nphát triển nguồn ngân sách Thành phố phải thực hiện đúng quy định của Luật Đầu\ntư công, trong đó chỉ bố trí vốn cho các chương trình, dự án đã đưa vào kế hoạch\nđầu tư công trung hạn 5 năm 2016 - 2020 theo thứ tự như sau: Ưu tiên bố trí vốn\nđể thanh toán cho các dự án đã hoàn thành và bàn giao đưa vào sử dụng nhưng\nchưa được bố trí đủ kế hoạch vốn; dự án dự kiến hoàn thành năm 2017; Vốn đối ứng,\nvốn trả nợ vay cho dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ\nnước ngoài; vốn đầu tư của Nhà nước tham gia thực hiện dự án theo hình thức đối\ntác công tư (PPP); Bố trí vốn thực hiện công tác bồi thường giải phóng mặt bằng\nđối với các dự án đã hoàn chỉnh hồ sơ pháp lý theo quy định của Luật đất đai\nnăm 2013; Dự án chuyển tiếp thực hiện theo tiến độ được phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">e)</span></b><span lang=\"VI\"> Về định\nhướng dự toán chi thường xuyên </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán chi thường xuyên được xây dựng\ntrên cơ sở mục tiêu của Kế hoạch phát triển kinh tế - xã hội 5 năm và mục tiêu,\nnhiệm vụ phát triển kinh tế - xã hội năm 2018 của Thành phố; các chế độ, chính\nsách và định mức chi thường xuyên đã được ban hành, xây dựng chi tiết từng lĩnh\nvực chi theo quy định của Luật ngân sách nhà nước năm 2015. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán chi thường xuyên phải bảo đảm\ntriệt để tiết kiệm, gắn với việc tinh giản biên chế, sắp xếp lại bộ máy hành\nchính giai đoạn 2016-2020 theo Nghị quyết số 39-NQ/TW của Bộ Chính trị, giảm tần\nsuất và thắt chặt các khoản chi lễ hội khánh tiết ... theo hướng tiết kiệm, hiệu\nquả; hạn chế bố trí kinh phí đi nghiên cứu, khảo sát nước ngoài, mua sắm ô tô\nvà trang thiết bị đắt tiền; xây dựng và triển khai thực hiện đề án về các dịch\nvụ phục vụ hoạt động chính quyền thành phố (xe, bảo vệ, tạp vụ). </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ưu tiên bố trí vốn chi phát triển sự\nnghiệp giáo dục - đào tạo, y tế, khoa học - công nghệ, văn hóa - thể thao, môi\ntrường, đảm bảo an sinh xã hội; đặc biệt bảo đảm 20% tổng chi ngân sách cho\ngiáo dục, đào tạo; 2% tổng chi ngân sách cho khoa học và công nghệ. Tăng cường\ncông tác chi quốc phòng, an ninh, bảo đảm giữ vững an ninh, trật tự xã hội\ntrong tình hình mới; ưu tiên bố trí cho một số lĩnh vực quan trọng theo các Nghị\nquyết của Đảng bộ và Hội đồng nhân dân Thành phố; chi quản lý hành chính nhà nước,\nđảng, đoàn thể bảo đảm chặt chẽ, tiết kiệm, hiệu quả. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục thực hiện Nghị định số\n130/2005/NĐ-CP ngày 17 tháng 10 năm 2005 của Chính phủ về cơ chế tự chủ, tự chịu\ntrách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với cơ quan\nhành chính nhà nước, Nghị định số 117/2013/NĐ-CP ngày 07 tháng 10 năm 2013 sửa\nđổi, bổ sung một số điều của Nghị định số 130/2005/NĐ-CP. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tiếp tục xây dựng, hoàn thiện cơ chế\nhoạt động tự chủ của đơn vị sự nghiệp công lập trong từng lĩnh vực gắn với thúc\nđẩy lộ trình tính giá dịch vụ sự nghiệp công theo quy định. Đẩy mạnh tự chủ tài\nchính tại các đơn vị sự nghiệp công lập thuộc phạm vi quản lý của một số ngành\nquan trọng như y tế, giáo dục theo lộ trình tính đúng tính đủ các yếu tố chi\nphí. Thực hiện chuyển đổi các đơn vị sự nghiệp công lập đang tự đảm bảo một phần\nchi phí hoạt động thường xuyên sang đơn vị tự đảm bảo toàn bộ chi phí hoạt động\nthường xuyên theo Quyết định số 926/QĐ-UBND ngày 07 tháng 03 năm 2017 của Ủy\nban nhân dân thành phố về định hướng phát triển hoạt động của các đơn vị sự\nnghiệp công lập trên địa bàn thành phố đến năm 2021. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện cơ chế tạo nguồn cải cách\ntiền lương theo quy định của Chính phủ và hướng dẫn của Bộ Tài chính; các cơ\nquan hành chính, đơn vị sự nghiệp có nguồn thu được giao tự chủ phấn đấu tăng\nthu cùng lộ trình tính đúng, tính đủ chi phí vào giá dịch vụ và sử dụng nguồn\nthu này ưu tiên để thực hiện cải cách tiền lương. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí dự phòng ngân sách địa\nphương theo quy định của Luật Ngân sách nhà nước năm 2015 để chủ động ứng phó với\nthiên tai, lũ lụt, dịch bệnh và giải quyết những nhiệm vụ quan trọng, cấp bách\nphát sinh ngoài dự toán. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động xây dựng dự toán chi thực\nhiện các dự án, nhiệm vụ quan trọng, xây dựng dự toán số bổ sung có mục tiêu từ\nngân sách trung ương năm 2018 để đề nghị ngân sách Trung ương tổng hợp trong dự\ntoán ngân sách nhà nước năm 2018 và bổ sung có mục tiêu cho ngân sách thành phố\ntheo quy định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3.</span></b><span lang=\"VI\"> Xây dựng\nkế hoạch tài chính - ngân sách nhà nước 3 năm 2018 -2020 </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tập trung nghiên cứu các quy định\nliên quan việc lập kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020\ntheo quy định của Luật ngân sách nhà nước năm 2015, Nghị định số 31/2017/NĐ-CP\nngày 23 tháng 3 năm 2017, Nghị định số 45/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của\nChính phủ, Thông tư số 69/2017/TT-BTC ngày 07 tháng 7 năm 2017, Thông tư số\n71/2017/TT-BTC ngày 13 tháng 7 năm 2017 của Bộ Tài chính để thực hiện công tác\nxây dựng kế hoạch tài chính - ngân sách nhà nước 03 năm của thành phố; trong\nđó, sử dụng dự toán ngân sách nhà nước năm 2018 trình cấp có thẩm quyền để xác\nđịnh <b>trần chi ngân sách, chi tiêu cơ sở, chi tiêu mới cho năm 2018 và 02 năm\ntiếp theo. </b></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kế hoạch chi ngân sách nhà nước 3 năm\n2018 - 2020 của các sở, ban ngành, đơn vị, Ủy ban nhân dân các quận huyện được\nlập trên cơ sở dự kiến trần chi ngân sách năm 2018, năm 2019 và năm 2020 do cơ\nquan có thẩm quyền thông báo cho từng cơ quan, đơn vị. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4.</span></b><span lang=\"VI\"> Cùng với\nviệc xây dựng dự toán ngân sách năm 2018, các sở - ban - ngành và Ủy ban nhân\ndân các quận - huyện tập trung chỉ đạo tổ chức thực hiện công tác quyết toán;\nkiểm tra, xét duyệt và thẩm định quyết toán ngân sách nhà nước năm 2016 theo\nđúng quy định; tiến hành thanh tra, kiểm tra, giám sát việc quản lý và sử dụng\nvốn đầu tư phát triển; xử lý, giải quyết ngay từ khâu xây dựng dự toán những tồn\ntại, sai phạm trong bố trí dự toán chi ngân sách chưa phù hợp với tình hình thực\ntế triển khai thực hiện chính sách và Nghị quyết của Đảng, Quốc hội, Chính phủ,\nHội đồng nhân dân và Ủy ban nhân dân thành phố mà đã được cơ quan thanh tra, kiểm\ntoán phát hiện, kiến nghị theo đúng quy định của pháp luật. </span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_4\"><b><span lang=\"VI\">IV. Kế hoạch đầu\ntư công 2018</span></b></a><b><span lang=\"VI\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng kế hoạch đầu tư công năm\n2017 theo đúng quy định của Luật Đầu tư công, Nghị định số 77/2015/NĐ-CP ngày\n10 tháng 9 năm 2015 của Chính phủ về kế hoạch đầu tư công trung hạn và hàng năm\nvà các văn bản pháp luật có liên quan. Trong đó, ưu tiên bố trí vốn cho các\nchương trình, dự án theo thứ tự như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Ưu tiên bố trí vốn để thanh toán\ncho các dự án đã có khối lượng thực hiện nhưng chưa được bố trí kế hoạch vốn để\nthanh toán; bố trí vốn để hoàn ứng trước; dự án dự kiến hoàn thành năm 2018 <i>(theo\ntiến độ trong quyết định đầu tư, khả năng cân đối vốn và khả năng thực hiện\ntrong năm); </i>tập trung bố trí vốn để thực hiện các công trình, dự án thuộc\ncác Chương trình đột phá đã được Nghị quyết Đại hội Đảng bộ thành phố lần thứ X\nthông qua. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Vốn đối ứng cho dự án sử dụng vốn\nODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài; vốn đầu tư của Nhà nước\ntham gia thực hiện dự án theo hình thức đối tác công tư (PPP). </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Vốn thực hiện các Chương trình đầu\ntư công đã được Hội đồng nhân dân Thành phố thông qua.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Vốn phân cấp cho Ủy ban nhân dân quận\n- huyện quản lý. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự án chuyển tiếp thực hiện theo tiến\nđộ được phê duyệt.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Sau khi bố trí đủ vốn cho các dự án\nnêu trên, nếu còn vốn mới xem xét bố trí cho các dự án khởi công mới đã có đầy\nđủ thủ tục đầu tư theo quy định của Luật Đầu tư công và các văn bản pháp luật\ncó liên quan. Bố trí đủ vốn để đảm bảo hoàn thành dự án theo đúng thời gian quy\nđịnh. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí vốn chuẩn bị đầu tư cho các\ndự án để chủ đầu tư lập thủ tục đầu tư theo quy định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"chuong_2\"><b><span lang=\"VI\">B. PHÂN CÔNG VÀ\nTIẾN ĐỘ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ\nNƯỚC NĂM 2018</span></b></a><b><span lang=\"VI\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1_1\"><b><span lang=\"VI\">I. Phân công thực\nhiện</span></b></a><b><span lang=\"VI\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1.</span></b><span lang=\"VI\"> Sở Kế\nhoạch và Đầu tư:</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a)</span></b><span lang=\"VI\"> Chủ\ntrì, phối hợp với Sở Tài chính tính toán, xác định các phương án, các cân đối lớn\nđể làm cơ sở hướng dẫn cho các sở - ban - ngành, quận - huyện xây dựng Kế hoạch\nphát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b)</span></b><span lang=\"VI\"> Chủ\ntrì, phối hợp với các sở - ban - ngành, quận - huyện và các đơn vị liên quan tổng\nhợp kế hoạch vốn đầu tư phát triển nguồn vốn ngân sách thành phố năm 2018. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c)</span></b><span lang=\"VI\"> Lập dự\ntoán kinh phí để xây dựng Kế hoạch phát triển kinh tế - xã hội năm 2018 và công\nviệc liên quan để thực hiện Kế hoạch này. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.</span></b><span lang=\"VI\"> Sở Tài\nchính: </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a)</span></b><span lang=\"VI\"> Hướng\ndẫn các sở - ban ngành, quận - huyện đánh giá tình hình thực hiện dự toán thu,\nchi ngân sách nhà nước năm 2017; lập dự toán ngân sách nhà nước năm 2018 và kế\nhoạch tài chính - ngân sách nhà nước 3 năm 2018-2020 phù hợp với quy định của\nLuật Đầu tư công, Luật Ngân sách nhà nước năm 2015 và các văn bản hướng dẫn thi\nhành Luật; xây dựng và thông báo trần chi ngân sách cho các cơ quan, đơn vị\ntheo quy định tại Thông tư số 69/2017/TT-BTC ngày 07 tháng 7 năm 2017 của Bộ\nTài chính. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b) </span></b><span lang=\"VI\">Xây dựng\nphương án phân bổ chi thường xuyên của ngân sách năm 2018 báo cáo Ủy ban nhân\ndân thành phố để trình Hội đồng nhân dân thành phố quyết định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">c)</span></b><span lang=\"VI\"> Phối hợp\nvới Cục Thuế, Cục Hải quan và Sở Kế hoạch và Đầu tư xây dựng, tổng hợp dự toán\nthu - chi ngân sách nhà nước năm 2018 và kế hoạch tài chính - ngân sách nhà nước\n3 năm 2018 - 2020 báo cáo Ủy ban nhân dân thành phố để trình Hội đồng nhân dân\nthành phố quyết định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">d)</span></b><span lang=\"VI\"> Phối hợp\nSở Kế hoạch và Đầu tư và các cơ quan liên quan tổng hợp, đề nghị Trung ương\nphân bổ dự toán số bổ sung có mục tiêu từ ngân sách Trung ương thực hiện các\nchương trình có mục tiêu năm 2018 của thành phố. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3.</span></b><span lang=\"VI\"> Các cơ\nquan, đơn vị, tổ chức có sử dụng kinh phí ngân sách nhà nước: </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">a)</span></b><span lang=\"VI\"> Chủ\ntrì, phối hợp với Sở Kế hoạch và Đầu tư, Sở Tài chính xây dựng Kế hoạch phát\ntriển kinh tế - xã hội năm 2018, dự toán ngân sách nhà nước năm 2018, Kế hoạch\nđầu tư nguồn ngân sách thành phố năm 2018, Kế hoạch tài chính ngân sách nhà nước\n3 năm 2018 - 2020 của ngành, lĩnh vực phụ trách. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">b)</span></b><span lang=\"VI\"> Các cơ\nquan nhà nước theo chức năng của mình, trên cơ sở tính toán các nguồn lực có thể\nkhai thác được, xây dựng mục tiêu, chỉ tiêu, kế hoạch phát triển kinh tế - xã hội\ncủa ngành, lĩnh vực mình phụ trách. Đề xuất các giải pháp, các cơ chế, chính\nsách, chế độ mới hoặc kiến nghị sửa đổi, bổ sung các chế độ, chính sách hiện\nhành gửi Sở Kế hoạch và Đầu tư, Sở Tài chính, các cơ quan liên quan làm căn cứ\nxây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách nhà nước năm\n2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, Kế hoạch tài chính\nngân sách nhà nước 3 năm 2018 - 2020. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4.</span></b><span lang=\"VI\"> Ủy ban\nnhân dân các quận - huyện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phối hợp chặt chẽ với Sở Kế hoạch và\nĐầu tư, Sở Tài chính xây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán\nngân sách nhà nước năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm\n2018, Kế hoạch tài chính ngân sách nhà nước 03 năm 2018 - 2020 của địa phương,\nchịu trách nhiệm trước Ủy ban nhân dân Thành phố trong việc xây dựng kế hoạch\nvà dự toán ngân sách của mình. </span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2_1\"><b><span lang=\"VI\">II. Tiến độ thực\nhiện</span></b></a><b><span lang=\"VI\"> </span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. </span></b><span lang=\"VI\">Giao Sở\nKế hoạch và Đầu tư tổ chức hướng dẫn khung xây dựng Kế hoạch phát triển kinh tế\n- xã hội năm 2018, Kế hoạch đầu tư nguồn ngân sách Thành phố năm 2018; Sở Tài\nchính hướng dẫn xây dựng dự toán ngân sách năm 2018, kế hoạch tài chính ngân\nsách nhà nước 3 năm 2018 - 2020 cho các sở - ban - ngành, Ủy ban nhân dân các\nquận - huyện cuối tháng 7 năm 2017. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2.</span></b><span lang=\"VI\"> Trên\ncơ sở khung hướng dẫn, các sở - ban - ngành, quận - huyện, các doanh nghiệp nhà\nnước thuộc thành phố khẩn trương xây dựng Kế hoạch phát triển kinh tế - xã hội,\ndự toán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách Thành phố năm 2018,\nkế hoạch tài chính ngân sách nhà nước 3 năm 2018 - 2020, danh mục các dự án đầu\ntư xây dựng cơ bản năm 2018 và giai đoạn 2018 - 2020 (có sắp xếp theo thứ tự ưu\ntiên, có đề xuất nguồn chi) gửi Sở Kế hoạch và Đầu tư, Sở Tài chính, Cục Thuế\ntrước ngày 07 tháng 8 năm 2017. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3.</span></b><span lang=\"VI\"> Giao Sở\nKế hoạch và Đầu tư chủ trì tổng hợp nội dung báo cáo của các sở - ban - ngành,\nquận - huyện, các doanh nghiệp nhà nước thuộc thành phố để dự thảo sơ bộ Kế hoạch\nphát triển kinh tế - xã hội, Kế hoạch đầu tư nguồn ngân sách Thành phố năm\n2018; Giao Sở Tài chính chủ trì phối hợp Cục Thuế tổng hợp nội dung báo cáo của\ncác sở - ban - ngành, quận - huyện, các doanh nghiệp nhà nước thuộc thành phố để\ndự thảo sơ bộ báo cáo dự toán ngân sách năm 2018, kế hoạch tài chính- ngân sách\nnhà nước 3 năm 2018 - 2020 trình Ủy ban nhân dân thành phố xem xét, thông qua\nvà gửi Bộ Kế hoạch và Đầu tư, Bộ Tài chính trước ngày 14 tháng 8 năm 2017. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">4.</span></b><span lang=\"VI\"> Ủy ban\nnhân dân thành phố quyết định phương án phân bổ, giao Kế hoạch phát triển kinh\ntế - xã hội, dự toán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách thành\nphố năm 2018, kế hoạch tài chính - ngân sách nhà nước 03 năm 2018 - 2020 cho sở\n- ban - ngành, quận - huyện và các doanh nghiệp nhà nước thuộc thành phố trong\ntháng 12 năm 2017. </span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5.</span></b><span lang=\"VI\"> Căn cứ\nquyết định giao chỉ tiêu, nhiệm vụ Kế hoạch phát triển kinh tế - xã hội, dự\ntoán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, kế\nhoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020 của Ủy ban nhân dân\nthành phố, Thủ trưởng các sở - ban - ngành, Chủ tịch Ủy ban nhân dân các quận -\nhuyện, Chủ tịch Hội đồng thành viên, Tổng Giám đốc, Giám đốc các doanh nghiệp\nnhà nước thuộc thành phố phân bổ, giao chỉ tiêu, nhiệm vụ và dự toán ngân sách\ncho từng đơn vị trực thuộc trước ngày 31 tháng 12 năm 2017. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Yêu cầu Thủ trưởng các sở - ban -\nngành, Chủ tịch Ủy ban nhân dân các quận - huyện, Chủ tịch Hội đồng thành viên\nvà Tổng Giám đốc, Giám đốc các doanh nghiệp nhà nước thuộc thành phố tập trung\nchỉ đạo và tổ chức thực hiện nghiêm túc Chỉ thị này, nhằm đảm bảo công tác xây\ndựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách năm 2018, Kế hoạch\nđầu tư nguồn ngân sách Thành phố năm 2018, kế hoạch tài chính - ngân sách nhà\nnước 3 năm 2018 - 2020 theo quy định. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chỉ thị này có hiệu lực thi hành kể từ\nngày ký./. </span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA4ADEAMQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Văn phòng Chính phủ;<br>\n  - Bộ Kế hoạch và Đầu tư;<br>\n  - Bộ Tài chính;<br>\n  - Thường trực Thành ủy;<br>\n  - Thường trực HĐNDTP;<br>\n  - Thành viên Ủy ban nhân dân thành phố;<br>\n  - Ủy ban Mặt trận Tổ quốc Việt Nam thành phố; <br>\n  - Văn phòng Thành ủy;<br>\n  - Các sở - ban - ngành; đoàn thể thành phố;<br>\n  - Ủy ban nhân dân 24 quận - huyện;<br>\n  - Các doanh nghiệp nhà nước TP;<br>\n  - VPUB: CVP, PVP/KT, ĐT, VX;<br>\n  - Phòng KT, VX, ĐT, TH (2b);<br>\n  - Lưu: VT (TH-K)</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CHỦ\n  TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Thành Phong</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n</div>\n\n<div>\n\n<p><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,&quot;serif&quot;\"><br clear=\"all\">\n</span></p>\n\n<div>\n\n<div><span style=\"font-size:12.0pt;&quot;Times New Roman&quot;,&quot;serif&quot;\">\n\n<hr size=\"1\" width=\"33%\" align=\"left\">\n\n</span></div>\n\n</div>\n\n<div id=\"ftn1\">\n\n<p style=\"margin-top:6.0pt\"><a name=\"_ftn1\"></a><a href=\"#_ftnref1\" title=\"\">1</a>\nTổng hợp đầy đủ các khoản thu mới trên địa bàn.</p>\n\n</div>\n\n<div id=\"ftn2\">\n\n<p style=\"margin-top:6.0pt\"><a name=\"_ftn2\"></a><a href=\"#_ftnref2\" title=\"\">2</a>\nNghị quyết số 51/NQ-CP ngày 19/6/2017 của Chính phủ về ban hành chương trình\nhành động của Chính phủ thực hiện Nghị quyết số 07-NQ/TW ngày 18 tháng 11 năm 2016\ncủa bộ chính trị về chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản\nlý nợ công để bảo đảm nền tài chính quốc gia an toàn, bền vững.</p>\n\n</div>\n\n<div id=\"ftn3\">\n\n<p style=\"margin-top:6.0pt\"><a name=\"_ftn3\"></a><a href=\"#_ftnref3\" title=\"\">3</a>\nBao gồm các quy định của Luật Đầu tư công và các Nghị định hướng dẫn; Luật NSNN\nnăm 2015.</p>\n\n</div>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTHÀNH PHỐ HỒ CHÍ MINH  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 05/CT\\-UBND\n\n_Thành phố Hồ Chí Minh, ngày 27_ _tháng 7 năm 2017_\n\n**CHỈ THỊ**\n\nVỀ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2018\n\nĐể kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018 đảm bảo tính khả thi và sát thực, góp phần thực hiện thắng lợi các mục tiêu, nhiệm vụ, các chỉ tiêu của kế hoạch phát triển kinh tế - xã hội 5 năm 2016 - 2020, Chủ tịch Ủy ban nhân dân thành phố chỉ thị các sở, ban, ngành, Ủy ban nhân dân các quận, huyện và doanh nghiệp nhà nước tập trung xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018, với các nội dung chủ yếu sau:\n\n**A. MỤC TIÊU, NHIỆM VỤ CHỦ YẾU CỦA KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2018**\n\n**I. Mục tiêu tổng quát:**\n\nNâng cao chất lượng tăng trưởng và năng lực cạnh tranh của kinh tế thành phố gắn với tái cấu trúc kinh tế theo chiều sâu, chất lượng, hiệu quả; bảo đảm môi trường đầu tư kinh doanh thuận lợi, bình đẳng, khuyến khích khởi nghiệp, phát triển doanh nghiệp. Phát triển hệ thống kết cấu hạ tầng đồng bộ gắn với chỉnh trang đô thị, kiềm chế và giảm ùn tắc giao thông, tai nạn giao thông, giảm ngập nước, giảm ô nhiễm môi trường, chủ động ứng phó với biến đổi khí hậu. Bảo đảm an sinh xã hội và phúc lợi xã hội, chăm lo đời sống nhân dân. Cải cách mạnh mẽ thủ tục hành chính, đẩy nhanh quá trình xây dựng chính quyền điện tử, đô thị thông minh. Giữ vững ổn định chính trị, trật tự an toàn xã hội, mở rộng và nâng cao hiệu quả hoạt động đối ngoại và hội nhập quốc tế.\n\n**II. Nhiệm vụ phát triển kinh tế - xã hội thành phố năm 2018**\n\n**1\\.** Triển khai hiệu quả các chính sách của Trung ương góp phần ổn định các cân đối vĩ mô và kiểm soát lạm phát\n\nThực hiện các chính sách tiền tệ, tài khóa của Trung ương. Tăng cường công tác phối hợp giữa các ngành, các cấp trong hoạt động kiểm tra, kiểm soát thị trường tín dụng, tập trung vốn vào lĩnh vực sản xuất kinh doanh, nhất là các lĩnh vực ưu tiên như doanh nghiệp ứng dụng công nghệ cao, doanh nghiệp nhỏ và vừa, công nghiệp hỗ trợ, phục vụ hoạt động xuất khẩu, nông nghiệp. Kiểm soát tốc độ tăng chỉ số giá tiêu dùng hợp lý, bảo đảm cung cầu hàng hóa thiết yếu phục vụ đời sống dân sinh. Triển khai hiệu quả Chương trình nâng cao chất lượng tăng trưởng, năng lực cạnh tranh của kinh tế thành phố; phấn đấu, tốc độ tăng trưởng tổng sản phẩm nội địa (GRDP) tăng 8 - 8,5%; giải quyết hài hòa mối quan hệ giữa tăng trưởng và ổn định kinh tế vĩ mô, bảo đảm an sinh xã hội.\n\n**2.** Tiếp tục thực hiện các giải pháp cải thiện môi trường đầu tư kinh doanh nâng cao năng lực cạnh tranh quốc gia theo Nghị quyết số 19-2017/NQ-CP của Chính phủ, nhất là các chỉ số về chi phí không chính thức, cạnh tranh bình đẳng, thiết chế pháp lý, tính năng động; triển khai Chỉ thị số 26/CT-TTg năm 2017 về tiếp tục triển khai hiệu quả Nghị quyết số 35/NQ-CP theo tinh thần chính quyền thành phố đồng hành cùng doanh nghiệp. Cơ cấu lại, nâng cao hiệu quả sản xuất của doanh nghiệp nhà nước, thực hiện cổ phần hóa, thoái vốn nhà nước theo kế hoạch được cấp có thẩm quyền phê duyệt. Tổ chức kết nối giữa doanh nghiệp trong nước và doanh nghiệp có vốn đầu tư nước ngoài, đặc biệt là các doanh nghiệp đứng đầu các chuỗi giá trị, các doanh nghiệp công nghiệp hỗ trợ, doanh nghiệp nhỏ và vừa.\n\nTriển khai các Chương trình hành động của Thành ủy, Kế hoạch của Thành phố về Nghị quyết số 10-NQ/TW của Ban chấp hành Trung ương Đảng khóa XII về phát triển kinh tế tư nhân trở thành một động lực quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa; trong đó hỗ trợ khởi nghiệp các lĩnh vực thành phố đang khuyến khích phát triển góp phần xây dựng lợi thế cạnh tranh đặc trưng của thành phố.\n\n**3.** Thúc đẩy tăng trưởng các ngành, lĩnh vực gắn với phát triển thị trường trong nước, đẩy mạnh xuất khẩu, kiểm soát nhập khẩu phù hợp, phấn đấu cân bằng thương mại bền vững\n\nPhát triển 9 nhóm ngành dịch vụ chủ yếu có tiềm năng và là thế mạnh của thành phố, phấn đấu trở thành trung tâm dịch vụ tầm cỡ khu vực Đông Nam Á. Khuyến khích đầu tư, phát triển mạnh các dịch vụ y tế, giáo dục, văn hóa, nghệ thuật, thể thao,... Triển khai Nghị quyết 08-NQ/TW ngày 16 tháng 01 năm 2017 của Bộ Chính trị về phát triển du lịch trở thành ngành kinh tế mũi nhọn; đề xuất các giải pháp khẩn trương hoàn thành Chiến lược và quy hoạch ngành du lịch thành phố; khuyến khích các thành phần kinh tế đầu tư phát triển du lịch để thu hút mạnh khách du lịch quốc tế đến Thành phố. Thúc đẩy phát triển mạnh mẽ thị trường chứng khoán, thị trường chứng khoán phái sinh để tạo kênh dẫn vốn quan trọng cho nền kinh tế.\n\nĐẩy mạnh chuyển dịch cơ cấu ngành công nghiệp theo hướng tăng tỷ trọng các ngành chế biến, chế tạo và giảm tỷ trọng gia công, lắp ráp. Phát triển 4 ngành công nghiệp trọng yếu có hàm lượng khoa học công nghệ cao, có lợi thế cạnh tranh, công nghiệp sạch, thân thiện môi trường, năng suất lao động cao, giá trị gia tăng lớn, công nghiệp phục vụ nông nghiệp, nông thôn.Thực hiện hiệu quả Đề án phát triển công nghiệp hỗ trợ đến năm 2020 từng bước giảm nhập khẩu, nâng cao tỷ lệ nội địa hóa các sản phẩm gia công, lắp ráp; nâng cao hiệu quả hoạt động của Trung tâm phát triển công nghiệp hỗ trợ thành phố, Quỹ bảo lãnh tín dụng, Quỹ phát triển khoa học và công nghệ.\n\nPhát huy kết quả thực hiện Chương trình nông thôn mới, nâng cao chất lượng các tiêu chí đã đạt được. Nghiên cứu, ứng dụng công nghệ sinh học để sản xuất giống cây, giống con chất lượng và năng suất cao, từng bước hình thành trung tâm giống cây, giống con của khu vực. Tiếp tục tổ chức nghiên cứu, bổ sung, hoàn thiện cơ chế, chính sách khuyến khích đầu tư về vốn với sự tham gia của tất cả các thành phần kinh tế trong quá trình tái cơ cấu ngành nông nghiệp, nông thôn.\n\nMở rộng mạng lưới phân phối bán buôn và bán lẻ, hỗ trợ doanh nghiệp tiêu thụ sản phẩm. Đổi mới cách thức tổ chức các chương trình xúc tiến thương mại theo hướng chú trọng vào khâu tổ chức và cung cấp thông tin thị trường Tập trung phát triển, khai thác thị trường truyền thống và thị trường tiềm năng cho các sản phẩm có sức cạnh tranh cao, hoặc các nhóm sản phẩm có tỷ trọng kim ngạch xuất khẩu lớn, ưu tiên nhập khẩu máy móc, thiết bị, vật tư đầu vào được tạo ra từ công nghệ cao, hàng hóa trong nước chưa sản xuất được; kiểm soát hiệu quả việc nhập khẩu hàng hóa không thiết yếu, hàng hóa trong nước đã sản xuất được.\n\n**4.** Hoàn thiện và nâng cấp kết cấu hạ tầng đồng bộ, phát triển đô thị bền vững, bảo vệ môi trường và ứng phó với biến đổi khí hậu\n\nHoàn thiện quy hoạch không gian kiến trúc đô thị, không gian ngầm, bảo đảm quy hoạch không gian quy hoạch đô thị và nông thôn hài hòa gắn kết với nhau, có tầm nhìn và và đổi mới cách làm quy hoạch. Huy động mọi nguồn lực xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại và các công trình thực hiện chương trình đột phá, triển khai các chính sách khuyến khích mạnh mẽ các thành phần kinh tế tham gia đầu tư, chú ý khai thác nguồn vốn từ mặt bằng, nhà xưởng, quyền sử dụng đất để có thêm nguồn lực xây dựng kết cấu hạ tầng đô thị; kêu gọi và tập trung thực hiện các dự án đầu tư theo phương thức hợp tác công - tư (PPP) tạo bước đột phá trong huy động vốn đầu tư phát triển kết cấu hạ tầng đô thị. Đẩy nhanh tiến độ thực hiện, giải ngân các dự án, công trình; hoàn thành các dự án trọng điểm ảnh hưởng đến đời sống dân sinh.\n\nThực hiện Chương trình chỉnh trang và phát triển đô thị giai đoạn 2016 - 2020; tập trung di dời và tổ chức lại cuộc sống của người dân đang sống trên và ven kênh, rạch; tạo cơ chế đột phá về quy hoạch, đất đai, tài chính hỗ trợ nhà đầu tư xây dựng mới, thay thế chung cư cũ hư hỏng, xuống cấp. Xây dựng, nâng cấp các khu dân cư hiện hữu gắn với chỉnh trang đô thị; xây dựng, phát triển các khu đô thị mới đồng bộ, văn minh, hiện đại.\n\nThực hiện Chương trình giảm ùn tắc giao thông, giảm tai nạn giao thông giai đoạn 2016 - 2020; chủ động phối hợp các bộ ngành Trung ương và các địa phương liên quan tập trung đầu tư xây dựng hệ thống giao thông cửa ngõ, có lộ trình và giải pháp khả thi kiểm soát phương tiện giao thông cá nhân gắn với phát triển giao thông công cộng sức chở lớn; phát triển các loại hình xe buýt nhanh, ô tô điện; huy động mọi nguồn lực phát triển nhanh đường sắt đô thị. Rà soát, tổ chức lại giao thông khoa học, hợp lý tại các khu vực có nguy cơ xảy ra ùn tắc giao thông (khu vực sân bay Tân Sơn Nhất, cảng Cát Lái,...).\n\nThực hiện Chương trình giảm ô nhiễm môi trường giai đoạn 2016 - 2020; triển khai hiệu quả Nghị quyết Trung ương 7 (khóa XI) về chủ động ứng phó với biến đổi khí hậu, tăng cường quản lý tài nguyên và bảo vệ môi trường; Nghị quyết của Chính phủ về một số vấn đề cấp bách trong lĩnh vực bảo vệ môi trường; Chiến lược bảo vệ môi trường, Chiến lược phát triển bền vững, Chiến lược tăng trưởng xanh... Xã hội hóa hoạt động bảo vệ môi trường, thúc đẩy phát triển, sử dụng năng lượng mới, năng lượng sạch, năng lượng tái tạo. Nhân rộng mô hình phân loại rác tại nguồn, phối hợp các địa phương kiểm soát chặt chẽ các nguồn xả trực tiếp ra sông Sài Gòn.\n\nThực hiện Chương trình giảm ngập nước giai đoạn 2016 - 2020; tập trung xóa, kéo giảm các điểm ngập nước hiện hữu; kiểm soát, ngăn chặn không để phát sinh điểm ngập mới trên địa bàn. Nghiên cứu và đề ra các giải pháp nâng cao khả năng phòng tránh nhằm giảm thiểu tác động xấu của biến đổi khí hậu, mực nước biển dâng; ứng cứu kịp thời và khắc phục hậu quả xấu do thiên tai gây ra.\n\n**5.** Phát triển khoa học - công nghệ, giáo dục - đào tạo, y tế, văn hóa, bảo đảm an sinh xã hội\n\nBổ sung chính sách hỗ trợ để doanh nghiệp trở thành chủ thể chính của thị trường khoa học - công nghệ, tích cực đầu tư cho hoạt động nghiên cứu, phát triển phần mềm, nâng cao năng lực quản trị sản xuất - kinh doanh, nâng tỷ trọng các yếu tố năng suất tổng hợp (TFP) đóng góp vào tăng trưởng kinh tế.\n\nNâng cao chất lượng giáo dục và đào tạo của các bậc học; nâng cao đồng đều chất lượng giáo dục nội thành và ngoại thành, giáo dục hướng nghiệp và dạy nghề phổ thông. Đổi mới cơ chế quản lý giáo dục, phát triển đội ngũ giáo viên và cán bộ quản lý, đảm bảo cung cấp đầy đủ giáo viên các cấp học, ngành học (nhất là giáo viên mầm non và tiểu học); nâng cao chất lượng đội ngũ giáo viên và cơ sở vật chất của nhà trường; củng cố và mở rộng mạng lưới trường lớp, đáp ứng nhu cầu học tập của nhân dân; thực hiện xã hội hóa giáo dục, huy động các nguồn lực phát triển giáo dục.\n\nThực hiện Chương trình nâng cao chất lượng nguồn nhân lực giai đoạn 2016 - 2020. Từng bước nâng cao tỷ lệ lao động đã qua đào tạo, đáp ứng nguồn nhân lực chất lượng cao cho các ngành, lĩnh vực trọng yếu của Thành phố. Đẩy mạnh phát triển thị trường lao động, đa dạng hóa các kênh giới thiệu và giải quyết việc làm, chú trọng tạo việc làm ổn định, cải thiện môi trường và điều kiện lao động, tăng thu nhập và nâng cao mức sống cho người lao động, bảo đảm an sinh xã hội và phúc lợi xã hội; tăng cường kiểm tra, giám sát thực hiện chính sách lao động, an toàn lao động và đóng bảo hiểm xã hội, điều tiết quan hệ cung cầu lao động.\n\nChú trọng năng lực khám chữa bệnh tuyến cơ sở, phát triển mô hình khoa vệ sinh, phòng khám vệ tinh, mô hình bác sỹ gia đình, qua đó giảm quá tải tại các bệnh viện tuyến thành phố. Tiếp tục đầu tư phát triển hệ thống y tế chuyên sâu; đầu tư trang thiết bị, cơ sở vật chất các bệnh viện chuyên khoa, đa khoa. Tăng tính tự chủ cho các cơ sở y tế về đầu tư trang thiết bị, đấu thầu thuốc. Khuyến khích xã hội hóa, kêu gọi đầu tư các bệnh viện, các cơ sở y tế bằng nhiều nguồn vào các cụm y tế cửa ngõ theo quy hoạch được duyệt.\n\nXã hội hóa, huy động nguồn lực của xã hội đầu tư vào các lĩnh vực văn hóa - xã hội. Tăng cường quản lý các lễ hội, hoạt động văn hóa, thông tin, thể thao; hạn chế tối đa việc sử dụng ngân sách nhà nước để tổ chức lễ hội. Tích cực đấu tranh ngăn chặn các tệ nạn xã hội, nhất là ma túy, mại dâm.\n\nĐa dạng hóa các nguồn lực và phương án thực hiện chương trình giảm nghèo bền vững theo hướng phát huy nội lực, kết hợp sự trợ giúp của cộng đồng quốc tế, nhằm tăng khả năng tiếp cận của người nghèo đối với các dịch vụ xã hội cơ bản (giáo dục - đào tạo, y tế, việc làm, bảo hiểm xã hội, nhà ở, điều kiện sống, thông tin). Từng bước thu hẹp khoảng cách giàu nghèo. Thực hiện chương trình bình ổn thị trường góp phần bảo đảm an sinh xã hội trên địa bàn.\n\n**6.** Thực hiện đồng bộ, hiệu quả Chương trình cải cách hành chính giai đoạn 2016 - 2020, tổ chức thực hiện cung cấp dịch vụ công trực tuyến mức độ 3, 4. Kiện toàn và nâng cao chất lượng hoạt động các cơ quan chuyên trách về phòng, chống tham nhũng. Thanh tra, kiểm tra, kiểm toán, điều tra để phòng ngừa, phát hiện, xử lý các hành vi tham nhũng. Giải quyết khiếu nại, tố cáo, bảo đảm ổn định chính trị, xã hội. Xử lý kịp thời, nghiêm minh các trường hợp vi phạm để củng cố lòng tin của nhân dân đối với Đảng và Nhà nước.\n\n**7.** Tập trung thực hiện nhiệm vụ tăng cường quốc phòng, bảo đảm giữ vững ổn định chính trị và trật tự an toàn xã hội. Có các phương án tác chiến cụ thể ứng phó kịp thời các tình huống xảy ra, không để bị động, bất ngờ. Kết hợp chặt chẽ giữa chính quyền địa phương với lực lượng công an trong công tác đấu tranh phòng, chống tội phạm, ngăn chặn kịp thời mọi hoạt động chống phá, bảo đảm ổn định an ninh chính trị, chú trọng địa bàn chiến lược, trọng điểm; bảo vệ an toàn các mục tiêu, công trình trọng điểm, các sự kiện quan trọng của thành phố và đất nước. Phòng chống cháy nổ và bảo đảm trật tự an toàn giao thông.\n\n**8.** Chủ động và mở rộng ngoại giao đa phương, tăng cường kết nối giao lưu quốc tế trên các lĩnh vực để quảng bá hình ảnh thành phố, thúc đẩy tăng trưởng xuất khẩu, thu hút các nguồn vốn đầu tư nước ngoài, các dự án sử dụng công nghệ cao, hiện đại phục vụ phát triển bền vững. Tham gia chủ động tích cực vào các diễn đàn đa phương; chuẩn bị tốt các điều kiện tổ chức và tham gia thành công các sự kiện, hoạt động đối ngoại của thành phố và đất nước.\n\n**9.** Thực hiện tốt công tác bảo đảm an ninh, an toàn thông tin mạng. Xử lý nghiêm các vi phạm, các trường hợp đưa tin không đúng sự thật. Thông tin, tuyên truyền, tiếp xúc đối thoại các cơ chế, chính sách gắn liền với cuộc sống của nhân dân và hoạt động của doanh nghiệp, tạo sự đồng thuận xã hội trong thực hiện các nhiệm vụ, giải pháp phát triển kinh tế - xã hội, tạo động lực phấn khởi trong sản xuất, kinh doanh, đồng hành cùng chính quyền thành phố quyết tâm thực hiện mục tiêu tăng trưởng của năm 2018.\n\n**III. Nhiệm vụ xây dựng dự toán ngân sách Thành phố năm 2018 và kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020:**\n\nNăm 2018 là năm bản lề, có ý nghĩa quan trọng trong việc đẩy mạnh thực hiện và hoàn thành các mục tiêu kế hoạch phát triển kinh tế - văn hóa - xã hội thành phố giai đoạn 2016 - 2020; là năm thứ hai của thời kỳ ổn định ngân sách giai đoạn 2017 - 2020 và năm đầu tiên xây dựng kế hoạch tài chính - ngân sách nhà nước 3 năm theo quy định của Luật Ngân sách Nhà nước năm 2015. Việc xây dựng dự toán ngân sách năm 2018, kế hoạch tài chính - ngân sách nhà nước 03 năm phải dựa trên cơ sở đánh giá tình hình, kết quả thực hiện Kế hoạch năm 2017 và bám sát các mục tiêu của Kế hoạch phát triển kinh tế - xã hội 5 năm 2016 - 2020; đảm bảo đúng chế độ, chính sách của Nhà nước và trên tinh thần tiết kiệm, chống lãng phí; cân đối nguồn lực để đáp ứng nhu cầu đầu tư phát triển trên địa bàn và đảm bảo công khai, minh bạch, công bằng, hiệu quả, đúng quy định pháp luật hiện hành.\n\n**1\\. Đối với dự toán thu ngân sách nhà nước năm 2018**\n\n**a)** Dự toán thu ngân sách nhà nước năm 2018 phải được xây dựng tích cực, sát thực tế phát sinh[1](#_ftn1) để tính đúng, tính đủ nguồn thu bao gồm toàn bộ các khoản thu từ thuế, phí, lệ phí và các khoản thu khác trên địa bàn trên cơ sở quy định pháp luật về thu ngân sách và khả năng thực hiện thu ngân sách năm 2017; bám sát Nghị quyết số 51/NQ-CP ngày 19 tháng 6 năm 2017 của Chính phủ[2](#_ftn2) theo hướng tăng tỷ trọng thu nội địa, bảo đảm tỷ trọng hợp lý giữa thuế gián thu và thuế trực thu, khai thác tốt nguồn thu từ tài sản, tài nguyên, bảo vệ môi trường; tăng tỷ trọng thu từ thuế và phí trong tổng thu ngân sách nhà nước; tăng cường khai thác nguồn lực tài chính từ tài sản công; nâng cao hiệu lực, hiệu quả công tác quản lý thu, thanh tra, kiểm tra, chống thất thu thuế.\n\n\\- Dự toán nguồn thu từ nhà, đất trên địa bàn năm 2018 sát thực tế, trên cơ sở kế hoạch sử dụng đất; kế hoạch đấu giá quyền sử dụng đất, giao đất theo quy định tại Luật Đất đai năm 2013; Nguồn thu từ tiền sử dụng đất được lập bố trí chi đầu tư phát triển theo quy định.\n\n\\- Xây dựng dự toán nguồn thu xổ số kiến thiết năm 2018 trong dự toán thu cân đối ngân sách địa phương; nguồn thu này được sử dụng toàn bộ cho chi đầu tư phát triển, trong đó ưu tiên bố trí cho chi đầu tư lĩnh vực giáo dục - đào tạo, y tế, chương trình mục tiêu nông thôn mới, công trình ứng phó biến đổi khí hậu và công trình phúc lợi xã hội khác theo quy định.\n\n**b)** Căn cứ điều kiện, đặc điểm và tốc độ tăng trưởng kinh tế trên địa bàn để xây dựng dự toán thu 2018 phù hợp với tình hình thực tế; dự toán thu nội địa (không kể thu dầu thô, thu tiền sử dụng đất, thu cổ tức và lợi nhuận còn lại của các doanh nghiệp nhà nước, thu xổ số kiến thiết) **tăng** **bình quân tối thiểu 12%** so với đánh giá ước thực hiện năm 2017; Dự toán thu từ hoạt động xuất nhập khẩu **tăng bình quân tối thiểu 5%** so với đánh giá ước thực hiện năm 2017.\n\n**2\\. Đối với dự toán chi ngân sách địa phương năm 2018**\n\n**a)** Căn cứ vào nguồn thu ngân sách địa phương được hưởng theo phân cấp, trên cơ sở mục tiêu của kế hoạch phát triển kinh tế xã hội 5 năm giai đoạn 2016­ 2020 và mục tiêu, nhiệm vụ phát triển kinh tế xã hội năm 2018; thực tế thực hiện thu, chi năm 2016, ước thực hiện năm 2017, xây dựng dự toán chi ngân sách thành phố chi tiết từng lĩnh vực theo quy định của Luật Ngân sách nhà nước năm 2015, bảo đảm ưu tiên bố trí các dự án, nhiệm vụ đã cam kết thực hiện, các chế độ, chính sách đã ban hành.\n\n**b)** Dự toán chi ngân sách địa phương năm 2018 được xây dựng trên cơ sở triệt để tiết kiệm, chống lãng phí ngay từ khâu xác định nhiệm vụ, chủ động sắp xếp thứ tự các nhiệm vụ chi ưu tiên theo mức độ quan trọng, cấp thiết và khả năng triển khai trong năm 2018.\n\n**c)** Tiếp tục đánh giá, rà soát các chế độ, chính sách, định mức hiện hành của từng ngành, từng lĩnh vực để có cơ sở tham mưu đề xuất sửa đổi, bổ sung các chế độ, định mức cho phù hợp. Chỉ trình cấp có thẩm quyền ban hành chính sách mới khi cân đối được nguồn; chủ động dự kiến đầy đủ nhu cầu kinh phí thực hiện các chính sách, chế độ, nhiệm vụ mới đã được cấp có thẩm quyền quyết định.\n\n**d)** Các sở ngành, quận - huyện báo cáo tình hình thu chi tài chính năm 2017 và dự kiến kế hoạch thu - chi tài chính năm 2018 của các quỹ tài chính nhà nước ngoài ngân sách thuộc phạm vi quản lý khi xây dựng dự toán ngân sách nhà nước năm 2018.\n\n**đ)** Về định hướng chi đầu tư phát triển\n\n\\- Chi đầu tư phát triển nguồn ngân sách Thành phố năm 2018 phải phục vụ mục tiêu, nhiệm vụ kế hoạch phát triển kinh tế - xã hội năm 2018 và giai đoạn 5 năm 2016 - 2020 của Thành phố; đảm bảo thực hiện theo lộ trình 7 chương trình đột phá đã được Nghị quyết Đại hội Đảng bộ Thành phố lần thứ X thông qua; phù hợp với Kế hoạch đầu tư công trung hạn 5 năm 2016 - 2020 và khả năng cân đối của ngân sách Thành phố.\n\n\\- Trong điều kiện nguồn vốn ngân sách thành phố còn hạn hẹp, cân đối thu chi còn nhiều khó khăn, việc bố trí kế hoạch đầu tư xây dựng năm 2018 phải tuân thủ nghiêm các quy định hiện hành của nhà nước về quản lý đầu tư công[3](#_ftn3), đảm bảo các dự án đầu tư được giao kế hoạch đều phù hợp với quy hoạch và có đầy đủ thủ tục theo quy định; đối với các dự án dự kiến bố trí vốn đầu tư công giai đoạn 2016 - 2020 thấp hơn so với quyết định đầu tư phê duyệt, các Sở ngành, quận huyện cần rà soát, phê duyệt quyết định đầu tư điều chỉnh tổng mức đầu tư, xác định điểm dừng kỹ thuật hợp lý hoặc bổ sung nguồn vốn hợp pháp khác để hoàn thành dự án. Ưu tiên bố trí vốn đầu tư lĩnh vực giáo dục - đào tạo, y tế, chương trình mục tiêu nông thôn mới, công trình ứng phó biến đổi khí hậu và công trình phúc lợi xã hội khác theo quy định.\n\n\\- Đối với nguồn vốn đầu tư từ thu sắp xếp lại, xử lý nhà, đất thuộc sở hữu nhà nước: Từ ngày 01 tháng 01 năm 2017, toàn bộ số thu sắp xếp lại, xử lý nhà, đất thuộc sở hữu nhà nước (sau khi trừ chi phí) phát sinh đều phải được nộp vào ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước năm 2015. Các cơ quan, đơn vị lập dự toán thu, chi ngân sách nhà nước năm 2018 từ nguồn thu này gửi Sở Kế hoạch và Đầu tư, Sở Tài chính để tổng hợp dự toán ngân sách nhà nước trình cấp có thẩm quyền quyết định.\n\n\\- Xây dựng kế hoạch huy động và trả nợ (cả gốc và lãi) cho đầu tư phát triển theo đúng quy định của Luật Ngân sách nhà nước, Luật Quản lý nợ công và các Nghị định có liên quan; thực hiện đánh giá đầy đủ tác động của nợ ngân sách địa phương, nhu cầu huy động vốn cho chi đầu tư phát triển trong trung hạn; bảo đảm số dư nợ huy động (bao gồm cả số dự kiến trong năm) không vượt quá hạn mức theo quy định. Tăng cường các giải pháp huy động vốn từ các thành phần kinh tế trong và ngoài nước để đầu tư xây dựng cơ sở hạ tầng thành phố, các dự án có thể thu hồi vốn trực tiếp.\n\n\\- Việc bố trí vốn kế hoạch chi đầu tư phát triển nguồn ngân sách Thành phố phải thực hiện đúng quy định của Luật Đầu tư công, trong đó chỉ bố trí vốn cho các chương trình, dự án đã đưa vào kế hoạch đầu tư công trung hạn 5 năm 2016 - 2020 theo thứ tự như sau: Ưu tiên bố trí vốn để thanh toán cho các dự án đã hoàn thành và bàn giao đưa vào sử dụng nhưng chưa được bố trí đủ kế hoạch vốn; dự án dự kiến hoàn thành năm 2017; Vốn đối ứng, vốn trả nợ vay cho dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài; vốn đầu tư của Nhà nước tham gia thực hiện dự án theo hình thức đối tác công tư (PPP); Bố trí vốn thực hiện công tác bồi thường giải phóng mặt bằng đối với các dự án đã hoàn chỉnh hồ sơ pháp lý theo quy định của Luật đất đai năm 2013; Dự án chuyển tiếp thực hiện theo tiến độ được phê duyệt.\n\n**e)** Về định hướng dự toán chi thường xuyên\n\n\\- Dự toán chi thường xuyên được xây dựng trên cơ sở mục tiêu của Kế hoạch phát triển kinh tế - xã hội 5 năm và mục tiêu, nhiệm vụ phát triển kinh tế - xã hội năm 2018 của Thành phố; các chế độ, chính sách và định mức chi thường xuyên đã được ban hành, xây dựng chi tiết từng lĩnh vực chi theo quy định của Luật ngân sách nhà nước năm 2015.\n\n\\- Dự toán chi thường xuyên phải bảo đảm triệt để tiết kiệm, gắn với việc tinh giản biên chế, sắp xếp lại bộ máy hành chính giai đoạn 2016-2020 theo Nghị quyết số 39-NQ/TW của Bộ Chính trị, giảm tần suất và thắt chặt các khoản chi lễ hội khánh tiết ... theo hướng tiết kiệm, hiệu quả; hạn chế bố trí kinh phí đi nghiên cứu, khảo sát nước ngoài, mua sắm ô tô và trang thiết bị đắt tiền; xây dựng và triển khai thực hiện đề án về các dịch vụ phục vụ hoạt động chính quyền thành phố (xe, bảo vệ, tạp vụ).\n\n\\- Ưu tiên bố trí vốn chi phát triển sự nghiệp giáo dục - đào tạo, y tế, khoa học - công nghệ, văn hóa - thể thao, môi trường, đảm bảo an sinh xã hội; đặc biệt bảo đảm 20% tổng chi ngân sách cho giáo dục, đào tạo; 2% tổng chi ngân sách cho khoa học và công nghệ. Tăng cường công tác chi quốc phòng, an ninh, bảo đảm giữ vững an ninh, trật tự xã hội trong tình hình mới; ưu tiên bố trí cho một số lĩnh vực quan trọng theo các Nghị quyết của Đảng bộ và Hội đồng nhân dân Thành phố; chi quản lý hành chính nhà nước, đảng, đoàn thể bảo đảm chặt chẽ, tiết kiệm, hiệu quả.\n\n\\- Tiếp tục thực hiện Nghị định số 130/2005/NĐ-CP ngày 17 tháng 10 năm 2005 của Chính phủ về cơ chế tự chủ, tự chịu trách nhiệm về sử dụng biên chế và kinh phí quản lý hành chính đối với cơ quan hành chính nhà nước, Nghị định số 117/2013/NĐ-CP ngày 07 tháng 10 năm 2013 sửa đổi, bổ sung một số điều của Nghị định số 130/2005/NĐ-CP.\n\n\\- Tiếp tục xây dựng, hoàn thiện cơ chế hoạt động tự chủ của đơn vị sự nghiệp công lập trong từng lĩnh vực gắn với thúc đẩy lộ trình tính giá dịch vụ sự nghiệp công theo quy định. Đẩy mạnh tự chủ tài chính tại các đơn vị sự nghiệp công lập thuộc phạm vi quản lý của một số ngành quan trọng như y tế, giáo dục theo lộ trình tính đúng tính đủ các yếu tố chi phí. Thực hiện chuyển đổi các đơn vị sự nghiệp công lập đang tự đảm bảo một phần chi phí hoạt động thường xuyên sang đơn vị tự đảm bảo toàn bộ chi phí hoạt động thường xuyên theo Quyết định số 926/QĐ-UBND ngày 07 tháng 03 năm 2017 của Ủy ban nhân dân thành phố về định hướng phát triển hoạt động của các đơn vị sự nghiệp công lập trên địa bàn thành phố đến năm 2021.\n\n\\- Thực hiện cơ chế tạo nguồn cải cách tiền lương theo quy định của Chính phủ và hướng dẫn của Bộ Tài chính; các cơ quan hành chính, đơn vị sự nghiệp có nguồn thu được giao tự chủ phấn đấu tăng thu cùng lộ trình tính đúng, tính đủ chi phí vào giá dịch vụ và sử dụng nguồn thu này ưu tiên để thực hiện cải cách tiền lương.\n\n\\- Bố trí dự phòng ngân sách địa phương theo quy định của Luật Ngân sách nhà nước năm 2015 để chủ động ứng phó với thiên tai, lũ lụt, dịch bệnh và giải quyết những nhiệm vụ quan trọng, cấp bách phát sinh ngoài dự toán.\n\n\\- Chủ động xây dựng dự toán chi thực hiện các dự án, nhiệm vụ quan trọng, xây dựng dự toán số bổ sung có mục tiêu từ ngân sách trung ương năm 2018 để đề nghị ngân sách Trung ương tổng hợp trong dự toán ngân sách nhà nước năm 2018 và bổ sung có mục tiêu cho ngân sách thành phố theo quy định.\n\n**3.** Xây dựng kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 -2020\n\nTập trung nghiên cứu các quy định liên quan việc lập kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020 theo quy định của Luật ngân sách nhà nước năm 2015, Nghị định số 31/2017/NĐ-CP ngày 23 tháng 3 năm 2017, Nghị định số 45/2017/NĐ-CP ngày 21 tháng 4 năm 2017 của Chính phủ, Thông tư số 69/2017/TT-BTC ngày 07 tháng 7 năm 2017, Thông tư số 71/2017/TT-BTC ngày 13 tháng 7 năm 2017 của Bộ Tài chính để thực hiện công tác xây dựng kế hoạch tài chính - ngân sách nhà nước 03 năm của thành phố; trong đó, sử dụng dự toán ngân sách nhà nước năm 2018 trình cấp có thẩm quyền để xác định **trần chi ngân sách, chi tiêu cơ sở, chi tiêu mới cho năm 2018 và 02 năm tiếp theo.**\n\nKế hoạch chi ngân sách nhà nước 3 năm 2018 - 2020 của các sở, ban ngành, đơn vị, Ủy ban nhân dân các quận huyện được lập trên cơ sở dự kiến trần chi ngân sách năm 2018, năm 2019 và năm 2020 do cơ quan có thẩm quyền thông báo cho từng cơ quan, đơn vị.\n\n**4.** Cùng với việc xây dựng dự toán ngân sách năm 2018, các sở - ban - ngành và Ủy ban nhân dân các quận - huyện tập trung chỉ đạo tổ chức thực hiện công tác quyết toán; kiểm tra, xét duyệt và thẩm định quyết toán ngân sách nhà nước năm 2016 theo đúng quy định; tiến hành thanh tra, kiểm tra, giám sát việc quản lý và sử dụng vốn đầu tư phát triển; xử lý, giải quyết ngay từ khâu xây dựng dự toán những tồn tại, sai phạm trong bố trí dự toán chi ngân sách chưa phù hợp với tình hình thực tế triển khai thực hiện chính sách và Nghị quyết của Đảng, Quốc hội, Chính phủ, Hội đồng nhân dân và Ủy ban nhân dân thành phố mà đã được cơ quan thanh tra, kiểm toán phát hiện, kiến nghị theo đúng quy định của pháp luật.\n\n**IV. Kế hoạch đầu tư công 2018**\n\nXây dựng kế hoạch đầu tư công năm 2017 theo đúng quy định của Luật Đầu tư công, Nghị định số 77/2015/NĐ-CP ngày 10 tháng 9 năm 2015 của Chính phủ về kế hoạch đầu tư công trung hạn và hàng năm và các văn bản pháp luật có liên quan. Trong đó, ưu tiên bố trí vốn cho các chương trình, dự án theo thứ tự như sau:\n\n\\- Ưu tiên bố trí vốn để thanh toán cho các dự án đã có khối lượng thực hiện nhưng chưa được bố trí kế hoạch vốn để thanh toán; bố trí vốn để hoàn ứng trước; dự án dự kiến hoàn thành năm 2018 _(theo tiến độ trong quyết định đầu tư, khả năng cân đối vốn và khả năng thực hiện trong năm);_ tập trung bố trí vốn để thực hiện các công trình, dự án thuộc các Chương trình đột phá đã được Nghị quyết Đại hội Đảng bộ thành phố lần thứ X thông qua.\n\n\\- Vốn đối ứng cho dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài; vốn đầu tư của Nhà nước tham gia thực hiện dự án theo hình thức đối tác công tư (PPP).\n\n\\- Vốn thực hiện các Chương trình đầu tư công đã được Hội đồng nhân dân Thành phố thông qua.\n\n\\- Vốn phân cấp cho Ủy ban nhân dân quận - huyện quản lý.\n\n\\- Dự án chuyển tiếp thực hiện theo tiến độ được phê duyệt.\n\n\\- Sau khi bố trí đủ vốn cho các dự án nêu trên, nếu còn vốn mới xem xét bố trí cho các dự án khởi công mới đã có đầy đủ thủ tục đầu tư theo quy định của Luật Đầu tư công và các văn bản pháp luật có liên quan. Bố trí đủ vốn để đảm bảo hoàn thành dự án theo đúng thời gian quy định.\n\n\\- Bố trí vốn chuẩn bị đầu tư cho các dự án để chủ đầu tư lập thủ tục đầu tư theo quy định.\n\n**B. PHÂN CÔNG VÀ TIẾN ĐỘ XÂY DỰNG KẾ HOẠCH PHÁT TRIỂN KINH TẾ - XÃ HỘI VÀ DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC NĂM 2018**\n\n**I. Phân công thực hiện**\n\n**1.** Sở Kế hoạch và Đầu tư:\n\n**a)** Chủ trì, phối hợp với Sở Tài chính tính toán, xác định các phương án, các cân đối lớn để làm cơ sở hướng dẫn cho các sở - ban - ngành, quận - huyện xây dựng Kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2018.\n\n**b)** Chủ trì, phối hợp với các sở - ban - ngành, quận - huyện và các đơn vị liên quan tổng hợp kế hoạch vốn đầu tư phát triển nguồn vốn ngân sách thành phố năm 2018.\n\n**c)** Lập dự toán kinh phí để xây dựng Kế hoạch phát triển kinh tế - xã hội năm 2018 và công việc liên quan để thực hiện Kế hoạch này.\n\n**2.** Sở Tài chính:\n\n**a)** Hướng dẫn các sở - ban ngành, quận - huyện đánh giá tình hình thực hiện dự toán thu, chi ngân sách nhà nước năm 2017; lập dự toán ngân sách nhà nước năm 2018 và kế hoạch tài chính - ngân sách nhà nước 3 năm 2018-2020 phù hợp với quy định của Luật Đầu tư công, Luật Ngân sách nhà nước năm 2015 và các văn bản hướng dẫn thi hành Luật; xây dựng và thông báo trần chi ngân sách cho các cơ quan, đơn vị theo quy định tại Thông tư số 69/2017/TT-BTC ngày 07 tháng 7 năm 2017 của Bộ Tài chính.\n\n**b)** Xây dựng phương án phân bổ chi thường xuyên của ngân sách năm 2018 báo cáo Ủy ban nhân dân thành phố để trình Hội đồng nhân dân thành phố quyết định.\n\n**c)** Phối hợp với Cục Thuế, Cục Hải quan và Sở Kế hoạch và Đầu tư xây dựng, tổng hợp dự toán thu - chi ngân sách nhà nước năm 2018 và kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020 báo cáo Ủy ban nhân dân thành phố để trình Hội đồng nhân dân thành phố quyết định.\n\n**d)** Phối hợp Sở Kế hoạch và Đầu tư và các cơ quan liên quan tổng hợp, đề nghị Trung ương phân bổ dự toán số bổ sung có mục tiêu từ ngân sách Trung ương thực hiện các chương trình có mục tiêu năm 2018 của thành phố.\n\n**3.** Các cơ quan, đơn vị, tổ chức có sử dụng kinh phí ngân sách nhà nước:\n\n**a)** Chủ trì, phối hợp với Sở Kế hoạch và Đầu tư, Sở Tài chính xây dựng Kế hoạch phát triển kinh tế - xã hội năm 2018, dự toán ngân sách nhà nước năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, Kế hoạch tài chính ngân sách nhà nước 3 năm 2018 - 2020 của ngành, lĩnh vực phụ trách.\n\n**b)** Các cơ quan nhà nước theo chức năng của mình, trên cơ sở tính toán các nguồn lực có thể khai thác được, xây dựng mục tiêu, chỉ tiêu, kế hoạch phát triển kinh tế - xã hội của ngành, lĩnh vực mình phụ trách. Đề xuất các giải pháp, các cơ chế, chính sách, chế độ mới hoặc kiến nghị sửa đổi, bổ sung các chế độ, chính sách hiện hành gửi Sở Kế hoạch và Đầu tư, Sở Tài chính, các cơ quan liên quan làm căn cứ xây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách nhà nước năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, Kế hoạch tài chính ngân sách nhà nước 3 năm 2018 - 2020.\n\n**4.** Ủy ban nhân dân các quận - huyện:\n\nPhối hợp chặt chẽ với Sở Kế hoạch và Đầu tư, Sở Tài chính xây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách nhà nước năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, Kế hoạch tài chính ngân sách nhà nước 03 năm 2018 - 2020 của địa phương, chịu trách nhiệm trước Ủy ban nhân dân Thành phố trong việc xây dựng kế hoạch và dự toán ngân sách của mình.\n\n**II. Tiến độ thực hiện**\n\n**1\\.** Giao Sở Kế hoạch và Đầu tư tổ chức hướng dẫn khung xây dựng Kế hoạch phát triển kinh tế - xã hội năm 2018, Kế hoạch đầu tư nguồn ngân sách Thành phố năm 2018; Sở Tài chính hướng dẫn xây dựng dự toán ngân sách năm 2018, kế hoạch tài chính ngân sách nhà nước 3 năm 2018 - 2020 cho các sở - ban - ngành, Ủy ban nhân dân các quận - huyện cuối tháng 7 năm 2017.\n\n**2.** Trên cơ sở khung hướng dẫn, các sở - ban - ngành, quận - huyện, các doanh nghiệp nhà nước thuộc thành phố khẩn trương xây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách Thành phố năm 2018, kế hoạch tài chính ngân sách nhà nước 3 năm 2018 - 2020, danh mục các dự án đầu tư xây dựng cơ bản năm 2018 và giai đoạn 2018 - 2020 (có sắp xếp theo thứ tự ưu tiên, có đề xuất nguồn chi) gửi Sở Kế hoạch và Đầu tư, Sở Tài chính, Cục Thuế trước ngày 07 tháng 8 năm 2017.\n\n**3.** Giao Sở Kế hoạch và Đầu tư chủ trì tổng hợp nội dung báo cáo của các sở - ban - ngành, quận - huyện, các doanh nghiệp nhà nước thuộc thành phố để dự thảo sơ bộ Kế hoạch phát triển kinh tế - xã hội, Kế hoạch đầu tư nguồn ngân sách Thành phố năm 2018; Giao Sở Tài chính chủ trì phối hợp Cục Thuế tổng hợp nội dung báo cáo của các sở - ban - ngành, quận - huyện, các doanh nghiệp nhà nước thuộc thành phố để dự thảo sơ bộ báo cáo dự toán ngân sách năm 2018, kế hoạch tài chính- ngân sách nhà nước 3 năm 2018 - 2020 trình Ủy ban nhân dân thành phố xem xét, thông qua và gửi Bộ Kế hoạch và Đầu tư, Bộ Tài chính trước ngày 14 tháng 8 năm 2017.\n\n**4.** Ủy ban nhân dân thành phố quyết định phương án phân bổ, giao Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, kế hoạch tài chính - ngân sách nhà nước 03 năm 2018 - 2020 cho sở - ban - ngành, quận - huyện và các doanh nghiệp nhà nước thuộc thành phố trong tháng 12 năm 2017.\n\n**5.** Căn cứ quyết định giao chỉ tiêu, nhiệm vụ Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách thành phố năm 2018, kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020 của Ủy ban nhân dân thành phố, Thủ trưởng các sở - ban - ngành, Chủ tịch Ủy ban nhân dân các quận - huyện, Chủ tịch Hội đồng thành viên, Tổng Giám đốc, Giám đốc các doanh nghiệp nhà nước thuộc thành phố phân bổ, giao chỉ tiêu, nhiệm vụ và dự toán ngân sách cho từng đơn vị trực thuộc trước ngày 31 tháng 12 năm 2017.\n\nYêu cầu Thủ trưởng các sở - ban - ngành, Chủ tịch Ủy ban nhân dân các quận - huyện, Chủ tịch Hội đồng thành viên và Tổng Giám đốc, Giám đốc các doanh nghiệp nhà nước thuộc thành phố tập trung chỉ đạo và tổ chức thực hiện nghiêm túc Chỉ thị này, nhằm đảm bảo công tác xây dựng Kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách năm 2018, Kế hoạch đầu tư nguồn ngân sách Thành phố năm 2018, kế hoạch tài chính - ngân sách nhà nước 3 năm 2018 - 2020 theo quy định.\n\nChỉ thị này có hiệu lực thi hành kể từ ngày ký./.\n\n**_  \nNơi nhận:  \n_**\\- Văn phòng Chính phủ;  \n\\- Bộ Kế hoạch và Đầu tư;  \n\\- Bộ Tài chính;  \n\\- Thường trực Thành ủy;  \n\\- Thường trực HĐNDTP;  \n\\- Thành viên Ủy ban nhân dân thành phố;  \n\\- Ủy ban Mặt trận Tổ quốc Việt Nam thành phố;  \n\\- Văn phòng Thành ủy;  \n\\- Các sở - ban - ngành; đoàn thể thành phố;  \n\\- Ủy ban nhân dân 24 quận - huyện;  \n\\- Các doanh nghiệp nhà nước TP;  \n\\- VPUB: CVP, PVP/KT, ĐT, VX;  \n\\- Phòng KT, VX, ĐT, TH (2b);  \n\\- Lưu: VT (TH-K)\n\n**CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Thành Phong**\n\n  \n\n* * *\n\n[1](#_ftnref1) Tổng hợp đầy đủ các khoản thu mới trên địa bàn.\n\n[2](#_ftnref2) Nghị quyết số 51/NQ-CP ngày 19/6/2017 của Chính phủ về ban hành chương trình hành động của Chính phủ thực hiện Nghị quyết số 07-NQ/TW ngày 18 tháng 11 năm 2016 của bộ chính trị về chủ trương, giải pháp cơ cấu lại ngân sách nhà nước, quản lý nợ công để bảo đảm nền tài chính quốc gia an toàn, bền vững.\n\n[3](#_ftnref3) Bao gồm các quy định của Luật Đầu tư công và các Nghị định hướng dẫn; Luật NSNN năm 2015.",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
