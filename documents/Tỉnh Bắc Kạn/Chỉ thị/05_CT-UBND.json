@@ -1,5 +1,5 @@
 {
-  "title": "Chỉ thị 05/CT-UBND năm 2019 về tăng cường chấn chỉnh công tác quản lý quy hoạch xây dựng, trật tự xây dựng và môi trường đô thị trên địa bàn tỉnh Bắc Kạn",
+  "title": "Chỉ thị 05/CT-UBND năm 2023 về chấn chỉnh, tăng cường kỷ cương, kỷ luật trong việc chấp hành pháp luật về tài chính - ngân sách nhà nước do tỉnh Bắc Kạn ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -8,54 +8,173 @@
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Luật Quy hoạch 2017",
-      "id": "21/2017/QH14",
+      "title": "Chỉ thị 22/CT-TTg năm 2023 chấn chỉnh, tăng cường kỷ cương, kỷ luật trong việc chấp hành pháp luật về tài chính - ngân sách Nhà nước do Thủ tướng Chính phủ ban hành",
+      "id": "22/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Phạm Minh Chính"
+      ],
+      "issuedDate": "2023-06-23",
+      "effectiveDate": "2023-06-23",
+      "gazetteDate": "2023-07-09",
+      "gazetteNumber": "Từ số 811 đến số 812",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 5783/BTC-QLCS năm 2023 thực hiện kiểm tra chuyên đề công tác quản lý, sử dụng tài sản công tại cơ quan, tổ chức, đơn vị do Bộ Tài chính ban hành",
+      "id": "5783/BTC-QLCS",
+      "legislationType": "Công văn",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Đức Chi"
+      ],
+      "issuedDate": "2023-06-07",
+      "effectiveDate": "2023-06-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 23/2021/QH15 về Kế hoạch tài chính quốc gia và vay, trả nợ công 5 năm giai đoạn 2021-2025 do Quốc hội ban hành",
+      "id": "23/2021/QH15",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Vương Đình Huệ"
+      ],
+      "issuedDate": "2021-07-28",
+      "effectiveDate": "2021-09-11",
+      "gazetteDate": "2021-08-20",
+      "gazetteNumber": "Từ số 721 đến số 722",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 67/2021/NĐ-CP  sửa đổi Nghị định 167/2017/NĐ-CP quy định việc sắp xếp lại, xử lý tài sản công",
+      "id": "67/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Lê Minh Khái"
+      ],
+      "issuedDate": "2021-07-15",
+      "effectiveDate": "2021-09-01",
+      "gazetteDate": "2021-07-26",
+      "gazetteNumber": "Từ số 679 đến số 680",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 792/NQ-UBTVQH14 năm 2019 về nhiệm vụ và giải pháp đẩy mạnh việc thực hiện chính sách pháp luật về quản lý, sử dụng các Quỹ tài chính nhà nước ngoài ngân sách nhà nước do Ủy ban Thường vụ Quốc hội ban hành",
+      "id": "792/NQ-UBTVQH14",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-10-22",
+      "effectiveDate": "2019-10-22",
+      "gazetteDate": "2019-12-08",
+      "gazetteNumber": "Từ số 933 đến số 934",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý thuế 2019",
+      "id": "38/2019/QH14",
       "legislationType": "Luật",
       "categories": [
-        "Xây dựng - Đô thị"
+        "Thuế - Phí - Lệ Phí"
       ],
       "organization": "Quốc hội",
       "signers": [
         "Nguyễn Thị Kim Ngân"
       ],
-      "issuedDate": "2017-11-24",
-      "effectiveDate": "2019-01-01",
-      "gazetteDate": "2017-12-29",
-      "gazetteNumber": "Từ số 1061 đến số 1062",
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-07-18",
+      "gazetteNumber": "Từ số 561 đến số 562",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Luật Xây dựng 2014",
-      "id": "50/2014/QH13",
+      "title": "Luật Đầu tư công 2019",
+      "id": "39/2019/QH14",
       "legislationType": "Luật",
       "categories": [
-        "Xây dựng - Đô thị"
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "2019-07-19",
+      "gazetteNumber": "Từ số 565 đến số 566",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 167/2017/NĐ-CP về quy định việc sắp xếp lại, xử lý tài sản công",
+      "id": "167/2017/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2017-12-31",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2018-02-18",
+      "gazetteNumber": "Từ số 383 đến số 384",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quản lý, sử dụng tài sản công 2017",
+      "id": "15/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-06-21",
+      "effectiveDate": "2018-01-01",
+      "gazetteDate": "2017-07-26",
+      "gazetteNumber": "Từ số 519 đến số 520",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
       ],
       "organization": "Quốc hội",
       "signers": [
         "Nguyễn Sinh Hùng"
       ],
-      "issuedDate": "2014-06-18",
-      "effectiveDate": "2015-01-01",
-      "gazetteDate": "2014-07-16",
-      "gazetteNumber": "Từ số 679 đến số 680",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Luật Quy hoạch đô thị 2009",
-      "id": "30/2009/QH12",
-      "legislationType": "Luật",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Phú Trọng"
-      ],
-      "issuedDate": "2009-06-17",
-      "effectiveDate": "2010-01-01",
-      "gazetteDate": "2009-08-07",
-      "gazetteNumber": "Từ số 371 đến số 372",
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
       "status": "Còn hiệu lực"
     }
   ],
@@ -67,138 +186,69 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Kế hoạch 8232/KH-UBND năm 2021 thực hiện Chỉ thị 12-CT/TU về tăng cường công tác quản lý trật tự xây dựng và trật tự đô thị trên địa bàn tỉnh Lâm Đồng",
-      "id": "8232/KH-UBND",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Tỉnh Lâm Đồng",
-      "signers": [
-        "Trần Văn Hiệp"
-      ],
-      "issuedDate": "2021-11-15",
-      "effectiveDate": "2021-11-15",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Chỉ thị 09/CT-UBND năm 2020 về chấn chỉnh công tác lập, thẩm định, phê duyệt, quản lý quy hoạch đô thị; quản lý trật tự xây dựng đô thị theo quy hoạch được duyệt trên địa bàn tỉnh Quảng Ninh",
-      "id": "09/CT-UBND",
+      "title": "Chỉ thị 15/CT-UBND năm 2023 chấn chỉnh, tăng cường kỷ cương, kỷ luật trong việc chấp hành pháp luật về tài chính - ngân sách Nhà nước trên địa bàn tỉnh Tiền Giang",
+      "id": "15/CT-UBND",
       "legislationType": "Chỉ thị",
       "categories": [
-        "Xây dựng - Đô thị"
+        "Tài chính nhà nước"
       ],
-      "organization": "Tỉnh Quảng Ninh",
+      "organization": "Tỉnh Tiền Giang",
       "signers": [
-        "Nguyễn Văn Thắng"
+        "Trần Văn Dũng"
       ],
-      "issuedDate": "2020-06-01",
-      "effectiveDate": "2020-06-01",
+      "issuedDate": "2023-08-28",
+      "effectiveDate": "2023-08-28",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Quyết định 4337/QĐ-UBND năm 2019 về phê duyệt Kế hoạch liên tịch (mẫu) về tăng cường công tác phối hợp quản lý trật tự xây dựng trên địa bàn quận-huyện thành phố Hồ Chí Minh",
-      "id": "4337/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Thành phố Hồ Chí Minh",
-      "signers": [
-        "Võ Văn Hoan"
-      ],
-      "issuedDate": "2019-10-08",
-      "effectiveDate": "2019-10-08",
-      "gazetteDate": "2019-11-15",
-      "gazetteNumber": "Từ số 94 đến số 95",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Kế hoạch 3333/KH-UBND năm 2019 triển khai giải pháp tăng cường hiệu lực, hiệu quả công tác quản lý Nhà nước về trật tự xây dựng trên địa bàn Thành phố Hồ Chí Minh",
-      "id": "3333/KH-UBND",
+      "title": "Kế hoạch 188/KH-UBND năm 2023 về tài chính - ngân sách nhà nước 03 năm 2024-2026 tỉnh Cà Mau",
+      "id": "188/KH-UBND",
       "legislationType": "Kế hoạch",
       "categories": [
-        "Xây dựng - Đô thị"
+        "Tài chính nhà nước"
       ],
-      "organization": "Thành phố Hồ Chí Minh",
+      "organization": "Tỉnh Cà Mau",
       "signers": [
-        "Võ Văn Hoan"
+        "Lâm Văn Bi"
       ],
-      "issuedDate": "2019-08-12",
-      "effectiveDate": "2019-08-12",
+      "issuedDate": "2023-08-05",
+      "effectiveDate": "2023-08-05",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Không xác định"
     },
     {
-      "title": "Quyết định 25/2019/QĐ-UBND quy định về lập, thẩm định, phê duyệt, quản lý thực hiện quy hoạch đô thị và quy hoạch xây dựng trên địa bàn tỉnh Bình Định",
-      "id": "25/2019/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Tỉnh Bình Định",
-      "signers": [
-        "Phan Cao Thắng"
-      ],
-      "issuedDate": "2019-06-27",
-      "effectiveDate": "2019-07-10",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Chỉ thị 07/CT-UBND năm 2019 về công tác lập, quản lý quy hoạch xây dựng trên địa bàn tỉnh Đắk Lắk",
+      "title": "Chỉ thị 07/CT-UBND năm 2023 về tăng cường kỷ luật, kỷ cương trong việc chấp hành pháp luật về tài chính - ngân sách nhà nước trên địa bàn tỉnh Cà Mau",
       "id": "07/CT-UBND",
       "legislationType": "Chỉ thị",
       "categories": [
-        "Xây dựng - Đô thị"
+        "Tài chính nhà nước"
       ],
-      "organization": "Tỉnh Đắk Lắk",
+      "organization": "Tỉnh Cà Mau",
       "signers": [
-        "Võ Văn Cảnh"
+        "Lâm Văn Bi"
       ],
-      "issuedDate": "2019-05-03",
-      "effectiveDate": "2019-05-03",
+      "issuedDate": "2023-08-04",
+      "effectiveDate": "2023-08-04",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Quyết định 19/2019/QĐ-UBND quy định về quản lý quy hoạch xây dựng và cấp giấy phép xây dựng trên địa bàn tỉnh Hà Tĩnh",
-      "id": "19/2019/QĐ-UBND",
-      "legislationType": "Quyết định",
+      "title": "Chỉ thị 09/CT-UBND năm 2023 về chấn chỉnh, tăng cường kỷ cương, kỷ luật trong việc chấp hành pháp luật về tài chính - ngân sách nhà nước do tỉnh Quảng Bình ban hành",
+      "id": "09/CT-UBND",
+      "legislationType": "Chỉ thị",
       "categories": [
-        "Bộ máy hành chính",
-        "Xây dựng - Đô thị"
+        "Tài chính nhà nước"
       ],
-      "organization": "Tỉnh Hà Tĩnh",
+      "organization": "Tỉnh Quảng Bình",
       "signers": [
-        "Đặng Quốc Khánh"
+        "Trần Thắng"
       ],
-      "issuedDate": "2019-04-19",
-      "effectiveDate": "2019-05-01",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 1983/2015/QĐ-UBND về Quy chế quản lý quy hoạch, kiến trúc Khu đô thị mới Ngã 5-Sân bay Cát Bi do thành phố Hải Phòng ban hành",
-      "id": "1983/2015/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Thành phố Hải Phòng",
-      "signers": [
-        "Lê Văn Thành"
-      ],
-      "issuedDate": "2015-08-31",
-      "effectiveDate": "2015-09-10",
+      "issuedDate": "2023-07-31",
+      "effectiveDate": "2023-07-31",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -207,19 +257,19 @@
   "id": "05/CT-UBND",
   "legislationType": "Chỉ thị",
   "categories": [
-    "Xây dựng - Đô thị"
+    "Tài chính nhà nước"
   ],
   "organization": "Tỉnh Bắc Kạn",
   "signers": [
-    "Lý Thái Hải"
+    "Nguyễn Đăng Bình"
   ],
-  "issuedDate": "2019-07-23",
-  "effectiveDate": "2019-07-23",
+  "issuedDate": "2023-07-14",
+  "effectiveDate": "2023-07-14",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA4ADIAMAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>ỦY BAN NHÂN\n  DÂN<br>\n  TỈNH BẮC KẠN<br>\n  --------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ\n  HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số: 05/CT-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Bắc Kạn, ngày\n  23 tháng 7 năm 2019</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">VỀ VIỆC TĂNG\nCƯỜNG CHẤN CHỈNH CÔNG TÁC QUẢN LÝ QUY HOẠCH XÂY DỰNG, TRẬT TỰ XÂY DỰNG VÀ MÔI\nTRƯỜNG ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH BẮC KẠN</p>\n\n<p style=\"margin-bottom:6.0pt\">Công tác lập Quy hoạch xây dựng, quản lý quy\nhoạch xây dựng, quản lý trật tự xây dựng và môi trường đô thị có vai trò rất\nquan trọng trong xây dựng phát triển đô thị và nông thôn; đây là vấn đề mang\ntính chiến lược và phải đi trước một bước làm cơ sở cho việc lập kế hoạch và dự\nán đầu tư xây dựng để chỉnh trang phát triển đô thị và nông thôn. Trong thời\ngian qua, công tác quản lý quy hoạch xây dựng, quản lý trật tự xây dựng đã góp\nphần tích cực vào quá trình phát triển đô thị và nông thôn trên địa bàn tỉnh\nBắc Kạn; tạo được sự chuyển biến rõ rệt và đạt được nhiều kết quả quan trọng.\nTuy nhiên, công tác quản lý quy hoạch xây dựng, quản lý trật tự xây dựng và môi\ntrường đô thị trên địa bàn tỉnh còn nhiều hạn chế, bất cập, điển hình như:</p>\n\n<p style=\"margin-bottom:6.0pt\">- Việc lập quy hoạch xây dựng chưa đồng bộ; chất\nlượng một số quy hoạch chưa cao, thiếu tính khả thi; công tác điều chỉnh quy\nhoạch xây dựng, nhất là điều chỉnh cục bộ, quy hoạch chi tiết còn tùy tiện; các\nđịa phương chưa tập trung triển khai lập quy hoạch chi tiết sau khi đồ án quy\nhoạch chung xây dựng đã được Ủy ban nhân dân tỉnh phê duyệt, việc cắm mốc giới\nquy hoạch ra ngoài thực địa chưa được triển khai đầy đủ<b> </b>gây khó khăn cho\nviệc lập dự án đầu tư xây dựng phát triển đô thị và nông thôn, kêu gọi và thu\nhút đầu tư; một số quy hoạch chi tiết của dự án đầu tư xây dựng được chấp thuận\nchưa phù hợp với quy chuẩn và chỉ tiêu sử dụng đất đã được xác định trong quy\nhoạch xây dựng; thiếu nguồn lực và các điều kiện thực hiện quy hoạch xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Công tác quản lý đầu tư xây dựng thực hiện\ntheo quy hoạch xây dựng còn thiếu kiểm soát chặt chẽ, tình trạng xây dựng công\ntrình nhà ở không cấp phép, sai giấy phép xây dựng và sai quy hoạch xây dựng\ncòn diễn ra ở nhiều địa phương; xây dựng lấn chiếm đất dành cho công trình công\ncộng, công trình hạ tầng kỹ thuật, kênh mương, sông suối làm mất mỹ quan đô thị\nvà ảnh hưởng đến cảnh quan môi trường, đặc biệt là san ủi đào đắp đất tràn lan\nô nhiễm môi trường cảnh quan tự nhiên.</p>\n\n<p style=\"margin-bottom:6.0pt\">Nguyên nhân của các hạn chế nêu trên là: Công\ntác tuyên truyền phổ biến, giáo dục về pháp luật xây dựng chưa sâu, rộng đến\nmọi tầng lớp nhân dân; sự phối hợp giữa các cơ quan, Ban, Ngành và địa phương\nchưa được thường xuyên và chặt chẽ; nhận thức về quy hoạch xây dựng chưa được\nnhất quán trong cán bộ quản lý nhà nước các cấp, cơ chế quản lý chưa nghiêm,\ncác vi phạm về xây dựng trong đô thị và nông thôn chưa được xử lý kịp thời và\nthiếu kiên quyết, còn né tránh hoặc nể nang đối với các vi phạm; nguồn lực bố\ntrí cho công tác quy hoạch và quản lý quy hoạch xây dựng còn hạn chế, chưa đáp\nứng được yêu cầu, ý thức của một bộ phận người dân trong việc chấp hành các quy\nđịnh của pháp luật về hoạt động xây dựng chưa cao…</p>\n\n<p style=\"margin-bottom:6.0pt\">Để tăng cường chấn chỉnh công tác quản lý quy\nhoạch xây dựng, quản lý trật tự xây dựng và môi trường đô thị trên địa bàn tỉnh\nBắc Kạn, Ủy ban nhân dân tỉnh chỉ thị các Sở, Ngành và Ủy ban nhân dân các\nhuyện, thành phố thực hiện một số nhiệm vụ sau:</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>1. Ủy ban nhân dân các huyện, thành phố</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Tổ chức rà soát lại các quy hoạch xây dựng đã\nđược cấp có thẩm quyền phê duyệt trên địa bàn theo quy định của Luật Xây dựng,\nLuật Quy hoạch đô thị; đặc biệt là quy hoạch chung xây dựng đô thị đã được phê\nduyệt từ năm 2012 với giai đoạn quy hoạch từ năm 2010 - 2020, định hướng đến\nnăm 2030, xem xét, rà soát điều chỉnh, mở rộng, bổ sung quy hoạch cho phù hợp\nvới giai đoạn 2020 - 2030, tầm nhìn đến 2040; báo cáo cơ quan có thẩm quyền\nviệc lập điều chỉnh, mở rộng, bổ sung quy hoạch xây dựng cho phù hợp với từng\ngiai đoạn phát triển và các văn bản quy phạm pháp luật hiện hành, hoàn thành\ntrước năm 2020, báo cáo Sở Xây dựng kịp thời, đầy đủ để cập nhật đưa lên Cổng\nThông tin điện tử.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Cân đối nguồn lực, khẩn trương xây dựng kế\nhoạch lập, điều chỉnh quy hoạch phân khu, quy hoạch chi tiết các khu vực trong\nđô thị và nông thôn có chiều hướng phát triển đô thị hóa tăng nhanh và theo kế\nhoạch đầu tư công trung hạn, để làm cơ sở lập các dự án đầu tư xây dựng, kế\nhoạch sử dụng đất cho phù hợp với quy hoạch chung xây dựng đô thị và quy hoạch\nsử dụng đất đã được cấp có thẩm quyền phê duyệt. Lập Chương trình phát triển\ncho từng đô thị, lập hồ sơ đề xuất các khu vực đô thị, đảm bảo quản lý các các\ndự án đầu tư xây dựng và phát triển đô thị, nông thôn được đồng bộ, theo đúng\nquy định, phát triển đô thị tăng trưởng xanh, đô thị thông minh và ứng phó với\nbiến đổi khí hậu.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tăng cường kiểm soát quá trình phát triển đô\nthị, nông thôn theo quy hoạch và kế hoạch, đặc biệt đối với khu vực đô thị mở\nrộng.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Nâng cao chất lượng công tác đấu thầu để lựa\nchọn đơn vị tư vấn lập quy hoạch có đủ năng lực.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Thực hiện công bố, công khai các đồ án quy\nhoạch xây dựng đã được phê duyệt và cắm mốc giới quy hoạch ra ngoài thực địa để\nmọi tầng lớp nhân dân biết, giám sát và tổ chức thực hiện. Nghiêm túc thực hiện\nviệc lấy ý kiến của người dân, cộng đồng, cơ quan, tổ chức có liên quan khi\nlập, điều chỉnh, mở rộng quy hoạch xây dựng.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tăng cường vai trò của các cơ quan nhà nước và\ngiám sát của nhân dân trong việc cấp Giấy phép xây dựng, quản lý trật tự xây\ndựng đô thị và nông thôn.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tăng cường công tác kiểm tra, thanh tra công\ntác lập, quản lý quy hoạch xây dựng, quản lý hoạt động xây dựng. Xử lý nghiêm,\nkịp thời, dứt điểm các vi phạm tại địa phương; đặc biệt là việc san ủi, đào đắp\nđất gây mất cảnh quan môi trường tự nhiên và môi trường đô thị, không đúng theo\nquy hoạch xây dựng, quy hoạch sử dụng đất của địa phương.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tăng cường công tác tuyên truyền, giáo dục,\nphổ biến pháp luật về quy hoạch xây dựng, quản lý trật tự xây dựng và môi\ntrường đô thị, nâng cao ý thức cộng đồng về chấp hành pháp luật trong hoạt động\nxây dựng tại các địa phương.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>2. Sở Xây dựng</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì tham mưu cho Ủy ban nhân dân tỉnh ban\nhành các Văn bản chỉ đạo quản lý quy hoạch xây dựng, trật tự xây dựng, môi\ntrường đô thị và nông thôn trên địa bàn tỉnh theo các quy định của pháp luật.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Thường xuyên hướng dẫn, đôn đốc, kiểm tra công\ntác quản lý quy hoạch xây dựng, hoạt động xây dựng và trật tự xây dựng tại các\nđịa phương, tham mưu cho Ủy ban nhân dân tỉnh xử lý các trường hợp vượt thẩm\nquyền.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tham mưu tổ chức tập huấn về lĩnh vực quy\nhoạch xây dựng và quản lý đầu tư xây dựng theo các Văn bản quy phạm pháp luật\nmới ban hành, đặc biệt là các văn bản hướng dẫn Luật Quy hoạch có hiệu lực từ\nngày 01/01/2019.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì, phối hợp với các đơn vị có liên quan,\ntổ chức thẩm định và trình Ủy ban nhân dân tỉnh phê duyệt các đồ án quy hoạch\nxây dựng thuộc thẩm quyền phê duyệt của Ủy ban nhân dân tỉnh và cho ý kiến bằng\nvăn bản đối với các đồ án quy hoạch xây dựng thuộc thẩm quyền phê duyệt của Ủy\nban nhân dân cấp huyện.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Nghiên cứu rà soát quy hoạch xây dựng trên địa\nbàn toàn tỉnh; chủ động phối hợp với Ủy ban nhân dân cấp huyện tổ chức rà soát\nquy hoạch xây dựng để tham mưu cho Ủy ban nhân dân tỉnh cho phép điều chỉnh, mở\nrộng, bổ sung cho phù hợp với điều kiện thực tế của địa phương trong từng giai\nđoạn phát triển kinh tế - xã hội đặc biệt các dự án đang thu hút đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì, phối hợp với Sở Thông tin và Truyền\nthông và Ủy ban nhân dân các huyện, thành phố công bố công khai các đồ án quy\nhoạch xây dựng đã được rà soát điều chỉnh trên Cổng Thông tin điện tử của tỉnh;\nchủ trì triển khai Đề án về phát triển đô thị thông minh và đô thị tăng trưởng\nxanh bền vững.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tham mưu ban hành định mức chất thải rắn sinh\nhoạt kịp thời, đúng quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tăng cường công tác kiểm tra cách thức thực\nhiện, thu gom rác thải, vệ sinh môi trường.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Hướng dẫn chung cho các huyện, thành phố mô\nhình hoạt động thống nhất trên địa bàn tỉnh về công tác quản lý thu gom và xử\nlý rác thải đô thị, vệ sinh môi trường theo ý kiến chỉ đạo của Ủy ban nhân dân\ntỉnh tại Thông báo số: 88/TB-UBND ngày 17/4/2019.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Định kỳ công tác kiểm tra về quản lý quy hoạch\nxây dựng, trật tự xây dựng và môi trường đô thị ở các địa phương, tham mưu\nnhững nội dung thuộc thẩm quyền của Ủy ban nhân dân tỉnh theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>3. Sở Kế hoạch và Đầu tư</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì tham mưu cho Ủy ban nhân dân tỉnh về\ntriển khai Luật Quy hoạch và các Văn bản hướng dẫn dưới Luật theo thẩm quyền.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Tham mưu cho Ủy ban nhân dân tỉnh triển khai\ncác dự án đầu tư xây dựng phát triển đô thị, nông thôn theo quy định; xây dựng\nkế hoạch bố trí nguồn vốn cho công tác lập quy hoạch xây dựng trên địa bàn tỉnh\ncho từng giai đoạn phát triển kinh tế - xã hội; vận động các nguồn vốn đầu tư\nxây dựng từ các nhà đầu tư.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>4. Sở Tài chính</b></p>\n\n<p style=\"margin-bottom:6.0pt\">Căn cứ các văn bản của Chính phủ và các Bộ,\nNgành, Sở Tài chính phối hợp với các cơ quan, đơn vị có liên quan tham mưu hoàn\nthiện các chính sách tài chính theo thẩm quyền về sử dụng đất, chuyển quyền sử\ndụng đất, nhằm sử dụng nguồn vốn thu từ đất để đầu tư xây dựng phát triển đô\nthị một cách có hiệu quả, ổn định và lâu dài. Tham mưu vốn cho kế hoạch vệ sinh\nmôi trường. Kiểm tra, hướng dẫn mức thu công tác vệ sinh môi trường. Hướng dẫn\nđịa phương về phương thức thực hiện đảm bảo thống nhất từ năm 2020 trở đi, thực\nhiện theo quy định hiện hành về dịch vụ công ích thu gom và xử lý rác thải, vệ\nsinh môi trường; không thực hiện bằng giao dự toán và các hình thức khác chưa\nphù hợp quy định theo ý kiến chỉ đạo của Ủy ban nhân dân tỉnh tại Thông báo số:\n88/TB-UBND ngày 17/4/2019.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>5. Sở Tài nguyên và Môi trường</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Hướng dẫn các địa phương rà soát quy hoạch sử\ndụng đất phù hợp với quy hoạch xây dựng đề quản lý thống nhất sử dụng đất đô\nthị.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì kiểm tra tại các địa phương về việc\nquản lý, sử dụng đất trong đô thị; thanh tra, kiểm tra việc chuyển mục đích sử\ndụng đất so với quy hoạch, kế hoạch sử dụng đất đã được cấp có thẩm quyền phê\nduyệt.</p>\n\n<p style=\"margin-bottom:6.0pt\">- Chủ trì, phối hợp với các đơn vị có liên quan,\nkiểm tra các dự án đầu tư xây dựng của tổ chức, cá nhân gây ô nhiễm môi trường\nvà làm mất cảnh quan đô thị tại các địa phương.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>6. Sở Thông tin và Truyền thông</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Phối hợp với Sở Xây dựng và các địa phương,\ncông bố công khai các đồ án quy hoạch xây dựng trên Cổng Thông tin điện tử của\ntỉnh và các phương tiện thông tin khác để cộng đồng xã hội được biết giám sát\nvà thực hiện.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>7. Sở Nội vụ</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Phối hợp với Sở Xây dựng hướng dẫn các địa\nphương thành lập Đội Quản lý trật tự xây dựng, tham mưu những nội dung thuộc\nthẩm quyền Ủy ban nhân dân tỉnh, để tăng cường kiểm tra và xử lý các vi phạm\nmột cách kịp thời, sớm ngăn chặn các hoạt động xây dựng trái với quy hoạch xây\ndựng được cấp có thẩm quyền phê duyệt.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>8. Công an tỉnh</b></p>\n\n<p style=\"margin-bottom:6.0pt\">- Chỉ đạo Công an các huyện, thành phố, công an\ncác xã, phường, thị trấn phối hợp với Thanh tra Xây dựng, Đội Quản lý trật tự đô\nthị và chính quyền địa phương thực hiện nghiêm các quyết định đình chỉ thi công\nxây dựng công trình; quyết định cưỡng chế phá dỡ của cấp có thẩm quyền đối với\ncông trình vi phạm theo quy định.</p>\n\n<p style=\"margin-bottom:6.0pt\"><b>9. Tổ chức thực hiện</b></p>\n\n<p style=\"margin-bottom:6.0pt\">Thủ trưởng các Sở, Ngành liên quan; Chủ tịch Ủy\nban nhân dân các huyện, thành phố tổ chức quán triệt, xây dựng kế hoạch cụ thể\nvà triển khai thực hiện nghiêm túc Chỉ thị này.</p>\n\n<p style=\"margin-bottom:6.0pt\">Sở Xây dựng chủ trì, phối hợp với các đơn vị có\nliên quan kiểm tra, theo dõi, hướng dẫn và báo cáo Ủy ban nhân dân tỉnh định kỳ\n06 tháng, hằng năm sơ kết, tổng kết về kết quả triển khai thực hiện Chỉ thị\nnày./.</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADkAMAA4ADIAMAA=-->\n <tbody><tr>\n  <td width=\"271\" valign=\"top\" style=\"width:203.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b>&nbsp;</b></p>\n  </td>\n  <td width=\"319\" valign=\"top\" style=\"width:239.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM. ỦY BAN\n  NHÂN DÂN<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Lý Thái Hải</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
-  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẮC KẠN  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 05/CT-UBND\n\n_Bắc Kạn, ngày 23 tháng 7 năm 2019_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TĂNG CƯỜNG CHẤN CHỈNH CÔNG TÁC QUẢN LÝ QUY HOẠCH XÂY DỰNG, TRẬT TỰ XÂY DỰNG VÀ MÔI TRƯỜNG ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH BẮC KẠN\n\nCông tác lập Quy hoạch xây dựng, quản lý quy hoạch xây dựng, quản lý trật tự xây dựng và môi trường đô thị có vai trò rất quan trọng trong xây dựng phát triển đô thị và nông thôn; đây là vấn đề mang tính chiến lược và phải đi trước một bước làm cơ sở cho việc lập kế hoạch và dự án đầu tư xây dựng để chỉnh trang phát triển đô thị và nông thôn. Trong thời gian qua, công tác quản lý quy hoạch xây dựng, quản lý trật tự xây dựng đã góp phần tích cực vào quá trình phát triển đô thị và nông thôn trên địa bàn tỉnh Bắc Kạn; tạo được sự chuyển biến rõ rệt và đạt được nhiều kết quả quan trọng. Tuy nhiên, công tác quản lý quy hoạch xây dựng, quản lý trật tự xây dựng và môi trường đô thị trên địa bàn tỉnh còn nhiều hạn chế, bất cập, điển hình như:\n\n\\- Việc lập quy hoạch xây dựng chưa đồng bộ; chất lượng một số quy hoạch chưa cao, thiếu tính khả thi; công tác điều chỉnh quy hoạch xây dựng, nhất là điều chỉnh cục bộ, quy hoạch chi tiết còn tùy tiện; các địa phương chưa tập trung triển khai lập quy hoạch chi tiết sau khi đồ án quy hoạch chung xây dựng đã được Ủy ban nhân dân tỉnh phê duyệt, việc cắm mốc giới quy hoạch ra ngoài thực địa chưa được triển khai đầy đủ gây khó khăn cho việc lập dự án đầu tư xây dựng phát triển đô thị và nông thôn, kêu gọi và thu hút đầu tư; một số quy hoạch chi tiết của dự án đầu tư xây dựng được chấp thuận chưa phù hợp với quy chuẩn và chỉ tiêu sử dụng đất đã được xác định trong quy hoạch xây dựng; thiếu nguồn lực và các điều kiện thực hiện quy hoạch xây dựng.\n\n\\- Công tác quản lý đầu tư xây dựng thực hiện theo quy hoạch xây dựng còn thiếu kiểm soát chặt chẽ, tình trạng xây dựng công trình nhà ở không cấp phép, sai giấy phép xây dựng và sai quy hoạch xây dựng còn diễn ra ở nhiều địa phương; xây dựng lấn chiếm đất dành cho công trình công cộng, công trình hạ tầng kỹ thuật, kênh mương, sông suối làm mất mỹ quan đô thị và ảnh hưởng đến cảnh quan môi trường, đặc biệt là san ủi đào đắp đất tràn lan ô nhiễm môi trường cảnh quan tự nhiên.\n\nNguyên nhân của các hạn chế nêu trên là: Công tác tuyên truyền phổ biến, giáo dục về pháp luật xây dựng chưa sâu, rộng đến mọi tầng lớp nhân dân; sự phối hợp giữa các cơ quan, Ban, Ngành và địa phương chưa được thường xuyên và chặt chẽ; nhận thức về quy hoạch xây dựng chưa được nhất quán trong cán bộ quản lý nhà nước các cấp, cơ chế quản lý chưa nghiêm, các vi phạm về xây dựng trong đô thị và nông thôn chưa được xử lý kịp thời và thiếu kiên quyết, còn né tránh hoặc nể nang đối với các vi phạm; nguồn lực bố trí cho công tác quy hoạch và quản lý quy hoạch xây dựng còn hạn chế, chưa đáp ứng được yêu cầu, ý thức của một bộ phận người dân trong việc chấp hành các quy định của pháp luật về hoạt động xây dựng chưa cao…\n\nĐể tăng cường chấn chỉnh công tác quản lý quy hoạch xây dựng, quản lý trật tự xây dựng và môi trường đô thị trên địa bàn tỉnh Bắc Kạn, Ủy ban nhân dân tỉnh chỉ thị các Sở, Ngành và Ủy ban nhân dân các huyện, thành phố thực hiện một số nhiệm vụ sau:\n\n**1\\. Ủy ban nhân dân các huyện, thành phố**\n\n\\- Tổ chức rà soát lại các quy hoạch xây dựng đã được cấp có thẩm quyền phê duyệt trên địa bàn theo quy định của Luật Xây dựng, Luật Quy hoạch đô thị; đặc biệt là quy hoạch chung xây dựng đô thị đã được phê duyệt từ năm 2012 với giai đoạn quy hoạch từ năm 2010 - 2020, định hướng đến năm 2030, xem xét, rà soát điều chỉnh, mở rộng, bổ sung quy hoạch cho phù hợp với giai đoạn 2020 - 2030, tầm nhìn đến 2040; báo cáo cơ quan có thẩm quyền việc lập điều chỉnh, mở rộng, bổ sung quy hoạch xây dựng cho phù hợp với từng giai đoạn phát triển và các văn bản quy phạm pháp luật hiện hành, hoàn thành trước năm 2020, báo cáo Sở Xây dựng kịp thời, đầy đủ để cập nhật đưa lên Cổng Thông tin điện tử.\n\n\\- Cân đối nguồn lực, khẩn trương xây dựng kế hoạch lập, điều chỉnh quy hoạch phân khu, quy hoạch chi tiết các khu vực trong đô thị và nông thôn có chiều hướng phát triển đô thị hóa tăng nhanh và theo kế hoạch đầu tư công trung hạn, để làm cơ sở lập các dự án đầu tư xây dựng, kế hoạch sử dụng đất cho phù hợp với quy hoạch chung xây dựng đô thị và quy hoạch sử dụng đất đã được cấp có thẩm quyền phê duyệt. Lập Chương trình phát triển cho từng đô thị, lập hồ sơ đề xuất các khu vực đô thị, đảm bảo quản lý các các dự án đầu tư xây dựng và phát triển đô thị, nông thôn được đồng bộ, theo đúng quy định, phát triển đô thị tăng trưởng xanh, đô thị thông minh và ứng phó với biến đổi khí hậu.\n\n\\- Tăng cường kiểm soát quá trình phát triển đô thị, nông thôn theo quy hoạch và kế hoạch, đặc biệt đối với khu vực đô thị mở rộng.\n\n\\- Nâng cao chất lượng công tác đấu thầu để lựa chọn đơn vị tư vấn lập quy hoạch có đủ năng lực.\n\n\\- Thực hiện công bố, công khai các đồ án quy hoạch xây dựng đã được phê duyệt và cắm mốc giới quy hoạch ra ngoài thực địa để mọi tầng lớp nhân dân biết, giám sát và tổ chức thực hiện. Nghiêm túc thực hiện việc lấy ý kiến của người dân, cộng đồng, cơ quan, tổ chức có liên quan khi lập, điều chỉnh, mở rộng quy hoạch xây dựng.\n\n\\- Tăng cường vai trò của các cơ quan nhà nước và giám sát của nhân dân trong việc cấp Giấy phép xây dựng, quản lý trật tự xây dựng đô thị và nông thôn.\n\n\\- Tăng cường công tác kiểm tra, thanh tra công tác lập, quản lý quy hoạch xây dựng, quản lý hoạt động xây dựng. Xử lý nghiêm, kịp thời, dứt điểm các vi phạm tại địa phương; đặc biệt là việc san ủi, đào đắp đất gây mất cảnh quan môi trường tự nhiên và môi trường đô thị, không đúng theo quy hoạch xây dựng, quy hoạch sử dụng đất của địa phương.\n\n\\- Tăng cường công tác tuyên truyền, giáo dục, phổ biến pháp luật về quy hoạch xây dựng, quản lý trật tự xây dựng và môi trường đô thị, nâng cao ý thức cộng đồng về chấp hành pháp luật trong hoạt động xây dựng tại các địa phương.\n\n**2\\. Sở Xây dựng**\n\n\\- Chủ trì tham mưu cho Ủy ban nhân dân tỉnh ban hành các Văn bản chỉ đạo quản lý quy hoạch xây dựng, trật tự xây dựng, môi trường đô thị và nông thôn trên địa bàn tỉnh theo các quy định của pháp luật.\n\n\\- Thường xuyên hướng dẫn, đôn đốc, kiểm tra công tác quản lý quy hoạch xây dựng, hoạt động xây dựng và trật tự xây dựng tại các địa phương, tham mưu cho Ủy ban nhân dân tỉnh xử lý các trường hợp vượt thẩm quyền.\n\n\\- Tham mưu tổ chức tập huấn về lĩnh vực quy hoạch xây dựng và quản lý đầu tư xây dựng theo các Văn bản quy phạm pháp luật mới ban hành, đặc biệt là các văn bản hướng dẫn Luật Quy hoạch có hiệu lực từ ngày 01/01/2019.\n\n\\- Chủ trì, phối hợp với các đơn vị có liên quan, tổ chức thẩm định và trình Ủy ban nhân dân tỉnh phê duyệt các đồ án quy hoạch xây dựng thuộc thẩm quyền phê duyệt của Ủy ban nhân dân tỉnh và cho ý kiến bằng văn bản đối với các đồ án quy hoạch xây dựng thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp huyện.\n\n\\- Nghiên cứu rà soát quy hoạch xây dựng trên địa bàn toàn tỉnh; chủ động phối hợp với Ủy ban nhân dân cấp huyện tổ chức rà soát quy hoạch xây dựng để tham mưu cho Ủy ban nhân dân tỉnh cho phép điều chỉnh, mở rộng, bổ sung cho phù hợp với điều kiện thực tế của địa phương trong từng giai đoạn phát triển kinh tế - xã hội đặc biệt các dự án đang thu hút đầu tư.\n\n\\- Chủ trì, phối hợp với Sở Thông tin và Truyền thông và Ủy ban nhân dân các huyện, thành phố công bố công khai các đồ án quy hoạch xây dựng đã được rà soát điều chỉnh trên Cổng Thông tin điện tử của tỉnh; chủ trì triển khai Đề án về phát triển đô thị thông minh và đô thị tăng trưởng xanh bền vững.\n\n\\- Tham mưu ban hành định mức chất thải rắn sinh hoạt kịp thời, đúng quy định.\n\n\\- Tăng cường công tác kiểm tra cách thức thực hiện, thu gom rác thải, vệ sinh môi trường.\n\n\\- Hướng dẫn chung cho các huyện, thành phố mô hình hoạt động thống nhất trên địa bàn tỉnh về công tác quản lý thu gom và xử lý rác thải đô thị, vệ sinh môi trường theo ý kiến chỉ đạo của Ủy ban nhân dân tỉnh tại Thông báo số: 88/TB-UBND ngày 17/4/2019.\n\n\\- Định kỳ công tác kiểm tra về quản lý quy hoạch xây dựng, trật tự xây dựng và môi trường đô thị ở các địa phương, tham mưu những nội dung thuộc thẩm quyền của Ủy ban nhân dân tỉnh theo quy định.\n\n**3\\. Sở Kế hoạch và Đầu tư**\n\n\\- Chủ trì tham mưu cho Ủy ban nhân dân tỉnh về triển khai Luật Quy hoạch và các Văn bản hướng dẫn dưới Luật theo thẩm quyền.\n\n\\- Tham mưu cho Ủy ban nhân dân tỉnh triển khai các dự án đầu tư xây dựng phát triển đô thị, nông thôn theo quy định; xây dựng kế hoạch bố trí nguồn vốn cho công tác lập quy hoạch xây dựng trên địa bàn tỉnh cho từng giai đoạn phát triển kinh tế - xã hội; vận động các nguồn vốn đầu tư xây dựng từ các nhà đầu tư.\n\n**4\\. Sở Tài chính**\n\nCăn cứ các văn bản của Chính phủ và các Bộ, Ngành, Sở Tài chính phối hợp với các cơ quan, đơn vị có liên quan tham mưu hoàn thiện các chính sách tài chính theo thẩm quyền về sử dụng đất, chuyển quyền sử dụng đất, nhằm sử dụng nguồn vốn thu từ đất để đầu tư xây dựng phát triển đô thị một cách có hiệu quả, ổn định và lâu dài. Tham mưu vốn cho kế hoạch vệ sinh môi trường. Kiểm tra, hướng dẫn mức thu công tác vệ sinh môi trường. Hướng dẫn địa phương về phương thức thực hiện đảm bảo thống nhất từ năm 2020 trở đi, thực hiện theo quy định hiện hành về dịch vụ công ích thu gom và xử lý rác thải, vệ sinh môi trường; không thực hiện bằng giao dự toán và các hình thức khác chưa phù hợp quy định theo ý kiến chỉ đạo của Ủy ban nhân dân tỉnh tại Thông báo số: 88/TB-UBND ngày 17/4/2019.\n\n**5\\. Sở Tài nguyên và Môi trường**\n\n\\- Hướng dẫn các địa phương rà soát quy hoạch sử dụng đất phù hợp với quy hoạch xây dựng đề quản lý thống nhất sử dụng đất đô thị.\n\n\\- Chủ trì kiểm tra tại các địa phương về việc quản lý, sử dụng đất trong đô thị; thanh tra, kiểm tra việc chuyển mục đích sử dụng đất so với quy hoạch, kế hoạch sử dụng đất đã được cấp có thẩm quyền phê duyệt.\n\n\\- Chủ trì, phối hợp với các đơn vị có liên quan, kiểm tra các dự án đầu tư xây dựng của tổ chức, cá nhân gây ô nhiễm môi trường và làm mất cảnh quan đô thị tại các địa phương.\n\n**6\\. Sở Thông tin và Truyền thông**\n\n\\- Phối hợp với Sở Xây dựng và các địa phương, công bố công khai các đồ án quy hoạch xây dựng trên Cổng Thông tin điện tử của tỉnh và các phương tiện thông tin khác để cộng đồng xã hội được biết giám sát và thực hiện.\n\n**7\\. Sở Nội vụ**\n\n\\- Phối hợp với Sở Xây dựng hướng dẫn các địa phương thành lập Đội Quản lý trật tự xây dựng, tham mưu những nội dung thuộc thẩm quyền Ủy ban nhân dân tỉnh, để tăng cường kiểm tra và xử lý các vi phạm một cách kịp thời, sớm ngăn chặn các hoạt động xây dựng trái với quy hoạch xây dựng được cấp có thẩm quyền phê duyệt.\n\n**8\\. Công an tỉnh**\n\n\\- Chỉ đạo Công an các huyện, thành phố, công an các xã, phường, thị trấn phối hợp với Thanh tra Xây dựng, Đội Quản lý trật tự đô thị và chính quyền địa phương thực hiện nghiêm các quyết định đình chỉ thi công xây dựng công trình; quyết định cưỡng chế phá dỡ của cấp có thẩm quyền đối với công trình vi phạm theo quy định.\n\n**9\\. Tổ chức thực hiện**\n\nThủ trưởng các Sở, Ngành liên quan; Chủ tịch Ủy ban nhân dân các huyện, thành phố tổ chức quán triệt, xây dựng kế hoạch cụ thể và triển khai thực hiện nghiêm túc Chỉ thị này.\n\nSở Xây dựng chủ trì, phối hợp với các đơn vị có liên quan kiểm tra, theo dõi, hướng dẫn và báo cáo Ủy ban nhân dân tỉnh định kỳ 06 tháng, hằng năm sơ kết, tổng kết về kết quả triển khai thực hiện Chỉ thị này./.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n  \n  \nLý Thái Hải**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA5ADEANQA=-->\n <tbody><tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN\n  <br>\n  TỈNH BẮC KẠN<br>\n  -------</b></p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 05/CT-UBND</p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Bắc Kạn, ngày 14\n  tháng 7 năm 2023</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b> </b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">CHỈ THỊ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">VỀ VIỆC CHẤN CHỈNH, TĂNG CƯỜNG KỶ CƯƠNG, KỶ LUẬT TRONG VIỆC\nCHẤP HÀNH PHÁP LUẬT VỀ TÀI CHÍNH – NGÂN SÁCH NHÀ NƯỚC</a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trong thời gian qua, các sở,\nban, ngành, đoàn thể, UBND các huyện, thành phố đã có nhiều nỗ lực, cố gắng, thực\nhiện tốt các nhiệm vụ, giải pháp nâng cao hiệu quả trong quản lý tài chính -\nngân sách nhà nước. Những khó khăn, tồn tại dần được khắc phục, công tác quản\nlý, điều hành thu, chi ngân sách cơ bản đảm bảo theo quy định của Luật Ngân\nsách Nhà nước, đáp ứng nhu cầu phát triển kinh tế, an sinh xã hội trên địa bàn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tuy nhiên, bên cạnh những kết\nquả đạt được, vẫn còn một số tồn tại như: Việc vi phạm chế độ, chính sách quản\nlý thu, chi ở một số đơn vị, công tác thẩm định giá chưa kịp thời, tỷ lệ giải\nngân vốn đầu tư công và vốn các chương trình mục tiêu quốc gia đạt thấp, việc\nthực hiện kiến nghị, kết luận của cơ quan kiểm toán, thanh tra còn chậm,… được\nphản ánh qua kết quả kiểm toán, thanh tra việc quản lý, sử dụng ngân sách nhà\nnước và kiểm tra, kiểm toán quyết toán ngân sách địa phương trong những năm gần\nđây.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Để kịp thời chấn chỉnh, khắc phục\nnhững tồn tại nêu trên, tạo chuyển biến mạnh trong công tác quản lý tài chính -\nngân sách nhà nước, góp phần vào sự phát triển kinh tế - xã hội của tỉnh và các\nđịa phương, Chủ tịch UBND tỉnh yêu cầu Giám đốc các sở, Thủ trưởng các ban,\nngành, đơn vị cấp tỉnh, Chủ tịch UBND các huyện, thành phố nghiêm chỉnh chấp\nhành quy định của Luật Ngân sách Nhà nước năm 2015 và các văn bản hướng dẫn dưới\nLuật, chỉ đạo của Trung ương và Chỉ thị số <a class=\"text-blue\" target=\"_blank\" title=\"Chỉ thị 22/CT-TTg\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/chi-thi-22-ct-ttg-2023-tang-cuong-ky-luat-chap-hanh-phap-luat-ve-tai-chinh-ngan-sach-nha-nuoc-570742.aspx\">22/CT-TTg</a>  ngày 23/6/2023 của Thủ tướng\nChính phủ, trong đó tập trung thực hiện một số nhiệm vụ sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b>1. Các sở,\nban, ngành, đoàn thể, UBND các huyện, thành phố</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Rà soát, đánh giá kết quả thực\nhiện 6 tháng đầu năm đối với những giải pháp, nhiệm vụ được UBND tỉnh giao tại\nChương trình hành động về nâng cao hiệu quả quản lý tài chính - ngân sách trên\nđịa bàn tỉnh Bắc Kạn; qua đó có kế hoạch thực hiện nhiệm vụ 6 tháng cuối năm\n2023, đảm bảo hoàn thành các nhiệm vụ chuyên môn được giao, tiết kiệm, hiệu quả,\nđúng tiêu chuẩn, định mức, chế độ quy định; nâng cao hiệu quả sử dụng ngân sách\nnhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện giải ngân các nguồn\nvốn được giao trong năm theo đúng kế hoạch, tiến độ giải ngân đã cam kết. Thường\nxuyên theo dõi, báo cáo tiến độ giải ngân đúng thời hạn, xử lý khó khăn vướng mắc\nkịp thời, phấn đấu giải ngân 100% kinh phí theo dự toán được giao. Trường hợp dự\nán, nhiệm vụ dự kiến trong năm không triển khai thực hiện được hoặc triển khai\nkhông hết dự toán được giao, các chủ đầu tư, đơn vị dự toán các cấp phải có báo\ncáo về UBND cùng cấp <i>(qua Sở Kế</i> <i>hoạch và Đầu tư, cơ quan Tài chính\ncùng cấp) </i>trước <b>ngày 30/9 </b>hàng năm để xem xét, quyết định điều chỉnh\nsang dự án, nhiệm vụ còn thiếu vốn có khả năng giải ngân trong năm. Thủ trưởng\ncác cơ quan, đơn vị, địa phương chịu trách nhiệm trước UBND tỉnh về tiến độ giải\nngân, chất lượng thực hiện nhiệm vụ của cơ quan, đơn vị, địa phương mình quản\nlý.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ đầu tư các công trình, dự\nán: Nâng cao chất lượng công tác chuẩn bị và tổ chức thực hiện dự án; quyết liệt\ntriển khai các giải pháp theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ và\nUBND tỉnh nhằm thúc đẩy giải ngân vốn đầu tư công, phấn đấu giải ngân hết kế hoạch\nvốn hằng năm đã phân bổ, hạn chế tối đa số dư dự toán bị hủy bỏ hoặc chuyển nguồn\nsang năm sau; thực hiện thanh toán khối lượng hoàn thành theo quy định, thường\nxuyên rà soát số dư tạm ứng, kịp thời thu hồi các khoản tạm ứng không đúng quy\nđịnh, tạm ứng không có khối lượng thực hiện, tạm ứng kéo dài nhiều năm, quá thời\nhạn quy định. Lập báo cáo quyết toán vốn đầu tư hằng năm và lập hồ sơ quyết\ntoán vốn đầu tư dự án hoàn thành theo đúng thời hạn quy định; không để xảy ra\ntình trạng tồn đọng các dự án đã hoàn thành, nhưng chậm lập, thẩm tra, phê duyệt\nquyết toán.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Các đơn vị dự toán ngân sách:\nThực hiện nhiệm vụ chi theo đúng nguồn kinh phí được giao; trường hợp không còn\nnhiệm vụ chi, phải hoàn trả ngân sách nhà nước theo quy định; nghiêm cấm các\ntrường hợp chi sai nguồn, mượn nguồn của các cấp ngân sách khi chưa được sự cho\nphép của cơ quan có thẩm quyền; nghiêm cấm thực hiện các khoản chi ngoài dự\ntoán, các khoản chi trái quy định của pháp luật. Thực hiện xét duyệt, thẩm định\nsố liệu quyết toán thu, chi ngân sách nhà nước của các đơn vị dự toán trực thuộc\nvà các đơn vị dự toán cấp dưới, đảm bảo đúng chế độ kế toán, quy định của Luật\nNgân sách Nhà nước và các văn bản hướng dẫn; đồng thời tổng hợp số liệu quyết\ntoán ngân sách nhà nước hằng năm báo cáo cơ quan tài chính đúng thời hạn quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Đẩy mạnh việc sắp xếp bộ máy,\ntinh giản biên chế, thực hiện cơ chế tự chủ của các đơn vị sự nghiệp công lập\ntrên cơ sở phù hợp với tình hình thực tiễn của từng ngành, từng đơn vị. Chú trọng\nviệc đẩy nhanh tiến độ xây dựng định mức kinh tế kỹ thuật của các dịch vụ sự\nnghiệp công. Xây dựng phương án tăng cường mức độ tự chủ tài chính của các đơn\nvị sự nghiệp công lập theo quy định; thúc đẩy sự tham gia của các thành phần\ntrong xã hội vào việc cung cấp dịch vụ sự nghiệp công, góp phần nâng cao chất\nlượng dịch vụ sự nghiệp công, đồng thời giảm áp lực lên ngân sách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Rà soát, khẩn trương trình cấp\ncó thẩm quyền ban hành tiêu chuẩn, định mức sử dụng tài sản công chuyên dùng\ntheo quy định của Luật quản lý, sử dụng tài sản công và các văn bản hướng dẫn;\nđầu tư xây dựng, mua sắm tài sản công theo đúng chế độ, tiêu chuẩn, định mức, đảm\nbảo tiết kiệm, công khai, minh bạch; chú trọng công tác thẩm định giá theo phân\ncấp đảm bảo kịp thời, đúng quy định; khai thác hiệu quả tài sản kết cấu hạ tầng;\nsử dụng hiệu quả tài sản công tại đơn vị sự nghiệp công lập vào mục đích kinh\ndoanh, cho thuê, liên doanh, liên kết theo đúng quy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Khẩn trương thực hiện sắp xếp\nlại, xử lý nhà, đất theo Kế hoạch số 394/KH-UBND ngày 21/6/2023 của UBND tỉnh về\nviệc triển khai thực hiện việc sắp xếp lại, xử lý nhà, đất thuộc phạm vi quản\nlý của tỉnh Bắc Kạn theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 167/2017/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-167-2017-nd-cp-quy-dinh-viec-sap-xep-lai-tai-san-cong-358573.aspx\">167/2017/NĐ-CP</a>  ngày 31/12/2017 và Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 67/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-67-2021-nd-cp-sua-doi-nghi-dinh-167-2017-nd-cp-sap-xep-lai-xu-ly-tai-san-cong-481375.aspx\">67/2021/NĐ-CP</a>  ngày 15/7/2021 của Chính phủ; trình cấp có thẩm quyền thu hồi\ncác tài sản sử dụng sai đối tượng, sai mục đích, vượt tiêu chuẩn, định mức; xử\nlý tài sản không còn nhu cầu sử dụng đảm bảo đúng theo quy định; tổ chức xử lý\ntài sản đúng theo pháp luật, công khai, minh bạch, không để lãng phí thất thoát\ntài sản công.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện việc quản lý, sử dụng\nvà báo cáo quyết toán, công khai tài chính các quỹ tài chính ngoài ngân sách hằng\nnăm theo quy định của Luật Ngân sách Nhà nước và các văn bản pháp luật có liên\nquan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổ chức thực hiện và báo cáo\nkết quả xử lý các kiến nghị, kết luận của cơ quan Kiểm toán Nhà nước, Thanh tra\ntrong đó tập trung làm rõ nguyên nhân, trách nhiệm của các đơn vị, cá nhân liên\nquan; đề xuất giải pháp và phối hợp với các cơ quan liên quan để xử lý dứt điểm\ncác kiến nghị, kết luận còn tồn đọng từ các năm trước và định kỳ tổng hợp, báo\ncáo kết quả xử lý, gửi Sở Tài chính để tổng hợp báo cáo theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b>2. Cơ quan\ntài chính các cấp</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Phối hợp với cơ quan Thuế,\nChi cục Hải quan Bắc Kạn lập dự toán thu ngân sách nhà nước theo đúng quy định\ncủa Luật Ngân sách Nhà nước, Luật Quản lý thuế, các Luật thuế, chế độ thu, đảm\nbảo tính tích cực, vững chắc và bao quát hết các nguồn thu, có tính đến các khoản\nthu đột biến, đặc thù; nâng cao chất lượng công tác phân tích, dự báo, xây dựng\ndự toán thu, nhất là các khoản thu tiền sử dụng đất, thu tiền cho thuê đất; khắc\nphục tình trạng dự báo, xây dựng dự toán thu ngân sách chưa sát với thực tế\ntrong thời gian qua.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Lập dự toán chi ngân sách nhà\nnước hằng năm theo quy định của Luật Ngân sách Nhà nước, Luật Đầu tư công và\ncác văn bản hướng dẫn, bám sát mục tiêu, định hướng, yêu cầu của Kế hoạch phát\ntriển kinh tế - xã hội 05 năm của địa phương, Kế hoạch tài chính - ngân sách\nnhà nước 03 năm; trên cơ sở các chính sách, chế độ, định mức chi ngân sách nhà\nnước, nhiệm vụ phát triển kinh tế - xã hội theo quyết định của cấp có thẩm quyền;\ntham mưu bố trí chi ngân sách nhà nước trong phạm vi khả năng ngân sách địa\nphương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tham mưu quản lý ngân sách chặt\nchẽ, tuân thủ theo đúng quy định của pháp luật về ngân sách nhà nước; không sử\ndụng ngân sách để cho vay, tạm ứng đối với những việc, nội dung sai chế độ quy\nđịnh. Chủ động tham mưu cho UBND các cấp tổ chức điều hành ngân sách theo dự\ntoán đã được HĐND phê chuẩn, bảo đảm chặt chẽ, tiết kiệm, hiệu quả, đúng quy định;\nrà soát, sắp xếp các nhiệm vụ chi, cân đối ngân sách để bố trí cho các nhiệm vụ\nchi quan trọng, cấp bách phát sinh trong năm và điều chỉnh các nhiệm vụ chi được\ngiao từ đầu năm nhưng chưa chi để bố trí các nhiệm vụ chi mới phát sinh nhằm giảm\náp lực cho ngân sách cấp trên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện bổ sung có mục tiêu\ntừ ngân sách cấp trên cho ngân sách cấp dưới theo quy định về nguyên tắc, tiêu\nchí, định mức phân bổ, chế độ, chính sách chi ngân sách trong phạm vi khả năng\nnguồn lực của ngân sách cấp trên và khả năng cân đối ngân sách của từng địa\nphương cấp dưới. Việc sử dụng vốn, kinh phí bổ sung có mục tiêu phải theo đúng\nmục tiêu quy định; trường hợp sử dụng không đúng mục tiêu hoặc sử dụng không hết\nphải hoàn trả ngân sách cấp trên kịp thời theo quy định của Luật Ngân sách Nhà\nnước và các văn bản hướng dẫn có liên quan.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thẩm định kinh phí đối với\ncác nhiệm vụ, Chương trình, Đề án, chế độ, chính sách phát sinh đảm bảo chặt chẽ,\ntiết kiệm, đúng chế độ, tiêu chuẩn, định mức hiện hành của Nhà nước; đặc biệt\nchú trọng công tác thẩm định giá đảm bảo kịp thời, đúng quy định; không tham mưu\nbố trí kinh phí cho những nhiệm vụ chưa cấp bách, quan trọng phát sinh trong\nnăm.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thực hiện xét duyệt, thẩm định\nbáo cáo quyết toán ngân sách nhà nước của các đơn vị dự toán trực thuộc và ngân\nsách cấp dưới, tổng hợp báo cáo theo đúng chế độ và thời hạn quy định. Khi xét\nduyệt, thẩm định, tổng hợp quyết toán ngân sách nhà nước hằng năm, nếu phát hiện\ncác khoản chi sai chế độ hoặc không đủ điều kiện quyết toán thì xử lý theo đúng\nquy định của pháp luật về ngân sách nhà nước; nếu chi sai thì phải thu hồi nộp\nđủ cho ngân sách nhà nước; nếu chưa đủ điều kiện quyết toán thì phải hoàn thiện\nthủ tục quyết toán theo quy định, xử lý, thu hồi các khoản chuyển nguồn không\nđúng quy định và hạn chế chuyển nguồn sang năm sau. Trong quá trình thẩm định,\ntổng hợp quyết toán ngân sách cấp dưới, nếu phát hiện sai sót, sai phạm thì cơ\nquan tài chính cấp trên xử lý và có văn bản thông báo cho Ủy ban nhân dân cấp\ndưới để báo cáo Hội đồng nhân dân cùng cấp điều chỉnh quyết toán ngân sách nhà\nnước theo đúng quy định tại Điều 67 Luật Ngân sách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tiếp tục thực hiện chỉ đạo của\nUBND tỉnh tại Công văn số 3504/UBND- TH ngày 07/6/2023 về việc tăng cường công\ntác quản lý, giám sát và khắc phục những tồn tại, hạn chế trong quản lý quỹ tài\nchính nhà nước ngoài ngân sách; tăng cường quản lý, nâng cao tính minh bạch, hiệu\nquả hoạt động của các quỹ, sắp xếp lại các quỹ có nguồn thu, nhiệm vụ chi trùng\nlặp với ngân sách nhà nước hoặc không còn phù hợp theo Nghị quyết số\n23/2021/QH15 ngày 28/7/2021 của Quốc hội và Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 792/NQ-UBTVQH14\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-792-nq-ubtvqh14-2019-quan-ly-quy-tai-chinh-nha-nuoc-ngoai-ngan-sach-nha-nuoc-429588.aspx\">792/NQ-UBTVQH14</a>  ngày\n22/10/2019 của Ủy ban Thường vụ Quốc hội về một số nhiệm vụ và giải pháp đẩy mạnh\nviệc thực hiện chính sách pháp luật về quản lý, sử dụng các quỹ tài chính nhà\nnước ngoài ngân sách.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tăng cường kiểm soát chặt chẽ\nnợ chính quyền địa phương, tham mưu bố trí nguồn trả nợ đầy đủ, đúng hạn, không\nđể xảy ra tình trạng nợ quá hạn làm ảnh hưởng đến cam kết vay của tỉnh Bắc Kạn\nvới Bộ Tài chính; tham mưu huy động để bù đắp bội chi ngân sách địa phương\ntrong phạm vi dự toán Quốc hội quyết định, bố trí chi trả nợ lãi trong chi cân\nđối ngân sách địa phương; chi trả nợ gốc ngoài chi cân đối ngân sách địa phương\nđược bố trí từ nguồn vay, kết dư ngân sách cấp tỉnh và nguồn tăng thu tiết kiệm\nchi theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổ chức kiểm tra chuyên đề\ncông tác quản lý, sử dụng tài sản công tại các cơ quan, tổ chức, đơn vị thuộc tỉnh\nquản lý theo Kế hoạch của UBND tỉnh triển khai thực hiện chỉ đạo của Bộ Tài\nchính tại Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 5783/BTC-QLCS\" href=\"https://thuvienphapluat.vn/cong-van/tai-chinh-nha-nuoc/cong-van-5783-btc-qlcs-2023-kiem-tra-chuyen-de-cong-tac-quan-ly-tai-san-cong-tai-co-quan-570522.aspx\">5783/BTC-QLCS</a>  ngày 07/6/2023 về việc thực hiện kiểm tra\nchuyên đề công tác quản lý, sử dụng tài sản công.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tổ chức đôn đốc, chỉ đạo thực\nhiện và báo cáo kết quả xử lý các kiến nghị, kết luận của cơ quan Kiểm toán Nhà\nnước, Thanh tra; định kỳ tổng hợp, báo cáo kết quả xử lý gửi Bộ Tài chính cùng\nvới báo cáo quyết toán ngân sách nhà nước hằng năm theo hướng dẫn của Bộ Tài\nchính trong đó phải nêu rõ những tồn tại trong quản lý, sử dụng các nguồn lực\ntài chính - ngân sách nhà nước, đầu tư công, tài sản công đã được khắc phục, những\ntồn tại chưa khắc phục và thời gian, biện pháp để khắc phục trong thời gian tới.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Thường xuyên kiểm tra, đôn đốc\ntiến độ thực hiện nhiệm vụ chi ngân sách của các đơn vị, địa phương; tham mưu xử\nlý kịp thời những khó khăn, vướng mắc trong quá trình thực hiện nhiệm vụ chi\nngân sách của các đơn vị, địa phương.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b>3. Sở Kế hoạch\nvà Đầu tư</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Lập kế hoạch đầu tư công hằng\nnăm theo đúng trình tự, thủ tục của Luật đầu tư công. Thực hiện nghiêm việc\nphân bổ, giao chi tiết kế hoạch đầu tư công vốn ngân sách nhà nước cho các đơn\nvị trực thuộc, Ủy ban nhân dân cấp dưới trước ngày 31 tháng 12 năm kế hoạch,\ntheo đúng nguyên tắc, thứ tự ưu tiên quy định tại Luật Đầu tư công, các Nghị\nquyết của Quốc hội về dự toán ngân sách nhà nước và phân bổ ngân sách trung\nương hằng năm; đảm bảo kinh phí thực hiện các nhiệm vụ, dự án quan trọng, cấp\nbách và chủ động bố trí kinh phí để hoàn trả kinh phí đã ứng trước, xử lý dứt\nđiểm nợ đọng xây dựng cơ bản theo quy định của Luật Đầu tư công và Luật Ngân\nsách nhà nước.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Chủ trì, phối hợp với các cơ\nquan, đơn vị liên quan tham mưu phân bổ nguồn vốn đầu tư cho các chương trình,\ndự án đầu tư đúng thẩm quyền, phù hợp với tính chất nguồn vốn, nhu cầu, tiến độ\nthực hiện dự án và trong phạm vi tổng số vốn được cấp có thẩm quyền quyết định,\nđảm bảo chặt chẽ, tiết kiệm, hiệu quả; đảm bảo cân đối ngân sách hàng năm và trong\ntrung hạn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tăng cường kiểm soát chặt chẽ\ncông tác giải ngân vốn đầu tư xây dựng cơ bản, tập trung thực hiện các giải\npháp về đẩy mạnh giải ngân, gắn với nâng cao hiệu quả quản lý, sử dụng vốn đầu\ntư công; thường xuyên kiểm tra, đôn đốc, phát hiện kịp thời những dự án có tỷ lệ\ngiải ngân thấp để xác định nguyên nhân và có giải pháp tháo gỡ; gắn trách nhiệm\ncủa người đứng đầu cơ quan, đơn vị với kết quả giải ngân; kiên quyết cắt giảm,\nđiều chuyển vốn đầu tư các dự án chậm giải ngân sang các dự án có khả năng giải\nngân tốt hơn.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b>4. Kho bạc\nNhà nước các cấp:</b></a><b> </b>Tăng cường công tác kiểm soát chi ngân sách, đảm\nbảo mọi khoản chi phải đúng chế độ, tiêu chuẩn, định mức chi tiêu do cấp có thẩm\nquyền ban hành; thực hiện đầy đủ nguyên tắc kiểm soát, thanh toán vốn đầu tư\nxây dựng cơ bản, tạo điều kiện thuận lợi cho các chủ đầu tư và nhà thầu được tạm\nứng, thanh toán khối lượng hoàn thành đúng với quy định; đôn đốc các chủ đầu tư\nvà nhà thầu khẩn trương thanh toán khối lượng đã được tạm ứng, nhằm hạn chế chi\nchuyển nguồn tạm ứng vốn đầu tư sang năm sau. Tăng cường đôn đốc thu hồi các\nkhoản phải thu sau quyết toán dự án hoàn thành.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_5\"><b>5. Các cơ\nquan thanh, kiểm tra của tỉnh</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tăng cường công tác kiểm tra,\nthanh tra tài chính; kiểm tra, thanh tra việc sắp xếp lại, xử lý tài sản công,\nviệc quản lý, sử dụng tài sản công tại các cơ quan, tổ chức, đơn vị thuộc phạm\nvi quản lý. Xử lý kịp thời, nghiêm minh theo quy định của pháp luật đối với các\ntổ chức, cá nhân thuộc thẩm quyền quản lý có hành vi vi phạm trong quản lý, sử\ndụng tài chính, tài sản công.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Tăng cường công tác thanh\ntra, kiểm tra trách nhiệm của thủ trưởng đơn vị trong công tác thực hành tiết\nkiệm, chống lãng phí, phòng chống tham nhũng và giải quyết khiếu nại, tố cáo.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_6\"><b>6. Tổ chức\nthực hiện</b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Các sở, ban, ngành, đoàn thể,\nUBND các huyện, thành phố tổ chức thực hiện nghiêm Chỉ thị này; định kỳ hằng\nnăm báo cáo kết quả thực hiện cùng với Báo cáo quyết toán ngân sách của đơn vị</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">- Sở Tài chính đôn đốc các cơ\nquan, đơn vị và địa phương thực hiện Chỉ thị này; định kỳ hằng năm tổng hợp,\ntham mưu cho UBND tỉnh báo cáo Bộ Tài chính cùng với báo cáo quyết toán ngân\nsách địa phương./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b><i> </i></b></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA5ADEANQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- TT Tỉnh ủy (B/c);<br>\n  - TT HĐND tỉnh (B/c);<br>\n  - CT, các PCT UBND tỉnh;<br>\n  - Các Sở, ban, ngành, đoàn thể;<br>\n  - UBND các huyện, thành phố;<br>\n  - Huyện ủy, Thành ủy;<br>\n  - LĐVP;<br>\n  - Lưu: VT, TH <sub>(Lan)</sub>.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  </b><br>\n  <b>Nguyễn Đăng Bình</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH BẮC KẠN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 05/CT-UBND\n\n_Bắc Kạn, ngày 14 tháng 7 năm 2023_\n\n**CHỈ THỊ**\n\nVỀ VIỆC CHẤN CHỈNH, TĂNG CƯỜNG KỶ CƯƠNG, KỶ LUẬT TRONG VIỆC CHẤP HÀNH PHÁP LUẬT VỀ TÀI CHÍNH – NGÂN SÁCH NHÀ NƯỚC\n\nTrong thời gian qua, các sở, ban, ngành, đoàn thể, UBND các huyện, thành phố đã có nhiều nỗ lực, cố gắng, thực hiện tốt các nhiệm vụ, giải pháp nâng cao hiệu quả trong quản lý tài chính - ngân sách nhà nước. Những khó khăn, tồn tại dần được khắc phục, công tác quản lý, điều hành thu, chi ngân sách cơ bản đảm bảo theo quy định của Luật Ngân sách Nhà nước, đáp ứng nhu cầu phát triển kinh tế, an sinh xã hội trên địa bàn.\n\nTuy nhiên, bên cạnh những kết quả đạt được, vẫn còn một số tồn tại như: Việc vi phạm chế độ, chính sách quản lý thu, chi ở một số đơn vị, công tác thẩm định giá chưa kịp thời, tỷ lệ giải ngân vốn đầu tư công và vốn các chương trình mục tiêu quốc gia đạt thấp, việc thực hiện kiến nghị, kết luận của cơ quan kiểm toán, thanh tra còn chậm,… được phản ánh qua kết quả kiểm toán, thanh tra việc quản lý, sử dụng ngân sách nhà nước và kiểm tra, kiểm toán quyết toán ngân sách địa phương trong những năm gần đây.\n\nĐể kịp thời chấn chỉnh, khắc phục những tồn tại nêu trên, tạo chuyển biến mạnh trong công tác quản lý tài chính - ngân sách nhà nước, góp phần vào sự phát triển kinh tế - xã hội của tỉnh và các địa phương, Chủ tịch UBND tỉnh yêu cầu Giám đốc các sở, Thủ trưởng các ban, ngành, đơn vị cấp tỉnh, Chủ tịch UBND các huyện, thành phố nghiêm chỉnh chấp hành quy định của Luật Ngân sách Nhà nước năm 2015 và các văn bản hướng dẫn dưới Luật, chỉ đạo của Trung ương và Chỉ thị số [22/CT-TTg](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/chi-thi-22-ct-ttg-2023-tang-cuong-ky-luat-chap-hanh-phap-luat-ve-tai-chinh-ngan-sach-nha-nuoc-570742.aspx \"Chỉ thị 22/CT-TTg\") ngày 23/6/2023 của Thủ tướng Chính phủ, trong đó tập trung thực hiện một số nhiệm vụ sau:\n\n**1\\. Các sở, ban, ngành, đoàn thể, UBND các huyện, thành phố**\n\n\\- Rà soát, đánh giá kết quả thực hiện 6 tháng đầu năm đối với những giải pháp, nhiệm vụ được UBND tỉnh giao tại Chương trình hành động về nâng cao hiệu quả quản lý tài chính - ngân sách trên địa bàn tỉnh Bắc Kạn; qua đó có kế hoạch thực hiện nhiệm vụ 6 tháng cuối năm 2023, đảm bảo hoàn thành các nhiệm vụ chuyên môn được giao, tiết kiệm, hiệu quả, đúng tiêu chuẩn, định mức, chế độ quy định; nâng cao hiệu quả sử dụng ngân sách nhà nước.\n\n\\- Thực hiện giải ngân các nguồn vốn được giao trong năm theo đúng kế hoạch, tiến độ giải ngân đã cam kết. Thường xuyên theo dõi, báo cáo tiến độ giải ngân đúng thời hạn, xử lý khó khăn vướng mắc kịp thời, phấn đấu giải ngân 100% kinh phí theo dự toán được giao. Trường hợp dự án, nhiệm vụ dự kiến trong năm không triển khai thực hiện được hoặc triển khai không hết dự toán được giao, các chủ đầu tư, đơn vị dự toán các cấp phải có báo cáo về UBND cùng cấp _(qua Sở Kế_ _hoạch và Đầu tư, cơ quan Tài chính cùng cấp)_ trước **ngày 30/9** hàng năm để xem xét, quyết định điều chỉnh sang dự án, nhiệm vụ còn thiếu vốn có khả năng giải ngân trong năm. Thủ trưởng các cơ quan, đơn vị, địa phương chịu trách nhiệm trước UBND tỉnh về tiến độ giải ngân, chất lượng thực hiện nhiệm vụ của cơ quan, đơn vị, địa phương mình quản lý.\n\n\\- Chủ đầu tư các công trình, dự án: Nâng cao chất lượng công tác chuẩn bị và tổ chức thực hiện dự án; quyết liệt triển khai các giải pháp theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ và UBND tỉnh nhằm thúc đẩy giải ngân vốn đầu tư công, phấn đấu giải ngân hết kế hoạch vốn hằng năm đã phân bổ, hạn chế tối đa số dư dự toán bị hủy bỏ hoặc chuyển nguồn sang năm sau; thực hiện thanh toán khối lượng hoàn thành theo quy định, thường xuyên rà soát số dư tạm ứng, kịp thời thu hồi các khoản tạm ứng không đúng quy định, tạm ứng không có khối lượng thực hiện, tạm ứng kéo dài nhiều năm, quá thời hạn quy định. Lập báo cáo quyết toán vốn đầu tư hằng năm và lập hồ sơ quyết toán vốn đầu tư dự án hoàn thành theo đúng thời hạn quy định; không để xảy ra tình trạng tồn đọng các dự án đã hoàn thành, nhưng chậm lập, thẩm tra, phê duyệt quyết toán.\n\n\\- Các đơn vị dự toán ngân sách: Thực hiện nhiệm vụ chi theo đúng nguồn kinh phí được giao; trường hợp không còn nhiệm vụ chi, phải hoàn trả ngân sách nhà nước theo quy định; nghiêm cấm các trường hợp chi sai nguồn, mượn nguồn của các cấp ngân sách khi chưa được sự cho phép của cơ quan có thẩm quyền; nghiêm cấm thực hiện các khoản chi ngoài dự toán, các khoản chi trái quy định của pháp luật. Thực hiện xét duyệt, thẩm định số liệu quyết toán thu, chi ngân sách nhà nước của các đơn vị dự toán trực thuộc và các đơn vị dự toán cấp dưới, đảm bảo đúng chế độ kế toán, quy định của Luật Ngân sách Nhà nước và các văn bản hướng dẫn; đồng thời tổng hợp số liệu quyết toán ngân sách nhà nước hằng năm báo cáo cơ quan tài chính đúng thời hạn quy định.\n\n\\- Đẩy mạnh việc sắp xếp bộ máy, tinh giản biên chế, thực hiện cơ chế tự chủ của các đơn vị sự nghiệp công lập trên cơ sở phù hợp với tình hình thực tiễn của từng ngành, từng đơn vị. Chú trọng việc đẩy nhanh tiến độ xây dựng định mức kinh tế kỹ thuật của các dịch vụ sự nghiệp công. Xây dựng phương án tăng cường mức độ tự chủ tài chính của các đơn vị sự nghiệp công lập theo quy định; thúc đẩy sự tham gia của các thành phần trong xã hội vào việc cung cấp dịch vụ sự nghiệp công, góp phần nâng cao chất lượng dịch vụ sự nghiệp công, đồng thời giảm áp lực lên ngân sách nhà nước.\n\n\\- Rà soát, khẩn trương trình cấp có thẩm quyền ban hành tiêu chuẩn, định mức sử dụng tài sản công chuyên dùng theo quy định của Luật quản lý, sử dụng tài sản công và các văn bản hướng dẫn; đầu tư xây dựng, mua sắm tài sản công theo đúng chế độ, tiêu chuẩn, định mức, đảm bảo tiết kiệm, công khai, minh bạch; chú trọng công tác thẩm định giá theo phân cấp đảm bảo kịp thời, đúng quy định; khai thác hiệu quả tài sản kết cấu hạ tầng; sử dụng hiệu quả tài sản công tại đơn vị sự nghiệp công lập vào mục đích kinh doanh, cho thuê, liên doanh, liên kết theo đúng quy định của pháp luật.\n\n\\- Khẩn trương thực hiện sắp xếp lại, xử lý nhà, đất theo Kế hoạch số 394/KH-UBND ngày 21/6/2023 của UBND tỉnh về việc triển khai thực hiện việc sắp xếp lại, xử lý nhà, đất thuộc phạm vi quản lý của tỉnh Bắc Kạn theo Nghị định số [167/2017/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-167-2017-nd-cp-quy-dinh-viec-sap-xep-lai-tai-san-cong-358573.aspx \"Nghị định 167/2017/NĐ-CP\") ngày 31/12/2017 và Nghị định số [67/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-dinh-67-2021-nd-cp-sua-doi-nghi-dinh-167-2017-nd-cp-sap-xep-lai-xu-ly-tai-san-cong-481375.aspx \"Nghị định 67/2021/NĐ-CP\") ngày 15/7/2021 của Chính phủ; trình cấp có thẩm quyền thu hồi các tài sản sử dụng sai đối tượng, sai mục đích, vượt tiêu chuẩn, định mức; xử lý tài sản không còn nhu cầu sử dụng đảm bảo đúng theo quy định; tổ chức xử lý tài sản đúng theo pháp luật, công khai, minh bạch, không để lãng phí thất thoát tài sản công.\n\n\\- Thực hiện việc quản lý, sử dụng và báo cáo quyết toán, công khai tài chính các quỹ tài chính ngoài ngân sách hằng năm theo quy định của Luật Ngân sách Nhà nước và các văn bản pháp luật có liên quan.\n\n\\- Tổ chức thực hiện và báo cáo kết quả xử lý các kiến nghị, kết luận của cơ quan Kiểm toán Nhà nước, Thanh tra trong đó tập trung làm rõ nguyên nhân, trách nhiệm của các đơn vị, cá nhân liên quan; đề xuất giải pháp và phối hợp với các cơ quan liên quan để xử lý dứt điểm các kiến nghị, kết luận còn tồn đọng từ các năm trước và định kỳ tổng hợp, báo cáo kết quả xử lý, gửi Sở Tài chính để tổng hợp báo cáo theo quy định.\n\n**2\\. Cơ quan tài chính các cấp**\n\n\\- Phối hợp với cơ quan Thuế, Chi cục Hải quan Bắc Kạn lập dự toán thu ngân sách nhà nước theo đúng quy định của Luật Ngân sách Nhà nước, Luật Quản lý thuế, các Luật thuế, chế độ thu, đảm bảo tính tích cực, vững chắc và bao quát hết các nguồn thu, có tính đến các khoản thu đột biến, đặc thù; nâng cao chất lượng công tác phân tích, dự báo, xây dựng dự toán thu, nhất là các khoản thu tiền sử dụng đất, thu tiền cho thuê đất; khắc phục tình trạng dự báo, xây dựng dự toán thu ngân sách chưa sát với thực tế trong thời gian qua.\n\n\\- Lập dự toán chi ngân sách nhà nước hằng năm theo quy định của Luật Ngân sách Nhà nước, Luật Đầu tư công và các văn bản hướng dẫn, bám sát mục tiêu, định hướng, yêu cầu của Kế hoạch phát triển kinh tế - xã hội 05 năm của địa phương, Kế hoạch tài chính - ngân sách nhà nước 03 năm; trên cơ sở các chính sách, chế độ, định mức chi ngân sách nhà nước, nhiệm vụ phát triển kinh tế - xã hội theo quyết định của cấp có thẩm quyền; tham mưu bố trí chi ngân sách nhà nước trong phạm vi khả năng ngân sách địa phương.\n\n\\- Tham mưu quản lý ngân sách chặt chẽ, tuân thủ theo đúng quy định của pháp luật về ngân sách nhà nước; không sử dụng ngân sách để cho vay, tạm ứng đối với những việc, nội dung sai chế độ quy định. Chủ động tham mưu cho UBND các cấp tổ chức điều hành ngân sách theo dự toán đã được HĐND phê chuẩn, bảo đảm chặt chẽ, tiết kiệm, hiệu quả, đúng quy định; rà soát, sắp xếp các nhiệm vụ chi, cân đối ngân sách để bố trí cho các nhiệm vụ chi quan trọng, cấp bách phát sinh trong năm và điều chỉnh các nhiệm vụ chi được giao từ đầu năm nhưng chưa chi để bố trí các nhiệm vụ chi mới phát sinh nhằm giảm áp lực cho ngân sách cấp trên.\n\n\\- Thực hiện bổ sung có mục tiêu từ ngân sách cấp trên cho ngân sách cấp dưới theo quy định về nguyên tắc, tiêu chí, định mức phân bổ, chế độ, chính sách chi ngân sách trong phạm vi khả năng nguồn lực của ngân sách cấp trên và khả năng cân đối ngân sách của từng địa phương cấp dưới. Việc sử dụng vốn, kinh phí bổ sung có mục tiêu phải theo đúng mục tiêu quy định; trường hợp sử dụng không đúng mục tiêu hoặc sử dụng không hết phải hoàn trả ngân sách cấp trên kịp thời theo quy định của Luật Ngân sách Nhà nước và các văn bản hướng dẫn có liên quan.\n\n\\- Thẩm định kinh phí đối với các nhiệm vụ, Chương trình, Đề án, chế độ, chính sách phát sinh đảm bảo chặt chẽ, tiết kiệm, đúng chế độ, tiêu chuẩn, định mức hiện hành của Nhà nước; đặc biệt chú trọng công tác thẩm định giá đảm bảo kịp thời, đúng quy định; không tham mưu bố trí kinh phí cho những nhiệm vụ chưa cấp bách, quan trọng phát sinh trong năm.\n\n\\- Thực hiện xét duyệt, thẩm định báo cáo quyết toán ngân sách nhà nước của các đơn vị dự toán trực thuộc và ngân sách cấp dưới, tổng hợp báo cáo theo đúng chế độ và thời hạn quy định. Khi xét duyệt, thẩm định, tổng hợp quyết toán ngân sách nhà nước hằng năm, nếu phát hiện các khoản chi sai chế độ hoặc không đủ điều kiện quyết toán thì xử lý theo đúng quy định của pháp luật về ngân sách nhà nước; nếu chi sai thì phải thu hồi nộp đủ cho ngân sách nhà nước; nếu chưa đủ điều kiện quyết toán thì phải hoàn thiện thủ tục quyết toán theo quy định, xử lý, thu hồi các khoản chuyển nguồn không đúng quy định và hạn chế chuyển nguồn sang năm sau. Trong quá trình thẩm định, tổng hợp quyết toán ngân sách cấp dưới, nếu phát hiện sai sót, sai phạm thì cơ quan tài chính cấp trên xử lý và có văn bản thông báo cho Ủy ban nhân dân cấp dưới để báo cáo Hội đồng nhân dân cùng cấp điều chỉnh quyết toán ngân sách nhà nước theo đúng quy định tại Điều 67 Luật Ngân sách nhà nước.\n\n\\- Tiếp tục thực hiện chỉ đạo của UBND tỉnh tại Công văn số 3504/UBND- TH ngày 07/6/2023 về việc tăng cường công tác quản lý, giám sát và khắc phục những tồn tại, hạn chế trong quản lý quỹ tài chính nhà nước ngoài ngân sách; tăng cường quản lý, nâng cao tính minh bạch, hiệu quả hoạt động của các quỹ, sắp xếp lại các quỹ có nguồn thu, nhiệm vụ chi trùng lặp với ngân sách nhà nước hoặc không còn phù hợp theo Nghị quyết số 23/2021/QH15 ngày 28/7/2021 của Quốc hội và Nghị quyết số [792/NQ-UBTVQH14](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/nghi-quyet-792-nq-ubtvqh14-2019-quan-ly-quy-tai-chinh-nha-nuoc-ngoai-ngan-sach-nha-nuoc-429588.aspx \"Nghị quyết 792/NQ-UBTVQH14\") ngày 22/10/2019 của Ủy ban Thường vụ Quốc hội về một số nhiệm vụ và giải pháp đẩy mạnh việc thực hiện chính sách pháp luật về quản lý, sử dụng các quỹ tài chính nhà nước ngoài ngân sách.\n\n\\- Tăng cường kiểm soát chặt chẽ nợ chính quyền địa phương, tham mưu bố trí nguồn trả nợ đầy đủ, đúng hạn, không để xảy ra tình trạng nợ quá hạn làm ảnh hưởng đến cam kết vay của tỉnh Bắc Kạn với Bộ Tài chính; tham mưu huy động để bù đắp bội chi ngân sách địa phương trong phạm vi dự toán Quốc hội quyết định, bố trí chi trả nợ lãi trong chi cân đối ngân sách địa phương; chi trả nợ gốc ngoài chi cân đối ngân sách địa phương được bố trí từ nguồn vay, kết dư ngân sách cấp tỉnh và nguồn tăng thu tiết kiệm chi theo quy định.\n\n\\- Tổ chức kiểm tra chuyên đề công tác quản lý, sử dụng tài sản công tại các cơ quan, tổ chức, đơn vị thuộc tỉnh quản lý theo Kế hoạch của UBND tỉnh triển khai thực hiện chỉ đạo của Bộ Tài chính tại Công văn số [5783/BTC-QLCS](https://thuvienphapluat.vn/cong-van/tai-chinh-nha-nuoc/cong-van-5783-btc-qlcs-2023-kiem-tra-chuyen-de-cong-tac-quan-ly-tai-san-cong-tai-co-quan-570522.aspx \"Công văn 5783/BTC-QLCS\") ngày 07/6/2023 về việc thực hiện kiểm tra chuyên đề công tác quản lý, sử dụng tài sản công.\n\n\\- Tổ chức đôn đốc, chỉ đạo thực hiện và báo cáo kết quả xử lý các kiến nghị, kết luận của cơ quan Kiểm toán Nhà nước, Thanh tra; định kỳ tổng hợp, báo cáo kết quả xử lý gửi Bộ Tài chính cùng với báo cáo quyết toán ngân sách nhà nước hằng năm theo hướng dẫn của Bộ Tài chính trong đó phải nêu rõ những tồn tại trong quản lý, sử dụng các nguồn lực tài chính - ngân sách nhà nước, đầu tư công, tài sản công đã được khắc phục, những tồn tại chưa khắc phục và thời gian, biện pháp để khắc phục trong thời gian tới.\n\n\\- Thường xuyên kiểm tra, đôn đốc tiến độ thực hiện nhiệm vụ chi ngân sách của các đơn vị, địa phương; tham mưu xử lý kịp thời những khó khăn, vướng mắc trong quá trình thực hiện nhiệm vụ chi ngân sách của các đơn vị, địa phương.\n\n**3\\. Sở Kế hoạch và Đầu tư**\n\n\\- Lập kế hoạch đầu tư công hằng năm theo đúng trình tự, thủ tục của Luật đầu tư công. Thực hiện nghiêm việc phân bổ, giao chi tiết kế hoạch đầu tư công vốn ngân sách nhà nước cho các đơn vị trực thuộc, Ủy ban nhân dân cấp dưới trước ngày 31 tháng 12 năm kế hoạch, theo đúng nguyên tắc, thứ tự ưu tiên quy định tại Luật Đầu tư công, các Nghị quyết của Quốc hội về dự toán ngân sách nhà nước và phân bổ ngân sách trung ương hằng năm; đảm bảo kinh phí thực hiện các nhiệm vụ, dự án quan trọng, cấp bách và chủ động bố trí kinh phí để hoàn trả kinh phí đã ứng trước, xử lý dứt điểm nợ đọng xây dựng cơ bản theo quy định của Luật Đầu tư công và Luật Ngân sách nhà nước.\n\n\\- Chủ trì, phối hợp với các cơ quan, đơn vị liên quan tham mưu phân bổ nguồn vốn đầu tư cho các chương trình, dự án đầu tư đúng thẩm quyền, phù hợp với tính chất nguồn vốn, nhu cầu, tiến độ thực hiện dự án và trong phạm vi tổng số vốn được cấp có thẩm quyền quyết định, đảm bảo chặt chẽ, tiết kiệm, hiệu quả; đảm bảo cân đối ngân sách hàng năm và trong trung hạn.\n\n\\- Tăng cường kiểm soát chặt chẽ công tác giải ngân vốn đầu tư xây dựng cơ bản, tập trung thực hiện các giải pháp về đẩy mạnh giải ngân, gắn với nâng cao hiệu quả quản lý, sử dụng vốn đầu tư công; thường xuyên kiểm tra, đôn đốc, phát hiện kịp thời những dự án có tỷ lệ giải ngân thấp để xác định nguyên nhân và có giải pháp tháo gỡ; gắn trách nhiệm của người đứng đầu cơ quan, đơn vị với kết quả giải ngân; kiên quyết cắt giảm, điều chuyển vốn đầu tư các dự án chậm giải ngân sang các dự án có khả năng giải ngân tốt hơn.\n\n**4\\. Kho bạc Nhà nước các cấp:** Tăng cường công tác kiểm soát chi ngân sách, đảm bảo mọi khoản chi phải đúng chế độ, tiêu chuẩn, định mức chi tiêu do cấp có thẩm quyền ban hành; thực hiện đầy đủ nguyên tắc kiểm soát, thanh toán vốn đầu tư xây dựng cơ bản, tạo điều kiện thuận lợi cho các chủ đầu tư và nhà thầu được tạm ứng, thanh toán khối lượng hoàn thành đúng với quy định; đôn đốc các chủ đầu tư và nhà thầu khẩn trương thanh toán khối lượng đã được tạm ứng, nhằm hạn chế chi chuyển nguồn tạm ứng vốn đầu tư sang năm sau. Tăng cường đôn đốc thu hồi các khoản phải thu sau quyết toán dự án hoàn thành.\n\n**5\\. Các cơ quan thanh, kiểm tra của tỉnh**\n\n\\- Tăng cường công tác kiểm tra, thanh tra tài chính; kiểm tra, thanh tra việc sắp xếp lại, xử lý tài sản công, việc quản lý, sử dụng tài sản công tại các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý. Xử lý kịp thời, nghiêm minh theo quy định của pháp luật đối với các tổ chức, cá nhân thuộc thẩm quyền quản lý có hành vi vi phạm trong quản lý, sử dụng tài chính, tài sản công.\n\n\\- Tăng cường công tác thanh tra, kiểm tra trách nhiệm của thủ trưởng đơn vị trong công tác thực hành tiết kiệm, chống lãng phí, phòng chống tham nhũng và giải quyết khiếu nại, tố cáo.\n\n**6\\. Tổ chức thực hiện**\n\n\\- Các sở, ban, ngành, đoàn thể, UBND các huyện, thành phố tổ chức thực hiện nghiêm Chỉ thị này; định kỳ hằng năm báo cáo kết quả thực hiện cùng với Báo cáo quyết toán ngân sách của đơn vị\n\n\\- Sở Tài chính đôn đốc các cơ quan, đơn vị và địa phương thực hiện Chỉ thị này; định kỳ hằng năm tổng hợp, tham mưu cho UBND tỉnh báo cáo Bộ Tài chính cùng với báo cáo quyết toán ngân sách địa phương./.\n\n**_  \nNơi nhận:  \n_**\\- TT Tỉnh ủy (B/c);  \n\\- TT HĐND tỉnh (B/c);  \n\\- CT, các PCT UBND tỉnh;  \n\\- Các Sở, ban, ngành, đoàn thể;  \n\\- UBND các huyện, thành phố;  \n\\- Huyện ủy, Thành ủy;  \n\\- LĐVP;  \n\\- Lưu: VT, TH (Lan).\n\n**CHỦ TỊCH  \n  \n  \n  \n**  \n**Nguyễn Đăng Bình**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
