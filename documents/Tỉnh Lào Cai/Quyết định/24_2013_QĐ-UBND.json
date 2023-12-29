@@ -1,0 +1,619 @@
+{
+  "title": "Quyết định 24/2013/QĐ-UBND quy định mức thu, quản lý và sử dụng phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 04/2007/QĐ-UBND về phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai do Ủy ban nhân dân tỉnh Lào Cai ban hành",
+      "id": "04/2007/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Hữu Vạn"
+      ],
+      "issuedDate": "2007-01-05",
+      "effectiveDate": "2007-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 29/07/2013"
+    },
+    {
+      "title": "Quyết định 02/2012/QĐ-UBND bổ sung mức thu phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai do Ủy ban nhân dân tỉnh Lào Cai ban hành",
+      "id": "02/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Văn Vịnh"
+      ],
+      "issuedDate": "2012-01-31",
+      "effectiveDate": "2012-02-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 29/07/2013"
+    }
+  ],
+  "referredDocuments": [
+    {
+      "title": "Luật Ngân sách Nhà nước 2002",
+      "id": "01/2002/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2002-12-16",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-01-25",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị quyết 13/2013/NQ-HĐND sửa đổi và bãi bỏ phí, lệ phí trên địa bàn tỉnh Lào Cai",
+      "id": "13/2013/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Phạm Văn Cường"
+      ],
+      "issuedDate": "2013-07-12",
+      "effectiveDate": "2013-07-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Thông tư 97/2006/TT-BTC về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương do Bộ Tài chính ban hành",
+      "id": "97/2006/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2006-10-16",
+      "effectiveDate": "2006-11-12",
+      "gazetteDate": "2006-10-28",
+      "gazetteNumber": "Từ số 57 đến số 58",
+      "status": "Hết hiệu lực: 17/02/2014"
+    },
+    {
+      "title": "Thông tư 45/2006/TT-BTC sửa đổi Thông tư 63/2002/TT-BTC hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí do Bộ Tài chính ban hành",
+      "id": "45/2006/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2006-05-25",
+      "effectiveDate": "2006-06-18",
+      "gazetteDate": "2006-06-03",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị định 24/2006/NĐ-CP Sửa đổi Nghị định 57/2002/NĐ-CP Hướng dẫn Pháp lệnh Phí và Lệ phí",
+      "id": "24/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2006-03-06",
+      "effectiveDate": "2006-03-30",
+      "gazetteDate": "2006-03-15",
+      "gazetteNumber": "Từ số 14 đến số 15",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân dân và Uỷ ban nhân dân 2004",
+      "id": "31/2004/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2004-12-03",
+      "effectiveDate": "2005-04-01",
+      "gazetteDate": "2005-01-03",
+      "gazetteNumber": "Số 3",
+      "status": "Hết hiệu lực: 01/07/2016"
+    },
+    {
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
+    },
+    {
+      "title": "Thông tư 63/2002/TT-BTC hướng dẫn các quy định pháp luật về phí và lệ phí do Bộ Tài chính ban hành",
+      "id": "63/2002/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Trương Chí Trung"
+      ],
+      "issuedDate": "2002-07-24",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2002-08-31",
+      "gazetteNumber": "Số 42",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị định 57/2002/NĐ-CP Hướng dẫn Pháp lệnh phí và lệ phí",
+      "id": "57/2002/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2002-06-03",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2002-07-05",
+      "gazetteNumber": "Số 31",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Pháp lệnh phí và lệ phí năm 2001",
+      "id": "38/2001/PL-UBTVQH10",
+      "legislationType": "Pháp lệnh",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Uỷ ban Thường vụ Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2001-08-28",
+      "effectiveDate": "2002-01-01",
+      "gazetteDate": "2001-12-08",
+      "gazetteNumber": "Số 45",
+      "status": "Hết hiệu lực: 01/01/2017"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [
+    {
+      "title": "Quyết định 52/2014/QĐ-UBND quy định việc thu Phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai",
+      "id": "52/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Doãn Văn Hưởng"
+      ],
+      "issuedDate": "2014-09-29",
+      "effectiveDate": "2014-10-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 467/QĐ-UBND năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân tỉnh Lào Cai kỳ 2014-2018",
+      "id": "467/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2019-02-28",
+      "effectiveDate": "2019-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 152/2016/QĐ-UBND bãi bỏ văn bản quy phạm pháp luật quy định về phí, lệ phí trên địa bàn tỉnh Lào Cai",
+      "id": "152/2016/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2016-12-20",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 4819/QĐ-UBND năm 2016 về phê duyệt giá dịch vụ trông giữ xe đạp, xe máy, xe ô tô trên địa bàn tỉnh Lào Cai",
+      "id": "4819/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2016-12-30",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 12/01/2019"
+    },
+    {
+      "title": "Quyết định 467/QĐ-UBND năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân tỉnh Lào Cai kỳ 2014-2018",
+      "id": "467/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Đặng Xuân Phong"
+      ],
+      "issuedDate": "2019-02-28",
+      "effectiveDate": "2019-02-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Nghị quyết 57/2014/NQ-HĐND về khung mức thu, quản lý và sử dụng phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Bình Thuận",
+      "id": "57/2014/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bình Thuận",
+      "signers": [
+        "Nguyễn Mạnh Hùng"
+      ],
+      "issuedDate": "2014-07-18",
+      "effectiveDate": "2014-07-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 31/07/2018"
+    },
+    {
+      "title": "Quyết định 12/2014/QĐ-UBND về mức thu, chế độ thu, nộp, quản lý và sử dụng phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh An Giang",
+      "id": "12/2014/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Huỳnh Thế Năng"
+      ],
+      "issuedDate": "2014-03-31",
+      "effectiveDate": "2014-04-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 56/2013/QĐ-UBND quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trông giữ xe ô tô trên địa bàn tỉnh Thừa Thiên Huế",
+      "id": "56/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Lê Trường Lưu"
+      ],
+      "issuedDate": "2013-12-20",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/06/2017"
+    },
+    {
+      "title": "Nghị quyết 16/2013/NQ-HĐND quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trông giữ xe ô tô trên địa bàn tỉnh Thừa Thiên Huế",
+      "id": "16/2013/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Thừa Thiên Huế",
+      "signers": [
+        "Nguyễn Ngọc Thiện"
+      ],
+      "issuedDate": "2013-12-12",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/12/2017"
+    },
+    {
+      "title": "Quyết định 1064/QĐ-UBND năm 2013 thực hiện Nghị quyết 05/2013/NQ-HĐND về phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Cà Mau",
+      "id": "1064/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Dương Tiến Dũng"
+      ],
+      "issuedDate": "2013-07-23",
+      "effectiveDate": "2013-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 87/2013/NQ-HĐND điều chỉnh khung mức thu phí trông giữ xe đạp, xe máy, ô tô đối với điểm, bãi trông giữ xe trên địa bàn tỉnh Quảng Ninh tại Nghị quyết 06/2007/NQ-HĐND và 52/2012/NQ-HĐND",
+      "id": "87/2013/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Nguyễn Đức Long"
+      ],
+      "issuedDate": "2013-07-19",
+      "effectiveDate": "2013-09-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2015"
+    },
+    {
+      "title": "Nghị quyết 11/2013/NQ-HĐND về mức thu phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh An Giang",
+      "id": "11/2013/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh An Giang",
+      "signers": [
+        "Phan Văn Sáu"
+      ],
+      "issuedDate": "2013-07-12",
+      "effectiveDate": "2013-07-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị quyết 05/2013/NQ-HĐND về phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Cà Mau",
+      "id": "05/2013/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Bùi Công Bửu"
+      ],
+      "issuedDate": "2013-07-10",
+      "effectiveDate": "2013-08-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 02/2013/QĐ-UBND quy định mức thu phí trông giữ xe đạp, xe máy, xe ô tô bị tạm giữ do vi phạm pháp luật về trật tự an toàn giao thông trên địa bàn tỉnh Kon Tum",
+      "id": "02/2013/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Vi phạm hành chính",
+        "Giao thông - Vận tải"
+      ],
+      "organization": "Tỉnh Kon Tum",
+      "signers": [
+        "Nguyễn Văn Hùng"
+      ],
+      "issuedDate": "2013-01-15",
+      "effectiveDate": "2013-01-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 02/09/2017"
+    },
+    {
+      "title": "Quyết định 59/2012/QĐ-UBND sửa đổi việc thu phí trông giữ xe trên địa bàn Thành phố Hồ Chí Minh",
+      "id": "59/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Nguyễn Thị Hồng"
+      ],
+      "issuedDate": "2012-12-20",
+      "effectiveDate": "2012-12-30",
+      "gazetteDate": "2013-01-15",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Quyết định 3362/2012/QĐ-UBND điều chỉnh mức phí trông giữ xe đạp, xe máy, ô tô tại một số khu di tích lịch sử, điểm tổ chức lễ hội du lịch, hội chợ; Khu di tích Yên Tử , thành phố Uông Bí; Cảng tầu khách du lịch Bãi Cháy; Quảng trường thuộc khu văn hóa thể thao Cột 3 phường Hồng Hải, thành phố Hạ Long tại Quyết định 221/2008/QĐ-UBND do tỉnh Quảng Ninh ban hành",
+      "id": "3362/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Quảng Ninh",
+      "signers": [
+        "Nguyễn Văn Thành"
+      ],
+      "issuedDate": "2012-12-19",
+      "effectiveDate": "2012-12-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/09/2013"
+    },
+    {
+      "title": "Quyết định 32/2012/QĐ-UBND về phí trông giữ xe trên địa bàn Thành phố Hồ Chí Minh",
+      "id": "32/2012/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Thành phố Hồ Chí Minh",
+      "signers": [
+        "Nguyễn Thị Hồng"
+      ],
+      "issuedDate": "2012-07-30",
+      "effectiveDate": "2012-08-01",
+      "gazetteDate": "2012-08-15",
+      "gazetteNumber": "Số 43",
+      "status": "Hết hiệu lực: 01/01/2017"
+    },
+    {
+      "title": "Nghị quyết 17/2008/NQ-HĐND về phí trông giữ xe đạp, xe máy, ô tô, trên địa bàn tỉnh Cà Mau",
+      "id": "17/2008/NQ-HĐND",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Tỉnh Cà Mau",
+      "signers": [
+        "Võ Thanh Bình"
+      ],
+      "issuedDate": "2008-12-10",
+      "effectiveDate": "2009-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/08/2013"
+    },
+    {
+      "title": "Quyết định 03/2007/QĐ-UBND quy định về mức thu, chế độ quản lý, sử dụng phí trông giữ xe đạp, xe máy, xe ô tô bị tạm giữ do vi phạm hành chính do tỉnh Sơn La ban hành",
+      "id": "03/2007/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Tỉnh Sơn La",
+      "signers": [
+        "Nguyễn Ngọc Toa"
+      ],
+      "issuedDate": "2007-01-13",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 06/06/2008"
+    },
+    {
+      "title": "Quyết định 1803/2006/QĐ-UBND ban hành Quy định về thu phí giữ xe đạp, xe máy, xe ô tô tỉnh Bến Tre",
+      "id": "1803/2006/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Tỉnh Bến Tre",
+      "signers": [
+        "Nguyễn Thị Thanh Hà"
+      ],
+      "issuedDate": "2006-08-08",
+      "effectiveDate": "2006-08-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/04/2009"
+    },
+    {
+      "title": "Quyết định 291/2003/QĐ-UBND ban hành chế độ thu phí dự thi, dự tuyển vào các trường CĐ, THCN, DN và điều chỉnh, quy định bổ sung một số mức thu sự nghiệp, thu phí trên địa bàn tỉnh Lào Cai",
+      "id": "291/2003/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Giáo dục"
+      ],
+      "organization": "Tỉnh Lào Cai",
+      "signers": [
+        "Nguyễn Ngọc Kim"
+      ],
+      "issuedDate": "2003-07-10",
+      "effectiveDate": "2003-07-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "24/2013/QĐ-UBND",
+  "legislationType": "Quyết định",
+  "categories": [
+    "Thương mại",
+    "Thuế - Phí - Lệ Phí"
+  ],
+  "organization": "Tỉnh Lào Cai",
+  "signers": [
+    "Nguyễn Văn Vịnh"
+  ],
+  "issuedDate": "2013-07-19",
+  "effectiveDate": "2013-07-29",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Hết hiệu lực: 09/10/2014",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADIAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  TỈNH LÀO CAI</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>24/2013/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Lào Cai</i><i><span lang=\"VI\">, ngày </span>19</i><i><span lang=\"VI\"> tháng </span>07</i><i><span lang=\"VI\"> năm </span>2013</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">QUY\nĐỊNH MỨC THU, QUẢN LÝ VÀ SỬ DỤNG PHÍ TRÔNG GIỮ XE ĐẠP, XE MÁY, Ô TÔ TRÊN ĐỊA\nBÀN TỈNH LÀO CAI</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">ỦY BAN NHÂN DÂN TỈNH LÀO CAI</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật Tổ chức Hội đồng nhân\ndân và Ủy ban nhân dân ngày 26/11/2003;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Luật B</span>a</i><i><span lang=\"VI\">n hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân\ndân ngày 03/12/2004;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Pháp lệnh Phí và Lệ phí\nngày 28/8/2001;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 57/2002/NĐ-CP\nngày 03/6/2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị định số 24/2006/NĐ-CP\nngày 06/3/2006 của Chính phủ sửa đổi bổ sung một số điều của Nghị định số\n57/2002/NĐ-CP ngày 03/6/2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh\nphí và lệ phí;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số 63/2002/TT-BTC\nngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về\nphí và lệ phí;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Thông tư số 45/2006/TT-BTC\nngày 25/5/2006 của Bộ Tài chính sửa đổi, bổ sung Thông tư số 63/2002/TT-BTC\nngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về\nphí và lệ phí;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">C</span>ă</i><i><span lang=\"VI\">n cứ\nThông tư s</span>ố</i><i><span lang=\"VI\"> 97/20</span>0</i><i><span lang=\"VI\">6/TT-BTC\nngày 16/</span>10</i><i><span lang=\"VI\">/20</span>0</i><i><span lang=\"VI\">6 của Bộ\nTài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng\nnhân dân tỉnh, Thành phố trực thuộc trung ương;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Căn cứ Nghị quyết số\n13/2013/NQ-HĐND ngày 12/7/2013 của Hội đồng nhân dân tỉnh Lào Cai về việc ban\nhành, sửa đổi, bổ sung và bãi bỏ một số loại phí, lệ phí trên địa bàn tỉnh Lào\nCai;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">Theo đề nghị của Sở Tài chính tại\nTờ trình số 145/TTr-STC ngày 24/5/2013,</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">Điều 1.</span></b><span lang=\"VI\"> Quy\nđịnh mức thu, quản lý và sử dụng phí trông giữ xe đạp, xe máy, ô tô trên địa\nbàn tỉnh Lào Cai, cụ thể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Mức thu:</span></b></p>\n\n<p style=\"margin-top:6.0pt\">a) <span lang=\"VI\">Mức thu phí trông giữ xe tại các b</span>ế<span lang=\"VI\">n, bãi, điểm đỗ xe:</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADIAOQA=-->\n <tbody><tr>\n  <td width=\"271\" rowspan=\"2\" style=\"width: 203.55pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Tên\n  phương tiện</span></b></p>\n  </td>\n  <td width=\"312\" colspan=\"3\" style=\"width: 233.7pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mức\n  thu</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"96\" style=\"width: 72.35pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Ban\n  ngày (đồng/xe/lượt)</span></b></p>\n  </td>\n  <td width=\"99\" style=\"width: 74.1pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Ban\n  đêm (đồng/xe/lượt)</span></b></p>\n  </td>\n  <td width=\"116\" style=\"width: 87.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Theo\n  tháng (đồng/xe/tháng)</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.55pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Xe đạp, xe đạp điện:</span></p>\n  </td>\n  <td width=\"96\" valign=\"top\" style=\"width: 72.35pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">1.000</span></p>\n  </td>\n  <td width=\"99\" valign=\"top\" style=\"width: 74.1pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2.000</span></p>\n  </td>\n  <td width=\"116\" valign=\"top\" style=\"width: 87.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">30.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.55pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Xe máy, xe máy điện, xe đạp thồ,\n  Xe kéo tay, xe súc vật kéo, xe lam 03 bánh và các xe thô sơ khác:</span></p>\n  </td>\n  <td width=\"96\" valign=\"top\" style=\"width: 72.35pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2.000</span></p>\n  </td>\n  <td width=\"99\" valign=\"top\" style=\"width: 74.1pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3.000</span></p>\n  </td>\n  <td width=\"116\" valign=\"top\" style=\"width: 87.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">100.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.55pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Xe ô tô dưới 12 ch</span>ỗ<span lang=\"VI\"> ng</span>ồ<span lang=\"VI\">i; Xe ôt</span>ô <span lang=\"VI\">tải dưới 2,5 tấn:</span></p>\n  </td>\n  <td width=\"96\" valign=\"top\" style=\"width: 72.35pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5.000</span></p>\n  </td>\n  <td width=\"99\" valign=\"top\" style=\"width: 74.1pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">10.000</p>\n  </td>\n  <td width=\"116\" valign=\"top\" style=\"width: 87.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">250.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.55pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Xe ô tô từ 12 ch</span>ỗ<span lang=\"VI\"> ng</span>ồ<span lang=\"VI\">i đ</span>ế<span lang=\"VI\">n 30 chỗ ngồi; Xe\n  ôtô tải từ 2,5 tấn đến 05 tấn:</span></p>\n  </td>\n  <td width=\"96\" valign=\"top\" style=\"width: 72.35pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">7.000</span></p>\n  </td>\n  <td width=\"99\" valign=\"top\" style=\"width: 74.1pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">14.000</span></p>\n  </td>\n  <td width=\"116\" valign=\"top\" style=\"width: 87.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">350.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.55pt; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Xe ô tô trên 30 ch</span>ỗ <span lang=\"VI\">ngôi, xe ôtô tải trên 05 tấn; xe constener và các lo</span>ạ<span lang=\"VI\">i xe khác:</span></p>\n  </td>\n  <td width=\"96\" valign=\"top\" style=\"width: 72.35pt; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">10.000</span></p>\n  </td>\n  <td width=\"99\" valign=\"top\" style=\"width: 74.1pt; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">20.000</span></p>\n  </td>\n  <td width=\"116\" valign=\"top\" style=\"width: 87.25pt; border: 1pt solid windowtext; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">500.000</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">b) <span lang=\"VI\">Riêng mức thu trông giữ xe đạp, xe\nđạp điện và xe máy tại các trường học, được tính bằng 50% mức thu quy định tại\nđiểm a khoản này;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Mức thu phí trông giữ phương tiện\ndo vi phạm trật tự an toàn giao thông đường bộ:</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADIAOQA=-->\n <tbody><tr>\n  <td width=\"412\" style=\"width: 308.65pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Tên\n  phương tiện</span></b></p>\n  </td>\n  <td width=\"168\" style=\"width: 125.75pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mức\n  thu</span><br>\n  </b><b><span lang=\"VI\">(đồng/xe/ngày đêm)</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"412\" valign=\"top\" style=\"width: 308.65pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Xe đạp, xe đạp điện:</span></p>\n  </td>\n  <td width=\"168\" valign=\"top\" style=\"width: 125.75pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"412\" valign=\"top\" style=\"width: 308.65pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Xe máy, xe máy điện, xe đạp th</span>ồ<span lang=\"VI\">, xe kéo tay, xe súc vật kéo, xe lam 03 bánh và các xe thô sơ khác:</span></p>\n  </td>\n  <td width=\"168\" valign=\"top\" style=\"width: 125.75pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"412\" valign=\"top\" style=\"width: 308.65pt; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Xe ô tô các loại:</span></p>\n  </td>\n  <td width=\"168\" valign=\"top\" style=\"width: 125.75pt; border: 1pt solid windowtext; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">30.000</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Mức thu phí trông giữ xe đạp, xe\nmáy, ô tô tại các điểm trông giữ phương tiện nơi tổ chức các sự kiện theo kế\nhoạch được UBND các huyện, thành ph</span>ố <span lang=\"VI\">và UBND tỉnh phê\nduyệt, các hoạt động lễ hội, hội chợ trên địa bàn tỉnh Lào Cai <i>(Mức thu này\nchỉ được thực hiện trong những ngày tổ chức sự kiện, lễ hội, hội chợ):</i></span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADIAOQA=-->\n <tbody><tr>\n  <td width=\"271\" style=\"width: 203.5pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Tên\n  phư</span>ơ</b><b><span lang=\"VI\">ng tiện</span></b></p>\n  </td>\n  <td width=\"162\" style=\"width: 121.2pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mức\n  thu ban ngày (đồng/xe/lư</span>ợ</b><b><span lang=\"VI\">t)</span></b></p>\n  </td>\n  <td width=\"148\" style=\"width: 111.15pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Mức\n  thu ban đêm</span><br>\n  </b><b><span lang=\"VI\">(đồng/ xe/ lượt)</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.5pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Xe đạp, xe đạp điện:</span></p>\n  </td>\n  <td width=\"162\" valign=\"top\" style=\"width: 121.2pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">2.000</span></p>\n  </td>\n  <td width=\"148\" valign=\"top\" style=\"width: 111.15pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">3.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.5pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Xe máy, xe máy điện:</span></p>\n  </td>\n  <td width=\"162\" valign=\"top\" style=\"width: 121.2pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">5.000</span></p>\n  </td>\n  <td width=\"148\" valign=\"top\" style=\"width: 111.15pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">10.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.5pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Xe ô tô dưới 12 chỗ ngồi:</span></p>\n  </td>\n  <td width=\"162\" valign=\"top\" style=\"width: 121.2pt; border-top: 1pt solid windowtext; border-left: 1pt solid windowtext; border-bottom: none; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">10.000</span></p>\n  </td>\n  <td width=\"148\" valign=\"top\" style=\"width: 111.15pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-bottom: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">15.000</span></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"271\" valign=\"top\" style=\"width: 203.5pt; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0in;\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Xe ô tô từ 12 chỗ ngồi trở lên:</span></p>\n  </td>\n  <td width=\"162\" valign=\"top\" style=\"width: 121.2pt; border-top: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-right: none; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">15.000</span></p>\n  </td>\n  <td width=\"148\" valign=\"top\" style=\"width: 111.15pt; border: 1pt solid windowtext; background: transparent; padding: 0in;\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">20.000</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Quản lý, sử dụng:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các đơn vị thu phí được trích lại\nmột ph</span>ầ<span lang=\"VI\">n kinh phí trước khi nộp ngân sách nhà nước, để tổ\nchức thực hiện công tác thu cụ thể như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Đối với phí trông giữ xe thu tại\ncác bến, bãi do các tổ chức, các cá nhân kinh doanh dịch vụ </span>tr<span lang=\"VI\">ông giữ xe, số tiền phí thu được hạch toán vào doanh thu và thực hiện\nđầy đủ nghĩa vụ đối với nhà nư</span>ớ<span lang=\"VI\">c theo quy định;</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Đối v</span>ớ<span lang=\"VI\">i phí\ntrông giữ xe thu tại các b</span>ế<span lang=\"VI\">n, bãi, điểm đỗ xe do các c</span>ơ\n<span lang=\"VI\">quan hành chính, đơn vị sự nghiệp tổ chức thu: Cơ quan thu phí\nđược trích 50% trên tổng số tiền thực thu để trang trải phục vụ công tác thu;\nsố còn lại (50%) nộp vào ngân sách nhà nước theo quy định của Luật Ngân sách\nnhà nước;</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Đối với phí trông giữ xe do vi phạm\ntrật tự an toàn giao thông đường bộ do cơ quan công an thực hiện: Cơ quan thu\nphí được </span>tr<span lang=\"VI\">ích 30% tổng số tiền thực thu phí để trang trải\nphục vụ công tác thu, số còn lại (70%) nộp vào ngân sách nhà nước theo quy định\ncủa Luật Ngân sách nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Quản lý, sử dụng:</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Việc thanh quyết toán nguồn thu ph</span>í\n<span lang=\"VI\">thực hiện theo quy định hiện hành về quản lý tài chính.</span></p>\n\n<p style=\"margin-top:6.0pt\">- <span lang=\"VI\">Chứng từ thu thực hiện theo quy\nđịnh hiện hành của B</span>ộ <span lang=\"VI\">Tài chính hướng d</span>ẫ<span lang=\"VI\">n v</span>ề <span lang=\"VI\">in, phát hành, quản lý và sử dụng các loại\nchứng từ thu ti</span>ề<span lang=\"VI\">n phí, lệ phí thuộc ngân sách nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b>Điều 2.</b> Chánh Văn phòng UBND tỉnh; Giám đốc\nSở Tài chính; Giám đốc Công <span lang=\"VI\">an tỉnh Lào Cai; Cục trưởng Cục Thu</span>ế<span lang=\"VI\"> t</span>ỉ<span lang=\"VI\">nh; Giám đ</span>ố<span lang=\"VI\">c Kho bạc Nhà\nnước tỉnh; Chủ tịch UBND các huyện, thành phố; Thủ trưởng các cơ quan đơn vị và\ncác t</span>ổ <span lang=\"VI\">chức, cá nhân có liên quan căn cứ Quyết định thi\nhành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quyết định này có hiệu lực sau 10\nngày kể từ ngày ký ban hành và bãi bỏ Quyết đ</span>ị<span lang=\"VI\">nh số\n04/2007/QĐ-UBND ngày 05/01/2007 của UBND tỉnh Lào Cai về việc ban hành phí\ntrông giữ xe đ</span>ạ<span lang=\"VI\">p, xe máy, ô tô trên địa bàn tỉnh Lào Cai\nvà Quyết định số 02/2012/QĐ-UBND ngày 31/01/2012 của UBND tỉnh Lào Cai b</span>ổ\n<span lang=\"VI\">sung mức thu phí trông giữ xe đạp, xe máy, ô tô </span>tr<span lang=\"VI\">ên địa bàn tỉnh Lào Cai./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADMAMAA3ADIAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span style=\"font-size:8.0pt\">&nbsp;</span></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\">Nơi nhận:<br>\n  </span></i></b><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:8.0pt\">Văn p</span><span style=\"font-size:8.0pt\">h</span><span lang=\"VI\" style=\"font-size:8.0pt\">òng Chính phủ;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Bộ Tài chính;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">TT. TU, HĐND, UBND tỉnh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">TT. Đoàn đại biểu Quốc hội tỉnh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Các Ban HĐND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Như Điều 2 Quyết định;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">S</span><span style=\"font-size:8.0pt\">ở</span><span lang=\"VI\" style=\"font-size:8.0pt\"> Tư pháp;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Công báo tỉnh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Báo Lào Cai; Đài PT-TH t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Lãnh đạo Văn phòng UBND t</span><span style=\"font-size:8.0pt\">ỉ</span><span lang=\"VI\" style=\"font-size:8.0pt\">nh;<br>\n  </span><span style=\"font-size:8.0pt\">- </span><span lang=\"VI\" style=\"font-size:\n  8.0pt\">Lưu: VT, các </span><span style=\"font-size:8.0pt\">CV</span><span lang=\"VI\" style=\"font-size:8.0pt\">.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN TỈNH<br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Vịnh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH LÀO CAI****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 24/2013/QĐ-UBND\n\n_Lào Cai__, ngày 19_ _tháng 07_ _năm 2013_\n\n**QUYẾT ĐỊNH**\n\nQUY ĐỊNH MỨC THU, QUẢN LÝ VÀ SỬ DỤNG PHÍ TRÔNG GIỮ XE ĐẠP, XE MÁY, Ô TÔ TRÊN ĐỊA BÀN TỈNH LÀO CAI\n\n**ỦY BAN NHÂN DÂN TỈNH LÀO CAI**\n\n_Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26/11/2003;_\n\n_Căn cứ Luật Ba__n hành văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ngày 03/12/2004;_\n\n_Căn cứ Pháp lệnh Phí và Lệ phí ngày 28/8/2001;_\n\n_Căn cứ Nghị định số 57/2002/NĐ-CP ngày 03/6/2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí;_\n\n_Căn cứ Nghị định số 24/2006/NĐ-CP ngày 06/3/2006 của Chính phủ sửa đổi bổ sung một số điều của Nghị định số 57/2002/NĐ-CP ngày 03/6/2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí;_\n\n_Căn cứ Thông tư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí;_\n\n_Căn cứ Thông tư số 45/2006/TT-BTC ngày 25/5/2006 của Bộ Tài chính sửa đổi, bổ sung Thông tư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài chính hướng dẫn thực hiện các quy định pháp luật về phí và lệ phí;_\n\n_Că__n cứ Thông tư số_ _97/200__6/TT-BTC ngày 16/10__/200__6 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, Thành phố trực thuộc trung ương;_\n\n_Căn cứ Nghị quyết số 13/2013/NQ-HĐND ngày 12/7/2013 của Hội đồng nhân dân tỉnh Lào Cai về việc ban hành, sửa đổi, bổ sung và bãi bỏ một số loại phí, lệ phí trên địa bàn tỉnh Lào Cai;_\n\n_Theo đề nghị của Sở Tài chính tại Tờ trình số 145/TTr-STC ngày 24/5/2013,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Quy định mức thu, quản lý và sử dụng phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai, cụ thể như sau:\n\n**1\\. Mức thu:**\n\na) Mức thu phí trông giữ xe tại các bến, bãi, điểm đỗ xe:\n\n**Tên phương tiện**\n\n**Mức thu**\n\n**Ban ngày (đồng/xe/lượt)**\n\n**Ban đêm (đồng/xe/lượt)**\n\n**Theo tháng (đồng/xe/tháng)**\n\n1\\. Xe đạp, xe đạp điện:\n\n1.000\n\n2.000\n\n30.000\n\n2\\. Xe máy, xe máy điện, xe đạp thồ, Xe kéo tay, xe súc vật kéo, xe lam 03 bánh và các xe thô sơ khác:\n\n2.000\n\n3.000\n\n100.000\n\n3\\. Xe ô tô dưới 12 chỗ ngồi; Xe ôtô tải dưới 2,5 tấn:\n\n5.000\n\n10.000\n\n250.000\n\n4\\. Xe ô tô từ 12 chỗ ngồi đến 30 chỗ ngồi; Xe ôtô tải từ 2,5 tấn đến 05 tấn:\n\n7.000\n\n14.000\n\n350.000\n\n5\\. Xe ô tô trên 30 chỗ ngôi, xe ôtô tải trên 05 tấn; xe constener và các loại xe khác:\n\n10.000\n\n20.000\n\n500.000\n\nb) Riêng mức thu trông giữ xe đạp, xe đạp điện và xe máy tại các trường học, được tính bằng 50% mức thu quy định tại điểm a khoản này;\n\nc) Mức thu phí trông giữ phương tiện do vi phạm trật tự an toàn giao thông đường bộ:\n\n**Tên phương tiện**\n\n**Mức thu  \n****(đồng/xe/ngày đêm)**\n\n1\\. Xe đạp, xe đạp điện:\n\n3.000\n\n2\\. Xe máy, xe máy điện, xe đạp thồ, xe kéo tay, xe súc vật kéo, xe lam 03 bánh và các xe thô sơ khác:\n\n5.000\n\n3\\. Xe ô tô các loại:\n\n30.000\n\nd) Mức thu phí trông giữ xe đạp, xe máy, ô tô tại các điểm trông giữ phương tiện nơi tổ chức các sự kiện theo kế hoạch được UBND các huyện, thành phố và UBND tỉnh phê duyệt, các hoạt động lễ hội, hội chợ trên địa bàn tỉnh Lào Cai _(Mức thu này chỉ được thực hiện trong những ngày tổ chức sự kiện, lễ hội, hội chợ):_\n\n**Tên phươ****ng tiện**\n\n**Mức thu ban ngày (đồng/xe/lượ****t)**\n\n**Mức thu ban đêm  \n****(đồng/ xe/ lượt)**\n\n1\\. Xe đạp, xe đạp điện:\n\n2.000\n\n3.000\n\n2\\. Xe máy, xe máy điện:\n\n5.000\n\n10.000\n\n3\\. Xe ô tô dưới 12 chỗ ngồi:\n\n10.000\n\n15.000\n\n4\\. Xe ô tô từ 12 chỗ ngồi trở lên:\n\n15.000\n\n20.000\n\n**2\\. Quản lý, sử dụng:**\n\na) Các đơn vị thu phí được trích lại một phần kinh phí trước khi nộp ngân sách nhà nước, để tổ chức thực hiện công tác thu cụ thể như sau:\n\n\\- Đối với phí trông giữ xe thu tại các bến, bãi do các tổ chức, các cá nhân kinh doanh dịch vụ trông giữ xe, số tiền phí thu được hạch toán vào doanh thu và thực hiện đầy đủ nghĩa vụ đối với nhà nước theo quy định;\n\n\\- Đối với phí trông giữ xe thu tại các bến, bãi, điểm đỗ xe do các cơ quan hành chính, đơn vị sự nghiệp tổ chức thu: Cơ quan thu phí được trích 50% trên tổng số tiền thực thu để trang trải phục vụ công tác thu; số còn lại (50%) nộp vào ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước;\n\n\\- Đối với phí trông giữ xe do vi phạm trật tự an toàn giao thông đường bộ do cơ quan công an thực hiện: Cơ quan thu phí được trích 30% tổng số tiền thực thu phí để trang trải phục vụ công tác thu, số còn lại (70%) nộp vào ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước.\n\nb) Quản lý, sử dụng:\n\n\\- Việc thanh quyết toán nguồn thu phí thực hiện theo quy định hiện hành về quản lý tài chính.\n\n\\- Chứng từ thu thực hiện theo quy định hiện hành của Bộ Tài chính hướng dẫn về in, phát hành, quản lý và sử dụng các loại chứng từ thu tiền phí, lệ phí thuộc ngân sách nhà nước.\n\n**Điều 2.** Chánh Văn phòng UBND tỉnh; Giám đốc Sở Tài chính; Giám đốc Công an tỉnh Lào Cai; Cục trưởng Cục Thuế tỉnh; Giám đốc Kho bạc Nhà nước tỉnh; Chủ tịch UBND các huyện, thành phố; Thủ trưởng các cơ quan đơn vị và các tổ chức, cá nhân có liên quan căn cứ Quyết định thi hành.\n\nQuyết định này có hiệu lực sau 10 ngày kể từ ngày ký ban hành và bãi bỏ Quyết định số 04/2007/QĐ-UBND ngày 05/01/2007 của UBND tỉnh Lào Cai về việc ban hành phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai và Quyết định số 02/2012/QĐ-UBND ngày 31/01/2012 của UBND tỉnh Lào Cai bổ sung mức thu phí trông giữ xe đạp, xe máy, ô tô trên địa bàn tỉnh Lào Cai./.\n\n**_Nơi nhận:  \n_**\\- Văn phòng Chính phủ;  \n\\- Bộ Tài chính;  \n\\- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;  \n\\- TT. TU, HĐND, UBND tỉnh;  \n\\- TT. Đoàn đại biểu Quốc hội tỉnh;  \n\\- Các Ban HĐND tỉnh;  \n\\- Như Điều 2 Quyết định;  \n\\- Sở Tư pháp;\\- Công báo tỉnh;  \n\\- Báo Lào Cai; Đài PT-TH tỉnh;  \n\\- Lãnh đạo Văn phòng UBND tỉnh;  \n\\- Lưu: VT, các CV.\n\n**TM. ỦY BAN NHÂN DÂN TỈNH  \nCHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Văn Vịnh**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
