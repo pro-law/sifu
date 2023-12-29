@@ -1,0 +1,301 @@
+{
+  "title": "Công văn 4050/BTC-THTK năm 2022 xin ý kiến dự thảo Thông tư hướng dẫn về nội dung, yêu cầu kỹ thuật đối với cơ sở dữ liệu hồ sơ quy hoạch; việc thu thập, cập nhật, xử lý, khai thác, sử dụng thông tin, dữ liệu của hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch do Bộ Tài chính ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị định 40/2020/NĐ-CP hướng dẫn Luật Đầu tư công",
+      "id": "40/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-04-06",
+      "effectiveDate": "2020-04-06",
+      "gazetteDate": "2020-04-18",
+      "gazetteNumber": "Từ số 379 đến số 380",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 73/2019/NĐ-CP quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước",
+      "id": "73/2019/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-09-05",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "2019-09-16",
+      "gazetteNumber": "Từ số 759 đến số 760",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Đầu tư công 2019",
+      "id": "39/2019/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2019-06-13",
+      "effectiveDate": "2020-01-01",
+      "gazetteDate": "2019-07-19",
+      "gazetteNumber": "Từ số 565 đến số 566",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ban hành văn bản quy phạm pháp luật 2015",
+      "id": "80/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-22",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-28",
+      "gazetteNumber": "Từ số 867 đến số 868",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 26/2014/TT-BTNMT về Quy trình và Định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành",
+      "id": "26/2014/TT-BTNMT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Linh Ngọc"
+      ],
+      "issuedDate": "2014-05-28",
+      "effectiveDate": "2014-07-15",
+      "gazetteDate": "2014-06-20",
+      "gazetteNumber": "Từ số 601 đến số 602",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 194/2012/TT-BTC hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của cơ quan, đơn vị sử dụng ngân sách nhà nước do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "194/2012/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Công nghệ thông tin",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2012-11-15",
+      "effectiveDate": "2013-01-01",
+      "gazetteDate": "2012-12-27",
+      "gazetteNumber": "Từ số 769 đến số 770",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 102/2009/NĐ-CP về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước",
+      "id": "102/2009/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Công nghệ thông tin",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2009-11-06",
+      "effectiveDate": "2010-01-01",
+      "gazetteDate": "2009-11-22",
+      "gazetteNumber": "Từ số 529 đến số 530",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Nghị định 37/2019/NĐ-CP hướng dẫn Luật Quy hoạch",
+      "id": "37/2019/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-05-07",
+      "effectiveDate": "2019-05-07",
+      "gazetteDate": "2019-05-17",
+      "gazetteNumber": "Từ số 441 đến số 442",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Quy hoạch 2017",
+      "id": "21/2017/QH14",
+      "legislationType": "Luật",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2017-11-24",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2017-12-29",
+      "gazetteNumber": "Từ số 1061 đến số 1062",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công văn 8956/BKHĐT-QLQH năm 2023 cho ý kiến về Đề án xây dựng và quản lý hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch do Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "8956/BKHĐT-QLQH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Trần Quốc Phương"
+      ],
+      "issuedDate": "2023-10-27",
+      "effectiveDate": "2023-10-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 04/2023/TT-BKHĐT hướng dẫn yêu cầu nội dung và kỹ thuật của cơ sở dữ liệu hồ sơ quy hoạch và sơ đồ, bản đồ quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh do Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "04/2023/TT-BKHĐT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Nguyễn Chí Dũng"
+      ],
+      "issuedDate": "2023-06-26",
+      "effectiveDate": "2023-08-10",
+      "gazetteDate": "2023-07-12",
+      "gazetteNumber": "Từ số 815 đến số 816",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 6045/BKHĐT-QLQH năm 2021 về cung cấp cơ sở dữ liệu về quy hoạch phục vụ xây dựng vận hành Hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch do Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "6045/BKHĐT-QLQH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Trần Quốc Phương"
+      ],
+      "issuedDate": "2021-09-09",
+      "effectiveDate": "2021-09-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 5746/BKHĐT-QLQH năm 2021 hướng dẫn kỹ thuật về khung cơ sở dữ liệu quy hoạch tỉnh do Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "5746/BKHĐT-QLQH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Trần Quốc Phương"
+      ],
+      "issuedDate": "2021-08-30",
+      "effectiveDate": "2021-08-30",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 6999/BTNMT-ĐĐBĐVN năm 2020 về quản lý, khai thác cơ sở dữ liệu nền địa lý quốc gia để tạo dữ liệu khung cho hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch do Bộ Tài nguyên và Môi trường ban hành",
+      "id": "6999/BTNMT-ĐĐBĐVN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Bộ Tài nguyên và Môi trường",
+      "signers": [
+        "Nguyễn Thị Phương Hoa"
+      ],
+      "issuedDate": "2020-12-07",
+      "effectiveDate": "2020-12-07",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "4050/BTC-THTK",
+  "legislationType": "Công văn",
+  "categories": [
+    "Công nghệ thông tin",
+    "Xây dựng - Đô thị"
+  ],
+  "organization": "Bộ Tài chính",
+  "signers": [
+    "Nguyễn Đức Chi"
+  ],
+  "issuedDate": "2022-05-09",
+  "effectiveDate": "2022-05-09",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA3ADEAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>BỘ TÀI CHÍNH</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Số: 4050/BTC-THTK<br>\n  </span><i><span lang=\"VI\" style=\"font-size:8.0pt\">V/v xin ý kiến dự thảo Thông\n  tư hướng dẫn về nội dung, yêu cầu kỹ thuật đối với CSDL hồ sơ quy hoạch; việc\n  thu thập, cập nhật, xử lý, khai thác, sử dụng thông tin, dữ liệu của hệ thống\n  thông tin và CSDL quốc gia về quy hoạch.</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Hà\n  Nội, ngày 09 tháng 5 năm 2022</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\"> </span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">Kính\ngửi:</span></b><span lang=\"VI\"> Bộ Kế hoạch và Đầu tư</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Phúc đáp Công văn số 2089/BKHĐT-QLQH\nngày 01/04/2022 của Bộ Kế hoạch và Đầu tư (Bộ KHĐT) về việc xin ý kiến dự thảo\nThông tư hướng dẫn về nội dung, yêu cầu kỹ thuật đối với CSDL hồ sơ quy hoạch;\nviệc thu thập, cập nhật, xử lý, khai thác, sử dụng thông tin, dữ liệu của hệ thống\nthông tin và CSDL quốc gia về quy hoạch, Bộ Tài chính tham gia ý kiến như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Về bố cục dự thảo Thông tư:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự thảo Thông tư căn cứ Luật Quy hoạch,\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 37/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-37-2019-nd-cp-huong-dan-luat-quy-hoach-374745.aspx\">37/2019/NĐ-CP</a>  của Chính phủ quy định chi tiết thi hành một số điều\ncủa Luật Quy hoạch, vì vậy đề nghị Bộ KHĐT làm rõ hướng dẫn những điều, khoản cụ\nthể nào của Luật, Nghị định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đề nghị Bộ KHĐT rà soát, chỉnh sửa,\nhoàn thiện dự thảo đảm bảo theo đúng quy định tại Luật ban hành văn bản quy phạm\npháp luật và các văn bản hướng dẫn liên quan. Dự thảo thông tư có nhiều thuật\nngữ chuyên ngành, chuyên môn kỹ thuật, đề nghị bổ sung nội dung các Điều quy định\nvề:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Giải thích từ ngữ;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Điều kiện vận hành Cơ sở dữ liệu quốc\ngia về Quy hoạch;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Trách nhiệm Quản lý về kỹ thuật (Quản\nlý, vận hành và đảm bảo hạ tầng kỹ thuật cho hoạt động thông suốt của hệ thống;\nĐảm bảo an ninh, an toàn về mặt kỹ thuật, lưu trữ và bảo mật Cơ sở dữ liệu quốc\ngia được đặt tại Bộ KHĐT; Hướng dẫn xử lý các vấn đề về kỹ thuật phát sinh\ntrong quá trình sử dụng Cơ sở dữ liệu quốc gia; chia sẻ thông tin về dữ liệu\nquy hoạch kịp thời, chính xác để các cơ quan, tổ chức, đơn vị khai thác, sử dụng\ncó hiệu quả; bảo mật các thông tin được chia sẻ; hướng dẫn, hỗ trợ các đơn vị\ntrong việc triển khai kết nối; giải thích, làm rõ các nội dung liên quan đến\ncác tài liệu của Cơ sở dữ liệu quốc gia khi có yêu cầu; cập nhật tài liệu và\nthông báo cho các bên liên quan khi có sự thay đổi các thông tin kết nối,....);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Trách nhiệm Quản lý về nghiệp vụ\n(xây dựng yêu cầu về nghiệp vụ báo cáo kê khai dữ liệu quy hoạch đảm bảo tính\nnhất quán thông tin, tính chính xác của thông tin phù hợp với quy định của pháp\nluật về quy hoạch làm cơ sở để xây dựng, nâng cấp hệ thống; trách nhiệm tổ chức\ntập huấn và hỗ trợ cho các cơ quan, tổ chức, đơn vị trong quá trình sử dụng,\nkhai thác và trao đổi thông tin trong cơ sở dữ liệu hồ sơ quy hoạch và các nghiệp\nvụ liên quan khác khi có nhu cầu; cách thức khai thác cơ sở dữ liệu quốc gia hồ\nsơ quy hoạch để phục vụ công tác quản lý, công tác chỉ đạo, điều hành, báo cáo,\nphân tích dự báo của Chính phủ, của Bộ KHĐT và cơ quan nhà nước có liên\nquan;....)</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Một số trích dẫn trong dự thảo\nThông tư quy định rõ loại văn bản; số, ký hiệu văn bản; ngày, tháng, năm ban\nhành văn bản; tên cơ quan thay cho sử dụng sử dụng kỹ thuật soạn thảo footnote\ntrong dự thảo Thông tư (như footnote tại Điều 5, Điều 14, Điều 15,..). Dự thảo\nThông tư hiện đang quy định có 02 Điều 14 và 02 Điều 15.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. Về Điều 2 đối tượng áp dụng: Đề\nnghị quy định rõ đối tượng áp dụng, trường hợp đối tượng áp dụng như quy định tại\nLuật Quy hoạch hoặc Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 37/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-37-2019-nd-cp-huong-dan-luat-quy-hoach-374745.aspx\">37/2019/NĐ-CP</a>  cũng cần ghi rõ để thực hiện thống\nnhất, như các Bộ, cơ quan trung ương; Ủy ban nhân dân cấp tỉnh; cơ quan khác được\ngiao nhiệm vụ tiếp nhận và quản lý báo cáo thông tin về quy hoạch, cơ quan quản\nlý công nghệ thông tin hoặc cơ quan có chức năng về quản lý của các Bộ, cơ quan\ntrung ương; cơ quan chuyên môn về quản lý quy hoạch của các tỉnh, thành phố trực\nthuộc Trung ương,....</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. Về Khoản 4, Điều 8: Đề nghị Bộ\nKHĐT xác định hình thức ban hành Quy chế quản lý và vận hành Cổng thông tin điện\ntử của hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch là dưới hình\nthức ban hành quy chế cho phù hợp và lược bỏ đơn vị phối hợp với các Bộ, cơ\nquan ngang Bộ, Ủy ban nhân dân cấp tỉnh ban hành Quy chế. Trường hợp Quy chế\nban hành dưới hình thức Thông tư của Bộ KHĐT thì các Bộ, ngành sẽ phối hợp tham\ngia ý kiến theo quy định tại Luật ban hành văn bản quy phạm pháp luật và các\nvăn bản hướng dẫn liên quan.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. Về Điều 11. Kế hoạch hàng năm về\nthu thập, cập nhật dữ liệu và Điều 12. Tổ chức thực hiện kế hoạch hàng năm về\nthu thập, cập nhật dữ liệu: Đề nghị Bộ KHĐT kết cấu quy định nội dung các Điều\nnày các nguyên tắc, trách nhiệm điều chỉnh chung về việc kết nối, thu thập, cập\nnhật dữ liệu để xây dựng Hệ thống thông tin và cơ sở dữ liệu quốc gia về hồ sơ\nquy hoạch, thay vì quy định các cơ quan, đơn vị hàng năm phải lập kế hoạch và tổ\nchức thực hiện kế hoạch cho trách nhiệm thực hiện thường xuyên này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. Về khoản 3, Điều 14: Đề nghị Bộ\nKH&amp;ĐT sửa đổi nội dung tại đối với nội dung tại khoản 3 Điều 14 Dự thảo\nThông tư như sau: <b><i>“Kinh phí chuyển đổi, tích hợp thông tin, cơ sở dữ liệu\nhồ sơ quy hoạch, cơ sở dữ liệu chuyên ngành vào hệ thống thông tin và cơ sở dữ\nliệu quốc gia về quy hoạch sử dụng nguồn kinh phí thường xuyên theo quy định tại\nThông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 26/2014/TT-BTNMT\" href=\"https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-26-2014-tt-btnmt-quy-trinh-dinh-muc-kinh-te-ky-thuat-co-so-du-lieu-tai-nguyen-moi-truong-233191.aspx\">26/2014/TT-BTNMT</a>  ngày 28/5/2014 của Bộ Tài nguyên và Môi trường quy\nđịnh quy trình và định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên\nvà môi trường; Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 73/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-73-2019-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-423247.aspx\">73/2019/NĐ-CP</a>  ngày 05/9/2019 của Chính phủ quy định\nvề quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà\nnước, các định mức kinh tế - kỹ thuật do Bộ Thông tin và Truyền thông ban hành\nvà pháp luật có liên quan.”</i></b></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Lý do như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Quy định về kinh phí chuyển đổi, tích\nhợp thông tin, cơ sở dữ liệu hồ sơ quy hoạch, cơ sở dữ liệu chuyên ngành vào hệ\nthống thông tin và cơ sở dữ liệu quốc gia về hồ sơ quy hoạch sử dụng từ nguồn\nkinh phí thường xuyên theo quy định của pháp luật về ngân sách nhà nước và pháp\nluật có liên quan Bộ Tài chính có ý kiến như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện nhiệm vụ được giao tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4132383')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4132383')\" atmm=\".lqhlTootip-4132383\" onmouseout=\"hideddrivetip();\">khoản 3 Điều 27 Nghị định số 64/2007/NĐ-CP</a> ngày 10/4/2007 của\nChính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước:\n<i>“Bộ Tài chính chủ trì, phối hợp với Bộ Thông tin và Truyền thông và các cơ\nquan liên quan xây dựng định mức chi sự nghiệp ứng dụng công nghệ thông tin\ntrong cơ quan nhà nước”.</i> Trên cơ sở đề xuất của Bộ Thông tin và Truyền\nthông (Bộ TTTT), ý kiến tham gia của Bộ Thông tin và Truyền thông và các cơ\nquan liên quan; Bộ Tài chính đã chủ trì ban hành Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 194/2012/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-194-2012-tt-btc-huong-dan-muc-chi-tao-lap-thong-tin-dien-tu-152549.aspx\">194/2012/TT-BTC</a> \nngày 15/11/2012 của Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm\nduy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tuy nhiên, đến nay, một số văn bản\nliên quan đến chi ứng dụng công nghệ thông tin đã được sửa đổi, bổ sung, như:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bộ TTTT đã chủ trì trình Chính phủ\nban hành Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 73/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-73-2019-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-423247.aspx\">73/2019/NĐ-CP</a>  ngày 05/9/2019 quy định về quản lý đầu tư ứng\ndụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước thay thế Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2009/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-102-2009-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-nha-nuoc-97114.aspx\">102/2009/NĐ-CP</a>  ngày 06/11/2009; trong đó tại <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-4132384')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-4132384')\" atmm=\".lqhlTootip-4132384\" onmouseout=\"hideddrivetip();\">khoản 1 và khoản\n6 Điều 59</a> quy định:</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">1. Bộ Thông tin và Truyền thông\nban hành và hướng dẫn các văn bản quy phạm pháp luật theo thẩm quyền về quản lý\nđầu tư ứng dụng công nghệ thông tin sử dụng nguồn Ngân sách nhà nước.</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">6. Bộ Thông tin và Truyền thông rà\nsoát hệ thống định mức thuộc thẩm quyền quản lý; sửa đổi, bổ sung, ban hành kịp\nthời, phù hợp với tình hình thực tiễn, tiến bộ khoa học và công nghệ, bảo đảm tiết\nkiệm, chống lãng phí.</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bộ Kế hoạch và Đầu tư đã chủ trì\ntrình Quốc hội ban hành Luật Đầu tư công và trình Chính phủ ban hành Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 40/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-40-2020-nd-cp-huong-dan-luat-dau-tu-cong-426374.aspx\">40/2020/NĐ-CP</a>  ngày 06/4/2020 quy định chi tiết thi hành một số điều của Luật\nĐầu tư công; trong đó tại điểm i, k, l mục V phần A và mục IV phần B phụ lục I\n(phân loại dự án đầu tư công) Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 40/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-40-2020-nd-cp-huong-dan-luat-dau-tu-cong-426374.aspx\">40/2020/NĐ-CP</a>  của Chính phủ quy định\nvề các dự án chi ứng dụng công nghệ thông tin sử dụng nguồn vốn đầu tư....</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Như vậy, quy định về chi ứng dụng\ncông nghệ thông tin thực hiện theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 73/2019/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-73-2019-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-423247.aspx\">73/2019/NĐ-CP</a>  ngày 05/9/2019 của\nChính phủ và các văn bản hướng dẫn của Bộ Thông tin và Truyền thông. Tại Nghị định\nkhông giao Bộ Tài chính hướng dẫn chi ứng dụng công nghệ thông tin nguồn kinh\nphí thường xuyên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trên đây là ý kiến tham gia của Bộ\nTài chính, đề nghị Bộ Kế hoạch và Đầu tư nghiên cứu, tổng hợp, hoàn thiện./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\"> </span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA3ADEAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Như trên;<br>\n  - Bộ trưởng Hồ Đức Phớc (để báo cáo);<br>\n  - NSNN; HCSN; ĐT; QLCS; TCDT<br>\n  - Lưu: VT, THTK ( bản).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">KT.\n  BỘ TRƯỞNG<br>\n  THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Đức Chi</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\"> </span></p>\n\n",
+  "mdContent": "**BỘ TÀI CHÍNH****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 4050/BTC-THTK  \n_V/v xin ý kiến dự thảo Thông tư hướng dẫn về nội dung, yêu cầu kỹ thuật đối với CSDL hồ sơ quy hoạch; việc thu thập, cập nhật, xử lý, khai thác, sử dụng thông tin, dữ liệu của hệ thống thông tin và CSDL quốc gia về quy hoạch._\n\n_Hà Nội, ngày 09 tháng 5 năm 2022_\n\n**Kính gửi:** Bộ Kế hoạch và Đầu tư\n\nPhúc đáp Công văn số 2089/BKHĐT-QLQH ngày 01/04/2022 của Bộ Kế hoạch và Đầu tư (Bộ KHĐT) về việc xin ý kiến dự thảo Thông tư hướng dẫn về nội dung, yêu cầu kỹ thuật đối với CSDL hồ sơ quy hoạch; việc thu thập, cập nhật, xử lý, khai thác, sử dụng thông tin, dữ liệu của hệ thống thông tin và CSDL quốc gia về quy hoạch, Bộ Tài chính tham gia ý kiến như sau:\n\n1\\. Về bố cục dự thảo Thông tư:\n\n\\- Dự thảo Thông tư căn cứ Luật Quy hoạch, Nghị định số [37/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-37-2019-nd-cp-huong-dan-luat-quy-hoach-374745.aspx \"Nghị định 37/2019/NĐ-CP\") của Chính phủ quy định chi tiết thi hành một số điều của Luật Quy hoạch, vì vậy đề nghị Bộ KHĐT làm rõ hướng dẫn những điều, khoản cụ thể nào của Luật, Nghị định.\n\n\\- Đề nghị Bộ KHĐT rà soát, chỉnh sửa, hoàn thiện dự thảo đảm bảo theo đúng quy định tại Luật ban hành văn bản quy phạm pháp luật và các văn bản hướng dẫn liên quan. Dự thảo thông tư có nhiều thuật ngữ chuyên ngành, chuyên môn kỹ thuật, đề nghị bổ sung nội dung các Điều quy định về:\n\n\\+ Giải thích từ ngữ;\n\n\\+ Điều kiện vận hành Cơ sở dữ liệu quốc gia về Quy hoạch;\n\n\\+ Trách nhiệm Quản lý về kỹ thuật (Quản lý, vận hành và đảm bảo hạ tầng kỹ thuật cho hoạt động thông suốt của hệ thống; Đảm bảo an ninh, an toàn về mặt kỹ thuật, lưu trữ và bảo mật Cơ sở dữ liệu quốc gia được đặt tại Bộ KHĐT; Hướng dẫn xử lý các vấn đề về kỹ thuật phát sinh trong quá trình sử dụng Cơ sở dữ liệu quốc gia; chia sẻ thông tin về dữ liệu quy hoạch kịp thời, chính xác để các cơ quan, tổ chức, đơn vị khai thác, sử dụng có hiệu quả; bảo mật các thông tin được chia sẻ; hướng dẫn, hỗ trợ các đơn vị trong việc triển khai kết nối; giải thích, làm rõ các nội dung liên quan đến các tài liệu của Cơ sở dữ liệu quốc gia khi có yêu cầu; cập nhật tài liệu và thông báo cho các bên liên quan khi có sự thay đổi các thông tin kết nối,....);\n\n\\+ Trách nhiệm Quản lý về nghiệp vụ (xây dựng yêu cầu về nghiệp vụ báo cáo kê khai dữ liệu quy hoạch đảm bảo tính nhất quán thông tin, tính chính xác của thông tin phù hợp với quy định của pháp luật về quy hoạch làm cơ sở để xây dựng, nâng cấp hệ thống; trách nhiệm tổ chức tập huấn và hỗ trợ cho các cơ quan, tổ chức, đơn vị trong quá trình sử dụng, khai thác và trao đổi thông tin trong cơ sở dữ liệu hồ sơ quy hoạch và các nghiệp vụ liên quan khác khi có nhu cầu; cách thức khai thác cơ sở dữ liệu quốc gia hồ sơ quy hoạch để phục vụ công tác quản lý, công tác chỉ đạo, điều hành, báo cáo, phân tích dự báo của Chính phủ, của Bộ KHĐT và cơ quan nhà nước có liên quan;....)\n\n\\- Một số trích dẫn trong dự thảo Thông tư quy định rõ loại văn bản; số, ký hiệu văn bản; ngày, tháng, năm ban hành văn bản; tên cơ quan thay cho sử dụng sử dụng kỹ thuật soạn thảo footnote trong dự thảo Thông tư (như footnote tại Điều 5, Điều 14, Điều 15,..). Dự thảo Thông tư hiện đang quy định có 02 Điều 14 và 02 Điều 15.\n\n2\\. Về Điều 2 đối tượng áp dụng: Đề nghị quy định rõ đối tượng áp dụng, trường hợp đối tượng áp dụng như quy định tại Luật Quy hoạch hoặc Nghị định số [37/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-37-2019-nd-cp-huong-dan-luat-quy-hoach-374745.aspx \"Nghị định 37/2019/NĐ-CP\") cũng cần ghi rõ để thực hiện thống nhất, như các Bộ, cơ quan trung ương; Ủy ban nhân dân cấp tỉnh; cơ quan khác được giao nhiệm vụ tiếp nhận và quản lý báo cáo thông tin về quy hoạch, cơ quan quản lý công nghệ thông tin hoặc cơ quan có chức năng về quản lý của các Bộ, cơ quan trung ương; cơ quan chuyên môn về quản lý quy hoạch của các tỉnh, thành phố trực thuộc Trung ương,....\n\n3\\. Về Khoản 4, Điều 8: Đề nghị Bộ KHĐT xác định hình thức ban hành Quy chế quản lý và vận hành Cổng thông tin điện tử của hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch là dưới hình thức ban hành quy chế cho phù hợp và lược bỏ đơn vị phối hợp với các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh ban hành Quy chế. Trường hợp Quy chế ban hành dưới hình thức Thông tư của Bộ KHĐT thì các Bộ, ngành sẽ phối hợp tham gia ý kiến theo quy định tại Luật ban hành văn bản quy phạm pháp luật và các văn bản hướng dẫn liên quan.\n\n4\\. Về Điều 11. Kế hoạch hàng năm về thu thập, cập nhật dữ liệu và Điều 12. Tổ chức thực hiện kế hoạch hàng năm về thu thập, cập nhật dữ liệu: Đề nghị Bộ KHĐT kết cấu quy định nội dung các Điều này các nguyên tắc, trách nhiệm điều chỉnh chung về việc kết nối, thu thập, cập nhật dữ liệu để xây dựng Hệ thống thông tin và cơ sở dữ liệu quốc gia về hồ sơ quy hoạch, thay vì quy định các cơ quan, đơn vị hàng năm phải lập kế hoạch và tổ chức thực hiện kế hoạch cho trách nhiệm thực hiện thường xuyên này.\n\n5\\. Về khoản 3, Điều 14: Đề nghị Bộ KH&ĐT sửa đổi nội dung tại đối với nội dung tại khoản 3 Điều 14 Dự thảo Thông tư như sau: **_“Kinh phí chuyển đổi, tích hợp thông tin, cơ sở dữ liệu hồ sơ quy hoạch, cơ sở dữ liệu chuyên ngành vào hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch sử dụng nguồn kinh phí thường xuyên theo quy định tại Thông tư số [26/2014/TT-BTNMT](https://thuvienphapluat.vn/van-ban/tai-nguyen-moi-truong/thong-tu-26-2014-tt-btnmt-quy-trinh-dinh-muc-kinh-te-ky-thuat-co-so-du-lieu-tai-nguyen-moi-truong-233191.aspx \"Thông tư 26/2014/TT-BTNMT\") ngày 28/5/2014 của Bộ Tài nguyên và Môi trường quy định quy trình và định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường; Nghị định số [73/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-73-2019-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-423247.aspx \"Nghị định 73/2019/NĐ-CP\") ngày 05/9/2019 của Chính phủ quy định về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước, các định mức kinh tế - kỹ thuật do Bộ Thông tin và Truyền thông ban hành và pháp luật có liên quan.”_**\n\nLý do như sau:\n\nQuy định về kinh phí chuyển đổi, tích hợp thông tin, cơ sở dữ liệu hồ sơ quy hoạch, cơ sở dữ liệu chuyên ngành vào hệ thống thông tin và cơ sở dữ liệu quốc gia về hồ sơ quy hoạch sử dụng từ nguồn kinh phí thường xuyên theo quy định của pháp luật về ngân sách nhà nước và pháp luật có liên quan Bộ Tài chính có ý kiến như sau:\n\nThực hiện nhiệm vụ được giao tại khoản 3 Điều 27 Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước: _“Bộ Tài chính chủ trì, phối hợp với Bộ Thông tin và Truyền thông và các cơ quan liên quan xây dựng định mức chi sự nghiệp ứng dụng công nghệ thông tin trong cơ quan nhà nước”._ Trên cơ sở đề xuất của Bộ Thông tin và Truyền thông (Bộ TTTT), ý kiến tham gia của Bộ Thông tin và Truyền thông và các cơ quan liên quan; Bộ Tài chính đã chủ trì ban hành Thông tư số [194/2012/TT-BTC](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/thong-tu-194-2012-tt-btc-huong-dan-muc-chi-tao-lap-thong-tin-dien-tu-152549.aspx \"Thông tư 194/2012/TT-BTC\") ngày 15/11/2012 của Bộ Tài chính hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước.\n\nTuy nhiên, đến nay, một số văn bản liên quan đến chi ứng dụng công nghệ thông tin đã được sửa đổi, bổ sung, như:\n\n\\- Bộ TTTT đã chủ trì trình Chính phủ ban hành Nghị định số [73/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-73-2019-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-423247.aspx \"Nghị định 73/2019/NĐ-CP\") ngày 05/9/2019 quy định về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước thay thế Nghị định số [102/2009/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-102-2009-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-nha-nuoc-97114.aspx \"Nghị định 102/2009/NĐ-CP\") ngày 06/11/2009; trong đó tại khoản 1 và khoản 6 Điều 59 quy định:\n\n_1\\. Bộ Thông tin và Truyền thông ban hành và hướng dẫn các văn bản quy phạm pháp luật theo thẩm quyền về quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn Ngân sách nhà nước._\n\n_6\\. Bộ Thông tin và Truyền thông rà soát hệ thống định mức thuộc thẩm quyền quản lý; sửa đổi, bổ sung, ban hành kịp thời, phù hợp với tình hình thực tiễn, tiến bộ khoa học và công nghệ, bảo đảm tiết kiệm, chống lãng phí._\n\n\\- Bộ Kế hoạch và Đầu tư đã chủ trì trình Quốc hội ban hành Luật Đầu tư công và trình Chính phủ ban hành Nghị định số [40/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-40-2020-nd-cp-huong-dan-luat-dau-tu-cong-426374.aspx \"Nghị định 40/2020/NĐ-CP\") ngày 06/4/2020 quy định chi tiết thi hành một số điều của Luật Đầu tư công; trong đó tại điểm i, k, l mục V phần A và mục IV phần B phụ lục I (phân loại dự án đầu tư công) Nghị định số [40/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/dau-tu/nghi-dinh-40-2020-nd-cp-huong-dan-luat-dau-tu-cong-426374.aspx \"Nghị định 40/2020/NĐ-CP\") của Chính phủ quy định về các dự án chi ứng dụng công nghệ thông tin sử dụng nguồn vốn đầu tư....\n\nNhư vậy, quy định về chi ứng dụng công nghệ thông tin thực hiện theo Nghị định số [73/2019/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-73-2019-nd-cp-quan-ly-dau-tu-ung-dung-cong-nghe-thong-tin-su-dung-nguon-von-ngan-sach-423247.aspx \"Nghị định 73/2019/NĐ-CP\") ngày 05/9/2019 của Chính phủ và các văn bản hướng dẫn của Bộ Thông tin và Truyền thông. Tại Nghị định không giao Bộ Tài chính hướng dẫn chi ứng dụng công nghệ thông tin nguồn kinh phí thường xuyên.\n\nTrên đây là ý kiến tham gia của Bộ Tài chính, đề nghị Bộ Kế hoạch và Đầu tư nghiên cứu, tổng hợp, hoàn thiện./.\n\n**_  \nNơi nhận:  \n_**\\- Như trên;  \n\\- Bộ trưởng Hồ Đức Phớc (để báo cáo);  \n\\- NSNN; HCSN; ĐT; QLCS; TCDT  \n\\- Lưu: VT, THTK ( bản).\n\n**KT. BỘ TRƯỞNG  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nNguyễn Đức Chi**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
