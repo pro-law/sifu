@@ -1,99 +1,103 @@
 {
-  "title": "Công văn 223/BXD-QLN năm 2021 hướng dẫn phương án xác định giá bán nhà ở xã hội sau 5 năm cho thuê và đã quyết toán dự án Khu nhà ở xã hội do Bộ Xây dựng ban hành",
+  "title": "Công văn số 223/BXD-QLN về việc hướng dẫn cụ thể một số vấn đề tại Nghị định 139/2007/NĐ-CP và Nghị định 153/2007/NĐ-CP do Bộ Xây dựng ban hành",
   "notes": "",
-  "guidedDocuments": [],
+  "guidedDocuments": [
+    {
+      "title": "Nghị định 153/2007/NĐ-CP Hướng dẫn Luật Kinh doanh Bất động sản",
+      "id": "153/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại",
+        "Bất động sản"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-10-15",
+      "effectiveDate": "2007-11-09",
+      "gazetteDate": "2007-10-25",
+      "gazetteNumber": "Số 739",
+      "status": "Hết hiệu lực: 01/11/2015"
+    }
+  ],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Thông tư 20/2016/TT-BXD hướng dẫn thực hiện Nghị định 100/2015/NĐ-CP về phát triển và quản lý nhà ở xã hội do Bộ trưởng Bộ Xây dựng ban hành",
-      "id": "20/2016/TT-BXD",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Đỗ Đức Duy"
-      ],
-      "issuedDate": "2016-06-30",
-      "effectiveDate": "2016-08-15",
-      "gazetteDate": "2016-08-03",
-      "gazetteNumber": "Từ số 815 đến số 816",
-      "status": "Hết hiệu lực: 01/10/2021"
-    },
-    {
-      "title": "Nghị định 100/2015/NĐ-CP về phát triển và quản lý nhà ở xã hội",
-      "id": "100/2015/NĐ-CP",
+      "title": "Nghị định 139/2007/NĐ-CP Hướng dẫn Luật Doanh nghiệp",
+      "id": "139/2007/NĐ-CP",
       "legislationType": "Nghị định",
       "categories": [
-        "Bất động sản"
+        "Doanh nghiệp"
       ],
       "organization": "Chính phủ",
       "signers": [
         "Nguyễn Tấn Dũng"
       ],
-      "issuedDate": "2015-10-20",
-      "effectiveDate": "2015-12-10",
-      "gazetteDate": "2015-11-22",
-      "gazetteNumber": "Từ số 1135 đến số 1136",
-      "status": "Còn hiệu lực"
+      "issuedDate": "2007-09-05",
+      "effectiveDate": "2007-10-05",
+      "gazetteDate": "2007-09-20",
+      "gazetteNumber": "Số 680",
+      "status": "Hết hiệu lực: 15/11/2010"
     },
     {
-      "title": "Luật Nhà ở 2014",
-      "id": "65/2014/QH13",
+      "title": "Nghị định 104/2007/NĐ-CP về kinh doanh dịch vụ đòi nợ",
+      "id": "104/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-06-14",
+      "effectiveDate": "2007-07-28",
+      "gazetteDate": "2007-07-13",
+      "gazetteNumber": "Từ số 462 đến số 463",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị định 88/2006/NĐ-CP về việc đăng ký kinh doanh và cơ quan đăng ký kinh doanh",
+      "id": "88/2006/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2006-08-29",
+      "effectiveDate": "2006-09-27",
+      "gazetteDate": "2006-09-12",
+      "gazetteNumber": "Từ số 31 đến số 32",
+      "status": "Hết hiệu lực: 01/06/2010"
+    },
+    {
+      "title": "Luật kinh doanh bất động sản 2006",
+      "id": "63/2006/QH11",
       "legislationType": "Luật",
       "categories": [
+        "Thương mại",
         "Bất động sản"
       ],
       "organization": "Quốc hội",
       "signers": [
-        "Nguyễn Sinh Hùng"
+        "Nguyễn Phú Trọng"
       ],
-      "issuedDate": "2014-11-25",
-      "effectiveDate": "2015-07-01",
-      "gazetteDate": "2014-12-29",
-      "gazetteNumber": "Từ số 1169 đến số 1170",
-      "status": "Còn hiệu lực đến: 31/12/2024"
-    },
-    {
-      "title": "Thông tư 08/2014/TT-BXD hướng dẫn Nghị định 188/2013/NĐ-CP về phát triển và quản lý nhà ở xã hội do Bộ trưởng Bộ Xây dựng ban hành",
-      "id": "08/2014/TT-BXD",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Bất động sản",
-        "Bộ máy hành chính",
-        "Văn hóa - Xã hội"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Nguyễn Trần Nam"
-      ],
-      "issuedDate": "2014-05-23",
-      "effectiveDate": "2014-07-08",
-      "gazetteDate": "2014-06-14",
-      "gazetteNumber": "Từ số 583 đến số 584",
-      "status": "Hết hiệu lực: 15/08/2016"
-    },
-    {
-      "title": "Nghị định 188/2013/NĐ-CP về phát triển và quản lý nhà ở xã hội",
-      "id": "188/2013/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Bất động sản",
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2013-11-20",
-      "effectiveDate": "2014-01-10",
-      "gazetteDate": "2013-12-07",
-      "gazetteNumber": "Từ số 881 đến số 882",
-      "status": "Hết hiệu lực: 10/12/2015"
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-05",
+      "gazetteNumber": "Từ số 5 đến số 6",
+      "status": "Hết hiệu lực: 01/07/2015"
     }
   ],
   "influentialDocuments": [],
@@ -104,156 +108,20 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Công văn 1968/BXD-KTXD năm 2023 hướng dẫn quyết toán dự án hoàn thành sử dụng nguồn vốn nhà nước ngoài đầu tư công do Bộ Xây dựng ban hành",
-      "id": "1968/BXD-KTXD",
-      "legislationType": "Công văn",
-      "categories": [
-        "Đầu tư",
-        "Tài chính nhà nước"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Đàm Đức Biên"
-      ],
-      "issuedDate": "2023-05-18",
-      "effectiveDate": "2023-05-18",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 2344/BXD-QLN năm 2022 hướng dẫn thực hiện quy định về nhà ở xã hội do Bộ Xây dựng ban hành",
-      "id": "2344/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Hà Quang Hưng"
-      ],
-      "issuedDate": "2022-06-28",
-      "effectiveDate": "2022-06-28",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 6246/BXD-QLN năm 2020 về thuê nhà ở xã hội thuộc sở hữu Nhà nước do Bộ Xây dựng ban hành",
-      "id": "6246/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Nguyễn Mạnh Khởi"
-      ],
-      "issuedDate": "2020-12-28",
-      "effectiveDate": "2020-12-28",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 5749/BXD-QLN năm 2020 trả lời văn bản 3006/SXD-QLN&TTBĐS về hướng dẫn một số vướng mắc liên quan đến dự án phát triển nhà ở xã hội do Bộ Xây dựng ban hành",
-      "id": "5749/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Hà Quang Hưng"
-      ],
-      "issuedDate": "2020-11-30",
-      "effectiveDate": "2020-11-30",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 5170/BXD-QLN năm 2020 về trả lời văn bản 3085/SXD-QLNĐT&HT của Sở Xây dựng về công tác quản lý và xây dựng phát triển nhà ở xã hội do Bộ Xây dựng ban hành",
-      "id": "5170/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Hà Quang Hưng"
-      ],
-      "issuedDate": "2020-10-26",
-      "effectiveDate": "2020-10-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 4248/BXD-QLN năm 2020 hướng dẫn việc bố trí nhà ở xã hội tại các dự án nhà ở thương mại, dự án khu đô thị trên địa bàn Tỉnh Đồng Nai khi thực hiện điều chỉnh quy hoạch do Bộ Xây dựng ban hành",
-      "id": "4248/BXD-QLN",
+      "title": "Công văn số 2434/BXD-QLN về việc trả lời công văn số 5525/UBND–KH&ĐT của Uỷ ban nhân dân thành phố Hà Nội về việc hướng dẫn giải quyết một số vướng mắc đối với các dự án kinh doanh bất động sản và dự án phát triển nhà ở trên địa bàn thành phố do Bộ Xây dựng ban hành",
+      "id": "2434/BXD-QLN",
       "legislationType": "Công văn",
       "categories": [
         "Bất động sản",
+        "Bộ máy hành chính",
         "Xây dựng - Đô thị"
       ],
       "organization": "Bộ Xây dựng",
       "signers": [
-        "Nguyễn Văn Sinh"
+        "Nguyễn Trần Nam"
       ],
-      "issuedDate": "2020-08-31",
-      "effectiveDate": "2020-08-31",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 298/BXD-QLN năm 2019 về hướng dẫn việc xác định chi phí đầu tư hạ tầng kỹ thuật của dự án nhà ở xã hội do Bộ Xây dựng ban hành",
-      "id": "298/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Vũ Văn Phấn"
-      ],
-      "issuedDate": "2019-12-10",
-      "effectiveDate": "2019-12-10",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 291/BXD-QLN năm 2019 quy định về bán nhà ở xã hội được đầu tư xây dựng bằng nguồn vốn ngoài ngân sách tại Nghị định 100/2015/NĐ-CP do Bộ Xây dựng ban hành",
-      "id": "291/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bất động sản"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Vũ Văn Phấn"
-      ],
-      "issuedDate": "2019-12-02",
-      "effectiveDate": "2019-12-02",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 260/BXD-QLN năm 2019 xác định giá bán, giá cho thuê nhà ở xã hội tại Dự án đầu tư xây dựng nhà ở xã hội cho người có thu nhập thấp do Bộ Xây dựng ban hành",
-      "id": "260/BXD-QLN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Xây dựng - Đô thị"
-      ],
-      "organization": "Bộ Xây dựng",
-      "signers": [
-        "Vũ Văn Phấn"
-      ],
-      "issuedDate": "2019-11-05",
-      "effectiveDate": "2019-11-05",
+      "issuedDate": "2007-11-16",
+      "effectiveDate": "2007-11-16",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -262,19 +130,21 @@
   "id": "223/BXD-QLN",
   "legislationType": "Công văn",
   "categories": [
-    "Xây dựng - Đô thị"
+    "Doanh nghiệp",
+    "Bất động sản",
+    "Bộ máy hành chính"
   ],
   "organization": "Bộ Xây dựng",
   "signers": [
-    "Hà Quang Hưng"
+    "Nguyễn Trần Nam"
   ],
-  "issuedDate": "2021-01-22",
-  "effectiveDate": "2021-01-22",
+  "issuedDate": "2008-02-04",
+  "effectiveDate": "2008-02-04",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADAAMQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>BỘ XÂY DỰNG<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\">Số: 223/BXD-QLN<br>\n  <i><span style=\"font-size:8.0pt\">V/v trả lời văn bản số 12664/SXD-KTXD ngày\n  25/12/2020 của Sở Xây dựng Thành phố Hà Nội</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 22\n  tháng 01 năm 2021</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b>Kính\ngửi:</b> Sở Xây dựng thành phố Hà Nội</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Bộ Xây dựng nhận được văn bản số\n12664/SXD-KTXD ngày 25/12/2020 của Sở Xây dựng thành phố Hà Nội đề nghị Bộ Xây\ndựng hướng dẫn phương án xác định giá bán nhà ở xã hội sau 5 năm cho thuê và đã\nquyết toán dự án Khu nhà ở xã hội tại Lô đất N01, N02, N03, N04 và N06 Khu đô\nthị mới Đặng Xá 2, Gia Lâm, Hà Nội. Sau khi nghiên cứu, Bộ Xây dựng có ý kiến\nnhư sau:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>1. Thông tin dự án</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Theo văn bản số 12664/SXD-KTXD\ncủa Sở Xây dựng thành phố Hà Nội thì Dự án Khu nhà ở xã hội tại Lô đất N01, N02,\nN03, N04 và N06 Khu đô thị mới Đặng Xá 2 có tổng diện tích sàn xây dựng là\n135.818 m2, trong đó tổng diện tích căn hộ là 86.763m2, bao gồm 1.466 căn hộ.\nTrong đó có: 18.244 m2 căn hộ thương mại để bán (tương đương 313 căn); 16.265\nm2 căn hộ nhà ở xã hội để bán (tương đương 883 căn) và 16.265 m2 căn hộ nhà ở\nxã hội cho thuê (tương đương 270 căn hộ).</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Dự án đã bàn giao đưa vào sử dụng\ntháng 04/2015 và được Liên ngành thành phố xem xét thẩm định giá bán và giá cho\nthuê, thuê mua ngày 05/8/2014 theo quy định tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705854')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705854')\" atmm=\".lqhlTootip-3705854\" onmouseout=\"hideddrivetip();\">điểm c khoản 2 Điều\n15 Nghị định số 188/2013/NĐ-CP</a> ngày 20/11/2013 của Chính phủ về phát triển\nvà quản lý nhà ở xã hội và <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705855')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705855')\" atmm=\".lqhlTootip-3705855\" onmouseout=\"hideddrivetip();\">điểm d khoản 1 Điều 18 Thông tư số\n08/2014/TT-BXD</a> ngày 23/5/2014 của Bộ Xây dựng về hướng dẫn thực hiện một số\nnội dung của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 188/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-188-2013-nd-cp-phat-trien-quan-ly-nha-o-xa-hoi-213910.aspx\">188/2013/NĐ-CP</a>  của Chính phủ. Quỹ căn nhà ở xã hội\ncho thuê bàn giao quý II năm 2015 đến nay đã đủ 05 năm cho thuê để tổ chức thực\nhiện bán theo quy định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tại thời điểm hiện tại, việc\nxác định giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội được quy định tại\nThông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 20/2016/TT-BXD\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-20-2016-tt-bxd-huong-dan-100-2015-nd-cp-phat-trien-quan-ly-nha-o-xa-hoi-317043.aspx\">20/2016/TT-BXD</a>  ngày 30/6/2016 của Bộ Xây dựng về hướng dẫn thực hiện\nmột số nội dung của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 100/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-100-2015-nd-cp-phat-trien-quan-ly-nha-o-xa-hoi-295027.aspx\">100/2015/NĐ-CP</a>  ngày 20/10/2015 của Chính phủ về\nphát triển và quản lý nhà ở xã hội.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Do đó, Sở Xây dựng thành phố Hà\nNội đề nghị Bộ Xây dựng hướng dẫn một số vướng mắc trong quá trình xây dựng\nphương án giá bán đối với các căn cho thuê nhà ở xã hội sau thời gian cho thuê\n05 năm tại Dự án nêu trên.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><b>2. Ý kiến của Bộ Xây dựng</b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2.1. Về thời gian khấu hao và\nviệc xác định lại giá bán đối với các căn nhà ở xã hội cho thuê được phép bán:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tại <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705856')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705856')\" atmm=\".lqhlTootip-3705856\" onmouseout=\"hideddrivetip();\">khoản 2 Điều\n26 Nghị định số 100/2015/NĐ-CP</a> của Chính phủ có quy định: “<i>Chủ đầu tư dự\nán phải dành tối thiểu 20% tổng diện tích sàn nhà ở trong phạm vi dự án dành để\ncho thuê; sau thời gian tối thiểu là 05 năm kể từ thời điểm bắt đầu cho thuê\nthì chủ đầu tư dự án <b>được phép bán quỹ nhà ở này </b>cho người đang thuê hoặc\nđối tượng quy định tại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705857')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705857')\" atmm=\".lqhlTootip-3705857\" onmouseout=\"hideddrivetip();\">Điều 49 của Luật Nhà ở</a> <b>theo giá\nbán quy định tại Điều 21 của Nghị định này”</b></i>.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tại <a name=\"dc_5\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705858')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705858')\" atmm=\".lqhlTootip-3705858\" onmouseout=\"hideddrivetip();\">khoản 4 Điều\n7 Thông tư số 20/2016/TT-BXD</a> ngày 30/6/2016 của Bộ Xây dựng hướng dẫn thực\nhiện một số nội dung của Nghị định số 100/2015/NĐ- CP ngày 20/10/2020 của Chính\nphủ về phát triển và quản lý nhà ở xã hội có quy định: “<i>Việc xác định giá\nbán đối với nhà ở đối với nhà ở xã hội cho thuê khi được phép bán theo quy định\nthì giá bán phải giảm trừ phần <b>chi phí khấu hao nhà ở tương ứng với thời\ngian đã thuê</b></i>”.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tại <a name=\"dc_6\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705859')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705859')\" atmm=\".lqhlTootip-3705859\" onmouseout=\"hideddrivetip();\">khoản 4 Điều\n21 Nghị định số 100/2015/NĐ-CP</a> có quy định: <i>“<b>Ủy ban nhân dân cấp tỉnh\ngiao cơ quan chức năng trực thuộc thực hiện thẩm định giá </b>bán, thuê mua,\nthuê nhà ở xã hội được đầu tư xây dựng theo dự án bằng nguồn vốn ngoài ngân\nsách nhà nước trên phạm vi địa bàn”</i>.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Như vậy, việc xác định giá bán\ncác căn nhà ở xã hội cho thuê được phép bán tại Dự án nêu trên phải đảm bảo các\nnguyên tắc quy định tại <a name=\"dc_9\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705860')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705860')\" atmm=\".lqhlTootip-3705860\" onmouseout=\"hideddrivetip();\">Điều 21 Nghị định số 100/2015/NĐ-CP</a>\ncủa Chính phủ; đồng thời, giá bán phải giảm trừ phần chi phí khấu hao nhà ở\ntương ứng với thời gian đã thuê và khung thời gian trích khấu hao của công\ntrình được xác định theo phương án giá đã trình và được cơ quan có thẩm quyền\nthẩm định.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">2.2. Về thời điểm xác định lại\ngiá bán đối với các căn cho thuê nhà ở xã hội sau thời gian 05 năm cho thuê và\nviệc hoàn trả, bù đắp lại phần chênh lệch cho người mua, thuê, thuê mua nhà ở\nxã hội:</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Theo quy định tại <a name=\"dc_7\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705861')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705861')\" atmm=\".lqhlTootip-3705861\" onmouseout=\"hideddrivetip();\">khoản\n3 Điều 54 Luật Nhà ở năm 2014</a> thì <i>đối với các dự án xây dựng nhà ở xã hội\nmà không thuộc khu vực phải lập dự án đầu tư xây dựng nhà ở xã hội riêng để cho\nthuê quy định tại khoản 2 Điều này thì chủ đầu tư phải dành tối thiểu 20% diện\ntích nhà ở xã hội trong dự án để cho thuê; chủ đầu tư được hưởng cơ chế ưu đãi\nxây dựng nhà ở để cho thuê theo quy định tại khoản 1 Điều 58 của Luật này đối với\nphần diện tích 20% nhà ở xã hội để cho thuê và được bán nhà ở này cho người\nđang thuê theo quy định về bán nhà ở xã hội <b>sau thời hạn 05 năm cho thuê</b>.</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Tại <a name=\"dc_8\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-3705862')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-3705862')\" atmm=\".lqhlTootip-3705862\" onmouseout=\"hideddrivetip();\">điểm đ khoản\n1 Điều 6 Thông tư số 20/2016/TT-BXD</a> của Bộ Xây dựng có quy định:<i>“Căn cứ\nnguyên tắc xác định giá quy định tại các Điểm a, b, c và d Khoản này, chủ đầu\ntư xây dựng giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội do mình đầu tư\nxây dựng để trình Ủy ban nhân dân cấp tỉnh nơi có dự án tổ chức thẩm định. Trường\nhợp chủ đầu tư đã hoàn thành xong việc xây dựng nhà ở xã hội và đã được kiểm\ntoán về chi phí của dự án theo quy định thì Ủy ban nhân dân cấp tỉnh có thể căn\ncứ vào báo cáo kiểm toán để thẩm định giá bán, giá cho thuê, giá cho thuê mua\nnhà ở xã hội của dự án. Ủy ban nhân dân cấp tỉnh giao Sở Xây dựng hoặc cơ quan\ncó chức năng thẩm định giá của địa phương thực hiện việc thẩm định giá bán, giá\ncho thuê, giá cho thuê mua nhà ở xã hội do chủ đầu tư đề nghị. Cơ quan được\ngiao thẩm định chịu trách nhiệm trước Ủy ban nhân dân cấp tỉnh về kết quả và thời\nhạn thực hiện thẩm định.</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Trong thời hạn 30 ngày, kể từ\nngày nhận được Hồ sơ hợp lệ đề nghị thẩm định giá của chủ đầu tư, cơ quan được\ngiao thẩm định giá có trách nhiệm tổ chức thẩm định và có văn bản thông báo kết\nquả thẩm định cho chủ đầu tư, trong đó nêu rõ các nội dung đồng ý và nội dung cần\nchỉnh sửa (nếu có). Căn cứ văn bản thông báo kết quả thẩm định, chủ đầu tư ban\nhành giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội của dự án trên nguyên\ntắc không được cao hơn giá đã được thẩm định.</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Nếu quá thời hạn nêu trên mà\nđơn vị được giao thẩm định giá không có văn bản thông báo kết quả thẩm định thì\nchủ đầu tư được quyền ban hành giá theo phương án giá đã trình thẩm định và ký\nhợp đồng mua bán, thuê, thuê mua nhà ở xã hội với khách hàng, nhưng trước khi\nký hợp đồng chủ đầu tư phải có trách nhiệm gửi bảng giá bán, giá cho thuê, giá cho\nthuê mua nhà ở xã hội do chủ đầu tư ban hành đến Sở Xây dựng địa phương để theo\ndõi. Khi có văn bản thông báo kết quả thẩm định mà giá thẩm định cao hơn giá do\nchủ đầu tư đã ký hợp đồng thì chủ đầu tư không được thu thêm; trường hợp thấp\nhơn thì chủ đầu tư phải ký lại hợp đồng hoặc Điều chỉnh bổ sung phụ lục hợp đồng\nvà phải hoàn trả lại phần chênh lệch cho người mua, thuê, thuê mua nhà ở.</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Như vậy, nhà ở xã hội cho thuê\nđược phép bán sau 05 năm cho thuê. Việc xác định lại giá bán căn cứ theo nguyên\ntắc đã nêu tại mục 1, trường hợp giá bán được xác định lại mà thấp hơn giá đã\nthẩm định thì chủ đầu tư phải ký lại hợp đồng hoặc Điều chỉnh bổ sung phụ lục hợp\nđồng và phải hoàn trả lại phần chênh lệch cho người mua, thuê, thuê mua nhà ở.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\">Trên đây là ý kiến của Bộ Xây dựng,\nđề nghị Sở Xây dựng thành phố Hà Nội nghiên cứu, hướng dẫn doanh nghiệp thực hiện\ntheo quy định./.</p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADAAMQA=-->\n <tbody><tr>\n  <td width=\"254\" valign=\"top\" style=\"width:190.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như trên;<br>\n  - BT Phạm Hồng Hà (để b/c);<br>\n  - TT Nguyễn Văn Sinh (để b/c);<br>\n  - Lưu: VT, QLN (2b).</span></p>\n  </td>\n  <td width=\"337\" valign=\"top\" style=\"width:252.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TL. BỘ TRƯỞNG</b><br>\n  <b>KT. CỤC TRƯỞNG CỤC QUẢN LÝ NHÀ<br>\n  VÀ THỊ TRƯỜNG BẤT ĐỘNG SẢN</b><br>\n  <b>PHÓ CỤC TRƯỞNG</b><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  <b>Hà Quang Hưng</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n",
-  "mdContent": "**BỘ XÂY DỰNG  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 223/BXD-QLN  \n_V/v trả lời văn bản số 12664/SXD-KTXD ngày 25/12/2020 của Sở Xây dựng Thành phố Hà Nội_\n\n_Hà Nội, ngày 22 tháng 01 năm 2021_\n\n**Kính gửi:** Sở Xây dựng thành phố Hà Nội\n\nBộ Xây dựng nhận được văn bản số 12664/SXD-KTXD ngày 25/12/2020 của Sở Xây dựng thành phố Hà Nội đề nghị Bộ Xây dựng hướng dẫn phương án xác định giá bán nhà ở xã hội sau 5 năm cho thuê và đã quyết toán dự án Khu nhà ở xã hội tại Lô đất N01, N02, N03, N04 và N06 Khu đô thị mới Đặng Xá 2, Gia Lâm, Hà Nội. Sau khi nghiên cứu, Bộ Xây dựng có ý kiến như sau:\n\n**1\\. Thông tin dự án**\n\nTheo văn bản số 12664/SXD-KTXD của Sở Xây dựng thành phố Hà Nội thì Dự án Khu nhà ở xã hội tại Lô đất N01, N02, N03, N04 và N06 Khu đô thị mới Đặng Xá 2 có tổng diện tích sàn xây dựng là 135.818 m2, trong đó tổng diện tích căn hộ là 86.763m2, bao gồm 1.466 căn hộ. Trong đó có: 18.244 m2 căn hộ thương mại để bán (tương đương 313 căn); 16.265 m2 căn hộ nhà ở xã hội để bán (tương đương 883 căn) và 16.265 m2 căn hộ nhà ở xã hội cho thuê (tương đương 270 căn hộ).\n\nDự án đã bàn giao đưa vào sử dụng tháng 04/2015 và được Liên ngành thành phố xem xét thẩm định giá bán và giá cho thuê, thuê mua ngày 05/8/2014 theo quy định tại điểm c khoản 2 Điều 15 Nghị định số 188/2013/NĐ-CP ngày 20/11/2013 của Chính phủ về phát triển và quản lý nhà ở xã hội và điểm d khoản 1 Điều 18 Thông tư số 08/2014/TT-BXD ngày 23/5/2014 của Bộ Xây dựng về hướng dẫn thực hiện một số nội dung của Nghị định số [188/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-188-2013-nd-cp-phat-trien-quan-ly-nha-o-xa-hoi-213910.aspx \"Nghị định 188/2013/NĐ-CP\") của Chính phủ. Quỹ căn nhà ở xã hội cho thuê bàn giao quý II năm 2015 đến nay đã đủ 05 năm cho thuê để tổ chức thực hiện bán theo quy định.\n\nTại thời điểm hiện tại, việc xác định giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội được quy định tại Thông tư số [20/2016/TT-BXD](https://thuvienphapluat.vn/van-ban/bat-dong-san/thong-tu-20-2016-tt-bxd-huong-dan-100-2015-nd-cp-phat-trien-quan-ly-nha-o-xa-hoi-317043.aspx \"Thông tư 20/2016/TT-BXD\") ngày 30/6/2016 của Bộ Xây dựng về hướng dẫn thực hiện một số nội dung của Nghị định số [100/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-100-2015-nd-cp-phat-trien-quan-ly-nha-o-xa-hoi-295027.aspx \"Nghị định 100/2015/NĐ-CP\") ngày 20/10/2015 của Chính phủ về phát triển và quản lý nhà ở xã hội.\n\nDo đó, Sở Xây dựng thành phố Hà Nội đề nghị Bộ Xây dựng hướng dẫn một số vướng mắc trong quá trình xây dựng phương án giá bán đối với các căn cho thuê nhà ở xã hội sau thời gian cho thuê 05 năm tại Dự án nêu trên.\n\n**2\\. Ý kiến của Bộ Xây dựng**\n\n2.1. Về thời gian khấu hao và việc xác định lại giá bán đối với các căn nhà ở xã hội cho thuê được phép bán:\n\nTại khoản 2 Điều 26 Nghị định số 100/2015/NĐ-CP của Chính phủ có quy định: “_Chủ đầu tư dự án phải dành tối thiểu 20% tổng diện tích sàn nhà ở trong phạm vi dự án dành để cho thuê; sau thời gian tối thiểu là 05 năm kể từ thời điểm bắt đầu cho thuê thì chủ đầu tư dự án **được phép bán quỹ nhà ở này** cho người đang thuê hoặc đối tượng quy định tại Điều 49 của Luật Nhà ở **theo giá bán quy định tại Điều 21 của Nghị định này”**_.\n\nTại khoản 4 Điều 7 Thông tư số 20/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng hướng dẫn thực hiện một số nội dung của Nghị định số 100/2015/NĐ- CP ngày 20/10/2020 của Chính phủ về phát triển và quản lý nhà ở xã hội có quy định: “_Việc xác định giá bán đối với nhà ở đối với nhà ở xã hội cho thuê khi được phép bán theo quy định thì giá bán phải giảm trừ phần **chi phí khấu hao nhà ở tương ứng với thời gian đã thuê**_”.\n\nTại khoản 4 Điều 21 Nghị định số 100/2015/NĐ-CP có quy định: _“**Ủy ban nhân dân cấp tỉnh giao cơ quan chức năng trực thuộc thực hiện thẩm định giá** bán, thuê mua, thuê nhà ở xã hội được đầu tư xây dựng theo dự án bằng nguồn vốn ngoài ngân sách nhà nước trên phạm vi địa bàn”_.\n\nNhư vậy, việc xác định giá bán các căn nhà ở xã hội cho thuê được phép bán tại Dự án nêu trên phải đảm bảo các nguyên tắc quy định tại Điều 21 Nghị định số 100/2015/NĐ-CP của Chính phủ; đồng thời, giá bán phải giảm trừ phần chi phí khấu hao nhà ở tương ứng với thời gian đã thuê và khung thời gian trích khấu hao của công trình được xác định theo phương án giá đã trình và được cơ quan có thẩm quyền thẩm định.\n\n2.2. Về thời điểm xác định lại giá bán đối với các căn cho thuê nhà ở xã hội sau thời gian 05 năm cho thuê và việc hoàn trả, bù đắp lại phần chênh lệch cho người mua, thuê, thuê mua nhà ở xã hội:\n\nTheo quy định tại khoản 3 Điều 54 Luật Nhà ở năm 2014 thì _đối với các dự án xây dựng nhà ở xã hội mà không thuộc khu vực phải lập dự án đầu tư xây dựng nhà ở xã hội riêng để cho thuê quy định tại khoản 2 Điều này thì chủ đầu tư phải dành tối thiểu 20% diện tích nhà ở xã hội trong dự án để cho thuê; chủ đầu tư được hưởng cơ chế ưu đãi xây dựng nhà ở để cho thuê theo quy định tại khoản 1 Điều 58 của Luật này đối với phần diện tích 20% nhà ở xã hội để cho thuê và được bán nhà ở này cho người đang thuê theo quy định về bán nhà ở xã hội **sau thời hạn 05 năm cho thuê**._\n\nTại điểm đ khoản 1 Điều 6 Thông tư số 20/2016/TT-BXD của Bộ Xây dựng có quy định:_“Căn cứ nguyên tắc xác định giá quy định tại các Điểm a, b, c và d Khoản này, chủ đầu tư xây dựng giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội do mình đầu tư xây dựng để trình Ủy ban nhân dân cấp tỉnh nơi có dự án tổ chức thẩm định. Trường hợp chủ đầu tư đã hoàn thành xong việc xây dựng nhà ở xã hội và đã được kiểm toán về chi phí của dự án theo quy định thì Ủy ban nhân dân cấp tỉnh có thể căn cứ vào báo cáo kiểm toán để thẩm định giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội của dự án. Ủy ban nhân dân cấp tỉnh giao Sở Xây dựng hoặc cơ quan có chức năng thẩm định giá của địa phương thực hiện việc thẩm định giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội do chủ đầu tư đề nghị. Cơ quan được giao thẩm định chịu trách nhiệm trước Ủy ban nhân dân cấp tỉnh về kết quả và thời hạn thực hiện thẩm định._\n\n_Trong thời hạn 30 ngày, kể từ ngày nhận được Hồ sơ hợp lệ đề nghị thẩm định giá của chủ đầu tư, cơ quan được giao thẩm định giá có trách nhiệm tổ chức thẩm định và có văn bản thông báo kết quả thẩm định cho chủ đầu tư, trong đó nêu rõ các nội dung đồng ý và nội dung cần chỉnh sửa (nếu có). Căn cứ văn bản thông báo kết quả thẩm định, chủ đầu tư ban hành giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội của dự án trên nguyên tắc không được cao hơn giá đã được thẩm định._\n\n_Nếu quá thời hạn nêu trên mà đơn vị được giao thẩm định giá không có văn bản thông báo kết quả thẩm định thì chủ đầu tư được quyền ban hành giá theo phương án giá đã trình thẩm định và ký hợp đồng mua bán, thuê, thuê mua nhà ở xã hội với khách hàng, nhưng trước khi ký hợp đồng chủ đầu tư phải có trách nhiệm gửi bảng giá bán, giá cho thuê, giá cho thuê mua nhà ở xã hội do chủ đầu tư ban hành đến Sở Xây dựng địa phương để theo dõi. Khi có văn bản thông báo kết quả thẩm định mà giá thẩm định cao hơn giá do chủ đầu tư đã ký hợp đồng thì chủ đầu tư không được thu thêm; trường hợp thấp hơn thì chủ đầu tư phải ký lại hợp đồng hoặc Điều chỉnh bổ sung phụ lục hợp đồng và phải hoàn trả lại phần chênh lệch cho người mua, thuê, thuê mua nhà ở._\n\nNhư vậy, nhà ở xã hội cho thuê được phép bán sau 05 năm cho thuê. Việc xác định lại giá bán căn cứ theo nguyên tắc đã nêu tại mục 1, trường hợp giá bán được xác định lại mà thấp hơn giá đã thẩm định thì chủ đầu tư phải ký lại hợp đồng hoặc Điều chỉnh bổ sung phụ lục hợp đồng và phải hoàn trả lại phần chênh lệch cho người mua, thuê, thuê mua nhà ở.\n\nTrên đây là ý kiến của Bộ Xây dựng, đề nghị Sở Xây dựng thành phố Hà Nội nghiên cứu, hướng dẫn doanh nghiệp thực hiện theo quy định./.\n\n**_  \nNơi nhận:  \n_**\\- Như trên;  \n\\- BT Phạm Hồng Hà (để b/c);  \n\\- TT Nguyễn Văn Sinh (để b/c);  \n\\- Lưu: VT, QLN (2b).\n\n**TL. BỘ TRƯỞNG**  \n**KT. CỤC TRƯỞNG CỤC QUẢN LÝ NHÀ  \nVÀ THỊ TRƯỜNG BẤT ĐỘNG SẢN**  \n**PHÓ CỤC TRƯỞNG**  \n  \n  \n  \n  \n**Hà Quang Hưng**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"4\" cellpadding=\"0\">\n <tbody><tr>\n  <td width=\"41%\" valign=\"top\" style=\"width:41.48%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>BỘ\n  XÂY DỰNG<br>\n  ---------</b></p>\n  </td>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.3%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG\n  HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM <br>\n  Độc lập -Tự do - Hạnh phúc<br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr style=\"height:10.6pt\">\n  <td width=\"41%\" valign=\"top\" style=\"width:41.48%;padding:2.85pt 5.4pt 2.85pt 5.4pt;\n  height:10.6pt\">\n  <p style=\"margin-bottom:6.0pt\">Số: 223/BXD-QLN<u><br>\n  </u><i><span style=\"font-size:8.0pt\">V/v: hướng dẫn một số nội dung Nghị định\n  153/2007/NĐ -CP</span></i><span style=\"font-size:8.0pt\"> </span></p>\n  </td>\n  <td width=\"56%\" valign=\"top\" style=\"width:56.3%;padding:2.85pt 5.4pt 2.85pt 5.4pt;\n  height:10.6pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Hà\n  Nội, ngày 04 tháng 02 năm 2008</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>Kính\ngửi:</b> Sở Kế hoạch và Đầu tư Đồng Nai</p>\n\n<p style=\"margin-bottom:6.0pt\">Bộ Xây dựng nhận được công văn số\n17/SKHĐT- ĐKKD ngày 04/01/2008 của Sở Kế hoạch và Đầu tư Đồng Nai về việc đề\nnghị hướng dẫn cụ thể một số vấn đề tại Nghị định 139/2007/NĐ-CP và Nghị định\n153/2007/NĐ-CP. Sau khi nghiên cứu Bộ Xây dựng có ý kiến như sau: </p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\">1/ Về xác nhận\nvốn pháp định khi đăng ký kinh doanh bất động sản:</a></p>\n\n<p style=\"margin-bottom:6.0pt\">Hiện nay, Bộ Xây dựng đang soạn\nthảo thông tư hướng dẫn thực hiện Nghị định 153/2007/NĐ-CP ngày 15/10/2007của\nChính phủ về hướng dẫn thi hành Luật Kinh doanh bất động sản. Trong quá trình\nsoạn thảo thông tư Bộ Xây dựng đã phối hợp với các Bộ, Ngành có liên quan để giải\nquyết những vấn đề vướng mắc liên quan đến việc cấp đăng ký kinh doanh cho các\ndoanh nghiệp kinh doanh bất động sản nói chung và việc xác định cơ quan, tổ chức\nxác nhận vốn pháp định nói riêng. Sau khi nhận được ý kiến của các cơ quan có\nliên quan, Bộ Xây dựng sẽ ban hành văn bản hướng dẫn cụ thể. </p>\n\n<p style=\"margin-bottom:6.0pt\">Trước mắt, để kịp thời giải quyết\nviệc cấp đăng ký ngành nghề kinh doanh bất động sản cho các doanh nghiệp có nhu\ncầu trên địa bàn Tỉnh, Bộ Xây dựng thống nhất đề xuất của Sở Kế hoạch &amp; Đầu\ntư tỉnh Đồng Nai. Tạm thời vận dụng hướng dẫn của Bộ Tài chính về vốn pháp định\ncủa ngành nghề dịch vụ đòi nợ theo nội dung văn bản số 15032/BTC-TCNH ngày\n7/11/2007 hướng dẫn các Sở Kế hoạch và Đầu tư về hồ sơ đăng ký kinh doanh dịch\nvụ đòi nợ và vận dụng nội dung <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899037')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899037')\" atmm=\".lqhlTootip-899037\" onmouseout=\"hideddrivetip();\">Khoản 1 Điều 16 Nghị định\n104/2007/NĐ-CP</a> ngày 14/6/2007 của Chính phủ về kinh doanh dịch vụ đòi nợ, cụ\nthể là:</p>\n\n<p style=\"margin-bottom:6.0pt\"><i>“1/ Hồ sơ chứng minh điều kiện\nvề vốn:</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>a/ Biên bản góp vốn của các cổ\nđông sáng lập đối với công ty cổ phần hoặc của các thành viên sáng lập đối với\ncông ty trách nhiệm hữu hạn có từ hai thành viên trở lên; quyết định giao vốn của\nchủ sở hữu đối với công ty trách nhiệm hữu hạn một thành viên mà chủ sở hữu là\nmột tổ chức; bản đăng ký vốn của chủ sở hữu doanh nghiệp đối với doanh nghiệp\ntư nhân và đối với công ty trách nhiệm hữu hạn một thành viên mà chủ sở hữu là\ncá nhân;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>b/ Đối với số vốn được góp bằng\ntiền, phải có xác nhận của ngân hàng thương mại được phép hoạt động tại Việt\nnam về số tiền ký quỹ của các thành viên sáng lập. Số tiền ký quỹ phải bằng số\nvốn góp bằng tiền của các thành viên sáng lập và chỉ được giải toả sau khi\ndoanh nghiệp được cấp Giấy chứng nhận đăng ký kinh doanh dịch vụ đòi nợ;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>c/ Đối với số vốn góp bằng\ntài sản; phải có chứng thư của tổ chức có chức năng định giá ở Việt Nam về kết\nquả định giá tài sản được đưa vào góp vốn. Chứng thư phải còn hiệu lực tính đến\nngày nộp hồ sơ tại cơ quan đăng ký kinh doanh có thẩm quyền.”</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\">2/ Tại</a> <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899038')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899038')\" atmm=\".lqhlTootip-899038\" onmouseout=\"hideddrivetip();\">khoản1 Điều 24 Nghị định 153/2007/NĐ - CP</a> <a name=\"dieu_2_name\">quy\nđịnh: “<i>Tổ chức cá nhân đã được cấp giấy chứng nhận đăng ký kinh doanh về\nkinh doanh bất động sản, kinh doanh dịch vụ bất động sản trước ngày Nghị định\nnày có hiệu lực thì được tiếp tục kinh doanh, không phải làm thủ tục đăng ký lại</i>.\n<i>Đối với tổ chức, cá nhân đã đăng ký kinh doanh về môi giới, định giá bất động\nsản nhưng chưa có đủ người có chứng chỉ thì vẫn được tiếp tục kinh doanh, nhưng\nphải bổ sung đủ số người có chứng chỉ theo quy định trước ngày 01/01/2009</i>”</a>\n</p>\n\n<p style=\"margin-bottom:6.0pt\">Như vậy, Nghị định này không quy\nđịnh việc phải bổ sung vốn pháp định cho đủ 6 tỷ đồng đối với các doanh nghiệp\nđã có đăng ký kinh doanh bất động sản trước ngày Nghị định có hiệu lực.</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\">3/ Về danh mục\ncác loại bất động sản:</a></p>\n\n<p style=\"margin-bottom:6.0pt\">a/ Tại <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899039')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899039')\" atmm=\".lqhlTootip-899039\" onmouseout=\"hideddrivetip();\">Điều 2 Nghị\nđịnh 153/2007/ NĐ-CP</a> đã quy định rõ các loại bất động sản được đưa vào kinh\ndoanh.</p>\n\n<p style=\"margin-bottom:6.0pt\">b/ Tại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899040')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899040')\" atmm=\".lqhlTootip-899040\" onmouseout=\"hideddrivetip();\">khoản 2 Điều\n4 Luật Kinh doanh bất động sản </a>quy định: “<i>Kinh doanh bất động sản là việc\nbỏ vốn đầu tư tạo lập ,mua, nhận chuyển nhượng, thuê, thuê mua bất động sản để\nbán, chuyển nhượng, cho thuê, cho thuê lại, cho thuê mua nhằm mục đích sinh lợi.</i>”\n</p>\n\n<p style=\"margin-bottom:6.0pt\">Như vậy việc cho thuê nhà, văn\nphòng, kiốt, nhà xưởng, kho bãi là kinh doanh bất động sản </p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\">4/ Về chứng chỉ\nmôi giới bất động sản và chứng chỉ định giá bất động sản:</a></p>\n\n<p style=\"margin-bottom:6.0pt\">Tại <a name=\"dc_5\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899041')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899041')\" atmm=\".lqhlTootip-899041\" onmouseout=\"hideddrivetip();\">khoản 2, Điều\n8 Luật Kinh doanh bất động sản </a>quy định: “<i>Tổ chức, cá nhân khi kinh\ndoanh dịch vụ môi giới bất động sản phải có ít nhất 1 người có chứng chỉ môi giới\nbất động sản; khi kinh doanh dịch vụ định giá bất động sản phải có ít nhất 2\nngười có chứng chỉ môi giới bất động sản; khi kinh doanh dịch vụ sàn giao dịch\nbất động sản phải có ít nhất 2 người có chứng chỉ môi giới bất động sản, nếu có\ndịch vụ định giá bất động sản thì phải có ít nhất 2 người có chứng chỉ định giá\nbất động sản.</i>”<i> </i>Các chứng chỉ này là chứng chỉ hành nghề của cá nhân.\nNgười có chứng chỉ theo quy định trên được hiểu là người trực tiếp thực hiện\ncông việc dịch vụ đó trong các đơn vị hành nghề kinh doanh bất động sản.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tại <a name=\"dc_6\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899042')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899042')\" atmm=\".lqhlTootip-899042\" onmouseout=\"hideddrivetip();\">khoản 4 Điều\n5 Nghị định 88/2006/NĐ-CP </a>ngày 29/8/2006 của Chính phủ về đăng ký kinh\ndoanh quy định: “<i>Đối với ngành nghề kinh doanh quy định phải có chứng chỉ\nhành nghề, mỗi cá nhân chỉ được sử dụng chứng chỉ hành nghề để đăng ký kinh\ndoanh ở một doanh nghiệp</i>.” </p>\n\n<p style=\"margin-bottom:6.0pt\">Như vậy người có chứng chỉ hành\nnghề chỉ được phép hoạt động hành nghề theo chứng chỉ tại doanh nghiệp đã sử dụng\nchứng chỉ của người đó để đăng ký kinh doanh .</p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_5\">5/ Về tên gọi của\nsàn giao dịch bất động sản:</a> </p>\n\n<p style=\"margin-bottom:6.0pt\">Tại <a name=\"dc_7\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-899043')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-899043')\" atmm=\".lqhlTootip-899043\" onmouseout=\"hideddrivetip();\">điều 10 Nghị\nđịnh 88/2006/NĐ-CP </a>ngày 29/8/2006 của Chính phủ về đăng ký kinh doanh quy định\nvề tên doanh nghiệp như sau: </p>\n\n<p style=\"margin-bottom:6.0pt\"><i>“1/ Tên doanh nghiệp phải viết\nbằng tiếng Việt, có thể kèm theo chữ số và ký hiệu phát âm được và phải có 2\nthành tố sau đây:</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>a/ Thành tố thứ nhất: Loại\nhình doanh nghiệp, bao gồm: công ty trách nhiệm hữu hạn, cụm từ trách nhiệm hữu\nhạn có thể viết tắt là TNHH; công ty cổ phần, từ cổ phần có thể viết tắt là CP;\ncông ty hợp danh từ hợp danh, từ hợp danh có thể viết tắt là HD; doanh nghiệp\ntư nhân, từ tư nhân có thể viết tắt là TN.</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>b/ Thành tố thứ hai: Tên\nriêng của doanh nghiệp;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Riêng doanh nghiệp có vốn đầu\ntư nước ngoài có thể sử dụng tên riêng bằng tiếng nước ngoài đã đăng ký để cấu\nthành một phần hoặc toàn bộ tên riêng của doanh nghiệp.</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>2/ Doanh nghiệp có thể sử dụng\nngành, nghề kinh doanh, hình thức đầu tư hay yếu tố phụ trợ khác để cấu thành\ntên riêng của doanh nghiệp nếu doanh nghiệp có đăng ký kinh doanh ngành, nghề\nđó hoặc thực hiện đầu tư theo hình thức đó. Khi không còn kinh doanh ngành, nghề\nhoặc thực hiện hình thức đầu tư đã dùng để cấu thành tên riêng của doanh nghiệp\nthì doanh nghiệp phải đăng ký đổi tên.</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>3/ Nếu tên riêng của doanh\nnghiệp sử dụng các thành tố có tính chất mô tả xuất xứ, chất lượng hành hoá, dịch\nvụ thì phải được cơ quan quản lý nhà nước xác nhận.”</i></p>\n\n<p style=\"margin-bottom:6.0pt\">Như vậy, tên gọi của sàn giao dịch\nbất động sản nên có cụm từ:“ <i>Sàn giao dịch bất động sản”</i> kèm theo tên\nriêng.</p>\n\n<p style=\"margin-bottom:6.0pt\">Trên đây là ý kiến của Bộ Xây dựng\nvề một số nội dung mà Sở Kế hoạch và Đầu tư Đồng Nai đề nghị hướng dẫn cụ thể\nliên quan đến Nghị định 153/2007/NĐ-CP ngày 15/10/2007 của Chính phủ quy định\nchi tiết và hướng dẫn thi hành Luật Kinh doanh bất động sản. Trong quá trình thực\nhiện nếu có vướng mắc, đề nghị Quý Sở phản ánh kịp thời về Bộ Xây dựng để phối\nhợp nghiên cứu giải quyết./.</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA5ADAAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như trên,<br>\n  - Lưu VP, Cục QLN (2). </span></p>\n  </td>\n  <td width=\"343\" valign=\"top\" style=\"width:257.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>KT.\n  BỘ TRƯỞNG<br>\n  THỨ TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Trần Nam</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n",
+  "mdContent": "**BỘ XÂY DỰNG  \n\\---------**\n\n**CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập -Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 223/BXD-QLN  \n_V/v: hướng dẫn một số nội dung Nghị định 153/2007/NĐ -CP_\n\n_Hà Nội, ngày 04 tháng 02 năm 2008_\n\n**Kính gửi:** Sở Kế hoạch và Đầu tư Đồng Nai\n\nBộ Xây dựng nhận được công văn số 17/SKHĐT- ĐKKD ngày 04/01/2008 của Sở Kế hoạch và Đầu tư Đồng Nai về việc đề nghị hướng dẫn cụ thể một số vấn đề tại Nghị định 139/2007/NĐ-CP và Nghị định 153/2007/NĐ-CP. Sau khi nghiên cứu Bộ Xây dựng có ý kiến như sau:\n\n1/ Về xác nhận vốn pháp định khi đăng ký kinh doanh bất động sản:\n\nHiện nay, Bộ Xây dựng đang soạn thảo thông tư hướng dẫn thực hiện Nghị định 153/2007/NĐ-CP ngày 15/10/2007của Chính phủ về hướng dẫn thi hành Luật Kinh doanh bất động sản. Trong quá trình soạn thảo thông tư Bộ Xây dựng đã phối hợp với các Bộ, Ngành có liên quan để giải quyết những vấn đề vướng mắc liên quan đến việc cấp đăng ký kinh doanh cho các doanh nghiệp kinh doanh bất động sản nói chung và việc xác định cơ quan, tổ chức xác nhận vốn pháp định nói riêng. Sau khi nhận được ý kiến của các cơ quan có liên quan, Bộ Xây dựng sẽ ban hành văn bản hướng dẫn cụ thể.\n\nTrước mắt, để kịp thời giải quyết việc cấp đăng ký ngành nghề kinh doanh bất động sản cho các doanh nghiệp có nhu cầu trên địa bàn Tỉnh, Bộ Xây dựng thống nhất đề xuất của Sở Kế hoạch & Đầu tư tỉnh Đồng Nai. Tạm thời vận dụng hướng dẫn của Bộ Tài chính về vốn pháp định của ngành nghề dịch vụ đòi nợ theo nội dung văn bản số 15032/BTC-TCNH ngày 7/11/2007 hướng dẫn các Sở Kế hoạch và Đầu tư về hồ sơ đăng ký kinh doanh dịch vụ đòi nợ và vận dụng nội dung Khoản 1 Điều 16 Nghị định 104/2007/NĐ-CP ngày 14/6/2007 của Chính phủ về kinh doanh dịch vụ đòi nợ, cụ thể là:\n\n_“1/ Hồ sơ chứng minh điều kiện về vốn:_\n\n_a/ Biên bản góp vốn của các cổ đông sáng lập đối với công ty cổ phần hoặc của các thành viên sáng lập đối với công ty trách nhiệm hữu hạn có từ hai thành viên trở lên; quyết định giao vốn của chủ sở hữu đối với công ty trách nhiệm hữu hạn một thành viên mà chủ sở hữu là một tổ chức; bản đăng ký vốn của chủ sở hữu doanh nghiệp đối với doanh nghiệp tư nhân và đối với công ty trách nhiệm hữu hạn một thành viên mà chủ sở hữu là cá nhân;_\n\n_b/ Đối với số vốn được góp bằng tiền, phải có xác nhận của ngân hàng thương mại được phép hoạt động tại Việt nam về số tiền ký quỹ của các thành viên sáng lập. Số tiền ký quỹ phải bằng số vốn góp bằng tiền của các thành viên sáng lập và chỉ được giải toả sau khi doanh nghiệp được cấp Giấy chứng nhận đăng ký kinh doanh dịch vụ đòi nợ;_\n\n_c/ Đối với số vốn góp bằng tài sản; phải có chứng thư của tổ chức có chức năng định giá ở Việt Nam về kết quả định giá tài sản được đưa vào góp vốn. Chứng thư phải còn hiệu lực tính đến ngày nộp hồ sơ tại cơ quan đăng ký kinh doanh có thẩm quyền.”_\n\n2/ Tại khoản1 Điều 24 Nghị định 153/2007/NĐ - CP quy định: “_Tổ chức cá nhân đã được cấp giấy chứng nhận đăng ký kinh doanh về kinh doanh bất động sản, kinh doanh dịch vụ bất động sản trước ngày Nghị định này có hiệu lực thì được tiếp tục kinh doanh, không phải làm thủ tục đăng ký lại_. _Đối với tổ chức, cá nhân đã đăng ký kinh doanh về môi giới, định giá bất động sản nhưng chưa có đủ người có chứng chỉ thì vẫn được tiếp tục kinh doanh, nhưng phải bổ sung đủ số người có chứng chỉ theo quy định trước ngày 01/01/2009_”\n\nNhư vậy, Nghị định này không quy định việc phải bổ sung vốn pháp định cho đủ 6 tỷ đồng đối với các doanh nghiệp đã có đăng ký kinh doanh bất động sản trước ngày Nghị định có hiệu lực.\n\n3/ Về danh mục các loại bất động sản:\n\na/ Tại Điều 2 Nghị định 153/2007/ NĐ-CP đã quy định rõ các loại bất động sản được đưa vào kinh doanh.\n\nb/ Tại khoản 2 Điều 4 Luật Kinh doanh bất động sản quy định: “_Kinh doanh bất động sản là việc bỏ vốn đầu tư tạo lập ,mua, nhận chuyển nhượng, thuê, thuê mua bất động sản để bán, chuyển nhượng, cho thuê, cho thuê lại, cho thuê mua nhằm mục đích sinh lợi._”\n\nNhư vậy việc cho thuê nhà, văn phòng, kiốt, nhà xưởng, kho bãi là kinh doanh bất động sản\n\n4/ Về chứng chỉ môi giới bất động sản và chứng chỉ định giá bất động sản:\n\nTại khoản 2, Điều 8 Luật Kinh doanh bất động sản quy định: “_Tổ chức, cá nhân khi kinh doanh dịch vụ môi giới bất động sản phải có ít nhất 1 người có chứng chỉ môi giới bất động sản; khi kinh doanh dịch vụ định giá bất động sản phải có ít nhất 2 người có chứng chỉ môi giới bất động sản; khi kinh doanh dịch vụ sàn giao dịch bất động sản phải có ít nhất 2 người có chứng chỉ môi giới bất động sản, nếu có dịch vụ định giá bất động sản thì phải có ít nhất 2 người có chứng chỉ định giá bất động sản._” Các chứng chỉ này là chứng chỉ hành nghề của cá nhân. Người có chứng chỉ theo quy định trên được hiểu là người trực tiếp thực hiện công việc dịch vụ đó trong các đơn vị hành nghề kinh doanh bất động sản.\n\nTại khoản 4 Điều 5 Nghị định 88/2006/NĐ-CP ngày 29/8/2006 của Chính phủ về đăng ký kinh doanh quy định: “_Đối với ngành nghề kinh doanh quy định phải có chứng chỉ hành nghề, mỗi cá nhân chỉ được sử dụng chứng chỉ hành nghề để đăng ký kinh doanh ở một doanh nghiệp_.”\n\nNhư vậy người có chứng chỉ hành nghề chỉ được phép hoạt động hành nghề theo chứng chỉ tại doanh nghiệp đã sử dụng chứng chỉ của người đó để đăng ký kinh doanh .\n\n5/ Về tên gọi của sàn giao dịch bất động sản:\n\nTại điều 10 Nghị định 88/2006/NĐ-CP ngày 29/8/2006 của Chính phủ về đăng ký kinh doanh quy định về tên doanh nghiệp như sau:\n\n_“1/ Tên doanh nghiệp phải viết bằng tiếng Việt, có thể kèm theo chữ số và ký hiệu phát âm được và phải có 2 thành tố sau đây:_\n\n_a/ Thành tố thứ nhất: Loại hình doanh nghiệp, bao gồm: công ty trách nhiệm hữu hạn, cụm từ trách nhiệm hữu hạn có thể viết tắt là TNHH; công ty cổ phần, từ cổ phần có thể viết tắt là CP; công ty hợp danh từ hợp danh, từ hợp danh có thể viết tắt là HD; doanh nghiệp tư nhân, từ tư nhân có thể viết tắt là TN._\n\n_b/ Thành tố thứ hai: Tên riêng của doanh nghiệp;_\n\n_Riêng doanh nghiệp có vốn đầu tư nước ngoài có thể sử dụng tên riêng bằng tiếng nước ngoài đã đăng ký để cấu thành một phần hoặc toàn bộ tên riêng của doanh nghiệp._\n\n_2/ Doanh nghiệp có thể sử dụng ngành, nghề kinh doanh, hình thức đầu tư hay yếu tố phụ trợ khác để cấu thành tên riêng của doanh nghiệp nếu doanh nghiệp có đăng ký kinh doanh ngành, nghề đó hoặc thực hiện đầu tư theo hình thức đó. Khi không còn kinh doanh ngành, nghề hoặc thực hiện hình thức đầu tư đã dùng để cấu thành tên riêng của doanh nghiệp thì doanh nghiệp phải đăng ký đổi tên._\n\n_3/ Nếu tên riêng của doanh nghiệp sử dụng các thành tố có tính chất mô tả xuất xứ, chất lượng hành hoá, dịch vụ thì phải được cơ quan quản lý nhà nước xác nhận.”_\n\nNhư vậy, tên gọi của sàn giao dịch bất động sản nên có cụm từ:“ _Sàn giao dịch bất động sản”_ kèm theo tên riêng.\n\nTrên đây là ý kiến của Bộ Xây dựng về một số nội dung mà Sở Kế hoạch và Đầu tư Đồng Nai đề nghị hướng dẫn cụ thể liên quan đến Nghị định 153/2007/NĐ-CP ngày 15/10/2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Kinh doanh bất động sản. Trong quá trình thực hiện nếu có vướng mắc, đề nghị Quý Sở phản ánh kịp thời về Bộ Xây dựng để phối hợp nghiên cứu giải quyết./.\n\n**_  \nNơi nhận:  \n_**\\- Như trên,  \n\\- Lưu VP, Cục QLN (2).\n\n**KT. BỘ TRƯỞNG  \nTHỨ TRƯỞNG  \n  \n  \n  \n  \nNguyễn Trần Nam**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
