@@ -1,5 +1,5 @@
 {
-  "title": "Nghị quyết về vấn đề tôn giáo Quốc hội ban hành",
+  "title": "Nghị quyết về việc điều chỉnh địa giới hành chính một số tỉnh, thành phố trực thuộc Trung ương do Quốc hội ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -7,7 +7,26 @@
   "rectifiedDocuments": [],
   "supersededDocuments": [],
   "referredDocuments": [],
-  "influentialDocuments": [],
+  "influentialDocuments": [
+    {
+      "title": "Hiến pháp năm 1980",
+      "id": "248-LCT",
+      "legislationType": "Hiến pháp",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Trường Chinh"
+      ],
+      "issuedDate": "1980-12-18",
+      "effectiveDate": "1980-12-19",
+      "gazetteDate": "1980-12-31",
+      "gazetteNumber": "Số 21",
+      "status": "Hết hiệu lực: 18/04/1992"
+    }
+  ],
   "guidingDocuments": [],
   "consolidatedDocuments": [],
   "amendingDocuments": [],
@@ -15,75 +34,128 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Thông tư 593-TTg năm 1957 về chủ trương đối với trường lớp của các tôn giáo do Thủ Tướng Chính Phủ ban hành",
-      "id": "593-TTg",
-      "legislationType": "Thông tư",
+      "title": "Nghị định 195/2004/NĐ-CP về việc thành lập thành phố Lào Cai thuộc tỉnh Lào Cai; thành lập các phường thuộc thành phố Lào Cai",
+      "id": "195/2004/NĐ-CP",
+      "legislationType": "Nghị định",
       "categories": [
-        "Giáo dục"
+        "Bất động sản",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-11-30",
+      "effectiveDate": "2004-12-23",
+      "gazetteDate": "2004-12-08",
+      "gazetteNumber": "Số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 193/2004/NĐ-CP về việc thành lập phường Khai Quang thuộc thị xã Vĩnh Yên, tỉnh Vĩnh Phúc",
+      "id": "193/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2004-11-23",
+      "effectiveDate": "2004-12-15",
+      "gazetteDate": "2004-11-30",
+      "gazetteNumber": "Số 31",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 190/2004/NĐ-CP về việc điều chỉnh địa giới hành chính, thành lập xã thuộc các huyện Tân Uyên, Dầu Tiếng, Phú Giáo, tỉnh Bình Dương",
+      "id": "190/2004/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phan Văn Khải"
+      ],
+      "issuedDate": "2004-11-17",
+      "effectiveDate": "2004-12-11",
+      "gazetteDate": "2004-11-26",
+      "gazetteNumber": "Số 27",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 30/2003/CT-TTg về chỉ đạo tổ chức thực hiện chia tách tỉnh và điều chỉnh địa giới hành chính các tỉnh Lai Châu, Đắk Lắk, Cần Thơ và Lào Cai do Thủ tướng Chính phủ ban hành",
+      "id": "30/2003/CT-TTg",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính"
       ],
       "organization": "Thủ tướng Chính phủ",
       "signers": [
-        "Phan Kế Toại"
+        "Phan Văn Khải"
       ],
-      "issuedDate": "1957-12-10",
-      "effectiveDate": "1957-12-25",
-      "gazetteDate": "1957-12-18",
-      "gazetteNumber": "Số 54",
-      "status": "Không còn phù hợp"
+      "issuedDate": "2003-12-26",
+      "effectiveDate": "2004-01-14",
+      "gazetteDate": "2003-12-30",
+      "gazetteNumber": "Từ số 230 đến số 231",
+      "status": "Không xác định"
     },
     {
-      "title": "Sắc lệnh số 223/SL về việc bảo đảm quyền tự do tín ngưỡng do Chủ tịch nước ban hành",
-      "id": "223/SL",
-      "legislationType": "Sắc lệnh",
+      "title": "Nghị quyết số 22/2003/QH11 về việc chia và điều chỉnh địa giới hành chính một số tỉnh do Quốc Hội ban hành",
+      "id": "22/2003/QH11",
+      "legislationType": "Nghị quyết",
       "categories": [
-        "Quyền dân sự",
-        "Văn hóa - Xã hội"
+        "Bộ máy hành chính"
       ],
-      "organization": "Chủ tịch nước",
+      "organization": "Quốc hội",
       "signers": [
-        "Hồ Chí Minh"
+        "Nguyễn Văn An"
       ],
-      "issuedDate": "1955-06-14",
-      "effectiveDate": "1955-06-29",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không còn phù hợp"
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2004-01-06",
+      "gazetteDate": "2003-12-22",
+      "gazetteNumber": "Số 219",
+      "status": "Còn hiệu lực"
     },
     {
-      "title": "Sắc lệnh số 35 về việc sức cho nhân dân phải tôn trọng đền, chùa, làng tẩm nhà thờ tất cả các nơi có tính cách tôn giáo do Chủ tịch Chính phủ ban hành",
-      "id": "35",
-      "legislationType": "Sắc lệnh",
+      "title": "Quyết định 67-HĐBT năm 1982 về việc mở rộng thị xã Thái Bình thuộc tỉnh Thái Bình do Hội đồng Bộ trưởng ban hành",
+      "id": "67-HĐBT",
+      "legislationType": "Quyết định",
       "categories": [
-        "Văn hóa - Xã hội"
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
       ],
-      "organization": "Chủ tịch nước",
+      "organization": "Hội đồng Bộ trưởng",
       "signers": [
-        "Hồ Chí Minh"
+        "Tố Hữu"
       ],
-      "issuedDate": "1945-09-20",
-      "effectiveDate": "1945-10-05",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không còn phù hợp"
+      "issuedDate": "1982-04-08",
+      "effectiveDate": "1982-04-23",
+      "gazetteDate": "1982-04-30",
+      "gazetteNumber": "Số 8",
+      "status": "Còn hiệu lực"
     }
   ],
   "id": "Khôngsố",
   "legislationType": "Nghị quyết",
   "categories": [
-    "Quyền dân sự",
-    "Văn hóa - Xã hội"
+    "Bộ máy hành chính"
   ],
   "organization": "Quốc hội",
   "signers": [
-    "Dương Đức Hiền"
+    "Lê Quang Đạo"
   ],
-  "issuedDate": "1955-03-26",
-  "effectiveDate": "1955-04-10",
+  "issuedDate": "1991-08-12",
+  "effectiveDate": "1991-08-27",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
-  "status": "Không còn phù hợp",
-  "htmlContent": "\n<div>\n<table class=\"MsoNormalTable\" cellspacing=\"4\" cellpadding=\"0\" border=\"0\" style=\"width: 500px;\">\n<tbody>\n<tr>\n<td style=\"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 2.85pt; WIDTH: 23.52%; PADDING-TOP: 2.85pt\" valign=\"top\" width=\"23%\">\n<p class=\"MsoNormal\" style=\"TEXT-ALIGN: center\" align=\"center\"><b>QUỐC HỘI<br>********</b></p></td>\n<td style=\"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 2.85pt; WIDTH: 73.58%; PADDING-TOP: 2.85pt\" valign=\"top\" width=\"73%\">\n<p class=\"MsoNormal\" style=\"TEXT-ALIGN: center\" align=\"center\"><b>VIỆT NAM DÂN CHỦ CỘNG HÒA <br>Độc lập - Tự do - Hạnh phúc<br>********</b></p></td></tr>\n<tr>\n<td style=\"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 2.85pt; WIDTH: 23.52%; PADDING-TOP: 2.85pt\" valign=\"top\" width=\"23%\">\n<p class=\"MsoNormal\" style=\"TEXT-ALIGN: center\" align=\"center\">&nbsp;</p></td>\n<td style=\"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 2.85pt; WIDTH: 73.58%; PADDING-TOP: 2.85pt\" valign=\"top\" width=\"73%\">\n<p class=\"MsoNormal\" style=\"TEXT-ALIGN: right\" align=\"right\"><i>Hà Nội, ngày 26 tháng 3 năm 1955</i></p></td></tr></tbody></table>\n<p class=\"MsoNormal\" style=\"TEXT-ALIGN: center\" align=\"center\"><b>&nbsp;</b></p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt; TEXT-ALIGN: center\" align=\"center\"><b><span style=\"FONT-SIZE: 12pt\">NGHỊ QUYẾT</span></b></p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt; TEXT-ALIGN: center\" align=\"center\">NGÀY 26 THÁNG 3 NĂM 1955 VỀ VẤN ĐỀ TÔN GIÁO</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">Sau khi nghe Tiểu Ban tôn giáo báo cáo và các đại biểu tham luận, </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">1/ Quốc hội nhận rằng từ ngày nước Việt Nam dân chủ cộng hoà thành lập, Chính phủ đã luôn luôn thi hành chính sách đảm bảo tự do tín ngưỡng, chú trọng nâng cao đời sống vật chất và tinh thần của đồng bào tôn giáo, củng cố khối đại đoàn kết toàn dân, kháng chiến thắng lợi. </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">2/ Quốc hội hoan hô lòng yêu nước, tinh thần đoàn kết đấu tranh của đồng bào các tôn giáo đã hăng hái tham gia kháng chiến bảo vệ Tổ quốc, bảo vệ tín ngưỡng và đang kiên quyết đấu tranh chống đế quốc Mỹ, phái thực dân Pháp phản hiệp định và bè lũ tay sai của chúng để củng cố hoà bình, thực hiện thống nhất, hoàn thành độc lập và dân chủ trong cả nước. </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">3/ Quốc hội tố cáo trước đồng bào toàn quốc và trước dư luận thế giới âm mưu và hành động độc ác của đế quốc Mỹ, phái thực dân Pháp phản hiệp định và bè lũ tay sai của chúng đã lừa phỉnh, doạ nạt, cưỡng ép một số đồng bào giáo dân ở miền Bắc di cư vào miền Nam, đầy ải đồng bào vào cảnh sống thảm khốc, trái hẳn với nhân đạo và trái với hiệp định Giơ-ne-vơ. </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">4/ Căn cứ vào đề nghị của Chính Phủ, Quốc Hội thông qua 6 nguyên tắc sau đây về chính sách đảm bảo tự do tín ngưỡng: </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">1) Mọi người công dân của nước Việt Nam dân chủ cộng hoà đều được hưởng quyền tự do tín ngưỡng, tự do thờ cúng.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">Các nhà tu hành được tự do giảng đạo ở trong các cơ quan tôn giáo. Các tín đồ được tự do lễ bái. Sách báo, tài liệu về tôn giáo được xuất bản theo đúng luật lệ của Chính phủ Việt Nam dân chủ cộng hoà.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">2) Các nhà tu hành, các tín đồ đều được hưởng mọi quyền lợi và phải làm mọi nghĩa vụ của người công dân Việt Nam. Để cho các nhà tu hành có điều kiện làm nghề tôn giáo của họ, sẽ có sự châm chước thích đáng về mặt thi hành nghĩa vụ công dân.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">3) Các nhà thờ, chùa, thánh thất được tôn trọng và bảo vệ.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">4) Các cơ quan giáo lý, văn hoá, xã hội, các tổ chức công thương nghiệp của các tôn giáo được pháp luật bảo hộ.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">5) Khi thi hành luật cải cách ruộng đất, đối với các tôn giáo sẽ có sự chiếu cố như sau:</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">a- Khi cải cách ruộng đất, trong số ruộng mà Chính phủ trưng thu hoặc trưng mua để chia cho nông dân, sẽ để lại cho nhà chung, nhà chùa, thánh thất một số ruộng đủ dùng vào việc thờ cúng và để dùng vào việc sinh hoạt của những người chuyên làm nghề tôn giáo. Số ruộng đó sẽ do nhân dân địa phương bình nghị và chính quyền chuẩn y.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">b- Những linh mục, nhà sư, chức sắc có ruộng đất cho phát canh thu tô như địa chủ không bị vạch thành phần là địa chủ, nhưng phải thi hành đúng chính sách ruộng đất của Chính phủ.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">6- Những kẻ mượn danh nghĩa hoặc vin cớ tôn giáo để phá hoại hoà binh, thống nhất, độc lập và dân chủ, phá hoại đoàn kết của nhân dân, ngăn cản tín đồ làm nghĩa vụ công dân, xâm phạm đến tự do tư tưởng của người khác, hoặc làm những việc khác trái pháp luật, sẽ bị trừng trị.</p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">5/ Uỷ nhiệm Chính phủ căn cứ vào những nguyên tắc trên đây, ban hành những luật pháp thích hợp để thực hiện chính sách đảm bảo tự do tín ngưỡng./. </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">Nghị quyết này đã được Quốc hội nhất trí thông qua trong phiên họp ngày 26 tháng 3 năm 1955. </p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">&nbsp;</p>\n<table class=\"MsoNormalTable\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" style=\"width: 500px;\">\n<tbody>\n<tr>\n<td style=\"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; WIDTH: 232.15pt; PADDING-TOP: 0cm\" valign=\"top\" width=\"310\">\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">&nbsp;</p></td>\n<td style=\"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; WIDTH: 232.2pt; PADDING-TOP: 0cm\" valign=\"top\" width=\"310\">\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt; TEXT-ALIGN: center\" align=\"center\"><b>Dương Đức Hiền</b></p>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt; TEXT-ALIGN: center\" align=\"center\">(Đã ký)</p></td></tr></tbody></table>\n<p class=\"MsoNormal\" style=\"MARGIN-BOTTOM: 6pt\">&nbsp;</p></div>",
-  "mdContent": "**QUỐC HỘI  \n\\*\\*\\*\\*\\*\\*\\*\\***\n\n**VIỆT NAM DÂN CHỦ CỘNG HÒA  \nĐộc lập - Tự do - Hạnh phúc  \n\\*\\*\\*\\*\\*\\*\\*\\***\n\n_Hà Nội, ngày 26 tháng 3 năm 1955_\n\n**NGHỊ QUYẾT**\n\nNGÀY 26 THÁNG 3 NĂM 1955 VỀ VẤN ĐỀ TÔN GIÁO\n\nSau khi nghe Tiểu Ban tôn giáo báo cáo và các đại biểu tham luận,\n\n1/ Quốc hội nhận rằng từ ngày nước Việt Nam dân chủ cộng hoà thành lập, Chính phủ đã luôn luôn thi hành chính sách đảm bảo tự do tín ngưỡng, chú trọng nâng cao đời sống vật chất và tinh thần của đồng bào tôn giáo, củng cố khối đại đoàn kết toàn dân, kháng chiến thắng lợi.\n\n2/ Quốc hội hoan hô lòng yêu nước, tinh thần đoàn kết đấu tranh của đồng bào các tôn giáo đã hăng hái tham gia kháng chiến bảo vệ Tổ quốc, bảo vệ tín ngưỡng và đang kiên quyết đấu tranh chống đế quốc Mỹ, phái thực dân Pháp phản hiệp định và bè lũ tay sai của chúng để củng cố hoà bình, thực hiện thống nhất, hoàn thành độc lập và dân chủ trong cả nước.\n\n3/ Quốc hội tố cáo trước đồng bào toàn quốc và trước dư luận thế giới âm mưu và hành động độc ác của đế quốc Mỹ, phái thực dân Pháp phản hiệp định và bè lũ tay sai của chúng đã lừa phỉnh, doạ nạt, cưỡng ép một số đồng bào giáo dân ở miền Bắc di cư vào miền Nam, đầy ải đồng bào vào cảnh sống thảm khốc, trái hẳn với nhân đạo và trái với hiệp định Giơ-ne-vơ.\n\n4/ Căn cứ vào đề nghị của Chính Phủ, Quốc Hội thông qua 6 nguyên tắc sau đây về chính sách đảm bảo tự do tín ngưỡng:\n\n1) Mọi người công dân của nước Việt Nam dân chủ cộng hoà đều được hưởng quyền tự do tín ngưỡng, tự do thờ cúng.\n\nCác nhà tu hành được tự do giảng đạo ở trong các cơ quan tôn giáo. Các tín đồ được tự do lễ bái. Sách báo, tài liệu về tôn giáo được xuất bản theo đúng luật lệ của Chính phủ Việt Nam dân chủ cộng hoà.\n\n2) Các nhà tu hành, các tín đồ đều được hưởng mọi quyền lợi và phải làm mọi nghĩa vụ của người công dân Việt Nam. Để cho các nhà tu hành có điều kiện làm nghề tôn giáo của họ, sẽ có sự châm chước thích đáng về mặt thi hành nghĩa vụ công dân.\n\n3) Các nhà thờ, chùa, thánh thất được tôn trọng và bảo vệ.\n\n4) Các cơ quan giáo lý, văn hoá, xã hội, các tổ chức công thương nghiệp của các tôn giáo được pháp luật bảo hộ.\n\n5) Khi thi hành luật cải cách ruộng đất, đối với các tôn giáo sẽ có sự chiếu cố như sau:\n\na- Khi cải cách ruộng đất, trong số ruộng mà Chính phủ trưng thu hoặc trưng mua để chia cho nông dân, sẽ để lại cho nhà chung, nhà chùa, thánh thất một số ruộng đủ dùng vào việc thờ cúng và để dùng vào việc sinh hoạt của những người chuyên làm nghề tôn giáo. Số ruộng đó sẽ do nhân dân địa phương bình nghị và chính quyền chuẩn y.\n\nb- Những linh mục, nhà sư, chức sắc có ruộng đất cho phát canh thu tô như địa chủ không bị vạch thành phần là địa chủ, nhưng phải thi hành đúng chính sách ruộng đất của Chính phủ.\n\n6- Những kẻ mượn danh nghĩa hoặc vin cớ tôn giáo để phá hoại hoà binh, thống nhất, độc lập và dân chủ, phá hoại đoàn kết của nhân dân, ngăn cản tín đồ làm nghĩa vụ công dân, xâm phạm đến tự do tư tưởng của người khác, hoặc làm những việc khác trái pháp luật, sẽ bị trừng trị.\n\n5/ Uỷ nhiệm Chính phủ căn cứ vào những nguyên tắc trên đây, ban hành những luật pháp thích hợp để thực hiện chính sách đảm bảo tự do tín ngưỡng./.\n\nNghị quyết này đã được Quốc hội nhất trí thông qua trong phiên họp ngày 26 tháng 3 năm 1955.\n\n**Dương Đức Hiền**\n\n(Đã ký)",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"4\" cellpadding=\"0\">\n <tbody><tr>\n  <td width=\"23%\" valign=\"top\" style=\"width:23.52%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>QUỐC\n  HỘI<br>\n  ********</b></p>\n  </td>\n  <td width=\"73%\" valign=\"top\" style=\"width:73.58%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG\n  HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ********</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"23%\" valign=\"top\" style=\"width:23.52%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">&nbsp;</p>\n  </td>\n  <td width=\"73%\" valign=\"top\" style=\"width:73.58%;padding:2.85pt 5.4pt 2.85pt 5.4pt\">\n  <p align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Hà\n  Nội, ngày 12 tháng 8 năm 1991</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>&nbsp;</b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">NGHỊ QUYẾT</span></b></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">CỦA\nQUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM NGÀY 12 THÁNG 8 NĂM 1991 VỀ VIỆC\nĐIỀU CHỈNH ĐỊA GIỚI HÀNH CHÍNH MỘT SỐ TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ vào Điều 83 của Hiến\npháp nước Cộng hoà xã hội chủ nghĩa Việt Nam;</i><br>\n<i>Sau khi nghe Tờ trình của Hội đồng Bộ trưởng, ý kiến của Hội đồng nhân dân\ncác tỉnh, báo cáo của Uỷ ban thẩm tra phương án điều chỉnh địa giới hành chính\ntỉnh, thành phố trực thuộc trung ương và ý kiến của các đại biểu Quốc hội;</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT NGHỊ:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\">1. Chia tỉnh Nghệ Tĩnh thành 2 tỉnh,\nlấy tên là tỉnh Nghệ An và tỉnh Hà Tĩnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">a. Tỉnh Nghệ An có 18 đơn vị\nhành chính gồm thành phố Vinh và 17 huyện: Diễn Châu, Yên Thành, Quỳnh Lưu,\nNghi Lộc, Hưng Nguyên, Nam Đàn, Thanh Chương, Anh Sơn, Đô Lương, Nghĩa Đàn, Tân\nKỳ, Quỳ Châu, Quỳ Hợp, Quế Phong, Con Cuông, Tương dương, Kỳ Sơn, có diện tích\ntự nhiên : 16.449km<sup>2</sup> với số dân 2.415.425 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ : Thành phố Vinh.</p>\n\n<p style=\"margin-bottom:6.0pt\">b.Tỉnh Hà Tĩnh có 9 đơn vị hành\nchính gồm có thị xã Hà Tĩnh và 8 huyện: Nghi Xuân, Can Lộc, Đức Thọ, Hương Sơn,\nHương Khê, Cẩm Xuyên, Kỳ Anh, Thạch Hà, có diện tích tự nhiên 6.053km<sup>2</sup>\nvới số dân 1.166.107 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Hà Tĩnh.</p>\n\n<p style=\"margin-bottom:6.0pt\">2. Chia tỉnh Hoàng Liên Sơn\nthành 2 tỉnh, lấy tên là tỉnh Yên Bái và tỉnh Lào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt\">a. Tỉnh Yên Bái có 8 đơn vị hành\nchính gồm thị xã Yên Bái và 7 huyện : Mù Căng Chải, Trạm Tấu, Văn Chấn, Yên\nBình, Trấn yên, Văn Yên, Lục yên, có diện tích tự nhiên 6.625 km<sup>2</sup> với\ndấn số 530.000 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Yên Bái</p>\n\n<p style=\"margin-bottom:6.0pt\">b.Tỉnh Lào Cai có 9 đơn vị hành\nchính gồm thị xã Lào Cai và 8 huyện: Bát Xát, Sapa, Mường Khương, Bắc Hà, Bảo\nThắng, Bảo Yên, Văn Bàn, Than Uyên, có diện tích tự nhiên 7.500km<sup>2</sup> với\nsố dân 470.000 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh ly: thị xã Lào Cai.</p>\n\n<p style=\"margin-bottom:6.0pt\">3. Chia tỉnh Hà Tuyên thành 2 tỉnh,\nlấy tên là tỉnh Hà Giang và tỉnh Tuyên Quang.</p>\n\n<p style=\"margin-bottom:6.0pt\">a. Tỉnh Hà Giang có 10 đơn vị\nhành chính gồm thị xã Hà Giang và 9 huyện: Đồng Văn, Mèo Vạc, Yên Minh, Quản Bạ,\nVị Xuyên, Xín Mần, Hoàng Su Phì, Bắc Quang, Bắc Mê, có diện tích tự nhiên\n7.831km<sup>2</sup> với số dân 461.839 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Hà Giang.</p>\n\n<p style=\"margin-bottom:6.0pt\">b. Tỉnh Tuyên Quang có 6 đơn vị\nhành chính gồm thị xã Tuyên Quang và 5 huyện: Sơn Dương, Yên Sơn, Hàm yên,\nChiêm Hoá, Nà Hang, có diện tích tự nhiên 5.800km<sup>2</sup> với số dân\n564.528 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Tuyên Quang.</p>\n\n<p style=\"margin-bottom:6.0pt\">4. Chia tỉnh Gia Lai - Kon Tum\nthành 2 tỉnh, lấy tên là tỉnh Gia Lai và tỉnh Kon Tum.</p>\n\n<p style=\"margin-bottom:6.0pt\">a. Tỉnh Gia lai có 10 đơn vị\nhành chính gồm thị xã Plâycu và 9 huyện: Măng Yang, An Khê, Kbang, Krông Chro,\nChư Lê, Chư Pah, Chư Prông, Ayun Pa, Krông Pa, có diện tích tự nhiên 12.000 km<sup>2</sup>\nvới số dân 654.365 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: Thị xã Plâycu.</p>\n\n<p style=\"margin-bottom:6.0pt\">b.Tỉnh Kon Tum có 5 đơn vị hành\nchính gồm thị xã Kon Tum và 4 huyện: Đăk Tô, Kăk Glây, Sa Thầy, Kon Plông, có\ndiện tích tự nhiên 13.000km<sup>2</sup> với số dân 230.000 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Kon Tum</p>\n\n<p style=\"margin-bottom:6.0pt\">5.Chia tỉnh Hà Sơn Bình thành 2\ntỉnh, lấy trên là tỉnh Hoà Bình và tỉnh Hà Tây</p>\n\n<p style=\"margin-bottom:6.0pt\">a. Tỉnh Hoà Bình có 10 đơn vị\nhành chính gồm thị xã Hoà Bình và 9 huyện: Lương Sơn, Đà Bắc, Lạc Sơn, Mai\nChâu, Kỳ Sơn, Kim Bôi, Tân Lạc, Yên Thuỷ, Lạc Thuỷ, có diện tích tự nhiên 4.697km<sup>2</sup>\nvới số dân 670.000 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Hoà Bình</p>\n\n<p style=\"margin-bottom:6.0pt\">b. Tỉnh Hà Tây có 14 đơn vị hành\nchính gồm thị xã Hà Đông, thị xã Sơn Tây và 12 huyện: Thanh Oai, Phú Xuyên, Mỹ\nĐức, Thường Tín, Ứng Hoà, Chương Mỹ, Quốc Oai, Ba Bì, Đan Phượng, Hoài Đức,\nPhúc Thọ, Thạch Thất, có diện tích tự nhiên 2.169 km<sup>2</sup> với số dân\n2.086.926 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: thị xã Hà Đông</p>\n\n<p style=\"margin-bottom:6.0pt\">6.Thành lập tỉnh Bà Rịa - Vũng\nTàu gồm đặc khu Vũng Tàu - Côn Đảo và 3 huyện Long Đất, Châu Thành, Xuyên Mộc của\ntỉnh Đồng Nai.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh Bà Rịa - Vũng Tàu có 5 đơn\nvị hành chính gồm thành phố Vũng Tàu và 4 huyện: Côn Đảo, Long Đất, Châu Thành,\nXuyên Mộc, có diện tích tự nhiên 2.047,45km<sup>2</sup> với số dân 587.499 người.</p>\n\n<p style=\"margin-bottom:6.0pt\">Tỉnh lỵ: Thành phố Vũng Tàu.</p>\n\n<p style=\"margin-bottom:6.0pt\">7. Điều chỉnh địa giới của Thủ\nđô Hà Nội như sau:</p>\n\n<p style=\"margin-bottom:6.0pt\">a. Chyển huyện Mê Linh của thành\nphố Hà Nội về tỉnh Vĩnh Phú.</p>\n\n<p style=\"margin-bottom:6.0pt\">b. Chuyển thị xã Sơn Tây và 5\nhuyện: Hoài Đức, Phúc Thọ, Đan Phượng, Ba Vì, Thạch Thất của thành phố Hà Nội về\ntỉnh Hà Tây.</p>\n\n<p style=\"margin-bottom:6.0pt\">8. Giao cho Hội đồng Bộ trưởng\nchỉ đạo thực hiện Nghị quyết này của Quốc hội theo tinh thần tiết kiệm, không\ntăng biên chế, không để thất thoát tài sản xã hội chủ nghĩa; nhanh chóng ổn định\ntổ chức và phát triển sản xuất.</p>\n\n<p style=\"margin-bottom:6.0pt\">9.Hội đồng Bộ trưởng tiếp tục\nhoàn chỉnh phương án tổng thể và điều chỉnh địa giới hành chính tỉnh và cấp\ntương đương trình Quốc hội xem xét sau khi đã sửa đổi Hiến pháp.</p>\n\n<p style=\"margin-bottom:6.0pt\">Nghị quyết này đã được Quốc hội\nnước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 9 thông qua ngày\n12 tháng 8 năm 1991.</p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA4ADAAOAA=-->\n <tbody><tr>\n  <td width=\"310\" valign=\"top\" style=\"width:232.15pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n  </td>\n  <td width=\"310\" valign=\"top\" style=\"width:232.2pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>Lê\n  Quang Đạo</b></p>\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">(Đã\n  ký)</p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
+  "mdContent": "**QUỐC HỘI  \n\\*\\*\\*\\*\\*\\*\\*\\***\n\n**CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\*\\*\\*\\*\\*\\*\\*\\***\n\n_Hà Nội, ngày 12 tháng 8 năm 1991_\n\n**NGHỊ QUYẾT**\n\nCỦA QUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM NGÀY 12 THÁNG 8 NĂM 1991 VỀ VIỆC ĐIỀU CHỈNH ĐỊA GIỚI HÀNH CHÍNH MỘT SỐ TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG\n\n**QUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**\n\n_Căn cứ vào Điều 83 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam;_  \n_Sau khi nghe Tờ trình của Hội đồng Bộ trưởng, ý kiến của Hội đồng nhân dân các tỉnh, báo cáo của Uỷ ban thẩm tra phương án điều chỉnh địa giới hành chính tỉnh, thành phố trực thuộc trung ương và ý kiến của các đại biểu Quốc hội;_\n\n**QUYẾT NGHỊ:**\n\n1\\. Chia tỉnh Nghệ Tĩnh thành 2 tỉnh, lấy tên là tỉnh Nghệ An và tỉnh Hà Tĩnh.\n\na. Tỉnh Nghệ An có 18 đơn vị hành chính gồm thành phố Vinh và 17 huyện: Diễn Châu, Yên Thành, Quỳnh Lưu, Nghi Lộc, Hưng Nguyên, Nam Đàn, Thanh Chương, Anh Sơn, Đô Lương, Nghĩa Đàn, Tân Kỳ, Quỳ Châu, Quỳ Hợp, Quế Phong, Con Cuông, Tương dương, Kỳ Sơn, có diện tích tự nhiên : 16.449km2 với số dân 2.415.425 người.\n\nTỉnh lỵ : Thành phố Vinh.\n\nb.Tỉnh Hà Tĩnh có 9 đơn vị hành chính gồm có thị xã Hà Tĩnh và 8 huyện: Nghi Xuân, Can Lộc, Đức Thọ, Hương Sơn, Hương Khê, Cẩm Xuyên, Kỳ Anh, Thạch Hà, có diện tích tự nhiên 6.053km2 với số dân 1.166.107 người.\n\nTỉnh lỵ: thị xã Hà Tĩnh.\n\n2\\. Chia tỉnh Hoàng Liên Sơn thành 2 tỉnh, lấy tên là tỉnh Yên Bái và tỉnh Lào Cai.\n\na. Tỉnh Yên Bái có 8 đơn vị hành chính gồm thị xã Yên Bái và 7 huyện : Mù Căng Chải, Trạm Tấu, Văn Chấn, Yên Bình, Trấn yên, Văn Yên, Lục yên, có diện tích tự nhiên 6.625 km2 với dấn số 530.000 người.\n\nTỉnh lỵ: thị xã Yên Bái\n\nb.Tỉnh Lào Cai có 9 đơn vị hành chính gồm thị xã Lào Cai và 8 huyện: Bát Xát, Sapa, Mường Khương, Bắc Hà, Bảo Thắng, Bảo Yên, Văn Bàn, Than Uyên, có diện tích tự nhiên 7.500km2 với số dân 470.000 người.\n\nTỉnh ly: thị xã Lào Cai.\n\n3\\. Chia tỉnh Hà Tuyên thành 2 tỉnh, lấy tên là tỉnh Hà Giang và tỉnh Tuyên Quang.\n\na. Tỉnh Hà Giang có 10 đơn vị hành chính gồm thị xã Hà Giang và 9 huyện: Đồng Văn, Mèo Vạc, Yên Minh, Quản Bạ, Vị Xuyên, Xín Mần, Hoàng Su Phì, Bắc Quang, Bắc Mê, có diện tích tự nhiên 7.831km2 với số dân 461.839 người.\n\nTỉnh lỵ: thị xã Hà Giang.\n\nb. Tỉnh Tuyên Quang có 6 đơn vị hành chính gồm thị xã Tuyên Quang và 5 huyện: Sơn Dương, Yên Sơn, Hàm yên, Chiêm Hoá, Nà Hang, có diện tích tự nhiên 5.800km2 với số dân 564.528 người.\n\nTỉnh lỵ: thị xã Tuyên Quang.\n\n4\\. Chia tỉnh Gia Lai - Kon Tum thành 2 tỉnh, lấy tên là tỉnh Gia Lai và tỉnh Kon Tum.\n\na. Tỉnh Gia lai có 10 đơn vị hành chính gồm thị xã Plâycu và 9 huyện: Măng Yang, An Khê, Kbang, Krông Chro, Chư Lê, Chư Pah, Chư Prông, Ayun Pa, Krông Pa, có diện tích tự nhiên 12.000 km2 với số dân 654.365 người.\n\nTỉnh lỵ: Thị xã Plâycu.\n\nb.Tỉnh Kon Tum có 5 đơn vị hành chính gồm thị xã Kon Tum và 4 huyện: Đăk Tô, Kăk Glây, Sa Thầy, Kon Plông, có diện tích tự nhiên 13.000km2 với số dân 230.000 người.\n\nTỉnh lỵ: thị xã Kon Tum\n\n5.Chia tỉnh Hà Sơn Bình thành 2 tỉnh, lấy trên là tỉnh Hoà Bình và tỉnh Hà Tây\n\na. Tỉnh Hoà Bình có 10 đơn vị hành chính gồm thị xã Hoà Bình và 9 huyện: Lương Sơn, Đà Bắc, Lạc Sơn, Mai Châu, Kỳ Sơn, Kim Bôi, Tân Lạc, Yên Thuỷ, Lạc Thuỷ, có diện tích tự nhiên 4.697km2 với số dân 670.000 người.\n\nTỉnh lỵ: thị xã Hoà Bình\n\nb. Tỉnh Hà Tây có 14 đơn vị hành chính gồm thị xã Hà Đông, thị xã Sơn Tây và 12 huyện: Thanh Oai, Phú Xuyên, Mỹ Đức, Thường Tín, Ứng Hoà, Chương Mỹ, Quốc Oai, Ba Bì, Đan Phượng, Hoài Đức, Phúc Thọ, Thạch Thất, có diện tích tự nhiên 2.169 km2 với số dân 2.086.926 người.\n\nTỉnh lỵ: thị xã Hà Đông\n\n6.Thành lập tỉnh Bà Rịa - Vũng Tàu gồm đặc khu Vũng Tàu - Côn Đảo và 3 huyện Long Đất, Châu Thành, Xuyên Mộc của tỉnh Đồng Nai.\n\nTỉnh Bà Rịa - Vũng Tàu có 5 đơn vị hành chính gồm thành phố Vũng Tàu và 4 huyện: Côn Đảo, Long Đất, Châu Thành, Xuyên Mộc, có diện tích tự nhiên 2.047,45km2 với số dân 587.499 người.\n\nTỉnh lỵ: Thành phố Vũng Tàu.\n\n7\\. Điều chỉnh địa giới của Thủ đô Hà Nội như sau:\n\na. Chyển huyện Mê Linh của thành phố Hà Nội về tỉnh Vĩnh Phú.\n\nb. Chuyển thị xã Sơn Tây và 5 huyện: Hoài Đức, Phúc Thọ, Đan Phượng, Ba Vì, Thạch Thất của thành phố Hà Nội về tỉnh Hà Tây.\n\n8\\. Giao cho Hội đồng Bộ trưởng chỉ đạo thực hiện Nghị quyết này của Quốc hội theo tinh thần tiết kiệm, không tăng biên chế, không để thất thoát tài sản xã hội chủ nghĩa; nhanh chóng ổn định tổ chức và phát triển sản xuất.\n\n9.Hội đồng Bộ trưởng tiếp tục hoàn chỉnh phương án tổng thể và điều chỉnh địa giới hành chính tỉnh và cấp tương đương trình Quốc hội xem xét sau khi đã sửa đổi Hiến pháp.\n\nNghị quyết này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 9 thông qua ngày 12 tháng 8 năm 1991.\n\n**Lê Quang Đạo**\n\n(Đã ký)",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
