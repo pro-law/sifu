@@ -1,79 +1,65 @@
 {
-  "title": "Chỉ thị 02/CT-UBND về tăng cường chỉ đạo phát triển chăn nuôi, nuôi trồng thủy sản; phòng, chống dịch bệnh gia súc, gia cầm, thủy sản; an toàn thực phẩm, nông, lâm, thủy sản trên địa bàn thành phố Hà Nội năm 2018",
+  "title": "Chỉ thị 02/CT-UBND năm 2010 về tăng cường quản lý hoạt động hành nghề y dược tư nhân do Ủy ban nhân dân thành phố Hà Nội ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
-  "supersededDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Chỉ thị 70/CT-UB năm 1994 về tăng cường quản lý hoạt động hành nghề y dược tư nhân do Thành phố Hà Nội ban hành",
+      "id": "70/CT-UB",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thương mại",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thành phố Hà Nội",
+      "signers": [
+        "Vũ Mạnh Kha"
+      ],
+      "issuedDate": "1994-12-24",
+      "effectiveDate": "1994-12-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/01/2010"
+    }
+  ],
   "referredDocuments": [
     {
-      "title": "Chỉ thị 10548/CT-BNN-QLCL năm 2017 về tăng cường bảo đảm an toàn thực phẩm trước, trong và sau dịp Tết Dương lịch, Tết Nguyên đán Mậu Tuất 2018 do Bộ Nông nghiệp và Phát triển nông thôn ban hành",
-      "id": "10548/CT-BNN-QLCL",
-      "legislationType": "Chỉ thị",
+      "title": "Luật Dược 2005",
+      "id": "34/2005/QH11",
+      "legislationType": "Luật",
       "categories": [
         "Thể thao - Y tế"
       ],
-      "organization": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "organization": "Quốc hội",
       "signers": [
-        "Nguyễn Xuân Cường"
+        "Nguyễn Văn An"
       ],
-      "issuedDate": "2017-12-20",
-      "effectiveDate": "2017-12-20",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
+      "issuedDate": "2005-06-14",
+      "effectiveDate": "2005-10-01",
+      "gazetteDate": "2005-08-14",
+      "gazetteNumber": "Số 13",
+      "status": "Hết hiệu lực: 01/01/2017"
     },
     {
-      "title": "Chỉ thị 13/CT-TTg năm 2016 về tăng cường trách nhiệm quản lý nhà nước về an toàn thực phẩm do Thủ tướng Chính phủ ban hành",
-      "id": "13/CT-TTg",
-      "legislationType": "Chỉ thị",
+      "title": "Pháp lệnh hành nghề y, dược tư nhân năm 2003",
+      "id": "07/2003/PL-UBTVQH11",
+      "legislationType": "Pháp lệnh",
       "categories": [
+        "Doanh nghiệp",
         "Thể thao - Y tế"
       ],
-      "organization": "Thủ tướng Chính phủ",
+      "organization": "Uỷ ban Thường vụ Quốc hội",
       "signers": [
-        "Nguyễn Xuân Phúc"
+        "Nguyễn Văn An"
       ],
-      "issuedDate": "2016-05-09",
-      "effectiveDate": "2016-05-09",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Chỉ thị 19/CT-TTg năm 2014 tiếp tục đẩy mạnh triển khai thực hiện Chỉ thị 01/1998/CT-TTg về nghiêm cấm sử dụng chất nổ, xung điện, chất độc để khai thác thủy sản và tăng cường bảo vệ nguồn lợi thủy sản trong thời gian tới do Thủ tướng Chính phủ ban hành",
-      "id": "19/CT-TTg",
-      "legislationType": "Chỉ thị",
-      "categories": [
-        "Tài nguyên - Môi trường"
-      ],
-      "organization": "Thủ tướng Chính phủ",
-      "signers": [
-        "Hoàng Trung Hải"
-      ],
-      "issuedDate": "2014-07-30",
-      "effectiveDate": "2014-07-30",
-      "gazetteDate": "2014-08-10",
-      "gazetteNumber": "Từ số 745 đến số 746",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Chỉ thị 1/1998/CT-TTg về nghiêm cấm sử dụng chất nổ, xung điện, chất độc để khai thác thuỷ sản do Thủ tướng Chính phủ ban hành",
-      "id": "1/1998/CT-TTg",
-      "legislationType": "Chỉ thị",
-      "categories": [
-        "Tài nguyên - Môi trường"
-      ],
-      "organization": "Thủ tướng Chính phủ",
-      "signers": [
-        "Nguyễn Công Tạn"
-      ],
-      "issuedDate": "1998-01-02",
-      "effectiveDate": "1998-01-02",
-      "gazetteDate": "1998-02-20",
-      "gazetteNumber": "Số 5",
-      "status": "Còn hiệu lực"
+      "issuedDate": "2003-02-25",
+      "effectiveDate": "2003-06-01",
+      "gazetteDate": "2003-04-20",
+      "gazetteNumber": "Số 24",
+      "status": "Hết hiệu lực: 01/01/2011"
     }
   ],
   "influentialDocuments": [],
@@ -81,281 +67,167 @@
   "consolidatedDocuments": [],
   "amendingDocuments": [],
   "rectifyingDocuments": [],
-  "supersedingDocuments": [],
-  "relevantDocuments": [
+  "supersedingDocuments": [
     {
-      "title": "Quyết định 890/QĐ-UBND năm 2020 về Kế hoạch xây dựng và phát triển chuỗi liên kết sản xuất, cung ứng thực phẩm nông, lâm, thủy sản an toàn trên địa bàn tỉnh Quảng Ngãi, giai đoạn 2020-2022",
-      "id": "890/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Thương mại"
-      ],
-      "organization": "Tỉnh Quảng Ngãi",
-      "signers": [
-        "Trần Ngọc Căng"
-      ],
-      "issuedDate": "2020-06-22",
-      "effectiveDate": "2020-06-22",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 59/2018/QĐ-UBND bãi bỏ Quyết định 54/2012/QĐ-UBND quy định về chính sách khuyến khích phát triển nuôi thủy sản trên địa bàn các huyện vùng Đồng Tháp Mười của tỉnh Long An",
-      "id": "59/2018/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh Long An",
-      "signers": [
-        "Trần Văn Cần"
-      ],
-      "issuedDate": "2018-11-15",
-      "effectiveDate": "2018-11-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị quyết 35/2018/NQ-HĐND bãi bỏ Nghị quyết 54/2012/NQ-HĐND về chính sách khuyến khích phát triển nuôi thủy sản trên địa bàn các huyện vùng Đồng Tháp Mười của tỉnh Long An",
-      "id": "35/2018/NQ-HĐND",
-      "legislationType": "Nghị quyết",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh Long An",
-      "signers": [
-        "Phạm Văn Rạnh"
-      ],
-      "issuedDate": "2018-10-26",
-      "effectiveDate": "2018-11-06",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 25/2018/QĐ-UBND quy định về quản lý nhà nước đối với hoạt động chăn nuôi gia súc, gia cầm trên địa bàn tỉnh Bình Phước",
-      "id": "25/2018/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh Bình Phước",
-      "signers": [
-        "Nguyễn Văn Trăm"
-      ],
-      "issuedDate": "2018-04-27",
-      "effectiveDate": "2018-05-01",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 162/QĐ-UBND về phê duyệt Kế hoạch phòng, chống dịch bệnh gia súc, gia cầm, động vật thủy sản năm 2018 trên địa bàn tỉnh Điện Biên",
-      "id": "162/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh Điện Biên",
-      "signers": [
-        "Lò Văn Tiến"
-      ],
-      "issuedDate": "2018-02-23",
-      "effectiveDate": "2018-01-01",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không còn phù hợp"
-    },
-    {
-      "title": "Chỉ thị 03/CT-UBND về công tác phòng, chống dịch bệnh gia súc, gia cầm và thủy sản năm 2018 do tỉnh Hà Tĩnh ban hành",
-      "id": "03/CT-UBND",
+      "title": "Chỉ thị 10/CT-UBND năm 2013 tăng cường quản lý hoạt động hành nghề y, dược ngoài công lập do thành phố Hà Nội ban hành",
+      "id": "10/CT-UBND",
       "legislationType": "Chỉ thị",
       "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh Hà Tĩnh",
-      "signers": [
-        "Đặng Ngọc Sơn"
-      ],
-      "issuedDate": "2018-02-12",
-      "effectiveDate": "2018-02-12",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không còn phù hợp"
-    },
-    {
-      "title": "Kế hoạch 23/KH-UBND về phòng, chống dịch bệnh gia súc, gia cầm trên địa bàn thành phố Hà Nội năm 2018",
-      "id": "23/KH-UBND",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Lĩnh vực khác"
+        "Doanh nghiệp",
+        "Thể thao - Y tế"
       ],
       "organization": "Thành phố Hà Nội",
       "signers": [
-        "Nguyễn Văn Sửu"
+        "Nguyễn Thị Bích Ngọc"
       ],
-      "issuedDate": "2018-01-23",
-      "effectiveDate": "2018-01-23",
+      "issuedDate": "2013-05-02",
+      "effectiveDate": "2013-05-02",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không còn phù hợp"
+      "status": "Hết hiệu lực: 08/02/2023"
     },
     {
-      "title": "Kế hoạch 01/KH-UBND về chủ động phòng, chống dịch bệnh gia súc, gia cầm và thủy sản năm 2018 trên địa bàn thành phố Cần Thơ",
-      "id": "01/KH-UBND",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Thành phố Cần Thơ",
-      "signers": [
-        "Đào Anh Dũng"
-      ],
-      "issuedDate": "2018-01-05",
-      "effectiveDate": "2018-01-05",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không còn phù hợp"
-    },
-    {
-      "title": "Kế hoạch 212/KH-UBND năm 2017 về xuất khẩu sản phẩm nông sản của tỉnh Sơn La năm 2018, định hướng đến năm 2020",
-      "id": "212/KH-UBND",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Xuất nhập khẩu"
-      ],
-      "organization": "Tỉnh Sơn La",
-      "signers": [
-        "Cầm Ngọc Minh"
-      ],
-      "issuedDate": "2017-12-29",
-      "effectiveDate": "2017-12-29",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Nghị quyết 39/NQ-HĐND năm 2017 về giám sát việc thực hiện quy định pháp luật về an toàn thực phẩm trên địa bàn tỉnh Bình Thuận giai đoạn 2015-2017",
-      "id": "39/NQ-HĐND",
-      "legislationType": "Nghị quyết",
-      "categories": [
-        "Thể thao - Y tế"
-      ],
-      "organization": "Tỉnh Bình Thuận",
-      "signers": [
-        "Nguyễn Mạnh Hùng"
-      ],
-      "issuedDate": "2017-12-13",
-      "effectiveDate": "2017-12-07",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Kế hoạch 116/KH-UBND-UBMTTQ năm 2017 về thực hiện Chương trình phối hợp 90 về an toàn thực phẩm tỉnh Cà Mau giai đoạn 2017-2020",
-      "id": "116/KH-UBND-UBMTTQ",
-      "legislationType": "Kế hoạch",
-      "categories": [
-        "Thể thao - Y tế"
-      ],
-      "organization": "Tỉnh Cà Mau",
-      "signers": [
-        "Trần Hồng Quân",
-        "Phan Mộng Thành"
-      ],
-      "issuedDate": "2017-11-27",
-      "effectiveDate": "2017-11-27",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Quyết định 2612/QĐ-UBND năm 2017 phê duyệt Kế hoạch phòng, chống dịch bệnh trên gia súc, gia cầm giai đoạn 2017-2020 trên địa bàn tỉnh An Giang",
-      "id": "2612/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh An Giang",
-      "signers": [
-        "Lâm Quang Thi"
-      ],
-      "issuedDate": "2017-08-31",
-      "effectiveDate": "2017-08-31",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 788/QĐ-UBND phê duyệt Kế hoạch phòng, chống dịch bệnh gia súc, gia cầm năm 2017 trên địa bàn tỉnh Bình Thuận",
-      "id": "788/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Tỉnh Bình Thuận",
-      "signers": [
-        "Phạm Văn Nam"
-      ],
-      "issuedDate": "2017-03-27",
-      "effectiveDate": "2017-03-27",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Chỉ thị 02/CT-UBND về tăng cường công tác chỉ đạo, thực hiện phát triển chăn nuôi, nuôi trồng thủy sản; phòng, chống dịch bệnh động vật và an toàn thực phẩm nông, lâm, thủy sản trên địa bàn thành phố Hà Nội năm 2017",
+      "title": "Chỉ thị 02/CT-UBND năm 2023 về tăng cường quản lý hoạt động hành nghề y, dược ngoài công lập do thành phố Hà Nội ban hành",
       "id": "02/CT-UBND",
       "legislationType": "Chỉ thị",
       "categories": [
-        "Lĩnh vực khác"
+        "Thể thao - Y tế"
       ],
       "organization": "Thành phố Hà Nội",
       "signers": [
-        "Nguyễn Văn Sửu"
+        "Trần Sỹ Thanh"
       ],
-      "issuedDate": "2017-02-09",
-      "effectiveDate": "2017-02-09",
+      "issuedDate": "2023-02-08",
+      "effectiveDate": "2023-02-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
+    {
+      "title": "Kế hoạch 10/KH-HĐND năm 2016 giám sát công tác quản lý hoạt động hành nghề y dược tư nhân trên địa bàn tỉnh Nghệ An",
+      "id": "10/KH-HĐND",
+      "legislationType": "Kế hoạch",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Hồ Phúc Hợp"
+      ],
+      "issuedDate": "2016-08-12",
+      "effectiveDate": "2016-08-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Không xác định"
+    },
+    {
+      "title": "Chỉ thị 14/2015/CT-UBND về tăng cường quản lý hoạt động hành nghề y, dược ngoài công lập trên địa bàn tỉnh Nghệ An",
+      "id": "14/2015/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Tỉnh Nghệ An",
+      "signers": [
+        "Đinh Thị Lệ Thanh"
+      ],
+      "issuedDate": "2015-07-10",
+      "effectiveDate": "2015-07-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 25/11/2019"
+    },
+    {
+      "title": "Chỉ thị 24/CT-UBND năm 2013 về tăng cường quản lý hoạt động hành nghề Y, Dược ngoài công lập do tỉnh Thái Nguyên ban hành",
+      "id": "24/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Thể thao - Y tế"
+      ],
+      "organization": "Tỉnh Thái Nguyên",
+      "signers": [
+        "Ma Thị Nguyệt"
+      ],
+      "issuedDate": "2013-12-19",
+      "effectiveDate": "2013-12-19",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Chỉ thị 06/CT-UB năm 2005 về nghiêm cấm mọi tổ chức, hộ gia đình, cá nhân chăn nuôi gia cầm trên địa bàn quận Hải Châu, Thanh Khê và Sơn Trà thành phố Đà Nẵng",
-      "id": "06/CT-UB",
+      "title": "Chỉ thị 13/CT-UBND năm 2013 tăng cường công tác quản lý nhà nước đối với cơ sở y tế ngoài công lập trên địa bàn tỉnh Vĩnh Long",
+      "id": "13/CT-UBND",
       "legislationType": "Chỉ thị",
       "categories": [
-        "Lĩnh vực khác"
+        "Bộ máy hành chính",
+        "Thể thao - Y tế"
       ],
-      "organization": "Thành phố Đà Nẵng",
+      "organization": "Tỉnh Vĩnh Long",
       "signers": [
-        "Hoàng Tuấn Anh"
+        "Nguyễn Văn Diệp"
       ],
-      "issuedDate": "2005-03-16",
-      "effectiveDate": "2005-03-16",
+      "issuedDate": "2013-12-18",
+      "effectiveDate": "2013-12-18",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Hết hiệu lực: 18/05/2006"
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 09/CT-UBND năm 2013 tăng cường công tác quản lý về hành nghề y, dược ngoài công lập do tỉnh Bắc Giang ban hành",
+      "id": "09/CT-UBND",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Tỉnh Bắc Giang",
+      "signers": [
+        "Nguyễn Văn Linh"
+      ],
+      "issuedDate": "2013-11-06",
+      "effectiveDate": "2013-11-06",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Chỉ thị 33/1998/CT-UB về tăng cường công tác quản lý hoạt động hành nghề Y- Dược tư nhân do tỉnh Quảng Nam ban hành",
+      "id": "33/1998/CT-UB",
+      "legislationType": "Chỉ thị",
+      "categories": [
+        "Bộ máy hành chính",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Tỉnh Quảng Nam",
+      "signers": [
+        "Vũ Ngọc Hoàng"
+      ],
+      "issuedDate": "1998-11-12",
+      "effectiveDate": "1998-11-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 16/06/2014"
     }
   ],
   "id": "02/CT-UBND",
   "legislationType": "Chỉ thị",
   "categories": [
-    "Lĩnh vực khác"
+    "Doanh nghiệp",
+    "Thể thao - Y tế"
   ],
   "organization": "Thành phố Hà Nội",
   "signers": [
-    "Nguyễn Văn Sửu"
+    "Đào Văn Bình"
   ],
-  "issuedDate": "2018-01-22",
-  "effectiveDate": "2018-01-22",
+  "issuedDate": "2010-01-25",
+  "effectiveDate": "2010-01-25",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
-  "status": "Không còn phù hợp",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAxADIAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>ỦY BAN NHÂN DÂN<br>\n  THÀNH PHỐ HÀ NỘI</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">Số: </span>02/CT-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội</i><i><span lang=\"VI\">, ngày </span>22</i><i><span lang=\"VI\"> tháng </span>01</i><i><span lang=\"VI\"> năm </span>2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">CHỈ THỊ</span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\">VỀ\nVIỆC TĂNG CƯỜNG CHỈ ĐẠO PHÁT TRIỂN CHĂN NUÔI, NUÔI TRỒ</span>NG <span lang=\"VI\">THỦY\nSẢN; PHÒNG, CHỐNG DỊCH BỆNH GIA SÚC, GIA CẦM, THỦY SẢN; AN TOÀN THỰC PHẨM NÔNG,\nLÂM, THỦY SẢN TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI NĂM 2018.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Năm 2017, trên địa bàn Thành phố\nkhông có dịch bệnh lớn xảy ra đối với động vật nuôi, một số ổ dịch nhỏ lẻ xuất\nhiện nhưng đã được phát hiện và xử lý kịp thời không để lây lan ra diện rộng\ngây thiệt hại về kinh tế. Chăn nuôi mặc dù có khó khăn nhưng vẫn tăng trưởng ổn\nđịnh. Công tác an toàn thực phẩm nông, lâm, thủy sản tiếp tục được nâng cao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện Chỉ thị số\n10548/CT-BNN-QLCL ngày 20/12/2017 của Bộ Nông nghiệp và Phát triển nông thôn về\nviệc tăng cường đảm bảo an toàn thực phẩm trước, trong và sau dịp T</span>ế<span lang=\"VI\">t Dương lịch, Tết Nguyên đán Mậu Tuất 2018; tiếp tục thực hiện các Chỉ thị\ncủa Thủ tướng Chính phủ: Số </span>01<span lang=\"VI\">/1998/CT-TTg ngày\n02/01/1998, số 19/CT-TTg ngày 30/7/2014 về việc nghiêm cấm sử dụng chất nổ,\nxung điện, chất độc để khai thác thủy sản, số 13/CT-TTg ngày 09/5/2016 về việc\ntăng cường trách nhiệm quản lý Nhà nước về an toàn thực phẩm; Chỉ thị số\n10-CT/TU ngày 27/10/2016 của Thành ủy Hà Nội về việc tăng cường chỉ đạo của các\ncấp ủy đảng đối với vấn đề an toàn thực phẩm trong tình hình mới trên địa bàn\nHà Nội. Đ</span>ể <span lang=\"VI\">ngành chăn nuôi, nuôi trồng thủy sản của Thành\nphố tiếp tục phát triển; kịp thời phòng, chống dịch bệnh gia súc, gia cầm, thủy\nsản hiệu quả, bảo đảm an toàn thực phẩm nông, lâm, thủy sản, đáp ứng nhu cầu tiêu\ndùng của Thành phố và các tỉnh, thành trên cả nước, Chủ tịch UBND Thành phố yêu\ncầu Chủ tịch UBND quận, huyện, thị xã; Giám đốc các Sở, ngành liên quan tập\ntrung chỉ đạo tốt một số nội dung chính sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. UBND các quận, huyện, thị xã</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo các phòng, ban, đơn vị trực\nthuộc liên quan, UBND các xã, phường, thị trấn tạo điều ki</span>ệ<span lang=\"VI\">n thuận lợi để đẩy mạnh phát triển chăn nuôi, nuôi trồng thủy sản và\nxây dựng cơ sở giết mổ, chế biến gia súc, gia cầm, hạ tầng vùng nuôi trồng thủy\nsản tập trung theo chuỗi liên kết và theo quy hoạch; thực hiện t</span>ố<span lang=\"VI\">t công tác phòng, chống dịch bệnh của vật nuôi, thủy sản; công tác đảm\nbảo an toàn thực phẩm trong sản xuất nông, lâm, thủy sản, phát huy tiềm năng,\nlợi thế của từng địa phương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng kế hoạch và bố trí kinh\nphí thực hiện công tác phát triển chăn nuôi, bảo vệ nguồn lợi thủy sản, quản lý\ngiết mổ, phòng chống dịch bệnh gia súc, gia cầm, thủy sản và bảo đảm an toàn\nthực phẩm nông, lâm, thủy sản năm 2018 trên địa bàn kịp thời, có hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh công tác tuyên truyền, phổ\nbiến cơ chế, chính sách, chỉ đạo của Trung ương, Thành phố về phát triển chăn\nnuôi, nuôi trồng thủy sản, phòng chống dịch bệnh gia súc, gia cầm, thủy sản,\nbảo đảm an toàn thực phẩm nông, lâm, thủy sản; xây dựng và phát triển các chuỗi\nthực phẩm an toàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường giám sát tình hình chăn\nnuôi, giết mổ, dịch bệnh gia súc, gia cầm phát sinh trên địa bàn; chủ động phối\nhợp Sở Nông nghiệp và Phát triển nông thôn, Sở Công Thương về dự báo khả năng\nbiến động nhu cầu, thị trường, giá cả thực phẩm nông, lâm, thủy sản trên địa\nbàn. Thông tin trên phương tiện truyền thông để người chăn nuôi chủ động trong\nsản xuất, phòng chống dịch bệnh, ổn định cung cầu.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giao chỉ tiêu kế hoạch về bảo đảm\nan toàn thực phẩm cho UBND các xã, phường, thị trấn; thực hiện quản lý về an\ntoàn thực phẩm theo quy định của Bộ Nông nghiệp và Phát triển nông thôn và phân\ncấp của UBND Thành phố; kiên quyết xử lý các trường hợp vi phạm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đẩy mạnh, tăng cường công tác kiểm\ntra, kiểm soát các hoạt động sử dụng chất nổ, xung điện, chất độc và ngư cụ bị cấm\ntrong khai thác thủy sản tại các thủy vực ngoài tự nhiên; thanh tra, kiểm tra\nvề phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và công tác đảm bảo an\ntoàn thực phẩm. Chỉ đạo và giao các Ban quản lý Chợ (đơn vị quản lý chợ) kiểm\ntra, giám sát không đ</span>ể <span lang=\"VI\">có hộ kinh doanh thực phẩm không\nđảm bảo an toàn trong chợ. Huy động hệ thống chính trị trong việc quản lý an\ntoàn thực phẩm để nâng cao hiệu quả quản lý và xử lý nghiêm những trường hợp vi\nphạm đúng quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với các Sở, ban ngành liên\nquan trong việc triển khai các hoạt động đảm bảo an toàn thực phẩm trên địa bàn\nquản lý; thực hiện có hiệu quả các chương trình; đề án, dự án hỗ trợ phát triển\nsản xuất nông nghiệp và Quy hoạch, Kế hoạch của UBND Thành phố, đẩy nhanh tiến\nđộ xây dựng và phát triển vùng sản xuất nông nghiệp tập trung chất lượng cao,\ngắn với quy hoạch các cơ sở giết mổ gia súc, gia cầm tập trung nhằm phát triển\nsản xuất bền vững, có hiệu quả và đảm bảo an toàn thực phẩm; đề xuất bố trí quỹ\nđất (theo quy hoạch) và tạo điều kiện cho doanh nghiệp đầu tư trong lĩnh vực\ngiết m</span>ổ<span lang=\"VI\">, chế biến và giới thiệu và tiêu thụ thực phẩm\nnông, lâm, thủy sản an toàn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Báo cáo kết quả triển khai thực\nhiện về Sở Nông nghiệp và Phát triển nông th</span>ô<span lang=\"VI\">n định kỳ vào\nngày 20 hàng tháng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">2. Sở Nông nghiệp và Phát triển\nnông thôn</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ trì, phối hợp với các Sở, ngành\nliên quan chỉ đạo, hướng dẫn, kiểm tra, đôn đốc thực hiện nhiệm vụ phát triển\nchăn nuôi, thủy sản; phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và đảm\nbảo an toàn thực phẩm nông, lâm, thủy sản trên địa bàn Thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với UBND các huyện, thị xã\nrà soát quy hoạch chăn nuôi, thủy sản, giết mổ; xây dựng cơ sở sản xuất an toàn\nvề dịch bệnh gia súc gia cầm, thủy sản; quản lý chặt chẽ các cơ sở sản xuất,\nchế biến, kinh doanh vật tư nông nghiệp và thực phẩm nông, lâm, thủy sản theo\nphân cấp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tham mưu UBND Thành phố chỉ đạo\ntiếp tục phát triển có hiệu quả các chương trình, đề án, chính sách trong lĩnh\nvực chăn nuôi, bảo tồn, phát triển nguồn gen động vật quý, hiếm trên địa bàn\nThành phố và ứng dụng công nghệ cao trong chăn nuôi, nuôi trồng thủy sản và sơ\nchế, chế biến thực phẩm nông, lâm, thủy sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức tập huấn, hướng dẫn các tổ\nchức, cá nhân sản xuất kinh doanh nông, lâm, thủy sản tuân thủ các quy định đảm\nbảo vệ sinh, an toàn thực phẩm; xây dựng các mô hình điểm về chăn nuôi, nuôi\ntrồng thủy sản và phòng chống dịch bệnh bảo đảm an toàn; phát triển chuỗi sản\nxuất, xây dựng chỉ dẫn địa lý, xây dựng thương hiệu sản phẩm và quảng bá các\nsản phẩm an toàn; đồng thời hướng dẫn người tiêu dùng nhận biết sản phẩm có\nnguồn gốc xuất xứ rõ ràng, sản phẩm đã được kiểm soát và chứng nhận an toàn\nthực phẩm. Phối hợp với cơ quan chức năng các tỉnh kiểm soát thực phẩm nông,\nlâm, thủy sản đưa về Thành phố tiêu thụ và trung chuy</span>ể<span lang=\"VI\">n\nđưa đi các tỉnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo thực hiện tốt việc giám sát\nvà phòng, chống dịch bệnh gia súc, gia cầm, thủy sản; kiểm dịch, kiểm soát giết\nmổ, kiểm tra vệ sinh thú y đúng quy định. Tăng cường quản lý an toàn thực phẩm\ntrong suốt quá trình sản xuất, thu gom, giết mổ, sơ chế, chế biến, bảo quản,\nkinh doanh thực phẩm nông lâm, thủy sản theo phân cấp của Bộ Nông nghiệp và\nPhát triển nông thôn. Tổ chức phối hợp liên ngành kiểm soát chặt chẽ các nguồn\nnông sản thực phẩm vào Thành phố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác lấy mẫu giám\nsát để có những thông tin cảnh báo, chấn chỉnh kịp thời về an toàn thực phẩm.\nThường xuyên giám sát, kiểm tra tồn dư hóa chất độc hại đối với nông sản thực\nphẩm trong các khâu nuôi trồng, sơ chế, chế biến, bảo quản và kinh doanh nông\nsản thực phẩm tại các chợ đầu mối; kiểm soát chặt chẽ về điều kiện vệ sinh thú\ny, thủy sản đối với hoạt động giết mổ, vận chuyển, kinh doanh sản phẩm động vật\nvà thủy hải sản trên thị trường, xử lý nghiêm các hành vi vi phạm pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức tiếp nhận, xử lý thông tin\nkịp thời về tình hình dịch bệnh và các phản ánh về mất an toàn thực phẩm thuộc\nlĩnh vực phụ trách và phối hợp với cơ quan chức năng các tỉnh, thành phố trong\ncông tác phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và bảo đảm chất\nlượng, an toàn thực phẩm nông, lâm, thủy sản.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổng hợp tình hình, kết quả thực\nhiện của các Sở, ngành, đơn vị, UBND các quận, huyện, thị xã; những khó khăn\nvướng mắc trong chỉ đạo, thực hiện, báo cáo UBND Thành phố, Bộ Nông nghiệp và\nPhát triển nông thôn đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Các Sở, ban, ngành, đoàn thể</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ vào chức năng nhiệm vụ được\ngiao chủ động chỉ đạo, kiểm tra, đôn đốc công tác phát triển chăn nuôi, nuôi\ntrồng và bảo vệ nguồn lợi thủy sản; phòng chống dịch bệnh gia súc, gia cầm,\nthủy sản và bảo đảm an toàn thực phẩm nông, lâm, thủy sản. Tổ chức thông tin,\ntuyên truyền, hướng dẫn các biện pháp phòng, chống dịch bệnh gia súc, gia cầm,\nthủy sản và bảo đảm an toàn thực phẩm trong nhân dân.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chủ tịch UBND Thành phố yêu cầu Chủ\ntịch UBND các quận, huyện, thị xã, Giám đốc các Sở, Thủ trưởng các cơ quan, đơn\nvị liên quan quán triệt, thực hiện nghiêm Chỉ thị này, thường xuyên báo cáo kết\nquả và những vấn đề phát sinh về UBND Thành phố (qua Sở Nông nghiệp và Phát\ntriển nông thôn) để kịp thời chỉ đạo. Giao Giám đốc Sở Nông nghiệp và Phát\ntriển nông thôn kiểm tra, hướng dẫn, đôn đốc và tổng hợp tình hình, kết quả\nthực hiện; những khó khăn, vướng mắc, th</span>a<span lang=\"VI\">m mưu giải quyết,\nbáo cáo UBND Thành phố./.</span></p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADgAMAAxADIAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\" style=\"font-size:8.0pt\">&nbsp;</span></i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\">Nơi nhận:</span></i></b><span lang=\"VI\"><br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt\">- Bộ Nông nghiệp và PTNT,<br>\n  - Bí thư Thành ủy,<br>\n  - TT HĐND Thành phố,<br>\n  - Đoàn ĐBQH TP Hà Nội,<br>\n  - Chủ tịch UBND Thành phố (để báo cáo);<br>\n  - Các PCT UBND Thành phố;<br>\n  - Các Sở, ngành;<br>\n  - Thành viên BCĐ công tác ATTP TP;<br>\n  - UBND: quận, huyện, thị xã;<br>\n  - CVP, các PCVP, các phòng </span><span style=\"font-size:8.0pt\">CV</span><span lang=\"VI\" style=\"font-size:8.0pt\">, TH, TKBT;<br>\n  - Lưu VT, KTGiang</span><span style=\"font-size:8.0pt\">.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>T.M ỦY BAN NHÂN\n  DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Sửu</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
-  "mdContent": "**ỦY BAN NHÂN DÂN  \nTHÀNH PHỐ HÀ NỘI****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 02/CT-UBND\n\n_Hà Nội__, ngày 22_ _tháng 01_ _năm 2018_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TĂNG CƯỜNG CHỈ ĐẠO PHÁT TRIỂN CHĂN NUÔI, NUÔI TRỒNG THỦY SẢN; PHÒNG, CHỐNG DỊCH BỆNH GIA SÚC, GIA CẦM, THỦY SẢN; AN TOÀN THỰC PHẨM NÔNG, LÂM, THỦY SẢN TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI NĂM 2018.\n\nNăm 2017, trên địa bàn Thành phố không có dịch bệnh lớn xảy ra đối với động vật nuôi, một số ổ dịch nhỏ lẻ xuất hiện nhưng đã được phát hiện và xử lý kịp thời không để lây lan ra diện rộng gây thiệt hại về kinh tế. Chăn nuôi mặc dù có khó khăn nhưng vẫn tăng trưởng ổn định. Công tác an toàn thực phẩm nông, lâm, thủy sản tiếp tục được nâng cao.\n\nThực hiện Chỉ thị số 10548/CT-BNN-QLCL ngày 20/12/2017 của Bộ Nông nghiệp và Phát triển nông thôn về việc tăng cường đảm bảo an toàn thực phẩm trước, trong và sau dịp Tết Dương lịch, Tết Nguyên đán Mậu Tuất 2018; tiếp tục thực hiện các Chỉ thị của Thủ tướng Chính phủ: Số 01/1998/CT-TTg ngày 02/01/1998, số 19/CT-TTg ngày 30/7/2014 về việc nghiêm cấm sử dụng chất nổ, xung điện, chất độc để khai thác thủy sản, số 13/CT-TTg ngày 09/5/2016 về việc tăng cường trách nhiệm quản lý Nhà nước về an toàn thực phẩm; Chỉ thị số 10-CT/TU ngày 27/10/2016 của Thành ủy Hà Nội về việc tăng cường chỉ đạo của các cấp ủy đảng đối với vấn đề an toàn thực phẩm trong tình hình mới trên địa bàn Hà Nội. Để ngành chăn nuôi, nuôi trồng thủy sản của Thành phố tiếp tục phát triển; kịp thời phòng, chống dịch bệnh gia súc, gia cầm, thủy sản hiệu quả, bảo đảm an toàn thực phẩm nông, lâm, thủy sản, đáp ứng nhu cầu tiêu dùng của Thành phố và các tỉnh, thành trên cả nước, Chủ tịch UBND Thành phố yêu cầu Chủ tịch UBND quận, huyện, thị xã; Giám đốc các Sở, ngành liên quan tập trung chỉ đạo tốt một số nội dung chính sau:\n\n**1\\. UBND các quận, huyện, thị xã**\n\n\\- Chỉ đạo các phòng, ban, đơn vị trực thuộc liên quan, UBND các xã, phường, thị trấn tạo điều kiện thuận lợi để đẩy mạnh phát triển chăn nuôi, nuôi trồng thủy sản và xây dựng cơ sở giết mổ, chế biến gia súc, gia cầm, hạ tầng vùng nuôi trồng thủy sản tập trung theo chuỗi liên kết và theo quy hoạch; thực hiện tốt công tác phòng, chống dịch bệnh của vật nuôi, thủy sản; công tác đảm bảo an toàn thực phẩm trong sản xuất nông, lâm, thủy sản, phát huy tiềm năng, lợi thế của từng địa phương.\n\n\\- Xây dựng kế hoạch và bố trí kinh phí thực hiện công tác phát triển chăn nuôi, bảo vệ nguồn lợi thủy sản, quản lý giết mổ, phòng chống dịch bệnh gia súc, gia cầm, thủy sản và bảo đảm an toàn thực phẩm nông, lâm, thủy sản năm 2018 trên địa bàn kịp thời, có hiệu quả.\n\n\\- Đẩy mạnh công tác tuyên truyền, phổ biến cơ chế, chính sách, chỉ đạo của Trung ương, Thành phố về phát triển chăn nuôi, nuôi trồng thủy sản, phòng chống dịch bệnh gia súc, gia cầm, thủy sản, bảo đảm an toàn thực phẩm nông, lâm, thủy sản; xây dựng và phát triển các chuỗi thực phẩm an toàn.\n\n\\- Tăng cường giám sát tình hình chăn nuôi, giết mổ, dịch bệnh gia súc, gia cầm phát sinh trên địa bàn; chủ động phối hợp Sở Nông nghiệp và Phát triển nông thôn, Sở Công Thương về dự báo khả năng biến động nhu cầu, thị trường, giá cả thực phẩm nông, lâm, thủy sản trên địa bàn. Thông tin trên phương tiện truyền thông để người chăn nuôi chủ động trong sản xuất, phòng chống dịch bệnh, ổn định cung cầu.\n\n\\- Giao chỉ tiêu kế hoạch về bảo đảm an toàn thực phẩm cho UBND các xã, phường, thị trấn; thực hiện quản lý về an toàn thực phẩm theo quy định của Bộ Nông nghiệp và Phát triển nông thôn và phân cấp của UBND Thành phố; kiên quyết xử lý các trường hợp vi phạm.\n\n\\- Đẩy mạnh, tăng cường công tác kiểm tra, kiểm soát các hoạt động sử dụng chất nổ, xung điện, chất độc và ngư cụ bị cấm trong khai thác thủy sản tại các thủy vực ngoài tự nhiên; thanh tra, kiểm tra về phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và công tác đảm bảo an toàn thực phẩm. Chỉ đạo và giao các Ban quản lý Chợ (đơn vị quản lý chợ) kiểm tra, giám sát không để có hộ kinh doanh thực phẩm không đảm bảo an toàn trong chợ. Huy động hệ thống chính trị trong việc quản lý an toàn thực phẩm để nâng cao hiệu quả quản lý và xử lý nghiêm những trường hợp vi phạm đúng quy định của pháp luật.\n\n\\- Phối hợp với các Sở, ban ngành liên quan trong việc triển khai các hoạt động đảm bảo an toàn thực phẩm trên địa bàn quản lý; thực hiện có hiệu quả các chương trình; đề án, dự án hỗ trợ phát triển sản xuất nông nghiệp và Quy hoạch, Kế hoạch của UBND Thành phố, đẩy nhanh tiến độ xây dựng và phát triển vùng sản xuất nông nghiệp tập trung chất lượng cao, gắn với quy hoạch các cơ sở giết mổ gia súc, gia cầm tập trung nhằm phát triển sản xuất bền vững, có hiệu quả và đảm bảo an toàn thực phẩm; đề xuất bố trí quỹ đất (theo quy hoạch) và tạo điều kiện cho doanh nghiệp đầu tư trong lĩnh vực giết mổ, chế biến và giới thiệu và tiêu thụ thực phẩm nông, lâm, thủy sản an toàn.\n\n\\- Báo cáo kết quả triển khai thực hiện về Sở Nông nghiệp và Phát triển nông thôn định kỳ vào ngày 20 hàng tháng.\n\n**2\\. Sở Nông nghiệp và Phát triển nông thôn**\n\n\\- Chủ trì, phối hợp với các Sở, ngành liên quan chỉ đạo, hướng dẫn, kiểm tra, đôn đốc thực hiện nhiệm vụ phát triển chăn nuôi, thủy sản; phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và đảm bảo an toàn thực phẩm nông, lâm, thủy sản trên địa bàn Thành phố.\n\n\\- Phối hợp với UBND các huyện, thị xã rà soát quy hoạch chăn nuôi, thủy sản, giết mổ; xây dựng cơ sở sản xuất an toàn về dịch bệnh gia súc gia cầm, thủy sản; quản lý chặt chẽ các cơ sở sản xuất, chế biến, kinh doanh vật tư nông nghiệp và thực phẩm nông, lâm, thủy sản theo phân cấp.\n\n\\- Tham mưu UBND Thành phố chỉ đạo tiếp tục phát triển có hiệu quả các chương trình, đề án, chính sách trong lĩnh vực chăn nuôi, bảo tồn, phát triển nguồn gen động vật quý, hiếm trên địa bàn Thành phố và ứng dụng công nghệ cao trong chăn nuôi, nuôi trồng thủy sản và sơ chế, chế biến thực phẩm nông, lâm, thủy sản.\n\n\\- Tổ chức tập huấn, hướng dẫn các tổ chức, cá nhân sản xuất kinh doanh nông, lâm, thủy sản tuân thủ các quy định đảm bảo vệ sinh, an toàn thực phẩm; xây dựng các mô hình điểm về chăn nuôi, nuôi trồng thủy sản và phòng chống dịch bệnh bảo đảm an toàn; phát triển chuỗi sản xuất, xây dựng chỉ dẫn địa lý, xây dựng thương hiệu sản phẩm và quảng bá các sản phẩm an toàn; đồng thời hướng dẫn người tiêu dùng nhận biết sản phẩm có nguồn gốc xuất xứ rõ ràng, sản phẩm đã được kiểm soát và chứng nhận an toàn thực phẩm. Phối hợp với cơ quan chức năng các tỉnh kiểm soát thực phẩm nông, lâm, thủy sản đưa về Thành phố tiêu thụ và trung chuyển đưa đi các tỉnh.\n\n\\- Chỉ đạo thực hiện tốt việc giám sát và phòng, chống dịch bệnh gia súc, gia cầm, thủy sản; kiểm dịch, kiểm soát giết mổ, kiểm tra vệ sinh thú y đúng quy định. Tăng cường quản lý an toàn thực phẩm trong suốt quá trình sản xuất, thu gom, giết mổ, sơ chế, chế biến, bảo quản, kinh doanh thực phẩm nông lâm, thủy sản theo phân cấp của Bộ Nông nghiệp và Phát triển nông thôn. Tổ chức phối hợp liên ngành kiểm soát chặt chẽ các nguồn nông sản thực phẩm vào Thành phố.\n\n\\- Tăng cường công tác lấy mẫu giám sát để có những thông tin cảnh báo, chấn chỉnh kịp thời về an toàn thực phẩm. Thường xuyên giám sát, kiểm tra tồn dư hóa chất độc hại đối với nông sản thực phẩm trong các khâu nuôi trồng, sơ chế, chế biến, bảo quản và kinh doanh nông sản thực phẩm tại các chợ đầu mối; kiểm soát chặt chẽ về điều kiện vệ sinh thú y, thủy sản đối với hoạt động giết mổ, vận chuyển, kinh doanh sản phẩm động vật và thủy hải sản trên thị trường, xử lý nghiêm các hành vi vi phạm pháp luật.\n\n\\- Tổ chức tiếp nhận, xử lý thông tin kịp thời về tình hình dịch bệnh và các phản ánh về mất an toàn thực phẩm thuộc lĩnh vực phụ trách và phối hợp với cơ quan chức năng các tỉnh, thành phố trong công tác phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và bảo đảm chất lượng, an toàn thực phẩm nông, lâm, thủy sản.\n\n\\- Tổng hợp tình hình, kết quả thực hiện của các Sở, ngành, đơn vị, UBND các quận, huyện, thị xã; những khó khăn vướng mắc trong chỉ đạo, thực hiện, báo cáo UBND Thành phố, Bộ Nông nghiệp và Phát triển nông thôn đúng quy định.\n\n**3\\. Các Sở, ban, ngành, đoàn thể**\n\nCăn cứ vào chức năng nhiệm vụ được giao chủ động chỉ đạo, kiểm tra, đôn đốc công tác phát triển chăn nuôi, nuôi trồng và bảo vệ nguồn lợi thủy sản; phòng chống dịch bệnh gia súc, gia cầm, thủy sản và bảo đảm an toàn thực phẩm nông, lâm, thủy sản. Tổ chức thông tin, tuyên truyền, hướng dẫn các biện pháp phòng, chống dịch bệnh gia súc, gia cầm, thủy sản và bảo đảm an toàn thực phẩm trong nhân dân.\n\nChủ tịch UBND Thành phố yêu cầu Chủ tịch UBND các quận, huyện, thị xã, Giám đốc các Sở, Thủ trưởng các cơ quan, đơn vị liên quan quán triệt, thực hiện nghiêm Chỉ thị này, thường xuyên báo cáo kết quả và những vấn đề phát sinh về UBND Thành phố (qua Sở Nông nghiệp và Phát triển nông thôn) để kịp thời chỉ đạo. Giao Giám đốc Sở Nông nghiệp và Phát triển nông thôn kiểm tra, hướng dẫn, đôn đốc và tổng hợp tình hình, kết quả thực hiện; những khó khăn, vướng mắc, tham mưu giải quyết, báo cáo UBND Thành phố./.\n\n**_Nơi nhận:_**  \n\\- Bộ Nông nghiệp và PTNT,  \n\\- Bí thư Thành ủy,  \n\\- TT HĐND Thành phố,  \n\\- Đoàn ĐBQH TP Hà Nội,  \n\\- Chủ tịch UBND Thành phố (để báo cáo);  \n\\- Các PCT UBND Thành phố;  \n\\- Các Sở, ngành;  \n\\- Thành viên BCĐ công tác ATTP TP;  \n\\- UBND: quận, huyện, thị xã;  \n\\- CVP, các PCVP, các phòng CV, TH, TKBT;  \n\\- Lưu VT, KTGiang.\n\n**T.M ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH  \n  \n  \n  \n  \nNguyễn Văn Sửu**",
+  "status": "Hết hiệu lực: 02/05/2013",
+  "htmlContent": "\n\n<table class=\"MsoNormalTable\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 500px;\">\n <tbody><tr style=\"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:19.05pt\">\n  <td width=\"240\" valign=\"top\" style=\"width:180.3pt;padding:0in 5.4pt 0in 5.4pt;\n  height:19.05pt\">\n  <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>ỦY\n  BAN NHÂN DÂN<br>\n  THÀNH PHỐ HÀ NỘI <br>\n  ---------</b></p>\n  </td>\n  <td width=\"343\" valign=\"top\" style=\"width:257.6pt;padding:0in 5.4pt 0in 5.4pt;\n  height:19.05pt\">\n  <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập – Tự do – Hạnh phúc <br>\n  ------------------- </b></p>\n  </td>\n </tr>\n <tr style=\"mso-yfti-irow:1;mso-yfti-lastrow:yes;height:8.25pt\">\n  <td width=\"240\" valign=\"top\" style=\"width:180.3pt;padding:0in 5.4pt 0in 5.4pt;\n  height:8.25pt\">\n  <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">Số:\n  02/CT-UBND </p>\n  </td>\n  <td width=\"343\" valign=\"top\" style=\"width:257.6pt;padding:0in 5.4pt 0in 5.4pt;\n  height:8.25pt\">\n  <p class=\"MsoNormal\" align=\"right\" style=\"margin-bottom:6.0pt;text-align:right\"><i>Hà\n  Nội, ngày 25 tháng 01 năm 2010</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;mso-bidi-font-size:10.0pt\">CHỈ THỊ </span></b><b style=\"mso-bidi-font-weight:normal\"><span style=\"font-size:12.0pt;mso-bidi-font-size:\n10.0pt\"><o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\">VỀ\nVIỆC TĂNG CƯỜNG QUẢN LÝ HOẠT ĐỘNG HÀNH NGHỀ Y DƯỢC TƯ NHÂN </p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Thực hiện đường lối đổi mới của\nĐảng và Nhà nước, trong những năm qua nền kinh tế nhiều thành phần hoạt động\ntheo cơ chế thị trường có sự quản lý của Nhà nước đã và đang phát triển trong\nđó có hoạt động hành nghề Y Dược tư nhân, số lượng cơ sở hành nghề y dược tư\nnhân (HNYDTN) phát triển nhanh chóng, loại hình hành nghề đa dạng tạo thành một\nmạng lưới y tế rộng khắp, góp phần cải thiện và tạo thêm điều kiện thuận lợi\ncho công tác khám chữa bệnh của các tầng lớp nhân dân Thủ đô;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Các cơ sở hành nghề y dược tư\nnhân đã góp phần tạo ra một bước tiến quan trọng trong việc huy động nguồn cung\ncấp tài chính và cung cấp dịch vụ khám chữa bệnh cho nhân dân. Nhờ có thêm cơ\nsở hành nghề y dược tư nhân khả năng tiếp cận cơ sở y tế của nhân dân được tăng\nlên. Hành nghề y dược tư nhân góp phần khám chữa bệnh thông thường cho nhân dân\nvới một số lượng khá lớn, chia sẻ bớt gánh nặng quá tải trong các cơ sở nhà\nnước;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Tuy nhiên, bên cạnh những đóng\ngóp có tính chất tích cực nói trên cũng còn nhiều cơ sở hành nghề Y Dược tư\nnhân hoạt động phát sinh nhiều tồn tại, tiêu cực cần được nhanh chóng khắc phục\nnhư: Hành nghề không có giấy phép, hành nghề quá phạm vi cho phép, lạm dụng kỹ\nthuật cao, lạm dụng xét nghiệm gây tốn tiền của người bệnh, quảng cáo quá khả\nnăng chuyên môn thực có. Nhiều cơ sở hoạt động chủ yếu là nhằm chạy theo lợi\nnhuận, kinh doanh buôn bán để kiếm lời;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Tình trạng trên đây đã gây ra\nnhiều tác hại nghiêm trọng, trước mắt và lâu dài đối với người bệnh, làm ảnh\nhưởng không tốt đến sức khỏe và tính mạng của nhân dân;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Để thực hiện nghiêm túc Luật\nDược, Pháp lệnh hành nghề y dược tư nhân, Nghị định của Chính phủ và các văn\nbản hướng dẫn thực hiện Luật Dược, Pháp lệnh hành nghề y dược tư nhân, nhằm\nphát huy những kết quả tích cực và kịp thời chấn chỉnh những tồn tại, UBND\nThành phố Hà Nội chỉ thị các cấp, các ngành có liên quan tiến hành một số công\nviệc sau đây:</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">1. Sở Y tế tổ chức cấp Giấy\nchứng nhận đủ điều kiện kinh doanh thuốc, Giấy chứng nhận đủ điều kiện hành\nnghề Y, Y học cổ truyền tư nhân theo đúng quy định. Tổ chức thanh kiểm tra toàn\ndiện các cơ sở HNYDTN được Sở Kế hoạch và Đầu tư Hà Nội cấp giấy chứng nhận\nđăng ký kinh doanh, phúc tra các cơ sở HNYDTN trên địa bàn thành phố.</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">2. UBND các quận, huyện, thị xã\ntổ chức kiểm tra toàn diện các cơ sở HNYDTN được UBND quận, huyện, thị xã cấp\ngiấy chứng nhận đăng ký kinh doanh. Chỉ đạo các UBND xã, phường, thị trấn tổ\nchức thực hiện quản lý tốt hoạt động hành nghề Y dược tư nhân trên địa bàn, tập\ntrung vào một số nội dung sau: </p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">- Phát hiện kịp thời, giải quyết\ndứt điểm các cơ sở hành nghề không phép. </p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">- Nội dung kiểm tra đối với các\ncơ sở HNYDTN đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc, Giấy\nchứng nhận đủ điều kiện hành nghề Y, Y học cổ truyền tư nhân:</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Địa điểm hành nghề;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Thời hạn của giấy chứng nhận\nđủ tiêu chuẩn hành nghề y dược tư nhân;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Tư cách pháp nhân của những\nngười đang hành nghề tại thời điểm tiến hành kiểm tra;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Hồ sơ nhân viên;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Phạm vi hành nghề;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Việc thực hiện những quy định\ncủa Bộ Y tế cơ sở vật chất, trang thiết bị, niêm yết công khai giá khám chữa\nbệnh, giá dịch vụ y tế, giá bán thuốc, giờ làm việc; chế độ vệ sinh khu vực\nhành nghề, vệ sinh môi trường; đeo biển hiệu, quần áo công tác; ghi chép sổ\nsách;</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">+ Việc thực hiện quy chế chuyên\nmôn, phòng chống nhiễm khuẩn, phòng chống sốc phản vệ, xử lý rác thải y tế. </p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">3. Công an thành phố phối hợp\nchặt chẽ với Sở Y tế, Chi cục Quản lý thị trường triệt phá và xử lý theo pháp\nluật các ổ nhóm buôn bán, sản xuất thuốc giả, ma túy và các loại thuốc kích\nthích sinh lý.</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">4. Cục Hải quan thành phố phối\nhợp với Công an, Sở Y tế thành phố có kế hoạch chặt chẽ, kiểm soát nguồn thuốc\nchữa bệnh nhập vào thành phố theo đường nhập khẩu phi mậu dịch.</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">5. Sở Thông tin và Truyền thông,\nĐài phát thanh và truyền hình Hà Nội có trách nhiệm tuyên truyền sâu rộng trong\ncác tầng lớp nhân dân, các đơn vị trong ngành y tế để mọi người và các đơn vị\nhiểu rõ Luật Dược, Pháp lệnh hành nghề y dược tư nhân và các văn bản quy phạm\npháp luật hướng dẫn thi hành để các đơn vị và mọi người tự giác thực hiện.</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Chỉ thị này có hiệu lực thi hành\nkể từ ngày ký, thay thế Chỉ thị số 70/CT-UB ngày 24/12/1994 của UBND thành phố\nHà Nội về việc tăng cường Quản lý HNYDTN.</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">Giám đốc các Sở ban ngành, Chủ\ntịch UBND các quận, huyện, thị xã và các tổ chức, cá nhân liên quan chịu trách\nnhiệm thi hành Chỉ thị này.</p>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table class=\"MsoNormalTable\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"width: 500px;\">\n <tbody><tr style=\"mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes\">\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\"><b><i>&nbsp;</i></b></p>\n  <p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\"><b><i>Nơi nhận: <br>\n  </i></b><span style=\"font-size:8.0pt\">- Bộ Y tế;<br>\n  - Thường trực Thành ủy, HĐND TP;<br>\n  - Đ/c Chủ tịch UBND TP;<br>\n  - Các đ/c Phó Chủ tịch UBND TP;<br>\n  - Các sở, ban, ngành, đoàn thể TP;<br>\n  - UBND các quận, huyện, thị xã;<br>\n  - Đ/c CVP; đ/c PVP (Đ.Đ.Hồng);<br>\n  - Các phòng chuyên viên VP UBND TP;<br>\n  - Lưu VT, LĐCSXH.</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>TM.\n  ỦY BAN NHÂN DÂN<br>\n  KT. CHỦ TỊCH <br>\n  PHÓ CHỦ TỊCH &nbsp;<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Đào Văn Bình &nbsp;&nbsp;</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p class=\"MsoNormal\" style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n",
+  "mdContent": "**ỦY BAN NHÂN DÂN  \nTHÀNH PHỐ HÀ NỘI  \n\\---------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập – Tự do – Hạnh phúc  \n\\-------------------**\n\nSố: 02/CT-UBND\n\n_Hà Nội, ngày 25 tháng 01 năm 2010_\n\n**CHỈ THỊ**\n\nVỀ VIỆC TĂNG CƯỜNG QUẢN LÝ HOẠT ĐỘNG HÀNH NGHỀ Y DƯỢC TƯ NHÂN\n\nThực hiện đường lối đổi mới của Đảng và Nhà nước, trong những năm qua nền kinh tế nhiều thành phần hoạt động theo cơ chế thị trường có sự quản lý của Nhà nước đã và đang phát triển trong đó có hoạt động hành nghề Y Dược tư nhân, số lượng cơ sở hành nghề y dược tư nhân (HNYDTN) phát triển nhanh chóng, loại hình hành nghề đa dạng tạo thành một mạng lưới y tế rộng khắp, góp phần cải thiện và tạo thêm điều kiện thuận lợi cho công tác khám chữa bệnh của các tầng lớp nhân dân Thủ đô;\n\nCác cơ sở hành nghề y dược tư nhân đã góp phần tạo ra một bước tiến quan trọng trong việc huy động nguồn cung cấp tài chính và cung cấp dịch vụ khám chữa bệnh cho nhân dân. Nhờ có thêm cơ sở hành nghề y dược tư nhân khả năng tiếp cận cơ sở y tế của nhân dân được tăng lên. Hành nghề y dược tư nhân góp phần khám chữa bệnh thông thường cho nhân dân với một số lượng khá lớn, chia sẻ bớt gánh nặng quá tải trong các cơ sở nhà nước;\n\nTuy nhiên, bên cạnh những đóng góp có tính chất tích cực nói trên cũng còn nhiều cơ sở hành nghề Y Dược tư nhân hoạt động phát sinh nhiều tồn tại, tiêu cực cần được nhanh chóng khắc phục như: Hành nghề không có giấy phép, hành nghề quá phạm vi cho phép, lạm dụng kỹ thuật cao, lạm dụng xét nghiệm gây tốn tiền của người bệnh, quảng cáo quá khả năng chuyên môn thực có. Nhiều cơ sở hoạt động chủ yếu là nhằm chạy theo lợi nhuận, kinh doanh buôn bán để kiếm lời;\n\nTình trạng trên đây đã gây ra nhiều tác hại nghiêm trọng, trước mắt và lâu dài đối với người bệnh, làm ảnh hưởng không tốt đến sức khỏe và tính mạng của nhân dân;\n\nĐể thực hiện nghiêm túc Luật Dược, Pháp lệnh hành nghề y dược tư nhân, Nghị định của Chính phủ và các văn bản hướng dẫn thực hiện Luật Dược, Pháp lệnh hành nghề y dược tư nhân, nhằm phát huy những kết quả tích cực và kịp thời chấn chỉnh những tồn tại, UBND Thành phố Hà Nội chỉ thị các cấp, các ngành có liên quan tiến hành một số công việc sau đây:\n\n1\\. Sở Y tế tổ chức cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc, Giấy chứng nhận đủ điều kiện hành nghề Y, Y học cổ truyền tư nhân theo đúng quy định. Tổ chức thanh kiểm tra toàn diện các cơ sở HNYDTN được Sở Kế hoạch và Đầu tư Hà Nội cấp giấy chứng nhận đăng ký kinh doanh, phúc tra các cơ sở HNYDTN trên địa bàn thành phố.\n\n2\\. UBND các quận, huyện, thị xã tổ chức kiểm tra toàn diện các cơ sở HNYDTN được UBND quận, huyện, thị xã cấp giấy chứng nhận đăng ký kinh doanh. Chỉ đạo các UBND xã, phường, thị trấn tổ chức thực hiện quản lý tốt hoạt động hành nghề Y dược tư nhân trên địa bàn, tập trung vào một số nội dung sau:\n\n\\- Phát hiện kịp thời, giải quyết dứt điểm các cơ sở hành nghề không phép.\n\n\\- Nội dung kiểm tra đối với các cơ sở HNYDTN đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh thuốc, Giấy chứng nhận đủ điều kiện hành nghề Y, Y học cổ truyền tư nhân:\n\n\\+ Địa điểm hành nghề;\n\n\\+ Thời hạn của giấy chứng nhận đủ tiêu chuẩn hành nghề y dược tư nhân;\n\n\\+ Tư cách pháp nhân của những người đang hành nghề tại thời điểm tiến hành kiểm tra;\n\n\\+ Hồ sơ nhân viên;\n\n\\+ Phạm vi hành nghề;\n\n\\+ Việc thực hiện những quy định của Bộ Y tế cơ sở vật chất, trang thiết bị, niêm yết công khai giá khám chữa bệnh, giá dịch vụ y tế, giá bán thuốc, giờ làm việc; chế độ vệ sinh khu vực hành nghề, vệ sinh môi trường; đeo biển hiệu, quần áo công tác; ghi chép sổ sách;\n\n\\+ Việc thực hiện quy chế chuyên môn, phòng chống nhiễm khuẩn, phòng chống sốc phản vệ, xử lý rác thải y tế.\n\n3\\. Công an thành phố phối hợp chặt chẽ với Sở Y tế, Chi cục Quản lý thị trường triệt phá và xử lý theo pháp luật các ổ nhóm buôn bán, sản xuất thuốc giả, ma túy và các loại thuốc kích thích sinh lý.\n\n4\\. Cục Hải quan thành phố phối hợp với Công an, Sở Y tế thành phố có kế hoạch chặt chẽ, kiểm soát nguồn thuốc chữa bệnh nhập vào thành phố theo đường nhập khẩu phi mậu dịch.\n\n5\\. Sở Thông tin và Truyền thông, Đài phát thanh và truyền hình Hà Nội có trách nhiệm tuyên truyền sâu rộng trong các tầng lớp nhân dân, các đơn vị trong ngành y tế để mọi người và các đơn vị hiểu rõ Luật Dược, Pháp lệnh hành nghề y dược tư nhân và các văn bản quy phạm pháp luật hướng dẫn thi hành để các đơn vị và mọi người tự giác thực hiện.\n\nChỉ thị này có hiệu lực thi hành kể từ ngày ký, thay thế Chỉ thị số 70/CT-UB ngày 24/12/1994 của UBND thành phố Hà Nội về việc tăng cường Quản lý HNYDTN.\n\nGiám đốc các Sở ban ngành, Chủ tịch UBND các quận, huyện, thị xã và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Chỉ thị này.\n\n**_Nơi nhận:  \n_**\\- Bộ Y tế;  \n\\- Thường trực Thành ủy, HĐND TP;  \n\\- Đ/c Chủ tịch UBND TP;  \n\\- Các đ/c Phó Chủ tịch UBND TP;  \n\\- Các sở, ban, ngành, đoàn thể TP;  \n\\- UBND các quận, huyện, thị xã;  \n\\- Đ/c CVP; đ/c PVP (Đ.Đ.Hồng);  \n\\- Các phòng chuyên viên VP UBND TP;  \n\\- Lưu VT, LĐCSXH.\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH    \n  \n  \n  \n  \nĐào Văn Bình**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
