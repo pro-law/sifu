@@ -1,0 +1,813 @@
+{
+  "title": "Công văn 7213/VPCP-V.III năm 2016 giải quyết một số kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Nghị quyết 35/NQ-CP năm 2016 về hỗ trợ và phát triển doanh nghiệp đến năm 2020 do Chính phủ ban hành",
+      "id": "35/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-05-16",
+      "effectiveDate": "2016-05-16",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 21/04/2023"
+    },
+    {
+      "title": "Nghị quyết 19/2016/NQ-CP về nhiệm vụ, giải pháp chủ yếu cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia hai năm 2016-2017, định hướng đến năm 2020 do Chính phủ ban hành",
+      "id": "19/2016/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Thương mại"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-04-28",
+      "effectiveDate": "2016-04-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật phí và lệ phí 2015",
+      "id": "97/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-11-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-12-30",
+      "gazetteNumber": "Từ số 1261 đến số 1262",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 89/2015/NĐ-CP sửa đổi Nghị định 67/2014/NĐ-CP về một số chính sách phát triển thủy sản",
+      "id": "89/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-10-07",
+      "effectiveDate": "2015-11-25",
+      "gazetteDate": "2015-10-20",
+      "gazetteNumber": "Từ số 1055 đến số 1056",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1528/QĐ-TTg năm 2015 về cơ chế, chính sách đặc thù phát triển thành phố Đà Lạt, tỉnh Lâm Đồng do Thủ tướng Chính phủ ban hành",
+      "id": "1528/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Giao thông - Vận tải",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-03",
+      "effectiveDate": "2015-09-03",
+      "gazetteDate": "2015-09-16",
+      "gazetteNumber": "Từ số 983 đến số 984",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật ngân sách nhà nước 2015",
+      "id": "83/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2017-01-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 873 đến số 874",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật tổ chức chính quyền địa phương 2015",
+      "id": "77/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-19",
+      "effectiveDate": "2016-01-01",
+      "gazetteDate": "2015-07-26",
+      "gazetteNumber": "Từ số 863 đến số 864",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 59/2015/NĐ-CP về quản lý dự án đầu tư xây dựng",
+      "id": "59/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-06-18",
+      "effectiveDate": "2015-08-05",
+      "gazetteDate": "2015-06-30",
+      "gazetteNumber": "Từ số 641 đến số 642",
+      "status": "Hết hiệu lực: 03/03/2021"
+    },
+    {
+      "title": "Nghị định 44/2015/NĐ-CP Quy định chi tiết một số nội dung về quy hoạch xây dựng",
+      "id": "44/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-05-06",
+      "effectiveDate": "2015-06-30",
+      "gazetteDate": "2015-05-22",
+      "gazetteNumber": "Từ số 559 đến số 560",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 84/QĐ-TTg năm 2015 phê duyệt điều chỉnh Đề án ổn định dân cư, phát triển kinh tế - xã hội vùng chuyển dân sông Đà, tỉnh Hòa Bình giai đoạn 2009 - 2015 do Thủ tướng Chính phủ ban hành",
+      "id": "84/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Đầu tư",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Hoàng Trung Hải"
+      ],
+      "issuedDate": "2015-01-19",
+      "effectiveDate": "2015-01-19",
+      "gazetteDate": "2015-01-31",
+      "gazetteNumber": "Từ số 175 đến số 176",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2261/QĐ-TTg năm 2014 phê duyệt Chương trình hỗ trợ phát triển hợp tác xã giai đoạn 2015-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "2261/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Hoàng Trung Hải"
+      ],
+      "issuedDate": "2014-12-15",
+      "effectiveDate": "2014-12-15",
+      "gazetteDate": "2014-12-29",
+      "gazetteNumber": "Từ số 1165 đến số 1166",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Luật Đầu tư 2014",
+      "id": "67/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1173 đến số 1174",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Luật Doanh nghiệp 2014",
+      "id": "68/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-11-26",
+      "effectiveDate": "2015-07-01",
+      "gazetteDate": "2014-12-30",
+      "gazetteNumber": "Từ số 1175 đến số 1176",
+      "status": "Hết hiệu lực: 01/01/2021"
+    },
+    {
+      "title": "Nghị định 102/2014/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực đất đai",
+      "id": "102/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Vi phạm hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-11-10",
+      "effectiveDate": "2014-12-25",
+      "gazetteDate": "2014-11-26",
+      "gazetteNumber": "Từ số 1001 đến số 1002",
+      "status": "Hết hiệu lực: 05/01/2020"
+    },
+    {
+      "title": "Nghị định 67/2014/NĐ-CP về chính sách phát triển thủy sản",
+      "id": "67/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-07-07",
+      "effectiveDate": "2014-08-25",
+      "gazetteDate": "2014-07-24",
+      "gazetteNumber": "Từ số 707 đến số 708",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật bảo vệ môi trường 2014",
+      "id": "55/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-23",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 683 đến số 684",
+      "status": "Hết hiệu lực: 01/01/2022"
+    },
+    {
+      "title": "Luật Đầu tư công 2014",
+      "id": "49/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Đầu tư",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-18",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-17",
+      "gazetteNumber": "Từ số 687 đến số 688",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Luật Xây dựng 2014",
+      "id": "50/2014/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2014-06-18",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2014-07-16",
+      "gazetteNumber": "Từ số 679 đến số 680",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 45/2014/NĐ-CP về thu tiền sử dụng đất",
+      "id": "45/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-05-15",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2014-06-23",
+      "gazetteNumber": "Từ số 611 đến số 612",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 05/2014/TT-BTP hướng dẫn công bố, niêm yết thủ tục hành chính và báo cáo về tình hình, kết quả thực hiện kiểm soát thủ tục hành chính do Bộ trưởng Bộ Tư pháp ban hành",
+      "id": "05/2014/TT-BTP",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Tư pháp",
+      "signers": [
+        "Hà Hùng Cường"
+      ],
+      "issuedDate": "2014-02-07",
+      "effectiveDate": "2014-03-24",
+      "gazetteDate": "2014-02-27",
+      "gazetteNumber": "Từ số 229 đến số 230",
+      "status": "Hết hiệu lực: 20/03/2018"
+    },
+    {
+      "title": "Nghị định 210/2013/NĐ-CP về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn",
+      "id": "210/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-12-19",
+      "effectiveDate": "2014-02-10",
+      "gazetteDate": "2014-01-02",
+      "gazetteNumber": "Từ số 5 đến số 6",
+      "status": "Hết hiệu lực: 17/04/2018"
+    },
+    {
+      "title": "Nghị định 209/2013/NĐ-CP hướng dẫn Luật thuế giá trị gia tăng",
+      "id": "209/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Thuế - Phí - Lệ Phí"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-12-18",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2014-01-01",
+      "gazetteNumber": "Từ số 3 đến số 4",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật đất đai 2013",
+      "id": "45/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-29",
+      "effectiveDate": "2014-07-01",
+      "gazetteDate": "2013-12-31",
+      "gazetteNumber": "Từ số 1011 đến số 1012",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 203/2013/NĐ-CP quy định về phương pháp tính, mức thu tiền cấp quyền khai thác khoáng sản",
+      "id": "203/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thuế - Phí - Lệ Phí",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-28",
+      "effectiveDate": "2014-01-20",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/09/2019"
+    },
+    {
+      "title": "Hiến pháp 2013",
+      "id": "Khongso",
+      "legislationType": "Hiến pháp",
+      "categories": [
+        "Bộ máy hành chính",
+        "Quyền dân sự"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-28",
+      "effectiveDate": "2014-01-01",
+      "gazetteDate": "2013-12-29",
+      "gazetteNumber": "Từ số 1003 đến số 1004",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 179/2013/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ môi trường",
+      "id": "179/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-11-14",
+      "effectiveDate": "2013-12-30",
+      "gazetteDate": "2013-12-04",
+      "gazetteNumber": "Từ số 857 đến số 858",
+      "status": "Hết hiệu lực: 01/02/2017"
+    },
+    {
+      "title": "Nghị định 142/2013/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực tài nguyên nước và khoáng sản",
+      "id": "142/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-10-24",
+      "effectiveDate": "2013-12-15",
+      "gazetteDate": "2013-11-10",
+      "gazetteNumber": "Từ số 775 đến số 776",
+      "status": "Hết hiệu lực: 20/05/2017"
+    },
+    {
+      "title": "Nghị định 138/2013/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực giáo dục",
+      "id": "138/2013/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Vi phạm hành chính",
+        "Giáo dục"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-10-22",
+      "effectiveDate": "2013-12-10",
+      "gazetteDate": "2013-11-03",
+      "gazetteNumber": "Từ số 719 đến số 720",
+      "status": "Hết hiệu lực: 10/03/2021"
+    },
+    {
+      "title": "Quyết định 22/2013/QĐ-TTg hỗ trợ người có công với cách mạng về nhà ở do Thủ tướng Chính phủ ban hành",
+      "id": "22/2013/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bất động sản",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2013-04-26",
+      "effectiveDate": "2013-06-15",
+      "gazetteDate": "2013-05-11",
+      "gazetteNumber": "Từ số 255 đến số 256",
+      "status": "Hết hiệu lực: 21/12/2023"
+    },
+    {
+      "title": "Luật hợp tác xã 2012",
+      "id": "23/2012/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Doanh nghiệp"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2012-11-20",
+      "effectiveDate": "2013-07-01",
+      "gazetteDate": "2012-12-24",
+      "gazetteNumber": "Từ số 765 đến số 766",
+      "status": "Còn hiệu lực đến: 30/06/2024"
+    },
+    {
+      "title": "Luật thanh tra 2010",
+      "id": "56/2010/QH12",
+      "legislationType": "Luật",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2010-11-15",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "2011-04-01",
+      "gazetteNumber": "Từ số 165 đến số 166",
+      "status": "Hết hiệu lực: 01/07/2023"
+    },
+    {
+      "title": "Nghị định 63/2010/NĐ-CP về kiểm soát thủ tục hành chính",
+      "id": "63/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-06-08",
+      "effectiveDate": "2010-10-14",
+      "gazetteDate": "2010-06-23",
+      "gazetteNumber": "Từ số 367 đến số 368",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "id": "64/2007/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Công nghệ thông tin",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2007-04-10",
+      "effectiveDate": "2007-05-18",
+      "gazetteDate": "2007-05-03",
+      "gazetteNumber": "Từ số 290 đến số 291",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Công nghệ thông tin 2006",
+      "id": "67/2006/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Công nghệ thông tin"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Phú Trọng"
+      ],
+      "issuedDate": "2006-06-29",
+      "effectiveDate": "2007-01-01",
+      "gazetteDate": "2006-11-07",
+      "gazetteNumber": "Từ số 7 đến số 8",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 64/2003/QĐ-TTg phê duyệt \"Kế hoạch xử lý triệt để các cơ sở gây ô nhiễm môi trường nghiêm trọng\" do Thủ tướng Chính phủ ban hành",
+      "id": "64/2003/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Tài nguyên - Môi trường"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2003-04-22",
+      "effectiveDate": "2003-06-01",
+      "gazetteDate": "2003-05-17",
+      "gazetteNumber": "Số 39",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "influentialDocuments": [],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công văn 5620/VPCP-QHĐP năm 2020 xử lý kiến nghị của các địa phương lĩnh vực tài nguyên môi trường do Văn phòng Chính phủ ban hành",
+      "id": "5620/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bất động sản",
+        "Tài nguyên - Môi trường",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2020-07-10",
+      "effectiveDate": "2020-07-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1575/VPCP-QHĐP năm 2018 về giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "1575/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2018-02-13",
+      "effectiveDate": "2018-02-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1591/VPCP-QHĐP năm 2018 về giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "1591/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2018-02-13",
+      "effectiveDate": "2018-02-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 9762/BKHĐT-KTĐPLT về trả lời kiến nghị của địa phương tại hội nghị trực tuyến của Chính phủ ngày 03 tháng 7 năm 2017 do Bộ Kế hoạch và Đầu tư ban hành",
+      "id": "9762/BKHĐT-KTĐPLT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư",
+      "signers": [
+        "Nguyễn Thế Phương"
+      ],
+      "issuedDate": "2017-11-28",
+      "effectiveDate": "2017-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 7796/VPCP-QHĐP năm 2017 về giải quyết kiến nghị của địa phương do Văn phòng Chính phủ ban hành",
+      "id": "7796/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Mai Tiến Dũng"
+      ],
+      "issuedDate": "2017-07-26",
+      "effectiveDate": "2017-07-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 883/VPCP-QHĐP năm 2017 giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "883/VPCP-QHĐP",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2017-02-03",
+      "effectiveDate": "2017-02-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 724/VPCP-VIII năm 2016 giải quyết kiến nghị của các địa phương do Văn phòng Chính phủ ban hành",
+      "id": "724/VPCP-VIII",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thương mại",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2016-01-29",
+      "effectiveDate": "2016-01-29",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3519/VPCP-V.III năm 2015 về giải quyết một số kiến nghị của Ủy ban nhân dân Thành phố Hồ Chí Minh do Văn phòng Chính phủ ban hành",
+      "id": "3519/VPCP-V.III",
+      "legislationType": "Công văn",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Nguyễn Văn Tùng"
+      ],
+      "issuedDate": "2015-05-18",
+      "effectiveDate": "2015-05-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3509/VPCP-KTN tổng hợp kiến nghị của các địa phương về việc bổ sung vào quy hoạch các dự án xi măng mới do Văn phòng Chính phủ ban hành",
+      "id": "3509/VPCP-KTN",
+      "legislationType": "Công văn",
+      "categories": [
+        "Doanh nghiệp",
+        "Đầu tư"
+      ],
+      "organization": "Văn phòng Chính phủ",
+      "signers": [
+        "Phạm Viết Muôn"
+      ],
+      "issuedDate": "2010-05-26",
+      "effectiveDate": "2010-05-26",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "7213/VPCP-V.III",
+  "legislationType": "Công văn",
+  "categories": [
+    "Bộ máy hành chính"
+  ],
+  "organization": "Văn phòng Chính phủ",
+  "signers": [
+    "Nguyễn Văn Tùng"
+  ],
+  "issuedDate": "2016-08-30",
+  "effectiveDate": "2016-08-30",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADAANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">VĂN\n  PHÒNG CHÍNH PHỦ<br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">Số: </span>7213<span lang=\"VI\">/VPCP-V.III<br>\n  </span><i><span lang=\"VI\" style=\"font-size:8.0pt\">V/v giải quyết một số kiến\n  nghị của các địa phương</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội</i><i><span lang=\"VI\">, ngày </span>30</i><i><span lang=\"VI\"> tháng </span>08</i><i><span lang=\"VI\"> năm 201</span>6</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADAANgA=-->\n <tbody><tr>\n  <td width=\"161\" valign=\"top\" style=\"width:120.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><b><span lang=\"VI\">Kính\n  gửi:</span></b></p>\n  </td>\n  <td width=\"430\" valign=\"top\" style=\"width:322.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các Bộ: Kế hoạch và Đầu tư, Tài\n  chính, Giao thông vận tải, Nông nghiệp và Phát triển nông thôn, Công Thương,\n  Tài nguyên và Môi trường, Xây dựng, Y tế, Ngoại giao, Văn hóa, Thể thao và Du\n  lịch, Nội vụ, Tư pháp, Khoa học và Công nghệ, Quốc phòng, Lao động, Thương\n  binh và Xã hội, Thông tin và Truyền thông, Giáo dục và Đào tạo;<br>\n  - Thanh tra Chính phủ;</span><br>\n  <span lang=\"VI\">- Ngân hàng Nhà nước Việt Nam;<br>\n  - <span style=\"background:white\">Ủy ban</span> Dân tộc;<br>\n  - <span style=\"background:white\">Ủy ban</span> nhân dân các tỉnh, thành phố\n  tr</span>ự<span lang=\"VI\">c thuộc Trung ương.</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p style=\"margin-top:6.0pt\">V<span lang=\"VI\">ề một số kiến nghị của <span style=\"background:white\">Ủy ban</span> nhân dân các tỉnh, thành phố trực thuộc\nTrung ương tại Hội nghị trực tuyến của Chính phủ <span style=\"background:white\">với</span>\ncác địa phương vào ngày 30 tháng 6 và ngày 01 tháng 7 năm 2016 về tình hình\nkinh tế - xã hội 6 tháng đ</span>ầ<span lang=\"VI\">u năm 2016, giải pháp thực hiện\ntrong 6 tháng cuối năm 2016, Thủ tướng Chính phủ giao các Bộ, cơ quan: Kế hoạch\nvà Đầu tư, Tài chính, Giao thông vận tải, Nông nghiệp và Phát triển nông thôn,\nCông Thương, Tài nguyên và Môi trường, Xây dựng, Y tế, Ngoại giao, Văn hóa, Thể\nthao và Du lịch, Nội vụ, Tư pháp, Khoa học và Công nghệ, Quốc phòng, Lao động,\nThương binh và Xã hội, Thông tin và Truyền thông, Giáo dục và Đào tạo, Thanh\ntra Chính phủ, Ngân hàng Nhà nước Việt Nam và <span style=\"background:white\">Ủy\nban</span> Dân tộc căn cứ chức năng, nhiệm vụ được giao và quy định hiện hành\nnghiên cứu, xem xét, xử <span style=\"background:white\">lý</span> các kiến nghị\n(xin gửi kèm theo) và trả l</span>ờ<span lang=\"VI\">i để địa phương biết; trường hợp\nvượt thẩm quyền, báo cáo Thủ tướng Chính phủ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Văn phòng Chính phủ thông báo để các\nBộ, cơ quan biết, thực hiện./.</span></p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMQAwADAANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b></span><span lang=\"VI\" style=\"font-size:8.0pt\">- Như trên;<br>\n  - Thủ tướng, các Phó Thủ tướng CP;<br>\n  - VPCP: BTCN, các PCN, Trợ lý TTgCP, TGĐ Cổng TTĐT, các Vụ: TH, KTTH, KTN,\n  KGVX, ĐMDN, TCCV, NC, TKBT, QHQT;<br>\n  - Lưu: VT, </span><span style=\"font-size:8.0pt\">V</span><span lang=\"VI\" style=\"font-size:8.0pt\">.</span><span style=\"font-size:8.0pt\">III</span><span lang=\"VI\" style=\"font-size:8.0pt\"> (3b).Phg</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">KT.\n  BỘ TRƯỞNG, CHỦ NHIỆM</span><br>\n  PHÓ CHỦ NHIỆM<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Tùng</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:12.0pt\">TỔNG HỢP KIẾN NGHỊ CỦA ĐỊA PHƯƠNG </span></b></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">TẠI HỘI NGHỊ TRỰC TUYẾN\nCỦA CHÍNH PHỦ VÀ CÁC ĐỊA PHƯƠNG NGÀY 30 THÁNG 6 VÀ NGÀY 01 THÁNG 7 NĂM 2016<span lang=\"VI\"><br>\n</span><i>(Kèm theo Công </i><i><span lang=\"VI\" style=\"background:white\">văn</span></i><i><span lang=\"VI\"> s</span>ố 7213</i><i><span lang=\"VI\">/VPCP-V.III ngày 30 tháng 8 năm 20</span>1</i><i><span lang=\"VI\">6)</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark0\"><b><span lang=\"VI\">1. Bộ Kế hoạch\nvà Đầu tư:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Cơ chế, chính sách</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hoàn chỉnh trình ban hành Luật hỗ trợ\ndoanh nghiệp doanh nghiệp nhỏ và vừa; Luật Quy hoạch; ban hành các văn bản hướng\ndẫn thực hiện Luật đầu tư, Luật doanh nghiệp (Cần Thơ). Cho chủ trương tư nhân\nđược góp vốn với các nguồn vốn ODA để đầu tư một số dự án theo hình thức PPP,\nsau đó để cho tư nhân khai thác, vận hành, bảo dưỡng; Hướng dẫn thi hành Luật đ</span>ầ<span lang=\"VI\">u công; Quy chế phối hợp giữa cơ quan thống kê và cơ quan hành chính\nnhà nước về số liệu kinh tế - xã hội (Hòa Bình). Được thí điểm tạm th</span>ờ<span lang=\"VI\">i sử dụng “tài </span>k<span lang=\"VI\">hoản đăng nhập” thay cho “tài </span>khoản<span lang=\"VI\"> đăng ký kinh doanh”; gộp thủ tục công bố thông tin <span style=\"background:white\">đăng ký</span> kinh doanh và đăng ký thành lập mới hoặc\nđăng ký thay đổi thành 1 thủ tục hoặc cho phép doanh nghiệp nộp theo hình thức\nqua mạng; khi trình phê duyệt chủ trương đầu tư dự án đầu tư công chưa phải lập\nbáo cáo đánh giá tác động môi trường như quy định tại Luật Bảo vệ môi trường (nội\ndung này sẽ được thực hiện trong bước phê duyệt dự án). Hướng dẫn về việc điều\nchỉnh <span style=\"background:white\">bổ sung</span> chủ trương đầu tư đối với\ncác dự án đầu tư công khi cần thiết; phân cấp cho HĐND TP Hà Nội phê duyệt chủ trương\nđầu tư <span style=\"background:white\">đối với</span> các dự án nhóm A sử dụng vốn\nđầu tư công do địa phương quản lý; cho phép lựa chọn các nhà đầu tư đối với các\ndự án PPP trọng điểm và các dự án quan trọng khác của thành phố theo cơ chế đặc\nthù; cho phép thực hiện giải ngân các dự án ODA theo thực tế và tiến độ cấp vốn\ntheo cam kết của nhà tài trợ; ủy quyền cho <span style=\"background:white\">UBND</span>\nthành phố Hà Nội phê duyệt các dự án trọng điểm quốc gia do thành phố Hà Nội\nlàm chủ quản đầu tư sau khi có kết quả thẩm định của Hội đồng thẩm định quốc\ngia (Hà Nội). Ban hành cơ chế đặc thù hỗ trợ đẩy mạnh đầu tư xây dựng phát triển\ncơ <span style=\"background:white\">sở</span> hạ tầng công nghiệp, thương mại, chế\nđộ ưu đãi đối với dự án sử dụng nhiều lao động (Đắk Lắk). Ban hành Nghị định <span style=\"background:white\">của</span> Chính phủ một số cơ chế đặc thù về đầu tư,\ntài chính, ngân sách và phân cấp quản lý; Quyết định về cơ chế </span>ưu <span lang=\"VI\">đãi đối với Khu công nghệ cao; ban hành cơ chế phối hợp, liên kết vùng\n(<span style=\"background:white\">Đà Nẵng</span>). Cơ chế đặc thù về vốn, hỗ trợ\ntỉnh nguồn vốn đẩy nhanh tiến độ công tác bồi thường, giải phóng mặt bằng để\ntái định cư cho các hộ dân thuộc diện phải di dời </span>ở <span lang=\"VI\">dự án\nsân bay Long Thành; phân bổ nguồn lực đầu tư phát triển hạ tầng, các công trình\nquan trọng trong vùng kinh tế trọng điểm (Đồng Nai). Ban hành các chính sách hỗ\ntrợ doanh nghiệp đẩy mạnh xuất khẩu, đặc biệt là hỗ trợ sản xuất nguyên liệu phục\nvụ xuất khẩu, đào tạo và tuyển dụng la</span>o <span lang=\"VI\">động; triển khai\nQuy chế thí điểm liên kết phát triển kinh tế - xã hội vùng ĐBSCL (Cần Thơ). Hướng\ndẫn cụ thể về trình tự, thủ tục, thời gian quyết định chủ trương đầu tư đối với\ncác dự án nằm trong khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ\ncao (Lào Cai). Sớm trình Quốc hội thông qua Luật <span style=\"background:white\">hỗ\ntrợ</span> doanh nghiệp vừa và nhỏ; nâng mức hỗ trợ, bố trí hàng năm để thực hiện\nchính sách theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 210/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx\">210/2013/NĐ-CP</a>  của Chính phủ (Nghệ An). Phê duyệt\nđầu tư 02 chương trình </span>m<span lang=\"VI\">ục tiêu quốc gia thực hiện giai đoạn\n2016</span> -<span lang=\"VI\"> 2020; <span style=\"background:white\">ủy</span> quyền\ncho <span style=\"background:white\">UBND</span> các tỉnh thẩm định nguồn vốn, khả\nnăng cân đối vốn các chương trình trong phạm vi số kiểm tra vốn đầu tư công nguồn\nngân sách nhà nước Bộ Kế hoạch và Đầu t</span>ư <span lang=\"VI\">đã thông báo (Sơn\nLa). Ban hành định mức phân bổ chi thường xuyên năm 2017; bổ sung kinh phí\ntrong 6 tháng cuối năm 2016 theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 22/2013/QĐ-TTG\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/quyet-dinh-22-2013-qd-ttg-ho-tro-nguoi-co-cong-voi-cach-mang-ve-nha-o-183824.aspx\">22/2013/QĐ-TTg</a>  ngày 26 tháng 4\nnăm 2013 của Thủ tướng Chính phủ (Đắk Lắk). Hướng dẫn thực hiện Quyết định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 2261/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-2261-qd-ttg-2014-phe-duyet-chuong-trinh-ho-tro-phat-trien-hop-tac-xa-2015-2020-260385.aspx\">2261/QĐ-TTg</a>  ngày 15 tháng 12 năm 2014 của Thủ tướng Chính phủ (Đồng Tháp). Ưu\ntiên <span style=\"background:white\">đầu tư</span> cơ <span style=\"background:\nwhite\">sở</span> hạ tầng nông thôn, nâng định mức hỗ trợ thu hút đầu tư vào\nlĩnh vực nông nghiệp nông thôn (An Giang).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Các công <span style=\"background:\nwhite\">trình</span> cụ thể</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bố trí vốn trái phiếu Chính phủ đầu\ntư đường Mỹ Phước - Tân Vạn kết nối với Quốc lộ 1, mở rộng đường ĐT 743 kết nối\nvới nút giao Sóng Thần - Quốc lộ 1; mở rộng Quốc lộ 13 kết nối thành phố Hồ Chí\nMinh và đầu tư các tuyến đường kết nối với đường Hồ Chí Minh và với tỉnh Bình\nPhước, các tỉnh Tây nguyên; tăng nguồn vốn đầu tư theo các chương trình </span>m<span lang=\"VI\">ục tiêu, bổ sung vốn </span>tr<span lang=\"VI\">ái phiếu Chính phủ và cân đối,\nđiều chỉnh lại các nguồn vốn đầu tư công trung hạn 2016 - 2020; cân đối bố trí\nnguồn vốn triển khai dự án tái định cư Đại học Quốc gia TP.HCM; ủy quyền <span style=\"background:white\">Ủy ban</span> nhân dân cấp tỉnh quyết định chủ trương\nđầu tư phát triển kết cấu hạ tầng khu công nghiệp đối với các khu công nghiệp\nđã được Thủ tướng Chính phủ phê duyệt (B</span>ì<span lang=\"VI\">nh Dương). Đưa Dự\nán Đầu tư mua sắm trang thiết bị y tế Bệnh viện Nhi đồng </span>C<span lang=\"VI\">ần\nThơ vào danh </span>m<span lang=\"VI\">ục các dự án ưu tiên tài trợ ODA của Chính\nphủ Hàn Quốc; tổ chức tập huấn thực thi Nghị quyết số 19-2016/NQ-CP và Nghị quyết\nsố <a class=\"text-blue\" target=\"_blank\" title=\"35/NQ-CP\" href=\"/phap-luat/tim-van-ban.aspx?keyword=35/NQ-CP&amp;match=True&amp;area=2&amp;lan=1\">35/NQ-CP</a>  năm 2016 của Chính phủ tại các địa phương (Cần Thơ). Bổ sung kinh\nphí hoặc cho ứng trước để thanh toán cho các công ty nước ngoài cung cấp hệ thống\nthiết bị của dự án Công <span style=\"background:white\">trình</span> Tổ hợp\nkhông gian khoa học, hỗ trợ kinh phí hoạt động thường xuyên và đầu tư cho Trung\ntâm khám phá khoa học trong giai đoạn đầu (Bình Định). Cân đối tăng nguồn vốn hỗ\ntrợ <span style=\"background:white\">trong</span> kế hoạch hàng năm cho các địa\nphương trong xây dựng nông thôn mới (Hải Dương). Điều chỉnh quy hoạch các khu\ncông nghiệp (Hà Nam). Giải quyết nguồn vốn vay ODA của Chính phủ Hàn Quốc cho Dự\nán Bệnh viện Đa khoa Hải Phòng trong năm 2016; vận động nguồn vốn ODA của Chính\nphủ Đức cho Dự án Bệnh viện Trẻ em Hải Phòng (Hải Phòng). Tăng nguồn ngân sách\nTrung ương cho địa phương để triển khai thực hiện các Chương trình </span>m<span lang=\"VI\">ục tiêu Quốc gia về bảo vệ môi trường, ứng phó với biến đổi khí hậu; hỗ\ntrợ ngân sách để tỉnh xử lý triệt để cơ sở gây ô nhiễm môi trường thuộc khu vực\ncông ích; hỗ trợ vốn Dự án đường nối đường cao tốc Nội Bài - Lào Cai đến thị trấn\nSa Pa; thẩm định Đề án mở rộng Khu kinh tế cửa khẩu Lào Cai (Lào Cai). Bố trí\nkinh phí thực hiện các dự án hạ tầng Nhà máy điện hạt nhân; ưu đ</span>ãi <span lang=\"VI\">và hỗ trợ đầu tư hạ tầng cho Dự án Khu liên hợp luyện cán thép tại Khu\ncông nghiệp Cà Ná và cảng biển nước sâu Dốc Hầm, huyện Thuận Nam với mức ưu đãi\nvà hỗ trợ cao hơn các quy định hiện hành, tương tự như ưu đãi đã áp dụng đối với\nDự án thép Fosmosa tại <span style=\"background:white\">Hà Tĩnh</span> (Ninh Thuận).\nBố trí nguồn vốn ngân sách Trung ương trong giai đoạn 2016-2020 cho dự án Đường\ncất hạ cánh số 2 - Cảng hàng không quốc tế Cam Ranh; <span style=\"background:\nwhite\">hỗ trợ</span> bổ sung đầu tư trong giai đoạn 2016-2020 cho các dự án đặc\nthù: Trục đường Bắc Nam khu trung tâm hành chính mới của tỉnh Khánh Hòa; đường\nNha Trang đi Đà Lạt, đoạn Nha Trang - Diên Khánh (Cao Bá Quát - </span>C<span lang=\"VI\">ầu Lùng); đường ven biển từ xã Vạn Lương huyện Vạn Ninh đến thị xã Ninh\nHòa; Bệnh viện Ung bướu tỉnh Khánh Hòa; bệnh viện S</span>ả<span lang=\"VI\">n Nhi\ntỉnh Khánh Hòa (Khánh Hòa). Bố trí nguồn vốn </span>tr<span lang=\"VI\">ái phiếu\nChính phủ đầu tư tuyến đường Hòa Lạc - thành phố Hòa Bình giai đoạn 2; bổ sung\nVốn cho tỉnh theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 84/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/quyet-dinh-84-qd-ttg-2015-on-dinh-phat-trien-kinh-te-xa-hoi-vung-chuyen-dan-song-da-hoa-binh-2009-2015-263707.aspx\">84/QĐ-TTg</a>  ngày 19 tháng 01 năm 2015 của Thủ tướng\nChính phủ; hạn chế các dự án đầu tư kè chống sạt l</span>ở <span lang=\"VI\">bờ\nsông, suối (trừ trường hợp cấp bách, nguy cơ cao), sử dụng nguồn lực này để đầu\ntư hạ tầng giao thông; bổ sung Dự án sân golf tại xã Lâm Sơn, huyện Lương Sơn\nvào Quy hoạch sân golf Việt Nam đến năm 2020 (Hòa Bình). Bố trí vốn để thực hiện\nmột số công trình </span>trọ<span lang=\"VI\">ng điểm theo cơ chế chính sách đặc\nthù phát triển thành phố Đà Lạt đã được phê duyệt tại Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1528/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/dau-tu/quyet-dinh-1528-qd-ttg-co-che-chinh-sach-dac-thu-phat-trien-thanh-pho-da-lat-tinh-lam-dong-2015-288923.aspx\">1528/QĐ-TTg</a> \nngày 03 tháng 9 năm 2015 của Th</span>ủ <span lang=\"VI\">tướng Chính phủ (Lâm Đồng).\nHỗ trợ đầu tư các công trình cấp bách thuộc Chương trình </span>m<span lang=\"VI\">ục\ntiêu phát triển kinh tế - xã hội vùng để thực hiện các dự án: cải tạo, chỉnh\ntrang một số tuyến đường giao </span>th<span lang=\"VI\">ông quan trọng phục vụ\nAPEC 2017; cải tạo, sửa chữa Cung thể thao Tiên Sơn và Trung tâm Hội chợ </span>tr<span lang=\"VI\">iển lãm; bố trí kế hoạch vốn đầu tư công trung hạn 2016-2020; bố trí\nnguồn vốn trái phiếu Chính phủ để đầu tư các dự án: Cải tạo, nâng cấp, mở rộng\nBệnh viện Phụ sản - Nhi <span style=\"background:white\">Đà Nẵng</span>; đường\nvành đai phía tây đoạn từ QL 14B đến đường Hồ Chí Minh; đê kè khẩn cấp chống sạt\nlở bờ biển, bờ sông trên địa bàn thành phố <span style=\"background:white\">Đà Nẵng</span>;\nbố trí vốn các dự án khác: Nút giao thông khác mức Ngã Ba Huế; đường gom đường\nsắt từ Ngã Ba Huế đến cầu vượt Hòa </span>C<span lang=\"VI\">ầm; xây dựng Nhà máy\nnước Hòa Liên theo hình thức PPP sử dụng </span>k<span lang=\"VI\">hoản viện trợ\nkhông hoàn lại của Chính phủ Nhật Bản; cải thiện môi trường nước thành phố; bổ\nsung quy hoạch sân golf tại xã Hòa Nhơn, huyện Hòa Vang; bố </span>tr<span lang=\"VI\">í vốn trả nợ các dự án đã hoàn thành </span>tr<span lang=\"VI\">ên địa bàn\nthành phố: cầu Trần Thị Lý, cung thể thao Tiên Sơn, đường Lê <span style=\"background:white\">Văn</span> Hiến, Bệnh viện </span>U<span lang=\"VI\">ng\nThư (<span style=\"background:white\">Đà Nẵng</span>). Hỗ trợ ngoài kế hoạch vốn\ntrung hạn để xử lý dứt </span>đ<span lang=\"VI\">iểm nợ ứng trước ngân sách Trung\nương từ các nguồn vốn ứng trước chuyển sang cấp phát (không thu hồi </span>k<span lang=\"VI\">hoản vốn trên) hoặc bố trí nguồn tăng thu và dự phòng để hoàn ứng ngân\nsách Trung ương; Dự án mở rộng, nâng cấp đô thị thành phố Bến Tre (Bến Tre). <span style=\"background:white\">Hỗ trợ</span> kinh phí để đầu tư thực hiện Dự án nâng\ncấp Khu lưu niệm Tổng Bí thư Lê Duẩn và đường vào Khu lưu niệm; bố trí hoàn ứng\nđối với </span>k<span lang=\"VI\">hoản ứng trước <span style=\"background:white\">của</span>\ncác dự án là đối tượng thuộc các Chương trình </span>m<span lang=\"VI\">ục tiêu thực\nhiện trong giai đoạn 2016-2020 (Quảng Trị).</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark1\"><b><span lang=\"VI\">2. Bộ Tà</span></b></a><b>i</b><b><span lang=\"VI\"> chính:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Tăng tỷ lệ </span>đ<span lang=\"VI\">iều </span>t<span lang=\"VI\">iết ngân sách để lại cho các tỉnh có điều</span><span lang=\"VI\"> </span>tiết<span lang=\"VI\"> lớn về ngân sách trung ương theo nguyên tắc mức để lại cho địa phương\nphải cao hơn mức chi ngân sách nhà nước bình quân đ</span>ầ<span lang=\"VI\">u người\nso với các địa phương khác; cơ chế đặc thù về vốn, hỗ trợ nguồn vốn đẩy nhanh\ntiến độ công tác bồi thường, giải phóng mặt bằng để tái định cư cho các hộ dân\nthuộc diện phải di dờ</span>i <span lang=\"VI\">Dự án sân bay Long Thành; phân bổ\nnguồn lực đầu tư phát triển hạ tầng, các công trình quan trọng <span style=\"background:white\">trong</span> vùng kinh tế </span>tr<span lang=\"VI\">ọng </span>đ<span lang=\"VI\">iểm (Đồng Nai). Cơ chế thành lập quỹ hỗ trợ phát triển hợp tác xã (theo\nLuật Hợp tác xã năm 2012) (An Giang). Cho cơ chế đặc thù được giảm tỷ lệ cân đối\nngân sách về Trung ương trong 1 hoặc 2 năm <i>(sau đó thực hiện theo đúng tỷ </i></span><i>l</i><i><span lang=\"VI\">ệ quy định 40%-6</span>0</i><i><span lang=\"VI\">%)</span></i><span lang=\"VI\"> (Bình Dương). Cho phép các địa phương xử lý đối với các </span>khoản<span lang=\"VI\"> nợ tiền phạt nộp chậm, tiền chậm nộp đến thời </span>đ<span lang=\"VI\">iểm\n30/6/2016 <span style=\"background:white\">của</span> các doanh nghiệp gặp khó\nkhăn do chính sách tín dụng của nhà nước (H</span>ả<span lang=\"VI\">i Dương). Sửa\nđổi quy định về điều</span>, tiết, khoản<span lang=\"VI\"> thu xử phạt vi phạm hành\nchính <span style=\"background:white\">trong</span> lĩnh vực giao thông đường bộ;\nban hành chính sách thu phí bảo vệ môi trường đối với khí thải công nghiệp; bãi\nbỏ các <span style=\"background:white\">quy định</span> về ưu đãi <span style=\"background:white\">đầu tư</span> liên quan đến miễn, giảm tiền thuê đất,\nthuế TNDN đối với các dự án không khuyến khích đầu tư do nguy cơ gây ô nhiễm\nmôi trường; bổ sung mặt hàng phốt pho thuộc đối tượng chịu thuế bảo vệ môi trường\nvới mức thuế suất cao; điều chỉnh mặt hàng phân bón từ đối tượng không chịu thuế\ngiá trị gia tăng sang đối tượng chịu </span>th<span lang=\"VI\">uế GTGT 5% (Lào\nCai). Tạm ứng từ nguồn Quỹ cổ phần hóa doanh nghiệp nhà nước Trung ương để thực\nhiện, vốn hoàn </span>tr<span lang=\"VI\">ả từ nguồn thu phí cảng biển, phí môi trường\n(Ninh Thuận). Bố trí được cân đối cho chi thường xuyên Chương trình </span>m<span lang=\"VI\">ục tiêu quốc gia; giá tính thuế giá trị gia tăng để xác định số thuế\ngiá t</span>rị<span lang=\"VI\"> gia t</span>ă<span lang=\"VI\">ng nộp tại địa phương\nquy định tại <a name=\"dc_155\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1581425')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1581425')\" atmm=\".lqhlTootip-1581425\" onmouseout=\"hideddrivetip();\">Khoản 4, Điều 4 Nghị định số 209/2013/NĐ-CP</a>\n(Hòa Bình). Tạm ứng kinh phí từ ngân sách Trung ương với số tiền là 500 tỷ đồng;\ncấp bù phần hụt thu của ngân sách địa phương; nâng tỷ lệ </span>đ<span lang=\"VI\">iều\n</span>t<span lang=\"VI\">iết cho ngân sách địa phương từ các </span>k<span lang=\"VI\">hoản thu phân chia giữa tỉnh và Trung ương với mức t</span>ă<span lang=\"VI\">ng từ 44% lên 46% giai đoạn ngân sách năm 2016 - 2020 để đầu tư các\ncông trình hạ tầng, phát triển huyện Côn Đảo (Bà Rịa-Vũng Tàu). Sớm ban hành\nNghị định hướng dẫn thi hành Luật Ngân sách nhà nước năm 2015; bố trí 100 %\nkinh phí trong năm 2016 để t</span>ỉ<span lang=\"VI\">nh thực hiện việc lập hồ sơ\nranh giới sử dụng đất; đo đạc, lập b</span>ả<span lang=\"VI\">n đồ địa chính và cấp\ngiấy chứng nhận đối với công ty nông, lâm nghiệp trên địa bàn tỉnh (Đắk Lắk).\nHướng dẫn về công tác giải ngân các nguồn vốn (đặc biệt là hai chương </span>trì<span lang=\"VI\">nh </span>m<span lang=\"VI\">ục tiêu quốc gia giảm nghèo bền vững, xây dựng\nnông thôn mới) (Yên Bái). Cho phép đối với các dự án được thẩm định nguồn vốn\nvà khả năng cân đối vốn trong giai đoạn từ ngày 01 tháng 01 năm 2015 đến ngày\n05 tháng 3 năm 2016, giao cơ quan kho bạc căn cứ quyết định phê duyệt dự án đầu\ntư của cấp thẩm quyền; kéo dài thời gian thực hiện các thủ tục mua sắm đến 30\ntháng 9 năm 2016; ban hành Thông tư quy định quản lý, <span style=\"background:\nwhite\">sử dụng</span> chi phí quản lý dự án của các dự án sử dụng vốn NSNN và vốn\ntrái phiếu Chính phủ; về Luật phí, lệ phí và cơ chế tự chủ đối với đơn vị sự\nnghiệp; chính sách thuế đối với việc thực hiện thí điểm bán nhà </span>ở <span lang=\"VI\">xã hội thuộc sở hữu nhà nước; ổn định tỷ lệ điều</span><span lang=\"VI\"> </span>tiết<span lang=\"VI\"> giữa ngân sách Trung <span style=\"background:white\">ươ</span>ng và địa\nphương giai đoạn 2017-2020; cơ chế thu nợ tiền sử dụng đất; cấp bù </span>k<span lang=\"VI\">hoản kinh phí phát sinh đối với giá phòng tại các khách sạn phục vụ\nABG5; tăng bàn chia bài có người chia tại Dự án Khu du lịch và giải trí quốc tế\nđ</span>ặ<span lang=\"VI\">c biệt Silver Shores (<span style=\"background:white\">Đà\nNẵng</span>). Vay vốn trong năm 2016 để giải phóng mặt bằng Dự án đầu tư xây dựng\ncơ <span style=\"background:white\">sở</span> hạ tầng Kh</span>u <span lang=\"VI\">công\nnghiệp Phú Thuận, huyện Bình Đại; Dự án đầu tư <span style=\"background:white\">xây\ndựng</span> công trình Bệnh viện Đa khoa tỉnh (Bến Tre). Chưa bố trí để hoàn </span>tr<span lang=\"VI\">ả các </span>k<span lang=\"VI\">hoản ứng trước các dự án ngoài kế hoạch, ứng\nthuộc nhiệm vụ chi <span style=\"background:white\">của</span> Trung ương, ứng\ncác chương trình đã kết thúc, ứng chưa xác đ</span>ị<span lang=\"VI\">nh được nguồn\nhoàn trả (Quảng Trị).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">3. Bộ Giao thông vận tải:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Đầu tư xây dựng cầu vượt nút giao Quốc\nlộ 51 với thành phố Biên Hòa từ nguồn vốn BOT đường tránh Biên Hòa; đầu tư mở rộng\ntuyến Quốc lộ 1 qua địa bàn tỉnh Đồng Nai (Đồng Nai). Đầu tư xây dựng tuyến cao\ntốc Bắc - Nam đoạn qua địa bàn tỉnh Bình Định bắt đầu từ năm 2017 (B</span>ì<span lang=\"VI\">nh Định); <span style=\"background:white\">đầu tư</span> tuyến đường nối\n2 cao tốc <i>(Cầu Giẽ - Ninh Bình và cao tốc Hà Nội - Hải Phòng)</i>; đường nối\nMỹ Đình <i>(Hà Nội)</i> - Ba Sao <i>(Hà Nam)</i> - Bái Đính <i>(Ninh Bình)</i>\n(Hà Nam). Đường nối QL5 với QL10 (dự kiến khởi công cuối năm 2016) vào đường\ncao tốc Hà Nội - Hải Phòng tại vị trí giao với đường 354; đẩy nhanh tiến độ các\ndự án Cảng cửa ngõ quốc tế Hải Phòng tại Lạch Huyện; đường Tân Vũ - Lạch Huyện\n(Hải Phòng). Chuyển các tuyến đường liên tỉnh Yên Bái - Lào Cai thành quốc lộ\ncó </span>đ<span lang=\"VI\">iểm đầu tại Km96+500 - Quốc lộ 32C (giao với Km283+800\nQuốc lộ 37) thuộc địa phận tỉnh Yên Bái, </span>đ<span lang=\"VI\">iểm cuối tại cửa\nkhẩu phụ Bản Vược (Lào Cai). Đầu tư đồng bộ các tuyến Quốc lộ: Quốc lộ 12B đoạn\nTam Điệp - Nho Quan Ninh B</span>ì<span lang=\"VI\">nh; Quốc lộ 15; Quốc lộ 70; Quốc\nlộ 21 (đoạn Km59+200 - Km72+816 (Hòa Bình). Xây dựng và hoàn thiện hệ thống hạ\ntầng giao thông kết nối liên vùng, nhất là đường cao tốc Biên Hòa - Vũng Tàu,\nđường vành đai 4 kết nối tiểu vùng Đông Bắc với vùng kinh tế trọng </span>đ<span lang=\"VI\">iểm phía Nam; ban hành chính sách </span>đ<span lang=\"VI\">iều </span>t<span lang=\"VI\">iết luồng hàng <span style=\"background:white\">hóa</span> cho khu vực cảng\nnhóm 5 (Bà Rịa -Vũng Tàu). Đầu tư nâng cấp các quốc lộ qua địa bàn tỉnh: Quốc lộ\n14C (giai đoạn 2), 19C, 26, 27, 29; Dự án cải tạo, nâng cấp t</span>ỉ<span lang=\"VI\">nh lộ 1; 3, 5, 7, 9, 12, 13, 15; đường Hồ chí Minh (QL14 cũ) đoạn từ xã\nEa Đrơng, huyện Cư M’gar đến xã H</span>òa <span lang=\"VI\">Đông, huyện Krông Pắc;\ntăng vốn bảo trì đường quốc lộ, tỉnh lộ trên địa bàn tỉnh (Đắk Lắk). Đầu tư các\ndự án: Nâng cấp Quốc lộ 14D (dự án xây dựng Hành lang kinh tế Đông Tây 2 nguồn\nvốn vay của ADB); mở rộng, nâng cấp sân bay quốc tế <span style=\"background:\nwhite\">Đà Nẵng</span> và nâng cấp, mở rộng Cảng Tiên Sa (giai đoạn 2) để phục vụ\nAPEC 2017; nâng cấp m</span>ở <span lang=\"VI\">rộng Quốc lộ 14G; m</span>ở <span lang=\"VI\">rộng tuyến Quốc lộ 14B (giai đoạn 2) đoạn Túy Loan - cầu Hà Nha; mở rộng\nhầm đường bộ qua đèo Hải Vân; xây dựng cảng Liên Chiểu; khơi thông sông </span>C<span lang=\"VI\">ổ Cò; di dời ga đường sắt; dự án Phát triển giao thông phi cơ giới và ứng\ndụng hệ thống giao thông thông minh (ITS) trong quản lý, </span>đ<span lang=\"VI\">iều\nhành giao thông; đầu tư tuyến đường cao tốc nối thông các tỉnh miền Trung từ\nVinh đến Nha Trang trước năm 2025; đầu tư và nâng cấp tuyến đường vành đai ven\nbiển các tỉnh miền Trung (<span style=\"background:white\">Đà Nẵng</span>). Đầu\ntư xây dựng cầu Rạch Miễu 2 (Bến Tre). Đầu tư đường cao tốc từ Thành phố Hồ Chí\nMinh đi Mộc Bài; bổ sung vào quy hoạch và sớm </span>tr<span lang=\"VI\">iển khai\ntuyến đường cao tốc Gò Dầu - Xa Mát (Tây Ninh).</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark2\"><b><span lang=\"VI\">4. Bộ Nông nghiệp\nvà Phát tr</span></b></a><b>i</b><b><span lang=\"VI\">ển Nông thôn:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ban hành chính sách để thu hút đầu tư\nvào lĩnh vực nông nghiệp, nông thôn (Cần Thơ). B</span>ố<span lang=\"VI\"> trí kinh\nphí n</span>ạ<span lang=\"VI\">o vét t</span>ạ<span lang=\"VI\">o nguồn; hệ thống dẫn\nnước phục vụ cấp nước, phòng cháy chữa cháy rừng và phục vụ sản xuất rau màu ở\nvùng miền núi; công tác phòng cháy chữa cháy rừng; hỗ trợ cấp nước sinh hoạt\ncho người dân khu vực chịu ảnh hưởng mặn và hạn; đầu tư các dự án: Hệ thống thủy\nlợi vùng cao thích ứng với biến đ</span>ổ<span lang=\"VI\">i khí hậu nhằm phục vụ\ntái cơ cấu sản xuất nông nghiệp cho đồng bào vùng Bảy Núi; xây dựng cơ sở hạ tầng\nphục vụ tái cơ cấu ngành nông nghiệp vùng Tứ giác Long Xuyên; hỗ trợ thực hiện\ndự án về cải tạo chất lượng giống cá tra (An Giang). Hỗ trợ kinh phí chống hạn\nvụ Hè Thu năm 2016; cấp nước và hỗ trợ cấp nước cho dân vùng thiếu nước; bổ\nsung chính sách hỗ trợ cho nông dân khi dừng không sản xuất do thiếu nước; <span style=\"background:white\">hỗ trợ</span> đầu tư các công trình phục vụ tưới, chống\nhạn, chống xâm nhập mặn: Hồ Đồng Mít, đập ngăn mặn Lại Giang; hỗ trợ <span style=\"background:white\">đầu tư</span> Khu neo đậu tránh trú bão cấp vùng Tam\nQuan, huyện Hoài Nhơn; chính sách đầu tư xây dựng cơ sở hạ t</span>ầ<span lang=\"VI\">ng nghề cá theo quy định tại <a name=\"dc_156\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1581426')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1581426')\" atmm=\".lqhlTootip-1581426\" onmouseout=\"hideddrivetip();\">Điều 3 Nghị định 67; </a>đầu\ntư xây dựng, nâng cấp cảng cá, khu neo đậu cho tàu cá vỏ thép đóng mới theo Nghị\nđịnh 67; ban hành chính sách hỗ trợ một lần sau đầu tư theo quy định tại <a name=\"dc_157\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1581427')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1581427')\" atmm=\".lqhlTootip-1581427\" onmouseout=\"hideddrivetip();\">Khoản 5 Điều 1 Nghị định </a><a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 89/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/linh-vuc-khac/nghi-dinh-89-2015-nd-cp-sua-doi-nghi-dinh-67-2014-nd-cp-mot-so-chinh-sach-phat-trien-thuy-san-292384.aspx\">89/2015/NĐ-CP</a> ; ban hành chính sách hỗ\ntrợ đối với những chủ tàu có tàu bị tai nạn, tàu lạ đâm chìm nhưng không thuộc\nđối tượng theo Quyết định 48/2010/QĐ-TTg và các chính sách khác do không thuộc\ndanh sách tàu cá; hỗ trợ 100% chi phí cứu hộ, cứu nạn và trục vớt tàu cá (Bình\nĐịnh). <span style=\"background:white\">Bổ sung</span> tỉnh Hà Nam vào Quy hoạch\nKhu nông nghiệp ứng dụng công nghệ cao Quốc gia đến năm 2020; nạo vét, cải tạo\nlưu vực sông Nhuệ, Đáy (Hà Nam). Dự án Khu kinh tế muối công nghiệp và xuất khẩu\nQuán Thẻ: </span>đ<span lang=\"VI\">iều chỉnh quy mô, quy hoạch, hỗ trợ kinh phí\nnhiễm mặn, bố trí vốn bồi thường, giải phóng mặt bằng, di dân, xây dựng cơ sở hạ\ntầng khu tái định cư cho hộ dân (Ninh Thuận). Đầu tư các dự án thủy lợi, cấp nước\nphục vụ chống hạn: Đập ngăn mặn sông Cái Nha Trang; hồ chứa nước sông Cạn; hồ\nchứa nước suối Sâu; trạm bơm thôn Ba Cẳng; kè suối Dầu; hệ thống cấp nước Cam\nHiệp Bắc (Khánh Hòa). Bỏ chủ trương <span style=\"background:white\">hỗ trợ</span>\nbảo vệ đất lúa cho nhân dân, hỗ trợ chuyển diện tích đất </span>tr<span lang=\"VI\">ồng lúa sang trồng cây khác hiệu quả hơn (Hòa Bình). Đầu tư các dự án:\nsông Đáy; nâng cấp sửa chữa thủy lợi Phù Sa và đê </span>đ<span lang=\"VI\">iều (Hà\nNội). Ban hành chính sách đặc thù trong công tác bảo vệ, phát triển rừng, phát\ntriển động vật hoang dã khu vực Tây Nguyên (Đắk Lắk). </span>đ<span lang=\"VI\">iều\nchỉnh, bổ sung một số chính sách để thực hiện chương trình </span>m<span lang=\"VI\">ục tiêu quốc gia xây dựng nông thôn mới (Yên Bái). Dự án nâng cấp, mở rộng\ncảng cá Thọ Quang thành cảng cá loại 1; bổ sung </span>đ<span lang=\"VI\">iểm trú đậu\ntàu thuyền cho khu vực duyên hải miền Trung (<span style=\"background:white\">Đà\nNẵng</span>). Đầu tư các dự án: </span>C<span lang=\"VI\">ống Thủ Cửu thuộc hệ thống\nthủy lợi Bắc B</span>ế<span lang=\"VI\">n Tre; quản lý nguồn nước tỉnh; cấp nước\nsinh hoạt cho dân cư khu vực Cù Lao Minh; xây dựng cơ <span style=\"background:\nwhite\">sở</span> hạ tầng phục vụ phát triển sinh kế bền vững cho người dân vùng\nven biển Ba Tri (B</span>ế<span lang=\"VI\">n Tre). Kiểm soát chất lượng các sản phẩm\nxuất khẩu, nhất là đối với mặt hàng cá tra, cá basa (Đồng Tháp).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">5. Bộ Công Thương:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Không cho phép xuất khẩu quặng apatit\nsau năm 2016 (trừ đối với quặng apatit có hàm lượng thấp) (Lào Cai). Các dự án\nđiện gió đầu tư trên địa bàn được thụ hưởng giá bán điện như tỉnh Bạc Liêu\n(Ninh Thuận). Nghiên cứu cho chủ trương cổ phần hóa Công ty Thủy điện Hòa Bình\n(Hòa B</span>ì<span lang=\"VI\">nh), ủy quyền cho Sở Công thương quản lý các chợ đ</span>ầ<span lang=\"VI\">u mối nông s</span>ả<span lang=\"VI\">n thực phẩm (Hà Nội).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">6. Bộ Tài nguyên và Môi trường:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Hỗ trợ kinh phí thực hiện đo đạc, lập\nhồ sơ địa chính và cấp giấy chứng nhận cho 02 huyện Tri Tôn, Tịnh Biên (An\nGiang). Điều chỉnh Quy hoạch sử dụng đất đến năm 2020 (Hà Nam). Hỗ trợ kinh phí\nđầu tư nâng cấp trang thiết bị cho trạm quan trắc nước xuyên biên giới; thành lập\nTrung tâm quan trắc vùng tại Lào Cai; sửa đổi Nghị định 203/2013/NĐ-CP ngày 18\ntháng 11 năm 2013, trong đó, đề nghị tăng </span>k<span lang=\"VI\">hoản trích từ\nthu tiền cấp quyền khai thác k<span style=\"background:white\">hoán</span>g sản đối\nvới các giấy phép do Trung ương cấp cho địa phương (Lào Cai). Hướng dẫn cụ thể\nvề v</span>i<span lang=\"VI\">ệc thu hồi đất các dự án đã cấp cho nhà đầu tư, song\nkhông thực hiện đầu tư hoặc đầu tư dở dang, th</span>ủ <span lang=\"VI\">tục bồi\nthường, giải phóng mặt bằng, giá cả bồi thư</span>ờ<span lang=\"VI\">ng; không sắp\nxếp điều chuyển các Trung tâm phát triển quỹ đất, văn phòng đăng ký sử dụng đất\ncấp huyện cấp huyện về t</span>ỉ<span lang=\"VI\">nh quản lý; thu tiền <span style=\"background:white\">sử dụng</span> đất, tiền thuê đất đối với chân cột\ntruyền tải điện và các diện tích đất xây dựng trạm biến áp và hệ thống phụ trợ\nngành điện của hệ thống lưới điện Quốc gia (Hòa Bình). Cho phép vận dụng Luật Đất\nđai để đấu giá các khu đất nhỏ, lẻ, xen kẹt (Hà Nội). Xác định đơn giá thuê đất\ncho các doanh nghiệp ứng trước tiền thuế đất để thực hiện công tác giải ph</span>ó<span lang=\"VI\">ng mặt bằng; các nhà đầu tư hạ tầng khu công nghiệp được nhà nước cho\nthuê đất trả tiền hàng năm nhưng lại cho các doanh nghiệp thứ cấp thuê lại đất\ncó kết cấu hạ t</span>ầ<span lang=\"VI\">ng theo hình thức nộp tiền một lần cho cả\nthời gian thuê (Bà Rịa- Vũng Tàu). S</span>ử<span lang=\"VI\">a đổi, bổ sung Nghị định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 45/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx\">45/2014/NĐ-CP</a>  ngày 15 tháng 5 năm 2014 của Chính phủ; đưa danh </span>mục<span lang=\"VI\"> kho thuốc bảo vệ thực vật phường Khánh Xuân, thành phố Buôn Ma Thuột\nvào Chương trình </span>m<span lang=\"VI\">ục tiêu khắc phục ô nhiễm và cải thiện\nmôi trường giai đoạn 2016 - 2020 và bố trí kinh phí thực hiện, nhằm xử lý triệt\nđể cơ <span style=\"background:white\">sở</span> gây ô nhiễm môi trường nghiêm trọng\n(theo Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 64/2003/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-64-2003-qd-ttg-ke-hoach-xu-ly-triet-de-co-so-gay-o-nhiem-moi-truong-nghiem-trong-50799.aspx\">64/2003/QĐ-TTg</a>  ngày 22 tháng 4 năm 2003) (Đắk Lắk). Sửa đổ</span>i\n<span lang=\"VI\">các nghị định về x</span>ử <span lang=\"VI\">phạt hành chính bao gồm:\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 179/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-179-2013-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-bao-ve-moi-truong-213654.aspx\">179/2013/NĐ-CP</a>  quy định về xử phạt vi phạm hành chính bảo vệ môi\ntrường và Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 142/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-142-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-linh-vuc-tai-nguyen-nuoc-khoang-san-211320.aspx\">142/2013/NĐ-CP</a>  quy định về xử phạt vi phạm hành chính\ntrong lĩnh vực tài nguyên nước và k<span style=\"background:white\">hoán</span>g\nsản; <span style=\"background:white\">Nghị định số</span> <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 102/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2014-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-dat-dai-257259.aspx\">102/2014/NĐ-CP</a>  về xử phạt\nvi phạm hành chính trong lĩnh vực đất đai theo hướng tăng mức tiền xử phạt và bổ\nsung hành vi chậm đưa đất vào sử dụng; chuyển </span>mục<span lang=\"VI\"> đích sử\ndụng đất tại Khu công nghiệp An Đồn để mở rộng thực hiện dự án Khu dân cư Phúc\nLộc Viên (<span style=\"background:white\">Đà Nẵng</span>). Thuê đất trong các\nkhu công nghiệp được thế chấp quyền <span style=\"background:white\">sử dụng</span>\nđất (Đồng Tháp).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">7. Bộ Xây dựng:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bổ sung Dự án Nhà máy xi măng Xuân\nThiện Hòa B</span>ì<span lang=\"VI\">nh vào Quy hoạch phát triển công nghiệp xi măng\nViệt Nam và vùng nguyên liệu sau năm 2020 (Hòa Bình). Ban hành các thông tư hướng\ndẫn triển khai thực hiện các <span style=\"background:white\">quy định</span> tại\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 44/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-44-2015-nd-cp-quy-hoach-xay-dung-273587.aspx\">44/2015/NĐ-CP</a>  ngày 06 tháng 5 năm 2015 về quy định chi </span>tiết<span lang=\"VI\"> một số nội dung về quy hoạch xây dựng, Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 59/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-59-2015-nd-cp-quan-ly-du-an-dau-tu-xay-dung-278744.aspx\">59/2015/NĐ-CP</a>  ngày\n18 tháng 6 năm 2015 về quản lý dự án đầu tư xây dựng; hướng dẫn công tác quản\nlý về điều kiện năng lực của các đơn vị tham gia dịch vụ công ích (Đắk Lắk).\nBan hành Thông tư hướng dẫn Luật Xây dựng số 50/2014/QH13 ngày 18 tháng 6 năm\n2014 và các nghị định liên quan (<span style=\"background:white\">Đà Nẵng</span>).</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark3\"><b><span lang=\"VI\">8. Bộ Y tế:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Giải quyết thủ tục để giải ngân các dự\nán: Bệnh viện Bạch Mai, Bệnh viện Việt Đức (Hà Nam).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">9. Bộ Ngoại giao:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Có chương trình hợp tác với phía\nTrung Quốc trong quản lý, chia sẻ thông tin nguồn tài nguyên nước sông Hồng\n(Lào Cai). Ban hành cơ chế phối hợp, chia sẻ thông tin giữa Bộ Ngoại giao, các\ncơ quan đại diện Việt Nam </span>ở <span lang=\"VI\">nước ngoài với <span style=\"background:white\">tỉnh</span> (Đắk Lắk). Hợp tác phát triển Hành lang\nkinh tế Đông Tây ở các nước thuộc tiểu vùng sông Mekong (<span style=\"background:white\">Đà Nẵng</span>). Đẩy nhanh tiến độ phân giới cắm mốc </span>tr<span lang=\"VI\">ên tuyến biên giới Việt Nam - Campuchia thuộc tuyến biên giới <span style=\"background:white\">tỉnh</span>; sớm đàm phán thống nhất với phía\nCampuchia các vị trí cột mốc còn tồn tại của tỉnh, từ cột mốc 139 - 146 và tác\nđộng với phía Campuchia xác định cột mốc 169 trên thực địa theo như bản đồ hai\nbên đã th</span>ố<span lang=\"VI\">ng nhất; chính sách Việt kiều Campuchia về nước\n(Tây Ninh).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">10. Bộ Văn hóa, Thể thao và Du lịch:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ban hành chương trình kích cầu du lịch\ngắn với việc thúc đẩy phát triển các ngành dịch vụ và cuộc vận động “Người Việt\nNam ưu tiên dùng hàng Việt Nam”; kế hoạch quảng bá xúc tiến du lịch Việt Nam của\nnăm kế hoạch nên gửi đến các địa phương từ tháng 10 của năm trước để các địa\nphương có cơ <span style=\"background:white\">sở</span> lên kế hoạch xúc tiến du\nlịch và có </span>đ<span lang=\"VI\">iều kiện phối hợp tham gia. Nghiên cứu các thị\ntrường trọng điểm và thị trường mới để xây dựng kế hoạch xúc tiến du lịch dài hạn;\nxem xét, phân cấp và chuyển kinh phí cho các địa phương làm đầu mối cho các hoạt\nđộng xúc tiến du lịch của ngành cho từng thị trường nước ngoài mà địa phương\nđang có thế mạnh (Bình Định). Quy hoạch tổng thể Khu du lịch trọng </span>đ<span lang=\"VI\">iểm quốc gia Tam Chúc (Hà Nam).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">11. Bộ Nội vụ:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sớm ban hành các <span style=\"background:white\">quy định</span>, hướng dẫn xác định vị trí việc làm,\ncơ cấu ngạch công chức, khung năng lực <span style=\"background:white\">của</span>\nvị trí việc làm (Hà Nam). Điều chỉnh các quy định về thực hiện tinh giản biên\nchế thành lập và duy trì bộ máy các Trung tâm, chi cục (đơn vị cấp 2) trực thuộc\ncác <span style=\"background:white\">sở</span>, ban, ngành, giao cho các địa\nphương tự quyết định sắp xếp bộ máy (Hòa Bình). Tổ chức và cơ cấu lại bộ máy và\ntinh giản biên chế (Yên Bái). Ban hành hướng dẫn về việc thiết kế, tổ chức, quản\nlý, điều hành hoạt động của bộ phận tiếp nhận và trả kết quả tập trung tại\nTrung tâm hành chính các t</span>ỉ<span lang=\"VI\">nh, thành; th</span>ể <span lang=\"VI\">chế hóa các quy định của Luật Tổ chức chính quyền địa phương; tổ chức,\nbộ máy UBND huyện Hoàng Sa; bổ sung biên chế đối với Bệnh viện Ung bướu và biên\nchế công chức, số lượng người làm việc <span style=\"background:white\">đối với</span>\nthành phố (<span style=\"background:white\">Đà Nẵng</span>). Bổ sung biên chế về\nthành lập Trung tâm tư vấn kh</span>ở<span lang=\"VI\">i nghiệp (Bến Tre).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">12. Bộ Tư pháp:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Rà soát kiến nghị bãi bỏ các quy định\nvề điều kiện đầu tư kinh doanh không phù hợp hoặc các quy định đã được ban hành\ntr</span>á<span lang=\"VI\">i thẩm quyền, </span>tr<span lang=\"VI\">ái Hiến pháp, luật\nvà văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên đặc biệt là các quy\nđịnh về điều kiện đầu tư, kinh doanh (Cần Thơ). Điều chỉnh các quy định tại <a name=\"dc_1\">Điều 13 Nghị định số </a><a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 63/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-63-2010-nd-cp-kiem-soat-thu-tuc-hanh-chinh-106929.aspx\">63/2010/NĐ-CP</a>  của Chính phủ và sửa đổi <a name=\"dc_159\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1581428')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1581428')\" atmm=\".lqhlTootip-1581428\" onmouseout=\"hideddrivetip();\">Điểm b, Khoản 1, Điều 7, Khoản 2 Điều 4 Thông tư số\n05/2014/TT-BTP</a> của Bộ Tư pháp (Đắk Lắk). Tăng cường tập huấn chuyên sâu về\nnghiệp vụ xây dựng, kiểm tra, rà soát văn bản cho địa phương (<span style=\"background:white\">Đà Nẵng</span>).</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"bookmark4\"><b><span lang=\"VI\">13. Bộ Khoa học\nvà Công nghệ:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ban hành chính sách đẩy mạnh hoạt động\nnghiên cứu, ứng dụng và chuyển </span>giao khoa học <span lang=\"VI\">t</span>ạo điều<span lang=\"VI\"> ki</span>ệ<span lang=\"VI\">n thúc đẩ</span>y p<span lang=\"VI\">hát triển các\nn</span>g<span lang=\"VI\">ành</span>, <span lang=\"VI\">lĩnh v</span>ự<span lang=\"VI\">c\nkhác (Cần Thơ). Ban hành Thông tư liên tịch hướng dẫn cấp phát kinh phí thực hiện\nnhiệm vụ khoa học và công ng<span style=\"background:white\">hệ th</span></span><span style=\"background:white\">ô</span><span lang=\"VI\" style=\"background:white\">ng</span><span lang=\"VI\"> qua Quỹ Phát triển khoa học và công nghệ (<span style=\"background:\nwhite\">Đà Nẵng</span>).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">14. Bộ <span style=\"background:\nwhite\">Quốc</span> ph</span>ò</b><b><span lang=\"VI\">ng:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Xây dựng Dự án, bố trí nguồn lực đầu tư\nvùng CT229 (Hòa Bình). Di chuyển hoạt động diễn tập hàng không quân sự tại sân\nbay <span style=\"background:white\">Đà Nẵng</span> (<span style=\"background:\nwhite\">Đà Nẵng</span>). Đầu tư đường tuần tra biên giới giai đoạn II (Tây\nNinh).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">15. Bộ Lao động, Thương binh và Xã\nhội:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ban hành Thông tư hướng dẫn quy trình\n</span>đ<span lang=\"VI\">iều </span>tr<span lang=\"VI\">a, rà soát hộ nghèo, hộ cận\nnghèo giai đoạn 2016 -2020 (Đắk Lắk). Điều ch</span>ỉ<span lang=\"VI\">nh, bổ sung\nmột số chính sách thực hiện chương trình </span>m<span lang=\"VI\">ục tiêu quốc gia\ngiảm nghèo bền vững (Yên Bái).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">17. Bộ Thông tin và Truyền thông:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Chia sẻ thông tin số theo Luật Công\nng<span style=\"background:white\">hệ thông tin</span> và <a name=\"dc_32\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1611130')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1611130')\" atmm=\".lqhlTootip-1611130\" onmouseout=\"hideddrivetip();\">Điều 7,\nNghị định </a><a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 64/2007/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-64-2007-nd-cp-ung-dung-cong-nghe-thong-tin-trong-co-quan-nha-nuoc-18234.aspx\">64/2007/NĐ-CP</a>  ngày 10 tháng 4 năm 2007 <span style=\"background:\nwhite\">của</span> Chính phủ về ứng dụng công ng<span style=\"background:white\">hệ\nthông tin</span> trong hoạt động của các cơ quan nhà nước; Dự án Phát triển\ncông ng<span style=\"background:white\">hệ thông tin</span> và truyền thông thành\nphố <span style=\"background:white\">Đà Nẵng</span> (giai đoạn 2) (Đà Nẵ</span>n<span lang=\"VI\">g).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">18. B</span>ộ</b><b><span lang=\"VI\">\nG</span>i</b><b><span lang=\"VI\">áo d</span>ụ</b><b><span lang=\"VI\">c và Đào t</span>ạ</b><b><span lang=\"VI\">o:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Sửa đổi, bổ sung các <span style=\"background:white\">quy định</span> tại Ngh</span>ị<span lang=\"VI\"> đ</span>ị<span lang=\"VI\">nh số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 138/2013/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-138-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-giao-duc-210485.aspx\">138/2013/NĐ-CP</a>  ngày 22 tháng 10 năm 2013 <span style=\"background:\nwhite\">của</span> Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực\ngiáo dục: <a name=\"dc_160\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1581429')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1581429')\" atmm=\".lqhlTootip-1581429\" onmouseout=\"hideddrivetip();\">Khoản 4 Điều 6 </a>đối với các ch</span>ủ <span lang=\"VI\">thể, <a name=\"dc_161\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-1581430')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-1581430')\" atmm=\".lqhlTootip-1581430\" onmouseout=\"hideddrivetip();\">Khoản 1 Điều 7</a> hình thức xử phạt chính; Dự án\nLàng Đại học tại Hòa Quý - Điện Ngọc (<span style=\"background:white\">Đà Nẵng</span>).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">19. Thanh tra Chính phủ:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Công tác thanh tra, kiểm tra hiện nay\nlà quá chồng chéo đề nghị <span style=\"background:white\">quy định</span> cụ thể\n(Hòa Bình). R</span>à <span lang=\"VI\">soát các văn bản pháp luật để sửa đổi, bổ\nsung hoặc ban hành mới cho phù hợp với Luật Thanh tra (Đắk Lắk).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">20. Ngân hàng Nhà nước Việt Nam:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ngân hàng Nhà nước, các ngân hàng\nthương mại tiếp tục ký kết hợp đồng tín dụng, giải ngân cho các chủ tàu đã được\nUBND tỉnh phê duyệt đủ điều kiện đóng mới, nâng cấp tàu; đồng thời tăng mức cho\nvay tại các chi nhánh ngân hàng trên địa bàn; ưu tiên cho vay 100% đóng mới, sửa\nchữa tàu cá <span style=\"background:white\">với</span> lãi suất ưu đãi; khoanh nợ,\nxóa nợ đối với các chủ tàu cá không còn khả năng trả nợ theo quy định (B</span>ì<span lang=\"VI\">nh Định).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">21. <span style=\"background:white\">Ủy\nban</span> Dân tộc:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Ban hành một số chính sách <span style=\"background:white\">hỗ trợ</span> giải quyết đất ở và giải quyết việc làm\ncho đồng bào dân tộc thiểu số nghèo, đời sống khó khăn vùng Đồng bằng sông Cửu\nLong giai đoạn 2016 - 2020 (Cần Thơ).</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">22. Văn phòng Chính phủ</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Kết nối phần mềm một cửa hiện đại của\ntỉnh với phần mềm quản lý chuyên ngành của các Bộ, ngành trong các lĩnh vực: Kế\nhoạch và Đầu tư, Môi trường, Tư pháp, Lao động Thương binh và Xã hội. Hiện nay,\nhệ thống phần mềm quản lý văn bản của <span style=\"background:white\">UBND</span>\ntỉnh đã được liên thông với hệ thống quản lý <span style=\"background:white\">văn</span>\nbản của V</span>ă<span lang=\"VI\">n phòng Chính phủ nên tỉnh đang thực hiện việc gửi\nvăn bản cho Chính phủ thông qua 02 hệ thống (hệ thống quản lý văn bản của t</span>ỉ<span lang=\"VI\">nh và hệ thống Token do Ban Cơ yếu Chính phủ cấp). Đề nghị Văn phòng\nChính phủ có ý kiến thống nhất sử dụng 01 phần mềm để giao, nhận văn bản (hiện\ncán bộ của tỉnh trực tiếp quản lý, sử dụng phần mềm Token do Ban Cơ yếu Chính\nphủ cấp chưa được tập huấn, chuyển giao kỹ thuật cụ thể vì tại buổi tập huấn trực\ntuyến do Văn phòng Chính phủ tổ chức, đường truyền của Viettel bị nghẽn mạng\nnên đầu c</span>ầ<span lang=\"VI\">u t</span>ỉ<span lang=\"VI\">nh không nhận được tín\nhiệu, vì vậy, trường hợp vẫn tiếp tục sử dụng hệ thống Token do Ban Cơ yếu\nChính phủ cấp, đề nghị Văn phòng Chính phủ có biện pháp hỗ trợ để tỉnh vận hành\nhiệu quả ph</span>ầ<span lang=\"VI\">n mềm nêu trên) (Đăk Lăk).</span></p>\n\n</div>\n\n",
+  "mdContent": "**VĂN PHÒNG CHÍNH PHỦ  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 7213/VPCP-V.III  \n_V/v giải quyết một số kiến nghị của các địa phương_\n\n_Hà Nội__, ngày 30_ _tháng 08_ _năm 2016_\n\n**Kính gửi:**\n\n\\- Các Bộ: Kế hoạch và Đầu tư, Tài chính, Giao thông vận tải, Nông nghiệp và Phát triển nông thôn, Công Thương, Tài nguyên và Môi trường, Xây dựng, Y tế, Ngoại giao, Văn hóa, Thể thao và Du lịch, Nội vụ, Tư pháp, Khoa học và Công nghệ, Quốc phòng, Lao động, Thương binh và Xã hội, Thông tin và Truyền thông, Giáo dục và Đào tạo;  \n\\- Thanh tra Chính phủ;  \n\\- Ngân hàng Nhà nước Việt Nam;  \n\\- Ủy ban Dân tộc;  \n\\- Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương.\n\nVề một số kiến nghị của Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương tại Hội nghị trực tuyến của Chính phủ với các địa phương vào ngày 30 tháng 6 và ngày 01 tháng 7 năm 2016 về tình hình kinh tế - xã hội 6 tháng đầu năm 2016, giải pháp thực hiện trong 6 tháng cuối năm 2016, Thủ tướng Chính phủ giao các Bộ, cơ quan: Kế hoạch và Đầu tư, Tài chính, Giao thông vận tải, Nông nghiệp và Phát triển nông thôn, Công Thương, Tài nguyên và Môi trường, Xây dựng, Y tế, Ngoại giao, Văn hóa, Thể thao và Du lịch, Nội vụ, Tư pháp, Khoa học và Công nghệ, Quốc phòng, Lao động, Thương binh và Xã hội, Thông tin và Truyền thông, Giáo dục và Đào tạo, Thanh tra Chính phủ, Ngân hàng Nhà nước Việt Nam và Ủy ban Dân tộc căn cứ chức năng, nhiệm vụ được giao và quy định hiện hành nghiên cứu, xem xét, xử lý các kiến nghị (xin gửi kèm theo) và trả lời để địa phương biết; trường hợp vượt thẩm quyền, báo cáo Thủ tướng Chính phủ.\n\nVăn phòng Chính phủ thông báo để các Bộ, cơ quan biết, thực hiện./.\n\n  \n**_Nơi nhận:  \n_**\\- Như trên;  \n\\- Thủ tướng, các Phó Thủ tướng CP;  \n\\- VPCP: BTCN, các PCN, Trợ lý TTgCP, TGĐ Cổng TTĐT, các Vụ: TH, KTTH, KTN, KGVX, ĐMDN, TCCV, NC, TKBT, QHQT;  \n\\- Lưu: VT, V.III (3b).Phg\n\n**KT. BỘ TRƯỞNG, CHỦ NHIỆM  \nPHÓ CHỦ NHIỆM  \n  \n  \n  \n  \nNguyễn Văn Tùng**\n\n**TỔNG HỢP KIẾN NGHỊ CỦA ĐỊA PHƯƠNG**\n\nTẠI HỘI NGHỊ TRỰC TUYẾN CỦA CHÍNH PHỦ VÀ CÁC ĐỊA PHƯƠNG NGÀY 30 THÁNG 6 VÀ NGÀY 01 THÁNG 7 NĂM 2016  \n_(Kèm theo Công_ _văn_ _số 7213__/VPCP-V.III ngày 30 tháng 8 năm 201__6)_\n\n**1\\. Bộ Kế hoạch và Đầu tư:**\n\na) Cơ chế, chính sách\n\nHoàn chỉnh trình ban hành Luật hỗ trợ doanh nghiệp doanh nghiệp nhỏ và vừa; Luật Quy hoạch; ban hành các văn bản hướng dẫn thực hiện Luật đầu tư, Luật doanh nghiệp (Cần Thơ). Cho chủ trương tư nhân được góp vốn với các nguồn vốn ODA để đầu tư một số dự án theo hình thức PPP, sau đó để cho tư nhân khai thác, vận hành, bảo dưỡng; Hướng dẫn thi hành Luật đầu công; Quy chế phối hợp giữa cơ quan thống kê và cơ quan hành chính nhà nước về số liệu kinh tế - xã hội (Hòa Bình). Được thí điểm tạm thời sử dụng “tài khoản đăng nhập” thay cho “tài khoản đăng ký kinh doanh”; gộp thủ tục công bố thông tin đăng ký kinh doanh và đăng ký thành lập mới hoặc đăng ký thay đổi thành 1 thủ tục hoặc cho phép doanh nghiệp nộp theo hình thức qua mạng; khi trình phê duyệt chủ trương đầu tư dự án đầu tư công chưa phải lập báo cáo đánh giá tác động môi trường như quy định tại Luật Bảo vệ môi trường (nội dung này sẽ được thực hiện trong bước phê duyệt dự án). Hướng dẫn về việc điều chỉnh bổ sung chủ trương đầu tư đối với các dự án đầu tư công khi cần thiết; phân cấp cho HĐND TP Hà Nội phê duyệt chủ trương đầu tư đối với các dự án nhóm A sử dụng vốn đầu tư công do địa phương quản lý; cho phép lựa chọn các nhà đầu tư đối với các dự án PPP trọng điểm và các dự án quan trọng khác của thành phố theo cơ chế đặc thù; cho phép thực hiện giải ngân các dự án ODA theo thực tế và tiến độ cấp vốn theo cam kết của nhà tài trợ; ủy quyền cho UBND thành phố Hà Nội phê duyệt các dự án trọng điểm quốc gia do thành phố Hà Nội làm chủ quản đầu tư sau khi có kết quả thẩm định của Hội đồng thẩm định quốc gia (Hà Nội). Ban hành cơ chế đặc thù hỗ trợ đẩy mạnh đầu tư xây dựng phát triển cơ sở hạ tầng công nghiệp, thương mại, chế độ ưu đãi đối với dự án sử dụng nhiều lao động (Đắk Lắk). Ban hành Nghị định của Chính phủ một số cơ chế đặc thù về đầu tư, tài chính, ngân sách và phân cấp quản lý; Quyết định về cơ chế ưu đãi đối với Khu công nghệ cao; ban hành cơ chế phối hợp, liên kết vùng (Đà Nẵng). Cơ chế đặc thù về vốn, hỗ trợ tỉnh nguồn vốn đẩy nhanh tiến độ công tác bồi thường, giải phóng mặt bằng để tái định cư cho các hộ dân thuộc diện phải di dời ở dự án sân bay Long Thành; phân bổ nguồn lực đầu tư phát triển hạ tầng, các công trình quan trọng trong vùng kinh tế trọng điểm (Đồng Nai). Ban hành các chính sách hỗ trợ doanh nghiệp đẩy mạnh xuất khẩu, đặc biệt là hỗ trợ sản xuất nguyên liệu phục vụ xuất khẩu, đào tạo và tuyển dụng lao động; triển khai Quy chế thí điểm liên kết phát triển kinh tế - xã hội vùng ĐBSCL (Cần Thơ). Hướng dẫn cụ thể về trình tự, thủ tục, thời gian quyết định chủ trương đầu tư đối với các dự án nằm trong khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao (Lào Cai). Sớm trình Quốc hội thông qua Luật hỗ trợ doanh nghiệp vừa và nhỏ; nâng mức hỗ trợ, bố trí hàng năm để thực hiện chính sách theo Nghị định số [210/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-dinh-210-2013-nd-cp-khuyen-khich-doanh-nghiep-dau-tu-vao-nong-nghiep-nong-thon-216825.aspx \"Nghị định 210/2013/NĐ-CP\") của Chính phủ (Nghệ An). Phê duyệt đầu tư 02 chương trình mục tiêu quốc gia thực hiện giai đoạn 2016 - 2020; ủy quyền cho UBND các tỉnh thẩm định nguồn vốn, khả năng cân đối vốn các chương trình trong phạm vi số kiểm tra vốn đầu tư công nguồn ngân sách nhà nước Bộ Kế hoạch và Đầu tư đã thông báo (Sơn La). Ban hành định mức phân bổ chi thường xuyên năm 2017; bổ sung kinh phí trong 6 tháng cuối năm 2016 theo Quyết định số [22/2013/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bat-dong-san/quyet-dinh-22-2013-qd-ttg-ho-tro-nguoi-co-cong-voi-cach-mang-ve-nha-o-183824.aspx \"Quyết định 22/2013/QĐ-TTG\") ngày 26 tháng 4 năm 2013 của Thủ tướng Chính phủ (Đắk Lắk). Hướng dẫn thực hiện Quyết định số [2261/QĐ-TTg](https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-2261-qd-ttg-2014-phe-duyet-chuong-trinh-ho-tro-phat-trien-hop-tac-xa-2015-2020-260385.aspx \"Quyết định 2261/QĐ-TTg\") ngày 15 tháng 12 năm 2014 của Thủ tướng Chính phủ (Đồng Tháp). Ưu tiên đầu tư cơ sở hạ tầng nông thôn, nâng định mức hỗ trợ thu hút đầu tư vào lĩnh vực nông nghiệp nông thôn (An Giang).\n\nb) Các công trình cụ thể\n\nBố trí vốn trái phiếu Chính phủ đầu tư đường Mỹ Phước - Tân Vạn kết nối với Quốc lộ 1, mở rộng đường ĐT 743 kết nối với nút giao Sóng Thần - Quốc lộ 1; mở rộng Quốc lộ 13 kết nối thành phố Hồ Chí Minh và đầu tư các tuyến đường kết nối với đường Hồ Chí Minh và với tỉnh Bình Phước, các tỉnh Tây nguyên; tăng nguồn vốn đầu tư theo các chương trình mục tiêu, bổ sung vốn trái phiếu Chính phủ và cân đối, điều chỉnh lại các nguồn vốn đầu tư công trung hạn 2016 - 2020; cân đối bố trí nguồn vốn triển khai dự án tái định cư Đại học Quốc gia TP.HCM; ủy quyền Ủy ban nhân dân cấp tỉnh quyết định chủ trương đầu tư phát triển kết cấu hạ tầng khu công nghiệp đối với các khu công nghiệp đã được Thủ tướng Chính phủ phê duyệt (Bình Dương). Đưa Dự án Đầu tư mua sắm trang thiết bị y tế Bệnh viện Nhi đồng Cần Thơ vào danh mục các dự án ưu tiên tài trợ ODA của Chính phủ Hàn Quốc; tổ chức tập huấn thực thi Nghị quyết số 19-2016/NQ-CP và Nghị quyết số [35/NQ-CP](/phap-luat/tim-van-ban.aspx?keyword=35/NQ-CP&match=True&area=2&lan=1 \"35/NQ-CP\") năm 2016 của Chính phủ tại các địa phương (Cần Thơ). Bổ sung kinh phí hoặc cho ứng trước để thanh toán cho các công ty nước ngoài cung cấp hệ thống thiết bị của dự án Công trình Tổ hợp không gian khoa học, hỗ trợ kinh phí hoạt động thường xuyên và đầu tư cho Trung tâm khám phá khoa học trong giai đoạn đầu (Bình Định). Cân đối tăng nguồn vốn hỗ trợ trong kế hoạch hàng năm cho các địa phương trong xây dựng nông thôn mới (Hải Dương). Điều chỉnh quy hoạch các khu công nghiệp (Hà Nam). Giải quyết nguồn vốn vay ODA của Chính phủ Hàn Quốc cho Dự án Bệnh viện Đa khoa Hải Phòng trong năm 2016; vận động nguồn vốn ODA của Chính phủ Đức cho Dự án Bệnh viện Trẻ em Hải Phòng (Hải Phòng). Tăng nguồn ngân sách Trung ương cho địa phương để triển khai thực hiện các Chương trình mục tiêu Quốc gia về bảo vệ môi trường, ứng phó với biến đổi khí hậu; hỗ trợ ngân sách để tỉnh xử lý triệt để cơ sở gây ô nhiễm môi trường thuộc khu vực công ích; hỗ trợ vốn Dự án đường nối đường cao tốc Nội Bài - Lào Cai đến thị trấn Sa Pa; thẩm định Đề án mở rộng Khu kinh tế cửa khẩu Lào Cai (Lào Cai). Bố trí kinh phí thực hiện các dự án hạ tầng Nhà máy điện hạt nhân; ưu đãi và hỗ trợ đầu tư hạ tầng cho Dự án Khu liên hợp luyện cán thép tại Khu công nghiệp Cà Ná và cảng biển nước sâu Dốc Hầm, huyện Thuận Nam với mức ưu đãi và hỗ trợ cao hơn các quy định hiện hành, tương tự như ưu đãi đã áp dụng đối với Dự án thép Fosmosa tại Hà Tĩnh (Ninh Thuận). Bố trí nguồn vốn ngân sách Trung ương trong giai đoạn 2016-2020 cho dự án Đường cất hạ cánh số 2 - Cảng hàng không quốc tế Cam Ranh; hỗ trợ bổ sung đầu tư trong giai đoạn 2016-2020 cho các dự án đặc thù: Trục đường Bắc Nam khu trung tâm hành chính mới của tỉnh Khánh Hòa; đường Nha Trang đi Đà Lạt, đoạn Nha Trang - Diên Khánh (Cao Bá Quát - Cầu Lùng); đường ven biển từ xã Vạn Lương huyện Vạn Ninh đến thị xã Ninh Hòa; Bệnh viện Ung bướu tỉnh Khánh Hòa; bệnh viện Sản Nhi tỉnh Khánh Hòa (Khánh Hòa). Bố trí nguồn vốn trái phiếu Chính phủ đầu tư tuyến đường Hòa Lạc - thành phố Hòa Bình giai đoạn 2; bổ sung Vốn cho tỉnh theo Quyết định số [84/QĐ-TTg](https://thuvienphapluat.vn/van-ban/dau-tu/quyet-dinh-84-qd-ttg-2015-on-dinh-phat-trien-kinh-te-xa-hoi-vung-chuyen-dan-song-da-hoa-binh-2009-2015-263707.aspx \"Quyết định 84/QĐ-TTg\") ngày 19 tháng 01 năm 2015 của Thủ tướng Chính phủ; hạn chế các dự án đầu tư kè chống sạt lở bờ sông, suối (trừ trường hợp cấp bách, nguy cơ cao), sử dụng nguồn lực này để đầu tư hạ tầng giao thông; bổ sung Dự án sân golf tại xã Lâm Sơn, huyện Lương Sơn vào Quy hoạch sân golf Việt Nam đến năm 2020 (Hòa Bình). Bố trí vốn để thực hiện một số công trình trọng điểm theo cơ chế chính sách đặc thù phát triển thành phố Đà Lạt đã được phê duyệt tại Quyết định số [1528/QĐ-TTg](https://thuvienphapluat.vn/van-ban/dau-tu/quyet-dinh-1528-qd-ttg-co-che-chinh-sach-dac-thu-phat-trien-thanh-pho-da-lat-tinh-lam-dong-2015-288923.aspx \"Quyết định 1528/QĐ-TTg\") ngày 03 tháng 9 năm 2015 của Thủ tướng Chính phủ (Lâm Đồng). Hỗ trợ đầu tư các công trình cấp bách thuộc Chương trình mục tiêu phát triển kinh tế - xã hội vùng để thực hiện các dự án: cải tạo, chỉnh trang một số tuyến đường giao thông quan trọng phục vụ APEC 2017; cải tạo, sửa chữa Cung thể thao Tiên Sơn và Trung tâm Hội chợ triển lãm; bố trí kế hoạch vốn đầu tư công trung hạn 2016-2020; bố trí nguồn vốn trái phiếu Chính phủ để đầu tư các dự án: Cải tạo, nâng cấp, mở rộng Bệnh viện Phụ sản - Nhi Đà Nẵng; đường vành đai phía tây đoạn từ QL 14B đến đường Hồ Chí Minh; đê kè khẩn cấp chống sạt lở bờ biển, bờ sông trên địa bàn thành phố Đà Nẵng; bố trí vốn các dự án khác: Nút giao thông khác mức Ngã Ba Huế; đường gom đường sắt từ Ngã Ba Huế đến cầu vượt Hòa Cầm; xây dựng Nhà máy nước Hòa Liên theo hình thức PPP sử dụng khoản viện trợ không hoàn lại của Chính phủ Nhật Bản; cải thiện môi trường nước thành phố; bổ sung quy hoạch sân golf tại xã Hòa Nhơn, huyện Hòa Vang; bố trí vốn trả nợ các dự án đã hoàn thành trên địa bàn thành phố: cầu Trần Thị Lý, cung thể thao Tiên Sơn, đường Lê Văn Hiến, Bệnh viện Ung Thư (Đà Nẵng). Hỗ trợ ngoài kế hoạch vốn trung hạn để xử lý dứt điểm nợ ứng trước ngân sách Trung ương từ các nguồn vốn ứng trước chuyển sang cấp phát (không thu hồi khoản vốn trên) hoặc bố trí nguồn tăng thu và dự phòng để hoàn ứng ngân sách Trung ương; Dự án mở rộng, nâng cấp đô thị thành phố Bến Tre (Bến Tre). Hỗ trợ kinh phí để đầu tư thực hiện Dự án nâng cấp Khu lưu niệm Tổng Bí thư Lê Duẩn và đường vào Khu lưu niệm; bố trí hoàn ứng đối với khoản ứng trước của các dự án là đối tượng thuộc các Chương trình mục tiêu thực hiện trong giai đoạn 2016-2020 (Quảng Trị).\n\n**2\\. Bộ Tà****i** **chính:**\n\nTăng tỷ lệ điều tiết ngân sách để lại cho các tỉnh có điều tiết lớn về ngân sách trung ương theo nguyên tắc mức để lại cho địa phương phải cao hơn mức chi ngân sách nhà nước bình quân đầu người so với các địa phương khác; cơ chế đặc thù về vốn, hỗ trợ nguồn vốn đẩy nhanh tiến độ công tác bồi thường, giải phóng mặt bằng để tái định cư cho các hộ dân thuộc diện phải di dời Dự án sân bay Long Thành; phân bổ nguồn lực đầu tư phát triển hạ tầng, các công trình quan trọng trong vùng kinh tế trọng điểm (Đồng Nai). Cơ chế thành lập quỹ hỗ trợ phát triển hợp tác xã (theo Luật Hợp tác xã năm 2012) (An Giang). Cho cơ chế đặc thù được giảm tỷ lệ cân đối ngân sách về Trung ương trong 1 hoặc 2 năm _(sau đó thực hiện theo đúng tỷ_ _l__ệ quy định 40%-60__%)_ (Bình Dương). Cho phép các địa phương xử lý đối với các khoản nợ tiền phạt nộp chậm, tiền chậm nộp đến thời điểm 30/6/2016 của các doanh nghiệp gặp khó khăn do chính sách tín dụng của nhà nước (Hải Dương). Sửa đổi quy định về điều, tiết, khoản thu xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ; ban hành chính sách thu phí bảo vệ môi trường đối với khí thải công nghiệp; bãi bỏ các quy định về ưu đãi đầu tư liên quan đến miễn, giảm tiền thuê đất, thuế TNDN đối với các dự án không khuyến khích đầu tư do nguy cơ gây ô nhiễm môi trường; bổ sung mặt hàng phốt pho thuộc đối tượng chịu thuế bảo vệ môi trường với mức thuế suất cao; điều chỉnh mặt hàng phân bón từ đối tượng không chịu thuế giá trị gia tăng sang đối tượng chịu thuế GTGT 5% (Lào Cai). Tạm ứng từ nguồn Quỹ cổ phần hóa doanh nghiệp nhà nước Trung ương để thực hiện, vốn hoàn trả từ nguồn thu phí cảng biển, phí môi trường (Ninh Thuận). Bố trí được cân đối cho chi thường xuyên Chương trình mục tiêu quốc gia; giá tính thuế giá trị gia tăng để xác định số thuế giá trị gia tăng nộp tại địa phương quy định tại Khoản 4, Điều 4 Nghị định số 209/2013/NĐ-CP (Hòa Bình). Tạm ứng kinh phí từ ngân sách Trung ương với số tiền là 500 tỷ đồng; cấp bù phần hụt thu của ngân sách địa phương; nâng tỷ lệ điều tiết cho ngân sách địa phương từ các khoản thu phân chia giữa tỉnh và Trung ương với mức tăng từ 44% lên 46% giai đoạn ngân sách năm 2016 - 2020 để đầu tư các công trình hạ tầng, phát triển huyện Côn Đảo (Bà Rịa-Vũng Tàu). Sớm ban hành Nghị định hướng dẫn thi hành Luật Ngân sách nhà nước năm 2015; bố trí 100 % kinh phí trong năm 2016 để tỉnh thực hiện việc lập hồ sơ ranh giới sử dụng đất; đo đạc, lập bản đồ địa chính và cấp giấy chứng nhận đối với công ty nông, lâm nghiệp trên địa bàn tỉnh (Đắk Lắk). Hướng dẫn về công tác giải ngân các nguồn vốn (đặc biệt là hai chương trình mục tiêu quốc gia giảm nghèo bền vững, xây dựng nông thôn mới) (Yên Bái). Cho phép đối với các dự án được thẩm định nguồn vốn và khả năng cân đối vốn trong giai đoạn từ ngày 01 tháng 01 năm 2015 đến ngày 05 tháng 3 năm 2016, giao cơ quan kho bạc căn cứ quyết định phê duyệt dự án đầu tư của cấp thẩm quyền; kéo dài thời gian thực hiện các thủ tục mua sắm đến 30 tháng 9 năm 2016; ban hành Thông tư quy định quản lý, sử dụng chi phí quản lý dự án của các dự án sử dụng vốn NSNN và vốn trái phiếu Chính phủ; về Luật phí, lệ phí và cơ chế tự chủ đối với đơn vị sự nghiệp; chính sách thuế đối với việc thực hiện thí điểm bán nhà ở xã hội thuộc sở hữu nhà nước; ổn định tỷ lệ điều tiết giữa ngân sách Trung ương và địa phương giai đoạn 2017-2020; cơ chế thu nợ tiền sử dụng đất; cấp bù khoản kinh phí phát sinh đối với giá phòng tại các khách sạn phục vụ ABG5; tăng bàn chia bài có người chia tại Dự án Khu du lịch và giải trí quốc tế đặc biệt Silver Shores (Đà Nẵng). Vay vốn trong năm 2016 để giải phóng mặt bằng Dự án đầu tư xây dựng cơ sở hạ tầng Khu công nghiệp Phú Thuận, huyện Bình Đại; Dự án đầu tư xây dựng công trình Bệnh viện Đa khoa tỉnh (Bến Tre). Chưa bố trí để hoàn trả các khoản ứng trước các dự án ngoài kế hoạch, ứng thuộc nhiệm vụ chi của Trung ương, ứng các chương trình đã kết thúc, ứng chưa xác định được nguồn hoàn trả (Quảng Trị).\n\n**3\\. Bộ Giao thông vận tải:**\n\nĐầu tư xây dựng cầu vượt nút giao Quốc lộ 51 với thành phố Biên Hòa từ nguồn vốn BOT đường tránh Biên Hòa; đầu tư mở rộng tuyến Quốc lộ 1 qua địa bàn tỉnh Đồng Nai (Đồng Nai). Đầu tư xây dựng tuyến cao tốc Bắc - Nam đoạn qua địa bàn tỉnh Bình Định bắt đầu từ năm 2017 (Bình Định); đầu tư tuyến đường nối 2 cao tốc _(Cầu Giẽ - Ninh Bình và cao tốc Hà Nội - Hải Phòng)_; đường nối Mỹ Đình _(Hà Nội)_ - Ba Sao _(Hà Nam)_ - Bái Đính _(Ninh Bình)_ (Hà Nam). Đường nối QL5 với QL10 (dự kiến khởi công cuối năm 2016) vào đường cao tốc Hà Nội - Hải Phòng tại vị trí giao với đường 354; đẩy nhanh tiến độ các dự án Cảng cửa ngõ quốc tế Hải Phòng tại Lạch Huyện; đường Tân Vũ - Lạch Huyện (Hải Phòng). Chuyển các tuyến đường liên tỉnh Yên Bái - Lào Cai thành quốc lộ có điểm đầu tại Km96+500 - Quốc lộ 32C (giao với Km283+800 Quốc lộ 37) thuộc địa phận tỉnh Yên Bái, điểm cuối tại cửa khẩu phụ Bản Vược (Lào Cai). Đầu tư đồng bộ các tuyến Quốc lộ: Quốc lộ 12B đoạn Tam Điệp - Nho Quan Ninh Bình; Quốc lộ 15; Quốc lộ 70; Quốc lộ 21 (đoạn Km59+200 - Km72+816 (Hòa Bình). Xây dựng và hoàn thiện hệ thống hạ tầng giao thông kết nối liên vùng, nhất là đường cao tốc Biên Hòa - Vũng Tàu, đường vành đai 4 kết nối tiểu vùng Đông Bắc với vùng kinh tế trọng điểm phía Nam; ban hành chính sách điều tiết luồng hàng hóa cho khu vực cảng nhóm 5 (Bà Rịa -Vũng Tàu). Đầu tư nâng cấp các quốc lộ qua địa bàn tỉnh: Quốc lộ 14C (giai đoạn 2), 19C, 26, 27, 29; Dự án cải tạo, nâng cấp tỉnh lộ 1; 3, 5, 7, 9, 12, 13, 15; đường Hồ chí Minh (QL14 cũ) đoạn từ xã Ea Đrơng, huyện Cư M’gar đến xã Hòa Đông, huyện Krông Pắc; tăng vốn bảo trì đường quốc lộ, tỉnh lộ trên địa bàn tỉnh (Đắk Lắk). Đầu tư các dự án: Nâng cấp Quốc lộ 14D (dự án xây dựng Hành lang kinh tế Đông Tây 2 nguồn vốn vay của ADB); mở rộng, nâng cấp sân bay quốc tế Đà Nẵng và nâng cấp, mở rộng Cảng Tiên Sa (giai đoạn 2) để phục vụ APEC 2017; nâng cấp mở rộng Quốc lộ 14G; mở rộng tuyến Quốc lộ 14B (giai đoạn 2) đoạn Túy Loan - cầu Hà Nha; mở rộng hầm đường bộ qua đèo Hải Vân; xây dựng cảng Liên Chiểu; khơi thông sông Cổ Cò; di dời ga đường sắt; dự án Phát triển giao thông phi cơ giới và ứng dụng hệ thống giao thông thông minh (ITS) trong quản lý, điều hành giao thông; đầu tư tuyến đường cao tốc nối thông các tỉnh miền Trung từ Vinh đến Nha Trang trước năm 2025; đầu tư và nâng cấp tuyến đường vành đai ven biển các tỉnh miền Trung (Đà Nẵng). Đầu tư xây dựng cầu Rạch Miễu 2 (Bến Tre). Đầu tư đường cao tốc từ Thành phố Hồ Chí Minh đi Mộc Bài; bổ sung vào quy hoạch và sớm triển khai tuyến đường cao tốc Gò Dầu - Xa Mát (Tây Ninh).\n\n**4\\. Bộ Nông nghiệp và Phát tr****i****ển Nông thôn:**\n\nBan hành chính sách để thu hút đầu tư vào lĩnh vực nông nghiệp, nông thôn (Cần Thơ). Bố trí kinh phí nạo vét tạo nguồn; hệ thống dẫn nước phục vụ cấp nước, phòng cháy chữa cháy rừng và phục vụ sản xuất rau màu ở vùng miền núi; công tác phòng cháy chữa cháy rừng; hỗ trợ cấp nước sinh hoạt cho người dân khu vực chịu ảnh hưởng mặn và hạn; đầu tư các dự án: Hệ thống thủy lợi vùng cao thích ứng với biến đổi khí hậu nhằm phục vụ tái cơ cấu sản xuất nông nghiệp cho đồng bào vùng Bảy Núi; xây dựng cơ sở hạ tầng phục vụ tái cơ cấu ngành nông nghiệp vùng Tứ giác Long Xuyên; hỗ trợ thực hiện dự án về cải tạo chất lượng giống cá tra (An Giang). Hỗ trợ kinh phí chống hạn vụ Hè Thu năm 2016; cấp nước và hỗ trợ cấp nước cho dân vùng thiếu nước; bổ sung chính sách hỗ trợ cho nông dân khi dừng không sản xuất do thiếu nước; hỗ trợ đầu tư các công trình phục vụ tưới, chống hạn, chống xâm nhập mặn: Hồ Đồng Mít, đập ngăn mặn Lại Giang; hỗ trợ đầu tư Khu neo đậu tránh trú bão cấp vùng Tam Quan, huyện Hoài Nhơn; chính sách đầu tư xây dựng cơ sở hạ tầng nghề cá theo quy định tại Điều 3 Nghị định 67; đầu tư xây dựng, nâng cấp cảng cá, khu neo đậu cho tàu cá vỏ thép đóng mới theo Nghị định 67; ban hành chính sách hỗ trợ một lần sau đầu tư theo quy định tại Khoản 5 Điều 1 Nghị định [89/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/linh-vuc-khac/nghi-dinh-89-2015-nd-cp-sua-doi-nghi-dinh-67-2014-nd-cp-mot-so-chinh-sach-phat-trien-thuy-san-292384.aspx \"Nghị định 89/2015/NĐ-CP\") ; ban hành chính sách hỗ trợ đối với những chủ tàu có tàu bị tai nạn, tàu lạ đâm chìm nhưng không thuộc đối tượng theo Quyết định 48/2010/QĐ-TTg và các chính sách khác do không thuộc danh sách tàu cá; hỗ trợ 100% chi phí cứu hộ, cứu nạn và trục vớt tàu cá (Bình Định). Bổ sung tỉnh Hà Nam vào Quy hoạch Khu nông nghiệp ứng dụng công nghệ cao Quốc gia đến năm 2020; nạo vét, cải tạo lưu vực sông Nhuệ, Đáy (Hà Nam). Dự án Khu kinh tế muối công nghiệp và xuất khẩu Quán Thẻ: điều chỉnh quy mô, quy hoạch, hỗ trợ kinh phí nhiễm mặn, bố trí vốn bồi thường, giải phóng mặt bằng, di dân, xây dựng cơ sở hạ tầng khu tái định cư cho hộ dân (Ninh Thuận). Đầu tư các dự án thủy lợi, cấp nước phục vụ chống hạn: Đập ngăn mặn sông Cái Nha Trang; hồ chứa nước sông Cạn; hồ chứa nước suối Sâu; trạm bơm thôn Ba Cẳng; kè suối Dầu; hệ thống cấp nước Cam Hiệp Bắc (Khánh Hòa). Bỏ chủ trương hỗ trợ bảo vệ đất lúa cho nhân dân, hỗ trợ chuyển diện tích đất trồng lúa sang trồng cây khác hiệu quả hơn (Hòa Bình). Đầu tư các dự án: sông Đáy; nâng cấp sửa chữa thủy lợi Phù Sa và đê điều (Hà Nội). Ban hành chính sách đặc thù trong công tác bảo vệ, phát triển rừng, phát triển động vật hoang dã khu vực Tây Nguyên (Đắk Lắk). điều chỉnh, bổ sung một số chính sách để thực hiện chương trình mục tiêu quốc gia xây dựng nông thôn mới (Yên Bái). Dự án nâng cấp, mở rộng cảng cá Thọ Quang thành cảng cá loại 1; bổ sung điểm trú đậu tàu thuyền cho khu vực duyên hải miền Trung (Đà Nẵng). Đầu tư các dự án: Cống Thủ Cửu thuộc hệ thống thủy lợi Bắc Bến Tre; quản lý nguồn nước tỉnh; cấp nước sinh hoạt cho dân cư khu vực Cù Lao Minh; xây dựng cơ sở hạ tầng phục vụ phát triển sinh kế bền vững cho người dân vùng ven biển Ba Tri (Bến Tre). Kiểm soát chất lượng các sản phẩm xuất khẩu, nhất là đối với mặt hàng cá tra, cá basa (Đồng Tháp).\n\n**5\\. Bộ Công Thương:**\n\nKhông cho phép xuất khẩu quặng apatit sau năm 2016 (trừ đối với quặng apatit có hàm lượng thấp) (Lào Cai). Các dự án điện gió đầu tư trên địa bàn được thụ hưởng giá bán điện như tỉnh Bạc Liêu (Ninh Thuận). Nghiên cứu cho chủ trương cổ phần hóa Công ty Thủy điện Hòa Bình (Hòa Bình), ủy quyền cho Sở Công thương quản lý các chợ đầu mối nông sản thực phẩm (Hà Nội).\n\n**6\\. Bộ Tài nguyên và Môi trường:**\n\nHỗ trợ kinh phí thực hiện đo đạc, lập hồ sơ địa chính và cấp giấy chứng nhận cho 02 huyện Tri Tôn, Tịnh Biên (An Giang). Điều chỉnh Quy hoạch sử dụng đất đến năm 2020 (Hà Nam). Hỗ trợ kinh phí đầu tư nâng cấp trang thiết bị cho trạm quan trắc nước xuyên biên giới; thành lập Trung tâm quan trắc vùng tại Lào Cai; sửa đổi Nghị định 203/2013/NĐ-CP ngày 18 tháng 11 năm 2013, trong đó, đề nghị tăng khoản trích từ thu tiền cấp quyền khai thác khoáng sản đối với các giấy phép do Trung ương cấp cho địa phương (Lào Cai). Hướng dẫn cụ thể về việc thu hồi đất các dự án đã cấp cho nhà đầu tư, song không thực hiện đầu tư hoặc đầu tư dở dang, thủ tục bồi thường, giải phóng mặt bằng, giá cả bồi thường; không sắp xếp điều chuyển các Trung tâm phát triển quỹ đất, văn phòng đăng ký sử dụng đất cấp huyện cấp huyện về tỉnh quản lý; thu tiền sử dụng đất, tiền thuê đất đối với chân cột truyền tải điện và các diện tích đất xây dựng trạm biến áp và hệ thống phụ trợ ngành điện của hệ thống lưới điện Quốc gia (Hòa Bình). Cho phép vận dụng Luật Đất đai để đấu giá các khu đất nhỏ, lẻ, xen kẹt (Hà Nội). Xác định đơn giá thuê đất cho các doanh nghiệp ứng trước tiền thuế đất để thực hiện công tác giải phóng mặt bằng; các nhà đầu tư hạ tầng khu công nghiệp được nhà nước cho thuê đất trả tiền hàng năm nhưng lại cho các doanh nghiệp thứ cấp thuê lại đất có kết cấu hạ tầng theo hình thức nộp tiền một lần cho cả thời gian thuê (Bà Rịa- Vũng Tàu). Sửa đổi, bổ sung Nghị định số [45/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-45-2014-nd-cp-thu-tien-su-dung-dat-234574.aspx \"Nghị định 45/2014/NĐ-CP\") ngày 15 tháng 5 năm 2014 của Chính phủ; đưa danh mục kho thuốc bảo vệ thực vật phường Khánh Xuân, thành phố Buôn Ma Thuột vào Chương trình mục tiêu khắc phục ô nhiễm và cải thiện môi trường giai đoạn 2016 - 2020 và bố trí kinh phí thực hiện, nhằm xử lý triệt để cơ sở gây ô nhiễm môi trường nghiêm trọng (theo Quyết định số [64/2003/QĐ-TTg](https://thuvienphapluat.vn/van-ban/doanh-nghiep/quyet-dinh-64-2003-qd-ttg-ke-hoach-xu-ly-triet-de-co-so-gay-o-nhiem-moi-truong-nghiem-trong-50799.aspx \"Quyết định 64/2003/QĐ-TTg\") ngày 22 tháng 4 năm 2003) (Đắk Lắk). Sửa đổi các nghị định về xử phạt hành chính bao gồm: Nghị định số [179/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-179-2013-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-bao-ve-moi-truong-213654.aspx \"Nghị định 179/2013/NĐ-CP\") quy định về xử phạt vi phạm hành chính bảo vệ môi trường và Nghị định số [142/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-142-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-linh-vuc-tai-nguyen-nuoc-khoang-san-211320.aspx \"Nghị định 142/2013/NĐ-CP\") quy định về xử phạt vi phạm hành chính trong lĩnh vực tài nguyên nước và khoáng sản; Nghị định số [102/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/bat-dong-san/nghi-dinh-102-2014-nd-cp-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-dat-dai-257259.aspx \"Nghị định 102/2014/NĐ-CP\") về xử phạt vi phạm hành chính trong lĩnh vực đất đai theo hướng tăng mức tiền xử phạt và bổ sung hành vi chậm đưa đất vào sử dụng; chuyển mục đích sử dụng đất tại Khu công nghiệp An Đồn để mở rộng thực hiện dự án Khu dân cư Phúc Lộc Viên (Đà Nẵng). Thuê đất trong các khu công nghiệp được thế chấp quyền sử dụng đất (Đồng Tháp).\n\n**7\\. Bộ Xây dựng:**\n\nBổ sung Dự án Nhà máy xi măng Xuân Thiện Hòa Bình vào Quy hoạch phát triển công nghiệp xi măng Việt Nam và vùng nguyên liệu sau năm 2020 (Hòa Bình). Ban hành các thông tư hướng dẫn triển khai thực hiện các quy định tại Nghị định số [44/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-44-2015-nd-cp-quy-hoach-xay-dung-273587.aspx \"Nghị định 44/2015/NĐ-CP\") ngày 06 tháng 5 năm 2015 về quy định chi tiết một số nội dung về quy hoạch xây dựng, Nghị định số [59/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/xay-dung-do-thi/nghi-dinh-59-2015-nd-cp-quan-ly-du-an-dau-tu-xay-dung-278744.aspx \"Nghị định 59/2015/NĐ-CP\") ngày 18 tháng 6 năm 2015 về quản lý dự án đầu tư xây dựng; hướng dẫn công tác quản lý về điều kiện năng lực của các đơn vị tham gia dịch vụ công ích (Đắk Lắk). Ban hành Thông tư hướng dẫn Luật Xây dựng số 50/2014/QH13 ngày 18 tháng 6 năm 2014 và các nghị định liên quan (Đà Nẵng).\n\n**8\\. Bộ Y tế:**\n\nGiải quyết thủ tục để giải ngân các dự án: Bệnh viện Bạch Mai, Bệnh viện Việt Đức (Hà Nam).\n\n**9\\. Bộ Ngoại giao:**\n\nCó chương trình hợp tác với phía Trung Quốc trong quản lý, chia sẻ thông tin nguồn tài nguyên nước sông Hồng (Lào Cai). Ban hành cơ chế phối hợp, chia sẻ thông tin giữa Bộ Ngoại giao, các cơ quan đại diện Việt Nam ở nước ngoài với tỉnh (Đắk Lắk). Hợp tác phát triển Hành lang kinh tế Đông Tây ở các nước thuộc tiểu vùng sông Mekong (Đà Nẵng). Đẩy nhanh tiến độ phân giới cắm mốc trên tuyến biên giới Việt Nam - Campuchia thuộc tuyến biên giới tỉnh; sớm đàm phán thống nhất với phía Campuchia các vị trí cột mốc còn tồn tại của tỉnh, từ cột mốc 139 - 146 và tác động với phía Campuchia xác định cột mốc 169 trên thực địa theo như bản đồ hai bên đã thống nhất; chính sách Việt kiều Campuchia về nước (Tây Ninh).\n\n**10\\. Bộ Văn hóa, Thể thao và Du lịch:**\n\nBan hành chương trình kích cầu du lịch gắn với việc thúc đẩy phát triển các ngành dịch vụ và cuộc vận động “Người Việt Nam ưu tiên dùng hàng Việt Nam”; kế hoạch quảng bá xúc tiến du lịch Việt Nam của năm kế hoạch nên gửi đến các địa phương từ tháng 10 của năm trước để các địa phương có cơ sở lên kế hoạch xúc tiến du lịch và có điều kiện phối hợp tham gia. Nghiên cứu các thị trường trọng điểm và thị trường mới để xây dựng kế hoạch xúc tiến du lịch dài hạn; xem xét, phân cấp và chuyển kinh phí cho các địa phương làm đầu mối cho các hoạt động xúc tiến du lịch của ngành cho từng thị trường nước ngoài mà địa phương đang có thế mạnh (Bình Định). Quy hoạch tổng thể Khu du lịch trọng điểm quốc gia Tam Chúc (Hà Nam).\n\n**11\\. Bộ Nội vụ:**\n\nSớm ban hành các quy định, hướng dẫn xác định vị trí việc làm, cơ cấu ngạch công chức, khung năng lực của vị trí việc làm (Hà Nam). Điều chỉnh các quy định về thực hiện tinh giản biên chế thành lập và duy trì bộ máy các Trung tâm, chi cục (đơn vị cấp 2) trực thuộc các sở, ban, ngành, giao cho các địa phương tự quyết định sắp xếp bộ máy (Hòa Bình). Tổ chức và cơ cấu lại bộ máy và tinh giản biên chế (Yên Bái). Ban hành hướng dẫn về việc thiết kế, tổ chức, quản lý, điều hành hoạt động của bộ phận tiếp nhận và trả kết quả tập trung tại Trung tâm hành chính các tỉnh, thành; thể chế hóa các quy định của Luật Tổ chức chính quyền địa phương; tổ chức, bộ máy UBND huyện Hoàng Sa; bổ sung biên chế đối với Bệnh viện Ung bướu và biên chế công chức, số lượng người làm việc đối với thành phố (Đà Nẵng). Bổ sung biên chế về thành lập Trung tâm tư vấn khởi nghiệp (Bến Tre).\n\n**12\\. Bộ Tư pháp:**\n\nRà soát kiến nghị bãi bỏ các quy định về điều kiện đầu tư kinh doanh không phù hợp hoặc các quy định đã được ban hành trái thẩm quyền, trái Hiến pháp, luật và văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên đặc biệt là các quy định về điều kiện đầu tư, kinh doanh (Cần Thơ). Điều chỉnh các quy định tại Điều 13 Nghị định số [63/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-63-2010-nd-cp-kiem-soat-thu-tuc-hanh-chinh-106929.aspx \"Nghị định 63/2010/NĐ-CP\") của Chính phủ và sửa đổi Điểm b, Khoản 1, Điều 7, Khoản 2 Điều 4 Thông tư số 05/2014/TT-BTP của Bộ Tư pháp (Đắk Lắk). Tăng cường tập huấn chuyên sâu về nghiệp vụ xây dựng, kiểm tra, rà soát văn bản cho địa phương (Đà Nẵng).\n\n**13\\. Bộ Khoa học và Công nghệ:**\n\nBan hành chính sách đẩy mạnh hoạt động nghiên cứu, ứng dụng và chuyển giao khoa học tạo điều kiện thúc đẩy phát triển các ngành, lĩnh vực khác (Cần Thơ). Ban hành Thông tư liên tịch hướng dẫn cấp phát kinh phí thực hiện nhiệm vụ khoa học và công nghệ thông qua Quỹ Phát triển khoa học và công nghệ (Đà Nẵng).\n\n**14\\. Bộ Quốc phò****ng:**\n\nXây dựng Dự án, bố trí nguồn lực đầu tư vùng CT229 (Hòa Bình). Di chuyển hoạt động diễn tập hàng không quân sự tại sân bay Đà Nẵng (Đà Nẵng). Đầu tư đường tuần tra biên giới giai đoạn II (Tây Ninh).\n\n**15\\. Bộ Lao động, Thương binh và Xã hội:**\n\nBan hành Thông tư hướng dẫn quy trình điều tra, rà soát hộ nghèo, hộ cận nghèo giai đoạn 2016 -2020 (Đắk Lắk). Điều chỉnh, bổ sung một số chính sách thực hiện chương trình mục tiêu quốc gia giảm nghèo bền vững (Yên Bái).\n\n**17\\. Bộ Thông tin và Truyền thông:**\n\nChia sẻ thông tin số theo Luật Công nghệ thông tin và Điều 7, Nghị định [64/2007/NĐ-CP](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-dinh-64-2007-nd-cp-ung-dung-cong-nghe-thong-tin-trong-co-quan-nha-nuoc-18234.aspx \"Nghị định 64/2007/NĐ-CP\") ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của các cơ quan nhà nước; Dự án Phát triển công nghệ thông tin và truyền thông thành phố Đà Nẵng (giai đoạn 2) (Đà Nẵng).\n\n**18\\. Bộ** **Gi****áo dụ****c và Đào tạ****o:**\n\nSửa đổi, bổ sung các quy định tại Nghị định số [138/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/vi-pham-hanh-chinh/nghi-dinh-138-2013-nd-cp-xu-phat-vi-pham-hanh-chinh-giao-duc-210485.aspx \"Nghị định 138/2013/NĐ-CP\") ngày 22 tháng 10 năm 2013 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giáo dục: Khoản 4 Điều 6 đối với các chủ thể, Khoản 1 Điều 7 hình thức xử phạt chính; Dự án Làng Đại học tại Hòa Quý - Điện Ngọc (Đà Nẵng).\n\n**19\\. Thanh tra Chính phủ:**\n\nCông tác thanh tra, kiểm tra hiện nay là quá chồng chéo đề nghị quy định cụ thể (Hòa Bình). Rà soát các văn bản pháp luật để sửa đổi, bổ sung hoặc ban hành mới cho phù hợp với Luật Thanh tra (Đắk Lắk).\n\n**20\\. Ngân hàng Nhà nước Việt Nam:**\n\nNgân hàng Nhà nước, các ngân hàng thương mại tiếp tục ký kết hợp đồng tín dụng, giải ngân cho các chủ tàu đã được UBND tỉnh phê duyệt đủ điều kiện đóng mới, nâng cấp tàu; đồng thời tăng mức cho vay tại các chi nhánh ngân hàng trên địa bàn; ưu tiên cho vay 100% đóng mới, sửa chữa tàu cá với lãi suất ưu đãi; khoanh nợ, xóa nợ đối với các chủ tàu cá không còn khả năng trả nợ theo quy định (Bình Định).\n\n**21\\. Ủy ban Dân tộc:**\n\nBan hành một số chính sách hỗ trợ giải quyết đất ở và giải quyết việc làm cho đồng bào dân tộc thiểu số nghèo, đời sống khó khăn vùng Đồng bằng sông Cửu Long giai đoạn 2016 - 2020 (Cần Thơ).\n\n**22\\. Văn phòng Chính phủ**\n\nKết nối phần mềm một cửa hiện đại của tỉnh với phần mềm quản lý chuyên ngành của các Bộ, ngành trong các lĩnh vực: Kế hoạch và Đầu tư, Môi trường, Tư pháp, Lao động Thương binh và Xã hội. Hiện nay, hệ thống phần mềm quản lý văn bản của UBND tỉnh đã được liên thông với hệ thống quản lý văn bản của Văn phòng Chính phủ nên tỉnh đang thực hiện việc gửi văn bản cho Chính phủ thông qua 02 hệ thống (hệ thống quản lý văn bản của tỉnh và hệ thống Token do Ban Cơ yếu Chính phủ cấp). Đề nghị Văn phòng Chính phủ có ý kiến thống nhất sử dụng 01 phần mềm để giao, nhận văn bản (hiện cán bộ của tỉnh trực tiếp quản lý, sử dụng phần mềm Token do Ban Cơ yếu Chính phủ cấp chưa được tập huấn, chuyển giao kỹ thuật cụ thể vì tại buổi tập huấn trực tuyến do Văn phòng Chính phủ tổ chức, đường truyền của Viettel bị nghẽn mạng nên đầu cầu tỉnh không nhận được tín hiệu, vì vậy, trường hợp vẫn tiếp tục sử dụng hệ thống Token do Ban Cơ yếu Chính phủ cấp, đề nghị Văn phòng Chính phủ có biện pháp hỗ trợ để tỉnh vận hành hiệu quả phần mềm nêu trên) (Đăk Lăk).",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
