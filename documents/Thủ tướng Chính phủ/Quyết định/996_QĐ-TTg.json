@@ -1,82 +1,134 @@
 {
-  "title": "Quyết định 996/QĐ-TTg năm 2018 về phê duyệt Đề án \"Tăng cường, đổi mới hoạt động đo lường hỗ trợ doanh nghiệp Việt Nam nâng cao năng lực cạnh tranh và hội nhập quốc tế giai đoạn đến năm 2025, định hướng đến năm 2030\" do Thủ tướng Chính phủ ban hành",
+  "title": "Quyết định 996/QĐ-TTg năm 2023 về Danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng do Thủ tướng Chính phủ ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
   "amendedDocuments": [],
   "rectifiedDocuments": [],
-  "supersededDocuments": [],
+  "supersededDocuments": [
+    {
+      "title": "Quyết định 359/QĐ-TTg năm 2019 về danh sách đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng do Thủ tướng Chính phủ ban hành",
+      "id": "359/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-04-02",
+      "effectiveDate": "2019-04-02",
+      "gazetteDate": "2019-04-14",
+      "gazetteNumber": "Từ số 383 đến số 384",
+      "status": "Hết hiệu lực: 25/08/2023"
+    }
+  ],
   "referredDocuments": [],
   "influentialDocuments": [
     {
-      "title": "Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2018 do Chính phủ ban hành",
-      "id": "01/NQ-CP",
-      "legislationType": "Nghị quyết",
+      "title": "Nghị định 52/2022/NĐ-CP quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng",
+      "id": "52/2022/NĐ-CP",
+      "legislationType": "Nghị định",
       "categories": [
-        "Thương mại",
-        "Tài chính nhà nước",
-        "Văn hóa - Xã hội"
+        "Bộ máy hành chính",
+        "Xây dựng - Đô thị"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Phạm Bình Minh"
+      ],
+      "issuedDate": "2022-08-08",
+      "effectiveDate": "2022-08-08",
+      "gazetteDate": "2022-08-22",
+      "gazetteNumber": "Từ số 695 đến số 696",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 60/2021/NĐ-CP về cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập",
+      "id": "60/2021/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Lê Minh Khái"
+      ],
+      "issuedDate": "2021-06-21",
+      "effectiveDate": "2021-08-15",
+      "gazetteDate": "2021-07-01",
+      "gazetteNumber": "Từ số 653 đến số 654",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 120/2020/NĐ-CP quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập",
+      "id": "120/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
       ],
       "organization": "Chính phủ",
       "signers": [
         "Nguyễn Xuân Phúc"
       ],
-      "issuedDate": "2018-01-01",
-      "effectiveDate": "2018-01-01",
-      "gazetteDate": "2018-01-01",
-      "gazetteNumber": "Từ số 1 đến số 2",
-      "status": "Không còn phù hợp"
+      "issuedDate": "2020-10-07",
+      "effectiveDate": "2020-12-01",
+      "gazetteDate": "2020-10-19",
+      "gazetteNumber": "Từ số 965 đến số 966",
+      "status": "Còn hiệu lực"
     },
     {
-      "title": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
-      "id": "04/2017/QH14",
+      "title": "Nghị định 101/2020/NĐ-CP về sửa đổi Nghị định 123/2016/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ",
+      "id": "101/2020/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2020-08-28",
+      "effectiveDate": "2020-11-15",
+      "gazetteDate": "2020-09-11",
+      "gazetteNumber": "Từ số 865 đến số 866",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
+      "id": "47/2019/QH14",
       "legislationType": "Luật",
       "categories": [
-        "Doanh nghiệp"
+        "Bộ máy hành chính"
       ],
       "organization": "Quốc hội",
       "signers": [
         "Nguyễn Thị Kim Ngân"
       ],
-      "issuedDate": "2017-06-12",
-      "effectiveDate": "2018-01-01",
-      "gazetteDate": "2017-07-24",
-      "gazetteNumber": "Từ số 511 đến số 512",
+      "issuedDate": "2019-11-22",
+      "effectiveDate": "2020-07-01",
+      "gazetteDate": "2019-12-26",
+      "gazetteNumber": "Từ số 995 đến số 996",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Nghị quyết 297/NQ-UBTVQH14 năm 2016 về nâng cao hiệu quả thực hiện chính sách, pháp luật về phát triển khoa học, công nghệ nhằm thúc đẩy công nghiệp hóa, hiện đại hóa, giai đoạn 2015-2020, trong đó chú trọng đẩy mạnh công nghiệp hỗ trợ và cơ khí chế tạo do Ủy ban Thường vụ Quốc hội ban hành",
-      "id": "297/NQ-UBTVQH14",
-      "legislationType": "Nghị quyết",
+      "title": "Nghị định 123/2016/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ",
+      "id": "123/2016/NĐ-CP",
+      "legislationType": "Nghị định",
       "categories": [
-        "Công nghệ thông tin"
-      ],
-      "organization": "Uỷ ban Thường vụ Quốc hội",
-      "signers": [
-        "Nguyễn Thị Kim Ngân"
-      ],
-      "issuedDate": "2016-11-02",
-      "effectiveDate": "2016-11-02",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Nghị quyết 35/NQ-CP năm 2016 về hỗ trợ và phát triển doanh nghiệp đến năm 2020 do Chính phủ ban hành",
-      "id": "35/NQ-CP",
-      "legislationType": "Nghị quyết",
-      "categories": [
-        "Doanh nghiệp"
+        "Bộ máy hành chính"
       ],
       "organization": "Chính phủ",
       "signers": [
         "Nguyễn Xuân Phúc"
       ],
-      "issuedDate": "2016-05-16",
-      "effectiveDate": "2016-05-16",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Hết hiệu lực: 21/04/2023"
+      "issuedDate": "2016-09-01",
+      "effectiveDate": "2016-10-15",
+      "gazetteDate": "2016-09-19",
+      "gazetteNumber": "Từ số 949 đến số 950",
+      "status": "Còn hiệu lực"
     },
     {
       "title": "Luật tổ chức Chính phủ 2015",
@@ -94,23 +146,6 @@
       "gazetteDate": "2015-07-27",
       "gazetteNumber": "Từ số 865 đến số 866",
       "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Luật đo lường 2011",
-      "id": "04/2011/QH13",
-      "legislationType": "Luật",
-      "categories": [
-        "Lĩnh vực khác"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Sinh Hùng"
-      ],
-      "issuedDate": "2011-11-11",
-      "effectiveDate": "2012-07-01",
-      "gazetteDate": "2012-02-21",
-      "gazetteNumber": "Từ số 165 đến số 166",
-      "status": "Còn hiệu lực"
     }
   ],
   "guidingDocuments": [],
@@ -120,156 +155,86 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Công văn 10475/VPCP-CN năm 2020 nghiên cứu, đánh giá và giải pháp giúp thúc đẩy nỗ lực của Việt Nam trong việc cạnh tranh để trở thành trung tâm sản xuất mới của thế giới và trong những năm tới do Văn phòng Chính phủ ban hành",
-      "id": "10475/VPCP-CN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Thương mại"
-      ],
-      "organization": "Văn phòng Chính phủ",
-      "signers": [
-        "Nguyễn Cao Lục"
-      ],
-      "issuedDate": "2020-12-15",
-      "effectiveDate": "2020-12-15",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 2215/VPCP-QHQT năm 2019 về tổ chức Hội nghị tổng kết 5 năm Ban Chỉ đạo quốc gia về Hội nhập quốc tế do Văn phòng Chính phủ ban hành",
-      "id": "2215/VPCP-QHQT",
-      "legislationType": "Công văn",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Văn phòng Chính phủ",
-      "signers": [
-        "Mai Tiến Dũng"
-      ],
-      "issuedDate": "2019-03-21",
-      "effectiveDate": "2019-03-21",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Thông tư 02/2019/TT-BQP quy định về hoạt động đo lường trong lĩnh vực quân sự, quốc phòng do Bộ trưởng Bộ Quốc phòng ban hành",
-      "id": "02/2019/TT-BQP",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Bộ Quốc phòng",
-      "signers": [
-        "Bế Xuân Trường"
-      ],
-      "issuedDate": "2019-01-07",
-      "effectiveDate": "2019-02-25",
-      "gazetteDate": "2019-01-22",
-      "gazetteNumber": "Từ số 75 đến số 76",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 2448/QĐ-BTC năm 2018 về Kế hoạch hỗ trợ pháp lý cho doanh nghiệp năm 2019 của Bộ Tài chính",
-      "id": "2448/QĐ-BTC",
+      "title": "Quyết định 1187/QĐ-TTg năm 2023 về danh sách đơn vị sự nghiệp công lập trực thuộc Bộ Thông tin và Truyền thông do Thủ tướng Chính phủ ban hành",
+      "id": "1187/QĐ-TTg",
       "legislationType": "Quyết định",
       "categories": [
-        "Doanh nghiệp"
-      ],
-      "organization": "Bộ Tài chính",
-      "signers": [
-        "Đỗ Hoàng Anh Tuấn"
-      ],
-      "issuedDate": "2018-12-28",
-      "effectiveDate": "2018-12-28",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Thông báo 476/TB-VPCP năm 2018 về ý kiến kết luận của Phó Thủ tướng Vương Đình Huệ tại cuộc họp về nội dung Sách trắng Doanh nghiệp Việt Nam năm 2017 do Văn phòng Chính phủ ban hành",
-      "id": "476/TB-VPCP",
-      "legislationType": "Thông báo",
-      "categories": [
-        "Doanh nghiệp"
-      ],
-      "organization": "Văn phòng Chính phủ",
-      "signers": [
-        "Nguyễn Sỹ Hiệp"
-      ],
-      "issuedDate": "2018-12-26",
-      "effectiveDate": "2018-12-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Không xác định"
-    },
-    {
-      "title": "Công văn 822/UBDT-KHTC năm 2018 về hướng dẫn quy chế hoạt động của mạng lưới tư vấn viên hỗ trợ doanh nghiệp nhỏ và vừa do Ủy ban Dân tộc ban hành",
-      "id": "822/UBDT-KHTC",
-      "legislationType": "Công văn",
-      "categories": [
-        "Doanh nghiệp"
-      ],
-      "organization": "Uỷ ban Dân tộc",
-      "signers": [
-        "Lê Sơn Hải"
-      ],
-      "issuedDate": "2018-07-26",
-      "effectiveDate": "2018-07-26",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 4330/BKHĐT-PTDN về hướng dẫn thực hiện chương trình, hỗ trợ đào tạo nguồn nhân lực cho doanh nghiệp nhỏ và vừa năm 2018 do Bộ Kế hoạch và Đầu tư ban hành",
-      "id": "4330/BKHĐT-PTDN",
-      "legislationType": "Công văn",
-      "categories": [
-        "Doanh nghiệp",
-        "Lao động - Tiền lương",
-        "Giáo dục"
-      ],
-      "organization": "Bộ Kế hoạch và Đầu tư",
-      "signers": [
-        "Vũ Đại Thắng"
-      ],
-      "issuedDate": "2018-06-25",
-      "effectiveDate": "2018-06-25",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Chỉ thị 15/CT-TTg năm 2018 về tổ chức triển khai thực hiện hiệu quả Luật Hỗ trợ doanh nghiệp nhỏ và vừa do Thủ tướng Chính phủ ban hành",
-      "id": "15/CT-TTg",
-      "legislationType": "Chỉ thị",
-      "categories": [
-        "Doanh nghiệp"
+        "Bộ máy hành chính"
       ],
       "organization": "Thủ tướng Chính phủ",
       "signers": [
-        "Nguyễn Xuân Phúc"
+        "Trần Lưu Quang"
       ],
-      "issuedDate": "2018-06-15",
-      "effectiveDate": "2018-06-15",
-      "gazetteDate": "2018-06-26",
-      "gazetteNumber": "Từ số 739 đến số 740",
+      "issuedDate": "2023-11-24",
+      "effectiveDate": "2023-11-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Hướng dẫn 42-HD/BTGTW năm 2017 về thực hiện Chương trình bồi dưỡng chuyên đề \"Hội nhập quốc tế\" (dùng bồi dưỡng cho cán bộ, đảng viên và nhân dân) do Ban Tuyên giáo Trung ương ban hành",
-      "id": "42-HD/BTGTW",
-      "legislationType": "Hướng dẫn",
+      "title": "Quyết định 1487/QĐ-TTg năm 2023 về danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Thông tin và Truyền thông do Thủ tướng Chính phủ ban hành",
+      "id": "1487/QĐ-TTg",
+      "legislationType": "Quyết định",
       "categories": [
-        "Giáo dục"
+        "Bộ máy hành chính"
       ],
-      "organization": "Ban Tuyên giáo Trung ương",
+      "organization": "Thủ tướng Chính phủ",
       "signers": [
-        "Phạm Văn Linh"
+        "Trần Lưu Quang"
       ],
-      "issuedDate": "2017-09-01",
-      "effectiveDate": "2017-09-01",
+      "issuedDate": "2023-11-24",
+      "effectiveDate": "2023-11-24",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 792/QĐ-TTg năm 2023 về Danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Tư pháp do Thủ tướng Chính phủ ban hành",
+      "id": "792/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Trần Lưu Quang"
+      ],
+      "issuedDate": "2023-07-04",
+      "effectiveDate": "2023-07-04",
+      "gazetteDate": "2023-07-16",
+      "gazetteNumber": "Từ số 827 đến số 828",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 541/QĐ-TTg năm 2023 về danh sách các đơn vị sự nghiệp công lập trực thuộc Ủy ban Dân tộc do Thủ tướng Chính phủ ban hành",
+      "id": "541/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Trần Lưu Quang"
+      ],
+      "issuedDate": "2023-05-22",
+      "effectiveDate": "2023-05-22",
+      "gazetteDate": "2023-05-29",
+      "gazetteNumber": "Từ số 719 đến số 720",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 206/QĐ-TTg năm 2023 sửa đổi Quyết định 1292/QĐ-TTg phê duyệt Đề án sắp xếp, tổ chức lại các đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và Đào tạo do Thủ tướng Chính phủ ban hành",
+      "id": "206/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Trần Hồng Hà"
+      ],
+      "issuedDate": "2023-03-09",
+      "effectiveDate": "2023-03-09",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -278,20 +243,19 @@
   "id": "996/QĐ-TTg",
   "legislationType": "Quyết định",
   "categories": [
-    "Doanh nghiệp",
-    "Thương mại"
+    "Bộ máy hành chính"
   ],
   "organization": "Thủ tướng Chính phủ",
   "signers": [
-    "Vũ Đức Đam"
+    "Trần Hồng Hà"
   ],
-  "issuedDate": "2018-08-10",
-  "effectiveDate": "2018-08-10",
-  "gazetteDate": "Dữ liệu đang cập nhật",
-  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "issuedDate": "2023-08-25",
+  "effectiveDate": "2023-08-25",
+  "gazetteDate": "2023-09-04",
+  "gazetteNumber": "Từ số 971 đến số 972",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA2ADEAOAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>THỦ TƯỚNG CHÍNH\n  PHỦ<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 996/QĐ-TTg</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 10\n  tháng 8 năm 2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><a name=\"loai_1_name\">PHÊ\nDUYỆT ĐỀ ÁN “TĂNG CƯỜNG, ĐỔI MỚI HOẠT ĐỘNG ĐO LƯỜNG HỖ TRỢ DOANH NGHIỆP VIỆT\nNAM NÂNG CAO NĂNG LỰC CẠNH TRANH VÀ HỘI NHẬP QUỐC TẾ GIAI ĐOẠN ĐẾN NĂM 2025, ĐỊNH\nHƯỚNG ĐẾN NĂM 2030”</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">THỦ TƯỚNG CHÍNH PHỦ</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6\nnăm 2015;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Đo lường ngày 11 tháng 11 năm 2011;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Luật Hỗ trợ doanh nghiệp nhỏ và vừa ngày\n12 tháng 6 năm 2017;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 297/NQ-UBTVQH14\" href=\"https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-quyet-297-nq-ubtvqh14-phat-trien-khoa-hoc-cong-nghe-thuc-day-cong-nghiep-hoa-2015-2020-2016-328533.aspx\">297/NQ-UBTVQH14</a>  ngày 02\ntháng 11 năm 2016 của Ủy ban Thường vụ Quốc hội về nâng cao hiệu quả thực hiện\nchính sách, pháp luật về khoa học, công nghệ nhằm thúc đẩy công nghiệp hóa, hiện\nđại hóa giai đoạn 2015 - 2020, trong đó chú trọng đẩy mạnh công nghiệp hỗ trợ\nvà cơ khí chế tạo;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 35/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-quyet-35-nq-cp-ho-tro-phat-trien-doanh-nghiep-2020-2016-311331.aspx\">35/NQ-CP</a>  ngày 16 tháng 5\nnăm 2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến năm 2020;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Căn cứ Nghị quyết số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị quyết 01/NQ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-01-nq-cp-2018-giai-phap-chu-yeu-thuc-hien-ke-hoach-phat-trien-kinh-te-xa-hoi-371009.aspx\">01/NQ-CP</a>  ngày 01 tháng 01\nnăm 2018 của Chính phủ về nhiệm vụ, giải pháp chủ yếu thực hiện kế hoạch phát\ntriển kinh tế - xã hội và dự toán ngân sách năm 2018;</i></p>\n\n<p style=\"margin-top:6.0pt\"><i>Xét đề nghị của Bộ trưởng Bộ Khoa học và Công\nnghệ,</i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Phê duyệt Đề án “Tăng cường, đổi mới hoạt động đo lường hỗ\ntrợ doanh nghiệp Việt Nam nâng cao năng lực cạnh tranh và hội nhập quốc tế giai\nđoạn đến năm 2025, định hướng đến năm 2030” (viết tắt là Đề án) với những nội\ndung chính sau đây:</a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b>I. MỤC TIÊU ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Mục tiêu chung</p>\n\n<p style=\"margin-top:6.0pt\">a) Phát triển hạ tầng đo lường quốc gia theo hướng\nđồng bộ, hiện đại, đáp ứng hội nhập quốc tế và nhu cầu đảm bảo đo lường chính\nxác cho hoạt động doanh nghiệp, phù hợp điều kiện kinh tế - xã hội của Việt\nNam, phù hợp với quy hoạch phát triển bộ ngành và địa phương.</p>\n\n<p style=\"margin-top:6.0pt\">b) Tập trung hỗ trợ doanh nghiệp trong một số\nngành, lĩnh vực ưu tiên; xây dựng và triển khai hiệu quả Chương trình bảo đảm\nđo lường tại doanh nghiệp; tăng cường hoạt động đo lường gắn chặt với hoạt động\ndoanh nghiệp.</p>\n\n<p style=\"margin-top:6.0pt\">c) Đẩy mạnh xã hội hóa, huy động đa dạng các nguồn\nlực trong xã hội để đóng góp phát triển hoạt động đo lường.</p>\n\n<p style=\"margin-top:6.0pt\">d) Xây dựng và áp dụng hiệu quả bộ tiêu chí quốc\ngia đánh giá các lĩnh vực đo lường để tăng cường hiệu quả, hiệu lực công tác quản\nlý nhà nước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức\nkinh doanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo\nlường.</p>\n\n<p style=\"margin-top:6.0pt\">đ) Tập trung đẩy mạnh công tác tuyên truyền, nâng\ncao nhận thức, phổ biến sâu rộng về vai trò, tầm quan trọng hoạt động đo lường\nhỗ trợ doanh nghiệp.</p>\n\n<p style=\"margin-top:6.0pt\">2. Mục tiêu cụ thể</p>\n\n<p style=\"margin-top:6.0pt\">a) Đến năm 2025:</p>\n\n<p style=\"margin-top:6.0pt\">- Phát triển hạ tầng đo lường quốc gia đáp ứng công\nnhận đủ 41 chuẩn đo lường quốc gia theo quy hoạch đã được phê duyệt; công nhận\nít nhất 200 phép đo hiệu chuẩn được quốc tế thừa nhận trong khuôn khổ Thỏa thuận\nthừa nhận lẫn nhau toàn cầu về đo lường (CIPM-MRA);</p>\n\n<p style=\"margin-top:6.0pt\">- Thống nhất chung định hướng phát triển hạ tầng kỹ\nthuật đo lường từ cấp quốc gia đến cấp bộ ngành, địa phương;</p>\n\n<p style=\"margin-top:6.0pt\">- Phát triển được ít nhất 100 chất chuẩn, chuẩn đo\nlường, phương tiện đo các loại đáp ứng nhu cầu đảm bảo đo lường chính xác cho\ndoanh nghiệp;</p>\n\n<p style=\"margin-top:6.0pt\">- Bồi dưỡng, nâng cao chuyên môn nghiệp vụ về đo lường\nít nhất 10.000 cán bộ tham gia hoạt động đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Triển khai Chương trình đảm bảo đo lường thông\nqua hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường\nvà hoạt động xây dựng phương pháp đo cho ít nhất 50.000 doanh nghiệp bao gồm\ndoanh nghiệp có vốn nhà nước và doanh nghiệp khu vực kinh tế tư nhân;</p>\n\n<p style=\"margin-top:6.0pt\">- Triển khai áp dụng bộ tiêu chí quốc gia đánh giá\ncác lĩnh vực đo lường ít nhất 1000 phòng thí nghiệm được công nhận trong cả nước\ncho các lĩnh vực đo lường để tăng cường hiệu quả, hiệu lực công tác quản lý nhà\nnước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh\ndoanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.</p>\n\n<p style=\"margin-top:6.0pt\">b) Đến năm 2030:</p>\n\n<p style=\"margin-top:6.0pt\">- Phát triển hạ tầng đo lường quốc gia đáp ứng công\nnhận ít nhất 300 phép đo hiệu chuẩn được quốc tế thừa nhận trong khuôn khổ Thỏa\nthuận thừa nhận lẫn nhau toàn cầu về đo lường (CIPM-MRA);</p>\n\n<p style=\"margin-top:6.0pt\">- Phát triển được ít nhất 250 chất chuẩn, chuẩn đo\nlường, phương tiện đo các loại đáp ứng nhu cầu đảm bảo đo lường chính xác cho\ndoanh nghiệp;</p>\n\n<p style=\"margin-top:6.0pt\">- Bồi dưỡng, nâng cao chuyên môn nghiệp vụ về đo lường\nít nhất 20.000 cán bộ tham gia hoạt động đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Triển khai Chương trình đảm bảo đo lường thông\nqua hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường\nvà hoạt động xây dựng phương pháp đo cho ít nhất 100.000 doanh nghiệp bao gồm\ndoanh nghiệp có vốn nhà nước và doanh nghiệp khu vực kinh tế tư nhân;</p>\n\n<p style=\"margin-top:6.0pt\">- Triển khai áp dụng bộ tiêu chí quốc gia đánh giá\ncác lĩnh vực đo lường ít nhất 2000 phòng thí nghiệm được công nhận trong cả nước\ncho các lĩnh vực đo lường để tăng cường hiệu quả, hiệu lực công tác quản lý nhà\nnước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh\ndoanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b>II. NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU\nCỦA ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Đổi mới, sửa đổi chính sách tạo thuận lợi hoạt động\nđo lường hỗ trợ doanh nghiệp:</p>\n\n<p style=\"margin-top:6.0pt\">- Xây dựng, ban hành Danh mục ngành, lĩnh vực sản\nxuất, kinh doanh trọng tâm cần tăng cường, đổi mới hoạt động đo lường để hỗ trợ\ndoanh nghiệp Việt Nam nâng cao năng lực cạnh tranh và hội nhập quốc tế đến năm\n2025; rà soát, bổ sung Danh mục đến năm 2030;</p>\n\n<p style=\"margin-top:6.0pt\">- Xây dựng, ban hành bổ sung chính sách tạo môi trường\npháp lý thuận lợi cho hoạt động đo lường; thúc đẩy xã hội hóa hoạt động đo lường;\nnghiên cứu, xây dựng cơ chế, chính sách thúc đẩy thương mại hóa các sản phẩm từ\nkết quả nghiên cứu, ứng dụng và phát triển khoa học công nghệ đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Rà soát, bổ sung phương tiện đo, chuẩn đo lường,\nchất chuẩn vào Danh mục các sản phẩm công nghệ cao được khuyến khích phát triển;</p>\n\n<p style=\"margin-top:6.0pt\">- Xây dựng, ban hành bộ tiêu chí quốc gia đánh giá\ncác lĩnh vực đo nhằm tăng cường hiệu quả công tác quản lý nhà nước về đo lường;\nthực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh doanh dịch vụ kiểm\nđịnh, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.</p>\n\n<p style=\"margin-top:6.0pt\">2. Tăng cường phát triển hạ tầng đo lường quốc gia:</p>\n\n<p style=\"margin-top:6.0pt\">- Xây dựng, phát triển hạ tầng kỹ thuật đo lường cấp\nquốc gia và các ngành lĩnh vực theo hướng đồng bộ, hiện đại và đáp ứng hội nhập\nquốc tế;</p>\n\n<p style=\"margin-top:6.0pt\">- Phát triển mạng lưới các tổ chức cung cấp dịch vụ\nkiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường đáp ứng các\nyêu cầu của bộ tiêu chí quốc gia đánh giá các lĩnh vực đo lường để phục vụ nhu\ncầu về đo lường của doanh nghiệp;</p>\n\n<p style=\"margin-top:6.0pt\">- Tập trung phát triển hạ tầng đo lường cấp quốc\ngia; duy trì hệ thống chuẩn đo lường quốc gia, đảm bảo độ chính xác và tính liên\nkết chuẩn đo lường quốc gia của Việt Nam tới chuẩn đo lường quốc gia, chuẩn đo\nlường quốc tế có độ chính xác cao hơn của các Viện đo lường quốc gia trong khu\nvực và trên thế giới;</p>\n\n<p style=\"margin-top:6.0pt\">- Tăng cường công tác nghiên cứu cơ bản, nghiên cứu\nứng dụng về khoa học công nghệ đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Bồi dưỡng, nâng cao chuyên môn nghiệp vụ về đo lường\nở trong và ngoài nước cho các cán bộ tham gia hoạt động đo lường của các bộ\nngành, địa phương và doanh nghiệp;</p>\n\n<p style=\"margin-top:6.0pt\">- Tăng cường nghiên cứu phát triển, thương mại hóa\nchất chuẩn, chuẩn đo lường, phương tiện đo phù hợp tiêu chuẩn quốc tế để đáp ứng\nnhu cầu đảm bảo đo lường chính xác trong nước và hướng tới xuất khẩu.</p>\n\n<p style=\"margin-top:6.0pt\">3. Nâng cao hiệu quả công tác quản lý nhà nước về\nđo lường:</p>\n\n<p style=\"margin-top:6.0pt\">- Tăng cường phối hợp giữa các bộ, ngành, địa\nphương và doanh nghiệp về công tác quản lý hoạt động đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Tăng cường công tác kiểm tra, đánh giá việc áp dụng\nbộ tiêu chí quốc gia đánh giá các lĩnh vực.</p>\n\n<p style=\"margin-top:6.0pt\">4. Triển khai công tác hỗ trợ doanh nghiệp đảm bảo\nchất lượng sản phẩm hàng hóa:</p>\n\n<p style=\"margin-top:6.0pt\">- Hỗ trợ doanh nghiệp triển khai áp dụng Chương\ntrình đảm bảo đo lường thông qua hoạt động kiểm định, hiệu chuẩn, thử nghiệm\nphương tiện đo, chuẩn đo lường và hoạt động xây dựng phương pháp đo;</p>\n\n<p style=\"margin-top:6.0pt\">- Hỗ trợ doanh nghiệp cung cấp dịch vụ kiểm định,\nhiệu chuẩn, thử nghiệm đáp ứng yêu cầu của bộ tiêu chí quốc gia đánh giá các\nlĩnh vực đo;</p>\n\n<p style=\"margin-top:6.0pt\">- Hỗ trợ doanh nghiệp tham gia nghiên cứu, ứng dụng\ncông nghệ đo lường tiên tiến trong quá trình sản xuất theo quy định pháp luật\nhiện hành.</p>\n\n<p style=\"margin-top:6.0pt\">5. Tăng cường hợp tác quốc tế:</p>\n\n<p style=\"margin-top:6.0pt\">- Tham gia tích cực vào hoạt động của các tổ chức\nquốc tế và khu vực về đo lường hiện Việt Nam là thành viên;</p>\n\n<p style=\"margin-top:6.0pt\">- Đẩy mạnh trao đổi, hợp tác nghiên cứu, đào tạo,\nchuyển giao công nghệ với các cơ quan, tổ chức đo lường các quốc gia/nền kinh tế\ntrong khu vực và thế giới;</p>\n\n<p style=\"margin-top:6.0pt\">- Mở rộng tham gia đàm phán, ký kết các thỏa thuận\nsong phương và đa phương nhằm thừa nhận lẫn nhau kết quả đo, hiệu chuẩn, thử\nnghiệm phương tiện đo, sản phẩm hàng hóa tạo thuận lợi cho hoạt động thương mại.</p>\n\n<p style=\"margin-top:6.0pt\">6. Tập trung đẩy mạnh công tác truyền thông về hoạt\nđộng đo lường:</p>\n\n<p style=\"margin-top:6.0pt\">- Tổ chức diễn đàn đo lường doanh nghiệp Việt Nam\nthường niên, hội nghị khoa học kỹ thuật đo lường toàn quốc định kỳ 5 năm và các\nhội nghị, hội thảo liên quan; tổ chức thi đua, khen thưởng đối với tổ chức, cá\nnhân thực hiện tốt hoạt động đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Đẩy mạnh công tác thông tin, tuyên truyền chính\nsách, pháp luật, nâng cao nhận thức của doanh nghiệp và xã hội về hoạt động đo\nlường nhằm nâng cao hiệu quả công tác quản lý nhà nước về đo lường.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b>III. KINH PHÍ THỰC HIỆN ĐỀ ÁN</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Nguồn kinh phí thực hiện Đề án:</p>\n\n<p style=\"margin-top:6.0pt\">- Kinh phí thực hiện Đề án gồm kinh phí từ ngân\nsách nhà nước, đóng góp của doanh nghiệp và các nguồn hợp pháp khác;</p>\n\n<p style=\"margin-top:6.0pt\">- Nguồn kinh phí chi thường xuyên ngân sách nhà nước\nđể thực hiện các nhiệm vụ của Đề án bao gồm: Đổi mới, sửa đổi chính sách tạo\nthuận lợi hoạt động đo lường hỗ trợ doanh nghiệp; tăng cường phát triển hạ tầng\nđo lường quốc gia; nâng cao hiệu quả công tác quản lý nhà nước về đo lường; triển\nkhai công tác hỗ trợ doanh nghiệp đảm bảo chất lượng sản phẩm hàng hóa; tăng cường\nhợp tác quốc tế; đẩy mạnh công tác truyền thông về hoạt động đo lường;</p>\n\n<p style=\"margin-top:6.0pt\">- Nguồn kinh phí chi đầu tư phát triển từ ngân sách\nnhà nước để thực hiện nhiệm vụ đầu tư phát triển hạ tầng đo lường quốc gia theo\nquy định của pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">2. Quản lý, sử dụng kinh phí ngân sách nhà nước thực\nhiện các nhiệm vụ của Đề án áp dụng theo quy định pháp luật về ngân sách nhà nước\nvà các quy định có liên quan.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b>Điều 2. Tổ chức thực hiện Đề án</b></a></p>\n\n<p style=\"margin-top:6.0pt\">1. Bộ Khoa học và Công nghệ</p>\n\n<p style=\"margin-top:6.0pt\">a) Chủ trì xây dựng kế hoạch và triển khai các nội dung\ncủa Đề án; hướng dẫn, kiểm tra, tổ chức sơ kết và tổng kết tình hình thực hiện\nĐề án; định kỳ hằng năm báo cáo Thủ tướng Chính phủ tình hình triển khai Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">b) Chủ trì, phối hợp với các bộ, ngành liên quan tổ\nchức nghiên cứu, sửa đổi, bổ sung cơ chế, chính sách nhằm tăng cường, đổi mới\nhoạt động đo lường để hỗ trợ doanh nghiệp; hàng năm phê duyệt các nhiệm vụ khoa\nhọc và công nghệ cấp quốc gia về đo lường; xây dựng và phê duyệt Danh mục\nngành, lĩnh vực sản xuất, kinh doanh trọng tâm cần tăng cường, đổi mới hoạt động\nđo lường (sau đây viết tắt là Danh mục) đến năm 2025; rà soát, bổ sung Danh mục\nđến năm 2030; tổng kết, đánh giá kết quả thực hiện chương trình đảm bảo đo lường\ntheo tiêu chí nâng cao năng lực cạnh tranh và hội nhập quốc tế của doanh nghiệp\ntheo từng ngành, lĩnh vực trong Danh mục.</p>\n\n<p style=\"margin-top:6.0pt\">c) Chủ trì xây dựng kế hoạch, dự toán, phân bổ và\ngiao dự toán kinh phí từ ngân sách nhà nước dành cho hoạt động khoa học và công\nnghệ và các nguồn kinh phí hợp pháp khác để triển khai Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">d) Chủ trì, phối hợp với các bộ, ngành và địa\nphương rà soát hạ tầng kỹ thuật đo lường bảo đảm thống nhất chung định hướng\nphát triển từ cấp quốc gia đến cấp bộ, ngành, địa phương nhằm hỗ trợ doanh nghiệp\ntrong nước nâng cao năng lực cạnh tranh và hội nhập quốc tế.</p>\n\n<p style=\"margin-top:6.0pt\">đ) Ban hành, đưa vào triển khai áp dụng bộ tiêu chí\nquốc gia đánh giá các lĩnh vực đo lường.</p>\n\n<p style=\"margin-top:6.0pt\">e) Phối hợp các bộ, cơ quan liên quan tham gia đàm\nphán các thỏa thuận song phương và đa phương về thừa nhận lẫn nhau kết quả đo\ntrên cơ sở của Thỏa thuận thừa nhận lẫn nhau toàn cầu về đo lường.</p>\n\n<p style=\"margin-top:6.0pt\">2. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ</p>\n\n<p style=\"margin-top:6.0pt\">a) Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ\ntrong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:</p>\n\n<p style=\"margin-top:6.0pt\">- Căn cứ chức năng nhiệm vụ, nhu cầu và điều kiện\nphát triển hoạt động đo lường của ngành, chủ trì, đề xuất và phối hợp với Bộ\nKhoa học và Công nghệ xây dựng và phê duyệt các nhiệm vụ thuộc Đề án trong phạm\nvi quản lý nhà nước theo thẩm quyền và quy định của pháp luật liên quan;</p>\n\n<p style=\"margin-top:6.0pt\">- Chủ trì, phối hợp Bộ Khoa học và Công nghệ thực\nhiện việc bảo đảm đo lường chính xác trong doanh nghiệp thuộc phạm vi quản lý\nnhà nước;</p>\n\n<p style=\"margin-top:6.0pt\">- Chủ trì, phối hợp với Bộ Khoa học và Công nghệ hỗ\ntrợ, tháo gỡ khó khăn về đo lường của doanh nghiệp khi tham gia hoạt động sản\nxuất, kinh doanh, xuất nhập khẩu;</p>\n\n<p style=\"margin-top:6.0pt\">- Huy động, bố trí các nguồn kinh phí phù hợp để\ntriển khai các nội dung của Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">b) Bộ Tài chính, Bộ Kế hoạch và Đầu tư chủ trì, phối\nhợp với Bộ Khoa học và Công nghệ bố trí kinh phí chi thường xuyên, chi đầu tư\nphát triển trên cơ sở kế hoạch, dự toán kinh phí thực hiện Đề án do Bộ Khoa học\nvà Công nghệ xây dựng và khả năng cân đối ngân sách hàng năm.</p>\n\n<p style=\"margin-top:6.0pt\">3. Ủy ban nhân dân các tỉnh, thành phố trực thuộc\ntrung ương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:</p>\n\n<p style=\"margin-top:6.0pt\">a) Căn cứ nhu cầu phát triển hoạt động đo lường tại\nđịa phương, chỉ đạo các đơn vị trực thuộc xây dựng, trình cấp có thẩm quyền phê\nduyệt, triển khai thực hiện các nhiệm vụ thuộc Đề án trên địa bàn theo quy định\ncủa pháp luật.</p>\n\n<p style=\"margin-top:6.0pt\">b) Hướng dẫn, hỗ trợ các doanh nghiệp hoạt động\ntrong các ngành, lĩnh vực thuộc Danh mục và các doanh nghiệp tham gia hoạt động\nvề đo lường trên địa bàn áp dụng triển khai các cơ chế chính sách theo nội dung\ncủa Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">c) Định kỳ hoặc đột xuất khi có yêu cầu, tổ chức tổng\nkết, báo cáo kết quả triển khai các nhiệm vụ Đề án trong phạm vi, thẩm quyền được\ngiao, các vấn đề phát sinh cần giải quyết cho Bộ Khoa học và Công nghệ để tổng\nhợp, báo cáo Thủ tướng Chính phủ.</p>\n\n<p style=\"margin-top:6.0pt\">4. Phòng Thương mại và Công nghiệp Việt Nam, Hiệp hội\ndoanh nghiệp nhỏ và vừa Việt Nam, các tổ chức chính trị - xã hội - nghề nghiệp\ndựa trên nhu cầu thực tế của doanh nghiệp, thành viên:</p>\n\n<p style=\"margin-top:6.0pt\">a) Tham gia phối hợp với các bộ ngành, địa phương để\nhỗ trợ, tạo điều kiện cho các tổ chức, cá nhân, hội, hiệp hội thành viên tham\ngia thực hiện nội dung của Đề án.</p>\n\n<p style=\"margin-top:6.0pt\">b) Phối hợp với Bộ Khoa học và Công nghệ tổ chức\ntuyên truyền, phổ biến Đề án đến các doanh nghiệp liên quan để tham gia thực hiện.</p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b>Điều 3. Điều khoản thi hành</b></a></p>\n\n<p style=\"margin-top:6.0pt\">Quyết định này có hiệu lực thi hành kể từ ngày ký\nban hành.</p>\n\n<p style=\"margin-top:6.0pt\">Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng\ncơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc\ntrung ương, các tổ chức chính trị - xã hội - nghề nghiệp và các tổ chức, cá\nnhân liên quan chịu trách nhiệm thi hành Quyết định này./.</p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADEAMAA2ADEAOAA=-->\n <tbody><tr>\n  <td width=\"314\" valign=\"top\" style=\"width:235.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Thủ tướng, các Phó Thủ tướng Chính phủ;<br>\n  - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;<br>\n  - UBND các tỉnh, thành phố trực thuộc trung ương;<br>\n  - Văn phòng Trung ương Đảng;<br>\n  - Văn phòng Tổng Bí thư;<br>\n  - Văn phòng Chủ tịch nước;<br>\n  - Văn phòng Quốc hội;<br>\n  - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;<br>\n  - Phòng Thương mại và Công nghiệp Việt Nam;<br>\n  - Hiệp hội doanh nghiệp nhỏ và vừa Việt Nam;<br>\n  - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,<br>\n  các Vụ: CN, NN, ĐMDN, KTTH, QHĐP, PL; <br>\n  - Lưu: VT, KGVX (2).<sub>XH</sub></span></p>\n  </td>\n  <td width=\"277\" valign=\"top\" style=\"width:207.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. THỦ TƯỚNG<br>\n  PHÓ THỦ TƯỚNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Vũ Đức Đam</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n",
-  "mdContent": "**THỦ TƯỚNG CHÍNH PHỦ  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 996/QĐ-TTg\n\n_Hà Nội, ngày 10 tháng 8 năm 2018_\n\n**QUYẾT ĐỊNH**\n\nPHÊ DUYỆT ĐỀ ÁN “TĂNG CƯỜNG, ĐỔI MỚI HOẠT ĐỘNG ĐO LƯỜNG HỖ TRỢ DOANH NGHIỆP VIỆT NAM NÂNG CAO NĂNG LỰC CẠNH TRANH VÀ HỘI NHẬP QUỐC TẾ GIAI ĐOẠN ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030”\n\n**THỦ TƯỚNG CHÍNH PHỦ**\n\n_Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;_\n\n_Căn cứ Luật Đo lường ngày 11 tháng 11 năm 2011;_\n\n_Căn cứ Luật Hỗ trợ doanh nghiệp nhỏ và vừa ngày 12 tháng 6 năm 2017;_\n\n_Căn cứ Nghị quyết số [297/NQ-UBTVQH14](https://thuvienphapluat.vn/van-ban/cong-nghe-thong-tin/nghi-quyet-297-nq-ubtvqh14-phat-trien-khoa-hoc-cong-nghe-thuc-day-cong-nghiep-hoa-2015-2020-2016-328533.aspx \"Nghị quyết 297/NQ-UBTVQH14\") ngày 02 tháng 11 năm 2016 của Ủy ban Thường vụ Quốc hội về nâng cao hiệu quả thực hiện chính sách, pháp luật về khoa học, công nghệ nhằm thúc đẩy công nghiệp hóa, hiện đại hóa giai đoạn 2015 - 2020, trong đó chú trọng đẩy mạnh công nghiệp hỗ trợ và cơ khí chế tạo;_\n\n_Căn cứ Nghị quyết số [35/NQ-CP](https://thuvienphapluat.vn/van-ban/doanh-nghiep/nghi-quyet-35-nq-cp-ho-tro-phat-trien-doanh-nghiep-2020-2016-311331.aspx \"Nghị quyết 35/NQ-CP\") ngày 16 tháng 5 năm 2016 của Chính phủ về hỗ trợ và phát triển doanh nghiệp đến năm 2020;_\n\n_Căn cứ Nghị quyết số [01/NQ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-quyet-01-nq-cp-2018-giai-phap-chu-yeu-thuc-hien-ke-hoach-phat-trien-kinh-te-xa-hoi-371009.aspx \"Nghị quyết 01/NQ-CP\") ngày 01 tháng 01 năm 2018 của Chính phủ về nhiệm vụ, giải pháp chủ yếu thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách năm 2018;_\n\n_Xét đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Phê duyệt Đề án “Tăng cường, đổi mới hoạt động đo lường hỗ trợ doanh nghiệp Việt Nam nâng cao năng lực cạnh tranh và hội nhập quốc tế giai đoạn đến năm 2025, định hướng đến năm 2030” (viết tắt là Đề án) với những nội dung chính sau đây:\n\n**I. MỤC TIÊU ĐỀ ÁN**\n\n1\\. Mục tiêu chung\n\na) Phát triển hạ tầng đo lường quốc gia theo hướng đồng bộ, hiện đại, đáp ứng hội nhập quốc tế và nhu cầu đảm bảo đo lường chính xác cho hoạt động doanh nghiệp, phù hợp điều kiện kinh tế - xã hội của Việt Nam, phù hợp với quy hoạch phát triển bộ ngành và địa phương.\n\nb) Tập trung hỗ trợ doanh nghiệp trong một số ngành, lĩnh vực ưu tiên; xây dựng và triển khai hiệu quả Chương trình bảo đảm đo lường tại doanh nghiệp; tăng cường hoạt động đo lường gắn chặt với hoạt động doanh nghiệp.\n\nc) Đẩy mạnh xã hội hóa, huy động đa dạng các nguồn lực trong xã hội để đóng góp phát triển hoạt động đo lường.\n\nd) Xây dựng và áp dụng hiệu quả bộ tiêu chí quốc gia đánh giá các lĩnh vực đo lường để tăng cường hiệu quả, hiệu lực công tác quản lý nhà nước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh doanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.\n\nđ) Tập trung đẩy mạnh công tác tuyên truyền, nâng cao nhận thức, phổ biến sâu rộng về vai trò, tầm quan trọng hoạt động đo lường hỗ trợ doanh nghiệp.\n\n2\\. Mục tiêu cụ thể\n\na) Đến năm 2025:\n\n\\- Phát triển hạ tầng đo lường quốc gia đáp ứng công nhận đủ 41 chuẩn đo lường quốc gia theo quy hoạch đã được phê duyệt; công nhận ít nhất 200 phép đo hiệu chuẩn được quốc tế thừa nhận trong khuôn khổ Thỏa thuận thừa nhận lẫn nhau toàn cầu về đo lường (CIPM-MRA);\n\n\\- Thống nhất chung định hướng phát triển hạ tầng kỹ thuật đo lường từ cấp quốc gia đến cấp bộ ngành, địa phương;\n\n\\- Phát triển được ít nhất 100 chất chuẩn, chuẩn đo lường, phương tiện đo các loại đáp ứng nhu cầu đảm bảo đo lường chính xác cho doanh nghiệp;\n\n\\- Bồi dưỡng, nâng cao chuyên môn nghiệp vụ về đo lường ít nhất 10.000 cán bộ tham gia hoạt động đo lường;\n\n\\- Triển khai Chương trình đảm bảo đo lường thông qua hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường và hoạt động xây dựng phương pháp đo cho ít nhất 50.000 doanh nghiệp bao gồm doanh nghiệp có vốn nhà nước và doanh nghiệp khu vực kinh tế tư nhân;\n\n\\- Triển khai áp dụng bộ tiêu chí quốc gia đánh giá các lĩnh vực đo lường ít nhất 1000 phòng thí nghiệm được công nhận trong cả nước cho các lĩnh vực đo lường để tăng cường hiệu quả, hiệu lực công tác quản lý nhà nước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh doanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.\n\nb) Đến năm 2030:\n\n\\- Phát triển hạ tầng đo lường quốc gia đáp ứng công nhận ít nhất 300 phép đo hiệu chuẩn được quốc tế thừa nhận trong khuôn khổ Thỏa thuận thừa nhận lẫn nhau toàn cầu về đo lường (CIPM-MRA);\n\n\\- Phát triển được ít nhất 250 chất chuẩn, chuẩn đo lường, phương tiện đo các loại đáp ứng nhu cầu đảm bảo đo lường chính xác cho doanh nghiệp;\n\n\\- Bồi dưỡng, nâng cao chuyên môn nghiệp vụ về đo lường ít nhất 20.000 cán bộ tham gia hoạt động đo lường;\n\n\\- Triển khai Chương trình đảm bảo đo lường thông qua hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường và hoạt động xây dựng phương pháp đo cho ít nhất 100.000 doanh nghiệp bao gồm doanh nghiệp có vốn nhà nước và doanh nghiệp khu vực kinh tế tư nhân;\n\n\\- Triển khai áp dụng bộ tiêu chí quốc gia đánh giá các lĩnh vực đo lường ít nhất 2000 phòng thí nghiệm được công nhận trong cả nước cho các lĩnh vực đo lường để tăng cường hiệu quả, hiệu lực công tác quản lý nhà nước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh doanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.\n\n**II. NHIỆM VỤ, GIẢI PHÁP CHỦ YẾU CỦA ĐỀ ÁN**\n\n1\\. Đổi mới, sửa đổi chính sách tạo thuận lợi hoạt động đo lường hỗ trợ doanh nghiệp:\n\n\\- Xây dựng, ban hành Danh mục ngành, lĩnh vực sản xuất, kinh doanh trọng tâm cần tăng cường, đổi mới hoạt động đo lường để hỗ trợ doanh nghiệp Việt Nam nâng cao năng lực cạnh tranh và hội nhập quốc tế đến năm 2025; rà soát, bổ sung Danh mục đến năm 2030;\n\n\\- Xây dựng, ban hành bổ sung chính sách tạo môi trường pháp lý thuận lợi cho hoạt động đo lường; thúc đẩy xã hội hóa hoạt động đo lường; nghiên cứu, xây dựng cơ chế, chính sách thúc đẩy thương mại hóa các sản phẩm từ kết quả nghiên cứu, ứng dụng và phát triển khoa học công nghệ đo lường;\n\n\\- Rà soát, bổ sung phương tiện đo, chuẩn đo lường, chất chuẩn vào Danh mục các sản phẩm công nghệ cao được khuyến khích phát triển;\n\n\\- Xây dựng, ban hành bộ tiêu chí quốc gia đánh giá các lĩnh vực đo nhằm tăng cường hiệu quả công tác quản lý nhà nước về đo lường; thực hiện chuẩn hóa năng lực, hoạt động của các tổ chức kinh doanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.\n\n2\\. Tăng cường phát triển hạ tầng đo lường quốc gia:\n\n\\- Xây dựng, phát triển hạ tầng kỹ thuật đo lường cấp quốc gia và các ngành lĩnh vực theo hướng đồng bộ, hiện đại và đáp ứng hội nhập quốc tế;\n\n\\- Phát triển mạng lưới các tổ chức cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường đáp ứng các yêu cầu của bộ tiêu chí quốc gia đánh giá các lĩnh vực đo lường để phục vụ nhu cầu về đo lường của doanh nghiệp;\n\n\\- Tập trung phát triển hạ tầng đo lường cấp quốc gia; duy trì hệ thống chuẩn đo lường quốc gia, đảm bảo độ chính xác và tính liên kết chuẩn đo lường quốc gia của Việt Nam tới chuẩn đo lường quốc gia, chuẩn đo lường quốc tế có độ chính xác cao hơn của các Viện đo lường quốc gia trong khu vực và trên thế giới;\n\n\\- Tăng cường công tác nghiên cứu cơ bản, nghiên cứu ứng dụng về khoa học công nghệ đo lường;\n\n\\- Bồi dưỡng, nâng cao chuyên môn nghiệp vụ về đo lường ở trong và ngoài nước cho các cán bộ tham gia hoạt động đo lường của các bộ ngành, địa phương và doanh nghiệp;\n\n\\- Tăng cường nghiên cứu phát triển, thương mại hóa chất chuẩn, chuẩn đo lường, phương tiện đo phù hợp tiêu chuẩn quốc tế để đáp ứng nhu cầu đảm bảo đo lường chính xác trong nước và hướng tới xuất khẩu.\n\n3\\. Nâng cao hiệu quả công tác quản lý nhà nước về đo lường:\n\n\\- Tăng cường phối hợp giữa các bộ, ngành, địa phương và doanh nghiệp về công tác quản lý hoạt động đo lường;\n\n\\- Tăng cường công tác kiểm tra, đánh giá việc áp dụng bộ tiêu chí quốc gia đánh giá các lĩnh vực.\n\n4\\. Triển khai công tác hỗ trợ doanh nghiệp đảm bảo chất lượng sản phẩm hàng hóa:\n\n\\- Hỗ trợ doanh nghiệp triển khai áp dụng Chương trình đảm bảo đo lường thông qua hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường và hoạt động xây dựng phương pháp đo;\n\n\\- Hỗ trợ doanh nghiệp cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm đáp ứng yêu cầu của bộ tiêu chí quốc gia đánh giá các lĩnh vực đo;\n\n\\- Hỗ trợ doanh nghiệp tham gia nghiên cứu, ứng dụng công nghệ đo lường tiên tiến trong quá trình sản xuất theo quy định pháp luật hiện hành.\n\n5\\. Tăng cường hợp tác quốc tế:\n\n\\- Tham gia tích cực vào hoạt động của các tổ chức quốc tế và khu vực về đo lường hiện Việt Nam là thành viên;\n\n\\- Đẩy mạnh trao đổi, hợp tác nghiên cứu, đào tạo, chuyển giao công nghệ với các cơ quan, tổ chức đo lường các quốc gia/nền kinh tế trong khu vực và thế giới;\n\n\\- Mở rộng tham gia đàm phán, ký kết các thỏa thuận song phương và đa phương nhằm thừa nhận lẫn nhau kết quả đo, hiệu chuẩn, thử nghiệm phương tiện đo, sản phẩm hàng hóa tạo thuận lợi cho hoạt động thương mại.\n\n6\\. Tập trung đẩy mạnh công tác truyền thông về hoạt động đo lường:\n\n\\- Tổ chức diễn đàn đo lường doanh nghiệp Việt Nam thường niên, hội nghị khoa học kỹ thuật đo lường toàn quốc định kỳ 5 năm và các hội nghị, hội thảo liên quan; tổ chức thi đua, khen thưởng đối với tổ chức, cá nhân thực hiện tốt hoạt động đo lường;\n\n\\- Đẩy mạnh công tác thông tin, tuyên truyền chính sách, pháp luật, nâng cao nhận thức của doanh nghiệp và xã hội về hoạt động đo lường nhằm nâng cao hiệu quả công tác quản lý nhà nước về đo lường.\n\n**III. KINH PHÍ THỰC HIỆN ĐỀ ÁN**\n\n1\\. Nguồn kinh phí thực hiện Đề án:\n\n\\- Kinh phí thực hiện Đề án gồm kinh phí từ ngân sách nhà nước, đóng góp của doanh nghiệp và các nguồn hợp pháp khác;\n\n\\- Nguồn kinh phí chi thường xuyên ngân sách nhà nước để thực hiện các nhiệm vụ của Đề án bao gồm: Đổi mới, sửa đổi chính sách tạo thuận lợi hoạt động đo lường hỗ trợ doanh nghiệp; tăng cường phát triển hạ tầng đo lường quốc gia; nâng cao hiệu quả công tác quản lý nhà nước về đo lường; triển khai công tác hỗ trợ doanh nghiệp đảm bảo chất lượng sản phẩm hàng hóa; tăng cường hợp tác quốc tế; đẩy mạnh công tác truyền thông về hoạt động đo lường;\n\n\\- Nguồn kinh phí chi đầu tư phát triển từ ngân sách nhà nước để thực hiện nhiệm vụ đầu tư phát triển hạ tầng đo lường quốc gia theo quy định của pháp luật.\n\n2\\. Quản lý, sử dụng kinh phí ngân sách nhà nước thực hiện các nhiệm vụ của Đề án áp dụng theo quy định pháp luật về ngân sách nhà nước và các quy định có liên quan.\n\n**Điều 2. Tổ chức thực hiện Đề án**\n\n1\\. Bộ Khoa học và Công nghệ\n\na) Chủ trì xây dựng kế hoạch và triển khai các nội dung của Đề án; hướng dẫn, kiểm tra, tổ chức sơ kết và tổng kết tình hình thực hiện Đề án; định kỳ hằng năm báo cáo Thủ tướng Chính phủ tình hình triển khai Đề án.\n\nb) Chủ trì, phối hợp với các bộ, ngành liên quan tổ chức nghiên cứu, sửa đổi, bổ sung cơ chế, chính sách nhằm tăng cường, đổi mới hoạt động đo lường để hỗ trợ doanh nghiệp; hàng năm phê duyệt các nhiệm vụ khoa học và công nghệ cấp quốc gia về đo lường; xây dựng và phê duyệt Danh mục ngành, lĩnh vực sản xuất, kinh doanh trọng tâm cần tăng cường, đổi mới hoạt động đo lường (sau đây viết tắt là Danh mục) đến năm 2025; rà soát, bổ sung Danh mục đến năm 2030; tổng kết, đánh giá kết quả thực hiện chương trình đảm bảo đo lường theo tiêu chí nâng cao năng lực cạnh tranh và hội nhập quốc tế của doanh nghiệp theo từng ngành, lĩnh vực trong Danh mục.\n\nc) Chủ trì xây dựng kế hoạch, dự toán, phân bổ và giao dự toán kinh phí từ ngân sách nhà nước dành cho hoạt động khoa học và công nghệ và các nguồn kinh phí hợp pháp khác để triển khai Đề án.\n\nd) Chủ trì, phối hợp với các bộ, ngành và địa phương rà soát hạ tầng kỹ thuật đo lường bảo đảm thống nhất chung định hướng phát triển từ cấp quốc gia đến cấp bộ, ngành, địa phương nhằm hỗ trợ doanh nghiệp trong nước nâng cao năng lực cạnh tranh và hội nhập quốc tế.\n\nđ) Ban hành, đưa vào triển khai áp dụng bộ tiêu chí quốc gia đánh giá các lĩnh vực đo lường.\n\ne) Phối hợp các bộ, cơ quan liên quan tham gia đàm phán các thỏa thuận song phương và đa phương về thừa nhận lẫn nhau kết quả đo trên cơ sở của Thỏa thuận thừa nhận lẫn nhau toàn cầu về đo lường.\n\n2\\. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ\n\na) Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:\n\n\\- Căn cứ chức năng nhiệm vụ, nhu cầu và điều kiện phát triển hoạt động đo lường của ngành, chủ trì, đề xuất và phối hợp với Bộ Khoa học và Công nghệ xây dựng và phê duyệt các nhiệm vụ thuộc Đề án trong phạm vi quản lý nhà nước theo thẩm quyền và quy định của pháp luật liên quan;\n\n\\- Chủ trì, phối hợp Bộ Khoa học và Công nghệ thực hiện việc bảo đảm đo lường chính xác trong doanh nghiệp thuộc phạm vi quản lý nhà nước;\n\n\\- Chủ trì, phối hợp với Bộ Khoa học và Công nghệ hỗ trợ, tháo gỡ khó khăn về đo lường của doanh nghiệp khi tham gia hoạt động sản xuất, kinh doanh, xuất nhập khẩu;\n\n\\- Huy động, bố trí các nguồn kinh phí phù hợp để triển khai các nội dung của Đề án.\n\nb) Bộ Tài chính, Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Khoa học và Công nghệ bố trí kinh phí chi thường xuyên, chi đầu tư phát triển trên cơ sở kế hoạch, dự toán kinh phí thực hiện Đề án do Bộ Khoa học và Công nghệ xây dựng và khả năng cân đối ngân sách hàng năm.\n\n3\\. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm:\n\na) Căn cứ nhu cầu phát triển hoạt động đo lường tại địa phương, chỉ đạo các đơn vị trực thuộc xây dựng, trình cấp có thẩm quyền phê duyệt, triển khai thực hiện các nhiệm vụ thuộc Đề án trên địa bàn theo quy định của pháp luật.\n\nb) Hướng dẫn, hỗ trợ các doanh nghiệp hoạt động trong các ngành, lĩnh vực thuộc Danh mục và các doanh nghiệp tham gia hoạt động về đo lường trên địa bàn áp dụng triển khai các cơ chế chính sách theo nội dung của Đề án.\n\nc) Định kỳ hoặc đột xuất khi có yêu cầu, tổ chức tổng kết, báo cáo kết quả triển khai các nhiệm vụ Đề án trong phạm vi, thẩm quyền được giao, các vấn đề phát sinh cần giải quyết cho Bộ Khoa học và Công nghệ để tổng hợp, báo cáo Thủ tướng Chính phủ.\n\n4\\. Phòng Thương mại và Công nghiệp Việt Nam, Hiệp hội doanh nghiệp nhỏ và vừa Việt Nam, các tổ chức chính trị - xã hội - nghề nghiệp dựa trên nhu cầu thực tế của doanh nghiệp, thành viên:\n\na) Tham gia phối hợp với các bộ ngành, địa phương để hỗ trợ, tạo điều kiện cho các tổ chức, cá nhân, hội, hiệp hội thành viên tham gia thực hiện nội dung của Đề án.\n\nb) Phối hợp với Bộ Khoa học và Công nghệ tổ chức tuyên truyền, phổ biến Đề án đến các doanh nghiệp liên quan để tham gia thực hiện.\n\n**Điều 3. Điều khoản thi hành**\n\nQuyết định này có hiệu lực thi hành kể từ ngày ký ban hành.\n\nCác Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, các tổ chức chính trị - xã hội - nghề nghiệp và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n  \n**_Nơi nhận:  \n_**\\- Thủ tướng, các Phó Thủ tướng Chính phủ;  \n\\- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;  \n\\- UBND các tỉnh, thành phố trực thuộc trung ương;  \n\\- Văn phòng Trung ương Đảng;  \n\\- Văn phòng Tổng Bí thư;  \n\\- Văn phòng Chủ tịch nước;  \n\\- Văn phòng Quốc hội;  \n\\- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;  \n\\- Phòng Thương mại và Công nghiệp Việt Nam;  \n\\- Hiệp hội doanh nghiệp nhỏ và vừa Việt Nam;  \n\\- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,  \ncác Vụ: CN, NN, ĐMDN, KTTH, QHĐP, PL;  \n\\- Lưu: VT, KGVX (2).XH\n\n**KT. THỦ TƯỚNG  \nPHÓ THỦ TƯỚNG  \n  \n  \n  \n  \nVũ Đức Đam**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIAOAA=-->\n <tbody><tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>THỦ TƯỚNG CHÍNH\n  PHỦ<br>\n  -------</b></p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 996/QĐ-TTg</p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 25\n  tháng 8 năm 2023</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><a name=\"loai_1_name\">BAN HÀNH DANH SÁCH CÁC ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP TRỰC THUỘC\nBỘ XÂY DỰNG</a></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt\">THỦ TƯỚNG CHÍNH PHỦ</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Luật Tổ chức Chính phủ\nngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức\nChính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 123/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-123-2016-nd-cp-chuc-nang-nhiem-vu-quyen-han-co-cau-to-chuc-bo-co-quan-ngang-bo-321514.aspx\">123/2016/NĐ-CP</a>  ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm\nvụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ; Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 101/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-101-2020-nd-cp-sua-doi-nghi-dinh-123-2016-nd-cp-chuc-nang-nhiem-vu-cua-bo-451389.aspx\">101/2020/NĐ-CP</a>  ngày 28 tháng 8 năm 2020 của Chính phủ sửa đổi, bổ sung một số\nđiều của Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 123/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-123-2016-nd-cp-chuc-nang-nhiem-vu-quyen-han-co-cau-to-chuc-bo-co-quan-ngang-bo-321514.aspx\">123/2016/NĐ-CP</a> ;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 120/2020/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-120-2020-nd-cp-thanh-lap-to-chuc-lai-giai-the-don-vi-su-nghiep-cong-lap-379357.aspx\">120/2020/NĐ-CP</a> \nngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải\nthể đơn vị sự nghiệp công lập;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 60/2021/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-60-2021-nd-cp-co-che-tu-chu-tai-chinh-cua-don-vi-su-nghiep-cong-lap-478766.aspx\">60/2021/NĐ-CP</a>  ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài\nchính của đơn vị sự nghiệp công lập;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Căn cứ Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 52/2022/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-52-2022-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-xay-dung-525114.aspx\">52/2022/NĐ-CP</a>  ngày 08 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm\nvụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;</i></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><i>Theo đề nghị của Bộ trưởng Bộ\nXây dựng<span style=\"color:#001F5F\">.</span></i></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center;text-autospace:none\"><b><span style=\"font-size:12.0pt;color:black\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_1\"><b><span style=\"color:black\">Điều 1. Các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng,\ngồm:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">1. Viện\nKhoa học công nghệ xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">2. Viện\nVật liệu xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">3. Viện\nKinh tế xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">4. Viện\nQuy hoạch đô thị và nông thôn quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">5. Viện\nKiến trúc quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">6.\nTrường Đại học Kiến trúc Hà Nội.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">7.\nTrường Đại học Kiến trúc Thành phố Hồ Chí Minh.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">8.\nTrường Đại học Xây dựng miền Trung.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">9.\nTrường Đại học Xây dựng miền Tây.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">10.\nNhà xuất bản Xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">11.\nBan Quản lý dự án Đầu tư xây dựng chuyên ngành - Bộ Xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_2\"><b><span style=\"color:black\">Điều 2. Tổ chức lại các đơn vị sự nghiệp công lập trực thuộc\nBộ Xây dựng như sau:</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">1.\nChuyển nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng sau\nđây về Bộ Lao động - Thương binh và Xã hội quản lý:</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">a)\nTrường Cao đẳng Xây dựng số 1;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">b)\nTrường Cao đẳng Xây dựng Thành phố Hồ Chí Minh;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">c)\nTrường Cao đẳng Xây dựng Công trình đô thị;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">d)\nTrường Cao đẳng Xây dựng Nam Định;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">đ)\nTrường Cao đẳng nghề Việt - Xô số 1;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">e)\nTrường Cao đẳng Công nghệ Quốc tế Lilama 2;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">g)\nTrường Cao đẳng Cơ giới Xây dựng;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">h)\nTrường Cao đẳng nghề Xây dựng;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">i)\nTrường Cao đẳng Kỹ thuật và Nghiệp vụ Hà Nội;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">k)\nTrường Trung cấp nghề Cơ khí xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">2.\nChuyển nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng sau\nđây về địa phương (nơi có trụ sở của các đơn vị sự nghiệp công lập) quản lý:</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">a) Trường\nTrung cấp Kỹ thuật - Nghiệp vụ Hải Phòng chuyển về Ủy ban nhân dân thành phố Hải\nPhòng quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">b)\nTrường Cao đẳng nghề Lilama I chuyển về Ủy ban nhân dân tỉnh Ninh Bình quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">c) Trường\nTrung cấp Kỹ thuật - Nghiệp vụ Vinh chuyển về Ủy ban nhân dân tỉnh Nghệ An quản\nlý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">d)\nTrường Cao đẳng nghề Sông Đà chuyển về Ủy ban nhân dân tỉnh Hòa Bình quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">đ)\nTrường Trung cấp Kỹ thuật - Nghiệp vụ Sông Hồng chuyển về Ủy ban nhân dân tỉnh\nPhú Thọ quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">e) Bệnh\nviện Xây dựng Việt Trì chuyển về Ủy ban nhân dân tỉnh Phú Thọ quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">g)\nTrung tâm Phục hồi chức năng - Điều trị bệnh nghề nghiệp Đồ Sơn chuyển về Ủy\nban nhân dân thành phố Hải Phòng quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">h)\nTrung tâm Điều dưỡng - Phục hồi chức năng Sầm Sơn chuyển về Ủy ban nhân dân tỉnh\nThanh Hóa quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">i)\nTrung tâm Điều dưỡng - Phục hồi chức năng Cửa Lò chuyển về Ủy ban nhân dân tỉnh\nNghệ An quản lý;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">k)\nTrung tâm Điều dưỡng - Phục hồi chức năng ngành Xây dựng phía Nam chuyển về Ủy\nban nhân dân tỉnh Bà Rịa - Vũng Tàu quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">3.\nSáp nhập Viện Quy hoạch xây dựng miền Nam vào Viện Quy hoạch đô thị và nông\nthôn quốc gia.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">4.\nCác đơn vị sự nghiệp công lập tại khoản 1, khoản 2 Điều 2 Quyết định này và Viện\nQuy hoạch xây dựng miền Nam tiếp tục thực hiện nhiệm vụ cho đến khi cơ quan có\nthẩm quyền hoàn thành việc sáp nhập, chuyển giao, tiếp nhận.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">5.\nHoàn thành việc sáp nhập, chuyển giao, tiếp nhận các đơn vị sự nghiệp công lập\ntrực thuộc Bộ Xây dựng trước ngày 30 tháng 6 năm 2024.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_3\"><b><span style=\"color:black\">Điều 3. Trách nhiệm của các bộ, cơ quan</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">1. Bộ\nXây dựng: Chủ trì, phối hợp với Bộ Tài chính, Bộ Nội vụ, Bộ Y tế, Bộ Kế hoạch\nvà Đầu tư, Bộ Lao động - Thương binh và Xã hội, Ủy ban nhân dân các tỉnh, thành\nphố trực thuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập) và\ncác cơ quan có liên quan thực hiện việc chuyển giao nguyên trạng các đơn vị sự\nnghiệp công lập trực thuộc Bộ Xây dựng về Bộ Lao động - Thương binh và Xã hội\nvà các địa phương để quản lý theo quy định pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">2. Bộ\nTài chính: Phối hợp với Bộ Xây dựng, Ủy ban nhân dân các tỉnh, thành phố trực\nthuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập) và các cơ\nquan có liên quan thực hiện việc điều chuyển tài sản của các đơn vị sự nghiệp\ncông lập được chuyển giao theo quy định pháp luật về quản lý, sử dụng tài sản\ncông.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">3. Bộ\nNội vụ: Phối hợp với Bộ Xây dựng, Ủy ban nhân dân các tỉnh, thành phố trực thuộc\ntrung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập) và các cơ quan có\nliên quan thực hiện việc điều chuyển biên chế viên chức của các đơn vị sự nghiệp\ncông lập được chuyển giao theo quy định pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">4. Bộ\nLao động - Thương binh và Xã hội và Ủy ban nhân dân các tỉnh, thành phố trực\nthuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập):</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">a) Tiếp\nnhận nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng được\nchuyển giao về Bộ Lao động - Thương binh và Xã hội và các địa phương để quản lý\ntheo quy định;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">b) Phối\nhợp với Bộ Xây dựng, Bộ Nội vụ, Bộ Tài chính thực hiện việc điều chuyển biên chế\nviên chức, bàn giao tài chính, tài sản, trụ sở của các đơn vị sự nghiệp công lập\nđược chuyển giao quản lý theo quy định;</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">c) Rà\nsoát, sắp xếp lại, bố trí sử dụng nhà, đất và các tài sản khác theo tiêu chuẩn,\nđịnh mức và chế độ quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><a name=\"dieu_4\"><b><span style=\"color:black\">Điều 4. Hiệu lực và trách nhiệm thi hành</span></b></a></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">1.\nQuyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định\nsố <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 359/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-359-qd-ttg-2019-danh-sach-don-vi-su-nghiep-cong-lap-truc-thuoc-bo-xay-dung-410708.aspx\">359/QĐ-TTg</a>  ngày 02 tháng 4 năm 2019 của Thủ tướng Chính phủ ban hành danh\nsách các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\">2.\nCác Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ,\nChủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức,\ncá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.</span></p>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\"> </span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIAOAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt;color:black\">- Ban Bí thư Trung ương Đảng;<br>\n  - Thủ tướng, các Phó Thủ tướng Chính phủ;<br>\n  - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;<br>\n  - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;<br>\n  - Văn phòng Trung ương và các Ban của Đảng;<br>\n  - Văn phòng Tổng Bí thư;<br>\n  - Văn phòng Chủ tịch nước;<br>\n  - Hội đồng Dân tộc và các Ủy ban của Quốc hội;<br>\n  - Văn phòng Quốc hội;<br>\n  - Tòa án nhân dân tối cao;<br>\n  - Viện kiểm sát nhân dân tối cao;<br>\n  - Kiểm toán nhà nước;<br>\n  - Ủy ban Giám sát tài chính Quốc gia;<br>\n  - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;<br>\n  - Cơ quan trung ương của các đoàn thể;<br>\n  - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ: KGVX, CN, PL, Công\n  báo;<br>\n  - Lưu: VT, TCCV (3).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"color:black\">KT. THỦ TƯỚNG <br>\n  PHÓ THỦ TƯỚNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Trần Hồng Hà</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt;text-autospace:none\"><span style=\"color:black\"> </span></p>\n\n",
+  "mdContent": "**THỦ TƯỚNG CHÍNH PHỦ  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 996/QĐ-TTg\n\n_Hà Nội, ngày 25 tháng 8 năm 2023_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH DANH SÁCH CÁC ĐƠN VỊ SỰ NGHIỆP CÔNG LẬP TRỰC THUỘC BỘ XÂY DỰNG\n\n**THỦ TƯỚNG CHÍNH PHỦ**\n\n_Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;_\n\n_Căn cứ Nghị định số [123/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-123-2016-nd-cp-chuc-nang-nhiem-vu-quyen-han-co-cau-to-chuc-bo-co-quan-ngang-bo-321514.aspx \"Nghị định 123/2016/NĐ-CP\") ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ; Nghị định số [101/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-101-2020-nd-cp-sua-doi-nghi-dinh-123-2016-nd-cp-chuc-nang-nhiem-vu-cua-bo-451389.aspx \"Nghị định 101/2020/NĐ-CP\") ngày 28 tháng 8 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [123/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-123-2016-nd-cp-chuc-nang-nhiem-vu-quyen-han-co-cau-to-chuc-bo-co-quan-ngang-bo-321514.aspx \"Nghị định 123/2016/NĐ-CP\") ;_\n\n_Căn cứ Nghị định số [120/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-120-2020-nd-cp-thanh-lap-to-chuc-lai-giai-the-don-vi-su-nghiep-cong-lap-379357.aspx \"Nghị định 120/2020/NĐ-CP\") ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập;_\n\n_Căn cứ Nghị định số [60/2021/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-60-2021-nd-cp-co-che-tu-chu-tai-chinh-cua-don-vi-su-nghiep-cong-lap-478766.aspx \"Nghị định 60/2021/NĐ-CP\") ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập;_\n\n_Căn cứ Nghị định số [52/2022/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-52-2022-nd-cp-chuc-nang-nhiem-vu-quyen-han-bo-xay-dung-525114.aspx \"Nghị định 52/2022/NĐ-CP\") ngày 08 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;_\n\n_Theo đề nghị của Bộ trưởng Bộ Xây dựng._\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1. Các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng, gồm:**\n\n1\\. Viện Khoa học công nghệ xây dựng.\n\n2\\. Viện Vật liệu xây dựng.\n\n3\\. Viện Kinh tế xây dựng.\n\n4\\. Viện Quy hoạch đô thị và nông thôn quốc gia.\n\n5\\. Viện Kiến trúc quốc gia.\n\n6\\. Trường Đại học Kiến trúc Hà Nội.\n\n7\\. Trường Đại học Kiến trúc Thành phố Hồ Chí Minh.\n\n8\\. Trường Đại học Xây dựng miền Trung.\n\n9\\. Trường Đại học Xây dựng miền Tây.\n\n10\\. Nhà xuất bản Xây dựng.\n\n11\\. Ban Quản lý dự án Đầu tư xây dựng chuyên ngành - Bộ Xây dựng.\n\n**Điều 2. Tổ chức lại các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng như sau:**\n\n1\\. Chuyển nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng sau đây về Bộ Lao động - Thương binh và Xã hội quản lý:\n\na) Trường Cao đẳng Xây dựng số 1;\n\nb) Trường Cao đẳng Xây dựng Thành phố Hồ Chí Minh;\n\nc) Trường Cao đẳng Xây dựng Công trình đô thị;\n\nd) Trường Cao đẳng Xây dựng Nam Định;\n\nđ) Trường Cao đẳng nghề Việt - Xô số 1;\n\ne) Trường Cao đẳng Công nghệ Quốc tế Lilama 2;\n\ng) Trường Cao đẳng Cơ giới Xây dựng;\n\nh) Trường Cao đẳng nghề Xây dựng;\n\ni) Trường Cao đẳng Kỹ thuật và Nghiệp vụ Hà Nội;\n\nk) Trường Trung cấp nghề Cơ khí xây dựng.\n\n2\\. Chuyển nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng sau đây về địa phương (nơi có trụ sở của các đơn vị sự nghiệp công lập) quản lý:\n\na) Trường Trung cấp Kỹ thuật - Nghiệp vụ Hải Phòng chuyển về Ủy ban nhân dân thành phố Hải Phòng quản lý;\n\nb) Trường Cao đẳng nghề Lilama I chuyển về Ủy ban nhân dân tỉnh Ninh Bình quản lý;\n\nc) Trường Trung cấp Kỹ thuật - Nghiệp vụ Vinh chuyển về Ủy ban nhân dân tỉnh Nghệ An quản lý;\n\nd) Trường Cao đẳng nghề Sông Đà chuyển về Ủy ban nhân dân tỉnh Hòa Bình quản lý;\n\nđ) Trường Trung cấp Kỹ thuật - Nghiệp vụ Sông Hồng chuyển về Ủy ban nhân dân tỉnh Phú Thọ quản lý;\n\ne) Bệnh viện Xây dựng Việt Trì chuyển về Ủy ban nhân dân tỉnh Phú Thọ quản lý;\n\ng) Trung tâm Phục hồi chức năng - Điều trị bệnh nghề nghiệp Đồ Sơn chuyển về Ủy ban nhân dân thành phố Hải Phòng quản lý;\n\nh) Trung tâm Điều dưỡng - Phục hồi chức năng Sầm Sơn chuyển về Ủy ban nhân dân tỉnh Thanh Hóa quản lý;\n\ni) Trung tâm Điều dưỡng - Phục hồi chức năng Cửa Lò chuyển về Ủy ban nhân dân tỉnh Nghệ An quản lý;\n\nk) Trung tâm Điều dưỡng - Phục hồi chức năng ngành Xây dựng phía Nam chuyển về Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu quản lý.\n\n3\\. Sáp nhập Viện Quy hoạch xây dựng miền Nam vào Viện Quy hoạch đô thị và nông thôn quốc gia.\n\n4\\. Các đơn vị sự nghiệp công lập tại khoản 1, khoản 2 Điều 2 Quyết định này và Viện Quy hoạch xây dựng miền Nam tiếp tục thực hiện nhiệm vụ cho đến khi cơ quan có thẩm quyền hoàn thành việc sáp nhập, chuyển giao, tiếp nhận.\n\n5\\. Hoàn thành việc sáp nhập, chuyển giao, tiếp nhận các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng trước ngày 30 tháng 6 năm 2024.\n\n**Điều 3. Trách nhiệm của các bộ, cơ quan**\n\n1\\. Bộ Xây dựng: Chủ trì, phối hợp với Bộ Tài chính, Bộ Nội vụ, Bộ Y tế, Bộ Kế hoạch và Đầu tư, Bộ Lao động - Thương binh và Xã hội, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập) và các cơ quan có liên quan thực hiện việc chuyển giao nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng về Bộ Lao động - Thương binh và Xã hội và các địa phương để quản lý theo quy định pháp luật.\n\n2\\. Bộ Tài chính: Phối hợp với Bộ Xây dựng, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập) và các cơ quan có liên quan thực hiện việc điều chuyển tài sản của các đơn vị sự nghiệp công lập được chuyển giao theo quy định pháp luật về quản lý, sử dụng tài sản công.\n\n3\\. Bộ Nội vụ: Phối hợp với Bộ Xây dựng, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập) và các cơ quan có liên quan thực hiện việc điều chuyển biên chế viên chức của các đơn vị sự nghiệp công lập được chuyển giao theo quy định pháp luật.\n\n4\\. Bộ Lao động - Thương binh và Xã hội và Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương (nơi có trụ sở của các đơn vị sự nghiệp công lập):\n\na) Tiếp nhận nguyên trạng các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng được chuyển giao về Bộ Lao động - Thương binh và Xã hội và các địa phương để quản lý theo quy định;\n\nb) Phối hợp với Bộ Xây dựng, Bộ Nội vụ, Bộ Tài chính thực hiện việc điều chuyển biên chế viên chức, bàn giao tài chính, tài sản, trụ sở của các đơn vị sự nghiệp công lập được chuyển giao quản lý theo quy định;\n\nc) Rà soát, sắp xếp lại, bố trí sử dụng nhà, đất và các tài sản khác theo tiêu chuẩn, định mức và chế độ quy định của pháp luật.\n\n**Điều 4. Hiệu lực và trách nhiệm thi hành**\n\n1\\. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số [359/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/quyet-dinh-359-qd-ttg-2019-danh-sach-don-vi-su-nghiep-cong-lap-truc-thuoc-bo-xay-dung-410708.aspx \"Quyết định 359/QĐ-TTg\") ngày 02 tháng 4 năm 2019 của Thủ tướng Chính phủ ban hành danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Xây dựng.\n\n2\\. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.\n\n**_  \nNơi nhận:  \n_**\\- Ban Bí thư Trung ương Đảng;  \n\\- Thủ tướng, các Phó Thủ tướng Chính phủ;  \n\\- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;  \n\\- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;  \n\\- Văn phòng Trung ương và các Ban của Đảng;  \n\\- Văn phòng Tổng Bí thư;  \n\\- Văn phòng Chủ tịch nước;  \n\\- Hội đồng Dân tộc và các Ủy ban của Quốc hội;  \n\\- Văn phòng Quốc hội;  \n\\- Tòa án nhân dân tối cao;  \n\\- Viện kiểm sát nhân dân tối cao;  \n\\- Kiểm toán nhà nước;  \n\\- Ủy ban Giám sát tài chính Quốc gia;  \n\\- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;  \n\\- Cơ quan trung ương của các đoàn thể;  \n\\- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ: KGVX, CN, PL, Công báo;  \n\\- Lưu: VT, TCCV (3).\n\n**KT. THỦ TƯỚNG  \nPHÓ THỦ TƯỚNG  \n  \n  \n  \n  \nTrần Hồng Hà**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
