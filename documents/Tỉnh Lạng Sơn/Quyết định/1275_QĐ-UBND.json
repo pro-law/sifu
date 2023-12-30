@@ -1,5 +1,5 @@
 {
-  "title": "Quyết định 1275/QĐ-UBND năm 2020 về phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn, tỉnh Lạng Sơn",
+  "title": "Quyết định 1275/QĐ-UBND năm 2008 về việc ban hành Quy chế quản lý và điều hành các chương trình mục tiêu quốc gia trên địa bàn tỉnh Lạng Sơn",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -8,240 +8,191 @@
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Nghị định 68/2000/NĐ-CP về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp",
-      "id": "68/2000/NĐ-CP",
-      "legislationType": "Nghị định",
+      "title": "Thông tư 27/2007/TT-BTC hướng dẫn về quản lý, thanh toán vốn đầu tư và vốn sự nghiệp có tính chất đầu tư thuộc nguồn vốn ngân sách nhà nước do Bộ Tài chính ban hành",
+      "id": "27/2007/TT-BTC",
+      "legislationType": "Thông tư",
       "categories": [
-        "Lao động - Tiền lương"
+        "Đầu tư",
+        "Tài chính nhà nước"
       ],
-      "organization": "Chính phủ",
+      "organization": "Bộ Tài chính",
       "signers": [
-        "Phan Văn Khải"
+        "Nguyễn Công Nghiệp"
       ],
-      "issuedDate": "2000-11-17",
-      "effectiveDate": "2000-12-02",
-      "gazetteDate": "2000-12-22",
-      "gazetteNumber": "Số 47",
-      "status": "Hết hiệu lực: 22/02/2023"
+      "issuedDate": "2007-04-03",
+      "effectiveDate": "2007-05-28",
+      "gazetteDate": "2007-05-13",
+      "gazetteNumber": "Từ số 300 đến số 301",
+      "status": "Hết hiệu lực: 05/08/2011"
+    },
+    {
+      "title": "Luật Ngân sách Nhà nước 2002",
+      "id": "01/2002/QH11",
+      "legislationType": "Luật",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Văn An"
+      ],
+      "issuedDate": "2002-12-16",
+      "effectiveDate": "2004-01-01",
+      "gazetteDate": "2003-01-25",
+      "gazetteNumber": "Số 5",
+      "status": "Hết hiệu lực: 01/01/2017"
     }
   ],
   "influentialDocuments": [
     {
-      "title": "Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019",
-      "id": "47/2019/QH14",
+      "title": "Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003",
+      "id": "11/2003/QH11",
       "legislationType": "Luật",
       "categories": [
         "Bộ máy hành chính"
       ],
       "organization": "Quốc hội",
       "signers": [
-        "Nguyễn Thị Kim Ngân"
+        "Nguyễn Văn An"
       ],
-      "issuedDate": "2019-11-22",
-      "effectiveDate": "2020-07-01",
-      "gazetteDate": "2019-12-26",
-      "gazetteNumber": "Từ số 995 đến số 996",
-      "status": "Còn hiệu lực"
+      "issuedDate": "2003-11-26",
+      "effectiveDate": "2003-12-10",
+      "gazetteDate": "2003-12-19",
+      "gazetteNumber": "Số 218",
+      "status": "Hết hiệu lực: 01/01/2016"
     },
     {
-      "title": "Quyết định 2047/QĐ-BNV năm 2015 phê duyệt Danh mục vị trí việc làm trong cơ quan, tổ chức hành chính tỉnh Lạng Sơn do Bộ Nội vụ ban hành",
-      "id": "2047/QĐ-BNV",
+      "title": "Thông tư liên tịch 01/2003/TTLT-BKH-BTC hướng dẫn Quyết định 42/2002/QĐ-TTg về quản lý và điều hành các chương trình mục tiêu quốc gia do Bộ Kế hoach và Đầu tư và Bộ Tài chính ban hành",
+      "id": "01/2003/TTLT-BKH-BTC",
+      "legislationType": "Thông tư liên tịch",
+      "categories": [
+        "Bộ máy hành chính",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Kế hoạch và Đầu tư, Bộ Tài chính",
+      "signers": [
+        "Nguyễn Sinh Hùng",
+        "Võ Hồng Phúc"
+      ],
+      "issuedDate": "2003-01-06",
+      "effectiveDate": "2003-01-21",
+      "gazetteDate": "2003-03-05",
+      "gazetteNumber": "Số 13",
+      "status": "Hết hiệu lực: 31/12/2015"
+    },
+    {
+      "title": "Quyết định 42/2002/QĐ-TTg về quản lý và điều hành các chương trình mục tiêu quốc gia do Thủ tướng Chính phủ ban hành",
+      "id": "42/2002/QĐ-TTg",
       "legislationType": "Quyết định",
       "categories": [
         "Bộ máy hành chính"
       ],
-      "organization": "Bộ Nội vụ",
+      "organization": "Thủ tướng Chính phủ",
       "signers": [
-        "Trần Anh Tuấn"
+        "Phạm Gia Khiêm"
       ],
-      "issuedDate": "2015-12-31",
-      "effectiveDate": "2015-12-31",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Luật tổ chức chính quyền địa phương 2015",
-      "id": "77/2015/QH13",
-      "legislationType": "Luật",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Quốc hội",
-      "signers": [
-        "Nguyễn Sinh Hùng"
-      ],
-      "issuedDate": "2015-06-19",
-      "effectiveDate": "2016-01-01",
-      "gazetteDate": "2015-07-26",
-      "gazetteNumber": "Từ số 863 đến số 864",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Thông tư 05/2013/TT-BNV hướng dẫn Nghị định 36/2013/NĐ-CP về vị trí việc làm và cơ cấu ngạch công chức do Bộ trưởng Bộ Nội vụ ban hành",
-      "id": "05/2013/TT-BNV",
-      "legislationType": "Thông tư",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Bộ Nội vụ",
-      "signers": [
-        "Trần Anh Tuấn"
-      ],
-      "issuedDate": "2013-06-25",
-      "effectiveDate": "2013-08-10",
-      "gazetteDate": "2013-07-19",
-      "gazetteNumber": "Từ số 427 đến số 428",
-      "status": "Hết hiệu lực: 20/07/2020"
-    },
-    {
-      "title": "Nghị định 36/2013/NĐ-CP về vị trí việc làm và cơ cấu ngạch công chức",
-      "id": "36/2013/NĐ-CP",
-      "legislationType": "Nghị định",
-      "categories": [
-        "Lao động - Tiền lương",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Chính phủ",
-      "signers": [
-        "Nguyễn Tấn Dũng"
-      ],
-      "issuedDate": "2013-04-22",
-      "effectiveDate": "2013-06-10",
-      "gazetteDate": "2013-05-03",
-      "gazetteNumber": "Từ số 229 đến số 230",
-      "status": "Hết hiệu lực: 20/07/2020"
+      "issuedDate": "2002-03-19",
+      "effectiveDate": "2002-03-19",
+      "gazetteDate": "2002-05-10",
+      "gazetteNumber": "Số 20",
+      "status": "Hết hiệu lực: 20/12/2009"
     }
   ],
   "guidingDocuments": [],
   "consolidatedDocuments": [],
   "amendingDocuments": [],
   "rectifyingDocuments": [],
-  "supersedingDocuments": [],
-  "relevantDocuments": [
+  "supersedingDocuments": [
     {
-      "title": "Quyết định 1829/QĐ-UBND năm 2021 phê duyệt Bản mô tả công việc và Khung năng lực vị trí việc làm của Ban Quản lý các khu công nghiệp tỉnh Nam Định",
-      "id": "1829/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Nam Định",
-      "signers": [
-        "Phạm Đình Nghị"
-      ],
-      "issuedDate": "2021-08-25",
-      "effectiveDate": "2021-08-25",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Hết hiệu lực: 16/06/2023"
-    },
-    {
-      "title": "Quyết định 1270/QĐ-UBND năm 2020 về phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Sở Lao động - Thương binh và Xã hội tỉnh Lạng Sơn",
-      "id": "1270/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Lao động - Tiền lương",
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Lạng Sơn",
-      "signers": [
-        "Dương Xuân Huyên"
-      ],
-      "issuedDate": "2020-07-07",
-      "effectiveDate": "2020-07-07",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 1271/QĐ-UBND năm 2020 về phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Sở Nông nghiệp và Phát triển nông thôn tỉnh Lạng Sơn",
-      "id": "1271/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Lạng Sơn",
-      "signers": [
-        "Dương Xuân Huyên"
-      ],
-      "issuedDate": "2020-07-07",
-      "effectiveDate": "2020-07-07",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 1280/QĐ-UBND năm 2020 về phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Sở Xây dựng tỉnh Lạng Sơn",
-      "id": "1280/QĐ-UBND",
+      "title": "Quyết định 1502/QĐ-UBND năm 2013 về Quy chế quản lý và điều hành chương trình mục tiêu quốc gia trên địa bàn tỉnh Lạng Sơn",
+      "id": "1502/QĐ-UBND",
       "legislationType": "Quyết định",
       "categories": [
         "Bộ máy hành chính",
-        "Xây dựng - Đô thị"
+        "Văn hóa - Xã hội"
       ],
       "organization": "Tỉnh Lạng Sơn",
       "signers": [
-        "Dương Xuân Huyên"
+        "Vy Văn Thành"
       ],
-      "issuedDate": "2020-07-07",
-      "effectiveDate": "2020-07-07",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 1127/QĐ-UBND năm 2020 về phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Sở Tư pháp tỉnh Lạng Sơn",
-      "id": "1127/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính"
-      ],
-      "organization": "Tỉnh Lạng Sơn",
-      "signers": [
-        "Dương Xuân Huyên"
-      ],
-      "issuedDate": "2020-06-16",
-      "effectiveDate": "2020-06-16",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Quyết định 1128/QĐ-UBND năm 2020 về phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Sở Giao thông vận tải tỉnh Lạng Sơn",
-      "id": "1128/QĐ-UBND",
-      "legislationType": "Quyết định",
-      "categories": [
-        "Bộ máy hành chính",
-        "Giao thông - Vận tải"
-      ],
-      "organization": "Tỉnh Lạng Sơn",
-      "signers": [
-        "Dương Xuân Huyên"
-      ],
-      "issuedDate": "2020-06-16",
-      "effectiveDate": "2020-06-16",
+      "issuedDate": "2013-10-11",
+      "effectiveDate": "2013-10-11",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     }
   ],
+  "relevantDocuments": [
+    {
+      "title": "Quyết định 43/2011/QĐ-UBND bãi bỏ Quyết định 83/2011/QĐ-UBND về quản lý Chương trình mục tiêu quốc gia và Chương trình mục tiêu khác trên địa bàn và Quyết định 133/2004/QĐ-UB điều chỉnh thành viên và Quy chế hoạt động của Ban chỉ đạo Chương trình mục tiêu quốc gia do tỉnh Bình Phước ban hành",
+      "id": "43/2011/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Trương Tấn Thiệu"
+      ],
+      "issuedDate": "2011-06-28",
+      "effectiveDate": "2011-07-08",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 04/2011/QĐ-UBND về quy chế quản lý, điều hành thực hiện các chương trình mục tiêu quốc gia do tỉnh Thái Bình ban hành",
+      "id": "04/2011/QĐ-UBND",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Tỉnh Thái Bình",
+      "signers": [
+        "Phạm Văn Sinh"
+      ],
+      "issuedDate": "2011-05-31",
+      "effectiveDate": "2011-06-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2019"
+    },
+    {
+      "title": "Quyết định 133/2004/QĐ-UB điều chỉnh thành viên và Quy chế hoạt động của Ban chỉ đạo Chương trình Mục tiêu quốc gia do Ủy ban nhân dân tỉnh Bình Phước ban hành",
+      "id": "133/2004/QĐ-UB",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Tỉnh Bình Phước",
+      "signers": [
+        "Nguyễn Tấn Hưng"
+      ],
+      "issuedDate": "2004-12-31",
+      "effectiveDate": "2004-12-31",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 08/07/2011"
+    }
+  ],
   "id": "1275/QĐ-UBND",
   "legislationType": "Quyết định",
   "categories": [
-    "Thương mại",
     "Bộ máy hành chính"
   ],
   "organization": "Tỉnh Lạng Sơn",
   "signers": [
-    "Dương Xuân Huyên"
+    "Vy Văn Thành"
   ],
-  "issuedDate": "2020-07-07",
-  "effectiveDate": "2020-07-07",
+  "issuedDate": "2008-07-04",
+  "effectiveDate": "2008-07-04",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
-  "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA4ADIAMgA=-->\n <tbody><tr style=\"height:40.05pt\">\n  <td width=\"231\" valign=\"top\" style=\"width:173.5pt;padding:0in 5.4pt 0in 5.4pt;\n  height:40.05pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">ỦY BAN NHÂN DÂN<br>\n  TỈNH LẠNG SƠN<br>\n  --------</span></b></p>\n  </td>\n  <td width=\"361\" valign=\"top\" style=\"width:270.5pt;padding:0in 5.4pt 0in 5.4pt;\n  height:40.05pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  --------------------</span></b></p>\n  </td>\n </tr>\n <tr style=\"height:17.55pt\">\n  <td width=\"231\" valign=\"top\" style=\"width:173.5pt;padding:0in 5.4pt 0in 5.4pt;\n  height:17.55pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span style=\"font-size:10.0pt;\">Số: </span><span style=\"font-size:\n  10.0pt;\">1275/QĐ-UBND</span></p>\n  </td>\n  <td width=\"361\" valign=\"top\" style=\"width:270.5pt;padding:0in 5.4pt 0in 5.4pt;\n  height:17.55pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span style=\"font-size:10.0pt;\">Lạng Sơn, ngày </span></i><i><span lang=\"EN-US\" style=\"font-size:10.0pt;\">07</span></i><i><span lang=\"EN-US\" style=\"font-size:10.0pt;\"> </span></i><i><span style=\"font-size:10.0pt;\">tháng </span></i><i><span lang=\"EN-US\" style=\"font-size:10.0pt;\">7</span></i><i><span style=\"font-size:10.0pt;\"> năm </span></i><i><span lang=\"EN-US\" style=\"font-size:10.0pt;\">2020</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;\">&nbsp;</span></p>\n\n<h1 style=\"margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:\n0in;margin-bottom:.0001pt\"><span style=\"font-size:12.0pt;\">QUYẾT\nĐỊNH</span></h1>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span style=\"font-size:10.0pt;\">VỀ VIỆC PHÊ DUYỆT BẢN MÔ TẢ CÔNG\nVIỆC VÀ KHUNG NĂNG LỰC VỊ TRÍ VIỆC LÀM CỦA BAN QUẢN LÝ KHU KINH TẾ CỬA KHẨU\nĐỒNG ĐĂNG - LẠNG SƠN TỈNH LẠNG SƠN</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt;\">ỦY BAN NHÂN DÂN TỈNH LẠNG SƠN</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức\nChính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Nghị định số 36/2013/NĐ-CP ngày 22/4/2013 của Chính\nphủ về vị trí việc làm và cơ cấu ngạch công chức;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Thông tư số 05/2013/TT-BNV ngày 25/6/2013 của Bộ\ntrưởng Bộ Nội vụ hướng dẫn thực hiện Nghị định số 36/2013/NĐ-CP ngày 22/4/2013\ncủa Chính phủ về vị trí việc làm và cơ cấu ngạch công chức;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Quyết định số 2047/QĐ-BNV ngày 31/12/2015 của Bộ Nội\nvụ về phê duyệt Danh mục vị trí việc làm trong các cơ quan, tổ chức hành chính\ncủa tỉnh Lạng Sơn;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Quyết định số 1000-QĐ/TU ngày 04/12/2017 của Ban\nThường vụ Tỉnh ủy Lạng Sơn về việc ban hành Quy định tiêu chuẩn chức danh, tiêu\nchí đánh giá cán bộ lãnh đạo, quản lý diện Ban Thường vụ Tỉnh </span></i><i><span lang=\"EN-US\" style=\"font-size:10.0pt;\">ủy</span></i><i><span style=\"font-size:10.0pt;\"> quản lý;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Căn cứ Quyết định số 1069-QĐ/TU ngày 22/01/2018 của Ban\nThường vụ Tỉnh ủy Lạng Sơn về việc ban hành quy định khung tiêu chuẩn chức danh\nvà định hướng khung tiêu chí đánh giá cán bộ lãnh đạo, quản lý cấp phòng, ban\nvà tương đương ở cấp tỉnh, cấp huyện;</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><i><span style=\"font-size:10.0pt;\n\">Theo đề nghị của Giám đốc Sở Nội vụ tại Tờ trình số\n298/TTr-SNV ngày 24 tháng 6 năm 2020.</span></i></p>\n\n<h1 style=\"margin-top:6.0pt;margin-right:0in;margin-bottom:0in;margin-left:\n0in;margin-bottom:.0001pt\"><span style=\"font-size:12.0pt;\">QUYẾT\nĐỊNH:</span></h1>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><b><span style=\"font-size:10.0pt;\">Điều 1. </span></b><span style=\"font-size:10.0pt;\">Phê duyệt Bản mô tả công việc và\nkhung năng lực vị trí việc làm của Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng -\nLạng Sơn, tỉnh Lạng Sơn <i>(có phụ lục kèm theo).</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span style=\"font-size:10.0pt;\n\">Điều 2. </span></b><span style=\"font-size:10.0pt;\">Tổ chức thực hiện</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span style=\"font-size:10.0pt;\">1. </span><span style=\"font-size:10.0pt;\">Trên cơ sở Bản mô tả công việc và\nkhung năng lực vị trí việc làm kèm theo Quyết định này, Ban Quản lý Khu kinh tế\ncửa khẩu Đồng Đăng - Lạng Sơn thực hiện:</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span style=\"font-size:10.0pt;\">a) </span><span style=\"font-size:10.0pt;\">Đề nghị cấp có thẩm quyền tuyển dụng\ncông chức theo quy định.</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span style=\"font-size:10.0pt;\">b) </span><span style=\"font-size:10.0pt;\">Thực hiện quản lý, sử dụng công chức\ntheo danh mục vị trí việc làm, ngạch công chức tối thiểu; xác định số lượng\nbiên chế công chức và hợp đồng lao động theo quy định tại Nghị định số\n68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ cho từng vị trí việc làm, đảm bảo\nkhông vượt số lượng được UBND tỉnh giao; điều chỉnh biên chế của từng vị trí\nviệc làm theo lộ trình tinh giản biên chế hằng năm được cơ quan có thẩm quyền\nphê duyệt, báo cáo UBND tỉnh.</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span style=\"font-size:10.0pt;\">c) </span><span style=\"font-size:10.0pt;\">Rà soát, bố trí công chức tại phòng\nchuyên môn thuộc Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn đảm bảo\nđúng tiêu chuẩn về ngạch công chức và chuyên môn, nghiệp vụ theo quy định. Có\nkế hoạch đào tạo, bồi dưỡng đối với công chức chưa đáp ứng tiêu chuẩn ngạch,\ntrình độ chuyên môn, đảm bảo chuẩn hóa đội ngũ cán bộ, công chức theo quy định.</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span style=\"font-size:10.0pt;\">d) </span><span style=\"font-size:10.0pt;\">Chủ trì, phối hợp với Sở Nội vụ\nthống nhất thực hiện hoặc báo cáo xin ý kiến UBND tỉnh giải quyết khó khăn,\nvướng mắc phát sinh trong quá trình thực hiện quản lý, sử dụng công chức theo\nvị trí việc làm.</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span style=\"font-size:10.0pt;\">2. </span><span style=\"font-size:10.0pt;\">Sở Nội vụ tham mưu giúp UBND tỉnh\nhướng dẫn, kiểm tra, thanh tra quản lý và sử dụng công chức thuộc Ban Quản lý\nKhu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn.</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><b><span style=\"font-size:10.0pt;\">Điều 3. </span></b><span style=\"font-size:10.0pt;\">Chánh Văn phòng UBND tỉnh, Giám đốc\nSở Nội vụ, Trưởng Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn, Thủ\ntrưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành\nQuyết định này./.</span></p>\n\n<p align=\"left\" style=\"margin-top:6.0pt;margin-right:0in;\nmargin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:left;\ntext-indent:0in\"><span lang=\"EN-US\" style=\"font-size:10.0pt;\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADAAMAA4ADIAMgA=-->\n <tbody><tr>\n  <td width=\"247\" valign=\"top\" style=\"width:185.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span style=\"font-size:8.0pt;\n \">&nbsp;</span></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:\n  10.0pt;\">Nơi nhận: <br>\n  </span></i></b><span style=\"font-size:8.0pt;\">- Như Điều 3;<br>\n  - Bộ Nội vụ;<br>\n  - Thường trực Tỉnh ủy;<br>\n  - Thường trực HĐND tỉnh;<br>\n  - Chủ tịch, các Phó Chủ tịch UBND tỉnh;<br>\n  - PCVP UBND tỉnh, phòng THNC, TT TH-CB;<br>\n  - Lưu: VT, (HXĐ).</span></p>\n  </td>\n  <td width=\"344\" valign=\"top\" style=\"width:258.0pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt;\">TM. ỦY BAN NHÂN DÂN<br>\n  KT. CHỦ TỊCH<br>\n  PHÓ CHỦ TỊCH</span></b><b><span lang=\"EN-US\" style=\"font-size:10.0pt;\n \"><br>\n  <br>\n  <br>\n  <br>\n  <br>\n  </span></b><b><span style=\"font-size:10.0pt;\">Dương Xuân\n  Huyên</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;\">&nbsp;</span></p>\n\n<div align=\"center\">\n\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody><tr style=\"height:13.5pt\">\n  <td width=\"356\" valign=\"top\" style=\"width:266.9pt;border:solid windowtext 1.0pt;\n  padding:0in 5.4pt 0in 5.4pt;height:13.5pt\">\n    <p style=\"margin-top: 6.0pt; margin-right: 0in; margin-bottom: 0in; margin-left: 0in;\n        margin-bottom: 20px;\">\n        <b><span style=\"color: red\">FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN</span></b></p>\n    <div class=\"divAttachFiles\"><a href=\"//files.thuvienphapluat.vn/uploads/doc2htm/00450460_files/attachfile001.rar\"><img src=\"//files.thuvienphapluat.vn/doc2htm/00450460_files/image001.gif\"></a></div>\n</td>\n </tr>\n</tbody></table>\n\n</div>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"EN-US\" style=\"font-size:\n10.0pt;\">&nbsp;</span></p>\n\n",
-  "mdContent": "**ỦY BAN NHÂN DÂN  \nTỈNH LẠNG SƠN  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\--------------------**\n\nSố: 1275/QĐ-UBND\n\n_Lạng Sơn, ngày_ _07_ _tháng_ _7_ _năm_ _2020_\n\nQUYẾT ĐỊNH\n==========\n\nVỀ VIỆC PHÊ DUYỆT BẢN MÔ TẢ CÔNG VIỆC VÀ KHUNG NĂNG LỰC VỊ TRÍ VIỆC LÀM CỦA BAN QUẢN LÝ KHU KINH TẾ CỬA KHẨU ĐỒNG ĐĂNG - LẠNG SƠN TỈNH LẠNG SƠN\n\n**ỦY BAN NHÂN DÂN TỈNH LẠNG SƠN**\n\n_Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;_\n\n_Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;_\n\n_Căn cứ Nghị định số 36/2013/NĐ-CP ngày 22/4/2013 của Chính phủ về vị trí việc làm và cơ cấu ngạch công chức;_\n\n_Căn cứ Thông tư số 05/2013/TT-BNV ngày 25/6/2013 của Bộ trưởng Bộ Nội vụ hướng dẫn thực hiện Nghị định số 36/2013/NĐ-CP ngày 22/4/2013 của Chính phủ về vị trí việc làm và cơ cấu ngạch công chức;_\n\n_Căn cứ Quyết định số 2047/QĐ-BNV ngày 31/12/2015 của Bộ Nội vụ về phê duyệt Danh mục vị trí việc làm trong các cơ quan, tổ chức hành chính của tỉnh Lạng Sơn;_\n\n_Căn cứ Quyết định số 1000-QĐ/TU ngày 04/12/2017 của Ban Thường vụ Tỉnh ủy Lạng Sơn về việc ban hành Quy định tiêu chuẩn chức danh, tiêu chí đánh giá cán bộ lãnh đạo, quản lý diện Ban Thường vụ Tỉnh_ _ủy_ _quản lý;_\n\n_Căn cứ Quyết định số 1069-QĐ/TU ngày 22/01/2018 của Ban Thường vụ Tỉnh ủy Lạng Sơn về việc ban hành quy định khung tiêu chuẩn chức danh và định hướng khung tiêu chí đánh giá cán bộ lãnh đạo, quản lý cấp phòng, ban và tương đương ở cấp tỉnh, cấp huyện;_\n\n_Theo đề nghị của Giám đốc Sở Nội vụ tại Tờ trình số 298/TTr-SNV ngày 24 tháng 6 năm 2020._\n\nQUYẾT ĐỊNH:\n===========\n\n**Điều 1.** Phê duyệt Bản mô tả công việc và khung năng lực vị trí việc làm của Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn, tỉnh Lạng Sơn _(có phụ lục kèm theo)._\n\n**Điều 2.** Tổ chức thực hiện\n\n1\\. Trên cơ sở Bản mô tả công việc và khung năng lực vị trí việc làm kèm theo Quyết định này, Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn thực hiện:\n\na) Đề nghị cấp có thẩm quyền tuyển dụng công chức theo quy định.\n\nb) Thực hiện quản lý, sử dụng công chức theo danh mục vị trí việc làm, ngạch công chức tối thiểu; xác định số lượng biên chế công chức và hợp đồng lao động theo quy định tại Nghị định số 68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ cho từng vị trí việc làm, đảm bảo không vượt số lượng được UBND tỉnh giao; điều chỉnh biên chế của từng vị trí việc làm theo lộ trình tinh giản biên chế hằng năm được cơ quan có thẩm quyền phê duyệt, báo cáo UBND tỉnh.\n\nc) Rà soát, bố trí công chức tại phòng chuyên môn thuộc Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn đảm bảo đúng tiêu chuẩn về ngạch công chức và chuyên môn, nghiệp vụ theo quy định. Có kế hoạch đào tạo, bồi dưỡng đối với công chức chưa đáp ứng tiêu chuẩn ngạch, trình độ chuyên môn, đảm bảo chuẩn hóa đội ngũ cán bộ, công chức theo quy định.\n\nd) Chủ trì, phối hợp với Sở Nội vụ thống nhất thực hiện hoặc báo cáo xin ý kiến UBND tỉnh giải quyết khó khăn, vướng mắc phát sinh trong quá trình thực hiện quản lý, sử dụng công chức theo vị trí việc làm.\n\n2\\. Sở Nội vụ tham mưu giúp UBND tỉnh hướng dẫn, kiểm tra, thanh tra quản lý và sử dụng công chức thuộc Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn.\n\n**Điều 3.** Chánh Văn phòng UBND tỉnh, Giám đốc Sở Nội vụ, Trưởng Ban Quản lý Khu kinh tế cửa khẩu Đồng Đăng - Lạng Sơn, Thủ trưởng các cơ quan, đơn vị và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**_Nơi nhận:  \n_**\\- Như Điều 3;  \n\\- Bộ Nội vụ;  \n\\- Thường trực Tỉnh ủy;  \n\\- Thường trực HĐND tỉnh;  \n\\- Chủ tịch, các Phó Chủ tịch UBND tỉnh;  \n\\- PCVP UBND tỉnh, phòng THNC, TT TH-CB;  \n\\- Lưu: VT, (HXĐ).\n\n**TM. ỦY BAN NHÂN DÂN  \nKT. CHỦ TỊCH  \nPHÓ CHỦ TỊCH****Dương Xuân Huyên**\n\n**FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN**\n\n[![](//files.thuvienphapluat.vn/doc2htm/00450460_files/image001.gif)](//files.thuvienphapluat.vn/uploads/doc2htm/00450460_files/attachfile001.rar)",
+  "status": "Hết hiệu lực: 11/10/2013",
+  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA5ADEANgA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b>UỶ BAN NHÂN\n  DÂN <br>\n  TỈNH LẠNG SƠN</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">Số: 1275/QĐ-UBND</p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Lạng Sơn, ngày 04\n  tháng 7 năm 2008</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_1_name\">BAN HÀNH QUY CHẾ QUẢN LÝ VÀ ĐIỀU HÀNH CÁC CHƯƠNG TRÌNH MỤC\nTIÊU QUỐC GIA TRÊN ĐỊA BÀN TỈNH.</a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">UỶ BAN NHÂN DÂN TỈNH LẠNG SƠN</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Luật Tổ chức HĐND và UBND ngày\n26/11/2003.</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Quyết định số 42/2002/QĐ-TTg ngày\n19/03/2002 của Thủ tướng Chính phủ về quản lý và điều hành các chương trình mục\ntiêu quốc gia;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Căn cứ Thông tư số 01/2003/TTLT/BKH-BTC ngày\n06/01/2003 hướng dẫn thực hiện Quyết định số 42/2002/QĐ-TTg ngày 19/03/2002 của\nThủ tướng Chính phủ;</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><i>Xét đề nghị của Giám đốc Sở Kế hoạch và Đầu\ntư tại Tờ trình số 109/TTr-SKHĐT-VX ngày 10/5/2008,</i></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><b><span style=\"font-size:12.0pt\">QUYẾT ĐỊNH:</span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1\"><b>Điều 1.</b></a> <a name=\"dieu_1_name\">Ban hành kèm theo Quyết định này “Quy chế quản lý và điều\nhành các chương trình mục tiêu quốc gia trên địa bàn tỉnh Lạng Sơn”.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2\"><b>Điều 2.</b></a> <a name=\"dieu_2_name\">Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế\nQuyết định số 10/2001/QĐ-UB ngày 06/4/2001 của UBND tỉnh về việc ban hành Quy\nchế quản lý và điều hành các chương trình mục tiêu Quốc gia trên địa bàn tỉnh Lạng\nSơn.</a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3\"><b>Điều 3.</b></a> <a name=\"dieu_3_name\">Chánh Văn phòng Uỷ ban nhân dân tỉnh, Thủ trưởng các sở,\nban, ngành thuộc tỉnh; Chủ tịch UBND các huyện, thành phố và các đơn vị có liên\nquan chịu trách nhiệm thi hành Quyết định này./.</a> </p>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADcAMAA5ADEANgA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i>&nbsp;</i></b></p>\n  <p style=\"margin-top:6.0pt\">&nbsp;</p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TM. ỦY BAN NHÂN\n  DÂN <br>\n  CHỦ TỊCH<br>\n  <br>\n  <br>\n  &nbsp;<br>\n  <br>\n  Vy Văn Thành</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-bottom:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2\"><b><span style=\"font-size:12.0pt\">QUY CHẾ</span></b></a></p>\n\n<p align=\"center\" style=\"margin-bottom:6.0pt;text-align:center\"><a name=\"loai_2_name\">QUẢN LÝ VÀ ĐIỀU HÀNH CÁC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA TRÊN\nĐỊA BÀN TỈNH LẠNG SƠN</a><br>\n<i>(Ban hành kèm theo Quyết định số 1275 /QĐ-UBND ngày 04/7/2008 của UBND tỉnh\nLạng Sơn)</i></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_1\"><span lang=\"EN-US\">I- NHỮNG QUY ĐỊNH\nCHUNG.</span></a><span lang=\"EN-US\"> </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_1_1\"><b><span lang=\"EN-US\">Điều 1.\nPhạm vi, đối tượng áp dụng:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Quy chế này quy định việc quản\nlý và điều hành các chương trình mục tiêu quốc gia (viết tắt là CTMTQG) hoặc\ncác chương trình, dự án sử dụng kinh phí thuộc các CTMTQG chiếm tỷ lệ từ 30% tổng\nkinh phí dự án trở lên.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Các chương trình mục tiêu\nkhác, các dự án sử dụng nguồn vốn khác và các dự án đầu tư có lồng ghép với các\nchương trình dự án thuộc CTMTQG, nhưng sử dụng kinh phí CTMTQG để lồng ghép chiếm\ntỷ lệ dưới 30% tổng kinh phí dự án không thuộc phạm vi, đối tượng điều chỉnh của\nQuy chế này.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">&nbsp;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_2_1\"><b><span lang=\"EN-US\">Điều 2.\nCác cơ quan quản lý ngành về CTMTQG trên địa bàn tỉnh:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Sở Văn hoá, Thể thao và Du lịch,\nchủ trì theo dõi: Chương trình Văn hóa.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Công an tỉnh, chủ trì theo\ndõi: </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình phòng, chống tội\nphạm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình phòng, chống ma\ntuý. </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Sở Lao động - Thương binh và\nXã hội, chủ trì theo dõi:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình Giảm nghèo</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình Việc làm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Dự án tăng cường năng lực đào\ntạo nghề thuộc Chương trình Giáo dục và Đào tạo.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">4. Sở Nông nghiệp và Phát triển\nnông thôn, chủ trì theo dõi:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình nước sạch và vệ\nsinh môi trường nông thôn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Dự án bảo đảm an toàn vệ sinh\nthực phẩm trong sản xuất, sơ chế, bảo quản, chế biến nông sản thực phẩm và Dự\nán bảo đảm an toàn dịch bệnh, an toàn môi trường và an toàn thực phẩm đối với sản\nphẩm thuỷ sản có nguồn gốc từ nuôi trồng thuộc Chương trình Vệ sinh an toàn thực\nphẩm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">5. Sở Giáo dục và Đào tạo, chủ\ntrì theo dõi: Chương trình Giáo dục và Đào tạo (không bao gồm Dự án Nâng cao\nnăng lực Đào tạo nghề).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">6. Sở Y tế, chủ trì theo dõi:</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình phòng chống một\nsố bệnh xã hội, bệnh dịch nguy hiểm và HIV/AIDS;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình Dân số và kế hoạch\nhoá gia đình.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Chương trình Vệ sinh an toàn\nthực phẩm (không bao gồm 02 dự án đã giao Sở Nông nghiệp và Phát triển nông\nthôn quản lý).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_2\"><span lang=\"EN-US\">II- QUẢN LÝ VÀ\nTHỰC HIỆN CÁC CHƯƠNG TRÌNH MTQG:</span></a><span lang=\"EN-US\"> </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_3_1\"><b><span lang=\"EN-US\">Điều 3.\nXây dựng kế hoạch.</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Hàng năm trước ngày 20 tháng\n7, các ngành quản lý CTMTQG căn cứ vào hướng dẫn của Bộ quản lý chương trình, Bộ\nKế hoạch và Đầu tư, Bộ Tài chính, có trách nhiệm hướng dẫn các đơn vị trực thuộc\nvà UBND các huyện, thành phố tổng hợp xây dựng kế hoạch các CTMTQG thuộc ngành\nquản lý của năm tiếp theo để gửi Sở Kế hoạch và Đầu tư, Sở Tài chính. </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Sở Kế hoạch và Đầu tư chủ\ntrì phối hợp với Sở Tài chính căn cứ các mục tiêu kế hoạch 5 năm, nhu cầu các mục\ntiêu, nhiệm vụ, kinh phí để cân đối, tổng hợp, trình UBND tỉnh xem xét, báo cáo\nHĐND tỉnh, làm cơ sở báo cáo các Bộ quản lý CTMTQG và đề nghị với Bộ Kế hoạch\nvà Đầu tư, Bộ Tài chính trình Chính phủ bố trí cân đối vốn cho địa phương thực\nhiện.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"EN-US\">Điều 4.\nPhân bổ kế hoạch và giao chỉ tiêu kế hoạch các CTMTQG.</span></b></a><b><span lang=\"EN-US\"> </span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Các Sở, Ban, ngành sau khi\nnhận được chỉ tiêu kế hoạch của Chính phủ hoặc các Bộ, ngành trung ương được Thủ\ntướng Chính phủ uỷ quyền giao, thông báo nhiệm vụ, mục tiêu và kinh phí cho địa\nphương có trách nhiệm dự kiến phân bổ số kinh phí trong năm kế hoạch với các\nnhiệm vụ, mục tiêu và kinh phí cụ thể cho các đơn vị thụ hưởng, báo cáo UBND tỉnh,\nđồng thời gửi Sở Kế hoạch và Đầu tư, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Sở Kế hoạch và Đầu tư chủ\ntrì phối hợp với Sở Tài chính xem xét tổng hợp cân đối, dự kiến phân bổ kế hoạch\ntoàn bộ các chương trình, tính toán các nguồn lực lồng ghép giữa các chương\ntrình, dự án và các nguồn vốn khác (nếu có) và các giải pháp thực hiện để báo\ncáo UBND tỉnh xem xét trình HĐND tỉnh, để quyết định giao cho các Chủ đầu tư và\nUBND các huyện, thành phố, các đơn vị tổ chức thực hiện cùng với các chỉ tiêu\nkinh tế xã hội khác (Trừ một số các nhiệm vụ, mục tiêu do các chủ dự án, các\nhuyện thành phố và các đơn vị sử dụng không thể đảm nhiệm được thì giao cho các\nsở, ban, ngành thực hiện); giao nhiệm vụ cho các Sở, Ban, ngành có liên quan để\nhướng dẫn, kiểm tra, đánh giá trong quá trình tổ chức thực hiện.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_5\"><b><span lang=\"EN-US\">Điều 5.</span></b></a><span lang=\"EN-US\"> <a name=\"dieu_5_name\">Việc tổ chức thẩm định, phê duyệt dự án và thẩm\nđịnh kế hoạch đấu thầu, hồ sơ mời thầu, kết quả lựa chọn nhà thầu đối với các dự\nán thuộc chương trình MTQG thực hiện theo quy định hiện hành.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_6\"><b><span lang=\"EN-US\">Điều 6. Việc\nlồng ghép, điều chỉnh và điều hoà thanh toán kinh phí các CTMTQG:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">&nbsp;1. Sở Kế hoạch và Đầu tư\nchủ trì phối hợp với Sở Tài chính và ngành quản lý CTMTQG tiến hành lồng ghép từ\nkhâu xây dựng, phân bổ kế hoạch để trình Chủ tịch UBND tỉnh quyết định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Trong quá trình thực hiện,\nBan chỉ đạo các chương trình mục tiêu quốc gia có thể kiến nghị điều chỉnh các\nmục tiêu, nhiệm vụ và kinh phí các chương trình mục tiêu quốc gia để UBND tỉnh\nxem xét phê duyệt theo định kỳ 6 tháng, hàng năm, hoặc điều hoà thanh toán cuối\nnăm cùng với các nguồn vốn đầu tư phát triển khác trên địa bàn, khắc phục tình\ntrạng để tồn, vốn CTMTQG chuyển tiếp năm sau thực hiện theo nguyên tắc điều chỉnh\nlà ưu tiên điều chỉnh giữa các dự án trong cùng mục tiêu, sau đó tuỳ theo nhu cầu\nthực tế của địa phương sẽ điều chỉnh, điều hoà vốn giữa các mục tiêu quốc gia\ntheo Quy định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_3\"><span lang=\"EN-US\">III- CƠ CHẾ TÀI\nCHÍNH CÁC CTMTQG.</span></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_7\"><b><span lang=\"EN-US\">Điều 7. Về\ncấp phát và thanh toán vốn:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Các khoản kinh phí chi đầu\ntư xây dựng công trình, đầu tư mua sắm thiết bị, căn cứ thực tế khối lượng đã\nhoàn thành để cấp kinh phí cho các chủ đầu tư và các huyện thành phố làm cơ sở\ncho thanh toán vốn tại Kho bạc Nhà nước trên địa bàn. Việc quản lý, thanh toán\nvốn thực hiện theo quy định tại Thông tư số 27/2007/TT-BTC ngày 13 tháng 04 năm\n2007 của Bộ Tài chính hướng dẫn quản lý thanh toán vốn đầu tư và vốn sự nghiệp\ncó tính chất đầu tư thuộc nguồn vốn ngân sách nhà nước.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Đối với các khoản chi đầu tư\ncho hoạt động đào tạo, bồi dưỡng, tuyên truyền, vận động, điều tra, nghiên cứu\ntriển khai, hỗ trợ vật tư, cây con giống và chi cho các hoạt động điều tra khảo\nsát và các hoạt động chuyên môn khác thì trên cơ sở tổng kinh phí và nhiệm vụ,\nmục tiêu được giao, chủ đầu tư lập dự toán chi theo các nhiệm vụ, mục tiêu báo\ncáo Sở Tài chính làm cơ sở cấp vốn để thực hiện và gửi Kho bạc nhà nước trên địa\nbàn để làm cơ sở kiểm soát, cấp phát thanh toán vốn theo quy định hiện hành.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Đối với khoản vốn cho vay về\ngiải quyết việc làm cho người lao động thì các tổ chức đoàn thể chính trị xã hội,\nUBND các huyện, thành phố trên cơ sở tổng số vốn được giao hướng dẫn các tổ chức,\ncá nhân lập dự án đầu tư xin vay vốn về giải quyết việc làm báo cáo Sở Lao động\n- Thương binh và Xã hội hoặc cơ quan, bộ phận chuyên môn về lao động xã hội của\nhuyện, thành phố thẩm định trình UBND tỉnh hoặc UBND huyện, thành phố phê duyệt\ncho vay theo phân cấp; việc giải ngân cho vay thực hiện theo quy trình, thủ tục\ncho vay của hệ thống ngân hàng chính sách xã hội trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_8\"><b><span lang=\"EN-US\">Điều 8. Quản\nlý, quyết toán kinh phí của CTMTQG:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">Kinh phí các CTMTQG được quản\nlý, quyết toán theo các quy định của Luật ngân sách nhà nước và các văn bản hướng\ndẫn hiện hành. </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_4\"><span lang=\"EN-US\">IV- TRÁCH NHIỆM\nTỔ CHỨC THỰC HIỆN.</span></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_9\"><b><span lang=\"EN-US\">Điều 9. Sở\nKế hoạch và Đầu tư.</span></b></a><b><span lang=\"EN-US\"> </span></b></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Sở Kế hoạch và Đầu tư là cơ\nquan thường trực Ban Chỉ đạo các CTMTQG của tỉnh, giúp UBND tỉnh trong việc tổng\nhợp xây dựng kế hoạch, báo cáo HĐND tỉnh và các Bộ,ngành trung ương và giúp\nUBND tỉnh trong việc điều hành việc thực hiện các CTMTQG trên địa bàn tỉnh.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Chủ trì phối hợp với Sở Tài\nchính tham mưu cho UBND tỉnh trong việc xây dựng và phân bổ kế hoạch, điều hoà\nvà lồng ghép các CTMTQG với các chương trình dự án khác trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Chủ trì phối hợp với các\nngành có liên quan tổ chức thẩm định các dự án đấu tư xây dựng công trình, các\ndự án đầu tư mua sắm thiết bị theo quy định. </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">4. Chủ trì phối hợp với Sở Tài\nchính, Kho bạc Nhà nước tỉnh và các ngành có liên quan rà soát điều chỉnh và điều\nhoà thanh toán cuối năm đối với kinh phí thực hiện CTMTQG.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">5. Tổng hợp kết quả tình hình\nthực hiện các CTMTQG theo quý, năm, báo cáo Uỷ ban nhân dân tỉnh xem xét để báo\ncáo Chính phủ và các Bộ, ngành trung ương.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">6. Đề xuất kiến nghị với UBND tỉnh\nthành lập các đoàn kiểm tra thực hiện các CTMTQG trên địa bàn tỉnh theo định kỳ.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_10\"><b><span lang=\"EN-US\">Điều 10. Sở\nTài chính.</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Phối hợp với Sở Kế hoạch và\nĐầu tư cân đối kinh phí ngân sách kế hoạch hàng năm cho từng CTMTQG để trình Uỷ\nban nhân dân tỉnh quyết định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Cấp phát kinh phí cho từng\nchương trình dự án đã được duyệt theo quy định hiện hành, đồng thời căn cứ vào\ncác định mức, tiêu chuẩn quy định, để giám sát và thẩm định việc sử dụng kinh\nphí thực hiện dự án của các chương trình, theo đúng các quy định về tài chính -\nkế toán hiện hành.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Tổng hợp tình hình cấp phát\nkinh phí hàng năm cho từng chương trình, dự án, duyệt quyết toán kinh phí\nCTMTQG và các dự án đã kết thúc, báo cáo Uỷ ban nhân dân tỉnh.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">4. Thẩm định và thông báo quyết\ntoán năm đối với kinh phí CTMTQG trong quyết toán ngân sách nhà nước do các cơ\nquan cấp tỉnh thực hiện.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_11\"><b><span lang=\"EN-US\">Điều 11.\nCác cơ quan quản lý ngành về CTMTQG.</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Chủ động làm việc với các Bộ,\nngành trung ương để khai thác thêm nguồn vốn đầu tư trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Xây dựng kế hoạch CTMTQG\nhàng năm báo cáo UBND tỉnh, Sở Kế hoạch và Đầu tư và Sở Tài chính để tổng hợp\nvà báo cáo Bộ quản lý chương trình theo quy định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Chủ trì dự kiến phân bổ kế\nhoạch, nhiệm vụ, mục tiêu, kinh phí và tổng hợp dự toán chi cho các đơn vị thụ\nhưởng, gửi Sở Kế hoạch và Đầu tư, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">4. Đề xuất kế hoạch lồng ghép\nCTMTQG ngành mình với các CTMTQG khác có liên quan trên địa bàn, báo cáo thường\ntrực BCĐ chương trình MTQG của tỉnh, để tổng hợp trình UBND tỉnh phê duyệt.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">5. Trực tiếp hướng dẫn, chỉ đạo,\ntriển khai thực hiện nhiệm vụ CTMTQG thuộc ngành mình quản lý trên địa bàn tại\ncác huyện, thành phố, trên cơ sở phối hợp chặt chẽ với UBND huyện, thành phố,\nUBND các xã, phường nơi được thụ hưởng trong quá trình tổ chức triển khai thực\nhiện các CTMTQG trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">6. Trực tiếp hoặc phối hợp với\ncác ngành khác có liên quan và UBND các huyện, thành phố tổ chức đi kiểm tra\ncác chủ dự án và tham gia các đoàn kiểm tra do UBND tỉnh quyết định hoặc thường\ntrực Ban chỉ đạo yêu cầu. </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">7. Chịu trách nhiệm quản lý, sử\ndụng kinh phí và tổ chức công tác kiểm tra, đánh giá, thống kê để quản lý nguồn\nkinh phí chương trình theo kế hoạch được giao đúng chế độ quản lý tài chính của\nNhà nước. </span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">8. Đề xuất với Thường trực Ban\nchỉ đạo các CTMTQG, Uỷ ban nhân dân tỉnh trong việc: Điều chỉnh kinh phí khi thấy\nmục tiêu không có khả năng thực hiện và hướng xử lý các đơn vị, cá nhân vi phạm\ntrong quá trình thực hiện các CTMTQG.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">9. Báo cáo hàng quý, năm về\ntình hình và kết quả thực hiện CTMTQG thuộc ngành mình quản lý cho Uỷ ban nhân\ndân tỉnh, Sở Kế hoạch và Đầu tư, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_12\"><b><span lang=\"EN-US\">Điều 12:\nCác Chủ đầu tư:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Thực hiện việc quản lý các dự\nán thuộc CTMTQG được giao theo đúng các Quy định hiện hành.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Phối hợp chặt chẽ với chính\nquyền địa phương và các ngành liên quan trong quá trình triển khai thực hiện dự\nán.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Thực hiện chế độ báo cáo\ntheo Quy định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_13\"><b><span lang=\"EN-US\">Điều 13.</span></b></a><span lang=\"EN-US\"> <a name=\"dieu_13_name\">Kho bạc Nhà nước (tỉnh và các huyện): thực\nhiện việc kiểm soát chi đối với các CTMTQG trên địa bàn theo chức năng nhiệm vụ\nquy định.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_14\"><b><span lang=\"EN-US\">Điều 14.</span></b></a><span lang=\"EN-US\"> <a name=\"dieu_14_name\">UBND các huyện, thành phố.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Chủ tịch UBND các huyện,\nthành phố có trách nhiệm quản lý thống nhất nguồn kinh phí được giao và tổ chức\nđiều hành thực hiện các CTMTQG trên địa bàn; phối hợp với các ngành có CTMTQG của\ntỉnh cùng chịu trách nhiệm chính về tổ chức thực hiện các hoạt động của các\nCTMTQG trên địa bàn (trong việc tổ chức triển khai, kiểm tra, giám sát quá\ntrình thực hiện và sử dụng có hiệu quả nguồn kinh phí của các CTMTQG).</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Chỉ đạo các phòng ban chuyên\nmôn của huyện và UBND các xã, phường, thị trấn, phối hợp với các tổ chức đoàn\nthể triển khai thực hiện các CTMTQG trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Kiến nghị với Thường trực\nBan chỉ đạo CTMTQG, với UBND tỉnh về thay đổi mục tiêu khi thấy không phù hợp\nvà không sát với tình hình thực tế của các huyện, thành phố hoặc dự án triển\nkhai thực hiện không có hiệu quả.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">4. Trên cơ sở kế hoạch đã được\nUỷ ban nhân dân tỉnh giao và các ngành, các cơ quan có CTMTQG thông báo, Uỷ ban\nnhân dân huyện, thành phố phải thông báo để nhân dân biết về chủ trương kế hoạch\ncủa các CTMTQG và tạo điều kiện thuận lợi để các CTMT được triển khai tốt trên\nđịa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">5. Huy động vốn và các nguồn lực\nkhác để thực hiện các nhiệm vụ, mục tiêu kế hoạch CTMTQG trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">6. Xây dựng kế hoạch CTMTQG\ntheo hướng dẫn và quy định của Thường trực Ban chỉ đạo các chương trình MTQG và\ncác ngành chức năng.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">7. Thực hiện chế độ báo cáo\ntheo Quy định.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_15\"><b><span lang=\"EN-US\">Điều 15.\nUBND xã, phường thị trấn.</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. Tham gia cùng các ngành, cơ\nquan có CTMTQG và phối hợp chặt chẽ với các cơ quan chuyên môn của huyện, thành\nphố tổ chức thực hiện các nhiệm vụ CTMTQG trong phạm vi địa bàn mình.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Phối hợp với các ngành chức\nnăng của tỉnh để tuyên truyền phổ biến đến nhân dân về mục đích, ý nghĩa và kế\nhoạch triển khai thực hiện các CTMTQG tại địa phương, tạo điều kiện cho nhân\ndân biết và tham gia quản lý các CTMTQG.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Đề xuất với UBND huyện,\nthành phố về nhiệm vụ kế hoạch CTMTQG hàng năm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">4. Huy động các nguồn lực tại\nchỗ của nhân dân để bổ sung cho việc thực hiện những mục tiêu, nhiệm vụ của\nCTMTQG trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">5. Giám sát, kiểm tra quá trình\nthực hiện các CTMTQG tại cơ sở, kịp thời đề nghị với cấp trên xử lý các vi phạm\ntrong quá trình thực hiện các CTMTQG.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">6. Tổ chức quản lý, bảo vệ và sử\ndụng có hiệu quả các CTMTQG thuộc địa bàn mình quản lý.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_16\"><b><span lang=\"EN-US\">Điều 16.</span></b></a><span lang=\"EN-US\"> <a name=\"dieu_16_name\">Đề nghị Mặt trận Tổ quốc, các tổ chức đoàn\nthể chính trị xã hội từ cấp tỉnh đến cấp xã phối hợp chặt chẽ với các ngành,\ncác cấp chính quyền trong việc kiểm tra, giám sát thực hiện các CTMTQG. Kiến\nnghị với các ngành chức năng, chính quyền các cấp trong việc chỉ đạo thực hiện,\nbiện pháp quản lý và đề nghị xử lý các vi phạm, tiêu cực phát sinh.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">Tuyên truyền vận động nhân dân,\ntập hợp lực lượng để tổ chức thực hiện có hiệu quả các CTMTQG trên địa bàn.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"muc_5\"><span lang=\"EN-US\">V- ĐIỀU KHOẢN\nTHI HÀNH.</span></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_17\"><b><span lang=\"EN-US\">Điều 17.\nChế độ báo cáo thực hiện chương trình:</span></b></a></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">1. UBND các huyện thành phố và\ncác chủ đầu tư có trách nhiệm báo cáo tình hình thực hiện nhiệm vụ CTMTQG và việc\nsử dụng kinh phí theo từng quý, 6 tháng và báo cáo năm về Sở quản lý ngành\nCTMTQG, Sở Kế hoạch và Đầu tư, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Đối với báo cáo quý gửi chậm\nnhất là 10 ngày kể từ ngày kết thúc quý;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Đối với báo cáo năm chậm nhất\nlà 30 ngày kể từ ngày kết thúc năm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">2. Sở quản lý ngành chương\ntrình MTQG có trách nhiệm tổng hợp chung báo cáo từng quý, 6 tháng và báo cáo\nnăm của chương trình gửi về UBND tỉnh, Sở Kế hoạch và Đầu tư, Sở Tài chính.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Đối với báo cáo quý gửi chậm\nnhất là 20 ngày kể từ ngày kết thúc quý;</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">- Đối với báo cáo năm chậm nhất\nlà 40 ngày kể từ ngày kết thúc năm.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">3. Sở Kế hoạch và Đầu tư có\ntrách nhiệm tổng hợp dự thảo báo cáo chung theo từng quý, 6 tháng và báo cáo\nnăm của các CTMTQG trình Uỷ ban nhân dân tỉnh xem xét báo cáo Chính phủ và các\nBộ, ngành trung ương.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">Trường hợp đơn vị nào không thực\nhiện đúng chế độ báo cáo theo quy định tại điều này thì cơ quan Tài chính có\ntrách nhiệm thông báo cho Kho bạc nhà nước tỉnh dừng thanh toán và cấp phát\nkinh phí cho đến khi nhận được báo cáo.</span></p>\n\n<p style=\"margin-bottom:6.0pt\"><a name=\"dieu_18\"><b><span lang=\"EN-US\">Điều 18.</span></b></a><span lang=\"EN-US\"> <a name=\"dieu_18_name\">Các Sở, Ban, ngành, UBND các huyện thành phố,\ncác chủ đầu tư và các đơn vị liên quan có trách nhiệm tổ chức quản lý điều hành\nvà triển khai thực hiện các CTMTQG theo Quy chế này.</a></span></p>\n\n<p style=\"margin-bottom:6.0pt\"><span lang=\"EN-US\">Trong quá trình tổ chức triển\nkhai thực hiện, nếu có vướng mắc, đề nghị phản ánh bằng văn bản về Sở Kế hoạch\nvà Đầu tư, Sở Tài chính để tổng hợp báo cáo UBND tỉnh xem xét kịp thời giải quyết./.</span></p>\n\n</div>\n\n",
+  "mdContent": "**UỶ BAN NHÂN DÂN  \nTỈNH LẠNG SƠN**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 1275/QĐ-UBND\n\n_Lạng Sơn, ngày 04 tháng 7 năm 2008_\n\n**QUYẾT ĐỊNH**\n\nBAN HÀNH QUY CHẾ QUẢN LÝ VÀ ĐIỀU HÀNH CÁC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA TRÊN ĐỊA BÀN TỈNH.\n\n**UỶ BAN NHÂN DÂN TỈNH LẠNG SƠN**\n\n_Căn cứ Luật Tổ chức HĐND và UBND ngày 26/11/2003._\n\n_Căn cứ Quyết định số 42/2002/QĐ-TTg ngày 19/03/2002 của Thủ tướng Chính phủ về quản lý và điều hành các chương trình mục tiêu quốc gia;_\n\n_Căn cứ Thông tư số 01/2003/TTLT/BKH-BTC ngày 06/01/2003 hướng dẫn thực hiện Quyết định số 42/2002/QĐ-TTg ngày 19/03/2002 của Thủ tướng Chính phủ;_\n\n_Xét đề nghị của Giám đốc Sở Kế hoạch và Đầu tư tại Tờ trình số 109/TTr-SKHĐT-VX ngày 10/5/2008,_\n\n**QUYẾT ĐỊNH:**\n\n**Điều 1.** Ban hành kèm theo Quyết định này “Quy chế quản lý và điều hành các chương trình mục tiêu quốc gia trên địa bàn tỉnh Lạng Sơn”.\n\n**Điều 2.** Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 10/2001/QĐ-UB ngày 06/4/2001 của UBND tỉnh về việc ban hành Quy chế quản lý và điều hành các chương trình mục tiêu Quốc gia trên địa bàn tỉnh Lạng Sơn.\n\n**Điều 3.** Chánh Văn phòng Uỷ ban nhân dân tỉnh, Thủ trưởng các sở, ban, ngành thuộc tỉnh; Chủ tịch UBND các huyện, thành phố và các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.\n\n**TM. ỦY BAN NHÂN DÂN  \nCHỦ TỊCH  \n  \n  \n   \n  \nVy Văn Thành**\n\n**QUY CHẾ**\n\nQUẢN LÝ VÀ ĐIỀU HÀNH CÁC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA TRÊN ĐỊA BÀN TỈNH LẠNG SƠN  \n_(Ban hành kèm theo Quyết định số 1275 /QĐ-UBND ngày 04/7/2008 của UBND tỉnh Lạng Sơn)_\n\nI- NHỮNG QUY ĐỊNH CHUNG.\n\n**Điều 1. Phạm vi, đối tượng áp dụng:**\n\n1\\. Quy chế này quy định việc quản lý và điều hành các chương trình mục tiêu quốc gia (viết tắt là CTMTQG) hoặc các chương trình, dự án sử dụng kinh phí thuộc các CTMTQG chiếm tỷ lệ từ 30% tổng kinh phí dự án trở lên.\n\n2\\. Các chương trình mục tiêu khác, các dự án sử dụng nguồn vốn khác và các dự án đầu tư có lồng ghép với các chương trình dự án thuộc CTMTQG, nhưng sử dụng kinh phí CTMTQG để lồng ghép chiếm tỷ lệ dưới 30% tổng kinh phí dự án không thuộc phạm vi, đối tượng điều chỉnh của Quy chế này.\n\n**Điều 2. Các cơ quan quản lý ngành về CTMTQG trên địa bàn tỉnh:**\n\n1\\. Sở Văn hoá, Thể thao và Du lịch, chủ trì theo dõi: Chương trình Văn hóa.\n\n2\\. Công an tỉnh, chủ trì theo dõi:\n\n\\- Chương trình phòng, chống tội phạm.\n\n\\- Chương trình phòng, chống ma tuý.\n\n3\\. Sở Lao động - Thương binh và Xã hội, chủ trì theo dõi:\n\n\\- Chương trình Giảm nghèo\n\n\\- Chương trình Việc làm.\n\n\\- Dự án tăng cường năng lực đào tạo nghề thuộc Chương trình Giáo dục và Đào tạo.\n\n4\\. Sở Nông nghiệp và Phát triển nông thôn, chủ trì theo dõi:\n\n\\- Chương trình nước sạch và vệ sinh môi trường nông thôn.\n\n\\- Dự án bảo đảm an toàn vệ sinh thực phẩm trong sản xuất, sơ chế, bảo quản, chế biến nông sản thực phẩm và Dự án bảo đảm an toàn dịch bệnh, an toàn môi trường và an toàn thực phẩm đối với sản phẩm thuỷ sản có nguồn gốc từ nuôi trồng thuộc Chương trình Vệ sinh an toàn thực phẩm.\n\n5\\. Sở Giáo dục và Đào tạo, chủ trì theo dõi: Chương trình Giáo dục và Đào tạo (không bao gồm Dự án Nâng cao năng lực Đào tạo nghề).\n\n6\\. Sở Y tế, chủ trì theo dõi:\n\n\\- Chương trình phòng chống một số bệnh xã hội, bệnh dịch nguy hiểm và HIV/AIDS;\n\n\\- Chương trình Dân số và kế hoạch hoá gia đình.\n\n\\- Chương trình Vệ sinh an toàn thực phẩm (không bao gồm 02 dự án đã giao Sở Nông nghiệp và Phát triển nông thôn quản lý).\n\nII- QUẢN LÝ VÀ THỰC HIỆN CÁC CHƯƠNG TRÌNH MTQG:\n\n**Điều 3. Xây dựng kế hoạch.**\n\n1\\. Hàng năm trước ngày 20 tháng 7, các ngành quản lý CTMTQG căn cứ vào hướng dẫn của Bộ quản lý chương trình, Bộ Kế hoạch và Đầu tư, Bộ Tài chính, có trách nhiệm hướng dẫn các đơn vị trực thuộc và UBND các huyện, thành phố tổng hợp xây dựng kế hoạch các CTMTQG thuộc ngành quản lý của năm tiếp theo để gửi Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n2\\. Sở Kế hoạch và Đầu tư chủ trì phối hợp với Sở Tài chính căn cứ các mục tiêu kế hoạch 5 năm, nhu cầu các mục tiêu, nhiệm vụ, kinh phí để cân đối, tổng hợp, trình UBND tỉnh xem xét, báo cáo HĐND tỉnh, làm cơ sở báo cáo các Bộ quản lý CTMTQG và đề nghị với Bộ Kế hoạch và Đầu tư, Bộ Tài chính trình Chính phủ bố trí cân đối vốn cho địa phương thực hiện.\n\n**Điều 4. Phân bổ kế hoạch và giao chỉ tiêu kế hoạch các CTMTQG.**\n\n1\\. Các Sở, Ban, ngành sau khi nhận được chỉ tiêu kế hoạch của Chính phủ hoặc các Bộ, ngành trung ương được Thủ tướng Chính phủ uỷ quyền giao, thông báo nhiệm vụ, mục tiêu và kinh phí cho địa phương có trách nhiệm dự kiến phân bổ số kinh phí trong năm kế hoạch với các nhiệm vụ, mục tiêu và kinh phí cụ thể cho các đơn vị thụ hưởng, báo cáo UBND tỉnh, đồng thời gửi Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n2\\. Sở Kế hoạch và Đầu tư chủ trì phối hợp với Sở Tài chính xem xét tổng hợp cân đối, dự kiến phân bổ kế hoạch toàn bộ các chương trình, tính toán các nguồn lực lồng ghép giữa các chương trình, dự án và các nguồn vốn khác (nếu có) và các giải pháp thực hiện để báo cáo UBND tỉnh xem xét trình HĐND tỉnh, để quyết định giao cho các Chủ đầu tư và UBND các huyện, thành phố, các đơn vị tổ chức thực hiện cùng với các chỉ tiêu kinh tế xã hội khác (Trừ một số các nhiệm vụ, mục tiêu do các chủ dự án, các huyện thành phố và các đơn vị sử dụng không thể đảm nhiệm được thì giao cho các sở, ban, ngành thực hiện); giao nhiệm vụ cho các Sở, Ban, ngành có liên quan để hướng dẫn, kiểm tra, đánh giá trong quá trình tổ chức thực hiện.\n\n**Điều 5.** Việc tổ chức thẩm định, phê duyệt dự án và thẩm định kế hoạch đấu thầu, hồ sơ mời thầu, kết quả lựa chọn nhà thầu đối với các dự án thuộc chương trình MTQG thực hiện theo quy định hiện hành.\n\n**Điều 6. Việc lồng ghép, điều chỉnh và điều hoà thanh toán kinh phí các CTMTQG:**\n\n 1. Sở Kế hoạch và Đầu tư chủ trì phối hợp với Sở Tài chính và ngành quản lý CTMTQG tiến hành lồng ghép từ khâu xây dựng, phân bổ kế hoạch để trình Chủ tịch UBND tỉnh quyết định.\n\n2\\. Trong quá trình thực hiện, Ban chỉ đạo các chương trình mục tiêu quốc gia có thể kiến nghị điều chỉnh các mục tiêu, nhiệm vụ và kinh phí các chương trình mục tiêu quốc gia để UBND tỉnh xem xét phê duyệt theo định kỳ 6 tháng, hàng năm, hoặc điều hoà thanh toán cuối năm cùng với các nguồn vốn đầu tư phát triển khác trên địa bàn, khắc phục tình trạng để tồn, vốn CTMTQG chuyển tiếp năm sau thực hiện theo nguyên tắc điều chỉnh là ưu tiên điều chỉnh giữa các dự án trong cùng mục tiêu, sau đó tuỳ theo nhu cầu thực tế của địa phương sẽ điều chỉnh, điều hoà vốn giữa các mục tiêu quốc gia theo Quy định.\n\nIII- CƠ CHẾ TÀI CHÍNH CÁC CTMTQG.\n\n**Điều 7. Về cấp phát và thanh toán vốn:**\n\n1\\. Các khoản kinh phí chi đầu tư xây dựng công trình, đầu tư mua sắm thiết bị, căn cứ thực tế khối lượng đã hoàn thành để cấp kinh phí cho các chủ đầu tư và các huyện thành phố làm cơ sở cho thanh toán vốn tại Kho bạc Nhà nước trên địa bàn. Việc quản lý, thanh toán vốn thực hiện theo quy định tại Thông tư số 27/2007/TT-BTC ngày 13 tháng 04 năm 2007 của Bộ Tài chính hướng dẫn quản lý thanh toán vốn đầu tư và vốn sự nghiệp có tính chất đầu tư thuộc nguồn vốn ngân sách nhà nước.\n\n2\\. Đối với các khoản chi đầu tư cho hoạt động đào tạo, bồi dưỡng, tuyên truyền, vận động, điều tra, nghiên cứu triển khai, hỗ trợ vật tư, cây con giống và chi cho các hoạt động điều tra khảo sát và các hoạt động chuyên môn khác thì trên cơ sở tổng kinh phí và nhiệm vụ, mục tiêu được giao, chủ đầu tư lập dự toán chi theo các nhiệm vụ, mục tiêu báo cáo Sở Tài chính làm cơ sở cấp vốn để thực hiện và gửi Kho bạc nhà nước trên địa bàn để làm cơ sở kiểm soát, cấp phát thanh toán vốn theo quy định hiện hành.\n\n3\\. Đối với khoản vốn cho vay về giải quyết việc làm cho người lao động thì các tổ chức đoàn thể chính trị xã hội, UBND các huyện, thành phố trên cơ sở tổng số vốn được giao hướng dẫn các tổ chức, cá nhân lập dự án đầu tư xin vay vốn về giải quyết việc làm báo cáo Sở Lao động - Thương binh và Xã hội hoặc cơ quan, bộ phận chuyên môn về lao động xã hội của huyện, thành phố thẩm định trình UBND tỉnh hoặc UBND huyện, thành phố phê duyệt cho vay theo phân cấp; việc giải ngân cho vay thực hiện theo quy trình, thủ tục cho vay của hệ thống ngân hàng chính sách xã hội trên địa bàn.\n\n**Điều 8. Quản lý, quyết toán kinh phí của CTMTQG:**\n\nKinh phí các CTMTQG được quản lý, quyết toán theo các quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn hiện hành.\n\nIV- TRÁCH NHIỆM TỔ CHỨC THỰC HIỆN.\n\n**Điều 9. Sở Kế hoạch và Đầu tư.**\n\n1\\. Sở Kế hoạch và Đầu tư là cơ quan thường trực Ban Chỉ đạo các CTMTQG của tỉnh, giúp UBND tỉnh trong việc tổng hợp xây dựng kế hoạch, báo cáo HĐND tỉnh và các Bộ,ngành trung ương và giúp UBND tỉnh trong việc điều hành việc thực hiện các CTMTQG trên địa bàn tỉnh.\n\n2\\. Chủ trì phối hợp với Sở Tài chính tham mưu cho UBND tỉnh trong việc xây dựng và phân bổ kế hoạch, điều hoà và lồng ghép các CTMTQG với các chương trình dự án khác trên địa bàn.\n\n3\\. Chủ trì phối hợp với các ngành có liên quan tổ chức thẩm định các dự án đấu tư xây dựng công trình, các dự án đầu tư mua sắm thiết bị theo quy định.\n\n4\\. Chủ trì phối hợp với Sở Tài chính, Kho bạc Nhà nước tỉnh và các ngành có liên quan rà soát điều chỉnh và điều hoà thanh toán cuối năm đối với kinh phí thực hiện CTMTQG.\n\n5\\. Tổng hợp kết quả tình hình thực hiện các CTMTQG theo quý, năm, báo cáo Uỷ ban nhân dân tỉnh xem xét để báo cáo Chính phủ và các Bộ, ngành trung ương.\n\n6\\. Đề xuất kiến nghị với UBND tỉnh thành lập các đoàn kiểm tra thực hiện các CTMTQG trên địa bàn tỉnh theo định kỳ.\n\n**Điều 10. Sở Tài chính.**\n\n1\\. Phối hợp với Sở Kế hoạch và Đầu tư cân đối kinh phí ngân sách kế hoạch hàng năm cho từng CTMTQG để trình Uỷ ban nhân dân tỉnh quyết định.\n\n2\\. Cấp phát kinh phí cho từng chương trình dự án đã được duyệt theo quy định hiện hành, đồng thời căn cứ vào các định mức, tiêu chuẩn quy định, để giám sát và thẩm định việc sử dụng kinh phí thực hiện dự án của các chương trình, theo đúng các quy định về tài chính - kế toán hiện hành.\n\n3\\. Tổng hợp tình hình cấp phát kinh phí hàng năm cho từng chương trình, dự án, duyệt quyết toán kinh phí CTMTQG và các dự án đã kết thúc, báo cáo Uỷ ban nhân dân tỉnh.\n\n4\\. Thẩm định và thông báo quyết toán năm đối với kinh phí CTMTQG trong quyết toán ngân sách nhà nước do các cơ quan cấp tỉnh thực hiện.\n\n**Điều 11. Các cơ quan quản lý ngành về CTMTQG.**\n\n1\\. Chủ động làm việc với các Bộ, ngành trung ương để khai thác thêm nguồn vốn đầu tư trên địa bàn.\n\n2\\. Xây dựng kế hoạch CTMTQG hàng năm báo cáo UBND tỉnh, Sở Kế hoạch và Đầu tư và Sở Tài chính để tổng hợp và báo cáo Bộ quản lý chương trình theo quy định.\n\n3\\. Chủ trì dự kiến phân bổ kế hoạch, nhiệm vụ, mục tiêu, kinh phí và tổng hợp dự toán chi cho các đơn vị thụ hưởng, gửi Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n4\\. Đề xuất kế hoạch lồng ghép CTMTQG ngành mình với các CTMTQG khác có liên quan trên địa bàn, báo cáo thường trực BCĐ chương trình MTQG của tỉnh, để tổng hợp trình UBND tỉnh phê duyệt.\n\n5\\. Trực tiếp hướng dẫn, chỉ đạo, triển khai thực hiện nhiệm vụ CTMTQG thuộc ngành mình quản lý trên địa bàn tại các huyện, thành phố, trên cơ sở phối hợp chặt chẽ với UBND huyện, thành phố, UBND các xã, phường nơi được thụ hưởng trong quá trình tổ chức triển khai thực hiện các CTMTQG trên địa bàn.\n\n6\\. Trực tiếp hoặc phối hợp với các ngành khác có liên quan và UBND các huyện, thành phố tổ chức đi kiểm tra các chủ dự án và tham gia các đoàn kiểm tra do UBND tỉnh quyết định hoặc thường trực Ban chỉ đạo yêu cầu.\n\n7\\. Chịu trách nhiệm quản lý, sử dụng kinh phí và tổ chức công tác kiểm tra, đánh giá, thống kê để quản lý nguồn kinh phí chương trình theo kế hoạch được giao đúng chế độ quản lý tài chính của Nhà nước.\n\n8\\. Đề xuất với Thường trực Ban chỉ đạo các CTMTQG, Uỷ ban nhân dân tỉnh trong việc: Điều chỉnh kinh phí khi thấy mục tiêu không có khả năng thực hiện và hướng xử lý các đơn vị, cá nhân vi phạm trong quá trình thực hiện các CTMTQG.\n\n9\\. Báo cáo hàng quý, năm về tình hình và kết quả thực hiện CTMTQG thuộc ngành mình quản lý cho Uỷ ban nhân dân tỉnh, Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n**Điều 12: Các Chủ đầu tư:**\n\n1\\. Thực hiện việc quản lý các dự án thuộc CTMTQG được giao theo đúng các Quy định hiện hành.\n\n2\\. Phối hợp chặt chẽ với chính quyền địa phương và các ngành liên quan trong quá trình triển khai thực hiện dự án.\n\n3\\. Thực hiện chế độ báo cáo theo Quy định.\n\n**Điều 13.** Kho bạc Nhà nước (tỉnh và các huyện): thực hiện việc kiểm soát chi đối với các CTMTQG trên địa bàn theo chức năng nhiệm vụ quy định.\n\n**Điều 14.** UBND các huyện, thành phố.\n\n1\\. Chủ tịch UBND các huyện, thành phố có trách nhiệm quản lý thống nhất nguồn kinh phí được giao và tổ chức điều hành thực hiện các CTMTQG trên địa bàn; phối hợp với các ngành có CTMTQG của tỉnh cùng chịu trách nhiệm chính về tổ chức thực hiện các hoạt động của các CTMTQG trên địa bàn (trong việc tổ chức triển khai, kiểm tra, giám sát quá trình thực hiện và sử dụng có hiệu quả nguồn kinh phí của các CTMTQG).\n\n2\\. Chỉ đạo các phòng ban chuyên môn của huyện và UBND các xã, phường, thị trấn, phối hợp với các tổ chức đoàn thể triển khai thực hiện các CTMTQG trên địa bàn.\n\n3\\. Kiến nghị với Thường trực Ban chỉ đạo CTMTQG, với UBND tỉnh về thay đổi mục tiêu khi thấy không phù hợp và không sát với tình hình thực tế của các huyện, thành phố hoặc dự án triển khai thực hiện không có hiệu quả.\n\n4\\. Trên cơ sở kế hoạch đã được Uỷ ban nhân dân tỉnh giao và các ngành, các cơ quan có CTMTQG thông báo, Uỷ ban nhân dân huyện, thành phố phải thông báo để nhân dân biết về chủ trương kế hoạch của các CTMTQG và tạo điều kiện thuận lợi để các CTMT được triển khai tốt trên địa bàn.\n\n5\\. Huy động vốn và các nguồn lực khác để thực hiện các nhiệm vụ, mục tiêu kế hoạch CTMTQG trên địa bàn.\n\n6\\. Xây dựng kế hoạch CTMTQG theo hướng dẫn và quy định của Thường trực Ban chỉ đạo các chương trình MTQG và các ngành chức năng.\n\n7\\. Thực hiện chế độ báo cáo theo Quy định.\n\n**Điều 15. UBND xã, phường thị trấn.**\n\n1\\. Tham gia cùng các ngành, cơ quan có CTMTQG và phối hợp chặt chẽ với các cơ quan chuyên môn của huyện, thành phố tổ chức thực hiện các nhiệm vụ CTMTQG trong phạm vi địa bàn mình.\n\n2\\. Phối hợp với các ngành chức năng của tỉnh để tuyên truyền phổ biến đến nhân dân về mục đích, ý nghĩa và kế hoạch triển khai thực hiện các CTMTQG tại địa phương, tạo điều kiện cho nhân dân biết và tham gia quản lý các CTMTQG.\n\n3\\. Đề xuất với UBND huyện, thành phố về nhiệm vụ kế hoạch CTMTQG hàng năm.\n\n4\\. Huy động các nguồn lực tại chỗ của nhân dân để bổ sung cho việc thực hiện những mục tiêu, nhiệm vụ của CTMTQG trên địa bàn.\n\n5\\. Giám sát, kiểm tra quá trình thực hiện các CTMTQG tại cơ sở, kịp thời đề nghị với cấp trên xử lý các vi phạm trong quá trình thực hiện các CTMTQG.\n\n6\\. Tổ chức quản lý, bảo vệ và sử dụng có hiệu quả các CTMTQG thuộc địa bàn mình quản lý.\n\n**Điều 16.** Đề nghị Mặt trận Tổ quốc, các tổ chức đoàn thể chính trị xã hội từ cấp tỉnh đến cấp xã phối hợp chặt chẽ với các ngành, các cấp chính quyền trong việc kiểm tra, giám sát thực hiện các CTMTQG. Kiến nghị với các ngành chức năng, chính quyền các cấp trong việc chỉ đạo thực hiện, biện pháp quản lý và đề nghị xử lý các vi phạm, tiêu cực phát sinh.\n\nTuyên truyền vận động nhân dân, tập hợp lực lượng để tổ chức thực hiện có hiệu quả các CTMTQG trên địa bàn.\n\nV- ĐIỀU KHOẢN THI HÀNH.\n\n**Điều 17. Chế độ báo cáo thực hiện chương trình:**\n\n1\\. UBND các huyện thành phố và các chủ đầu tư có trách nhiệm báo cáo tình hình thực hiện nhiệm vụ CTMTQG và việc sử dụng kinh phí theo từng quý, 6 tháng và báo cáo năm về Sở quản lý ngành CTMTQG, Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n\\- Đối với báo cáo quý gửi chậm nhất là 10 ngày kể từ ngày kết thúc quý;\n\n\\- Đối với báo cáo năm chậm nhất là 30 ngày kể từ ngày kết thúc năm.\n\n2\\. Sở quản lý ngành chương trình MTQG có trách nhiệm tổng hợp chung báo cáo từng quý, 6 tháng và báo cáo năm của chương trình gửi về UBND tỉnh, Sở Kế hoạch và Đầu tư, Sở Tài chính.\n\n\\- Đối với báo cáo quý gửi chậm nhất là 20 ngày kể từ ngày kết thúc quý;\n\n\\- Đối với báo cáo năm chậm nhất là 40 ngày kể từ ngày kết thúc năm.\n\n3\\. Sở Kế hoạch và Đầu tư có trách nhiệm tổng hợp dự thảo báo cáo chung theo từng quý, 6 tháng và báo cáo năm của các CTMTQG trình Uỷ ban nhân dân tỉnh xem xét báo cáo Chính phủ và các Bộ, ngành trung ương.\n\nTrường hợp đơn vị nào không thực hiện đúng chế độ báo cáo theo quy định tại điều này thì cơ quan Tài chính có trách nhiệm thông báo cho Kho bạc nhà nước tỉnh dừng thanh toán và cấp phát kinh phí cho đến khi nhận được báo cáo.\n\n**Điều 18.** Các Sở, Ban, ngành, UBND các huyện thành phố, các chủ đầu tư và các đơn vị liên quan có trách nhiệm tổ chức quản lý điều hành và triển khai thực hiện các CTMTQG theo Quy chế này.\n\nTrong quá trình tổ chức triển khai thực hiện, nếu có vướng mắc, đề nghị phản ánh bằng văn bản về Sở Kế hoạch và Đầu tư, Sở Tài chính để tổng hợp báo cáo UBND tỉnh xem xét kịp thời giải quyết./.",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
