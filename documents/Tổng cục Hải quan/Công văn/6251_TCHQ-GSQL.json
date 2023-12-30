@@ -1,5 +1,5 @@
 {
-  "title": "Công văn 6251/TCHQ-GSQL năm 2015 về vướng mắc C/O do Tổng cục Hải quan ban hành",
+  "title": "Công văn 6251/TCHQ-GSQL năm 2018 về kiểm tra thực tế địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới đề nghị công nhận do Tổng cục Hải quan ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -8,20 +8,39 @@
   "supersededDocuments": [],
   "referredDocuments": [
     {
-      "title": "Công văn 887/TCHQ-GSQL vướng mắc C/O do Tổng cục Hải quan ban hành",
-      "id": "887/TCHQ-GSQL",
-      "legislationType": "Công văn",
+      "title": "Thông tư 84/2017/TT-BTC hướng dẫn Nghị định 68/2016/NĐ-CP do Bộ Tài chính ban hành",
+      "id": "84/2017/TT-BTC",
+      "legislationType": "Thông tư",
       "categories": [
+        "Thương mại",
         "Xuất nhập khẩu"
       ],
-      "organization": "Tổng cục Hải quan",
+      "organization": "Bộ Tài chính",
       "signers": [
-        "Vũ Ngọc Anh"
+        "Vũ Thị Mai"
       ],
-      "issuedDate": "2013-02-08",
-      "effectiveDate": "2013-02-08",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "issuedDate": "2017-08-15",
+      "effectiveDate": "2017-09-30",
+      "gazetteDate": "2017-09-05",
+      "gazetteNumber": "Từ số 661 đến số 662",
+      "status": "Hết hiệu lực: 10/08/2020"
+    },
+    {
+      "title": "Nghị định 68/2016/NĐ-CP quy định về điều kiện kinh doanh hàng miễn thuế, kho bãi, địa điểm làm thủ tục hải quan, tập kết, kiểm tra, giám sát hải quan",
+      "id": "68/2016/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-07-01",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2016-07-17",
+      "gazetteNumber": "Từ số 565 đến số 566",
       "status": "Còn hiệu lực"
     }
   ],
@@ -33,26 +52,215 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Công văn 1094/GSQL-TH năm 2015 về vướng mắc liên quan đến tính hợp lệ của giấy chứng nhận xuất xứ hàng hóa do Cục Giám sát quản lý về Hải quan ban hành",
-      "id": "1094/GSQL-TH",
+      "title": "Công văn 5321/TCHQ-GSQL năm 2021 về tập kết, kiểm tra hàng hóa xuất nhập khẩu tại khu thương mại dịch vụ cửa khẩu Vĩnh Xương do Tổng cục Hải quan ban hành",
+      "id": "5321/TCHQ-GSQL",
       "legislationType": "Công văn",
       "categories": [
         "Thương mại",
         "Xuất nhập khẩu"
       ],
-      "organization": "Cục Giám sát quản lý về hải quan",
+      "organization": "Tổng cục Hải quan",
       "signers": [
-        "Âu Anh Tuấn"
+        "Mai Xuân Thành"
       ],
-      "issuedDate": "2015-09-21",
-      "effectiveDate": "2015-09-21",
+      "issuedDate": "2021-11-10",
+      "effectiveDate": "2021-11-10",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 6307/TCHQ-GSQL năm 2015 vướng mắc C/O của các lô hàng xăng dầu từ kho ngoại quan vào nội địa do Tổng cục Hải quan ban hành",
-      "id": "6307/TCHQ-GSQL",
+      "title": "Công văn 4195/TCHQ-GSQL năm 2021 về kiểm tra, giám sát hàng hóa xuất khẩu có yêu cầu bảo vệ quyền sở hữu trí tuệ do Tổng cục Hải quan ban hành",
+      "id": "4195/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu",
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Âu Anh Tuấn"
+      ],
+      "issuedDate": "2021-08-27",
+      "effectiveDate": "2021-08-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 7311/TCHQ-GSQL năm 2020 xử lý vướng mắc về công tác quản lý, giám sát tại Địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất nhập khẩu tập trung do Tổng cục Hải quan ban hành",
+      "id": "7311/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Mai Xuân Thành"
+      ],
+      "issuedDate": "2020-11-17",
+      "effectiveDate": "2020-11-17",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 7184/TCHQ-GSQL năm 2020 vướng mắc đối với hàng hóa xuất khẩu đưa vào địa điểm tập kết, kiểm tra, giám sát ở khu vực biên giới do Tổng cục Hải quan ban hành",
+      "id": "7184/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Trần Đức Hùng"
+      ],
+      "issuedDate": "2020-11-09",
+      "effectiveDate": "2020-11-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4137/TCHQ-GSQL năm 2020 về kiểm tra việc tập kết hàng hóa xuất khẩu do Tổng cục Hải quan ban hành",
+      "id": "4137/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Mai Xuân Thành"
+      ],
+      "issuedDate": "2020-06-19",
+      "effectiveDate": "2020-06-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 08/10/2020"
+    },
+    {
+      "title": "Công văn 366/TCHQ-GSQL năm 2019 về vướng mắc kiểm tra thực tế hàng hóa do Tổng cục Hải quan ban hành",
+      "id": "366/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Mai Xuân Thành"
+      ],
+      "issuedDate": "2019-01-15",
+      "effectiveDate": "2019-01-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4133/GSQL-GQ5 năm 2018 về địa điểm đề nghị thu hẹp do Cục Giám sát quản lý về Hải quan ban hành",
+      "id": "4133/GSQL-GQ5",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Nguyễn Anh Tuấn"
+      ],
+      "issuedDate": "2018-12-25",
+      "effectiveDate": "2018-12-25",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4013/GSQL-GQ4 năm 2018 về kiểm tra, giám sát hàng hóa xuất nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ do Cục Giám sát quản lý về Hải quan ban hành",
+      "id": "4013/GSQL-GQ4",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu",
+        "Sở hữu trí tuệ"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Nguyễn Nhất Kha"
+      ],
+      "issuedDate": "2018-12-12",
+      "effectiveDate": "2018-12-12",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3926/GSQL-GQ1 năm 2018 về kiểm tra thực tế hàng hóa do Cục Giám sát quản lý về Hải quan ban hành",
+      "id": "3926/GSQL-GQ1",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Vũ Lê Quân"
+      ],
+      "issuedDate": "2018-12-05",
+      "effectiveDate": "2018-12-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3927/GSQL-GQ1 năm 2018 về kiểm tra thực tế hàng hóa do Cục Giám sát quản lý về Hải quan ban hành",
+      "id": "3927/GSQL-GQ1",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Vũ Lê Quân"
+      ],
+      "issuedDate": "2018-12-05",
+      "effectiveDate": "2018-12-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3859/GSQL-GQ1 năm 2018 về kiểm hóa hộ do Cục Giám sát quản lý về Hải quan ban hành",
+      "id": "3859/GSQL-GQ1",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Vũ Lê Quân"
+      ],
+      "issuedDate": "2018-11-27",
+      "effectiveDate": "2018-11-27",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3163/GSQL-GQ5 năm 2018 về công nhận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới do Cục Giám sát quản lý về hải quan ban hành",
+      "id": "3163/GSQL-GQ5",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Nguyễn Anh Tuấn"
+      ],
+      "issuedDate": "2018-10-05",
+      "effectiveDate": "2018-10-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 5311/TCHQ-GSQL năm 2017 điều chỉnh địa chỉ địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới thuộc Khu kinh tế cửa khẩu do Tổng cục Hải quan ban hành",
+      "id": "5311/TCHQ-GSQL",
       "legislationType": "Công văn",
       "categories": [
         "Xuất nhập khẩu"
@@ -61,60 +269,42 @@
       "signers": [
         "Vũ Ngọc Anh"
       ],
-      "issuedDate": "2015-07-10",
-      "effectiveDate": "2015-07-10",
+      "issuedDate": "2017-08-10",
+      "effectiveDate": "2017-08-10",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 6549/BCT-XNK năm 2015 vướng mắc C/O mẫu E do Bộ Công Thương ban hành",
-      "id": "6549/BCT-XNK",
-      "legislationType": "Công văn",
+      "title": "Quyết định 965/QĐ-TCHQ năm 2017 về công nhận địa điểm kiểm tra, giám sát, sang tải hàng hóa xuất khẩu ở biên giới tại khu vực cửa khẩu phụ U Ma Tu Khoòng, huyện Mường Tè, tỉnh Lai Châu do Tổng cục trưởng Tổng cục Hải quan ban hành",
+      "id": "965/QĐ-TCHQ",
+      "legislationType": "Quyết định",
       "categories": [
         "Xuất nhập khẩu"
       ],
-      "organization": "Bộ Công thương",
+      "organization": "Tổng cục Hải quan",
       "signers": [
-        "Trần Tuấn Anh"
+        "Vũ Ngọc Anh"
       ],
-      "issuedDate": "2015-07-01",
-      "effectiveDate": "2015-07-01",
+      "issuedDate": "2017-03-20",
+      "effectiveDate": "2017-03-20",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 452/GSQL-TH năm 2015 vướng mắc trên C/O mẫu E do Cục Giám sát quản lý về Hải quan ban hành",
-      "id": "452/GSQL-TH",
+      "title": "Công văn 229/GSQL-GQ5 năm 2017 hoàn thiện hồ sơ xin thành lập địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới do Cục Giám sát quản lý về hải quan ban hành",
+      "id": "229/GSQL-GQ5",
       "legislationType": "Công văn",
       "categories": [
         "Xuất nhập khẩu"
       ],
       "organization": "Cục Giám sát quản lý về hải quan",
       "signers": [
-        "Âu Anh Tuấn"
+        "Nguyễn Nhất Kha"
       ],
-      "issuedDate": "2015-05-15",
-      "effectiveDate": "2015-05-15",
-      "gazetteDate": "Dữ liệu đang cập nhật",
-      "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Còn hiệu lực"
-    },
-    {
-      "title": "Công văn 421/GSQL-TH năm 2015 về vướng mắc C/O mẫu E do Cục Giám sát quản lý về Hải quan ban hành",
-      "id": "421/GSQL-TH",
-      "legislationType": "Công văn",
-      "categories": [
-        "Thương mại",
-        "Xuất nhập khẩu"
-      ],
-      "organization": "Cục Giám sát quản lý về hải quan",
-      "signers": [
-        "Âu Anh Tuấn"
-      ],
-      "issuedDate": "2015-05-08",
-      "effectiveDate": "2015-05-08",
+      "issuedDate": "2017-01-24",
+      "effectiveDate": "2017-01-24",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
@@ -127,15 +317,15 @@
   ],
   "organization": "Tổng cục Hải quan",
   "signers": [
-    "Vũ Ngọc Anh"
+    "Nguyễn Anh Tuấn"
   ],
-  "issuedDate": "2015-07-09",
-  "effectiveDate": "2015-07-09",
+  "issuedDate": "2018-10-24",
+  "effectiveDate": "2018-10-24",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<div>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADUAMQAxADAANwA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">BỘ TÀI CHÍNH<br>\n  <b>TỔNG CỤC HẢI QUAN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\">Số: 6251/TCHQ-GSQL<br>\n  <i><span style=\"font-size:8.0pt\">V/v vướng mắc C/O</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 09\n  tháng 07 năm 2015</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Kính gửi:</b> Cục\nHải quan TP Hà Nội.</p>\n\n<p style=\"margin-top:6.0pt\">Liên quan đến kiến nghị của Công ty TNHH phụ tùng\nxe máy - ô tô Showa Việt Nam nêu tại công văn số 03-2015/CO-SAV về việc xin trả\nlại C/O gốc bị lỗi để sửa chữa, bổ sung thông tin thiếu hoặc cấp lại C/O mới hợp\nlệ, tạm thời chưa truy thu thuế đối với lô hàng có C/O gặp lỗi trên, Tổng cục Hải\nquan hướng dẫn thực hiện như sau:</p>\n\n<p style=\"margin-top:6.0pt\">1. Cơ quan hải quan xem xét chấp nhận C/O bị cấp lỗi\nđược xử lý theo hướng dẫn tại <a name=\"dc_100\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-982258')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-982258')\" atmm=\".lqhlTootip-982258\" onmouseout=\"hideddrivetip();\">Điểm 3, công văn số\n887/TCHQ-GSQL</a> ngày 08/02/2013. Thời hạn cơ quan hải quan cho phép chấp nhận\nC/O sửa đổi hoặc nộp bổ sung C/O cấp mới thay thế là 90 ngày kể từ ngày <span style=\"background:white\">Tổng</span> cục Hải quan gửi công hàm chính thức tới\ncác cơ quan cấp C/O có liên quan. Quá thời hạn này, Công ty không nộp bổ sung\nC/O mới cấp thay thế hoặc C/O đã được sửa lỗi thì cơ quan hải quan sẽ tiến hành\nấn định thuế.</p>\n\n<p style=\"margin-top:6.0pt\">2. Để có cơ sở gửi thông báo tới cơ quan cấp C/O\nliên quan, đề nghị Cục Hải quan TP Hà Nội tiến hành kiểm tra, báo cáo kết quả kết\nquả xử lý các trường hợp C/O không đủ điều kiện được hưởng ưu đãi của Công ty\nShowa và gửi báo cáo về Tổng cục trước ngày 20/7/2015.</p>\n\n<p style=\"margin-top:6.0pt\">Tổng cục Hải quan thông báo để đơn vị biết, thực hiện.</p>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAxADUAMQAxADAANwA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><br>\n  <b><i>Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như trên; <br>\n  - Công ty TNHH phụ tùng xe máy - ô tô Showa Việt Nam<br>\n  (Đ/c: Lô M6, KCN Thăng Long, Đông Anh, Hà Nội) (thay trả lời công văn số\n  03-2015-CO-SAV);<br>\n  - Lưu: VT, GSQL(3b).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. TỔNG CỤC\n  TRƯỞNG<br>\n  PHÓ TỔNG CỤC TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Vũ Ngọc Anh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\">&nbsp;</p>\n\n</div>\n\n",
-  "mdContent": "BỘ TÀI CHÍNH  \n**TỔNG CỤC HẢI QUAN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 6251/TCHQ-GSQL  \n_V/v vướng mắc C/O_\n\n_Hà Nội, ngày 09 tháng 07 năm 2015_\n\n**Kính gửi:** Cục Hải quan TP Hà Nội.\n\nLiên quan đến kiến nghị của Công ty TNHH phụ tùng xe máy - ô tô Showa Việt Nam nêu tại công văn số 03-2015/CO-SAV về việc xin trả lại C/O gốc bị lỗi để sửa chữa, bổ sung thông tin thiếu hoặc cấp lại C/O mới hợp lệ, tạm thời chưa truy thu thuế đối với lô hàng có C/O gặp lỗi trên, Tổng cục Hải quan hướng dẫn thực hiện như sau:\n\n1\\. Cơ quan hải quan xem xét chấp nhận C/O bị cấp lỗi được xử lý theo hướng dẫn tại Điểm 3, công văn số 887/TCHQ-GSQL ngày 08/02/2013. Thời hạn cơ quan hải quan cho phép chấp nhận C/O sửa đổi hoặc nộp bổ sung C/O cấp mới thay thế là 90 ngày kể từ ngày Tổng cục Hải quan gửi công hàm chính thức tới các cơ quan cấp C/O có liên quan. Quá thời hạn này, Công ty không nộp bổ sung C/O mới cấp thay thế hoặc C/O đã được sửa lỗi thì cơ quan hải quan sẽ tiến hành ấn định thuế.\n\n2\\. Để có cơ sở gửi thông báo tới cơ quan cấp C/O liên quan, đề nghị Cục Hải quan TP Hà Nội tiến hành kiểm tra, báo cáo kết quả kết quả xử lý các trường hợp C/O không đủ điều kiện được hưởng ưu đãi của Công ty Showa và gửi báo cáo về Tổng cục trước ngày 20/7/2015.\n\nTổng cục Hải quan thông báo để đơn vị biết, thực hiện.\n\n  \n**_Nơi nhận:  \n_**\\- Như trên;  \n\\- Công ty TNHH phụ tùng xe máy - ô tô Showa Việt Nam  \n(Đ/c: Lô M6, KCN Thăng Long, Đông Anh, Hà Nội) (thay trả lời công văn số 03-2015-CO-SAV);  \n\\- Lưu: VT, GSQL(3b).\n\n**KT. TỔNG CỤC TRƯỞNG  \nPHÓ TỔNG CỤC TRƯỞNG  \n  \n  \n  \n  \nVũ Ngọc Anh**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADMAMAA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\">BỘ TÀI CHÍNH<b><br>\n  TỔNG CỤC HẢI QUAN<br>\n  -------</b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>CỘNG HÒA XÃ HỘI\n  CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\">Số: 6251/TCHQ-GSQL<br>\n  <i><span style=\"font-size:8.0pt\">V/v kiểm tra thực tế địa điểm tập kết, kiểm tra,\n  giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới đề nghị công nhận</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i>Hà Nội, ngày 24\n  tháng 10 năm 2018</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>Kính gửi:</b> Cục\nHải quan tỉnh Đắk Lắk.</p>\n\n<p style=\"margin-top:6.0pt\">Tổng cục Hải quan nhận được công văn số 1210/CVNT\nngày 12/10/2018 của Công ty TNHH MTV Thương mại Ngọc Tuyết kèm hồ sơ đề nghị\ncông nhận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở\nbiên giới tại khu vực cửa khẩu Đắk Peur, xã Thuận An, huyện Đắk Mil, tỉnh Đắk\nNông; để có cơ sở xem xét quyết định công nhận hoạt động theo quy định, yêu cầu\nCục Hải quan tỉnh Đắk Lắk thực hiện kiểm tra thực tế địa điểm đề nghị công nhận,\nđối chiếu với quy định tại Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 68/2016/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-68-2016-nd-cp-thu-tuc-thanh-lap-cua-hang-mien-thue-kho-bai-dia-diem-lam-thu-tuc-hai-quan-315475.aspx\">68/2016/NĐ-CP</a>  ngày 01/7/2016 của Chính\nphủ và Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 84/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-84-2017-tt-btc-huong-dan-kinh-doanh-hang-hoa-mien-thue-68-2016-nd-cp-359436.aspx\">84/2017/TT-BTC</a>  ngày 15/08/2017 của Bộ Tài chính, cụ thể như\nsau:</p>\n\n<p style=\"margin-top:6.0pt\">1. Kiểm tra, đối chiếu vị trí, sơ đồ khu đất trên\ngiấy chứng nhận quyền sử dụng đất, nhà kho với hiện trạng thực tế; Diện tích\ncác khu vực theo quy định (tổng diện tích địa điểm; kho, bãi chứa hàng; nơi làm\nviệc của cơ quan hải quan; kho chứa tang vật vi phạm...). Vị trí khu vực địa điểm\nđề nghị công nhận có đáp ứng quy định tại <a name=\"dc_1\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2562558')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2562558')\" atmm=\".lqhlTootip-2562558\" onmouseout=\"hideddrivetip();\">điểm a khoản 1 Điều 36\nNghị định số 68/2016/NĐ-CP</a> ngày 01/7/2016 của Chính phủ không.</p>\n\n<p style=\"margin-top:6.0pt\">2. Kiểm tra cơ sở vật chất, trang thiết bị tại địa điểm\nvà khu vực địa điểm đề nghị công nhận, gồm:</p>\n\n<p style=\"margin-top:6.0pt\">- Kho, bãi đề nghị công nhận được ngăn cách với khu\nvực xung quanh bằng hệ thống tường rào, đáp ứng yêu cầu kiểm tra, giám sát thường\nxuyên của cơ quan hải quan; Sơ đồ thiết kế mặt bằng khu vực địa điểm thể hiện\nchi tiết vị trí các kho hàng, nơi tập kết hàng hóa xuất khẩu, nhập khẩu, nơi kiểm\ntra thực tế hàng hóa;</p>\n\n<p style=\"margin-top:6.0pt\">- Bảo đảm điều kiện làm việc cho Cơ quan hải quan\nnhư nơi làm việc, nơi kiểm tra hàng hóa, nơi lắp đặt trang thiết bị kiểm tra hải\nquan, kho chứa tang vật vi phạm theo quy định của Bộ Tài chính;</p>\n\n<p style=\"margin-top:6.0pt\">- Hệ thống camera bố trí lắp đặt, khả năng quan sát\ncác vị trí trong kho bãi, địa điểm tại các thời điểm trong ngày; cung cấp đường\nlink kết nối hệ thống camera giám sát, địa chỉ IP, mật khẩu truy cập tại địa điểm\ncủa Công ty; năng lực lưu trữ hình ảnh, khả năng kết nối với cơ quan Hải quan\nquản lý kho và hệ thống xử lý dữ liệu tập trung của cơ quan hải quan, truy xuất\ndữ liệu theo yêu cầu quản lý của cơ quan Hải quan;</p>\n\n<p style=\"margin-top:6.0pt\">- Hệ thống phần mềm quản lý hàng hóa của Công ty\nđáp ứng các tiêu chí theo quy định tại <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2562559')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2562559')\" atmm=\".lqhlTootip-2562559\" onmouseout=\"hideddrivetip();\">Điều 36 Nghị định số\n68/2016/NĐ-CP</a> ngày 01/7/2018 của Chính phủ; có đáp ứng yêu cầu quản lý hàng\nhóa đưa vào, lưu giữ, đưa ra địa điểm không? kết nối phần mềm quản lý của Công\nty với hải quan quản lý địa điểm và Hệ thống xử lý dữ liệu tập trung của cơ\nquan hải quan đã thực hiện kết nối chưa? cung cấp đường link kết nối, địa chỉ\nIP, mật khẩu truy cập để kiểm tra thông tin hàng hóa ra vào kho ngoại quan, dữ\nliệu nhập xuất tồn;</p>\n\n<p style=\"margin-top:6.0pt\">- Cơ sở vật chất, trang thiết bị, hệ thống phòng\ncháy chữa cháy; Kiểm tra điều kiện phòng cháy chữa cháy tại địa điểm, đối chiếu\nsự phù hợp với biên bản kiểm tra phòng cháy chữa cháy.</p>\n\n<p style=\"margin-top:6.0pt\">3. Báo cáo đánh giá việc kiểm tra, giám sát của cơ\nquan Hải quan:</p>\n\n<p style=\"margin-top:6.0pt\">- Khả năng thực hiện các nhiệm vụ quản lý, kiểm\ntra, giám sát hàng hóa xuất khẩu, nhập khẩu tại địa điểm đề nghị công nhận.</p>\n\n<p style=\"margin-top:6.0pt\">Sau khi kiểm tra, Cục Hải quan tỉnh Đắk Lắk kết luận\nđịa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới\nđề nghị công nhận của Công ty TNHH MTV Thương mại Ngọc Tuyết có đáp ứng các điều\nkiện theo quy định tại <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2562560')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2562560')\" atmm=\".lqhlTootip-2562560\" onmouseout=\"hideddrivetip();\">Điều 36, Điều 37 Nghị định số\n68/2016/NĐ-CP</a> ngày 01/7/2016 của Chính phủ và Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 84/2017/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-84-2017-tt-btc-huong-dan-kinh-doanh-hang-hoa-mien-thue-68-2016-nd-cp-359436.aspx\">84/2017/TT-BTC</a> \nngày 15/08/2017 của Bộ Tài chính không.</p>\n\n<p style=\"margin-top:6.0pt\">Cục trưởng Cục Hải quan tỉnh Đắk Lắk căn cứ thực tế\nđịa bàn quản lý và số lượng biên chế hiện có tại đơn vị để giao cho đội/tổ thuộc\nChi cục Hải quan quản lý địa điểm khi được công nhận, có văn bản báo cáo Tổng cục\nHải quan xem xét, quyết định công nhận địa điểm tập kết, kiểm tra, giám sát\nhàng hóa xuất khẩu, nhập khẩu ở biên giới của Công ty TNHH MTV Thương mại Ngọc\nTuyết.</p>\n\n<p style=\"margin-top:6.0pt\">Tổng cục Hải quan có ý kiến để Cục Hải quan tỉnh Đắk\nLắk biết, thực hiện. Kết quả kiểm tra báo cáo (gửi kèm biên bản kiểm tra ghi nhận\nđầy đủ các nội dung nêu trên) về Tổng cục Hải quan trước ngày 02/11/2018./.</p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADMAMAA=-->\n <tbody><tr>\n  <td width=\"267\" valign=\"top\" style=\"width:200.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><br>\n  Nơi nhận:<br>\n  </i></b><span style=\"font-size:8.0pt\">- Như trên;</span><span style=\"font-size:6.0pt\"><br>\n  </span><span style=\"font-size:8.0pt\">- Công ty TNHH MTV Thương mại Ngọc Tuyết\n  (đ/c: thôn Đức Hòa, xã Thuận An, huyện Đắk Mil, tỉnh Đắk Nông) (để th/h);<br>\n  - Lưu: VT, GSQL (3b).</span></p>\n  </td>\n  <td width=\"323\" valign=\"top\" style=\"width:242.4pt;padding:0cm 5.4pt 0cm 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>TL. TỔNG CỤC\n  TRƯỞNG<br>\n  KT. CỤC TRƯỞNG CỤC GSQL VỀ HQ<br>\n  PHÓ CỤC TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Anh Tuấn</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n",
+  "mdContent": "BỘ TÀI CHÍNH**  \nTỔNG CỤC HẢI QUAN  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 6251/TCHQ-GSQL  \n_V/v kiểm tra thực tế địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới đề nghị công nhận_\n\n_Hà Nội, ngày 24 tháng 10 năm 2018_\n\n**Kính gửi:** Cục Hải quan tỉnh Đắk Lắk.\n\nTổng cục Hải quan nhận được công văn số 1210/CVNT ngày 12/10/2018 của Công ty TNHH MTV Thương mại Ngọc Tuyết kèm hồ sơ đề nghị công nhận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới tại khu vực cửa khẩu Đắk Peur, xã Thuận An, huyện Đắk Mil, tỉnh Đắk Nông; để có cơ sở xem xét quyết định công nhận hoạt động theo quy định, yêu cầu Cục Hải quan tỉnh Đắk Lắk thực hiện kiểm tra thực tế địa điểm đề nghị công nhận, đối chiếu với quy định tại Nghị định số [68/2016/NĐ-CP](https://thuvienphapluat.vn/van-ban/thuong-mai/nghi-dinh-68-2016-nd-cp-thu-tuc-thanh-lap-cua-hang-mien-thue-kho-bai-dia-diem-lam-thu-tuc-hai-quan-315475.aspx \"Nghị định 68/2016/NĐ-CP\") ngày 01/7/2016 của Chính phủ và Thông tư số [84/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-84-2017-tt-btc-huong-dan-kinh-doanh-hang-hoa-mien-thue-68-2016-nd-cp-359436.aspx \"Thông tư 84/2017/TT-BTC\") ngày 15/08/2017 của Bộ Tài chính, cụ thể như sau:\n\n1\\. Kiểm tra, đối chiếu vị trí, sơ đồ khu đất trên giấy chứng nhận quyền sử dụng đất, nhà kho với hiện trạng thực tế; Diện tích các khu vực theo quy định (tổng diện tích địa điểm; kho, bãi chứa hàng; nơi làm việc của cơ quan hải quan; kho chứa tang vật vi phạm...). Vị trí khu vực địa điểm đề nghị công nhận có đáp ứng quy định tại điểm a khoản 1 Điều 36 Nghị định số 68/2016/NĐ-CP ngày 01/7/2016 của Chính phủ không.\n\n2\\. Kiểm tra cơ sở vật chất, trang thiết bị tại địa điểm và khu vực địa điểm đề nghị công nhận, gồm:\n\n\\- Kho, bãi đề nghị công nhận được ngăn cách với khu vực xung quanh bằng hệ thống tường rào, đáp ứng yêu cầu kiểm tra, giám sát thường xuyên của cơ quan hải quan; Sơ đồ thiết kế mặt bằng khu vực địa điểm thể hiện chi tiết vị trí các kho hàng, nơi tập kết hàng hóa xuất khẩu, nhập khẩu, nơi kiểm tra thực tế hàng hóa;\n\n\\- Bảo đảm điều kiện làm việc cho Cơ quan hải quan như nơi làm việc, nơi kiểm tra hàng hóa, nơi lắp đặt trang thiết bị kiểm tra hải quan, kho chứa tang vật vi phạm theo quy định của Bộ Tài chính;\n\n\\- Hệ thống camera bố trí lắp đặt, khả năng quan sát các vị trí trong kho bãi, địa điểm tại các thời điểm trong ngày; cung cấp đường link kết nối hệ thống camera giám sát, địa chỉ IP, mật khẩu truy cập tại địa điểm của Công ty; năng lực lưu trữ hình ảnh, khả năng kết nối với cơ quan Hải quan quản lý kho và hệ thống xử lý dữ liệu tập trung của cơ quan hải quan, truy xuất dữ liệu theo yêu cầu quản lý của cơ quan Hải quan;\n\n\\- Hệ thống phần mềm quản lý hàng hóa của Công ty đáp ứng các tiêu chí theo quy định tại Điều 36 Nghị định số 68/2016/NĐ-CP ngày 01/7/2018 của Chính phủ; có đáp ứng yêu cầu quản lý hàng hóa đưa vào, lưu giữ, đưa ra địa điểm không? kết nối phần mềm quản lý của Công ty với hải quan quản lý địa điểm và Hệ thống xử lý dữ liệu tập trung của cơ quan hải quan đã thực hiện kết nối chưa? cung cấp đường link kết nối, địa chỉ IP, mật khẩu truy cập để kiểm tra thông tin hàng hóa ra vào kho ngoại quan, dữ liệu nhập xuất tồn;\n\n\\- Cơ sở vật chất, trang thiết bị, hệ thống phòng cháy chữa cháy; Kiểm tra điều kiện phòng cháy chữa cháy tại địa điểm, đối chiếu sự phù hợp với biên bản kiểm tra phòng cháy chữa cháy.\n\n3\\. Báo cáo đánh giá việc kiểm tra, giám sát của cơ quan Hải quan:\n\n\\- Khả năng thực hiện các nhiệm vụ quản lý, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu tại địa điểm đề nghị công nhận.\n\nSau khi kiểm tra, Cục Hải quan tỉnh Đắk Lắk kết luận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới đề nghị công nhận của Công ty TNHH MTV Thương mại Ngọc Tuyết có đáp ứng các điều kiện theo quy định tại Điều 36, Điều 37 Nghị định số 68/2016/NĐ-CP ngày 01/7/2016 của Chính phủ và Thông tư số [84/2017/TT-BTC](https://thuvienphapluat.vn/van-ban/thuong-mai/thong-tu-84-2017-tt-btc-huong-dan-kinh-doanh-hang-hoa-mien-thue-68-2016-nd-cp-359436.aspx \"Thông tư 84/2017/TT-BTC\") ngày 15/08/2017 của Bộ Tài chính không.\n\nCục trưởng Cục Hải quan tỉnh Đắk Lắk căn cứ thực tế địa bàn quản lý và số lượng biên chế hiện có tại đơn vị để giao cho đội/tổ thuộc Chi cục Hải quan quản lý địa điểm khi được công nhận, có văn bản báo cáo Tổng cục Hải quan xem xét, quyết định công nhận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở biên giới của Công ty TNHH MTV Thương mại Ngọc Tuyết.\n\nTổng cục Hải quan có ý kiến để Cục Hải quan tỉnh Đắk Lắk biết, thực hiện. Kết quả kiểm tra báo cáo (gửi kèm biên bản kiểm tra ghi nhận đầy đủ các nội dung nêu trên) về Tổng cục Hải quan trước ngày 02/11/2018./.\n\n**_  \nNơi nhận:  \n_**\\- Như trên;  \n\\- Công ty TNHH MTV Thương mại Ngọc Tuyết (đ/c: thôn Đức Hòa, xã Thuận An, huyện Đắk Mil, tỉnh Đắk Nông) (để th/h);  \n\\- Lưu: VT, GSQL (3b).\n\n**TL. TỔNG CỤC TRƯỞNG  \nKT. CỤC TRƯỞNG CỤC GSQL VỀ HQ  \nPHÓ CỤC TRƯỞNG  \n  \n  \n  \n  \nNguyễn Anh Tuấn**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
