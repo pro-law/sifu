@@ -1,0 +1,647 @@
+{
+  "title": "Công văn 1143/BHXH-KHĐT hướng dẫn tổ chức thực hiện dự toán thu, chi năm 2019 do Bảo hiểm xã hội Việt Nam ban hành",
+  "notes": "",
+  "guidedDocuments": [],
+  "consolidatingDocuments": [],
+  "amendedDocuments": [],
+  "rectifiedDocuments": [],
+  "supersededDocuments": [],
+  "referredDocuments": [
+    {
+      "title": "Công văn 238/BHXH-TCKT năm 2019 về lưu trữ chứng từ, danh sách chi trả lương hưu, trợ cấp bảo hiểm xã hội, trợ cấp thất nghiệp tại cơ quan bưu điện do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "238/BHXH-TCKT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Kế toán - Kiểm toán",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Đình Khương"
+      ],
+      "issuedDate": "2019-01-21",
+      "effectiveDate": "2019-01-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2019 do Chính phủ ban hành",
+      "id": "01/NQ-CP",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Thương mại",
+        "Tài chính nhà nước",
+        "Văn hóa - Xã hội"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2019-01-01",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2019-01-08",
+      "gazetteNumber": "Từ số 29 đến số 30",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 119/2018/TT-BTC quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2019 do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "119/2018/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đỗ Hoàng Anh Tuấn"
+      ],
+      "issuedDate": "2018-12-05",
+      "effectiveDate": "2019-01-20",
+      "gazetteDate": "2019-01-02",
+      "gazetteNumber": "Từ số 5 đến số 6",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 39/2018/TT-BYT quy định thống nhất giá dịch vụ khám bệnh, chữa bệnh bảo hiểm y tế giữa các bệnh viện cùng hạng trên toàn quốc và hướng dẫn áp dụng giá, thanh toán chi phí khám bệnh, chữa bệnh trong một số trường hợp do Bộ trưởng Bộ Y tế ban hành",
+      "id": "39/2018/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Nguyễn Trường Sơn"
+      ],
+      "issuedDate": "2018-11-30",
+      "effectiveDate": "2019-01-15",
+      "gazetteDate": "2019-01-07",
+      "gazetteNumber": "Từ số 25 đến số 26",
+      "status": "Hết hiệu lực: 17/11/2023"
+    },
+    {
+      "title": "Nghị định 157/2018/NĐ-CP quy định về mức lương tối thiểu vùng đối với người lao động làm việc theo hợp đồng lao động",
+      "id": "157/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-11-16",
+      "effectiveDate": "2019-01-01",
+      "gazetteDate": "2018-12-23",
+      "gazetteNumber": "Từ số 1137 đến số 1138",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Nghị quyết 70/2018/QH14 về dự toán ngân sách nhà nước năm 2019 do Quốc hội ban hành",
+      "id": "70/2018/QH14",
+      "legislationType": "Nghị quyết",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Thị Kim Ngân"
+      ],
+      "issuedDate": "2018-11-09",
+      "effectiveDate": "2018-12-24",
+      "gazetteDate": "2018-12-19",
+      "gazetteNumber": "Từ số 1125 đến số 1126",
+      "status": "Không còn phù hợp"
+    },
+    {
+      "title": "Nghị định 153/2018/NĐ-CP về chính sách điều chỉnh lương hưu đối với lao động nữ bắt đầu hưởng lương hưu trong giai đoạn từ năm 2018 đến năm 2021 có thời gian đóng bảo hiểm xã hội từ đủ 20 năm đến 29 năm 6 tháng",
+      "id": "153/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-11-07",
+      "effectiveDate": "2018-12-24",
+      "gazetteDate": "2018-11-15",
+      "gazetteNumber": "Từ số 1035 đến số 1036",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 146/2018/NĐ-CP hướng dẫn Luật bảo hiểm y tế",
+      "id": "146/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bảo hiểm",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-10-17",
+      "effectiveDate": "2018-12-01",
+      "gazetteDate": "2018-11-02",
+      "gazetteNumber": "Từ số 1019 đến số 1020",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 113/2018/NĐ-CP sửa đổi Nghị định 108/2014/NĐ-CP về chính sách tinh giản biên chế",
+      "id": "113/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-08-31",
+      "effectiveDate": "2018-10-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 20/07/2023"
+    },
+    {
+      "title": "Nghị định 88/2018/NĐ-CP điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hàng tháng",
+      "id": "88/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-06-15",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2018-08-06",
+      "gazetteNumber": "Từ số 837 đến số 838",
+      "status": "Hết hiệu lực: 30/12/2022"
+    },
+    {
+      "title": "Thông tư 15/2018/TT-BYT quy định về thống nhất giá dịch vụ khám bệnh, chữa bệnh bảo hiểm y tế giữa các bệnh viện cùng hạng trên toàn quốc và hướng dẫn áp dụng giá, thanh toán chi phí khám bệnh, chữa bệnh trong một số trường hợp do Bộ trưởng Bộ Y tế ban hành",
+      "id": "15/2018/TT-BYT",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bộ Y tế",
+      "signers": [
+        "Phạm Lê Tuấn"
+      ],
+      "issuedDate": "2018-05-30",
+      "effectiveDate": "2018-07-15",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 15/01/2019"
+    },
+    {
+      "title": "Nghị định 72/2018/NĐ-CP quy định về mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang",
+      "id": "72/2018/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2018-05-15",
+      "effectiveDate": "2018-07-01",
+      "gazetteDate": "2018-05-31",
+      "gazetteNumber": "Từ số 645 đến số 646",
+      "status": "Hết hiệu lực: 01/07/2019"
+    },
+    {
+      "title": "Công văn 3799/BHXH-BT năm 2017 về hoàn thiện, cấp mã số bảo hiểm xã hội cho người tham gia bảo hiểm xã hội, bảo hiểm y tế do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "3799/BHXH-BT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Trần Đình Liệu"
+      ],
+      "issuedDate": "2017-08-28",
+      "effectiveDate": "2017-08-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 595/QĐ-BHXH năm 2017 Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "595/QĐ-BHXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2017-04-14",
+      "effectiveDate": "2017-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4666/BHXH-CSXH năm 2016 hướng dẫn về mẫu, in, cấp và quản lý Giấy chứng nhận nghỉ việc hưởng bảo hiểm xã hội do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "4666/BHXH-CSXH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Trần Đình Liệu"
+      ],
+      "issuedDate": "2016-11-21",
+      "effectiveDate": "2016-11-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4027/BHXH-ST năm 2016 hướng dẫn rà soát và bàn giao sổ bảo hiểm xã hội cho người lao động do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "4027/BHXH-ST",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Trần Đình Liệu"
+      ],
+      "issuedDate": "2016-10-14",
+      "effectiveDate": "2016-10-14",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 914/BHXH-TCKT năm 2016 hướng dẫn quản lý, sử dụng kinh phí tuyên truyền do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "914/BHXH-TCKT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Đình Khương"
+      ],
+      "issuedDate": "2016-03-18",
+      "effectiveDate": "2016-03-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Thông tư 20/2016/TT-BTC hướng dẫn thực hiện cơ chế quản lý tài chính về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và chi phí quản lý bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "20/2016/TT-BTC",
+      "legislationType": "Thông tư",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Huỳnh Quang Hải"
+      ],
+      "issuedDate": "2016-02-03",
+      "effectiveDate": "2016-03-20",
+      "gazetteDate": "2016-03-01",
+      "gazetteNumber": "Từ số 205 đến số 206",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 60/2015/QĐ-TTg về cơ chế quản lý tài chính về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và chi phí quản lý bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp do Thủ tướng Chính phủ ban hành",
+      "id": "60/2015/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-11-27",
+      "effectiveDate": "2016-01-15",
+      "gazetteDate": "2015-12-10",
+      "gazetteNumber": "Từ số 1181 đến số 1182",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3935/BHXH-TCCB năm 2015 hướng dẫn sửa đổi, bổ sung chế độ bồi dưỡng bằng hiện vật do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "3935/BHXH-TCCB",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2015-10-13",
+      "effectiveDate": "2015-10-13",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 70/2015/NĐ-CP hướng dẫn Luật Bảo hiểm y tế đối với Quân đội nhân dân, Công an nhân dân và người làm công tác cơ yếu",
+      "id": "70/2015/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Bảo hiểm",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2015-09-01",
+      "effectiveDate": "2015-10-15",
+      "gazetteDate": "2015-09-14",
+      "gazetteNumber": "Từ số 981 đến số 982",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3251/BHXH-TCKT năm 2015 về sử dụng và thanh quyết toán kinh phí thực hiện giao dịch điện tử do Bảo Hiểm Xã Hội Việt Nam ban hành",
+      "id": "3251/BHXH-TCKT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Công nghệ thông tin",
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2015-08-28",
+      "effectiveDate": "2015-08-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật an toàn, vệ sinh lao động 2015",
+      "id": "84/2015/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2015-06-25",
+      "effectiveDate": "2016-07-01",
+      "gazetteDate": "2015-07-29",
+      "gazetteNumber": "Từ số 871 đến số 872",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 108/2014/NĐ-CP về chính sách tinh giản biên chế",
+      "id": "108/2014/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2014-11-20",
+      "effectiveDate": "2015-01-10",
+      "gazetteDate": "2014-11-30",
+      "gazetteNumber": "Từ số 1019 đến số 1020",
+      "status": "Hết hiệu lực: 20/07/2023"
+    },
+    {
+      "title": "Công văn 1808/BHXH-TCCB năm 2014 hướng dẫn thực hiện chế độ bồi dưỡng bằng hiện vật đối với viên chức và người lao động trong toàn Ngành Bảo hiểm xã hội Việt Nam",
+      "id": "1808/BHXH-TCCB",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2014-05-28",
+      "effectiveDate": "2014-05-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Luật việc làm 2013",
+      "id": "38/2013/QH13",
+      "legislationType": "Luật",
+      "categories": [
+        "Bảo hiểm",
+        "Lao động - Tiền lương"
+      ],
+      "organization": "Quốc hội",
+      "signers": [
+        "Nguyễn Sinh Hùng"
+      ],
+      "issuedDate": "2013-11-16",
+      "effectiveDate": "2015-01-01",
+      "gazetteDate": "2013-12-29",
+      "gazetteNumber": "Từ số 1003 đến số 1004",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Nghị định 116/2010/NĐ-CP về chính sách đối với cán bộ, công chức, viên chức và người hưởng lương trong lực lượng vũ trang công tác ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn",
+      "id": "116/2010/NĐ-CP",
+      "legislationType": "Nghị định",
+      "categories": [
+        "Lao động - Tiền lương",
+        "Bộ máy hành chính"
+      ],
+      "organization": "Chính phủ",
+      "signers": [
+        "Nguyễn Tấn Dũng"
+      ],
+      "issuedDate": "2010-12-24",
+      "effectiveDate": "2011-03-01",
+      "gazetteDate": "2011-01-09",
+      "gazetteNumber": "Từ số 29 đến số 30",
+      "status": "Hết hiệu lực: 01/12/2019"
+    }
+  ],
+  "influentialDocuments": [
+    {
+      "title": "Công văn 2888/BHXH-BT năm 2018 về hướng dẫn việc hoàn thiện dữ liệu thành viên hộ gia đình; kinh phí hỗ trợ Ủy ban nhân dân xã lập danh sách và việc tham gia bảo hiểm y tế hộ gia đình do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "2888/BHXH-BT",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Trần Đình Liệu"
+      ],
+      "issuedDate": "2018-08-03",
+      "effectiveDate": "2018-08-03",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 1167/QĐ-TTg năm 2016 điều chỉnh giao chỉ tiêu thực hiện bảo hiểm y tế giai đoạn 2016-2020 do Thủ tướng Chính phủ ban hành",
+      "id": "1167/QĐ-TTg",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Thủ tướng Chính phủ",
+      "signers": [
+        "Nguyễn Xuân Phúc"
+      ],
+      "issuedDate": "2016-06-28",
+      "effectiveDate": "2016-06-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 236/QĐ-BHXH năm 2016 về mức chi thù lao cho tổ chức làm Đại lý thu bảo hiểm xã hội, thu bảo hiểm y tế do Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "236/QĐ-BHXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Doanh nghiệp",
+        "Bảo hiểm"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2016-02-19",
+      "effectiveDate": "2016-02-19",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 30/03/2020"
+    }
+  ],
+  "guidingDocuments": [],
+  "consolidatedDocuments": [],
+  "amendingDocuments": [],
+  "rectifyingDocuments": [],
+  "supersedingDocuments": [],
+  "relevantDocuments": [
+    {
+      "title": "Công văn 4733/BHXH-CSXH năm 2019 về chấn chỉnh và hướng dẫn xử lý tồn tại trong công tác tổ chức thực hiện bảo hiểm xã hội, bảo hiểm thất nghiệp do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "4733/BHXH-CSXH",
+      "legislationType": "Công văn",
+      "categories": [
+        "Bảo hiểm"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2019-12-18",
+      "effectiveDate": "2019-12-18",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 3588/QĐ-BHXH năm 2016 Quy trình lập, phân bổ và giao dự toán thu, chi các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế và chi quản lý bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế hàng năm do Bảo hiểm xã hội Việt Nam ban hành",
+      "id": "3588/QĐ-BHXH",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Bảo hiểm",
+        "Tài chính nhà nước",
+        "Thể thao - Y tế"
+      ],
+      "organization": "Bảo hiểm xã hội Việt Nam",
+      "signers": [
+        "Nguyễn Thị Minh"
+      ],
+      "issuedDate": "2016-12-21",
+      "effectiveDate": "2016-12-21",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 01/01/2020"
+    },
+    {
+      "title": "Quyết định 2502/QĐ-BTC năm 2015 về giao dự toán thu, chi ngân sách nhà nước năm 2016 do Bộ trưởng Bộ Tài chính ban hành",
+      "id": "2502/QĐ-BTC",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Đinh Tiến Dũng"
+      ],
+      "issuedDate": "2015-11-28",
+      "effectiveDate": "2015-11-28",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 3892/BGTVT-TC về xây dựng dự toán thu, chi ngân sách nhà nước năm 2012 phần kinh phí hành chính, sự nghiệp do Bộ Giao thông vận tải ban hành",
+      "id": "3892/BGTVT-TC",
+      "legislationType": "Công văn",
+      "categories": [
+        "Tài chính nhà nước"
+      ],
+      "organization": "Bộ Giao thông vận tải",
+      "signers": [
+        "Nguyễn Hồng Trường"
+      ],
+      "issuedDate": "2011-07-01",
+      "effectiveDate": "2011-07-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    }
+  ],
+  "id": "1143/BHXH-KHĐT",
+  "legislationType": "Công văn",
+  "categories": [
+    "Bảo hiểm",
+    "Tài chính nhà nước"
+  ],
+  "organization": "Bảo hiểm xã hội Việt Nam",
+  "signers": [
+    "Đào Việt Ánh"
+  ],
+  "issuedDate": "2019-04-10",
+  "effectiveDate": "2019-04-10",
+  "gazetteDate": "Dữ liệu đang cập nhật",
+  "gazetteNumber": "Dữ liệu đang cập nhật",
+  "status": "Còn hiệu lực",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIANAA=-->\n <tbody><tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">BẢO\n  HIỂM XÃ HỘI</span> VIỆT NAM</b><b><span lang=\"VI\"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\">CỘNG\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"37%\" valign=\"top\" style=\"width:37.8%;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><a name=\"loai_1\"><span lang=\"VI\">Số: </span>1143</a><span lang=\"VI\">/BHXH-</span>KHĐT<span lang=\"VI\"><br>\n  </span><a name=\"loai_1_name\"><i><span lang=\"VI\" style=\"font-size:8.0pt\">V/v hướng\n  dẫn tổ chức thực hiện dự toán thu, chi năm 2019</span></i></a></p>\n  </td>\n  <td width=\"62%\" valign=\"top\" style=\"width:62.2%;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\">Hà\n  Nội, ngày </span>10</i><i><span lang=\"VI\"> tháng </span>4</i><i><span lang=\"VI\">\n  năm 201</span>9</i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIANAA=-->\n <tbody><tr>\n  <td width=\"151\" valign=\"top\" style=\"width:113.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><b><span lang=\"VI\">Kính\n  gửi:</span></b></p>\n  </td>\n  <td width=\"439\" valign=\"top\" style=\"width:329.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bảo hiểm xã hội các tỉnh, thành\n  phố trực thuộc Trung ương;<br>\n  - Văn phòng;<br>\n  - Các đơn vị sự nghiệp trực thuộc Bảo hiểm xã hội Việt Nam;<br>\n  - Ban Quản lý dự án Đầu tư và Xây dựng ngành Bảo hiểm xã hội;<br>\n  - Ban Quản lý các dự án Công nghệ thông tin.</span></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Quyết định số 1629/QĐ-TTg ngày\n23/11/2018 của Thủ tướng Chính phủ về việc giao dự toán ngân sách nhà nước năm\n2019 (Quyết định số 1629);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Quyết định số 20/QĐ-TTg ngày\n04/4/2019 của Thủ tướng Chính phủ (Mật) về việc giao dự toán thu, chi năm 2019\ncủa Bảo hiểm xã hội Việt Nam (Quyết định số 20);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Quyết định s</span>ố <span lang=\"VI\">22/QĐ-TTg ngày 05/4/2019 của Thủ tướng Chính phủ (Mật) về việc giao dự\ntoán chi khám bệnh, chữa bệnh bảo hi</span>ể<span lang=\"VI\">m y tế năm 2019 (Quyết\nđịnh số 22);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Tờ trình số 217/TTr-BTC ngày\n05/3/2019 của Bộ Tài chính (Mật) về việc giao dự toán thu, chi năm 2019 của Bảo\nhiểm xã hội Việt Nam;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Căn cứ Quyết định số 08/QĐ-BHXH ngày\n10/4/2019 của T</span>ổ<span lang=\"VI\">ng Giám đốc Bảo hiểm xã hội Việt Nam về việc\ngiao dự toán thu, chi năm 2019;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Bảo hiểm xã hội Việt Nam hướng dẫn Bảo\nhiểm xã hội các tỉnh, thành phố trực thuộc Trung ương (BHXH t</span>ỉ<span lang=\"VI\">nh), Văn phòng và các đơn vị sự nghiệp trực thuộc (</span>đ<span lang=\"VI\">ơn vị dự toán cấp 3) thực hiện dự toán thu, chi bảo hi</span>ể<span lang=\"VI\">m xã hội (BHXH), bảo hiểm y tế (BHYT), bảo hiểm thất nghiệp (BHTN) năm\n2019 như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_1\"><b><span lang=\"VI\">I. DỰ TOÁN THU</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_1\"><b><span lang=\"VI\">1. Đối tượng tham\ngia</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Số người tham gia BHXH, BHTN</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Nguyên tắc xác định chỉ tiêu số người\ntham gia BHXH cho tỉnh là năm sau tăng so với năm trước bằng tốc độ bình quân 3\nnăm trước liền kề cộng với mức gia tăng cho từng nhóm, đảm bảo năm sau tăng so\nvới năm trước liền kề thấp nhất 6,5%. Bình quân tổng mức tăng toàn quốc đạt yêu\ncầu năm 2019 tăng thấp nhất 8,4%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Số người tham gia BHXH tự nguyện\nxác </span>đ<span lang=\"VI\">ịnh căn cứ vào tỷ trọng số người tham gia BHXH tự\nnguyện trong t</span>ổ<span lang=\"VI\">ng số người tham gia BHXH đã được xác định\ntheo nguyên tác trên, cộng với mức gia tăng năm 2019 thấp nhất b</span>ằ<span lang=\"VI\">ng 1% lực lượng lao động trong độ tuổi; đối với các tỉnh miền núi, giao\nmức tăng cao hơn các tỉnh đồng b</span>ằ<span lang=\"VI\">ng do số người chưa tham\ngia BHXH còn nhiều.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Số người tham gia BHTN được xác định\ntrên </span>cơ sở <span lang=\"VI\">số người tham gia BHXH bắt buộc; loại trừ người\nlao động làm việc theo hợp đồng lao động từ 1 đến dưới 3 tháng; riêng khối hành\nchính sự nghiệp loại trừ số người là công chức.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Số người tham gia BHYT</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Căn cứ Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 1167/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-1167-qd-ttg-dieu-chinh-giao-chi-tieu-thuc-hien-bao-hiem-y-te-giai-doan-2016-2020-316311.aspx\">1167/QĐ-TTg</a> \nngày 28/6/2016 của Thủ tướng Chính phủ về điều chỉnh giao chỉ tiêu thực hiện\nBHYT giai đoạn 2016-2020, giao không thấp hơn chỉ tiêu 88,1% dân số tham gia\nBHYT theo Nghị quyết số 01/N</span>Q<span lang=\"VI\">-CP ngày 01/01/2019 của Thủ\ntướng Chính phủ về nhiệm vụ giải pháp chủ yếu thực hiện K</span>ế <span lang=\"VI\">hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm\n2019.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Số người là quân nhân tham gia BHYT\ntính theo Lộ trình Nghị định <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 70/2015/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-70-2015-nd-cp-huong-dan-luat-bao-hiem-y-te-quan-doi-cong-an-nhan-dan-nguoi-lam-co-yeu-288862.aspx\">70/2015/NĐ-CP</a>  của Chính phủ ước tính với khoảng\n100% (tương ứng khoảng 1,1 triệu người) là sĩ quan, hạ sĩ quan, chiến sĩ, quân\nnhân chuyên nghiệp đang công tác trong Bộ Quốc phòng, Bộ Công an; số thu BHYT\ntính cho khối lực lượng vũ trang.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bổ sung số người thân nhân quân đội\ncho BHXH tỉnh (theo số báo cáo của BHXH Bộ Quốc phòng), riêng về số thu vẫn\ntính cho BHXH Bộ Quốc phòng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_2\"><b><span lang=\"VI\">2. Về tiền lương</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trên cơ sở tiền lương bình quân của\nnăm 2018, tính tăng lương cơ học bình quân 3 năm liền kề, tiền lương bình quân đóng\nBHXH, BHYT, BHTN của khối hành chính sự nghiệp tương ứng là 1,5%.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tính tăng lương tối thiểu vùng theo\nquy định tại Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 157/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-157-2018-nd-cp-muc-luong-toi-thieu-vung-nguoi-lao-dong-lam-viec-theo-hop-dong-lao-dong-390933.aspx\">157/2018/NĐ-CP</a>  ngày 16/11/2018 của Chính phủ, mức\ntăng bình quân là 5,3% so với năm 2018; dự kiến mức ảnh hưởng tăng khoảng từ\n15% đến 25% số người lao động đóng BHXH, BHYT, BHTN của từng loại doanh nghiệp.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Điều chỉnh mức lương cơ sở từ ngày\n01/7/2019 theo Khoản 7 Điều 3 Nghị quyết số 70/2018/QH14 của Quốc hội về dự\ntoán NSNN năm 2019 tăng 7% từ 1,39 triệu đ</span>ồ<span lang=\"VI\">ng/tháng lên 1,49\ntriệu đồng/tháng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_3\"><b><span lang=\"VI\">3. Về tỷ lệ đóng\nBHXH, BHYT, BHTN</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tỷ lệ đóng BHXH bắt buộc (bao gồm cả\nbảo hiểm tai nạn lao động - bệnh nghề nghiệp (TNLĐ-BNN)) là 25,5% mức tiền\nlương, tiền công (bao gồm cả phụ cấp lương và các khoản b</span>ổ <span lang=\"VI\">sung khác) của đối tượng tham gia BHXH bắt buộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tỷ lệ đóng BHXH tự nguyện là 22% mức\nthu nhập tháng người tham gia BHXH tự nguyện lựa chọn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tỷ lệ đóng BHYT là 4,5% mức tiền\nlương, tiền công của đối tượng cùng tham gia BHXH, BHYT bắt buộc; 4,5% mức\nlương hưu, trợ cấp mất sức lao động hằng tháng, trợ cấp thất nghiệp; 4,5% mức\nlương cơ sở đối với các đối tượng còn lại.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tỷ lệ đóng BHTN là 2% mức tiền\nlương, tiền công của đối tượng tham gia BHTN.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"dieu_4\"><b><span lang=\"VI\">4. Về số thu</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trên cơ sở số người tham gia và tiền\nlương bình quân, thực hiện tính số tiền đóng BHXH, BHYT, BHTN</span>.</p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với người tham gia được ngân\nsách hỗ trợ một phần mức đóng, người tham gia BHYT theo hộ gia đình, tính thu\ntheo lương cơ sở là 1,39 triệu đồng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tính đủ số thu BHYT (ghi thu, ghi\nchi do tổ chức BHXH đóng, hỗ trợ từ ngân sách nhà nước...):</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Các khoản ghi thu, ghi chi: Là số\ntiền đóng BHYT của các đối tượng do tổ chức BHXH đóng hàng tháng theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">+ Kinh phí ghi thu: Kinh phí ngân\nsách Trung ương hỗ trợ đóng BHYT cho học sinh, sinh viên đang theo học tại các\ntrường do Bộ, cơ quan Trung ương quản lý.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_2\"><b><span lang=\"VI\">II. DỰ TOÁN CHI</span></b></a></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1. Dự toán chi BHXH, BHYT, BHTN</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1.1. D</span>ự</b><b><span lang=\"VI\"> toán chi BHXH, BHTN</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.1.1. Dự toán chi BHXH, BHTN năm\n2019 giao cho BHXH tỉnh trên cơ sở dự toán được Thủ tướng Chính phủ giao tại\nQuyết định số 1629 và Quyết định số 20 đảm bảo đủ kinh phí để thực hiện chi trả\nvà đóng BHYT cho người hưởng các chế độ BHXH, BHTN, trong đó lưu ý một số nội\ndung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Dự toán chi các chế độ BHXH do\nNSNN đảm bảo</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán giao theo mức lương hưu, trợ\ncấp BHXH và trợ cấp hàng tháng theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 88/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-88-2018-nd-cp-dieu-chinh-luong-huu-tro-cap-bao-hiem-xa-hoi-tro-cap-hang-thang-342518.aspx\">88/2018/NĐ-CP</a>  ngày 15/6/2018 của\nChính phủ và mức lương cơ sở theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 72/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-72-2018-nd-cp-muc-luong-co-so-doi-voi-can-bo-cong-chuc-vien-chuc-va-luc-luong-vu-trang-372743.aspx\">72/2018/NĐ-CP</a>  ngày 15/5/2018 của\nChính phủ quy định mức lương cơ sở đối với cán bộ, công chức, viên chức\n(CBCCVC) và lực lượng vũ trang (1,39 triệu đồng/tháng) tính đủ 12 tháng.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kinh phí thực hiện điều chỉnh mức\nlương cơ sở tăng 7% từ 1,39 triệu đồng/tháng lên 1,49 triệu đồng/tháng, điều chỉnh\nlương hưu, trợ cấp BHXH, trợ cấp hàng tháng và trợ cấp ưu đãi người có công với\ncách mạng tăng bằng mức tăng lương cơ sở, điều chỉnh mức lương cơ sở và điều chỉnh\nlương hưu, trợ cấp BHXH từ ngà</span>y <span lang=\"VI\">01/7/2019 theo <a name=\"dc_2\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2843161')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2843161')\" atmm=\".lqhlTootip-2843161\" onmouseout=\"hideddrivetip();\">Khoản 8 Điều 4 Nghị quyết số 70/2018/QH14</a> của Quốc hội về dự\ntoán ngân sách nhà nước năm 2019; BHXH Việt Nam sẽ giao bổ sung sau khi có hướng\ndẫn thực hiện của cơ quan có thẩm quyền.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Dự toán chi các chế độ BHXH do Quỹ\nBHXH đảm bảo</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giao theo mức lương hưu, trợ cấp\nBHXH và trợ cấp hàng tháng thực hiện theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 88/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-88-2018-nd-cp-dieu-chinh-luong-huu-tro-cap-bao-hiem-xa-hoi-tro-cap-hang-thang-342518.aspx\">88/2018/NĐ-CP</a>  ngày\n15/6/2018 của Chính phủ và mức lương cơ sở thực hiện theo Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 72/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-72-2018-nd-cp-muc-luong-co-so-doi-voi-can-bo-cong-chuc-vien-chuc-va-luc-luong-vu-trang-372743.aspx\">72/2018/NĐ-CP</a>  ngày 15/5/2018 của Chính phủ quy định mức lương cơ sở đối với cán\nbộ, công chức, vi</span>ê<span lang=\"VI\">n chức và lực lượng vũ trang (1,39 triệu\nđồng/tháng) tính đủ 12 tháng và mức lương cơ sở tăng 7% từ 1,39 triệu đồng/tháng\nlên 1,49 triệu đồng/tháng, điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hàng\ntháng và trợ cấp ưu đãi người có công với cách mạng tăng bằng mức tăng lương cơ\nsở từ ngày 01/7/2019 theo <a name=\"dc_3\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2843162')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2843162')\" atmm=\".lqhlTootip-2843162\" onmouseout=\"hideddrivetip();\">Khoản 8 Điều 4 Nghị quyết số\n70/2018/QH14</a> của Quốc hội về dự toán ngân sách nhà nước năm 2019.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- </span>Đã <span lang=\"VI\">bố trí đủ\nkinh phí để thực hiện chế độ đối với lao động nữ nghỉ hưu theo Nghị định số\n<a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 153/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-153-2018-nd-cp-dieu-chinh-luong-huu-doi-voi-lao-dong-nu-tu-2018-den-2021-389795.aspx\">153/2018/NĐ-CP</a>  ngày 07/1 1/2018 của Chính phủ quy định chính sách điều chỉnh\nlương hưu đối với lao động nữ bắt đầu hưởng lương hưu trong giai đoạn từ năm\n2018 đến năm 2021 có th</span>ờ<span lang=\"VI\">i gian đóng BHXH từ đủ 20 năm đến\n29 năm 6 tháng, trong đó bao gồm cả truy lĩnh đối với các đối tượng lao động n</span>ữ\n<span lang=\"VI\">nghỉ hưu từ 01/01/2018.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chưa bố trí kinh phí chi một số chế\nđộ: H</span>ỗ <span lang=\"VI\">trợ phòng ngừa, chia sẻ rủi ro về TNLĐ-BNN và hỗ trợ\nchuyển đổi nghề nghiệp cho người bị TNLĐ-BNN khi trở lại làm việc theo quy định\nLuật An toàn, vệ sinh lao động. Sau khi được Bộ Lao động-Thương binh và Xã hội\nphê duyệt kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động theo quy định của\nLuật An toàn, vệ sinh lao động, BHX</span>H <span lang=\"VI\">Việt Nam sẽ bố trí\nkinh phí để các đơn vị thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Dự toán chi BHTN</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chưa bố trí kinh phí chi hỗ trợ đào\ntạo, bồi dư</span>ỡ<span lang=\"VI\">ng, nâng cao trình độ kỹ năng nghề để duy trì\nviệc làm cho người lao động và hỗ trợ tư vấn giới thiệu việc làm theo quy định\ntại <a name=\"dc_4\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2843163')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2843163')\" atmm=\".lqhlTootip-2843163\" onmouseout=\"hideddrivetip();\">Điều 47 của Luật Việc làm</a>.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong quá trình tổ chức thực hiện,\nkhi phát sinh chi các nội dung BHXH Việt Nam chưa bố trí dự toán, BHXH tỉnh t</span>ổ<span lang=\"VI\">ng hợp, báo cáo về BHXH Việt Nam để giao b</span>ổ <span lang=\"VI\">sung dự\ntoán.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.1.2. Kinh phí thực cấp về BHXH tỉnh\nđể tổ chức thực hiện chi trả cho người hưởng các chế độ BHXH, BHTN không bao gồm\nkinh phí đóng BHYT của người hưởng. BHXH Việt Nam chuyển tiền đóng BHYT cho người\nhưởng từ quỹ BHXH, quỹ BHTN sang quỹ BHYT; BHXH tỉnh thực hiện ghi thu tiền\nđóng BHYT cho người hưởng theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1.2. D</span>ự </b><b><span lang=\"VI\">toán Chi khám chữa b</span>ệ</b><b><span lang=\"VI\">nh BHYT</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Dự toán chi khám chữa bệnh (KCB) năm\n2019 được Thủ tướng Chính phủ giao tại Quyết định số 22 gồm các nội dung:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi KCB cho bệnh nhân có thẻ BHYT của\ntỉnh phát hành KCB tại địa phương và bệnh nhân có thẻ B</span>H<span lang=\"VI\">YT\ncủa tỉnh khác phát hành đ</span>ế<span lang=\"VI\">n KCB tại địa phương (Chi KCB\nBHYT phát sinh tại các cơ sở y tế trên địa bàn tỉnh);</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi chăm sóc sức khỏe ban đầu theo\nquy định tại <a name=\"dc_5\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2843164')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2843164')\" atmm=\".lqhlTootip-2843164\" onmouseout=\"hideddrivetip();\">Điều 33 Nghị định số 146/2018/NĐ-CP</a> của Chính\nphủ quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật\nBHYT;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Không bao gồm chi của thuốc kháng\nHIV cấp cho bệnh nhân BHYT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.2.1. Nguyên t</span>ắ<span lang=\"VI\">c\nxây dựng dự toán chi KCB năm 2019:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Dự toán chi KCB năm 2019 giao cho các\ntỉnh, thành phố được xây dựng căn cứ số chi KCB đ</span>ã <span lang=\"VI\">thực hiện\ncác năm trước và dự toán năm 2018 được Thủ tướng Chính phủ giao, có tính toán đầy\nđủ các yếu tố tăng, giảm cụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Các yếu tố tăng gồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng do phát triển đối tượng tham\ngia BHYT;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng do thay đ</span>ổ<span lang=\"VI\">i cơ cấu bệnh tật;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng do điều chỉnh lương cơ sở vào\ngiá dịch vụ y tế theo Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 39/2018/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-39-2018-tt-byt-thong-nhat-gia-kham-chua-benh-bao-hiem-y-te-giua-benh-vien-cung-hang-401940.aspx\">39/2018/TT-BYT</a>  ngày 30/11/2018 của Bộ Y tế;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng do thay đổi chính sách như: điều\nchỉnh lương cơ sở hàng năm, thực hiện Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 146/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-146-2018-nd-cp-huong-dan-luat-bao-hiem-y-te-357505.aspx\">146/2018/NĐ-CP</a> .</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Các </span>y<span lang=\"VI\">ếu tố giảm\ngồm:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giảm do thực hiện Thông tư số\n<a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 15/2018/TT-BYT\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-15-2018-tt-byt-thong-nhat-gia-kham-chua-benh-bao-hiem-y-te-benh-vien-cung-hang-384077.aspx\">15/2018/TT-BYT</a>  có điều chỉnh giá của 88 dịch vụ y tế, điều chỉnh cách tính ngày\ngiường bệnh;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giảm do thực hiện đấu thầu thuốc và\nvật tư y tế tập trung;</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Giảm do ki</span>ể<span lang=\"VI\">m\nsoát chi phí.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Ngoài ra số giao dự toán KCB cho\ncác tỉnh, thành phố có thực hiện </span>điều<span lang=\"VI\"> chỉnh giảm chi đa\ntuyến đến ngoại tỉnh đối với các tỉnh có bệnh viện tuyến Trung ương, đ</span>ể <span lang=\"VI\">khuyến k</span>h<span lang=\"VI\">ích các bệnh viện tuyến Trung ương chuyển\ncác bệnh nhẹ về các bệnh viện tuyến dưới điều trị, giảm quá tải tại các bệnh viện\ntuyến trên, đồng thời tăng cường khả năng cung cấp dịch vụ y tế cho bệnh viện\ntuyến dưới v</span>à <span lang=\"VI\">các tỉnh vùng sâu, vùng xa, nâng cao hiệu quả\nsử dụng quỹ B</span>H<span lang=\"VI\">YT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1.2.2. Nguyên tắc thông báo nguồn\nkinh phí KCB cho từng cơ sở KCB</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Thực hiện thông báo nguồn kinh phí\ncho từng cơ sở KCB theo đúng hướng dẫn về xác định tổng mức thanh toán chi phí\nKCB BHYT tại <a name=\"dc_6\" class=\"clsBookmark_dc\" onclick=\"LS_Tip_Type_Bookmark_dc('.lqhlTip-2843165')\" onmouseover=\"LS_Tootip_Type_Bookmark('.lqhlTootip-2843165')\" atmm=\".lqhlTootip-2843165\" onmouseout=\"hideddrivetip();\">Khoản 4 Điều 24 Nghị định 146/2018/NĐ-CP</a>, tổng\nmức thanh toán chi KCB BHYT năm 2019 b</span>ằ<span lang=\"VI\">ng số chi KCB BHYT\nnăm 2018 được thẩm định, quyết toán theo dự toán chi KCB năm 2018 đà giao, cộng\ncác yếu tố tăng, trừ các yếu tố giảm. Các yếu tố tăng, giảm trong năm 2019 thực\nhiện như hướng dẫn tại Mục 1.2.1 Công văn này và đặc thù thay đổi trong năm\n2019 của từng cơ sở KCB như: điều chỉnh hạng bệnh viện; thay đổi phạm vi hoạt động.\nTạm thời chưa áp dụng hệ số k trong th</span>ờ<span lang=\"VI\">i gian chờ Bộ Y tế\nthông báo.</span></p>\n\n<p style=\"margin-top:6.0pt\"><b><span lang=\"VI\">1.3. D</span>ự </b><b><span lang=\"VI\">toán chi quản lý BHXH, BHYT, BHTN</span></b></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Dự toán chi hoạt động B</span>HXH<span lang=\"VI\">, BHYT, BHTN năm 2019 giao cho các đơn vị trên cơ sở dự toán được Thủ\ntướng Chính phủ giao tại Quyết định số 20; Quyết định số <a class=\"text-blue\" target=\"_blank\" title=\"Quyết định 60/2015/QĐ-TTg\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-60-2015-qd-ttg-quan-ly-tai-chinh-bao-hiem-chi-phi-quan-ly-bao-hiem-xa-hoi-bao-hiem-y-te-bao-hiem-that-nghiep-296793.aspx\">60/2015/QĐ-TTg</a>  ngày\n27/11/2015 của Thủ tướng Chính phủ về cơ chế quản lý tài chính về BHXH, BHYT,\nBHTN và chi phí quản lý BHXH, BHYT, BHTN; Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 20/2016/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-20-2016-tt-btc-huong-dan-thuc-hien-co-che-quan-ly-tai-chinh-bao-hiem-chi-phi-quan-ly-bao-hiem-299101.aspx\">20/2016/TT-BTC</a>  ngày\n03/02/2016 của Bộ Tài chính hướng dẫn thực hiện cơ chế tài chính về BHXH, BHYT,\nBHTN và chi phí quản lý BHXH, BHYT, BHTN; Quyết định số 1127/QĐ-BHXH ngày\n07/7/2017 của BHXH Việt Nam về ban hành quy định về tiêu chí, định mức phân bổ\ndự toán chi phí quản lý BHXH, BHYT, BHTN đối với các đơn vị thuộc hệ thống BHXH\nViệt Nam. Trong đó, đã bố trí đủ kinh phí thực hiện các nội dung chi theo quy\nchế chi tiêu nội bộ và trích lập các quỹ đ</span>ố<span lang=\"VI\">i với các đơn vị\nthuộc hệ thống BHXH Việt Nam được ban hành kèm theo Quyết định số 298/QĐ-BHXH\nngày 25/02/2016 của Tổng Giám đốc BHXH Việt Nam, cụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">1.3.1. Chi thường xu</span>y</i><i><span lang=\"VI\">ên</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chi tiền lương, tiền công, phụ cấp\nlương và các khoản đóng góp theo lương bố trí đủ cho các đơn vị theo biên chế kế\nhoạch được Tổng Giám đốc BHXH Việt Nam giao với mức lương cơ sở là 1,39 triệu đồng,\nhệ số tiền lương tại thời điểm tháng 12/2018 và tăng lương định kỳ hàng năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí đủ kinh phí thực hiện chế độ\nphụ cấp thu hút đối với ccvc theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 116/2010/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-116-2010-nd-cp-chinh-sach-can-bo-cong-chuc-vien-chuc-116451.aspx\">116/2010/NĐ-CP</a>  của Chính phủ về\nchính sách đối với CBCCVC và người hưởng lương trong lực lượng vũ trang công\ntác ở vùng có diều kiện kinh tế - xã hội đặc biệt khó khăn. Trường hợp năm 2019\ncó phát sinh mới, Giám đốc BHXH tính căn cứ vào các quy định hiện hành chịu\ntrách nhiệm phê duyệt danh sách CCVC được hưởng chế độ theo quy định và báo cáo\nkết quả về BHXH Việt Nam đ</span>ể <span lang=\"VI\">bổ sung kinh phí.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí đủ kinh phí thực hiện các chế\nđộ bồi dư</span>ỡ<span lang=\"VI\">ng theo hướng dẫn của BHXH Việt Nam, gồm: Hỗ trợ\nđối với CCVC làm việc tại bộ phận một cửa theo Công văn số 4903/BHXH-TCCB ngày\n12/12/2014; chế độ bồi dưỡng bằng hiện vật đối với CCVC theo Công văn số\n<a class=\"text-blue\" target=\"_blank\" title=\"Công văn 1808/BHXH-TCCB\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-1808-bhxh-tccb-2014-che-do-boi-duong-bang-hien-vat-nganh-bao-hiem-xa-hoi-232827.aspx\">1808/BHXH-TCCB</a>  ngày 28/5/2014 và Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 3935/BHXH-TCCB\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-3935-bhxh-tccb-che-do-boi-duong-bang-hien-vat-2015-293481.aspx\">3935/BHXH-TCCB</a>  ngày 13/10/2015 của\nBHXH Việt Nam; H</span>ỗ <span lang=\"VI\">trợ đối với CCVC làm đầu mối ki</span>ể<span lang=\"VI\">m soát thủ tục hành chính theo Công văn số 238/BHXH-TCKT ngày\n21/01/2016.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán giao đầu năm chưa bố trí\nkinh phí tinh giản biên chế theo Nghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 108/2014/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-108-2014-nd-cp-chinh-sach-tinh-gian-bien-che-258044.aspx\">108/2014/NĐ-CP</a>  ngày 20/11/2014 và\nNghị định số <a class=\"text-blue\" target=\"_blank\" title=\"Nghị định 113/2018/NĐ-CP\" href=\"https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-113-2018-nd-cp-sua-doi-nghi-dinh-108-2014-nd-cp-ve-chinh-sach-tinh-gian-bien-che-393041.aspx\">113/2018/NĐ-CP</a>  ngày 31/8/2018 của Chính phủ. BHXH Việt Nam s</span>ẽ\n<span lang=\"VI\">bố trí đủ kinh phí để các đơn vị t</span>ổ <span lang=\"VI\">chức thực\nhiện khi </span>đ<span lang=\"VI\">ược phê duyệt danh sách </span>đ<span lang=\"VI\">ối\ntượng tinh giản biên chế theo quy định. Các </span>đ<span lang=\"VI\">ơn vị triển\nkhai thực hiện theo hướng dẫn của BHXH Việt Nam tại Công văn số 4511/BHXH-TCCB\nngày 31/10/2018 của BHXH Việt Nam về việc tổ chức thực hiện tinh giản biên chế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chi quản lý hành chính</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chi quản lý hành chính phân bổ cho\ncác đơn vị theo số biên chế được T</span>ổ<span lang=\"VI\">ng Giám đốc BHXH Việt\nNam giao cho các đơn vị, có tính đến hệ số quy đ</span>ổ<span lang=\"VI\">i theo\ntiêu chí định mức và hỗ trợ các tỉnh có địa bàn rộng, khó khăn.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Hỗ trợ cho BHXH các quận, huyện, thị\nxã, thành phố trực thuộc BHXH t</span>ỉ<span lang=\"VI\">nh được trang bị xe ô tô chuyên\ndùng để chi trả lương hợp đồng lái xe và các chi phí hành chính khác theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Bố trí đủ kinh phí chi </span>đ<span lang=\"VI\">oàn ra, đoàn vào, đóng niên li</span>ễ<span lang=\"VI\">m cho Văn phòng\nBHXH Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kinh phí mua bảo hi</span>ể<span lang=\"VI\">m trụ sở làm việc của toàn Ngành năm 2019 được phân bổ và giao cho Văn\nphòng BHXH Việt Nam thực hiện. Trong năm, nếu trụ sở làm việc bị ảnh hưởng của\nthiên tai, bão lụt, các đơn vị chủ động phối hợp với Công ty bảo hi</span>ể<span lang=\"VI\">m trên </span>đ<span lang=\"VI\">ịa bàn, khu vực </span>để <span lang=\"VI\">giải\nquyết theo hướng dẫn của BHXH Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Năm 2019 tiếp tục thực hiện tiết kiệm\n10% chi thường xuyên để tạo nguồn thực hiện cải cách tiền lương theo quy định tại\nThông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 119/2018/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-119-2018-tt-btc-quy-dinh-ve-to-chuc-thuc-hien-du-toan-ngan-sach-nha-nuoc-nam-2019-403369.aspx\">119/2018/TT-BTC</a>  ngày 05/12/2018 của Bộ Tài chính quy định về tổ chức\nthực hiện dự toán n</span>g<span lang=\"VI\">ân sách nhà nước năm 2019. Các đơn vị\nchủ động tiết kiệm các khoản chi chưa thực sự cần thiết, cấp bách đảm bảo hoàn\nthành tốt nhiệm vụ được giao, BHXH Việt Nam giữ lại 10% kinh phí tiết kiệm chi\nthường xuyên và sẽ phân bổ cho các đơn vị khi Nhà nước có hướng dẫn cụ th</span>ể\n<span lang=\"VI\">về việc xác định nhu cầu, nguồn và phương thức thực hiện điều chỉnh\ntiền lương.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">1.3.2. Chi thường xuyên đặc thù</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Một số nội dung cần lưu ý:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chi hỗ trợ cho UBND xã, phường, thị\ntrấn (UBND xã) để thực hiện lập danh sách tham gia BHYT trên địa bàn:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Mức chi 7.000 đồng/người (chi cho\nviệc lập danh sách của người tăng và người giảm); việc quản lý và sử dụng khoản\nkinh phí này do Chủ tịch UBND xã quyết định. BHXH tỉnh thực hiện thanh toán cho\nUBND xã trên cơ sở danh sách người tham gia BHYT theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán năm 2019 giao cho BHXH tỉnh,\nBHXH Việt Nam giao riêng nội dung chi hỗ trợ cho UBND xã lập danh sách tham gia\nBHYT trên địa bàn, trường hợp cuối năm dự toán </span>đ<span lang=\"VI\">ược BHXH\nViệt Nam giao không sử dụng hết phải chuyển kinh phí sang năm sau tiếp tục sử dụng.\nTrường hợp dự toán BHXH Việt Nam giao thiếu so với thực tế thực hiện, B</span>H<span lang=\"VI\">XH tỉnh tổng hợp, thuyết minh, báo cáo BHXH Việt Nam để điều chỉnh bổ\nsung dự toán đảm bảo đủ kinh phí chi cho UBND xã theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chi phí thu BHXH tự nguyện, thu\nBHYT của người tham gia theo hộ gia đình, của học sinh, sinh viên đang theo học\ntại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với nội dung chi thù lao cho Đại\nlý thu BHXH Việt Nam phân bổ và giao dự toán riêng nội dung chi thù lao cho Đại\nlý thu trên cơ sở dự toán thu BHXH tự nguyện, thu BHYT của người tham gia theo\nhộ gia đình, của học sinh, sinh viên </span>đ<span lang=\"VI\">an</span>g <span lang=\"VI\">theo học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân. Căn c</span>ứ\n<span lang=\"VI\">Quyết </span>đ<span lang=\"VI\">ịnh s</span>ố<span lang=\"VI\"> 236/</span>Q<span lang=\"VI\">Đ-BHXH ngày 19/02/2016 của BHXH Việt Nam ban hành mức chi thù lao cho tổ\nchức làm đại lý thu BHXH, BHYT, theo đó mức chi cụ thể của từng nhóm đối tượng\ntham gia BHXH, BHYT theo vùng được quy định tại Biểu tỷ lệ % h</span>ỗ <span lang=\"VI\">trợ cho tổ chức làm Đại lý thu năm 2019 <i>(phụ lục đính kèm Công văn).</i></span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- BHXH tỉnh thực hiện chi thù lao cho\nĐại lý thu theo đúng quy định của BHXH Việt Nam. Cuối năm căn cứ số thực tế thực\nhiện và dự toán được giao: Nếu sử dụng không hết phải chuyển kinh phí sang năm\nsau tiếp tục sử dụng, B</span>H<span lang=\"VI\">XH Việt Nam sẽ trừ vào dự toán năm\nsau; nếu dự toán giao thiếu so với thực tế thực hiện, BHXH tỉnh tổng hợp, báo\ncáo BHXH Việt Nam để điều chỉnh bổ sung dự toán đảm bảo đủ kinh phí chi thù lao\ncho Đại lý thu theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với nội dung chi đào tạo, tập\nhuấn, kiểm tra, giám sát đại lý thu theo quy định tại Thông tư số <a class=\"text-blue\" target=\"_blank\" title=\"Thông tư 20/2016/TT-BTC\" href=\"https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-20-2016-tt-btc-huong-dan-thuc-hien-co-che-quan-ly-tai-chinh-bao-hiem-chi-phi-quan-ly-bao-hiem-299101.aspx\">20/2016/TT-BTC</a> ,\nBHXH Việt Nam phân bổ theo tiêu chí định mức ban hành kèm theo Quyết định số\n1127/QĐ-BHXH của BHXH Việt Nam và giao chung trong dự toán chi hoạt động BHXH,\nBHYT, BHTN của đơn vị.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Dự toán giao cho các đơn vị đã bố\ntrí đủ kinh phí cho nội dung chi phối hợp với cơ quan Bưu điện để tổ chức hội\nnghị tuyên truyền, phát triển đối tượng tham gia BHXH tự nguyện theo Quyết định\nsố 151/QĐ-BHXH ngày 30/01/2019 của BHXH Việt Nam về việc phê duyệt Phương án phối\nhợp với Bưu điện tổ chức hội nghị tuyên truyền trực tiếp để phát triển người\ntham gia BHXH tự nguyện và Công văn số 506/BHXH-TCKT ngày 21/02/2019 của BHXH\nViệt Nam về việc hướng dẫn quản lý, sử dụng kinh phí tổ chức hội nghị tuyên\ntruyền trực tiếp đ</span>ể <span lang=\"VI\">phát triển người tham gia BHXH tự nguyện.\nCác đơn vị chủ động điều hành trong phạm vi dự toán được giao đảm bảo nguồn\nkinh phí tiết kiệm, hiệu quả.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">c) Chi phí chi trả lương hưu, trợ cấp\nBHXH và trợ cấp thất nghiệp</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trên cơ sở dự toán chi BHXH, BHTN được\ngiao đầu năm, BHXH Việt Nam phân bổ và giao đủ kinh phí chi trả lương hưu, trợ\ncấp BHXH, trợ cấp BHTN trong dự toán chi hoạt động BHXH, BHYT, BHTN ngay từ đầu\nnăm để BHXH tỉnh thực hiện theo quy định, cụ thể:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với chi phí chi trả cho cơ quan\nBưu điện: Dự toán giao đầu năm đ</span>ã <span lang=\"VI\">tính đủ chi phí theo tỷ\nlệ quy </span>đị<span lang=\"VI\">nh tại Công văn 541/BHXH-TCKT ngày 13/02/2018 của\nBHX</span>H <span lang=\"VI\">Việt Nam về việc chi phí chi trả lương hưu, trợ cấp\nBHXH cho cơ quan Bưu điện năm 2018. Các đơn vị thanh toán chi phí chi trả cho\ncơ quan Bưu điện làm đại lý chi trả đúng mức chi do BHXH Việt Nam quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với các khoản chi phí chi trả\ndo BHXH tỉnh thực hiện theo quy định, BHXH Việt Nam phân bổ cho BHXH tỉnh theo\ntiêu chí, định mức phân bổ dự toán chi hoạt động BHXH, BHYT, BHTN ban hành kèm\ntheo Quyết định số 1127/QĐ-BHXH của BHXH Việt Nam.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Trường hợp trong năm thực hiện dự\ntoán chi BHXH, BHTN cao h</span>ơn <span lang=\"VI\">hoặc thấp hơn dự toán giao </span>đ<span lang=\"VI\">ầu năm, BHXH Việt Nam sẽ điều chỉnh tăng, giảm chi phí chi trả lương\nhưu, trợ cấp BHXH, trợ cấp thất nghiệp tương ứng và giao trong dự toán điều chỉnh\ndự toán chi hoạt động BHXH, BHYT, BHTN đảm bảo đủ kinh phí để BHXH tỉnh chi trả\ncho cơ quan Bưu điện làm đại lý chi trả lương hưu, trợ cấp BHXH, trợ cấp thất\nnghiệp và các khoản chi phí theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">d) Chi công tác tuyên truyền, ph</span>ổ\n<span lang=\"VI\">biến chế độ chính sách, pháp luật về BHXH, BHYT, BHTN: Các đơn vị\ncăn cứ vào dự toán kinh phí tuyên truyền được giao năm 2019 và tình hình thực tế\ntại địa phương để xây dựng K</span>ế <span lang=\"VI\">hoạch phân bổ kinh phí tuyên\ntruyền theo từng nội dung và gửi về BHXH Việt Nam (Vụ Tài chính - K</span>ế <span lang=\"VI\">toán, Trung tâm Truyền thông) trước ngày 25/4/2019, lưu ý kế hoạch phân\nbổ phải chi tiết đến BHXH cấp huyện cả về nội dung tuyên truyền, kinh phí thực\nhiện và đơn vị thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Việc sử dụng kinh phí tuyên truyền đảm\nbảo nguyên tắc tiết kiệm và hiệu quả theo đúng tiêu chuẩn, định mức quy định tại\nCông văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 914/BHXH-TCKT\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-914-bhxh-tckt-huong-dan-quan-ly-su-dung-kinh-phi-tuyen-truyen-2016-307199.aspx\">914/BHXH-TCKT</a>  ngày 18/3/2016 về việc hướng dẫn quản lý, sử dụng\nkinh phí tuyên truyền.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">e) Chi cải cách hành chính: Bố trí đủ\nkinh phí đ</span>ể <span lang=\"VI\">các đơn vị thực hiện các nhiệm vụ trọng tâm của\nNgành: Rà soát các thủ tục hành chính; chi phí thuê bao đường truyền hàng\ntháng; giao dịch điện tử; tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục\nhành chính qua dịch vụ bưu chính công ích; thực hiện hệ thống quản lý chất lượng\ntheo tiêu chuẩn quốc gia<a class=\"text-blue\" target=\"_blank\" title=\"Tiêu chuẩn Việt Nam TCVNISO9001:2008\" href=\"https://thuvienphapluat.vn/TCVN/linh-vuc-khac/tcvn-iso-9001-2008-he-thong-quan-ly-chat-luong-cac-yeu-cau-903942.aspx\"> TCVN ISO 9001: 2008</a>   tiến tới hệ thống quản lý chất lượng\ntheo tiêu chuẩn quốc gia TCVN 9001:2015. Đây là nhiệm vụ thường xuyên hàng năm,\nBHXH Việt Nam không giao riêng dự toán chi cho nội dung này, Giám đốc BHXH tỉnh\nchủ động điều hành trong dự toán chi hoạt động BHXH, BHYT, BHTN được giao đầu\nnăm đảm bảo đủ kinh phí để thực hiện nhiệm vụ cải cách hành chính theo chỉ đạo\ncủa Ngành, tron</span>g<span lang=\"VI\"> đó lưu ý:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với kinh phí thực hi</span>ệ<span lang=\"VI\">n</span> H<span lang=\"VI\">ợp </span>đ<span lang=\"VI\">ồng số\n166/HĐBC/BĐVN-BHXH ngày 20/12/2016 giữa BI IXH Việt Nam và Tổng công ty Bưu điện\nViệt Nam về việc tiếp nhận hồ sơ và tr</span>ả <span lang=\"VI\">kết quả giải quyết\nthủ tục hành chính qua dịch vụ bưu chính công ích theo hướng dẫn của BHXH Việt\nNam tại Công văn số 5207/BHXH-PC ngày 23/12/2016: BHXH Việt Nam phân bổ và giao\ntrong dự toán chi hoạt động BHXH, BHYT, BHTN ngay từ đầu năm để BHXH tỉnh thực\nhiện, BHXH tỉnh có trách nhiệm tổ chức thực hiện và thanh quyết toán theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Việc thanh quyết toán kinh phí thực\nhiện cải cách thủ tục hành chính thực hiện theo Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 3251/BHXH-TCKT\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-3251-bhxh-tckt-su-dung-thanh-quyet-toan-kinh-phi-thuc-hien-giao-dich-dien-tu-2015-291812.aspx\">3251/BHXH-TCKT</a>  ngày\n28/8/2015 của BHXH Việt Nam về việc hướng dẫn sử dụng và thanh quyết toán kinh\nphí thực hiện giao dịch điện tử.</span></p>\n\n<p style=\"margin-top:6.0pt\">f) <span lang=\"VI\">Chi in sổ BHXH, thẻ BHYT, chi phí\nin, mua biểu mẫu, chứng từ báo cáo dùng cho công tác chuyên môn</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kinh phí in tờ bìa và phôi sổ BHXH,\nin phôi thẻ BHYT toàn Ngành: Bố trí kinh phí và giao cho Văn phòng BHXH Việt\nNam thực hiện. C</span>ă<span lang=\"VI\">n cứ kế hoạch sử dụng phôi sổ BHXH của\nBHXH tỉnh và dự toán kinh phí được giao, Văn phòng BHXH Việt Nam tổ chức in t</span>ờ\n<span lang=\"VI\">bìa và phôi sổ BHXH, phôi thẻ BHYT và chuyển cho BHXH tỉnh; BHXH\ntỉnh quản lý, sử dụng theo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với kinh phí in các thông tin\ntrên số BHXH, thẻ BHYT, in bi</span>ể<span lang=\"VI\">u mẫu chứng từ báo cáo dùng\ncho công tác chuyên môn; chi in tờ rời sổ BHXH xác nhận thời gian đã </span>đ<span lang=\"VI\">óng BHXH, BHTN năm trước; chi in Thông báo kết quả đóng BHXH, BHYT, BHTN\n(<a name=\"bieumau_ms_c12_ts_nd_595\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('424561','3239829')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('CHI TIẾT KẾT QUẢ ĐÓNG BHXH, BHYT, BHTN, BHTNLĐ, BNN')\" onmouseout=\"hideddrivetip();\">Mẫu C12-TS</a>, <a name=\"bieumau_ms_c13_ts_nd_595\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('424561','3239830')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('THÔNG BÁO KẾT QUẢ ĐÓNG BHXH, BHYT, BHTN, BHTNLĐ, BNN')\" onmouseout=\"hideddrivetip();\">Mẫu C13-TS</a> ban hành kèm theo Quyết định số\n595/QĐ-BHXH), bao gồm: Giấy in, mực in, chi phí nhân công, chi phí chuyển phát\nqua bưu điện đến đơn vị sử dụng lao động và người lao động: BHXH Việt Nam đã bố\ntrí đủ kinh phí trong nội dung chi thường xuyên đặc thù để BHXH tỉnh chủ động\nthực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kinh phí in mẫu Giấy chứng nhận nghỉ\nviệc hưởng chế độ BHXH: Bố trí kinh phí và giao cho Văn phòng BHXH Việt Nam để\nin phôi tập trung cấp cho BHXH t</span>ỉ<span lang=\"VI\">nh theo hướng dẫn tại\nCông văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 4666/BHXH-CSXH\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-4666-bhxh-csxh-huong-dan-mau-in-cap-giay-chung-nhan-nghi-viec-huong-bao-hiem-xa-hoi-2016-331926.aspx\">4666/BHXH-CSXH</a>  ngày 21/11/2016 của B</span>HXH <span lang=\"VI\">Việt\nNam về việc hướng dẫn về mẫu, in, cấp và quản lý Giấy chứng nhận ngh</span>ỉ <span lang=\"VI\">việc hưởng chế </span>đ<span lang=\"VI\">ộ BHXH. BHXH tỉnh có trách nhiệm\ntheo dõi, quản lý, thanh quyết toán theo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">g) Kinh phí phục vụ công tác lưu trữ\nhồ sơ tài liệu; chi lệ phí cấp bản sao giấy tờ; chi trang phục y tế cho giám định\nviên; chi bồi dưỡng, trang phục thanh tra; đào tạo, tập huấn, bồi dưỡng chuyên\nmôn nghiệp vụ, BHXH Việt Nam đ</span>ã <span lang=\"VI\">bố trí </span>đ<span lang=\"VI\">ủ kinh phí </span>đ<span lang=\"VI\">ể các đơn vị thực hiện trong dự toán\ngiao đầu năm. Trong phạm vi dự toán được giao, Giám đốc BHXH tỉnh, Thủ trưởng\ncác đơn vị sự nghiệp trực thuộc chủ động điều hành đảm bảo kinh phí thực hiện\nnhiệm vụ.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">h) Chi xây dựng và ban hành mẫu hồ\nsơ, quy trình nghiệp vụ về tổ chức thực hiện B</span>HXH<span lang=\"VI\">, BHYT,\nBHTN: Giao cho Văn phòng BHXH Việt Nam xây dựng nội dung, mức chi trong quy chế\nchi tiêu nội bộ theo quy định để tổ chức thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">i) Chi nhập d</span>ữ <span lang=\"VI\">liệu\ntăng, giảm người tham gia BHYT: BHXH Việt Nam bố trí đủ kinh phí để BHXH tỉnh\ntriển khai thực hiện. BHXH tỉnh căn cứ theo hướng dẫn của BHXH Việt Nam tại\nCông văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 2888/BHXH-BT\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-2888-bhxh-bt-2018-kinh-phi-ho-tro-lap-danh-sach-tham-gia-bao-hiem-y-te-ho-gia-dinh-395686.aspx\">2888/BHXH-BT</a>  ngày 03/8/2018 về việc hướng dẫn việc hoàn thiện d</span>ữ\n<span lang=\"VI\">liệu thành viên hộ gia đình để tổ chức thực hiện.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">k) Đối với kinh phí chi rà soát, bàn\ngiao sổ BHXH cho người lao động và chi hoàn thiện cấp mã số BHXH: BHXH Việt Nam\nbố trí đủ kinh phí cho BHXH tỉnh để thực hiện rà soát, bàn giao số sổ BHXH và cấp\nmã số BHXH cho người lao động phát sinh năm 2019, gồm: in ấn danh sách giao nhận\nsổ BHXH (<a name=\"bieumau_ms_01_cv_4027_2016\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('424561','3239831')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('DANH SÁCH GIAO NHẬN SỔ BẢO HIỂM XÃ HỘI')\" onmouseout=\"hideddrivetip();\">Mẫu số 01</a>), Báo cáo tình hình\ngiao nhận sổ cho người lao động (<a name=\"bieumau_ms_04_cv_4027_2016\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('424561','3239832')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('BÁO CÁO TÌNH HÌNH BÀN GIAO SỔ BHXH CHO NGƯỜI LAO ĐỘNG')\" onmouseout=\"hideddrivetip();\">Mẫu số 04</a>)\ntheo Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 4027/BHXH-ST\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-4027-bhxh-st-huong-dan-ra-soat-ban-giao-so-bao-hiem-xa-hoi-cho-nguoi-lao-dong-2016-325961.aspx\">4027/BHXH-ST</a>  ngày 14/10/2016 của BHXH Việt Nam; in Tờ khai\ntham gia BHXH, BHYT (<a name=\"bieumau_ms_tk01_ts_cv_3799_2017\" class=\"clsBookmark_bm\" onclick=\"LS_Tip_Type_Bookmark_bm('424561','3239833')\" onmouseover=\"LS_Tootip_Type_Bookmark_BM('TỜ KHAI THAM GIA, ĐIỀU CHỈNH THÔNG TIN BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ')\" onmouseout=\"hideddrivetip();\">Mẫu TK01-TS</a>\n) theo Công văn số <a class=\"text-blue\" target=\"_blank\" title=\"Công văn 3799/BHXH-BT\" href=\"https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-3799-bhxh-bt-2017-cap-ma-so-bao-hiem-xa-hoi-cho-nguoi-tham-gia-bao-hiem-xa-hoi-361350.aspx\">3799/BHXH-BT</a>  ngày 28/8/2017 của BHXH Việt Nam; chi rà soát,\nchi trả sổ B</span>H<span lang=\"VI\">XH đ</span>ế<span lang=\"VI\">n tận tay người lao\nđộng...</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với BHXH tỉnh năm 2018 còn dư\nkinh phí chi rà soát, bàn giao sổ BHXH cho người lao động và hoàn thiện, cấp mã\nsố BHXH chuyển sang năm 2019 tiếp tục sử dụng, B</span>H<span lang=\"VI\">XH Việt\nNam chỉ bổ sung phần kinh phí còn thiếu (nếu có).</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">1.3.3. Chi không thường xuyên</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">a) Chi đào tạo, bồi dưỡng CCVC:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phân bổ và giao kinh phí cho Trường\nĐào tạo nghiệp vụ BHXH, Văn phòng BHXH Việt Nam thực hiện công tác đào tạo, bồi\ndưỡng CCVC theo Kế hoạch đào tạo, bồi dưỡng, tập huấn nghiệp vụ năm 2019 các\nđơn vị trực thuộc BHXH Việt Nam. Trường Đào tạo nghiệp vụ BHXH và Văn phòng\nBHXH việt Nam chủ độn</span>g<span lang=\"VI\">, tổ chức các lớp đào tạo, bồi dưỡng\ntheo đúng quy định trong phạm vi dự toán được giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với BHXH tỉnh: BHXH Việt Nam\nphân bổ và giao trong dự toán đầu năm kinh phí để BHXH tỉnh chi đào tạo, bồi dưỡng\nCCVC về QLNN chương trình chu</span>y<span lang=\"VI\">ên viên, chuyên viên chính,\nchuyên viên cao cấp, lý luận chính trị, Giám đốc BHXH tỉnh chủ động điều hành\ntrong phạm vi dự toán được BHXH Việt Nam giao đầu năm.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">b) Chi thuê trụ sở làm việc: Phân bổ\nvà giao đủ kinh phí để các đơn vị thuê trụ sở theo phương án đã được Lãnh đạo\nNgành phê duyệt theo quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><i><span lang=\"VI\">1.3.4. Chi sửa chữa, mua sắm trang\nthiết bị:</span></i></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đối với mua sắm toàn N</span>g<span lang=\"VI\">ành năm 2019: Bố trí đủ kinh phí cho các đơn vị dược giao nhiệm vụ </span>để\n<span lang=\"VI\">thực hiện. BHXH Việt Nam sẽ thông báo Danh mục tài sản mua sắm\ntoàn Ngành năm 2019, các đơn vị không được sử dụng nguồn chi quản lý BHXH,\nBHYT, BHTN để mua sắm các tài sản này.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- BHXH Việt Nam phân bổ kinh phí để\ncác đơn vị thực hiện sửa chữa và mua sắm tài sản không thuộc Danh mục tài sản\nmua sắm toàn Ngành năm 2019. Trường hợp năm 2018 còn dư kinh phí mua sắm đơn vị\nkhông có nhu cầu sử dụng, BHXH Việt Nam sẽ giảm trừ vào dự toán năm 2019.</span></p>\n\n<p style=\"margin-top:6.0pt\"><a name=\"muc_3\"><b>III. TỔ CHỨC THỰC HIỆN</b></a></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">1. Phân bổ và công khai dự toán</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Căn cứ vào hướng dẫn của BHXH Việt\nNam và chỉ tiêu dự toán được giao, B</span>H<span lang=\"VI\">X</span>H <span lang=\"VI\">tỉnh thực hiện phân bổ dự toán thu, chi năm 2019 cho các đơn vị trực\nthuộc.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện công khai và báo cáo kết\nquả công khai số liệu phân bổ dự toán theo quy định tại Quyết định số\n2949/QĐ-BHXH ngày 04/12/2017 của BHXH Việt Nam và Quyết định số 1586/QĐ-BHXH\nngày 12/11/2018 về việc sửa đổi, bổ sung một số điều của của Quyết định số\n2949/QĐ-BHXH về BHXH Việt Nam (Vụ Kế hoạch và Đầu tư).</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">2. </span>V<span lang=\"VI\">ề dự toán\nthu BHXH, BHYT, BHTN</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">BHXH tỉnh căn cứ dự toán thu BHXH,\nBHYT, BHTN được giao, tổ chức thực hiện phân bổ dự toán thu BHXH, BHYT, BHTN\ncho các đơn vị trực thuộc phải đảm bảo việc thực hiện hoàn thành vượt kế hoạch\nthu do BHXH Việt Nam giao, đồng thời triển khai thực hiện tốt một số nội dung\nsau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thường xuyên báo cáo, tham mưu đề\nxuất với cấp </span>ủy<span lang=\"VI\">, chính quy</span>ề<span lang=\"VI\">n địa\nphương tổ chức thanh tra, kiểm tra liên ngành và kiên quyết xử phạt, truy thu\nnhững đơn vị chậm đóng, đóng thiếu và trốn đóng BHXH, BHYT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tập trung mọi biện pháp phát triển\nđối tượng tham gia BHXH, BHYT; chủ động phối hợp với các cơ quan: Lao động -\nThương binh và Xã hội, Kế hoạch và Đầu tư, Thuế để kiểm tra, rà soát số doanh\nnghiệp, số lao động, tiền lương, tiền công người lao động thuộc diện tham gia\nBHXH, BHYT theo luật định. Kiên quyết khởi kiện các đơn vị nợ BHXH, BHYT kéo\ndài.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chủ động và tăng cường công tác kiểm\ntra, đối chiếu; tiếp cận kịp thời nh</span>ữ<span lang=\"VI\">ng đơn vị có khó khăn\ntrong việc đóng BHXH, BHYT cho người lao động và những đơn vị nợ đọng để nắm rõ\ntình hình và có biện pháp nhằm thu đúng, thu đủ, thu kịp thời và giải quyết các\nvấn đề phát sinh theo đúng quy định.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">3. </span>V<span lang=\"VI\">ề dự toán\nchi BHXH, BHTN; Chi quản lý BHXH, BHYT, BHTN</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- BHXH tỉnh phân bổ và giao dự toán\nchi BHXH, BHTN, dự toán chi quản lý BHXH, BHYT, BHTN cho các đơn vị trực thuộc\nđảm bảo khớp đúng với tổng mức dự toán được BHXH Việt Nam giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các đơn vị thực hiện chi tiêu đảm bảo\nnguyên tắc triệt để tiết kiệm có hiệu quả các khoản chi thường xuyên; giảm tối\nđa kinh phí tổ chức hội nghị, hội thảo, khánh tiết; chủ động sắp xếp chi thường\nxuyên, ưu tiên các nhiệm vụ quan trọng, các khoản chi cho con người; chi tiêu\nđúng tiêu chuẩn, định mức chế độ Nhà nước quy định và Quy ch</span>ế <span lang=\"VI\">chi tiêu nội bộ của Ngành, trong phạm vi dự toán được BHX</span>H <span lang=\"VI\">Việt Nam giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Các đơn vị tổ chức thực hiện đầy đủ,\nnghiêm túc chương trình hành động của Ngành về thực hành tiết kiệm chống lãng\nphí và phòng, chống tham nhũng; tăng cường công tác kiểm tra tài chính, xử lý kịp\nthời, đầy đủ những sai phạm được phát hiện qua công tác kiểm tra, thanh tra, kiểm\ntoán.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">4. </span>V<span lang=\"VI\">ề dự toán chi\nKCB BHYT</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">BHXH tỉnh chủ trì, phối hợp với Sở Y\ntế, Sở Tài chính và cơ quan có liên quan thực hiện:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Đánh giá tình hình sử dụng kinh phí\nKCB năm 2018; phân tích các yếu tố tăng, giảm, các vấn đề cần kiểm soát của từng\ncơ sở KCB để tham mưu cho UBND tỉnh phê du</span>y<span lang=\"VI\">ệt t</span>ổng <span lang=\"VI\">mức thanh toán chi tiết của từng cơ sở KCB BHYT, làm căn cứ để B</span>HXH\ntỉ<span lang=\"VI\">nh thông báo và tổ chức thực hiện hợp đồng KCB BHYT với cơ sở y\ntế.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tổ chức công khai nguồn kinh phí được\nsử dụng năm 2019 cho các cơ sở KCB.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Xây dựng và triển khai kế hoạch và\ngiải pháp thực hiện quản lý và sử dụng có hiệu quả chi KCB BHYT đảm bảo trong\nphạm vi dự toán giao của địa phương; đối với các cơ sở KCB thực hiện trong phạm\nvi nguồn kinh phí, không vượt quá tổng mức thanh toán chi phí KCB BHYT của từng\ncơ sở y tế; thực hiện đúng quy định về tạm ứng kinh phí KCB.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường côn</span>g<span lang=\"VI\"> tác tru</span>y<span lang=\"VI\">ền thôn</span>g<span lang=\"VI\">; về BHYT, vận\nđộng người dân tham gia BHYT phù h</span>ợ<span lang=\"VI\">p từng nhóm đối tư</span>ợ<span lang=\"VI\">ng để đạt chỉ tiêu phát triển BHYT của địa phương được giao.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Thực hiện nghiêm túc chế độ thông\ntin, báo cáo Bộ Y tế, UBND tỉnh và BHXH Việt Nam về tình hình thực hiện công\ntác KCB và những khó khăn, vướng mắc, đồng thời đề xuất giải pháp tháo g</span>ỡ\n<span lang=\"VI\">xin ý kiến chỉ đạo, giải quyết.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Phối hợp với Sở Y tế hướng dẫn các\ncơ sở KCB thực hiện nghiêm túc quy chế chuyên môn, quy trình kỹ thuật bệnh viện,\nhướng dẫn chẩn đoán và điều trị do Bộ Y tế ban hành; thực hiện việc chuyển dữ\nliệu chi phí KCB theo quy định lên c</span>ổ<span lang=\"VI\">ng thông tin giám định\nBHYT.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Tăng cường công tác thanh tra, kiểm\ntra, xử lý vi phạm theo chức năng, nhiệm vụ để ngăn chặn tình trạng lạm dụng,\ntrục lợi quỹ BHYT, báo cáo kịp thời với cấp trên.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Kịp thời giải quyết khó khăn, vướng\nm</span>ắ<span lang=\"VI\">c trong quá trình thực hiện, triển khai dự toán.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">- Chỉ đạo Giám </span>đ<span lang=\"VI\">ốc\ncác cơ sở KCB chịu trách nhiệm quản lý, sử dụng kinh phí KCB được phân bổ đúng\nquy định, hiệu quả, đảm bảo quyền lợi của người bệnh; nâng cao tinh thần thực\nhành tiết kiệm trong chỉ định xét nghiệm, điều trị nội trú và sử dụng dịch vụ,\nnhất là các dịch vụ kỹ thuật và thuốc đắt tiền, thực hiện kịp thời theo quy định\nv</span>ề<span lang=\"VI\"> chuy</span>ể<span lang=\"VI\">n dữ liệu cho BHXH phục vụ\ncông tác giám định, thanh toán.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">5. BHXH tỉnh, Văn phòng và các đơn vị\ntrực thuộc BHXH Việt Nam căn cứ dự toán được giao và nội dung hướng dẫn của\nCông văn này t</span>ổ <span lang=\"VI\">chức thực hiện dự toán theo đúng quy </span>đ<span lang=\"VI\">ịnh.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\">Trong quá trình thực hiện có vướng m</span>ắ<span lang=\"VI\">c, báo cáo về BHXH Việt Nam theo từng lĩnh vực quản lý (Vụ Kế hoạch và\nĐầu tư, Vụ Tài chính - Kế toán, Ban Thu, Ban Thực hiện chính sách BHYT) để kịp\nthời tháo gỡ, giải quyết./.</span></p>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADMAMAA4ADIANAA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt\">- Như trên:<br>\n  - Tổng Giám đốc (để b/c);<br>\n  - Các Phó TGĐ;<br>\n  - Lưu: VT, KHĐT (05b).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b>KT. TỔNG GIÁM ĐỐC<br>\n  PHÓ TỔNG GIÁM ĐỐC<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Đào Việt Ánh</b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"> </p>\n\n",
+  "mdContent": "**BẢO HIỂM XÃ HỘI VIỆT NAM****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 1143/BHXH-KHĐT  \n_V/v hướng dẫn tổ chức thực hiện dự toán thu, chi năm 2019_\n\n_Hà Nội, ngày 10_ _tháng 4_ _năm 2019_\n\n**Kính gửi:**\n\n\\- Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương;  \n\\- Văn phòng;  \n\\- Các đơn vị sự nghiệp trực thuộc Bảo hiểm xã hội Việt Nam;  \n\\- Ban Quản lý dự án Đầu tư và Xây dựng ngành Bảo hiểm xã hội;  \n\\- Ban Quản lý các dự án Công nghệ thông tin.\n\nCăn cứ Quyết định số 1629/QĐ-TTg ngày 23/11/2018 của Thủ tướng Chính phủ về việc giao dự toán ngân sách nhà nước năm 2019 (Quyết định số 1629);\n\nCăn cứ Quyết định số 20/QĐ-TTg ngày 04/4/2019 của Thủ tướng Chính phủ (Mật) về việc giao dự toán thu, chi năm 2019 của Bảo hiểm xã hội Việt Nam (Quyết định số 20);\n\nCăn cứ Quyết định số 22/QĐ-TTg ngày 05/4/2019 của Thủ tướng Chính phủ (Mật) về việc giao dự toán chi khám bệnh, chữa bệnh bảo hiểm y tế năm 2019 (Quyết định số 22);\n\nCăn cứ Tờ trình số 217/TTr-BTC ngày 05/3/2019 của Bộ Tài chính (Mật) về việc giao dự toán thu, chi năm 2019 của Bảo hiểm xã hội Việt Nam;\n\nCăn cứ Quyết định số 08/QĐ-BHXH ngày 10/4/2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc giao dự toán thu, chi năm 2019;\n\nBảo hiểm xã hội Việt Nam hướng dẫn Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương (BHXH tỉnh), Văn phòng và các đơn vị sự nghiệp trực thuộc (đơn vị dự toán cấp 3) thực hiện dự toán thu, chi bảo hiểm xã hội (BHXH), bảo hiểm y tế (BHYT), bảo hiểm thất nghiệp (BHTN) năm 2019 như sau:\n\n**I. DỰ TOÁN THU**\n\n**1\\. Đối tượng tham gia**\n\na) Số người tham gia BHXH, BHTN\n\n\\- Nguyên tắc xác định chỉ tiêu số người tham gia BHXH cho tỉnh là năm sau tăng so với năm trước bằng tốc độ bình quân 3 năm trước liền kề cộng với mức gia tăng cho từng nhóm, đảm bảo năm sau tăng so với năm trước liền kề thấp nhất 6,5%. Bình quân tổng mức tăng toàn quốc đạt yêu cầu năm 2019 tăng thấp nhất 8,4%.\n\n\\- Số người tham gia BHXH tự nguyện xác định căn cứ vào tỷ trọng số người tham gia BHXH tự nguyện trong tổng số người tham gia BHXH đã được xác định theo nguyên tác trên, cộng với mức gia tăng năm 2019 thấp nhất bằng 1% lực lượng lao động trong độ tuổi; đối với các tỉnh miền núi, giao mức tăng cao hơn các tỉnh đồng bằng do số người chưa tham gia BHXH còn nhiều.\n\n\\- Số người tham gia BHTN được xác định trên cơ sở số người tham gia BHXH bắt buộc; loại trừ người lao động làm việc theo hợp đồng lao động từ 1 đến dưới 3 tháng; riêng khối hành chính sự nghiệp loại trừ số người là công chức.\n\nb) Số người tham gia BHYT\n\n\\- Căn cứ Quyết định số [1167/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-1167-qd-ttg-dieu-chinh-giao-chi-tieu-thuc-hien-bao-hiem-y-te-giai-doan-2016-2020-316311.aspx \"Quyết định 1167/QĐ-TTg\") ngày 28/6/2016 của Thủ tướng Chính phủ về điều chỉnh giao chỉ tiêu thực hiện BHYT giai đoạn 2016-2020, giao không thấp hơn chỉ tiêu 88,1% dân số tham gia BHYT theo Nghị quyết số 01/NQ\\-CP ngày 01/01/2019 của Thủ tướng Chính phủ về nhiệm vụ giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước năm 2019.\n\n\\- Số người là quân nhân tham gia BHYT tính theo Lộ trình Nghị định [70/2015/NĐ-CP](https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-70-2015-nd-cp-huong-dan-luat-bao-hiem-y-te-quan-doi-cong-an-nhan-dan-nguoi-lam-co-yeu-288862.aspx \"Nghị định 70/2015/NĐ-CP\") của Chính phủ ước tính với khoảng 100% (tương ứng khoảng 1,1 triệu người) là sĩ quan, hạ sĩ quan, chiến sĩ, quân nhân chuyên nghiệp đang công tác trong Bộ Quốc phòng, Bộ Công an; số thu BHYT tính cho khối lực lượng vũ trang.\n\n\\- Bổ sung số người thân nhân quân đội cho BHXH tỉnh (theo số báo cáo của BHXH Bộ Quốc phòng), riêng về số thu vẫn tính cho BHXH Bộ Quốc phòng.\n\n**2\\. Về tiền lương**\n\n\\- Trên cơ sở tiền lương bình quân của năm 2018, tính tăng lương cơ học bình quân 3 năm liền kề, tiền lương bình quân đóng BHXH, BHYT, BHTN của khối hành chính sự nghiệp tương ứng là 1,5%.\n\n\\- Tính tăng lương tối thiểu vùng theo quy định tại Nghị định số [157/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-157-2018-nd-cp-muc-luong-toi-thieu-vung-nguoi-lao-dong-lam-viec-theo-hop-dong-lao-dong-390933.aspx \"Nghị định 157/2018/NĐ-CP\") ngày 16/11/2018 của Chính phủ, mức tăng bình quân là 5,3% so với năm 2018; dự kiến mức ảnh hưởng tăng khoảng từ 15% đến 25% số người lao động đóng BHXH, BHYT, BHTN của từng loại doanh nghiệp.\n\n\\- Điều chỉnh mức lương cơ sở từ ngày 01/7/2019 theo Khoản 7 Điều 3 Nghị quyết số 70/2018/QH14 của Quốc hội về dự toán NSNN năm 2019 tăng 7% từ 1,39 triệu đồng/tháng lên 1,49 triệu đồng/tháng.\n\n**3\\. Về tỷ lệ đóng BHXH, BHYT, BHTN**\n\n\\- Tỷ lệ đóng BHXH bắt buộc (bao gồm cả bảo hiểm tai nạn lao động - bệnh nghề nghiệp (TNLĐ-BNN)) là 25,5% mức tiền lương, tiền công (bao gồm cả phụ cấp lương và các khoản bổ sung khác) của đối tượng tham gia BHXH bắt buộc.\n\n\\- Tỷ lệ đóng BHXH tự nguyện là 22% mức thu nhập tháng người tham gia BHXH tự nguyện lựa chọn.\n\n\\- Tỷ lệ đóng BHYT là 4,5% mức tiền lương, tiền công của đối tượng cùng tham gia BHXH, BHYT bắt buộc; 4,5% mức lương hưu, trợ cấp mất sức lao động hằng tháng, trợ cấp thất nghiệp; 4,5% mức lương cơ sở đối với các đối tượng còn lại.\n\n\\- Tỷ lệ đóng BHTN là 2% mức tiền lương, tiền công của đối tượng tham gia BHTN.\n\n**4\\. Về số thu**\n\n\\- Trên cơ sở số người tham gia và tiền lương bình quân, thực hiện tính số tiền đóng BHXH, BHYT, BHTN.\n\n\\- Đối với người tham gia được ngân sách hỗ trợ một phần mức đóng, người tham gia BHYT theo hộ gia đình, tính thu theo lương cơ sở là 1,39 triệu đồng.\n\n\\- Tính đủ số thu BHYT (ghi thu, ghi chi do tổ chức BHXH đóng, hỗ trợ từ ngân sách nhà nước...):\n\n\\+ Các khoản ghi thu, ghi chi: Là số tiền đóng BHYT của các đối tượng do tổ chức BHXH đóng hàng tháng theo quy định.\n\n\\+ Kinh phí ghi thu: Kinh phí ngân sách Trung ương hỗ trợ đóng BHYT cho học sinh, sinh viên đang theo học tại các trường do Bộ, cơ quan Trung ương quản lý.\n\n**II. DỰ TOÁN CHI**\n\n**1\\. Dự toán chi BHXH, BHYT, BHTN**\n\n**1.1. Dự** **toán chi BHXH, BHTN**\n\n1.1.1. Dự toán chi BHXH, BHTN năm 2019 giao cho BHXH tỉnh trên cơ sở dự toán được Thủ tướng Chính phủ giao tại Quyết định số 1629 và Quyết định số 20 đảm bảo đủ kinh phí để thực hiện chi trả và đóng BHYT cho người hưởng các chế độ BHXH, BHTN, trong đó lưu ý một số nội dung:\n\na) Dự toán chi các chế độ BHXH do NSNN đảm bảo\n\n\\- Dự toán giao theo mức lương hưu, trợ cấp BHXH và trợ cấp hàng tháng theo Nghị định số [88/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-88-2018-nd-cp-dieu-chinh-luong-huu-tro-cap-bao-hiem-xa-hoi-tro-cap-hang-thang-342518.aspx \"Nghị định 88/2018/NĐ-CP\") ngày 15/6/2018 của Chính phủ và mức lương cơ sở theo Nghị định số [72/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-72-2018-nd-cp-muc-luong-co-so-doi-voi-can-bo-cong-chuc-vien-chuc-va-luc-luong-vu-trang-372743.aspx \"Nghị định 72/2018/NĐ-CP\") ngày 15/5/2018 của Chính phủ quy định mức lương cơ sở đối với cán bộ, công chức, viên chức (CBCCVC) và lực lượng vũ trang (1,39 triệu đồng/tháng) tính đủ 12 tháng.\n\n\\- Kinh phí thực hiện điều chỉnh mức lương cơ sở tăng 7% từ 1,39 triệu đồng/tháng lên 1,49 triệu đồng/tháng, điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hàng tháng và trợ cấp ưu đãi người có công với cách mạng tăng bằng mức tăng lương cơ sở, điều chỉnh mức lương cơ sở và điều chỉnh lương hưu, trợ cấp BHXH từ ngày 01/7/2019 theo Khoản 8 Điều 4 Nghị quyết số 70/2018/QH14 của Quốc hội về dự toán ngân sách nhà nước năm 2019; BHXH Việt Nam sẽ giao bổ sung sau khi có hướng dẫn thực hiện của cơ quan có thẩm quyền.\n\nb) Dự toán chi các chế độ BHXH do Quỹ BHXH đảm bảo\n\n\\- Giao theo mức lương hưu, trợ cấp BHXH và trợ cấp hàng tháng thực hiện theo Nghị định số [88/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bao-hiem/nghi-dinh-88-2018-nd-cp-dieu-chinh-luong-huu-tro-cap-bao-hiem-xa-hoi-tro-cap-hang-thang-342518.aspx \"Nghị định 88/2018/NĐ-CP\") ngày 15/6/2018 của Chính phủ và mức lương cơ sở thực hiện theo Nghị định số [72/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-72-2018-nd-cp-muc-luong-co-so-doi-voi-can-bo-cong-chuc-vien-chuc-va-luc-luong-vu-trang-372743.aspx \"Nghị định 72/2018/NĐ-CP\") ngày 15/5/2018 của Chính phủ quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang (1,39 triệu đồng/tháng) tính đủ 12 tháng và mức lương cơ sở tăng 7% từ 1,39 triệu đồng/tháng lên 1,49 triệu đồng/tháng, điều chỉnh lương hưu, trợ cấp BHXH, trợ cấp hàng tháng và trợ cấp ưu đãi người có công với cách mạng tăng bằng mức tăng lương cơ sở từ ngày 01/7/2019 theo Khoản 8 Điều 4 Nghị quyết số 70/2018/QH14 của Quốc hội về dự toán ngân sách nhà nước năm 2019.\n\n\\- Đã bố trí đủ kinh phí để thực hiện chế độ đối với lao động nữ nghỉ hưu theo Nghị định số [153/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-153-2018-nd-cp-dieu-chinh-luong-huu-doi-voi-lao-dong-nu-tu-2018-den-2021-389795.aspx \"Nghị định 153/2018/NĐ-CP\") ngày 07/1 1/2018 của Chính phủ quy định chính sách điều chỉnh lương hưu đối với lao động nữ bắt đầu hưởng lương hưu trong giai đoạn từ năm 2018 đến năm 2021 có thời gian đóng BHXH từ đủ 20 năm đến 29 năm 6 tháng, trong đó bao gồm cả truy lĩnh đối với các đối tượng lao động nữ nghỉ hưu từ 01/01/2018.\n\n\\- Chưa bố trí kinh phí chi một số chế độ: Hỗ trợ phòng ngừa, chia sẻ rủi ro về TNLĐ-BNN và hỗ trợ chuyển đổi nghề nghiệp cho người bị TNLĐ-BNN khi trở lại làm việc theo quy định Luật An toàn, vệ sinh lao động. Sau khi được Bộ Lao động-Thương binh và Xã hội phê duyệt kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động theo quy định của Luật An toàn, vệ sinh lao động, BHXH Việt Nam sẽ bố trí kinh phí để các đơn vị thực hiện.\n\nc) Dự toán chi BHTN\n\n\\- Chưa bố trí kinh phí chi hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động và hỗ trợ tư vấn giới thiệu việc làm theo quy định tại Điều 47 của Luật Việc làm.\n\nTrong quá trình tổ chức thực hiện, khi phát sinh chi các nội dung BHXH Việt Nam chưa bố trí dự toán, BHXH tỉnh tổng hợp, báo cáo về BHXH Việt Nam để giao bổ sung dự toán.\n\n1.1.2. Kinh phí thực cấp về BHXH tỉnh để tổ chức thực hiện chi trả cho người hưởng các chế độ BHXH, BHTN không bao gồm kinh phí đóng BHYT của người hưởng. BHXH Việt Nam chuyển tiền đóng BHYT cho người hưởng từ quỹ BHXH, quỹ BHTN sang quỹ BHYT; BHXH tỉnh thực hiện ghi thu tiền đóng BHYT cho người hưởng theo quy định.\n\n**1.2. Dự** **toán Chi khám chữa bệ****nh BHYT**\n\nDự toán chi khám chữa bệnh (KCB) năm 2019 được Thủ tướng Chính phủ giao tại Quyết định số 22 gồm các nội dung:\n\n\\- Chi KCB cho bệnh nhân có thẻ BHYT của tỉnh phát hành KCB tại địa phương và bệnh nhân có thẻ BHYT của tỉnh khác phát hành đến KCB tại địa phương (Chi KCB BHYT phát sinh tại các cơ sở y tế trên địa bàn tỉnh);\n\n\\- Chi chăm sóc sức khỏe ban đầu theo quy định tại Điều 33 Nghị định số 146/2018/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật BHYT;\n\n\\- Không bao gồm chi của thuốc kháng HIV cấp cho bệnh nhân BHYT.\n\n1.2.1. Nguyên tắc xây dựng dự toán chi KCB năm 2019:\n\nDự toán chi KCB năm 2019 giao cho các tỉnh, thành phố được xây dựng căn cứ số chi KCB đã thực hiện các năm trước và dự toán năm 2018 được Thủ tướng Chính phủ giao, có tính toán đầy đủ các yếu tố tăng, giảm cụ thể:\n\na) Các yếu tố tăng gồm:\n\n\\- Tăng do phát triển đối tượng tham gia BHYT;\n\n\\- Tăng do thay đổi cơ cấu bệnh tật;\n\n\\- Tăng do điều chỉnh lương cơ sở vào giá dịch vụ y tế theo Thông tư số [39/2018/TT-BYT](https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-39-2018-tt-byt-thong-nhat-gia-kham-chua-benh-bao-hiem-y-te-giua-benh-vien-cung-hang-401940.aspx \"Thông tư 39/2018/TT-BYT\") ngày 30/11/2018 của Bộ Y tế;\n\n\\- Tăng do thay đổi chính sách như: điều chỉnh lương cơ sở hàng năm, thực hiện Nghị định số [146/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/the-thao-y-te/nghi-dinh-146-2018-nd-cp-huong-dan-luat-bao-hiem-y-te-357505.aspx \"Nghị định 146/2018/NĐ-CP\") .\n\nb) Các yếu tố giảm gồm:\n\n\\- Giảm do thực hiện Thông tư số [15/2018/TT-BYT](https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-15-2018-tt-byt-thong-nhat-gia-kham-chua-benh-bao-hiem-y-te-benh-vien-cung-hang-384077.aspx \"Thông tư 15/2018/TT-BYT\") có điều chỉnh giá của 88 dịch vụ y tế, điều chỉnh cách tính ngày giường bệnh;\n\n\\- Giảm do thực hiện đấu thầu thuốc và vật tư y tế tập trung;\n\n\\- Giảm do kiểm soát chi phí.\n\nc) Ngoài ra số giao dự toán KCB cho các tỉnh, thành phố có thực hiện điều chỉnh giảm chi đa tuyến đến ngoại tỉnh đối với các tỉnh có bệnh viện tuyến Trung ương, để khuyến khích các bệnh viện tuyến Trung ương chuyển các bệnh nhẹ về các bệnh viện tuyến dưới điều trị, giảm quá tải tại các bệnh viện tuyến trên, đồng thời tăng cường khả năng cung cấp dịch vụ y tế cho bệnh viện tuyến dưới và các tỉnh vùng sâu, vùng xa, nâng cao hiệu quả sử dụng quỹ BHYT.\n\n1.2.2. Nguyên tắc thông báo nguồn kinh phí KCB cho từng cơ sở KCB\n\nThực hiện thông báo nguồn kinh phí cho từng cơ sở KCB theo đúng hướng dẫn về xác định tổng mức thanh toán chi phí KCB BHYT tại Khoản 4 Điều 24 Nghị định 146/2018/NĐ-CP, tổng mức thanh toán chi KCB BHYT năm 2019 bằng số chi KCB BHYT năm 2018 được thẩm định, quyết toán theo dự toán chi KCB năm 2018 đà giao, cộng các yếu tố tăng, trừ các yếu tố giảm. Các yếu tố tăng, giảm trong năm 2019 thực hiện như hướng dẫn tại Mục 1.2.1 Công văn này và đặc thù thay đổi trong năm 2019 của từng cơ sở KCB như: điều chỉnh hạng bệnh viện; thay đổi phạm vi hoạt động. Tạm thời chưa áp dụng hệ số k trong thời gian chờ Bộ Y tế thông báo.\n\n**1.3. Dự** **toán chi quản lý BHXH, BHYT, BHTN**\n\nDự toán chi hoạt động BHXH, BHYT, BHTN năm 2019 giao cho các đơn vị trên cơ sở dự toán được Thủ tướng Chính phủ giao tại Quyết định số 20; Quyết định số [60/2015/QĐ-TTg](https://thuvienphapluat.vn/van-ban/bao-hiem/quyet-dinh-60-2015-qd-ttg-quan-ly-tai-chinh-bao-hiem-chi-phi-quan-ly-bao-hiem-xa-hoi-bao-hiem-y-te-bao-hiem-that-nghiep-296793.aspx \"Quyết định 60/2015/QĐ-TTg\") ngày 27/11/2015 của Thủ tướng Chính phủ về cơ chế quản lý tài chính về BHXH, BHYT, BHTN và chi phí quản lý BHXH, BHYT, BHTN; Thông tư số [20/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-20-2016-tt-btc-huong-dan-thuc-hien-co-che-quan-ly-tai-chinh-bao-hiem-chi-phi-quan-ly-bao-hiem-299101.aspx \"Thông tư 20/2016/TT-BTC\") ngày 03/02/2016 của Bộ Tài chính hướng dẫn thực hiện cơ chế tài chính về BHXH, BHYT, BHTN và chi phí quản lý BHXH, BHYT, BHTN; Quyết định số 1127/QĐ-BHXH ngày 07/7/2017 của BHXH Việt Nam về ban hành quy định về tiêu chí, định mức phân bổ dự toán chi phí quản lý BHXH, BHYT, BHTN đối với các đơn vị thuộc hệ thống BHXH Việt Nam. Trong đó, đã bố trí đủ kinh phí thực hiện các nội dung chi theo quy chế chi tiêu nội bộ và trích lập các quỹ đối với các đơn vị thuộc hệ thống BHXH Việt Nam được ban hành kèm theo Quyết định số 298/QĐ-BHXH ngày 25/02/2016 của Tổng Giám đốc BHXH Việt Nam, cụ thể:\n\n_1.3.1. Chi thường xuy__ên_\n\na) Chi tiền lương, tiền công, phụ cấp lương và các khoản đóng góp theo lương bố trí đủ cho các đơn vị theo biên chế kế hoạch được Tổng Giám đốc BHXH Việt Nam giao với mức lương cơ sở là 1,39 triệu đồng, hệ số tiền lương tại thời điểm tháng 12/2018 và tăng lương định kỳ hàng năm.\n\n\\- Bố trí đủ kinh phí thực hiện chế độ phụ cấp thu hút đối với ccvc theo Nghị định số [116/2010/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-116-2010-nd-cp-chinh-sach-can-bo-cong-chuc-vien-chuc-116451.aspx \"Nghị định 116/2010/NĐ-CP\") của Chính phủ về chính sách đối với CBCCVC và người hưởng lương trong lực lượng vũ trang công tác ở vùng có diều kiện kinh tế - xã hội đặc biệt khó khăn. Trường hợp năm 2019 có phát sinh mới, Giám đốc BHXH tính căn cứ vào các quy định hiện hành chịu trách nhiệm phê duyệt danh sách CCVC được hưởng chế độ theo quy định và báo cáo kết quả về BHXH Việt Nam để bổ sung kinh phí.\n\n\\- Bố trí đủ kinh phí thực hiện các chế độ bồi dưỡng theo hướng dẫn của BHXH Việt Nam, gồm: Hỗ trợ đối với CCVC làm việc tại bộ phận một cửa theo Công văn số 4903/BHXH-TCCB ngày 12/12/2014; chế độ bồi dưỡng bằng hiện vật đối với CCVC theo Công văn số [1808/BHXH-TCCB](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-1808-bhxh-tccb-2014-che-do-boi-duong-bang-hien-vat-nganh-bao-hiem-xa-hoi-232827.aspx \"Công văn 1808/BHXH-TCCB\") ngày 28/5/2014 và Công văn số [3935/BHXH-TCCB](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-3935-bhxh-tccb-che-do-boi-duong-bang-hien-vat-2015-293481.aspx \"Công văn 3935/BHXH-TCCB\") ngày 13/10/2015 của BHXH Việt Nam; Hỗ trợ đối với CCVC làm đầu mối kiểm soát thủ tục hành chính theo Công văn số 238/BHXH-TCKT ngày 21/01/2016.\n\n\\- Dự toán giao đầu năm chưa bố trí kinh phí tinh giản biên chế theo Nghị định số [108/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/lao-dong-tien-luong/nghi-dinh-108-2014-nd-cp-chinh-sach-tinh-gian-bien-che-258044.aspx \"Nghị định 108/2014/NĐ-CP\") ngày 20/11/2014 và Nghị định số [113/2018/NĐ-CP](https://thuvienphapluat.vn/van-ban/bo-may-hanh-chinh/nghi-dinh-113-2018-nd-cp-sua-doi-nghi-dinh-108-2014-nd-cp-ve-chinh-sach-tinh-gian-bien-che-393041.aspx \"Nghị định 113/2018/NĐ-CP\") ngày 31/8/2018 của Chính phủ. BHXH Việt Nam sẽ bố trí đủ kinh phí để các đơn vị tổ chức thực hiện khi được phê duyệt danh sách đối tượng tinh giản biên chế theo quy định. Các đơn vị triển khai thực hiện theo hướng dẫn của BHXH Việt Nam tại Công văn số 4511/BHXH-TCCB ngày 31/10/2018 của BHXH Việt Nam về việc tổ chức thực hiện tinh giản biên chế.\n\nb) Chi quản lý hành chính\n\n\\- Chi quản lý hành chính phân bổ cho các đơn vị theo số biên chế được Tổng Giám đốc BHXH Việt Nam giao cho các đơn vị, có tính đến hệ số quy đổi theo tiêu chí định mức và hỗ trợ các tỉnh có địa bàn rộng, khó khăn.\n\n\\- Hỗ trợ cho BHXH các quận, huyện, thị xã, thành phố trực thuộc BHXH tỉnh được trang bị xe ô tô chuyên dùng để chi trả lương hợp đồng lái xe và các chi phí hành chính khác theo quy định.\n\n\\- Bố trí đủ kinh phí chi đoàn ra, đoàn vào, đóng niên liễm cho Văn phòng BHXH Việt Nam.\n\n\\- Kinh phí mua bảo hiểm trụ sở làm việc của toàn Ngành năm 2019 được phân bổ và giao cho Văn phòng BHXH Việt Nam thực hiện. Trong năm, nếu trụ sở làm việc bị ảnh hưởng của thiên tai, bão lụt, các đơn vị chủ động phối hợp với Công ty bảo hiểm trên địa bàn, khu vực để giải quyết theo hướng dẫn của BHXH Việt Nam.\n\n\\- Năm 2019 tiếp tục thực hiện tiết kiệm 10% chi thường xuyên để tạo nguồn thực hiện cải cách tiền lương theo quy định tại Thông tư số [119/2018/TT-BTC](https://thuvienphapluat.vn/van-ban/tai-chinh-nha-nuoc/thong-tu-119-2018-tt-btc-quy-dinh-ve-to-chuc-thuc-hien-du-toan-ngan-sach-nha-nuoc-nam-2019-403369.aspx \"Thông tư 119/2018/TT-BTC\") ngày 05/12/2018 của Bộ Tài chính quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2019. Các đơn vị chủ động tiết kiệm các khoản chi chưa thực sự cần thiết, cấp bách đảm bảo hoàn thành tốt nhiệm vụ được giao, BHXH Việt Nam giữ lại 10% kinh phí tiết kiệm chi thường xuyên và sẽ phân bổ cho các đơn vị khi Nhà nước có hướng dẫn cụ thể về việc xác định nhu cầu, nguồn và phương thức thực hiện điều chỉnh tiền lương.\n\n_1.3.2. Chi thường xuyên đặc thù_\n\nMột số nội dung cần lưu ý:\n\na) Chi hỗ trợ cho UBND xã, phường, thị trấn (UBND xã) để thực hiện lập danh sách tham gia BHYT trên địa bàn:\n\n\\- Mức chi 7.000 đồng/người (chi cho việc lập danh sách của người tăng và người giảm); việc quản lý và sử dụng khoản kinh phí này do Chủ tịch UBND xã quyết định. BHXH tỉnh thực hiện thanh toán cho UBND xã trên cơ sở danh sách người tham gia BHYT theo quy định.\n\n\\- Dự toán năm 2019 giao cho BHXH tỉnh, BHXH Việt Nam giao riêng nội dung chi hỗ trợ cho UBND xã lập danh sách tham gia BHYT trên địa bàn, trường hợp cuối năm dự toán được BHXH Việt Nam giao không sử dụng hết phải chuyển kinh phí sang năm sau tiếp tục sử dụng. Trường hợp dự toán BHXH Việt Nam giao thiếu so với thực tế thực hiện, BHXH tỉnh tổng hợp, thuyết minh, báo cáo BHXH Việt Nam để điều chỉnh bổ sung dự toán đảm bảo đủ kinh phí chi cho UBND xã theo quy định.\n\nb) Chi phí thu BHXH tự nguyện, thu BHYT của người tham gia theo hộ gia đình, của học sinh, sinh viên đang theo học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân:\n\n\\- Đối với nội dung chi thù lao cho Đại lý thu BHXH Việt Nam phân bổ và giao dự toán riêng nội dung chi thù lao cho Đại lý thu trên cơ sở dự toán thu BHXH tự nguyện, thu BHYT của người tham gia theo hộ gia đình, của học sinh, sinh viên đang theo học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân. Căn cứ Quyết định số 236/QĐ-BHXH ngày 19/02/2016 của BHXH Việt Nam ban hành mức chi thù lao cho tổ chức làm đại lý thu BHXH, BHYT, theo đó mức chi cụ thể của từng nhóm đối tượng tham gia BHXH, BHYT theo vùng được quy định tại Biểu tỷ lệ % hỗ trợ cho tổ chức làm Đại lý thu năm 2019 _(phụ lục đính kèm Công văn)._\n\n\\- BHXH tỉnh thực hiện chi thù lao cho Đại lý thu theo đúng quy định của BHXH Việt Nam. Cuối năm căn cứ số thực tế thực hiện và dự toán được giao: Nếu sử dụng không hết phải chuyển kinh phí sang năm sau tiếp tục sử dụng, BHXH Việt Nam sẽ trừ vào dự toán năm sau; nếu dự toán giao thiếu so với thực tế thực hiện, BHXH tỉnh tổng hợp, báo cáo BHXH Việt Nam để điều chỉnh bổ sung dự toán đảm bảo đủ kinh phí chi thù lao cho Đại lý thu theo quy định.\n\n\\- Đối với nội dung chi đào tạo, tập huấn, kiểm tra, giám sát đại lý thu theo quy định tại Thông tư số [20/2016/TT-BTC](https://thuvienphapluat.vn/van-ban/bao-hiem/thong-tu-20-2016-tt-btc-huong-dan-thuc-hien-co-che-quan-ly-tai-chinh-bao-hiem-chi-phi-quan-ly-bao-hiem-299101.aspx \"Thông tư 20/2016/TT-BTC\") , BHXH Việt Nam phân bổ theo tiêu chí định mức ban hành kèm theo Quyết định số 1127/QĐ-BHXH của BHXH Việt Nam và giao chung trong dự toán chi hoạt động BHXH, BHYT, BHTN của đơn vị.\n\n\\- Dự toán giao cho các đơn vị đã bố trí đủ kinh phí cho nội dung chi phối hợp với cơ quan Bưu điện để tổ chức hội nghị tuyên truyền, phát triển đối tượng tham gia BHXH tự nguyện theo Quyết định số 151/QĐ-BHXH ngày 30/01/2019 của BHXH Việt Nam về việc phê duyệt Phương án phối hợp với Bưu điện tổ chức hội nghị tuyên truyền trực tiếp để phát triển người tham gia BHXH tự nguyện và Công văn số 506/BHXH-TCKT ngày 21/02/2019 của BHXH Việt Nam về việc hướng dẫn quản lý, sử dụng kinh phí tổ chức hội nghị tuyên truyền trực tiếp để phát triển người tham gia BHXH tự nguyện. Các đơn vị chủ động điều hành trong phạm vi dự toán được giao đảm bảo nguồn kinh phí tiết kiệm, hiệu quả.\n\nc) Chi phí chi trả lương hưu, trợ cấp BHXH và trợ cấp thất nghiệp\n\nTrên cơ sở dự toán chi BHXH, BHTN được giao đầu năm, BHXH Việt Nam phân bổ và giao đủ kinh phí chi trả lương hưu, trợ cấp BHXH, trợ cấp BHTN trong dự toán chi hoạt động BHXH, BHYT, BHTN ngay từ đầu năm để BHXH tỉnh thực hiện theo quy định, cụ thể:\n\n\\- Đối với chi phí chi trả cho cơ quan Bưu điện: Dự toán giao đầu năm đã tính đủ chi phí theo tỷ lệ quy định tại Công văn 541/BHXH-TCKT ngày 13/02/2018 của BHXH Việt Nam về việc chi phí chi trả lương hưu, trợ cấp BHXH cho cơ quan Bưu điện năm 2018. Các đơn vị thanh toán chi phí chi trả cho cơ quan Bưu điện làm đại lý chi trả đúng mức chi do BHXH Việt Nam quy định.\n\n\\- Đối với các khoản chi phí chi trả do BHXH tỉnh thực hiện theo quy định, BHXH Việt Nam phân bổ cho BHXH tỉnh theo tiêu chí, định mức phân bổ dự toán chi hoạt động BHXH, BHYT, BHTN ban hành kèm theo Quyết định số 1127/QĐ-BHXH của BHXH Việt Nam.\n\n\\- Trường hợp trong năm thực hiện dự toán chi BHXH, BHTN cao hơn hoặc thấp hơn dự toán giao đầu năm, BHXH Việt Nam sẽ điều chỉnh tăng, giảm chi phí chi trả lương hưu, trợ cấp BHXH, trợ cấp thất nghiệp tương ứng và giao trong dự toán điều chỉnh dự toán chi hoạt động BHXH, BHYT, BHTN đảm bảo đủ kinh phí để BHXH tỉnh chi trả cho cơ quan Bưu điện làm đại lý chi trả lương hưu, trợ cấp BHXH, trợ cấp thất nghiệp và các khoản chi phí theo quy định.\n\nd) Chi công tác tuyên truyền, phổ biến chế độ chính sách, pháp luật về BHXH, BHYT, BHTN: Các đơn vị căn cứ vào dự toán kinh phí tuyên truyền được giao năm 2019 và tình hình thực tế tại địa phương để xây dựng Kế hoạch phân bổ kinh phí tuyên truyền theo từng nội dung và gửi về BHXH Việt Nam (Vụ Tài chính - Kế toán, Trung tâm Truyền thông) trước ngày 25/4/2019, lưu ý kế hoạch phân bổ phải chi tiết đến BHXH cấp huyện cả về nội dung tuyên truyền, kinh phí thực hiện và đơn vị thực hiện.\n\nViệc sử dụng kinh phí tuyên truyền đảm bảo nguyên tắc tiết kiệm và hiệu quả theo đúng tiêu chuẩn, định mức quy định tại Công văn số [914/BHXH-TCKT](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-914-bhxh-tckt-huong-dan-quan-ly-su-dung-kinh-phi-tuyen-truyen-2016-307199.aspx \"Công văn 914/BHXH-TCKT\") ngày 18/3/2016 về việc hướng dẫn quản lý, sử dụng kinh phí tuyên truyền.\n\ne) Chi cải cách hành chính: Bố trí đủ kinh phí để các đơn vị thực hiện các nhiệm vụ trọng tâm của Ngành: Rà soát các thủ tục hành chính; chi phí thuê bao đường truyền hàng tháng; giao dịch điện tử; tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục hành chính qua dịch vụ bưu chính công ích; thực hiện hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia [TCVN ISO 9001: 2008](https://thuvienphapluat.vn/TCVN/linh-vuc-khac/tcvn-iso-9001-2008-he-thong-quan-ly-chat-luong-cac-yeu-cau-903942.aspx \"Tiêu chuẩn Việt Nam TCVNISO9001:2008\") tiến tới hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN 9001:2015. Đây là nhiệm vụ thường xuyên hàng năm, BHXH Việt Nam không giao riêng dự toán chi cho nội dung này, Giám đốc BHXH tỉnh chủ động điều hành trong dự toán chi hoạt động BHXH, BHYT, BHTN được giao đầu năm đảm bảo đủ kinh phí để thực hiện nhiệm vụ cải cách hành chính theo chỉ đạo của Ngành, trong đó lưu ý:\n\n\\- Đối với kinh phí thực hiện Hợp đồng số 166/HĐBC/BĐVN-BHXH ngày 20/12/2016 giữa BI IXH Việt Nam và Tổng công ty Bưu điện Việt Nam về việc tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục hành chính qua dịch vụ bưu chính công ích theo hướng dẫn của BHXH Việt Nam tại Công văn số 5207/BHXH-PC ngày 23/12/2016: BHXH Việt Nam phân bổ và giao trong dự toán chi hoạt động BHXH, BHYT, BHTN ngay từ đầu năm để BHXH tỉnh thực hiện, BHXH tỉnh có trách nhiệm tổ chức thực hiện và thanh quyết toán theo quy định.\n\n\\- Việc thanh quyết toán kinh phí thực hiện cải cách thủ tục hành chính thực hiện theo Công văn số [3251/BHXH-TCKT](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-3251-bhxh-tckt-su-dung-thanh-quyet-toan-kinh-phi-thuc-hien-giao-dich-dien-tu-2015-291812.aspx \"Công văn 3251/BHXH-TCKT\") ngày 28/8/2015 của BHXH Việt Nam về việc hướng dẫn sử dụng và thanh quyết toán kinh phí thực hiện giao dịch điện tử.\n\nf) Chi in sổ BHXH, thẻ BHYT, chi phí in, mua biểu mẫu, chứng từ báo cáo dùng cho công tác chuyên môn\n\n\\- Kinh phí in tờ bìa và phôi sổ BHXH, in phôi thẻ BHYT toàn Ngành: Bố trí kinh phí và giao cho Văn phòng BHXH Việt Nam thực hiện. Căn cứ kế hoạch sử dụng phôi sổ BHXH của BHXH tỉnh và dự toán kinh phí được giao, Văn phòng BHXH Việt Nam tổ chức in tờ bìa và phôi sổ BHXH, phôi thẻ BHYT và chuyển cho BHXH tỉnh; BHXH tỉnh quản lý, sử dụng theo đúng quy định.\n\n\\- Đối với kinh phí in các thông tin trên số BHXH, thẻ BHYT, in biểu mẫu chứng từ báo cáo dùng cho công tác chuyên môn; chi in tờ rời sổ BHXH xác nhận thời gian đã đóng BHXH, BHTN năm trước; chi in Thông báo kết quả đóng BHXH, BHYT, BHTN (Mẫu C12-TS, Mẫu C13-TS ban hành kèm theo Quyết định số 595/QĐ-BHXH), bao gồm: Giấy in, mực in, chi phí nhân công, chi phí chuyển phát qua bưu điện đến đơn vị sử dụng lao động và người lao động: BHXH Việt Nam đã bố trí đủ kinh phí trong nội dung chi thường xuyên đặc thù để BHXH tỉnh chủ động thực hiện.\n\n\\- Kinh phí in mẫu Giấy chứng nhận nghỉ việc hưởng chế độ BHXH: Bố trí kinh phí và giao cho Văn phòng BHXH Việt Nam để in phôi tập trung cấp cho BHXH tỉnh theo hướng dẫn tại Công văn số [4666/BHXH-CSXH](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-4666-bhxh-csxh-huong-dan-mau-in-cap-giay-chung-nhan-nghi-viec-huong-bao-hiem-xa-hoi-2016-331926.aspx \"Công văn 4666/BHXH-CSXH\") ngày 21/11/2016 của BHXH Việt Nam về việc hướng dẫn về mẫu, in, cấp và quản lý Giấy chứng nhận nghỉ việc hưởng chế độ BHXH. BHXH tỉnh có trách nhiệm theo dõi, quản lý, thanh quyết toán theo đúng quy định.\n\ng) Kinh phí phục vụ công tác lưu trữ hồ sơ tài liệu; chi lệ phí cấp bản sao giấy tờ; chi trang phục y tế cho giám định viên; chi bồi dưỡng, trang phục thanh tra; đào tạo, tập huấn, bồi dưỡng chuyên môn nghiệp vụ, BHXH Việt Nam đã bố trí đủ kinh phí để các đơn vị thực hiện trong dự toán giao đầu năm. Trong phạm vi dự toán được giao, Giám đốc BHXH tỉnh, Thủ trưởng các đơn vị sự nghiệp trực thuộc chủ động điều hành đảm bảo kinh phí thực hiện nhiệm vụ.\n\nh) Chi xây dựng và ban hành mẫu hồ sơ, quy trình nghiệp vụ về tổ chức thực hiện BHXH, BHYT, BHTN: Giao cho Văn phòng BHXH Việt Nam xây dựng nội dung, mức chi trong quy chế chi tiêu nội bộ theo quy định để tổ chức thực hiện.\n\ni) Chi nhập dữ liệu tăng, giảm người tham gia BHYT: BHXH Việt Nam bố trí đủ kinh phí để BHXH tỉnh triển khai thực hiện. BHXH tỉnh căn cứ theo hướng dẫn của BHXH Việt Nam tại Công văn số [2888/BHXH-BT](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-2888-bhxh-bt-2018-kinh-phi-ho-tro-lap-danh-sach-tham-gia-bao-hiem-y-te-ho-gia-dinh-395686.aspx \"Công văn 2888/BHXH-BT\") ngày 03/8/2018 về việc hướng dẫn việc hoàn thiện dữ liệu thành viên hộ gia đình để tổ chức thực hiện.\n\nk) Đối với kinh phí chi rà soát, bàn giao sổ BHXH cho người lao động và chi hoàn thiện cấp mã số BHXH: BHXH Việt Nam bố trí đủ kinh phí cho BHXH tỉnh để thực hiện rà soát, bàn giao số sổ BHXH và cấp mã số BHXH cho người lao động phát sinh năm 2019, gồm: in ấn danh sách giao nhận sổ BHXH (Mẫu số 01), Báo cáo tình hình giao nhận sổ cho người lao động (Mẫu số 04) theo Công văn số [4027/BHXH-ST](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-4027-bhxh-st-huong-dan-ra-soat-ban-giao-so-bao-hiem-xa-hoi-cho-nguoi-lao-dong-2016-325961.aspx \"Công văn 4027/BHXH-ST\") ngày 14/10/2016 của BHXH Việt Nam; in Tờ khai tham gia BHXH, BHYT (Mẫu TK01-TS ) theo Công văn số [3799/BHXH-BT](https://thuvienphapluat.vn/cong-van/bao-hiem/cong-van-3799-bhxh-bt-2017-cap-ma-so-bao-hiem-xa-hoi-cho-nguoi-tham-gia-bao-hiem-xa-hoi-361350.aspx \"Công văn 3799/BHXH-BT\") ngày 28/8/2017 của BHXH Việt Nam; chi rà soát, chi trả sổ BHXH đến tận tay người lao động...\n\n\\- Đối với BHXH tỉnh năm 2018 còn dư kinh phí chi rà soát, bàn giao sổ BHXH cho người lao động và hoàn thiện, cấp mã số BHXH chuyển sang năm 2019 tiếp tục sử dụng, BHXH Việt Nam chỉ bổ sung phần kinh phí còn thiếu (nếu có).\n\n_1.3.3. Chi không thường xuyên_\n\na) Chi đào tạo, bồi dưỡng CCVC:\n\n\\- Phân bổ và giao kinh phí cho Trường Đào tạo nghiệp vụ BHXH, Văn phòng BHXH Việt Nam thực hiện công tác đào tạo, bồi dưỡng CCVC theo Kế hoạch đào tạo, bồi dưỡng, tập huấn nghiệp vụ năm 2019 các đơn vị trực thuộc BHXH Việt Nam. Trường Đào tạo nghiệp vụ BHXH và Văn phòng BHXH việt Nam chủ động, tổ chức các lớp đào tạo, bồi dưỡng theo đúng quy định trong phạm vi dự toán được giao.\n\n\\- Đối với BHXH tỉnh: BHXH Việt Nam phân bổ và giao trong dự toán đầu năm kinh phí để BHXH tỉnh chi đào tạo, bồi dưỡng CCVC về QLNN chương trình chuyên viên, chuyên viên chính, chuyên viên cao cấp, lý luận chính trị, Giám đốc BHXH tỉnh chủ động điều hành trong phạm vi dự toán được BHXH Việt Nam giao đầu năm.\n\nb) Chi thuê trụ sở làm việc: Phân bổ và giao đủ kinh phí để các đơn vị thuê trụ sở theo phương án đã được Lãnh đạo Ngành phê duyệt theo quy định.\n\n_1.3.4. Chi sửa chữa, mua sắm trang thiết bị:_\n\n\\- Đối với mua sắm toàn Ngành năm 2019: Bố trí đủ kinh phí cho các đơn vị dược giao nhiệm vụ để thực hiện. BHXH Việt Nam sẽ thông báo Danh mục tài sản mua sắm toàn Ngành năm 2019, các đơn vị không được sử dụng nguồn chi quản lý BHXH, BHYT, BHTN để mua sắm các tài sản này.\n\n\\- BHXH Việt Nam phân bổ kinh phí để các đơn vị thực hiện sửa chữa và mua sắm tài sản không thuộc Danh mục tài sản mua sắm toàn Ngành năm 2019. Trường hợp năm 2018 còn dư kinh phí mua sắm đơn vị không có nhu cầu sử dụng, BHXH Việt Nam sẽ giảm trừ vào dự toán năm 2019.\n\n**III. TỔ CHỨC THỰC HIỆN**\n\n1\\. Phân bổ và công khai dự toán\n\n\\- Căn cứ vào hướng dẫn của BHXH Việt Nam và chỉ tiêu dự toán được giao, BHXH tỉnh thực hiện phân bổ dự toán thu, chi năm 2019 cho các đơn vị trực thuộc.\n\n\\- Thực hiện công khai và báo cáo kết quả công khai số liệu phân bổ dự toán theo quy định tại Quyết định số 2949/QĐ-BHXH ngày 04/12/2017 của BHXH Việt Nam và Quyết định số 1586/QĐ-BHXH ngày 12/11/2018 về việc sửa đổi, bổ sung một số điều của của Quyết định số 2949/QĐ-BHXH về BHXH Việt Nam (Vụ Kế hoạch và Đầu tư).\n\n2\\. Về dự toán thu BHXH, BHYT, BHTN\n\nBHXH tỉnh căn cứ dự toán thu BHXH, BHYT, BHTN được giao, tổ chức thực hiện phân bổ dự toán thu BHXH, BHYT, BHTN cho các đơn vị trực thuộc phải đảm bảo việc thực hiện hoàn thành vượt kế hoạch thu do BHXH Việt Nam giao, đồng thời triển khai thực hiện tốt một số nội dung sau:\n\n\\- Thường xuyên báo cáo, tham mưu đề xuất với cấp ủy, chính quyền địa phương tổ chức thanh tra, kiểm tra liên ngành và kiên quyết xử phạt, truy thu những đơn vị chậm đóng, đóng thiếu và trốn đóng BHXH, BHYT.\n\n\\- Tập trung mọi biện pháp phát triển đối tượng tham gia BHXH, BHYT; chủ động phối hợp với các cơ quan: Lao động - Thương binh và Xã hội, Kế hoạch và Đầu tư, Thuế để kiểm tra, rà soát số doanh nghiệp, số lao động, tiền lương, tiền công người lao động thuộc diện tham gia BHXH, BHYT theo luật định. Kiên quyết khởi kiện các đơn vị nợ BHXH, BHYT kéo dài.\n\n\\- Chủ động và tăng cường công tác kiểm tra, đối chiếu; tiếp cận kịp thời những đơn vị có khó khăn trong việc đóng BHXH, BHYT cho người lao động và những đơn vị nợ đọng để nắm rõ tình hình và có biện pháp nhằm thu đúng, thu đủ, thu kịp thời và giải quyết các vấn đề phát sinh theo đúng quy định.\n\n3\\. Về dự toán chi BHXH, BHTN; Chi quản lý BHXH, BHYT, BHTN\n\n\\- BHXH tỉnh phân bổ và giao dự toán chi BHXH, BHTN, dự toán chi quản lý BHXH, BHYT, BHTN cho các đơn vị trực thuộc đảm bảo khớp đúng với tổng mức dự toán được BHXH Việt Nam giao.\n\n\\- Các đơn vị thực hiện chi tiêu đảm bảo nguyên tắc triệt để tiết kiệm có hiệu quả các khoản chi thường xuyên; giảm tối đa kinh phí tổ chức hội nghị, hội thảo, khánh tiết; chủ động sắp xếp chi thường xuyên, ưu tiên các nhiệm vụ quan trọng, các khoản chi cho con người; chi tiêu đúng tiêu chuẩn, định mức chế độ Nhà nước quy định và Quy chế chi tiêu nội bộ của Ngành, trong phạm vi dự toán được BHXH Việt Nam giao.\n\n\\- Các đơn vị tổ chức thực hiện đầy đủ, nghiêm túc chương trình hành động của Ngành về thực hành tiết kiệm chống lãng phí và phòng, chống tham nhũng; tăng cường công tác kiểm tra tài chính, xử lý kịp thời, đầy đủ những sai phạm được phát hiện qua công tác kiểm tra, thanh tra, kiểm toán.\n\n4\\. Về dự toán chi KCB BHYT\n\nBHXH tỉnh chủ trì, phối hợp với Sở Y tế, Sở Tài chính và cơ quan có liên quan thực hiện:\n\n\\- Đánh giá tình hình sử dụng kinh phí KCB năm 2018; phân tích các yếu tố tăng, giảm, các vấn đề cần kiểm soát của từng cơ sở KCB để tham mưu cho UBND tỉnh phê duyệt tổng mức thanh toán chi tiết của từng cơ sở KCB BHYT, làm căn cứ để BHXH tỉnh thông báo và tổ chức thực hiện hợp đồng KCB BHYT với cơ sở y tế.\n\n\\- Tổ chức công khai nguồn kinh phí được sử dụng năm 2019 cho các cơ sở KCB.\n\n\\- Xây dựng và triển khai kế hoạch và giải pháp thực hiện quản lý và sử dụng có hiệu quả chi KCB BHYT đảm bảo trong phạm vi dự toán giao của địa phương; đối với các cơ sở KCB thực hiện trong phạm vi nguồn kinh phí, không vượt quá tổng mức thanh toán chi phí KCB BHYT của từng cơ sở y tế; thực hiện đúng quy định về tạm ứng kinh phí KCB.\n\n\\- Tăng cường công tác truyền thông; về BHYT, vận động người dân tham gia BHYT phù hợp từng nhóm đối tượng để đạt chỉ tiêu phát triển BHYT của địa phương được giao.\n\n\\- Thực hiện nghiêm túc chế độ thông tin, báo cáo Bộ Y tế, UBND tỉnh và BHXH Việt Nam về tình hình thực hiện công tác KCB và những khó khăn, vướng mắc, đồng thời đề xuất giải pháp tháo gỡ xin ý kiến chỉ đạo, giải quyết.\n\n\\- Phối hợp với Sở Y tế hướng dẫn các cơ sở KCB thực hiện nghiêm túc quy chế chuyên môn, quy trình kỹ thuật bệnh viện, hướng dẫn chẩn đoán và điều trị do Bộ Y tế ban hành; thực hiện việc chuyển dữ liệu chi phí KCB theo quy định lên cổng thông tin giám định BHYT.\n\n\\- Tăng cường công tác thanh tra, kiểm tra, xử lý vi phạm theo chức năng, nhiệm vụ để ngăn chặn tình trạng lạm dụng, trục lợi quỹ BHYT, báo cáo kịp thời với cấp trên.\n\n\\- Kịp thời giải quyết khó khăn, vướng mắc trong quá trình thực hiện, triển khai dự toán.\n\n\\- Chỉ đạo Giám đốc các cơ sở KCB chịu trách nhiệm quản lý, sử dụng kinh phí KCB được phân bổ đúng quy định, hiệu quả, đảm bảo quyền lợi của người bệnh; nâng cao tinh thần thực hành tiết kiệm trong chỉ định xét nghiệm, điều trị nội trú và sử dụng dịch vụ, nhất là các dịch vụ kỹ thuật và thuốc đắt tiền, thực hiện kịp thời theo quy định về chuyển dữ liệu cho BHXH phục vụ công tác giám định, thanh toán.\n\n5\\. BHXH tỉnh, Văn phòng và các đơn vị trực thuộc BHXH Việt Nam căn cứ dự toán được giao và nội dung hướng dẫn của Công văn này tổ chức thực hiện dự toán theo đúng quy định.\n\nTrong quá trình thực hiện có vướng mắc, báo cáo về BHXH Việt Nam theo từng lĩnh vực quản lý (Vụ Kế hoạch và Đầu tư, Vụ Tài chính - Kế toán, Ban Thu, Ban Thực hiện chính sách BHYT) để kịp thời tháo gỡ, giải quyết./.\n\n**_  \nNơi nhận:  \n_**\\- Như trên:  \n\\- Tổng Giám đốc (để b/c);  \n\\- Các Phó TGĐ;  \n\\- Lưu: VT, KHĐT (05b).\n\n**KT. TỔNG GIÁM ĐỐC  \nPHÓ TỔNG GIÁM ĐỐC  \n  \n  \n  \n  \nĐào Việt Ánh**",
+  "htmlContentEn": "",
+  "mdContentEn": ""
+}
