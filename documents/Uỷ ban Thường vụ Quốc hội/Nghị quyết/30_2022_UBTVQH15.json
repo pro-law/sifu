@@ -122,11 +122,10 @@
   "consolidatedDocuments": [],
   "amendingDocuments": [],
   "rectifyingDocuments": [],
-  "supersedingDocuments": [],
-  "relevantDocuments": [
+  "supersedingDocuments": [
     {
-      "title": "Dự thảo Nghị quyết về mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn do Ủy ban Thường vụ Quốc hội ban hành",
-      "id": "Khongso",
+      "title": "Nghị quyết 42/2023/UBTVQH15 về mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn do Ủy ban Thường vụ Quốc hội ban hành",
+      "id": "42/2023/UBTVQH15",
       "legislationType": "Nghị quyết",
       "categories": [
         "Thuế - Phí - Lệ Phí",
@@ -136,12 +135,14 @@
       "signers": [
         "Vương Đình Huệ"
       ],
-      "issuedDate": "2023-10-13",
-      "effectiveDate": "Dữ liệu đang cập nhật",
+      "issuedDate": "2023-12-18",
+      "effectiveDate": "2024-01-01",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
-      "status": "Chưa xác định"
-    },
+      "status": "Chưa có hiệu lực"
+    }
+  ],
+  "relevantDocuments": [
     {
       "title": "Công điện 12/CĐ-TCT năm 2022 thực hiện áp dụng mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn theo quy định tại Nghị quyết 20/2022/UBTVQH15 do Tổng cục Thuế điện",
       "id": "12/CĐ-TCT",

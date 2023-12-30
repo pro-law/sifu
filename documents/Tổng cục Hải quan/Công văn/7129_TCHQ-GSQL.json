@@ -1,5 +1,5 @@
 {
-  "title": "Công văn 7129/TCHQ-GSQL năm 2019 về tăng cường kiểm tra các lô hàng nhập khẩu có hình ảnh vi phạm chủ quyền lãnh thổ, quốc gia do Tổng cục Hải quan ban hành",
+  "title": "Công văn 7129/TCHQ-GSQL triển khai lực lượng giám sát hàng hóa xuất nhập khẩu, phương tiện vận tải hàng hóa tại lối mở thuộc Khu kinh tế cửa khẩu tỉnh Cao Bằng do Tổng cục Hải quan ban hành",
   "notes": "",
   "guidedDocuments": [],
   "consolidatingDocuments": [],
@@ -15,74 +15,180 @@
   "supersedingDocuments": [],
   "relevantDocuments": [
     {
-      "title": "Công văn 170/TCHQ-PC năm 2021 vướng mắc xử lý vi phạm ô tô nhập khẩu có hình ảnh, nội dung vi phạm chủ quyền quốc gia do Tổng cục Hải quan ban hành",
-      "id": "170/TCHQ-PC",
+      "title": "Công văn 14574/BTC-TCHQ năm 2021 về tình hình xuất nhập khẩu hàng hóa tại cửa khẩu giáp phía Trung Quốc do Bộ Tài chính ban hành",
+      "id": "14574/BTC-TCHQ",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Bộ Tài chính",
+      "signers": [
+        "Hồ Đức Phớc"
+      ],
+      "issuedDate": "2021-12-22",
+      "effectiveDate": "2021-12-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1924/TCHQ-GSQL năm 2015 bố trí lực lượng để giám sát thông quan hàng hóa tại lối mở chưa được công bố, thành lập do Tổng cục Hải quan ban hành",
+      "id": "1924/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Hoàng Việt Cường"
+      ],
+      "issuedDate": "2015-03-10",
+      "effectiveDate": "2015-03-10",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 7447/TCHQ-GSQL năm 2013 phối hợp giám sát hàng hóa đưa về bảo quản do Tổng cục Hải quan ban hành",
+      "id": "7447/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Vũ Ngọc Anh"
+      ],
+      "issuedDate": "2013-12-05",
+      "effectiveDate": "2013-12-05",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 1169/GSQL-GQ3 năm 2013 giám sát hàng hóa xuất nhập khẩu và đưa vào đưa ra khu vực cảng biển do Cục Giám sát quản lý về hải quan ban hành",
+      "id": "1169/GSQL-GQ3",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Cục Giám sát quản lý về hải quan",
+      "signers": [
+        "Nguyễn Nhất Kha"
+      ],
+      "issuedDate": "2013-11-22",
+      "effectiveDate": "2013-11-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Công văn 4915/TCHQ-GSQL năm 2013 tăng cường kiểm tra, giám sát xuất nhập khẩu mặt hàng sữa do Tổng cục Hải quan ban hành",
+      "id": "4915/TCHQ-GSQL",
+      "legislationType": "Công văn",
+      "categories": [
+        "Thương mại",
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Vũ Ngọc Anh"
+      ],
+      "issuedDate": "2013-08-22",
+      "effectiveDate": "2013-08-22",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 12/09/2013"
+    },
+    {
+      "title": "Công văn 2894/TCHQ-GSQL về quản lý phương tiện đường thủy tại cửa khẩu phụ Bản Vược và làm ngoài giờ hành chính tại cửa khẩu Mường Khương, cửa khẩu phụ Bản Vược do Tổng cục Hải quan ban hành",
+      "id": "2894/TCHQ-GSQL",
       "legislationType": "Công văn",
       "categories": [
         "Xuất nhập khẩu",
-        "Vi phạm hành chính"
+        "Giao thông - Vận tải"
       ],
       "organization": "Tổng cục Hải quan",
       "signers": [
-        "Lưu Mạnh Tưởng"
+        "Vũ Ngọc Anh"
       ],
-      "issuedDate": "2021-01-13",
-      "effectiveDate": "2021-01-13",
+      "issuedDate": "2013-05-28",
+      "effectiveDate": "2013-05-28",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Công văn 1281/TCHQ-ĐTCBL năm 2015 về tham gia bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia do Tổng cục Hải quan ban hành",
-      "id": "1281/TCHQ-ĐTCBL",
+      "title": "Công văn 572/TCHQ-GSQL giám sát hàng hóa xuất khẩu do Tổng cục Hải quan ban hành",
+      "id": "572/TCHQ-GSQL",
       "legislationType": "Công văn",
       "categories": [
-        "Bộ máy hành chính"
+        "Xuất nhập khẩu"
       ],
       "organization": "Tổng cục Hải quan",
       "signers": [
-        "Nguyễn Văn Cẩn"
+        "Vũ Ngọc Anh"
       ],
-      "issuedDate": "2015-02-10",
-      "effectiveDate": "2015-02-10",
+      "issuedDate": "2013-01-24",
+      "effectiveDate": "2013-01-24",
       "gazetteDate": "Dữ liệu đang cập nhật",
       "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
     },
     {
-      "title": "Chỉ thị 01/CT-TTg năm 2015 tổ chức phong trào toàn dân tham gia bảo vệ chủ quyền lãnh thổ, an ninh biên giới quốc gia trong tình hình mới do Thủ tướng Chính phủ ban hành",
-      "id": "01/CT-TTg",
-      "legislationType": "Chỉ thị",
+      "title": "Công văn 15645/BTC-TCHQ triển khai lực lượng Hải quan thực hiện giám sát phương tiện vận chuyển hàng hóa xuất nhập khẩu và hàng hóa xuất nhập khẩu qua lối mở thuộc Khu kinh tế cửa khẩu tỉnh Cao Bằng do Bộ Tài chính ban hành",
+      "id": "15645/BTC-TCHQ",
+      "legislationType": "Công văn",
       "categories": [
-        "Văn hóa - Xã hội"
+        "Xuất nhập khẩu"
       ],
-      "organization": "Thủ tướng Chính phủ",
+      "organization": "Bộ Tài chính",
       "signers": [
-        "Nguyễn Tấn Dũng"
+        "Đỗ Hoàng Anh Tuấn"
       ],
-      "issuedDate": "2015-01-09",
-      "effectiveDate": "2015-01-09",
-      "gazetteDate": "2015-01-24",
-      "gazetteNumber": "Từ số 151 đến số 152",
+      "issuedDate": "2012-11-09",
+      "effectiveDate": "2012-11-09",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
       "status": "Còn hiệu lực"
+    },
+    {
+      "title": "Quyết định 2406/QĐ-TCHQ năm 2011 về Quy trình nghiệp vụ quản lý, giám sát hải quan đối với hàng hóa xuất, nhập  khẩu chuyển cảng; hàng hóa quá cảnh; đưa vào, ra cảng trung chuyển do Tổng cục trưởng Tổng cục Hải quan ban hành",
+      "id": "2406/QĐ-TCHQ",
+      "legislationType": "Quyết định",
+      "categories": [
+        "Xuất nhập khẩu"
+      ],
+      "organization": "Tổng cục Hải quan",
+      "signers": [
+        "Vũ Ngọc Anh"
+      ],
+      "issuedDate": "2011-11-04",
+      "effectiveDate": "2011-12-01",
+      "gazetteDate": "Dữ liệu đang cập nhật",
+      "gazetteNumber": "Dữ liệu đang cập nhật",
+      "status": "Hết hiệu lực: 03/01/2017"
     }
   ],
   "id": "7129/TCHQ-GSQL",
   "legislationType": "Công văn",
   "categories": [
+    "Thương mại",
     "Xuất nhập khẩu"
   ],
   "organization": "Tổng cục Hải quan",
   "signers": [
-    "Mai Xuân Thành"
+    "Nguyễn Văn Cẩn"
   ],
-  "issuedDate": "2019-11-15",
-  "effectiveDate": "2019-11-15",
+  "issuedDate": "2012-12-19",
+  "effectiveDate": "2012-12-19",
   "gazetteDate": "Dữ liệu đang cập nhật",
   "gazetteNumber": "Dữ liệu đang cập nhật",
   "status": "Còn hiệu lực",
-  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA2ADAAOQA=-->\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span lang=\"VI\" style=\"font-size:10.0pt;\">BỘ TÀI CHÍNH<br>\n  <b>TỔNG CỤC HẢI QUAN</b></span><b><span lang=\"VI\" style=\"font-size:10.0pt;\n \"><br>\n  -------</span></b></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:10.0pt;\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA\n  VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc <br>\n  ---------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n  10.0pt;\">Số: </span><span style=\"font-size:10.0pt;\n \">7129</span><span lang=\"VI\" style=\"font-size:10.0pt;\n \">/TCHQ-GSQL</span><span style=\"font-size:10.0pt;\"><br>\n  </span><i><span lang=\"VI\" style=\"font-size:8.0pt;\">V/v tăng\n  cường kiểm tra các lô hàng nh</span></i><i><span style=\"font-size:8.0pt;\n \">ậ</span></i><i><span lang=\"VI\" style=\"font-size:8.0pt;\n \">p kh</span></i><i><span style=\"font-size:8.0pt;\">ẩ</span></i><i><span lang=\"VI\" style=\"font-size:8.0pt;\">u\n  c</span></i><i><span style=\"font-size:8.0pt;\">ó</span></i><i><span lang=\"VI\" style=\"font-size:8.0pt;\"> hình ảnh vi phạm chủ quyền\n  l</span></i><i><span style=\"font-size:8.0pt;\">ã</span></i><i><span lang=\"VI\" style=\"font-size:8.0pt;\">nh thổ, quốc gia</span></i></p>\n  </td>\n  <td width=\"367\" valign=\"top\" style=\"width:275.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span lang=\"VI\" style=\"font-size:10.0pt;\">Hà Nội</span></i><i><span style=\"font-size:10.0pt;\">,</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\"> ngày 15 tháng </span></i><i><span style=\"font-size:10.0pt;\">11</span></i><i><span lang=\"VI\" style=\"font-size:10.0pt;\"> năm 2019</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:10.0pt;\">Kính gửi:</span></b><span lang=\"VI\" style=\"font-size:10.0pt;\"> Cục Hải quan các tỉnh, thành\nphố.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;\">Thời gian qua, theo phản ánh tr</span><span style=\"font-size:10.0pt;\">ê</span><span lang=\"VI\" style=\"font-size:10.0pt;\">n các phương tiện thông tin </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">ại chúng, trên thị trường Việt Nam\ncó xuất hiện một số chủng loại xe ô tô nhập kh</span><span style=\"font-size:\n10.0pt;\">ẩ</span><span lang=\"VI\" style=\"font-size:10.0pt;\n\">u có g</span><span style=\"font-size:10.0pt;\">ắ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">n thi</span><span style=\"font-size:10.0pt;\">ế</span><span lang=\"VI\" style=\"font-size:10.0pt;\">t bị định vị vệ tinh (GPS) có cài </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">ặt phần mềm ứng dụng dẫn </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">ường (Navigator) sử dụng các hình ảnh\nkhông </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">úng về chủ quyền bi</span><span style=\"font-size:10.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:10.0pt;\">n đảo của Việt Nam; Đ</span><span style=\"font-size:10.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:10.0pt;\"> kịp thời ngăn chặn, xử lý các hành\nvi nhập kh</span><span style=\"font-size:10.0pt;\">ẩ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">u thiết bị c</span><span style=\"font-size:10.0pt;\">ó</span><span lang=\"VI\" style=\"font-size:10.0pt;\"> chứa nội dung, hình ảnh vi phạm chủ\nquyền lãnh thổ quốc gia, xuyên tạc lịch sử, Tổng cục Hải quan yêu cầu:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;\">Cục Hải quan các tỉnh, thành phố chỉ đạo Chi cục Hải\nquan trực thuộc trong quá trình kiểm tra thực tế hàng hóa phải đặc biệt lưu ý tới\ncác vi phạm nêu trên; trường hợp có thông tin hoặc qua kiểm tra hồ sơ hải quan\nnghi ngờ lô hàng nhập kh</span><span style=\"font-size:10.0pt;\">ẩ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">u có sử dụng hình ảnh hoặc g</span><span style=\"font-size:10.0pt;\">ắ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">n t</span><span style=\"font-size:\n10.0pt;\">e</span><span lang=\"VI\" style=\"font-size:10.0pt;\n\">m nhãn có nội dung liên quan thì chuy</span><span style=\"font-size:10.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:10.0pt;\">n luồng </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">ể ki</span><span style=\"font-size:\n10.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:10.0pt;\n\">m tra thực tế hàng hóa. Khi kiểm tra, nếu phát hiện hàng hóa\nnhập khẩu c</span><span style=\"font-size:10.0pt;\">ó</span><span lang=\"VI\" style=\"font-size:10.0pt;\"> nội dung, hình ảnh vi phạm\nchủ quyền lãnh thổ quốc gia, xuyên tạc lịch sử thì tạm dừng thông quan, ni</span><span style=\"font-size:10.0pt;\">ê</span><span lang=\"VI\" style=\"font-size:10.0pt;\">m phong hải quan, lập biên bản chứng\nnhận và báo cáo </span><span style=\"font-size:10.0pt;\">Tổ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">ng cục Hải quan để xem xét xử\nlý theo </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">úng quy định của pháp luật.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;\">Đối với mặt hàng ô tô, điện thoại di động nhập khẩu từ\nTrung Quốc, công chức ki</span><span style=\"font-size:10.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:10.0pt;\">m h</span><span style=\"font-size:10.0pt;\">ó</span><span lang=\"VI\" style=\"font-size:10.0pt;\">a phải lựa chọn xác suất </span><span style=\"font-size:10.0pt;\">để</span><span style=\"font-size:\n10.0pt;\"> <span lang=\"VI\">kiểm tra nội dun</span></span><span style=\"font-size:10.0pt;\">g</span><span lang=\"VI\" style=\"font-size:10.0pt;\"> hi</span><span style=\"font-size:\n10.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:10.0pt;\n\">n thị trên các màn hình.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span lang=\"VI\" style=\"font-size:\n10.0pt;\">Tổng cục Hải quan thông báo </span><span style=\"font-size:10.0pt;\">đ</span><span lang=\"VI\" style=\"font-size:10.0pt;\">ể các đơn vị biết, thực hiện.</span><span style=\"font-size:10.0pt;\">/.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><!--VABWAFAATABfADIAMAAyADIAMAA2ADAAOQA=-->\n <tbody><tr>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span lang=\"VI\" style=\"font-size:10.0pt;\"><br>\n  Nơi nhận:<br>\n  </span></i></b><span lang=\"VI\" style=\"font-size:8.0pt;\">- </span><span style=\"font-size:8.0pt;\">Như trên;<br>\n  </span><span lang=\"VI\" style=\"font-size:8.0pt;\">- TT V</span><span style=\"font-size:8.0pt;\">ũ</span><span lang=\"VI\" style=\"font-size:8.0pt;\"> Th</span><span style=\"font-size:\n  8.0pt;\">ị</span><span lang=\"VI\" style=\"font-size:8.0pt;\n \"> Mai (đ</span><span style=\"font-size:8.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:8.0pt;\"> b/c);<br>\n  - TCT Nguy</span><span style=\"font-size:8.0pt;\">ễ</span><span lang=\"VI\" style=\"font-size:8.0pt;\">n V</span><span style=\"font-size:8.0pt;\">ă</span><span lang=\"VI\" style=\"font-size:8.0pt;\">n Cẩn (để b/c);<br>\n  - Cục </span><span style=\"font-size:8.0pt;\">Đ</span><span lang=\"VI\" style=\"font-size:8.0pt;\">TCBL, C</span><span style=\"font-size:8.0pt;\">ụ</span><span lang=\"VI\" style=\"font-size:8.0pt;\">c QLR</span><span style=\"font-size:\n  8.0pt;\">R</span><span lang=\"VI\" style=\"font-size:8.0pt;\n \"> (đ</span><span style=\"font-size:8.0pt;\">ể</span><span lang=\"VI\" style=\"font-size:8.0pt;\"> thực hi</span><span style=\"font-size:8.0pt;\">ệ</span><span lang=\"VI\" style=\"font-size:8.0pt;\">n);<br>\n  - Lưu: VT, GSQL (3b).</span></p>\n  </td>\n  <td width=\"295\" valign=\"top\" style=\"width:221.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span lang=\"VI\" style=\"font-size:10.0pt;\">KT. TỔNG CỤC TRƯỞNG</span></b><b><span style=\"font-size:10.0pt;\"><br>\n  PHÓ TỔNG CỤC TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Mai Xuân Thành</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt;\n\">&nbsp;</span></p>\n\n",
-  "mdContent": "BỘ TÀI CHÍNH  \n**TỔNG CỤC HẢI QUAN****  \n\\-------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\---------------**\n\nSố: 7129/TCHQ-GSQL  \n_V/v tăng cường kiểm tra các lô hàng nh__ậ__p kh__ẩ__u c__ó_ _hình ảnh vi phạm chủ quyền l__ã__nh thổ, quốc gia_\n\n_Hà Nội__,_ _ngày 15 tháng_ _11_ _năm 2019_\n\n**Kính gửi:** Cục Hải quan các tỉnh, thành phố.\n\nThời gian qua, theo phản ánh trên các phương tiện thông tin đại chúng, trên thị trường Việt Nam có xuất hiện một số chủng loại xe ô tô nhập khẩu có gắn thiết bị định vị vệ tinh (GPS) có cài đặt phần mềm ứng dụng dẫn đường (Navigator) sử dụng các hình ảnh không đúng về chủ quyền biển đảo của Việt Nam; Để kịp thời ngăn chặn, xử lý các hành vi nhập khẩu thiết bị có chứa nội dung, hình ảnh vi phạm chủ quyền lãnh thổ quốc gia, xuyên tạc lịch sử, Tổng cục Hải quan yêu cầu:\n\nCục Hải quan các tỉnh, thành phố chỉ đạo Chi cục Hải quan trực thuộc trong quá trình kiểm tra thực tế hàng hóa phải đặc biệt lưu ý tới các vi phạm nêu trên; trường hợp có thông tin hoặc qua kiểm tra hồ sơ hải quan nghi ngờ lô hàng nhập khẩu có sử dụng hình ảnh hoặc gắn tem nhãn có nội dung liên quan thì chuyển luồng để kiểm tra thực tế hàng hóa. Khi kiểm tra, nếu phát hiện hàng hóa nhập khẩu có nội dung, hình ảnh vi phạm chủ quyền lãnh thổ quốc gia, xuyên tạc lịch sử thì tạm dừng thông quan, niêm phong hải quan, lập biên bản chứng nhận và báo cáo Tổng cục Hải quan để xem xét xử lý theo đúng quy định của pháp luật.\n\nĐối với mặt hàng ô tô, điện thoại di động nhập khẩu từ Trung Quốc, công chức kiểm hóa phải lựa chọn xác suất để kiểm tra nội dung hiển thị trên các màn hình.\n\nTổng cục Hải quan thông báo để các đơn vị biết, thực hiện./.\n\n**_  \nNơi nhận:  \n_**\\- Như trên;  \n\\- TT Vũ Thị Mai (để b/c);  \n\\- TCT Nguyễn Văn Cẩn (để b/c);  \n\\- Cục ĐTCBL, Cục QLRR (để thực hiện);  \n\\- Lưu: VT, GSQL (3b).\n\n**KT. TỔNG CỤC TRƯỞNG****  \nPHÓ TỔNG CỤC TRƯỞNG  \n  \n  \n  \n  \nMai Xuân Thành**",
+  "htmlContent": "\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody><tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><span style=\"font-size:10.0pt\">BỘ TÀI CHÍNH<b><br>\n  TỔNG CỤC HẢI QUAN<br>\n  --------</b></span></p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt\">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>\n  Độc lập - Tự do - Hạnh phúc<br>\n  ----------------</span></b></p>\n  </td>\n </tr>\n <tr>\n  <td width=\"223\" valign=\"top\" style=\"width:167.4pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">Số:\n  7129/TCHQ-GSQL<br>\n  </span><i><span style=\"font-size:8.0pt\">V/v triển khai lực lượng giám sát\n  hàng hóa XNK, phương tiện vận tải hàng hóa tại các lối mở thuộc Khu KTCK tỉnh\n  Cao Bằng</span></i></p>\n  </td>\n  <td width=\"375\" valign=\"top\" style=\"width:281.55pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"right\" style=\"margin-top:6.0pt;text-align:right\"><i><span style=\"font-size:10.0pt\">Hà Nội, ngày 19 tháng 12 năm 2012</span></i></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">&nbsp;</span></p>\n\n<p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt\">Kính gửi: </span></b><span style=\"font-size:10.0pt\">Ủy\nban nhân dân tỉnh Cao Bằng</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">Phúc\nđáp công văn số 3212/UBND-TH ngày 22/11/2012 của UBND tỉnh Cao Bằng về việc ghi\ntại trích yếu, Tổng cục Hải quan có ý kiến như sau:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">1.\nCăn cứ ý kiến của các Bộ Công Thương <i>(công văn số 11476/BCT-TMMN ngày\n27/11/2012)</i>, Bộ Nông nghiệp và Phát triển nông thôn <i>(Cục Chế biến,\nThương mại Nông Lâm Thủy sản và nghề muối có công văn số 1491/CB-TM ngày 02/11/2012),\n</i>Bộ Tư lệnh Bộ đội Biên phòng <i>(Công văn số 2891/BTLBP-CCK ngày 21/11/2012)</i>\nvà ý kiến của Bộ Tài chính tại công văn số 15645/BTC-TCHQ ngày 09/11/2012 đề\nnghị Cục Hải quan tỉnh Cao Bằng triển khai lực lượng giám sát phương tiện vận\nchuyển hàng hóa xuất nhập khẩu và hàng hóa xuất nhập khẩu qua các lối mở thuộc\nKhu kinh tế cửa khẩu của tỉnh Cao Bằng, gồm các lối mở được UBND tỉnh Cao Bằng\nban hành theo các Quyết định sau đây:</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">(1)\nLối mở Pò Tập: Quyết định mở số 1564/QĐ-UBND ngày 24/10/2012.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">(2)\nLối mở Cốc Sâu: Quyết định mở số 1565/QĐ-UBND ngày 24/10/2012.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">(3)\nLối mở Nà Đoỏng: Quyết định mở số 1566/QĐ-UBND ngày 24/10/2012.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">(4)\nLối mở Trúc Long: Quyết định mở số 1567/QĐ-UBND ngày 24/10/2012.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">Trên\ncơ sở số lượng biên chế hiện có, giao Cục Hải quan tỉnh Cao Bằng triển khai lực\nlượng phù hợp với đặc điểm tình hình hoạt động tại từng lối mở nêu trên và chủ\nđộng phối hợp với các lực lượng Biên phòng, Kiểm dịch tỉnh Cao Bằng triển khai\nlực lượng để đảm bảo quản lý Nhà nước về Hải quan đối với hàng hóa xuất nhập\nkhẩu, phương tiện vận tải chuyên chở hàng hóa qua các lối mở nêu trên theo đúng\nquy định pháp luật về thủ tục hải quan và quản lý thương mại biên giới hiện\nhành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">2.\nỦy ban nhân dân tỉnh Cao Bằng thực hiện việc quy hoạch và đầu tư xây dựng cơ sở\nhạ tầng của các lối mở đảm bảo thuận lợi cho hoạt động quản lý Nhà nước của lực\nlượng Hải quan và các lực lượng liên quan <i>(Biên phòng, Kiểm dịch)</i> tại\nkhu vực các lối mở này; chỉ đạo các lực lượng chức năng liên quan <i>(Biên\nphòng, Kiểm dịch</i>) thuộc tỉnh Cao Bằng phối hợp với Cục Hải quan tỉnh Cao\nBằng quản lý hoạt động tại các lối mở đảm bảo quản lý Nhà nước theo quy định\npháp luật hiện hành.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">Tổng\ncục Hải quan trân trọng cảm ơn sự phối hợp của Quý Ủy Ban./.</span></p>\n\n<p style=\"margin-top:6.0pt\"><span style=\"font-size:10.0pt\">&nbsp;</span></p>\n\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n <tbody><tr>\n  <td width=\"296\" valign=\"top\" style=\"width:222.25pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:\n  8.0pt\">&nbsp;</span></i></b></p>\n  <p style=\"margin-top:6.0pt\"><b><i><span style=\"font-size:\n  10.0pt\">Nơi nhận:<br>\n  </span></i></b><span style=\"font-size:8.0pt\">- Như trên;<br>\n  - Đ/c. TT-Đỗ Hoàng Anh Tuấn (để b/c);<br>\n  - Các Bộ: Công Thương; Nông nghiệp và Phát triển Nông thôn, Tư lệnh Bộ đội\n  Biên phòng (để phối hợp);<br>\n  - Cục HQ tỉnh Cao Bằng (để thực hiện); <br>\n  </span><span style=\"font-size:8.0pt\">- Lưu: VT, GSQL (3b).</span></p>\n  </td>\n  <td width=\"296\" valign=\"top\" style=\"width:222.3pt;padding:0in 5.4pt 0in 5.4pt\">\n  <p align=\"center\" style=\"margin-top:6.0pt;text-align:center\"><b><span style=\"font-size:10.0pt\">KT. TỔNG CỤC TRƯỞNG<br>\n  PHÓ TỔNG CỤC TRƯỞNG<br>\n  <br>\n  <br>\n  <br>\n  <br>\n  Nguyễn Văn Cẩn</span></b></p>\n  </td>\n </tr>\n</tbody></table>\n\n<p style=\"margin-top:6.0pt\"><b><span style=\"font-size:10.0pt\">&nbsp;</span></b></p>\n\n",
+  "mdContent": "BỘ TÀI CHÍNH**  \nTỔNG CỤC HẢI QUAN  \n\\--------**\n\n**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  \nĐộc lập - Tự do - Hạnh phúc  \n\\----------------**\n\nSố: 7129/TCHQ-GSQL  \n_V/v triển khai lực lượng giám sát hàng hóa XNK, phương tiện vận tải hàng hóa tại các lối mở thuộc Khu KTCK tỉnh Cao Bằng_\n\n_Hà Nội, ngày 19 tháng 12 năm 2012_\n\n**Kính gửi:** Ủy ban nhân dân tỉnh Cao Bằng\n\nPhúc đáp công văn số 3212/UBND-TH ngày 22/11/2012 của UBND tỉnh Cao Bằng về việc ghi tại trích yếu, Tổng cục Hải quan có ý kiến như sau:\n\n1\\. Căn cứ ý kiến của các Bộ Công Thương _(công văn số 11476/BCT-TMMN ngày 27/11/2012)_, Bộ Nông nghiệp và Phát triển nông thôn _(Cục Chế biến, Thương mại Nông Lâm Thủy sản và nghề muối có công văn số 1491/CB-TM ngày 02/11/2012),_ Bộ Tư lệnh Bộ đội Biên phòng _(Công văn số 2891/BTLBP-CCK ngày 21/11/2012)_ và ý kiến của Bộ Tài chính tại công văn số 15645/BTC-TCHQ ngày 09/11/2012 đề nghị Cục Hải quan tỉnh Cao Bằng triển khai lực lượng giám sát phương tiện vận chuyển hàng hóa xuất nhập khẩu và hàng hóa xuất nhập khẩu qua các lối mở thuộc Khu kinh tế cửa khẩu của tỉnh Cao Bằng, gồm các lối mở được UBND tỉnh Cao Bằng ban hành theo các Quyết định sau đây:\n\n(1) Lối mở Pò Tập: Quyết định mở số 1564/QĐ-UBND ngày 24/10/2012.\n\n(2) Lối mở Cốc Sâu: Quyết định mở số 1565/QĐ-UBND ngày 24/10/2012.\n\n(3) Lối mở Nà Đoỏng: Quyết định mở số 1566/QĐ-UBND ngày 24/10/2012.\n\n(4) Lối mở Trúc Long: Quyết định mở số 1567/QĐ-UBND ngày 24/10/2012.\n\nTrên cơ sở số lượng biên chế hiện có, giao Cục Hải quan tỉnh Cao Bằng triển khai lực lượng phù hợp với đặc điểm tình hình hoạt động tại từng lối mở nêu trên và chủ động phối hợp với các lực lượng Biên phòng, Kiểm dịch tỉnh Cao Bằng triển khai lực lượng để đảm bảo quản lý Nhà nước về Hải quan đối với hàng hóa xuất nhập khẩu, phương tiện vận tải chuyên chở hàng hóa qua các lối mở nêu trên theo đúng quy định pháp luật về thủ tục hải quan và quản lý thương mại biên giới hiện hành.\n\n2\\. Ủy ban nhân dân tỉnh Cao Bằng thực hiện việc quy hoạch và đầu tư xây dựng cơ sở hạ tầng của các lối mở đảm bảo thuận lợi cho hoạt động quản lý Nhà nước của lực lượng Hải quan và các lực lượng liên quan _(Biên phòng, Kiểm dịch)_ tại khu vực các lối mở này; chỉ đạo các lực lượng chức năng liên quan _(Biên phòng, Kiểm dịch_) thuộc tỉnh Cao Bằng phối hợp với Cục Hải quan tỉnh Cao Bằng quản lý hoạt động tại các lối mở đảm bảo quản lý Nhà nước theo quy định pháp luật hiện hành.\n\nTổng cục Hải quan trân trọng cảm ơn sự phối hợp của Quý Ủy Ban./.\n\n**_Nơi nhận:  \n_**\\- Như trên;  \n\\- Đ/c. TT-Đỗ Hoàng Anh Tuấn (để b/c);  \n\\- Các Bộ: Công Thương; Nông nghiệp và Phát triển Nông thôn, Tư lệnh Bộ đội Biên phòng (để phối hợp);  \n\\- Cục HQ tỉnh Cao Bằng (để thực hiện);  \n\\- Lưu: VT, GSQL (3b).\n\n**KT. TỔNG CỤC TRƯỞNG  \nPHÓ TỔNG CỤC TRƯỞNG  \n  \n  \n  \n  \nNguyễn Văn Cẩn**",
   "htmlContentEn": "",
   "mdContentEn": ""
 }
